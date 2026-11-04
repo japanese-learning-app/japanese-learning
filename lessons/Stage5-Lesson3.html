@@ -278,21 +278,75 @@
   .nav-tab-btn {
     background: #D9F2F5;
     border: 1.5px solid #6BD4DE;
-    padding: 7px 16px;
+    padding: 8px 16px 6px;
     border-radius: 999px;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.82rem;
     font-weight: 700;
     color: #005864;
     cursor: pointer;
     white-space: nowrap;
+    line-height: 1.35;
     transition: all 0.2s;
+  }
+  .nav-tab-btn ruby rt {
+    color: #006897;
+    font-size: 0.58em;
+    font-weight: 700;
   }
   .nav-tab-btn:hover, .nav-tab-btn.active {
     background: #008698;
     color: white;
     border-color: #005864;
     box-shadow: 0 2px 8px rgba(0, 134, 152, 0.22);
+  }
+  .nav-tab-btn:hover ruby rt,
+  .nav-tab-btn.active ruby rt {
+    color: #FFFFFF;
+  }
+  .content-card, .grammar-block {
+    scroll-margin-top: 20px;
+  }
+  .dialogue-with-illust {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 22px;
+    align-items: start;
+  }
+  @media (max-width: 920px) {
+    .dialogue-with-illust {
+      grid-template-columns: 1fr;
+    }
+  }
+  .dialogue-illust-col {
+    background: #FAFEFD;
+    border: 2px solid #A8DCE4;
+    border-radius: 16px;
+    padding: 12px;
+    text-align: center;
+    box-shadow: 0 4px 14px rgba(0, 88, 100, 0.05);
+    position: sticky;
+    top: 20px;
+  }
+  .dialogue-illust-img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    border: 1.5px solid #D9F2F5;
+  }
+  .dialogue-illust-caption {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #005864;
+    background: #E6F7F5;
+    padding: 5px 10px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  .dialogue-lines-col {
+    min-width: 0;
   }
   .slide-pager {
     display: none;
@@ -1325,7 +1379,7 @@
       <h1>明日はいい天気だと思います（普通形体系・〜と思います・〜と言いました・〜でしょう）</h1>
     </div>
     <div class="header-controls">
-      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
+      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">ふりがな: ON</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1343,12 +1397,15 @@
 </header>
 
 <div class="nav-bar">
-  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 普通形（タメ口）完全体系表</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-dialogue', this)">2. メイン会話</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar', this)">3. 文法解説＆即応ドリル (A〜E)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice', this)">4. 4択チェック・ロールプレイ・総合演習</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)">5. 漢字 (10字)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)">6. 語彙プール (40語)</button>
+  <button class="nav-tab-btn active" onclick="scrollToSection('sec-dialogue', this)"><ruby>会話例<rt>かいわれい</rt></ruby></button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-plain', this)"><ruby>普通形変換<rt>ふつうけいへんかん</rt></ruby></button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-omoimasu', this)">〜と<ruby>思<rt>おも</rt></ruby>います</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-iimashita', this)">〜と<ruby>言<rt>い</rt></ruby>いました</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-deshou', this)">〜でしょう</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-system', this)"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice', this)"><ruby>理解度<rt>りかいど</rt></ruby>チェック</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)"><ruby>漢字一覧<rt>かんじいちらん</rt></ruby></button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)"><ruby>単語一覧<rt>たんごいちらん</rt></ruby></button>
 </div>
 
 <div class="slide-pager">
@@ -1359,11 +1416,391 @@
 
 <div class="container">
 
-  <!-- ==================== STEP 1: SYSTEM ==================== -->
-  <section class="content-card active-slide" id="sec-system">
+  <!-- ==================== MAIN DIALOGUE (TOP) ==================== -->
+  <section class="content-card active-slide" id="sec-dialogue">
     <div class="card-header-row">
-      <div class="step-label">Step 1</div>
-      <div class="card-main-title">普通形（Plain Form）の完全体系表 — 丁寧体（です・ます）から普通体へ</div>
+      <div class="step-label">Main Dialogue</div>
+      <div class="card-main-title"><ruby>会話例<rt>かいわれい</rt></ruby>：<ruby>週末<rt>しゅうまつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>と<ruby>天気予報<rt>てんきよほう</rt></ruby> — Weekend Cherry Blossom Picnic &amp; Weather Forecast</div>
+      <div class="card-subtitle-en">Ms. Suzuki and Mr. Tanaka talk about tomorrow's weather forecast for cherry-blossom viewing in the park, sharing their opinions (〜と思います), relaying what Mr. Sato said (〜と言っていました), and confirming plans (〜でしょう).</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="스즈키 씨와 다나카 씨가 주말 벚꽃놀이와 내일 일기예보에 대해 자신의 생각(〜と思います)과 사토 씨의 전언(〜と言っていました), 추측·확인(〜でしょう)을 사용하여 이야기합니다."
+        data-zhcn="铃木女士与田中先生聊周末赏樱与明天的天气预报，使用个人看法（〜と思います）、转述佐藤先生的话（〜と言っていました）以及推测确认（〜でしょう）。"
+        data-zhtw="鈴木女士與田中先生聊週末賞櫻與明天的天氣預報，使用個人看法（〜と思います）、轉述佐藤先生的話（〜と言っていました）以及推測確認（〜でしょう）。"
+        data-cant="鈴木小姐同田中先生傾緊週末賞櫻同聽日嘅天氣預報，用咗個人睇法（〜と思います）、轉述佐藤先生講嘅嘢（〜と言っていました）同埋推測確認（〜でしょう）。"
+        data-fr="Mme Suzuki et M. Tanaka discutent de la météo de demain pour aller voir les cerisiers en fleurs, en utilisant 〜と思います, 〜と言っていました et 〜でしょう."></div>
+    </div>
+
+    <div class="dialogue-with-illust">
+      <div class="dialogue-illust-col">
+        <img src="../images/stage5_lesson3_dialogue.jpg" alt="週末のお花見と天気予報の会話イラスト" class="dialogue-illust-img">
+        <div class="dialogue-illust-caption">🌸 <ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>田中<rt>たなか</rt></ruby>さんのお<ruby>花見<rt>はなみ</rt></ruby>トーク</div>
+      </div>
+      <div class="dialogue-lines-col">
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
+        <button class="tts-btn" onclick="speakText('田中さん、あしたはみんなで公園へお花見に行きますね。あしたは天気がいいでしょうか。')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line">田中さん、あしたはみんなで<ruby>公園<rt>こうえん</rt></ruby>へお<ruby>花見<rt>はなみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますね。あしたは<ruby>天気<rt>てんき</rt></ruby>がいいでしょうか。</div>
+      <div class="dialogue-en-line">Mr. Tanaka, tomorrow we're all going to the park for cherry-blossom viewing, right? I wonder if the weather will be nice tomorrow.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="다나카 씨, 내일은 다 같이 공원에 꽃구경하러 가죠. 내일은 날씨가 좋을까요?" data-zhcn="田中先生，明天大家要一起去公园赏樱对吧。明天天气会好吗？" data-zhtw="田中先生，明天大家要一起去公園賞櫻對吧。明天天氣會好嗎？" data-cant="田中先生，聽日大家一齊去公園賞櫻喎。聽日天氣會唔會好呢？" data-fr="M. Tanaka, demain nous allons tous au parc voir les cerisiers en fleurs. Je me demande s'il fera beau demain."></div>
+    </div>
+
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
+        <button class="tts-btn" onclick="speakText('今朝の天気のニュースで、あしたは一日中晴れだと言っていましたよ。きっと暖かいと思います。')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line"><ruby>今朝<rt>けさ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>のニュースで、あしたは<ruby>一日中<rt>いちにちじゅう</rt></ruby><strong><ruby>晴<rt>は</rt></ruby>れだと<ruby>言<rt>い</rt></ruby>っていました</strong>よ。きっと<strong><ruby>暖<rt>あたた</rt></ruby>かいと<ruby>思<rt>おも</rt></ruby>います</strong>。</div>
+      <div class="dialogue-en-line">On this morning's weather news, they said it will be sunny all day tomorrow! I think it will surely be warm.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="오늘 아침 날씨 뉴스에서 내일은 하루 종일 맑을 거라고 했어요! 분명히 따뜻할 거라고 생각해요." data-zhcn="今天早上的天气新闻说，明天一整天都是晴天哦！我想一定会很暖和。" data-zhtw="今天早上的天氣新聞說，明天一整天都是晴天喔！我想一定會很暖和。" data-cant="今朝早嘅天氣新聞話，聽日成日都係晴天呀！我諗一定會好暖。" data-fr="Aux infos météo de ce matin, ils ont dit qu'il ferait beau toute la journée demain ! Je pense qu'il fera sûrement doux."></div>
+    </div>
+
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
+        <button class="tts-btn" onclick="speakText('よかったです！土曜日ですから、公園は人が多くて賑やかでしょうね。')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line">よかったです！<ruby>土曜日<rt>どようび</rt></ruby>ですから、<ruby>公園<rt>こうえん</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<strong><ruby>賑<rt>にぎ</rt></ruby>やかでしょうね</strong>。</div>
+      <div class="dialogue-en-line">That's great! Since it's Saturday, the park will probably be crowded and lively, won't it?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="다행이네요! 토요일이니까 공원은 사람이 많고 북적거리겠죠." data-zhcn="太好了！因为是周六，公园里人很多，应该会很热闹吧。" data-zhtw="太好了！因為是週六，公園裡人很多，應該會很熱鬧吧。" data-cant="太好喇！因為係星期六，公園好多人，應該會好熱鬧啩。" data-fr="Tant mieux ! Comme c'est samedi, le parc sera probablement plein de monde et animé."></div>
+    </div>
+
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
+        <button class="tts-btn" onclick="speakText('そうですね。ところで、佐藤さんも朝から来られますか。')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line">そうですね。ところで、佐藤さんも<ruby>朝<rt>あさ</rt></ruby>から<ruby>来<rt>こ</rt></ruby>られますか。</div>
+      <div class="dialogue-en-line">Indeed. By the way, can Mr. Sato also come from the morning?</div>
+      <div class="dialogue-native-line i18n-native" data-ko="그렇네요. 그런데 사토 씨도 아침부터 올 수 있나요?" data-zhcn="是啊。对了，佐藤先生也能从早上就来吗？" data-zhtw="是啊。對了，佐藤先生也能從早上就來嗎？" data-cant="係喎。講開又講，佐藤先生朝早嚟唔嚟到呀？" data-fr="C'est vrai. Au fait, M. Sato peut-il aussi venir dès le matin ?"></div>
+    </div>
+
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
+        <button class="tts-btn" onclick="speakText('佐藤さんは、午前中は用事があるから、午後から行くと言っていましたよ。')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line">佐藤さんは、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>は<ruby>用事<rt>ようじ</rt></ruby>があるから、<ruby>午後<rt>ごご</rt></ruby>から<strong><ruby>行<rt>い</rt></ruby>くと<ruby>言<rt>い</rt></ruby>っていました</strong>よ。</div>
+      <div class="dialogue-en-line">Mr. Sato was saying that because he has errands in the morning, he will come in the afternoon.</div>
+      <div class="dialogue-native-line i18n-native" data-ko="사토 씨는 오전에 볼일이 있어서 오후부터 간다고 했어요." data-zhcn="佐藤先生说他上午有事，下午过去。" data-zhtw="佐藤先生說他上午有事，下午過去。" data-cant="佐藤先生話佢朝早有事做，下晝先過嚟。" data-fr="M. Sato disait qu'il avait quelque chose à faire le matin et qu'il viendrait l'après-midi."></div>
+    </div>
+
+    <div class="dialogue-card-item">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
+        <button class="tts-btn" onclick="speakText('分かりました。じゃあ、私たちは先に集まって、公園へ入るまえに駅前の店で団子とお茶を買いましょう！')" title="Listen">🔊</button>
+      </div>
+      <div class="dialogue-jp-line"><ruby>分<rt>わ</rt></ruby>かりました。じゃあ、<ruby>私<rt>わたし</rt></ruby>たちは<ruby>先<rt>さき</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まって、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>入<rt>はい</rt></ruby>るまえに<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>団子<rt>だんご</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましょう！</div>
+      <div class="dialogue-en-line">Got it. Then let's gather first and buy dango and tea at the shop in front of the station before entering the park!</div>
+      <div class="dialogue-native-line i18n-native" data-ko="알겠습니다. 그럼 우리 먼저 모여서 공원에 들어가기 전에 역 앞 가게에서 당고와 차를 삽시다!" data-zhcn="明白了。那我们先集合，进公园之前先在车站前的店里买团子和茶吧！" data-zhtw="明白了。那我們先集合，進公園之前先在車站前的店裡買糰子和茶吧！" data-cant="明白。咁我哋集合先，入公園之前喺車站前面間舖頭買丸子同茶啦！" data-fr="Entendu. Alors retrouvons-nous d'abord et achetons des dango et du thé devant la gare avant d'entrer dans le parc !"></div>
+    </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== STEP 3: 文法解説 ＆ 各文法即応ドリル ==================== -->
+  <section class="content-card" id="sec-grammar">
+    <div class="card-header-row">
+      <div class="step-label">Step 3</div>
+      <div class="card-main-title">重要文型解説 ＆ 各文法直下の即応ドリル（Grammar A〜D ＋ Deep Dive）</div>
+      <div class="card-subtitle-en">Master Plain Form conversion, expressing opinions (〜と思います), quoting speech (〜と言いました), making polite guesses (〜でしょう), and casual speech!</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="보통형 변환, 의견 표현(〜と思います), 인용·전언(〜と言いました), 추측·확인(〜でしょう), 그리고 반말 회화까지 각 문법 아래의 즉응 드릴로 마스터하세요!"
+        data-zhcn="通过各语法正下方的即时练习，彻底掌握普通形转换、发表观点（〜と思います）、引述转告（〜と言いました）、推测确认（〜でしょう）以及朋友简体会话！"
+        data-zhtw="透過各語法正下方的即時練習，徹底掌握普通形轉換、發表觀點（〜と思います）、引述轉告（〜と言いました）、推測確認（〜でしょう）以及朋友簡體會話！"
+        data-cant="透過各語法正下面嘅即時練習，徹底掌握普通形轉換、發表睇法（〜と思います）、引述轉告（〜と言いました）、推測確認（〜でしょう）同埋朋友傾偈！"
+        data-fr="Maîtrisez la forme neutre, 〜と思います, 〜と言いました, 〜でしょう et la conversation familière grâce aux exercices immédiats !"></div>
+    </div>
+
+    <!-- Grammar A: 普通形への変換 -->
+    <div class="grammar-block" id="gram-plain">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head">
+          <span class="grammar-tag">Grammar A</span>
+          <strong>丁寧体（です・ます） ➔ 普通形（Plain Form）への変換ルール</strong>
+        </div>
+        <div class="grammar-desc-en">Convert polite forms into plain forms across all 4 tenses. Remember: <strong>い-adjectives NEVER take だ</strong>, while <strong>な-adjectives and nouns MUST take だ</strong> in the present affirmative!</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="4가지 시제의 정중체를 보통형으로 바꿉니다. 핵심 주의점: い형용사 뒤에는 절대 'だ'를 붙이지 않고, な형용사와 명사의 현재 긍정형에는 반드시 'だ'를 붙입니다!"
+          data-zhcn="将4种时态的礼貌体转换为普通形。核心要点：い形容词后绝对不能加「だ」，而な形容词与名词的现在肯定形必须加「だ」！"
+          data-zhtw="將4種時態的禮貌體轉換為普通形。核心要點：い形容詞後絕對不能加「だ」，而な形容詞與名詞的現在肯定形必須加「だ」！"
+          data-cant="將4種時態嘅禮貌體轉做普通形。核心重點：い形容詞後面絕對唔可以加「だ」，而な形容詞同名詞嘅現在肯定形就必須加「だ」！"
+          data-fr="Convertissez le style poli en forme neutre. Attention : jamais de だ après un adjectif en -い, mais だ est obligatoire après un adjectif en -な ou un nom au présent affirmatif !"></div>
+
+        <div class="pitfall-grid">
+          <div class="pitfall-card pitfall-wrong">
+            <span class="badge-wrong">誤用 (Incorrect)</span>
+            ・このラーメンは<strong>おいしいだ</strong>。<br>
+            ・<ruby>昨日<rt>きのう</rt></ruby>は<strong>いいだった</strong>。
+          </div>
+          <div class="pitfall-card pitfall-right">
+            <span class="badge-right">正解 (Correct)</span>
+            ・このラーメンは<strong>おいしい</strong>。（い形容詞に「だ」は不要）<br>
+            ・<ruby>昨日<rt>きのう</rt></ruby>は<strong>よかった</strong>。（「いい」の過去は「よかった」）
+          </div>
+        </div>
+
+        <div class="practice-part-header">
+          <span class="practice-part-badge">Drill A</span>
+          <div class="practice-part-title">即応ドリル A：丁寧体 ➔ 普通形 変換トレーニング（全8問・宿題 #47 &amp; #22・#23 連動）</div>
+        </div>
+        <div class="drill-grid">
+          <div class="toggle-item" onclick="toggleAnswer('l3-a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. 読みました（過去肯定）</div><button class="btn-check-reveal" id="btn-l3-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a1"><span><ruby>読<rt>よ</rt></ruby>んだ</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('読んだ')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. 行きませんでした（過去否定）</div><button class="btn-check-reveal" id="btn-l3-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a2"><span><ruby>行<rt>い</rt></ruby>かなかった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('行かなかった')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. 来ません（現在否定）</div><button class="btn-check-reveal" id="btn-l3-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a3"><span><ruby>来<rt>こ</rt></ruby>ない</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('こない')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. 忙しいです（い形容詞・現在）</div><button class="btn-check-reveal" id="btn-l3-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a4"><span><ruby>忙<rt>いそが</rt></ruby>しい</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('忙しい')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. 暑くなかったです（い形容詞・過去否定）</div><button class="btn-check-reveal" id="btn-l3-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a5"><span><ruby>暑<rt>あつ</rt></ruby>くなかった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('暑くなかった')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. いいです ➔ 過去肯定 ＆ 現在否定</div><button class="btn-check-reveal" id="btn-l3-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a6"><span>よかった ／ よくない</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('よかった、よくない')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-7. 便利です（な形容詞・現在肯定）</div><button class="btn-check-reveal" id="btn-l3-a7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a7"><span><ruby>便利<rt>べんり</rt></ruby>だ</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('便利だ')" title="Listen">🔊</button></div></div>
+          <div class="toggle-item" onclick="toggleAnswer('l3-a8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-8. 雨でした（名詞・過去肯定）</div><button class="btn-check-reveal" id="btn-l3-a8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a8"><span><ruby>雨<rt>あめ</rt></ruby>だった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('雨だった')" title="Listen">🔊</button></div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grammar B: 〜と思います -->
+    <div class="grammar-block" id="gram-omoimasu">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head">
+          <span class="grammar-tag">Grammar B</span>
+          <strong>［普通形］ ＋ と<ruby>思<rt>おも</rt></ruby>います（自分の意見・推測を表す）</strong>
+        </div>
+        <div class="grammar-desc-en">Used to express your opinion ("I think that ~") or prediction ("I guess that ~").<br>
+        <strong>3 Crucial Points:</strong><br>
+        ① На-adjectives and Nouns <strong>MUST keep だ</strong> before と思います (e.g., 便利<strong>だ</strong>と思います, 雨<strong>だ</strong>と思います).<br>
+        ② For negative thoughts ("I don't think ~"), make the inside verb/adjective negative: <strong>〜ないと思います</strong> (rather than 〜と思いません).<br>
+        ③ When asking someone's opinion about a topic, say <strong>「〜について、どう思いますか」</strong> (NOT 何を思いますか).</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="자신의 의견이나 추측('~라고 생각합니다')을 나타냅니다. ★핵심 3가지: ① な형용사와 명사는 'と思います' 앞에서 반드시 'だ'를 유지합니다(便利だと思います). ② '~라고 생각하지 않는다'는 안쪽을 부정형으로 만들어 '〜ないと思います'라고 합니다. ③ 의견을 물을 때는 '何を思いますか(×)'가 아니라 'どう思いますか(어떻게 생각합니까?)'를 씁니다!"
+          data-zhcn="表示个人的意见或推测（“我觉得~/我认为~”）。★三大要点：① な形容词和名词在「と思います」前必须保留「だ」（便利だと思います）。② 表示“我觉得不会~”时，通常将前面的内容变成否定形「〜ないと思います」。③ 询问对方意见时说「〜について、どう思いますか」（不能说何を思いますか）。"
+          data-zhtw="表示個人的意見或推測（“我覺得~/我認為~”）。★三大要點：① な形容詞和名詞在「と思います」前必須保留「だ」（便利だと思います）。② 表示“我覺得不會~”時，通常將前面的內容變成否定形「〜ないと思います」。③ 詢問對方意見時說「〜について、どう思いますか」（不能說何を思いますか）。"
+          data-cant="表示個人嘅睇法或推測（「我覺得~/我認為~」）。★三大重點：① な形容詞同名詞喺「と思います」之前必須保留「だ」（便利だと思います）。② 表示「我覺得唔會~」嗰陣，通常將前面變做否定形「〜ないと思います」。③ 問人意見嗰陣講「〜について、どう思いますか」（唔好講何を思いますか）。"
+          data-fr="Exprime une opinion ou une prédiction (« je pense que ~ »). ① Gardez だ après un adjectif en -な ou un nom. ② Mettez la négation à l'intérieur (〜ないと思います). ③ Demandez どう思いますか (et non 何を思いますか)."></div>
+
+        <div class="grammar-diagram">
+          <div class="diagram-step">
+            <div class="diagram-chip">あしたは<ruby>雨<rt>あめ</rt></ruby><strong>だ</strong> ／ <ruby>忙<rt>いそが</rt></ruby>しい</div>
+            <div class="diagram-caption">普通形（な形・名詞は「だ」を残す！）</div>
+          </div>
+          <div class="diagram-arrow">+</div>
+          <div class="diagram-step">
+            <div class="diagram-chip highlight">と <ruby>思<rt>おも</rt></ruby>います</div>
+            <div class="diagram-caption">自分の意見・推測</div>
+          </div>
+        </div>
+
+        <div class="pitfall-grid">
+          <div class="pitfall-card pitfall-wrong">
+            <span class="badge-wrong">誤用 (Incorrect)</span>
+            ・このアプリは<strong><ruby>便利<rt>べんり</rt></ruby>と<ruby>思<rt>おも</rt></ruby>います</strong>。（「だ」抜け）<br>
+            ・あしたは<strong><ruby>寒<rt>さむ</rt></ruby>いだと<ruby>思<rt>おも</rt></ruby>います</strong>。（い形容詞に「だ」）
+          </div>
+          <div class="pitfall-card pitfall-right">
+            <span class="badge-right">正解 (Correct)</span>
+            ・このアプリは<strong><ruby>便利<rt>べんり</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います</strong>。<br>
+            ・あしたは<strong><ruby>寒<rt>さむ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います</strong>。
+          </div>
+        </div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content">
+            <div class="example-jp">この<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>にとても<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('この辞書は日本語の勉強にとても役に立つと思います。')" title="Listen">🔊</button></div>
+            <div class="example-en">I think this dictionary is very useful for studying Japanese.</div>
+            <div class="example-native i18n-native" data-ko="이 사전은 일본어 공부에 매우 도움이 된다고 생각합니다." data-zhcn="我觉得这本词典对学日语非常有帮助。" data-zhtw="我覺得這本詞典對學日語非常有幫助。" data-cant="我覺得呢本字典對學日文好有用。" data-fr="Je pense que ce dictionnaire est très utile pour étudier le japonais."></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content">
+            <div class="example-jp">11<ruby>月<rt>がつ</rt></ruby>は<ruby>京都<rt>きょうと</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('11月は京都の紅葉が綺麗だと思います。')" title="Listen">🔊</button></div>
+            <div class="example-en">I think the autumn leaves in Kyoto are beautiful in November.</div>
+            <div class="example-native i18n-native" data-ko="11월에는 교토의 단풍이 예쁠 거라고 생각합니다." data-zhcn="我觉得11月京都的红叶会很美。" data-zhtw="我覺得11月京都的紅葉會很美。" data-cant="我覺得11月京都嘅紅葉會好靚。" data-fr="Je pense que les feuilles d'automne à Kyoto sont belles en novembre."></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content">
+            <div class="example-jp">田中さんは<ruby>今日<rt>きょう</rt></ruby>も<ruby>忙<rt>いそが</rt></ruby>しいですから、パーティーに<ruby>来<rt>こ</rt></ruby>ないと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('田中さんは今日も忙しいですから、パーティーに来ないと思います。')" title="Listen">🔊</button></div>
+            <div class="example-en">Since Mr. Tanaka is busy today too, I don't think he will come to the party.</div>
+            <div class="example-native i18n-native" data-ko="다나카 씨는 오늘도 바쁘니까 파티에 오지 않을 거라고 생각합니다." data-zhcn="因为田中先生今天也很忙，我想他不会来参加聚会。" data-zhtw="因為田中先生今天也很忙，我想他不會來參加聚會。" data-cant="因為田中先生今日都好忙，我諗佢唔會嚟派對。" data-fr="Comme M. Tanaka est occupé aujourd'hui aussi, je pense qu'il ne viendra pas à la fête."></div>
+          </div></div>
+        </div>
+
+        <div class="practice-part-header">
+          <span class="practice-part-badge">Drill B</span>
+          <div class="practice-part-title">即応ドリル B：［普通形］＋ と思います（全6問）</div>
+        </div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. I think this summer will be very hot.</div><button class="btn-check-reveal" id="btn-l3-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b1"><span><ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今年の夏はとても暑いと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. I think the sea in Okinawa is very beautiful.</div><button class="btn-check-reveal" id="btn-l3-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b2"><span><ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>はとても<ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('沖縄の海はとても綺麗だと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. I think it will probably rain this afternoon.</div><button class="btn-check-reveal" id="btn-l3-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b3"><span>たぶん、<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たぶん、午後は雨が降ると思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Because it is far from the station, I think it is a little inconvenient.</div><button class="btn-check-reveal" id="btn-l3-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b4"><span><ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>いですから、<ruby>少<rt>すこ</rt></ruby>し<ruby>不便<rt>ふべん</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅から遠いですから、少し不便だと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. I don't think that news is a lie.</div><button class="btn-check-reveal" id="btn-l3-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b5"><span>あのニュースはうそ<strong>じゃない</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あのニュースはうそじゃないと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. What do you think about the new plan? (新しい計画)</div><button class="btn-check-reveal" id="btn-l3-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b6"><span><ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>について、<strong>どう<ruby>思<rt>おも</rt></ruby>いますか</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('新しい計画について、どう思いますか。')" title="Listen">🔊</button></div></div>
+      </div>
+    </div>
+
+    <!-- Grammar C: 〜と言いました -->
+    <div class="grammar-block" id="gram-iimashita">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:var(--teal-text);">Grammar C</span>
+          <strong>「〜」と<ruby>言<rt>い</rt></ruby>いました ／ ［普通形］と<ruby>言<rt>い</rt></ruby>いました（引用・伝聞）</strong>
+        </div>
+        <div class="grammar-desc-en">Used to quote or relay what someone said.<br>
+        ・<strong>Direct Quote:</strong> Put the exact words inside brackets <strong>「〜」と言いました</strong> (e.g., 食卓で「いただきます」と言います).<br>
+        ・<strong>Indirect Quote:</strong> Convert the quoted sentence into <strong>Plain Form + と言いました</strong> (or <strong>と言っていました</strong> when relaying a message from a third person or the news!).</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="다른 사람이 한 말을 인용하거나 전달할 때 씁니다. ① 직접 인용: 한 말을 그대로 「〜」 안에 넣어 '「〜」と言いました'. ② 간접 인용: 문장을 보통형으로 바꾸어 '[보통형] + と言いました'(또는 뉴스나 제3자의 전언을 전할 때는 '〜と言っていました')를 씁니다!"
+          data-zhcn="用于引用或转述别人说的话。① 直接引用：原话放进引号「〜」と言いました。② 间接引用：将内容变为普通形，接「［普通形］＋と言いました」（日常会话中转述第三者或新闻的话时，常说「〜と言っていました」）。"
+          data-zhtw="用於引用或轉述別人說的話。① 直接引用：原話放進引號「〜」と言いました。② 間接引用：將內容變為普通形，接「［普通形］＋と言いました」（日常會話中轉述第三者或新聞的話時，常說「〜と言っていました」）。"
+          data-cant="用嚟引用或者轉述人哋講過嘅嘢。① 直接引用：原話放落引號「〜」と言いました。② 間接引用：將內容變做普通形，加「［普通形］＋と言いました」（日常傾偈轉述第三者或新聞嗰陣，經常講「〜と言っていました」）。"
+          data-fr="Sert à rapporter les paroles de quelqu'un. ① Citation directe : 「〜」と言いました. ② Citation indirecte : [Forme neutre] + と言いました (ou と言っていました)."></div>
+
+        <div class="grammar-diagram">
+          <div class="diagram-step">
+            <div class="diagram-chip">直接引用：「あした<ruby>休<rt>やす</rt></ruby>みます」</div>
+            <div class="diagram-caption">カギカッコ「 」の中は丁寧体でもそのまま</div>
+          </div>
+          <div class="diagram-arrow">⇄</div>
+          <div class="diagram-step">
+            <div class="diagram-chip teal">間接引用：あした<strong><ruby>休<rt>やす</rt></ruby>む</strong>と<ruby>言<rt>い</rt></ruby>いました</div>
+            <div class="diagram-caption">カギカッコを外す時は<strong>普通形</strong>に変換！</div>
+          </div>
+        </div>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content">
+            <div class="example-jp"><ruby>寝<rt>ね</rt></ruby>るまえに、<ruby>家族<rt>かぞく</rt></ruby>に「おやすみなさい」と<ruby>言<rt>い</rt></ruby>います。<button class="tts-btn" onclick="speakText('寝るまえに、家族におやすみなさいと言います。')" title="Listen">🔊</button></div>
+            <div class="example-en">Before going to bed, I say "Good night" to my family. (Direct quote)</div>
+            <div class="example-native i18n-native" data-ko="자기 전에 가족에게 '안녕히 주무세요'라고 말합니다." data-zhcn="睡觉前对家人说“晚安”。" data-zhtw="睡覺前對家人說“晚安”。" data-cant="瞓覺之前同屋企人講「早唞」。" data-fr="Avant de dormir, je dis « Bonne nuit » à ma famille."></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content">
+            <div class="example-jp">中村さんは、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>花火大会<rt>はなびたいかい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと<ruby>言<rt>い</rt></ruby>いました。<button class="tts-btn" onclick="speakText('中村さんは、来週の土曜日に花火大会へ行くと言いました。')" title="Listen">🔊</button></div>
+            <div class="example-en">Mr. Nakamura said that he would go to the fireworks festival next Saturday. (Indirect quote)</div>
+            <div class="example-native i18n-native" data-ko="나카무라 씨는 다음 주 토요일에 불꽃놀이 대회에 간다고 말했습니다." data-zhcn="中村先生说他下周六要去烟花大会。" data-zhtw="中村先生說他下週六要去煙火大會。" data-cant="中村先生話佢下個禮拜六會去煙花大會。" data-fr="M. Nakamura a dit qu'il irait au festival de feux d'artifice samedi prochain."></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content">
+            <div class="example-jp">高橋さんは、あの<ruby>店<rt>みせ</rt></ruby>の<ruby>鍋<rt>なべ</rt></ruby>がとてもおいしかったと<ruby>言<rt>い</rt></ruby>っていました。<button class="tts-btn" onclick="speakText('高橋さんは、あの店の鍋がとてもおいしかったと言っていました。')" title="Listen">🔊</button></div>
+            <div class="example-en">Ms. Takahashi was saying that the hot pot at that restaurant was very delicious.</div>
+            <div class="example-native i18n-native" data-ko="다카하시 씨는 저 가게의 전골 요리가 아주 맛있었다고 말했어요." data-zhcn="高桥女士说那家店的火锅非常好吃。" data-zhtw="高橋女士說那家店的火鍋非常好吃。" data-cant="高橋小姐話嗰間舖頭嘅火鍋好好食。" data-fr="Mme Takahashi disait que la fondue de ce restaurant était délicieuse."></div>
+          </div></div>
+        </div>
+
+        <div class="practice-part-header">
+          <span class="practice-part-badge" style="background:var(--teal-text);">Drill C</span>
+          <div class="practice-part-title">即応ドリル C：［普通形］＋ と言いました ／ と言っていました（全6問）</div>
+        </div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. Ms. Suzuki said, "I will take a day off tomorrow." ➔ 間接引用に変えると？</div><button class="btn-check-reveal" id="btn-l3-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c1"><span>鈴木さんは、あした<ruby>休<rt>やす</rt></ruby>むと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんは、あした休むと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. Mr. Tanaka said that he couldn't come to the meeting because he was busy.</div><button class="btn-check-reveal" id="btn-l3-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c2"><span>田中さんは、<ruby>忙<rt>いそが</rt></ruby>しいから<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られないと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんは、忙しいから会議に来られないと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. On the weather news, they said it would be cloudy (曇り) tomorrow.</div><button class="btn-check-reveal" id="btn-l3-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c3"><span><ruby>天気<rt>てんき</rt></ruby>のニュースで、あしたは<ruby>曇<rt>くも</rt></ruby>り<strong>だ</strong>と<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('天気のニュースで、あしたは曇りだと言っていました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. Mr. Sato said that last week's festival (祭り) was very lively.</div><button class="btn-check-reveal" id="btn-l3-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c4"><span>佐藤さんは、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りはとても<ruby>賑<rt>にぎ</rt></ruby>やか<strong>だった</strong>と<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんは、先週の祭りはとても賑やかだったと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After finishes eating a meal, we say "Gochisousama deshita".</div><button class="btn-check-reveal" id="btn-l3-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c5"><span>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、「ごちそうさまでした」と<ruby>言<rt>い</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べたあとで、ごちそうさまでしたと言います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. Mr. Ito said that he would return to his hometown on New Year's (お正月).</div><button class="btn-check-reveal" id="btn-l3-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c6"><span>伊藤さんは、お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>国<rt>くに</rt></ruby>（実家）へ<ruby>帰<rt>かえ</rt></ruby>ると<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('伊藤さんは、お正月に国へ帰ると言っていました。')" title="Listen">🔊</button></div></div>
+      </div>
+    </div>
+
+    <!-- Grammar D: 〜でしょう -->
+    <div class="grammar-block" id="gram-deshou">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:var(--pink-text);">Grammar D</span>
+          <strong>［普通形（★な形容詞・名詞は「だ」を消す！）］ ＋ でしょう ／ でしょうか</strong>
+        </div>
+        <div class="grammar-desc-en"><strong>でしょう</strong> has 3 important uses:<br>
+        ① <strong>Polite Prediction (↘ falling intonation):</strong> "Tomorrow will probably be sunny" (often used in weather forecasts).<br>
+        ② <strong>Confirmation / Seeking Agreement (⤴ rising intonation):</strong> "You're going to the party too, right?" / "This dango is delicious, isn't it?"<br>
+        ③ <strong>Polite Wondering (でしょうか):</strong> Softer and more polite than ですか ("I wonder if ~").<br>
+        <strong>★ GOLDEN CONNECTION RULE:</strong> Unlike と思います, you <strong>MUST DROP だ</strong> before でしょう! (晴れ<strong>だ</strong>と思います vs 晴れ<strong>でしょう</strong>).</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="'でしょう'에는 3가지 핵심 용법이 있습니다: ① 추측(끝을 내려 발음 ↘): '아마 ~일 것이다'(일기예보 등), ② 확인·동의 구하기(끝을 올려 발음 ⤴): '~이지요? / ~그렇죠?', ③ 정중한 의문(でしょうか): '~일까요?'. ★황금 접속 규칙: 'と思います'와 달리, 'でしょう' 앞에서는 な형용사·명사의 'だ'를 반드시 지워야 합니다! (晴れだと思います vs 晴れでしょう)"
+          data-zhcn="「でしょう」有三大核心用法：① 礼貌推测（降调↘）：“大概会~吧”；② 确认或寻求赞同（升调⤴）：“~对吧？/很棒吧？”；③ 委婉礼貌的疑问（でしょうか）：“不知道是不是~呢？”。★黄金接续法则：与「と思います」相反，な形容词和名词在「でしょう」前必须去掉「だ」！（晴れだと思います vs 晴れでしょう）。"
+          data-zhtw="「でしょう」有三大核心用法：① 禮貌推測（降調↘）：“大概會~吧”；② 確認或尋求贊同（升調⤴）：“~對吧？/很棒吧？”；③ 委婉禮貌的疑問（でしょうか）：“不知道是不是~呢？”。★黃金接續法則：與「と思います」相反，な形容詞和名詞在「でしょう」前必須去掉「だ」！（晴れだと思います vs 晴れでしょう）。"
+          data-cant="「でしょう」有三大核心用法：① 禮貌推測（降調↘）：「大概會~啩」；② 確認或尋求認同（升調⤴）：「~係咪呀？/好正呢？」；③ 委婉禮貌嘅疑問（でしょうか）：「唔知係咪~呢？」。★黃金接續法則：同「と思います」相反，な形容詞同名詞喺「でしょう」之前必須刪走個「だ」！（晴れだと思います vs 晴れでしょう）。"
+          data-fr="でしょう a 3 emplois : ① Prédiction (« probablement »), ② Confirmation ⤴ (« n'est-ce pas ? »), ③ Question polie (でしょうか). ★Règle d'or : Contrairement à と思います, il faut SUPPRIMER だ devant でしょう !"></div>
+
+        <table class="conj-table" style="margin-top:12px;">
+          <tr><th>品詞</th><th>［普通形］＋ と思います（★「だ」を残す！）</th><th>［普通形］＋ でしょう（★「だ」を消す！）</th></tr>
+          <tr>
+            <td><strong>動詞・い形容詞</strong></td>
+            <td><ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います ／ <ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います</td>
+            <td><ruby>降<rt>ふ</rt></ruby>るでしょう ／ <ruby>暑<rt>あつ</rt></ruby>いでしょう</td>
+          </tr>
+          <tr>
+            <td><strong>な形容詞（綺麗だ）</strong></td>
+            <td><ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います</td>
+            <td><ruby>綺麗<rt>きれい</rt></ruby><strong>でしょう</strong>（×綺麗だでしょう は絶対NG！）</td>
+          </tr>
+          <tr>
+            <td><strong>名詞（晴れだ）</strong></td>
+            <td><ruby>晴<rt>は</rt></ruby>れ<strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います</td>
+            <td><ruby>晴<rt>は</rt></ruby>れ<strong>でしょう</strong>（×晴れだでしょう は絶対NG！）</td>
+          </tr>
+        </table>
+
+        <div class="examples-block">
+          <div class="examples-label">Examples</div>
+          <div class="example-row"><div class="example-num">1</div><div class="example-content">
+            <div class="example-jp">あしたの<ruby>午後<rt>ごご</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るでしょう。<button class="tts-btn" onclick="speakText('あしたの午後は風が強くて、雨が降るでしょう。')" title="Listen">🔊</button></div>
+            <div class="example-en">Tomorrow afternoon the wind will be strong, and it will probably rain. (Prediction)</div>
+            <div class="example-native i18n-native" data-ko="내일 오후에는 바람이 강하고 비가 내릴 것입니다." data-zhcn="明天下午风很大，大概会下雨吧。" data-zhtw="明天下午風很大，大概會下雨吧。" data-cant="聽日下晝會好大風，大概會落雨啩。" data-fr="Demain après-midi le vent sera fort et il pleuvra probablement."></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">2</div><div class="example-content">
+            <div class="example-jp">鈴木さん、クリスマスのパーティーに<ruby>行<rt>い</rt></ruby>くでしょう？（⤴ 確認）<button class="tts-btn" onclick="speakText('鈴木さん、クリスマスのパーティーに行くでしょう？')" title="Listen">🔊</button></div>
+            <div class="example-en">Ms. Suzuki, you're going to the Christmas party, right? (Confirmation)</div>
+            <div class="example-native i18n-native" data-ko="스즈키 씨, 크리스마스 파티에 가시죠? (확인)" data-zhcn="铃木女士，你会去圣诞派对的吧？（确认）" data-zhtw="鈴木女士，你會去聖誕派對的吧？（確認）" data-cant="鈴木小姐，你會去聖誕派對㗎可？（確認）" data-fr="Mme Suzuki, vous allez à la fête de Noël, n'est-ce pas ?"></div>
+          </div></div>
+          <div class="example-row"><div class="example-num">3</div><div class="example-content">
+            <div class="example-jp">この<ruby>辺<rt>へん</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>も<ruby>静<rt>しず</rt></ruby>かでしょうか。<button class="tts-btn" onclick="speakText('この辺は夜も静かでしょうか。')" title="Listen">🔊</button></div>
+            <div class="example-en">I wonder if this area is quiet at night too. (Polite wondering)</div>
+            <div class="example-native i18n-native" data-ko="이 근처는 밤에도 조용할까요?" data-zhcn="这一带晚上也会很安静吗？" data-zhtw="這一帶晚上也會很安靜嗎？" data-cant="呢頭夜晚會唔會都好靜呢？" data-fr="Je me demande si ce quartier est calme la nuit aussi."></div>
+          </div></div>
+        </div>
+
+        <div class="practice-part-header">
+          <span class="practice-part-badge" style="background:var(--pink-text);">Drill D</span>
+          <div class="practice-part-title">即応ドリル D：「〜でしょう ／ 〜でしょうか」 ＆ 「だ」の有無チェック（全6問）</div>
+        </div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Tomorrow will probably be sunny. (晴れ)</div><button class="btn-check-reveal" id="btn-l3-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d1"><span>あしたは<ruby>晴<rt>は</rt></ruby>れでしょう。（※「晴れだでしょう」はNG！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あしたは晴れでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 명사의 &#x27;だ&#x27;를 반드시 뺍니다(晴れでしょう)!" data-zhcn="※ 在「でしょう」前必须去掉「だ」（说 晴れでしょう）！" data-zhtw="※ 在「でしょう」前必須去掉「だ」（說 晴れでしょう）！" data-cant="※ 喺「でしょう」前面必須刪走個「だ」（講 晴れでしょう）！" data-fr="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!">※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Saturday's fireworks festival (花火大会) will probably be lively.</div><button class="btn-check-reveal" id="btn-l3-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d2"><span><ruby>土曜日<rt>どようび</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかでしょう。（※「だ」を消します！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('土曜日の花火大会は賑やかでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 な형용사의 &#x27;だ&#x27;를 뺍니다(賑やかでしょう)!" data-zhcn="※ な形容词在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-zhtw="※ な形容詞在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-cant="※ な形容詞喺「でしょう」前面要刪走「だ」（賑やかでしょう）！" data-fr="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!">※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Ms. Suzuki will surely pass the exam (試験に合格する).</div><button class="btn-check-reveal" id="btn-l3-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d3"><span>鈴木さんはきっと<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するでしょう。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんはきっと試験に合格するでしょう。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. You have free time this weekend, right? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d4"><span><ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>でしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('週末は暇でしょう？')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. This sweet potato (さつまいも) is sweet and delicious, isn't it? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d5"><span>このさつまいもは<ruby>甘<rt>あま</rt></ruby>くておいしいでしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('このさつまいもは甘くておいしいでしょう？')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. I wonder if the cherry blossoms in Kyoto are already blooming (咲く).</div><button class="btn-check-reveal" id="btn-l3-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d6"><span><ruby>京都<rt>きょうと</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>はもう<ruby>咲<rt>さ</rt></ruby>いているでしょうか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都の桜はもう咲いているでしょうか。')" title="Listen">🔊</button></div></div>
+      </div>
+    </div>
+
+    <!-- Deep Dive E: カジュアル会話（普通体） -->
+    <div class="grammar-block" id="gram-casual">
+      <div class="grammar-visual-card" style="border: 2px solid #66A5AD; background: #FBFDF3;">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:var(--navy-mid);">Deep Dive</span>
+          <strong>【実践】友達・家族とのカジュアル会話（普通体・タメ口）の4大ルール！</strong>
+        </div>
+        <div class="grammar-desc-en">When talking casually with close friends in Plain Style (普通体):<br>
+        ① Drop <strong>か</strong> at the end of questions and simply raise your intonation (e.g., 明日行く？⤴).<br>
+        ② Drop <strong>だ</strong> in questions with な-adjectives/nouns (e.g., 土曜日は暇？⤴).<br>
+        ③ Change <strong>はい/ええ ➔ うん</strong> (Yeah) and <strong>いいえ ➔ ううん</strong> (Nah/No).<br>
+        ④ Particles like を, へ, は and the い in 〜ている are often omitted in casual speech (e.g., ご飯食べた？ / 今何してる？).</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="친한 친구와 반말(普通体)로 대화할 때의 4대 규칙: ① 의문문 끝에 'か'를 붙이지 않고 끝을 올립니다(明日行く？⤴). ② な형용사·명사의 의문문에서는 'だ'를 뺍니다(土曜日は暇？⤴). ③ 'はい ➔ うん(응)', 'いいえ ➔ ううん(아니)'으로 바꿉니다. ④ 회화에서는 조사(を, へ)나 '〜ている'의 'い'가 자주 생략됩니다(ご飯食べた？ / 今何してる？)."
+          data-zhcn="与朋友用普通体（简体会话）聊天时的4大法则：① 疑问句去掉句尾的「か」，直接升调（明日行く？⤴）。② な形容词和名词的疑问句去掉「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（嗯）」、「いいえ ➔ ううん（不）」。④ 口语中常省略助词（を、へ）及「〜ている」中的「い」（ご飯食べた？ / 今何してる？）。"
+          data-zhtw="與朋友用普通體（簡體會話）聊天時的4大法則：① 疑問句去掉句尾的「か」，直接升調（明日行く？⤴）。② な形容詞和名詞的疑問句去掉「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（嗯）」、「いいえ ➔ ううん（不）」。④ 口語中常省略助詞（を、へ）及「〜ている」中的「い」（ご飯食べた？ / 今何してる？）。"
+          data-cant="同好朋友用普通体傾偈嘅4大法則：① 疑問句唔使加「か」，直接升調（明日行く？⤴）。② な形容詞同名詞嘅疑問句刪走「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（係呀）」、「いいえ ➔ ううん（唔係）」。④ 口語入面成日省略助詞（を、へ）同埋「〜ている」嘅「い」（ご飯食べた？ / 今何してる？）。"
+          data-fr="Les 4 règles du style familier entre amis : ① Supprimez か dans les questions avec une intonation montante ⤴. ② Supprimez だ dans les questions (土曜日は暇？⤴). ③ はい ➔ うん, いいえ ➔ ううん. ④ Omission fréquente des particules et du い de 〜ている."></div>
+
+        <div class="practice-part-header">
+          <span class="practice-part-badge" style="background:var(--navy-mid);">Drill E</span>
+          <div class="practice-part-title">即応ドリル E：丁寧体（です・ます） ➔ 友達との普通体（タメ口）に変換（全4問）</div>
+        </div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-e1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-1.「あした、花火を見に行きますか。 ― はい、行きます。」 ➔ 友達とのカジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e1"><span>あした、<ruby>花火<rt>はなび</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>く？ ― <strong>うん、<ruby>行<rt>い</rt></ruby>くよ</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あした、花火を見に行く？ うん、行くよ。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-e2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-2.「日曜日は暇ですか。 ― いいえ、暇じゃありません。」 ➔ 友達とのカジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e2"><span><ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>？ ― <strong>ううん、<ruby>暇<rt>ひま</rt></ruby>じゃない</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日曜日は暇？ ううん、暇じゃない。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-e3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-3.「昨日のサッカーの試合を見ましたか。 ― いいえ、見ませんでした。」 ➔ カジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e3"><span><ruby>昨日<rt>きのう</rt></ruby>のサッカーの<ruby>試合<rt>しあい</rt></ruby><ruby>見<rt>み</rt></ruby>た？ ― <strong>ううん、<ruby>見<rt>み</rt></ruby>なかった</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('昨日のサッカーの試合見た？ ううん、見なかった。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-e4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-4.「この団子はおいしいですか。 ― はい、とてもおいしいです。」 ➔ カジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e4"><span>この<ruby>団子<rt>だんご</rt></ruby>、おいしい？ ― <strong>うん、すごくおいしいよ！</strong></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('この団子、おいしい？ うん、すごくおいしいよ！')" title="Listen">🔊</button></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== 今回のレッスンまとめ (旧 STEP 1) ==================== -->
+  <section class="content-card" id="sec-system">
+    <div class="card-header-row">
+      <div class="step-label">Lesson Summary</div>
+      <div class="card-main-title"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ：<ruby>普通形<rt>ふつうけい</rt></ruby>（Plain Form）の<ruby>完全体系表<rt>かんぜんたいけいひょう</rt></ruby></div>
       <div class="card-subtitle-en">Japanese has two speech styles: <strong>Polite Style (丁寧体: です・ます)</strong> and <strong>Plain Style (普通形・普通体)</strong>. The Plain Form is used both (1) inside grammar structures like <strong>〜と思います</strong>, <strong>〜と言いました</strong>, and <strong>〜でしょう</strong>, and (2) in casual conversation with close friends and family!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="일본어에는 '정중체(丁寧体: です・ます)'와 '보통형(普通形·반말체)'의 두 가지 문체가 있습니다. 보통형은 ① '〜と思います(생각하다)', '〜と言いました(말했다)', '〜でしょう(~일 것이다)' 같은 문법 패턴의 앞부분에 쓰일 뿐만 아니라, ② 친한 친구나 가족과의 일상 반말 회화에서도 그대로 사용됩니다!"
@@ -1451,378 +1888,6 @@
         2. <strong>い形容詞の後ろには絶対に「だ」をつけない！</strong>（誤用：<span class="badge-wrong">誤用</span>おいしいだ ➔ 正解：<span class="badge-right">正解</span><strong>おいしい</strong>）<br>
         3. <strong>な形容詞・名詞の現在肯定には「だ」がつく！</strong>（静かです ➔ <strong>静かだ</strong> ／ 雨です ➔ <strong>雨だ</strong>）
         <div class="i18n-switch" data-en="1. Verb Past Negative: Change the final い of Nai-form to かった (行かない ➔ 行かなかった).&lt;br&gt;2. NEVER put だ after an い-adjective (×おいしいだ ➔ ○おいしい).&lt;br&gt;3. Put だ after な-adjectives and Nouns in the present affirmative (静かだ / 雨だ)." data-ko="1. 동사 과거부정: ない형의 끝 &#x27;い&#x27;를 &#x27;かった&#x27;로 바꿈(行かない ➔ 行かなかった).&lt;br&gt;2. い형용사 뒤에는 절대 &#x27;だ&#x27;를 붙이지 않음(×おいしいだ ➔ ○おいしい).&lt;br&gt;3. な형용사·명사의 현재긍정에는 &#x27;だ&#x27;가 붙음(静かだ / 雨だ)." data-zhcn="1. 动词过去否定：把「ない形」词尾的「い」变成「かった」（行かない ➔ 行かなかった）。&lt;br&gt;2. い形容词后面绝对不加「だ」（×おいしいだ ➔ ○おいしい）。&lt;br&gt;3. な形容词与名词的现在肯定形要加「だ」（静かだ / 雨だ）。" data-zhtw="1. 動詞過去否定：把「ない形」詞尾的「い」變成「かった」（行かない ➔ 行かなかった）。&lt;br&gt;2. い形容詞後面絕對不加「だ」（×おいしいだ ➔ ○おいしい）。&lt;br&gt;3. な形容詞與名詞的現在肯定形要加「だ」（静かだ / 雨だ）。" data-cant="1. 動詞過去否定：將「ない形」字尾嘅「い」變做「かった」（行かない ➔ 行かなかった）。&lt;br&gt;2. い形容詞後面絕對唔加「だ」（×おいしいだ ➔ ○おいしい）。&lt;br&gt;3. な形容詞同名詞嘅現在肯定形要加「だ」（静かだ / 雨だ）。" data-fr="1. Verb Past Negative: Change the final い of Nai-form to かった (行かない ➔ 行かなかった).&lt;br&gt;2. NEVER put だ after an い-adjective (×おいしいだ ➔ ○おいしい).&lt;br&gt;3. Put だ after な-adjectives and Nouns in the present affirmative (静かだ / 雨だ).">1. Verb Past Negative: Change the final い of Nai-form to かった (行かない ➔ 行かなかった).<br>2. NEVER put だ after an い-adjective (×おいしいだ ➔ ○おいしい).<br>3. Put だ after な-adjectives and Nouns in the present affirmative (静かだ / 雨だ).</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ==================== STEP 2: MAIN DIALOGUE ==================== -->
-  <section class="content-card" id="sec-dialogue">
-    <div class="card-header-row">
-      <div class="step-label">Step 2</div>
-      <div class="card-main-title">Main Dialogue: 週末のお花見と天気予報 — Weekend Cherry Blossom Picnic &amp; Weather Forecast</div>
-      <div class="card-subtitle-en">Ms. Suzuki and Mr. Tanaka talk about tomorrow's weather forecast for cherry-blossom viewing in the park, sharing their opinions (〜と思います), relaying what Mr. Sato said (〜と言っていました), and confirming plans (〜でしょう).</div>
-      <div class="card-subtitle-native i18n-native"
-        data-ko="스즈키 씨와 다나카 씨가 주말 벚꽃놀이와 내일 일기예보에 대해 자신의 생각(〜と思います)과 사토 씨의 전언(〜と言っていました), 추측·확인(〜でしょう)을 사용하여 이야기합니다."
-        data-zhcn="铃木女士与田中先生聊周末赏樱与明天的天气预报，使用个人看法（〜と思います）、转述佐藤先生的话（〜と言っていました）以及推测确认（〜でしょう）。"
-        data-zhtw="鈴木女士與田中先生聊週末賞櫻與明天的天氣預報，使用個人看法（〜と思います）、轉述佐藤先生的話（〜と言っていました）以及推測確認（〜でしょう）。"
-        data-cant="鈴木小姐同田中先生傾緊週末賞櫻同聽日嘅天氣預報，用咗個人睇法（〜と思います）、轉述佐藤先生講嘅嘢（〜と言っていました）同埋推測確認（〜でしょう）。"
-        data-fr="Mme Suzuki et M. Tanaka discutent de la météo de demain pour aller voir les cerisiers en fleurs, en utilisant 〜と思います, 〜と言っていました et 〜でしょう."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('田中さん、あしたはみんなで公園へお花見に行きますね。あしたは天気がいいでしょうか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">田中さん、あしたはみんなで<ruby>公園<rt>こうえん</rt></ruby>へお<ruby>花見<rt>はなみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますね。あしたは<ruby>天気<rt>てんき</rt></ruby>がいいでしょうか。</div>
-      <div class="dialogue-en-line">Mr. Tanaka, tomorrow we're all going to the park for cherry-blossom viewing, right? I wonder if the weather will be nice tomorrow.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="다나카 씨, 내일은 다 같이 공원에 꽃구경하러 가죠. 내일은 날씨가 좋을까요?" data-zhcn="田中先生，明天大家要一起去公园赏樱对吧。明天天气会好吗？" data-zhtw="田中先生，明天大家要一起去公園賞櫻對吧。明天天氣會好嗎？" data-cant="田中先生，聽日大家一齊去公園賞櫻喎。聽日天氣會唔會好呢？" data-fr="M. Tanaka, demain nous allons tous au parc voir les cerisiers en fleurs. Je me demande s'il fera beau demain."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('今朝の天気のニュースで、あしたは一日中晴れだと言っていましたよ。きっと暖かいと思います。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>今朝<rt>けさ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>のニュースで、あしたは<ruby>一日中<rt>いちにちじゅう</rt></ruby><strong><ruby>晴<rt>は</rt></ruby>れだと<ruby>言<rt>い</rt></ruby>っていました</strong>よ。きっと<strong><ruby>暖<rt>あたた</rt></ruby>かいと<ruby>思<rt>おも</rt></ruby>います</strong>。</div>
-      <div class="dialogue-en-line">On this morning's weather news, they said it will be sunny all day tomorrow! I think it will surely be warm.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="오늘 아침 날씨 뉴스에서 내일은 하루 종일 맑을 거라고 했어요! 분명히 따뜻할 거라고 생각해요." data-zhcn="今天早上的天气新闻说，明天一整天都是晴天哦！我想一定会很暖和。" data-zhtw="今天早上的天氣新聞說，明天一整天都是晴天喔！我想一定會很暖和。" data-cant="今朝早嘅天氣新聞話，聽日成日都係晴天呀！我諗一定會好暖。" data-fr="Aux infos météo de ce matin, ils ont dit qu'il ferait beau toute la journée demain ! Je pense qu'il fera sûrement doux."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('よかったです！土曜日ですから、公園は人が多くて賑やかでしょうね。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">よかったです！<ruby>土曜日<rt>どようび</rt></ruby>ですから、<ruby>公園<rt>こうえん</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<strong><ruby>賑<rt>にぎ</rt></ruby>やかでしょうね</strong>。</div>
-      <div class="dialogue-en-line">That's great! Since it's Saturday, the park will probably be crowded and lively, won't it?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="다행이네요! 토요일이니까 공원은 사람이 많고 북적거리겠죠." data-zhcn="太好了！因为是周六，公园里人很多，应该会很热闹吧。" data-zhtw="太好了！因為是週六，公園裡人很多，應該會很熱鬧吧。" data-cant="太好喇！因為係星期六，公園好多人，應該會好熱鬧啩。" data-fr="Tant mieux ! Comme c'est samedi, le parc sera probablement plein de monde et animé."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('そうですね。ところで、佐藤さんも朝から来られますか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">そうですね。ところで、佐藤さんも<ruby>朝<rt>あさ</rt></ruby>から<ruby>来<rt>こ</rt></ruby>られますか。</div>
-      <div class="dialogue-en-line">Indeed. By the way, can Mr. Sato also come from the morning?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="그렇네요. 그런데 사토 씨도 아침부터 올 수 있나요?" data-zhcn="是啊。对了，佐藤先生也能从早上就来吗？" data-zhtw="是啊。對了，佐藤先生也能從早上就來嗎？" data-cant="係喎。講開又講，佐藤先生朝早嚟唔嚟到呀？" data-fr="C'est vrai. Au fait, M. Sato peut-il aussi venir dès le matin ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('佐藤さんは、午前中は用事があるから、午後から行くと言っていましたよ。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">佐藤さんは、<ruby>午前中<rt>ごぜんちゅう</rt></ruby>は<ruby>用事<rt>ようじ</rt></ruby>があるから、<ruby>午後<rt>ごご</rt></ruby>から<strong><ruby>行<rt>い</rt></ruby>くと<ruby>言<rt>い</rt></ruby>っていました</strong>よ。</div>
-      <div class="dialogue-en-line">Mr. Sato was saying that because he has errands in the morning, he will come in the afternoon.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="사토 씨는 오전에 볼일이 있어서 오후부터 간다고 했어요." data-zhcn="佐藤先生说他上午有事，下午过去。" data-zhtw="佐藤先生說他上午有事，下午過去。" data-cant="佐藤先生話佢朝早有事做，下晝先過嚟。" data-fr="M. Sato disait qu'il avait quelque chose à faire le matin et qu'il viendrait l'après-midi."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('分かりました。じゃあ、私たちは先に集まって、公園へ入るまえに駅前の店で団子とお茶を買いましょう！')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>分<rt>わ</rt></ruby>かりました。じゃあ、<ruby>私<rt>わたし</rt></ruby>たちは<ruby>先<rt>さき</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まって、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>入<rt>はい</rt></ruby>るまえに<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>団子<rt>だんご</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いましょう！</div>
-      <div class="dialogue-en-line">Got it. Then let's gather first and buy dango and tea at the shop in front of the station before entering the park!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="알겠습니다. 그럼 우리 먼저 모여서 공원에 들어가기 전에 역 앞 가게에서 당고와 차를 삽시다!" data-zhcn="明白了。那我们先集合，进公园之前先在车站前的店里买团子和茶吧！" data-zhtw="明白了。那我們先集合，進公園之前先在車站前的店裡買糰子和茶吧！" data-cant="明白。咁我哋集合先，入公園之前喺車站前面間舖頭買丸子同茶啦！" data-fr="Entendu. Alors retrouvons-nous d'abord et achetons des dango et du thé devant la gare avant d'entrer dans le parc !"></div>
-    </div>
-  </section>
-
-  <!-- ==================== STEP 3: 文法解説 ＆ 各文法即応ドリル ==================== -->
-  <section class="content-card" id="sec-grammar">
-    <div class="card-header-row">
-      <div class="step-label">Step 3</div>
-      <div class="card-main-title">重要文型解説 ＆ 各文法直下の即応ドリル（Grammar A〜D ＋ Deep Dive）</div>
-      <div class="card-subtitle-en">Master Plain Form conversion, expressing opinions (〜と思います), quoting speech (〜と言いました), making polite guesses (〜でしょう), and casual speech!</div>
-      <div class="card-subtitle-native i18n-native"
-        data-ko="보통형 변환, 의견 표현(〜と思います), 인용·전언(〜と言いました), 추측·확인(〜でしょう), 그리고 반말 회화까지 각 문법 아래의 즉응 드릴로 마스터하세요!"
-        data-zhcn="通过各语法正下方的即时练习，彻底掌握普通形转换、发表观点（〜と思います）、引述转告（〜と言いました）、推测确认（〜でしょう）以及朋友简体会话！"
-        data-zhtw="透過各語法正下方的即時練習，徹底掌握普通形轉換、發表觀點（〜と思います）、引述轉告（〜と言いました）、推測確認（〜でしょう）以及朋友簡體會話！"
-        data-cant="透過各語法正下面嘅即時練習，徹底掌握普通形轉換、發表睇法（〜と思います）、引述轉告（〜と言いました）、推測確認（〜でしょう）同埋朋友傾偈！"
-        data-fr="Maîtrisez la forme neutre, 〜と思います, 〜と言いました, 〜でしょう et la conversation familière grâce aux exercices immédiats !"></div>
-    </div>
-
-    <!-- Grammar A: 普通形への変換 -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head">
-          <span class="grammar-tag">Grammar A</span>
-          <strong>丁寧体（です・ます） ➔ 普通形（Plain Form）への変換ルール</strong>
-        </div>
-        <div class="grammar-desc-en">Convert polite forms into plain forms across all 4 tenses. Remember: <strong>い-adjectives NEVER take だ</strong>, while <strong>な-adjectives and nouns MUST take だ</strong> in the present affirmative!</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="4가지 시제의 정중체를 보통형으로 바꿉니다. 핵심 주의점: い형용사 뒤에는 절대 'だ'를 붙이지 않고, な형용사와 명사의 현재 긍정형에는 반드시 'だ'를 붙입니다!"
-          data-zhcn="将4种时态的礼貌体转换为普通形。核心要点：い形容词后绝对不能加「だ」，而な形容词与名词的现在肯定形必须加「だ」！"
-          data-zhtw="將4種時態的禮貌體轉換為普通形。核心要點：い形容詞後絕對不能加「だ」，而な形容詞與名詞的現在肯定形必須加「だ」！"
-          data-cant="將4種時態嘅禮貌體轉做普通形。核心重點：い形容詞後面絕對唔可以加「だ」，而な形容詞同名詞嘅現在肯定形就必須加「だ」！"
-          data-fr="Convertissez le style poli en forme neutre. Attention : jamais de だ après un adjectif en -い, mais だ est obligatoire après un adjectif en -な ou un nom au présent affirmatif !"></div>
-
-        <div class="pitfall-grid">
-          <div class="pitfall-card pitfall-wrong">
-            <span class="badge-wrong">誤用 (Incorrect)</span>
-            ・このラーメンは<strong>おいしいだ</strong>。<br>
-            ・<ruby>昨日<rt>きのう</rt></ruby>は<strong>いいだった</strong>。
-          </div>
-          <div class="pitfall-card pitfall-right">
-            <span class="badge-right">正解 (Correct)</span>
-            ・このラーメンは<strong>おいしい</strong>。（い形容詞に「だ」は不要）<br>
-            ・<ruby>昨日<rt>きのう</rt></ruby>は<strong>よかった</strong>。（「いい」の過去は「よかった」）
-          </div>
-        </div>
-
-        <div class="practice-part-header">
-          <span class="practice-part-badge">Drill A</span>
-          <div class="practice-part-title">即応ドリル A：丁寧体 ➔ 普通形 変換トレーニング（全8問・宿題 #47 &amp; #22・#23 連動）</div>
-        </div>
-        <div class="drill-grid">
-          <div class="toggle-item" onclick="toggleAnswer('l3-a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. 読みました（過去肯定）</div><button class="btn-check-reveal" id="btn-l3-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a1"><span><ruby>読<rt>よ</rt></ruby>んだ</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('読んだ')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. 行きませんでした（過去否定）</div><button class="btn-check-reveal" id="btn-l3-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a2"><span><ruby>行<rt>い</rt></ruby>かなかった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('行かなかった')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. 来ません（現在否定）</div><button class="btn-check-reveal" id="btn-l3-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a3"><span><ruby>来<rt>こ</rt></ruby>ない</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('こない')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. 忙しいです（い形容詞・現在）</div><button class="btn-check-reveal" id="btn-l3-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a4"><span><ruby>忙<rt>いそが</rt></ruby>しい</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('忙しい')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. 暑くなかったです（い形容詞・過去否定）</div><button class="btn-check-reveal" id="btn-l3-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a5"><span><ruby>暑<rt>あつ</rt></ruby>くなかった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('暑くなかった')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. いいです ➔ 過去肯定 ＆ 現在否定</div><button class="btn-check-reveal" id="btn-l3-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a6"><span>よかった ／ よくない</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('よかった、よくない')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-7. 便利です（な形容詞・現在肯定）</div><button class="btn-check-reveal" id="btn-l3-a7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a7"><span><ruby>便利<rt>べんり</rt></ruby>だ</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('便利だ')" title="Listen">🔊</button></div></div>
-          <div class="toggle-item" onclick="toggleAnswer('l3-a8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-8. 雨でした（名詞・過去肯定）</div><button class="btn-check-reveal" id="btn-l3-a8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-a8"><span><ruby>雨<rt>あめ</rt></ruby>だった</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('雨だった')" title="Listen">🔊</button></div></div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Grammar B: 〜と思います -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head">
-          <span class="grammar-tag">Grammar B</span>
-          <strong>［普通形］ ＋ と<ruby>思<rt>おも</rt></ruby>います（自分の意見・推測を表す）</strong>
-        </div>
-        <div class="grammar-desc-en">Used to express your opinion ("I think that ~") or prediction ("I guess that ~").<br>
-        <strong>3 Crucial Points:</strong><br>
-        ① На-adjectives and Nouns <strong>MUST keep だ</strong> before と思います (e.g., 便利<strong>だ</strong>と思います, 雨<strong>だ</strong>と思います).<br>
-        ② For negative thoughts ("I don't think ~"), make the inside verb/adjective negative: <strong>〜ないと思います</strong> (rather than 〜と思いません).<br>
-        ③ When asking someone's opinion about a topic, say <strong>「〜について、どう思いますか」</strong> (NOT 何を思いますか).</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="자신의 의견이나 추측('~라고 생각합니다')을 나타냅니다. ★핵심 3가지: ① な형용사와 명사는 'と思います' 앞에서 반드시 'だ'를 유지합니다(便利だと思います). ② '~라고 생각하지 않는다'는 안쪽을 부정형으로 만들어 '〜ないと思います'라고 합니다. ③ 의견을 물을 때는 '何を思いますか(×)'가 아니라 'どう思いますか(어떻게 생각합니까?)'를 씁니다!"
-          data-zhcn="表示个人的意见或推测（“我觉得~/我认为~”）。★三大要点：① な形容词和名词在「と思います」前必须保留「だ」（便利だと思います）。② 表示“我觉得不会~”时，通常将前面的内容变成否定形「〜ないと思います」。③ 询问对方意见时说「〜について、どう思いますか」（不能说何を思いますか）。"
-          data-zhtw="表示個人的意見或推測（“我覺得~/我認為~”）。★三大要點：① な形容詞和名詞在「と思います」前必須保留「だ」（便利だと思います）。② 表示“我覺得不會~”時，通常將前面的內容變成否定形「〜ないと思います」。③ 詢問對方意見時說「〜について、どう思いますか」（不能說何を思いますか）。"
-          data-cant="表示個人嘅睇法或推測（「我覺得~/我認為~」）。★三大重點：① な形容詞同名詞喺「と思います」之前必須保留「だ」（便利だと思います）。② 表示「我覺得唔會~」嗰陣，通常將前面變做否定形「〜ないと思います」。③ 問人意見嗰陣講「〜について、どう思いますか」（唔好講何を思いますか）。"
-          data-fr="Exprime une opinion ou une prédiction (« je pense que ~ »). ① Gardez だ après un adjectif en -な ou un nom. ② Mettez la négation à l'intérieur (〜ないと思います). ③ Demandez どう思いますか (et non 何を思いますか)."></div>
-
-        <div class="grammar-diagram">
-          <div class="diagram-step">
-            <div class="diagram-chip">あしたは<ruby>雨<rt>あめ</rt></ruby><strong>だ</strong> ／ <ruby>忙<rt>いそが</rt></ruby>しい</div>
-            <div class="diagram-caption">普通形（な形・名詞は「だ」を残す！）</div>
-          </div>
-          <div class="diagram-arrow">+</div>
-          <div class="diagram-step">
-            <div class="diagram-chip highlight">と <ruby>思<rt>おも</rt></ruby>います</div>
-            <div class="diagram-caption">自分の意見・推測</div>
-          </div>
-        </div>
-
-        <div class="pitfall-grid">
-          <div class="pitfall-card pitfall-wrong">
-            <span class="badge-wrong">誤用 (Incorrect)</span>
-            ・このアプリは<strong><ruby>便利<rt>べんり</rt></ruby>と<ruby>思<rt>おも</rt></ruby>います</strong>。（「だ」抜け）<br>
-            ・あしたは<strong><ruby>寒<rt>さむ</rt></ruby>いだと<ruby>思<rt>おも</rt></ruby>います</strong>。（い形容詞に「だ」）
-          </div>
-          <div class="pitfall-card pitfall-right">
-            <span class="badge-right">正解 (Correct)</span>
-            ・このアプリは<strong><ruby>便利<rt>べんり</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います</strong>。<br>
-            ・あしたは<strong><ruby>寒<rt>さむ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います</strong>。
-          </div>
-        </div>
-
-        <div class="examples-block">
-          <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content">
-            <div class="example-jp">この<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>にとても<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('この辞書は日本語の勉強にとても役に立つと思います。')" title="Listen">🔊</button></div>
-            <div class="example-en">I think this dictionary is very useful for studying Japanese.</div>
-            <div class="example-native i18n-native" data-ko="이 사전은 일본어 공부에 매우 도움이 된다고 생각합니다." data-zhcn="我觉得这本词典对学日语非常有帮助。" data-zhtw="我覺得這本詞典對學日語非常有幫助。" data-cant="我覺得呢本字典對學日文好有用。" data-fr="Je pense que ce dictionnaire est très utile pour étudier le japonais."></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content">
-            <div class="example-jp">11<ruby>月<rt>がつ</rt></ruby>は<ruby>京都<rt>きょうと</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('11月は京都の紅葉が綺麗だと思います。')" title="Listen">🔊</button></div>
-            <div class="example-en">I think the autumn leaves in Kyoto are beautiful in November.</div>
-            <div class="example-native i18n-native" data-ko="11월에는 교토의 단풍이 예쁠 거라고 생각합니다." data-zhcn="我觉得11月京都的红叶会很美。" data-zhtw="我覺得11月京都的紅葉會很美。" data-cant="我覺得11月京都嘅紅葉會好靚。" data-fr="Je pense que les feuilles d'automne à Kyoto sont belles en novembre."></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content">
-            <div class="example-jp">田中さんは<ruby>今日<rt>きょう</rt></ruby>も<ruby>忙<rt>いそが</rt></ruby>しいですから、パーティーに<ruby>来<rt>こ</rt></ruby>ないと<ruby>思<rt>おも</rt></ruby>います。<button class="tts-btn" onclick="speakText('田中さんは今日も忙しいですから、パーティーに来ないと思います。')" title="Listen">🔊</button></div>
-            <div class="example-en">Since Mr. Tanaka is busy today too, I don't think he will come to the party.</div>
-            <div class="example-native i18n-native" data-ko="다나카 씨는 오늘도 바쁘니까 파티에 오지 않을 거라고 생각합니다." data-zhcn="因为田中先生今天也很忙，我想他不会来参加聚会。" data-zhtw="因為田中先生今天也很忙，我想他不會來參加聚會。" data-cant="因為田中先生今日都好忙，我諗佢唔會嚟派對。" data-fr="Comme M. Tanaka est occupé aujourd'hui aussi, je pense qu'il ne viendra pas à la fête."></div>
-          </div></div>
-        </div>
-
-        <div class="practice-part-header">
-          <span class="practice-part-badge">Drill B</span>
-          <div class="practice-part-title">即応ドリル B：［普通形］＋ と思います（全6問）</div>
-        </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. I think this summer will be very hot.</div><button class="btn-check-reveal" id="btn-l3-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b1"><span><ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今年の夏はとても暑いと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. I think the sea in Okinawa is very beautiful.</div><button class="btn-check-reveal" id="btn-l3-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b2"><span><ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>はとても<ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('沖縄の海はとても綺麗だと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. I think it will probably rain this afternoon.</div><button class="btn-check-reveal" id="btn-l3-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b3"><span>たぶん、<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たぶん、午後は雨が降ると思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Because it is far from the station, I think it is a little inconvenient.</div><button class="btn-check-reveal" id="btn-l3-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b4"><span><ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>いですから、<ruby>少<rt>すこ</rt></ruby>し<ruby>不便<rt>ふべん</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅から遠いですから、少し不便だと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. I don't think that news is a lie.</div><button class="btn-check-reveal" id="btn-l3-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b5"><span>あのニュースはうそ<strong>じゃない</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あのニュースはうそじゃないと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. What do you think about the new plan? (新しい計画)</div><button class="btn-check-reveal" id="btn-l3-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b6"><span><ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>について、<strong>どう<ruby>思<rt>おも</rt></ruby>いますか</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('新しい計画について、どう思いますか。')" title="Listen">🔊</button></div></div>
-      </div>
-    </div>
-
-    <!-- Grammar C: 〜と言いました -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head">
-          <span class="grammar-tag" style="background:var(--teal-text);">Grammar C</span>
-          <strong>「〜」と<ruby>言<rt>い</rt></ruby>いました ／ ［普通形］と<ruby>言<rt>い</rt></ruby>いました（引用・伝聞）</strong>
-        </div>
-        <div class="grammar-desc-en">Used to quote or relay what someone said.<br>
-        ・<strong>Direct Quote:</strong> Put the exact words inside brackets <strong>「〜」と言いました</strong> (e.g., 食卓で「いただきます」と言います).<br>
-        ・<strong>Indirect Quote:</strong> Convert the quoted sentence into <strong>Plain Form + と言いました</strong> (or <strong>と言っていました</strong> when relaying a message from a third person or the news!).</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="다른 사람이 한 말을 인용하거나 전달할 때 씁니다. ① 직접 인용: 한 말을 그대로 「〜」 안에 넣어 '「〜」と言いました'. ② 간접 인용: 문장을 보통형으로 바꾸어 '[보통형] + と言いました'(또는 뉴스나 제3자의 전언을 전할 때는 '〜と言っていました')를 씁니다!"
-          data-zhcn="用于引用或转述别人说的话。① 直接引用：原话放进引号「〜」と言いました。② 间接引用：将内容变为普通形，接「［普通形］＋と言いました」（日常会话中转述第三者或新闻的话时，常说「〜と言っていました」）。"
-          data-zhtw="用於引用或轉述別人說的話。① 直接引用：原話放進引號「〜」と言いました。② 間接引用：將內容變為普通形，接「［普通形］＋と言いました」（日常會話中轉述第三者或新聞的話時，常說「〜と言っていました」）。"
-          data-cant="用嚟引用或者轉述人哋講過嘅嘢。① 直接引用：原話放落引號「〜」と言いました。② 間接引用：將內容變做普通形，加「［普通形］＋と言いました」（日常傾偈轉述第三者或新聞嗰陣，經常講「〜と言っていました」）。"
-          data-fr="Sert à rapporter les paroles de quelqu'un. ① Citation directe : 「〜」と言いました. ② Citation indirecte : [Forme neutre] + と言いました (ou と言っていました)."></div>
-
-        <div class="grammar-diagram">
-          <div class="diagram-step">
-            <div class="diagram-chip">直接引用：「あした<ruby>休<rt>やす</rt></ruby>みます」</div>
-            <div class="diagram-caption">カギカッコ「 」の中は丁寧体でもそのまま</div>
-          </div>
-          <div class="diagram-arrow">⇄</div>
-          <div class="diagram-step">
-            <div class="diagram-chip teal">間接引用：あした<strong><ruby>休<rt>やす</rt></ruby>む</strong>と<ruby>言<rt>い</rt></ruby>いました</div>
-            <div class="diagram-caption">カギカッコを外す時は<strong>普通形</strong>に変換！</div>
-          </div>
-        </div>
-
-        <div class="examples-block">
-          <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content">
-            <div class="example-jp"><ruby>寝<rt>ね</rt></ruby>るまえに、<ruby>家族<rt>かぞく</rt></ruby>に「おやすみなさい」と<ruby>言<rt>い</rt></ruby>います。<button class="tts-btn" onclick="speakText('寝るまえに、家族におやすみなさいと言います。')" title="Listen">🔊</button></div>
-            <div class="example-en">Before going to bed, I say "Good night" to my family. (Direct quote)</div>
-            <div class="example-native i18n-native" data-ko="자기 전에 가족에게 '안녕히 주무세요'라고 말합니다." data-zhcn="睡觉前对家人说“晚安”。" data-zhtw="睡覺前對家人說“晚安”。" data-cant="瞓覺之前同屋企人講「早唞」。" data-fr="Avant de dormir, je dis « Bonne nuit » à ma famille."></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content">
-            <div class="example-jp">中村さんは、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>花火大会<rt>はなびたいかい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くと<ruby>言<rt>い</rt></ruby>いました。<button class="tts-btn" onclick="speakText('中村さんは、来週の土曜日に花火大会へ行くと言いました。')" title="Listen">🔊</button></div>
-            <div class="example-en">Mr. Nakamura said that he would go to the fireworks festival next Saturday. (Indirect quote)</div>
-            <div class="example-native i18n-native" data-ko="나카무라 씨는 다음 주 토요일에 불꽃놀이 대회에 간다고 말했습니다." data-zhcn="中村先生说他下周六要去烟花大会。" data-zhtw="中村先生說他下週六要去煙火大會。" data-cant="中村先生話佢下個禮拜六會去煙花大會。" data-fr="M. Nakamura a dit qu'il irait au festival de feux d'artifice samedi prochain."></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content">
-            <div class="example-jp">高橋さんは、あの<ruby>店<rt>みせ</rt></ruby>の<ruby>鍋<rt>なべ</rt></ruby>がとてもおいしかったと<ruby>言<rt>い</rt></ruby>っていました。<button class="tts-btn" onclick="speakText('高橋さんは、あの店の鍋がとてもおいしかったと言っていました。')" title="Listen">🔊</button></div>
-            <div class="example-en">Ms. Takahashi was saying that the hot pot at that restaurant was very delicious.</div>
-            <div class="example-native i18n-native" data-ko="다카하시 씨는 저 가게의 전골 요리가 아주 맛있었다고 말했어요." data-zhcn="高桥女士说那家店的火锅非常好吃。" data-zhtw="高橋女士說那家店的火鍋非常好吃。" data-cant="高橋小姐話嗰間舖頭嘅火鍋好好食。" data-fr="Mme Takahashi disait que la fondue de ce restaurant était délicieuse."></div>
-          </div></div>
-        </div>
-
-        <div class="practice-part-header">
-          <span class="practice-part-badge" style="background:var(--teal-text);">Drill C</span>
-          <div class="practice-part-title">即応ドリル C：［普通形］＋ と言いました ／ と言っていました（全6問）</div>
-        </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. Ms. Suzuki said, "I will take a day off tomorrow." ➔ 間接引用に変えると？</div><button class="btn-check-reveal" id="btn-l3-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c1"><span>鈴木さんは、あした<ruby>休<rt>やす</rt></ruby>むと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんは、あした休むと言いました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. Mr. Tanaka said that he couldn't come to the meeting because he was busy.</div><button class="btn-check-reveal" id="btn-l3-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c2"><span>田中さんは、<ruby>忙<rt>いそが</rt></ruby>しいから<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られないと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんは、忙しいから会議に来られないと言いました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. On the weather news, they said it would be cloudy (曇り) tomorrow.</div><button class="btn-check-reveal" id="btn-l3-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c3"><span><ruby>天気<rt>てんき</rt></ruby>のニュースで、あしたは<ruby>曇<rt>くも</rt></ruby>り<strong>だ</strong>と<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('天気のニュースで、あしたは曇りだと言っていました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. Mr. Sato said that last week's festival (祭り) was very lively.</div><button class="btn-check-reveal" id="btn-l3-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c4"><span>佐藤さんは、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りはとても<ruby>賑<rt>にぎ</rt></ruby>やか<strong>だった</strong>と<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんは、先週の祭りはとても賑やかだったと言いました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After finishes eating a meal, we say "Gochisousama deshita".</div><button class="btn-check-reveal" id="btn-l3-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c5"><span>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、「ごちそうさまでした」と<ruby>言<rt>い</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べたあとで、ごちそうさまでしたと言います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. Mr. Ito said that he would return to his hometown on New Year's (お正月).</div><button class="btn-check-reveal" id="btn-l3-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c6"><span>伊藤さんは、お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>国<rt>くに</rt></ruby>（実家）へ<ruby>帰<rt>かえ</rt></ruby>ると<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('伊藤さんは、お正月に国へ帰ると言っていました。')" title="Listen">🔊</button></div></div>
-      </div>
-    </div>
-
-    <!-- Grammar D: 〜でしょう -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head">
-          <span class="grammar-tag" style="background:var(--pink-text);">Grammar D</span>
-          <strong>［普通形（★な形容詞・名詞は「だ」を消す！）］ ＋ でしょう ／ でしょうか</strong>
-        </div>
-        <div class="grammar-desc-en"><strong>でしょう</strong> has 3 important uses:<br>
-        ① <strong>Polite Prediction (↘ falling intonation):</strong> "Tomorrow will probably be sunny" (often used in weather forecasts).<br>
-        ② <strong>Confirmation / Seeking Agreement (⤴ rising intonation):</strong> "You're going to the party too, right?" / "This dango is delicious, isn't it?"<br>
-        ③ <strong>Polite Wondering (でしょうか):</strong> Softer and more polite than ですか ("I wonder if ~").<br>
-        <strong>★ GOLDEN CONNECTION RULE:</strong> Unlike と思います, you <strong>MUST DROP だ</strong> before でしょう! (晴れ<strong>だ</strong>と思います vs 晴れ<strong>でしょう</strong>).</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="'でしょう'에는 3가지 핵심 용법이 있습니다: ① 추측(끝을 내려 발음 ↘): '아마 ~일 것이다'(일기예보 등), ② 확인·동의 구하기(끝을 올려 발음 ⤴): '~이지요? / ~그렇죠?', ③ 정중한 의문(でしょうか): '~일까요?'. ★황금 접속 규칙: 'と思います'와 달리, 'でしょう' 앞에서는 な형용사·명사의 'だ'를 반드시 지워야 합니다! (晴れだと思います vs 晴れでしょう)"
-          data-zhcn="「でしょう」有三大核心用法：① 礼貌推测（降调↘）：“大概会~吧”；② 确认或寻求赞同（升调⤴）：“~对吧？/很棒吧？”；③ 委婉礼貌的疑问（でしょうか）：“不知道是不是~呢？”。★黄金接续法则：与「と思います」相反，な形容词和名词在「でしょう」前必须去掉「だ」！（晴れだと思います vs 晴れでしょう）。"
-          data-zhtw="「でしょう」有三大核心用法：① 禮貌推測（降調↘）：“大概會~吧”；② 確認或尋求贊同（升調⤴）：“~對吧？/很棒吧？”；③ 委婉禮貌的疑問（でしょうか）：“不知道是不是~呢？”。★黃金接續法則：與「と思います」相反，な形容詞和名詞在「でしょう」前必須去掉「だ」！（晴れだと思います vs 晴れでしょう）。"
-          data-cant="「でしょう」有三大核心用法：① 禮貌推測（降調↘）：「大概會~啩」；② 確認或尋求認同（升調⤴）：「~係咪呀？/好正呢？」；③ 委婉禮貌嘅疑問（でしょうか）：「唔知係咪~呢？」。★黃金接續法則：同「と思います」相反，な形容詞同名詞喺「でしょう」之前必須刪走個「だ」！（晴れだと思います vs 晴れでしょう）。"
-          data-fr="でしょう a 3 emplois : ① Prédiction (« probablement »), ② Confirmation ⤴ (« n'est-ce pas ? »), ③ Question polie (でしょうか). ★Règle d'or : Contrairement à と思います, il faut SUPPRIMER だ devant でしょう !"></div>
-
-        <table class="conj-table" style="margin-top:12px;">
-          <tr><th>品詞</th><th>［普通形］＋ と思います（★「だ」を残す！）</th><th>［普通形］＋ でしょう（★「だ」を消す！）</th></tr>
-          <tr>
-            <td><strong>動詞・い形容詞</strong></td>
-            <td><ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います ／ <ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います</td>
-            <td><ruby>降<rt>ふ</rt></ruby>るでしょう ／ <ruby>暑<rt>あつ</rt></ruby>いでしょう</td>
-          </tr>
-          <tr>
-            <td><strong>な形容詞（綺麗だ）</strong></td>
-            <td><ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います</td>
-            <td><ruby>綺麗<rt>きれい</rt></ruby><strong>でしょう</strong>（×綺麗だでしょう は絶対NG！）</td>
-          </tr>
-          <tr>
-            <td><strong>名詞（晴れだ）</strong></td>
-            <td><ruby>晴<rt>は</rt></ruby>れ<strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います</td>
-            <td><ruby>晴<rt>は</rt></ruby>れ<strong>でしょう</strong>（×晴れだでしょう は絶対NG！）</td>
-          </tr>
-        </table>
-
-        <div class="examples-block">
-          <div class="examples-label">Examples</div>
-          <div class="example-row"><div class="example-num">1</div><div class="example-content">
-            <div class="example-jp">あしたの<ruby>午後<rt>ごご</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るでしょう。<button class="tts-btn" onclick="speakText('あしたの午後は風が強くて、雨が降るでしょう。')" title="Listen">🔊</button></div>
-            <div class="example-en">Tomorrow afternoon the wind will be strong, and it will probably rain. (Prediction)</div>
-            <div class="example-native i18n-native" data-ko="내일 오후에는 바람이 강하고 비가 내릴 것입니다." data-zhcn="明天下午风很大，大概会下雨吧。" data-zhtw="明天下午風很大，大概會下雨吧。" data-cant="聽日下晝會好大風，大概會落雨啩。" data-fr="Demain après-midi le vent sera fort et il pleuvra probablement."></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">2</div><div class="example-content">
-            <div class="example-jp">鈴木さん、クリスマスのパーティーに<ruby>行<rt>い</rt></ruby>くでしょう？（⤴ 確認）<button class="tts-btn" onclick="speakText('鈴木さん、クリスマスのパーティーに行くでしょう？')" title="Listen">🔊</button></div>
-            <div class="example-en">Ms. Suzuki, you're going to the Christmas party, right? (Confirmation)</div>
-            <div class="example-native i18n-native" data-ko="스즈키 씨, 크리스마스 파티에 가시죠? (확인)" data-zhcn="铃木女士，你会去圣诞派对的吧？（确认）" data-zhtw="鈴木女士，你會去聖誕派對的吧？（確認）" data-cant="鈴木小姐，你會去聖誕派對㗎可？（確認）" data-fr="Mme Suzuki, vous allez à la fête de Noël, n'est-ce pas ?"></div>
-          </div></div>
-          <div class="example-row"><div class="example-num">3</div><div class="example-content">
-            <div class="example-jp">この<ruby>辺<rt>へん</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>も<ruby>静<rt>しず</rt></ruby>かでしょうか。<button class="tts-btn" onclick="speakText('この辺は夜も静かでしょうか。')" title="Listen">🔊</button></div>
-            <div class="example-en">I wonder if this area is quiet at night too. (Polite wondering)</div>
-            <div class="example-native i18n-native" data-ko="이 근처는 밤에도 조용할까요?" data-zhcn="这一带晚上也会很安静吗？" data-zhtw="這一帶晚上也會很安靜嗎？" data-cant="呢頭夜晚會唔會都好靜呢？" data-fr="Je me demande si ce quartier est calme la nuit aussi."></div>
-          </div></div>
-        </div>
-
-        <div class="practice-part-header">
-          <span class="practice-part-badge" style="background:var(--pink-text);">Drill D</span>
-          <div class="practice-part-title">即応ドリル D：「〜でしょう ／ 〜でしょうか」 ＆ 「だ」の有無チェック（全6問）</div>
-        </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Tomorrow will probably be sunny. (晴れ)</div><button class="btn-check-reveal" id="btn-l3-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d1"><span>あしたは<ruby>晴<rt>は</rt></ruby>れでしょう。（※「晴れだでしょう」はNG！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あしたは晴れでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 명사의 &#x27;だ&#x27;를 반드시 뺍니다(晴れでしょう)!" data-zhcn="※ 在「でしょう」前必须去掉「だ」（说 晴れでしょう）！" data-zhtw="※ 在「でしょう」前必須去掉「だ」（說 晴れでしょう）！" data-cant="※ 喺「でしょう」前面必須刪走個「だ」（講 晴れでしょう）！" data-fr="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!">※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!</div></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Saturday's fireworks festival (花火大会) will probably be lively.</div><button class="btn-check-reveal" id="btn-l3-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d2"><span><ruby>土曜日<rt>どようび</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかでしょう。（※「だ」を消します！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('土曜日の花火大会は賑やかでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 な형용사의 &#x27;だ&#x27;를 뺍니다(賑やかでしょう)!" data-zhcn="※ な形容词在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-zhtw="※ な形容詞在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-cant="※ な形容詞喺「でしょう」前面要刪走「だ」（賑やかでしょう）！" data-fr="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!">※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!</div></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Ms. Suzuki will surely pass the exam (試験に合格する).</div><button class="btn-check-reveal" id="btn-l3-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d3"><span>鈴木さんはきっと<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するでしょう。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんはきっと試験に合格するでしょう。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. You have free time this weekend, right? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d4"><span><ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>でしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('週末は暇でしょう？')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. This sweet potato (さつまいも) is sweet and delicious, isn't it? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d5"><span>このさつまいもは<ruby>甘<rt>あま</rt></ruby>くておいしいでしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('このさつまいもは甘くておいしいでしょう？')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. I wonder if the cherry blossoms in Kyoto are already blooming (咲く).</div><button class="btn-check-reveal" id="btn-l3-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d6"><span><ruby>京都<rt>きょうと</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>はもう<ruby>咲<rt>さ</rt></ruby>いているでしょうか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都の桜はもう咲いているでしょうか。')" title="Listen">🔊</button></div></div>
-      </div>
-    </div>
-
-    <!-- Deep Dive E: カジュアル会話（普通体） -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card" style="border: 2px solid #66A5AD; background: #FBFDF3;">
-        <div class="grammar-card-head">
-          <span class="grammar-tag" style="background:var(--navy-mid);">Deep Dive</span>
-          <strong>【実践】友達・家族とのカジュアル会話（普通体・タメ口）の4大ルール！</strong>
-        </div>
-        <div class="grammar-desc-en">When talking casually with close friends in Plain Style (普通体):<br>
-        ① Drop <strong>か</strong> at the end of questions and simply raise your intonation (e.g., 明日行く？⤴).<br>
-        ② Drop <strong>だ</strong> in questions with な-adjectives/nouns (e.g., 土曜日は暇？⤴).<br>
-        ③ Change <strong>はい/ええ ➔ うん</strong> (Yeah) and <strong>いいえ ➔ ううん</strong> (Nah/No).<br>
-        ④ Particles like を, へ, は and the い in 〜ている are often omitted in casual speech (e.g., ご飯食べた？ / 今何してる？).</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="친한 친구와 반말(普通体)로 대화할 때의 4대 규칙: ① 의문문 끝에 'か'를 붙이지 않고 끝을 올립니다(明日行く？⤴). ② な형용사·명사의 의문문에서는 'だ'를 뺍니다(土曜日は暇？⤴). ③ 'はい ➔ うん(응)', 'いいえ ➔ ううん(아니)'으로 바꿉니다. ④ 회화에서는 조사(を, へ)나 '〜ている'의 'い'가 자주 생략됩니다(ご飯食べた？ / 今何してる？)."
-          data-zhcn="与朋友用普通体（简体会话）聊天时的4大法则：① 疑问句去掉句尾的「か」，直接升调（明日行く？⤴）。② な形容词和名词的疑问句去掉「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（嗯）」、「いいえ ➔ ううん（不）」。④ 口语中常省略助词（を、へ）及「〜ている」中的「い」（ご飯食べた？ / 今何してる？）。"
-          data-zhtw="與朋友用普通體（簡體會話）聊天時的4大法則：① 疑問句去掉句尾的「か」，直接升調（明日行く？⤴）。② な形容詞和名詞的疑問句去掉「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（嗯）」、「いいえ ➔ ううん（不）」。④ 口語中常省略助詞（を、へ）及「〜ている」中的「い」（ご飯食べた？ / 今何してる？）。"
-          data-cant="同好朋友用普通体傾偈嘅4大法則：① 疑問句唔使加「か」，直接升調（明日行く？⤴）。② な形容詞同名詞嘅疑問句刪走「だ」（土曜日は暇？⤴）。③ 「はい ➔ うん（係呀）」、「いいえ ➔ ううん（唔係）」。④ 口語入面成日省略助詞（を、へ）同埋「〜ている」嘅「い」（ご飯食べた？ / 今何してる？）。"
-          data-fr="Les 4 règles du style familier entre amis : ① Supprimez か dans les questions avec une intonation montante ⤴. ② Supprimez だ dans les questions (土曜日は暇？⤴). ③ はい ➔ うん, いいえ ➔ ううん. ④ Omission fréquente des particules et du い de 〜ている."></div>
-
-        <div class="practice-part-header">
-          <span class="practice-part-badge" style="background:var(--navy-mid);">Drill E</span>
-          <div class="practice-part-title">即応ドリル E：丁寧体（です・ます） ➔ 友達との普通体（タメ口）に変換（全4問）</div>
-        </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-e1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-1.「あした、花火を見に行きますか。 ― はい、行きます。」 ➔ 友達とのカジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e1"><span>あした、<ruby>花火<rt>はなび</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>く？ ― <strong>うん、<ruby>行<rt>い</rt></ruby>くよ</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あした、花火を見に行く？ うん、行くよ。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-e2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-2.「日曜日は暇ですか。 ― いいえ、暇じゃありません。」 ➔ 友達とのカジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e2"><span><ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>？ ― <strong>ううん、<ruby>暇<rt>ひま</rt></ruby>じゃない</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日曜日は暇？ ううん、暇じゃない。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-e3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-3.「昨日のサッカーの試合を見ましたか。 ― いいえ、見ませんでした。」 ➔ カジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e3"><span><ruby>昨日<rt>きのう</rt></ruby>のサッカーの<ruby>試合<rt>しあい</rt></ruby><ruby>見<rt>み</rt></ruby>た？ ― <strong>ううん、<ruby>見<rt>み</rt></ruby>なかった</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('昨日のサッカーの試合見た？ ううん、見なかった。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-e4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">E-4.「この団子はおいしいですか。 ― はい、とてもおいしいです。」 ➔ カジュアル会話にすると？</div><button class="btn-check-reveal" id="btn-l3-e4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-e4"><span>この<ruby>団子<rt>だんご</rt></ruby>、おいしい？ ― <strong>うん、すごくおいしいよ！</strong></span><button class="tts-btn" onclick="event.stopPropagation(); speakText('この団子、おいしい？ うん、すごくおいしいよ！')" title="Listen">🔊</button></div></div>
       </div>
     </div>
   </section>
@@ -2546,7 +2611,7 @@ function toggleFurigana(forceHide) {
   const btn = document.getElementById('btn-furigana');
   if (btn) {
     btn.classList.toggle('active', shouldHide);
-    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.textContent = shouldHide ? 'ふりがな: OFF' : 'ふりがな: ON';
   }
   return shouldHide;
 }
@@ -2589,15 +2654,20 @@ function nextSlide(delta) {
 
 function scrollToSection(id, btnEl) {
   const cards = Array.from(document.querySelectorAll('.container > .content-card'));
-  const idx = cards.findIndex(c => c.id === id);
+  const target = document.getElementById(id);
+  const parentCard = target ? target.closest('.content-card') : null;
+  const idx = parentCard ? cards.indexOf(parentCard) : cards.findIndex(c => c.id === id);
   if (idx >= 0) currentSlideIdx = idx;
   document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
   if (btnEl) btnEl.classList.add('active');
   if (document.body.classList.contains('slide-mode')) {
     updateSlideView(currentSlideIdx);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (target && target !== parentCard) {
+      setTimeout(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60);
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   } else {
-    const target = document.getElementById(id);
     if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   if (syncChannel) {

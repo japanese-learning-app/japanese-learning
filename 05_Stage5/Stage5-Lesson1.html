@@ -278,21 +278,75 @@
   .nav-tab-btn {
     background: #D9F2F5;
     border: 1.5px solid #6BD4DE;
-    padding: 7px 16px;
+    padding: 8px 16px 6px;
     border-radius: 999px;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.82rem;
     font-weight: 700;
     color: #005864;
     cursor: pointer;
     white-space: nowrap;
+    line-height: 1.35;
     transition: all 0.2s;
+  }
+  .nav-tab-btn ruby rt {
+    color: #006897;
+    font-size: 0.58em;
+    font-weight: 700;
   }
   .nav-tab-btn:hover, .nav-tab-btn.active {
     background: #008698;
     color: white;
     border-color: #005864;
     box-shadow: 0 2px 8px rgba(0, 134, 152, 0.22);
+  }
+  .nav-tab-btn:hover ruby rt,
+  .nav-tab-btn.active ruby rt {
+    color: #FFFFFF;
+  }
+  .content-card, .grammar-block {
+    scroll-margin-top: 20px;
+  }
+  .dialogue-with-illust {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 22px;
+    align-items: start;
+  }
+  @media (max-width: 920px) {
+    .dialogue-with-illust {
+      grid-template-columns: 1fr;
+    }
+  }
+  .dialogue-illust-col {
+    background: #FAFEFD;
+    border: 2px solid #A8DCE4;
+    border-radius: 16px;
+    padding: 12px;
+    text-align: center;
+    box-shadow: 0 4px 14px rgba(0, 88, 100, 0.05);
+    position: sticky;
+    top: 20px;
+  }
+  .dialogue-illust-img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    border: 1.5px solid #D9F2F5;
+  }
+  .dialogue-illust-caption {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #005864;
+    background: #E6F7F5;
+    padding: 5px 10px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  .dialogue-lines-col {
+    min-width: 0;
   }
   .slide-pager {
     display: none;
@@ -1325,7 +1379,7 @@
       <h1>日本語が話せますか（能力・可能表現「〜ことができます」・可能動詞）</h1>
     </div>
     <div class="header-controls">
-      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
+      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">ふりがな: ON</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1343,16 +1397,13 @@
 </header>
 
 <div class="nav-bar">
-  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 2つの可能表現＆比較</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-dialogue', this)">2. メイン会話</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice-koto', this)">3. 練習①：〜ことができます (26語)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice-pot-conj', this)">4. 練習②：可能形 活用50動詞</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice-pot-sent', this)">5. 練習③：可能形 実践問題</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice-trans', this)">6. 練習④：言い換え（を⇔が）</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-roleplay', this)">7. 4択チェック＆ロールプレイ</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-review', this)">8. 総復習 (26語)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)">9. 漢字 (10字)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)">10. 語彙プール (50語)</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-koto-dekiru', this)">〜ことができます</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-pot', this)"><ruby>可能形<rt>かのうけい</rt></ruby>（〜える/られる）</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice-trans', this)"><ruby>言<rt>い</rt></ruby>い<ruby>換<rt>か</rt></ruby>え（を⇔が）</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-system', this)"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-roleplay', this)"><ruby>理解度<rt>りかいど</rt></ruby>チェック</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)"><ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)"><ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></button>
 </div>
 
 <div class="slide-pager">
@@ -1363,18 +1414,121 @@
 
 <div class="container">
 
-  <!-- ==================== STEP 1: SYSTEM ==================== -->
-  <section class="content-card active-slide" id="sec-system">
+  <!-- ==================== TOP: MAIN DIALOGUE ==================== -->
+  <section class="content-card active-slide" id="sec-dialogue">
     <div class="card-header-row">
-      <div class="step-label">Step 1</div>
-      <div class="card-main-title">2つの可能表現：「〜ことができます」 ＆ 「可能形（〜える／〜られる）」</div>
-      <div class="card-subtitle-en">Japanese has two ways to say "can do ~": (1) [Verb Dictionary Form + ことができます] (polite/formal) and (2) [Potential Verb Form] (short &amp; natural in daily conversation). Both express ability ("I have the skill") and situational possibility ("It is possible here").</div>
+      <div class="step-label">Main Dialogue / <ruby>会話例<rt>かいわれい</rt></ruby></div>
+      <div class="card-main-title"><ruby>金曜日<rt>きんようび</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、オフィスで — Friday Evening at the Office</div>
+      <div class="card-subtitle-en">Mr. Tanaka and Ms. Suzuki wrap up their work on Friday and talk about weekend plans using potential expressions and Stage 1–4 grammar.</div>
       <div class="card-subtitle-native i18n-native"
-        data-ko="일본어에서 '~할 수 있다'를 나타내는 방법은 크게 두 가지입니다: ① [동사 사전형 + ことができます] (정중·격식), ② [가능형 동사] (일상 회화에서 자주 쓰는 짧은 표현). 둘 다 개인의 능력(기술)과 상황적 가능(허용·조건)을 나타냅니다!"
-        data-zhcn="日语中表示「能/会~」有两种核心句型：①【动词辞书形＋ことができます】（偏正式、书面或郑重口语）、②【动词可能形】（日常会话最常用的简短形式）。两者都能表达个人能力（会做某事）和客观条件允许（能做某事）！"
-        data-zhtw="日語中表示「能/會~」有兩種核心句型：①【動詞辭書形＋ことができます】（偏正式、書面或鄭重口語）、②【動詞可能形】（日常會話最常用的簡短形式）。兩者都能表達個人能力（會做某事）和客觀條件允許（能做某事）！"
-        data-cant="日文入面表示「識/可以~」有兩種核心句型：①【動詞辭書形＋ことができます】（比較正式、禮貌）、②【動詞可能形】（日常傾偈最常用嘅簡短形式）。兩種都可以表達個人能力（識做某件事）同客觀條件允許（可以做某件事）！"
-        data-fr="En japonais, il y a deux façons d'exprimer « pouvoir / savoir faire ~ » : ① [Forme du dictionnaire + ことができます] (poli/formel) et ② [Forme potentielle du verbe] (courant à l'oral)."></div>
+        data-ko="다나카 씨와 스즈키 씨가 금요일 저녁 업무 마무리와 주말 계획에 대해 이야기합니다."
+        data-zhcn="田中先生和铃木女士在周五傍晚的办公室聊工作收尾与周末安排。"
+        data-zhtw="田中先生和鈴木女士在週五傍晚的辦公室聊工作收尾與週末安排。"
+        data-cant="田中先生同鈴木小姐喺星期五傍晚嘅辦公室傾緊收工同週末嘅安排。"
+        data-fr="M. Tanaka et Mme Suzuki terminent leur travail le vendredi soir et discutent de leurs projets pour le week-end."></div>
+    </div>
+
+    <div class="dialogue-with-illust">
+      <div class="dialogue-illust-col">
+        <img src="../images/stage5_lesson1_dialogue.jpg" alt="金曜日の夕方の会話イラスト" class="dialogue-illust-img">
+        <div class="dialogue-illust-caption">🐻 <ruby>田中<rt>たなか</rt></ruby>さん ＆ 🐰 <ruby>鈴木<rt>すずき</rt></ruby>さん（<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>と<ruby>料理<rt>りょうり</rt></ruby>）</div>
+      </div>
+      <div class="dialogue-lines-col">
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('鈴木さん、今日の仕事はもう終わりましたか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>今日<rt>きょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はもう<ruby>終<rt>お</rt></ruby>わりましたか。</div>
+          <div class="dialogue-en-line">Ms. Suzuki, have you finished today's work already?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 오늘 일은 벌써 끝났어요?" data-zhcn="铃木女士，今天的工作已经做完了吗？" data-zhtw="鈴木女士，今天的工作已經做完了嗎？" data-cant="鈴木小姐，今日啲嘢做完未呀？" data-fr="Mme Suzuki, avez-vous déjà terminé votre travail d'aujourd'hui ?"></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('はい、さっき全部終わりましたから、今日は6時に帰れます。田中さんは何時ごろ帰れますか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">はい、さっき全部<ruby>終<rt>お</rt></ruby>わりましたから、<ruby>今日<rt>きょう</rt></ruby>は6<ruby>時<rt>じ</rt></ruby>に<strong><ruby>帰<rt>かえ</rt></ruby>れます</strong>。<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>何時<rt>なんじ</rt></ruby>ごろ<strong><ruby>帰<rt>かえ</rt></ruby>れますか</strong>。</div>
+          <div class="dialogue-en-line">Yes, I finished everything just now, so I can go home at 6:00 today. Around what time can you go home, Mr. Tanaka?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="네, 아까 다 끝나서 오늘은 6시에 돌아갈 수 있어요. 다나카 씨는 몇 시쯤 돌아갈 수 있어요?" data-zhcn="是的，刚才全部做完了，所以今天6点就能回家。田中先生大概几点能回家？" data-zhtw="是的，剛才全部做完了，所以今天6點就能回家。田中先生大概幾點能回家？" data-cant="係呀，頭先全部做完喇，所以今日6點走得。田中先生你大約幾點返到屋企呀？" data-fr="Oui, j'ai tout fini à l'instant, donc je peux rentrer à 18h aujourd'hui. Vers quelle heure pouvez-vous rentrer, M. Tanaka ?"></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('私も今日は6時に帰ることができます。今週はとても忙しかったですから、今夜は家でゆっくり休みたいですね。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>私<rt>わたし</rt></ruby>も<ruby>今日<rt>きょう</rt></ruby>は6<ruby>時<rt>じ</rt></ruby>に<strong><ruby>帰<rt>かえ</rt></ruby>ることができます</strong>。<ruby>今週<rt>こんしゅう</rt></ruby>はとても<ruby>忙<rt>いそが</rt></ruby>しかったですから、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいですね。</div>
+          <div class="dialogue-en-line">I can also leave at 6:00 today. Since we were very busy this week, I want to rest well at home tonight.</div>
+          <div class="dialogue-native-line i18n-native" data-ko="저도 오늘은 6시에 돌아갈 수 있어요. 이번 주는 정말 바빴으니까 오늘 밤은 집에서 푹 쉬고 싶네요." data-zhcn="我今天也能在6点回家。这周太忙了，今晚想在家里好好休息呢。" data-zhtw="我今天也能在6點回家。這週太忙了，今晚想在家裡好好休息呢。" data-cant="我今日都可以6點返屋企。今個禮拜太忙喇，今晚想喺屋企好好休息下。" data-fr="Je peux aussi partir à 18h aujourd'hui. Comme nous avons été très occupés cette semaine, je veux bien me reposer chez moi ce soir."></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('本当にそうですね。田中さんは、明日は何か予定がありますか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>本当<rt>ほんとう</rt></ruby>にそうですね。<ruby>田中<rt>たなか</rt></ruby>さんは、<ruby>明日<rt>あした</rt></ruby>は<ruby>何<rt>なに</rt></ruby>か<ruby>予定<rt>よてい</rt></ruby>がありますか。</div>
+          <div class="dialogue-en-line">I completely agree. Do you have any plans for tomorrow, Mr. Tanaka?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="정말 그렇네요. 다나카 씨는 내일 무슨 계획이 있어요?" data-zhcn="可不是嘛。田中先生明天有什么安排吗？" data-zhtw="可不是嘛。田中先生明天有什麼安排嗎？" data-cant="真係咁話呢。田中先生你聽日有冇咩節目呀？" data-fr="Tout à fait d'accord. Avez-vous des projets pour demain, M. Tanaka ?"></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('明日は休みで朝遅くまで寝られますから、午後から友達と映画を見に行きます。鈴木さんは何をしますか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>明日<rt>あした</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みで<ruby>朝<rt>あさ</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<strong><ruby>寝<rt>ね</rt></ruby>られます</strong>から、<ruby>午後<rt>ごご</rt></ruby>から<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何<rt>なに</rt></ruby>をしますか。</div>
+          <div class="dialogue-en-line">Tomorrow is my day off and I can sleep in late, so in the afternoon I'll go see a movie with a friend. What will you do, Ms. Suzuki?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="내일은 쉬는 날이라 아침 늦게까지 잘 수 있어서, 오후부터 친구와 영화를 보러 가요. 스즈키 씨는 뭐 하세요?" data-zhcn="明天休息，早上能睡个懒觉，下午跟朋友一起去看电影。铃木女士打算做什么？" data-zhtw="明天休息，早上能睡個懶覺，下午跟朋友一起去看電影。鈴木女士打算做什麼？" data-cant="聽日放假，朝早可以瞓到好晏，下晝同朋友去睇戲。鈴木小姐你會做咩呀？" data-fr="Demain je suis en congé et je peux dormir tard, donc l'après-midi j'irai voir un film avec un ami. Et vous, que ferez-vous ?"></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('私は家で日本料理を作りたいです。実は友達からとても簡単なレシピを聞いたんです。田中さんは料理が作れますか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>私<rt>わたし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたいです。<ruby>実<rt>じつ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>からとても<ruby>簡単<rt>かんたん</rt></ruby>なレシピを<ruby>聞<rt>き</rt></ruby>いたんです。<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>料理<rt>りょうり</rt></ruby><strong>が<ruby>作<rt>つく</rt></ruby>れますか</strong>。</div>
+          <div class="dialogue-en-line">I want to cook Japanese food at home. Actually, I heard a very easy recipe from a friend! Can you cook, Mr. Tanaka?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="저는 집에서 일본 요리를 만들고 싶어요. 사실 친구한테 아주 간단한 레시피를 들었거든요. 다나카 씨는 요리할 수 있어요?" data-zhcn="我想在家里做日本料理。其实我从朋友那里听到了一个非常简单的食谱。田中先生会做饭吗？" data-zhtw="我想在家裡做日本料理。其實我從朋友那裡聽到了一個非常簡單的食譜。田中先生會做飯嗎？" data-cant="我想喺屋企整日本菜。其實我問朋友攞咗個好簡單嘅食譜。田中先生你識唔識煮嘢食㗎？" data-fr="Je veux cuisiner japonais chez moi. En fait, un ami m'a donné une recette très simple. Savez-vous cuisiner, M. Tanaka ?"></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('ええ、簡単な料理なら作れますよ！そのレシピ、私にも教えてください。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">ええ、<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>なら<strong><ruby>作<rt>つく</rt></ruby>れます</strong>よ！そのレシピ、<ruby>私<rt>わたし</rt></ruby>にも<ruby>教<rt>おし</rt></ruby>えてください。</div>
+          <div class="dialogue-en-line">Yes, if it's a simple dish, I can make it! Please share that recipe with me too.</div>
+          <div class="dialogue-native-line i18n-native" data-ko="네, 간단한 요리라면 만들 수 있어요! 그 레시피, 저한테도 알려 주세요." data-zhcn="嗯，简单的菜我能做哦！那个食谱也请教教我吧。" data-zhtw="嗯，簡單的菜我能做喔！那個食譜也請教教我吧。" data-cant="係呀，簡單嘅菜式我都整到㗎！嗰個食譜都教下我吖。" data-fr="Oui, si c'est un plat simple, je sais le faire ! Partagez aussi cette recette avec moi."></div>
+        </div>
+
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('いいですよ！スマホに写真がありますから、今すぐ送れますよ。週末、作ってみてくださいね！')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">いいですよ！スマホに<ruby>写真<rt>しゃしん</rt></ruby>がありますから、<ruby>今<rt>いま</rt></ruby>すぐ<strong><ruby>送<rt>おく</rt></ruby>れます</strong>よ。<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>作<rt>つく</rt></ruby>ってみてくださいね！</div>
+          <div class="dialogue-en-line">Sure! I have the photo on my smartphone, so I can send it right now. Please try making it over the weekend!</div>
+          <div class="dialogue-native-line i18n-native" data-ko="좋아요! 스마트폰에 사진이 있으니까 지금 바로 보낼 수 있어요. 주말에 한번 만들어 보세요!" data-zhcn="好呀！我手机里有照片，现在马上就能发给你哦。周末请试着做做看吧！" data-zhtw="好呀！我手機裡有照片，現在馬上就能發給你喔。週末請試著做做看吧！" data-cant="好呀！我部手機有相，而家即刻可以send畀你。週末試下整啦！" data-fr="Bien sûr ! J'ai la photo sur mon téléphone, je peux vous l'envoyer tout de suite. Essayez-la ce week-end !"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== GRAMMAR 1: 〜ことができます ==================== -->
+  <section class="content-card" id="gram-koto-dekiru">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 1</div>
+      <div class="card-main-title">［<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書形<rt>じしょけい</rt></ruby>］＋ ことができます（<ruby>丁寧<rt>ていねい</rt></ruby>で<ruby>基本<rt>きほん</rt></ruby>の<ruby>可能<rt>かのう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>）</div>
+      <div class="card-subtitle-en">Attach <strong>ことができます</strong> directly to the dictionary form of any verb. The object particle <strong>を stays を</strong>!</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="동사 사전형(기본형) 뒤에 그대로 'ことができます'를 붙입니다. 목적격 조사 'を'는 그대로 'を'를 유지합니다!"
+        data-zhcn="在动词辞书形（原形）后面直接加上「ことができます」。前面的宾语助词依然保持「を」不变！"
+        data-zhtw="在動詞辭書形（原形）後面直接加上「ことができます」。前面的賓語助詞依然保持「を」不變！"
+        data-cant="喺動詞辭書形（原形）後面直接加「ことができます」。前面嘅賓語助詞依然保持用「を」！"
+        data-fr="Ajoutez simplement ことができます après la forme du dictionnaire. La particule d'objet を reste を !"></div>
     </div>
 
     <!-- Grammar A: ことができます -->
@@ -1453,234 +1607,20 @@
         </div>
       </div>
     </div>
-
-    <!-- Grammar B: 可能形 -->
-    <div class="grammar-block">
-      <div class="grammar-visual-card">
-        <div class="grammar-card-head">
-          <span class="grammar-tag" style="background:var(--teal-text);">Pattern 2</span>
-          <strong>可能形（可能動詞：〜える ／ 〜られる ／ できる・<ruby>来<rt>こ</rt></ruby>られる）</strong>
-        </div>
-        <div class="grammar-desc-en">In daily conversation, native speakers prefer the shorter <strong>Potential Verb Form</strong>. When you change a verb into its potential form, the object marker <strong>を changes to が</strong>! (Other particles like へ, に, で, と do NOT change.)</div>
-        <div class="grammar-desc-native i18n-native"
-          data-ko="일상 회화에서 일본인은 더 짧은 '가능형 동사'를 가장 많이 씁니다! 가능형 동사를 쓸 때는 목적격 조사 'を'가 원칙적으로 'が'로 바뀝니다! (단, へ, に, で, と 같은 다른 조사는 바뀌지 않습니다.)"
-          data-zhcn="在日常会话中，母语者更常使用简短的【可能形动词】。变为可能形后，原本的宾语助词「を」原则上要变成「が」！（但「へ、に、で、と」等其他助词保持不变。）"
-          data-zhtw="在日常會話中，母語者更常使用簡短的【可能形動詞】。變為可能形後，原本的賓語助詞「を」原則上要變成「が」！（但「へ、に、で、と」等其他助詞保持不變。）"
-          data-cant="喺日常傾偈入面，日本人更常用簡短嘅【可能形動詞】。變做可能形之後，原本嘅賓語助詞「を」原則上要變做「が」！（但係「へ、に、で、と」等其他助詞就唔使變。）"
-          data-fr="À l'oral, on préfère la forme potentielle, plus courte. Avec la forme potentielle, la particule d'objet を devient が ! (Les autres particules comme へ, に, で ne changent pas.)"></div>
-
-        <table class="conj-table" style="margin-top:12px;">
-          <tr><th>グループ</th><th>作り方のルール</th><th>辞書形 ➔ 可能形（普通形 ／ 丁寧形）</th></tr>
-          <tr>
-            <td><strong>グループI（五段）</strong></td>
-            <td>う段（u）の音 ➔ <strong>え段（e）＋ る</strong></td>
-            <td><ruby>話<rt>はな</rt></ruby><strong>す</strong> ➔ <ruby>話<rt>はな</rt></ruby><strong>せる</strong>（<ruby>話<rt>はな</rt></ruby>せます） ／ <ruby>行<rt>い</rt></ruby><strong>く</strong> ➔ <ruby>行<rt>い</rt></ruby><strong>ける</strong>（<ruby>行<rt>い</rt></ruby>けます）</td>
-          </tr>
-          <tr>
-            <td><strong>グループII（一段）</strong></td>
-            <td>る を取って ＋ <strong>られる</strong></td>
-            <td><ruby>食<rt>た</rt></ruby>べ<strong>る</strong> ➔ <ruby>食<rt>た</rt></ruby>べ<strong>られる</strong>（<ruby>食<rt>た</rt></ruby>べられます） ／ <ruby>起<rt>お</rt></ruby>き<strong>る</strong> ➔ <ruby>起<rt>お</rt></ruby>き<strong>られる</strong></td>
-          </tr>
-          <tr>
-            <td><strong>グループIII（不規則）</strong></td>
-            <td>丸暗記！（特に「<ruby>来<rt>こ</rt></ruby>られる」の読み方に注意）</td>
-            <td><strong>する</strong> ➔ <strong>できる</strong>（できます） ／ <strong><ruby>来<rt>く</rt></ruby>る</strong> ➔ <strong><ruby>来<rt>こ</rt></ruby>られる</strong>（<ruby>来<rt>こ</rt></ruby>られます）</td>
-          </tr>
-        </table>
-
-        <div class="grammar-diagram">
-          <div class="diagram-step">
-            <div class="diagram-chip"><ruby>漢字<rt>かんじ</rt></ruby><strong>を</strong><ruby>読<rt>よ</rt></ruby>むことができます</div>
-            <div class="diagram-caption">〜ことができます（助詞「を」）</div>
-          </div>
-          <div class="diagram-arrow">⇄</div>
-          <div class="diagram-step">
-            <div class="diagram-chip highlight"><ruby>漢字<rt>かんじ</rt></ruby><strong>が</strong><ruby>読<rt>よ</rt></ruby>めます</div>
-            <div class="diagram-caption">可能動詞（助詞「を ➔ が」に変化！）</div>
-          </div>
-        </div>
-
-        <div class="nuance-box">
-          <div class="nuance-title">💡 コアニュアンス＆使い分け：「〜ことができます」 vs 「可能形」</div>
-          <div>
-            ・<strong>〜ことができます</strong>：少し丁寧で改まった響き。自己紹介やビジネスメール、書き言葉でよく使われます。<br>
-            ・<strong>可能形（〜えます／〜られます）</strong>：短くてテンポが良いため、<strong>日常の会話では80%以上こちら</strong>が使われます！<br>
-            ・<strong>💬 豆知識「ら抜き言葉」</strong>：日常会話で「食べれます・見れます」と言う人もいますが、JLPT試験やビジネスでは必ず「<strong>ら</strong>」を入れて<strong>「食べられます・来られます」</strong>と言いましょう。
-            <div class="i18n-switch" data-en="• ことができます: Slightly formal/written.&lt;br&gt;• Potential Verb: Used 80%+ of the time in daily speech!&lt;br&gt;• Note on &#x27;Ra-nuki&#x27; (dropping ら like 食べれる): Heard in casual speech, but always keep ら (食べられます) for JLPT and polite situations!" data-ko="• 〜ことができます: 조금 격식 있고 정중한 어감.&lt;br&gt;• 가능형 동사: 짧고 자연스러워 일상 회화의 80% 이상에서 사용!&lt;br&gt;• &#x27;ら 빼기 말(食べれる 등)&#x27;: 구어에서 쓰이기도 하지만 JLPT 시험과 비즈니스에서는 반드시 &#x27;ら&#x27;를 넣어 &#x27;食べられます&#x27;로 씁니다." data-zhcn="• 〜ことができます：语感较正式，常用于自我介绍或书面语。&lt;br&gt;• 可能形动词：简短自然，日常会话80%以上使用此形式！&lt;br&gt;• 豆知识「ら抜き言葉」：口语中有人把「食べられます」说成「食べれます」，但在JLPT考试和商务场合必须保留「ら」！" data-zhtw="• 〜ことができます：語感較正式，常用於自我介紹或書面語。&lt;br&gt;• 可能形動詞：簡短自然，日常會話80%以上使用此形式！&lt;br&gt;• 豆知識「ら抜き言葉」：口語中有人把「食べられます」說成「食べれます」，但在JLPT考試和商務場合必須保留「ら」！" data-cant="• 〜ことができます：語感比較正式，常用於自我介紹或書面語。&lt;br&gt;• 可能形動詞：簡短自然，日常傾偈80%以上都用呢個！&lt;br&gt;• 豆知識「ら抜き言葉」：口語有時會聽到人講「食べれます」，但喺JLPT考試同商務場合一定要保留個「ら」（食べられます）！" data-fr="• ことができます: Slightly formal/written.&lt;br&gt;• Potential Verb: Used 80%+ of the time in daily speech!&lt;br&gt;• Note on &#x27;Ra-nuki&#x27; (dropping ら like 食べれる): Heard in casual speech, but always keep ら (食べられます) for JLPT and polite situations!">• ことができます: Slightly formal/written.<br>• Potential Verb: Used 80%+ of the time in daily speech!<br>• Note on 'Ra-nuki' (dropping ら like 食べれる): Heard in casual speech, but always keep ら (食べられます) for JLPT and polite situations!</div>
-          </div>
-        </div>
-
-        <div class="pitfall-grid">
-          <div class="pitfall-card pitfall-wrong">
-            <span class="badge-wrong">誤用 (Incorrect)</span>
-            <ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>が</strong><ruby>来<rt>こ</rt></ruby>られますか。<br>
-            <small>※「会議に来る」の「に」まで「が」に変えてしまうミス！</small>
-            <div class="i18n-switch" data-en="※ Don&#x27;t change に to が! Only を changes to が." data-ko="※ &#x27;会議に来る&#x27;의 &#x27;に&#x27;까지 &#x27;が&#x27;로 바꾸면 오답!" data-zhcn="※ 不能把「会議に来る」的「に」也改成「が」！" data-zhtw="※ 不能把「会議に来る」的「に」也改成「が」！" data-cant="※ 唔好將「会議に来る」嘅「に」都改埋做「が」！" data-fr="※ Don&#x27;t change に to が! Only を changes to が.">※ Don't change に to が! Only を changes to が.</div>
-          </div>
-          <div class="pitfall-card pitfall-right">
-            <span class="badge-right">正解 (Correct)</span>
-            <ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>に</strong><ruby>来<rt>こ</rt></ruby>られますか。<br>
-            <small>※「が」に変わるのは<strong>「を」だけ</strong>です！「に・へ・で・と」はそのまま残します。</small>
-            <div class="i18n-switch" data-en="※ Keep に, へ, で, と unchanged!" data-ko="※ &#x27;が&#x27;로 바뀌는 것은 &#x27;を&#x27;뿐입니다! &#x27;に·へ·で·と&#x27;는 그대로 유지합니다." data-zhcn="※ 变成「が」的只有「を」！「に・へ・で・と」保持不变。" data-zhtw="※ 變成「が」的只有「を」！「に・へ・で・と」保持不變。" data-cant="※ 變做「が」嘅只有「を」！「に・へ・で・と」保持唔變。" data-fr="※ Keep に, へ, で, と unchanged!">※ Keep に, へ, で, と unchanged!</div>
-          </div>
-        </div>
-
-        <div class="examples-block">
-          <div class="examples-label">基本例文（3つ）</div>
-          <div class="example-row">
-            <div class="example-num">1</div>
-            <div class="example-content">
-              <div class="example-jp">鈴木さんは<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>に<ruby>話<rt>はな</rt></ruby>せます。<button class="tts-btn" onclick="speakText('鈴木さんは日本語が上手に話せます。')" title="Listen">🔊</button></div>
-              <div class="example-en">Ms. Suzuki can speak Japanese very well.</div>
-              <div class="example-native i18n-native" data-ko="스즈키 씨는 일본어를 유창하게 할 수 있어요." data-zhcn="铃木女士日语说得很好。" data-zhtw="鈴木女士日語說得很好。" data-cant="鈴木小姐日文講得好叻。" data-fr="Mme Suzuki parle très bien japonais."></div>
-            </div>
-          </div>
-          <div class="example-row">
-            <div class="example-num">2</div>
-            <div class="example-content">
-              <div class="example-jp"><ruby>刺身<rt>さしみ</rt></ruby>や<ruby>納豆<rt>なっとう</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられますか。<button class="tts-btn" onclick="speakText('刺身や納豆が食べられますか。')" title="Listen">🔊</button></div>
-              <div class="example-en">Can you eat sashimi and natto?</div>
-              <div class="example-native i18n-native" data-ko="회나 낫토를 먹을 수 있어요?" data-zhcn="你能吃生鱼片和纳豆吗？" data-zhtw="你能吃生魚片和納豆嗎？" data-cant="你食唔食到刺身同納豆㗎？" data-fr="Pouvez-vous manger des sashimis et du natto ?"></div>
-            </div>
-          </div>
-          <div class="example-row">
-            <div class="example-num">3</div>
-            <div class="example-content">
-              <div class="example-jp"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られますか。<button class="tts-btn" onclick="speakText('明日の会議に来られますか。')" title="Listen">🔊</button></div>
-              <div class="example-en">Can you come to tomorrow's meeting?</div>
-              <div class="example-native i18n-native" data-ko="내일 회의에 올 수 있어요?" data-zhcn="明天的会议你能来吗？" data-zhtw="明天的會議你能來嗎？" data-cant="聽日嘅會議你嚟唔嚟到呀？" data-fr="Pouvez-vous venir à la réunion de demain ?"></div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Comparison table: 聞ける/見られる vs 聞こえる/見える -->
-        <div style="margin-top:16px; background:var(--mid-cyan-bg); border:1.5px solid var(--mid-cyan-border); border-radius:12px; padding:14px 18px;">
-          <div style="font-weight:700; color:var(--mid-cyan-text); margin-bottom:8px;">🔍 似た表現の徹底比較：「見られる・聞ける（意志・条件の可能）」 vs 「見える・聞こえる（自然知覚）」</div>
-          <table class="conj-table" style="margin-bottom:0;">
-            <tr><th>表現</th><th>コアイメージ</th><th>自然な例文</th></tr>
-            <tr>
-              <td><strong><ruby>見<rt>み</rt></ruby>られます ／ <ruby>聞<rt>き</rt></ruby>けます（<ruby>聴<rt>き</rt></ruby>けます）</strong></td>
-              <td>自分の意志やシステム・条件によって「視聴・質問できる」</td>
-              <td>・このアプリで<ruby>日本<rt>にほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が<strong><ruby>見<rt>み</rt></ruby>られます</strong>。<br>・ここで<ruby>音楽<rt>おんがく</rt></ruby>が<strong><ruby>聴<rt>き</rt></ruby>けます</strong>。</td>
-            </tr>
-            <tr>
-              <td><strong><ruby>見<rt>み</rt></ruby>えます ／ <ruby>聞<rt>き</rt></ruby>こえます</strong></td>
-              <td>意識しなくても自然に目や耳に入ってくる（視界・聴覚）</td>
-              <td>・<ruby>窓<rt>まど</rt></ruby>から<ruby>富士山<rt>ふじさん</rt></ruby>がきれいに<strong><ruby>見<rt>み</rt></ruby>えます</strong>。<br>・<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>から<ruby>声<rt>こえ</rt></ruby>が<strong><ruby>聞<rt>き</rt></ruby>こえます</strong>。</td>
-            </tr>
-          </table>
-        </div>
-      </div>
-    </div>
   </section>
 
-  <!-- ==================== STEP 2: MAIN DIALOGUE ==================== -->
-  <section class="content-card" id="sec-dialogue">
-    <div class="card-header-row">
-      <div class="step-label">Step 2</div>
-      <div class="card-main-title">Main Dialogue: 金曜日の夕方、オフィスで — Friday Evening at the Office</div>
-      <div class="card-subtitle-en">Mr. Tanaka and Ms. Suzuki wrap up their work on Friday and talk about weekend plans using potential expressions and Stage 1–4 grammar.</div>
-      <div class="card-subtitle-native i18n-native"
-        data-ko="다나카 씨와 스즈키 씨가 금요일 저녁 업무 마무리와 주말 계획에 대해 이야기합니다."
-        data-zhcn="田中先生和铃木女士在周五傍晚的办公室聊工作收尾与周末安排。"
-        data-zhtw="田中先生和鈴木女士在週五傍晚的辦公室聊工作收尾與週末安排。"
-        data-cant="田中先生同鈴木小姐喺星期五傍晚嘅辦公室傾緊收工同週末嘅安排。"
-        data-fr="M. Tanaka et Mme Suzuki terminent leur travail le vendredi soir et discutent de leurs projets pour le week-end."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('鈴木さん、今日の仕事はもう終わりましたか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">鈴木さん、<ruby>今日<rt>きょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はもう<ruby>終<rt>お</rt></ruby>わりましたか。</div>
-      <div class="dialogue-en-line">Ms. Suzuki, have you finished today's work already?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 오늘 일은 벌써 끝났어요?" data-zhcn="铃木女士，今天的工作已经做完了吗？" data-zhtw="鈴木女士，今天的工作已經做完了嗎？" data-cant="鈴木小姐，今日啲嘢做完未呀？" data-fr="Mme Suzuki, avez-vous déjà terminé votre travail d'aujourd'hui ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('はい、さっき全部終わりましたから、今日は6時に帰れます。田中さんは何時ごろ帰れますか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">はい、さっき全部<ruby>終<rt>お</rt></ruby>わりましたから、<ruby>今日<rt>きょう</rt></ruby>は6<ruby>時<rt>じ</rt></ruby>に<strong><ruby>帰<rt>かえ</rt></ruby>れます</strong>。田中さんは<ruby>何時<rt>なんじ</rt></ruby>ごろ<strong><ruby>帰<rt>かえ</rt></ruby>れますか</strong>。</div>
-      <div class="dialogue-en-line">Yes, I finished everything just now, so I can go home at 6:00 today. Around what time can you go home, Mr. Tanaka?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="네, 아까 다 끝나서 오늘은 6시에 돌아갈 수 있어요. 다나카 씨는 몇 시쯤 돌아갈 수 있어요?" data-zhcn="是的，刚才全部做完了，所以今天6点就能回家。田中先生大概几点能回家？" data-zhtw="是的，剛才全部做完了，所以今天6點就能回家。田中先生大概幾點能回家？" data-cant="係呀，頭先全部做完喇，所以今日6點走得。田中先生你大約幾點返到屋企呀？" data-fr="Oui, j'ai tout fini à l'instant, donc je peux rentrer à 18h aujourd'hui. Vers quelle heure pouvez-vous rentrer, M. Tanaka ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('私も今日は6時に帰ることができます。今週はとても忙しかったですから、今夜は家でゆっくり休みたいですね。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>私<rt>わたし</rt></ruby>も<ruby>今日<rt>きょう</rt></ruby>は6<ruby>時<rt>じ</rt></ruby>に<strong><ruby>帰<rt>かえ</rt></ruby>ることができます</strong>。<ruby>今週<rt>こんしゅう</rt></ruby>はとても<ruby>忙<rt>いそが</rt></ruby>しかったですから、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいですね。</div>
-      <div class="dialogue-en-line">I can also leave at 6:00 today. Since we were very busy this week, I want to rest well at home tonight.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="저도 오늘은 6시에 돌아갈 수 있어요. 이번 주는 정말 바빴으니까 오늘 밤은 집에서 푹 쉬고 싶네요." data-zhcn="我今天也能在6点回家。这周太忙了，今晚想在家里好好休息呢。" data-zhtw="我今天也能在6點回家。這週太忙了，今晚想在家裡好好休息呢。" data-cant="我今日都可以6點返屋企。今個禮拜太忙喇，今晚想喺屋企好好休息下。" data-fr="Je peux aussi partir à 18h aujourd'hui. Comme nous avons été très occupés cette semaine, je veux bien me reposer chez moi ce soir."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('本当にそうですね。田中さんは、明日は何か予定がありますか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>本当<rt>ほんとう</rt></ruby>にそうですね。田中さんは、<ruby>明日<rt>あした</rt></ruby>は<ruby>何<rt>なに</rt></ruby>か<ruby>予定<rt>よてい</rt></ruby>がありますか。</div>
-      <div class="dialogue-en-line">I completely agree. Do you have any plans for tomorrow, Mr. Tanaka?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="정말 그렇네요. 다나카 씨는 내일 무슨 계획이 있어요?" data-zhcn="可不是嘛。田中先生明天有什么安排吗？" data-zhtw="可不是嘛。田中先生明天有什麼安排嗎？" data-cant="真係咁話呢。田中先生你聽日有冇咩節目呀？" data-fr="Tout à fait d'accord. Avez-vous des projets pour demain, M. Tanaka ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('明日は休みで朝遅くまで寝られますから、午後から友達と映画を見に行きます。鈴木さんは何をしますか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>明日<rt>あした</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みで<ruby>朝<rt>あさ</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<strong><ruby>寝<rt>ね</rt></ruby>られます</strong>から、<ruby>午後<rt>ごご</rt></ruby>から<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。鈴木さんは<ruby>何<rt>なに</rt></ruby>をしますか。</div>
-      <div class="dialogue-en-line">Tomorrow is my day off and I can sleep in late, so in the afternoon I'll go see a movie with a friend. What will you do, Ms. Suzuki?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="내일은 쉬는 날이라 아침 늦게까지 잘 수 있어서, 오후부터 친구와 영화를 보러 가요. 스즈키 씨는 뭐 하세요?" data-zhcn="明天休息，早上能睡个懒觉，下午跟朋友一起去看电影。铃木女士打算做什么？" data-zhtw="明天休息，早上能睡個懶覺，下午跟朋友一起去看電影。鈴木女士打算做什麼？" data-cant="聽日放假，朝早可以瞓到好晏，下晝同朋友去睇戲。鈴木小姐你會做咩呀？" data-fr="Demain je suis en congé et je peux dormir tard, donc l'après-midi j'irai voir un film avec un ami. Et vous, que ferez-vous ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('私は家で日本料理を作りたいです。実は友達からとても簡単なレシピを聞いたんです。田中さんは料理が作れますか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>私<rt>わたし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたいです。<ruby>実<rt>じつ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>からとても<ruby>簡単<rt>かんたん</rt></ruby>なレシピを<ruby>聞<rt>き</rt></ruby>いたんです。田中さんは<ruby>料理<rt>りょうり</rt></ruby><strong>が<ruby>作<rt>つく</rt></ruby>れますか</strong>。</div>
-      <div class="dialogue-en-line">I want to cook Japanese food at home. Actually, I heard a very easy recipe from a friend! Can you cook, Mr. Tanaka?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="저는 집에서 일본 요리를 만들고 싶어요. 사실 친구한테 아주 간단한 레시피를 들었거든요. 다나카 씨는 요리할 수 있어요?" data-zhcn="我想在家里做日本料理。其实我从朋友那里听到了一个非常简单的食谱。田中先生会做饭吗？" data-zhtw="我想在家裡做日本料理。其實我從朋友那裡聽到了一個非常簡單的食譜。田中先生會做飯嗎？" data-cant="我想喺屋企整日本菜。其實我問朋友攞咗個好簡單嘅食譜。田中先生你識唔識煮嘢食㗎？" data-fr="Je veux cuisiner japonais chez moi. En fait, un ami m'a donné une recette très simple. Savez-vous cuisiner, M. Tanaka ?"></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('ええ、簡単な料理なら作れますよ！そのレシピ、私にも教えてください。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">ええ、<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>なら<strong><ruby>作<rt>つく</rt></ruby>れます</strong>よ！そのレシピ、<ruby>私<rt>わたし</rt></ruby>にも<ruby>教<rt>おし</rt></ruby>えてください。</div>
-      <div class="dialogue-en-line">Yes, if it's a simple dish, I can make it! Please share that recipe with me too.</div>
-      <div class="dialogue-native-line i18n-native" data-ko="네, 간단한 요리라면 만들 수 있어요! 그 레시피, 저한테도 알려 주세요." data-zhcn="嗯，简单的菜我能做哦！那个食谱也请教教我吧。" data-zhtw="嗯，簡單的菜我能做喔！那個食譜也請教教我吧。" data-cant="係呀，簡單嘅菜式我都整到㗎！嗰個食譜都教下我吖。" data-fr="Oui, si c'est un plat simple, je sais le faire ! Partagez aussi cette recette avec moi."></div>
-    </div>
-
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('いいですよ！スマホに写真がありますから、今すぐ送れますよ。週末、作ってみてくださいね！')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">いいですよ！スマホに<ruby>写真<rt>しゃしん</rt></ruby>がありますから、<ruby>今<rt>いま</rt></ruby>すぐ<strong><ruby>送<rt>おく</rt></ruby>れます</strong>よ。<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>作<rt>つく</rt></ruby>ってみてくださいね！</div>
-      <div class="dialogue-en-line">Sure! I have the photo on my smartphone, so I can send it right now. Please try making it over the weekend!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="좋아요! 스마트폰에 사진이 있으니까 지금 바로 보낼 수 있어요. 주말에 한번 만들어 보세요!" data-zhcn="好呀！我手机里有照片，现在马上就能发给你哦。周末请试着做做看吧！" data-zhtw="好呀！我手機裡有照片，現在馬上就能發給你喔。週末請試著做做看吧！" data-cant="好呀！我部手機有相，而家即刻可以send畀你。週末試下整啦！" data-fr="Bien sûr ! J'ai la photo sur mon téléphone, je peux vous l'envoyer tout de suite. Essayez-la ce week-end !"></div>
-    </div>
-  </section>
-
-  <!-- ==================== STEP 3: 最初の練習問題「〜ことができます」（Flashcard #42 全26単語） ==================== -->
+  <!-- ==================== 最初の練習問題「〜ことができます」 ==================== -->
   <section class="content-card" id="sec-practice-koto">
     <div class="card-header-row">
-      <div class="step-label">Step 3 - First Practice (Flashcard #42 Complete)</div>
-      <div class="card-main-title">練習①：［動詞辞書形］＋ ことができます（宿題 Flashcard #42 全26語）</div>
-      <div class="card-subtitle-en">Practice [Verb Dictionary Form + ことができます] using all 26 core verbs from Homework Flashcard #42.</div>
+      <div class="step-label">Drill 1</div>
+      <div class="card-main-title"><ruby>練習<rt>れんしゅう</rt></ruby>①：［<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>］＋ ことができます（<ruby>全<rt>ぜん</rt></ruby>26<ruby>語<rt>ご</rt></ruby>）</div>
+      <div class="card-subtitle-en">Practice [Verb Dictionary Form + ことができます] using all 26 core verbs.</div>
       <div class="card-subtitle-native i18n-native"
-        data-ko="숙제 플래시카드 #42의 핵심 동사 26개 전체를 사용한 [동사 사전형 + ことができます] 연습입니다."
-        data-zhcn="使用作业闪卡 #42 全部26个核心动词进行的【动词辞书形＋ことができます】专项练习。"
-        data-zhtw="使用作業閃卡 #42 全部26個核心動詞進行的【動詞辭書形＋ことができます】專項練習。"
-        data-cant="用齊功課閃卡 #42 全部26個核心動詞嘅【動詞辭書形＋ことができます】練習。"
-        data-fr="Pratiquez [Forme du dictionnaire + ことができます] avec les 26 verbes du paquet Flashcard #42."></div>
+        data-ko="핵심 동사 26개 전체를 사용한 [동사 사전형 + ことができます] 연습입니다."
+        data-zhcn="使用全部26个核心动词进行的【动词辞书形＋ことができます】专项练习。"
+        data-zhtw="使用全部26個核心動詞進行的【動詞辭書形＋ことができます】專項練習。"
+        data-cant="用齊全部26個核心動詞嘅【動詞辭書形＋ことができます】練習。"
+        data-fr="Pratiquez [Forme du dictionnaire + ことができます] avec les 26 verbes clés."></div>
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-1')">
       <div class="toggle-prompt-row">
@@ -1944,18 +1884,124 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 4: PRACTICE「可能形」活用ドリル 50動詞 ==================== -->
+  <!-- ==================== GRAMMAR 2: 可能形 ==================== -->
+  <section class="content-card" id="gram-pot">
+    <div class="card-header-row">
+      <div class="step-label">Grammar 2</div>
+      <div class="card-main-title"><ruby>可能形<rt>かのうけい</rt></ruby>（<ruby>可能動詞<rt>かのうどうし</rt></ruby>：〜える ／ 〜られる ／ できる・<ruby>来<rt>こ</rt></ruby>られる）</div>
+      <div class="card-subtitle-en">In daily conversation, native speakers prefer the shorter <strong>Potential Verb Form</strong>. When you change a verb into its potential form, the object marker <strong>を changes to が</strong>!</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="일상 회화에서 일본인은 더 짧은 '가능형 동사'를 가장 많이 씁니다! 가능형 동사를 쓸 때는 목적격 조사 'を'가 원칙적으로 'が'로 바뀝니다!"
+        data-zhcn="在日常会话中，母语者更常使用简短的【可能形动词】。变为可能形后，原本的宾语助词「を」原则上要变成「が」！"
+        data-zhtw="在日常會話中，母語者更常使用簡短的【可能形動詞】。變為可能形後，原本的賓語助詞「を」原則上要變成「が」！"
+        data-cant="喺日常傾偈入面，日本人更常用簡短嘅【可能形動詞】。變做可能形之後，原本嘅賓語助詞「を」原則上要變做「が」！"
+        data-fr="À l'oral, on préfère la forme potentielle, plus courte. Avec la forme potentielle, la particule d'objet を devient が !"></div>
+    </div>
+
+    <!-- Grammar B: 可能形 -->
+    <div class="grammar-block">
+      <div class="grammar-visual-card">
+        <div class="grammar-card-head">
+          <span class="grammar-tag" style="background:var(--teal-text);">Pattern 2</span>
+          <strong>可能形（可能動詞：〜える ／ 〜られる ／ できる・<ruby>来<rt>こ</rt></ruby>られる）</strong>
+        </div>
+        <div class="grammar-desc-en">In daily conversation, native speakers prefer the shorter <strong>Potential Verb Form</strong>. When you change a verb into its potential form, the object marker <strong>を changes to が</strong>! (Other particles like へ, に, で, と do NOT change.)</div>
+        <div class="grammar-desc-native i18n-native"
+          data-ko="일상 회화에서 일본인은 더 짧은 '가능형 동사'를 가장 많이 씁니다! 가능형 동사를 쓸 때는 목적격 조사 'を'가 원칙적으로 'が'로 바뀝니다! (단, へ, に, で, と 같은 다른 조사는 바뀌지 않습니다.)"
+          data-zhcn="在日常会话中，母语者更常使用简短的【可能形动词】。变为可能形后，原本的宾语助词「を」原则上要变成「が」！（但「へ、に、で、と」等其他助词保持不变。）"
+          data-zhtw="在日常會話中，母語者更常使用簡短的【可能形動詞】。變為可能形後，原本的賓語助詞「を」原則上要變成「が」！（但「へ、に、で、と」等其他助詞保持不變。）"
+          data-cant="喺日常傾偈入面，日本人更常用簡短嘅【可能形動詞】。變做可能形之後，原本嘅賓語助詞「を」原則上要變做「が」！（但係「へ、に、で、と」等其他助詞就唔使變。）"
+          data-fr="À l'oral, on préfère la forme potentielle, plus courte. Avec la forme potentielle, la particule d'objet を devient が ! (Les autres particules comme へ, に, で ne changent pas.)"></div>
+
+        <table class="conj-table" style="margin-top:12px;">
+          <tr><th>グループ</th><th>作り方のルール</th><th>辞書形 ➔ 可能形（普通形 ／ 丁寧形）</th></tr>
+          <tr>
+            <td><strong>グループI（五段）</strong></td>
+            <td>う段（u）の音 ➔ <strong>え段（e）＋ る</strong></td>
+            <td><ruby>話<rt>はな</rt></ruby><strong>す</strong> ➔ <ruby>話<rt>はな</rt></ruby><strong>せる</strong>（<ruby>話<rt>はな</rt></ruby>せます） ／ <ruby>行<rt>い</rt></ruby><strong>く</strong> ➔ <ruby>行<rt>い</rt></ruby><strong>ける</strong>（<ruby>行<rt>い</rt></ruby>けます）</td>
+          </tr>
+          <tr>
+            <td><strong>グループII（一段）</strong></td>
+            <td>る を取って ＋ <strong>られる</strong></td>
+            <td><ruby>食<rt>た</rt></ruby>べ<strong>る</strong> ➔ <ruby>食<rt>た</rt></ruby>べ<strong>られる</strong>（<ruby>食<rt>た</rt></ruby>べられます） ／ <ruby>起<rt>お</rt></ruby>き<strong>る</strong> ➔ <ruby>起<rt>お</rt></ruby>き<strong>られる</strong></td>
+          </tr>
+          <tr>
+            <td><strong>グループIII（不規則）</strong></td>
+            <td>丸暗記！（特に「<ruby>来<rt>こ</rt></ruby>られる」の読み方に注意）</td>
+            <td><strong>する</strong> ➔ <strong>できる</strong>（できます） ／ <strong><ruby>来<rt>く</rt></ruby>る</strong> ➔ <strong><ruby>来<rt>こ</rt></ruby>られる</strong>（<ruby>来<rt>こ</rt></ruby>られます）</td>
+          </tr>
+        </table>
+
+        <div class="grammar-diagram">
+          <div class="diagram-step">
+            <div class="diagram-chip"><ruby>漢字<rt>かんじ</rt></ruby><strong>を</strong><ruby>読<rt>よ</rt></ruby>むことができます</div>
+            <div class="diagram-caption">〜ことができます（助詞「を」）</div>
+          </div>
+          <div class="diagram-arrow">⇄</div>
+          <div class="diagram-step">
+            <div class="diagram-chip highlight"><ruby>漢字<rt>かんじ</rt></ruby><strong>が</strong><ruby>読<rt>よ</rt></ruby>めます</div>
+            <div class="diagram-caption">可能動詞（助詞「を ➔ が」に変化！）</div>
+          </div>
+        </div>
+
+        <div class="pitfall-grid">
+          <div class="pitfall-card pitfall-wrong">
+            <span class="badge-wrong">誤用 (Incorrect)</span>
+            <ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>が</strong><ruby>来<rt>こ</rt></ruby>られますか。<br>
+            <small>※「会議に来る」の「に」まで「が」に変えてしまうミス！</small>
+            <div class="i18n-switch" data-en="※ Don&#x27;t change に to が! Only を changes to が." data-ko="※ &#x27;会議に来る&#x27;의 &#x27;に&#x27;까지 &#x27;が&#x27;로 바꾸면 오답!" data-zhcn="※ 不能把「会議に来る」的「に」也改成「が」！" data-zhtw="※ 不能把「会議に来る」的「に」也改成「が」！" data-cant="※ 唔好將「会議に来る」嘅「に」都改埋做「が」！" data-fr="※ Don&#x27;t change に to が! Only を changes to が.">※ Don't change に to が! Only を changes to が.</div>
+          </div>
+          <div class="pitfall-card pitfall-right">
+            <span class="badge-right">正解 (Correct)</span>
+            <ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>に</strong><ruby>来<rt>こ</rt></ruby>られますか。<br>
+            <small>※「が」に変わるのは<strong>「を」だけ</strong>です！「に・へ・で・と」はそのまま残します。</small>
+            <div class="i18n-switch" data-en="※ Keep に, へ, で, と unchanged!" data-ko="※ &#x27;が&#x27;로 바뀌는 것은 &#x27;を&#x27;뿐입니다! &#x27;に·へ·で·と&#x27;는 그대로 유지합니다." data-zhcn="※ 变成「が」的只有「を」！「に・へ・で・と」保持不变。" data-zhtw="※ 變成「が」的只有「を」！「に・へ・で・と」保持不變。" data-cant="※ 變做「が」嘅只有「を」！「に・へ・で・と」保持唔變。" data-fr="※ Keep に, へ, で, と unchanged!">※ Keep に, へ, で, と unchanged!</div>
+          </div>
+        </div>
+
+        <div class="examples-block">
+          <div class="examples-label">基本例文（3つ）</div>
+          <div class="example-row">
+            <div class="example-num">1</div>
+            <div class="example-content">
+              <div class="example-jp">鈴木さんは<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>に<ruby>話<rt>はな</rt></ruby>せます。<button class="tts-btn" onclick="speakText('鈴木さんは日本語が上手に話せます。')" title="Listen">🔊</button></div>
+              <div class="example-en">Ms. Suzuki can speak Japanese very well.</div>
+              <div class="example-native i18n-native" data-ko="스즈키 씨는 일본어를 유창하게 할 수 있어요." data-zhcn="铃木女士日语说得很好。" data-zhtw="鈴木女士日語說得很好。" data-cant="鈴木小姐日文講得好叻。" data-fr="Mme Suzuki parle très bien japonais."></div>
+            </div>
+          </div>
+          <div class="example-row">
+            <div class="example-num">2</div>
+            <div class="example-content">
+              <div class="example-jp"><ruby>刺身<rt>さしみ</rt></ruby>や<ruby>納豆<rt>なっとう</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられますか。<button class="tts-btn" onclick="speakText('刺身や納豆が食べられますか。')" title="Listen">🔊</button></div>
+              <div class="example-en">Can you eat sashimi and natto?</div>
+              <div class="example-native i18n-native" data-ko="회나 낫토를 먹을 수 있어요?" data-zhcn="你能吃生鱼片和纳豆吗？" data-zhtw="你能吃生魚片和納豆嗎？" data-cant="你食唔食到刺身同納豆㗎？" data-fr="Pouvez-vous manger des sashimis et du natto ?"></div>
+            </div>
+          </div>
+          <div class="example-row">
+            <div class="example-num">3</div>
+            <div class="example-content">
+              <div class="example-jp"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られますか。<button class="tts-btn" onclick="speakText('明日の会議に来られますか。')" title="Listen">🔊</button></div>
+              <div class="example-en">Can you come to tomorrow's meeting?</div>
+              <div class="example-native i18n-native" data-ko="내일 회의에 올 수 있어요?" data-zhcn="明天的会议你能来吗？" data-zhtw="明天的會議你能來嗎？" data-cant="聽日嘅會議你嚟唔嚟到呀？" data-fr="Pouvez-vous venir à la réunion de demain ?"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== PRACTICE「可能形」活用ドリル 50動詞 ==================== -->
   <section class="content-card" id="sec-practice-pot-conj">
     <div class="card-header-row">
-      <div class="step-label">Step 4 - Potential Conjugation (Flashcards #42 &amp; #43)</div>
-      <div class="card-main-title">練習②：可能形（〜える／〜られる）の活用ドリル（宿題 全50動詞）</div>
-      <div class="card-subtitle-en">Transform all 50 verbs from Homework Flashcards #42 &amp; #43 into their potential form (plain &amp; polite).</div>
+      <div class="step-label">Drill 2</div>
+      <div class="card-main-title"><ruby>練習<rt>れんしゅう</rt></ruby>②：<ruby>可能形<rt>かのうけい</rt></ruby>（〜える／〜られる）の<ruby>活用<rt>かつよう</rt></ruby>ドリル（<ruby>全<rt>ぜん</rt></ruby>50<ruby>動詞<rt>どうし</rt></ruby>）</div>
+      <div class="card-subtitle-en">Transform all 50 verbs into their potential form (plain &amp; polite).</div>
       <div class="card-subtitle-native i18n-native"
-        data-ko="숙제 플래시카드 #42·#43의 모든 50개 동사를 가능형(보통형·정중형)으로 바꾸는 드릴입니다."
-        data-zhcn="将作业闪卡 #42・#43 的全部50个动词转换为可能形（普通体・礼貌体）。"
-        data-zhtw="將作業閃卡 #42・#43 的全部50個動詞轉換為可能形（普通體・禮貌體）。"
-        data-cant="將功課閃卡 #42・#43 全部50個動詞轉做可能形（普通體・禮貌體）。"
-        data-fr="Conjuguez les 50 verbes des Flashcards #42 et #43 à la forme potentielle."></div>
+        data-ko="모든 50개 동사를 가능형(보통형·정중형)으로 바꾸는 드릴입니다."
+        data-zhcn="将全部50个动词转换为可能形（普通体・礼貌体）。"
+        data-zhtw="將全部50個動詞轉換為可能形（普通體・禮貌體）。"
+        data-cant="將全部50個動詞轉做可能形（普通體・禮貌體）。"
+        data-fr="Conjuguez les 50 verbes à la forme potentielle."></div>
     </div>
 
     <div class="conj-group-label">グループI 動詞（30語：う段 ➔ え段 ＋ る）</div>
@@ -2821,11 +2867,53 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 7: INTERACTIVE QUIZ & ROLEPLAY ==================== -->
+  <!-- ==================== 今回のレッスンまとめ ==================== -->
+  <section class="content-card" id="sec-system">
+    <div class="card-header-row">
+      <div class="step-label">Lesson Summary / <ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ</div>
+      <div class="card-main-title"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ：2つの<ruby>可能<rt>かのう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>比較<rt>ひかく</rt></ruby> ＆ <ruby>重要<rt>じゅうよう</rt></ruby>ルール</div>
+      <div class="card-subtitle-en">Summary of the two ways to say "can do ~": (1) [Verb Dictionary Form + ことができます] and (2) [Potential Verb Form], plus the difference between 見られる/聞ける and 見える/聞こえる.</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="이번 과에서 배운 두 가지 가능 표현(〜ことができます / 가능형 동사)과 見られる/見える·聞ける/聞こえる의 차이를 한눈에 정리합니다."
+        data-zhcn="一目了然总结本课所学的两种可能表达（〜ことができます／可能形动词）以及 見られる/見える・聞ける/聞こえる 的区别。"
+        data-zhtw="一目了然總結本課所學的兩種可能表達（〜ことができます／可能形動詞）以及 見られる/見える・聞ける/聞こえる 的區別。"
+        data-cant="一覽總結呢課學過嘅兩種可能表達（〜ことができます／可能形動詞）同埋 見られる/見える・聞ける/聞こえる 嘅分別。"
+        data-fr="Récapitulatif des deux expressions du potentiel et de la différence entre 見られる/聞ける et 見える/聞こえる."></div>
+    </div>
+
+    <div class="nuance-box">
+      <div class="nuance-title">💡 コアニュアンス＆使い分け：「〜ことができます」 vs 「可能形」</div>
+      <div>
+        ・<strong>〜ことができます</strong>：少し丁寧で改まった響き（助詞は<strong>「を」のまま</strong>）。自己紹介やビジネスメール、書き言葉でよく使われます。<br>
+        ・<strong>可能形（〜えます／〜られます）</strong>：短くてテンポが良いため、<strong>日常の会話では80%以上こちら</strong>が使われます！（助詞は<strong>「を ➔ が」</strong>に変化。ただし「に・へ・で・と」はそのまま）<br>
+        ・<strong>💬 豆知識「ら抜き言葉」</strong>：日常会話で「食べれます・見れます」と言う人もいますが、JLPT試験やビジネスでは必ず「<strong>ら</strong>」を入れて<strong>「食べられます・来られます」</strong>と言いましょう。
+        <div class="i18n-switch" data-en="• ことができます: Slightly formal/written (keeps を).&lt;br&gt;• Potential Verb: Used 80%+ of the time in daily speech (changes を ➔ が, keeps に/へ/で/と)!&lt;br&gt;• Note on &#x27;Ra-nuki&#x27; (dropping ら like 食べれる): Always keep ら (食べられます) for JLPT and polite situations!" data-ko="• 〜ことができます: 조금 격식 있고 정중한 어감(조사 &#x27;を&#x27; 유지).&lt;br&gt;• 가능형 동사: 일상 회화의 80% 이상에서 사용(조사 &#x27;を ➔ が&#x27; 변화, &#x27;に·へ·で·と&#x27;는 유지)!&lt;br&gt;• &#x27;ら 빼기 말(食べれる 등)&#x27;: JLPT 시험과 비즈니스에서는 반드시 &#x27;ら&#x27;를 넣어 &#x27;食べられます&#x27;로 씁니다." data-zhcn="• 〜ことができます：语感较正式（保留助词「を」）。&lt;br&gt;• 可能形动词：日常会话80%以上使用此形式（助词「を ➔ が」，但「に・へ・で・と」不变）！&lt;br&gt;• 豆知识「ら抜き言葉」：在JLPT考试和商务场合必须保留「ら」（食べられます）！" data-zhtw="• 〜ことができます：語感較正式（保留助詞「を」）。&lt;br&gt;• 可能形動詞：日常會話80%以上使用此形式（助詞「を ➔ が」，但「に・へ・で・と」不變）！&lt;br&gt;• 豆知識「ら抜き言葉」：在JLPT考試和商務場合必須保留「ら」（食べられます）！" data-cant="• 〜ことができます：語感比較正式（保留助詞「を」）。&lt;br&gt;• 可能形動詞：日常傾偈80%以上都用呢個（助詞「を ➔ が」，但「に・へ・で・と」唔變）！&lt;br&gt;• 豆知識「ら抜き言葉」：喺JLPT考試同商務場合一定要保留個「ら」（食べられます）！" data-fr="• ことができます: Slightly formal/written (keeps を).&lt;br&gt;• Potential Verb: Used 80%+ of the time in daily speech (changes を ➔ が, keeps に/へ/で/と)!&lt;br&gt;• Note on &#x27;Ra-nuki&#x27; (dropping ら like 食べれる): Always keep ら (食べられます) for JLPT and polite situations!">• ことができます: Slightly formal/written (keeps を).<br>• Potential Verb: Used 80%+ of the time in daily speech (changes を ➔ が, keeps に/へ/で/と)!<br>• Note on 'Ra-nuki' (dropping ら like 食べれる): Always keep ら (食べられます) for JLPT and polite situations!</div>
+      </div>
+    </div>
+
+    <div style="margin-top:16px; background:var(--mid-cyan-bg); border:1.5px solid var(--mid-cyan-border); border-radius:12px; padding:14px 18px;">
+      <div style="font-weight:700; color:var(--mid-cyan-text); margin-bottom:8px;">🔍 似た表現の徹底比較：「見られる・聞ける（意志・条件の可能）」 vs 「見える・聞こえる（自然知覚）」</div>
+      <table class="conj-table" style="margin-bottom:0;">
+        <tr><th>表現</th><th>コアイメージ</th><th>自然な例文</th></tr>
+        <tr>
+          <td><strong><ruby>見<rt>み</rt></ruby>られます ／ <ruby>聞<rt>き</rt></ruby>けます（<ruby>聴<rt>き</rt></ruby>けます）</strong></td>
+          <td>自分の意志やシステム・条件によって「視聴・質問できる」</td>
+          <td>・このアプリで<ruby>日本<rt>にほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>が<strong><ruby>見<rt>み</rt></ruby>られます</strong>。<br>・ここで<ruby>音楽<rt>おんがく</rt></ruby>が<strong><ruby>聴<rt>き</rt></ruby>けます</strong>。</td>
+        </tr>
+        <tr>
+          <td><strong><ruby>見<rt>み</rt></ruby>えます ／ <ruby>聞<rt>き</rt></ruby>こえます</strong></td>
+          <td>意識しなくても自然に目や耳に入ってくる（視界・聴覚）</td>
+          <td>・<ruby>窓<rt>まど</rt></ruby>から<ruby>富士山<rt>ふじさん</rt></ruby>がきれいに<strong><ruby>見<rt>み</rt></ruby>えます</strong>。<br>・<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>から<ruby>声<rt>こえ</rt></ruby>が<strong><ruby>聞<rt>き</rt></ruby>こえます</strong>。</td>
+        </tr>
+      </table>
+    </div>
+  </section>
+
+  <!-- ==================== 理解度チェック ＆ ロールプレイ ==================== -->
   <section class="content-card" id="sec-roleplay">
     <div class="card-header-row">
-      <div class="step-label">Step 7</div>
-      <div class="card-main-title">4択理解度チェッククイズ ＆ 実践ロールプレイ会話</div>
+      <div class="step-label">Comprehension Check / <ruby>理解度<rt>りかいど</rt></ruby>チェック</div>
+      <div class="card-main-title">4<ruby>択<rt>たく</rt></ruby><ruby>理解度<rt>りかいど</rt></ruby>チェッククイズ ＆ <ruby>実践<rt>じっせん</rt></ruby>ロールプレイ<ruby>会話<rt>かいわ</rt></ruby></div>
       <div class="card-subtitle-en">Test your understanding with instant-feedback quizzes, then practice roleplaying with the A/B line-masking buttons!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="즉시 피드백이 나오는 4지선다 퀴즈로 이해도를 점검한 뒤, A/B 대사 가리기 버튼으로 실전 롤플레이를 연습하세요!"
@@ -3243,11 +3331,11 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 9: KANJI ==================== -->
+  <!-- ==================== 漢字一覧 ==================== -->
   <section class="content-card" id="sec-kanji">
     <div class="card-header-row">
-      <div class="step-label">Step 9</div>
-      <div class="card-main-title">この課の新出・重要漢字（10字）</div>
+      <div class="step-label">Kanji List / <ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></div>
+      <div class="card-main-title"><ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>（この<ruby>課<rt>か</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby> 10<ruby>字<rt>じ</rt></ruby>）</div>
       <div class="card-subtitle-en">Core kanji characters for potential verbs and daily actions.</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="이번 과에서 집중적으로 익히는 핵심 한자 10자입니다."
@@ -3270,11 +3358,11 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 10: WORD POOL (50 WORDS) ==================== -->
+  <!-- ==================== 単語一覧 (50 WORDS) ==================== -->
   <section class="content-card" id="sec-pool">
     <div class="card-header-row">
-      <div class="step-label">Step 10 - Homework Flashcards #42 &amp; #43</div>
-      <div class="card-main-title">Lesson Word Pool（宿題連動・全50動詞 語彙プール）</div>
+      <div class="step-label">Word List / <ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></div>
+      <div class="card-main-title"><ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>50<ruby>動詞<rt>どうし</rt></ruby>）</div>
       <div class="card-subtitle-en">All 50 potential verbs from Flashcard #42 (26 words) and Flashcard #43 (24 words). Click ★ to save to your My List (persisted to your account &amp; Flashcards)!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="숙제 플래시카드 #42(26단어)와 #43(24단어)의 전체 50개 가능형 동사입니다. ★을 누르면 마이리스트에 자동 저장됩니다!"
@@ -3788,7 +3876,7 @@ function toggleFurigana(forceHide) {
   const btn = document.getElementById('btn-furigana');
   if (btn) {
     btn.classList.toggle('active', shouldHide);
-    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.textContent = shouldHide ? 'ふりがな: OFF' : 'ふりがな: ON';
   }
   return shouldHide;
 }
@@ -3831,15 +3919,20 @@ function nextSlide(delta) {
 
 function scrollToSection(id, btnEl) {
   const cards = Array.from(document.querySelectorAll('.container > .content-card'));
-  const idx = cards.findIndex(c => c.id === id);
+  const target = document.getElementById(id);
+  const parentCard = target ? target.closest('.content-card') : null;
+  const idx = parentCard ? cards.indexOf(parentCard) : cards.findIndex(c => c.id === id);
   if (idx >= 0) currentSlideIdx = idx;
   document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
   if (btnEl) btnEl.classList.add('active');
   if (document.body.classList.contains('slide-mode')) {
     updateSlideView(currentSlideIdx);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (target && target !== parentCard) {
+      setTimeout(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60);
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   } else {
-    const target = document.getElementById(id);
     if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   if (syncChannel) {

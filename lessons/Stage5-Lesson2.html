@@ -278,21 +278,75 @@
   .nav-tab-btn {
     background: #D9F2F5;
     border: 1.5px solid #6BD4DE;
-    padding: 7px 16px;
+    padding: 8px 16px 6px;
     border-radius: 999px;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.82rem;
     font-weight: 700;
     color: #005864;
     cursor: pointer;
     white-space: nowrap;
+    line-height: 1.35;
     transition: all 0.2s;
+  }
+  .nav-tab-btn ruby rt {
+    color: #006897;
+    font-size: 0.58em;
+    font-weight: 700;
   }
   .nav-tab-btn:hover, .nav-tab-btn.active {
     background: #008698;
     color: white;
     border-color: #005864;
     box-shadow: 0 2px 8px rgba(0, 134, 152, 0.22);
+  }
+  .nav-tab-btn:hover ruby rt,
+  .nav-tab-btn.active ruby rt {
+    color: #FFFFFF;
+  }
+  .content-card, .grammar-block {
+    scroll-margin-top: 20px;
+  }
+  .dialogue-with-illust {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 22px;
+    align-items: start;
+  }
+  @media (max-width: 920px) {
+    .dialogue-with-illust {
+      grid-template-columns: 1fr;
+    }
+  }
+  .dialogue-illust-col {
+    background: #FAFEFD;
+    border: 2px solid #A8DCE4;
+    border-radius: 16px;
+    padding: 12px;
+    text-align: center;
+    box-shadow: 0 4px 14px rgba(0, 88, 100, 0.05);
+    position: sticky;
+    top: 20px;
+  }
+  .dialogue-illust-img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    border: 1.5px solid #D9F2F5;
+  }
+  .dialogue-illust-caption {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #005864;
+    background: #E6F7F5;
+    padding: 5px 10px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  .dialogue-lines-col {
+    min-width: 0;
   }
   .slide-pager {
     display: none;
@@ -1359,7 +1413,7 @@
       <h1>私の趣味はギターを弾くことです（名詞化「辞書形＋こと」・順序）</h1>
     </div>
     <div class="header-controls">
-      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
+      <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">ふりがな: ON</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1377,12 +1431,13 @@
 </header>
 
 <div class="nav-bar">
-  <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 辞書形・た形と時間軸</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-dialogue', this)">2. メイン会話</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-grammar', this)">3. 文法解説＆即応ドリル (A〜D)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice', this)">4. 4択チェック・ロールプレイ・総合演習</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)">5. 漢字 (10字)</button>
-  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)">6. 語彙プール (42語)</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-koto', this)">〜ことです</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-maeni', this)">〜まえに</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('gram-atode', this)">あとで/あとに/てから</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-system', this)"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-practice', this)"><ruby>理解度<rt>りかいど</rt></ruby>チェック</button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-kanji', this)"><ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></button>
+  <button class="nav-tab-btn" onclick="scrollToSection('sec-pool', this)"><ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></button>
 </div>
 
 <div class="slide-pager">
@@ -1393,84 +1448,11 @@
 
 <div class="container">
 
-  <!-- ==================== STEP 1: SYSTEM ==================== -->
-  <section class="content-card active-slide" id="sec-system">
+  <!-- ==================== TOP: MAIN DIALOGUE ==================== -->
+  <section class="content-card active-slide" id="sec-dialogue">
     <div class="card-header-row">
-      <div class="step-label">Step 1</div>
-      <div class="card-main-title">動詞の辞書形・た形と時間の順序マトリクス</div>
-      <div class="card-subtitle-en">In this lesson, you will master how to turn verb phrases into nouns with <strong>こと</strong> ("my hobby is doing ~"), and how to express the exact sequence of actions using <strong>まえに</strong> (before), <strong>たあとで</strong> (after), and <strong>てから</strong> (after/since).</div>
-      <div class="card-subtitle-native i18n-native"
-        data-ko="이번 과에서는 동사구에 'こと'를 붙여 명사화하는 방법('제 취미는 ~하는 것입니다')과, 'まえに(전에)', 'たあとで(후에)', 'てから(하고 나서)'를 사용해 동작의 선후 관계를 정확히 표현하는 법을 배웁니다."
-        data-zhcn="本课我们将掌握如何用「こと」将动词短语名词化（“我的爱好是做~”），以及如何使用「まえに（之前）」「たあとで（之后）」「てから（做完~之后）」准确表达动作的先后顺序。"
-        data-zhtw="本課我們將掌握如何用「こと」將動詞短語名詞化（“我的愛好是做~”），以及如何使用「まえに（之前）」「たあとで（之後）」「てから（做完~之後）」準確表達動作的先後順序。"
-        data-cant="呢一課我哋會學識點樣用「こと」將動詞短語名詞化（“我嘅興趣係做~”），同埋點樣用「まえに（之前）」「たあとで（之後）」「てから（做完~之後）」準確表達動作嘅先後次序。"
-        data-fr="Dans cette leçon, vous apprendrez à nominaliser les verbes avec こと (« mon passe-temps est de ~ ») et à exprimer l'ordre des actions avec まえに (avant), たあとで (après) et てから (après avoir fait)."></div>
-    </div>
-
-    <table class="conj-table">
-      <thead>
-        <tr>
-          <th>表現パターン</th>
-          <th>動詞・名詞の接続形</th>
-          <th>意味・コアイメージ</th>
-          <th>代表例</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>趣味は 〜ことです</strong></td>
-          <td><strong>動詞の辞書形</strong> ＋ こと</td>
-          <td>
-            動作を「〜すること（名詞）」に変える
-            <div class="i18n-switch" data-en="Turns an action into a noun (&#x27;doing ~&#x27;)" data-ko="동작을 &#x27;~하는 것(명사)&#x27;으로 바꿈" data-zhcn="把动作变成名词（“做~这件事”）" data-zhtw="把動作變成名詞（「做~這件事」）" data-cant="將動作變做名詞（「做~呢件事」）" data-fr="Turns an action into a noun (&#x27;doing ~&#x27;)">Turns an action into a noun ('doing ~')</div>
-          </td>
-          <td>ギターを<strong><ruby>弾<rt>ひ</rt></ruby>くこと</strong>です</td>
-        </tr>
-        <tr>
-          <td><strong>〜まえに、…</strong></td>
-          <td><strong>動詞の辞書形</strong> ＋ まえに<br><small>（名詞＋の ＋ まえに ／ 期間＋まえに）</small></td>
-          <td>
-            基準の動作をする<strong>前（未完了）</strong>に行う
-            <div class="i18n-switch" data-en="Do Action B BEFORE Action A (always Dictionary Form!)" data-ko="기준 동작을 하기 전(미완료)에 행함 (항상 사전형!)" data-zhcn="在基准动作之前（未完成）进行（永远用辞书形！）" data-zhtw="在基準動作之前（未完成）進行（永遠用辭書形！）" data-cant="喺基準動作之前（未完成）做（永遠用辭書形！）" data-fr="Do Action B BEFORE Action A (always Dictionary Form!)">Do Action B BEFORE Action A (always Dictionary Form!)</div>
-          </td>
-          <td><ruby>寝<rt>ね</rt></ruby><strong>るまえに</strong>、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます</td>
-        </tr>
-        <tr>
-          <td><strong>〜たあとで／あとに</strong></td>
-          <td><strong>動詞のた形</strong> ＋ あとで／あとに<br><small>（名詞＋の ＋ あとで／あとに）</small></td>
-          <td>
-            動作Aが<strong>完了した後</strong>に動作Bを行う
-            <div class="i18n-switch" data-en="Do Action B AFTER Action A is completed (always Ta-form!)" data-ko="동작 A가 완료된 후에 동작 B를 행함 (항상 た형!)" data-zhcn="动作A完成后进行动作B（永远用た形！）" data-zhtw="動作A完成後進行動作B（永遠用た形！）" data-cant="動作A完成之後做動作B（永遠用た形！）" data-fr="Do Action B AFTER Action A is completed (always Ta-form!)">Do Action B AFTER Action A is completed (always Ta-form!)</div>
-          </td>
-          <td><ruby>食<rt>た</rt></ruby>べ<strong>たあとで</strong>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます</td>
-        </tr>
-        <tr>
-          <td><strong>〜てから、…</strong></td>
-          <td><strong>動詞のて形</strong> ＋ から</td>
-          <td>
-            動作Aを<strong>条件・準備として終え、そのまま</strong>動作Bへ移る
-            <div class="i18n-switch" data-en="Complete A first as a prerequisite/preparation, then move seamlessly to B" data-ko="먼저 A를 조건·준비로 끝내고 그대로 이어서 B로 넘어감" data-zhcn="先把A作为条件或准备完成，紧接着无缝进行B" data-zhtw="先把A作為條件或準備完成，緊接著無縫進行B" data-cant="做完A（作為條件或準備）先，再順住落去做B" data-fr="Complete A first as a prerequisite/preparation, then move seamlessly to B">Complete A first as a prerequisite/preparation, then move seamlessly to B</div>
-          </td>
-          <td><ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby><strong>ってから</strong>、<ruby>食<rt>た</rt></ruby>べます</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <div class="nuance-box">
-      <div class="nuance-title">💡 なぜ「まえに」の前は辞書形で、「あとで」の前は「た形」なの？</div>
-      <div>
-        ・<strong>「〜まえに」</strong>：その時点では動作が<strong>まだ行われていない（未完了）</strong>ため、昨日の話でも必ず<strong>辞書形（寝るまえに）</strong>！<br>
-        ・<strong>「〜たあとで」</strong>：その時点では動作が<strong>すでに完了している</strong>ため、明日の予定でも必ず<strong>た形（食べたあとで）</strong>！
-        <div class="i18n-switch" data-en="• Before まえに: The action hasn&#x27;t happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!&lt;br&gt;• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!" data-ko="• 「まえに」 앞: 그 시점에는 아직 동작이 이루어지지 않았으므로(미완료), 어제 일이라도 무조건 사전형(寝るまえに)!&lt;br&gt;• 「あとで」 앞: 그 시점에는 이미 동작이 끝났으므로(완료), 내일 예정이라도 무조건 た형(食べたあとで)!" data-zhcn="• 「まえに」前：在那个时间点动作尚未发生（未完成），因此哪怕是昨天的事也必须用辞书形（寝るまえに）！&lt;br&gt;• 「あとで」前：在那个时间点动作已经完成，因此哪怕是明天的计划也必须用た形（食べたあとで）！" data-zhtw="• 「まえに」前：在那個時間點動作尚未發生（未完成），因此哪怕是昨天的事也必須用辭書形（寝るまえに）！&lt;br&gt;• 「あとで」前：在那個時間點動作已經完成，因此哪怕是明天的計畫也必須用た形（食べたあとで）！" data-cant="• 「まえに」前：喺嗰個時間點動作仲未發生（未完成），所以就算講緊琴日嘅事都一定要用辭書形（寝るまえに）！&lt;br&gt;• 「あとで」前：喺嗰個時間點動作已經完成，所以就算講緊聽日嘅計劃都一定要用た形（食べたあとで）！" data-fr="• Before まえに: The action hasn&#x27;t happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!&lt;br&gt;• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!">• Before まえに: The action hasn't happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!<br>• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ==================== STEP 2: MAIN DIALOGUE ==================== -->
-  <section class="content-card" id="sec-dialogue">
-    <div class="card-header-row">
-      <div class="step-label">Step 2</div>
-      <div class="card-main-title">Main Dialogue: 休日の趣味とお出かけのルーティン — Weekend Hobbies &amp; Routines</div>
+      <div class="step-label">Main Dialogue / <ruby>会話例<rt>かいわれい</rt></ruby></div>
+      <div class="card-main-title"><ruby>休日<rt>きゅうじつ</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>とお<ruby>出<rt>で</rt></ruby>かけのルーティン — Weekend Hobbies &amp; Routines</div>
       <div class="card-subtitle-en">Mr. Tanaka and Ms. Suzuki talk at a cafe about their weekend hobbies and the sequence of their weekend activities.</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="다나카 씨와 스즈키 씨가 주말 취미와 휴일 일과의 순서에 대해 이야기합니다."
@@ -1480,72 +1462,80 @@
         data-fr="M. Tanaka et Mme Suzuki discutent de leurs passe-temps du week-end et de l'ordre de leurs activités."></div>
     </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('鈴木さん、いいカメラを持っていますね。鈴木さんの趣味は写真を撮ることですか。')" title="Listen">🔊</button>
+    <div class="dialogue-with-illust">
+      <div class="dialogue-illust-col">
+        <img src="../images/stage5_lesson2_dialogue.jpg" alt="休日の趣味とお出かけの会話イラスト" class="dialogue-illust-img">
+        <div class="dialogue-illust-caption">📸 <ruby>鈴木<rt>すずき</rt></ruby>さん（カメラ・<ruby>美術館<rt>びじゅつかん</rt></ruby>）＆ 🍛 <ruby>田中<rt>たなか</rt></ruby>さん（スパイスカレー）</div>
       </div>
-      <div class="dialogue-jp-line">鈴木さん、いいカメラを<ruby>持<rt>も</rt></ruby>っていますね。鈴木さんの<strong><ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ること</strong>ですか。</div>
-      <div class="dialogue-en-line">Ms. Suzuki, you have a nice camera, don't you? Is your hobby taking photos?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 좋은 카메라를 가지고 계시네요. 스즈키 씨의 취미는 사진을 찍는 거예요?" data-zhcn="铃木女士，你拿着一台好相机呢。你的爱好是拍照吗？" data-zhtw="鈴木女士，妳拿著一台好相機呢。妳的愛好是拍照嗎？" data-cant="鈴木小姐，你部相機好靚喎。你嘅興趣係咪影相呀？" data-fr="Mme Suzuki, vous avez un bel appareil photo. Votre passe-temps est-il de prendre des photos ?"></div>
-    </div>
+      <div class="dialogue-lines-col">
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('鈴木さん、いいカメラを持っていますね。鈴木さんの趣味は写真を撮ることですか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>鈴木<rt>すずき</rt></ruby>さん、いいカメラを<ruby>持<rt>も</rt></ruby>っていますね。<ruby>鈴木<rt>すずき</rt></ruby>さんの<strong><ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ること</strong>ですか。</div>
+          <div class="dialogue-en-line">Ms. Suzuki, you have a nice camera, don't you? Is your hobby taking photos?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="스즈키 씨, 좋은 카메라를 가지고 계시네요. 스즈키 씨의 취미는 사진을 찍는 거예요?" data-zhcn="铃木女士，你拿着一台好相机呢。你的爱好是拍照吗？" data-zhtw="鈴木女士，妳拿著一台好相機呢。妳的愛好是拍照嗎？" data-cant="鈴木小姐，你部相機好靚喎。你嘅興趣係咪影相呀？" data-fr="Mme Suzuki, vous avez un bel appareil photo. Votre passe-temps est-il de prendre des photos ?"></div>
+        </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('はい！私の趣味は、カフェの写真を撮ることと、美術館で絵を見ることです。先週の日曜日も、上野の美術館へ行きましたよ。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">はい！<ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は、カフェの<strong><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ること</strong>と、<ruby>美術館<rt>びじゅつかん</rt></ruby>で<strong><ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>ること</strong>です。<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>も、<ruby>上野<rt>うえの</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましたよ。</div>
-      <div class="dialogue-en-line">Yes! My hobbies are taking photos of cafes and looking at paintings at art museums. Last Sunday too, I went to an art museum in Ueno!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="네! 제 취미는 카페 사진을 찍는 것과 미술관에서 그림을 보는 거예요. 지난주 일요일에도 우에노 미술관에 갔어요!" data-zhcn="是的！我的爱好是拍咖啡馆的照片和在美术馆看画。上周日我也去了上野的美术馆哦！" data-zhtw="是的！我的愛好是拍咖啡館的照片和在美術館看畫。上週日我也去了上野的美術館喔！" data-cant="係呀！我嘅興趣係影Cafe相，同埋喺美術館睇畫。上個禮拜日我都去咗上野嘅美術館呀！" data-fr="Oui ! Mes passe-temps sont de photographier des cafés et de voir des tableaux au musée. Dimanche dernier aussi, je suis allée au musée d'Ueno !"></div>
-    </div>
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('はい！私の趣味は、カフェの写真を撮ることと、美術館で絵を見ることです。先週の日曜日も、上野の美術館へ行きましたよ。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">はい！<ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は、カフェの<strong><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ること</strong>と、<ruby>美術館<rt>びじゅつかん</rt></ruby>で<strong><ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>ること</strong>です。<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>も、<ruby>上野<rt>うえの</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましたよ。</div>
+          <div class="dialogue-en-line">Yes! My hobbies are taking photos of cafes and looking at paintings at art museums. Last Sunday too, I went to an art museum in Ueno!</div>
+          <div class="dialogue-native-line i18n-native" data-ko="네! 제 취미는 카페 사진을 찍는 것과 미술관에서 그림을 보는 거예요. 지난주 일요일에도 우에노 미술관에 갔어요!" data-zhcn="是的！我的爱好是拍咖啡馆的照片和在美术馆看画。上周日我也去了上野的美术馆哦！" data-zhtw="是的！我的愛好是拍咖啡館的照片和在美術館看畫。上週日我也去了上野的美術館喔！" data-cant="係呀！我嘅興趣係影Cafe相，同埋喺美術館睇畫。上個禮拜日我都去咗上野嘅美術館呀！" data-fr="Oui ! Mes passe-temps sont de photographier des cafés et de voir des tableaux au musée. Dimanche dernier aussi, je suis allée au musée d'Ueno !"></div>
+        </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('いいですね！あの美術館は週末いつも人が多いですよね。行くまえに、チケットを予約しましたか。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">いいですね！あの<ruby>美術館<rt>びじゅつかん</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>いつも<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですよね。<strong><ruby>行<rt>い</rt></ruby>くまえに</strong>、チケットを<ruby>予約<rt>よやく</rt></ruby>しましたか。</div>
-      <div class="dialogue-en-line">That's great! That museum is always crowded on weekends, isn't it? Did you reserve a ticket before going?</div>
-      <div class="dialogue-native-line i18n-native" data-ko="좋네요! 그 미술관은 주말에 늘 사람이 많잖아요. 가기 전에 티켓을 예약하셨나요?" data-zhcn="真棒啊！那家美术馆周末总是人很多呢。去之前预约门票了吗？" data-zhtw="真棒啊！那家美術館週末總是人很多呢。去之前預約門票了嗎？" data-cant="好正喎！嗰間美術館週末成日都好多人㗎喎。去之前有冇book定飛呀？" data-fr="C'est super ! Ce musée est toujours bondé le week-end, n'est-ce pas ? Avez-vous réservé votre billet avant d'y aller ?"></div>
-    </div>
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('いいですね！あの美術館は週末いつも人が多いですよね。行くまえに、チケットを予約しましたか。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">いいですね！あの<ruby>美術館<rt>びじゅつかん</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>いつも<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですよね。<strong><ruby>行<rt>い</rt></ruby>くまえに</strong>、チケットを<ruby>予約<rt>よやく</rt></ruby>しましたか。</div>
+          <div class="dialogue-en-line">That's great! That museum is always crowded on weekends, isn't it? Did you reserve a ticket before going?</div>
+          <div class="dialogue-native-line i18n-native" data-ko="좋네요! 그 미술관은 주말에 늘 사람이 많잖아요. 가기 전에 티켓을 예약하셨나요?" data-zhcn="真棒啊！那家美术馆周末总是人很多呢。去之前预约门票了吗？" data-zhtw="真棒啊！那家美術館週末總是人很多呢。去之前預約門票了嗎？" data-cant="好正喎！嗰間美術館週末成日都好多人㗎喎。去之前有冇book定飛呀？" data-fr="C'est super ! Ce musée est toujours bondé le week-end, n'est-ce pas ? Avez-vous réservé votre billet avant d'y aller ?"></div>
+        </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('はい、家を出るまえにスマホで予約しました。当日は、駅の東口にあるカフェで朝ごはんを食べてから、美術館に入りましたよ。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line">はい、<ruby>家<rt>いえ</rt></ruby>を<strong><ruby>出<rt>で</rt></ruby>るまえに</strong>スマホで<ruby>予約<rt>よやく</rt></ruby>しました。<ruby>当日<rt>とうじつ</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>の<ruby>東口<rt>ひがしぐち</rt></ruby>にあるカフェで<ruby>朝<rt>あさ</rt></ruby>ごはんを<strong><ruby>食<rt>た</rt></ruby>べてから</strong>、<ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りましたよ。</div>
-      <div class="dialogue-en-line">Yes, I booked it on my smartphone before leaving home. On the day, I ate breakfast at a cafe at the station's East Exit first, and then entered the museum!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="네, 집을 나서기 전에 스마트폰으로 예약했어요. 당일에는 역 동쪽 출구에 있는 카페에서 아침을 먹고 나서 미술관에 들어갔어요." data-zhcn="是的，出门前用手机预约好了。当天先在车站东口的咖啡馆吃完早饭，然后才进的美术馆哦。" data-zhtw="是的，出門前用手機預約好了。當天先在車站東口的咖啡館吃完早飯，然後才進的美術館喔。" data-cant="係呀，出門口之前用手機book好咗。嗰日先喺車站東口間Cafe食完早餐，跟住先入美術館呀。" data-fr="Oui, j'ai réservé sur mon téléphone avant de partir. Le jour même, j'ai pris le petit-déjeuner dans un café à la sortie Est avant d'entrer au musée."></div>
-    </div>
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('はい、家を出るまえにスマホで予約しました。当日は、駅の東口にあるカフェで朝ごはんを食べてから、美術館に入りましたよ。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">はい、<ruby>家<rt>いえ</rt></ruby>を<strong><ruby>出<rt>で</rt></ruby>るまえに</strong>スマホで<ruby>予約<rt>よやく</rt></ruby>しました。<ruby>当日<rt>とうじつ</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>の<ruby>東口<rt>ひがしぐち</rt></ruby>にあるカフェで<ruby>朝<rt>あさ</rt></ruby>ごはんを<strong><ruby>食<rt>た</rt></ruby>べてから</strong>、<ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りましたよ。</div>
+          <div class="dialogue-en-line">Yes, I booked it on my smartphone before leaving home. On the day, I ate breakfast at a cafe at the station's East Exit first, and then entered the museum!</div>
+          <div class="dialogue-native-line i18n-native" data-ko="네, 집을 나서기 전에 스마트폰으로 예약했어요. 당일에는 역 동쪽 출구에 있는 카페에서 아침을 먹고 나서 미술관에 들어갔어요." data-zhcn="是的，出门前用手机预约好了。当天先在车站东口的咖啡馆吃完早饭，然后才进的美术馆哦。" data-zhtw="是的，出門前用手機預約好了。當天先在車站東口的咖啡館吃完早飯，然後才進的美術館喔。" data-cant="係呀，出門口之前用手機book好咗。嗰日先喺車站東口間Cafe食完早餐，跟住先入美術館呀。" data-fr="Oui, j'ai réservé sur mon téléphone avant de partir. Le jour même, j'ai pris le petit-déjeuner dans un café à la sortie Est avant d'entrer au musée."></div>
+        </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-tanaka">田中</div>
-        <button class="tts-btn" onclick="speakText('朝から素敵な休日ですね！実は、私の趣味は世界の料理を作ることなんです。昨日の夜も、仕事が終わったあとで、スパイスからカレーを作りましたよ。')" title="Listen">🔊</button>
-      </div>
-      <div class="dialogue-jp-line"><ruby>朝<rt>あさ</rt></ruby>から<ruby>素敵<rt>すてき</rt></ruby>な<ruby>休日<rt>きゅうじつ</rt></ruby>ですね！<ruby>実<rt>じつ</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>の<strong><ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ること</strong>なんです。<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>も、<ruby>仕事<rt>しごと</rt></ruby>が<strong><ruby>終<rt>お</rt></ruby>わったあとで</strong>、スパイスからカレーを<ruby>作<rt>つく</rt></ruby>りましたよ。</div>
-      <div class="dialogue-en-line">What a lovely holiday right from the morning! Actually, my hobby is cooking dishes from around the world. Last night too, after work finished, I made curry from spices!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="아침부터 멋진 휴일이네요! 사실 제 취미는 세계 요리를 만드는 거예요. 어젯밤에도 일이 끝난 후에 향신료로 카레를 만들었어요." data-zhcn="从早上开始就是美好的休息日呢！其实我的爱好是做世界各地的料理。昨晚也是在下班之后，用香料做了咖喱哦。" data-zhtw="從早上開始就是美好的休息日呢！其實我的愛好是做世界各地的料理。昨晚也是在下班之後，用香料做了咖哩喔。" data-cant="由朝早開始已經係好正嘅假期喎！其實我嘅興趣係煮世界各國嘅菜。琴晚收工之後，我都用香料煮咗咖喱呀。" data-fr="Quelle belle journée de repos dès le matin ! En fait, mon passe-temps est de cuisiner des plats du monde. Hier soir aussi, après le travail, j'ai préparé un curry aux épices !"></div>
-    </div>
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-tanaka"><ruby>田中<rt>たなか</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('朝から素敵な休日ですね！実は、私の趣味は世界の料理を作ることなんです。昨日の夜も、仕事が終わったあとで、スパイスからカレーを作りましたよ。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line"><ruby>朝<rt>あさ</rt></ruby>から<ruby>素敵<rt>すてき</rt></ruby>な<ruby>休日<rt>きゅうじつ</rt></ruby>ですね！<ruby>実<rt>じつ</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>の<strong><ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ること</strong>なんです。<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>も、<ruby>仕事<rt>しごと</rt></ruby>が<strong><ruby>終<rt>お</rt></ruby>わったあとで</strong>、スパイスからカレーを<ruby>作<rt>つく</rt></ruby>りましたよ。</div>
+          <div class="dialogue-en-line">What a lovely holiday right from the morning! Actually, my hobby is cooking dishes from around the world. Last night too, after work finished, I made curry from spices!</div>
+          <div class="dialogue-native-line i18n-native" data-ko="아침부터 멋진 휴일이네요! 사실 제 취미는 세계 요리를 만드는 거예요. 어젯밤에도 일이 끝난 후에 향신료로 카레를 만들었어요." data-zhcn="从早上开始就是美好的休息日呢！其实我的爱好是做世界各地的料理。昨晚也是在下班之后，用香料做了咖喱哦。" data-zhtw="從早上開始就是美好的休息日呢！其實我的愛好是做世界各地的料理。昨晚也是在下班之後，用香料做了咖哩喔。" data-cant="由朝早開始已經係好正嘅假期喎！其實我嘅興趣係煮世界各國嘅菜。琴晚收工之後，我都用香料煮咗咖喱呀。" data-fr="Quelle belle journée de repos dès le matin ! En fait, mon passe-temps est de cuisiner des plats du monde. Hier soir aussi, après le travail, j'ai préparé un curry aux épices !"></div>
+        </div>
 
-    <div class="dialogue-card-item">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <div class="dialogue-speaker-name speaker-suzuki">鈴木</div>
-        <button class="tts-btn" onclick="speakText('えっ、家でスパイスからカレーが作れるんですか！すごいですね。あとで私にもおすすめのレシピを教えてくださいね。')" title="Listen">🔊</button>
+        <div class="dialogue-card-item">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div class="dialogue-speaker-name speaker-suzuki"><ruby>鈴木<rt>すずき</rt></ruby></div>
+            <button class="tts-btn" onclick="speakText('えっ、家でスパイスからカレーが作れるんですか！すごいですね。あとで私にもおすすめのレシピを教えてくださいね。')" title="Listen">🔊</button>
+          </div>
+          <div class="dialogue-jp-line">えっ、<ruby>家<rt>いえ</rt></ruby>でスパイスからカレーが<ruby>作<rt>つく</rt></ruby>れるんですか！すごいですね。<strong>あとで</strong><ruby>私<rt>わたし</rt></ruby>にもおすすめのレシピを<ruby>教<rt>おし</rt></ruby>えてくださいね。</div>
+          <div class="dialogue-en-line">Wait, you can make curry from spices at home?! That's amazing! Please teach me your recommended recipe later!</div>
+          <div class="dialogue-native-line i18n-native" data-ko="어머, 집에서 향신료로 카레를 만들 수 있어요?! 대단하네요. 나중에 저한테도 추천 레시피를 알려 주세요!" data-zhcn="哇，在家里就能用香料做咖喱吗？！太厉害了。待会儿（之后）也请把推荐的食谱教给我哦。" data-zhtw="哇，在家裡就能用香料做咖哩嗎？！太厲害了。待會兒（之後）也請把推薦的食譜教給我喔。" data-cant="嘩，喺屋企都可以用香料整咖喱㗎？！好犀利喎。陣間（遲啲）記得教下我你推薦嘅食譜呀。" data-fr="Oh, vous savez faire du curry aux épices chez vous ?! C'est génial ! Donnez-moi votre recette recommandée plus tard !"></div>
+        </div>
       </div>
-      <div class="dialogue-jp-line">えっ、<ruby>家<rt>いえ</rt></ruby>でスパイスからカレーが<ruby>作<rt>つく</rt></ruby>れるんですか！すごいですね。<strong>あとで</strong><ruby>私<rt>わたし</rt></ruby>にもおすすめのレシピを<ruby>教<rt>おし</rt></ruby>えてくださいね。</div>
-      <div class="dialogue-en-line">Wait, you can make curry from spices at home?! That's amazing! Please teach me your recommended recipe later!</div>
-      <div class="dialogue-native-line i18n-native" data-ko="어머, 집에서 향신료로 카레를 만들 수 있어요?! 대단하네요. 나중에 저한테도 추천 레시피를 알려 주세요!" data-zhcn="哇，在家里就能用香料做咖喱吗？！太厉害了。待会儿（之后）也请把推荐的食谱教给我哦。" data-zhtw="哇，在家裡就能用香料做咖哩嗎？！太厲害了。待會兒（之後）也請把推薦的食譜教給我喔。" data-cant="嘩，喺屋企都可以用香料整咖喱㗎？！好犀利喎。陣間（遲啲）記得教下我你推薦嘅食譜呀。" data-fr="Oh, vous savez faire du curry aux épices chez vous ?! C'est génial ! Donnez-moi votre recette recommandée plus tard !"></div>
     </div>
   </section>
 
-  <!-- ==================== STEP 3: 文法解説 ＆ 各文法即応ドリル ==================== -->
+  <!-- ==================== GRAMMAR & IMMEDIATE DRILLS ==================== -->
   <section class="content-card" id="sec-grammar">
     <div class="card-header-row">
-      <div class="step-label">Step 3</div>
-      <div class="card-main-title">重要文型解説 ＆ 各文法直下の即応ドリル（Grammar A〜C ＋ 後で vs 後に特訓）</div>
+      <div class="step-label">Grammar &amp; Drills / <ruby>文法解説<rt>ぶんぽうかいせつ</rt></ruby>＆<ruby>即応<rt>そくおう</rt></ruby>ドリル</div>
+      <div class="card-main-title"><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文型<rt>ぶんけい</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby> ＆ <ruby>各文法<rt>かくぶんぽう</rt></ruby><ruby>直下<rt>ちょっか</rt></ruby>の<ruby>即応<rt>そくおう</rt></ruby>ドリル（〜ことです・〜まえに・あとで／あとに／てから）</div>
       <div class="card-subtitle-en">Study each grammar pattern with visual diagrams and pitfalls, then immediately solidify it with the practice drill right underneath!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="도해와 주의점을 통해 각 문법을 이해한 뒤, 바로 아래에 있는 즉응 드릴로 즉시 체화하세요!"
@@ -1556,7 +1546,7 @@
     </div>
 
     <!-- Grammar A: 趣味は〜ことです -->
-    <div class="grammar-block">
+    <div class="grammar-block" id="gram-koto">
       <div class="grammar-visual-card">
         <div class="grammar-card-head">
           <span class="grammar-tag">Grammar A</span>
@@ -1635,7 +1625,7 @@
     </div>
 
     <!-- Grammar B: 〜まえに -->
-    <div class="grammar-block">
+    <div class="grammar-block" id="gram-maeni">
       <div class="grammar-visual-card">
         <div class="grammar-card-head">
           <span class="grammar-tag">Grammar B</span>
@@ -1714,7 +1704,7 @@
     </div>
 
     <!-- Grammar C: 〜たあとで ＆ 〜てから -->
-    <div class="grammar-block">
+    <div class="grammar-block" id="gram-atode">
       <div class="grammar-visual-card">
         <div class="grammar-card-head">
           <span class="grammar-tag" style="background:var(--teal-text);">Grammar C</span>
@@ -2012,11 +2002,84 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 4: 4択チェック・ロールプレイ・総合演習 ==================== -->
+  <!-- ==================== 今回のレッスンまとめ ==================== -->
+  <section class="content-card" id="sec-system">
+    <div class="card-header-row">
+      <div class="step-label">Lesson Summary / <ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ</div>
+      <div class="card-main-title"><ruby>今回<rt>こんかい</rt></ruby>のレッスンまとめ：<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書形<rt>じしょけい</rt></ruby>・た<ruby>形<rt>けい</rt></ruby>と<ruby>時間<rt>じかん</rt></ruby>の<ruby>順序<rt>じゅんじょ</rt></ruby>マトリクス</div>
+      <div class="card-subtitle-en">Review how to turn verb phrases into nouns with <strong>こと</strong> ("my hobby is doing ~"), and how to express the exact sequence of actions using <strong>まえに</strong> (before), <strong>たあとで</strong> (after), and <strong>てから</strong> (after/since).</div>
+      <div class="card-subtitle-native i18n-native"
+        data-ko="이번 과에서 배운 동사구의 명사화('こと')와 동작의 선후 관계('まえに', 'たあとで', 'てから')를 한눈에 정리합니다."
+        data-zhcn="一目了然总结本课所学的动词短语名词化（「こと」）以及动作先后顺序（「まえに」「たあとで」「てから」）。"
+        data-zhtw="一目了然總結本課所學的動詞短語名詞化（「こと」）以及動作先後順序（「まえに」「たあとで」「てから」）。"
+        data-cant="一覽總結呢課學過嘅動詞短語名詞化（「こと」）同埋動作先後次序（「まえに」「たあとで」「てから」）。"
+        data-fr="Récapitulatif de la nominalisation avec こと et de l'ordre des actions avec まえに, たあとで et てから."></div>
+    </div>
+
+    <table class="conj-table">
+      <thead>
+        <tr>
+          <th>表現パターン</th>
+          <th>動詞・名詞の接続形</th>
+          <th>意味・コアイメージ</th>
+          <th>代表例</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong><ruby>趣味<rt>しゅみ</rt></ruby>は 〜ことです</strong></td>
+          <td><strong>動詞の辞書形</strong> ＋ こと</td>
+          <td>
+            動作を「〜すること（名詞）」に変える
+            <div class="i18n-switch" data-en="Turns an action into a noun (&#x27;doing ~&#x27;)" data-ko="동작을 &#x27;~하는 것(명사)&#x27;으로 바꿈" data-zhcn="把动作变成名词（“做~这件事”）" data-zhtw="把動作變成名詞（「做~這件事」）" data-cant="將動作變做名詞（「做~呢件事」）" data-fr="Turns an action into a noun (&#x27;doing ~&#x27;)">Turns an action into a noun ('doing ~')</div>
+          </td>
+          <td>ギターを<strong><ruby>弾<rt>ひ</rt></ruby>くこと</strong>です</td>
+        </tr>
+        <tr>
+          <td><strong>〜まえに、…</strong></td>
+          <td><strong>動詞の辞書形</strong> ＋ まえに<br><small>（名詞＋の ＋ まえに ／ 期間＋まえに）</small></td>
+          <td>
+            基準の動作をする<strong>前（未完了）</strong>に行う
+            <div class="i18n-switch" data-en="Do Action B BEFORE Action A (always Dictionary Form!)" data-ko="기준 동작을 하기 전(미완료)에 행함 (항상 사전형!)" data-zhcn="在基准动作之前（未完成）进行（永远用辞书形！）" data-zhtw="在基準動作之前（未完成）進行（永遠用辭書形！）" data-cant="喺基準動作之前（未完成）做（永遠用辭書形！）" data-fr="Do Action B BEFORE Action A (always Dictionary Form!)">Do Action B BEFORE Action A (always Dictionary Form!)</div>
+          </td>
+          <td><ruby>寝<rt>ね</rt></ruby><strong>るまえに</strong>、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます</td>
+        </tr>
+        <tr>
+          <td><strong>〜たあとで／あとに</strong></td>
+          <td><strong>動詞のた形</strong> ＋ あとで／あとに<br><small>（名詞＋の ＋ あとで／あとに）</small></td>
+          <td>
+            動作Aが<strong>完了した後</strong>に動作Bを行う
+            <div class="i18n-switch" data-en="Do Action B AFTER Action A is completed (always Ta-form!)" data-ko="동작 A가 완료된 후에 동작 B를 행함 (항상 た형!)" data-zhcn="动作A完成后进行动作B（永远用た形！）" data-zhtw="動作A完成後進行動作B（永遠用た形！）" data-cant="動作A完成之後做動作B（永遠用た形！）" data-fr="Do Action B AFTER Action A is completed (always Ta-form!)">Do Action B AFTER Action A is completed (always Ta-form!)</div>
+          </td>
+          <td><ruby>食<rt>た</rt></ruby>べ<strong>たあとで</strong>、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます</td>
+        </tr>
+        <tr>
+          <td><strong>〜てから、…</strong></td>
+          <td><strong>動詞のて形</strong> ＋ から</td>
+          <td>
+            動作Aを<strong>条件・準備として終え、そのまま</strong>動作Bへ移る
+            <div class="i18n-switch" data-en="Complete A first as a prerequisite/preparation, then move seamlessly to B" data-ko="먼저 A를 조건·준비로 끝내고 그대로 이어서 B로 넘어감" data-zhcn="先把A作为条件或准备完成，紧接着无缝进行B" data-zhtw="先把A作為條件或準備完成，緊接著無縫進行B" data-cant="做完A（作為條件或準備）先，再順住落去做B" data-fr="Complete A first as a prerequisite/preparation, then move seamlessly to B">Complete A first as a prerequisite/preparation, then move seamlessly to B</div>
+          </td>
+          <td><ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby><strong>ってから</strong>、<ruby>食<rt>た</rt></ruby>べます</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="nuance-box">
+      <div class="nuance-title">💡 なぜ「まえに」の前は辞書形で、「あとで」の前は「た形」なの？</div>
+      <div>
+        ・<strong>「〜まえに」</strong>：その時点では動作が<strong>まだ行われていない（未完了）</strong>ため、昨日の話でも必ず<strong>辞書形（寝るまえに）</strong>！<br>
+        ・<strong>「〜たあとで」</strong>：その時点では動作が<strong>すでに完了している</strong>ため、明日の予定でも必ず<strong>た形（食べたあとで）</strong>！
+        <div class="i18n-switch" data-en="• Before まえに: The action hasn&#x27;t happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!&lt;br&gt;• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!" data-ko="• 「まえに」 앞: 그 시점에는 아직 동작이 이루어지지 않았으므로(미완료), 어제 일이라도 무조건 사전형(寝るまえに)!&lt;br&gt;• 「あとで」 앞: 그 시점에는 이미 동작이 끝났으므로(완료), 내일 예정이라도 무조건 た형(食べたあとで)!" data-zhcn="• 「まえに」前：在那个时间点动作尚未发生（未完成），因此哪怕是昨天的事也必须用辞书形（寝るまえに）！&lt;br&gt;• 「あとで」前：在那个时间点动作已经完成，因此哪怕是明天的计划也必须用た形（食べたあとで）！" data-zhtw="• 「まえに」前：在那個時間點動作尚未發生（未完成），因此哪怕是昨天的事也必須用辭書形（寝るまえに）！&lt;br&gt;• 「あとで」前：在那個時間點動作已經完成，因此哪怕是明天的計畫也必須用た形（食べたあとで）！" data-cant="• 「まえに」前：喺嗰個時間點動作仲未發生（未完成），所以就算講緊琴日嘅事都一定要用辭書形（寝るまえに）！&lt;br&gt;• 「あとで」前：喺嗰個時間點動作已經完成，所以就算講緊聽日嘅計劃都一定要用た形（食べたあとで）！" data-fr="• Before まえに: The action hasn&#x27;t happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!&lt;br&gt;• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!">• Before まえに: The action hasn't happened yet at that moment, so ALWAYS use Dictionary Form (even for past events)!<br>• Before あとで: The action is already completed at that moment, so ALWAYS use Ta-form (even for future plans)!</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== 理解度チェック・ロールプレイ・総合演習 ==================== -->
   <section class="content-card" id="sec-practice">
     <div class="card-header-row">
-      <div class="step-label">Step 4</div>
-      <div class="card-main-title">4択理解度チェック ＆ 実践ロールプレイ ＆ 総合ミックス演習</div>
+      <div class="step-label">Comprehension Check / <ruby>理解度<rt>りかいど</rt></ruby>チェック</div>
+      <div class="card-main-title">4<ruby>択<rt>たく</rt></ruby><ruby>理解度<rt>りかいど</rt></ruby>チェック ＆ <ruby>実践<rt>じっせん</rt></ruby>ロールプレイ ＆ <ruby>総合<rt>そうごう</rt></ruby>ミックス<ruby>演習<rt>えんしゅう</rt></ruby></div>
       <div class="card-subtitle-en">Verify your mastery with the 4-choice quiz, roleplay with A/B line masking, and tackle 12 rapid speaking challenges!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="4지선다 퀴즈와 A/B 롤플레이, 그리고 12개의 종합 순간 발화 챌린지로 실력을 완성하세요!"
@@ -2292,11 +2355,11 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 5: KANJI ==================== -->
+  <!-- ==================== 漢字一覧 ==================== -->
   <section class="content-card" id="sec-kanji">
     <div class="card-header-row">
-      <div class="step-label">Step 5</div>
-      <div class="card-main-title">この課の新出・重要漢字（10字）</div>
+      <div class="step-label">Kanji List / <ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></div>
+      <div class="card-main-title"><ruby>漢字<rt>かんじ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>（この<ruby>課<rt>か</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby> 10<ruby>字<rt>じ</rt></ruby>）</div>
       <div class="card-subtitle-en">Key kanji characters introduced and reinforced in Stage 5 Lesson 2.</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="이번 과에서 집중적으로 연습하는 핵심 한자 10자입니다."
@@ -2319,11 +2382,11 @@
     </div>
   </section>
 
-  <!-- ==================== STEP 6: WORD POOL (42 WORDS) ==================== -->
+  <!-- ==================== 単語一覧 (42 WORDS) ==================== -->
   <section class="content-card" id="sec-pool">
     <div class="card-header-row">
-      <div class="step-label">Step 6 - Homework Flashcards #34 &amp; #29</div>
-      <div class="card-main-title">Lesson Word Pool（宿題連動・全42語 語彙プール）</div>
+      <div class="step-label">Word List / <ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby></div>
+      <div class="card-main-title"><ruby>単語<rt>たんご</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>42<ruby>語<rt>ご</rt></ruby>）</div>
       <div class="card-subtitle-en">All 22 verbs from Flashcard #34 (基本動詞5) and all 20 train/station words from Flashcard #29 (電車). Click ★ to save to your My List!</div>
       <div class="card-subtitle-native i18n-native"
         data-ko="숙제 플래시카드 #34(기본동사5·22단어)와 #29(전철·20단어)의 전체 42단어입니다. ★을 누르면 마이리스트에 저장됩니다!"
@@ -2764,7 +2827,7 @@ function toggleFurigana(forceHide) {
   const btn = document.getElementById('btn-furigana');
   if (btn) {
     btn.classList.toggle('active', shouldHide);
-    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.textContent = shouldHide ? 'ふりがな: OFF' : 'ふりがな: ON';
   }
   return shouldHide;
 }
@@ -2807,15 +2870,20 @@ function nextSlide(delta) {
 
 function scrollToSection(id, btnEl) {
   const cards = Array.from(document.querySelectorAll('.container > .content-card'));
-  const idx = cards.findIndex(c => c.id === id);
+  const target = document.getElementById(id);
+  const parentCard = target ? target.closest('.content-card') : null;
+  const idx = parentCard ? cards.indexOf(parentCard) : cards.findIndex(c => c.id === id);
   if (idx >= 0) currentSlideIdx = idx;
   document.querySelectorAll('.nav-tab-btn').forEach(b => b.classList.remove('active'));
   if (btnEl) btnEl.classList.add('active');
   if (document.body.classList.contains('slide-mode')) {
     updateSlideView(currentSlideIdx);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (target && target !== parentCard) {
+      setTimeout(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60);
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   } else {
-    const target = document.getElementById(id);
     if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   if (syncChannel) {
