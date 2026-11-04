@@ -6524,6 +6524,10 @@
         }
 
         // 3. Fallbacks for curated cards
+        if (stId === '0027') {
+          const ids0027 = window.CLASS_0027_IDS || [];
+          ids0027.forEach(cId => studentCardIds.add(cId));
+        }
         if (stId === '0023') {
           const arunIds = window.CLASS_ARUN_IDS || (typeof ARUN_CLASS_WORD_IDS !== 'undefined' ? ARUN_CLASS_WORD_IDS : []);
           arunIds.forEach(cId => studentCardIds.add(cId));
@@ -7970,7 +7974,10 @@
     '0021': '4488',
     '0022': '5599',
     '0023': '6600',
-    '0024': '7788'
+    '0024': '7788',
+    '0025': '8899',
+    '0026': '9900',
+    '0027': '1122'
   };
 
   // --- Firebase Cloud Sync Core ---
@@ -11426,6 +11433,19 @@
                 related = c;
               }
             }
+          }
+
+          // 🛡️ Nuance / Distinction Guard: Ensure "vs" explanations NEVER leak into Meaning (1st place)
+          // Difference explanations strictly belong in Related / Conjugations (2nd place)
+          if (parsedNative && (/\bvs\b|【使い分け】|とは違/i.test(parsedNative))) {
+            if (!related) related = parsedNative;
+            else if (!related.includes(parsedNative)) related = `${related}\n${parsedNative}`;
+            parsedNative = '';
+          }
+          if (parsedEn && (/\bvs\b|【使い分け】/i.test(parsedEn))) {
+            if (!related) related = parsedEn;
+            else if (!related.includes(parsedEn)) related = `${related}\n${parsedEn}`;
+            parsedEn = '';
           }
 
           // Smart parser for packed bilingual meaning (e.g. "吃 (to eat)" or "去 / to go")

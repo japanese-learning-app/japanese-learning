@@ -56414,8 +56414,4978 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "はんそで（ななさんの授業重要表現）"
   },
+,
+  // --- Student 0027 Curated Cards (191 words) ---
+  {
+    "id": "class_word_0027_0001",
+    "word": "鼻水が出る",
+    "reading": "はなみずがでる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to have a runny nose",
+      "ja": "鼻水が出る",
+      "zh_TW": "to have a runny nose",
+      "zh_CN": "to have a runny nose",
+      "ko": "to have a runny nose",
+      "zh_HK": "to have a runny nose",
+      "fr": "to have a runny nose"
+    },
+    "example": {
+      "ja": "<ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>になると、くしゃみと<ruby>鼻水<rt>はなみず</rt></ruby>が<ruby>出<rt>で</rt></ruby>て<ruby>大変<rt>たいへん</rt></ruby>です。",
+      "en": "When allergy season comes, sneezing and having a runny nose make things tough.",
+      "zh_TW": "When allergy season comes, sneezing and having a runny nose make things tough.",
+      "zh_CN": "When allergy season comes, sneezing and having a runny nose make things tough.",
+      "ko": "When allergy season comes, sneezing and having a runny nose make things tough.",
+      "zh_HK": "When allergy season comes, sneezing and having a runny nose make things tough.",
+      "fr": "When allergy season comes, sneezing and having a runny nose make things tough."
+    },
+    "related": "鼻水が出る vs 鼻が詰まる: 「鼻水が出る」は鼻から液体が流れ出ること、「鼻が詰まる」は鼻腔が塞がって息がしづらくなること。"
+  },
+  {
+    "id": "class_word_0027_0002",
+    "word": "計画を立てる",
+    "reading": "けいかくをたてる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to make a plan, to plan",
+      "ja": "計画を立てる",
+      "zh_TW": "to make a plan, to plan",
+      "zh_CN": "to make a plan, to plan",
+      "ko": "to make a plan, to plan",
+      "zh_HK": "to make a plan, to plan",
+      "fr": "to make a plan, to plan"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>旅行<rt>りょこう</rt></ruby>に向けて、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てています。",
+      "en": "Toward the summer vacation trip, I am making plans together with my friends.",
+      "zh_TW": "Toward the summer vacation trip, I am making plans together with my friends.",
+      "zh_CN": "Toward the summer vacation trip, I am making plans together with my friends.",
+      "ko": "Toward the summer vacation trip, I am making plans together with my friends.",
+      "zh_HK": "Toward the summer vacation trip, I am making plans together with my friends.",
+      "fr": "Toward the summer vacation trip, I am making plans together with my friends."
+    },
+    "related": "計画を立てる vs 予定を決める: 「予定を決める」は日程やスケジュールを決めること、「計画を立てる」は目標達成のために順序や段取りを構想すること。"
+  },
+  {
+    "id": "class_word_0027_0003",
+    "word": "不思議",
+    "reading": "ふしぎ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "mysterious, strange, wonder",
+      "ja": "不思議",
+      "zh_TW": "mysterious, strange, wonder",
+      "zh_CN": "mysterious, strange, wonder",
+      "ko": "mysterious, strange, wonder",
+      "zh_HK": "mysterious, strange, wonder",
+      "fr": "mysterious, strange, wonder"
+    },
+    "example": {
+      "ja": "なぜか<ruby>初<rt>はじ</rt></ruby>めて<ruby>訪<rt>おとず</rt></ruby>れた<ruby>街<rt>まち</rt></ruby>なのに、<ruby>昔<rt>むかし</rt></ruby>から知っているような<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>気持<rt>きも</rt></ruby>ちがした。",
+      "en": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time.",
+      "zh_TW": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time.",
+      "zh_CN": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time.",
+      "ko": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time.",
+      "zh_HK": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time.",
+      "fr": "Even though it was my first time visiting this town, I had a mysterious feeling that I had known it for a long time."
+    },
+    "related": "不思議 vs 奇妙: 「奇妙」は気味が悪かったり理屈に合わなかったりする奇異さを指し、「不思議」は人間の常識や知恵では説明がつかない驚き・神秘性を表す。"
+  },
+  {
+    "id": "class_word_0027_0004",
+    "word": "専攻",
+    "reading": "せんこう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "major, field of study",
+      "ja": "専攻",
+      "zh_TW": "major, field of study",
+      "zh_CN": "major, field of study",
+      "ko": "major, field of study",
+      "zh_HK": "major, field of study",
+      "fr": "major, field of study"
+    },
+    "example": {
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>では<ruby>日本文学<rt>にほんぶんがく</rt></ruby>を<ruby>専攻<rt>せんこう</rt></ruby>して、<ruby>古典<rt>こてん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしていました。",
+      "en": "At university, I majored in Japanese literature and conducted research on classical works.",
+      "zh_TW": "At university, I majored in Japanese literature and conducted research on classical works.",
+      "zh_CN": "At university, I majored in Japanese literature and conducted research on classical works.",
+      "ko": "At university, I majored in Japanese literature and conducted research on classical works.",
+      "zh_HK": "At university, I majored in Japanese literature and conducted research on classical works.",
+      "fr": "At university, I majored in Japanese literature and conducted research on classical works."
+    },
+    "related": "専攻 vs 専門: 「専攻」は主に大学・大学院などで履修・研究する主分野を指し、「専門」は職業や知見において深く特化した領域全般を指す。"
+  },
+  {
+    "id": "class_word_0027_0005",
+    "word": "おいくつですか",
+    "reading": "おいくつですか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "how old are you? (polite)",
+      "ja": "おいくつですか",
+      "zh_TW": "how old are you? (polite)",
+      "zh_CN": "how old are you? (polite)",
+      "ko": "how old are you? (polite)",
+      "zh_HK": "how old are you? (polite)",
+      "fr": "how old are you? (polite)"
+    },
+    "example": {
+      "ja": "「<ruby>失礼<rt>しつれい</rt></ruby>ですが、おいくつですか」「<ruby>今年<rt>ことし</rt></ruby>で２８<ruby>歳<rt>さい</rt></ruby>になります」。",
+      "en": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\"",
+      "zh_TW": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\"",
+      "zh_CN": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\"",
+      "ko": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\"",
+      "zh_HK": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\"",
+      "fr": "\"Excuse me, but how old are you?\" \"I will be 28 years old this year.\""
+    },
+    "related": "おいくつですか vs 何歳ですか: 「おいくつですか」は敬語（美化語）が含まれるため、大人や初対面、目上の人に対して使う最も丁寧で失礼のない年齢の尋ね方。"
+  },
+  {
+    "id": "class_word_0027_0006",
+    "word": "何歳ですか",
+    "reading": "なんさいですか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "how old are you? (neutral)",
+      "ja": "何歳ですか",
+      "zh_TW": "how old are you? (neutral)",
+      "zh_CN": "how old are you? (neutral)",
+      "ko": "how old are you? (neutral)",
+      "zh_HK": "how old are you? (neutral)",
+      "fr": "how old are you? (neutral)"
+    },
+    "example": {
+      "ja": "お<ruby>子<rt>こ</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>、<ruby>何歳<rt>なんさい</rt></ruby>ですか？",
+      "en": "How old is your child right now?",
+      "zh_TW": "How old is your child right now?",
+      "zh_CN": "How old is your child right now?",
+      "ko": "How old is your child right now?",
+      "zh_HK": "How old is your child right now?",
+      "fr": "How old is your child right now?"
+    },
+    "related": "何歳ですか vs おいくつですか: 「何歳ですか」は子どもや親しい間柄、同年代に向ける自然な聞き方。目上の大人には「おいくつですか」を使う。"
+  },
+  {
+    "id": "class_word_0027_0007",
+    "word": "〜製",
+    "reading": "〜せい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "made in ..., manufactured by ...",
+      "ja": "〜製",
+      "zh_TW": "made in ..., manufactured by ...",
+      "zh_CN": "made in ..., manufactured by ...",
+      "ko": "made in ..., manufactured by ...",
+      "zh_HK": "made in ..., manufactured by ...",
+      "fr": "made in ..., manufactured by ..."
+    },
+    "example": {
+      "ja": "このカメラは<ruby>安心<rt>あんしん</rt></ruby>の<ruby>日本製品<rt>にほんせいひん</rt></ruby>（<ruby>日本製<rt>にほんせい</rt></ruby>）です。",
+      "en": "This camera is made in Japan, offering great peace of mind.",
+      "zh_TW": "This camera is made in Japan, offering great peace of mind.",
+      "zh_CN": "This camera is made in Japan, offering great peace of mind.",
+      "ko": "This camera is made in Japan, offering great peace of mind.",
+      "zh_HK": "This camera is made in Japan, offering great peace of mind.",
+      "fr": "This camera is made in Japan, offering great peace of mind."
+    },
+    "related": "〜製 vs 〜産: 「〜製」は工業製品・加工品（日本製、革製）に使い、「〜産」は農作物や水産物・天然資源（青森県産リンゴ、国産牛）に使う。"
+  },
+  {
+    "id": "class_word_0027_0008",
+    "word": "土日",
+    "reading": "どにち",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "Saturday and Sunday, weekend",
+      "ja": "土日",
+      "zh_TW": "Saturday and Sunday, weekend",
+      "zh_CN": "Saturday and Sunday, weekend",
+      "ko": "Saturday and Sunday, weekend",
+      "zh_HK": "Saturday and Sunday, weekend",
+      "fr": "Saturday and Sunday, weekend"
+    },
+    "example": {
+      "ja": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいので、<ruby>土日<rt>どにち</rt></ruby>にまとめて<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>をします。",
+      "en": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday.",
+      "zh_TW": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday.",
+      "zh_CN": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday.",
+      "ko": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday.",
+      "zh_HK": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday.",
+      "fr": "Since weekdays are busy, I do all the cleaning and laundry together on Saturday and Sunday."
+    },
+    "related": "土日 vs 週末: 「土日」は土曜日と日曜日の2日間を指す日常的な略称。「週末」は金曜日の夜から日曜日までを包括的に指すことが多い。"
+  },
+  {
+    "id": "class_word_0027_0009",
+    "word": "他に",
+    "reading": "ほかに",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "besides, in addition, other",
+      "ja": "他に",
+      "zh_TW": "besides, in addition, other",
+      "zh_CN": "besides, in addition, other",
+      "ko": "besides, in addition, other",
+      "zh_HK": "besides, in addition, other",
+      "fr": "besides, in addition, other"
+    },
+    "example": {
+      "ja": "<ruby>他<rt>ほか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かご<ruby>質問<rt>しつもん</rt></ruby>やご<ruby>要望<rt>ようぼう</rt></ruby>はございますか？",
+      "en": "Is there anything else you have questions or requests about?",
+      "zh_TW": "Is there anything else you have questions or requests about?",
+      "zh_CN": "Is there anything else you have questions or requests about?",
+      "ko": "Is there anything else you have questions or requests about?",
+      "zh_HK": "Is there anything else you have questions or requests about?",
+      "fr": "Is there anything else you have questions or requests about?"
+    },
+    "related": "他に vs また: 「他に」は別の選択肢や追加項目が存在することを指し、「また」は前述の事項に加えてさらに述べる接続詞。"
+  },
+  {
+    "id": "class_word_0027_0010",
+    "word": "上下関係",
+    "reading": "じょうげかんけい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "hierarchical relationship, vertical relationship (senior-junior)",
+      "ja": "上下関係",
+      "zh_TW": "hierarchical relationship, vertical relationship (senior-junior)",
+      "zh_CN": "hierarchical relationship, vertical relationship (senior-junior)",
+      "ko": "hierarchical relationship, vertical relationship (senior-junior)",
+      "zh_HK": "hierarchical relationship, vertical relationship (senior-junior)",
+      "fr": "hierarchical relationship, vertical relationship (senior-junior)"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>部活動<rt>ぶかつどう</rt></ruby>では、<ruby>先輩<rt>せんぱい</rt></ruby>と<ruby>後輩<rt>こうはい</rt></ruby>の<ruby>上下関係<rt>じょうげかんけい</rt></ruby>がとてもしっかりしている。",
+      "en": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined.",
+      "zh_TW": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined.",
+      "zh_CN": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined.",
+      "ko": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined.",
+      "zh_HK": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined.",
+      "fr": "In Japanese school clubs, the hierarchical relationship between seniors and juniors is very well-defined."
+    },
+    "related": "上下関係 vs 序列: 「上下関係」は人間関係における立場や礼儀の上下（先輩後輩など）を指し、「序列」は順位やランク付けの客観的な順番を指す。"
+  },
+  {
+    "id": "class_word_0027_0011",
+    "word": "有給休暇",
+    "reading": "ゆうきゅうきゅうか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "paid leave, paid vacation",
+      "ja": "有給休暇",
+      "zh_TW": "paid leave, paid vacation",
+      "zh_CN": "paid leave, paid vacation",
+      "ko": "paid leave, paid vacation",
+      "zh_HK": "paid leave, paid vacation",
+      "fr": "paid leave, paid vacation"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>有給休暇<rt>ゆうきゅうきゅうか</rt></ruby>を２<ruby>日<rt>にち</rt></ruby><ruby>取<rt>と</rt></ruby>って<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "Next week, I will take two days of paid leave and go on a hot spring trip.",
+      "zh_TW": "Next week, I will take two days of paid leave and go on a hot spring trip.",
+      "zh_CN": "Next week, I will take two days of paid leave and go on a hot spring trip.",
+      "ko": "Next week, I will take two days of paid leave and go on a hot spring trip.",
+      "zh_HK": "Next week, I will take two days of paid leave and go on a hot spring trip.",
+      "fr": "Next week, I will take two days of paid leave and go on a hot spring trip."
+    },
+    "related": "有給休暇 vs 休日: 「休日」は会社や学校がもともと休みの日（土日祝など）、「有給休暇」は本来労働義務がある日に給料が支払われながら休む権利。"
+  },
+  {
+    "id": "class_word_0027_0012",
+    "word": "有休",
+    "reading": "ゆうきゅう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "paid time off, PTO (colloquial abbreviation)",
+      "ja": "有休",
+      "zh_TW": "paid time off, PTO (colloquial abbreviation)",
+      "zh_CN": "paid time off, PTO (colloquial abbreviation)",
+      "ko": "paid time off, PTO (colloquial abbreviation)",
+      "zh_HK": "paid time off, PTO (colloquial abbreviation)",
+      "fr": "paid time off, PTO (colloquial abbreviation)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>有休<rt>ゆうきゅう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>市役所<rt>しやくしょ</rt></ruby>に<ruby>手続<rt>てつづ</rt></ruby>きに<ruby>行<rt>い</rt></ruby>ってきます。",
+      "en": "Tomorrow I will use my paid time off and go to city hall for procedures.",
+      "zh_TW": "Tomorrow I will use my paid time off and go to city hall for procedures.",
+      "zh_CN": "Tomorrow I will use my paid time off and go to city hall for procedures.",
+      "ko": "Tomorrow I will use my paid time off and go to city hall for procedures.",
+      "zh_HK": "Tomorrow I will use my paid time off and go to city hall for procedures.",
+      "fr": "Tomorrow I will use my paid time off and go to city hall for procedures."
+    },
+    "related": "有休 vs 有給休暇: 「有給休暇」の日常会話における最もポピュラーな省略表現。同僚同士の会話で頻出。"
+  },
+  {
+    "id": "class_word_0027_0013",
+    "word": "筋トレ",
+    "reading": "きんとれ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "strength training, weight lifting, workout",
+      "ja": "筋トレ",
+      "zh_TW": "strength training, weight lifting, workout",
+      "zh_CN": "strength training, weight lifting, workout",
+      "ko": "strength training, weight lifting, workout",
+      "zh_HK": "strength training, weight lifting, workout",
+      "fr": "strength training, weight lifting, workout"
+    },
+    "example": {
+      "ja": "<ruby>週<rt>しゅう</rt></ruby>に３<ruby>回<rt>かい</rt></ruby>ジムに<ruby>通<rt>かよ</rt></ruby>って、しっかり<ruby>筋<rt>きん</rt></ruby>トレをしています。",
+      "en": "I go to the gym three times a week and do thorough strength training.",
+      "zh_TW": "I go to the gym three times a week and do thorough strength training.",
+      "zh_CN": "I go to the gym three times a week and do thorough strength training.",
+      "ko": "I go to the gym three times a week and do thorough strength training.",
+      "zh_HK": "I go to the gym three times a week and do thorough strength training.",
+      "fr": "I go to the gym three times a week and do thorough strength training."
+    },
+    "related": "筋トレ vs 運動: 「運動」はランニングやスポーツ全般を広く指すが、「筋トレ（筋肉トレーニングの略）」は筋肉を鍛えるレジスタンストレーニングに限定される。"
+  },
+  {
+    "id": "class_word_0027_0014",
+    "word": "まとめて",
+    "reading": "まとめて",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "all together, in one go, in bulk",
+      "ja": "まとめて",
+      "zh_TW": "all together, in one go, in bulk",
+      "zh_CN": "all together, in one go, in bulk",
+      "ko": "all together, in one go, in bulk",
+      "zh_HK": "all together, in one go, in bulk",
+      "fr": "all together, in one go, in bulk"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くのは<ruby>大変<rt>たいへん</rt></ruby>なので、<ruby>週末<rt>しゅうまつ</rt></ruby>にまとめて<ruby>買<rt>か</rt></ruby>い<ruby>込<rt>こ</rt></ruby>みます。",
+      "en": "Since going shopping every day is tough, I buy groceries in bulk on weekends.",
+      "zh_TW": "Since going shopping every day is tough, I buy groceries in bulk on weekends.",
+      "zh_CN": "Since going shopping every day is tough, I buy groceries in bulk on weekends.",
+      "ko": "Since going shopping every day is tough, I buy groceries in bulk on weekends.",
+      "zh_HK": "Since going shopping every day is tough, I buy groceries in bulk on weekends.",
+      "fr": "Since going shopping every day is tough, I buy groceries in bulk on weekends."
+    },
+    "related": "まとめて vs いっしょに: 「いっしょに」は複数の人や物が同伴・同時にあること、「まとめて」はバラバラのものを1つのまとまりに整理・集約すること。"
+  },
+  {
+    "id": "class_word_0027_0015",
+    "word": "検査",
+    "reading": "けんさ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "inspection, examination, medical checkup",
+      "ja": "検査",
+      "zh_TW": "inspection, examination, medical checkup",
+      "zh_CN": "inspection, examination, medical checkup",
+      "ko": "inspection, examination, medical checkup",
+      "zh_HK": "inspection, examination, medical checkup",
+      "fr": "inspection, examination, medical checkup"
+    },
+    "example": {
+      "ja": "<ruby>病院<rt>びょういん</rt></ruby>で<ruby>血液<rt>けつえき</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたが、<ruby>異常<rt>いじょう</rt></ruby>はなかった。",
+      "en": "I had a blood test at the hospital, but there were no abnormalities.",
+      "zh_TW": "I had a blood test at the hospital, but there were no abnormalities.",
+      "zh_CN": "I had a blood test at the hospital, but there were no abnormalities.",
+      "ko": "I had a blood test at the hospital, but there were no abnormalities.",
+      "zh_HK": "I had a blood test at the hospital, but there were no abnormalities.",
+      "fr": "I had a blood test at the hospital, but there were no abnormalities."
+    },
+    "related": "検査 vs 治療: 「検査」は病気や不具合の有無を調べること、「治療」は見つかった病気やケガを手当てして治すこと。"
+  },
+  {
+    "id": "class_word_0027_0016",
+    "word": "治療",
+    "reading": "ちりょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "medical treatment, cure, therapy",
+      "ja": "治療",
+      "zh_TW": "medical treatment, cure, therapy",
+      "zh_CN": "medical treatment, cure, therapy",
+      "ko": "medical treatment, cure, therapy",
+      "zh_HK": "medical treatment, cure, therapy",
+      "fr": "medical treatment, cure, therapy"
+    },
+    "example": {
+      "ja": "<ruby>虫歯<rt>むしば</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>のために、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。",
+      "en": "I visit the dentist every week for the treatment of a cavity.",
+      "zh_TW": "I visit the dentist every week for the treatment of a cavity.",
+      "zh_CN": "I visit the dentist every week for the treatment of a cavity.",
+      "ko": "I visit the dentist every week for the treatment of a cavity.",
+      "zh_HK": "I visit the dentist every week for the treatment of a cavity.",
+      "fr": "I visit the dentist every week for the treatment of a cavity."
+    },
+    "related": "治療 vs 手術: 「治療」は投薬やリハビリを含め病気やケガを治す行為全般、「手術」はメス等で患部を切開・処置する特定の手法。"
+  },
+  {
+    "id": "class_word_0027_0017",
+    "word": "〜てもいいですよ",
+    "reading": "〜てもいいですよ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "you may ..., it's okay to ... (granting permission)",
+      "ja": "〜てもいいですよ",
+      "zh_TW": "you may ..., it's okay to ... (granting permission)",
+      "zh_CN": "you may ..., it's okay to ... (granting permission)",
+      "ko": "you may ..., it's okay to ... (granting permission)",
+      "zh_HK": "you may ..., it's okay to ... (granting permission)",
+      "fr": "you may ..., it's okay to ... (granting permission)"
+    },
+    "example": {
+      "ja": "「この<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってもいいですか」「どうぞ、<ruby>座<rt>すわ</rt></ruby>ってもいいですよ」。",
+      "en": "\"May I sit in this seat?\" \"Sure, you may sit here.\"",
+      "zh_TW": "\"May I sit in this seat?\" \"Sure, you may sit here.\"",
+      "zh_CN": "\"May I sit in this seat?\" \"Sure, you may sit here.\"",
+      "ko": "\"May I sit in this seat?\" \"Sure, you may sit here.\"",
+      "zh_HK": "\"May I sit in this seat?\" \"Sure, you may sit here.\"",
+      "fr": "\"May I sit in this seat?\" \"Sure, you may sit here.\""
+    },
+    "related": "〜てもいいですよ vs 〜てください: 「〜てもいいですよ」は許可を与える表現（相手がしたい場合にしてよい）、「〜てください」は相手に行動を促す依頼・指示。"
+  },
+  {
+    "id": "class_word_0027_0018",
+    "word": "〜してはいけません",
+    "reading": "〜してはいけません",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "you must not ..., do not ... (prohibition)",
+      "ja": "〜してはいけません",
+      "zh_TW": "you must not ..., do not ... (prohibition)",
+      "zh_CN": "you must not ..., do not ... (prohibition)",
+      "ko": "you must not ..., do not ... (prohibition)",
+      "zh_HK": "you must not ..., do not ... (prohibition)",
+      "fr": "you must not ..., do not ... (prohibition)"
+    },
+    "example": {
+      "ja": "テストの<ruby>最中<rt>さいちゅう</rt></ruby>に、スマホを<ruby>見<rt>み</rt></ruby>てはいけません。",
+      "en": "You must not look at your smartphone during the test.",
+      "zh_TW": "You must not look at your smartphone during the test.",
+      "zh_CN": "You must not look at your smartphone during the test.",
+      "ko": "You must not look at your smartphone during the test.",
+      "zh_HK": "You must not look at your smartphone during the test.",
+      "fr": "You must not look at your smartphone during the test."
+    },
+    "related": "〜してはいけません vs 〜ないでください: 「〜ないでください」は相手に遠慮を求める丁寧な依頼、「〜してはいけません」は規則や大人の指導など強い禁止を表す。"
+  },
+  {
+    "id": "class_word_0027_0019",
+    "word": "日記を書いています",
+    "reading": "にっきをかいています",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "I am keeping a diary",
+      "ja": "日記を書いています",
+      "zh_TW": "I am keeping a diary",
+      "zh_CN": "I am keeping a diary",
+      "ko": "I am keeping a diary",
+      "zh_HK": "I am keeping a diary",
+      "fr": "I am keeping a diary"
+    },
+    "example": {
+      "ja": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>のために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>日記<rt>にっき</rt></ruby>を<ruby>書<rt>か</rt></ruby>いています。",
+      "en": "To practice Japanese, I keep a diary every day before going to bed.",
+      "zh_TW": "To practice Japanese, I keep a diary every day before going to bed.",
+      "zh_CN": "To practice Japanese, I keep a diary every day before going to bed.",
+      "ko": "To practice Japanese, I keep a diary every day before going to bed.",
+      "zh_HK": "To practice Japanese, I keep a diary every day before going to bed.",
+      "fr": "To practice Japanese, I keep a diary every day before going to bed."
+    },
+    "related": "日記を書く vs 日記をつける: どちらも日常的に使われるが、「日記をつける」は日々継続して記録する習慣に重点がある。"
+  },
+  {
+    "id": "class_word_0027_0020",
+    "word": "育てる",
+    "reading": "そだてる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)",
+      "ja": "育てる",
+      "zh_TW": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)",
+      "zh_CN": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)",
+      "ko": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)",
+      "zh_HK": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)",
+      "fr": "1. to raise, to bring up (children) 2. to grow, to cultivate (plants, pets, talents)"
+    },
+    "example": {
+      "ja": "1. <ruby>両親<rt>りょうしん</rt></ruby>は<ruby>愛情<rt>あいじょう</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めてわたしを<ruby>育<rt>そだ</rt></ruby>ててくれた。<br>2. ベランダでミニトマトを<ruby>苗<rt>なえ</rt></ruby>から<ruby>育<rt>そだ</rt></ruby>てています。",
+      "en": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony.",
+      "zh_TW": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony.",
+      "zh_CN": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony.",
+      "ko": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony.",
+      "zh_HK": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony.",
+      "fr": "1. My parents raised me with lots of love. 2. I am growing cherry tomatoes from seedlings on the balcony."
+    },
+    "related": "育てる vs 育つ: 「育てる」は他動詞（人が子どもや植物を世話して大きくする）、「育つ」は自動詞（子どもや植物自身が成長する）。"
+  },
+  {
+    "id": "class_word_0027_0021",
+    "word": "夫",
+    "reading": "おっと",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "husband (neutral, humble when referring to one's own)",
+      "ja": "夫",
+      "zh_TW": "husband (neutral, humble when referring to one's own)",
+      "zh_CN": "husband (neutral, humble when referring to one's own)",
+      "ko": "husband (neutral, humble when referring to one's own)",
+      "zh_HK": "husband (neutral, humble when referring to one's own)",
+      "fr": "husband (neutral, humble when referring to one's own)"
+    },
+    "example": {
+      "ja": "<ruby>夫<rt>おっと</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>夕飯<rt>ゆうはん</rt></ruby>をよく<ruby>作<rt>つく</rt></ruby>ってくれます。",
+      "en": "My husband is good at cooking and often makes dinner on weekends.",
+      "zh_TW": "My husband is good at cooking and often makes dinner on weekends.",
+      "zh_CN": "My husband is good at cooking and often makes dinner on weekends.",
+      "ko": "My husband is good at cooking and often makes dinner on weekends.",
+      "zh_HK": "My husband is good at cooking and often makes dinner on weekends.",
+      "fr": "My husband is good at cooking and often makes dinner on weekends."
+    },
+    "related": "夫 vs 主人 vs 旦那: 「夫」は公の場や改まった書類で自分の配偶者を呼ぶ最も客観的で標準的な呼称。"
+  },
+  {
+    "id": "class_word_0027_0022",
+    "word": "主人",
+    "reading": "しゅじん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "husband, head of household",
+      "ja": "主人",
+      "zh_TW": "husband, head of household",
+      "zh_CN": "husband, head of household",
+      "ko": "husband, head of household",
+      "zh_HK": "husband, head of household",
+      "fr": "husband, head of household"
+    },
+    "example": {
+      "ja": "うちの<ruby>主人<rt>しゅじん</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く、６<ruby>時<rt>じ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
+      "en": "My husband starts early in the morning and leaves home by 6:00.",
+      "zh_TW": "My husband starts early in the morning and leaves home by 6:00.",
+      "zh_CN": "My husband starts early in the morning and leaves home by 6:00.",
+      "ko": "My husband starts early in the morning and leaves home by 6:00.",
+      "zh_HK": "My husband starts early in the morning and leaves home by 6:00.",
+      "fr": "My husband starts early in the morning and leaves home by 6:00."
+    },
+    "related": "主人 vs 夫: 「主人」は長年広く使われてきた丁寧な自称だが、「一家の主」という語源を持つため、現代ではより対等な「夫」を使う人が増えている。"
+  },
+  {
+    "id": "class_word_0027_0023",
+    "word": "旦那",
+    "reading": "だんな",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "husband (informal, affectionate)",
+      "ja": "旦那",
+      "zh_TW": "husband (informal, affectionate)",
+      "zh_CN": "husband (informal, affectionate)",
+      "ko": "husband (informal, affectionate)",
+      "zh_HK": "husband (informal, affectionate)",
+      "fr": "husband (informal, affectionate)"
+    },
+    "example": {
+      "ja": "<ruby>旦那<rt>だんな</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>近所<rt>きんじょ</rt></ruby>のスーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>出<rt>で</rt></ruby>しに<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "I went grocery shopping at a neighborhood supermarket together with my husband.",
+      "zh_TW": "I went grocery shopping at a neighborhood supermarket together with my husband.",
+      "zh_CN": "I went grocery shopping at a neighborhood supermarket together with my husband.",
+      "ko": "I went grocery shopping at a neighborhood supermarket together with my husband.",
+      "zh_HK": "I went grocery shopping at a neighborhood supermarket together with my husband.",
+      "fr": "I went grocery shopping at a neighborhood supermarket together with my husband."
+    },
+    "related": "旦那 vs 夫: 「旦那」は親しい友人や同僚とのカジュアルな会話で自分の夫を指すときに親しみを込めて使われる。他人の夫には「旦那さん」と言う。"
+  },
+  {
+    "id": "class_word_0027_0024",
+    "word": "鉢植え",
+    "reading": "はちうえ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "potted plant",
+      "ja": "鉢植え",
+      "zh_TW": "potted plant",
+      "zh_CN": "potted plant",
+      "ko": "potted plant",
+      "zh_HK": "potted plant",
+      "fr": "potted plant"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>のプレゼントに、カーネーションの<ruby>鉢植<rt>はちう</rt></ruby>えを<ruby>贈<rt>おく</rt></ruby>りました。",
+      "en": "I gave a potted carnation as a Mother's Day gift.",
+      "zh_TW": "I gave a potted carnation as a Mother's Day gift.",
+      "zh_CN": "I gave a potted carnation as a Mother's Day gift.",
+      "ko": "I gave a potted carnation as a Mother's Day gift.",
+      "zh_HK": "I gave a potted carnation as a Mother's Day gift.",
+      "fr": "I gave a potted carnation as a Mother's Day gift."
+    },
+    "related": "鉢植え vs 地植え: 「鉢植え」は植木鉢やプランターに植えて育てること、「地植え」は庭などの地面に直接植えること。"
+  },
+  {
+    "id": "class_word_0027_0025",
+    "word": "植える",
+    "reading": "うえる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to plant, to sow",
+      "ja": "植える",
+      "zh_TW": "to plant, to sow",
+      "zh_CN": "to plant, to sow",
+      "ko": "to plant, to sow",
+      "zh_HK": "to plant, to sow",
+      "fr": "to plant, to sow"
+    },
+    "example": {
+      "ja": "<ruby>春<rt>はる</rt></ruby>になったら、<ruby>庭<rt>にわ</rt></ruby>にチューリップの<ruby>球根<rt>きゅうこん</rt></ruby>を<ruby>植<rt>う</rt></ruby>えるつもりです。",
+      "en": "When spring comes, I plan to plant tulip bulbs in the garden.",
+      "zh_TW": "When spring comes, I plan to plant tulip bulbs in the garden.",
+      "zh_CN": "When spring comes, I plan to plant tulip bulbs in the garden.",
+      "ko": "When spring comes, I plan to plant tulip bulbs in the garden.",
+      "zh_HK": "When spring comes, I plan to plant tulip bulbs in the garden.",
+      "fr": "When spring comes, I plan to plant tulip bulbs in the garden."
+    },
+    "related": "植える vs 育てる: 「植える」は土や鉢に苗・種・球根を配置・定着させる初動の行為、「育てる」はその後の日々の世話や成長を指す。"
+  },
+  {
+    "id": "class_word_0027_0026",
+    "word": "枯れる",
+    "reading": "かれる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to wither, to die (plants)",
+      "ja": "枯れる",
+      "zh_TW": "to wither, to die (plants)",
+      "zh_CN": "to wither, to die (plants)",
+      "ko": "to wither, to die (plants)",
+      "zh_HK": "to wither, to die (plants)",
+      "fr": "to wither, to die (plants)"
+    },
+    "example": {
+      "ja": "<ruby>水<rt>みず</rt></ruby>やりを<ruby>忘<rt>わす</rt></ruby>れてしまったので、お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>観葉植物<rt>かんようしょくぶつ</rt></ruby>が<ruby>枯<rt>か</rt></ruby>れてしまった。",
+      "en": "Because I forgot to water it, my favorite houseplant withered.",
+      "zh_TW": "Because I forgot to water it, my favorite houseplant withered.",
+      "zh_CN": "Because I forgot to water it, my favorite houseplant withered.",
+      "ko": "Because I forgot to water it, my favorite houseplant withered.",
+      "zh_HK": "Because I forgot to water it, my favorite houseplant withered.",
+      "fr": "Because I forgot to water it, my favorite houseplant withered."
+    },
+    "related": "枯れる vs しおれる: 「しおれる」は水不足等で一時的に元気がなくなってしなびること（水をあげれば戻る）、「枯れる」は生命活動が絶えて完全に死んでしまうこと。"
+  },
+  {
+    "id": "class_word_0027_0027",
+    "word": "よく〜します",
+    "reading": "よく〜します",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "often do ..., frequently do ...",
+      "ja": "よく〜します",
+      "zh_TW": "often do ..., frequently do ...",
+      "zh_CN": "often do ..., frequently do ...",
+      "ko": "often do ..., frequently do ...",
+      "zh_HK": "often do ..., frequently do ...",
+      "fr": "often do ..., frequently do ..."
+    },
+    "example": {
+      "ja": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>でよく<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+      "en": "On days off, I often watch movies at home.",
+      "zh_TW": "On days off, I often watch movies at home.",
+      "zh_CN": "On days off, I often watch movies at home.",
+      "ko": "On days off, I often watch movies at home.",
+      "zh_HK": "On days off, I often watch movies at home.",
+      "fr": "On days off, I often watch movies at home."
+    },
+    "related": "よく vs たまに: 「よく」は頻度が高いこと（70〜80%程度）、「たまに」は頻度が低いこと（20〜30%程度）。"
+  },
+  {
+    "id": "class_word_0027_0028",
+    "word": "見頃",
+    "reading": "みごろ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "best time to see, peak viewing season",
+      "ja": "見頃",
+      "zh_TW": "best time to see, peak viewing season",
+      "zh_CN": "best time to see, peak viewing season",
+      "ko": "best time to see, peak viewing season",
+      "zh_HK": "best time to see, peak viewing season",
+      "fr": "best time to see, peak viewing season"
+    },
+    "example": {
+      "ja": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>は、１１<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>からちょうど<ruby>見頃<rt>みごろ</rt></ruby>を迎えます。",
+      "en": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November.",
+      "zh_TW": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November.",
+      "zh_CN": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November.",
+      "ko": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November.",
+      "zh_HK": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November.",
+      "fr": "The autumn foliage in Kyoto reaches its peak viewing season starting in late November."
+    },
+    "related": "見頃 vs 食べ頃: 「見頃」は桜や紅葉などが最も美しく咲き誇る時期、「食べ頃」は果物や料理が一番美味しく熟した時期。"
+  },
+  {
+    "id": "class_word_0027_0029",
+    "word": "散る",
+    "reading": "ちる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to fall, to scatter (blossoms, leaves)",
+      "ja": "散る",
+      "zh_TW": "to fall, to scatter (blossoms, leaves)",
+      "zh_CN": "to fall, to scatter (blossoms, leaves)",
+      "ko": "to fall, to scatter (blossoms, leaves)",
+      "zh_HK": "to fall, to scatter (blossoms, leaves)",
+      "fr": "to fall, to scatter (blossoms, leaves)"
+    },
+    "example": {
+      "ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いて、<ruby>桜<rt>さくら</rt></ruby>の<ruby>花びら<rt>はなびら</rt></ruby>がひらひらと<ruby>散<rt>ち</rt></ruby>っていった。",
+      "en": "A strong wind blew, and the cherry blossoms fluttered and scattered.",
+      "zh_TW": "A strong wind blew, and the cherry blossoms fluttered and scattered.",
+      "zh_CN": "A strong wind blew, and the cherry blossoms fluttered and scattered.",
+      "ko": "A strong wind blew, and the cherry blossoms fluttered and scattered.",
+      "zh_HK": "A strong wind blew, and the cherry blossoms fluttered and scattered.",
+      "fr": "A strong wind blew, and the cherry blossoms fluttered and scattered."
+    },
+    "related": "散る vs 落ちる: 「落ちる」は重力で下に落下すること全般、「散る」は花びらや木の葉などが風に吹かれて美しく四方に舞い散ること。"
+  },
+  {
+    "id": "class_word_0027_0030",
+    "word": "くたくた",
+    "reading": "くたくた",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "exhausted, worn out",
+      "ja": "くたくた",
+      "zh_TW": "exhausted, worn out",
+      "zh_CN": "exhausted, worn out",
+      "ko": "exhausted, worn out",
+      "zh_HK": "exhausted, worn out",
+      "fr": "exhausted, worn out"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>晩<rt>ばん</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>って、もう<ruby>体<rt>からだ</rt></ruby>がくたくただ。",
+      "en": "I walked around from morning till night, and my body is completely exhausted.",
+      "zh_TW": "I walked around from morning till night, and my body is completely exhausted.",
+      "zh_CN": "I walked around from morning till night, and my body is completely exhausted.",
+      "ko": "I walked around from morning till night, and my body is completely exhausted.",
+      "zh_HK": "I walked around from morning till night, and my body is completely exhausted.",
+      "fr": "I walked around from morning till night, and my body is completely exhausted."
+    },
+    "related": "くたくた vs へとへと: ほぼ同義だが、「くたくた」は体が煮崩れたように力が抜けてへたり込む感覚、「へとへと」は息も絶え絶えなスタミナ切れの感覚を帯びる。"
+  },
+  {
+    "id": "class_word_0027_0031",
+    "word": "へとへと",
+    "reading": "へとへと",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "dead tired, exhausted, burnt out",
+      "ja": "へとへと",
+      "zh_TW": "dead tired, exhausted, burnt out",
+      "zh_CN": "dead tired, exhausted, burnt out",
+      "ko": "dead tired, exhausted, burnt out",
+      "zh_HK": "dead tired, exhausted, burnt out",
+      "fr": "dead tired, exhausted, burnt out"
+    },
+    "example": {
+      "ja": "<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>階段<rt>かいだん</rt></ruby>で５<ruby>階<rt>かい</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>んで、へとへとになった。",
+      "en": "I carried heavy luggage up the stairs to the fifth floor and became dead tired.",
+      "zh_TW": "I carried heavy luggage up the stairs to the fifth floor and became dead tired.",
+      "zh_CN": "I carried heavy luggage up the stairs to the fifth floor and became dead tired.",
+      "ko": "I carried heavy luggage up the stairs to the fifth floor and became dead tired.",
+      "zh_HK": "I carried heavy luggage up the stairs to the fifth floor and became dead tired.",
+      "fr": "I carried heavy luggage up the stairs to the fifth floor and became dead tired."
+    },
+    "related": "へとへと vs くたくた: 激しい運動や重労働の直後に「息が切れて動けない」状態には「へとへと」がよく似合う。"
+  },
+  {
+    "id": "class_word_0027_0032",
+    "word": "往復",
+    "reading": "おうふく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "round trip, both ways",
+      "ja": "往復",
+      "zh_TW": "round trip, both ways",
+      "zh_CN": "round trip, both ways",
+      "ko": "round trip, both ways",
+      "zh_HK": "round trip, both ways",
+      "fr": "round trip, both ways"
+    },
+    "example": {
+      "ja": "<ruby>職場<rt>しょくば</rt></ruby>までは、<ruby>往復<rt>おうふく</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby>２<ruby>時間<rt>じかん</rt></ruby>かかります。",
+      "en": "It takes two hours every day for the round trip to my workplace.",
+      "zh_TW": "It takes two hours every day for the round trip to my workplace.",
+      "zh_CN": "It takes two hours every day for the round trip to my workplace.",
+      "ko": "It takes two hours every day for the round trip to my workplace.",
+      "zh_HK": "It takes two hours every day for the round trip to my workplace.",
+      "fr": "It takes two hours every day for the round trip to my workplace."
+    },
+    "related": "往復 vs 片道: 「片道」は行きか帰りのどちらか一方、「往復」は行きと帰りの両方。"
+  },
+  {
+    "id": "class_word_0027_0033",
+    "word": "伸びる",
+    "reading": "のびる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)",
+      "ja": "伸びる",
+      "zh_TW": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)",
+      "zh_CN": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)",
+      "ko": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)",
+      "zh_HK": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)",
+      "fr": "1. to grow longer (hair, nails) 2. to extend, to stretch (elastic, time) 3. to improve (scores, skills)"
+    },
+    "example": {
+      "ja": "1. <ruby>髪<rt>かみ</rt></ruby>がだいぶ<ruby>伸<rt>の</rt></ruby>びたので、<ruby>今週末<rt>こんしゅうまつ</rt></ruby><ruby>美容院<rt>びよういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br>2. <ruby>毎日<rt>まいにち</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>のおかげで、テストのスコアがぐんと<ruby>伸<rt>の</rt></ruby>びた。",
+      "en": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly.",
+      "zh_TW": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly.",
+      "zh_CN": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly.",
+      "ko": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly.",
+      "zh_HK": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly.",
+      "fr": "1. My hair has grown quite long, so I am going to the hair salon this weekend. 2. Thanks to daily practice, my test scores improved significantly."
+    },
+    "related": "伸びる vs 延びる: 「伸びる」は長さ・身長・能力などが長大化すること、「延びる」は期限・時間・日数などが延期・延長されること。"
+  },
+  {
+    "id": "class_word_0027_0034",
+    "word": "マクドナルド",
+    "reading": "まくどなるど",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "McDonald's",
+      "ja": "マクドナルド",
+      "zh_TW": "McDonald's",
+      "zh_CN": "McDonald's",
+      "ko": "McDonald's",
+      "zh_HK": "McDonald's",
+      "fr": "McDonald's"
+    },
+    "example": {
+      "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>のマクドナルドで、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせをしました。",
+      "en": "I met up with my friend at the McDonald's in front of the station.",
+      "zh_TW": "I met up with my friend at the McDonald's in front of the station.",
+      "zh_CN": "I met up with my friend at the McDonald's in front of the station.",
+      "ko": "I met up with my friend at the McDonald's in front of the station.",
+      "zh_HK": "I met up with my friend at the McDonald's in front of the station.",
+      "fr": "I met up with my friend at the McDonald's in front of the station."
+    },
+    "related": "マクドナルド: 正式名称。東日本では「マック」、関西では「マクド」と略して呼ばれる。"
+  },
+  {
+    "id": "class_word_0027_0035",
+    "word": "マック",
+    "reading": "まっく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "Mcdonald's (Eastern Japan slang), Mac (computer)",
+      "ja": "マック",
+      "zh_TW": "Mcdonald's (Eastern Japan slang), Mac (computer)",
+      "zh_CN": "Mcdonald's (Eastern Japan slang), Mac (computer)",
+      "ko": "Mcdonald's (Eastern Japan slang), Mac (computer)",
+      "zh_HK": "Mcdonald's (Eastern Japan slang), Mac (computer)",
+      "fr": "Mcdonald's (Eastern Japan slang), Mac (computer)"
+    },
+    "example": {
+      "ja": "「お<ruby>昼<rt>ひる</rt></ruby>、マックのハンバーガーにしない？」「いいね！」。",
+      "en": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\"",
+      "zh_TW": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\"",
+      "zh_CN": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\"",
+      "ko": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\"",
+      "zh_HK": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\"",
+      "fr": "\"Why don't we have Mac (McDonald's) burgers for lunch?\" \"Sounds great!\""
+    },
+    "related": "マック vs マクド: 主に関東をはじめとする東日本や全国の多くの地域で使われる略称。パソコンのMacの意味もある。"
+  },
+  {
+    "id": "class_word_0027_0036",
+    "word": "マクド",
+    "reading": "まくど",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "McDonald's (Kansai/Western Japan slang)",
+      "ja": "マクド",
+      "zh_TW": "McDonald's (Kansai/Western Japan slang)",
+      "zh_CN": "McDonald's (Kansai/Western Japan slang)",
+      "ko": "McDonald's (Kansai/Western Japan slang)",
+      "zh_HK": "McDonald's (Kansai/Western Japan slang)",
+      "fr": "McDonald's (Kansai/Western Japan slang)"
+    },
+    "example": {
+      "ja": "<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、マクドナルドのことを「マクド」と<ruby>呼<rt>よ</rt></ruby>びます。",
+      "en": "People in Osaka call McDonald's \"Makudo\".",
+      "zh_TW": "People in Osaka call McDonald's \"Makudo\".",
+      "zh_CN": "People in Osaka call McDonald's \"Makudo\".",
+      "ko": "People in Osaka call McDonald's \"Makudo\".",
+      "zh_HK": "People in Osaka call McDonald's \"Makudo\".",
+      "fr": "People in Osaka call McDonald's \"Makudo\"."
+    },
+    "related": "マクド vs マック: 主に関西圏（大阪・京都・兵庫など）で根強く愛用される独自の親しみある略称。"
+  },
+  {
+    "id": "class_word_0027_0037",
+    "word": "暗い",
+    "reading": "くらい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)",
+      "ja": "暗い",
+      "zh_TW": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)",
+      "zh_CN": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)",
+      "ko": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)",
+      "zh_HK": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)",
+      "fr": "1. dark, dim (light) 2. gloomy, cheerless, depressed (personality, atmosphere)"
+    },
+    "example": {
+      "ja": "1. <ruby>部屋<rt>へや</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電気<rt>でんき</rt></ruby>をつけましょう。<br>2. <ruby>今日<rt>きょう</rt></ruby>の<ruby>彼<rt>かれ</rt></ruby>はなんだか<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>く、元気がなさそうだ。",
+      "en": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful.",
+      "zh_TW": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful.",
+      "zh_CN": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful.",
+      "ko": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful.",
+      "zh_HK": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful.",
+      "fr": "1. The room is dark, so let's turn on the light. 2. His facial expression seems somewhat gloomy today, and he doesn't look cheerful."
+    },
+    "related": "暗い vs 明るい: 光の明暗だけでなく、性格や声、表情の陽気さ・陰気さにも対比で使われる。"
+  },
+  {
+    "id": "class_word_0027_0038",
+    "word": "取引先",
+    "reading": "とりひきさき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "client, customer, business partner",
+      "ja": "取引先",
+      "zh_TW": "client, customer, business partner",
+      "zh_CN": "client, customer, business partner",
+      "ko": "client, customer, business partner",
+      "zh_HK": "client, customer, business partner",
+      "fr": "client, customer, business partner"
+    },
+    "example": {
+      "ja": "<ruby>午後<rt>ごご</rt></ruby>から<ruby>大事<rt>だいじ</rt></ruby>な<ruby>取引先<rt>とりひきさき</rt></ruby>とのオンラインミーティングがあります。",
+      "en": "I have an important online meeting with a client starting this afternoon.",
+      "zh_TW": "I have an important online meeting with a client starting this afternoon.",
+      "zh_CN": "I have an important online meeting with a client starting this afternoon.",
+      "ko": "I have an important online meeting with a client starting this afternoon.",
+      "zh_HK": "I have an important online meeting with a client starting this afternoon.",
+      "fr": "I have an important online meeting with a client starting this afternoon."
+    },
+    "related": "取引先 vs 顧客: 「顧客」は商品やサービスを買う客全般を指し、「取引先」は契約に基づいて継続的に商取引を行う企業・パートナーを指す。"
+  },
+  {
+    "id": "class_word_0027_0039",
+    "word": "混ざる",
+    "reading": "まざる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to be mixed, to blend (intransitive)",
+      "ja": "混ざる",
+      "zh_TW": "to be mixed, to blend (intransitive)",
+      "zh_CN": "to be mixed, to blend (intransitive)",
+      "ko": "to be mixed, to blend (intransitive)",
+      "zh_HK": "to be mixed, to blend (intransitive)",
+      "fr": "to be mixed, to blend (intransitive)"
+    },
+    "example": {
+      "ja": "<ruby>白<rt>しろ</rt></ruby>いペンキに<ruby>赤<rt>あか</rt></ruby>が<ruby>混<rt>ま</rt></ruby>ざると、きれいなピンク<ruby>色<rt>いろ</rt></ruby>になります。",
+      "en": "When red is mixed into white paint, it turns a pretty pink.",
+      "zh_TW": "When red is mixed into white paint, it turns a pretty pink.",
+      "zh_CN": "When red is mixed into white paint, it turns a pretty pink.",
+      "ko": "When red is mixed into white paint, it turns a pretty pink.",
+      "zh_HK": "When red is mixed into white paint, it turns a pretty pink.",
+      "fr": "When red is mixed into white paint, it turns a pretty pink."
+    },
+    "related": "混ざる vs 混ぜる: 「混ざる」は自動詞（自然と混ざり合う）、「混ぜる」は他動詞（人間が手を加えてかき混ぜる）。"
+  },
+  {
+    "id": "class_word_0027_0040",
+    "word": "混ぜる",
+    "reading": "まぜる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to mix, to blend, to stir (transitive)",
+      "ja": "混ぜる",
+      "zh_TW": "to mix, to blend, to stir (transitive)",
+      "zh_CN": "to mix, to blend, to stir (transitive)",
+      "ko": "to mix, to blend, to stir (transitive)",
+      "zh_HK": "to mix, to blend, to stir (transitive)",
+      "fr": "to mix, to blend, to stir (transitive)"
+    },
+    "example": {
+      "ja": "ボウルに<ruby>卵<rt>たまご</rt></ruby>とミルクを<ruby>入<rt>い</rt></ruby>れて、泡立て器でよく<ruby>混<rt>ま</rt></ruby>ぜてください。",
+      "en": "Put the egg and milk in a bowl and mix well with a whisk.",
+      "zh_TW": "Put the egg and milk in a bowl and mix well with a whisk.",
+      "zh_CN": "Put the egg and milk in a bowl and mix well with a whisk.",
+      "ko": "Put the egg and milk in a bowl and mix well with a whisk.",
+      "zh_HK": "Put the egg and milk in a bowl and mix well with a whisk.",
+      "fr": "Put the egg and milk in a bowl and mix well with a whisk."
+    },
+    "related": "混ぜる vs 混ざる: 「〜を混ぜる」と目的語をとる他動詞。"
+  },
+  {
+    "id": "class_word_0027_0041",
+    "word": "香水",
+    "reading": "こうすい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "perfume, fragrance",
+      "ja": "香水",
+      "zh_TW": "perfume, fragrance",
+      "zh_CN": "perfume, fragrance",
+      "ko": "perfume, fragrance",
+      "zh_HK": "perfume, fragrance",
+      "fr": "perfume, fragrance"
+    },
+    "example": {
+      "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>が<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎると、ふわっとフローラルな<ruby>香水<rt>こうすい</rt></ruby>が<ruby>香<rt>かお</rt></ruby>った。",
+      "en": "When she walked by, a soft floral perfume drifted in the air.",
+      "zh_TW": "When she walked by, a soft floral perfume drifted in the air.",
+      "zh_CN": "When she walked by, a soft floral perfume drifted in the air.",
+      "ko": "When she walked by, a soft floral perfume drifted in the air.",
+      "zh_HK": "When she walked by, a soft floral perfume drifted in the air.",
+      "fr": "When she walked by, a soft floral perfume drifted in the air."
+    },
+    "related": "香水 vs コロン: 「香水」は香料濃度の高いもの全般を指す日常語。「オーデコロン」は香りが軽く持続時間が短い。"
+  },
+  {
+    "id": "class_word_0027_0042",
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "black tea",
+      "ja": "紅茶",
+      "zh_TW": "black tea",
+      "zh_CN": "black tea",
+      "ko": "black tea",
+      "zh_HK": "black tea",
+      "fr": "black tea"
+    },
+    "example": {
+      "ja": "<ruby>午後<rt>ごご</rt></ruby>のティータイムに、レモンを<ruby>添<rt>そ</rt></ruby>えたあたたかい<ruby>紅茶<rt>こうちゃ</rt></ruby>をいただきました。",
+      "en": "During afternoon tea time, I had warm black tea with a slice of lemon.",
+      "zh_TW": "During afternoon tea time, I had warm black tea with a slice of lemon.",
+      "zh_CN": "During afternoon tea time, I had warm black tea with a slice of lemon.",
+      "ko": "During afternoon tea time, I had warm black tea with a slice of lemon.",
+      "zh_HK": "During afternoon tea time, I had warm black tea with a slice of lemon.",
+      "fr": "During afternoon tea time, I had warm black tea with a slice of lemon."
+    },
+    "related": "紅茶 vs 緑茶: 「紅茶」は完全発酵させた茶葉（赤褐色）、「緑茶」は発酵させない日本の日本茶（緑色）。"
+  },
+  {
+    "id": "class_word_0027_0043",
+    "word": "おいしいのは",
+    "reading": "おいしいのは",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the one that is delicious is ... (present state/general)",
+      "ja": "おいしいのは",
+      "zh_TW": "the one that is delicious is ... (present state/general)",
+      "zh_CN": "the one that is delicious is ... (present state/general)",
+      "ko": "the one that is delicious is ... (present state/general)",
+      "zh_HK": "the one that is delicious is ... (present state/general)",
+      "fr": "the one that is delicious is ... (present state/general)"
+    },
+    "example": {
+      "ja": "ここのメニューで一番<ruby>美味<rt>おい</rt></ruby>しいのは、<ruby>焼<rt>や</rt></ruby>きたてのピザです。",
+      "en": "The one that is the most delicious on this menu is the freshly baked pizza.",
+      "zh_TW": "The one that is the most delicious on this menu is the freshly baked pizza.",
+      "zh_CN": "The one that is the most delicious on this menu is the freshly baked pizza.",
+      "ko": "The one that is the most delicious on this menu is the freshly baked pizza.",
+      "zh_HK": "The one that is the most delicious on this menu is the freshly baked pizza.",
+      "fr": "The one that is the most delicious on this menu is the freshly baked pizza."
+    },
+    "related": "おいしいのは vs おいしかったのは: 「おいしいのは」は現在や一般的な事実を述べる。「おいしかったのは」は過去に実際に食べたときの思い出を語る。"
+  },
+  {
+    "id": "class_word_0027_0044",
+    "word": "おいしかったのは",
+    "reading": "おいしかったのは",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the one that was delicious was ... (past experience)",
+      "ja": "おいしかったのは",
+      "zh_TW": "the one that was delicious was ... (past experience)",
+      "zh_CN": "the one that was delicious was ... (past experience)",
+      "ko": "the one that was delicious was ... (past experience)",
+      "zh_HK": "the one that was delicious was ... (past experience)",
+      "fr": "the one that was delicious was ... (past experience)"
+    },
+    "example": {
+      "ja": "<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>で一番<ruby>美味<rt>おい</rt></ruby>しかったのは、<ruby>朝市<rt>あさいち</rt></ruby>で<ruby>食<rt>た</rt></ruby>べた海鮮丼でした。",
+      "en": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market.",
+      "zh_TW": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market.",
+      "zh_CN": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market.",
+      "ko": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market.",
+      "zh_HK": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market.",
+      "fr": "The thing that was the most delicious on the trip to Hokkaido was the seafood bowl eaten at the morning market."
+    },
+    "related": "おいしかったのは vs おいしいのは: 過去の特定の飲食体験を回想して「あの時美味しかったもの」を限定する表現。"
+  },
+  {
+    "id": "class_word_0027_0045",
+    "word": "行きたい",
+    "reading": "いきたい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "want to go (general desire)",
+      "ja": "行きたい",
+      "zh_TW": "want to go (general desire)",
+      "zh_CN": "want to go (general desire)",
+      "ko": "want to go (general desire)",
+      "zh_HK": "want to go (general desire)",
+      "fr": "want to go (general desire)"
+    },
+    "example": {
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は、ぜひ<ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。",
+      "en": "This summer, I definitely want to go to the sea in Okinawa.",
+      "zh_TW": "This summer, I definitely want to go to the sea in Okinawa.",
+      "zh_CN": "This summer, I definitely want to go to the sea in Okinawa.",
+      "ko": "This summer, I definitely want to go to the sea in Okinawa.",
+      "zh_HK": "This summer, I definitely want to go to the sea in Okinawa.",
+      "fr": "This summer, I definitely want to go to the sea in Okinawa."
+    },
+    "related": "行きたい vs 行ってみたい: 「行きたい」は単純に目的地へ赴く願望、「行ってみたい」は未経験の場所へ試しに行ってみたいという挑戦・体験のニュアンスを含む。"
+  },
+  {
+    "id": "class_word_0027_0046",
+    "word": "行ってみたい",
+    "reading": "いってみたい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "would like to try going to (exploratory desire)",
+      "ja": "行ってみたい",
+      "zh_TW": "would like to try going to (exploratory desire)",
+      "zh_CN": "would like to try going to (exploratory desire)",
+      "ko": "would like to try going to (exploratory desire)",
+      "zh_HK": "would like to try going to (exploratory desire)",
+      "fr": "would like to try going to (exploratory desire)"
+    },
+    "example": {
+      "ja": "まだ一度も<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがないので、ぜひ<ruby>行<rt>い</rt></ruby>ってみたいです。",
+      "en": "Since I have never been to Kyoto even once, I would really love to try visiting there.",
+      "zh_TW": "Since I have never been to Kyoto even once, I would really love to try visiting there.",
+      "zh_CN": "Since I have never been to Kyoto even once, I would really love to try visiting there.",
+      "ko": "Since I have never been to Kyoto even once, I would really love to try visiting there.",
+      "zh_HK": "Since I have never been to Kyoto even once, I would really love to try visiting there.",
+      "fr": "Since I have never been to Kyoto even once, I would really love to try visiting there."
+    },
+    "related": "行ってみたい vs 行きたい: 「〜てみる（試みる）」が含まれるため、新しい場所や噂のスポットを自分の目で体験してみたい気持ちが強い。"
+  },
+  {
+    "id": "class_word_0027_0047",
+    "word": "大好きな",
+    "reading": "だいすきな",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "beloved, favorite, loved very much",
+      "ja": "大好きな",
+      "zh_TW": "beloved, favorite, loved very much",
+      "zh_CN": "beloved, favorite, loved very much",
+      "ko": "beloved, favorite, loved very much",
+      "zh_HK": "beloved, favorite, loved very much",
+      "fr": "beloved, favorite, loved very much"
+    },
+    "example": {
+      "ja": "<ruby>休<rt>やす</rt></ruby>みの日には、<ruby>大好<rt>だいす</rt></ruby>きな音楽を聴きながらのんびり過ごします。",
+      "en": "On days off, I spend time relaxing while listening to my favorite music.",
+      "zh_TW": "On days off, I spend time relaxing while listening to my favorite music.",
+      "zh_CN": "On days off, I spend time relaxing while listening to my favorite music.",
+      "ko": "On days off, I spend time relaxing while listening to my favorite music.",
+      "zh_HK": "On days off, I spend time relaxing while listening to my favorite music.",
+      "fr": "On days off, I spend time relaxing while listening to my favorite music."
+    },
+    "related": "大好きな vs 好きな: 「大好きな」は「好きな」よりも好意や愛着の熱量が圧倒的に大きい最上級の好意表現。"
+  },
+  {
+    "id": "class_word_0027_0048",
+    "word": "食べられません",
+    "reading": "たべられません",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "cannot eat (formal/correct potential form)",
+      "ja": "食べられません",
+      "zh_TW": "cannot eat (formal/correct potential form)",
+      "zh_CN": "cannot eat (formal/correct potential form)",
+      "ko": "cannot eat (formal/correct potential form)",
+      "zh_HK": "cannot eat (formal/correct potential form)",
+      "fr": "cannot eat (formal/correct potential form)"
+    },
+    "example": {
+      "ja": "アレルギーがあるので、エビやカニは<ruby>食<rt>た</rt></ruby>べられません。",
+      "en": "Because I have allergies, I cannot eat shrimp or crab.",
+      "zh_TW": "Because I have allergies, I cannot eat shrimp or crab.",
+      "zh_CN": "Because I have allergies, I cannot eat shrimp or crab.",
+      "ko": "Because I have allergies, I cannot eat shrimp or crab.",
+      "zh_HK": "Because I have allergies, I cannot eat shrimp or crab.",
+      "fr": "Because I have allergies, I cannot eat shrimp or crab."
+    },
+    "related": "食べられません vs 食べれません: 文法的に正しい標準形は「食べられません」。「食べれません」はいわゆる「ら抜き言葉」。"
+  },
+  {
+    "id": "class_word_0027_0049",
+    "word": "食べれません",
+    "reading": "たべれません",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "cannot eat (casual spoken \"ra-nuki\" form)",
+      "ja": "食べれません",
+      "zh_TW": "cannot eat (casual spoken \"ra-nuki\" form)",
+      "zh_CN": "cannot eat (casual spoken \"ra-nuki\" form)",
+      "ko": "cannot eat (casual spoken \"ra-nuki\" form)",
+      "zh_HK": "cannot eat (casual spoken \"ra-nuki\" form)",
+      "fr": "cannot eat (casual spoken \"ra-nuki\" form)"
+    },
+    "example": {
+      "ja": "お腹がいっぱいで、もうこれ以上は<ruby>食<rt>た</rt></ruby>べれません！",
+      "en": "My stomach is full and I can't eat any more!",
+      "zh_TW": "My stomach is full and I can't eat any more!",
+      "zh_CN": "My stomach is full and I can't eat any more!",
+      "ko": "My stomach is full and I can't eat any more!",
+      "zh_HK": "My stomach is full and I can't eat any more!",
+      "fr": "My stomach is full and I can't eat any more!"
+    },
+    "related": "食べれません: 日常会話で多用されるが、「ら抜き言葉」のため面接やビジネス文書、JLPTの文法試験では「食べられません」を使うべき。"
+  },
+  {
+    "id": "class_word_0027_0050",
+    "word": "義理の兄",
+    "reading": "ぎりのあに",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "brother-in-law (older)",
+      "ja": "義理の兄",
+      "zh_TW": "brother-in-law (older)",
+      "zh_CN": "brother-in-law (older)",
+      "ko": "brother-in-law (older)",
+      "zh_HK": "brother-in-law (older)",
+      "fr": "brother-in-law (older)"
+    },
+    "example": {
+      "ja": "<ruby>姉<rt>あね</rt></ruby>の<ruby>結婚相手<rt>けっこんあいて</rt></ruby>である<ruby>義理<rt>ぎり</rt></ruby>の<ruby>兄<rt>あに</rt></ruby>は、とても頼りがいのある人です。",
+      "en": "My brother-in-law, who married my older sister, is a very dependable person.",
+      "zh_TW": "My brother-in-law, who married my older sister, is a very dependable person.",
+      "zh_CN": "My brother-in-law, who married my older sister, is a very dependable person.",
+      "ko": "My brother-in-law, who married my older sister, is a very dependable person.",
+      "zh_HK": "My brother-in-law, who married my older sister, is a very dependable person.",
+      "fr": "My brother-in-law, who married my older sister, is a very dependable person."
+    },
+    "related": "義理の兄 vs 義兄: 「義理の兄」は日常会話で分かりやすく説明する表現。「義兄」は書き言葉や形式的な表現。"
+  },
+  {
+    "id": "class_word_0027_0051",
+    "word": "義兄",
+    "reading": "ぎけい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "brother-in-law (older, formal/written)",
+      "ja": "義兄",
+      "zh_TW": "brother-in-law (older, formal/written)",
+      "zh_CN": "brother-in-law (older, formal/written)",
+      "ko": "brother-in-law (older, formal/written)",
+      "zh_HK": "brother-in-law (older, formal/written)",
+      "fr": "brother-in-law (older, formal/written)"
+    },
+    "example": {
+      "ja": "<ruby>義兄<rt>ぎけい</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>名物<rt>めいぶつ</rt></ruby>のお菓子をいただいた。",
+      "en": "I received famous Tokyo sweets from my brother-in-law.",
+      "zh_TW": "I received famous Tokyo sweets from my brother-in-law.",
+      "zh_CN": "I received famous Tokyo sweets from my brother-in-law.",
+      "ko": "I received famous Tokyo sweets from my brother-in-law.",
+      "zh_HK": "I received famous Tokyo sweets from my brother-in-law.",
+      "fr": "I received famous Tokyo sweets from my brother-in-law."
+    },
+    "related": "義兄: 音読みで「ぎけい」と読む形式ばった漢語表現。戸籍や公的な文脈で用いる。"
+  },
+  {
+    "id": "class_word_0027_0052",
+    "word": "味が濃い",
+    "reading": "あじがこい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "strong-flavored, rich, salty/heavy",
+      "ja": "味が濃い",
+      "zh_TW": "strong-flavored, rich, salty/heavy",
+      "zh_CN": "strong-flavored, rich, salty/heavy",
+      "ko": "strong-flavored, rich, salty/heavy",
+      "zh_HK": "strong-flavored, rich, salty/heavy",
+      "fr": "strong-flavored, rich, salty/heavy"
+    },
+    "example": {
+      "ja": "このラーメンはスープの<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>くて、ご飯によく合います。",
+      "en": "The soup of this ramen has a strong flavor and goes very well with rice.",
+      "zh_TW": "The soup of this ramen has a strong flavor and goes very well with rice.",
+      "zh_CN": "The soup of this ramen has a strong flavor and goes very well with rice.",
+      "ko": "The soup of this ramen has a strong flavor and goes very well with rice.",
+      "zh_HK": "The soup of this ramen has a strong flavor and goes very well with rice.",
+      "fr": "The soup of this ramen has a strong flavor and goes very well with rice."
+    },
+    "related": "味が濃い vs 味が薄い: 塩分・調味料・ダシが強く効いているのが「味が濃い」、控えめであっさりしているのが「味が薄い」。"
+  },
+  {
+    "id": "class_word_0027_0053",
+    "word": "味が薄い",
+    "reading": "あじがうすい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "mild-flavored, light, bland",
+      "ja": "味が薄い",
+      "zh_TW": "mild-flavored, light, bland",
+      "zh_CN": "mild-flavored, light, bland",
+      "ko": "mild-flavored, light, bland",
+      "zh_HK": "mild-flavored, light, bland",
+      "fr": "mild-flavored, light, bland"
+    },
+    "example": {
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、なるべく<ruby>味<rt>あじ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>い料理を食べるように心がけています。",
+      "en": "For my health, I try to eat dishes that are light in flavor as much as possible.",
+      "zh_TW": "For my health, I try to eat dishes that are light in flavor as much as possible.",
+      "zh_CN": "For my health, I try to eat dishes that are light in flavor as much as possible.",
+      "ko": "For my health, I try to eat dishes that are light in flavor as much as possible.",
+      "zh_HK": "For my health, I try to eat dishes that are light in flavor as much as possible.",
+      "fr": "For my health, I try to eat dishes that are light in flavor as much as possible."
+    },
+    "related": "味が薄い vs まずい: 「味が薄い」は塩分や味付けが控えめな状態を客観的に指し、必ずしも不味いという意味ではない。"
+  },
+  {
+    "id": "class_word_0027_0054",
+    "word": "折り畳み傘",
+    "reading": "おりたたみがさ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "folding umbrella, collapsible umbrella",
+      "ja": "折り畳み傘",
+      "zh_TW": "folding umbrella, collapsible umbrella",
+      "zh_CN": "folding umbrella, collapsible umbrella",
+      "ko": "folding umbrella, collapsible umbrella",
+      "zh_HK": "folding umbrella, collapsible umbrella",
+      "fr": "folding umbrella, collapsible umbrella"
+    },
+    "example": {
+      "ja": "<ruby>天気予報<rt>てんきよほう</rt></ruby>が微妙だったので、カバンに<ruby>折<rt>お</rt></ruby>り<ruby>畳<rt>たた</rt></ruby>み<ruby>傘<rt>がさ</rt></ruby>を入れて出かけました。",
+      "en": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out.",
+      "zh_TW": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out.",
+      "zh_CN": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out.",
+      "ko": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out.",
+      "zh_HK": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out.",
+      "fr": "Because the weather forecast was uncertain, I put a folding umbrella in my bag and went out."
+    },
+    "related": "折り畳み傘 vs ビニール傘: 「折り畳み傘」は携帯用の畳める傘、「ビニール傘」は透明なビニールで作られた安価な長傘。"
+  },
+  {
+    "id": "class_word_0027_0055",
+    "word": "ビニール傘",
+    "reading": "びにーるがさ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "plastic umbrella, clear vinyl umbrella",
+      "ja": "ビニール傘",
+      "zh_TW": "plastic umbrella, clear vinyl umbrella",
+      "zh_CN": "plastic umbrella, clear vinyl umbrella",
+      "ko": "plastic umbrella, clear vinyl umbrella",
+      "zh_HK": "plastic umbrella, clear vinyl umbrella",
+      "fr": "plastic umbrella, clear vinyl umbrella"
+    },
+    "example": {
+      "ja": "突然の雨で困ったので、コンビニで<ruby>安<rt>やす</rt></ruby>いビニール<ruby>傘<rt>がさ</rt></ruby>を１本買った。",
+      "en": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store.",
+      "zh_TW": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store.",
+      "zh_CN": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store.",
+      "ko": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store.",
+      "zh_HK": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store.",
+      "fr": "Troubled by sudden rain, I bought a cheap clear plastic umbrella at the convenience store."
+    },
+    "related": "ビニール傘: 日本のコンビニ等で500〜800円程度で手軽に買える使い捨て感覚の透明長傘。"
+  },
+  {
+    "id": "class_word_0027_0056",
+    "word": "馬鹿は風邪をひかない",
+    "reading": "ばかはかぜをひかない",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "idiots don't catch colds (proverb)",
+      "ja": "馬鹿は風邪をひかない",
+      "zh_TW": "idiots don't catch colds (proverb)",
+      "zh_CN": "idiots don't catch colds (proverb)",
+      "ko": "idiots don't catch colds (proverb)",
+      "zh_HK": "idiots don't catch colds (proverb)",
+      "fr": "idiots don't catch colds (proverb)"
+    },
+    "example": {
+      "ja": "冬なのに半袖で元気に遊んでいる弟を見て、「<ruby>馬鹿<rt>ばか</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>をひかない」と笑った。",
+      "en": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\"",
+      "zh_TW": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\"",
+      "zh_CN": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\"",
+      "ko": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\"",
+      "zh_HK": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\"",
+      "fr": "Seeing my younger brother playing cheerfully in short sleeves in winter, I laughed saying \"idiots don't catch colds.\""
+    },
+    "related": "馬鹿は風邪をひかない: 愚か者は愚鈍ゆえに風邪をひいても気付かない、あるいは冬でも無邪気に元気であることをからかう親しい間柄の諺。"
+  },
+  {
+    "id": "class_word_0027_0057",
+    "word": "霧雨",
+    "reading": "きりさめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "drizzle, misty rain",
+      "ja": "霧雨",
+      "zh_TW": "drizzle, misty rain",
+      "zh_CN": "drizzle, misty rain",
+      "ko": "drizzle, misty rain",
+      "zh_HK": "drizzle, misty rain",
+      "fr": "drizzle, misty rain"
+    },
+    "example": {
+      "ja": "<ruby>傘<rt>かさ</rt></ruby>をさすか迷うほどの細かい<ruby>霧雨<rt>きりさめ</rt></ruby>が降ってきた。",
+      "en": "A fine drizzle began to fall, making me wonder whether to open my umbrella.",
+      "zh_TW": "A fine drizzle began to fall, making me wonder whether to open my umbrella.",
+      "zh_CN": "A fine drizzle began to fall, making me wonder whether to open my umbrella.",
+      "ko": "A fine drizzle began to fall, making me wonder whether to open my umbrella.",
+      "zh_HK": "A fine drizzle began to fall, making me wonder whether to open my umbrella.",
+      "fr": "A fine drizzle began to fall, making me wonder whether to open my umbrella."
+    },
+    "related": "霧雨 vs 小雨: 「霧雨」は雨粒が霧のように極めて微細な雨、「小雨」は雨粒は普通だが降水量が少ない雨。"
+  },
+  {
+    "id": "class_word_0027_0058",
+    "word": "小雨",
+    "reading": "こさめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "light rain, slight rain",
+      "ja": "小雨",
+      "zh_TW": "light rain, slight rain",
+      "zh_CN": "light rain, slight rain",
+      "ko": "light rain, slight rain",
+      "zh_HK": "light rain, slight rain",
+      "fr": "light rain, slight rain"
+    },
+    "example": {
+      "ja": "<ruby>外<rt>そと</rt></ruby>は<ruby>小雨<rt>こさめ</rt></ruby>がパラパラと降っている程度なので、傘なしでも歩けます。",
+      "en": "Light rain is just sprinkling outside, so you can walk without an umbrella.",
+      "zh_TW": "Light rain is just sprinkling outside, so you can walk without an umbrella.",
+      "zh_CN": "Light rain is just sprinkling outside, so you can walk without an umbrella.",
+      "ko": "Light rain is just sprinkling outside, so you can walk without an umbrella.",
+      "zh_HK": "Light rain is just sprinkling outside, so you can walk without an umbrella.",
+      "fr": "Light rain is just sprinkling outside, so you can walk without an umbrella."
+    },
+    "related": "小雨 vs 大雨: 雨の強さ・降水量が控えめな状態。"
+  },
+  {
+    "id": "class_word_0027_0059",
+    "word": "雨",
+    "reading": "あめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "rain",
+      "ja": "雨",
+      "zh_TW": "rain",
+      "zh_CN": "rain",
+      "ko": "rain",
+      "zh_HK": "rain",
+      "fr": "rain"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は朝から冷たい<ruby>雨<rt>あめ</rt></ruby>が降り続いています。",
+      "en": "Cold rain has been falling continuously since morning today.",
+      "zh_TW": "Cold rain has been falling continuously since morning today.",
+      "zh_CN": "Cold rain has been falling continuously since morning today.",
+      "ko": "Cold rain has been falling continuously since morning today.",
+      "zh_HK": "Cold rain has been falling continuously since morning today.",
+      "fr": "Cold rain has been falling continuously since morning today."
+    },
+    "related": "雨: 空から降る水滴全般を指す最も普遍的な語。"
+  },
+  {
+    "id": "class_word_0027_0060",
+    "word": "大雨",
+    "reading": "おおあめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "heavy rain, downpour",
+      "ja": "大雨",
+      "zh_TW": "heavy rain, downpour",
+      "zh_CN": "heavy rain, downpour",
+      "ko": "heavy rain, downpour",
+      "zh_HK": "heavy rain, downpour",
+      "fr": "heavy rain, downpour"
+    },
+    "example": {
+      "ja": "<ruby>台風<rt>たいふう</rt></ruby>の接近に伴い、各地で<ruby>大雨<rt>おおあめ</rt></ruby>が降る見込みです。",
+      "en": "With the approach of the typhoon, heavy rain is expected in various regions.",
+      "zh_TW": "With the approach of the typhoon, heavy rain is expected in various regions.",
+      "zh_CN": "With the approach of the typhoon, heavy rain is expected in various regions.",
+      "ko": "With the approach of the typhoon, heavy rain is expected in various regions.",
+      "zh_HK": "With the approach of the typhoon, heavy rain is expected in various regions.",
+      "fr": "With the approach of the typhoon, heavy rain is expected in various regions."
+    },
+    "related": "大雨 vs 豪雨: 「大雨」は大量の降水全般、「豪雨」は短時間に激甚な災害をもたらすレベルの強烈な雨。"
+  },
+  {
+    "id": "class_word_0027_0061",
+    "word": "土砂降り",
+    "reading": "どしゃぶり",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "pouring rain, torrential downpour",
+      "ja": "土砂降り",
+      "zh_TW": "pouring rain, torrential downpour",
+      "zh_CN": "pouring rain, torrential downpour",
+      "ko": "pouring rain, torrential downpour",
+      "zh_HK": "pouring rain, torrential downpour",
+      "fr": "pouring rain, torrential downpour"
+    },
+    "example": {
+      "ja": "突然の<ruby>土砂降<rt>どしゃぶ</rt></ruby>りに見舞われて、服がびしょ濡れになってしまった。",
+      "en": "Hit by a sudden pouring downpour, my clothes got completely soaked.",
+      "zh_TW": "Hit by a sudden pouring downpour, my clothes got completely soaked.",
+      "zh_CN": "Hit by a sudden pouring downpour, my clothes got completely soaked.",
+      "ko": "Hit by a sudden pouring downpour, my clothes got completely soaked.",
+      "zh_HK": "Hit by a sudden pouring downpour, my clothes got completely soaked.",
+      "fr": "Hit by a sudden pouring downpour, my clothes got completely soaked."
+    },
+    "related": "土砂降り: まるで土砂を投げ落とすかのように激しく降る日常的な雨の口語表現。"
+  },
+  {
+    "id": "class_word_0027_0062",
+    "word": "豪雨",
+    "reading": "ごうう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "torrential rain, torrential downpour",
+      "ja": "豪雨",
+      "zh_TW": "torrential rain, torrential downpour",
+      "zh_CN": "torrential rain, torrential downpour",
+      "ko": "torrential rain, torrential downpour",
+      "zh_HK": "torrential rain, torrential downpour",
+      "fr": "torrential rain, torrential downpour"
+    },
+    "example": {
+      "ja": "昨夜の<ruby>集中豪雨<rt>しゅうちゅうごうう</rt></ruby>で、近くの川の水位が急激に上昇した。",
+      "en": "Due to last night's torrential rain, the water level of the nearby river rose rapidly.",
+      "zh_TW": "Due to last night's torrential rain, the water level of the nearby river rose rapidly.",
+      "zh_CN": "Due to last night's torrential rain, the water level of the nearby river rose rapidly.",
+      "ko": "Due to last night's torrential rain, the water level of the nearby river rose rapidly.",
+      "zh_HK": "Due to last night's torrential rain, the water level of the nearby river rose rapidly.",
+      "fr": "Due to last night's torrential rain, the water level of the nearby river rose rapidly."
+    },
+    "related": "豪雨: 気象予報や報道で使われる、災害級の著しい雨量をもたらす激しい雨。"
+  },
+  {
+    "id": "class_word_0027_0063",
+    "word": "猛烈な雨",
+    "reading": "もうれつなめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "fierce torrential rain (meteorological: 80mm/h+)",
+      "ja": "猛烈な雨",
+      "zh_TW": "fierce torrential rain (meteorological: 80mm/h+)",
+      "zh_CN": "fierce torrential rain (meteorological: 80mm/h+)",
+      "ko": "fierce torrential rain (meteorological: 80mm/h+)",
+      "zh_HK": "fierce torrential rain (meteorological: 80mm/h+)",
+      "fr": "fierce torrential rain (meteorological: 80mm/h+)"
+    },
+    "example": {
+      "ja": "気象庁は、息ができないような<ruby>猛烈<rt>もうれつ</rt></ruby>な<ruby>雨<rt>あめ</rt></ruby>に対する厳重な警戒を呼びかけている。",
+      "en": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult.",
+      "zh_TW": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult.",
+      "zh_CN": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult.",
+      "ko": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult.",
+      "zh_HK": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult.",
+      "fr": "The Japan Meteorological Agency is urging strict vigilance against fierce torrential rain where breathing feels difficult."
+    },
+    "related": "猛烈な雨: 気象庁の正式分類で1時間に80mm以上の最も激しいランクの雨。"
+  },
+  {
+    "id": "class_word_0027_0064",
+    "word": "通り雨",
+    "reading": "とおりあめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "passing shower",
+      "ja": "通り雨",
+      "zh_TW": "passing shower",
+      "zh_CN": "passing shower",
+      "ko": "passing shower",
+      "zh_HK": "passing shower",
+      "fr": "passing shower"
+    },
+    "example": {
+      "ja": "さっきの雨はただの<ruby>通<rt>とお</rt></ruby>り<ruby>雨<rt>あめ</rt></ruby>だったようで、すぐに青空が広がった。",
+      "en": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out.",
+      "zh_TW": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out.",
+      "zh_CN": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out.",
+      "ko": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out.",
+      "zh_HK": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out.",
+      "fr": "It seems earlier's rain was just a passing shower, as blue sky quickly spread out."
+    },
+    "related": "通り雨 vs にわか雨: 「通り雨」は雲がサッと通り過ぎて短時間で止む雨の叙景的表現。"
+  },
+  {
+    "id": "class_word_0027_0065",
+    "word": "にわか雨",
+    "reading": "にわかあめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "sudden shower, sudden downpour",
+      "ja": "にわか雨",
+      "zh_TW": "sudden shower, sudden downpour",
+      "zh_CN": "sudden shower, sudden downpour",
+      "ko": "sudden shower, sudden downpour",
+      "zh_HK": "sudden shower, sudden downpour",
+      "fr": "sudden shower, sudden downpour"
+    },
+    "example": {
+      "ja": "夏の午後には、突然空が暗くなって<ruby>にわか雨<rt>にわかあめ</rt></ruby>が降りやすい。",
+      "en": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall.",
+      "zh_TW": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall.",
+      "zh_CN": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall.",
+      "ko": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall.",
+      "zh_HK": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall.",
+      "fr": "In summer afternoons, the sky often suddenly turns dark and a sudden shower is likely to fall."
+    },
+    "related": "にわか雨 vs 通り雨: 「にわか雨」は急に降り出してすぐ止む突発的な雨。"
+  },
+  {
+    "id": "class_word_0027_0066",
+    "word": "梅雨",
+    "reading": "つゆ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "rainy season (in Japan, June-July)",
+      "ja": "梅雨",
+      "zh_TW": "rainy season (in Japan, June-July)",
+      "zh_CN": "rainy season (in Japan, June-July)",
+      "ko": "rainy season (in Japan, June-July)",
+      "zh_HK": "rainy season (in Japan, June-July)",
+      "fr": "rainy season (in Japan, June-July)"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>では６月から７月にかけて<ruby>梅雨<rt>つゆ</rt></ruby>に入り、じめじめした日が続きます。",
+      "en": "In Japan, the rainy season begins from June to July, and humid days continue.",
+      "zh_TW": "In Japan, the rainy season begins from June to July, and humid days continue.",
+      "zh_CN": "In Japan, the rainy season begins from June to July, and humid days continue.",
+      "ko": "In Japan, the rainy season begins from June to July, and humid days continue.",
+      "zh_HK": "In Japan, the rainy season begins from June to July, and humid days continue.",
+      "fr": "In Japan, the rainy season begins from June to July, and humid days continue."
+    },
+    "related": "梅雨: 「ばいう」とも読むが日常語では「つゆ」。日本の初夏に特有の雨季。"
+  },
+  {
+    "id": "class_word_0027_0067",
+    "word": "長雨",
+    "reading": "ながあめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "prolonged rain, long-lasting rain",
+      "ja": "長雨",
+      "zh_TW": "prolonged rain, long-lasting rain",
+      "zh_CN": "prolonged rain, long-lasting rain",
+      "ko": "prolonged rain, long-lasting rain",
+      "zh_HK": "prolonged rain, long-lasting rain",
+      "fr": "prolonged rain, long-lasting rain"
+    },
+    "example": {
+      "ja": "秋の<ruby>長雨<rt>ながあめ</rt></ruby>が明けて、久しぶりに気持ちのいい青空が見られた。",
+      "en": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time.",
+      "zh_TW": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time.",
+      "zh_CN": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time.",
+      "ko": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time.",
+      "zh_HK": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time.",
+      "fr": "The long-lasting autumn rain ended, and pleasant blue sky was seen after a long time."
+    },
+    "related": "長雨: 何日も何週間もだらだらと降り続く雨。"
+  },
+  {
+    "id": "class_word_0027_0068",
+    "word": "恵みの雨",
+    "reading": "めぐみのあめ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "blessed rain, welcome rain",
+      "ja": "恵みの雨",
+      "zh_TW": "blessed rain, welcome rain",
+      "zh_CN": "blessed rain, welcome rain",
+      "ko": "blessed rain, welcome rain",
+      "zh_HK": "blessed rain, welcome rain",
+      "fr": "blessed rain, welcome rain"
+    },
+    "example": {
+      "ja": "日照りが続いていた農地にとって、昨夜の雨はまさに<ruby>恵<rt>めぐ</rt></ruby>みの<ruby>雨<rt>あめ</rt></ruby>となった。",
+      "en": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain.",
+      "zh_TW": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain.",
+      "zh_CN": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain.",
+      "ko": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain.",
+      "zh_HK": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain.",
+      "fr": "For the farmland that had been suffering a dry spell, last night's rain was truly a welcome, blessed rain."
+    },
+    "related": "恵みの雨: 干ばつや乾燥時に作物を潤し自然の恵みをもたらすありがたい雨。"
+  },
+  {
+    "id": "class_word_0027_0069",
+    "word": "雨が止む",
+    "reading": "あめがやむ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the rain stops",
+      "ja": "雨が止む",
+      "zh_TW": "the rain stops",
+      "zh_CN": "the rain stops",
+      "ko": "the rain stops",
+      "zh_HK": "the rain stops",
+      "fr": "the rain stops"
+    },
+    "example": {
+      "ja": "午後になって<ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>んだので、犬の散歩に出かけました。",
+      "en": "In the afternoon the rain stopped, so I went out for a walk with my dog.",
+      "zh_TW": "In the afternoon the rain stopped, so I went out for a walk with my dog.",
+      "zh_CN": "In the afternoon the rain stopped, so I went out for a walk with my dog.",
+      "ko": "In the afternoon the rain stopped, so I went out for a walk with my dog.",
+      "zh_HK": "In the afternoon the rain stopped, so I went out for a walk with my dog.",
+      "fr": "In the afternoon the rain stopped, so I went out for a walk with my dog."
+    },
+    "related": "雨が止む vs 雨が上がる: ほぼ同義だが、「雨が上がる」は雨が止んで空が明るくなるニュアンスが強い。"
+  },
+  {
+    "id": "class_word_0027_0070",
+    "word": "主に",
+    "reading": "おもに",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "mainly, primarily, mostly",
+      "ja": "主に",
+      "zh_TW": "mainly, primarily, mostly",
+      "zh_CN": "mainly, primarily, mostly",
+      "ko": "mainly, primarily, mostly",
+      "zh_HK": "mainly, primarily, mostly",
+      "fr": "mainly, primarily, mostly"
+    },
+    "example": {
+      "ja": "このウェブサイトでは、<ruby>主<rt>おも</rt></ruby>に日本語を学ぶ外国人向けの教材を配信しています。",
+      "en": "This website mainly distributes learning materials for foreigners studying Japanese.",
+      "zh_TW": "This website mainly distributes learning materials for foreigners studying Japanese.",
+      "zh_CN": "This website mainly distributes learning materials for foreigners studying Japanese.",
+      "ko": "This website mainly distributes learning materials for foreigners studying Japanese.",
+      "zh_HK": "This website mainly distributes learning materials for foreigners studying Japanese.",
+      "fr": "This website mainly distributes learning materials for foreigners studying Japanese."
+    },
+    "related": "主に vs 特に: 「主に」は全体の大半・中心が何であるかを指し、「特に」は複数の中から際立って目立つものを取り立てる。"
+  },
+  {
+    "id": "class_word_0027_0071",
+    "word": "自信",
+    "reading": "じしん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "confidence, self-confidence",
+      "ja": "自信",
+      "zh_TW": "confidence, self-confidence",
+      "zh_CN": "confidence, self-confidence",
+      "ko": "confidence, self-confidence",
+      "zh_HK": "confidence, self-confidence",
+      "fr": "confidence, self-confidence"
+    },
+    "example": {
+      "ja": "毎日一生懸命練習したので、明日の試合には<ruby>自信<rt>じしん</rt></ruby>があります。",
+      "en": "Because I practiced hard every day, I have confidence for tomorrow's match.",
+      "zh_TW": "Because I practiced hard every day, I have confidence for tomorrow's match.",
+      "zh_CN": "Because I practiced hard every day, I have confidence for tomorrow's match.",
+      "ko": "Because I practiced hard every day, I have confidence for tomorrow's match.",
+      "zh_HK": "Because I practiced hard every day, I have confidence for tomorrow's match.",
+      "fr": "Because I practiced hard every day, I have confidence for tomorrow's match."
+    },
+    "related": "自信 vs 過信: 「自信」は自分を信じる健全な心、「過信」は自分の力を過大評価して慢心すること。"
+  },
+  {
+    "id": "class_word_0027_0072",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to line up, to stand in line (intransitive)",
+      "ja": "並ぶ",
+      "zh_TW": "to line up, to stand in line (intransitive)",
+      "zh_CN": "to line up, to stand in line (intransitive)",
+      "ko": "to line up, to stand in line (intransitive)",
+      "zh_HK": "to line up, to stand in line (intransitive)",
+      "fr": "to line up, to stand in line (intransitive)"
+    },
+    "example": {
+      "ja": "美味しいパンを買うために、開店前からたくさんの人が列に<ruby>並<rt>なら</rt></ruby>んでいた。",
+      "en": "To buy delicious bread, many people were lined up in a row before the store opened.",
+      "zh_TW": "To buy delicious bread, many people were lined up in a row before the store opened.",
+      "zh_CN": "To buy delicious bread, many people were lined up in a row before the store opened.",
+      "ko": "To buy delicious bread, many people were lined up in a row before the store opened.",
+      "zh_HK": "To buy delicious bread, many people were lined up in a row before the store opened.",
+      "fr": "To buy delicious bread, many people were lined up in a row before the store opened."
+    },
+    "related": "並ぶ vs 並べる: 「並ぶ」は自動詞（人が列を作る）、「並べる」は他動詞（物を順序よく配置する）。"
+  },
+  {
+    "id": "class_word_0027_0073",
+    "word": "行列",
+    "reading": "ぎょうれつ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "line, queue, procession",
+      "ja": "行列",
+      "zh_TW": "line, queue, procession",
+      "zh_CN": "line, queue, procession",
+      "ko": "line, queue, procession",
+      "zh_HK": "line, queue, procession",
+      "fr": "line, queue, procession"
+    },
+    "example": {
+      "ja": "あの人気ラーメン店の前には、いつも長い<ruby>行列<rt>ぎょうれつ</rt></ruby>ができている。",
+      "en": "There is always a long queue in front of that popular ramen shop.",
+      "zh_TW": "There is always a long queue in front of that popular ramen shop.",
+      "zh_CN": "There is always a long queue in front of that popular ramen shop.",
+      "ko": "There is always a long queue in front of that popular ramen shop.",
+      "zh_HK": "There is always a long queue in front of that popular ramen shop.",
+      "fr": "There is always a long queue in front of that popular ramen shop."
+    },
+    "related": "行列 vs 列: 「列」は物理的な横や縦の並び、「行列」は店やイベントを待って多くの人々が長く連なった混雑の列。"
+  },
+  {
+    "id": "class_word_0027_0074",
+    "word": "駅弁",
+    "reading": "えきべん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "boxed train lunch (sold at train stations)",
+      "ja": "駅弁",
+      "zh_TW": "boxed train lunch (sold at train stations)",
+      "zh_CN": "boxed train lunch (sold at train stations)",
+      "ko": "boxed train lunch (sold at train stations)",
+      "zh_HK": "boxed train lunch (sold at train stations)",
+      "fr": "boxed train lunch (sold at train stations)"
+    },
+    "example": {
+      "ja": "新幹線の旅の楽しみは、各地の名物が詰まった<ruby>駅弁<rt>えきべん</rt></ruby>を食べることだ。",
+      "en": "The joy of a bullet train journey is eating an ekiben packed with local specialties.",
+      "zh_TW": "The joy of a bullet train journey is eating an ekiben packed with local specialties.",
+      "zh_CN": "The joy of a bullet train journey is eating an ekiben packed with local specialties.",
+      "ko": "The joy of a bullet train journey is eating an ekiben packed with local specialties.",
+      "zh_HK": "The joy of a bullet train journey is eating an ekiben packed with local specialties.",
+      "fr": "The joy of a bullet train journey is eating an ekiben packed with local specialties."
+    },
+    "related": "駅弁: 「駅売り弁当」の略。日本の鉄道旅行の風物詩。"
+  },
+  {
+    "id": "class_word_0027_0075",
+    "word": "売り切れ",
+    "reading": "うりきれ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "sold out",
+      "ja": "売り切れ",
+      "zh_TW": "sold out",
+      "zh_CN": "sold out",
+      "ko": "sold out",
+      "zh_HK": "sold out",
+      "fr": "sold out"
+    },
+    "example": {
+      "ja": "楽しみにしていた限定スイーツは、午後３時にはもう<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れになっていた。",
+      "en": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM.",
+      "zh_TW": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM.",
+      "zh_CN": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM.",
+      "ko": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM.",
+      "zh_HK": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM.",
+      "fr": "The limited-edition sweets I was looking forward to were already sold out by 3:00 PM."
+    },
+    "related": "売り切れ vs 品切れ: 「売り切れ」は完売したこと、「品切れ」は一時的に店の在庫が切れていること。"
+  },
+  {
+    "id": "class_word_0027_0076",
+    "word": "行くつもりです",
+    "reading": "いくつもりです",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "I intend to go, I plan to go (personal intention)",
+      "ja": "行くつもりです",
+      "zh_TW": "I intend to go, I plan to go (personal intention)",
+      "zh_CN": "I intend to go, I plan to go (personal intention)",
+      "ko": "I intend to go, I plan to go (personal intention)",
+      "zh_HK": "I intend to go, I plan to go (personal intention)",
+      "fr": "I intend to go, I plan to go (personal intention)"
+    },
+    "example": {
+      "ja": "今年の冬休みは、北海道にスキーに<ruby>行<rt>い</rt></ruby>くつもりです。",
+      "en": "I intend to go skiing in Hokkaido this winter vacation.",
+      "zh_TW": "I intend to go skiing in Hokkaido this winter vacation.",
+      "zh_CN": "I intend to go skiing in Hokkaido this winter vacation.",
+      "ko": "I intend to go skiing in Hokkaido this winter vacation.",
+      "zh_HK": "I intend to go skiing in Hokkaido this winter vacation.",
+      "fr": "I intend to go skiing in Hokkaido this winter vacation."
+    },
+    "related": "行くつもりです vs 行く予定です: 「行くつもりです」は本人の個人的な意図・強い気持ち。「行く予定です」はスケジュールや手配が決まっている客観的予定。"
+  },
+  {
+    "id": "class_word_0027_0077",
+    "word": "行く予定です",
+    "reading": "いくよていです",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "I am scheduled to go, I plan to go (objective plan)",
+      "ja": "行く予定です",
+      "zh_TW": "I am scheduled to go, I plan to go (objective plan)",
+      "zh_CN": "I am scheduled to go, I plan to go (objective plan)",
+      "ko": "I am scheduled to go, I plan to go (objective plan)",
+      "zh_HK": "I am scheduled to go, I plan to go (objective plan)",
+      "fr": "I am scheduled to go, I plan to go (objective plan)"
+    },
+    "example": {
+      "ja": "来週の金曜日に、出張で大阪へ<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
+      "en": "I am scheduled to go to Osaka on a business trip next Friday.",
+      "zh_TW": "I am scheduled to go to Osaka on a business trip next Friday.",
+      "zh_CN": "I am scheduled to go to Osaka on a business trip next Friday.",
+      "ko": "I am scheduled to go to Osaka on a business trip next Friday.",
+      "zh_HK": "I am scheduled to go to Osaka on a business trip next Friday.",
+      "fr": "I am scheduled to go to Osaka on a business trip next Friday."
+    },
+    "related": "行く予定です: 切符やアポイントが確定したビジネスや客観的な計画に適した丁寧な表現。"
+  },
+  {
+    "id": "class_word_0027_0078",
+    "word": "忘年会",
+    "reading": "ぼうねんかい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "year-end party",
+      "ja": "忘年会",
+      "zh_TW": "year-end party",
+      "zh_CN": "year-end party",
+      "ko": "year-end party",
+      "zh_HK": "year-end party",
+      "fr": "year-end party"
+    },
+    "example": {
+      "ja": "年末に会社の同僚たちと<ruby>忘年会<rt>ぼうねんかい</rt></ruby>を開いて、一年の苦労をねぎらった。",
+      "en": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work.",
+      "zh_TW": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work.",
+      "zh_CN": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work.",
+      "ko": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work.",
+      "zh_HK": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work.",
+      "fr": "At the end of the year, we held a year-end party with coworkers to appreciate the year's hard work."
+    },
+    "related": "忘年会 vs 新年会: 「忘年会」はその年の苦労を忘れる年末の宴会、「新年会」は新しい年を祝う年明けの宴会。"
+  },
+  {
+    "id": "class_word_0027_0079",
+    "word": "上旬",
+    "reading": "じょうじゅん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the first ten days of a month, early (in the month)",
+      "ja": "上旬",
+      "zh_TW": "the first ten days of a month, early (in the month)",
+      "zh_CN": "the first ten days of a month, early (in the month)",
+      "ko": "the first ten days of a month, early (in the month)",
+      "zh_HK": "the first ten days of a month, early (in the month)",
+      "fr": "the first ten days of a month, early (in the month)"
+    },
+    "example": {
+      "ja": "桜の開花は、４月<ruby>上旬<rt>じょうじゅん</rt></ruby>頃になる見込みです。",
+      "en": "The blooming of cherry blossoms is expected around early April.",
+      "zh_TW": "The blooming of cherry blossoms is expected around early April.",
+      "zh_CN": "The blooming of cherry blossoms is expected around early April.",
+      "ko": "The blooming of cherry blossoms is expected around early April.",
+      "zh_HK": "The blooming of cherry blossoms is expected around early April.",
+      "fr": "The blooming of cherry blossoms is expected around early April."
+    },
+    "related": "上旬 vs 初旬: ほぼ同義だが、「上旬」は1〜10日を指す公的な区分。「初旬」は月の初めの頃という柔らかい言い回し。"
+  },
+  {
+    "id": "class_word_0027_0080",
+    "word": "中旬",
+    "reading": "ちゅうじゅん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the middle ten days of a month (11th-20th), mid-...",
+      "ja": "中旬",
+      "zh_TW": "the middle ten days of a month (11th-20th), mid-...",
+      "zh_CN": "the middle ten days of a month (11th-20th), mid-...",
+      "ko": "the middle ten days of a month (11th-20th), mid-...",
+      "zh_HK": "the middle ten days of a month (11th-20th), mid-...",
+      "fr": "the middle ten days of a month (11th-20th), mid-..."
+    },
+    "example": {
+      "ja": "新しいスマホの発売日は、今月<ruby>中旬<rt>ちゅうじゅん</rt></ruby>を予定しています。",
+      "en": "The release date of the new smartphone is scheduled for mid-month.",
+      "zh_TW": "The release date of the new smartphone is scheduled for mid-month.",
+      "zh_CN": "The release date of the new smartphone is scheduled for mid-month.",
+      "ko": "The release date of the new smartphone is scheduled for mid-month.",
+      "zh_HK": "The release date of the new smartphone is scheduled for mid-month.",
+      "fr": "The release date of the new smartphone is scheduled for mid-month."
+    },
+    "related": "中旬: 毎月11日から20日までの期間。"
+  },
+  {
+    "id": "class_word_0027_0081",
+    "word": "下旬",
+    "reading": "げじゅん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the last ten days of a month (21st-end), late ...",
+      "ja": "下旬",
+      "zh_TW": "the last ten days of a month (21st-end), late ...",
+      "zh_CN": "the last ten days of a month (21st-end), late ...",
+      "ko": "the last ten days of a month (21st-end), late ...",
+      "zh_HK": "the last ten days of a month (21st-end), late ...",
+      "fr": "the last ten days of a month (21st-end), late ..."
+    },
+    "example": {
+      "ja": "引っ越しは、今月<ruby>下旬<rt>げじゅん</rt></ruby>の連休に行う予定です。",
+      "en": "The move is scheduled during the long weekend in late this month.",
+      "zh_TW": "The move is scheduled during the long weekend in late this month.",
+      "zh_CN": "The move is scheduled during the long weekend in late this month.",
+      "ko": "The move is scheduled during the long weekend in late this month.",
+      "zh_HK": "The move is scheduled during the long weekend in late this month.",
+      "fr": "The move is scheduled during the long weekend in late this month."
+    },
+    "related": "下旬: 毎月21日から月末までの期間。"
+  },
+  {
+    "id": "class_word_0027_0082",
+    "word": "撮り鉄",
+    "reading": "とりてつ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "railfan photographer, train photography hobbyist",
+      "ja": "撮り鉄",
+      "zh_TW": "railfan photographer, train photography hobbyist",
+      "zh_CN": "railfan photographer, train photography hobbyist",
+      "ko": "railfan photographer, train photography hobbyist",
+      "zh_HK": "railfan photographer, train photography hobbyist",
+      "fr": "railfan photographer, train photography hobbyist"
+    },
+    "example": {
+      "ja": "珍しい列車が走ると聞いて、駅のホームにはたくさんの<ruby>撮<rt>と</rt></ruby>り<ruby>鉄<rt>てつ</rt></ruby>が集まった。",
+      "en": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform.",
+      "zh_TW": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform.",
+      "zh_CN": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform.",
+      "ko": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform.",
+      "zh_HK": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform.",
+      "fr": "Hearing that a rare train would run, many train photography hobbyists gathered on the station platform."
+    },
+    "related": "撮り鉄 vs 乗り鉄: 「撮り鉄」は電車の撮影を愛好する人、「乗り鉄」は列車に乗って旅することを楽しむ人。"
+  },
+  {
+    "id": "class_word_0027_0083",
+    "word": "言い訳",
+    "reading": "いいわけ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "excuse, pretext",
+      "ja": "言い訳",
+      "zh_TW": "excuse, pretext",
+      "zh_CN": "excuse, pretext",
+      "ko": "excuse, pretext",
+      "zh_HK": "excuse, pretext",
+      "fr": "excuse, pretext"
+    },
+    "example": {
+      "ja": "遅刻した理由について、くだらない<ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>をするのはやめなさい。",
+      "en": "Stop making silly excuses for why you were late.",
+      "zh_TW": "Stop making silly excuses for why you were late.",
+      "zh_CN": "Stop making silly excuses for why you were late.",
+      "ko": "Stop making silly excuses for why you were late.",
+      "zh_HK": "Stop making silly excuses for why you were late.",
+      "fr": "Stop making silly excuses for why you were late."
+    },
+    "related": "言い訳 vs 弁解: 「言い訳」は責任逃れの口実というネガティブな日常語、「弁解」は誤解を解くための釈明全般を指すやや硬い言葉。"
+  },
+  {
+    "id": "class_word_0027_0084",
+    "word": "接客業",
+    "reading": "せっきゃくぎょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "customer service industry, hospitality business",
+      "ja": "接客業",
+      "zh_TW": "customer service industry, hospitality business",
+      "zh_CN": "customer service industry, hospitality business",
+      "ko": "customer service industry, hospitality business",
+      "zh_HK": "customer service industry, hospitality business",
+      "fr": "customer service industry, hospitality business"
+    },
+    "example": {
+      "ja": "<ruby>接客業<rt>せっきゃくぎょう</rt></ruby>では、いつも笑顔でお客様に対応することが求められる。",
+      "en": "In the customer service industry, responding to customers with a smile is always required.",
+      "zh_TW": "In the customer service industry, responding to customers with a smile is always required.",
+      "zh_CN": "In the customer service industry, responding to customers with a smile is always required.",
+      "ko": "In the customer service industry, responding to customers with a smile is always required.",
+      "zh_HK": "In the customer service industry, responding to customers with a smile is always required.",
+      "fr": "In the customer service industry, responding to customers with a smile is always required."
+    },
+    "related": "接客業 vs サービス業: 「サービス業」は無形の価値を提供する産業全体、「接客業」は飲食店や販売店など直接客と対面接客する職種。"
+  },
+  {
+    "id": "class_word_0027_0085",
+    "word": "カスハラ",
+    "reading": "かすはら",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "customer harassment (slang: customer harassment)",
+      "ja": "カスハラ",
+      "zh_TW": "customer harassment (slang: customer harassment)",
+      "zh_CN": "customer harassment (slang: customer harassment)",
+      "ko": "customer harassment (slang: customer harassment)",
+      "zh_HK": "customer harassment (slang: customer harassment)",
+      "fr": "customer harassment (slang: customer harassment)"
+    },
+    "example": {
+      "ja": "理不尽な要求で店員を困らせるカスハラ（カスタマーハラスメント）が社会問題になっている。",
+      "en": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue.",
+      "zh_TW": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue.",
+      "zh_CN": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue.",
+      "ko": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue.",
+      "zh_HK": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue.",
+      "fr": "Customer harassment (casuhara), where clerks are troubled by unreasonable demands, has become a social issue."
+    },
+    "related": "カスハラ: 「カスタマーハラスメント」の略称。顧客による暴言や過剰要求。"
+  },
+  {
+    "id": "class_word_0027_0086",
+    "word": "在宅勤務",
+    "reading": "ざいたくきんむ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "working from home, telework",
+      "ja": "在宅勤務",
+      "zh_TW": "working from home, telework",
+      "zh_CN": "working from home, telework",
+      "ko": "working from home, telework",
+      "zh_HK": "working from home, telework",
+      "fr": "working from home, telework"
+    },
+    "example": {
+      "ja": "<ruby>在宅勤務<rt>ざいたくきんむ</rt></ruby>が導入されてから、通勤のストレスが大幅に減りました。",
+      "en": "Since working from home was introduced, commuting stress has decreased significantly.",
+      "zh_TW": "Since working from home was introduced, commuting stress has decreased significantly.",
+      "zh_CN": "Since working from home was introduced, commuting stress has decreased significantly.",
+      "ko": "Since working from home was introduced, commuting stress has decreased significantly.",
+      "zh_HK": "Since working from home was introduced, commuting stress has decreased significantly.",
+      "fr": "Since working from home was introduced, commuting stress has decreased significantly."
+    },
+    "related": "在宅勤務 vs リモートワーク: 「在宅勤務」は自宅での労働に限定されるが、「リモートワーク」はカフェやコワーキングなど自宅以外の遠隔作業も含む。"
+  },
+  {
+    "id": "class_word_0027_0087",
+    "word": "リモートワーク",
+    "reading": "りもーとわーく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "remote work, telecommuting",
+      "ja": "リモートワーク",
+      "zh_TW": "remote work, telecommuting",
+      "zh_CN": "remote work, telecommuting",
+      "ko": "remote work, telecommuting",
+      "zh_HK": "remote work, telecommuting",
+      "fr": "remote work, telecommuting"
+    },
+    "example": {
+      "ja": "カフェや旅先でも仕事ができるリモートワークという働き方が定着してきた。",
+      "en": "The working style called remote work, where one can work at cafes or travel destinations, has taken root.",
+      "zh_TW": "The working style called remote work, where one can work at cafes or travel destinations, has taken root.",
+      "zh_CN": "The working style called remote work, where one can work at cafes or travel destinations, has taken root.",
+      "ko": "The working style called remote work, where one can work at cafes or travel destinations, has taken root.",
+      "zh_HK": "The working style called remote work, where one can work at cafes or travel destinations, has taken root.",
+      "fr": "The working style called remote work, where one can work at cafes or travel destinations, has taken root."
+    },
+    "related": "リモートワーク vs テレワーク: 実質同義。IT企業や外資系ではリモートワーク、官公庁や伝統的企業ではテレワークの呼称が好まれる。"
+  },
+  {
+    "id": "class_word_0027_0088",
+    "word": "私の上司は私が日本語を話せることを知りません",
+    "reading": "わたしのかみはわたしがにほんごをはなせることをしりません",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "My boss does not know that I can speak Japanese.",
+      "ja": "私の上司は私が日本語を話せることを知りません",
+      "zh_TW": "My boss does not know that I can speak Japanese.",
+      "zh_CN": "My boss does not know that I can speak Japanese.",
+      "ko": "My boss does not know that I can speak Japanese.",
+      "zh_HK": "My boss does not know that I can speak Japanese.",
+      "fr": "My boss does not know that I can speak Japanese."
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>せることを<ruby>知<rt>し</rt></ruby>りません。",
+      "en": "My boss does not know that I can speak Japanese.",
+      "zh_TW": "My boss does not know that I can speak Japanese.",
+      "zh_CN": "My boss does not know that I can speak Japanese.",
+      "ko": "My boss does not know that I can speak Japanese.",
+      "zh_HK": "My boss does not know that I can speak Japanese.",
+      "fr": "My boss does not know that I can speak Japanese."
+    },
+    "related": "こと（名詞化）: 動詞節「日本語を話せる」に「こと」を付けて名詞化し、「〜を知りません」と続ける構文。"
+  },
+  {
+    "id": "class_word_0027_0089",
+    "word": "最強",
+    "reading": "さいきょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "the strongest, unbeatable",
+      "ja": "最強",
+      "zh_TW": "the strongest, unbeatable",
+      "zh_CN": "the strongest, unbeatable",
+      "ko": "the strongest, unbeatable",
+      "zh_HK": "the strongest, unbeatable",
+      "fr": "the strongest, unbeatable"
+    },
+    "example": {
+      "ja": "この二人がタッグを組めば、まさに<ruby>最強<rt>さいきょう</rt></ruby>のチームになる。",
+      "en": "If these two team up, it will truly become an unbeatable team.",
+      "zh_TW": "If these two team up, it will truly become an unbeatable team.",
+      "zh_CN": "If these two team up, it will truly become an unbeatable team.",
+      "ko": "If these two team up, it will truly become an unbeatable team.",
+      "zh_HK": "If these two team up, it will truly become an unbeatable team.",
+      "fr": "If these two team up, it will truly become an unbeatable team."
+    },
+    "related": "最強 vs 最高: 「最高」は品質・気分・満足度が一番であること、「最強」は力・能力・勝負において最も強いこと。"
+  },
+  {
+    "id": "class_word_0027_0090",
+    "word": "全員",
+    "reading": "ぜんいん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "all members, everyone, all present",
+      "ja": "全員",
+      "zh_TW": "all members, everyone, all present",
+      "zh_CN": "all members, everyone, all present",
+      "ko": "all members, everyone, all present",
+      "zh_HK": "all members, everyone, all present",
+      "fr": "all members, everyone, all present"
+    },
+    "example": {
+      "ja": "クラスの<ruby>全員<rt>ぜんいん</rt></ruby>が無事に日本語試験に合格しました！",
+      "en": "Everyone in the class passed the Japanese exam safely!",
+      "zh_TW": "Everyone in the class passed the Japanese exam safely!",
+      "zh_CN": "Everyone in the class passed the Japanese exam safely!",
+      "ko": "Everyone in the class passed the Japanese exam safely!",
+      "zh_HK": "Everyone in the class passed the Japanese exam safely!",
+      "fr": "Everyone in the class passed the Japanese exam safely!"
+    },
+    "related": "全員 vs みんな: 「みんな」は日常会話の和語表現、「全員」は1人も欠けず全員であることを客観的・公式に表す漢語。"
+  },
+  {
+    "id": "class_word_0027_0091",
+    "word": "四日間",
+    "reading": "よっかかん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "for four days, four-day period",
+      "ja": "四日間",
+      "zh_TW": "for four days, four-day period",
+      "zh_CN": "for four days, four-day period",
+      "ko": "for four days, four-day period",
+      "zh_HK": "for four days, four-day period",
+      "fr": "for four days, four-day period"
+    },
+    "example": {
+      "ja": "<ruby>四日間<rt>よっかかん</rt></ruby>の合宿を終えて、チームワークが一段と深まった。",
+      "en": "After finishing the four-day camp, our teamwork deepened even further.",
+      "zh_TW": "After finishing the four-day camp, our teamwork deepened even further.",
+      "zh_CN": "After finishing the four-day camp, our teamwork deepened even further.",
+      "ko": "After finishing the four-day camp, our teamwork deepened even further.",
+      "zh_HK": "After finishing the four-day camp, our teamwork deepened even further.",
+      "fr": "After finishing the four-day camp, our teamwork deepened even further."
+    },
+    "related": "四日間: 「よんにちかん」ではなく「よっかかん」と読む点に注意。"
+  },
+  {
+    "id": "class_word_0027_0092",
+    "word": "五日間",
+    "reading": "いつかかん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "for five days, five-day period",
+      "ja": "五日間",
+      "zh_TW": "for five days, five-day period",
+      "zh_CN": "for five days, five-day period",
+      "ko": "for five days, five-day period",
+      "zh_HK": "for five days, five-day period",
+      "fr": "for five days, five-day period"
+    },
+    "example": {
+      "ja": "<ruby>五日間<rt>いつかかん</rt></ruby>の夏休みを利用して、家族で沖縄旅行に行きました。",
+      "en": "Using the five-day summer vacation, I went on a trip to Okinawa with my family.",
+      "zh_TW": "Using the five-day summer vacation, I went on a trip to Okinawa with my family.",
+      "zh_CN": "Using the five-day summer vacation, I went on a trip to Okinawa with my family.",
+      "ko": "Using the five-day summer vacation, I went on a trip to Okinawa with my family.",
+      "zh_HK": "Using the five-day summer vacation, I went on a trip to Okinawa with my family.",
+      "fr": "Using the five-day summer vacation, I went on a trip to Okinawa with my family."
+    },
+    "related": "五日間: 「ごにちかん」ではなく「いつかかん」と読む点に注意。"
+  },
+  {
+    "id": "class_word_0027_0093",
+    "word": "活動",
+    "reading": "かつどう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "activity, action, operations",
+      "ja": "活動",
+      "zh_TW": "activity, action, operations",
+      "zh_CN": "activity, action, operations",
+      "ko": "activity, action, operations",
+      "zh_HK": "activity, action, operations",
+      "fr": "activity, action, operations"
+    },
+    "example": {
+      "ja": "地域のボランティア<ruby>活動<rt>かつどう</rt></ruby>に積極的に参加しています。",
+      "en": "I actively participate in local volunteer activities.",
+      "zh_TW": "I actively participate in local volunteer activities.",
+      "zh_CN": "I actively participate in local volunteer activities.",
+      "ko": "I actively participate in local volunteer activities.",
+      "zh_HK": "I actively participate in local volunteer activities.",
+      "fr": "I actively participate in local volunteer activities."
+    },
+    "related": "活動 vs 行動: 「行動」はある特定の動作・ふるまい、「活動」はある目的をもって継続的・組織的に動くこと。"
+  },
+  {
+    "id": "class_word_0027_0094",
+    "word": "行事",
+    "reading": "ぎょうじ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "event, function, observance",
+      "ja": "行事",
+      "zh_TW": "event, function, observance",
+      "zh_CN": "event, function, observance",
+      "ko": "event, function, observance",
+      "zh_HK": "event, function, observance",
+      "fr": "event, function, observance"
+    },
+    "example": {
+      "ja": "日本の学校には、運動会や文化祭など楽しい<ruby>行事<rt>ぎょうじ</rt></ruby>がたくさんあります。",
+      "en": "In Japanese schools, there are many fun events such as sports festivals and culture festivals.",
+      "zh_TW": "In Japanese schools, there are many fun events such as sports festivals and culture festivals.",
+      "zh_CN": "In Japanese schools, there are many fun events such as sports festivals and culture festivals.",
+      "ko": "In Japanese schools, there are many fun events such as sports festivals and culture festivals.",
+      "zh_HK": "In Japanese schools, there are many fun events such as sports festivals and culture festivals.",
+      "fr": "In Japanese schools, there are many fun events such as sports festivals and culture festivals."
+    },
+    "related": "行事 vs イベント: 「行事」は季節や年中儀礼、学校や地域に定着した伝統的催しに好んで使われる。"
+  },
+  {
+    "id": "class_word_0027_0095",
+    "word": "向き合う",
+    "reading": "むきあう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)",
+      "ja": "向き合う",
+      "zh_TW": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)",
+      "zh_CN": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)",
+      "ko": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)",
+      "zh_HK": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)",
+      "fr": "1. to face each other (physically) 2. to confront, to tackle seriously (issues, oneself)"
+    },
+    "example": {
+      "ja": "1. テーブルを挟んで二人で<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>って話した。<br>2. 自分の弱点としっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>い、克服する努力をしよう。",
+      "en": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them.",
+      "zh_TW": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them.",
+      "zh_CN": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them.",
+      "ko": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them.",
+      "zh_HK": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them.",
+      "fr": "1. We sat facing each other across the table and talked. 2. Let's confront our own weaknesses squarely and make an effort to overcome them."
+    },
+    "related": "向き合う vs 見つめ直す: 「向き合う」は困難や課題から逃げずに正面から対峙する姿勢を強調する。"
+  },
+  {
+    "id": "class_word_0027_0096",
+    "word": "組織",
+    "reading": "そしき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "organization, structure, tissue (biology)",
+      "ja": "組織",
+      "zh_TW": "organization, structure, tissue (biology)",
+      "zh_CN": "organization, structure, tissue (biology)",
+      "ko": "organization, structure, tissue (biology)",
+      "zh_HK": "organization, structure, tissue (biology)",
+      "fr": "organization, structure, tissue (biology)"
+    },
+    "example": {
+      "ja": "新しいリーダーのもとで、会社の営業<ruby>組織<rt>そしき</rt></ruby>が再編された。",
+      "en": "Under the new leader, the sales organization of the company was restructured.",
+      "zh_TW": "Under the new leader, the sales organization of the company was restructured.",
+      "zh_CN": "Under the new leader, the sales organization of the company was restructured.",
+      "ko": "Under the new leader, the sales organization of the company was restructured.",
+      "zh_HK": "Under the new leader, the sales organization of the company was restructured.",
+      "fr": "Under the new leader, the sales organization of the company was restructured."
+    },
+    "related": "組織 vs 団体: 「組織」は一定の指揮系統やルールで機能的に統制された集団全般、「団体」は共通の目的を持つ人々の集まり。"
+  },
+  {
+    "id": "class_word_0027_0097",
+    "word": "忙しくなる",
+    "reading": "いそがしくなる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to become busy, to get busy",
+      "ja": "忙しくなる",
+      "zh_TW": "to become busy, to get busy",
+      "zh_CN": "to become busy, to get busy",
+      "ko": "to become busy, to get busy",
+      "zh_HK": "to become busy, to get busy",
+      "fr": "to become busy, to get busy"
+    },
+    "example": {
+      "ja": "年末が近づくにつれて、仕事がどんどん<ruby>忙<rt>いそが</rt></ruby>しくなってきた。",
+      "en": "As the end of the year approaches, work has become increasingly busy.",
+      "zh_TW": "As the end of the year approaches, work has become increasingly busy.",
+      "zh_CN": "As the end of the year approaches, work has become increasingly busy.",
+      "ko": "As the end of the year approaches, work has become increasingly busy.",
+      "zh_HK": "As the end of the year approaches, work has become increasingly busy.",
+      "fr": "As the end of the year approaches, work has become increasingly busy."
+    },
+    "related": "忙しくなる: 形容詞「忙しい」の連用形「忙しく」＋動詞「なる」で状態の変化を表す。"
+  },
+  {
+    "id": "class_word_0027_0098",
+    "word": "合併",
+    "reading": "がっぺい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "merger, combination, amalgamation",
+      "ja": "合併",
+      "zh_TW": "merger, combination, amalgamation",
+      "zh_CN": "merger, combination, amalgamation",
+      "ko": "merger, combination, amalgamation",
+      "zh_HK": "merger, combination, amalgamation",
+      "fr": "merger, combination, amalgamation"
+    },
+    "example": {
+      "ja": "二つの地方銀行が<ruby>合併<rt>がっぺい</rt></ruby>して、新しい金融グループが誕生した。",
+      "en": "Two regional banks merged, and a new financial group was born.",
+      "zh_TW": "Two regional banks merged, and a new financial group was born.",
+      "zh_CN": "Two regional banks merged, and a new financial group was born.",
+      "ko": "Two regional banks merged, and a new financial group was born.",
+      "zh_HK": "Two regional banks merged, and a new financial group was born.",
+      "fr": "Two regional banks merged, and a new financial group was born."
+    },
+    "related": "合併 vs 統合: 「合併」は法律上複数の法人が1つに合体すること、「統合」は業務や方針を一本化して協調すること。"
+  },
+  {
+    "id": "class_word_0027_0099",
+    "word": "影響",
+    "reading": "えいきょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "influence, effect, impact",
+      "ja": "影響",
+      "zh_TW": "influence, effect, impact",
+      "zh_CN": "influence, effect, impact",
+      "ko": "influence, effect, impact",
+      "zh_HK": "influence, effect, impact",
+      "fr": "influence, effect, impact"
+    },
+    "example": {
+      "ja": "大雪の<ruby>影響<rt>えいきょう</rt></ruby>で、電車のダイヤが大きく乱れています。",
+      "en": "Due to the impact of heavy snow, the train schedule is heavily disrupted.",
+      "zh_TW": "Due to the impact of heavy snow, the train schedule is heavily disrupted.",
+      "zh_CN": "Due to the impact of heavy snow, the train schedule is heavily disrupted.",
+      "ko": "Due to the impact of heavy snow, the train schedule is heavily disrupted.",
+      "zh_HK": "Due to the impact of heavy snow, the train schedule is heavily disrupted.",
+      "fr": "Due to the impact of heavy snow, the train schedule is heavily disrupted."
+    },
+    "related": "影響 vs 効果: 「効果」は狙った通りの望ましいプラスの結果、「影響」は他方に波及して変化を及ぼす作用（良い場合も悪い場合もある）。"
+  },
+  {
+    "id": "class_word_0027_0100",
+    "word": "経験",
+    "reading": "けいけん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "experience",
+      "ja": "経験",
+      "zh_TW": "experience",
+      "zh_CN": "experience",
+      "ko": "experience",
+      "zh_HK": "experience",
+      "fr": "experience"
+    },
+    "example": {
+      "ja": "若い頃の海外留学は、かけがえのない貴重な<ruby>経験<rt>けいけん</rt></ruby>となった。",
+      "en": "Studying abroad in my youth became an irreplaceable, valuable experience.",
+      "zh_TW": "Studying abroad in my youth became an irreplaceable, valuable experience.",
+      "zh_CN": "Studying abroad in my youth became an irreplaceable, valuable experience.",
+      "ko": "Studying abroad in my youth became an irreplaceable, valuable experience.",
+      "zh_HK": "Studying abroad in my youth became an irreplaceable, valuable experience.",
+      "fr": "Studying abroad in my youth became an irreplaceable, valuable experience."
+    },
+    "related": "経験 vs 体験: 「体験」は自ら直接身体で味わった個別の出来事、「経験」は体験を通じて身についた知識や技能の蓄積。"
+  },
+  {
+    "id": "class_word_0027_0101",
+    "word": "報告書",
+    "reading": "ほうこくしょ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "report, written report",
+      "ja": "報告書",
+      "zh_TW": "report, written report",
+      "zh_CN": "report, written report",
+      "ko": "report, written report",
+      "zh_HK": "report, written report",
+      "fr": "report, written report"
+    },
+    "example": {
+      "ja": "先週行われた市場調査の結果を、詳しい<ruby>報告書<rt>ほうこくしょ</rt></ruby>にまとめた。",
+      "en": "I summarized the results of the market survey conducted last week into a detailed written report.",
+      "zh_TW": "I summarized the results of the market survey conducted last week into a detailed written report.",
+      "zh_CN": "I summarized the results of the market survey conducted last week into a detailed written report.",
+      "ko": "I summarized the results of the market survey conducted last week into a detailed written report.",
+      "zh_HK": "I summarized the results of the market survey conducted last week into a detailed written report.",
+      "fr": "I summarized the results of the market survey conducted last week into a detailed written report."
+    },
+    "related": "報告書 vs レポート: 「報告書」は業務や調査の客観的成果を上司や組織に提出する公的文書。"
+  },
+  {
+    "id": "class_word_0027_0102",
+    "word": "会議",
+    "reading": "かいぎ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "meeting, conference",
+      "ja": "会議",
+      "zh_TW": "meeting, conference",
+      "zh_CN": "meeting, conference",
+      "ko": "meeting, conference",
+      "zh_HK": "meeting, conference",
+      "fr": "meeting, conference"
+    },
+    "example": {
+      "ja": "午後の<ruby>会議<rt>かいぎ</rt></ruby>で、来期の予算案について議論する予定です。",
+      "en": "In the afternoon meeting, we plan to discuss next term's budget proposal.",
+      "zh_TW": "In the afternoon meeting, we plan to discuss next term's budget proposal.",
+      "zh_CN": "In the afternoon meeting, we plan to discuss next term's budget proposal.",
+      "ko": "In the afternoon meeting, we plan to discuss next term's budget proposal.",
+      "zh_HK": "In the afternoon meeting, we plan to discuss next term's budget proposal.",
+      "fr": "In the afternoon meeting, we plan to discuss next term's budget proposal."
+    },
+    "related": "会議 vs 打ち合わせ: 「会議」は決定権者も集まり公式に審議・決定する場、「打ち合わせ」は実務者同士で段取りを相談する小規模な場。"
+  },
+  {
+    "id": "class_word_0027_0103",
+    "word": "連休",
+    "reading": "れんきゅう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "consecutive holidays, long weekend",
+      "ja": "連休",
+      "zh_TW": "consecutive holidays, long weekend",
+      "zh_CN": "consecutive holidays, long weekend",
+      "ko": "consecutive holidays, long weekend",
+      "zh_HK": "consecutive holidays, long weekend",
+      "fr": "consecutive holidays, long weekend"
+    },
+    "example": {
+      "ja": "今度の３<ruby>連休<rt>れんきゅう</rt></ruby>を利用して、家族でキャンプに行きます。",
+      "en": "Using the upcoming three-day weekend, I am going camping with my family.",
+      "zh_TW": "Using the upcoming three-day weekend, I am going camping with my family.",
+      "zh_CN": "Using the upcoming three-day weekend, I am going camping with my family.",
+      "ko": "Using the upcoming three-day weekend, I am going camping with my family.",
+      "zh_HK": "Using the upcoming three-day weekend, I am going camping with my family.",
+      "fr": "Using the upcoming three-day weekend, I am going camping with my family."
+    },
+    "related": "連休 vs 祝日: 「祝日」は法律で定められた個別の休みの日、「連休」は休日が2日以上連続して続く期間。"
+  },
+  {
+    "id": "class_word_0027_0104",
+    "word": "大型連休",
+    "reading": "おおがたれんきゅう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "long holiday season, Golden Week",
+      "ja": "大型連休",
+      "zh_TW": "long holiday season, Golden Week",
+      "zh_CN": "long holiday season, Golden Week",
+      "ko": "long holiday season, Golden Week",
+      "zh_HK": "long holiday season, Golden Week",
+      "fr": "long holiday season, Golden Week"
+    },
+    "example": {
+      "ja": "５月の<ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>（ゴールデンウィーク）は、どこへ行っても混雑している。",
+      "en": "During the long holiday season in May (Golden Week), it is crowded wherever you go.",
+      "zh_TW": "During the long holiday season in May (Golden Week), it is crowded wherever you go.",
+      "zh_CN": "During the long holiday season in May (Golden Week), it is crowded wherever you go.",
+      "ko": "During the long holiday season in May (Golden Week), it is crowded wherever you go.",
+      "zh_HK": "During the long holiday season in May (Golden Week), it is crowded wherever you go.",
+      "fr": "During the long holiday season in May (Golden Week), it is crowded wherever you go."
+    },
+    "related": "大型連休: 主にゴールデンウィーク（GW）やシルバーウィークなど、何日も続く長期休暇のメディア・公的表現。"
+  },
+  {
+    "id": "class_word_0027_0105",
+    "word": "田舎",
+    "reading": "いなか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "countryside, rural area, hometown",
+      "ja": "田舎",
+      "zh_TW": "countryside, rural area, hometown",
+      "zh_CN": "countryside, rural area, hometown",
+      "ko": "countryside, rural area, hometown",
+      "zh_HK": "countryside, rural area, hometown",
+      "fr": "countryside, rural area, hometown"
+    },
+    "example": {
+      "ja": "都会の生活に疲れたら、自然豊かな<ruby>田舎<rt>いなか</rt></ruby>でリフレッシュしたい。",
+      "en": "When tired of city life, I want to refresh myself in the countryside rich in nature.",
+      "zh_TW": "When tired of city life, I want to refresh myself in the countryside rich in nature.",
+      "zh_CN": "When tired of city life, I want to refresh myself in the countryside rich in nature.",
+      "ko": "When tired of city life, I want to refresh myself in the countryside rich in nature.",
+      "zh_HK": "When tired of city life, I want to refresh myself in the countryside rich in nature.",
+      "fr": "When tired of city life, I want to refresh myself in the countryside rich in nature."
+    },
+    "related": "田舎 vs 地方: 「田舎」は自然豊かで素朴な農村部を情緒的に指し、「地方」は首都圏に対する行政・地域上の区別。"
+  },
+  {
+    "id": "class_word_0027_0106",
+    "word": "博物館",
+    "reading": "はくぶつかん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "museum",
+      "ja": "博物館",
+      "zh_TW": "museum",
+      "zh_CN": "museum",
+      "ko": "museum",
+      "zh_HK": "museum",
+      "fr": "museum"
+    },
+    "example": {
+      "ja": "週末に国立<ruby>博物館<rt>はくぶつかん</rt></ruby>へ行って、古代の歴史的遺物を見学した。",
+      "en": "I went to the national museum over the weekend and viewed ancient historical artifacts.",
+      "zh_TW": "I went to the national museum over the weekend and viewed ancient historical artifacts.",
+      "zh_CN": "I went to the national museum over the weekend and viewed ancient historical artifacts.",
+      "ko": "I went to the national museum over the weekend and viewed ancient historical artifacts.",
+      "zh_HK": "I went to the national museum over the weekend and viewed ancient historical artifacts.",
+      "fr": "I went to the national museum over the weekend and viewed ancient historical artifacts."
+    },
+    "related": "博物館 vs 美術館: 「美術館」は絵画・彫刻などの美術品中心、「博物館」は自然史・科学・歴史資料全般を展示する施設。"
+  },
+  {
+    "id": "class_word_0027_0107",
+    "word": "伝統的",
+    "reading": "でんとうてき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "traditional, conventional",
+      "ja": "伝統的",
+      "zh_TW": "traditional, conventional",
+      "zh_CN": "traditional, conventional",
+      "ko": "traditional, conventional",
+      "zh_HK": "traditional, conventional",
+      "fr": "traditional, conventional"
+    },
+    "example": {
+      "ja": "京都には、<ruby>伝統的<rt>でんとうてき</rt></ruby>な木造建築がたくさん残っています。",
+      "en": "In Kyoto, many traditional wooden architecture buildings remain.",
+      "zh_TW": "In Kyoto, many traditional wooden architecture buildings remain.",
+      "zh_CN": "In Kyoto, many traditional wooden architecture buildings remain.",
+      "ko": "In Kyoto, many traditional wooden architecture buildings remain.",
+      "zh_HK": "In Kyoto, many traditional wooden architecture buildings remain.",
+      "fr": "In Kyoto, many traditional wooden architecture buildings remain."
+    },
+    "related": "伝統的 vs 古典的: 「伝統的」は文化や習慣が代々継承されていること、「古典的」は過去の名作・クラシックの形式に則っていること。"
+  },
+  {
+    "id": "class_word_0027_0108",
+    "word": "軍人",
+    "reading": "ぐんじん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "soldier, military personnel",
+      "ja": "軍人",
+      "zh_TW": "soldier, military personnel",
+      "zh_CN": "soldier, military personnel",
+      "ko": "soldier, military personnel",
+      "zh_HK": "soldier, military personnel",
+      "fr": "soldier, military personnel"
+    },
+    "example": {
+      "ja": "祖父は若い頃、海軍の<ruby>軍人<rt>ぐんじん</rt></ruby>として船に乗っていました。",
+      "en": "My grandfather boarded ships as a navy soldier when he was young.",
+      "zh_TW": "My grandfather boarded ships as a navy soldier when he was young.",
+      "zh_CN": "My grandfather boarded ships as a navy soldier when he was young.",
+      "ko": "My grandfather boarded ships as a navy soldier when he was young.",
+      "zh_HK": "My grandfather boarded ships as a navy soldier when he was young.",
+      "fr": "My grandfather boarded ships as a navy soldier when he was young."
+    },
+    "related": "軍人 vs 兵士: 「兵士」は軍の階級のうち一般の兵・下層の戦闘員を指すが、「軍人」は将校や幹部も含めた身分全般を指す。"
+  },
+  {
+    "id": "class_word_0027_0109",
+    "word": "手入れ",
+    "reading": "ていれ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "care, maintenance, upkeep",
+      "ja": "手入れ",
+      "zh_TW": "care, maintenance, upkeep",
+      "zh_CN": "care, maintenance, upkeep",
+      "ko": "care, maintenance, upkeep",
+      "zh_HK": "care, maintenance, upkeep",
+      "fr": "care, maintenance, upkeep"
+    },
+    "example": {
+      "ja": "本革の靴は、こまめに<ruby>手<rt>て</rt></ruby><ruby>入<rt>い</rt></ruby>れをすれば１０年以上長持ちします。",
+      "en": "Genuine leather shoes will last more than 10 years if maintained frequently.",
+      "zh_TW": "Genuine leather shoes will last more than 10 years if maintained frequently.",
+      "zh_CN": "Genuine leather shoes will last more than 10 years if maintained frequently.",
+      "ko": "Genuine leather shoes will last more than 10 years if maintained frequently.",
+      "zh_HK": "Genuine leather shoes will last more than 10 years if maintained frequently.",
+      "fr": "Genuine leather shoes will last more than 10 years if maintained frequently."
+    },
+    "related": "手入れ vs 修理: 「手入れ」は長持ちさせるための日常の清掃や手入れ、「修理」は壊れた部分を直すこと。"
+  },
+  {
+    "id": "class_word_0027_0110",
+    "word": "修復",
+    "reading": "しゅうふく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "restoration, repair, recovery",
+      "ja": "修復",
+      "zh_TW": "restoration, repair, recovery",
+      "zh_CN": "restoration, repair, recovery",
+      "ko": "restoration, repair, recovery",
+      "zh_HK": "restoration, repair, recovery",
+      "fr": "restoration, repair, recovery"
+    },
+    "example": {
+      "ja": "歴史ある古い絵画が、専門家によって見事に<ruby>修復<rt>しゅうふく</rt></ruby>された。",
+      "en": "The historic old painting was splendidly restored by specialists.",
+      "zh_TW": "The historic old painting was splendidly restored by specialists.",
+      "zh_CN": "The historic old painting was splendidly restored by specialists.",
+      "ko": "The historic old painting was splendidly restored by specialists.",
+      "zh_HK": "The historic old painting was splendidly restored by specialists.",
+      "fr": "The historic old painting was splendidly restored by specialists."
+    },
+    "related": "修復 vs 修理: 「修復」は歴史的建造物・美術品・破損した関係性を元の本来の美しい姿に戻すこと。"
+  },
+  {
+    "id": "class_word_0027_0111",
+    "word": "見学",
+    "reading": "けんがく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "study visit, field trip, observation",
+      "ja": "見学",
+      "zh_TW": "study visit, field trip, observation",
+      "zh_CN": "study visit, field trip, observation",
+      "ko": "study visit, field trip, observation",
+      "zh_HK": "study visit, field trip, observation",
+      "fr": "study visit, field trip, observation"
+    },
+    "example": {
+      "ja": "来週、小学校の授業で近所のパン工場の<ruby>見学<rt>けんがく</rt></ruby>に行きます。",
+      "en": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory.",
+      "zh_TW": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory.",
+      "zh_CN": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory.",
+      "ko": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory.",
+      "zh_HK": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory.",
+      "fr": "Next week, in elementary school class, we will go on a study visit to a nearby bread factory."
+    },
+    "related": "見学 vs 観光: 「観光」は名所を巡り楽しむ旅、「見学」は知識や知見を得るために施設や現場を見て学ぶこと。"
+  },
+  {
+    "id": "class_word_0027_0112",
+    "word": "匂いがする",
+    "reading": "においがする",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to smell (general smell, food, odor)",
+      "ja": "匂いがする",
+      "zh_TW": "to smell (general smell, food, odor)",
+      "zh_CN": "to smell (general smell, food, odor)",
+      "ko": "to smell (general smell, food, odor)",
+      "zh_HK": "to smell (general smell, food, odor)",
+      "fr": "to smell (general smell, food, odor)"
+    },
+    "example": {
+      "ja": "台所から、美味しそうなカレーの<ruby>匂<rt>にお</rt></ruby>いがしてきた。",
+      "en": "A smell of delicious curry drifted from the kitchen.",
+      "zh_TW": "A smell of delicious curry drifted from the kitchen.",
+      "zh_CN": "A smell of delicious curry drifted from the kitchen.",
+      "ko": "A smell of delicious curry drifted from the kitchen.",
+      "zh_HK": "A smell of delicious curry drifted from the kitchen.",
+      "fr": "A smell of delicious curry drifted from the kitchen."
+    },
+    "related": "匂い vs 香り: 「匂い」は良い匂いも嫌な臭いも含む中立表現、「香り」は花やコーヒー・香水など好ましい芳香に使う。"
+  },
+  {
+    "id": "class_word_0027_0113",
+    "word": "香りがする",
+    "reading": "かおりがする",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to have a pleasant aroma, to be fragrant",
+      "ja": "香りがする",
+      "zh_TW": "to have a pleasant aroma, to be fragrant",
+      "zh_CN": "to have a pleasant aroma, to be fragrant",
+      "ko": "to have a pleasant aroma, to be fragrant",
+      "zh_HK": "to have a pleasant aroma, to be fragrant",
+      "fr": "to have a pleasant aroma, to be fragrant"
+    },
+    "example": {
+      "ja": "淹れたてのコーヒーから、とても香ばしい<ruby>香<rt>かお</rt></ruby>りが漂っている。",
+      "en": "A very fragrant aroma is wafting from the freshly brewed coffee.",
+      "zh_TW": "A very fragrant aroma is wafting from the freshly brewed coffee.",
+      "zh_CN": "A very fragrant aroma is wafting from the freshly brewed coffee.",
+      "ko": "A very fragrant aroma is wafting from the freshly brewed coffee.",
+      "zh_HK": "A very fragrant aroma is wafting from the freshly brewed coffee.",
+      "fr": "A very fragrant aroma is wafting from the freshly brewed coffee."
+    },
+    "related": "香り: 不快な悪臭には使わず、心地よい上品な香りに限定して用いる。"
+  },
+  {
+    "id": "class_word_0027_0114",
+    "word": "溺れる",
+    "reading": "おぼれる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)",
+      "ja": "溺れる",
+      "zh_TW": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)",
+      "zh_CN": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)",
+      "ko": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)",
+      "zh_HK": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)",
+      "fr": "1. to drown, to struggle in water 2. to indulge in, to lose oneself in (pleasure, alcohol)"
+    },
+    "example": {
+      "ja": "1. 川遊びをするときは、<ruby>溺<rt>おぼ</rt></ruby>れないようにライフジャケットを着ましょう。<br>2. お酒やギャンブルに<ruby>溺<rt>おぼ</rt></ruby>れると、身を滅ぼすことになります。",
+      "en": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself.",
+      "zh_TW": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself.",
+      "zh_CN": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself.",
+      "ko": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself.",
+      "zh_HK": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself.",
+      "fr": "1. When playing in the river, wear a life jacket so you don't drown. 2. If you indulge in alcohol or gambling, you will ruin yourself."
+    },
+    "related": "溺れる vs 沈む: 「沈む」は水中に沈下する現象、「溺れる」は水中で息ができずにもがくこと。"
+  },
+  {
+    "id": "class_word_0027_0115",
+    "word": "離れる",
+    "reading": "はなれる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to separate from, to move away from 2. to leave (home, job)",
+      "ja": "離れる",
+      "zh_TW": "1. to separate from, to move away from 2. to leave (home, job)",
+      "zh_CN": "1. to separate from, to move away from 2. to leave (home, job)",
+      "ko": "1. to separate from, to move away from 2. to leave (home, job)",
+      "zh_HK": "1. to separate from, to move away from 2. to leave (home, job)",
+      "fr": "1. to separate from, to move away from 2. to leave (home, job)"
+    },
+    "example": {
+      "ja": "1. 危険ですから、線路の白線の内側まで<ruby>離<rt>はな</rt></ruby>れてお待ちください。<br>2. 高校を卒業して、生まれ育った故郷を<ruby>離<rt>はな</rt></ruby>れました。",
+      "en": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised.",
+      "zh_TW": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised.",
+      "zh_CN": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised.",
+      "ko": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised.",
+      "zh_HK": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised.",
+      "fr": "1. Because it is dangerous, please stand back away behind the white line on the platform. 2. After graduating from high school, I left the hometown where I was born and raised."
+    },
+    "related": "離れる vs 離す: 「離れる」は自動詞（主語が自ら遠ざかる）、「離す」は他動詞（対象を遠ざける・間隔をあける）。"
+  },
+  {
+    "id": "class_word_0027_0116",
+    "word": "沈む",
+    "reading": "しずむ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy",
+      "ja": "沈む",
+      "zh_TW": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy",
+      "zh_CN": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy",
+      "ko": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy",
+      "zh_HK": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy",
+      "fr": "1. to sink, to submerge 2. to set (sun, moon) 3. to feel depressed, to be gloomy"
+    },
+    "example": {
+      "ja": "1. 夕日が水平線の彼方にゆっくりと<ruby>沈<rt>しず</rt></ruby>んでいった。<br>2. 試験に落ちてしまい、一日中気分が<ruby>沈<rt>しず</rt></ruby>んでいる。",
+      "en": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day.",
+      "zh_TW": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day.",
+      "zh_CN": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day.",
+      "ko": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day.",
+      "zh_HK": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day.",
+      "fr": "1. The evening sun slowly set beyond the horizon. 2. Failing the exam, my spirits have been sinking all day."
+    },
+    "related": "沈む vs 浮く: 水面や空中へ上がるのが「浮く」、水底や地平線の下へ落ち込むのが「沈む」。"
+  },
+  {
+    "id": "class_word_0027_0117",
+    "word": "泊まる",
+    "reading": "とまる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to stay overnight, to lodge",
+      "ja": "泊まる",
+      "zh_TW": "to stay overnight, to lodge",
+      "zh_CN": "to stay overnight, to lodge",
+      "ko": "to stay overnight, to lodge",
+      "zh_HK": "to stay overnight, to lodge",
+      "fr": "to stay overnight, to lodge"
+    },
+    "example": {
+      "ja": "京都を旅行したとき、風情ある老舗の旅館に<ruby>泊<rt>と</rt></ruby>まりました。",
+      "en": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn.",
+      "zh_TW": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn.",
+      "zh_CN": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn.",
+      "ko": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn.",
+      "zh_HK": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn.",
+      "fr": "When traveling in Kyoto, I stayed overnight at a charming, long-established Japanese inn."
+    },
+    "related": "泊まる vs 止まる: 「泊まる」は夜を明かして宿泊すること、「止まる」は乗り物や動きが停止すること。"
+  },
+  {
+    "id": "class_word_0027_0118",
+    "word": "結果",
+    "reading": "けっか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "result, outcome, consequence",
+      "ja": "結果",
+      "zh_TW": "result, outcome, consequence",
+      "zh_CN": "result, outcome, consequence",
+      "ko": "result, outcome, consequence",
+      "zh_HK": "result, outcome, consequence",
+      "fr": "result, outcome, consequence"
+    },
+    "example": {
+      "ja": "毎日努力を重ねた<ruby>結果<rt>けっか</rt></ruby>、第一志望の大学に見事合格できた。",
+      "en": "As a result of making daily efforts, I was splendidly accepted into my first-choice university.",
+      "zh_TW": "As a result of making daily efforts, I was splendidly accepted into my first-choice university.",
+      "zh_CN": "As a result of making daily efforts, I was splendidly accepted into my first-choice university.",
+      "ko": "As a result of making daily efforts, I was splendidly accepted into my first-choice university.",
+      "zh_HK": "As a result of making daily efforts, I was splendidly accepted into my first-choice university.",
+      "fr": "As a result of making daily efforts, I was splendidly accepted into my first-choice university."
+    },
+    "related": "結果 vs 成果: 「結果」は良くも悪くも出た成り行き全般、「成果」は努力によって得られた実り・好結果。"
+  },
+  {
+    "id": "class_word_0027_0119",
+    "word": "映画館",
+    "reading": "えいがかん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "movie theater, cinema",
+      "ja": "映画館",
+      "zh_TW": "movie theater, cinema",
+      "zh_CN": "movie theater, cinema",
+      "ko": "movie theater, cinema",
+      "zh_HK": "movie theater, cinema",
+      "fr": "movie theater, cinema"
+    },
+    "example": {
+      "ja": "大好きなアニメの新作を観るために、朝一番で<ruby>映画館<rt>えいがかん</rt></ruby>へ行った。",
+      "en": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning.",
+      "zh_TW": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning.",
+      "zh_CN": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning.",
+      "ko": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning.",
+      "zh_HK": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning.",
+      "fr": "To watch the new work of my favorite anime, I went to the movie theater first thing in the morning."
+    },
+    "related": "映画館 vs 劇場: 「映画館」は映画上映専用の施設、「劇場」は演劇・ミュージカル・歌舞伎など生舞台を演じる施設。"
+  },
+  {
+    "id": "class_word_0027_0120",
+    "word": "帝国",
+    "reading": "ていこく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "empire, imperial realm",
+      "ja": "帝国",
+      "zh_TW": "empire, imperial realm",
+      "zh_CN": "empire, imperial realm",
+      "ko": "empire, imperial realm",
+      "zh_HK": "empire, imperial realm",
+      "fr": "empire, imperial realm"
+    },
+    "example": {
+      "ja": "その昔、巨大な<ruby>帝国<rt>ていこく</rt></ruby>が広大な領土を誇っていた。",
+      "en": "Long ago, a gigantic empire boasted a vast territory.",
+      "zh_TW": "Long ago, a gigantic empire boasted a vast territory.",
+      "zh_CN": "Long ago, a gigantic empire boasted a vast territory.",
+      "ko": "Long ago, a gigantic empire boasted a vast territory.",
+      "zh_HK": "Long ago, a gigantic empire boasted a vast territory.",
+      "fr": "Long ago, a gigantic empire boasted a vast territory."
+    },
+    "related": "帝国 vs 王国: 「帝国」は皇帝が統治する多民族・広大な国家、「王国」は国王が治める国家。"
+  },
+  {
+    "id": "class_word_0027_0121",
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "salary, wages, pay",
+      "ja": "給料",
+      "zh_TW": "salary, wages, pay",
+      "zh_CN": "salary, wages, pay",
+      "ko": "salary, wages, pay",
+      "zh_HK": "salary, wages, pay",
+      "fr": "salary, wages, pay"
+    },
+    "example": {
+      "ja": "毎月２５日は<ruby>給料<rt>きゅうりょう</rt></ruby>日なので、仕事を終えたら美味しいものを食べます。",
+      "en": "Every month the 25th is payday, so after finishing work I eat something delicious.",
+      "zh_TW": "Every month the 25th is payday, so after finishing work I eat something delicious.",
+      "zh_CN": "Every month the 25th is payday, so after finishing work I eat something delicious.",
+      "ko": "Every month the 25th is payday, so after finishing work I eat something delicious.",
+      "zh_HK": "Every month the 25th is payday, so after finishing work I eat something delicious.",
+      "fr": "Every month the 25th is payday, so after finishing work I eat something delicious."
+    },
+    "related": "給料 vs 給与: 「給料」は基本給を中心とする日常語、「給与」は手当や賞与を含めた全支給額を指す税法・公的用語。"
+  },
+  {
+    "id": "class_word_0027_0122",
+    "word": "戦い",
+    "reading": "たたかい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "battle, fight, struggle, contest",
+      "ja": "戦い",
+      "zh_TW": "battle, fight, struggle, contest",
+      "zh_CN": "battle, fight, struggle, contest",
+      "ko": "battle, fight, struggle, contest",
+      "zh_HK": "battle, fight, struggle, contest",
+      "fr": "battle, fight, struggle, contest"
+    },
+    "example": {
+      "ja": "決勝戦は、両チームが一歩も引かない激しい<ruby>戦<rt>たたか</rt></ruby>いとなった。",
+      "en": "The finals became a fierce battle where neither team took a single step back.",
+      "zh_TW": "The finals became a fierce battle where neither team took a single step back.",
+      "zh_CN": "The finals became a fierce battle where neither team took a single step back.",
+      "ko": "The finals became a fierce battle where neither team took a single step back.",
+      "zh_HK": "The finals became a fierce battle where neither team took a single step back.",
+      "fr": "The finals became a fierce battle where neither team took a single step back."
+    },
+    "related": "戦い vs 喧嘩: 「喧嘩」は個人間の感情的な争い、「戦い」はスポーツの試合や勝負、困難に打ち勝つ試練全般。"
+  },
+  {
+    "id": "class_word_0027_0123",
+    "word": "重なる",
+    "reading": "かさなる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)",
+      "ja": "重なる",
+      "zh_TW": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)",
+      "zh_CN": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)",
+      "ko": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)",
+      "zh_HK": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)",
+      "fr": "1. to pile up, to overlap (objects) 2. to coincide, to happen at once (events, troubles)"
+    },
+    "example": {
+      "ja": "1. 忙しい時に限って、仕事のトラブルがいくつも<ruby>重<rt>かさ</rt></ruby>なるものだ。<br>2. お皿をきれいに<ruby>重<rt>かさ</rt></ruby>ねて食器棚に片付けた。",
+      "en": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard.",
+      "zh_TW": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard.",
+      "zh_CN": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard.",
+      "ko": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard.",
+      "zh_HK": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard.",
+      "fr": "1. Only when busy do work troubles tend to overlap and coincide one after another. 2. I piled the plates up neatly and put them away in the cupboard."
+    },
+    "related": "重なる vs 重ねる: 「重なる」は自動詞（自然と重なり合う）、「重ねる」は他動詞（意識して積み上げる）。"
+  },
+  {
+    "id": "class_word_0027_0124",
+    "word": "集まる",
+    "reading": "あつまる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to gather, to assemble, to flock together (intransitive)",
+      "ja": "集まる",
+      "zh_TW": "to gather, to assemble, to flock together (intransitive)",
+      "zh_CN": "to gather, to assemble, to flock together (intransitive)",
+      "ko": "to gather, to assemble, to flock together (intransitive)",
+      "zh_HK": "to gather, to assemble, to flock together (intransitive)",
+      "fr": "to gather, to assemble, to flock together (intransitive)"
+    },
+    "example": {
+      "ja": "週末になると、駅前の広場にたくさんの若者が<ruby>集<rt>あつ</rt></ruby>まってくる。",
+      "en": "On weekends, many young people gather in the square in front of the station.",
+      "zh_TW": "On weekends, many young people gather in the square in front of the station.",
+      "zh_CN": "On weekends, many young people gather in the square in front of the station.",
+      "ko": "On weekends, many young people gather in the square in front of the station.",
+      "zh_HK": "On weekends, many young people gather in the square in front of the station.",
+      "fr": "On weekends, many young people gather in the square in front of the station."
+    },
+    "related": "集まる vs 集める: 「集まる」は自動詞（人や物が集まる）、「集める」は他動詞（切手やお金などを収集する）。"
+  },
+  {
+    "id": "class_word_0027_0125",
+    "word": "連なる",
+    "reading": "つらなる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to stand in a row, to range, to stretch along",
+      "ja": "連なる",
+      "zh_TW": "to stand in a row, to range, to stretch along",
+      "zh_CN": "to stand in a row, to range, to stretch along",
+      "ko": "to stand in a row, to range, to stretch along",
+      "zh_HK": "to stand in a row, to range, to stretch along",
+      "fr": "to stand in a row, to range, to stretch along"
+    },
+    "example": {
+      "ja": "窓の外を見ると、雪をかぶった美しい山々が遠くまで<ruby>連<rt>つら</rt></ruby>なっていた。",
+      "en": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance.",
+      "zh_TW": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance.",
+      "zh_CN": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance.",
+      "ko": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance.",
+      "zh_HK": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance.",
+      "fr": "Looking outside the window, beautiful snow-capped mountains were stretching in a row into the distance."
+    },
+    "related": "連なる vs 続く: 「連なる」は山脈や建物・島などが連鎖して長く並んでいる情景に好んで用いられる。"
+  },
+  {
+    "id": "class_word_0027_0126",
+    "word": "改める",
+    "reading": "あらためる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)",
+      "ja": "改める",
+      "zh_TW": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)",
+      "zh_CN": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)",
+      "ko": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)",
+      "zh_HK": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)",
+      "fr": "1. to reform, to correct (bad habits) 2. to reexamine, to change (rules, dates)"
+    },
+    "example": {
+      "ja": "1. 健康のために、夜更かしの悪い癖を<ruby>改<rt>あらた</rt></ruby>めることにした。<br>2. 時間が足りないので、日を<ruby>改<rt>あらた</rt></ruby>めてまた話し合いましょう。",
+      "en": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day.",
+      "zh_TW": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day.",
+      "zh_CN": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day.",
+      "ko": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day.",
+      "zh_HK": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day.",
+      "fr": "1. For my health, I decided to reform my bad habit of staying up late. 2. Since time is running short, let's change the date and talk again another day."
+    },
+    "related": "改める vs 変える: 「変える」は単なる変化全般、「改める」は不備や欠点を正して適切な状態にし直すこと。"
+  },
+  {
+    "id": "class_word_0027_0127",
+    "word": "改めて",
+    "reading": "あらためて",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "once again, newly, formally",
+      "ja": "改めて",
+      "zh_TW": "once again, newly, formally",
+      "zh_CN": "once again, newly, formally",
+      "ko": "once again, newly, formally",
+      "zh_HK": "once again, newly, formally",
+      "fr": "once again, newly, formally"
+    },
+    "example": {
+      "ja": "詳しい日程については、後ほど担当者より<ruby>改<rt>あらた</rt></ruby>めてご連絡いたします。",
+      "en": "Regarding the detailed schedule, our person in charge will contact you again formally later.",
+      "zh_TW": "Regarding the detailed schedule, our person in charge will contact you again formally later.",
+      "zh_CN": "Regarding the detailed schedule, our person in charge will contact you again formally later.",
+      "ko": "Regarding the detailed schedule, our person in charge will contact you again formally later.",
+      "zh_HK": "Regarding the detailed schedule, our person in charge will contact you again formally later.",
+      "fr": "Regarding the detailed schedule, our person in charge will contact you again formally later."
+    },
+    "related": "改めて vs もう一度: 「もう一度」は同一の動作を繰り返すこと、「改めて」は日や機会を仕切り直して正式に行うこと。"
+  },
+  {
+    "id": "class_word_0027_0128",
+    "word": "歩く",
+    "reading": "あるく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to walk",
+      "ja": "歩く",
+      "zh_TW": "to walk",
+      "zh_CN": "to walk",
+      "ko": "to walk",
+      "zh_HK": "to walk",
+      "fr": "to walk"
+    },
+    "example": {
+      "ja": "健康のために、毎朝一駅手前で降りて会社まで<ruby>歩<rt>ある</rt></ruby>いています。",
+      "en": "For my health, I get off one station earlier every morning and walk to the office.",
+      "zh_TW": "For my health, I get off one station earlier every morning and walk to the office.",
+      "zh_CN": "For my health, I get off one station earlier every morning and walk to the office.",
+      "ko": "For my health, I get off one station earlier every morning and walk to the office.",
+      "zh_HK": "For my health, I get off one station earlier every morning and walk to the office.",
+      "fr": "For my health, I get off one station earlier every morning and walk to the office."
+    },
+    "related": "歩く vs 走る: 人間の基本移動動作。「歩く」は常にどちらかの足が地面に着いている状態。"
+  },
+  {
+    "id": "class_word_0027_0129",
+    "word": "〜歩",
+    "reading": "〜ほ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "... steps (counter for paces/steps)",
+      "ja": "〜歩",
+      "zh_TW": "... steps (counter for paces/steps)",
+      "zh_CN": "... steps (counter for paces/steps)",
+      "ko": "... steps (counter for paces/steps)",
+      "zh_HK": "... steps (counter for paces/steps)",
+      "fr": "... steps (counter for paces/steps)"
+    },
+    "example": {
+      "ja": "今日はスマートフォンを見たら、１万<ruby>歩<rt>ぽ</rt></ruby>以上も歩いていた。",
+      "en": "Looking at my smartphone today, I had walked over 10,000 steps.",
+      "zh_TW": "Looking at my smartphone today, I had walked over 10,000 steps.",
+      "zh_CN": "Looking at my smartphone today, I had walked over 10,000 steps.",
+      "ko": "Looking at my smartphone today, I had walked over 10,000 steps.",
+      "zh_HK": "Looking at my smartphone today, I had walked over 10,000 steps.",
+      "fr": "Looking at my smartphone today, I had walked over 10,000 steps."
+    },
+    "related": "〜歩: 「いっぽ（1歩）」「にほ（2歩）」「さんぽ（3歩）」「よんほ（4歩）」と音変化する。"
+  },
+  {
+    "id": "class_word_0027_0130",
+    "word": "歩数",
+    "reading": "ほすう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "step count, number of steps",
+      "ja": "歩数",
+      "zh_TW": "step count, number of steps",
+      "zh_CN": "step count, number of steps",
+      "ko": "step count, number of steps",
+      "zh_HK": "step count, number of steps",
+      "fr": "step count, number of steps"
+    },
+    "example": {
+      "ja": "スマートウォッチで毎日の<ruby>歩数<rt>ほすう</rt></ruby>や消費カロリーを記録している。",
+      "en": "I record my daily step count and calorie burn on my smartwatch.",
+      "zh_TW": "I record my daily step count and calorie burn on my smartwatch.",
+      "zh_CN": "I record my daily step count and calorie burn on my smartwatch.",
+      "ko": "I record my daily step count and calorie burn on my smartwatch.",
+      "zh_HK": "I record my daily step count and calorie burn on my smartwatch.",
+      "fr": "I record my daily step count and calorie burn on my smartwatch."
+    },
+    "related": "歩数 vs 距離: 「歩数」は足を踏み出した回数、「距離」は進んだ実長（キロメートル等）。"
+  },
+  {
+    "id": "class_word_0027_0131",
+    "word": "召使い",
+    "reading": "めつかい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "servant, maid (historical/literary)",
+      "ja": "召使い",
+      "zh_TW": "servant, maid (historical/literary)",
+      "zh_CN": "servant, maid (historical/literary)",
+      "ko": "servant, maid (historical/literary)",
+      "zh_HK": "servant, maid (historical/literary)",
+      "fr": "servant, maid (historical/literary)"
+    },
+    "example": {
+      "ja": "その古いお城には、王族のために働く大勢の<ruby>召使<rt>めつか</rt></ruby>いがいた。",
+      "en": "In that old castle, there were many servants working for the royal family.",
+      "zh_TW": "In that old castle, there were many servants working for the royal family.",
+      "zh_CN": "In that old castle, there were many servants working for the royal family.",
+      "ko": "In that old castle, there were many servants working for the royal family.",
+      "zh_HK": "In that old castle, there were many servants working for the royal family.",
+      "fr": "In that old castle, there were many servants working for the royal family."
+    },
+    "related": "召使い: 歴史物やファンタジー童話で主君に仕える使用人を指す文学的語彙。現代では「お手伝いさん」等と言う。"
+  },
+  {
+    "id": "class_word_0027_0132",
+    "word": "命懸け",
+    "reading": "いのちがけ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "risking one's life, desperate, life-or-death",
+      "ja": "命懸け",
+      "zh_TW": "risking one's life, desperate, life-or-death",
+      "zh_CN": "risking one's life, desperate, life-or-death",
+      "ko": "risking one's life, desperate, life-or-death",
+      "zh_HK": "risking one's life, desperate, life-or-death",
+      "fr": "risking one's life, desperate, life-or-death"
+    },
+    "example": {
+      "ja": "山で遭難した登山者を助けるため、救助隊は<ruby>命懸<rt>いのちが</rt></ruby>けの救助活動を行った。",
+      "en": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations.",
+      "zh_TW": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations.",
+      "zh_CN": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations.",
+      "ko": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations.",
+      "zh_HK": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations.",
+      "fr": "To assist the hiker stranded in the mountain, the rescue team carried out life-or-death rescue operations."
+    },
+    "related": "命懸け: 命を落とす危険を覚悟の上で極めて懸命に取り組むさま。"
+  },
+  {
+    "id": "class_word_0027_0133",
+    "word": "気温",
+    "reading": "きおん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "air temperature, atmospheric temperature",
+      "ja": "気温",
+      "zh_TW": "air temperature, atmospheric temperature",
+      "zh_CN": "air temperature, atmospheric temperature",
+      "ko": "air temperature, atmospheric temperature",
+      "zh_HK": "air temperature, atmospheric temperature",
+      "fr": "air temperature, atmospheric temperature"
+    },
+    "example": {
+      "ja": "今朝は冷え込みが厳しく、最低<ruby>気温<rt>きおん</rt></ruby>が氷点下まで下がった。",
+      "en": "It was severely chilly this morning, and the minimum temperature dropped below freezing.",
+      "zh_TW": "It was severely chilly this morning, and the minimum temperature dropped below freezing.",
+      "zh_CN": "It was severely chilly this morning, and the minimum temperature dropped below freezing.",
+      "ko": "It was severely chilly this morning, and the minimum temperature dropped below freezing.",
+      "zh_HK": "It was severely chilly this morning, and the minimum temperature dropped below freezing.",
+      "fr": "It was severely chilly this morning, and the minimum temperature dropped below freezing."
+    },
+    "related": "気温 vs 温度: 「温度」は物質全般の温かさ・熱さ（湯の温度など）、「気温」は大気の温度に限定される。"
+  },
+  {
+    "id": "class_word_0027_0134",
+    "word": "湿度",
+    "reading": "しつど",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "humidity",
+      "ja": "湿度",
+      "zh_TW": "humidity",
+      "zh_CN": "humidity",
+      "ko": "humidity",
+      "zh_HK": "humidity",
+      "fr": "humidity"
+    },
+    "example": {
+      "ja": "日本の夏は<ruby>気温<rt>きおん</rt></ruby>だけでなく<ruby>湿度<rt>しつど</rt></ruby>も高いので、蒸し暑く感じられます。",
+      "en": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering.",
+      "zh_TW": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering.",
+      "zh_CN": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering.",
+      "ko": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering.",
+      "zh_HK": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering.",
+      "fr": "In Japanese summer, not only the temperature but also the humidity is high, so it feels sweltering."
+    },
+    "related": "湿度 vs 湿気: 「湿度」は空気中の水蒸気量を表す数値データ（%）、「湿気」は空気の湿った感覚・気配。"
+  },
+  {
+    "id": "class_word_0027_0135",
+    "word": "体重",
+    "reading": "たいじゅう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "body weight",
+      "ja": "体重",
+      "zh_TW": "body weight",
+      "zh_CN": "body weight",
+      "ko": "body weight",
+      "zh_HK": "body weight",
+      "fr": "body weight"
+    },
+    "example": {
+      "ja": "健康維持のために、毎朝お風呂上がりに<ruby>体重<rt>たいじゅう</rt></ruby>を測っています。",
+      "en": "To maintain my health, I measure my body weight every morning after bathing.",
+      "zh_TW": "To maintain my health, I measure my body weight every morning after bathing.",
+      "zh_CN": "To maintain my health, I measure my body weight every morning after bathing.",
+      "ko": "To maintain my health, I measure my body weight every morning after bathing.",
+      "zh_HK": "To maintain my health, I measure my body weight every morning after bathing.",
+      "fr": "To maintain my health, I measure my body weight every morning after bathing."
+    },
+    "related": "体重 vs 重量: 「重量」は荷物や物質の重さ、「体重」は人間の体の重さ。"
+  },
+  {
+    "id": "class_word_0027_0136",
+    "word": "あざ",
+    "reading": "あざ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "bruise, birthmark",
+      "ja": "あざ",
+      "zh_TW": "bruise, birthmark",
+      "zh_CN": "bruise, birthmark",
+      "ko": "bruise, birthmark",
+      "zh_HK": "bruise, birthmark",
+      "fr": "bruise, birthmark"
+    },
+    "example": {
+      "ja": "机の角に膝を強くぶつけてしまって、青い<ruby>あざ<rt>あざ</rt></ruby>ができた。",
+      "en": "I strongly bumped my knee against the desk corner and got a blue bruise.",
+      "zh_TW": "I strongly bumped my knee against the desk corner and got a blue bruise.",
+      "zh_CN": "I strongly bumped my knee against the desk corner and got a blue bruise.",
+      "ko": "I strongly bumped my knee against the desk corner and got a blue bruise.",
+      "zh_HK": "I strongly bumped my knee against the desk corner and got a blue bruise.",
+      "fr": "I strongly bumped my knee against the desk corner and got a blue bruise."
+    },
+    "related": "あざ: 打撲による内出血の「青あざ」や、生まれつき肌にある「母斑（ほくろ・あざ）」。"
+  },
+  {
+    "id": "class_word_0027_0137",
+    "word": "満身創痍",
+    "reading": "まんしんそうい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "covered with wounds, battered all over, completely exhausted",
+      "ja": "満身創痍",
+      "zh_TW": "covered with wounds, battered all over, completely exhausted",
+      "zh_CN": "covered with wounds, battered all over, completely exhausted",
+      "ko": "covered with wounds, battered all over, completely exhausted",
+      "zh_HK": "covered with wounds, battered all over, completely exhausted",
+      "fr": "covered with wounds, battered all over, completely exhausted"
+    },
+    "example": {
+      "ja": "激しい試合を最後まで戦い抜いた選手たちは、まさに<ruby>満身創痍<rt>まんしんそうい</rt></ruby>だった。",
+      "en": "The players who fought through the fierce game until the very end were truly covered with wounds all over.",
+      "zh_TW": "The players who fought through the fierce game until the very end were truly covered with wounds all over.",
+      "zh_CN": "The players who fought through the fierce game until the very end were truly covered with wounds all over.",
+      "ko": "The players who fought through the fierce game until the very end were truly covered with wounds all over.",
+      "zh_HK": "The players who fought through the fierce game until the very end were truly covered with wounds all over.",
+      "fr": "The players who fought through the fierce game until the very end were truly covered with wounds all over."
+    },
+    "related": "満身創痍: 全身が傷だらけであること、または激しい非難や疲労でボロボロな状態を表す四字熟語。"
+  },
+  {
+    "id": "class_word_0027_0138",
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "rice paddy, rice field",
+      "ja": "田んぼ",
+      "zh_TW": "rice paddy, rice field",
+      "zh_CN": "rice paddy, rice field",
+      "ko": "rice paddy, rice field",
+      "zh_HK": "rice paddy, rice field",
+      "fr": "rice paddy, rice field"
+    },
+    "example": {
+      "ja": "秋になると、黄金色に実った稲が<ruby>田<rt>た</rt></ruby>んぼ一面に広がる。",
+      "en": "When autumn comes, golden-ripened rice spreads all across the rice paddies.",
+      "zh_TW": "When autumn comes, golden-ripened rice spreads all across the rice paddies.",
+      "zh_CN": "When autumn comes, golden-ripened rice spreads all across the rice paddies.",
+      "ko": "When autumn comes, golden-ripened rice spreads all across the rice paddies.",
+      "zh_HK": "When autumn comes, golden-ripened rice spreads all across the rice paddies.",
+      "fr": "When autumn comes, golden-ripened rice spreads all across the rice paddies."
+    },
+    "related": "田んぼ vs 畑: 「田んぼ（水田）」は水を張って米を作る場所、「畑」は野菜や果物・小麦などを育てる乾いた農地。"
+  },
+  {
+    "id": "class_word_0027_0139",
+    "word": "景色",
+    "reading": "けしき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "scenery, landscape, view",
+      "ja": "景色",
+      "zh_TW": "scenery, landscape, view",
+      "zh_CN": "scenery, landscape, view",
+      "ko": "scenery, landscape, view",
+      "zh_HK": "scenery, landscape, view",
+      "fr": "scenery, landscape, view"
+    },
+    "example": {
+      "ja": "ホテルの部屋のバルコニーから、息をのむほど美しい海の<ruby>景色<rt>けしき</rt></ruby>が見えた。",
+      "en": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen.",
+      "zh_TW": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen.",
+      "zh_CN": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen.",
+      "ko": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen.",
+      "zh_HK": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen.",
+      "fr": "From the balcony of the hotel room, a breathtakingly beautiful ocean view could be seen."
+    },
+    "related": "景色 vs 風景: 「景色」は自然美や観光地としての視覚的眺め、「風景」は人間の生活情景や広がりを含む情景。"
+  },
+  {
+    "id": "class_word_0027_0140",
+    "word": "腫れている",
+    "reading": "はれている",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to be swollen",
+      "ja": "腫れている",
+      "zh_TW": "to be swollen",
+      "zh_CN": "to be swollen",
+      "ko": "to be swollen",
+      "zh_HK": "to be swollen",
+      "fr": "to be swollen"
+    },
+    "example": {
+      "ja": "虫に刺されたところが赤く<ruby>腫<rt>は</rt></ruby>れていて、とても痒いです。",
+      "en": "The spot where an insect stung me is swollen red and very itchy.",
+      "zh_TW": "The spot where an insect stung me is swollen red and very itchy.",
+      "zh_CN": "The spot where an insect stung me is swollen red and very itchy.",
+      "ko": "The spot where an insect stung me is swollen red and very itchy.",
+      "zh_HK": "The spot where an insect stung me is swollen red and very itchy.",
+      "fr": "The spot where an insect stung me is swollen red and very itchy."
+    },
+    "related": "腫れている vs むくんでいる: 「むくむ」は余分な水分が滞留した状態、「腫れる」は炎症や怪我で患部が異常に膨らむこと。"
+  },
+  {
+    "id": "class_word_0027_0141",
+    "word": "腫れる",
+    "reading": "はれる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to swell, to become swollen",
+      "ja": "腫れる",
+      "zh_TW": "to swell, to become swollen",
+      "zh_CN": "to swell, to become swollen",
+      "ko": "to swell, to become swollen",
+      "zh_HK": "to swell, to become swollen",
+      "fr": "to swell, to become swollen"
+    },
+    "example": {
+      "ja": "足首を強く捻挫して、大きく<ruby>腫<rt>は</rt></ruby>れ上がってしまった。",
+      "en": "I severely sprained my ankle, and it swelled up tremendously.",
+      "zh_TW": "I severely sprained my ankle, and it swelled up tremendously.",
+      "zh_CN": "I severely sprained my ankle, and it swelled up tremendously.",
+      "ko": "I severely sprained my ankle, and it swelled up tremendously.",
+      "zh_HK": "I severely sprained my ankle, and it swelled up tremendously.",
+      "fr": "I severely sprained my ankle, and it swelled up tremendously."
+    },
+    "related": "腫れる vs 晴れる: 同音異義語。「晴れる」は空が晴天になること、「腫れる」は皮膚が膨らむこと。"
+  },
+  {
+    "id": "class_word_0027_0142",
+    "word": "保険適用",
+    "reading": "ほけんてきよう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "covered by health insurance",
+      "ja": "保険適用",
+      "zh_TW": "covered by health insurance",
+      "zh_CN": "covered by health insurance",
+      "ko": "covered by health insurance",
+      "zh_HK": "covered by health insurance",
+      "fr": "covered by health insurance"
+    },
+    "example": {
+      "ja": "この虫歯の治療法は<ruby>保険適用<rt>ほけんてきよう</rt></ruby>なので、自己負担は３割で済みます。",
+      "en": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%.",
+      "zh_TW": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%.",
+      "zh_CN": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%.",
+      "ko": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%.",
+      "zh_HK": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%.",
+      "fr": "Because this cavity treatment is covered by insurance, the out-of-pocket cost is only 30%."
+    },
+    "related": "保険適用 vs 適用外: 日本の国民健康保険等の対象となって安く受診できる状態。"
+  },
+  {
+    "id": "class_word_0027_0143",
+    "word": "適用外",
+    "reading": "てきようがい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "not covered by insurance, exempt, outside the scope",
+      "ja": "適用外",
+      "zh_TW": "not covered by insurance, exempt, outside the scope",
+      "zh_CN": "not covered by insurance, exempt, outside the scope",
+      "ko": "not covered by insurance, exempt, outside the scope",
+      "zh_HK": "not covered by insurance, exempt, outside the scope",
+      "fr": "not covered by insurance, exempt, outside the scope"
+    },
+    "example": {
+      "ja": "最新の審美歯科治療は保険の<ruby>適用外<rt>てきようがい</rt></ruby>となるため、全額自己負担です。",
+      "en": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid.",
+      "zh_TW": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid.",
+      "zh_CN": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid.",
+      "ko": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid.",
+      "zh_HK": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid.",
+      "fr": "Since cutting-edge aesthetic dental treatments are not covered by insurance, they are fully self-paid."
+    },
+    "related": "適用外: 保険や制度・規約の対象外であること。"
+  },
+  {
+    "id": "class_word_0027_0144",
+    "word": "大雑把",
+    "reading": "おおざっぱ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "rough, loose, careless, broad",
+      "ja": "大雑把",
+      "zh_TW": "rough, loose, careless, broad",
+      "zh_CN": "rough, loose, careless, broad",
+      "ko": "rough, loose, careless, broad",
+      "zh_HK": "rough, loose, careless, broad",
+      "fr": "rough, loose, careless, broad"
+    },
+    "example": {
+      "ja": "彼は細かい計算は苦手だが、<ruby>大雑把<rt>おおざっぱ</rt></ruby>に全体をまとめるのが得意だ。",
+      "en": "He is not good at detailed calculations, but is good at roughly summarizing the whole.",
+      "zh_TW": "He is not good at detailed calculations, but is good at roughly summarizing the whole.",
+      "zh_CN": "He is not good at detailed calculations, but is good at roughly summarizing the whole.",
+      "ko": "He is not good at detailed calculations, but is good at roughly summarizing the whole.",
+      "zh_HK": "He is not good at detailed calculations, but is good at roughly summarizing the whole.",
+      "fr": "He is not good at detailed calculations, but is good at roughly summarizing the whole."
+    },
+    "related": "大雑把 vs 几帳面: 「大雑把」は細かいことにこだわらない大まかな性格、「几帳面」は隅々まで正確で丁寧な性格。"
+  },
+  {
+    "id": "class_word_0027_0145",
+    "word": "几帳面",
+    "reading": "きちょうめん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "methodical, meticulous, scrupulous",
+      "ja": "几帳面",
+      "zh_TW": "methodical, meticulous, scrupulous",
+      "zh_CN": "methodical, meticulous, scrupulous",
+      "ko": "methodical, meticulous, scrupulous",
+      "zh_HK": "methodical, meticulous, scrupulous",
+      "fr": "methodical, meticulous, scrupulous"
+    },
+    "example": {
+      "ja": "彼女はとても<ruby>几帳面<rt>きちょうめん</rt></ruby>な性格で、机の上がいつも整理整頓されている。",
+      "en": "She has a very methodical personality, and her desk is always neatly organized.",
+      "zh_TW": "She has a very methodical personality, and her desk is always neatly organized.",
+      "zh_CN": "She has a very methodical personality, and her desk is always neatly organized.",
+      "ko": "She has a very methodical personality, and her desk is always neatly organized.",
+      "zh_HK": "She has a very methodical personality, and her desk is always neatly organized.",
+      "fr": "She has a very methodical personality, and her desk is always neatly organized."
+    },
+    "related": "几帳面: 物事を規律正しく几帳面にきっちりこなす美徳。"
+  },
+  {
+    "id": "class_word_0027_0146",
+    "word": "せっかち",
+    "reading": "せっかち",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "impatient, hasty, rash",
+      "ja": "せっかち",
+      "zh_TW": "impatient, hasty, rash",
+      "zh_CN": "impatient, hasty, rash",
+      "ko": "impatient, hasty, rash",
+      "zh_HK": "impatient, hasty, rash",
+      "fr": "impatient, hasty, rash"
+    },
+    "example": {
+      "ja": "父はとても<ruby>せっかち<rt>せっかち</rt></ruby>で、電車が来る１５分前にはもうホームに立っている。",
+      "en": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives.",
+      "zh_TW": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives.",
+      "zh_CN": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives.",
+      "ko": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives.",
+      "zh_HK": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives.",
+      "fr": "My father is very impatient, and is already standing on the platform 15 minutes before the train arrives."
+    },
+    "related": "せっかち vs のんびり: 「せっかち」は先を急ぎ落ち着きがない人、「のんびり」は焦らずマイペースな人。"
+  },
+  {
+    "id": "class_word_0027_0147",
+    "word": "変わり者",
+    "reading": "かわりもの",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "eccentric person, oddball, queer fish",
+      "ja": "変わり者",
+      "zh_TW": "eccentric person, oddball, queer fish",
+      "zh_CN": "eccentric person, oddball, queer fish",
+      "ko": "eccentric person, oddball, queer fish",
+      "zh_HK": "eccentric person, oddball, queer fish",
+      "fr": "eccentric person, oddball, queer fish"
+    },
+    "example": {
+      "ja": "彼は周囲から<ruby>変<rt>か</rt></ruby>わり<ruby>者<rt>もの</rt></ruby>と言われているが、実は天才的なプログラマーだ。",
+      "en": "He is called an eccentric person by those around him, but he is actually a genius programmer.",
+      "zh_TW": "He is called an eccentric person by those around him, but he is actually a genius programmer.",
+      "zh_CN": "He is called an eccentric person by those around him, but he is actually a genius programmer.",
+      "ko": "He is called an eccentric person by those around him, but he is actually a genius programmer.",
+      "zh_HK": "He is called an eccentric person by those around him, but he is actually a genius programmer.",
+      "fr": "He is called an eccentric person by those around him, but he is actually a genius programmer."
+    },
+    "related": "変わり者 vs 変人: 「変わり者」は個性的でユニークな人に対するやや愛嬌を含んだ言い方。"
+  },
+  {
+    "id": "class_word_0027_0148",
+    "word": "変人",
+    "reading": "へんじん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "eccentric, weirdo, oddball",
+      "ja": "変人",
+      "zh_TW": "eccentric, weirdo, oddball",
+      "zh_CN": "eccentric, weirdo, oddball",
+      "ko": "eccentric, weirdo, oddball",
+      "zh_HK": "eccentric, weirdo, oddball",
+      "fr": "eccentric, weirdo, oddball"
+    },
+    "example": {
+      "ja": "奇妙な行動ばかり繰り返すので、みんなから<ruby>変人<rt>へんじん</rt></ruby>扱いされている。",
+      "en": "Because he only repeats strange actions, he is treated as an oddball by everyone.",
+      "zh_TW": "Because he only repeats strange actions, he is treated as an oddball by everyone.",
+      "zh_CN": "Because he only repeats strange actions, he is treated as an oddball by everyone.",
+      "ko": "Because he only repeats strange actions, he is treated as an oddball by everyone.",
+      "zh_HK": "Because he only repeats strange actions, he is treated as an oddball by everyone.",
+      "fr": "Because he only repeats strange actions, he is treated as an oddball by everyone."
+    },
+    "related": "変人: 常識からかけ離れて奇異な人に対する客観的あるいは批判的な表現。"
+  },
+  {
+    "id": "class_word_0027_0149",
+    "word": "広告",
+    "reading": "こうこく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "advertisement, ad",
+      "ja": "広告",
+      "zh_TW": "advertisement, ad",
+      "zh_CN": "advertisement, ad",
+      "ko": "advertisement, ad",
+      "zh_HK": "advertisement, ad",
+      "fr": "advertisement, ad"
+    },
+    "example": {
+      "ja": "インターネットを見ていると、たくさんの興味深い<ruby>広告<rt>こうこく</rt></ruby>が表示される。",
+      "en": "While browsing the internet, many interesting advertisements are displayed.",
+      "zh_TW": "While browsing the internet, many interesting advertisements are displayed.",
+      "zh_CN": "While browsing the internet, many interesting advertisements are displayed.",
+      "ko": "While browsing the internet, many interesting advertisements are displayed.",
+      "zh_HK": "While browsing the internet, many interesting advertisements are displayed.",
+      "fr": "While browsing the internet, many interesting advertisements are displayed."
+    },
+    "related": "広告 vs 宣伝: 「広告」はメディアの広告枠に掲載する広告物、「宣伝」は広く世間にアピールするプロモーション行為。"
+  },
+  {
+    "id": "class_word_0027_0150",
+    "word": "逃げる",
+    "reading": "にげる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to run away, to escape, to flee",
+      "ja": "逃げる",
+      "zh_TW": "to run away, to escape, to flee",
+      "zh_CN": "to run away, to escape, to flee",
+      "ko": "to run away, to escape, to flee",
+      "zh_HK": "to run away, to escape, to flee",
+      "fr": "to run away, to escape, to flee"
+    },
+    "example": {
+      "ja": "猫がドアの隙間からすばやく外へ<ruby>逃<rt>に</rt></ruby>げてしまった。",
+      "en": "The cat quickly escaped outside through the gap in the door.",
+      "zh_TW": "The cat quickly escaped outside through the gap in the door.",
+      "zh_CN": "The cat quickly escaped outside through the gap in the door.",
+      "ko": "The cat quickly escaped outside through the gap in the door.",
+      "zh_HK": "The cat quickly escaped outside through the gap in the door.",
+      "fr": "The cat quickly escaped outside through the gap in the door."
+    },
+    "related": "逃げる vs 逃がす: 「逃げる」は自動詞（主体が脱出する）、「逃がす」は他動詞（捕まえたものを放免する）。"
+  },
+  {
+    "id": "class_word_0027_0151",
+    "word": "要人",
+    "reading": "ようじん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "important person, dignitary, VIP",
+      "ja": "要人",
+      "zh_TW": "important person, dignitary, VIP",
+      "zh_CN": "important person, dignitary, VIP",
+      "ko": "important person, dignitary, VIP",
+      "zh_HK": "important person, dignitary, VIP",
+      "fr": "important person, dignitary, VIP"
+    },
+    "example": {
+      "ja": "各国の<ruby>要人<rt>ようじん</rt></ruby>が集まる国際サミットのために、厳しい警備体制が敷かれた。",
+      "en": "For the international summit where dignitaries from various countries gather, strict security was established.",
+      "zh_TW": "For the international summit where dignitaries from various countries gather, strict security was established.",
+      "zh_CN": "For the international summit where dignitaries from various countries gather, strict security was established.",
+      "ko": "For the international summit where dignitaries from various countries gather, strict security was established.",
+      "zh_HK": "For the international summit where dignitaries from various countries gather, strict security was established.",
+      "fr": "For the international summit where dignitaries from various countries gather, strict security was established."
+    },
+    "related": "要人 vs 著名人: 「要人」は社会・政府などで重要ポストにある重鎮、「著名人」は世間に広く名が知られた有名人。"
+  },
+  {
+    "id": "class_word_0027_0152",
+    "word": "離島",
+    "reading": "りとう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "isolated island, remote island",
+      "ja": "離島",
+      "zh_TW": "isolated island, remote island",
+      "zh_CN": "isolated island, remote island",
+      "ko": "isolated island, remote island",
+      "zh_HK": "isolated island, remote island",
+      "fr": "isolated island, remote island"
+    },
+    "example": {
+      "ja": "飛行機やフェリーでしか行けない<ruby>離島<rt>りとう</rt></ruby>には、手つかずの自然が残っている。",
+      "en": "On isolated islands accessible only by airplane or ferry, untouched nature remains.",
+      "zh_TW": "On isolated islands accessible only by airplane or ferry, untouched nature remains.",
+      "zh_CN": "On isolated islands accessible only by airplane or ferry, untouched nature remains.",
+      "ko": "On isolated islands accessible only by airplane or ferry, untouched nature remains.",
+      "zh_HK": "On isolated islands accessible only by airplane or ferry, untouched nature remains.",
+      "fr": "On isolated islands accessible only by airplane or ferry, untouched nature remains."
+    },
+    "related": "離島 vs 半島: 「離島」は本土から遠く離れた孤立した島、「半島」は三方を海に囲まれた陸地。"
+  },
+  {
+    "id": "class_word_0027_0153",
+    "word": "離れ島",
+    "reading": "はなれじま",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "remote island, detached island",
+      "ja": "離れ島",
+      "zh_TW": "remote island, detached island",
+      "zh_CN": "remote island, detached island",
+      "ko": "remote island, detached island",
+      "zh_HK": "remote island, detached island",
+      "fr": "remote island, detached island"
+    },
+    "example": {
+      "ja": "その小さな<ruby>離<rt>はな</rt></ruby>れ<ruby>島<rt>じま</rt></ruby>には、昔からの伝統的な漁業を守る人々が暮らしている。",
+      "en": "On that small remote island, people preserving traditional fishing from old times live.",
+      "zh_TW": "On that small remote island, people preserving traditional fishing from old times live.",
+      "zh_CN": "On that small remote island, people preserving traditional fishing from old times live.",
+      "ko": "On that small remote island, people preserving traditional fishing from old times live.",
+      "zh_HK": "On that small remote island, people preserving traditional fishing from old times live.",
+      "fr": "On that small remote island, people preserving traditional fishing from old times live."
+    },
+    "related": "離れ島: 「離島」の和語的で情緒のある表現。"
+  },
+  {
+    "id": "class_word_0027_0154",
+    "word": "持っていく",
+    "reading": "もっていく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to take (things), to bring along",
+      "ja": "持っていく",
+      "zh_TW": "to take (things), to bring along",
+      "zh_CN": "to take (things), to bring along",
+      "ko": "to take (things), to bring along",
+      "zh_HK": "to take (things), to bring along",
+      "fr": "to take (things), to bring along"
+    },
+    "example": {
+      "ja": "明日は雨が降りそうなので、傘を<ruby>持<rt>も</rt></ruby>っていったほうがいいですよ。",
+      "en": "It looks like rain tomorrow, so you had better take an umbrella.",
+      "zh_TW": "It looks like rain tomorrow, so you had better take an umbrella.",
+      "zh_CN": "It looks like rain tomorrow, so you had better take an umbrella.",
+      "ko": "It looks like rain tomorrow, so you had better take an umbrella.",
+      "zh_HK": "It looks like rain tomorrow, so you had better take an umbrella.",
+      "fr": "It looks like rain tomorrow, so you had better take an umbrella."
+    },
+    "related": "持っていく vs 連れていく: 「持っていく」は無生物の荷物・品物、「連れていく」は人間やペットなどの有生物。"
+  },
+  {
+    "id": "class_word_0027_0155",
+    "word": "連れていく",
+    "reading": "つれていく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to take (someone along), to lead (living thing)",
+      "ja": "連れていく",
+      "zh_TW": "to take (someone along), to lead (living thing)",
+      "zh_CN": "to take (someone along), to lead (living thing)",
+      "ko": "to take (someone along), to lead (living thing)",
+      "zh_HK": "to take (someone along), to lead (living thing)",
+      "fr": "to take (someone along), to lead (living thing)"
+    },
+    "example": {
+      "ja": "今度の日曜日に、子どもを動物園へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>く約束をした。",
+      "en": "I promised to take my child to the zoo this coming Sunday.",
+      "zh_TW": "I promised to take my child to the zoo this coming Sunday.",
+      "zh_CN": "I promised to take my child to the zoo this coming Sunday.",
+      "ko": "I promised to take my child to the zoo this coming Sunday.",
+      "zh_HK": "I promised to take my child to the zoo this coming Sunday.",
+      "fr": "I promised to take my child to the zoo this coming Sunday."
+    },
+    "related": "連れていく: 一緒に行動を共にして同伴すること。"
+  },
+  {
+    "id": "class_word_0027_0156",
+    "word": "実家",
+    "reading": "じっか",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "one's parents' home, family home",
+      "ja": "実家",
+      "zh_TW": "one's parents' home, family home",
+      "zh_CN": "one's parents' home, family home",
+      "ko": "one's parents' home, family home",
+      "zh_HK": "one's parents' home, family home",
+      "fr": "one's parents' home, family home"
+    },
+    "example": {
+      "ja": "年末年始は、久しぶりに地方の<ruby>実家<rt>じっか</rt></ruby>に帰省してのんびり過ごします。",
+      "en": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax.",
+      "zh_TW": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax.",
+      "zh_CN": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax.",
+      "ko": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax.",
+      "zh_HK": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax.",
+      "fr": "During the New Year holidays, I will return to my parents' home in the countryside after a long time and relax."
+    },
+    "related": "実家 vs 自宅: 「自宅」は自分が今生活している住居、「実家」は生まれ育った親の家。"
+  },
+  {
+    "id": "class_word_0027_0157",
+    "word": "息抜き",
+    "reading": "いきぬき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "relaxation, breathing space, taking a breather",
+      "ja": "息抜き",
+      "zh_TW": "relaxation, breathing space, taking a breather",
+      "zh_CN": "relaxation, breathing space, taking a breather",
+      "ko": "relaxation, breathing space, taking a breather",
+      "zh_HK": "relaxation, breathing space, taking a breather",
+      "fr": "relaxation, breathing space, taking a breather"
+    },
+    "example": {
+      "ja": "ずっとパソコンに向かっていたので、コーヒーを飲んで少し<ruby>息抜<rt>いきぬ</rt></ruby>きをした。",
+      "en": "Because I had been facing my computer all along, I drank coffee and took a little breather.",
+      "zh_TW": "Because I had been facing my computer all along, I drank coffee and took a little breather.",
+      "zh_CN": "Because I had been facing my computer all along, I drank coffee and took a little breather.",
+      "ko": "Because I had been facing my computer all along, I drank coffee and took a little breather.",
+      "zh_HK": "Because I had been facing my computer all along, I drank coffee and took a little breather.",
+      "fr": "Because I had been facing my computer all along, I drank coffee and took a little breather."
+    },
+    "related": "息抜き vs 休憩: 「休憩」は労働や授業の合間に作業を止めること、「息抜き」は精神的な緊張を緩めてリラックスすること。"
+  },
+  {
+    "id": "class_word_0027_0158",
+    "word": "字幕",
+    "reading": "じまく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "subtitles, captions",
+      "ja": "字幕",
+      "zh_TW": "subtitles, captions",
+      "zh_CN": "subtitles, captions",
+      "ko": "subtitles, captions",
+      "zh_HK": "subtitles, captions",
+      "fr": "subtitles, captions"
+    },
+    "example": {
+      "ja": "英語のリスニング練習のために、映画を英語<ruby>字幕<rt>じまく</rt></ruby>付きで観ています。",
+      "en": "To practice English listening, I watch movies with English subtitles.",
+      "zh_TW": "To practice English listening, I watch movies with English subtitles.",
+      "zh_CN": "To practice English listening, I watch movies with English subtitles.",
+      "ko": "To practice English listening, I watch movies with English subtitles.",
+      "zh_HK": "To practice English listening, I watch movies with English subtitles.",
+      "fr": "To practice English listening, I watch movies with English subtitles."
+    },
+    "related": "字幕 vs 吹き替え: 「字幕」は原語音声に文字翻訳を表示するもの、「吹き替え」は音声を日本語声優で差し替えるもの。"
+  },
+  {
+    "id": "class_word_0027_0159",
+    "word": "ヤンキー",
+    "reading": "やんきー",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "delinquent youth, young rebel (Japanese subculture)",
+      "ja": "ヤンキー",
+      "zh_TW": "delinquent youth, young rebel (Japanese subculture)",
+      "zh_CN": "delinquent youth, young rebel (Japanese subculture)",
+      "ko": "delinquent youth, young rebel (Japanese subculture)",
+      "zh_HK": "delinquent youth, young rebel (Japanese subculture)",
+      "fr": "delinquent youth, young rebel (Japanese subculture)"
+    },
+    "example": {
+      "ja": "昔の日本のドラマには、独特な髪型をした<ruby>ヤンキー<rt>やんきー</rt></ruby>がたくさん登場する。",
+      "en": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear.",
+      "zh_TW": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear.",
+      "zh_CN": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear.",
+      "ko": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear.",
+      "zh_HK": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear.",
+      "fr": "In old Japanese TV dramas, many delinquent youths with unique hairstyles appear."
+    },
+    "related": "ヤンキー: 1980〜90年代に流行した日本の不良少年・少女のカルチャー。"
+  },
+  {
+    "id": "class_word_0027_0160",
+    "word": "不良",
+    "reading": "ふりょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. delinquent, juvenile delinquent 2. defective, bad (condition)",
+      "ja": "不良",
+      "zh_TW": "1. delinquent, juvenile delinquent 2. defective, bad (condition)",
+      "zh_CN": "1. delinquent, juvenile delinquent 2. defective, bad (condition)",
+      "ko": "1. delinquent, juvenile delinquent 2. defective, bad (condition)",
+      "zh_HK": "1. delinquent, juvenile delinquent 2. defective, bad (condition)",
+      "fr": "1. delinquent, juvenile delinquent 2. defective, bad (condition)"
+    },
+    "example": {
+      "ja": "1. <ruby>学生<rt>がくせい</rt></ruby>時代は少し<ruby>不良<rt>ふりょう</rt></ruby>だった彼も、今では立派な父親だ。<br>2. 部品の<ruby>不良<rt>ふりょう</rt></ruby>が見つかったため、工場を一時停止した。",
+      "en": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory.",
+      "zh_TW": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory.",
+      "zh_CN": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory.",
+      "ko": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory.",
+      "zh_HK": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory.",
+      "fr": "1. Even though he was a bit of a delinquent in his student days, he is now a respectable father. 2. Because a defective part was found, we temporarily stopped the factory."
+    },
+    "related": "不良 vs 善良: 行行や品質が良くないこと。"
+  },
+  {
+    "id": "class_word_0027_0161",
+    "word": "気が重い",
+    "reading": "きがおもい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "heavy-hearted, depressed, reluctant",
+      "ja": "気が重い",
+      "zh_TW": "heavy-hearted, depressed, reluctant",
+      "zh_CN": "heavy-hearted, depressed, reluctant",
+      "ko": "heavy-hearted, depressed, reluctant",
+      "zh_HK": "heavy-hearted, depressed, reluctant",
+      "fr": "heavy-hearted, depressed, reluctant"
+    },
+    "example": {
+      "ja": "明日は苦手な上司との面談があるので、今からとても<ruby>気<rt>き</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いです。",
+      "en": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now.",
+      "zh_TW": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now.",
+      "zh_CN": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now.",
+      "ko": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now.",
+      "zh_HK": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now.",
+      "fr": "Since I have an interview with my difficult boss tomorrow, I feel very heavy-hearted from now."
+    },
+    "related": "気が重い vs 気が進まない: 「気が進まない」は意欲が湧かないこと、「気が重い」はプレッシャーで憂鬱な気持ちになること。"
+  },
+  {
+    "id": "class_word_0027_0162",
+    "word": "気分が沈む",
+    "reading": "きぶんがしずむ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to feel down, to be in low spirits",
+      "ja": "気分が沈む",
+      "zh_TW": "to feel down, to be in low spirits",
+      "zh_CN": "to feel down, to be in low spirits",
+      "ko": "to feel down, to be in low spirits",
+      "zh_HK": "to feel down, to be in low spirits",
+      "fr": "to feel down, to be in low spirits"
+    },
+    "example": {
+      "ja": "雨が何日も降り続くと、なんとなく<ruby>気分<rt>きぶん</rt></ruby>が<ruby>沈<rt>しず</rt></ruby>んで元気がなくなってしまう。",
+      "en": "When rain continues for days, my mood somehow sinks and I lose energy.",
+      "zh_TW": "When rain continues for days, my mood somehow sinks and I lose energy.",
+      "zh_CN": "When rain continues for days, my mood somehow sinks and I lose energy.",
+      "ko": "When rain continues for days, my mood somehow sinks and I lose energy.",
+      "zh_HK": "When rain continues for days, my mood somehow sinks and I lose energy.",
+      "fr": "When rain continues for days, my mood somehow sinks and I lose energy."
+    },
+    "related": "気分が沈む vs 落ち込む: 「落ち込む」は失敗等でショックを受けへこむこと、「気分が沈む」は鬱々とした暗い精神状態。"
+  },
+  {
+    "id": "class_word_0027_0163",
+    "word": "故郷",
+    "reading": "こきょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "hometown, birthplace, native place",
+      "ja": "故郷",
+      "zh_TW": "hometown, birthplace, native place",
+      "zh_CN": "hometown, birthplace, native place",
+      "ko": "hometown, birthplace, native place",
+      "zh_HK": "hometown, birthplace, native place",
+      "fr": "hometown, birthplace, native place"
+    },
+    "example": {
+      "ja": "遠く離れた都会で暮らしていると、時々懐かしい<ruby>故郷<rt>こきょう</rt></ruby>を思い出す。",
+      "en": "Living in a distant big city, I sometimes remember my nostalgic hometown.",
+      "zh_TW": "Living in a distant big city, I sometimes remember my nostalgic hometown.",
+      "zh_CN": "Living in a distant big city, I sometimes remember my nostalgic hometown.",
+      "ko": "Living in a distant big city, I sometimes remember my nostalgic hometown.",
+      "zh_HK": "Living in a distant big city, I sometimes remember my nostalgic hometown.",
+      "fr": "Living in a distant big city, I sometimes remember my nostalgic hometown."
+    },
+    "related": "故郷: 「ふるさと」とも訓読する。自分が生まれ育った愛着ある土地。"
+  },
+  {
+    "id": "class_word_0027_0164",
+    "word": "ルールを破る",
+    "reading": "るーるをやぶる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to break a rule, to violate the rules",
+      "ja": "ルールを破る",
+      "zh_TW": "to break a rule, to violate the rules",
+      "zh_CN": "to break a rule, to violate the rules",
+      "ko": "to break a rule, to violate the rules",
+      "zh_HK": "to break a rule, to violate the rules",
+      "fr": "to break a rule, to violate the rules"
+    },
+    "example": {
+      "ja": "集団生活において、勝手にルールを<ruby>破<rt>やぶ</rt></ruby>るような行動をしてはいけません。",
+      "en": "In communal life, you must not take actions that selfishly break the rules.",
+      "zh_TW": "In communal life, you must not take actions that selfishly break the rules.",
+      "zh_CN": "In communal life, you must not take actions that selfishly break the rules.",
+      "ko": "In communal life, you must not take actions that selfishly break the rules.",
+      "zh_HK": "In communal life, you must not take actions that selfishly break the rules.",
+      "fr": "In communal life, you must not take actions that selfishly break the rules."
+    },
+    "related": "ルールを破る vs ルールを守る: 「守る」が遵守すること、「破る」は意図的または不注意に違反すること。"
+  },
+  {
+    "id": "class_word_0027_0165",
+    "word": "困難に直面する",
+    "reading": "こんなんにちょくめんする",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to face difficulties, to encounter hardship",
+      "ja": "困難に直面する",
+      "zh_TW": "to face difficulties, to encounter hardship",
+      "zh_CN": "to face difficulties, to encounter hardship",
+      "ko": "to face difficulties, to encounter hardship",
+      "zh_HK": "to face difficulties, to encounter hardship",
+      "fr": "to face difficulties, to encounter hardship"
+    },
+    "example": {
+      "ja": "人生の中で大きな<ruby>困難<rt>こんなん</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>したときこそ、周りの助けが大切だ。",
+      "en": "It is precisely when facing great difficulties in life that the help of those around you is important.",
+      "zh_TW": "It is precisely when facing great difficulties in life that the help of those around you is important.",
+      "zh_CN": "It is precisely when facing great difficulties in life that the help of those around you is important.",
+      "ko": "It is precisely when facing great difficulties in life that the help of those around you is important.",
+      "zh_HK": "It is precisely when facing great difficulties in life that the help of those around you is important.",
+      "fr": "It is precisely when facing great difficulties in life that the help of those around you is important."
+    },
+    "related": "直面する: 困難・危機・課題などが目の前に差し迫って対峙すること。"
+  },
+  {
+    "id": "class_word_0027_0166",
+    "word": "食べ放題",
+    "reading": "たべほうだい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "all-you-can-eat, buffet",
+      "ja": "食べ放題",
+      "zh_TW": "all-you-can-eat, buffet",
+      "zh_CN": "all-you-can-eat, buffet",
+      "ko": "all-you-can-eat, buffet",
+      "zh_HK": "all-you-can-eat, buffet",
+      "fr": "all-you-can-eat, buffet"
+    },
+    "example": {
+      "ja": "友人と一緒に、焼肉の<ruby>食<rt>た</rt></ruby>べ<ruby>放題<rt>ほうだい</rt></ruby>コースでお腹いっぱいお肉を食べた。",
+      "en": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course.",
+      "zh_TW": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course.",
+      "zh_CN": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course.",
+      "ko": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course.",
+      "zh_HK": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course.",
+      "fr": "Together with my friend, I ate my fill of meat on an all-you-can-eat grilled meat course."
+    },
+    "related": "食べ放題 vs 飲み放題: 「食べ放題」は料理が定額無制限、「飲み放題」はお酒やソフトドリンクが定額無制限。"
+  },
+  {
+    "id": "class_word_0027_0167",
+    "word": "日常",
+    "reading": "にちじょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "everyday life, daily routine",
+      "ja": "日常",
+      "zh_TW": "everyday life, daily routine",
+      "zh_CN": "everyday life, daily routine",
+      "ko": "everyday life, daily routine",
+      "zh_HK": "everyday life, daily routine",
+      "fr": "everyday life, daily routine"
+    },
+    "example": {
+      "ja": "旅行を終えて、いつもの静かで穏やかな<ruby>日常<rt>にちじょう</rt></ruby>に戻った。",
+      "en": "Finishing my trip, I returned to my usual quiet and peaceful daily life.",
+      "zh_TW": "Finishing my trip, I returned to my usual quiet and peaceful daily life.",
+      "zh_CN": "Finishing my trip, I returned to my usual quiet and peaceful daily life.",
+      "ko": "Finishing my trip, I returned to my usual quiet and peaceful daily life.",
+      "zh_HK": "Finishing my trip, I returned to my usual quiet and peaceful daily life.",
+      "fr": "Finishing my trip, I returned to my usual quiet and peaceful daily life."
+    },
+    "related": "日常 vs 非日常: 「日常」は普段のありふれた生活、「非日常」は旅やイベントなど特別な体験。"
+  },
+  {
+    "id": "class_word_0027_0168",
+    "word": "排気ガス",
+    "reading": "はいきがす",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "exhaust gas, vehicle emissions",
+      "ja": "排気ガス",
+      "zh_TW": "exhaust gas, vehicle emissions",
+      "zh_CN": "exhaust gas, vehicle emissions",
+      "ko": "exhaust gas, vehicle emissions",
+      "zh_HK": "exhaust gas, vehicle emissions",
+      "fr": "exhaust gas, vehicle emissions"
+    },
+    "example": {
+      "ja": "大都市の幹線道路沿いは、車の<ruby>排気<rt>はいき</rt></ruby>ガスによる空気の汚れが気になる。",
+      "en": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern.",
+      "zh_TW": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern.",
+      "zh_CN": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern.",
+      "ko": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern.",
+      "zh_HK": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern.",
+      "fr": "Along arterial roads in big cities, air pollution from car exhaust gas is a concern."
+    },
+    "related": "排気ガス: 自動車や工場から排出される排気気体。"
+  },
+  {
+    "id": "class_word_0027_0169",
+    "word": "症状",
+    "reading": "しょうじょう",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "symptoms, condition",
+      "ja": "症状",
+      "zh_TW": "symptoms, condition",
+      "zh_CN": "symptoms, condition",
+      "ko": "symptoms, condition",
+      "zh_HK": "symptoms, condition",
+      "fr": "symptoms, condition"
+    },
+    "example": {
+      "ja": "熱や咳などの風邪の<ruby>症状<rt>しょうじょう</rt></ruby>が出たら、無理をせず休みましょう。",
+      "en": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it.",
+      "zh_TW": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it.",
+      "zh_CN": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it.",
+      "ko": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it.",
+      "zh_HK": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it.",
+      "fr": "When symptoms of a cold such as fever or cough appear, let's rest without overdoing it."
+    },
+    "related": "症状 vs 病状: 「症状」は熱や頭痛など病気が現す個別の兆候、「病状」は病気全体の進行具合や容態。"
+  },
+  {
+    "id": "class_word_0027_0170",
+    "word": "症候群",
+    "reading": "しょうこうぐん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "syndrome",
+      "ja": "症候群",
+      "zh_TW": "syndrome",
+      "zh_CN": "syndrome",
+      "ko": "syndrome",
+      "zh_HK": "syndrome",
+      "fr": "syndrome"
+    },
+    "example": {
+      "ja": "長時間のパソコン作業で、手首が痛む手根管<ruby>症候群<rt>しょうこうぐん</rt></ruby>を発症した。",
+      "en": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts.",
+      "zh_TW": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts.",
+      "zh_CN": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts.",
+      "ko": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts.",
+      "zh_HK": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts.",
+      "fr": "Through long hours of PC work, I developed carpal tunnel syndrome where the wrist hurts."
+    },
+    "related": "症候群: 原因が完全には特定されないが、一連の共通した兆候を示す病態（シンドローム）。"
+  },
+  {
+    "id": "class_word_0027_0171",
+    "word": "まばたき",
+    "reading": "まばたき",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "blink, blinking of eyes",
+      "ja": "まばたき",
+      "zh_TW": "blink, blinking of eyes",
+      "zh_CN": "blink, blinking of eyes",
+      "ko": "blink, blinking of eyes",
+      "zh_HK": "blink, blinking of eyes",
+      "fr": "blink, blinking of eyes"
+    },
+    "example": {
+      "ja": "画面に集中しすぎると<ruby>まばたき<rt>まばたき</rt></ruby>の回数が減って、目が乾燥しやすい。",
+      "en": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out.",
+      "zh_TW": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out.",
+      "zh_CN": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out.",
+      "ko": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out.",
+      "zh_HK": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out.",
+      "fr": "If you concentrate too much on the screen, the number of blinks decreases and eyes easily dry out."
+    },
+    "related": "まばたき vs ウインク: 「まばたき」は両目を無意識に開閉すること、「ウインク」は片目を意図的につぶること。"
+  },
+  {
+    "id": "class_word_0027_0172",
+    "word": "足が攣る",
+    "reading": "あしがつる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to get a leg cramp, to have a muscle spasm in the leg",
+      "ja": "足が攣る",
+      "zh_TW": "to get a leg cramp, to have a muscle spasm in the leg",
+      "zh_CN": "to get a leg cramp, to have a muscle spasm in the leg",
+      "ko": "to get a leg cramp, to have a muscle spasm in the leg",
+      "zh_HK": "to get a leg cramp, to have a muscle spasm in the leg",
+      "fr": "to get a leg cramp, to have a muscle spasm in the leg"
+    },
+    "example": {
+      "ja": "冷たいプールで急に泳いだら、ふくらはぎの<ruby>足<rt>あし</rt></ruby>が<ruby>攣<rt>つ</rt></ruby>って激痛が走った。",
+      "en": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through.",
+      "zh_TW": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through.",
+      "zh_CN": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through.",
+      "ko": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through.",
+      "zh_HK": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through.",
+      "fr": "When I suddenly swam in the cold pool, I got a cramp in my calf and severe pain shot through."
+    },
+    "related": "足が攣る: 筋肉が異常収縮して硬直すること。「こむら返り」とも呼ぶ。"
+  },
+  {
+    "id": "class_word_0027_0173",
+    "word": "二人",
+    "reading": "ふたり",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "two people, couple, pair",
+      "ja": "二人",
+      "zh_TW": "two people, couple, pair",
+      "zh_CN": "two people, couple, pair",
+      "ko": "two people, couple, pair",
+      "zh_HK": "two people, couple, pair",
+      "fr": "two people, couple, pair"
+    },
+    "example": {
+      "ja": "映画館のペアシートで、<ruby>二人<rt>ふたり</rt></ruby>仲良く映画を鑑賞した。",
+      "en": "In a couple's seat at the cinema, the two of us enjoyed the movie closely.",
+      "zh_TW": "In a couple's seat at the cinema, the two of us enjoyed the movie closely.",
+      "zh_CN": "In a couple's seat at the cinema, the two of us enjoyed the movie closely.",
+      "ko": "In a couple's seat at the cinema, the two of us enjoyed the movie closely.",
+      "zh_HK": "In a couple's seat at the cinema, the two of us enjoyed the movie closely.",
+      "fr": "In a couple's seat at the cinema, the two of us enjoyed the movie closely."
+    },
+    "related": "二人: 「ににん」ではなく「ふたり」と読む日本の固有数詞。"
+  },
+  {
+    "id": "class_word_0027_0174",
+    "word": "抱きしめる",
+    "reading": "だきしめる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to hug tightly, to embrace, to hold close",
+      "ja": "抱きしめる",
+      "zh_TW": "to hug tightly, to embrace, to hold close",
+      "zh_CN": "to hug tightly, to embrace, to hold close",
+      "ko": "to hug tightly, to embrace, to hold close",
+      "zh_HK": "to hug tightly, to embrace, to hold close",
+      "fr": "to hug tightly, to embrace, to hold close"
+    },
+    "example": {
+      "ja": "久しぶりに再会した娘を、母親は力いっぱいに<ruby>抱<rt>だ</rt></ruby>きしめた。",
+      "en": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might.",
+      "zh_TW": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might.",
+      "zh_CN": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might.",
+      "ko": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might.",
+      "zh_HK": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might.",
+      "fr": "The mother embraced her daughter, whom she had reunited with after a long time, with all her might."
+    },
+    "related": "抱きしめる vs 抱く: 「抱く（いだく/だく）」よりも両腕でぎゅっと力を込めて密着させる愛情豊かな抱擁。"
+  },
+  {
+    "id": "class_word_0027_0175",
+    "word": "楽",
+    "reading": "らく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "easy, comfortable, relief",
+      "ja": "楽",
+      "zh_TW": "easy, comfortable, relief",
+      "zh_CN": "easy, comfortable, relief",
+      "ko": "easy, comfortable, relief",
+      "zh_HK": "easy, comfortable, relief",
+      "fr": "easy, comfortable, relief"
+    },
+    "example": {
+      "ja": "新しい掃除機を買ったら、毎日の家事がとても<ruby>楽<rt>らく</rt></ruby>になりました。",
+      "en": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable.",
+      "zh_TW": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable.",
+      "zh_CN": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable.",
+      "ko": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable.",
+      "zh_HK": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable.",
+      "fr": "When I bought a new vacuum cleaner, daily housework became very easy and comfortable."
+    },
+    "related": "楽 vs 簡単: 「簡単」は難易度が低く理解しやすいこと、「楽」は身体的・精神的な負担が少なくて心地よいこと。"
+  },
+  {
+    "id": "class_word_0027_0176",
+    "word": "部活",
+    "reading": "ぶかつ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "school club activities, extracurricular club",
+      "ja": "部活",
+      "zh_TW": "school club activities, extracurricular club",
+      "zh_CN": "school club activities, extracurricular club",
+      "ko": "school club activities, extracurricular club",
+      "zh_HK": "school club activities, extracurricular club",
+      "fr": "school club activities, extracurricular club"
+    },
+    "example": {
+      "ja": "放課後は毎日、バスケットボールの<ruby>部活<rt>ぶかつ</rt></ruby>で汗を流しています。",
+      "en": "After school every day, I sweat working hard in basketball club activities.",
+      "zh_TW": "After school every day, I sweat working hard in basketball club activities.",
+      "zh_CN": "After school every day, I sweat working hard in basketball club activities.",
+      "ko": "After school every day, I sweat working hard in basketball club activities.",
+      "zh_HK": "After school every day, I sweat working hard in basketball club activities.",
+      "fr": "After school every day, I sweat working hard in basketball club activities."
+    },
+    "related": "部活 vs サークル: 「部活」は中学・高校の顧問が指導する厳しい体育会・文化会、「サークル」は大学等の自主的な親睦グループ。"
+  },
+  {
+    "id": "class_word_0027_0177",
+    "word": "申し込み",
+    "reading": "もうしこみ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "application, entry, registration",
+      "ja": "申し込み",
+      "zh_TW": "application, entry, registration",
+      "zh_CN": "application, entry, registration",
+      "ko": "application, entry, registration",
+      "zh_HK": "application, entry, registration",
+      "fr": "application, entry, registration"
+    },
+    "example": {
+      "ja": "人気セミナーの参加<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みは、明日の正午から始まります。",
+      "en": "Applications to join the popular seminar begin tomorrow at noon.",
+      "zh_TW": "Applications to join the popular seminar begin tomorrow at noon.",
+      "zh_CN": "Applications to join the popular seminar begin tomorrow at noon.",
+      "ko": "Applications to join the popular seminar begin tomorrow at noon.",
+      "zh_HK": "Applications to join the popular seminar begin tomorrow at noon.",
+      "fr": "Applications to join the popular seminar begin tomorrow at noon."
+    },
+    "related": "申し込み: 参加や利用の意思を正式に表明・提出する手続き。"
+  },
+  {
+    "id": "class_word_0027_0178",
+    "word": "止まる",
+    "reading": "とまる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "1. to stop, to halt (moving object) 2. to cease (rain, pain)",
+      "ja": "止まる",
+      "zh_TW": "1. to stop, to halt (moving object) 2. to cease (rain, pain)",
+      "zh_CN": "1. to stop, to halt (moving object) 2. to cease (rain, pain)",
+      "ko": "1. to stop, to halt (moving object) 2. to cease (rain, pain)",
+      "zh_HK": "1. to stop, to halt (moving object) 2. to cease (rain, pain)",
+      "fr": "1. to stop, to halt (moving object) 2. to cease (rain, pain)"
+    },
+    "example": {
+      "ja": "1. 赤信号になったので、車がピタッと<ruby>止<rt>と</rt></ruby>まった。<br>2. 薬を飲んだら、つらい頭痛がようやく<ruby>止<rt>と</rt></ruby>まった。",
+      "en": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped.",
+      "zh_TW": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped.",
+      "zh_CN": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped.",
+      "ko": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped.",
+      "zh_HK": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped.",
+      "fr": "1. Because the traffic light turned red, the car stopped right in its tracks. 2. When I took medicine, the painful headache finally stopped."
+    },
+    "related": "止まる vs 止める: 「止まる」は自動詞（物が止まる）、「止める」は他動詞（人がスイッチを切ったりブレーキを踏んで止める）。"
+  },
+  {
+    "id": "class_word_0027_0179",
+    "word": "やめる",
+    "reading": "やめる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to quit, to stop, to give up",
+      "ja": "やめる",
+      "zh_TW": "to quit, to stop, to give up",
+      "zh_CN": "to quit, to stop, to give up",
+      "ko": "to quit, to stop, to give up",
+      "zh_HK": "to quit, to stop, to give up",
+      "fr": "to quit, to stop, to give up"
+    },
+    "example": {
+      "ja": "健康診断で注意されたので、タバコを<ruby>吸<rt>す</rt></ruby>うのをきっぱりやめました。",
+      "en": "Because I was warned during my health checkup, I firmly quit smoking cigarettes.",
+      "zh_TW": "Because I was warned during my health checkup, I firmly quit smoking cigarettes.",
+      "zh_CN": "Because I was warned during my health checkup, I firmly quit smoking cigarettes.",
+      "ko": "Because I was warned during my health checkup, I firmly quit smoking cigarettes.",
+      "zh_HK": "Because I was warned during my health checkup, I firmly quit smoking cigarettes.",
+      "fr": "Because I was warned during my health checkup, I firmly quit smoking cigarettes."
+    },
+    "related": "やめる vs 止まる: 「止まる」は動きや生理現象が止まること、「やめる」は習慣や意志的な継続行為を取りやめること。"
+  },
+  {
+    "id": "class_word_0027_0180",
+    "word": "弾く",
+    "reading": "ひく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to play (piano, guitar, string instrument)",
+      "ja": "弾く",
+      "zh_TW": "to play (piano, guitar, string instrument)",
+      "zh_CN": "to play (piano, guitar, string instrument)",
+      "ko": "to play (piano, guitar, string instrument)",
+      "zh_HK": "to play (piano, guitar, string instrument)",
+      "fr": "to play (piano, guitar, string instrument)"
+    },
+    "example": {
+      "ja": "小学生の時にピアノを習っていたので、簡単な曲なら今でも<ruby>弾<rt>ひ</rt></ruby>けます。",
+      "en": "Because I learned piano in elementary school, I can still play simple pieces.",
+      "zh_TW": "Because I learned piano in elementary school, I can still play simple pieces.",
+      "zh_CN": "Because I learned piano in elementary school, I can still play simple pieces.",
+      "ko": "Because I learned piano in elementary school, I can still play simple pieces.",
+      "zh_HK": "Because I learned piano in elementary school, I can still play simple pieces.",
+      "fr": "Because I learned piano in elementary school, I can still play simple pieces."
+    },
+    "related": "弾く vs 吹く vs 叩く: 鍵盤や弦楽器は「弾く」、管楽器は「吹く」、打楽器は「叩く」。"
+  },
+  {
+    "id": "class_word_0027_0181",
+    "word": "証明書",
+    "reading": "しょうめいしょ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "certificate, credential",
+      "ja": "証明書",
+      "zh_TW": "certificate, credential",
+      "zh_CN": "certificate, credential",
+      "ko": "certificate, credential",
+      "zh_HK": "certificate, credential",
+      "fr": "certificate, credential"
+    },
+    "example": {
+      "ja": "パスポートを更新するために、市役所で住民票の<ruby>証明書<rt>しょうめいしょ</rt></ruby>を取得した。",
+      "en": "To renew my passport, I obtained a certificate of resident record at city hall.",
+      "zh_TW": "To renew my passport, I obtained a certificate of resident record at city hall.",
+      "zh_CN": "To renew my passport, I obtained a certificate of resident record at city hall.",
+      "ko": "To renew my passport, I obtained a certificate of resident record at city hall.",
+      "zh_HK": "To renew my passport, I obtained a certificate of resident record at city hall.",
+      "fr": "To renew my passport, I obtained a certificate of resident record at city hall."
+    },
+    "related": "証明書 vs 免許証: 「証明書」はある事実を公に証する書類全般、「免許証」は特定の資格や許可を証明するライセンス証。"
+  },
+  {
+    "id": "class_word_0027_0182",
+    "word": "資格",
+    "reading": "しかく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "qualification, license, certification",
+      "ja": "資格",
+      "zh_TW": "qualification, license, certification",
+      "zh_CN": "qualification, license, certification",
+      "ko": "qualification, license, certification",
+      "zh_HK": "qualification, license, certification",
+      "fr": "qualification, license, certification"
+    },
+    "example": {
+      "ja": "キャリアアップのために、今年はIT関連の国家<ruby>資格<rt>しかく</rt></ruby>を取得したい。",
+      "en": "For career advancement, I want to obtain an IT-related national qualification this year.",
+      "zh_TW": "For career advancement, I want to obtain an IT-related national qualification this year.",
+      "zh_CN": "For career advancement, I want to obtain an IT-related national qualification this year.",
+      "ko": "For career advancement, I want to obtain an IT-related national qualification this year.",
+      "zh_HK": "For career advancement, I want to obtain an IT-related national qualification this year.",
+      "fr": "For career advancement, I want to obtain an IT-related national qualification this year."
+    },
+    "related": "資格 vs 免許: 「資格」は能力や知識を認定された称号全般、「免許」は持たないと業務を行うことが法律上禁止されている許可。"
+  },
+  {
+    "id": "class_word_0027_0183",
+    "word": "体力",
+    "reading": "たいりょく",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "physical strength, stamina, endurance",
+      "ja": "体力",
+      "zh_TW": "physical strength, stamina, endurance",
+      "zh_CN": "physical strength, stamina, endurance",
+      "ko": "physical strength, stamina, endurance",
+      "zh_HK": "physical strength, stamina, endurance",
+      "fr": "physical strength, stamina, endurance"
+    },
+    "example": {
+      "ja": "最近疲れやすくなってきたので、水泳を始めて<ruby>体力<rt>たいりょく</rt></ruby>をつけようと思う。",
+      "en": "Since I have become easily tired recently, I think I will start swimming to build physical stamina.",
+      "zh_TW": "Since I have become easily tired recently, I think I will start swimming to build physical stamina.",
+      "zh_CN": "Since I have become easily tired recently, I think I will start swimming to build physical stamina.",
+      "ko": "Since I have become easily tired recently, I think I will start swimming to build physical stamina.",
+      "zh_HK": "Since I have become easily tired recently, I think I will start swimming to build physical stamina.",
+      "fr": "Since I have become easily tired recently, I think I will start swimming to build physical stamina."
+    },
+    "related": "体力 vs 気力: 「気力」は精神的なやる気・意志の力、「体力」は身体の持久力や運動能力。"
+  },
+  {
+    "id": "class_word_0027_0184",
+    "word": "家系",
+    "reading": "かけい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "family lineage, ancestry, family line",
+      "ja": "家系",
+      "zh_TW": "family lineage, ancestry, family line",
+      "zh_CN": "family lineage, ancestry, family line",
+      "ko": "family lineage, ancestry, family line",
+      "zh_HK": "family lineage, ancestry, family line",
+      "fr": "family lineage, ancestry, family line"
+    },
+    "example": {
+      "ja": "私の<ruby>家系<rt>かけい</rt></ruby>は代々医師が多く、医療に関心を持つ人が多いです。",
+      "en": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine.",
+      "zh_TW": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine.",
+      "zh_CN": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine.",
+      "ko": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine.",
+      "zh_HK": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine.",
+      "fr": "In my family lineage, there have been many doctors for generations, and many people are interested in medicine."
+    },
+    "related": "家系: 血筋や代々の家督の系譜。"
+  },
+  {
+    "id": "class_word_0027_0185",
+    "word": "早死",
+    "reading": "はやじに",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "early death, premature death",
+      "ja": "早死",
+      "zh_TW": "early death, premature death",
+      "zh_CN": "early death, premature death",
+      "ko": "early death, premature death",
+      "zh_HK": "early death, premature death",
+      "fr": "early death, premature death"
+    },
+    "example": {
+      "ja": "暴飲暴食を繰り返していると、生活習慣病で<ruby>早死<rt>はやじ</rt></ruby>にするリスクが高まります。",
+      "en": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases.",
+      "zh_TW": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases.",
+      "zh_CN": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases.",
+      "ko": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases.",
+      "zh_HK": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases.",
+      "fr": "If you repeat excessive eating and drinking, the risk of dying early from lifestyle diseases increases."
+    },
+    "related": "早死 vs 早死に: 日常会話では「早死にする」「早死に（はやじに）」と活用される。"
+  },
+  {
+    "id": "class_word_0027_0186",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "cool, refreshing (temperature/breeze)",
+      "ja": "涼しい",
+      "zh_TW": "cool, refreshing (temperature/breeze)",
+      "zh_CN": "cool, refreshing (temperature/breeze)",
+      "ko": "cool, refreshing (temperature/breeze)",
+      "zh_HK": "cool, refreshing (temperature/breeze)",
+      "fr": "cool, refreshing (temperature/breeze)"
+    },
+    "example": {
+      "ja": "高原の朝は空気が澄んでいて、風がとても<ruby>涼<rt>すず</rt></ruby>しくて気持ちがいい。",
+      "en": "The air on the plateau morning is clear, and the breeze is very cool and pleasant.",
+      "zh_TW": "The air on the plateau morning is clear, and the breeze is very cool and pleasant.",
+      "zh_CN": "The air on the plateau morning is clear, and the breeze is very cool and pleasant.",
+      "ko": "The air on the plateau morning is clear, and the breeze is very cool and pleasant.",
+      "zh_HK": "The air on the plateau morning is clear, and the breeze is very cool and pleasant.",
+      "fr": "The air on the plateau morning is clear, and the breeze is very cool and pleasant."
+    },
+    "related": "涼しい vs 寒い: 「涼しい」は暑さが引いて快適な心地よい涼気、「寒い」は不快で体を縮こまらせる冷気。"
+  },
+  {
+    "id": "class_word_0027_0187",
+    "word": "絵文字",
+    "reading": "えもじ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "emoji, pictogram",
+      "ja": "絵文字",
+      "zh_TW": "emoji, pictogram",
+      "zh_CN": "emoji, pictogram",
+      "ko": "emoji, pictogram",
+      "zh_HK": "emoji, pictogram",
+      "fr": "emoji, pictogram"
+    },
+    "example": {
+      "ja": "メッセージを送るとき、気持ちを伝えるために可愛い<ruby>絵文字<rt>えもじ</rt></ruby>を添える。",
+      "en": "When sending a message, I attach cute emoji to convey my feelings.",
+      "zh_TW": "When sending a message, I attach cute emoji to convey my feelings.",
+      "zh_CN": "When sending a message, I attach cute emoji to convey my feelings.",
+      "ko": "When sending a message, I attach cute emoji to convey my feelings.",
+      "zh_HK": "When sending a message, I attach cute emoji to convey my feelings.",
+      "fr": "When sending a message, I attach cute emoji to convey my feelings."
+    },
+    "related": "絵文字 vs 顔文字: 「絵文字」はUnicode等の画像・シンボル（😊🍣）、「顔文字」は記号を組み合わせたもの（(^_^)など）。"
+  },
+  {
+    "id": "class_word_0027_0188",
+    "word": "過程",
+    "reading": "かてい",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "process, course, stages",
+      "ja": "過程",
+      "zh_TW": "process, course, stages",
+      "zh_CN": "process, course, stages",
+      "ko": "process, course, stages",
+      "zh_HK": "process, course, stages",
+      "fr": "process, course, stages"
+    },
+    "example": {
+      "ja": "結果も大切だが、そこに至るまでの努力の<ruby>過程<rt>かてい</rt></ruby>も同じくらい価値がある。",
+      "en": "Results are important, but the process of effort leading up to them is just as valuable.",
+      "zh_TW": "Results are important, but the process of effort leading up to them is just as valuable.",
+      "zh_CN": "Results are important, but the process of effort leading up to them is just as valuable.",
+      "ko": "Results are important, but the process of effort leading up to them is just as valuable.",
+      "zh_HK": "Results are important, but the process of effort leading up to them is just as valuable.",
+      "fr": "Results are important, but the process of effort leading up to them is just as valuable."
+    },
+    "related": "過程 vs 課程: 「過程」は物事が推移・変化するプロセス、「課程」は学校等のカリキュラム・履修コース。"
+  },
+  {
+    "id": "class_word_0027_0189",
+    "word": "優先",
+    "reading": "ゆうせん",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "priority, preference, precedence",
+      "ja": "優先",
+      "zh_TW": "priority, preference, precedence",
+      "zh_CN": "priority, preference, precedence",
+      "ko": "priority, preference, precedence",
+      "zh_HK": "priority, preference, precedence",
+      "fr": "priority, preference, precedence"
+    },
+    "example": {
+      "ja": "電車の中では、お年寄りや妊婦さんに席を<ruby>優先<rt>ゆうせん</rt></ruby>して譲りましょう。",
+      "en": "On the train, let's give priority and give up seats to the elderly and pregnant women.",
+      "zh_TW": "On the train, let's give priority and give up seats to the elderly and pregnant women.",
+      "zh_CN": "On the train, let's give priority and give up seats to the elderly and pregnant women.",
+      "ko": "On the train, let's give priority and give up seats to the elderly and pregnant women.",
+      "zh_HK": "On the train, let's give priority and give up seats to the elderly and pregnant women.",
+      "fr": "On the train, let's give priority and give up seats to the elderly and pregnant women."
+    },
+    "related": "優先 vs 後回し: 「優先」は他より先に行うこと、「後回し」は後回しにして後でやること。"
+  },
+  {
+    "id": "class_word_0027_0190",
+    "word": "裏付け",
+    "reading": "うらづけ",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "backing, substantiation, corroboration, proof",
+      "ja": "裏付け",
+      "zh_TW": "backing, substantiation, corroboration, proof",
+      "zh_CN": "backing, substantiation, corroboration, proof",
+      "ko": "backing, substantiation, corroboration, proof",
+      "zh_HK": "backing, substantiation, corroboration, proof",
+      "fr": "backing, substantiation, corroboration, proof"
+    },
+    "example": {
+      "ja": "その仮説を証明するためには、確かな実験データによる客観的な<ruby>裏付<rt>うらづ</rt></ruby>けが必要だ。",
+      "en": "To prove that hypothesis, objective corroboration through solid experimental data is necessary.",
+      "zh_TW": "To prove that hypothesis, objective corroboration through solid experimental data is necessary.",
+      "zh_CN": "To prove that hypothesis, objective corroboration through solid experimental data is necessary.",
+      "ko": "To prove that hypothesis, objective corroboration through solid experimental data is necessary.",
+      "zh_HK": "To prove that hypothesis, objective corroboration through solid experimental data is necessary.",
+      "fr": "To prove that hypothesis, objective corroboration through solid experimental data is necessary."
+    },
+    "related": "裏付け vs 証拠: 「証拠」は事実を立証する物そのもの、「裏付け」は主張や証拠を側面から強固に支える根拠。"
+  },
+  {
+    "id": "class_word_0027_0191",
+    "word": "裏をとる",
+    "reading": "うらをとる",
+    "category": "授業で習った言葉",
+    "studentId": "0027",
+    "meaning": {
+      "en": "to verify facts, to confirm corroborating evidence",
+      "ja": "裏をとる",
+      "zh_TW": "to verify facts, to confirm corroborating evidence",
+      "zh_CN": "to verify facts, to confirm corroborating evidence",
+      "ko": "to verify facts, to confirm corroborating evidence",
+      "zh_HK": "to verify facts, to confirm corroborating evidence",
+      "fr": "to verify facts, to confirm corroborating evidence"
+    },
+    "example": {
+      "ja": "ジャーナリストは記事を書く前に、必ず複数の関係者から事実の<ruby>裏<rt>うら</rt></ruby>をとる。",
+      "en": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties.",
+      "zh_TW": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties.",
+      "zh_CN": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties.",
+      "ko": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties.",
+      "zh_HK": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties.",
+      "fr": "Before writing an article, journalists always verify corroborating evidence of the facts from multiple concerned parties."
+    },
+    "related": "裏をとる: 噂や証言が真実かどうか、別の角度や確実な証拠で裏付けを取って確認する探偵・報道用語。"
+  },
 ];
 
 window.CLASS_ARUN_IDS = ["class_word_1603", "class_word_1181", "class_word_0387", "class_word_1604", "class_word_1605", "class_word_1606", "class_word_1607", "class_word_0112", "class_word_1608", "class_word_1609", "class_word_1610", "class_word_1611", "class_word_1612", "class_word_1613", "class_word_1614", "class_word_1615", "class_word_1616", "class_word_1617", "class_word_1598", "class_word_1618", "class_word_1619", "class_word_1281", "class_word_1620", "class_word_1621", "class_word_1622", "class_word_1623", "class_word_1624", "class_word_1432", "class_word_1335", "class_word_1625", "class_word_1626", "class_word_1627", "class_word_1628", "class_word_1629", "class_word_1630", "class_word_1631", "class_word_1632", "class_word_1633", "class_word_1369", "class_word_1634", "class_word_1635", "class_word_1636", "class_word_1637", "class_word_1638", "class_word_0003", "class_word_1639", "class_word_1640", "class_word_1641", "class_word_0336", "class_word_1642", "class_word_0155", "class_word_1643", "class_word_1644", "class_word_1645", "class_word_1646", "class_word_1647", "class_word_1648", "class_word_1649", "class_word_1650", "class_word_1651", "class_word_1652", "class_word_1653", "class_word_1654", "class_word_1131", "class_word_1655", "class_word_0291", "class_word_1252", "class_word_1656", "class_word_1657", "class_word_1459", "class_word_1658", "class_word_1659", "class_word_0476", "class_word_1660", "class_word_1661", "class_word_1329", "class_word_1662", "class_word_1663", "class_word_1664", "class_word_1665", "class_word_0526", "class_word_1585", "class_word_1666", "class_word_1667", "class_word_1668", "class_word_1669", "class_word_1345", "class_word_1066", "class_word_0172", "class_word_1670", "class_word_1671", "class_word_1186", "class_word_1672", "class_word_0417", "class_word_1673", "class_word_1674", "class_word_1675", "class_word_1676", "class_word_1677", "class_word_0474", "class_word_1678", "class_word_1679", "class_word_0912", "class_word_1680", "class_word_1681", "class_word_1682", "class_word_1683", "class_word_1684", "class_word_1685", "class_word_1686", "class_word_1687", "class_word_1688", "class_word_1689", "class_word_1690", "class_word_1691", "class_word_1692", "class_word_0227", "class_word_1693", "class_word_1694", "class_word_1439", "class_word_1695", "class_word_1696", "class_word_1697", "class_word_1698", "class_word_1699", "class_word_1700", "class_word_0401", "class_word_1701", "class_word_0114", "class_word_1702", "class_word_1703", "class_word_0462", "class_word_0403", "class_word_1704", "class_word_1705", "class_word_1706", "class_word_1707", "class_word_1708", "class_word_1709", "class_word_1412", "class_word_1710", "class_word_1711", "class_word_0266", "class_word_1055", "class_word_0555", "class_word_0029", "class_word_1464", "class_word_1712", "class_word_0012", "class_word_1115", "class_word_0376", "class_word_1713", "class_word_1714", "class_word_1715", "class_word_1716", "class_word_1717", "class_word_1718", "class_word_1719", "class_word_1720", "class_word_1721", "class_word_1434", "class_word_0557", "class_word_1722", "class_word_1723", "class_word_1724", "class_word_1725", "class_word_1726", "class_word_1497", "class_word_1498", "class_word_1727", "class_word_1728", "class_word_1729", "class_word_1730", "class_word_1513", "class_word_1731", "class_word_1732", "class_word_1733", "class_word_1734", "class_word_1349", "class_word_0081", "class_word_1735", "class_word_1736", "class_word_1737", "class_word_1241", "class_word_1738", "class_word_0702", "class_word_1739", "class_word_1740", "class_word_1741", "class_word_1742", "class_word_1743", "class_word_1744", "class_word_1745", "class_word_1428", "class_word_1430", "class_word_1746", "class_word_1747", "class_word_1748", "class_word_1749", "class_word_1750", "class_word_1751", "class_word_0247", "class_word_1468", "class_word_1752", "class_word_1753", "class_word_0929", "class_word_0014", "class_word_1754", "class_word_0303", "class_word_1755", "class_word_1756", "class_word_0636", "class_word_1757", "class_word_1758", "class_word_0672", "class_word_1759", "class_word_1760", "class_word_1761", "class_word_1762", "class_word_1763", "class_word_1764", "class_word_1765", "class_word_1766", "class_word_1767", "class_word_1768", "class_word_1769", "class_word_1770", "class_word_1771", "class_word_1772", "class_word_1773", "class_word_1774", "class_word_1337", "class_word_1775", "class_word_1776", "class_word_1777", "class_word_1778", "class_word_1779", "class_word_1780", "class_word_1781", "class_word_1782", "class_word_1783", "class_word_1784", "class_word_1785", "class_word_1786", "class_word_0385", "class_word_1787", "class_word_1788", "class_word_1105", "class_word_1789", "class_word_1790", "class_word_1791", "class_word_0845", "class_word_1792", "class_word_1793", "class_word_1794", "class_word_1795", "class_word_1796", "class_word_1797", "class_word_1798", "class_word_1572", "class_word_1799", "class_word_1800", "class_word_1144", "class_word_1801", "class_word_1802", "class_word_1803", "class_word_1804", "class_word_1805", "class_word_1806", "class_word_1807", "class_word_1489", "class_word_1808", "class_word_1809", "class_word_1810", "class_word_1811", "class_word_1812", "class_word_1813", "class_word_0217", "class_word_1814", "class_word_1815", "class_word_1816", "class_word_1817", "class_word_0055", "class_word_1069", "class_word_1818", "class_word_1819", "class_word_1820", "class_word_1821", "class_word_1209", "class_word_1822", "class_word_1823", "class_word_0170", "class_word_1824", "class_word_1825", "class_word_1826", "class_word_1827", "class_word_1828", "class_word_1829", "class_word_1830", "class_word_1831", "class_word_1832", "class_word_1833", "class_word_1834", "class_word_1835", "class_word_1836", "class_word_1837", "class_word_1838", "class_word_1839", "class_word_1840", "class_word_1841", "class_word_1842", "class_word_1843", "class_word_0116", "class_word_1844", "class_word_1845", "class_word_1846", "class_word_1847", "class_word_1848", "class_word_1849", "class_word_1850", "class_word_1851", "class_word_1852", "class_word_1853", "class_word_1854", "class_word_1855", "class_word_1856", "class_word_0591", "class_word_1857", "class_word_0886", "class_word_1858", "class_word_1859", "class_word_1860", "class_word_1861", "class_word_1862", "class_word_1202", "class_word_0425", "class_word_1863", "class_word_1327", "class_word_1864", "class_word_1865", "class_word_1866", "class_word_1867", "class_word_1868", "class_word_1869", "class_word_1870", "class_word_1871", "class_word_1872", "class_word_0335", "class_word_1873", "class_word_1874", "class_word_0841", "class_word_1875", "class_word_1876", "class_word_1877", "class_word_1878", "class_word_1879", "class_word_1880", "class_word_1881", "class_word_1882", "class_word_1883", "class_word_1884", "class_word_1885", "class_word_1886", "class_word_1887", "class_word_1888", "class_word_1889", "class_word_1426", "class_word_1890", "class_word_1891", "class_word_1892", "class_word_1893", "class_word_1894", "class_word_1895", "class_word_1896", "class_word_1897", "class_word_1898", "class_word_1899", "class_word_1900", "class_word_1901", "class_word_1902", "class_word_1903", "class_word_1904", "class_word_1905", "class_word_1906", "class_word_1907", "class_word_1908", "class_word_1909", "class_word_1910", "class_word_1911", "class_word_1912", "class_word_1913", "class_word_0693", "class_word_1914", "class_word_1915", "class_word_1916", "class_word_0883", "class_word_1917", "class_word_1918", "class_word_1919", "class_word_1920", "class_word_1921", "class_word_1922", "class_word_1923", "class_word_1924", "class_word_1925", "class_word_1926", "class_word_1927", "class_word_1928", "class_word_1180", "class_word_1929", "class_word_1930", "class_word_1931", "class_word_1932", "class_word_1933", "class_word_1934", "class_word_1935", "class_word_1936", "class_word_1937", "class_word_0769", "class_word_1938", "class_word_1939", "class_word_1503", "class_word_1940", "class_word_1941", "class_word_1942", "class_word_1943", "class_word_1944", "class_word_0289", "class_word_1945", "class_word_1946", "class_word_1947", "class_word_1948", "class_word_1949", "class_word_1950", "class_word_1951", "class_word_1952", "class_word_1521", "class_word_1953", "class_word_1954", "class_word_1955", "class_word_1956", "class_word_1957", "class_word_1958", "class_word_1959", "class_word_1960", "class_word_1961", "class_word_1962", "class_word_1963", "class_word_1964", "class_word_1965", "class_word_1966", "class_word_1967", "class_word_1968", "class_word_1969", "class_word_1970", "class_word_1971", "class_word_1972", "class_word_1973", "class_word_1974", "class_word_1975", "class_word_1976", "class_word_1977", "class_word_1978", "class_word_1979", "class_word_1980", "class_word_1981", "class_word_1982", "class_word_0429", "class_word_1983", "class_word_0898", "class_word_1984", "class_word_1985", "class_word_1986", "class_word_1987", "class_word_1988", "class_word_1989", "class_word_0465", "class_word_0459", "class_word_1990", "class_word_1991", "class_word_1992", "class_word_1993", "class_word_1994", "class_word_1995", "class_word_0471", "class_word_1996", "class_word_0242", "class_word_0729", "class_word_1997", "class_word_1998", "class_word_1130", "class_word_0621", "class_word_1999", "class_word_2000", "class_word_2001", "class_word_2002", "class_word_2003", "class_word_2004", "class_word_2005", "class_word_2006", "class_word_2007", "class_word_2008", "class_word_2009", "class_word_2010", "class_word_2011", "class_word_2012", "class_word_2013", "class_word_2014", "class_word_2015", "class_word_2016", "class_word_2017", "class_word_2018", "class_word_2019", "class_word_1482", "class_word_0797", "class_word_2020", "class_word_2021", "class_word_2022", "class_word_2023", "class_word_2024", "class_word_2025", "class_word_2026", "class_word_2027"];
 
 window.CLASS_NANA_IDS = ["class_word_0499", "class_word_0500", "class_word_0501", "class_word_0502", "class_word_0503", "class_word_0504", "class_word_0505", "class_word_0506", "class_word_0507", "class_word_0508", "class_word_0509", "class_word_0510", "class_word_0511", "class_word_0512", "class_word_0513", "class_word_0514", "class_word_0515", "class_word_0516", "class_word_0517", "class_word_0518", "class_word_0519", "class_word_0520", "class_word_0521", "class_word_0522", "class_word_0523", "class_word_0524", "class_word_0525", "class_word_0526", "class_word_0527", "class_word_0528", "class_word_0529", "class_word_0530", "class_word_0531", "class_word_0532", "class_word_0533", "class_word_0534", "class_word_0535", "class_word_0536", "class_word_0537", "class_word_0538", "class_word_nana_0001", "class_word_nana_0002", "class_word_nana_0003", "class_word_nana_0004", "class_word_nana_0005", "class_word_nana_0006", "class_word_nana_0007", "class_word_nana_0008", "class_word_nana_0009", "class_word_nana_0010", "class_word_nana_0011", "class_word_nana_0012", "class_word_nana_0013", "class_word_nana_0014", "class_word_nana_0015", "class_word_nana_0016", "class_word_nana_0017", "class_word_nana_0018", "class_word_nana_0019", "class_word_nana_0020", "class_word_nana_0021", "class_word_nana_0022", "class_word_nana_0023", "class_word_nana_0024", "class_word_nana_0025", "class_word_nana_0026", "class_word_nana_0027"];
+
+window.CLASS_0027_IDS = ["class_word_0027_0001", "class_word_0027_0002", "class_word_0027_0003", "class_word_0027_0004", "class_word_0027_0005", "class_word_0027_0006", "class_word_0027_0007", "class_word_0027_0008", "class_word_0027_0009", "class_word_0027_0010", "class_word_0027_0011", "class_word_0027_0012", "class_word_0027_0013", "class_word_0027_0014", "class_word_0027_0015", "class_word_0027_0016", "class_word_0027_0017", "class_word_0027_0018", "class_word_0027_0019", "class_word_0027_0020", "class_word_0027_0021", "class_word_0027_0022", "class_word_0027_0023", "class_word_0027_0024", "class_word_0027_0025", "class_word_0027_0026", "class_word_0027_0027", "class_word_0027_0028", "class_word_0027_0029", "class_word_0027_0030", "class_word_0027_0031", "class_word_0027_0032", "class_word_0027_0033", "class_word_0027_0034", "class_word_0027_0035", "class_word_0027_0036", "class_word_0027_0037", "class_word_0027_0038", "class_word_0027_0039", "class_word_0027_0040", "class_word_0027_0041", "class_word_0027_0042", "class_word_0027_0043", "class_word_0027_0044", "class_word_0027_0045", "class_word_0027_0046", "class_word_0027_0047", "class_word_0027_0048", "class_word_0027_0049", "class_word_0027_0050", "class_word_0027_0051", "class_word_0027_0052", "class_word_0027_0053", "class_word_0027_0054", "class_word_0027_0055", "class_word_0027_0056", "class_word_0027_0057", "class_word_0027_0058", "class_word_0027_0059", "class_word_0027_0060", "class_word_0027_0061", "class_word_0027_0062", "class_word_0027_0063", "class_word_0027_0064", "class_word_0027_0065", "class_word_0027_0066", "class_word_0027_0067", "class_word_0027_0068", "class_word_0027_0069", "class_word_0027_0070", "class_word_0027_0071", "class_word_0027_0072", "class_word_0027_0073", "class_word_0027_0074", "class_word_0027_0075", "class_word_0027_0076", "class_word_0027_0077", "class_word_0027_0078", "class_word_0027_0079", "class_word_0027_0080", "class_word_0027_0081", "class_word_0027_0082", "class_word_0027_0083", "class_word_0027_0084", "class_word_0027_0085", "class_word_0027_0086", "class_word_0027_0087", "class_word_0027_0088", "class_word_0027_0089", "class_word_0027_0090", "class_word_0027_0091", "class_word_0027_0092", "class_word_0027_0093", "class_word_0027_0094", "class_word_0027_0095", "class_word_0027_0096", "class_word_0027_0097", "class_word_0027_0098", "class_word_0027_0099", "class_word_0027_0100", "class_word_0027_0101", "class_word_0027_0102", "class_word_0027_0103", "class_word_0027_0104", "class_word_0027_0105", "class_word_0027_0106", "class_word_0027_0107", "class_word_0027_0108", "class_word_0027_0109", "class_word_0027_0110", "class_word_0027_0111", "class_word_0027_0112", "class_word_0027_0113", "class_word_0027_0114", "class_word_0027_0115", "class_word_0027_0116", "class_word_0027_0117", "class_word_0027_0118", "class_word_0027_0119", "class_word_0027_0120", "class_word_0027_0121", "class_word_0027_0122", "class_word_0027_0123", "class_word_0027_0124", "class_word_0027_0125", "class_word_0027_0126", "class_word_0027_0127", "class_word_0027_0128", "class_word_0027_0129", "class_word_0027_0130", "class_word_0027_0131", "class_word_0027_0132", "class_word_0027_0133", "class_word_0027_0134", "class_word_0027_0135", "class_word_0027_0136", "class_word_0027_0137", "class_word_0027_0138", "class_word_0027_0139", "class_word_0027_0140", "class_word_0027_0141", "class_word_0027_0142", "class_word_0027_0143", "class_word_0027_0144", "class_word_0027_0145", "class_word_0027_0146", "class_word_0027_0147", "class_word_0027_0148", "class_word_0027_0149", "class_word_0027_0150", "class_word_0027_0151", "class_word_0027_0152", "class_word_0027_0153", "class_word_0027_0154", "class_word_0027_0155", "class_word_0027_0156", "class_word_0027_0157", "class_word_0027_0158", "class_word_0027_0159", "class_word_0027_0160", "class_word_0027_0161", "class_word_0027_0162", "class_word_0027_0163", "class_word_0027_0164", "class_word_0027_0165", "class_word_0027_0166", "class_word_0027_0167", "class_word_0027_0168", "class_word_0027_0169", "class_word_0027_0170", "class_word_0027_0171", "class_word_0027_0172", "class_word_0027_0173", "class_word_0027_0174", "class_word_0027_0175", "class_word_0027_0176", "class_word_0027_0177", "class_word_0027_0178", "class_word_0027_0179", "class_word_0027_0180", "class_word_0027_0181", "class_word_0027_0182", "class_word_0027_0183", "class_word_0027_0184", "class_word_0027_0185", "class_word_0027_0186", "class_word_0027_0187", "class_word_0027_0188", "class_word_0027_0189", "class_word_0027_0190", "class_word_0027_0191"];
