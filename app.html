@@ -1999,34 +1999,93 @@ rt {
     box-shadow: 0 25px 50px -12px rgba(15, 23, 42, 0.35);
   }
   .lesson-viewer-header {
-    background: #1E293B;
+    background: #006E7F;
     color: white;
-    padding: 10px 18px;
+    padding: 8px 16px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 12px;
+    gap: 10px;
     flex-shrink: 0;
-    border-bottom: 1px solid #334155;
+    border-bottom: 2px solid #6BD4DE;
   }
   .lesson-viewer-back-btn {
-    background: #334155;
-    border: none;
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(181, 226, 232, 0.55);
     color: white;
-    padding: 6px 14px;
-    border-radius: 8px;
-    font-size: 0.84rem;
+    padding: 5px 12px;
+    border-radius: 999px;
+    font-size: 0.8rem;
     font-weight: 700;
     cursor: pointer;
     display: inline-flex;
     align-items: center;
-    gap: 6px;
-    transition: background 0.15s;
+    gap: 5px;
+    transition: all 0.15s;
     flex-shrink: 0;
     font-family: inherit;
+    white-space: nowrap;
   }
   .lesson-viewer-back-btn:hover {
-    background: #475569;
+    background: #FFFFFF;
+    color: #005864;
+    border-color: #FFFFFF;
+  }
+  .lesson-viewer-stage-badge {
+    background: #00947A;
+    border: 1.5px solid #7ACBC1;
+    color: #FFFFFF;
+    padding: 3px 12px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.4px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .lesson-viewer-ctrl-btn {
+    background: rgba(255, 255, 255, 0.16);
+    color: white;
+    border: 1px solid rgba(181, 226, 232, 0.55);
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.15s;
+    font-family: inherit;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  .lesson-viewer-ctrl-btn:hover,
+  .lesson-viewer-ctrl-btn.active {
+    background: #FFFFFF;
+    color: #005864;
+    border-color: #FFFFFF;
+  }
+  .lesson-viewer-lang-wrap {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(181, 226, 232, 0.55);
+    border-radius: 999px;
+    padding: 2px 9px;
+    flex-shrink: 0;
+  }
+  .lesson-viewer-lang-select {
+    background: #FFFFFF;
+    border: 1px solid #6BD4DE;
+    border-radius: 999px;
+    padding: 2px 8px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #005864;
+    cursor: pointer;
+    font-family: inherit;
   }
   .lesson-viewer-body {
     flex: 1;
@@ -3633,18 +3692,37 @@ rt {
 <div class="app-modal-overlay" id="modal-lesson-viewer" style="padding:10px; z-index:2500;" onclick="if(event.target===this) closeLessonViewer(true)">
   <div class="app-modal-box lesson-viewer-box">
     <div class="lesson-viewer-header">
-      <div style="display:flex; align-items:center; gap:12px; min-width:0;">
+      <div style="display:flex; align-items:center; gap:10px; min-width:0; flex:1;">
         <button type="button" onclick="closeLessonViewer(true)" class="lesson-viewer-back-btn">
           ← テキスト一覧に戻る
         </button>
-        <span id="lesson-viewer-title" style="font-size:0.95rem; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:#F8FAFC;">テキスト教材</span>
+        <span id="lesson-viewer-stage-badge" class="lesson-viewer-stage-badge">STAGE 5 - LESSON 2</span>
+        <span id="lesson-viewer-title" style="font-size:0.95rem; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:#FFFFFF;">テキスト教材</span>
       </div>
-      <div style="display:flex; align-items:center; gap:10px; flex-shrink:0;">
-        <a id="lesson-viewer-external" href="#" target="_blank" rel="noopener noreferrer" style="color:#94A3B8; font-size:0.8rem; text-decoration:none; display:inline-flex; align-items:center; gap:4px; padding:4px 8px; border-radius:6px; background:rgba(255,255,255,0.06);" title="ブラウザの別タブで開く">
+      <div style="display:flex; align-items:center; gap:8px; flex-shrink:0;">
+        <button type="button" id="lesson-viewer-furigana-btn" class="lesson-viewer-ctrl-btn" onclick="toggleLessonViewerFurigana()">
+          あ ふりがな: ON
+        </button>
+        <div class="lesson-viewer-lang-wrap">
+          <span style="font-size:0.82rem;">🌐</span>
+          <select id="lesson-viewer-lang-select" class="lesson-viewer-lang-select" onchange="changeLessonViewerLang(this.value)">
+            <option value="en">English Only</option>
+            <option value="ko" selected>한국어</option>
+            <option value="zhcn">简体中文</option>
+            <option value="zhtw">繁體中文</option>
+            <option value="cant">粵語（香港）</option>
+            <option value="fr">Français</option>
+            <option value="all">All / 全言語</option>
+          </select>
+        </div>
+        <button type="button" class="lesson-viewer-ctrl-btn" onclick="printLessonViewerPDF()" title="A4横形式でPDF保存">
+          📥 PDF保存
+        </button>
+        <a id="lesson-viewer-external" href="#" target="_blank" rel="noopener noreferrer" class="lesson-viewer-ctrl-btn" title="ブラウザの別タブで開く">
           <span>別タブで開く</span>
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
         </a>
-        <button type="button" class="app-modal-close" style="color:#94A3B8; background:transparent; border:none; font-size:1.4rem; cursor:pointer; line-height:1;" onclick="closeLessonViewer(false)">✕</button>
+        <button type="button" class="app-modal-close" style="color:#E0F4F7; background:transparent; border:none; font-size:1.35rem; cursor:pointer; line-height:1; padding:0 4px;" onclick="closeLessonViewer(false)">✕</button>
       </div>
     </div>
     <div class="lesson-viewer-body">
@@ -6595,15 +6673,99 @@ Advice: Explanation in ${targetLangName} why it is corrected.
   }
 
   // ================= アプリ内テキスト教材ビューアの制御 =================
+  function syncLessonViewerControlsToIframe() {
+    const iframe = document.getElementById('lesson-viewer-iframe');
+    const fBtn = document.getElementById('lesson-viewer-furigana-btn');
+    const lSel = document.getElementById('lesson-viewer-lang-select');
+    const isFuriganaOff = document.body.classList.contains('furigana-off') || localStorage.getItem('jp_furigana_off') === '1';
+    const curLang = localStorage.getItem('jp_textbook_lang') || 'ko';
+
+    if (fBtn) {
+      fBtn.classList.toggle('active', isFuriganaOff);
+      fBtn.textContent = isFuriganaOff ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    }
+    if (lSel && lSel.value !== curLang) {
+      lSel.value = curLang;
+    }
+
+    if (!iframe || !iframe.contentDocument) return;
+    try {
+      const doc = iframe.contentDocument;
+      const win = iframe.contentWindow;
+      if (doc.head && !doc.getElementById('viewer-sync-style')) {
+        const st = doc.createElement('style');
+        st.id = 'viewer-sync-style';
+        st.textContent = '@media screen { header, .hw-banner { display: none !important; } } body.hide-furigana rt, body.hide-furigana rp, body.hide-furigana .furigana-text, body.furigana-off rt, body.furigana-off rp, body.furigana-off .furigana-text { display: none !important; }';
+        doc.head.appendChild(st);
+      }
+      if (doc.body) {
+        doc.body.classList.add('in-iframe');
+        doc.body.classList.toggle('hide-furigana', isFuriganaOff);
+        doc.body.classList.toggle('furigana-off', isFuriganaOff);
+      }
+      if (win && typeof win.applyLanguage === 'function') {
+        win.applyLanguage(curLang);
+      }
+    } catch (e) {}
+  }
+
+  function toggleLessonViewerFurigana() {
+    const isCurrentlyOff = document.body.classList.contains('furigana-off') || localStorage.getItem('jp_furigana_off') === '1';
+    const nextOff = !isCurrentlyOff;
+    localStorage.setItem('jp_furigana_off', nextOff ? '1' : '0');
+    document.body.classList.toggle('furigana-off', nextOff);
+    if (typeof updateFuriganaUI === 'function') {
+      try { updateFuriganaUI(); } catch (e) {}
+    }
+    syncLessonViewerControlsToIframe();
+  }
+
+  function changeLessonViewerLang(lang) {
+    localStorage.setItem('jp_textbook_lang', lang);
+    syncLessonViewerControlsToIframe();
+  }
+
+  function printLessonViewerPDF() {
+    const iframe = document.getElementById('lesson-viewer-iframe');
+    if (!iframe || !iframe.contentWindow) return;
+    try {
+      if (typeof iframe.contentWindow.downloadA4LandscapePDF === 'function') {
+        iframe.contentWindow.downloadA4LandscapePDF();
+      } else {
+        iframe.contentWindow.focus();
+        iframe.contentWindow.print();
+      }
+    } catch (e) {}
+  }
+
   function openLessonViewer(fileUrl, title) {
     const modal = document.getElementById('modal-lesson-viewer');
     const iframe = document.getElementById('lesson-viewer-iframe');
+    const badgeEl = document.getElementById('lesson-viewer-stage-badge');
     const titleEl = document.getElementById('lesson-viewer-title');
     const extEl = document.getElementById('lesson-viewer-external');
 
-    if (titleEl) titleEl.textContent = title || 'テキスト教材';
+    let badgeText = 'TEXTBOOK';
+    const mLesson = String(fileUrl || '').match(/Stage(\d+)-Lesson(\d+)/i);
+    const mRev = String(fileUrl || '').match(/Stage(\d+)-総復習/i);
+    if (mLesson) {
+      badgeText = `STAGE ${mLesson[1]} - LESSON ${mLesson[2]}`;
+    } else if (mRev) {
+      badgeText = `STAGE ${mRev[1]} - 総復習`;
+    }
+    if (badgeEl) badgeEl.textContent = badgeText;
+
+    let cleanTitle = String(title || 'テキスト教材').replace(/^(?:Lesson\s*\d+|Stage\s*\d+\s*総復習)\s*[:：]\s*/i, '').trim();
+    if (titleEl) titleEl.textContent = cleanTitle;
     if (extEl) extEl.href = fileUrl;
-    if (iframe) iframe.src = fileUrl;
+
+    syncLessonViewerControlsToIframe();
+    if (iframe) {
+      iframe.onload = function() {
+        syncLessonViewerControlsToIframe();
+      };
+      iframe.src = fileUrl;
+    }
 
     // カリキュラム一覧モーダルが開いている場合は一時的に閉じる
     const currModal = document.getElementById('modal-curriculum');

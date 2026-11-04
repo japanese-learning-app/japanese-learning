@@ -79,8 +79,24 @@
     line-height: 1.65;
     padding-bottom: 80px;
   }
-  body.hide-furigana ruby rt {
-    visibility: hidden;
+  body.hide-furigana rt,
+  body.hide-furigana rp,
+  body.hide-furigana .furigana-text,
+  body.furigana-off rt,
+  body.furigana-off rp,
+  body.furigana-off .furigana-text {
+    display: none !important;
+  }
+  @media screen {
+    body.in-iframe header,
+    body.in-iframe .hw-banner {
+      display: none !important;
+    }
+  }
+  .hw-banner,
+  .badge-hw,
+  #btn-slide {
+    display: none !important;
   }
   body.slide-mode .container {
     max-width: 1360px;
@@ -103,13 +119,13 @@
   body.slide-mode .roleplay-jp {
     font-size: 1.18rem;
   }
-  /* Header: Solid Blue-Green (No Gradient, No Yellow in Header) */
+  /* Header: Slim 1-Row Solid Blue-Green (No Gradient, No Yellow in Header) */
   header {
     background: #006E7F;
-    border-bottom: 3px solid #6BD4DE;
+    border-bottom: 2px solid #6BD4DE;
     color: white;
-    padding: 14px 28px;
-    box-shadow: 0 3px 12px rgba(0, 88, 100, 0.14);
+    padding: 8px 20px;
+    box-shadow: 0 2px 10px rgba(0, 88, 100, 0.14);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -121,52 +137,50 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 12px;
   }
-  .header-title-box { display: flex; flex-direction: column; gap: 4px; }
-  .header-top-badges { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .header-title-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+    flex: 1;
+  }
+  .header-top-badges {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
   .badge-stage {
     background: #00947A;
-    border: 1px solid #7ACBC1;
+    border: 1.5px solid #7ACBC1;
     color: white;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
+    font-size: 0.75rem;
     padding: 3px 12px;
     border-radius: 999px;
     font-weight: 800;
     letter-spacing: 0.5px;
-  }
-  .badge-hw {
-    background: #E0F4F7;
-    color: #005864;
-    border: 1px solid #6BD4DE;
-    font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
-    padding: 2px 12px;
-    border-radius: 999px;
-    font-weight: 700;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-  .badge-hw:hover {
-    transform: translateY(-1px);
-    background: #FFFFFF;
+    white-space: nowrap;
   }
   .header-title-box h1 {
-    font-size: 1.18rem;
+    font-size: 1.02rem;
     font-weight: 700;
     letter-spacing: 0.2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
   }
   .header-controls {
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
   }
   .ctrl-btn {
     background: rgba(255,255,255,0.16);
@@ -1341,13 +1355,11 @@
     <div class="header-title-box">
       <div class="header-top-badges">
         <span class="badge-stage">STAGE 5 - LESSON 2</span>
-        <a class="badge-hw" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[5])" title="宿題フラッシュカード単語へ移動">📚 宿題連動: Flashcard #34 (基本動詞5・22語) ＆ #29 (電車・20語)</a>
       </div>
-      <h1>私の趣味はギターを弾くことです（名詞化「こと」・〜まえに・〜たあとで・〜てから）</h1>
+      <h1>私の趣味はギターを弾くことです（名詞化「辞書形＋こと」・順序）</h1>
     </div>
     <div class="header-controls">
       <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
-      <button class="ctrl-btn" id="btn-slide" onclick="toggleSlideMode()">📽️ スライド表示</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1363,16 +1375,6 @@
     </div>
   </div>
 </header>
-
-<div class="hw-banner">
-  <div class="hw-banner-inner">
-    <div><strong>🎯 このレッスンの宿題・復習連携：</strong> フラッシュカード <strong>#34「基本動詞(5) 22語（調べる・集める・弾く・掃除する・予約・連れて行く等）」</strong> と <strong>#29「電車 20語（券売機・改札口・時刻表・往復等）」</strong> の全42語を例文・即応ドリル・語彙プールで完全網羅しています！</div>
-    <div class="hw-banner-actions">
-      <button class="hw-action-btn" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[5])">⭐ 語彙プール (42語) を見る</button>
-      <button class="hw-action-btn" onclick="bulkSaveAllWords()">📥 42語すべてマイリストに一括追加</button>
-    </div>
-  </div>
-</div>
 
 <div class="nav-bar">
   <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 辞書形・た形と時間軸</button>
@@ -1621,14 +1623,14 @@
 
         <div class="practice-part-header">
           <span class="practice-part-badge">Drill A</span>
-          <div class="practice-part-title">即応ドリル A：趣味は［動詞辞書形］ことです（全6問・宿題 #34 動詞使用）</div>
+          <div class="practice-part-title">即応ドリル A：趣味は［動詞辞書形］ことです（全6問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. My hobby is playing the guitar. (弾く)</div><button class="btn-check-reveal" id="btn-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はギターを<ruby>弾<rt>ひ</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味はギターを弾くことです。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. Ms. Suzuki's hobby is singing Japanese songs. (歌う)</div><button class="btn-check-reveal" id="btn-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a2"><span>鈴木さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんの趣味は日本の歌を歌うことです。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. Mr. Nakamura's hobby is collecting old clocks/watches. (集める)</div><button class="btn-check-reveal" id="btn-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a3"><span>中村さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>い<ruby>時計<rt>とけい</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('中村さんの趣味は古い時計を集めることです。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. Mr. Sato's hobby is driving a car on weekends. (運転する)</div><button class="btn-check-reveal" id="btn-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a4"><span>佐藤さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんの趣味は週末に車を運転することです。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. Ms. Takahashi's hobby is looking up delicious cafes on her smartphone. (調べる)</div><button class="btn-check-reveal" id="btn-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a5"><span>高橋さんの<ruby>趣味<rt>しゅみ</rt></ruby>はスマホでおいしいカフェを<ruby>調<rt>しら</rt></ruby>べることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('高橋さんの趣味はスマホでおいしいカフェを調べることです。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. Mr. Ito's hobby is repairing old bicycles. (修理する)</div><button class="btn-check-reveal" id="btn-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a6"><span>伊藤さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>い<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('伊藤さんの趣味は古い自転車を修理することです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-1. My hobby is playing the guitar.</div><button class="btn-check-reveal" id="btn-a1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a1"><span><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はギターを<ruby>弾<rt>ひ</rt></ruby>くことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('私の趣味はギターを弾くことです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-2. Ms. Suzuki's hobby is singing Japanese songs.</div><button class="btn-check-reveal" id="btn-a2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a2"><span>鈴木さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんの趣味は日本の歌を歌うことです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-3. Mr. Nakamura's hobby is collecting old clocks/watches.</div><button class="btn-check-reveal" id="btn-a3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a3"><span>中村さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>い<ruby>時計<rt>とけい</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('中村さんの趣味は古い時計を集めることです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-4. Mr. Sato's hobby is driving a car on weekends.</div><button class="btn-check-reveal" id="btn-a4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a4"><span>佐藤さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんの趣味は週末に車を運転することです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-5. Ms. Takahashi's hobby is looking up delicious cafes on her smartphone.</div><button class="btn-check-reveal" id="btn-a5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a5"><span>高橋さんの<ruby>趣味<rt>しゅみ</rt></ruby>はスマホでおいしいカフェを<ruby>調<rt>しら</rt></ruby>べることです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('高橋さんの趣味はスマホでおいしいカフェを調べることです。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('a6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">A-6. Mr. Ito's hobby is repairing old bicycles.</div><button class="btn-check-reveal" id="btn-a6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-a6"><span>伊藤さんの<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>い<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>することです。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('伊藤さんの趣味は古い自転車を修理することです。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -1698,16 +1700,16 @@
 
         <div class="practice-part-header">
           <span class="practice-part-badge">Drill B</span>
-          <div class="practice-part-title">即応ドリル B：［動詞辞書形 ／ 名詞の ／ 期間］＋ まえに（全8問・宿題 #34 &amp; #29 連動）</div>
+          <div class="practice-part-title">即応ドリル B：［動詞辞書形 ／ 名詞の ／ 期間］＋ まえに（全8問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. Before studying abroad in Japan, I memorized hiragana and katakana. (留学する)</div><button class="btn-check-reveal" id="btn-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b1"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>留学<rt>りゅうがく</rt></ruby>するまえに、ひらがなとカタカナを<ruby>覚<rt>おぼ</rt></ruby>えました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ留学するまえに、ひらがなとカタカナを覚えました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. Before leaving home, please throw away the trash. (捨てる)</div><button class="btn-check-reveal" id="btn-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b2"><span><ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るまえに、ゴミを<ruby>捨<rt>す</rt></ruby>ててください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('家を出るまえに、ゴミを捨ててください。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. Before studying abroad in Japan, I memorized hiragana and katakana.</div><button class="btn-check-reveal" id="btn-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b1"><span><ruby>日本<rt>にほん</rt></ruby>へ<ruby>留学<rt>りゅうがく</rt></ruby>するまえに、ひらがなとカタカナを<ruby>覚<rt>おぼ</rt></ruby>えました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本へ留学するまえに、ひらがなとカタカナを覚えました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. Before leaving home, please throw away the trash.</div><button class="btn-check-reveal" id="btn-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b2"><span><ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るまえに、ゴミを<ruby>捨<rt>す</rt></ruby>ててください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('家を出るまえに、ゴミを捨ててください。')" title="Listen">🔊</button></div></div>
         <div class="toggle-item" onclick="toggleAnswer('b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. Before riding the limited express train (特急), please buy a ticket at the ticket machine (券売機).</div><button class="btn-check-reveal" id="btn-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b3"><span><ruby>特急<rt>とっきゅう</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るまえに、<ruby>券売機<rt>けんばいき</rt></ruby>で<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('特急に乗るまえに、券売機で切符を買ってください。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Before eating a meal, Japanese people say "Itadakimasu". (言う)</div><button class="btn-check-reveal" id="btn-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b4"><span>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、「いただきます」と<ruby>言<rt>い</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べるまえに、いただきますと言います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. Before getting off the train, I checked the nearest exit (出口). (調べる)</div><button class="btn-check-reveal" id="btn-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b5"><span><ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>降<rt>お</rt></ruby>りるまえに、<ruby>近<rt>ちか</rt></ruby>い<ruby>出口<rt>でぐち</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車を降りるまえに、近い出口を調べました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. Before eating breakfast, I took my dog to the park. (連れて行く)</div><button class="btn-check-reveal" id="btn-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b6"><span><ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、<ruby>犬<rt>いぬ</rt></ruby>を<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('朝ごはんを食べるまえに、犬を公園へ連れて行きました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-7. Before the trip (名詞), I did the laundry and cleaned my room. (洗濯する・掃除する)</div><button class="btn-check-reveal" id="btn-b7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b7"><span><ruby>旅行<rt>りょこう</rt></ruby>のまえに、<ruby>洗濯<rt>せんたく</rt></ruby>して<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('旅行のまえに、洗濯して部屋を掃除しました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('b8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-8. Three days ago (3日まえに), I contacted Mr. Tanaka. (連絡する)</div><button class="btn-check-reveal" id="btn-b8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b8"><span>3<ruby>日<rt>か</rt></ruby>まえに、田中さんに<ruby>連絡<rt>れんらく</rt></ruby>しました。（※「3日のまえに」とは言いません！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('みっかまえに、田中さんに連絡しました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Before eating a meal, Japanese people say "Itadakimasu".</div><button class="btn-check-reveal" id="btn-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b4"><span>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、「いただきます」と<ruby>言<rt>い</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べるまえに、いただきますと言います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. Before getting off the train, I checked the nearest exit (出口).</div><button class="btn-check-reveal" id="btn-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b5"><span><ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>降<rt>お</rt></ruby>りるまえに、<ruby>近<rt>ちか</rt></ruby>い<ruby>出口<rt>でぐち</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車を降りるまえに、近い出口を調べました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. Before eating breakfast, I took my dog to the park.</div><button class="btn-check-reveal" id="btn-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b6"><span><ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べるまえに、<ruby>犬<rt>いぬ</rt></ruby>を<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('朝ごはんを食べるまえに、犬を公園へ連れて行きました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-7. Before the trip, I did the laundry and cleaned my room.</div><button class="btn-check-reveal" id="btn-b7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b7"><span><ruby>旅行<rt>りょこう</rt></ruby>のまえに、<ruby>洗濯<rt>せんたく</rt></ruby>して<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('旅行のまえに、洗濯して部屋を掃除しました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('b8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-8. Three days ago, I contacted Mr. Tanaka.</div><button class="btn-check-reveal" id="btn-b8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-b8"><span>3<ruby>日<rt>か</rt></ruby>まえに、田中さんに<ruby>連絡<rt>れんらく</rt></ruby>しました。（※「3日のまえに」とは言いません！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('みっかまえに、田中さんに連絡しました。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Do not add の after numbers/time periods (say 3日まえに, not 3日のまえに)!" data-ko="※ 숫자·기간 뒤에는 &#x27;の&#x27;를 붙이지 않습니다(3日まえに)!" data-zhcn="※ 数字、时间段后面不加「の」（说 3日まえに）！" data-zhtw="※ 數字、時間段後面不加「の」（說 3日まえに）！" data-cant="※ 數字、時間段後面唔加「の」（講 3日まえに）！" data-fr="※ Do not add の after numbers/time periods (say 3日まえに, not 3日のまえに)!">※ Do not add の after numbers/time periods (say 3日まえに, not 3日のまえに)!</div></div></div>
       </div>
     </div>
 
@@ -1777,14 +1779,14 @@
 
         <div class="practice-part-header">
           <span class="practice-part-badge">Drill C-1</span>
-          <div class="practice-part-title">即応ドリル C-1：〜たあとで ＆ 〜てから（全6問・宿題 #34 &amp; #29 連動）</div>
+          <div class="practice-part-title">即応ドリル C-1：〜たあとで ＆ 〜てから（全6問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. After repairing my bicycle, I went shopping. (修理したあとで)</div><button class="btn-check-reveal" id="btn-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c1"><span><ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>したあとで、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('自転車を修理したあとで、買い物に行きました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. After buying a one-way ticket (片道の切符) at the ticket machine, I entered the ticket gate. (〜てから)</div><button class="btn-check-reveal" id="btn-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c2"><span><ruby>券売機<rt>けんばいき</rt></ruby>で<ruby>片道<rt>かたみち</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってから、<ruby>改札口<rt>かいさつぐち</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('券売機で片道の切符を買ってから、改札口に入りました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. After arriving at Kyoto Station, I will contact Ms. Suzuki. (着いたあとで・連絡する)</div><button class="btn-check-reveal" id="btn-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c3"><span><ruby>京都駅<rt>きょうとえき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたあとで、鈴木さんに<ruby>連絡<rt>れんらく</rt></ruby>します。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都駅に着いたあとで、鈴木さんに連絡します。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. On Sunday, after cleaning my room and doing the laundry, I went out to watch a movie. (〜てから)</div><button class="btn-check-reveal" id="btn-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c4"><span><ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>と<ruby>洗濯<rt>せんたく</rt></ruby>をしてから、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日曜日、部屋の掃除と洗濯をしてから、映画を見に出かけました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After exiting the West Exit (西口), please walk to the right. (出たあとで)</div><button class="btn-check-reveal" id="btn-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c5"><span><ruby>駅<rt>えき</rt></ruby>の<ruby>西口<rt>にしぐち</rt></ruby>を<ruby>出<rt>で</rt></ruby>たあとで、<ruby>右<rt>みぎ</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いてください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅の西口を出たあとで、右へ歩いてください。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. After checking the timetable (時刻表), I reserved a round-trip ticket (往復の切符). (調べてから)</div><button class="btn-check-reveal" id="btn-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c6"><span><ruby>時刻表<rt>じこくひょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてから、<ruby>往復<rt>おうふく</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('時刻表を調べてから、往復の切符を予約しました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. After repairing my bicycle, I went shopping.</div><button class="btn-check-reveal" id="btn-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c1"><span><ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>したあとで、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('自転車を修理したあとで、買い物に行きました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. After buying a one-way ticket (片道の切符) at the ticket machine, I entered the ticket gate.</div><button class="btn-check-reveal" id="btn-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c2"><span><ruby>券売機<rt>けんばいき</rt></ruby>で<ruby>片道<rt>かたみち</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってから、<ruby>改札口<rt>かいさつぐち</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('券売機で片道の切符を買ってから、改札口に入りました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. After arriving at Kyoto Station, I will contact Ms. Suzuki.</div><button class="btn-check-reveal" id="btn-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c3"><span><ruby>京都駅<rt>きょうとえき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたあとで、鈴木さんに<ruby>連絡<rt>れんらく</rt></ruby>します。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都駅に着いたあとで、鈴木さんに連絡します。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. On Sunday, after cleaning my room and doing the laundry, I went out to watch a movie.</div><button class="btn-check-reveal" id="btn-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c4"><span><ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>と<ruby>洗濯<rt>せんたく</rt></ruby>をしてから、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日曜日、部屋の掃除と洗濯をしてから、映画を見に出かけました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After exiting the West Exit (西口), please walk to the right.</div><button class="btn-check-reveal" id="btn-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c5"><span><ruby>駅<rt>えき</rt></ruby>の<ruby>西口<rt>にしぐち</rt></ruby>を<ruby>出<rt>で</rt></ruby>たあとで、<ruby>右<rt>みぎ</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いてください。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅の西口を出たあとで、右へ歩いてください。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. After checking the timetable (時刻表), I reserved a round-trip ticket (往復の切符).</div><button class="btn-check-reveal" id="btn-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-c6"><span><ruby>時刻表<rt>じこくひょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてから、<ruby>往復<rt>おうふく</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('時刻表を調べてから、往復の切符を予約しました。')" title="Listen">🔊</button></div></div>
 
         <div class="practice-part-header">
           <span class="practice-part-badge" style="background:var(--pink-text);">Drill C-2</span>
@@ -1996,16 +1998,16 @@
           <div class="practice-part-title">即応ドリル D：「後で」「後に」「〜てから」完全使い分け（全10問）</div>
         </div>
 
-        <div class="toggle-item" onclick="toggleAnswer('d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. 今は会議中ですから、（あとで ／ あとに）電話しますね。</div><button class="btn-check-reveal" id="btn-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1"><span>正解：<strong>あとで</strong>（単独の「later＝後の時間枠を使ってする」は100%「あとで」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今は会議中ですから、あとで電話しますね。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. 東京行きの特急は、15分（あとで ／ あとに）出発します。</div><button class="btn-check-reveal" id="btn-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2"><span>正解：15<ruby>分<rt>ふん</rt></ruby><strong>あとに（後に）</strong>（数字＋時間の到達点は100%「あとに／ごに」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('東京行きの特急は、15分あとに発車します。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. 迷子になりますから、私の（あとで ／ あとに）ついて来てください。</div><button class="btn-check-reveal" id="btn-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3"><span>正解：<ruby>私<rt>わたし</rt></ruby>の<strong>あとに</strong>（「後ろの位置［帰着点］へ移動して来て」なので100%「あとに」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('迷子になりますから、私のあとについて来てください。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. 今は忙しいので、その話は（あとで ／ あとに）しましょう。</div><button class="btn-check-reveal" id="btn-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4"><span>正解：<strong>あとに</strong>しましょう（他の時間帯から「後」へ移動・先送りする「後にする」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今は忙しいので、その話はあとにしましょう。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. アルコール消毒を（してから ／ したあとで）、店内にお入りください。</div><button class="btn-check-reveal" id="btn-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d5"><span>正解：<strong>してから</strong>（入店するための「必須条件・準備ステップ」なので「〜てから」が自然！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('アルコール消毒をしてから、店内にお入りください。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. 電車を（降りてから ／ 降りたあとで）、スマホがないことに気がついた。</div><button class="btn-check-reveal" id="btn-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d6"><span>正解：<strong>降りたあとで</strong>（偶然の気づき・無意志の結果には「〜てから」は使えません！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車を降りたあとで、スマホがないことに気がついた。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-7. 日本では、二十歳に（なってから ／ なったあとで）、お酒を飲みます。</div><button class="btn-check-reveal" id="btn-d7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d7"><span>正解：<strong>なってから</strong>（法律上の必須条件なので「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本では、二十歳になってから、お酒を飲みます。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-8. 日本に（来てから ／ 来たあとで）、空手を始めました。</div><button class="btn-check-reveal" id="btn-d8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d8"><span>正解：<strong>来てから</strong>（ある出来事をきっかけ・起点にした変化や継続は「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本に来てから、空手を始めました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d9')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-9. お湯が（沸いてから ／ 沸いたあとで）、野菜を入れます。</div><button class="btn-check-reveal" id="btn-d9">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d9"><span>正解：<strong>沸いてから</strong>（沸騰することが野菜を入れる条件・シームレスな調理手順なので「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お湯が沸いてから、野菜を入れます。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('d10')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-10.【日常会話の安心ルール】晩ごはんを（食べたあとで ／ 食べたあとに）、薬を飲んでください。</div><button class="btn-check-reveal" id="btn-d10">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d10"><span>正解：<strong>どちらも100%自然でOK！</strong>（日常会話で2つの動作をつなぐ時は両方使えます！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('晩ごはんを食べたあとで、薬を飲んでください。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. 今は会議中ですから、（あとで ／ あとに）電話しますね。</div><button class="btn-check-reveal" id="btn-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d1"><span>正解：<strong>あとで</strong>（単独の「later＝後の時間枠を使ってする」は100%「あとで」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今は会議中ですから、あとで電話しますね。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Standalone &#x27;later&#x27; (with no verb/noun before it) is ALWAYS あとで!" data-ko="※ 앞에 다른 말 없이 단독으로 &#x27;나중에(later)&#x27;라고 할 때는 100% 「あとで」!" data-zhcn="※ 前面不接任何词单独表示“稍后、回头（later）”时，100%用「あとで」！" data-zhtw="※ 前面不接任何詞單獨表示「稍後、回頭（later）」時，100%用「あとで」！" data-cant="※ 前面唔接任何詞單獨表示「陣間、遲啲（later）」嗰陣，100%用「あとで」！" data-fr="※ Standalone &#x27;later&#x27; (with no verb/noun before it) is ALWAYS あとで!">※ Standalone 'later' (with no verb/noun before it) is ALWAYS あとで!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. 東京行きの特急は、15分（あとで ／ あとに）出発します。</div><button class="btn-check-reveal" id="btn-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d2"><span>正解：15<ruby>分<rt>ふん</rt></ruby><strong>あとに（後に）</strong>（数字＋時間の到達点は100%「あとに／ごに」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('東京行きの特急は、15分あとに発車します。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Number + time point (&#x27;15 minutes later&#x27;) is ALWAYS あとに (ごに)!" data-ko="※ 숫자+시간의 시점(&#x27;15분 후에&#x27;)은 100% 「あとに(ごに)」!" data-zhcn="※ 数字＋时间点（“15分钟后”）100%用「あとに（ごに）」！" data-zhtw="※ 數字＋時間點（「15分鐘後」）100%用「あとに（ごに）」！" data-cant="※ 數字＋時間點（「15分鐘後」）100%用「あとに（ごに）」！" data-fr="※ Number + time point (&#x27;15 minutes later&#x27;) is ALWAYS あとに (ごに)!">※ Number + time point ('15 minutes later') is ALWAYS あとに (ごに)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. 迷子になりますから、私の（あとで ／ あとに）ついて来てください。</div><button class="btn-check-reveal" id="btn-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d3"><span>正解：<ruby>私<rt>わたし</rt></ruby>の<strong>あとに</strong>（「後ろの位置」について来るときは100%「あとに」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('迷子になりますから、私のあとについて来てください。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Following behind someone&#x27;s position (&#x27;follow behind me&#x27;) is ALWAYS あとに!" data-ko="※ 사람의 뒤쪽 위치를 따라올 때(&#x27;제 뒤를 따라오세요&#x27;)는 100% 「あとに」!" data-zhcn="※ 跟在别人身后的位置（“请跟在我身后”）100%用「あとに」！" data-zhtw="※ 跟在別人身後的位置（「請跟在我身後」）100%用「あとに」！" data-cant="※ 跟喺人哋後面嘅位置（「請跟喺我後面」）100%用「あとに」！" data-fr="※ Following behind someone&#x27;s position (&#x27;follow behind me&#x27;) is ALWAYS あとに!">※ Following behind someone's position ('follow behind me') is ALWAYS あとに!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. 今は忙しいので、その話は（あとで ／ あとに）しましょう。</div><button class="btn-check-reveal" id="btn-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d4"><span>正解：<strong>あとに</strong>しましょう（予定を後ろへ回す・先送りする時は「後にする」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今は忙しいので、その話はあとにしましょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Postponing / putting something off until later uses the fixed expression あとにする (あとにしましょう)!" data-ko="※ 일정을 뒤로 미룰 때는 「あとにする(あとにしましょう)」를 씁니다!" data-zhcn="※ 把事情往后推迟、先放一放时，使用固定表达「あとにする（あとにしましょう）」！" data-zhtw="※ 把事情往後推遲、先放一放時，使用固定表達「あとにする（あとにしましょう）」！" data-cant="※ 將件事推遲、擺後啲先傾嗰陣，用固定表達「あとにする（あとにしましょう）」！" data-fr="※ Postponing / putting something off until later uses the fixed expression あとにする (あとにしましょう)!">※ Postponing / putting something off until later uses the fixed expression あとにする (あとにしましょう)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. アルコール消毒を（してから ／ したあとで）、店内にお入りください。</div><button class="btn-check-reveal" id="btn-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d5"><span>正解：<strong>してから</strong>（入店するための「必須条件・準備ステップ」なので「〜てから」が自然！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('アルコール消毒をしてから、店内にお入りください。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Because sanitizing hands is a required preparation/step before entering the store, 〜てから is most natural!" data-ko="※ 매장 입장을 위한 &#x27;필수 조건·준비 단계&#x27;이므로 「〜てから」가 자연스럽습니다!" data-zhcn="※ 因为酒精消毒是进店的“必要条件・准备步骤”，所以用「〜てから」最自然！" data-zhtw="※ 因為酒精消毒是進店的「必要條件・準備步驟」，所以用「〜てから」最自然！" data-cant="※ 因為消毒雙手係入舖頭嘅「必要條件・準備步驟」，所以用「〜てから」最自然！" data-fr="※ Because sanitizing hands is a required preparation/step before entering the store, 〜てから is most natural!">※ Because sanitizing hands is a required preparation/step before entering the store, 〜てから is most natural!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. 電車を（降りてから ／ 降りたあとで）、スマホがないことに気がついた。</div><button class="btn-check-reveal" id="btn-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d6"><span>正解：<strong>降りたあとで</strong>（偶然の気づき・たまたま起きた結果には「〜てから」は使えません！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('電車を降りたあとで、スマホがないことに気がついた。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ For accidental realizations or unintended results (&#x27;noticed my phone was gone&#x27;), you CANNOT use 〜てから — use 〜たあとで!" data-ko="※ 우연히 깨달은 일이나 비의도적 결과(&#x27;스마트폰이 없어진 것을 깨달았다&#x27;)에는 「〜てから」를 쓸 수 없으며 「〜たあとで」를 씁니다!" data-zhcn="※ 对于偶然发觉或非刻意的结果（“发觉手机不见了”），不能用「〜てから」，必须用「〜たあとで」！" data-zhtw="※ 對於偶然發覺或非刻意的結果（「發覺手機不見了」），不能用「〜てから」，必須用「〜たあとで」！" data-cant="※ 對於偶然發覺或者非刻意嘅結果（「發覺唔見咗部電話」），唔可以用「〜てから」，一定要用「〜たあとで」！" data-fr="※ For accidental realizations or unintended results (&#x27;noticed my phone was gone&#x27;), you CANNOT use 〜てから — use 〜たあとで!">※ For accidental realizations or unintended results ('noticed my phone was gone'), you CANNOT use 〜てから — use 〜たあとで!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d7')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-7. 日本では、二十歳に（なってから ／ なったあとで）、お酒を飲みます。</div><button class="btn-check-reveal" id="btn-d7">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d7"><span>正解：<strong>なってから</strong>（法律上の必須条件なので「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本では、二十歳になってから、お酒を飲みます。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Turning 20 is a required legal prerequisite before drinking alcohol, so use 〜てから!" data-ko="※ 만 20세가 되는 것이 음주의 법적 필수 조건이므로 「〜てから」를 씁니다!" data-zhcn="※ 满20岁是饮酒的法定必要前提条件，因此使用「〜てから」！" data-zhtw="※ 滿20歲是飲酒的法定必要前提條件，因此使用「〜てから」！" data-cant="※ 滿20歲係飲酒嘅法定必要前提條件，所以用「〜てから」！" data-fr="※ Turning 20 is a required legal prerequisite before drinking alcohol, so use 〜てから!">※ Turning 20 is a required legal prerequisite before drinking alcohol, so use 〜てから!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d8')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-8. 日本に（来てから ／ 来たあとで）、空手を始めました。</div><button class="btn-check-reveal" id="btn-d8">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d8"><span>正解：<strong>来てから</strong>（「〜して以来」の起点・きっかけを表す時は「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('日本に来てから、空手を始めました。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ When expressing a starting point (&#x27;since coming to Japan&#x27;), use 〜てから!" data-ko="※ 어떤 일을 계기·기점으로 한 변화나 지속(&#x27;일본에 온 이래로&#x27;)은 「〜てから」를 씁니다!" data-zhcn="※ 表示以某事为起点或契机（“自从来到日本之后”）时，使用「〜てから」！" data-zhtw="※ 表示以某事為起點或契機（「自從來到日本之後」）時，使用「〜てから」！" data-cant="※ 表示以某件事作為起點或者契機（「自從嚟咗日本之後」）嗰陣，用「〜てから」！" data-fr="※ When expressing a starting point (&#x27;since coming to Japan&#x27;), use 〜てから!">※ When expressing a starting point ('since coming to Japan'), use 〜てから!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d9')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-9. お湯が（沸いてから ／ 沸いたあとで）、野菜を入れます。</div><button class="btn-check-reveal" id="btn-d9">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d9"><span>正解：<strong>沸いてから</strong>（お湯が沸くことが野菜を入れる条件・料理の手順なので「〜てから」！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('お湯が沸いてから、野菜を入れます。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Water boiling is the required step in the cooking sequence before adding vegetables, so use 〜てから!" data-ko="※ 물이 끓는 것이 채소를 넣기 위한 필수 조리 순서·조건이므로 「〜てから」를 씁니다!" data-zhcn="※ 水开是放蔬菜的必要前提与烹饪步骤，因此使用「〜てから」！" data-zhtw="※ 水開是放蔬菜的必要前提與烹飪步驟，因此使用「〜てから」！" data-cant="※ 水滾係落菜嘅必要前提同埋煮食步驟，所以用「〜てから」！" data-fr="※ Water boiling is the required step in the cooking sequence before adding vegetables, so use 〜てから!">※ Water boiling is the required step in the cooking sequence before adding vegetables, so use 〜てから!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('d10')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-10.【日常会話の安心ルール】晩ごはんを（食べたあとで ／ 食べたあとに）、薬を飲んでください。</div><button class="btn-check-reveal" id="btn-d10">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-d10"><span>正解：<strong>どちらも100%自然でOK！</strong>（前に動詞がある普通の文では両方同じ意味で使えます！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('晩ごはんを食べたあとで、薬を飲んでください。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Both 食べたあとで and 食べたあとに are 100% natural and correct when connecting two actions in daily conversation!" data-ko="※ 동사 뒤에 붙어 일상 대화에서 두 동작을 연결할 때는 「食べたあとで」와 「食べたあとに」 둘 다 100% 자연스럽고 정답입니다!" data-zhcn="※ 在日常会话中接在动词后连接两个动作时，「食べたあとで」和「食べたあとに」两个都100%自然且正确！" data-zhtw="※ 在日常會話中接在動詞後連接兩個動作時，「食べたあとで」和「食べたあとに」兩個都100%自然且正確！" data-cant="※ 喺日常對話入面接喺動詞後面連住兩個動作嗰陣，「食べたあとで」同「食べたあとに」兩個都100%自然又啱！" data-fr="※ Both 食べたあとで and 食べたあとに are 100% natural and correct when connecting two actions in daily conversation!">※ Both 食べたあとで and 食べたあとに are 100% natural and correct when connecting two actions in daily conversation!</div></div></div>
       </div>
     </div>
   </section>
@@ -2210,7 +2212,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-5')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-5. Before changing the schedule (予定を変える), let's contact Mr. Tanaka.</div>
+        <div class="toggle-prompt-text">R-5. Before changing the schedule, let's contact Mr. Tanaka.</div>
         <button class="btn-check-reveal" id="btn-r-5">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-5">
@@ -2220,7 +2222,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-6')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-6. Because your family will worry (心配する), please come home early before it gets dark.</div>
+        <div class="toggle-prompt-text">R-6. Because your family will worry, please come home early before it gets dark.</div>
         <button class="btn-check-reveal" id="btn-r-6">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-6">
@@ -2230,7 +2232,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-7')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-7. Before going down the stairs, please watch your step (気を付ける).</div>
+        <div class="toggle-prompt-text">R-7. Before going down the stairs, please watch your step.</div>
         <button class="btn-check-reveal" id="btn-r-7">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-7">
@@ -2250,7 +2252,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-9')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-9. Before going out, I check whether to take an umbrella along (持って行く).</div>
+        <div class="toggle-prompt-text">R-9. Before going out, I check whether to take an umbrella along.</div>
         <button class="btn-check-reveal" id="btn-r-9">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-9">
@@ -2260,7 +2262,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-10')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-10. After taking a day off (休みを取ってから), I stayed at a hot spring hotel.</div>
+        <div class="toggle-prompt-text">R-10. After taking a day off, I stayed at a hot spring hotel.</div>
         <button class="btn-check-reveal" id="btn-r-10">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-10">
@@ -2280,7 +2282,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('r-12')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">R-12. Before bringing my friend to the party (連れてくるまえに), I contacted Mr. Sato.</div>
+        <div class="toggle-prompt-text">R-12. Before bringing my friend to the party, I contacted Mr. Sato.</div>
         <button class="btn-check-reveal" id="btn-r-12">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-r-12">
@@ -2344,7 +2346,7 @@
     <div class="word-pool-grid" id="word-pool-grid">
       <div class="word-pool-card" data-type="verb" data-word="調べる" data-reading="しらべる" data-meaning="to check / look up / investigate" data-example="旅行に行くまえに、スマホで時刻表を調べます。">
         <div>
-          <div class="pool-word-jp">1. 調べる（しらべる） <button class="tts-btn" onclick="speakText('調べる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">1. 調べる<span class="furigana-text">（しらべる）</span> <button class="tts-btn" onclick="speakText('調べる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 調べた</div>
           <div class="pool-word-trans">to check / look up / investigate</div>
           <div class="pool-word-native i18n-native" data-ko="조사하다 / 찾아보다" data-zhcn="调查 / 查阅" data-zhtw="調查 / 查閱" data-cant="查 / 查資料" data-fr="chercher / vérifier"></div>
@@ -2353,7 +2355,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="修理する" data-reading="しゅうりする" data-meaning="to repair / fix" data-example="自転車を修理したあとで、買い物に行きます。">
         <div>
-          <div class="pool-word-jp">2. 修理する（しゅうりする） <button class="tts-btn" onclick="speakText('修理する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">2. 修理する<span class="furigana-text">（しゅうりする）</span> <button class="tts-btn" onclick="speakText('修理する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 修理した</div>
           <div class="pool-word-trans">to repair / fix</div>
           <div class="pool-word-native i18n-native" data-ko="수리하다" data-zhcn="修理" data-zhtw="修理" data-cant="修理 / 整返" data-fr="réparer"></div>
@@ -2362,7 +2364,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="連絡する" data-reading="れんらくする" data-meaning="to contact / get in touch" data-example="駅に着いたあとで、田中さんに連絡します。">
         <div>
-          <div class="pool-word-jp">3. 連絡する（れんらくする） <button class="tts-btn" onclick="speakText('連絡する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">3. 連絡する<span class="furigana-text">（れんらくする）</span> <button class="tts-btn" onclick="speakText('連絡する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 連絡した</div>
           <div class="pool-word-trans">to contact / get in touch</div>
           <div class="pool-word-native i18n-native" data-ko="연락하다" data-zhcn="联系" data-zhtw="聯絡" data-cant="聯絡" data-fr="contacter"></div>
@@ -2371,7 +2373,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="泊まる" data-reading="とまる" data-meaning="to stay (overnight at a hotel)" data-example="京都のホテルに泊まるまえに、予約を確認しました。">
         <div>
-          <div class="pool-word-jp">4. 泊まる（とまる） <button class="tts-btn" onclick="speakText('泊まる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">4. 泊まる<span class="furigana-text">（とまる）</span> <button class="tts-btn" onclick="speakText('泊まる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 泊まった</div>
           <div class="pool-word-trans">to stay (overnight at a hotel)</div>
           <div class="pool-word-native i18n-native" data-ko="묵다 / 숙박하다" data-zhcn="住宿 / 过夜" data-zhtw="住宿 / 過夜" data-cant="住（酒店）/ 過夜" data-fr="loger / passer la nuit"></div>
@@ -2380,7 +2382,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="掃除する" data-reading="そうじする" data-meaning="to clean (a room)" data-example="友達が来るまえに、部屋を掃除しました。">
         <div>
-          <div class="pool-word-jp">5. 掃除する（そうじする） <button class="tts-btn" onclick="speakText('掃除する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">5. 掃除する<span class="furigana-text">（そうじする）</span> <button class="tts-btn" onclick="speakText('掃除する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 掃除した</div>
           <div class="pool-word-trans">to clean (a room)</div>
           <div class="pool-word-native i18n-native" data-ko="청소하다" data-zhcn="打扫" data-zhtw="打掃" data-cant="打掃 / 執屋" data-fr="nettoyer"></div>
@@ -2389,7 +2391,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="洗濯する" data-reading="せんたくする" data-meaning="to do laundry" data-example="朝ごはんを食べるまえに、洗濯しました。">
         <div>
-          <div class="pool-word-jp">6. 洗濯する（せんたくする） <button class="tts-btn" onclick="speakText('洗濯する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">6. 洗濯する<span class="furigana-text">（せんたくする）</span> <button class="tts-btn" onclick="speakText('洗濯する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 洗濯した</div>
           <div class="pool-word-trans">to do laundry</div>
           <div class="pool-word-native i18n-native" data-ko="세탁하다 / 빨래하다" data-zhcn="洗衣服" data-zhtw="洗衣服" data-cant="洗衫" data-fr="faire la lessive"></div>
@@ -2398,7 +2400,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="弾く" data-reading="ひく" data-meaning="to play (guitar, piano)" data-example="私の趣味はギターを弾くことです。">
         <div>
-          <div class="pool-word-jp">7. 弾く（ひく） <button class="tts-btn" onclick="speakText('弾く')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">7. 弾く<span class="furigana-text">（ひく）</span> <button class="tts-btn" onclick="speakText('弾く')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 弾いた</div>
           <div class="pool-word-trans">to play (guitar, piano)</div>
           <div class="pool-word-native i18n-native" data-ko="치다 / 연주하다 (현악기·피아노)" data-zhcn="弹（吉他、钢琴）" data-zhtw="彈（吉他、鋼琴）" data-cant="彈（結他、鋼琴）" data-fr="jouer (guitare/piano)"></div>
@@ -2407,7 +2409,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="歌う" data-reading="うたう" data-meaning="to sing" data-example="鈴木さんの趣味はJ-POPの歌を歌うことです。">
         <div>
-          <div class="pool-word-jp">8. 歌う（うたう） <button class="tts-btn" onclick="speakText('歌う')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">8. 歌う<span class="furigana-text">（うたう）</span> <button class="tts-btn" onclick="speakText('歌う')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 歌った</div>
           <div class="pool-word-trans">to sing</div>
           <div class="pool-word-native i18n-native" data-ko="노래하다" data-zhcn="唱歌" data-zhtw="唱歌" data-cant="唱歌" data-fr="chanter"></div>
@@ -2416,7 +2418,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="集める" data-reading="あつめる" data-meaning="to collect / gather" data-example="中村さんの趣味は世界の古い切手を集めることです。">
         <div>
-          <div class="pool-word-jp">9. 集める（あつめる） <button class="tts-btn" onclick="speakText('集める')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">9. 集める<span class="furigana-text">（あつめる）</span> <button class="tts-btn" onclick="speakText('集める')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 集めた</div>
           <div class="pool-word-trans">to collect / gather</div>
           <div class="pool-word-native i18n-native" data-ko="모으다 / 수집하다" data-zhcn="收集 / 集中" data-zhtw="收集 / 集中" data-cant="收集 / 儲" data-fr="collectionner / rassembler"></div>
@@ -2425,7 +2427,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="捨てる" data-reading="すてる" data-meaning="to throw away" data-example="家を出るまえに、ゴミを捨ててください。">
         <div>
-          <div class="pool-word-jp">10. 捨てる（すてる） <button class="tts-btn" onclick="speakText('捨てる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">10. 捨てる<span class="furigana-text">（すてる）</span> <button class="tts-btn" onclick="speakText('捨てる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 捨てた</div>
           <div class="pool-word-trans">to throw away</div>
           <div class="pool-word-native i18n-native" data-ko="버리다" data-zhcn="扔掉" data-zhtw="扔掉 / 丟掉" data-cant="掉（垃圾）" data-fr="jeter"></div>
@@ -2434,7 +2436,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="変える" data-reading="かえる" data-meaning="to change (something - transitive)" data-example="予定を変えるまえに、佐藤さんに相談しましょう。">
         <div>
-          <div class="pool-word-jp">11. 変える（かえる） <button class="tts-btn" onclick="speakText('変える')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">11. 変える<span class="furigana-text">（かえる）</span> <button class="tts-btn" onclick="speakText('変える')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 変えた</div>
           <div class="pool-word-trans">to change (something - transitive)</div>
           <div class="pool-word-native i18n-native" data-ko="바꾸다" data-zhcn="改变 / 更换" data-zhtw="改變 / 更換" data-cant="改 / 換" data-fr="changer / modifier"></div>
@@ -2443,7 +2445,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="変わる" data-reading="かわる" data-meaning="to change (by itself - intransitive)" data-example="信号が青に変わったあとで、道を渡ってください。">
         <div>
-          <div class="pool-word-jp">12. 変わる（かわる） <button class="tts-btn" onclick="speakText('変わる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">12. 変わる<span class="furigana-text">（かわる）</span> <button class="tts-btn" onclick="speakText('変わる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 変わった</div>
           <div class="pool-word-trans">to change (by itself - intransitive)</div>
           <div class="pool-word-native i18n-native" data-ko="바뀌다 / 변하다" data-zhcn="变化 / 改变" data-zhtw="變化 / 改變" data-cant="變 / 改變" data-fr="changer (intransitif)"></div>
@@ -2452,7 +2454,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="運転する" data-reading="うんてんする" data-meaning="to drive" data-example="私の趣味は週末に車を運転することです。">
         <div>
-          <div class="pool-word-jp">13. 運転する（うんてんする） <button class="tts-btn" onclick="speakText('運転する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">13. 運転する<span class="furigana-text">（うんてんする）</span> <button class="tts-btn" onclick="speakText('運転する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 運転した</div>
           <div class="pool-word-trans">to drive</div>
           <div class="pool-word-native i18n-native" data-ko="운전하다" data-zhcn="开车 / 驾驶" data-zhtw="開車 / 駕駛" data-cant="揸車 / 駕駛" data-fr="conduire"></div>
@@ -2461,7 +2463,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="取る" data-reading="とる" data-meaning="to take / get / reserve" data-example="休みを取るまえに、今日の仕事を全部終わらせます。">
         <div>
-          <div class="pool-word-jp">14. 取る（とる） <button class="tts-btn" onclick="speakText('取る')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">14. 取る<span class="furigana-text">（とる）</span> <button class="tts-btn" onclick="speakText('取る')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 取った</div>
           <div class="pool-word-trans">to take / get / reserve</div>
           <div class="pool-word-native i18n-native" data-ko="취하다 / 찍다 / 예약하다" data-zhcn="拿 / 取得 / 预订" data-zhtw="拿 / 取得 / 預訂" data-cant="攞 / 訂" data-fr="prendre / obtenir"></div>
@@ -2470,7 +2472,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="言う" data-reading="いう" data-meaning="to say / tell" data-example="食べるまえに、「いただきます」と言います。">
         <div>
-          <div class="pool-word-jp">15. 言う（いう） <button class="tts-btn" onclick="speakText('言う')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">15. 言う<span class="furigana-text">（いう）</span> <button class="tts-btn" onclick="speakText('言う')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 言った</div>
           <div class="pool-word-trans">to say / tell</div>
           <div class="pool-word-native i18n-native" data-ko="말하다" data-zhcn="说" data-zhtw="說" data-cant="講 / 話" data-fr="dire"></div>
@@ -2479,7 +2481,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="気を付ける" data-reading="きをつける" data-meaning="to be careful / take care" data-example="階段を降りるまえに、足元に気を付けてください。">
         <div>
-          <div class="pool-word-jp">16. 気を付ける（きをつける） <button class="tts-btn" onclick="speakText('気を付ける')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">16. 気を付ける<span class="furigana-text">（きをつける）</span> <button class="tts-btn" onclick="speakText('気を付ける')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 気を付けた</div>
           <div class="pool-word-trans">to be careful / take care</div>
           <div class="pool-word-native i18n-native" data-ko="조심하다 / 주의하다" data-zhcn="小心 / 注意" data-zhtw="小心 / 注意" data-cant="小心 / 留意" data-fr="faire attention"></div>
@@ -2488,7 +2490,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="留学する" data-reading="りゅうがくする" data-meaning="to study abroad" data-example="日本へ留学するまえに、ひらがなとカタカナを覚えました。">
         <div>
-          <div class="pool-word-jp">17. 留学する（りゅうがくする） <button class="tts-btn" onclick="speakText('留学する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">17. 留学する<span class="furigana-text">（りゅうがくする）</span> <button class="tts-btn" onclick="speakText('留学する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 留学した</div>
           <div class="pool-word-trans">to study abroad</div>
           <div class="pool-word-native i18n-native" data-ko="유학하다" data-zhcn="留学" data-zhtw="留學" data-cant="留學" data-fr="étudier à l'étranger"></div>
@@ -2497,7 +2499,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="心配する" data-reading="しんぱいする" data-meaning="to worry" data-example="家族が心配しますから、暗くなるまえに帰りましょう。">
         <div>
-          <div class="pool-word-jp">18. 心配する（しんぱいする） <button class="tts-btn" onclick="speakText('心配する')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">18. 心配する<span class="furigana-text">（しんぱいする）</span> <button class="tts-btn" onclick="speakText('心配する')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 心配した</div>
           <div class="pool-word-trans">to worry</div>
           <div class="pool-word-native i18n-native" data-ko="걱정하다" data-zhcn="担心" data-zhtw="擔心" data-cant="擔心" data-fr="s'inquiéter"></div>
@@ -2506,7 +2508,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="持って行く" data-reading="もっていく" data-meaning="to take (something) along" data-example="出かけるまえに、傘を持って行くか調べます。">
         <div>
-          <div class="pool-word-jp">19. 持って行く（もっていく） <button class="tts-btn" onclick="speakText('持って行く')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">19. 持って行く<span class="furigana-text">（もっていく）</span> <button class="tts-btn" onclick="speakText('持って行く')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 持って行った</div>
           <div class="pool-word-trans">to take (something) along</div>
           <div class="pool-word-native i18n-native" data-ko="가지고 가다" data-zhcn="带去 / 拿去" data-zhtw="帶去 / 拿去" data-cant="帶去 / 拎去" data-fr="emporter"></div>
@@ -2515,7 +2517,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="持ってくる" data-reading="もってくる" data-meaning="to bring (something) here" data-example="会議が始まるまえに、パソコンを持ってきてください。">
         <div>
-          <div class="pool-word-jp">20. 持ってくる（もってくる） <button class="tts-btn" onclick="speakText('持ってくる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">20. 持ってくる<span class="furigana-text">（もってくる）</span> <button class="tts-btn" onclick="speakText('持ってくる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 持ってきた</div>
           <div class="pool-word-trans">to bring (something) here</div>
           <div class="pool-word-native i18n-native" data-ko="가지고 오다" data-zhcn="带来 / 拿来" data-zhtw="帶來 / 拿來" data-cant="帶嚟 / 拎嚟" data-fr="apporter"></div>
@@ -2524,7 +2526,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="連れて行く" data-reading="つれていく" data-meaning="to take (someone/pet) along" data-example="朝ごはんを食べるまえに、犬を公園へ連れて行きます。">
         <div>
-          <div class="pool-word-jp">21. 連れて行く（つれていく） <button class="tts-btn" onclick="speakText('連れて行く')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">21. 連れて行く<span class="furigana-text">（つれていく）</span> <button class="tts-btn" onclick="speakText('連れて行く')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 連れて行った</div>
           <div class="pool-word-trans">to take (someone/pet) along</div>
           <div class="pool-word-native i18n-native" data-ko="데리고 가다" data-zhcn="带（人/宠物）去" data-zhtw="帶（人/寵物）去" data-cant="帶（人/寵物）去" data-fr="emmener (qqn)"></div>
@@ -2533,7 +2535,7 @@
       </div>
       <div class="word-pool-card" data-type="verb" data-word="連れてくる" data-reading="つれてくる" data-meaning="to bring (someone/pet) here" data-example="パーティーに友達を連れてくるまえに、連絡してくださいね。">
         <div>
-          <div class="pool-word-jp">22. 連れてくる（つれてくる） <button class="tts-btn" onclick="speakText('連れてくる')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">22. 連れてくる<span class="furigana-text">（つれてくる）</span> <button class="tts-btn" onclick="speakText('連れてくる')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">た形: 連れてきた</div>
           <div class="pool-word-trans">to bring (someone/pet) here</div>
           <div class="pool-word-native i18n-native" data-ko="데리고 오다" data-zhcn="带（人/宠物）来" data-zhtw="帶（人/寵物）來" data-cant="帶（人/寵物）嚟" data-fr="amener (qqn)"></div>
@@ -2542,7 +2544,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="切符売り場" data-reading="きっぷうりば" data-meaning="ticket counter / vending area" data-example="改札口に入るまえに、切符売り場で切符を買います。">
         <div>
-          <div class="pool-word-jp">23. 切符売り場（きっぷうりば） <button class="tts-btn" onclick="speakText('切符売り場')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">23. 切符売り場<span class="furigana-text">（きっぷうりば）</span> <button class="tts-btn" onclick="speakText('切符売り場')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: きっぷうりば</div>
           <div class="pool-word-trans">ticket counter / vending area</div>
           <div class="pool-word-native i18n-native" data-ko="매표소" data-zhcn="售票处" data-zhtw="售票處" data-cant="售票處" data-fr="guichet de billets"></div>
@@ -2551,7 +2553,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="券売機" data-reading="けんばいき" data-meaning="ticket vending machine" data-example="電車に乗るまえに、券売機でICカードにチャージしました。">
         <div>
-          <div class="pool-word-jp">24. 券売機（けんばいき） <button class="tts-btn" onclick="speakText('券売機')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">24. 券売機<span class="furigana-text">（けんばいき）</span> <button class="tts-btn" onclick="speakText('券売機')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: けんばいき</div>
           <div class="pool-word-trans">ticket vending machine</div>
           <div class="pool-word-native i18n-native" data-ko="자동 발매기" data-zhcn="自动售票机" data-zhtw="自動售票機" data-cant="售票機" data-fr="distributeur de billets"></div>
@@ -2560,7 +2562,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="改札口" data-reading="かいさつぐち" data-meaning="ticket gate" data-example="改札口を出たあとで、友達に連絡しました。">
         <div>
-          <div class="pool-word-jp">25. 改札口（かいさつぐち） <button class="tts-btn" onclick="speakText('改札口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">25. 改札口<span class="furigana-text">（かいさつぐち）</span> <button class="tts-btn" onclick="speakText('改札口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: かいさつぐち</div>
           <div class="pool-word-trans">ticket gate</div>
           <div class="pool-word-native i18n-native" data-ko="개찰구" data-zhcn="检票口" data-zhtw="剪票口" data-cant="入閘口" data-fr="portillon d'accès"></div>
@@ -2569,7 +2571,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="入口" data-reading="いりぐち" data-meaning="entrance" data-example="美術館の入口に入るまえに、チケットを見せてください。">
         <div>
-          <div class="pool-word-jp">26. 入口（いりぐち） <button class="tts-btn" onclick="speakText('入口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">26. 入口<span class="furigana-text">（いりぐち）</span> <button class="tts-btn" onclick="speakText('入口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: いりぐち</div>
           <div class="pool-word-trans">entrance</div>
           <div class="pool-word-native i18n-native" data-ko="입구" data-zhcn="入口" data-zhtw="入口" data-cant="入口" data-fr="entrée"></div>
@@ -2578,7 +2580,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="出口" data-reading="でぐち" data-meaning="exit" data-example="電車を降りるまえに、近い出口を調べました。">
         <div>
-          <div class="pool-word-jp">27. 出口（でぐち） <button class="tts-btn" onclick="speakText('出口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">27. 出口<span class="furigana-text">（でぐち）</span> <button class="tts-btn" onclick="speakText('出口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: でぐち</div>
           <div class="pool-word-trans">exit</div>
           <div class="pool-word-native i18n-native" data-ko="출구" data-zhcn="出口" data-zhtw="出口" data-cant="出口" data-fr="sortie"></div>
@@ -2587,7 +2589,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="東口" data-reading="ひがしぐち" data-meaning="east exit" data-example="駅の東口を出たあとで、右へ歩いてください。">
         <div>
-          <div class="pool-word-jp">28. 東口（ひがしぐち） <button class="tts-btn" onclick="speakText('東口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">28. 東口<span class="furigana-text">（ひがしぐち）</span> <button class="tts-btn" onclick="speakText('東口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: ひがしぐち</div>
           <div class="pool-word-trans">east exit</div>
           <div class="pool-word-native i18n-native" data-ko="동쪽 출구" data-zhcn="东口" data-zhtw="東口" data-cant="東口" data-fr="sortie Est"></div>
@@ -2596,7 +2598,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="西口" data-reading="にしぐち" data-meaning="west exit" data-example="西口で友達と会ってから、映画を見に行きました。">
         <div>
-          <div class="pool-word-jp">29. 西口（にしぐち） <button class="tts-btn" onclick="speakText('西口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">29. 西口<span class="furigana-text">（にしぐち）</span> <button class="tts-btn" onclick="speakText('西口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: にしぐち</div>
           <div class="pool-word-trans">west exit</div>
           <div class="pool-word-native i18n-native" data-ko="서쪽 출구" data-zhcn="西口" data-zhtw="西口" data-cant="西口" data-fr="sortie Ouest"></div>
@@ -2605,7 +2607,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="南口" data-reading="みなみぐち" data-meaning="south exit" data-example="南口のカフェでコーヒーを飲んでから、会社へ行きます。">
         <div>
-          <div class="pool-word-jp">30. 南口（みなみぐち） <button class="tts-btn" onclick="speakText('南口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">30. 南口<span class="furigana-text">（みなみぐち）</span> <button class="tts-btn" onclick="speakText('南口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: みなみぐち</div>
           <div class="pool-word-trans">south exit</div>
           <div class="pool-word-native i18n-native" data-ko="남쪽 출구" data-zhcn="南口" data-zhtw="南口" data-cant="南口" data-fr="sortie Sud"></div>
@@ -2614,7 +2616,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="北口" data-reading="きたぐち" data-meaning="north exit" data-example="北口バス停でバスに乗るまえに、行先を確認しました。">
         <div>
-          <div class="pool-word-jp">31. 北口（きたぐち） <button class="tts-btn" onclick="speakText('北口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">31. 北口<span class="furigana-text">（きたぐち）</span> <button class="tts-btn" onclick="speakText('北口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: きたぐち</div>
           <div class="pool-word-trans">north exit</div>
           <div class="pool-word-native i18n-native" data-ko="북쪽 출구" data-zhcn="北口" data-zhtw="北口" data-cant="北口" data-fr="sortie Nord"></div>
@@ -2623,7 +2625,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="中央口" data-reading="ちゅうおうぐち" data-meaning="central exit / gate" data-example="中央口の改札を出たあとで、デパートへ行きました。">
         <div>
-          <div class="pool-word-jp">32. 中央口（ちゅうおうぐち） <button class="tts-btn" onclick="speakText('中央口')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">32. 中央口<span class="furigana-text">（ちゅうおうぐち）</span> <button class="tts-btn" onclick="speakText('中央口')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: ちゅうおうぐち</div>
           <div class="pool-word-trans">central exit / gate</div>
           <div class="pool-word-native i18n-native" data-ko="중앙 출구/개찰구" data-zhcn="中央口" data-zhtw="中央口" data-cant="中央口" data-fr="sortie centrale"></div>
@@ -2632,7 +2634,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="特急" data-reading="とっきゅう" data-meaning="limited express train" data-example="特急に乗るまえに、特急券を買わなければなりません。">
         <div>
-          <div class="pool-word-jp">33. 特急（とっきゅう） <button class="tts-btn" onclick="speakText('特急')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">33. 特急<span class="furigana-text">（とっきゅう）</span> <button class="tts-btn" onclick="speakText('特急')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: とっきゅう</div>
           <div class="pool-word-trans">limited express train</div>
           <div class="pool-word-native i18n-native" data-ko="특급 열차" data-zhcn="特急列车" data-zhtw="特急列車" data-cant="特急列車" data-fr="train express limité"></div>
@@ -2641,7 +2643,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="急行" data-reading="きゅうこう" data-meaning="express train" data-example="急行に乗ってから、20分で渋谷駅に着きました。">
         <div>
-          <div class="pool-word-jp">34. 急行（きゅうこう） <button class="tts-btn" onclick="speakText('急行')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">34. 急行<span class="furigana-text">（きゅうこう）</span> <button class="tts-btn" onclick="speakText('急行')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: きゅうこう</div>
           <div class="pool-word-trans">express train</div>
           <div class="pool-word-native i18n-native" data-ko="급행 열차" data-zhcn="急行列车" data-zhtw="急行列車" data-cant="急行列車" data-fr="train express"></div>
@@ -2650,7 +2652,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="快速" data-reading="かいそく" data-meaning="rapid train" data-example="快速電車に乗るまえに、止まる駅を調べました。">
         <div>
-          <div class="pool-word-jp">35. 快速（かいそく） <button class="tts-btn" onclick="speakText('快速')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">35. 快速<span class="furigana-text">（かいそく）</span> <button class="tts-btn" onclick="speakText('快速')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: かいそく</div>
           <div class="pool-word-trans">rapid train</div>
           <div class="pool-word-native i18n-native" data-ko="쾌속 열차" data-zhcn="快速列车" data-zhtw="快速列車" data-cant="快速列車" data-fr="train rapide"></div>
@@ -2659,7 +2661,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="普通" data-reading="ふつう" data-meaning="local train" data-example="次の駅で快速から普通の電車に乗り換えます。">
         <div>
-          <div class="pool-word-jp">36. 普通（ふつう） <button class="tts-btn" onclick="speakText('普通')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">36. 普通<span class="furigana-text">（ふつう）</span> <button class="tts-btn" onclick="speakText('普通')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: ふつう</div>
           <div class="pool-word-trans">local train</div>
           <div class="pool-word-native i18n-native" data-ko="보통(완행) 열차" data-zhcn="普通（各站停车）" data-zhtw="普通（各站停車）" data-cant="普通列車" data-fr="train omnibus"></div>
@@ -2668,7 +2670,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="時刻表" data-reading="じこくひょう" data-meaning="timetable / schedule" data-example="家を出るまえに、アプリで電車の時刻表を調べました。">
         <div>
-          <div class="pool-word-jp">37. 時刻表（じこくひょう） <button class="tts-btn" onclick="speakText('時刻表')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">37. 時刻表<span class="furigana-text">（じこくひょう）</span> <button class="tts-btn" onclick="speakText('時刻表')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: じこくひょう</div>
           <div class="pool-word-trans">timetable / schedule</div>
           <div class="pool-word-native i18n-native" data-ko="시간표" data-zhcn="时刻表" data-zhtw="時刻表" data-cant="時間表" data-fr="horaires des trains"></div>
@@ -2677,7 +2679,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="〜発" data-reading="はつ" data-meaning="departing at ~" data-example="9時発の新幹線に乗るまえに、お弁当を買いました。">
         <div>
-          <div class="pool-word-jp">38. 〜発（はつ） <button class="tts-btn" onclick="speakText('発')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">38. 〜発<span class="furigana-text">（はつ）</span> <button class="tts-btn" onclick="speakText('発')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: はつ</div>
           <div class="pool-word-trans">departing at ~</div>
           <div class="pool-word-native i18n-native" data-ko="~발 (출발)" data-zhcn="~发（出发）" data-zhtw="~發（出發）" data-cant="~開出" data-fr="départ à ~"></div>
@@ -2686,7 +2688,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="〜着" data-reading="ちゃく" data-meaning="arriving at ~" data-example="11時着の電車で京都に着いたあとで、昼ごはんを食べます。">
         <div>
-          <div class="pool-word-jp">39. 〜着（ちゃく） <button class="tts-btn" onclick="speakText('着')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">39. 〜着<span class="furigana-text">（ちゃく）</span> <button class="tts-btn" onclick="speakText('着')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: ちゃく</div>
           <div class="pool-word-trans">arriving at ~</div>
           <div class="pool-word-native i18n-native" data-ko="~착 (도착)" data-zhcn="~到（到达）" data-zhtw="~到（到達）" data-cant="~到達" data-fr="arrivée à ~"></div>
@@ -2695,7 +2697,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="〜行き" data-reading="ゆき" data-meaning="bound for ~" data-example="東京行きの電車に乗るまえに、ホームの番号を見ました。">
         <div>
-          <div class="pool-word-jp">40. 〜行き（ゆき） <button class="tts-btn" onclick="speakText('行き')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">40. 〜行き<span class="furigana-text">（ゆき）</span> <button class="tts-btn" onclick="speakText('行き')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: ゆき</div>
           <div class="pool-word-trans">bound for ~</div>
           <div class="pool-word-native i18n-native" data-ko="~행" data-zhcn="开往~" data-zhtw="開往~" data-cant="往~" data-fr="à destination de ~"></div>
@@ -2704,7 +2706,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="片道" data-reading="かたみち" data-meaning="one-way (ticket)" data-example="券売機で片道の切符を買ってから、改札口に入りました。">
         <div>
-          <div class="pool-word-jp">41. 片道（かたみち） <button class="tts-btn" onclick="speakText('片道')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">41. 片道<span class="furigana-text">（かたみち）</span> <button class="tts-btn" onclick="speakText('片道')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: かたみち</div>
           <div class="pool-word-trans">one-way (ticket)</div>
           <div class="pool-word-native i18n-native" data-ko="편도" data-zhcn="单程" data-zhtw="單程" data-cant="單程" data-fr="aller simple"></div>
@@ -2713,7 +2715,7 @@
       </div>
       <div class="word-pool-card" data-type="noun" data-word="往復" data-reading="おうふく" data-meaning="round-trip (ticket)" data-example="旅行のまえに、新幹線の往復チケットを予約しました。">
         <div>
-          <div class="pool-word-jp">42. 往復（おうふく） <button class="tts-btn" onclick="speakText('往復')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">42. 往復<span class="furigana-text">（おうふく）</span> <button class="tts-btn" onclick="speakText('往復')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">読み: おうふく</div>
           <div class="pool-word-trans">round-trip (ticket)</div>
           <div class="pool-word-native i18n-native" data-ko="왕복" data-zhcn="往返" data-zhtw="往返" data-cant="來回" data-fr="aller-retour"></div>
@@ -2735,6 +2737,9 @@
 <script src="../user_progress.js"></script>
 <script>
 const LESSON_ID = 'Stage5-Lesson2';
+if (window.self !== window.top && document.body) {
+  document.body.classList.add('in-iframe');
+}
 let currentSlideIdx = 0;
 let syncChannel = null;
 try {
@@ -2750,14 +2755,18 @@ function showToast(msg) {
   window._toastTimer = setTimeout(() => { t.style.display = 'none'; }, 2600);
 }
 
-function toggleFurigana() {
-  document.body.classList.toggle('hide-furigana');
+function toggleFurigana(forceHide) {
+  const isCurrentlyHidden = document.body.classList.contains('hide-furigana') || document.body.classList.contains('furigana-off');
+  const shouldHide = (typeof forceHide === 'boolean') ? forceHide : !isCurrentlyHidden;
+  document.body.classList.toggle('hide-furigana', shouldHide);
+  document.body.classList.toggle('furigana-off', shouldHide);
+  localStorage.setItem('jp_furigana_off', shouldHide ? '1' : '0');
   const btn = document.getElementById('btn-furigana');
-  const isHidden = document.body.classList.contains('hide-furigana');
   if (btn) {
-    btn.classList.toggle('active', isHidden);
-    btn.textContent = isHidden ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.classList.toggle('active', shouldHide);
+    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
   }
+  return shouldHide;
 }
 
 function toggleSlideMode() {
@@ -2819,9 +2828,20 @@ function toggleAnswer(id) {
   const btn = document.getElementById('btn-' + id);
   if (!box) return;
   const isShowing = box.classList.contains('show');
+  // 次のを開いたら前のは自動で閉じる
+  document.querySelectorAll('.toggle-answer-box.show').forEach(el => {
+    if (el !== box) {
+      el.classList.remove('show');
+      const otherId = el.id ? el.id.replace(/^ans-/, '') : '';
+      const otherBtn = otherId ? document.getElementById('btn-' + otherId) : null;
+      if (otherBtn) otherBtn.textContent = 'Reveal ▼';
+    }
+  });
   if (!isShowing) {
     box.classList.add('show');
     if (btn) btn.textContent = 'Hide ▲';
+    const curLang = localStorage.getItem('jp_textbook_lang') || 'ko';
+    applyLanguage(curLang);
   } else {
     box.classList.remove('show');
     if (btn) btn.textContent = 'Reveal ▼';
@@ -2854,22 +2874,57 @@ function setRoleplayMode(cardId, mode, btnEl) {
   });
 }
 
+let _currentTtsAudio = null;
 function sanitizeForSpeech(text) {
   let s = String(text || '');
   s = s.replace(/<rt>.*?<\/rt>/g, '').replace(/<rp>.*?<\/rp>/g, '').replace(/<[^>]+>/g, '');
+  s = s.replace(/[💬🎯💡⚠️❌⭕✅🔊⭐📥🌐📄📽️]/g, '');
   s = s.replace(/来ない/g, 'こない').replace(/来られます/g, 'こられます').replace(/来られる/g, 'こられる');
   s = s.replace(/何人/g, 'なんにん').replace(/一日中/g, 'いちにちじゅう');
   return s.trim();
 }
 
-function speakText(text) {
+function _fallbackWebSpeech(clean) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
-  const clean = sanitizeForSpeech(text);
   const utter = new SpeechSynthesisUtterance(clean);
   utter.lang = 'ja-JP';
   utter.rate = 0.92;
   window.speechSynthesis.speak(utter);
+}
+
+function speakText(text) {
+  const clean = sanitizeForSpeech(text);
+  if (!clean) return;
+  try {
+    if (_currentTtsAudio) {
+      _currentTtsAudio.pause();
+      _currentTtsAudio.currentTime = 0;
+      _currentTtsAudio = null;
+    }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+  } catch (e) {}
+
+  try {
+    if (window.parent && window.parent !== window && typeof window.parent.playAppAudio === 'function') {
+      window.parent.playAppAudio(clean);
+      return;
+    }
+  } catch (e) {}
+
+  try {
+    const encoded = encodeURIComponent(clean.slice(0, 190));
+    const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
+    const audio = new Audio(url);
+    _currentTtsAudio = audio;
+    audio.onerror = () => { _fallbackWebSpeech(clean); };
+    const p = audio.play();
+    if (p !== undefined) {
+      p.catch(() => { _fallbackWebSpeech(clean); });
+    }
+  } catch (e) {
+    _fallbackWebSpeech(clean);
+  }
 }
 
 function getStudentId() {
@@ -2966,15 +3021,16 @@ function applyLanguage(lang) {
 
   // 1. Switch single-block .i18n-switch elements to show ONLY the selected language
   document.querySelectorAll('.i18n-switch').forEach(el => {
+    const isInline = el.classList.contains('i18n-inline');
     if (lang === 'all') {
       const parts = [];
       ['en','ko','zhcn','zhtw','cant'].forEach(l => { if (el.dataset[l]) parts.push(el.dataset[l]); });
-      el.innerHTML = parts.join('<br>');
-      el.style.display = parts.length ? 'block' : 'none';
+      el.innerHTML = parts.join(isInline ? ' ／ ' : '<br>');
+      el.style.display = parts.length ? (isInline ? 'inline' : 'block') : 'none';
     } else {
       const val = el.dataset[lang] || el.dataset.en || '';
       el.innerHTML = val;
-      el.style.display = val ? 'block' : 'none';
+      el.style.display = val ? (isInline ? 'inline' : 'block') : 'none';
     }
   });
 
@@ -3082,19 +3138,20 @@ function downloadA4LandscapePDF() {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
+  if (window.self !== window.top) {
+    document.body.classList.add('in-iframe');
+  }
   const ctrlBox = document.querySelector('.header-controls');
-  const slideBtn = document.getElementById('btn-slide');
   if (ctrlBox && !document.getElementById('btn-pdf')) {
     const pdfBtn = document.createElement('button');
     pdfBtn.className = 'ctrl-btn';
     pdfBtn.id = 'btn-pdf';
     pdfBtn.textContent = '📥 PDF保存 (A4横)';
     pdfBtn.onclick = downloadA4LandscapePDF;
-    if (slideBtn && slideBtn.nextSibling) {
-      ctrlBox.insertBefore(pdfBtn, slideBtn.nextSibling);
-    } else {
-      ctrlBox.appendChild(pdfBtn);
-    }
+    ctrlBox.appendChild(pdfBtn);
+  }
+  if (localStorage.getItem('jp_furigana_off') === '1') {
+    toggleFurigana(true);
   }
   const savedLang = localStorage.getItem('jp_textbook_lang') || 'ko';
   applyLanguage(savedLang);

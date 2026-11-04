@@ -367,6 +367,17 @@
     display: none;
     z-index: 2000;
   }
+
+  body.hide-furigana rt, body.hide-furigana rp, body.hide-furigana .furigana-text,
+  body.furigana-off rt, body.furigana-off rp, body.furigana-off .furigana-text {
+    display: none !important;
+  }
+  @media screen {
+    body.in-iframe header, body.in-iframe .hw-banner {
+      display: none !important;
+    }
+  }
+
 </style>
 </head>
 <body>

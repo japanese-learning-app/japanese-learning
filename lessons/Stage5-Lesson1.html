@@ -79,8 +79,24 @@
     line-height: 1.65;
     padding-bottom: 80px;
   }
-  body.hide-furigana ruby rt {
-    visibility: hidden;
+  body.hide-furigana rt,
+  body.hide-furigana rp,
+  body.hide-furigana .furigana-text,
+  body.furigana-off rt,
+  body.furigana-off rp,
+  body.furigana-off .furigana-text {
+    display: none !important;
+  }
+  @media screen {
+    body.in-iframe header,
+    body.in-iframe .hw-banner {
+      display: none !important;
+    }
+  }
+  .hw-banner,
+  .badge-hw,
+  #btn-slide {
+    display: none !important;
   }
   body.slide-mode .container {
     max-width: 1360px;
@@ -103,13 +119,13 @@
   body.slide-mode .roleplay-jp {
     font-size: 1.18rem;
   }
-  /* Header: Solid Blue-Green (No Gradient, No Yellow in Header) */
+  /* Header: Slim 1-Row Solid Blue-Green (No Gradient, No Yellow in Header) */
   header {
     background: #006E7F;
-    border-bottom: 3px solid #6BD4DE;
+    border-bottom: 2px solid #6BD4DE;
     color: white;
-    padding: 14px 28px;
-    box-shadow: 0 3px 12px rgba(0, 88, 100, 0.14);
+    padding: 8px 20px;
+    box-shadow: 0 2px 10px rgba(0, 88, 100, 0.14);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -121,52 +137,50 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 12px;
   }
-  .header-title-box { display: flex; flex-direction: column; gap: 4px; }
-  .header-top-badges { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .header-title-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+    flex: 1;
+  }
+  .header-top-badges {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
   .badge-stage {
     background: #00947A;
-    border: 1px solid #7ACBC1;
+    border: 1.5px solid #7ACBC1;
     color: white;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
+    font-size: 0.75rem;
     padding: 3px 12px;
     border-radius: 999px;
     font-weight: 800;
     letter-spacing: 0.5px;
-  }
-  .badge-hw {
-    background: #E0F4F7;
-    color: #005864;
-    border: 1px solid #6BD4DE;
-    font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
-    padding: 2px 12px;
-    border-radius: 999px;
-    font-weight: 700;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-  .badge-hw:hover {
-    transform: translateY(-1px);
-    background: #FFFFFF;
+    white-space: nowrap;
   }
   .header-title-box h1 {
-    font-size: 1.18rem;
+    font-size: 1.02rem;
     font-weight: 700;
     letter-spacing: 0.2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
   }
   .header-controls {
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
   }
   .ctrl-btn {
     background: rgba(255,255,255,0.16);
@@ -1307,13 +1321,11 @@
     <div class="header-title-box">
       <div class="header-top-badges">
         <span class="badge-stage">STAGE 5 - LESSON 1</span>
-        <a class="badge-hw" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[9])" title="宿題フラッシュカード単語へ移動">📚 宿題連動: Flashcard #42 (可能形1・26語) ＆ #43 (可能形2・24語)</a>
       </div>
       <h1>日本語が話せますか（能力・可能表現「〜ことができます」・可能動詞）</h1>
     </div>
     <div class="header-controls">
       <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
-      <button class="ctrl-btn" id="btn-slide" onclick="toggleSlideMode()">📽️ スライド表示</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1329,16 +1341,6 @@
     </div>
   </div>
 </header>
-
-<div class="hw-banner">
-  <div class="hw-banner-inner">
-    <div><strong>🎯 このレッスンの宿題・復習連携：</strong> フラッシュカード <strong>#42「基本動詞 可能形(1) 26語」</strong> と <strong>#43「基本動詞 可能形(2) 24語」</strong> の全50語を例文・ドリル・語彙プールで100%網羅しています！</div>
-    <div class="hw-banner-actions">
-      <button class="hw-action-btn" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[9])">⭐ 語彙プール (50語) を見る</button>
-      <button class="hw-action-btn" onclick="bulkSaveAllWords()">📥 50語すべてマイリストに一括追加</button>
-    </div>
-  </div>
-</div>
 
 <div class="nav-bar">
   <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 2つの可能表現＆比較</button>
@@ -1682,7 +1684,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-1')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">1.【行く（to go）】Can you go to the hospital alone? — Yes, I can go alone.</div>
+        <div class="toggle-prompt-text">1. Can you go to the hospital alone? — Yes, I can go alone.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-1">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-1">
@@ -1692,7 +1694,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-2')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">2.【帰る（to return / go home）】My work is finished today, so I can go home at 6:00.</div>
+        <div class="toggle-prompt-text">2. My work is finished today, so I can go home at 6:00.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-2">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-2">
@@ -1702,7 +1704,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-3')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">3.【飲む（to drink）】You can drink a delicious matcha latte at that cafe.</div>
+        <div class="toggle-prompt-text">3. You can drink a delicious matcha latte at that cafe.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-3">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-3">
@@ -1712,7 +1714,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-4')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">4.【聞く（to ask / hear）】You can ask the teacher any word you don't understand anytime.</div>
+        <div class="toggle-prompt-text">4. You can ask the teacher any word you don't understand anytime.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-4">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-4">
@@ -1722,7 +1724,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-5')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">5.【聴く（to listen (music)）】You can listen to new Japanese music on this app.</div>
+        <div class="toggle-prompt-text">5. You can listen to new Japanese music on this app.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-5">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-5">
@@ -1732,7 +1734,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-6')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">6.【読む（to read）】I can read all hiragana and katakana.</div>
+        <div class="toggle-prompt-text">6. I can read all hiragana and katakana.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-6">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-6">
@@ -1742,7 +1744,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-7')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">7.【話す（to speak / talk）】Mr. Tanaka can speak English and Chinese very well.</div>
+        <div class="toggle-prompt-text">7. Mr. Tanaka can speak English and Chinese very well.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-7">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-7">
@@ -1752,7 +1754,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-8')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">8.【会う（to meet）】Can we meet in front of the station on Saturday afternoon?</div>
+        <div class="toggle-prompt-text">8. Can we meet in front of the station on Saturday afternoon?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-8">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-8">
@@ -1762,7 +1764,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-9')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">9.【買う（to buy）】You can buy fresh vegetables and fruit at the online shop.</div>
+        <div class="toggle-prompt-text">9. You can buy fresh vegetables and fruit at the online shop.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-9">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-9">
@@ -1772,7 +1774,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-10')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">10.【終わる（to end / finish）】There isn't much work today, so I can finish by 5:00.</div>
+        <div class="toggle-prompt-text">10. There isn't much work today, so I can finish by 5:00.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-10">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-10">
@@ -1782,7 +1784,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-11')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">11.【働く（to work）】Ms. Suzuki can work from home on Wednesdays.</div>
+        <div class="toggle-prompt-text">11. Ms. Suzuki can work from home on Wednesdays.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-11">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-11">
@@ -1792,7 +1794,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-12')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">12.【驚く（to be surprised）】At this magic show, both adults and children can enjoyably experience amazement.</div>
+        <div class="toggle-prompt-text">12. At this magic show, both adults and children can enjoyably experience amazement.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-12">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-12">
@@ -1802,7 +1804,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-13')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">13.【乗る（to ride / get on）】I bought a ticket on my smartphone, so I can ride the Shinkansen right away.</div>
+        <div class="toggle-prompt-text">13. I bought a ticket on my smartphone, so I can ride the Shinkansen right away.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-13">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-13">
@@ -1812,7 +1814,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-14')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">14.【休む（to rest）】You can rest quietly in that quiet room.</div>
+        <div class="toggle-prompt-text">14. You can rest quietly in that quiet room.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-14">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-14">
@@ -1822,7 +1824,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-15')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">15.【遊ぶ（to hang out / play）】Can you hang out with friends in the park on Sunday?</div>
+        <div class="toggle-prompt-text">15. Can you hang out with friends in the park on Sunday?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-15">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-15">
@@ -1832,7 +1834,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-16')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">16.【起きる（to wake up）】Can you wake up at 6:00 tomorrow morning?</div>
+        <div class="toggle-prompt-text">16. Can you wake up at 6:00 tomorrow morning?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-16">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-16">
@@ -1842,7 +1844,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-17')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">17.【食べる（to eat）】Can you eat sashimi and natto? — Yes, I can eat them.</div>
+        <div class="toggle-prompt-text">17. Can you eat sashimi and natto? — Yes, I can eat them.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-17">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-17">
@@ -1852,7 +1854,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-18')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">18.【寝る（to sleep）】Tomorrow is a day off, so I can sleep in until late morning.</div>
+        <div class="toggle-prompt-text">18. Tomorrow is a day off, so I can sleep in until late morning.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-18">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-18">
@@ -1862,7 +1864,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-19')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">19.【見る（to see / watch）】You can watch lots of Japanese movies on this app.</div>
+        <div class="toggle-prompt-text">19. You can watch lots of Japanese movies on this app.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-19">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-19">
@@ -1872,7 +1874,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-20')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">20.【始める（to begin / start）】Preparations are done, so we can start the meeting at 2:00.</div>
+        <div class="toggle-prompt-text">20. Preparations are done, so we can start the meeting at 2:00.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-20">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-20">
@@ -1882,7 +1884,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-21')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">21.【忘れる（to forget）】By listening to fun music, I can forget the busyness of work.</div>
+        <div class="toggle-prompt-text">21. By listening to fun music, I can forget the busyness of work.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-21">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-21">
@@ -1892,7 +1894,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-22')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">22.【覚える（to memorize）】Can you memorize 20 vocabulary words a day with flashcards?</div>
+        <div class="toggle-prompt-text">22. Can you memorize 20 vocabulary words a day with flashcards?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-22">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-22">
@@ -1902,7 +1904,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-23')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">23.【降りる（to get off）】The train is crowded, but can you get off at the next station?</div>
+        <div class="toggle-prompt-text">23. The train is crowded, but can you get off at the next station?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-23">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-23">
@@ -1912,7 +1914,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-24')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">24.【来る（to come）】Can you come to the party next Saturday?</div>
+        <div class="toggle-prompt-text">24. Can you come to the party next Saturday?</div>
         <button class="btn-check-reveal" id="btn-koto-t26-24">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-24">
@@ -1922,7 +1924,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-25')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">25.【する（to do）】Mr. Tanaka can play tennis.</div>
+        <div class="toggle-prompt-text">25. Mr. Tanaka can play tennis.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-25">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-25">
@@ -1932,7 +1934,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('koto-t26-26')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">26.【勉強する（to study）】This cafe is quiet, so you can study Japanese at your own pace.</div>
+        <div class="toggle-prompt-text">26. This cafe is quiet, so you can study Japanese at your own pace.</div>
         <button class="btn-check-reveal" id="btn-koto-t26-26">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-koto-t26-26">
@@ -2484,7 +2486,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-1')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">1.【入る（はいれる）】With this ticket, you can enter the museum from 9:00.</div>
+        <div class="toggle-prompt-text">1. With this ticket, you can enter the museum from 9:00.</div>
         <button class="btn-check-reveal" id="btn-sent-1">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-1">
@@ -2494,7 +2496,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-2')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">2.【着く（つける）× 比較】Going by train arrives faster than walking, so let's take the train.</div>
+        <div class="toggle-prompt-text">2. Going by train arrives faster than walking, so let's take the train.</div>
         <button class="btn-check-reveal" id="btn-sent-2">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-2">
@@ -2504,7 +2506,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-3')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">3.【渡る（わたれる）】The traffic light is green now, so we can cross the street.</div>
+        <div class="toggle-prompt-text">3. The traffic light is green now, so we can cross the street.</div>
         <button class="btn-check-reveal" id="btn-sent-3">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-3">
@@ -2514,7 +2516,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-4')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">4.【歩く（あるける）】Can you walk from the station to your house?</div>
+        <div class="toggle-prompt-text">4. Can you walk from the station to your house?</div>
         <button class="btn-check-reveal" id="btn-sent-4">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-4">
@@ -2524,7 +2526,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-5')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">5.【走る（はしれる）】These shoes are light, so I can run 10 kilometers.</div>
+        <div class="toggle-prompt-text">5. These shoes are light, so I can run 10 kilometers.</div>
         <button class="btn-check-reveal" id="btn-sent-5">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-5">
@@ -2534,7 +2536,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-6')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">6.【起こす（おこせる）】Can you wake me up at 7:00 tomorrow morning?</div>
+        <div class="toggle-prompt-text">6. Can you wake me up at 7:00 tomorrow morning?</div>
         <button class="btn-check-reveal" id="btn-sent-6">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-6">
@@ -2544,7 +2546,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-7')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">7.【洗う（あらえる）】This shirt is light, so can it be washed at home?</div>
+        <div class="toggle-prompt-text">7. This shirt is light, so can it be washed at home?</div>
         <button class="btn-check-reveal" id="btn-sent-7">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-7">
@@ -2554,7 +2556,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-8')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">8.【脱ぐ（ぬげる）】These shoes can be taken off easily, so they are very comfortable.</div>
+        <div class="toggle-prompt-text">8. These shoes can be taken off easily, so they are very comfortable.</div>
         <button class="btn-check-reveal" id="btn-sent-8">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-8">
@@ -2564,7 +2566,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-9')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">9.【使う（つかえる）】Can I use free Wi-Fi at this cafe?</div>
+        <div class="toggle-prompt-text">9. Can I use free Wi-Fi at this cafe?</div>
         <button class="btn-check-reveal" id="btn-sent-9">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-9">
@@ -2574,7 +2576,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-10')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">10.【作る（つくれる）】Can Ms. Suzuki make Japanese dishes?</div>
+        <div class="toggle-prompt-text">10. Can Ms. Suzuki make Japanese dishes?</div>
         <button class="btn-check-reveal" id="btn-sent-10">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-10">
@@ -2584,7 +2586,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-11')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">11.【切る（きれる）】You can cut paper neatly with these scissors.</div>
+        <div class="toggle-prompt-text">11. You can cut paper neatly with these scissors.</div>
         <button class="btn-check-reveal" id="btn-sent-11">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-11">
@@ -2594,7 +2596,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-12')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">12.【書く（かける）× 〜てください】I can't write kanji yet, so please write in hiragana.</div>
+        <div class="toggle-prompt-text">12. I can't write kanji yet, so please write in hiragana.</div>
         <button class="btn-check-reveal" id="btn-sent-12">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-12">
@@ -2604,7 +2606,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-13')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">13.【待つ（まてる）× 〜ています】I'm preparing the documents now, so can you wait here for 10 minutes?</div>
+        <div class="toggle-prompt-text">13. I'm preparing the documents now, so can you wait here for 10 minutes?</div>
         <button class="btn-check-reveal" id="btn-sent-13">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-13">
@@ -2614,7 +2616,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-14')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">14.【思う（おもえる）】He always helps his coworkers, so one can feel he is truly kind.</div>
+        <div class="toggle-prompt-text">14. He always helps his coworkers, so one can feel he is truly kind.</div>
         <button class="btn-check-reveal" id="btn-sent-14">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-14">
@@ -2624,7 +2626,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-15')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">15.【知る（しれる）】With this book, you can learn a lot about Japanese culture.</div>
+        <div class="toggle-prompt-text">15. With this book, you can learn a lot about Japanese culture.</div>
         <button class="btn-check-reveal" id="btn-sent-15">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-15">
@@ -2634,7 +2636,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-16')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">16.【出る（でられる）】Can you attend this afternoon's online meeting?</div>
+        <div class="toggle-prompt-text">16. Can you attend this afternoon's online meeting?</div>
         <button class="btn-check-reveal" id="btn-sent-16">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-16">
@@ -2644,7 +2646,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-17')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">17.【着る（きられる）】This coat is warm and easy to wear.</div>
+        <div class="toggle-prompt-text">17. This coat is warm and easy to wear.</div>
         <button class="btn-check-reveal" id="btn-sent-17">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-17">
@@ -2654,7 +2656,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-18')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">18.【開ける（あけられる）】This is a heavy door, but can you open it by yourself?</div>
+        <div class="toggle-prompt-text">18. This is a heavy door, but can you open it by yourself?</div>
         <button class="btn-check-reveal" id="btn-sent-18">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-18">
@@ -2664,7 +2666,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-19')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">19.【閉める（しめられる）】The room is cold, so can you close that window?</div>
+        <div class="toggle-prompt-text">19. The room is cold, so can you close that window?</div>
         <button class="btn-check-reveal" id="btn-sent-19">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-19">
@@ -2674,7 +2676,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-20')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">20.【答える（こたえられる）】I studied hard, so I can answer all of the teacher's questions.</div>
+        <div class="toggle-prompt-text">20. I studied hard, so I can answer all of the teacher's questions.</div>
         <button class="btn-check-reveal" id="btn-sent-20">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-20">
@@ -2684,7 +2686,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-21')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">21.【教える（おしえられる）】I know how to make it well, so I can teach you anytime next week!</div>
+        <div class="toggle-prompt-text">21. I know how to make it well, so I can teach you anytime next week!</div>
         <button class="btn-check-reveal" id="btn-sent-21">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-21">
@@ -2694,7 +2696,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-22')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">22.【聞こえる（自然知覚）】I can hear cheerful voices from the next room.</div>
+        <div class="toggle-prompt-text">22. I can hear cheerful voices from the next room.</div>
         <button class="btn-check-reveal" id="btn-sent-22">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-22">
@@ -2704,7 +2706,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-23')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">23.【見える（自然知覚）】Mt. Fuji is clearly visible from the window of this room.</div>
+        <div class="toggle-prompt-text">23. Mt. Fuji is clearly visible from the window of this room.</div>
         <button class="btn-check-reveal" id="btn-sent-23">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-23">
@@ -2714,7 +2716,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('sent-24')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">24.【分かる（理解）】After listening to the teacher's explanation, I understood the meaning well.</div>
+        <div class="toggle-prompt-text">24. After listening to the teacher's explanation, I understood the meaning well.</div>
         <button class="btn-check-reveal" id="btn-sent-24">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-sent-24">
@@ -2803,7 +2805,7 @@
         <button class="btn-check-reveal" id="btn-tr-7">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-tr-7">
-        <span><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>に</strong><ruby>来<rt>こ</rt></ruby>られますか。（※「に」は「が」に変わりません！）</span>
+        <span><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><strong>に</strong><ruby>来<rt>こ</rt></ruby>られますか。（※「に」は「が」に変わりません！）<div class="i18n-switch" data-en="※ Particle に does NOT change to が!" data-ko="※ 조사 &#x27;に&#x27;는 &#x27;が&#x27;로 바뀌지 않습니다!" data-zhcn="※ 助词「に」不会变成「が」！" data-zhtw="※ 助詞「に」不會變成「が」！" data-cant="※ 助詞「に」唔會變做「が」！" data-fr="※ Particle に does NOT change to が!">※ Particle に does NOT change to が!</div></span>
         <button class="tts-btn" onclick="event.stopPropagation(); speakText('明日の会議に来られますか。')" title="Listen">🔊</button>
       </div>
     </div>
@@ -2813,7 +2815,7 @@
         <button class="btn-check-reveal" id="btn-tr-8">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-tr-8">
-        <span>一人で<ruby>病院<rt>びょういん</rt></ruby><strong>へ</strong><ruby>行<rt>い</rt></ruby>けます。（※「へ」は「が」に変わりません！）</span>
+        <span>一人で<ruby>病院<rt>びょういん</rt></ruby><strong>へ</strong><ruby>行<rt>い</rt></ruby>けます。（※「へ」は「が」に変わりません！）<div class="i18n-switch" data-en="※ Particle へ does NOT change to が!" data-ko="※ 조사 &#x27;へ&#x27;는 &#x27;が&#x27;로 바뀌지 않습니다!" data-zhcn="※ 助词「へ」不会变成「が」！" data-zhtw="※ 助詞「へ」不會變成「が」！" data-cant="※ 助詞「へ」唔會變做「が」！" data-fr="※ Particle へ does NOT change to が!">※ Particle へ does NOT change to が!</div></span>
         <button class="tts-btn" onclick="event.stopPropagation(); speakText('一人で病院へ行けます。')" title="Listen">🔊</button>
       </div>
     </div>
@@ -2981,7 +2983,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-1')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">1.【行く（to go）】Tomorrow is a day off, so I can go to Kyoto with my friend.</div>
+        <div class="toggle-prompt-text">1. Tomorrow is a day off, so I can go to Kyoto with my friend.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-1">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-1">
@@ -2991,7 +2993,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-2')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">2.【帰る（to return）】My work finished early, so I can return home at 6:00 today.</div>
+        <div class="toggle-prompt-text">2. My work finished early, so I can return home at 6:00 today.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-2">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-2">
@@ -3001,7 +3003,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-3')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">3.【飲む（to drink）】You can drink cold tea over there. Would you like to drink together?</div>
+        <div class="toggle-prompt-text">3. You can drink cold tea over there. Would you like to drink together?</div>
         <button class="btn-check-reveal" id="btn-rev-t26-3">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-3">
@@ -3011,7 +3013,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-4')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">4.【聞く（to ask）】You can ask the teacher any word you don't understand, so please don't worry.</div>
+        <div class="toggle-prompt-text">4. You can ask the teacher any word you don't understand, so please don't worry.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-4">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-4">
@@ -3021,7 +3023,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-5')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">5.【聴く（to listen (music)）】You can listen to Japanese music anytime on the smartphone app.</div>
+        <div class="toggle-prompt-text">5. You can listen to Japanese music anytime on the smartphone app.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-5">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-5">
@@ -3031,7 +3033,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-6')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">6.【読む（to read）】I can read all hiragana, but I can only read a few kanji yet.</div>
+        <div class="toggle-prompt-text">6. I can read all hiragana, but I can only read a few kanji yet.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-6">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-6">
@@ -3041,7 +3043,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-7')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">7.【話す（to speak）】Can you speak English well? — Yes, I can speak a little.</div>
+        <div class="toggle-prompt-text">7. Can you speak English well? — Yes, I can speak a little.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-7">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-7">
@@ -3051,7 +3053,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-8')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">8.【会う（to meet）】Can we meet in front of the station at 1:00 on Saturday? Let's go out together.</div>
+        <div class="toggle-prompt-text">8. Can we meet in front of the station at 1:00 on Saturday? Let's go out together.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-8">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-8">
@@ -3061,7 +3063,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-9')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">9.【買う（to buy）】We can buy delicious bread at this shop, so let's buy three.</div>
+        <div class="toggle-prompt-text">9. We can buy delicious bread at this shop, so let's buy three.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-9">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-9">
@@ -3071,7 +3073,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-10')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">10.【終わる（to end）】I can finish my work by 5:00, so would you like to have dinner together?</div>
+        <div class="toggle-prompt-text">10. I can finish my work by 5:00, so would you like to have dinner together?</div>
         <button class="btn-check-reveal" id="btn-rev-t26-10">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-10">
@@ -3081,7 +3083,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-11')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">11.【働く（to work）】Can Mr. Sato also work at the company on Saturdays?</div>
+        <div class="toggle-prompt-text">11. Can Mr. Sato also work at the company on Saturdays?</div>
         <button class="btn-check-reveal" id="btn-rev-t26-11">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-11">
@@ -3091,7 +3093,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-12')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">12.【驚く（to be surprised）】This movie has an interesting secret at the end, so you'll surely be able to enjoy a great surprise!</div>
+        <div class="toggle-prompt-text">12. This movie has an interesting secret at the end, so you'll surely be able to enjoy a great surprise!</div>
         <button class="btn-check-reveal" id="btn-rev-t26-12">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-12">
@@ -3101,7 +3103,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-13')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">13.【乗る（to ride）】With this ticket, you can ride the Shinkansen to Kyoto.</div>
+        <div class="toggle-prompt-text">13. With this ticket, you can ride the Shinkansen to Kyoto.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-13">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-13">
@@ -3111,7 +3113,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-14')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">14.【休む（to rest）】I was very busy this week, so I can rest well at home this weekend.</div>
+        <div class="toggle-prompt-text">14. I was very busy this week, so I can rest well at home this weekend.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-14">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-14">
@@ -3121,7 +3123,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-15')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">15.【遊ぶ（to hang out）】I have time on Sunday, so we can hang out together at the park.</div>
+        <div class="toggle-prompt-text">15. I have time on Sunday, so we can hang out together at the park.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-15">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-15">
@@ -3131,7 +3133,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-16')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">16.【起きる（to wake up）】I want to go to the office early tomorrow, so I can wake up at 6:00.</div>
+        <div class="toggle-prompt-text">16. I want to go to the office early tomorrow, so I can wake up at 6:00.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-16">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-16">
@@ -3141,7 +3143,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-17')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">17.【食べる（to eat）】Can you eat sashimi and natto? — Yes, I can eat them.</div>
+        <div class="toggle-prompt-text">17. Can you eat sashimi and natto? — Yes, I can eat them.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-17">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-17">
@@ -3151,7 +3153,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-18')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">18.【寝る（to sleep）】I can sleep in late tomorrow morning, so I'm very happy.</div>
+        <div class="toggle-prompt-text">18. I can sleep in late tomorrow morning, so I'm very happy.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-18">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-18">
@@ -3161,7 +3163,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-19')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">19.【見る（to see / watch）】You can watch famous Japanese movies at this movie theater.</div>
+        <div class="toggle-prompt-text">19. You can watch famous Japanese movies at this movie theater.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-19">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-19">
@@ -3171,7 +3173,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-20')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">20.【始める（to begin）】Preparations are done, so the meeting can start at 2:00.</div>
+        <div class="toggle-prompt-text">20. Preparations are done, so the meeting can start at 2:00.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-20">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-20">
@@ -3181,7 +3183,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-21')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">21.【忘れる（to forget）】By watching a fun movie, you can forget unpleasant things quickly.</div>
+        <div class="toggle-prompt-text">21. By watching a fun movie, you can forget unpleasant things quickly.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-21">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-21">
@@ -3191,7 +3193,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-22')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">22.【覚える（to memorize）】This kanji is easy, so you can memorize it in one day.</div>
+        <div class="toggle-prompt-text">22. This kanji is easy, so you can memorize it in one day.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-22">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-22">
@@ -3201,7 +3203,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-23')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">23.【降りる（to get off）】The train is crowded, so please get off carefully at the next station. / Yes, I can get off.</div>
+        <div class="toggle-prompt-text">23. The train is crowded, so please get off carefully at the next station. / Yes, I can get off.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-23">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-23">
@@ -3211,7 +3213,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-24')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">24.【来る（to come）】Can you come to tomorrow's meeting? — Yes, I can come at 9:00.</div>
+        <div class="toggle-prompt-text">24. Can you come to tomorrow's meeting? — Yes, I can come at 9:00.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-24">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-24">
@@ -3221,7 +3223,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-25')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">25.【する（to do）】Mr. Tanaka can play tennis very well.</div>
+        <div class="toggle-prompt-text">25. Mr. Tanaka can play tennis very well.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-25">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-25">
@@ -3231,7 +3233,7 @@
     </div>
     <div class="toggle-item" onclick="toggleAnswer('rev-t26-26')">
       <div class="toggle-prompt-row">
-        <div class="toggle-prompt-text">26.【勉強する（to study）】This room is very quiet, so you can study calmly.</div>
+        <div class="toggle-prompt-text">26. This room is very quiet, so you can study calmly.</div>
         <button class="btn-check-reveal" id="btn-rev-t26-26">Reveal ▼</button>
       </div>
       <div class="toggle-answer-box" id="ans-rev-t26-26">
@@ -3759,6 +3761,9 @@
 <script src="../user_progress.js"></script>
 <script>
 const LESSON_ID = 'Stage5-Lesson1';
+if (window.self !== window.top && document.body) {
+  document.body.classList.add('in-iframe');
+}
 let currentSlideIdx = 0;
 let syncChannel = null;
 try {
@@ -3774,14 +3779,18 @@ function showToast(msg) {
   window._toastTimer = setTimeout(() => { t.style.display = 'none'; }, 2600);
 }
 
-function toggleFurigana() {
-  document.body.classList.toggle('hide-furigana');
+function toggleFurigana(forceHide) {
+  const isCurrentlyHidden = document.body.classList.contains('hide-furigana') || document.body.classList.contains('furigana-off');
+  const shouldHide = (typeof forceHide === 'boolean') ? forceHide : !isCurrentlyHidden;
+  document.body.classList.toggle('hide-furigana', shouldHide);
+  document.body.classList.toggle('furigana-off', shouldHide);
+  localStorage.setItem('jp_furigana_off', shouldHide ? '1' : '0');
   const btn = document.getElementById('btn-furigana');
-  const isHidden = document.body.classList.contains('hide-furigana');
   if (btn) {
-    btn.classList.toggle('active', isHidden);
-    btn.textContent = isHidden ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.classList.toggle('active', shouldHide);
+    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
   }
+  return shouldHide;
 }
 
 function toggleSlideMode() {
@@ -3843,9 +3852,20 @@ function toggleAnswer(id) {
   const btn = document.getElementById('btn-' + id);
   if (!box) return;
   const isShowing = box.classList.contains('show');
+  // 次のを開いたら前のは自動で閉じる
+  document.querySelectorAll('.toggle-answer-box.show').forEach(el => {
+    if (el !== box) {
+      el.classList.remove('show');
+      const otherId = el.id ? el.id.replace(/^ans-/, '') : '';
+      const otherBtn = otherId ? document.getElementById('btn-' + otherId) : null;
+      if (otherBtn) otherBtn.textContent = 'Reveal ▼';
+    }
+  });
   if (!isShowing) {
     box.classList.add('show');
     if (btn) btn.textContent = 'Hide ▲';
+    const curLang = localStorage.getItem('jp_textbook_lang') || 'ko';
+    applyLanguage(curLang);
   } else {
     box.classList.remove('show');
     if (btn) btn.textContent = 'Reveal ▼';
@@ -3878,22 +3898,57 @@ function setRoleplayMode(cardId, mode, btnEl) {
   });
 }
 
+let _currentTtsAudio = null;
 function sanitizeForSpeech(text) {
   let s = String(text || '');
   s = s.replace(/<rt>.*?<\/rt>/g, '').replace(/<rp>.*?<\/rp>/g, '').replace(/<[^>]+>/g, '');
+  s = s.replace(/[💬🎯💡⚠️❌⭕✅🔊⭐📥🌐📄📽️]/g, '');
   s = s.replace(/来ない/g, 'こない').replace(/来られます/g, 'こられます').replace(/来られる/g, 'こられる');
   s = s.replace(/何人/g, 'なんにん').replace(/一日中/g, 'いちにちじゅう');
   return s.trim();
 }
 
-function speakText(text) {
+function _fallbackWebSpeech(clean) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
-  const clean = sanitizeForSpeech(text);
   const utter = new SpeechSynthesisUtterance(clean);
   utter.lang = 'ja-JP';
   utter.rate = 0.92;
   window.speechSynthesis.speak(utter);
+}
+
+function speakText(text) {
+  const clean = sanitizeForSpeech(text);
+  if (!clean) return;
+  try {
+    if (_currentTtsAudio) {
+      _currentTtsAudio.pause();
+      _currentTtsAudio.currentTime = 0;
+      _currentTtsAudio = null;
+    }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+  } catch (e) {}
+
+  try {
+    if (window.parent && window.parent !== window && typeof window.parent.playAppAudio === 'function') {
+      window.parent.playAppAudio(clean);
+      return;
+    }
+  } catch (e) {}
+
+  try {
+    const encoded = encodeURIComponent(clean.slice(0, 190));
+    const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
+    const audio = new Audio(url);
+    _currentTtsAudio = audio;
+    audio.onerror = () => { _fallbackWebSpeech(clean); };
+    const p = audio.play();
+    if (p !== undefined) {
+      p.catch(() => { _fallbackWebSpeech(clean); });
+    }
+  } catch (e) {
+    _fallbackWebSpeech(clean);
+  }
 }
 
 function getStudentId() {
@@ -3990,15 +4045,16 @@ function applyLanguage(lang) {
 
   // 1. Switch single-block .i18n-switch elements to show ONLY the selected language
   document.querySelectorAll('.i18n-switch').forEach(el => {
+    const isInline = el.classList.contains('i18n-inline');
     if (lang === 'all') {
       const parts = [];
       ['en','ko','zhcn','zhtw','cant'].forEach(l => { if (el.dataset[l]) parts.push(el.dataset[l]); });
-      el.innerHTML = parts.join('<br>');
-      el.style.display = parts.length ? 'block' : 'none';
+      el.innerHTML = parts.join(isInline ? ' ／ ' : '<br>');
+      el.style.display = parts.length ? (isInline ? 'inline' : 'block') : 'none';
     } else {
       const val = el.dataset[lang] || el.dataset.en || '';
       el.innerHTML = val;
-      el.style.display = val ? 'block' : 'none';
+      el.style.display = val ? (isInline ? 'inline' : 'block') : 'none';
     }
   });
 
@@ -4106,19 +4162,20 @@ function downloadA4LandscapePDF() {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
+  if (window.self !== window.top) {
+    document.body.classList.add('in-iframe');
+  }
   const ctrlBox = document.querySelector('.header-controls');
-  const slideBtn = document.getElementById('btn-slide');
   if (ctrlBox && !document.getElementById('btn-pdf')) {
     const pdfBtn = document.createElement('button');
     pdfBtn.className = 'ctrl-btn';
     pdfBtn.id = 'btn-pdf';
     pdfBtn.textContent = '📥 PDF保存 (A4横)';
     pdfBtn.onclick = downloadA4LandscapePDF;
-    if (slideBtn && slideBtn.nextSibling) {
-      ctrlBox.insertBefore(pdfBtn, slideBtn.nextSibling);
-    } else {
-      ctrlBox.appendChild(pdfBtn);
-    }
+    ctrlBox.appendChild(pdfBtn);
+  }
+  if (localStorage.getItem('jp_furigana_off') === '1') {
+    toggleFurigana(true);
   }
   const savedLang = localStorage.getItem('jp_textbook_lang') || 'ko';
   applyLanguage(savedLang);

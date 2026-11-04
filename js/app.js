@@ -11379,7 +11379,17 @@
           const isJapaneseSentence = (s) => /[\u3040-\u309f]/.test(s) && (/[。、！？]/.test(s) || s.includes('A:') || s.includes('A：') || s.length > 10);
 
           // Distribute columns intelligently
-          if (cols.length === 3 && isJapaneseSentence(cols[1])) {
+          if (cols.length >= 4 && isJapaneseSentence(cols[1])) {
+            // 5-column format: [0]意味(母国語(英語)) \t [1]日本語例文 \t [2]例文訳 \t [3]関連語・使い分け解説(related)
+            if (isEnglish(cols[0])) {
+              parsedEn = cols[0];
+            } else {
+              parsedNative = cols[0];
+            }
+            exJa = cols[1];
+            exTrans = cols[2];
+            related = cols.slice(3).join('\t');
+          } else if (cols.length === 3 && isJapaneseSentence(cols[1])) {
             if (isEnglish(cols[0])) {
               parsedEn = cols[0];
             } else {

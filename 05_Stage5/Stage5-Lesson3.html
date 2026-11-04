@@ -79,8 +79,24 @@
     line-height: 1.65;
     padding-bottom: 80px;
   }
-  body.hide-furigana ruby rt {
-    visibility: hidden;
+  body.hide-furigana rt,
+  body.hide-furigana rp,
+  body.hide-furigana .furigana-text,
+  body.furigana-off rt,
+  body.furigana-off rp,
+  body.furigana-off .furigana-text {
+    display: none !important;
+  }
+  @media screen {
+    body.in-iframe header,
+    body.in-iframe .hw-banner {
+      display: none !important;
+    }
+  }
+  .hw-banner,
+  .badge-hw,
+  #btn-slide {
+    display: none !important;
   }
   body.slide-mode .container {
     max-width: 1360px;
@@ -103,13 +119,13 @@
   body.slide-mode .roleplay-jp {
     font-size: 1.18rem;
   }
-  /* Header: Solid Blue-Green (No Gradient, No Yellow in Header) */
+  /* Header: Slim 1-Row Solid Blue-Green (No Gradient, No Yellow in Header) */
   header {
     background: #006E7F;
-    border-bottom: 3px solid #6BD4DE;
+    border-bottom: 2px solid #6BD4DE;
     color: white;
-    padding: 14px 28px;
-    box-shadow: 0 3px 12px rgba(0, 88, 100, 0.14);
+    padding: 8px 20px;
+    box-shadow: 0 2px 10px rgba(0, 88, 100, 0.14);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -121,52 +137,50 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 12px;
   }
-  .header-title-box { display: flex; flex-direction: column; gap: 4px; }
-  .header-top-badges { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .header-title-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+    flex: 1;
+  }
+  .header-top-badges {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
   .badge-stage {
     background: #00947A;
-    border: 1px solid #7ACBC1;
+    border: 1.5px solid #7ACBC1;
     color: white;
     font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
+    font-size: 0.75rem;
     padding: 3px 12px;
     border-radius: 999px;
     font-weight: 800;
     letter-spacing: 0.5px;
-  }
-  .badge-hw {
-    background: #E0F4F7;
-    color: #005864;
-    border: 1px solid #6BD4DE;
-    font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
-    font-size: 0.74rem;
-    padding: 2px 12px;
-    border-radius: 999px;
-    font-weight: 700;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-  .badge-hw:hover {
-    transform: translateY(-1px);
-    background: #FFFFFF;
+    white-space: nowrap;
   }
   .header-title-box h1 {
-    font-size: 1.18rem;
+    font-size: 1.02rem;
     font-weight: 700;
     letter-spacing: 0.2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
   }
   .header-controls {
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
   }
   .ctrl-btn {
     background: rgba(255,255,255,0.16);
@@ -1307,13 +1321,11 @@
     <div class="header-title-box">
       <div class="header-top-badges">
         <span class="badge-stage">STAGE 5 - LESSON 3</span>
-        <a class="badge-hw" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[5])" title="宿題フラッシュカード単語へ移動">📚 宿題連動: Flashcard #26 (季節/天気・23語) ＆ #47・#48 (たform) ＆ #22・#23 (形容詞)</a>
       </div>
       <h1>明日はいい天気だと思います（普通形体系・〜と思います・〜と言いました・〜でしょう）</h1>
     </div>
     <div class="header-controls">
       <button class="ctrl-btn" id="btn-furigana" onclick="toggleFurigana()">あ ふりがな: ON</button>
-      <button class="ctrl-btn" id="btn-slide" onclick="toggleSlideMode()">📽️ スライド表示</button>
       <div class="lang-switcher">
         <span>🌐</span>
         <select id="lang-select" onchange="applyLanguage(this.value)">
@@ -1329,16 +1341,6 @@
     </div>
   </div>
 </header>
-
-<div class="hw-banner">
-  <div class="hw-banner-inner">
-    <div><strong>🎯 このレッスンの宿題・復習連携：</strong> フラッシュカード <strong>#26「季節/天気 23語（春・夏・秋・冬・晴れ・曇り・桜・花火・紅葉・鍋等）」</strong> ＋ <strong>#47・#48「基本動詞 たform」</strong> ＋ <strong>#22・#23「い形容詞・な形容詞」</strong>を完全統合しています！</div>
-    <div class="hw-banner-actions">
-      <button class="hw-action-btn" onclick="scrollToSection('sec-pool', document.querySelectorAll('.nav-tab-btn')[5])">⭐ 語彙プール (40語) を見る</button>
-      <button class="hw-action-btn" onclick="bulkSaveAllWords()">📥 40語すべてマイリストに一括追加</button>
-    </div>
-  </div>
-</div>
 
 <div class="nav-bar">
   <button class="nav-tab-btn active" onclick="scrollToSection('sec-system', this)">1. 普通形（タメ口）完全体系表</button>
@@ -1652,14 +1654,14 @@
 
         <div class="practice-part-header">
           <span class="practice-part-badge">Drill B</span>
-          <div class="practice-part-title">即応ドリル B：［普通形］＋ と思います（全6問・宿題 #26 季節/天気 連動）</div>
+          <div class="practice-part-title">即応ドリル B：［普通形］＋ と思います（全6問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. I think this summer will be very hot. (今年の夏・とても暑い)</div><button class="btn-check-reveal" id="btn-l3-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b1"><span><ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今年の夏はとても暑いと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. I think the sea in Okinawa is very beautiful. (沖縄の海・きれい [な形容詞])</div><button class="btn-check-reveal" id="btn-l3-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b2"><span><ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>はとても<ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('沖縄の海はとても綺麗だと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. I think it will probably rain this afternoon. (たぶん・午後は雨が降る)</div><button class="btn-check-reveal" id="btn-l3-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b3"><span>たぶん、<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たぶん、午後は雨が降ると思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Because it is far from the station, I think it is a little inconvenient. (少し不便な)</div><button class="btn-check-reveal" id="btn-l3-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b4"><span><ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>いですから、<ruby>少<rt>すこ</rt></ruby>し<ruby>不便<rt>ふべん</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅から遠いですから、少し不便だと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. I don't think that news is a lie. (うそじゃない)</div><button class="btn-check-reveal" id="btn-l3-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b5"><span>あのニュースはうそ<strong>じゃない</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あのニュースはうそじゃないと思います。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. What do you think about the new plan? (新しい計画について)</div><button class="btn-check-reveal" id="btn-l3-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b6"><span><ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>について、<strong>どう<ruby>思<rt>おも</rt></ruby>いますか</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('新しい計画について、どう思いますか。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-1. I think this summer will be very hot.</div><button class="btn-check-reveal" id="btn-l3-b1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b1"><span><ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('今年の夏はとても暑いと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-2. I think the sea in Okinawa is very beautiful.</div><button class="btn-check-reveal" id="btn-l3-b2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b2"><span><ruby>沖縄<rt>おきなわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>はとても<ruby>綺麗<rt>きれい</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('沖縄の海はとても綺麗だと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-3. I think it will probably rain this afternoon.</div><button class="btn-check-reveal" id="btn-l3-b3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b3"><span>たぶん、<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('たぶん、午後は雨が降ると思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-4. Because it is far from the station, I think it is a little inconvenient.</div><button class="btn-check-reveal" id="btn-l3-b4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b4"><span><ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>いですから、<ruby>少<rt>すこ</rt></ruby>し<ruby>不便<rt>ふべん</rt></ruby><strong>だ</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('駅から遠いですから、少し不便だと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-5. I don't think that news is a lie.</div><button class="btn-check-reveal" id="btn-l3-b5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b5"><span>あのニュースはうそ<strong>じゃない</strong>と<ruby>思<rt>おも</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あのニュースはうそじゃないと思います。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-b6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">B-6. What do you think about the new plan? (新しい計画)</div><button class="btn-check-reveal" id="btn-l3-b6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-b6"><span><ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>について、<strong>どう<ruby>思<rt>おも</rt></ruby>いますか</strong>。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('新しい計画について、どう思いますか。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -1715,10 +1717,10 @@
           <span class="practice-part-badge" style="background:var(--teal-text);">Drill C</span>
           <div class="practice-part-title">即応ドリル C：［普通形］＋ と言いました ／ と言っていました（全6問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. Ms. Suzuki said, "I will take a day off tomorrow." ➔ 間接引用（普通形＋と言いました）に変えると？</div><button class="btn-check-reveal" id="btn-l3-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c1"><span>鈴木さんは、あした<ruby>休<rt>やす</rt></ruby>むと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんは、あした休むと言いました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. Mr. Tanaka said that he couldn't come to the meeting because he was busy. (会議に来られない)</div><button class="btn-check-reveal" id="btn-l3-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c2"><span>田中さんは、<ruby>忙<rt>いそが</rt></ruby>しいから<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られないと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんは、忙しいから会議に来られないと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-1. Ms. Suzuki said, "I will take a day off tomorrow." ➔ 間接引用に変えると？</div><button class="btn-check-reveal" id="btn-l3-c1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c1"><span>鈴木さんは、あした<ruby>休<rt>やす</rt></ruby>むと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんは、あした休むと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-2. Mr. Tanaka said that he couldn't come to the meeting because he was busy.</div><button class="btn-check-reveal" id="btn-l3-c2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c2"><span>田中さんは、<ruby>忙<rt>いそが</rt></ruby>しいから<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>られないと<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('田中さんは、忙しいから会議に来られないと言いました。')" title="Listen">🔊</button></div></div>
         <div class="toggle-item" onclick="toggleAnswer('l3-c3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-3. On the weather news, they said it would be cloudy (曇り) tomorrow.</div><button class="btn-check-reveal" id="btn-l3-c3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c3"><span><ruby>天気<rt>てんき</rt></ruby>のニュースで、あしたは<ruby>曇<rt>くも</rt></ruby>り<strong>だ</strong>と<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('天気のニュースで、あしたは曇りだと言っていました。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. Mr. Sato said that last week's festival (祭り) was very lively (賑やかでした).</div><button class="btn-check-reveal" id="btn-l3-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c4"><span>佐藤さんは、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りはとても<ruby>賑<rt>にぎ</rt></ruby>やか<strong>だった</strong>と<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんは、先週の祭りはとても賑やかだったと言いました。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-c4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-4. Mr. Sato said that last week's festival (祭り) was very lively.</div><button class="btn-check-reveal" id="btn-l3-c4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c4"><span>佐藤さんは、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りはとても<ruby>賑<rt>にぎ</rt></ruby>やか<strong>だった</strong>と<ruby>言<rt>い</rt></ruby>いました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('佐藤さんは、先週の祭りはとても賑やかだったと言いました。')" title="Listen">🔊</button></div></div>
         <div class="toggle-item" onclick="toggleAnswer('l3-c5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-5. After finishes eating a meal, we say "Gochisousama deshita".</div><button class="btn-check-reveal" id="btn-l3-c5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c5"><span>ごはんを<ruby>食<rt>た</rt></ruby>べたあとで、「ごちそうさまでした」と<ruby>言<rt>い</rt></ruby>います。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('ごはんを食べたあとで、ごちそうさまでしたと言います。')" title="Listen">🔊</button></div></div>
         <div class="toggle-item" onclick="toggleAnswer('l3-c6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">C-6. Mr. Ito said that he would return to his hometown on New Year's (お正月).</div><button class="btn-check-reveal" id="btn-l3-c6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-c6"><span>伊藤さんは、お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>国<rt>くに</rt></ruby>（実家）へ<ruby>帰<rt>かえ</rt></ruby>ると<ruby>言<rt>い</rt></ruby>っていました。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('伊藤さんは、お正月に国へ帰ると言っていました。')" title="Listen">🔊</button></div></div>
       </div>
@@ -1785,12 +1787,12 @@
           <span class="practice-part-badge" style="background:var(--pink-text);">Drill D</span>
           <div class="practice-part-title">即応ドリル D：「〜でしょう ／ 〜でしょうか」 ＆ 「だ」の有無チェック（全6問）</div>
         </div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Tomorrow will probably be sunny. (晴れ ＋ でしょう)</div><button class="btn-check-reveal" id="btn-l3-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d1"><span>あしたは<ruby>晴<rt>は</rt></ruby>れでしょう。（※「晴れだでしょう」はNG！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あしたは晴れでしょう。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Saturday's fireworks festival will probably be lively. (賑やかな ＋ でしょう)</div><button class="btn-check-reveal" id="btn-l3-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d2"><span><ruby>土曜日<rt>どようび</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかでしょう。（※「だ」を消します！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('土曜日の花火大会は賑やかでしょう。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Ms. Suzuki will surely pass the exam. (きっと・試験に合格する ＋ でしょう)</div><button class="btn-check-reveal" id="btn-l3-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d3"><span>鈴木さんはきっと<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するでしょう。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんはきっと試験に合格するでしょう。')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. You have time this weekend, right? (週末は暇な ＋ でしょう？⤴)</div><button class="btn-check-reveal" id="btn-l3-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d4"><span><ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>でしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('週末は暇でしょう？')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. This sweet potato is sweet and delicious, isn't it? (このさつまいも・甘くておいしい ＋ でしょう？⤴)</div><button class="btn-check-reveal" id="btn-l3-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d5"><span>このさつまいもは<ruby>甘<rt>あま</rt></ruby>くておいしいでしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('このさつまいもは甘くておいしいでしょう？')" title="Listen">🔊</button></div></div>
-        <div class="toggle-item" onclick="toggleAnswer('l3-d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. I wonder if the cherry blossoms in Kyoto are already blooming. (もう咲いています ＋ でしょうか)</div><button class="btn-check-reveal" id="btn-l3-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d6"><span><ruby>京都<rt>きょうと</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>はもう<ruby>咲<rt>さ</rt></ruby>いているでしょうか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都の桜はもう咲いているでしょうか。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d1')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-1. Tomorrow will probably be sunny. (晴れ)</div><button class="btn-check-reveal" id="btn-l3-d1">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d1"><span>あしたは<ruby>晴<rt>は</rt></ruby>れでしょう。（※「晴れだでしょう」はNG！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('あしたは晴れでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 명사의 &#x27;だ&#x27;를 반드시 뺍니다(晴れでしょう)!" data-zhcn="※ 在「でしょう」前必须去掉「だ」（说 晴れでしょう）！" data-zhtw="※ 在「でしょう」前必須去掉「だ」（說 晴れでしょう）！" data-cant="※ 喺「でしょう」前面必須刪走個「だ」（講 晴れでしょう）！" data-fr="※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!">※ Drop だ before でしょう (say 晴れでしょう, NOT 晴れだでしょう)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d2')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-2. Saturday's fireworks festival (花火大会) will probably be lively.</div><button class="btn-check-reveal" id="btn-l3-d2">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d2"><span><ruby>土曜日<rt>どようび</rt></ruby>の<ruby>花火大会<rt>はなびたいかい</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかでしょう。（※「だ」を消します！）</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('土曜日の花火大会は賑やかでしょう。')" title="Listen">🔊</button><div class="i18n-switch" data-en="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!" data-ko="※ &#x27;でしょう&#x27; 앞에서는 な형용사의 &#x27;だ&#x27;를 뺍니다(賑やかでしょう)!" data-zhcn="※ な形容词在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-zhtw="※ な形容詞在「でしょう」前要去掉「だ」（賑やかでしょう）！" data-cant="※ な形容詞喺「でしょう」前面要刪走「だ」（賑やかでしょう）！" data-fr="※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!">※ Drop だ after な-adjectives before でしょう (賑やかでしょう)!</div></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d3')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-3. Ms. Suzuki will surely pass the exam (試験に合格する).</div><button class="btn-check-reveal" id="btn-l3-d3">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d3"><span>鈴木さんはきっと<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するでしょう。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('鈴木さんはきっと試験に合格するでしょう。')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d4')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-4. You have free time this weekend, right? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d4">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d4"><span><ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>でしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('週末は暇でしょう？')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d5')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-5. This sweet potato (さつまいも) is sweet and delicious, isn't it? (⤴)</div><button class="btn-check-reveal" id="btn-l3-d5">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d5"><span>このさつまいもは<ruby>甘<rt>あま</rt></ruby>くておいしいでしょう？</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('このさつまいもは甘くておいしいでしょう？')" title="Listen">🔊</button></div></div>
+        <div class="toggle-item" onclick="toggleAnswer('l3-d6')"><div class="toggle-prompt-row"><div class="toggle-prompt-text">D-6. I wonder if the cherry blossoms in Kyoto are already blooming (咲く).</div><button class="btn-check-reveal" id="btn-l3-d6">Reveal ▼</button></div><div class="toggle-answer-box" id="ans-l3-d6"><span><ruby>京都<rt>きょうと</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>はもう<ruby>咲<rt>さ</rt></ruby>いているでしょうか。</span><button class="tts-btn" onclick="event.stopPropagation(); speakText('京都の桜はもう咲いているでしょうか。')" title="Listen">🔊</button></div></div>
       </div>
     </div>
 
@@ -2144,7 +2146,7 @@
     <div class="word-pool-grid" id="word-pool-grid">
       <div class="word-pool-card" data-type="weather" data-word="季節" data-reading="きせつ" data-meaning="season" data-example="日本で一番好きな季節は秋だと思います。">
         <div>
-          <div class="pool-word-jp">1. 季節（きせつ） <button class="tts-btn" onclick="speakText('季節')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">1. 季節<span class="furigana-text">（きせつ）</span> <button class="tts-btn" onclick="speakText('季節')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">season</div>
           <div class="pool-word-native i18n-native" data-ko="계절" data-zhcn="季节" data-zhtw="季節" data-cant="季節" data-fr="saison"></div>
@@ -2153,7 +2155,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="春" data-reading="はる" data-meaning="spring" data-example="春は暖かくて、桜がきれいだと言っていました。">
         <div>
-          <div class="pool-word-jp">2. 春（はる） <button class="tts-btn" onclick="speakText('春')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">2. 春<span class="furigana-text">（はる）</span> <button class="tts-btn" onclick="speakText('春')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">spring</div>
           <div class="pool-word-native i18n-native" data-ko="봄" data-zhcn="春天 / 春季" data-zhtw="春天 / 春季" data-cant="春天" data-fr="printemps"></div>
@@ -2162,7 +2164,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="夏" data-reading="なつ" data-meaning="summer" data-example="今年の夏はとても暑いと思います。">
         <div>
-          <div class="pool-word-jp">3. 夏（なつ） <button class="tts-btn" onclick="speakText('夏')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">3. 夏<span class="furigana-text">（なつ）</span> <button class="tts-btn" onclick="speakText('夏')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">summer</div>
           <div class="pool-word-native i18n-native" data-ko="여름" data-zhcn="夏天 / 夏季" data-zhtw="夏天 / 夏季" data-cant="夏天" data-fr="été"></div>
@@ -2171,7 +2173,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="秋" data-reading="あき" data-meaning="autumn / fall" data-example="秋は山のもみじ（紅葉）がきれいでしょう。">
         <div>
-          <div class="pool-word-jp">4. 秋（あき） <button class="tts-btn" onclick="speakText('秋')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">4. 秋<span class="furigana-text">（あき）</span> <button class="tts-btn" onclick="speakText('秋')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">autumn / fall</div>
           <div class="pool-word-native i18n-native" data-ko="가을" data-zhcn="秋天 / 秋季" data-zhtw="秋天 / 秋季" data-cant="秋天" data-fr="automne"></div>
@@ -2180,7 +2182,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="冬" data-reading="ふゆ" data-meaning="winter" data-example="北海道の冬はとても寒いと思います。">
         <div>
-          <div class="pool-word-jp">5. 冬（ふゆ） <button class="tts-btn" onclick="speakText('冬')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">5. 冬<span class="furigana-text">（ふゆ）</span> <button class="tts-btn" onclick="speakText('冬')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">winter</div>
           <div class="pool-word-native i18n-native" data-ko="겨울" data-zhcn="冬天 / 冬季" data-zhtw="冬天 / 冬季" data-cant="冬天" data-fr="hiver"></div>
@@ -2189,7 +2191,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="天気" data-reading="てんき" data-meaning="weather" data-example="あしたはいい天気だと思います。">
         <div>
-          <div class="pool-word-jp">6. 天気（てんき） <button class="tts-btn" onclick="speakText('天気')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">6. 天気<span class="furigana-text">（てんき）</span> <button class="tts-btn" onclick="speakText('天気')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">weather</div>
           <div class="pool-word-native i18n-native" data-ko="날씨" data-zhcn="天气" data-zhtw="天氣" data-cant="天氣" data-fr="temps / météo"></div>
@@ -2198,7 +2200,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="雨" data-reading="あめ" data-meaning="rain" data-example="午後は雨が降ると思います。">
         <div>
-          <div class="pool-word-jp">7. 雨（あめ） <button class="tts-btn" onclick="speakText('雨')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">7. 雨<span class="furigana-text">（あめ）</span> <button class="tts-btn" onclick="speakText('雨')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">rain</div>
           <div class="pool-word-native i18n-native" data-ko="비" data-zhcn="雨" data-zhtw="雨" data-cant="雨" data-fr="pluie"></div>
@@ -2207,7 +2209,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="晴れ" data-reading="はれ" data-meaning="sunny / clear weather" data-example="あしたは晴れだと言っていました。">
         <div>
-          <div class="pool-word-jp">8. 晴れ（はれ） <button class="tts-btn" onclick="speakText('晴れ')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">8. 晴れ<span class="furigana-text">（はれ）</span> <button class="tts-btn" onclick="speakText('晴れ')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">sunny / clear weather</div>
           <div class="pool-word-native i18n-native" data-ko="맑음" data-zhcn="晴天" data-zhtw="晴天" data-cant="晴天 / 好天" data-fr="beau temps / ensoleillé"></div>
@@ -2216,7 +2218,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="曇り" data-reading="くもり" data-meaning="cloudy weather" data-example="土曜日は曇りでしょう。">
         <div>
-          <div class="pool-word-jp">9. 曇り（くもり） <button class="tts-btn" onclick="speakText('曇り')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">9. 曇り<span class="furigana-text">（くもり）</span> <button class="tts-btn" onclick="speakText('曇り')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">cloudy weather</div>
           <div class="pool-word-native i18n-native" data-ko="흐림" data-zhcn="阴天 / 多云" data-zhtw="陰天 / 多雲" data-cant="陰天 / 多雲" data-fr="nuageux"></div>
@@ -2225,7 +2227,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="風" data-reading="かぜ" data-meaning="wind / breeze" data-example="今日は風が強いですね。">
         <div>
-          <div class="pool-word-jp">10. 風（かぜ） <button class="tts-btn" onclick="speakText('風')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">10. 風<span class="furigana-text">（かぜ）</span> <button class="tts-btn" onclick="speakText('風')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">wind / breeze</div>
           <div class="pool-word-native i18n-native" data-ko="바람" data-zhcn="风" data-zhtw="風" data-cant="風" data-fr="vent"></div>
@@ -2234,7 +2236,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="桜" data-reading="さくら" data-meaning="cherry blossoms" data-example="来週は公園の桜がきれいだと思います。">
         <div>
-          <div class="pool-word-jp">11. 桜（さくら） <button class="tts-btn" onclick="speakText('桜')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">11. 桜<span class="furigana-text">（さくら）</span> <button class="tts-btn" onclick="speakText('桜')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">cherry blossoms</div>
           <div class="pool-word-native i18n-native" data-ko="벚꽃" data-zhcn="樱花" data-zhtw="櫻花" data-cant="櫻花" data-fr="fleurs de cerisier"></div>
@@ -2243,7 +2245,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="団子" data-reading="だんご" data-meaning="dango (sweet rice dumplings)" data-example="この店の団子はとてもおいしいと思います。">
         <div>
-          <div class="pool-word-jp">12. 団子（だんご） <button class="tts-btn" onclick="speakText('団子')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">12. 団子<span class="furigana-text">（だんご）</span> <button class="tts-btn" onclick="speakText('団子')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">dango (sweet rice dumplings)</div>
           <div class="pool-word-native i18n-native" data-ko="경단 (당고)" data-zhcn="团子" data-zhtw="糰子" data-cant="丸子 / 團子" data-fr="dango"></div>
@@ -2252,7 +2254,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="花火" data-reading="はなび" data-meaning="fireworks" data-example="土曜日の花火大会は賑やかでしょう。">
         <div>
-          <div class="pool-word-jp">13. 花火（はなび） <button class="tts-btn" onclick="speakText('花火')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">13. 花火<span class="furigana-text">（はなび）</span> <button class="tts-btn" onclick="speakText('花火')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">fireworks</div>
           <div class="pool-word-native i18n-native" data-ko="불꽃놀이" data-zhcn="烟花 / 焰火" data-zhtw="煙火" data-cant="煙花" data-fr="feux d'artifice"></div>
@@ -2261,7 +2263,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="祭り" data-reading="まつり" data-meaning="festival" data-example="夏の祭りにたくさんの人が来ると思います。">
         <div>
-          <div class="pool-word-jp">14. 祭り（まつり） <button class="tts-btn" onclick="speakText('祭り')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">14. 祭り<span class="furigana-text">（まつり）</span> <button class="tts-btn" onclick="speakText('祭り')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">festival</div>
           <div class="pool-word-native i18n-native" data-ko="축제" data-zhcn="祭典 / 节日" data-zhtw="祭典 / 節慶" data-cant="祭典" data-fr="festival"></div>
@@ -2270,7 +2272,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="海" data-reading="うみ" data-meaning="sea / beach" data-example="沖縄の海はとてもきれいだと思います。">
         <div>
-          <div class="pool-word-jp">15. 海（うみ） <button class="tts-btn" onclick="speakText('海')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">15. 海<span class="furigana-text">（うみ）</span> <button class="tts-btn" onclick="speakText('海')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">sea / beach</div>
           <div class="pool-word-native i18n-native" data-ko="바다" data-zhcn="海 / 大海" data-zhtw="海 / 大海" data-cant="海" data-fr="mer"></div>
@@ -2279,7 +2281,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="山" data-reading="やま" data-meaning="mountain" data-example="あしたは山へ登りに行こうと思います。">
         <div>
-          <div class="pool-word-jp">16. 山（やま） <button class="tts-btn" onclick="speakText('山')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">16. 山<span class="furigana-text">（やま）</span> <button class="tts-btn" onclick="speakText('山')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">mountain</div>
           <div class="pool-word-native i18n-native" data-ko="산" data-zhcn="山" data-zhtw="山" data-cant="山" data-fr="montagne"></div>
@@ -2288,7 +2290,7 @@
       </div>
       <div class="word-pool-card" data-type="weather" data-word="川" data-reading="かわ" data-meaning="river" data-example="この川の水はとても冷たいと思います。">
         <div>
-          <div class="pool-word-jp">17. 川（かわ） <button class="tts-btn" onclick="speakText('川')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">17. 川<span class="furigana-text">（かわ）</span> <button class="tts-btn" onclick="speakText('川')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">river</div>
           <div class="pool-word-native i18n-native" data-ko="강" data-zhcn="河 / 川" data-zhtw="河 / 川" data-cant="河" data-fr="rivière / fleuve"></div>
@@ -2297,7 +2299,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="紅葉" data-reading="こうよう" data-meaning="autumn leaves / fall foliage" data-example="11月は京都の紅葉が有名だと思います。">
         <div>
-          <div class="pool-word-jp">18. 紅葉（こうよう） <button class="tts-btn" onclick="speakText('紅葉')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">18. 紅葉<span class="furigana-text">（こうよう）</span> <button class="tts-btn" onclick="speakText('紅葉')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">autumn leaves / fall foliage</div>
           <div class="pool-word-native i18n-native" data-ko="단풍" data-zhcn="红叶" data-zhtw="紅葉" data-cant="紅葉" data-fr="feuilles d'automne"></div>
@@ -2306,7 +2308,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="さつまいも" data-reading="さつまいも" data-meaning="sweet potato" data-example="秋はさつまいもがおいしい季節ですね。">
         <div>
-          <div class="pool-word-jp">19. さつまいも（さつまいも） <button class="tts-btn" onclick="speakText('さつまいも')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">19. さつまいも<span class="furigana-text">（さつまいも）</span> <button class="tts-btn" onclick="speakText('さつまいも')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">sweet potato</div>
           <div class="pool-word-native i18n-native" data-ko="고구마" data-zhcn="红薯 / 地瓜" data-zhtw="地瓜 / 番薯" data-cant="番薯" data-fr="patate douce"></div>
@@ -2315,7 +2317,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="こたつ" data-reading="こたつ" data-meaning="kotatsu (heated table)" data-example="冬はこたつに入って休むのが好きです。">
         <div>
-          <div class="pool-word-jp">20. こたつ（こたつ） <button class="tts-btn" onclick="speakText('こたつ')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">20. こたつ<span class="furigana-text">（こたつ）</span> <button class="tts-btn" onclick="speakText('こたつ')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">kotatsu (heated table)</div>
           <div class="pool-word-native i18n-native" data-ko="코타츠 (난방 탁자)" data-zhcn="被炉" data-zhtw="暖桌 / 被爐" data-cant="被爐" data-fr="kotatsu"></div>
@@ -2324,7 +2326,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="鍋" data-reading="なべ" data-meaning="hot pot (nabe)" data-example="寒い日は温かい鍋が一番いいと思います。">
         <div>
-          <div class="pool-word-jp">21. 鍋（なべ） <button class="tts-btn" onclick="speakText('鍋')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">21. 鍋<span class="furigana-text">（なべ）</span> <button class="tts-btn" onclick="speakText('鍋')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">hot pot (nabe)</div>
           <div class="pool-word-native i18n-native" data-ko="전골 요리 (나베)" data-zhcn="火锅" data-zhtw="火鍋" data-cant="火鍋 / 打邊爐" data-fr="fondue japonaise (nabe)"></div>
@@ -2333,7 +2335,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="クリスマス" data-reading="くりすます" data-meaning="Christmas" data-example="クリスマスの日は街が賑やかでしょう。">
         <div>
-          <div class="pool-word-jp">22. クリスマス（くりすます） <button class="tts-btn" onclick="speakText('クリスマス')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">22. クリスマス<span class="furigana-text">（くりすます）</span> <button class="tts-btn" onclick="speakText('クリスマス')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">Christmas</div>
           <div class="pool-word-native i18n-native" data-ko="크리스마스" data-zhcn="圣诞节" data-zhtw="聖誕節" data-cant="聖誕節" data-fr="Noël"></div>
@@ -2342,7 +2344,7 @@
       </div>
       <div class="word-pool-card" data-type="culture" data-word="お正月" data-reading="おしょうがつ" data-meaning="New Year's holidays" data-example="お正月は家族に会いに帰ると思います。">
         <div>
-          <div class="pool-word-jp">23. お正月（おしょうがつ） <button class="tts-btn" onclick="speakText('お正月')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">23. お正月<span class="furigana-text">（おしょうがつ）</span> <button class="tts-btn" onclick="speakText('お正月')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">New Year's holidays</div>
           <div class="pool-word-native i18n-native" data-ko="설날 / 정월" data-zhcn="新年 / 正月" data-zhtw="新年 / 正月" data-cant="新年 / 正月" data-fr="Nouvel An"></div>
@@ -2351,7 +2353,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="思う" data-reading="おもう" data-meaning="to think / feel" data-example="このアプリはとても便利だと思います。">
         <div>
-          <div class="pool-word-jp">24. 思う（おもう） <button class="tts-btn" onclick="speakText('思う')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">24. 思う<span class="furigana-text">（おもう）</span> <button class="tts-btn" onclick="speakText('思う')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">五段動詞</div>
           <div class="pool-word-trans">to think / feel</div>
           <div class="pool-word-native i18n-native" data-ko="생각하다" data-zhcn="觉得 / 认为" data-zhtw="覺得 / 認為" data-cant="覺得 / 認為" data-fr="penser / croire"></div>
@@ -2360,7 +2362,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="言う" data-reading="いう" data-meaning="to say / tell" data-example="田中さんは「明日行く」と言いました。">
         <div>
-          <div class="pool-word-jp">25. 言う（いう） <button class="tts-btn" onclick="speakText('言う')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">25. 言う<span class="furigana-text">（いう）</span> <button class="tts-btn" onclick="speakText('言う')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">五段動詞</div>
           <div class="pool-word-trans">to say / tell</div>
           <div class="pool-word-native i18n-native" data-ko="말하다" data-zhcn="说" data-zhtw="說" data-cant="講 / 話" data-fr="dire"></div>
@@ -2369,7 +2371,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="たぶん" data-reading="たぶん" data-meaning="probably / maybe (with と思います/でしょう)" data-example="たぶん明日は雨が降らないと思います。">
         <div>
-          <div class="pool-word-jp">26. たぶん（たぶん） <button class="tts-btn" onclick="speakText('たぶん')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">26. たぶん<span class="furigana-text">（たぶん）</span> <button class="tts-btn" onclick="speakText('たぶん')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">副詞</div>
           <div class="pool-word-trans">probably / maybe (with と思います/でしょう)</div>
           <div class="pool-word-native i18n-native" data-ko="아마" data-zhcn="大概 / 也许" data-zhtw="大概 / 也許" data-cant="大概 / 可能" data-fr="probablement"></div>
@@ -2378,7 +2380,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="きっと" data-reading="きっと" data-meaning="surely / certainly" data-example="鈴木さんはきっと試験に合格するでしょう。">
         <div>
-          <div class="pool-word-jp">27. きっと（きっと） <button class="tts-btn" onclick="speakText('きっと')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">27. きっと<span class="furigana-text">（きっと）</span> <button class="tts-btn" onclick="speakText('きっと')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">副詞</div>
           <div class="pool-word-trans">surely / certainly</div>
           <div class="pool-word-native i18n-native" data-ko="분명히 / 꼭" data-zhcn="一定" data-zhtw="一定" data-cant="一定" data-fr="sûrement / certainement"></div>
@@ -2387,7 +2389,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="意見" data-reading="いけん" data-meaning="opinion" data-example="この計画について、どう思いますか。意見を教えてください。">
         <div>
-          <div class="pool-word-jp">28. 意見（いけん） <button class="tts-btn" onclick="speakText('意見')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">28. 意見<span class="furigana-text">（いけん）</span> <button class="tts-btn" onclick="speakText('意見')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">opinion</div>
           <div class="pool-word-native i18n-native" data-ko="의견" data-zhcn="意见" data-zhtw="意見" data-cant="意見" data-fr="opinion / avis"></div>
@@ -2396,7 +2398,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="ニュース" data-reading="にゅーす" data-meaning="news" data-example="天気のニュースで、明日は晴れだと言っていました。">
         <div>
-          <div class="pool-word-jp">29. ニュース（にゅーす） <button class="tts-btn" onclick="speakText('ニュース')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">29. ニュース<span class="furigana-text">（にゅーす）</span> <button class="tts-btn" onclick="speakText('ニュース')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">news</div>
           <div class="pool-word-native i18n-native" data-ko="뉴스" data-zhcn="新闻" data-zhtw="新聞" data-cant="新聞" data-fr="actualités / nouvelles"></div>
@@ -2405,7 +2407,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="試合" data-reading="しあい" data-meaning="match / game" data-example="今日のサッカーの試合は面白いと思います。">
         <div>
-          <div class="pool-word-jp">30. 試合（しあい） <button class="tts-btn" onclick="speakText('試合')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">30. 試合<span class="furigana-text">（しあい）</span> <button class="tts-btn" onclick="speakText('試合')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">match / game</div>
           <div class="pool-word-native i18n-native" data-ko="시합 / 경기" data-zhcn="比赛" data-zhtw="比賽" data-cant="比賽" data-fr="match"></div>
@@ -2414,7 +2416,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="勝つ" data-reading="かつ" data-meaning="to win" data-example="日本のチームが勝つと思います。">
         <div>
-          <div class="pool-word-jp">31. 勝つ（かつ） <button class="tts-btn" onclick="speakText('勝つ')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">31. 勝つ<span class="furigana-text">（かつ）</span> <button class="tts-btn" onclick="speakText('勝つ')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">五段動詞</div>
           <div class="pool-word-trans">to win</div>
           <div class="pool-word-native i18n-native" data-ko="이기다" data-zhcn="赢 / 获胜" data-zhtw="贏 / 獲勝" data-cant="贏" data-fr="gagner"></div>
@@ -2423,7 +2425,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="負ける" data-reading="まける" data-meaning="to lose" data-example="強いチームですから、負けないでしょう。">
         <div>
-          <div class="pool-word-jp">32. 負ける（まける） <button class="tts-btn" onclick="speakText('負ける')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">32. 負ける<span class="furigana-text">（まける）</span> <button class="tts-btn" onclick="speakText('負ける')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">一段動詞</div>
           <div class="pool-word-trans">to lose</div>
           <div class="pool-word-native i18n-native" data-ko="지다" data-zhcn="输" data-zhtw="輸" data-cant="輸" data-fr="perdre"></div>
@@ -2432,7 +2434,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="役に立つ" data-reading="やくにたつ" data-meaning="to be useful / helpful" data-example="この辞書は日本語の勉強にとても役に立つと思います。">
         <div>
-          <div class="pool-word-jp">33. 役に立つ（やくにたつ） <button class="tts-btn" onclick="speakText('役に立つ')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">33. 役に立つ<span class="furigana-text">（やくにたつ）</span> <button class="tts-btn" onclick="speakText('役に立つ')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">五段動詞</div>
           <div class="pool-word-trans">to be useful / helpful</div>
           <div class="pool-word-native i18n-native" data-ko="도움이 되다 / 유용하다" data-zhcn="有用 / 派上用场" data-zhtw="有用 / 派上用場" data-cant="有用 / 幫到手" data-fr="être utile"></div>
@@ -2441,7 +2443,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="不便な" data-reading="ふべんな" data-meaning="inconvenient" data-example="駅から遠いですから、少し不便だと思います。">
         <div>
-          <div class="pool-word-jp">34. 不便な（ふべんな） <button class="tts-btn" onclick="speakText('不便な')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">34. 不便な<span class="furigana-text">（ふべんな）</span> <button class="tts-btn" onclick="speakText('不便な')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">な形容詞</div>
           <div class="pool-word-trans">inconvenient</div>
           <div class="pool-word-native i18n-native" data-ko="불편한" data-zhcn="不方便的" data-zhtw="不方便的" data-cant="唔方便嘅" data-fr="peu pratique"></div>
@@ -2450,7 +2452,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="無駄な" data-reading="むだな" data-meaning="wasteful / useless" data-example="時間は大切ですから、無駄じゃないと思います。">
         <div>
-          <div class="pool-word-jp">35. 無駄な（むだな） <button class="tts-btn" onclick="speakText('無駄な')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">35. 無駄な<span class="furigana-text">（むだな）</span> <button class="tts-btn" onclick="speakText('無駄な')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">な形容詞</div>
           <div class="pool-word-trans">wasteful / useless</div>
           <div class="pool-word-native i18n-native" data-ko="쓸데없는 / 낭비인" data-zhcn="浪费的 / 徒劳的" data-zhtw="浪費的 / 徒勞的" data-cant="嘥嘢嘅 / 浪費嘅" data-fr="inutile / gaspillé"></div>
@@ -2459,7 +2461,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="すごい" data-reading="すごい" data-meaning="amazing / great" data-example="中村さんは日本語が話せて、すごいと思います。">
         <div>
-          <div class="pool-word-jp">36. すごい（すごい） <button class="tts-btn" onclick="speakText('すごい')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">36. すごい<span class="furigana-text">（すごい）</span> <button class="tts-btn" onclick="speakText('すごい')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">い形容詞</div>
           <div class="pool-word-trans">amazing / great</div>
           <div class="pool-word-native i18n-native" data-ko="대단하다 / 멋지다" data-zhcn="太棒了 / 厉害" data-zhtw="太棒了 / 厲害" data-cant="好勁 / 好犀利" data-fr="incroyable / super"></div>
@@ -2468,7 +2470,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="本当" data-reading="ほんとう" data-meaning="truth / really" data-example="その話は本当だと思いますか。">
         <div>
-          <div class="pool-word-jp">37. 本当（ほんとう） <button class="tts-btn" onclick="speakText('本当')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">37. 本当<span class="furigana-text">（ほんとう）</span> <button class="tts-btn" onclick="speakText('本当')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">truth / really</div>
           <div class="pool-word-native i18n-native" data-ko="정말 / 진짜" data-zhcn="真的 / 事实" data-zhtw="真的 / 事實" data-cant="真嘅" data-fr="vrai / vraiment"></div>
@@ -2477,7 +2479,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="うそ" data-reading="うそ" data-meaning="lie / falsehood" data-example="あのニュースはうそじゃないと思います。">
         <div>
-          <div class="pool-word-jp">38. うそ（うそ） <button class="tts-btn" onclick="speakText('うそ')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">38. うそ<span class="furigana-text">（うそ）</span> <button class="tts-btn" onclick="speakText('うそ')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">名詞</div>
           <div class="pool-word-trans">lie / falsehood</div>
           <div class="pool-word-native i18n-native" data-ko="거짓말" data-zhcn="谎言 / 假话" data-zhtw="謊言 / 假話" data-cant="大話" data-fr="mensonge"></div>
@@ -2486,7 +2488,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="うん" data-reading="うん" data-meaning="yeah / yes (casual form of はい)" data-example="明日暇？ ― うん、暇だよ。">
         <div>
-          <div class="pool-word-jp">39. うん（うん） <button class="tts-btn" onclick="speakText('うん')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">39. うん<span class="furigana-text">（うん）</span> <button class="tts-btn" onclick="speakText('うん')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">感動詞</div>
           <div class="pool-word-trans">yeah / yes (casual form of はい)</div>
           <div class="pool-word-native i18n-native" data-ko="응 (반말 '네')" data-zhcn="嗯（口语「はい」）" data-zhtw="嗯（口語「はい」）" data-cant="係呀 / 嗯（口語）" data-fr="ouais / oui (familier)"></div>
@@ -2495,7 +2497,7 @@
       </div>
       <div class="word-pool-card" data-type="expr" data-word="ううん" data-reading="ううん" data-meaning="nah / no (casual form of いいえ)" data-example="もう食べた？ ― ううん、まだ食べてない。">
         <div>
-          <div class="pool-word-jp">40. ううん（ううん） <button class="tts-btn" onclick="speakText('ううん')" title="Listen">🔊</button></div>
+          <div class="pool-word-jp">40. ううん<span class="furigana-text">（ううん）</span> <button class="tts-btn" onclick="speakText('ううん')" title="Listen">🔊</button></div>
           <div class="pool-word-pot">感動詞</div>
           <div class="pool-word-trans">nah / no (casual form of いいえ)</div>
           <div class="pool-word-native i18n-native" data-ko="아니 (반말 '아니요')" data-zhcn="不 / 没有（口语「いいえ」）" data-zhtw="不 / 沒有（口語「いいえ」）" data-cant="唔係（口語）" data-fr="non (familier)"></div>
@@ -2517,6 +2519,9 @@
 <script src="../user_progress.js"></script>
 <script>
 const LESSON_ID = 'Stage5-Lesson3';
+if (window.self !== window.top && document.body) {
+  document.body.classList.add('in-iframe');
+}
 let currentSlideIdx = 0;
 let syncChannel = null;
 try {
@@ -2532,14 +2537,18 @@ function showToast(msg) {
   window._toastTimer = setTimeout(() => { t.style.display = 'none'; }, 2600);
 }
 
-function toggleFurigana() {
-  document.body.classList.toggle('hide-furigana');
+function toggleFurigana(forceHide) {
+  const isCurrentlyHidden = document.body.classList.contains('hide-furigana') || document.body.classList.contains('furigana-off');
+  const shouldHide = (typeof forceHide === 'boolean') ? forceHide : !isCurrentlyHidden;
+  document.body.classList.toggle('hide-furigana', shouldHide);
+  document.body.classList.toggle('furigana-off', shouldHide);
+  localStorage.setItem('jp_furigana_off', shouldHide ? '1' : '0');
   const btn = document.getElementById('btn-furigana');
-  const isHidden = document.body.classList.contains('hide-furigana');
   if (btn) {
-    btn.classList.toggle('active', isHidden);
-    btn.textContent = isHidden ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
+    btn.classList.toggle('active', shouldHide);
+    btn.textContent = shouldHide ? 'あ ふりがな: OFF' : 'あ ふりがな: ON';
   }
+  return shouldHide;
 }
 
 function toggleSlideMode() {
@@ -2601,9 +2610,20 @@ function toggleAnswer(id) {
   const btn = document.getElementById('btn-' + id);
   if (!box) return;
   const isShowing = box.classList.contains('show');
+  // 次のを開いたら前のは自動で閉じる
+  document.querySelectorAll('.toggle-answer-box.show').forEach(el => {
+    if (el !== box) {
+      el.classList.remove('show');
+      const otherId = el.id ? el.id.replace(/^ans-/, '') : '';
+      const otherBtn = otherId ? document.getElementById('btn-' + otherId) : null;
+      if (otherBtn) otherBtn.textContent = 'Reveal ▼';
+    }
+  });
   if (!isShowing) {
     box.classList.add('show');
     if (btn) btn.textContent = 'Hide ▲';
+    const curLang = localStorage.getItem('jp_textbook_lang') || 'ko';
+    applyLanguage(curLang);
   } else {
     box.classList.remove('show');
     if (btn) btn.textContent = 'Reveal ▼';
@@ -2636,22 +2656,57 @@ function setRoleplayMode(cardId, mode, btnEl) {
   });
 }
 
+let _currentTtsAudio = null;
 function sanitizeForSpeech(text) {
   let s = String(text || '');
   s = s.replace(/<rt>.*?<\/rt>/g, '').replace(/<rp>.*?<\/rp>/g, '').replace(/<[^>]+>/g, '');
+  s = s.replace(/[💬🎯💡⚠️❌⭕✅🔊⭐📥🌐📄📽️]/g, '');
   s = s.replace(/来ない/g, 'こない').replace(/来られます/g, 'こられます').replace(/来られる/g, 'こられる');
   s = s.replace(/何人/g, 'なんにん').replace(/一日中/g, 'いちにちじゅう');
   return s.trim();
 }
 
-function speakText(text) {
+function _fallbackWebSpeech(clean) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
-  const clean = sanitizeForSpeech(text);
   const utter = new SpeechSynthesisUtterance(clean);
   utter.lang = 'ja-JP';
   utter.rate = 0.92;
   window.speechSynthesis.speak(utter);
+}
+
+function speakText(text) {
+  const clean = sanitizeForSpeech(text);
+  if (!clean) return;
+  try {
+    if (_currentTtsAudio) {
+      _currentTtsAudio.pause();
+      _currentTtsAudio.currentTime = 0;
+      _currentTtsAudio = null;
+    }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+  } catch (e) {}
+
+  try {
+    if (window.parent && window.parent !== window && typeof window.parent.playAppAudio === 'function') {
+      window.parent.playAppAudio(clean);
+      return;
+    }
+  } catch (e) {}
+
+  try {
+    const encoded = encodeURIComponent(clean.slice(0, 190));
+    const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
+    const audio = new Audio(url);
+    _currentTtsAudio = audio;
+    audio.onerror = () => { _fallbackWebSpeech(clean); };
+    const p = audio.play();
+    if (p !== undefined) {
+      p.catch(() => { _fallbackWebSpeech(clean); });
+    }
+  } catch (e) {
+    _fallbackWebSpeech(clean);
+  }
 }
 
 function getStudentId() {
@@ -2748,15 +2803,16 @@ function applyLanguage(lang) {
 
   // 1. Switch single-block .i18n-switch elements to show ONLY the selected language
   document.querySelectorAll('.i18n-switch').forEach(el => {
+    const isInline = el.classList.contains('i18n-inline');
     if (lang === 'all') {
       const parts = [];
       ['en','ko','zhcn','zhtw','cant'].forEach(l => { if (el.dataset[l]) parts.push(el.dataset[l]); });
-      el.innerHTML = parts.join('<br>');
-      el.style.display = parts.length ? 'block' : 'none';
+      el.innerHTML = parts.join(isInline ? ' ／ ' : '<br>');
+      el.style.display = parts.length ? (isInline ? 'inline' : 'block') : 'none';
     } else {
       const val = el.dataset[lang] || el.dataset.en || '';
       el.innerHTML = val;
-      el.style.display = val ? 'block' : 'none';
+      el.style.display = val ? (isInline ? 'inline' : 'block') : 'none';
     }
   });
 
@@ -2864,19 +2920,20 @@ function downloadA4LandscapePDF() {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
+  if (window.self !== window.top) {
+    document.body.classList.add('in-iframe');
+  }
   const ctrlBox = document.querySelector('.header-controls');
-  const slideBtn = document.getElementById('btn-slide');
   if (ctrlBox && !document.getElementById('btn-pdf')) {
     const pdfBtn = document.createElement('button');
     pdfBtn.className = 'ctrl-btn';
     pdfBtn.id = 'btn-pdf';
     pdfBtn.textContent = '📥 PDF保存 (A4横)';
     pdfBtn.onclick = downloadA4LandscapePDF;
-    if (slideBtn && slideBtn.nextSibling) {
-      ctrlBox.insertBefore(pdfBtn, slideBtn.nextSibling);
-    } else {
-      ctrlBox.appendChild(pdfBtn);
-    }
+    ctrlBox.appendChild(pdfBtn);
+  }
+  if (localStorage.getItem('jp_furigana_off') === '1') {
+    toggleFurigana(true);
   }
   const savedLang = localStorage.getItem('jp_textbook_lang') || 'ko';
   applyLanguage(savedLang);
