@@ -5815,6 +5815,15 @@
     let nativeMeaning = (meaningObj[targetLang]) || '';
     let enMeaning = meaningObj.en || '';
 
+    // 🛡️ Nuance / Distinction Defense: Ensure "vs" / "【使い分け】" is NEVER displayed in Meaning / Translation (1st place)
+    // It strictly belongs in the 2nd place (Related / Conjugations)
+    if (nativeMeaning && (/\bvs\b|【使い分け】/i.test(nativeMeaning))) {
+      nativeMeaning = (enMeaning && !/\bvs\b/i.test(enMeaning)) ? enMeaning : (cardWord || '');
+    }
+    if (enMeaning && (/\bvs\b|【使い分け】/i.test(enMeaning))) {
+      enMeaning = cardWord || '';
+    }
+
     // 英語訳が空の場合、辞書・JLPTマスターから自動補完
     if (!enMeaning && cardWord) {
       const cleanW = (cardWord || '').replace(/<[^>]+>/g, '').trim();
@@ -6231,8 +6240,50 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v69_autoheal';
     const savedVersion = localStorage.getItem('haku_vocab_version');
+
+    // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
+    ['haku_all_custom_cards', 'haku_permanent_custom_archive', 'haku_vocab_data'].forEach(storageKey => {
+      try {
+        let items = JSON.parse(localStorage.getItem(storageKey) || '[]');
+        if (Array.isArray(items) && items.length > 0) {
+          let modified = false;
+          items = items.map(c => {
+            if (!c || !c.meaning) return c;
+            let changed = false;
+            for (const langKey of Object.keys(c.meaning)) {
+              const val = c.meaning[langKey];
+              if (typeof val === 'string' && (/\bvs\b|【使い分け】/i.test(val))) {
+                if (!c.related || c.related === c.reading || c.related === '重要表現') {
+                  c.related = val;
+                } else if (!c.related.includes(val)) {
+                  c.related = `${val}\n${c.related}`;
+                }
+                c.meaning[langKey] = (c.meaning.en && !/\bvs\b/i.test(c.meaning.en)) ? c.meaning.en : (c.word || '');
+                changed = true;
+              }
+            }
+            if (changed) modified = true;
+            return c;
+          });
+          // Also purge old custom card duplicates for student 0027 and 0028
+          if (window.CLASS_0027_IDS && window.CLASS_0027_IDS.length > 0) {
+            const beforeLen = items.length;
+            items = items.filter(c => !(c.studentId === '0027' && c.id && !c.id.startsWith('class_word_0027_')));
+            if (items.length !== beforeLen) modified = true;
+          }
+          if (window.CLASS_0028_IDS && window.CLASS_0028_IDS.length > 0) {
+            const beforeLen = items.length;
+            items = items.filter(c => !(c.studentId === '0028' && c.id && !c.id.startsWith('class_word_0028_')));
+            if (items.length !== beforeLen) modified = true;
+          }
+          if (modified) {
+            localStorage.setItem(storageKey, JSON.stringify(items));
+          }
+        }
+      } catch (e) {}
+    });
 
     const seedCards = window.INITIAL_VOCAB_DATA || [];
     const seedCardMap = new Map();
@@ -6525,12 +6576,32 @@
 
         // 3. Fallbacks for curated cards
         if (stId === '0028') {
+          finalStudentSet.forEach(id => {
+            if (id.startsWith('card_') && !id.startsWith('class_word_0028_')) {
+              finalStudentSet.delete(id);
+              delete stMap[id];
+            }
+          });
           const ids0028 = window.CLASS_0028_IDS || [];
-          ids0028.forEach(cId => studentCardIds.add(cId));
+          ids0028.forEach(cId => {
+            studentCardIds.add(cId);
+            finalStudentSet.add(cId);
+            stMap[cId] = CLASS_FOLDER_ID;
+          });
         }
         if (stId === '0027') {
+          finalStudentSet.forEach(id => {
+            if (id.startsWith('card_') && !id.startsWith('class_word_0027_')) {
+              finalStudentSet.delete(id);
+              delete stMap[id];
+            }
+          });
           const ids0027 = window.CLASS_0027_IDS || [];
-          ids0027.forEach(cId => studentCardIds.add(cId));
+          ids0027.forEach(cId => {
+            studentCardIds.add(cId);
+            finalStudentSet.add(cId);
+            stMap[cId] = CLASS_FOLDER_ID;
+          });
         }
         if (stId === '0023') {
           const arunIds = window.CLASS_ARUN_IDS || (typeof ARUN_CLASS_WORD_IDS !== 'undefined' ? ARUN_CLASS_WORD_IDS : []);
@@ -9400,7 +9471,20 @@
 
     // Related Words / Verb Conjugations (関連する言葉は日本語、説明は母国語)
     const relContainer = document.getElementById('backRelatedContainer');
-    if (card.related && card.related.trim()) {
+    let rawRelated = (card.related && card.related.trim()) || '';
+    if (card.meaning) {
+      for (const v of Object.values(card.meaning)) {
+        if (typeof v === 'string' && (/\bvs\b|【使い分け】/i.test(v))) {
+          if (!rawRelated || rawRelated === card.reading || rawRelated === '重要表現') {
+            rawRelated = v;
+          } else if (!rawRelated.includes(v)) {
+            rawRelated = `${v}\n${rawRelated}`;
+          }
+          break;
+        }
+      }
+    }
+    if (rawRelated) {
       relContainer.classList.remove('hidden');
 
       // Dictionary of linguistic terms for multilingual students
@@ -9422,7 +9506,7 @@
         '日常会話の重要語彙': { en: 'Essential daily vocabulary', zh_TW: '日常會話重要語彙', zh_CN: '日常会话重要词汇', ko: '일상 회화 중요 어휘', zh_HK: '日常會話重要字詞', fr: 'Vocabulaire essentiel du quotidien' }
       };
 
-      let formattedRelated = card.related;
+      let formattedRelated = rawRelated;
       // Add native translation explanation if applicable and currentLang is not 'ja'
       if (currentLang !== 'ja') {
         formattedRelated = formattedRelated.split('\n').map(line => {
