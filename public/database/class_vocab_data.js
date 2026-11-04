@@ -56414,7 +56414,6 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "はんそで（ななさんの授業重要表現）"
   },
-,
   // --- Student 0027 Curated Cards (191 words) ---
   {
     "id": "class_word_0027_0001",
@@ -61382,7 +61381,6 @@ window.CLASS_VOCAB_DATA = [
     },
     "related": "裏をとる: 噂や証言が真実かどうか、別の角度や確実な証拠で裏付けを取って確認する探偵・報道用語。"
   },
-,
   // --- Student 0028 Curated Cards (64 words) ---
   {
     "id": "class_word_0028_0001",

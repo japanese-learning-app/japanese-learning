@@ -5817,10 +5817,23 @@
 
     // 🛡️ Nuance / Distinction Defense: Ensure "vs" / "【使い分け】" is NEVER displayed in Meaning / Translation (1st place)
     // It strictly belongs in the 2nd place (Related / Conjugations)
-    if (nativeMeaning && (/\bvs\b|【使い分け】/i.test(nativeMeaning))) {
-      nativeMeaning = (enMeaning && !/\bvs\b/i.test(enMeaning)) ? enMeaning : (cardWord || '');
+    const cleanDistinction = (text) => {
+      if (!text || typeof text !== 'string') return text;
+      if (/\bvs\b|【使い分け】/i.test(text)) {
+        const m = text.match(/\(([^)]+)\)\s*$/);
+        if (m && m[1] && !/\bvs\b/i.test(m[1])) {
+          return m[1].trim();
+        }
+        return '';
+      }
+      return text;
+    };
+    nativeMeaning = cleanDistinction(nativeMeaning);
+    enMeaning = cleanDistinction(enMeaning);
+    if (!nativeMeaning) {
+      nativeMeaning = enMeaning || cardWord || '';
     }
-    if (enMeaning && (/\bvs\b|【使い分け】/i.test(enMeaning))) {
+    if (!enMeaning) {
       enMeaning = cardWord || '';
     }
 
@@ -6240,7 +6253,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v69_autoheal';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v70_fix_0027_0028';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
@@ -6270,12 +6283,12 @@
           // Also purge old custom card duplicates for student 0027 and 0028
           if (window.CLASS_0027_IDS && window.CLASS_0027_IDS.length > 0) {
             const beforeLen = items.length;
-            items = items.filter(c => !(c.studentId === '0027' && c.id && !c.id.startsWith('class_word_0027_')));
+            items = items.filter(c => !(c && c.studentId === '0027' && typeof c.id === 'string' && !c.id.startsWith('class_word_0027_')));
             if (items.length !== beforeLen) modified = true;
           }
           if (window.CLASS_0028_IDS && window.CLASS_0028_IDS.length > 0) {
             const beforeLen = items.length;
-            items = items.filter(c => !(c.studentId === '0028' && c.id && !c.id.startsWith('class_word_0028_')));
+            items = items.filter(c => !(c && c.studentId === '0028' && typeof c.id === 'string' && !c.id.startsWith('class_word_0028_')));
             if (items.length !== beforeLen) modified = true;
           }
           if (modified) {
@@ -6493,13 +6506,18 @@
     localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
 
     if (savedVersion !== CURRENT_DATA_VERSION) {
-      // Reload latest INITIAL_STUDENTS master list when version updates, while preserving edits & newly added ones
-      const seedStudents = window.INITIAL_STUDENTS || [];
+      // Reload latest master list when version updates, while preserving edits & newly added ones
+      if (!window.INITIAL_STUDENTS && window.AppAuth && typeof window.AppAuth.getStudents === 'function') {
+        window.INITIAL_STUDENTS = window.AppAuth.getStudents();
+      }
+      const seedStudents = (window.AppAuth && typeof window.AppAuth.getStudents === 'function') 
+        ? window.AppAuth.getStudents() 
+        : (window.INITIAL_STUDENTS || []);
       const savedStudents = localStorage.getItem('haku_students');
       if (savedStudents) {
         try {
           const parsed = JSON.parse(savedStudents);
-          const savedMap = new Map(parsed.map(s => [s.id, s]));
+          const savedMap = new Map((Array.isArray(parsed) ? parsed : []).map(s => [s.id, s]));
           // Apply teacher's edited names/passcodes onto seed students, or fallback to seed
           students = seedStudents.map(seed => {
             const saved = savedMap.get(seed.id);
@@ -6507,7 +6525,7 @@
           });
           // Also include any new students added beyond seed
           const seedIds = new Set(seedStudents.map(s => s.id));
-          const customExtra = parsed.filter(s => !seedIds.has(s.id) && !s.id.startsWith('student_'));
+          const customExtra = (Array.isArray(parsed) ? parsed : []).filter(s => s && s.id && !seedIds.has(s.id) && !s.id.startsWith('student_'));
           students = [...students, ...customExtra];
         } catch (e) {
           students = seedStudents;
@@ -6536,7 +6554,16 @@
         '0022': [1599, 1602]   // 生徒22 (追加語彙)
       };
 
-      const allStudentIds = [...students.map(s => s.id), 'guest'];
+      const allStudentIds = Array.from(new Set([
+        ...Object.keys(STUDENT_DOC_RANGES),
+        ...students.map(s => s.id),
+        '0027',
+        '0028',
+        '0023',
+        '0013',
+        '0010',
+        'guest'
+      ]));
       allStudentIds.forEach(stId => {
         const key = `haku_mylist_${stId}`;
         const foldersKey = `haku_mylist_folders_${stId}`;
@@ -6554,8 +6581,12 @@
         try { stSet = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) { stSet = []; }
         let stMap = {};
         try { stMap = JSON.parse(localStorage.getItem(mapKey) || '{}'); } catch (e) { stMap = {}; }
+        if (!stMap || typeof stMap !== 'object' || Array.isArray(stMap)) stMap = {};
 
-        const finalStudentSet = new Set(stSet);
+        const cleanedStudentIds = (Array.isArray(stSet) ? stSet : [])
+          .map(x => (x && typeof x === 'object' && typeof x.id === 'string') ? x.id : x)
+          .filter(x => typeof x === 'string');
+        const finalStudentSet = new Set(cleanedStudentIds);
         const studentCardIds = new Set();
 
         // 1. Auto-discover all cards tagged for this student from CLASS_VOCAB_DATA
@@ -6577,12 +6608,12 @@
         // 3. Fallbacks for curated cards
         if (stId === '0028') {
           finalStudentSet.forEach(id => {
-            if (id.startsWith('card_') && !id.startsWith('class_word_0028_')) {
+            if (typeof id === 'string' && id.startsWith('card_') && !id.startsWith('class_word_0028_')) {
               finalStudentSet.delete(id);
               delete stMap[id];
             }
           });
-          const ids0028 = window.CLASS_0028_IDS || [];
+          const ids0028 = window.CLASS_0028_IDS || (window.CLASS_VOCAB_DATA || []).filter(c => c && c.studentId === '0028').map(c => c.id);
           ids0028.forEach(cId => {
             studentCardIds.add(cId);
             finalStudentSet.add(cId);
@@ -6591,12 +6622,12 @@
         }
         if (stId === '0027') {
           finalStudentSet.forEach(id => {
-            if (id.startsWith('card_') && !id.startsWith('class_word_0027_')) {
+            if (typeof id === 'string' && id.startsWith('card_') && !id.startsWith('class_word_0027_')) {
               finalStudentSet.delete(id);
               delete stMap[id];
             }
           });
-          const ids0027 = window.CLASS_0027_IDS || [];
+          const ids0027 = window.CLASS_0027_IDS || (window.CLASS_VOCAB_DATA || []).filter(c => c && c.studentId === '0027').map(c => c.id);
           ids0027.forEach(cId => {
             studentCardIds.add(cId);
             finalStudentSet.add(cId);
@@ -6652,21 +6683,32 @@
       localStorage.setItem('haku_vocab_version', CURRENT_DATA_VERSION);
     }
 
+    const activeSeedStudents = (window.AppAuth && typeof window.AppAuth.getStudents === 'function') 
+      ? window.AppAuth.getStudents() 
+      : (window.INITIAL_STUDENTS || []);
     const savedStudents = localStorage.getItem('haku_students');
     if (savedStudents) {
       try {
-        students = JSON.parse(savedStudents);
+        const parsed = JSON.parse(savedStudents);
+        const savedMap = new Map((Array.isArray(parsed) ? parsed : []).map(s => [s.id, s]));
+        students = activeSeedStudents.map(seed => {
+          const saved = savedMap.get(seed.id);
+          return saved ? { ...seed, ...saved } : seed;
+        });
+        const seedIds = new Set(activeSeedStudents.map(s => s.id));
+        const customExtra = (Array.isArray(parsed) ? parsed : []).filter(s => s && s.id && !seedIds.has(s.id) && !s.id.startsWith('student_'));
+        students = [...students, ...customExtra];
       } catch (e) {
-        students = window.INITIAL_STUDENTS || [];
+        students = activeSeedStudents;
       }
     } else {
-      students = window.INITIAL_STUDENTS || [];
+      students = activeSeedStudents;
     }
 
     // Load active student session if stored
     const savedStudentId = localStorage.getItem('haku_current_student_id');
     if (savedStudentId) {
-      const found = students.find(s => s.id === savedStudentId);
+      const found = students.find(s => s.id === savedStudentId) || (window.AppAuth && window.AppAuth.getStudents().find(s => s.id === savedStudentId));
       if (found) {
         setStudent(found);
       }
@@ -7930,6 +7972,54 @@
         localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
         localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
       }
+    } else if (studentPrefix === '0027') {
+      let needsSave = false;
+      const ids0027 = window.CLASS_0027_IDS || (window.CLASS_VOCAB_DATA || []).filter(c => c && c.studentId === '0027').map(c => c.id);
+      Array.from(mylistSet).forEach(cId => {
+        if (typeof cId !== 'string' || (cId.startsWith('card_') && !cId.startsWith('class_word_0027_'))) {
+          mylistSet.delete(cId);
+          delete mylistCardFolderMap[cId];
+          needsSave = true;
+        }
+      });
+      ids0027.forEach(cId => {
+        if (!mylistSet.has(cId)) {
+          mylistSet.add(cId);
+          needsSave = true;
+        }
+        if (!mylistCardFolderMap[cId]) {
+          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+          needsSave = true;
+        }
+      });
+      if (needsSave) {
+        localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+        localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+      }
+    } else if (studentPrefix === '0028') {
+      let needsSave = false;
+      const ids0028 = window.CLASS_0028_IDS || (window.CLASS_VOCAB_DATA || []).filter(c => c && c.studentId === '0028').map(c => c.id);
+      Array.from(mylistSet).forEach(cId => {
+        if (typeof cId !== 'string' || (cId.startsWith('card_') && !cId.startsWith('class_word_0028_'))) {
+          mylistSet.delete(cId);
+          delete mylistCardFolderMap[cId];
+          needsSave = true;
+        }
+      });
+      ids0028.forEach(cId => {
+        if (!mylistSet.has(cId)) {
+          mylistSet.add(cId);
+          needsSave = true;
+        }
+        if (!mylistCardFolderMap[cId]) {
+          mylistCardFolderMap[cId] = CLASS_FOLDER_ID;
+          needsSave = true;
+        }
+      });
+      if (needsSave) {
+        localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
+        localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+      }
     }
 
     // Universal auto-discovery: ensure ANY card tagged with this student ID is included
@@ -7979,16 +8069,17 @@
       } else {
         const existing = wordCardMap.get(w);
         const getScore = (id, c) => {
+          if (id && (id.startsWith('class_word_0027_') || id.startsWith('class_word_0028_'))) return 3000;
           if ((typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) ||
               (typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) ||
-              (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 1000;
+              (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 2000;
+          if (id && id.startsWith('class_word_')) {
+            const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
+            return 1500 + exLen;
+          }
           if (id && id.startsWith('card_')) {
             const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
             return 600 + exLen;
-          }
-          if (id && id.startsWith('class_word_')) {
-            const exLen = (c && c.example && c.example.ja) ? c.example.ja.length : 0;
-            return 500 + exLen;
           }
           if (id && id.startsWith('seed_')) return 400;
           let s = 100;
@@ -8487,11 +8578,12 @@
           } else {
             const existing = wordCardMap.get(w);
             const getScore = (id, c) => {
+              if (id && (id.startsWith('class_word_0027_') || id.startsWith('class_word_0028_'))) return 3000;
               if ((typeof MIDORI_NEW_CARD_IDS !== 'undefined' && MIDORI_NEW_CARD_IDS.includes(id)) ||
                   (typeof DANIEL_NEW_CARD_IDS !== 'undefined' && DANIEL_NEW_CARD_IDS.includes(id)) ||
-                  (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 1000;
+                  (typeof ELIIE_NEW_CARD_IDS !== 'undefined' && ELIIE_NEW_CARD_IDS.includes(id))) return 2000;
+              if (id && id.startsWith('class_word_')) return 1500 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
               if (id && id.startsWith('card_')) return 600 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
-              if (id && id.startsWith('class_word_')) return 500 + ((c && c.example && c.example.ja) ? c.example.ja.length : 0);
               if (id && id.startsWith('seed_')) return 400;
               return 100;
             };
@@ -10435,6 +10527,11 @@
   // Resolves a card by ID or word across vocabList, CLASS_VOCAB_DATA, INITIAL_VOCAB_DATA, and DICT_DATA
   function getCardById(cardId) {
     if (!cardId) return null;
+    // 0. Check CLASS_VOCAB_DATA first for curated accuracy & official translations
+    if (window.CLASS_VOCAB_DATA && Array.isArray(window.CLASS_VOCAB_DATA)) {
+      const cCard = window.CLASS_VOCAB_DATA.find(c => c && (c.id === cardId || c.word === cardId));
+      if (cCard) return cCard;
+    }
     if (typeof MIDORI_CURATED_CARDS !== 'undefined') {
       const mCurated = MIDORI_CURATED_CARDS.find(c => c.id === cardId || c.word === cardId);
       if (mCurated) return mCurated;
