@@ -129,7 +129,7 @@ GRAMMAR[2] = dict(
                   "じゃありません / じゃないです is everyday polite speech; じゃない is plain talk with friends and family. "
                   "It sounds natural when followed by the correct information: 「いいえ、先生ではありません。学生です。」",
         trap_ja="①イ形容詞には使いません。×高いではありません → ○高くないです／高くありません<br>"
-                "②「はい／いいえ」の答え方：「学生ではありませんか。」に対して、日本語の「はい」は『あなたの言ったことは正しい』という意味です。"
+                "②「はい／いいえ」の答え{方|かた}：「学生ではありませんか。」に対して、日本語の「はい」は『あなたの言ったことは正しい』という意味です。"
                 "学生でないなら「はい、学生ではありません」、学生なら「いいえ、学生です」と答えます。英語の yes / no と逆になることがあります。<br>"
                 "③×学生ないです・×学生ではないません は間違いです。<br>"
                 "④過去は「ではありませんでした」です。×ではありませんした",
@@ -726,13 +726,13 @@ GRAMMAR[9] = dict(
                  "・名詞・ナ形容詞：<strong>雨だから／雨ですから</strong>行きません。（×雨から）<br>"
                  "「から」の前は普通形でも丁寧形でもかまいません（忙しいから／忙しいですから）。<br>"
                  "理由を聞く「どうして〜ですか」には、「〜からです」で答えます。<br>"
-                 "「から」のあとには、「暑いから、窓を開けてください。」のように、依頼・誘い・意見も続けられます。",
+                 "「から」のあとには、「暑いから、窓を{開|あ}けてください。」のように、依頼・誘い・意見も続けられます。",
         notes_en="Put から at the end of the reason clause, then follow with the result, request, etc. Reason → result. "
                  "Verbs and i-adjectives: 忙しいから行きません. Nouns and na-adjectives need だ／です: 雨だから／雨ですから (×雨から). "
                  "The part before から can be plain or polite. 「どうして〜ですか」 is answered with 「〜からです」. "
                  "What follows can be a request or suggestion too: 暑いから、窓を{開|あ}けてください.",
         nuance_ja="「から」は、話し手が『これが理由だ』と自分の判断で理由をはっきり示す言い方です。「ので」より主観的で、"
-                  "「暑いから窓を開けてください」「明日は試験だから早く寝よう」のように、あとに依頼・誘い・決意を続けるのに向いています。"
+                  "「暑いから窓を{開|あ}けてください」「明日は試験だから早く寝よう」のように、あとに依頼・誘い・決意を続けるのに向いています。"
                   "文の頭に置く「だから／ですから」は『だから（そういう理由で）〜』と、前の文を理由にして結果を言う接続の言葉です。"
                   "「から」だけで文を終えると、友達との会話では理由を言い訳のように言う感じになります（だって、忙しいから。）。",
         nuance_en="から presents the reason as the speaker's own judgement ('this is why'). It is more subjective than ので and works well "
@@ -777,7 +777,7 @@ GRAMMAR[9] = dict(
         dict(stem="{暑|あつ}い（　　　）、{窓|まど}を{開|あ}けてください。",
              correct="から", distractors=["まで", "より", "でも"],
              en="It's hot, so please open the window.",
-             notes_ja="「暑い」が窓を開けてほしい理由なので、理由を表す「から」が入ります。「まで」（終点）「より」（比較）「でも」は、イ形容詞のあとに付けて理由にはなりません。",
+             notes_ja="「暑い」が窓を{開|あ}けてほしい理由なので、理由を表す「から」が入ります。「まで」（終点）「より」（比較）「でも」は、イ形容詞のあとに付けて理由にはなりません。",
              notes_en="The heat is the reason for the request, so から. まで (limit), より (comparison) and でも can't make a reason after an i-adjective."),
         dict(stem="{今日|きょう}は{寒|さむ}いです。（　　　）、コートを{着|き}ましょう。",
              correct="だから", distractors=["でも", "しかし", "ところで"],
@@ -820,7 +820,7 @@ GRAMMAR[10] = dict(
         nuance_en="It shows a range from start to end — hours, distance, quantity. It is how opening hours, class times, routes and "
                   "periods are expressed. まで carries the sense 'all the way up to (and including)', so the action or state continues without a break. "
                   "Unlike から meaning 'because', here the N1から N2まで frame makes it a range.",
-        trap_ja="①時刻の「に」と「まで」を混ぜません。×銀行は9時に3時まで開いています → ○9時から3時まで<br>"
+        trap_ja="①時刻の「に」と「まで」を混ぜません。×銀行は9時に3時まで{開|あ}いています → ○9時から3時まで<br>"
                 "②「から」を忘れて「まで」だけにすると、始まりが分かりません。「9時まで」は『9時が終わり』という意味です。<br>"
                 "③期限（その時刻より前に終える）は「まで」ではなく「までに」です。×5時まで来てください（5時までずっと来る？）→ ○5時までに来てください（N4の文法）<br>"
                 "④順番に注意：家から駅まで＝家が出発、駅が到着。駅から家まで＝逆です。<br>"
@@ -1033,7 +1033,7 @@ GRAMMAR[12] = dict(
         dict(stem="A：{今晩|こんばん}、{何|なに}を{食|た}べ（　　　）。<br>B：そうですね。カレーはどうですか。",
              correct="ましょうか", distractors=["ました", "ません", "ましたか"],
              en="A: What shall we have for dinner tonight? B: Hmm, how about curry?",
-             notes_ja="二人で何を食べるか相談する場面なので、「食べましょうか」です。「食べました」「食べましたか」は過去、「食べません」は否定で、これからの相談には合いません。",
+             notes_ja="{二人|ふたり}で何を食べるか相談する場面なので、「食べましょうか」です。「食べました」「食べましたか」は過去、「食べません」は否定で、これからの相談には合いません。",
              notes_en="Two people deciding what to eat: 食べましょうか. 食べました / 食べましたか are past and 食べません is negative."),
         dict(stem="A：{雨|あめ}ですね。{駅|えき}まで{車|くるま}で{送|おく}り（　　　）。<br>B：えっ、いいんですか。ありがとうございます。",
              correct="ましょうか", distractors=["ません", "ました", "ますか"],
@@ -1047,3 +1047,800 @@ GRAMMAR[12] = dict(
              notes_en="To accept an offer, say お願いします. いただきます is said before eating, いってきます when leaving home, おやすみなさい before bed."),
     ],
 )
+
+# ---------------------------------------------------------------- 13 たい
+GRAMMAR[13] = dict(
+    name="たい", reading="たい",
+    meaning_en="want to ~ (the speaker's own wish)",
+    similar="ほしい、たくない、たいです",
+    details=dict(
+        formula="動詞 ます形（語幹）＋ <strong>たい</strong>（です）<br>〜を／〜が ＋ 動詞たい",
+        notes_ja="動詞のます形から「ます」を取って、「たい」を付けます。食べます → <strong>食べたい</strong>、行きます → <strong>行きたい</strong>。<br>"
+                 "「たい」はイ形容詞と同じ形で変化します。丁寧に言うときは「食べたいです」です。<br>"
+                 "目的語の助詞は「を」でも「が」でも大丈夫です。水<strong>を</strong>飲みたい／水<strong>が</strong>飲みたい。",
+        notes_en="Drop ます from the verb and add たい: 食べます → 食べたい. It conjugates like an い-adjective; add です for politeness. "
+                 "The object can take either を or が: 水を飲みたい / 水が飲みたい.",
+        nuance_ja="「たい」は話す人の「自分の気持ち」を表します。自分が何かをしたいとき、または「何がしたいですか」と相手に聞くときに使います。"
+                  "目上の人に「先生も行きたいですか」と聞くのは直接的すぎるので、「行きませんか」などを使うと丁寧です。",
+        nuance_en="たい expresses the speaker's own feeling. Use it for your own wishes or to ask 'What do you want to do?'. "
+                  "Asking a superior 行きたいですか can sound too direct; invitations like 行きませんか are more polite.",
+        trap_ja="①「たい」は第三者の気持ちには普通使いません。「弟はゲームをしたいです」ではなく、「したがっています」「したいと言っています」を使います。<br>"
+                "②「たい」の前は ます形 です。「食べるたい」「食べてたい」は間違いです。",
+        trap_en="(1) たい isn't normally used for a third person's wish: use したがっています / したいと言っています. "
+                "(2) It attaches to the ます stem: 食べるたい and 食べてたい are wrong.",
+        contrast=[
+            dict(type="wrong", reason_ja="「たい」は ます形 の語幹に付けます。辞書形には付けません。",
+                 reason_en="たい attaches to the ます stem, not the dictionary form.",
+                 sentence="{私|わたし}は{水|みず}を{飲|の}むたいです。"),
+            dict(type="correct", reason_ja="「飲みます」の「ます」を取って「たい」を付けます。",
+                 reason_en="Remove ます from 飲みます and add たい.",
+                 sentence="{私|わたし}は{水|みず}が{飲|の}みたいです。"),
+            dict(type="correct", reason_ja="相手の希望を聞くときも「たい」を使います。",
+                 reason_en="たい is also used to ask about the listener's wish.",
+                 sentence="{夏休|なつやす}みに、どこへ{行|い}きたいですか。"),
+        ],
+        comparison=[
+            dict(form="〜たい", form_en="want to do", badge="自分の希望", badge_type="good",
+                 nuance_ja="動詞に付けて、自分がしたいことを言います。",
+                 nuance_en="Attaches to verbs to state what you want to do.",
+                 example="{早|はや}く{家|いえ}に{帰|かえ}りたいです。"),
+            dict(form="〜がほしい", form_en="want (a thing)", badge="物", badge_type="neutral",
+                 nuance_ja="名詞（物）に付けて、手に入れたいものを言います。動詞には付けません。",
+                 nuance_en="Attaches to nouns to say what you want to have; not used with verbs.",
+                 example="{新|あたら}しい{靴|くつ}がほしいです。"),
+            dict(form="〜ましょう", form_en="let's do", badge="誘い", badge_type="neutral",
+                 nuance_ja="自分の希望ではなく、相手を誘う言い方です。",
+                 nuance_en="Not your own wish but an invitation to the listener.",
+                 example="いっしょに{昼|ひる}ごはんを{食|た}べましょう。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{今日|きょう}はとても{暑|あつ}いです。{冷|つめ}たいジュースを{飲|の}み（　　　）。",
+             correct="たいです", distractors=["ましょう", "ません", "ました"],
+             en="It's very hot today. I want to drink a cold juice.",
+             notes_ja="自分の希望なので「飲みたいです」です。「飲みましょう」は誘い、「飲みません」は否定、「飲みました」は過去です。",
+             notes_en="A personal wish: 飲みたいです. 飲みましょう is an invitation, 飲みません negative, 飲みました past."),
+        dict(stem="A：{夏休|なつやす}みに{何|なに}をしたいですか。<br>B：{海|うみ}で（　　　）たいです。",
+             correct="{泳|およ}ぎ", distractors=["{泳|およ}ぐ", "{泳|およ}いで", "{泳|およ}ぎます"],
+             en="A: What do you want to do in the summer vacation? B: I want to swim in the sea.",
+             notes_ja="「たい」は ます形 の語幹に付くので「泳ぎたい」です。「泳ぐたい」「泳いでたい」「泳ぎますたい」は誤りです。",
+             notes_en="たい follows the ます stem: 泳ぎたい. The other forms cannot precede たい."),
+        dict(stem="{先週|せんしゅう}から{日本語|にほんご}を{習|なら}っています。いつか、{日本|にほん}で{友達|ともだち}と（　　　）たいです。",
+             correct="{話|はな}し", distractors=["{話|はな}す", "{話|はな}して", "{話|はな}さない"],
+             en="I've been learning Japanese since last week. Someday I want to talk with my friends in Japan.",
+             notes_ja="「話す」のます形の語幹は「話し」なので「話したい」です。辞書形・て形・ない形のあとに「たい」は付きません。",
+             notes_en="The ます stem of 話す is 話し, giving 話したい. たい can't follow the dictionary, て or ない form."),
+        dict(stem="A：のどがかわきました。<br>B：{私|わたし}も{水|みず}（　　　）{飲|の}みたいです。",
+             correct="が", distractors=["で", "へ", "から"],
+             en="A: I'm thirsty. B: I want some water, too.",
+             notes_ja="「たい」の文では、飲みたいものに「が」（または「を」）を使います。「で」「へ」「から」は「水」と「飲みたい」の関係に合いません。",
+             notes_en="With たい, the wanted thing takes が (or を). で, へ and から don't fit the relation between 水 and 飲みたい."),
+    ],
+)
+
+# ---------------------------------------------------------------- 14 たくない
+GRAMMAR[14] = dict(
+    name="たくない", reading="たくない",
+    meaning_en="don't want to ~",
+    similar="たい、たくないです、たくありません",
+    details=dict(
+        formula="動詞 ます形（語幹）＋ <strong>たくない</strong>（です）<br>動詞 ます形（語幹）＋ <strong>たくありません</strong>",
+        notes_ja="「たい」はイ形容詞と同じように変化するので、否定は「たい」の「い」を「く」にして「ない」を付けます。行きたい → <strong>行きたくない</strong>。<br>"
+                 "丁寧にするときは「行きたくないです」または「行きたくありません」です。<br>"
+                 "過去の否定は「行きたくなかったです」です。",
+        notes_en="たい conjugates like an い-adjective, so change い to く and add ない: 行きたい → 行きたくない. "
+                 "Polite: 行きたくないです / 行きたくありません. Past negative: 行きたくなかったです.",
+        nuance_ja="「たくない」は、自分がしたくない気持ちを表します。強く断るように聞こえることがあるので、人に何かを誘われたときは、"
+                  "「今日はちょっと…」「すみません、今日は行けません」のようにやわらかく言うことも多いです。",
+        nuance_en="たくない states what you don't feel like doing. It can sound blunt as a reply to an invitation, "
+                  "so people often soften it with 今日はちょっと… or すみません、今日は行けません.",
+        trap_ja="①「食べたいない」「食べたくです」は間違いです。「たい」は「たくない」と変化します。<br>"
+                "②「たくない」は自分の気持ちです。「行かない」（行く予定がない）とは意味が違います。",
+        trap_en="(1) 食べたいない and 食べたくです are wrong: たい becomes たくない. "
+                "(2) たくない is about feeling; 行かない means 'I won't go' (a plan or fact).",
+        contrast=[
+            dict(type="wrong", reason_ja="「たい」を否定するときは、「たい」を「たくない」にします。「ない」だけを付けるのは間違いです。",
+                 reason_en="To negate たい, change it to たくない; simply adding ない is wrong.",
+                 sentence="{今日|きょう}は{出|で}かけたいないです。"),
+            dict(type="correct", reason_ja="「出かけたい」の「い」を「く」にして「ない」を付けます。",
+                 reason_en="Change い to く in 出かけたい and add ない.",
+                 sentence="{今日|きょう}は{出|で}かけたくないです。"),
+            dict(type="correct", reason_ja="「たくありません」も丁寧な否定です。",
+                 reason_en="たくありません is another polite negative.",
+                 sentence="{雨|あめ}の{日|ひ}は、{外|そと}で{運動|うんどう}したくありません。"),
+        ],
+        comparison=[
+            dict(form="〜たくない", form_en="don't want to do", badge="気持ち", badge_type="good",
+                 nuance_ja="したくないという自分の気持ちを言います。",
+                 nuance_en="Says you don't feel like doing it.",
+                 example="{今晩|こんばん}は{料理|りょうり}をしたくないです。"),
+            dict(form="〜ない", form_en="don't / won't do", badge="事実・予定", badge_type="neutral",
+                 nuance_ja="気持ちではなく、しない事実や予定を言います。",
+                 nuance_en="States a fact or plan of not doing something, not a feeling.",
+                 example="{今晩|こんばん}は{料理|りょうり}をしない。"),
+            dict(form="〜たい", form_en="want to do", badge="肯定", badge_type="both",
+                 nuance_ja="「たくない」の肯定の形です。",
+                 nuance_en="The affirmative counterpart of たくない.",
+                 example="{今晩|こんばん}は{外|そと}で{食|た}べたいです。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{今日|きょう}は{頭|あたま}が{痛|いた}いので、{何|なに}も{食|た}べ（　　　）です。",
+             correct="たくない", distractors=["たいない", "たくなく", "たくて"],
+             en="My head hurts today, so I don't want to eat anything.",
+             notes_ja="「食べたい」の否定は「食べたくない」です。「食べたいない」は誤り、「食べたくなく」「食べたくて」は「です」につながりません。",
+             notes_en="The negative of 食べたい is 食べたくない. 食べたいない is wrong; the others cannot connect to です."),
+        dict(stem="A：いっしょにカラオケに{行|い}きませんか。<br>B：すみません、{今日|きょう}は{疲|つか}れているので、{行|い}き（　　　）。",
+             correct="たくないです", distractors=["たいです", "ましょう", "たくなかったです"],
+             en="A: Won't you go to karaoke with me? B: Sorry, I'm tired today, so I don't feel like going.",
+             notes_ja="疲れているので行きたくない気持ちを言う「行きたくないです」です。「行きたいです」は反対、「行きましょう」は誘い、「行きたくなかったです」は過去です。",
+             notes_en="B says they don't feel like going: 行きたくないです. 行きたいです is the opposite, 行きましょう an invitation, 行きたくなかったです past."),
+        dict(stem="{私|わたし}は{朝|あさ}が{弱|よわ}いので、{朝|あさ}{早|はや}く（　　　）。",
+             correct="{起|お}きたくありません", distractors=["{起|お}きたいありません", "{起|お}きません", "{起|お}きたいです"],
+             en="I'm not good in the mornings, so I don't want to get up early.",
+             notes_ja="気持ちの否定なので「起きたくありません」です。「起きたいありません」は誤り、「起きません」は気持ちではなく事実、「起きたいです」は反対の意味です。",
+             notes_en="A negative feeling: 起きたくありません. 起きたいありません is wrong; 起きません states fact; 起きたいです means the opposite."),
+        dict(stem="きのうは{雨|あめ}でした。{家|いえ}から{出|で}（　　　）でした。",
+             correct="たくなかったです", distractors=["たくないです", "たいです", "たくありません"],
+             en="It rained yesterday. I didn't want to go out of the house.",
+             notes_ja="「きのう」の話なので過去の否定「出たくなかったです」です。「出たくないです」「出たいです」「出たくありません」は現在の形で、「でした」とも合いません。",
+             notes_en="Talking about yesterday, so the past negative 出たくなかったです. The others are present forms."),
+    ],
+)
+
+# ---------------------------------------------------------------- 15 ている
+GRAMMAR[15] = dict(
+    name="ている", reading="ている",
+    meaning_en="is ~ing / has been ~ed (ongoing action, resulting state, habit)",
+    similar="ています、ていた、ます",
+    details=dict(
+        formula="動詞 て形 ＋ <strong>いる</strong>（丁寧：<strong>います</strong>）<br>① 動作の進行　② 結果の状態　③ 習慣・職業",
+        notes_ja="動詞のて形に「いる」を付けます。丁寧に言うと「ています」、過去は「ていました」です。<br>"
+                 "① <strong>動作の進行</strong>：今、本を<strong>読んでいます</strong>。<br>"
+                 "② <strong>結果の状態</strong>：窓が<strong>{開|あ}いています</strong>。／結婚<strong>しています</strong>。／東京に<strong>住んでいます</strong>。<br>"
+                 "③ <strong>習慣・職業</strong>：毎朝、走っています。／銀行で働いています。",
+        notes_en="Add いる to the て form (polite: ています; past: ていました). (1) An action in progress: 本を読んでいます. "
+                 "(2) A resulting state: 窓が{開|あ}いています, 結婚しています, 東京に住んでいます. (3) Habits and jobs: 毎朝走っています, 銀行で働いています.",
+        nuance_ja="「ている」は、「今」の様子を表します。動作の途中でも、動作が終わったあとの状態でも、今その様子であることを言います。"
+                  "「住んでいます」「知っています」「持っています」のように、日本語では「ている」で言う状態が多いです。",
+        nuance_en="ている describes how things are now: in the middle of an action or in the state left after it. "
+                  "Many states in Japanese are expressed with ている, such as 住んでいます, 知っています, 持っています.",
+        trap_ja="①「知っています」の否定は「知りません」です。「知っていません」は間違いです。<br>"
+                "②「窓を{開|あ}けています」と「窓が{開|あ}いています」は違います。人が{開|あ}けて、そのままにしているなら「{開|あ}けています」ですが、窓の状態を言うなら「{開|あ}いています」です。",
+        trap_en="(1) The negative of 知っています is 知りません, not 知っていません. "
+                "(2) 窓が{開|あ}いています describes the state of the window; 窓を{開|あ}けています means someone is keeping it open.",
+        contrast=[
+            dict(type="wrong", reason_ja="「住む」は状態を表すので、「住みます」だと『これから住む』という意味になります。今の状態は「住んでいます」です。",
+                 reason_en="住みます means 'will live'; the present state is 住んでいます.",
+                 sentence="{私|わたし}は{大阪|おおさか}に{住|す}みます。（今の家）"),
+            dict(type="correct", reason_ja="今の住まいを言うときは「住んでいます」です。",
+                 reason_en="Use 住んでいます for where you live now.",
+                 sentence="{私|わたし}は{大阪|おおさか}に{住|す}んでいます。"),
+            dict(type="correct", reason_ja="動作の途中を表す「ています」です。",
+                 reason_en="ています for an action in progress.",
+                 sentence="{妹|いもうと}は{今|いま}、{部屋|へや}で{宿題|しゅくだい}をしています。"),
+        ],
+        comparison=[
+            dict(form="〜ている", form_en="is doing / is in the state of", badge="今の様子", badge_type="good",
+                 nuance_ja="今の動作や状態を表します。",
+                 nuance_en="Shows a current action or state.",
+                 example="{弟|おとうと}はテレビを{見|み}ています。"),
+            dict(form="〜ます", form_en="do / will do", badge="習慣・未来", badge_type="neutral",
+                 nuance_ja="習慣やこれからのことを言います。今の動作には使いにくいです。",
+                 nuance_en="Habits or future actions; awkward for what is happening right now.",
+                 example="{弟|おとうと}は{毎晩|まいばん}、テレビを{見|み}ます。"),
+            dict(form="〜た", form_en="did", badge="過去", badge_type="neutral",
+                 nuance_ja="動作が終わったことを言います。",
+                 nuance_en="Says the action is completed.",
+                 example="{弟|おとうと}はテレビを{見|み}ました。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="A：{今|いま}、{何|なに}をしていますか。<br>B：{本|ほん}を（　　　）。",
+             correct="{読|よ}んでいます", distractors=["{読|よ}みました", "{読|よ}みたくありません", "{読|よ}みましょう"],
+             en="A: What are you doing now? B: I'm reading a book.",
+             notes_ja="「今」していることを聞かれているので「読んでいます」です。「読みました」は過去、「読みたくありません」は否定の希望、「読みましょう」は誘いです。",
+             notes_en="Asked what you're doing now: 読んでいます. 読みました is past, 読みたくありません a negative wish, 読みましょう an invitation."),
+        dict(stem="A：お{住|す}まいはどちらですか。<br>B：{京都|きょうと}に（　　　）。",
+             correct="{住|す}んでいます", distractors=["{住|す}みました", "{住|す}みましょう", "{住|す}んでいません"],
+             en="A: Where do you live? B: I live in Kyoto.",
+             notes_ja="今の住まいを答えるので「住んでいます」です。「住みました」は過去、「住みましょう」は誘い、「住んでいません」は京都に住んでいないという否定になります。",
+             notes_en="Answering where you live now: 住んでいます. 住みました is past, 住みましょう an invitation, 住んでいません would mean you don't live there."),
+        dict(stem="{教室|きょうしつ}の{窓|まど}が（　　　）。{寒|さむ}いですね。",
+             correct="{開|あ}いています", distractors=["{開|あ}けています", "{開|あ}けましょう", "{開|あ}きたいです"],
+             en="The classroom window is open. It's cold, isn't it?",
+             notes_ja="窓の今の状態を言うので、自動詞の「{開|あ}いています」です。「{開|あ}けています」は『（人が）{開|あ}けている』ので「窓が」に合いません。「{開|あ}けましょう」「{開|あ}きたいです」も文に合いません。",
+             notes_en="Describing the window's state: {開|あ}いています (intransitive). {開|あ}けています needs an agent and doesn't fit 窓が; the others don't fit the sentence."),
+        dict(stem="A：リーさんを{知|し}っていますか。<br>B：いいえ、（　　　）。",
+             correct="{知|し}りません", distractors=["{知|し}っていません", "{知|し}りたいです", "{知|し}っています"],
+             en="A: Do you know Lee? B: No, I don't.",
+             notes_ja="「知っていますか」に「いいえ」で答えるときは、「知りません」を使います。「知っていません」は不自然、「知っています」は「いいえ」と合わず、「知りたいです」は意味が違います。",
+             notes_en="The negative answer to 知っていますか is 知りません. 知っていません is unnatural, 知っています contradicts いいえ, 知りたいです means something else."),
+    ],
+)
+
+# ---------------------------------------------------------------- 16 まえに
+GRAMMAR[16] = dict(
+    name="まえに", reading="まえに",
+    meaning_en="before ~ing / before (a time)",
+    similar="あとで、てから、までに",
+    details=dict(
+        formula="動詞 辞書形 ＋ <strong>前に</strong>、〜<br>名詞 ＋ <strong>の</strong> ＋ <strong>前に</strong>、〜<br>数量（期間）＋ <strong>前に</strong>",
+        notes_ja="「前に」の前の形に注意します。<br>"
+                 "① 動詞：<strong>辞書形</strong>＋前に　寝る<strong>前に</strong>、歯をみがきます。<br>"
+                 "② 名詞：名詞＋<strong>の</strong>＋前に　食事<strong>の前に</strong>、手を洗います。<br>"
+                 "③ 期間：期間＋前に　3日<strong>前に</strong>、買いました。（3日前＝今から3日{前|まえ}）<br>"
+                 "「前に」の前の動詞は、文全体が過去でも辞書形のままです。",
+        notes_en="Mind the form before 前に. (1) Verb: dictionary form + 前に: 寝る前に歯をみがきます. (2) Noun: noun + の + 前に: 食事の前に手を洗います. "
+                 "(3) A period: 3日前に = three days ago. The verb before 前に stays in the dictionary form even when the whole sentence is past.",
+        nuance_ja="「AまえにB」は、BをしてからAをするという時間の順番を表します。実際に先にするのはBです。"
+                  "「寝る前に歯をみがきます」では、先に歯をみがき、あとで寝ます。",
+        nuance_en="'A before B' sets the order: B comes first, then A... in 寝る前に歯をみがきます, you brush your teeth first and sleep after.",
+        trap_ja="①「食べた前に」は間違いです。「前に」の前は、いつも辞書形（食べる前に）です。<br>"
+                "②名詞のときは「の」が必要です。「食事前に」ではなく「食事の前に」です。",
+        trap_en="(1) 食べた前に is wrong; always dictionary form (食べる前に). (2) After a noun you need の: 食事の前に.",
+        contrast=[
+            dict(type="wrong", reason_ja="「前に」の前の動詞は、過去の文でも辞書形です。「た形」は使いません。",
+                 reason_en="The verb before 前に stays in the dictionary form, never the た form.",
+                 sentence="{昨日|きのう}は、{寝|ね}た{前|まえ}に{日記|にっき}を{書|か}きました。"),
+            dict(type="correct", reason_ja="動詞は辞書形の「寝る」にします。",
+                 reason_en="Use the dictionary form 寝る.",
+                 sentence="{昨日|きのう}は、{寝|ね}る{前|まえ}に{日記|にっき}を{書|か}きました。"),
+            dict(type="correct", reason_ja="名詞のときは「の」を入れます。",
+                 reason_en="Add の after a noun.",
+                 sentence="{授業|じゅぎょう}の{前|まえ}に、コーヒーを{飲|の}みます。"),
+        ],
+        comparison=[
+            dict(form="〜前に", form_en="before ~", badge="辞書形", badge_type="good",
+                 nuance_ja="あとに書いたことを先にする、という順番です。辞書形に付けます。",
+                 nuance_en="What follows happens first; attaches to the dictionary form.",
+                 example="{出|で}かける{前|まえ}に、{天気予報|てんきよほう}を{見|み}ます。"),
+            dict(form="〜た後で", form_en="after ~", badge="た形", badge_type="neutral",
+                 nuance_ja="「前に」と反対の順番で、た形に付けます。",
+                 nuance_en="The opposite order; attaches to the た form.",
+                 example="{食|た}べた{後|あと}で、{薬|くすり}を{飲|の}みます。"),
+            dict(form="〜てから", form_en="after doing ~", badge="て形", badge_type="neutral",
+                 nuance_ja="て形に付いて、「その動作をしたあとで」という意味です。",
+                 nuance_en="Attaches to the て form meaning 'after doing that action'.",
+                 example="{手|て}を{洗|あら}ってから、{食|た}べます。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{毎晩|まいばん}、{寝|ね}る（　　　）、{歯|は}をみがきます。",
+             correct="{前|まえ}に", distractors=["{後|あと}で", "{間|あいだ}に", "{中|なか}に"],
+             en="Every night I brush my teeth before going to bed.",
+             notes_ja="歯をみがくのが先で寝るのが後なので「前に」です。「後で」は順番が逆、「間に」「中に」はこの文に合いません。",
+             notes_en="Brushing comes first, sleeping later: 前に. 後で reverses the order; 間に and 中に don't fit."),
+        dict(stem="{食事|しょくじ}（　　　）{前|まえ}に、{手|て}を{洗|あら}いましょう。",
+             correct="の", distractors=["を", "で", "も"],
+             en="Let's wash our hands before the meal.",
+             notes_ja="名詞のあとに「前に」を付けるときは「の」を入れます。「を」「で」「も」は入りません。",
+             notes_en="Between a noun and 前に, put の. を, で and も don't fit."),
+        dict(stem="{学校|がっこう}へ（　　　）{前|まえ}に、{友達|ともだち}に{電話|でんわ}をしました。",
+             correct="{行|い}く", distractors=["{行|い}った", "{行|い}って", "{行|い}かなかった"],
+             en="I phoned a friend before I went to school.",
+             notes_ja="「前に」の前の動詞は、文が過去でも辞書形の「行く」です。「行った」「行って」「行かなかった」は「前に」に続きません。",
+             notes_en="The verb before 前に is in the dictionary form, 行く, even in a past sentence."),
+        dict(stem="{私|わたし}は{三日|みっか}（　　　）、この{傘|かさ}を{買|か}いました。",
+             correct="{前|まえ}に", distractors=["{後|あと}で", "{間|あいだ}に", "{中|なか}で"],
+             en="I bought this umbrella three days ago.",
+             notes_ja="期間のあとに「前に」を付けると『〜日前』の意味になります。「後で」は未来、「間に」「中で」は意味が合いません。",
+             notes_en="A period + 前に means 'ago'. 後で points to later; 間に and 中で don't fit."),
+    ],
+)
+
+# ---------------------------------------------------------------- 17 あとで
+GRAMMAR[17] = dict(
+    name="あとで", reading="あとで",
+    meaning_en="after ~ing / later",
+    similar="まえに、てから、あとに",
+    details=dict(
+        formula="動詞 た形 ＋ <strong>後で</strong>、〜<br>名詞 ＋ <strong>の</strong> ＋ <strong>後で</strong>、〜<br>（単独）<strong>後で</strong>、〜（あとで〜します）",
+        notes_ja="「あとで」の前の形に注意します。<br>"
+                 "① 動詞：<strong>た形</strong>＋後で　ごはんを食べ<strong>た後で</strong>、散歩します。<br>"
+                 "② 名詞：名詞＋<strong>の</strong>＋後で　授業<strong>の後で</strong>、図書館へ行きます。<br>"
+                 "③ 単独：「後で電話します」のように、『もう少しあとで』という意味でも使います。<br>"
+                 "「後」の読みは「あと」です。",
+        notes_en="Mind the form before あとで. (1) Verb: た form + 後で: ごはんを食べた後で散歩します. (2) Noun: noun + の + 後で: 授業の後で図書館へ行きます. "
+                 "(3) Alone it means 'later': 後で電話します. Read 後 as あと.",
+        nuance_ja="「AあとでB」は、Aをしてから、Bをする順番を表します。「てから」とよく似ていますが、「あとで」は二つの動作の時間の順番をやわらかく言い、"
+                  "「てから」は『Aが終わってはじめてB』と、順番をはっきり言う感じがあります。",
+        nuance_en="'After A, B' gives the order A then B. It is close to てから, but あとで simply states the sequence, while てから stresses that B starts once A is finished.",
+        trap_ja="①「食べる後で」は間違いです。動詞のときは「た形」（食べた後で）です。<br>"
+                "②「前に」は辞書形、「後で」はた形です。反対なので注意しましょう。",
+        trap_en="(1) 食べる後で is wrong; use the た form (食べた後で). (2) 前に takes the dictionary form, 後で the た form; don't mix them up.",
+        contrast=[
+            dict(type="wrong", reason_ja="「後で」の前の動詞は、た形にします。辞書形は使いません。",
+                 reason_en="The verb before 後で must be in the た form, not the dictionary form.",
+                 sentence="{宿題|しゅくだい}をする{後|あと}で、テレビを{見|み}ます。"),
+            dict(type="correct", reason_ja="動詞を「した」というた形にします。",
+                 reason_en="Use the た form した.",
+                 sentence="{宿題|しゅくだい}をした{後|あと}で、テレビを{見|み}ます。"),
+            dict(type="correct", reason_ja="名詞のときは「の」を入れます。",
+                 reason_en="Add の after a noun.",
+                 sentence="{会議|かいぎ}の{後|あと}で、{少|すこ}し{休|やす}みます。"),
+        ],
+        comparison=[
+            dict(form="〜た後で", form_en="after doing", badge="た形", badge_type="good",
+                 nuance_ja="前のことが終わってから、あとのことをする順番です。",
+                 nuance_en="The first thing is finished, then the next happens.",
+                 example="{お風呂|ふろ}に{入|はい}った{後|あと}で、{牛乳|ぎゅうにゅう}を{飲|の}みます。"),
+            dict(form="〜前に", form_en="before doing", badge="辞書形", badge_type="neutral",
+                 nuance_ja="順番が反対で、辞書形に付きます。",
+                 nuance_en="Reverse order; attaches to the dictionary form.",
+                 example="お{風呂|ふろ}に{入|はい}る{前|まえ}に、{牛乳|ぎゅうにゅう}を{飲|の}みます。"),
+            dict(form="〜てから", form_en="after doing (and only then)", badge="て形", badge_type="neutral",
+                 nuance_ja="て形に付き、順番をはっきり言います。",
+                 nuance_en="Attaches to the て form and emphasizes the sequence.",
+                 example="お{風呂|ふろ}に{入|はい}ってから、{寝|ね}ます。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{夕|ゆう}ごはんを{食|た}べ（　　　）、{犬|いぬ}と{散歩|さんぽ}します。",
+             correct="た{後|あと}で", distractors=["る{後|あと}で", "る{前|まえ}に", "ない{後|あと}で"],
+             en="After I eat dinner, I take a walk with my dog.",
+             notes_ja="食べてから散歩する順番なので「食べた後で」です。「食べる後で」「食べない後で」は形が誤り、「食べる前に」は順番が反対です。",
+             notes_en="Eating comes first, then the walk: 食べた後で. 食べる後で / 食べない後で are wrong forms; 食べる前に reverses the order."),
+        dict(stem="{授業|じゅぎょう}（　　　）{後|あと}で、{図書館|としょかん}で{勉強|べんきょう}します。",
+             correct="の", distractors=["を", "に", "が"],
+             en="After class, I study at the library.",
+             notes_ja="名詞と「後で」の間には「の」を入れます。「を」「に」「が」は入りません。",
+             notes_en="Between a noun and 後で, put の. を, に and が don't fit."),
+        dict(stem="A：{今|いま}、{忙|いそが}しいので、（　　　）{電話|でんわ}してもいいですか。<br>B：はい、いいですよ。",
+             correct="{後|あと}で", distractors=["{前|まえ}に", "{昨日|きのう}", "{去年|きょねん}"],
+             en="A: I'm busy now, so may I call you later? B: Yes, that's fine.",
+             notes_ja="今は忙しいので「あとで」電話する、という意味です。「前に」は文として不自然で、「昨日」「去年」は過去のことなのでこれからの電話に合いません。",
+             notes_en="'Later' fits: 後で電話してもいいですか. 前に is unnatural here, and 昨日 / 去年 are past times that can't go with a future call."),
+        dict(stem="{友達|ともだち}の{家|いえ}へ{行|い}く（　　　）、{花|はな}を{買|か}いました。",
+             correct="{前|まえ}に", distractors=["{後|あと}で", "{後|あと}に", "{間|あいだ}で"],
+             en="Before going to my friend's house, I bought flowers.",
+             notes_ja="「行く」は辞書形なので「前に」が合います。「後で」「後に」は動詞が「行った」の形になり、「間で」は意味が合いません。",
+             notes_en="行く is in the dictionary form, so 前に fits. 後で / 後に need 行った, and 間で doesn't fit."),
+    ],
+)
+
+# ---------------------------------------------------------------- 18 てから
+GRAMMAR[18] = dict(
+    name="てから", reading="てから",
+    meaning_en="after doing ~, (and then) ...",
+    similar="あとで、まえに、て",
+    details=dict(
+        formula="動詞 て形 ＋ <strong>から</strong>、〜<br>（Aてから B）＝ A が終わったら B",
+        notes_ja="動詞のて形に「から」を付けます。<br>"
+                 "毎朝、顔を<strong>洗ってから</strong>、朝ごはんを食べます。<br>"
+                 "日本では、家に入る前に靴を<strong>脱いでから</strong>、上がります。<br>"
+                 "「てから」の文は、前の動作が終わってから、あとの動作に移ることを言います。",
+        notes_en="Add から to the て form. 顔を洗ってから朝ごはんを食べます: finish the first action, then move on to the next.",
+        nuance_ja="「てから」には、『Aが終わるまでBをしない／Aが終わってはじめてB』という、順番をはっきり言う感じがあります。"
+                  "「あとで」より順番を強調したいときや、手順の説明に向いています。",
+        nuance_en="てから stresses that B starts only once A is done, so it suits step-by-step instructions. Use it when you want the order to be clear.",
+        trap_ja="①「食べるから」は『理由』になります。順番なら「食べてから」です。<br>"
+                "②「てから」は動作を順番に言うときに使い、「〜てから、〜てから…」と何度も続けると不自然です。",
+        trap_en="(1) 食べるから means 'because I eat'; for sequence use 食べてから. (2) Don't chain several てから in one sentence; it sounds heavy.",
+        contrast=[
+            dict(type="wrong", reason_ja="「から」の前を辞書形にすると『理由』の意味になってしまいます。順番を言うときは、て形にします。",
+                 reason_en="With the dictionary form, から means 'because'. For sequence, use the て form.",
+                 sentence="{手|て}を{洗|あら}うから、{食|た}べます。（順番）"),
+            dict(type="correct", reason_ja="て形に「から」を付けると、手を洗うのが先という順番になります。",
+                 reason_en="て form + から: washing hands comes first.",
+                 sentence="{手|て}を{洗|あら}ってから、{食|た}べます。"),
+            dict(type="correct", reason_ja="手順の説明にもよく使います。",
+                 reason_en="Often used to explain steps.",
+                 sentence="お{湯|ゆ}をわかしてから、お{茶|ちゃ}を{入|い}れます。"),
+        ],
+        comparison=[
+            dict(form="〜てから", form_en="after doing", badge="順番を強調", badge_type="good",
+                 nuance_ja="前のことが終わってから、あとのことをする順番をはっきり言います。",
+                 nuance_en="Clearly states that the next thing happens after the first is finished.",
+                 example="{名前|なまえ}を{書|か}いてから、{出|だ}してください。"),
+            dict(form="〜た後で", form_en="after doing", badge="やわらかい", badge_type="neutral",
+                 nuance_ja="順番を言う点は同じですが、「てから」より順番を強調しません。",
+                 nuance_en="Also gives the order but with less emphasis than てから.",
+                 example="{名前|なまえ}を{書|か}いた{後|あと}で、{出|だ}してください。"),
+            dict(form="〜て", form_en="and (then)", badge="並べる", badge_type="neutral",
+                 nuance_ja="動作を順に並べるだけで、「終わってから」という強い意味はありません。",
+                 nuance_en="Merely links actions in sequence, without the 'only after finishing' feel.",
+                 example="{名前|なまえ}を{書|か}いて、{出|だ}します。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{毎朝|まいあさ}、{顔|かお}を{洗|あら}っ（　　　）、{朝|あさ}ごはんを{食|た}べます。",
+             correct="てから", distractors=["るから", "ないから", "たくて"],
+             en="Every morning I wash my face and then eat breakfast.",
+             notes_ja="順番を言うので「洗ってから」です。「洗るから」は形が違い、「洗わないから」「洗いたくて」は順番になりません。",
+             notes_en="Sequence: 洗ってから. The other options aren't valid or don't give an order."),
+        dict(stem="{日本|にほん}の{家|いえ}では、{靴|くつ}を{脱|ぬ}い（　　　）、{部屋|へや}に{入|はい}ります。",
+             correct="でから", distractors=["てから", "るから", "たから"],
+             en="In Japanese homes, you take off your shoes before entering a room.",
+             notes_ja="「脱ぐ」のて形は「脱いで」なので、「脱いでから」です。「脱いてから」は誤り、「脱ぐから」「脱いだから」は順番の意味になりません。",
+             notes_en="The て form of 脱ぐ is 脱いで, so 脱いでから. The others are wrong or give a reason."),
+        dict(stem="A：{先|さき}に{食|た}べてもいいですか。<br>B：すみません、{手|て}を{洗|あら}っ（　　　）{食|た}べてください。",
+             correct="てから", distractors=["ても", "ていて", "ては"],
+             en="A: May I eat first? B: Sorry, please wash your hands first and then eat.",
+             notes_ja="手を洗うのが先なので「洗ってから」です。「洗っても」「洗っていて」「洗っては」は、この順番の意味になりません。",
+             notes_en="Hand washing comes first: 洗ってから. 洗っても / 洗っていて / 洗っては don't express sequence."),
+        dict(stem="{図書館|としょかん}で{本|ほん}を{借|か}りて（　　　）、{公園|こうえん}で{読|よ}みました。",
+             correct="から", distractors=["まで", "より", "だけ"],
+             en="I borrowed a book at the library and then read it in the park.",
+             notes_ja="「借りてから」で、借りた後に読んだ順番を表します。「まで」「より」「だけ」は「て形」のあとに付いて順番を表せません。",
+             notes_en="借りてから gives the order borrow → read. まで, より and だけ can't express this after a て form."),
+    ],
+)
+
+# ---------------------------------------------------------------- 19 よりのほうが
+GRAMMAR[19] = dict(
+    name="より〜のほうが", reading="よりのほうが",
+    meaning_en="B is more ~ than A",
+    similar="ほうが、いちばん、と同じくらい",
+    details=dict(
+        formula="Ａ ＋ <strong>より</strong>、Ｂ ＋ <strong>のほうが</strong> ＋ 形容詞<br>Ｂ のほうが Ａ より ＋ 形容詞<br>Ａ と Ｂ と、どちらが ＋ 形容詞 ですか",
+        notes_ja="二つのものを比べる文です。「より」の前が比べる相手（基準）、「のほうが」の前が、より〜なほうです。<br>"
+                 "<strong>犬より猫のほうが</strong>好きです。（＝猫のほうが犬より好きです）<br>"
+                 "質問：<strong>りんごとみかんと、どちらが</strong>好きですか。―みかんのほうが好きです。<br>"
+                 "「ほう」は、この文型ではひらがなで書くことが多いです。",
+        notes_en="Used to compare two things. The thing before より is the standard; the one before のほうが is 'more'. "
+                 "犬より猫のほうが好きです = 猫のほうが犬より好きです. Question: りんごとみかんと、どちらが好きですか。 ほう is usually written in hiragana here.",
+        nuance_ja="二つの中でどちらがどうかをはっきり言うときの文型です。よく、「どちらが〜ですか」で質問し、「〜のほうが〜です」と答えます。"
+                  "「より」は比べる相手、「のほうが」は選んだほう、と覚えましょう。",
+        nuance_en="Use this to state clearly which of two is more so. Typically asked with どちらが〜ですか and answered with 〜のほうが〜です. "
+                  "Remember: より marks the standard of comparison, のほうが marks the winner.",
+        trap_ja="①「バスより電車が速いです」も文法的にはできますが、「のほうが」を使うと比べていることがはっきりします。<br>"
+                "②「より」の前後を逆にすると意味が反対になります。「夏より冬のほうが好き」＝冬が好きです。",
+        trap_en="(1) バスより電車が速いです is possible, but のほうが makes the comparison explicit. "
+                "(2) Swapping the sides reverses the meaning: 夏より冬のほうが好き means you like winter more.",
+        contrast=[
+            dict(type="wrong", reason_ja="二つを比べるときの質問は「どちらが」です。「だれが」は人を聞く言葉なので、飲み物を比べる文に合いません。",
+                 reason_en="For comparing two, ask どちら. だれ asks about people and does not fit drinks.",
+                 sentence="{紅茶|こうちゃ}と{コーヒー|こーひー}と、だれが{好|す}きですか。"),
+            dict(type="correct", reason_ja="二つのうちどちらかを聞くので「どちらが」です。",
+                 reason_en="Asking which of two: どちらが.",
+                 sentence="{紅茶|こうちゃ}と{コーヒー|こーひー}と、どちらが{好|す}きですか。"),
+            dict(type="correct", reason_ja="答えるときは、選んだほうに「のほうが」を付けます。",
+                 reason_en="In the answer, put のほうが after the one you choose.",
+                 sentence="{紅茶|こうちゃ}より{コーヒー|こーひー}のほうが{好|す}きです。"),
+        ],
+        comparison=[
+            dict(form="AよりBのほうが〜", form_en="B is more ~ than A", badge="二つを比べる", badge_type="good",
+                 nuance_ja="二つのものを比べて、Bのほうがより〜と言います。",
+                 nuance_en="Compares two things; B is more.",
+                 example="{電車|でんしゃ}よりバスのほうが{安|やす}いです。"),
+            dict(form="AのなかでBがいちばん〜", form_en="B is the most ~ among A", badge="三つ以上", badge_type="neutral",
+                 nuance_ja="三つ以上の中から一番を言います。二つを比べるときには使いません。",
+                 nuance_en="Picks the top from three or more; not for comparing two.",
+                 example="{乗|の}り{物|もの}の{中|なか}で、{飛行機|ひこうき}がいちばん{速|はや}いです。"),
+            dict(form="AはBより〜", form_en="A is more ~ than B", badge="Aが主語", badge_type="neutral",
+                 nuance_ja="Aを主語にして、Bと比べる言い方です。",
+                 nuance_en="Makes A the topic and compares it with B.",
+                 example="{飛行機|ひこうき}は{新幹線|しんかんせん}より{速|はや}いです。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{夏|なつ}と{冬|ふゆ}と、（　　　）が{好|す}きですか。",
+             correct="どちら", distractors=["どこ", "だれ", "いつ"],
+             en="Which do you like better, summer or winter?",
+             notes_ja="二つのうちから選ぶ質問なので「どちら」です。「どこ」は場所、「だれ」は人、「いつ」は時間を聞く言葉です。",
+             notes_en="Choosing between two: どちら. どこ asks about place, だれ about people, いつ about time."),
+        dict(stem="{電車|でんしゃ}より{自転車|じてんしゃ}（　　　）{便利|べんり}です。{駅|えき}が{遠|とお}いですから。",
+             correct="のほうが", distractors=["のほうを", "のほうへ", "のほうと"],
+             en="A bicycle is more convenient than the train, because the station is far.",
+             notes_ja="「Aより Bのほうが〜」の形なので「のほうが」です。「のほうを」「のほうへ」「のほうと」は形容詞「便利です」の主語になりません。",
+             notes_en="The pattern is AよりBのほうが~, so のほうが. The other particles can't mark the subject of 便利です."),
+        dict(stem="{私|わたし}は{肉|にく}（　　　）{魚|さかな}のほうが{好|す}きです。",
+             correct="より", distractors=["から", "まで", "ので"],
+             en="I like fish more than meat.",
+             notes_ja="比べる相手を表すのは「より」です。「から」「まで」「ので」は比べる意味を表しません。",
+             notes_en="The standard of comparison is marked by より. から, まで and ので don't express comparison."),
+        dict(stem="A：{日本語|にほんご}と{英語|えいご}と、どちらが{難|むずか}しいですか。<br>B：{英語|えいご}より{日本語|にほんご}（　　　）{難|むずか}しいです。",
+             correct="のほうが", distractors=["のほうも", "のほうに", "のほうで"],
+             en="A: Which is harder, Japanese or English? B: Japanese is harder than English.",
+             notes_ja="「どちらが」の質問に「〜のほうが」で答えます。「のほうも」「のほうに」「のほうで」は、答えの文として形が合いません。",
+             notes_en="A どちらが question is answered with 〜のほうが. The other forms don't fit as an answer."),
+    ],
+)
+
+# ---------------------------------------------------------------- 20 の中でがいちばん
+GRAMMAR[20] = dict(
+    name="〜の中で〜がいちばん", reading="のなかでがいちばん",
+    meaning_en="the most ~ among ...",
+    similar="より〜のほうが、いちばん、どれ／だれ／何",
+    details=dict(
+        formula="Ａ ＋ <strong>の中で</strong>、Ｂ ＋ <strong>が</strong> ＋ <strong>いちばん</strong> ＋ 形容詞／動詞<br>質問：Ａの中で、<strong>何／どれ／だれ／どこ／いつ</strong>が いちばん〜ですか",
+        notes_ja="三つ以上のものの中から、一番のものを言います。<br>"
+                 "くだものの<strong>中で</strong>、いちごが<strong>いちばん</strong>好きです。<br>"
+                 "クラスの<strong>中で</strong>、だれが<strong>いちばん</strong>背が高いですか。<br>"
+                 "範囲が「同じ種類の物の名前」のときは「何」、決まった中なら「どれ」、人は「だれ」、場所は「どこ」、時間は「いつ」を使います。<br>"
+                 "範囲を言わず、「いちばん」だけの文も使えます。",
+        notes_en="Names the top item among three or more. くだものの中で、いちごがいちばん好きです. Choose the question word by the category: 何, どれ (fixed set), だれ, どこ, いつ. "
+                 "You can also omit the range and just use いちばん.",
+        nuance_ja="「いちばん」は「その中で一番」という意味です。二つを比べる「より〜のほうが」と違い、三つ以上の中から選ぶときに使います。"
+                  "「の中で」は範囲を示すので、「くだもの」「家族」「一年」のような、グループの名前が前に来ます。",
+        nuance_en="いちばん means 'number one in that group'. Unlike より〜のほうが, it is for three or more. "
+                  "の中で marks the range, so a group such as くだもの, 家族 or 一年 comes before it.",
+        trap_ja="①「の中で」のあとには「が」を使います。「の中でを」「の中でも」は間違いです。<br>"
+                "②二つしかないときは「いちばん」ではなく「どちらが」を使います。",
+        trap_en="(1) After の中で the subject takes が; 〜の中でを is wrong. (2) With only two items, ask どちら, not いちばん.",
+        contrast=[
+            dict(type="wrong", reason_ja="「の中で」の前は、グループの名前です。「くだものの中でいちご」のように選ぶ候補を一つだけ入れるのは不自然です。",
+                 reason_en="Before の中で comes the group name, not a single item.",
+                 sentence="いちごの{中|なか}で、いちごがいちばん{好|す}きです。"),
+            dict(type="correct", reason_ja="「くだもの」というグループから選ぶ文です。",
+                 reason_en="Choosing from the group くだもの.",
+                 sentence="くだものの{中|なか}で、いちごがいちばん{好|す}きです。"),
+            dict(type="correct", reason_ja="人を聞くときは「だれ」を使います。",
+                 reason_en="Use だれ to ask about people.",
+                 sentence="{家族|かぞく}の{中|なか}で、だれがいちばん{早|はや}く{起|お}きますか。"),
+        ],
+        comparison=[
+            dict(form="AのなかでBがいちばん", form_en="B is the most among A", badge="三つ以上", badge_type="good",
+                 nuance_ja="三つ以上の中から一番を選びます。",
+                 nuance_en="Chooses the top from three or more.",
+                 example="{一年|いちねん}の{中|なか}で、{秋|あき}がいちばん{好|す}きです。"),
+            dict(form="AよりBのほうが", form_en="B is more than A", badge="二つを比べる", badge_type="neutral",
+                 nuance_ja="二つのものを比べるときの形です。",
+                 nuance_en="For comparing two items.",
+                 example="{夏|なつ}より{秋|あき}のほうが{好|す}きです。"),
+            dict(form="AもBも", form_en="both A and B", badge="両方", badge_type="neutral",
+                 nuance_ja="比べるのではなく、両方に同じことを言います。",
+                 nuance_en="Doesn't compare; says the same of both.",
+                 example="{夏|なつ}も{秋|あき}も{好|す}きです。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{一年|いちねん}の{中|なか}で、いつが（　　　）{好|す}きですか。",
+             correct="いちばん", distractors=["いちど", "いっしょに", "ぜんぜん"],
+             en="Which time of the year do you like the best?",
+             notes_ja="「の中で」は一番を選ぶので「いちばん」です。「いちど」は一回、「いっしょに」は二人以上でする様子、「ぜんぜん」は否定の文で使う言葉で、合いません。",
+             notes_en="の中で pairs with いちばん. いちど means once, いっしょに means together, ぜんぜん goes with negatives."),
+        dict(stem="A：スポーツの{中|なか}で、{何|なに}が（　　　）{好|す}きですか。<br>B：テニスがいちばん{好|す}きです。",
+             correct="いちばん", distractors=["いちど", "いっぱい", "いくつ"],
+             en="A: Of all sports, which do you like the most? B: I like tennis the best.",
+             notes_ja="Bが「いちばん好き」と答えているので、質問も「いちばん好きですか」です。「いちど」「いっぱい」「いくつ」は意味が合いません。",
+             notes_en="B answers いちばん好き, so the question uses いちばん too. The others don't fit."),
+        dict(stem="クラスの{中|なか}で、（　　　）がいちばん{背|せ}が{高|たか}いですか。",
+             correct="だれ", distractors=["どこ", "いつ", "なに"],
+             en="Who is the tallest in the class?",
+             notes_ja="背が高いのは人なので「だれ」です。「どこ」は場所、「いつ」は時間、「なに」は物を聞くので、合いません。",
+             notes_en="Being tall refers to a person: だれ. どこ is for place, いつ for time, なに for things."),
+        dict(stem="{家族|かぞく}の{中|なか}で、{母|はは}（　　　）いちばん{料理|りょうり}が{上手|じょうず}です。",
+             correct="が", distractors=["を", "に", "と"],
+             en="In my family, my mother is the best at cooking.",
+             notes_ja="「いちばん上手」なのは母なので、主語を表す「が」です。「を」「に」「と」は主語になりません。",
+             notes_en="The mother is the subject of 上手, so が. を, に, と can't mark the subject."),
+    ],
+)
+
+# ---------------------------------------------------------------- 21 が好き／嫌い
+GRAMMAR[21] = dict(
+    name="〜が好き／嫌い", reading="がすき／きらい",
+    meaning_en="like / dislike ~",
+    similar="がじょうず、がほしい、がわかる",
+    details=dict(
+        formula="名詞 ＋ <strong>が</strong> ＋ <strong>好き</strong>（です）／<strong>嫌い</strong>（です）<br>名詞 ＋ <strong>が</strong> ＋ <strong>大好き</strong>（です）／<strong>あまり好きじゃありません</strong>",
+        notes_ja="好き嫌いを言うときは、対象に「が」を付けます。「を」は使いません。<br>"
+                 "私は猫<strong>が</strong>好きです。／弟はにんじん<strong>が</strong>嫌いです。<br>"
+                 "「好き」「嫌い」はナ形容詞です。否定は「好きじゃありません」「好きではありません」です。<br>"
+                 "強く好きなときは「大好きです」を使います。「嫌い」は強い言葉なので、「あまり好きじゃありません」「にがてです」とやわらかく言うことが多いです。",
+        notes_en="Mark the object of liking or disliking with が, not を: 私は猫が好きです. 好き and 嫌い are な-adjectives; negative: 好きじゃありません. "
+                 "Use 大好き for strong liking. 嫌い is strong, so people often soften it: あまり好きじゃありません / にがてです.",
+        nuance_ja="好き嫌いは、その人の気持ちなので、自分の気持ちを言うときに一番自然です。ほかの人の好き嫌いを言うときは、「〜は〜が好きです」でも使えますが、"
+                  "見たことをそのまま言うときは「好きなようです」「好きだと言っていました」などもよく使います。",
+        nuance_en="Likes and dislikes are feelings, so this sentence is most natural for yourself. For others it works too, but you may add 好きなようです or 好きだと言っていました.",
+        trap_ja="①「猫を好きです」は間違いです。「猫が好きです」です。<br>"
+                "②「好き」の否定は「好きないです」ではなく、「好きじゃありません」です。",
+        trap_en="(1) 猫を好きです is wrong; say 猫が好きです. (2) The negative of 好き is 好きじゃありません, not 好きないです.",
+        contrast=[
+            dict(type="wrong", reason_ja="「好き」の対象には「を」ではなく、「が」を使います。",
+                 reason_en="The object of 好き takes が, not を.",
+                 sentence="{私|わたし}は{音楽|おんがく}を{好|す}きです。"),
+            dict(type="correct", reason_ja="好きなものに「が」を付けます。",
+                 reason_en="Attach が to the thing you like.",
+                 sentence="{私|わたし}は{音楽|おんがく}が{好|す}きです。"),
+            dict(type="correct", reason_ja="否定は「好きじゃありません」です。",
+                 reason_en="The negative is 好きじゃありません.",
+                 sentence="{姉|あね}は{辛|から}いものがあまり{好|す}きじゃありません。"),
+        ],
+        comparison=[
+            dict(form="〜が好きです", form_en="like ~", badge="好み", badge_type="good",
+                 nuance_ja="好きなものに「が」を付けます。",
+                 nuance_en="Attach が to what you like.",
+                 example="{私|わたし}は{花|はな}が{好|す}きです。"),
+            dict(form="〜がほしいです", form_en="want ~", badge="希望", badge_type="neutral",
+                 nuance_ja="手に入れたいものに「が」を付けます。好きとは意味が違います。",
+                 nuance_en="Also uses が but means wanting to have something.",
+                 example="{私|わたし}は{花|はな}がほしいです。"),
+            dict(form="〜が上手です", form_en="be good at ~", badge="能力", badge_type="neutral",
+                 nuance_ja="好き嫌いではなく、得意かどうかを言います。",
+                 nuance_en="Talks about skill, not preference.",
+                 example="{私|わたし}は{花|はな}の{絵|え}が{上手|じょうず}です。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{私|わたし}は{動物|どうぶつ}（　　　）{好|す}きです。{特|とく}に{猫|ねこ}が{大好|だいす}きです。",
+             correct="が", distractors=["を", "に", "で"],
+             en="I like animals. I especially love cats.",
+             notes_ja="「好き」の対象には「が」を使います。「を」「に」「で」は使いません。",
+             notes_en="The object of 好き takes が. を, に and で aren't used."),
+        dict(stem="{弟|おとうと}はピーマン（　　　）{嫌|きら}いですが、にんじんは{食|た}べます。",
+             correct="が", distractors=["を", "へ", "と"],
+             en="My little brother doesn't like green peppers, but he eats carrots.",
+             notes_ja="「嫌い」の対象にも「が」を付けます。「を」「へ」「と」は合いません。",
+             notes_en="The object of 嫌い also takes が. を, へ and と don't fit."),
+        dict(stem="A：{音楽|おんがく}が{好|す}きですか。<br>B：いいえ、あまり{好|す}き（　　　）。",
+             correct="じゃありません", distractors=["ありません", "じゃありました", "くありません"],
+             en="A: Do you like music? B: No, not very much.",
+             notes_ja="「好き」はナ形容詞なので、否定は「好きじゃありません」です。「好きありません」「好きじゃありました」「好きくありません」は形が誤りです。",
+             notes_en="好き is a な-adjective, so its negative is 好きじゃありません. The other choices are not valid forms."),
+        dict(stem="{私|わたし}は{甘|あま}いものが{大好|だいす}きです。（　　　）、ケーキをよく{食|た}べます。",
+             correct="だから", distractors=["でも", "しかし", "それから"],
+             en="I love sweet things. That's why I often eat cake.",
+             notes_ja="甘いものが好きなことが、ケーキをよく食べる理由なので「だから」です。「でも」「しかし」は反対のことを言うときで、「それから」は順番を表すので合いません。",
+             notes_en="Liking sweets is the reason for eating cake: だから. でも / しかし introduce contrast; それから adds a next item."),
+    ],
+)
+
+# ---------------------------------------------------------------- 22 が上手／下手
+GRAMMAR[22] = dict(
+    name="〜が上手／下手", reading="がじょうず／へた",
+    meaning_en="be good / poor at ~",
+    similar="がすき、がとくい、にがて",
+    details=dict(
+        formula="名詞 ＋ <strong>が</strong> ＋ <strong>上手</strong>（です）／<strong>下手</strong>（です）<br>動詞 辞書形 ＋ <strong>のが</strong> ＋ 上手です",
+        notes_ja="得意かどうかを言うときは、対象に「が」を付けます。<br>"
+                 "姉は料理<strong>が</strong>上手です。／私は歌<strong>が</strong>下手です。<br>"
+                 "動詞のときは、辞書形に「のが」を付けます。弟は絵を<strong>かくのが</strong>上手です。<br>"
+                 "「上手」「下手」はナ形容詞です。「じょうずです」「へたです」と読みます。<br>"
+                 "「とても上手ですね」と、ほめるときに使います。",
+        notes_en="Mark the thing someone is good or poor at with が: 姉は料理が上手です. With a verb, use the dictionary form + のが: 弟は絵をかくのが上手です. "
+                 "上手 and 下手 are な-adjectives (じょうず, へた). 上手ですね is a common compliment.",
+        nuance_ja="「上手」は、ほめる言葉です。ただ、自分のことには使わないほうがいいです。自分のことは「得意です」「少しできます」と言うと、へりくだった印象になります。"
+                  "「下手」は、人に言うとしつれいなので、自分のことを言うときにだけ使います。",
+        nuance_en="上手 is a compliment, but it sounds boastful about yourself; say 得意です or 少しできます instead. "
+                  "Never tell someone else 下手ですね; use 下手 only about yourself.",
+        trap_ja="①「歌を上手です」は間違いです。「歌が上手です」です。<br>"
+                "②「上手」を自分に使うと自慢のように聞こえるので、ふつうは「あまり上手じゃありません」と言います。",
+        trap_en="(1) 歌を上手です is wrong; 歌が上手です. (2) 上手 about yourself sounds boastful; people say あまり上手じゃありません.",
+        contrast=[
+            dict(type="wrong", reason_ja="「上手」の対象には「を」ではなく、「が」を使います。",
+                 reason_en="The skill takes が, not を.",
+                 sentence="{姉|あね}は{料理|りょうり}を{上手|じょうず}です。"),
+            dict(type="correct", reason_ja="上手なことに「が」を付けます。",
+                 reason_en="Attach が to what she's good at.",
+                 sentence="{姉|あね}は{料理|りょうり}が{上手|じょうず}です。"),
+            dict(type="correct", reason_ja="動詞のときは、辞書形に「のが」を付けます。",
+                 reason_en="With a verb, use the dictionary form + のが.",
+                 sentence="{弟|おとうと}は{絵|え}をかくのが{上手|じょうず}です。"),
+        ],
+        comparison=[
+            dict(form="〜が上手です", form_en="be good at ~", badge="ほめる", badge_type="good",
+                 nuance_ja="他の人の力をほめるときに使います。",
+                 nuance_en="Used to praise another person's skill.",
+                 example="{田中|たなか}さんは{英語|えいご}が{上手|じょうず}です。"),
+            dict(form="〜が得意です", form_en="be good at ~ (strong point)", badge="自分にも使える", badge_type="neutral",
+                 nuance_ja="自分の強みを言うときにも使えます。",
+                 nuance_en="Can also be used about your own strengths.",
+                 example="{私|わたし}は{数学|すうがく}が{得意|とくい}です。"),
+            dict(form="〜が好きです", form_en="like ~", badge="好み", badge_type="neutral",
+                 nuance_ja="できるかどうかではなく、好きかどうかです。",
+                 nuance_en="About liking, not ability.",
+                 example="{私|わたし}は{歌|うた}が{好|す}きです。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{妹|いもうと}はピアノ（　　　）{上手|じょうず}です。{毎日|まいにち}{練習|れんしゅう}しています。",
+             correct="が", distractors=["を", "に", "で"],
+             en="My younger sister is good at the piano. She practices every day.",
+             notes_ja="「上手」の対象には「が」を使います。「を」「に」「で」は使いません。",
+             notes_en="The object of 上手 takes が. を, に and で aren't used."),
+        dict(stem="{私|わたし}は{歌|うた}が{下手|へた}です。ですから、カラオケで{歌|うた}い（　　　）。",
+             correct="たくありません", distractors=["たいです", "ましょう", "ました"],
+             en="I'm bad at singing. So I don't want to sing at karaoke.",
+             notes_ja="歌が下手なので「歌いたくありません」が自然です。「歌いたいです」は反対の気持ち、「歌いましょう」は誘い、「歌いました」は過去です。",
+             notes_en="Being bad at singing leads to 歌いたくありません. 歌いたいです is the opposite, 歌いましょう an invitation, 歌いました past."),
+        dict(stem="リーさんは{日本語|にほんご}を{話|はな}す（　　　）{上手|じょうず}です。",
+             correct="のが", distractors=["のを", "のに", "のは"],
+             en="Lee is good at speaking Japanese.",
+             notes_ja="動詞の辞書形のあとに「のが」を付けて「上手」と言います。「のを」「のに」「のは」はこの形に合いません。",
+             notes_en="A dictionary-form verb takes のが before 上手. のを, のに and のは don't fit the pattern."),
+        dict(stem="A：{田中|たなか}さんは{絵|え}がとても（　　　）ですね。<br>B：ありがとうございます。",
+             correct="{上手|じょうず}", distractors=["{下手|へた}", "{嫌|きら}い", "{高|たか}い"],
+             en="A: Your drawing is really good, Mr. Tanaka. B: Thank you.",
+             notes_ja="Bが「ありがとうございます」とお礼を言っているので、ほめる「上手」です。「下手」は失礼で、「嫌い」「高い」は文に合いません。",
+             notes_en="B says thank you, so A praised: 上手. 下手 would be rude; 嫌い and 高い don't fit."),
+    ],
+)
+
+# ---------------------------------------------------------------- 23 がある／いる
+GRAMMAR[23] = dict(
+    name="〜がある／いる", reading="がある／いる",
+    meaning_en="there is / have (exist: ある for things, いる for people & animals)",
+    similar="があります、がいます、をもっている",
+    details=dict(
+        formula="場所 ＋ <strong>に</strong> ＋ 物 ＋ <strong>が</strong> ＋ <strong>ある</strong>（あります）<br>場所 ＋ <strong>に</strong> ＋ 人・動物 ＋ <strong>が</strong> ＋ <strong>いる</strong>（います）<br>人 ＋ <strong>は</strong> ＋ 物・人 ＋ <strong>が</strong> ＋ ある／いる（持っている）",
+        notes_ja="存在を言う文です。<br>"
+                 "① <strong>物・植物</strong>は「ある」：机の上に本<strong>が</strong>あります。<br>"
+                 "② <strong>人・動物</strong>は「いる」：庭に犬<strong>が</strong>います。<br>"
+                 "③ 持っているとき：私は妹<strong>が</strong>一人<strong>います</strong>。／私は時間<strong>が</strong>あります。<br>"
+                 "④ 出来事：明日、試験<strong>が</strong>あります。（出来事は「ある」を使います）<br>"
+                 "場所は、「に」で表します。",
+        notes_en="Existence sentences. (1) Things and plants: ある. (2) People and animals: いる. (3) Possession: 妹が一人います, 時間があります. "
+                 "(4) Events: 試験があります (events use ある). The location takes に.",
+        nuance_ja="日本語の「ある」「いる」は、動くかどうかではなく、{生|い}き{物|もの}かどうかで使い分けます。動くものでも、車や電車は「ある」です。"
+                  "また、「あります」は出来事（試験、会議、パーティー）にも使います。",
+        nuance_en="ある and いる are split by whether something is a living being, not whether it moves; cars and trains take ある. "
+                  "ある is also used for events (exam, meeting, party).",
+        trap_ja="①「机の上に猫があります」は間違いです。猫は動物なので「います」です。<br>"
+                "②場所を表す「に」を忘れずに。「部屋が犬がいます」は間違いです。<br>"
+                "③出来事の場所は「で」です。「学校で、パーティーがあります」のように言います。",
+        trap_en="(1) 机の上に猫があります is wrong; a cat is an animal, so います. (2) Don't forget に for location. "
+                "(3) For where an event takes place, use で: 学校でパーティーがあります.",
+        contrast=[
+            dict(type="wrong", reason_ja="猫は動物なので、「あります」ではなく「います」を使います。",
+                 reason_en="A cat is an animal, so use います, not あります.",
+                 sentence="{机|つくえ}の{下|した}に{猫|ねこ}があります。"),
+            dict(type="correct", reason_ja="動物には「います」を使います。",
+                 reason_en="Use います for animals.",
+                 sentence="{机|つくえ}の{下|した}に{猫|ねこ}がいます。"),
+            dict(type="correct", reason_ja="物には「あります」を使います。",
+                 reason_en="Use あります for things.",
+                 sentence="{机|つくえ}の{上|うえ}に{辞書|じしょ}があります。"),
+        ],
+        comparison=[
+            dict(form="〜があります", form_en="there is (thing / event)", badge="物・出来事", badge_type="good",
+                 nuance_ja="物や植物、出来事の存在を言います。",
+                 nuance_en="For things, plants and events.",
+                 example="{駅|えき}の{前|まえ}に{本屋|ほんや}があります。"),
+            dict(form="〜がいます", form_en="there is (person / animal)", badge="人・動物", badge_type="good",
+                 nuance_ja="人や動物の存在を言います。",
+                 nuance_en="For people and animals.",
+                 example="{駅|えき}の{前|まえ}に{友達|ともだち}がいます。"),
+            dict(form="〜は〜にあります／います", form_en="X is at Y", badge="場所を答える", badge_type="neutral",
+                 nuance_ja="物や人がどこにあるか・いるかを答えるときの形です。",
+                 nuance_en="Used to answer where something or someone is.",
+                 example="{本屋|ほんや}は{駅|えき}の{前|まえ}にあります。"),
+        ],
+    ),
+    quiz=[
+        dict(stem="{庭|にわ}に{犬|いぬ}が（　　　）。{名前|なまえ}はポチです。",
+             correct="います", distractors=["あります", "ありません", "いません"],
+             en="There's a dog in the garden. Its name is Pochi.",
+             notes_ja="犬は動物なので「います」です。「あります」は物に使い、「ありません」「いません」は「名前はポチです」と合いません。",
+             notes_en="A dog is an animal: います. あります is for things; the negatives clash with the next sentence."),
+        dict(stem="{机|つくえ}の{上|うえ}に{辞書|じしょ}と{鉛筆|えんぴつ}が（　　　）。",
+             correct="あります", distractors=["います", "いません", "あげます"],
+             en="There are a dictionary and a pencil on the desk.",
+             notes_ja="辞書と鉛筆は物なので「あります」です。「います」は人・動物用、「いません」は否定、「あげます」は意味が違います。",
+             notes_en="Dictionary and pencil are things: あります. います is for living things, いません is negative, あげます means 'give'."),
+        dict(stem="{明日|あした}の{午後|ごご}、{学校|がっこう}でテストが（　　　）。",
+             correct="あります", distractors=["います", "なります", "いきます"],
+             en="There's a test at school tomorrow afternoon.",
+             notes_ja="テストのような出来事には「あります」を使います。「います」は人・動物用で、「なります」「いきます」は意味が合いません。",
+             notes_en="Events like a test take あります. います is for living beings; なります / いきます don't fit."),
+        dict(stem="A：{兄弟|きょうだい}がいますか。<br>B：はい、{姉|あね}が（　　　）います。",
+             correct="{一人|ひとり}", distractors=["{一個|いっこ}", "{一枚|いちまい}", "{一本|いっぽん}"],
+             en="A: Do you have any siblings? B: Yes, I have one older sister.",
+             notes_ja="人を数えるときは「一人」です。「一個」は小さな物、「一枚」は紙など平たい物、「一本」は細長い物を数えます。",
+             notes_en="People are counted with 一人. 一個 is for small objects, 一枚 for flat things, 一本 for long thin things."),
+    ],
+)
+
+# ---------------------------------------------------------------- J(): shorthand ruby expansion
+import re as _re
+
+def _J(s):
+    if not isinstance(s, str):
+        return s
+    s = s.replace('辞書形', '{辞書|じしょ}{形|けい}').replace('普通形', '{普通|ふつう}{形|けい}')
+    s = _re.sub(r'(ます|て|ない|た)形', lambda m: m.group(1) + '{形|けい}', s)
+    s = s.replace('ナ形容詞', 'ナ{形容詞|けいようし}').replace('イ形容詞', 'イ{形容詞|けいようし}')
+    s = s.replace('{{', '{')
+    return s
+
+def _walk(o):
+    if isinstance(o, dict):
+        return {k: (_walk(v) if k not in ('en', 'notes_en', 'reason_en', 'nuance_en', 'form_en', 'trap_en', 'meaning_en') else v) for k, v in o.items()}
+    if isinstance(o, list):
+        return [_walk(x) for x in o]
+    return _J(o)
+
+for _g in GRAMMAR:
+    GRAMMAR[_g] = _walk(GRAMMAR[_g])

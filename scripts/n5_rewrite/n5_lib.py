@@ -291,6 +291,10 @@ def R(text, skip_u=False):
     result = []
     in_u = False
     # split on tags and explicit annotations
+    text = re.sub(r'(?<![{|])一人', '{一人|ひとり}', text)
+    text = re.sub(r'(?<![{|])二人', '{二人|ふたり}', text)
+    text = text.replace('誕生日', '{誕生日|たんじょうび}')
+    text = re.sub(r'の日(?![本曜])', 'の{日|ひ}', text)
     tokens = re.split(r'(<[^>]+>|\{[^{}|]+\|[^{}|]+\})', text)
     for tk in tokens:
         if not tk:

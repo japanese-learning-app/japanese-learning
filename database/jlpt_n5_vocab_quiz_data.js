@@ -1,10021 +1,10021 @@
-// JLPT N5 Complete Vocabulary Quiz Dataset (371 Questions)
-// Balanced 25.0% answers, full ruby support, non-sensitive, natural Japanese
+// JLPT N5 Vocabulary Quiz Dataset (371 Questions)
 window.JLPT_N5_VOCAB_QUIZ_DATA = [
   {
     "id": 1,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "てんき",
-    "question": "あしたの <u>天気</u>は どうですか。",
-    "question_ruby": "あしたの<u>天気</u>は どうですか。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "今朝",
+    "question": "今朝は雨が降っていました。",
+    "question_ruby": "<u>今朝</u>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていました。",
     "choices": [
-      "てんき",
-      "でんち",
-      "てんち",
-      "でんき"
+      "けさ",
+      "こんちょう",
+      "けっさ",
+      "こんあさ"
     ],
     "choices_ruby": [
-      "てんき",
-      "でんち",
-      "てんち",
-      "でんき"
+      "けさ",
+      "こんちょう",
+      "けっさ",
+      "こんあさ"
     ],
     "answer": 0,
-    "correct_text": "てんき",
-    "meaning_en": "",
-    "explanation": "「天気」は「てんき」と読みます。",
-    "target_word_reading": "てんき",
-    "correct_text_reading": "てんき",
-    "correct_text_ruby": "てんき"
+    "correct_text": "けさ",
+    "meaning_en": "this morning",
+    "explanation": "「今朝」は特別な読み方で、「けさ」と読みます。「こんあさ」とは読みません。",
+    "target_word_reading": "けさ",
+    "correct_text_reading": "けさ",
+    "correct_text_ruby": "けさ"
   },
   {
     "id": 2,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いきます",
-    "question": "毎朝 ７時に <u>起きます</u>。",
-    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に<u>起きます</u>。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "毎晩",
+    "question": "毎晩、十一時に寝ます。",
+    "question_ruby": "<u>毎晩</u>、<ruby>十一時<rt>じゅういちじ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。",
     "choices": [
-      "つきます",
-      "いきます",
-      "おきます",
-      "あきます"
+      "まいよる",
+      "まいはん",
+      "まいばん",
+      "まいぱん"
     ],
     "choices_ruby": [
-      "つきます",
-      "いきます",
-      "おきます",
-      "あきます"
+      "まいよる",
+      "まいはん",
+      "まいばん",
+      "まいぱん"
     ],
-    "answer": 1,
-    "correct_text": "いきます",
-    "meaning_en": "",
-    "explanation": "「起きます」は「おきます」と読みます。",
-    "target_word_reading": "いきます",
-    "correct_text_reading": "いきます",
-    "correct_text_ruby": "いきます"
+    "answer": 2,
+    "correct_text": "まいばん",
+    "meaning_en": "every night / every evening",
+    "explanation": "「晩」は「ばん」と濁ります。「はん」「ぱん」ではありません。",
+    "target_word_reading": "まいばん",
+    "correct_text_reading": "まいばん",
+    "correct_text_ruby": "まいばん"
   },
   {
     "id": 3,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "たのしい",
-    "question": "この 本は とても <u>面白い</u>です。",
-    "question_ruby": "この <ruby>本<rt>ほん</rt></ruby>は とても<u>面白い</u>です。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "去年",
+    "question": "去年の夏、友達と海へ行きました。",
+    "question_ruby": "<u>去年</u>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
     "choices": [
-      "おもしろい",
-      "あたらしい",
-      "たのしい",
-      "むずかしい"
+      "こぞう",
+      "きょうとし",
+      "きょうねん",
+      "きょねん"
     ],
     "choices_ruby": [
-      "おもしろい",
-      "あたらしい",
-      "たのしい",
-      "むずかしい"
+      "こぞう",
+      "きょうとし",
+      "きょうねん",
+      "きょねん"
     ],
-    "answer": 2,
-    "correct_text": "たのしい",
-    "meaning_en": "",
-    "explanation": "「面白い」は「おもしろい」と読みます。",
-    "target_word_reading": "たのしい",
-    "correct_text_reading": "たのしい",
-    "correct_text_ruby": "たのしい"
+    "answer": 3,
+    "correct_text": "きょねん",
+    "meaning_en": "last year",
+    "explanation": "「去年」は「きょねん」。「きょ」は短く、「う」は入りません。",
+    "target_word_reading": "きょねん",
+    "correct_text_reading": "きょねん",
+    "correct_text_ruby": "きょねん"
   },
   {
     "id": 4,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "なか",
-    "question": "駅の <u>前</u>で 友達を 待ちます。",
-    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<u>前</u>で <ruby>友達<rt>ともだち</rt></ruby>を <ruby>待<rt>ま</rt></ruby>ちます。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "来週",
+    "question": "来週の月曜日に、テストがあります。",
+    "question_ruby": "<u>来週</u>の<ruby>月曜日<rt>げつようび</rt></ruby>に、テストがあります。",
     "choices": [
-      "うしろ",
-      "まえ",
-      "となり",
-      "なか"
+      "らいじゅう",
+      "らいしゅう",
+      "らいしゅ",
+      "くるしゅう"
     ],
     "choices_ruby": [
-      "うしろ",
-      "まえ",
-      "となり",
-      "なか"
+      "らいじゅう",
+      "らいしゅう",
+      "らいしゅ",
+      "くるしゅう"
     ],
-    "answer": 3,
-    "correct_text": "なか",
-    "meaning_en": "",
-    "explanation": "「前」は「まえ」と読みます。",
-    "target_word_reading": "なか",
-    "correct_text_reading": "なか",
-    "correct_text_ruby": "なか"
+    "answer": 1,
+    "correct_text": "らいしゅう",
+    "meaning_en": "next week",
+    "explanation": "「週」は「しゅう」と長く読みます。",
+    "target_word_reading": "らいしゅう",
+    "correct_text_reading": "らいしゅう",
+    "correct_text_ruby": "らいしゅう"
   },
   {
     "id": 5,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "みず",
-    "question": "冷たい <u>水</u>を ください。",
-    "question_ruby": "<ruby>冷<rt>つめ</rt></ruby>たい<u>水</u>を ください。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "夕方",
+    "question": "夕方、犬と公園を散歩しました。",
+    "question_ruby": "<u>夕方</u>、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しました。",
     "choices": [
-      "みず",
-      "さけ",
-      "おちゃ",
-      "ゆ"
+      "ゆうほう",
+      "ゆうがた",
+      "ゆかた",
+      "ゆうかた"
     ],
     "choices_ruby": [
-      "みず",
-      "さけ",
-      "おちゃ",
-      "ゆ"
+      "ゆうほう",
+      "ゆうがた",
+      "ゆかた",
+      "ゆうかた"
     ],
-    "answer": 0,
-    "correct_text": "みず",
-    "meaning_en": "",
-    "explanation": "「水」は「みず」と読みます。",
-    "target_word_reading": "みず",
-    "correct_text_reading": "みず",
-    "correct_text_ruby": "みず"
+    "answer": 1,
+    "correct_text": "ゆうがた",
+    "meaning_en": "evening (before dark)",
+    "explanation": "「夕方」は「ゆうがた」。「かた」は濁って「がた」になります。「ゆかた」は別の言葉（浴衣）です。",
+    "target_word_reading": "ゆうがた",
+    "correct_text_reading": "ゆうがた",
+    "correct_text_ruby": "ゆうがた"
   },
   {
     "id": 6,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ふるい",
-    "question": "<u>新しい</u> 靴を 買いました。",
-    "question_ruby": "<u>新しい</u><ruby>靴<rt>くつ</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "午前",
+    "question": "授業は午前九時に始まります。",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<u>午前</u><ruby>九時<rt>くじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。",
     "choices": [
-      "あたらしい",
-      "ふるい",
-      "やすい",
-      "たかい"
+      "ごさん",
+      "ごぜい",
+      "ごまえ",
+      "ごぜん"
     ],
     "choices_ruby": [
-      "あたらしい",
-      "ふるい",
-      "やすい",
-      "たかい"
+      "ごさん",
+      "ごぜい",
+      "ごまえ",
+      "ごぜん"
     ],
-    "answer": 1,
-    "correct_text": "ふるい",
-    "meaning_en": "",
-    "explanation": "「新しい」は「あたらしい」と読みます。",
-    "target_word_reading": "ふるい",
-    "correct_text_reading": "ふるい",
-    "correct_text_ruby": "ふるい"
+    "answer": 3,
+    "correct_text": "ごぜん",
+    "meaning_en": "morning; A.M.",
+    "explanation": "「午前」は「ごぜん」。「前」は「ぜん」と濁ります。",
+    "target_word_reading": "ごぜん",
+    "correct_text_reading": "ごぜん",
+    "correct_text_ruby": "ごぜん"
   },
   {
     "id": 7,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がくこう",
-    "question": "毎朝 ８時に <u>学校</u>へ 行きます。",
-    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> ８<ruby>時<rt>じ</rt></ruby>に<u>学校</u>へ <ruby>行<rt>い</rt></ruby>きます。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "昨日",
+    "question": "昨日は友達の誕生日でした。",
+    "question_ruby": "<u>昨日</u>は<ruby>友達<rt>ともだち</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>でした。",
     "choices": [
-      "かっこう",
-      "がっこう",
-      "がくこう",
-      "がくこ"
+      "きのう",
+      "きんの",
+      "さくにち",
+      "きょう"
     ],
     "choices_ruby": [
-      "かっこう",
-      "がっこう",
-      "がくこう",
-      "がくこ"
+      "きのう",
+      "きんの",
+      "さくにち",
+      "きょう"
     ],
-    "answer": 2,
-    "correct_text": "がくこう",
-    "meaning_en": "",
-    "explanation": "「学校」は「がっこう」と読みます。",
-    "target_word_reading": "がくこう",
-    "correct_text_reading": "がくこう",
-    "correct_text_ruby": "がくこう"
+    "answer": 0,
+    "correct_text": "きのう",
+    "meaning_en": "yesterday",
+    "explanation": "「昨日」は特別な読み方で「きのう」です。「きょう」は「今日」です。",
+    "target_word_reading": "きのう",
+    "correct_text_reading": "きのう",
+    "correct_text_ruby": "きのう"
   },
   {
     "id": 8,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あね",
-    "question": "わたしの <u>父</u>は 会社員です。",
-    "question_ruby": "わたしの<u>父</u>は <ruby>会社<rt>かいしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>です。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "今年",
+    "question": "今年の冬は雪が多いです。",
+    "question_ruby": "<u>今年</u>の<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
     "choices": [
-      "はは",
-      "あに",
-      "ちち",
-      "あね"
+      "こんねん",
+      "こんとし",
+      "ことし",
+      "きんとし"
     ],
     "choices_ruby": [
-      "はは",
-      "あに",
-      "ちち",
-      "あね"
+      "こんねん",
+      "こんとし",
+      "ことし",
+      "きんとし"
     ],
-    "answer": 3,
-    "correct_text": "あね",
-    "meaning_en": "",
-    "explanation": "「父」は「ちち」と読みます。",
-    "target_word_reading": "あね",
-    "correct_text_reading": "あね",
-    "correct_text_ruby": "あね"
+    "answer": 2,
+    "correct_text": "ことし",
+    "meaning_en": "this year",
+    "explanation": "「今年」は特別な読み方で「ことし」と読みます。",
+    "target_word_reading": "ことし",
+    "correct_text_reading": "ことし",
+    "correct_text_ruby": "ことし"
   },
   {
     "id": 9,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "行きます",
-    "question": "あした 学校へ <u>いきます</u>。",
-    "question_ruby": "あした <ruby>学校<rt>がっこう</rt></ruby>へ<u>いきます</u>。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "来月",
+    "question": "来月、日本の友達が遊びに来ます。",
+    "question_ruby": "<u>来月</u>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>ます。",
     "choices": [
-      "行きます",
-      "来ます",
-      "出ます",
-      "入ります"
+      "らいけつ",
+      "らいがつ",
+      "らいつき",
+      "らいげつ"
     ],
     "choices_ruby": [
-      "<ruby>行<rt>い</rt></ruby>きます",
-      "<ruby>来<rt>き</rt></ruby>ます",
-      "<ruby>出<rt>で</rt></ruby>ます",
-      "<ruby>入<rt>はい</rt></ruby>ります"
+      "らいけつ",
+      "らいがつ",
+      "らいつき",
+      "らいげつ"
     ],
-    "answer": 0,
-    "correct_text": "行きます",
-    "meaning_en": "",
-    "explanation": "「いきます」の漢字は「行きます」です。",
-    "target_word_reading": "行きます",
-    "correct_text_reading": "行きます",
-    "correct_text_ruby": "<ruby>行<rt>い</rt></ruby>きます"
+    "answer": 3,
+    "correct_text": "らいげつ",
+    "meaning_en": "next month",
+    "explanation": "「月」は「げつ」と読みます（「がつ」は「四月」などの月の名前）。",
+    "target_word_reading": "らいげつ",
+    "correct_text_reading": "らいげつ",
+    "correct_text_ruby": "らいげつ"
   },
   {
     "id": 10,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "本",
-    "question": "公園に 大きい <u>き</u>が あります。",
-    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>に <ruby>大<rt>おお</rt></ruby>きい<u>き</u>が あります。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "土曜日",
+    "question": "土曜日は会社が休みです。",
+    "question_ruby": "<u>土曜日</u>は<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みです。",
     "choices": [
-      "木",
-      "本",
-      "森",
-      "林"
+      "とようび",
+      "どようび",
+      "どよび",
+      "つちようび"
     ],
     "choices_ruby": [
-      "<ruby>木<rt>き</rt></ruby>",
-      "<ruby>本<rt>ほん</rt></ruby>",
-      "<ruby>森<rt>もり</rt></ruby>",
-      "<ruby>林<rt>はやし</rt></ruby>"
+      "とようび",
+      "どようび",
+      "どよび",
+      "つちようび"
     ],
     "answer": 1,
-    "correct_text": "本",
-    "meaning_en": "",
-    "explanation": "「き（tree）」の漢字は「木」です。",
-    "target_word_reading": "本",
-    "correct_text_reading": "本",
-    "correct_text_ruby": "<ruby>本<rt>ほん</rt></ruby>"
+    "correct_text": "どようび",
+    "meaning_en": "Saturday",
+    "explanation": "「土」は「ど」と濁ります。「曜日」の「よう」は長く読みます。",
+    "target_word_reading": "どようび",
+    "correct_text_reading": "どようび",
+    "correct_text_ruby": "どようび"
   },
   {
     "id": 11,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "体",
-    "question": "図書館で <u>ほん</u>を 借りました。",
-    "question_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>で<u>ほん</u>を <ruby>借<rt>か</rt></ruby>りました。",
-    "choices": [
-      "休",
-      "木",
-      "体",
-      "本"
-    ],
-    "choices_ruby": [
-      "<ruby>休<rt>きゅう</rt></ruby>",
-      "<ruby>木<rt>き</rt></ruby>",
-      "<ruby>体<rt>からだ</rt></ruby>",
-      "<ruby>本<rt>ほん</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "体",
-    "meaning_en": "",
-    "explanation": "「ほん（book）」の漢字は「本」です。",
-    "target_word_reading": "体",
-    "correct_text_reading": "体",
-    "correct_text_ruby": "<ruby>体<rt>からだ</rt></ruby>"
-  },
-  {
-    "id": 12,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "電車",
-    "question": "<u>くるま</u>を 運転します。",
-    "question_ruby": "<u>くるま</u>を <ruby>運転<rt>うんてん</rt></ruby>します。",
-    "choices": [
-      "京",
-      "車",
-      "東",
-      "電車"
-    ],
-    "choices_ruby": [
-      "<ruby>京<rt>きょう</rt></ruby>",
-      "<ruby>車<rt>くるま</rt></ruby>",
-      "<ruby>東<rt>ひがし</rt></ruby>",
-      "<ruby>電車<rt>でんしゃ</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "電車",
-    "meaning_en": "",
-    "explanation": "「くるま（car）」の漢字は「車」です。",
-    "target_word_reading": "電車",
-    "correct_text_reading": "電車",
-    "correct_text_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>"
-  },
-  {
-    "id": 13,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "店",
-    "question": "あの <u>みせ</u>で パンを 買いました。",
-    "question_ruby": "あの<u>みせ</u>で パンを <ruby>買<rt>か</rt></ruby>いました。",
-    "choices": [
-      "店",
-      "町",
-      "門",
-      "所"
-    ],
-    "choices_ruby": [
-      "<ruby>店<rt>みせ</rt></ruby>",
-      "<ruby>町<rt>まち</rt></ruby>",
-      "<ruby>門<rt>もん</rt></ruby>",
-      "<ruby>所<rt>ところ</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "店",
-    "meaning_en": "",
-    "explanation": "「みせ（shop/store）」の漢字は「店」です。",
-    "target_word_reading": "店",
-    "correct_text_reading": "店",
-    "correct_text_ruby": "<ruby>店<rt>みせ</rt></ruby>"
-  },
-  {
-    "id": 14,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の書き",
-    "target_word": "大",
-    "question": "教室に <u>ひと</u>が たくさん います。",
-    "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>に<u>ひと</u>が たくさん います。",
-    "choices": [
-      "十",
-      "大",
-      "人",
-      "入"
-    ],
-    "choices_ruby": [
-      "<ruby>十<rt>じゅう</rt></ruby>",
-      "<ruby>大<rt>だい</rt></ruby>",
-      "<ruby>人<rt>ひと</rt></ruby>",
-      "<ruby>入<rt>いり</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "大",
-    "meaning_en": "",
-    "explanation": "「ひと（person/people）」の漢字は「人」です。",
-    "target_word_reading": "大",
-    "correct_text_reading": "大",
-    "correct_text_ruby": "<ruby>大<rt>だい</rt></ruby>"
-  },
-  {
-    "id": 15,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "いってきます",
-    "question": "ごはんを 食べたあとで、「（　　）」と 言います。",
-    "question_ruby": "ごはんを <ruby>食<rt>た</rt></ruby>べたあとで、「（　　）」と <ruby>言<rt>い</rt></ruby>います。",
-    "choices": [
-      "ごちそうさまでした",
-      "おやすみなさい",
-      "いってきます",
-      "いただきます"
-    ],
-    "choices_ruby": [
-      "ごちそうさまでした",
-      "おやすみなさい",
-      "いってきます",
-      "いただきます"
-    ],
-    "answer": 2,
-    "correct_text": "いってきます",
-    "meaning_en": "",
-    "explanation": "食後の挨拶は「ごちそうさまでした」です。",
-    "target_word_reading": "いってきます",
-    "correct_text_reading": "いってきます",
-    "correct_text_ruby": "いってきます"
-  },
-  {
-    "id": 16,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "カーテン",
-    "question": "部屋が 暗いですから、（　　）を つけてください。",
-    "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>が <ruby>暗<rt>くら</rt></ruby>いですから、（　　）を つけてください。",
-    "choices": [
-      "ドア",
-      "エアコン",
-      "電気",
-      "カーテン"
-    ],
-    "choices_ruby": [
-      "ドア",
-      "エアコン",
-      "<ruby>電気<rt>でんき</rt></ruby>",
-      "カーテン"
-    ],
-    "answer": 3,
-    "correct_text": "カーテン",
-    "meaning_en": "",
-    "explanation": "暗いときに「つける」のは「電気」です。",
-    "target_word_reading": "カーテン",
-    "correct_text_reading": "カーテン",
-    "correct_text_ruby": "カーテン"
-  },
-  {
-    "id": 17,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "ぬぎ",
-    "question": "暑いですから、上着を（　　）ました。",
-    "question_ruby": "<ruby>暑<rt>あつ</rt></ruby>いですから、<ruby>上着<rt>うわぎ</rt></ruby>を（　　）ました。",
-    "choices": [
-      "ぬぎ",
-      "かぶり",
-      "き",
-      "はき"
-    ],
-    "choices_ruby": [
-      "ぬぎ",
-      "かぶり",
-      "き",
-      "はき"
-    ],
-    "answer": 0,
-    "correct_text": "ぬぎ",
-    "meaning_en": "",
-    "explanation": "衣服を脱ぐ（ぬぐ）＝ take off。",
-    "target_word_reading": "ぬぎ",
-    "correct_text_reading": "ぬぎ",
-    "correct_text_ruby": "ぬぎ"
-  },
-  {
-    "id": 18,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "フォーク",
-    "question": "スープを （　　）で 飲みます。",
-    "question_ruby": "スープを（　　）で <ruby>飲<rt>の</rt></ruby>みます。",
-    "choices": [
-      "はし",
-      "フォーク",
-      "ナイフ",
-      "スプーン"
-    ],
-    "choices_ruby": [
-      "はし",
-      "フォーク",
-      "ナイフ",
-      "スプーン"
-    ],
-    "answer": 1,
-    "correct_text": "フォーク",
-    "meaning_en": "",
-    "explanation": "スープ（soup）を飲む食器はスプーン（spoon）です。",
-    "target_word_reading": "フォーク",
-    "correct_text_reading": "フォーク",
-    "correct_text_ruby": "フォーク"
-  },
-  {
-    "id": 19,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "くつ",
-    "question": "雨が 降って いますから、（　　）を さします。",
-    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>ふ</rt></ruby>って いますから、（　　）を さします。",
-    "choices": [
-      "めがね",
-      "ぼうし",
-      "くつ",
-      "かさ"
-    ],
-    "choices_ruby": [
-      "めがね",
-      "ぼうし",
-      "くつ",
-      "かさ"
-    ],
-    "answer": 2,
-    "correct_text": "くつ",
-    "meaning_en": "",
-    "explanation": "傘（かさ）を「さす（hold up umbrella）」と言います。",
-    "target_word_reading": "くつ",
-    "correct_text_reading": "くつ",
-    "correct_text_ruby": "くつ"
-  },
-  {
-    "id": 20,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "スープ",
-    "question": "頭が 痛いですから、（　　）を 飲みました。",
-    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が <ruby>痛<rt>いた</rt></ruby>いですから、（　　）を <ruby>飲<rt>の</rt></ruby>みました。",
-    "choices": [
-      "おちゃ",
-      "ジュース",
-      "くすり",
-      "スープ"
-    ],
-    "choices_ruby": [
-      "おちゃ",
-      "ジュース",
-      "くすり",
-      "スープ"
-    ],
-    "answer": 3,
-    "correct_text": "スープ",
-    "meaning_en": "",
-    "explanation": "頭痛のときは薬（くすり）を飲みます。",
-    "target_word_reading": "スープ",
-    "correct_text_reading": "スープ",
-    "correct_text_ruby": "スープ"
-  },
-  {
-    "id": 21,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "たんじょうび",
-    "question": "来週の 日曜日は わたしの（　　）です。20歳に なります。",
-    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>日曜日<rt>にちようび</rt></ruby>は わたしの（　　）です。20<ruby>歳<rt>さい</rt></ruby>に なります。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "誕生日",
+    "question": "来週の金曜日は母の誕生日です。",
+    "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>は<ruby>母<rt>はは</rt></ruby>の<u>誕生日</u>です。",
     "choices": [
       "たんじょうび",
-      "なつやすみ",
-      "おしょうがつ",
-      "しけん"
+      "だんじょうび",
+      "たんじょび",
+      "たんじょうひ"
     ],
     "choices_ruby": [
       "たんじょうび",
-      "なつやすみ",
-      "おしょうがつ",
-      "しけん"
+      "だんじょうび",
+      "たんじょび",
+      "たんじょうひ"
     ],
     "answer": 0,
     "correct_text": "たんじょうび",
-    "meaning_en": "",
-    "explanation": "年齢が増える記念日は誕生日（たんじょうび）です。",
+    "meaning_en": "birthday",
+    "explanation": "「誕生日」は「たんじょうび」。「生」は長く「じょう」、「日」は濁って「び」です。",
     "target_word_reading": "たんじょうび",
     "correct_text_reading": "たんじょうび",
     "correct_text_ruby": "たんじょうび"
   },
   {
-    "id": 22,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙",
-    "target_word": "ズボン",
-    "question": "玄関で （　　）を ぬいで、スリッパを はきます。",
-    "question_ruby": "<ruby>玄関<rt>げんかん</rt></ruby>で（　　）を ぬいで、スリッパを はきます。",
+    "id": 12,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "冬",
+    "question": "冬は雪が降ります。",
+    "question_ruby": "<u>冬</u>は<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>お</rt></ruby>ります。",
     "choices": [
-      "シャツ",
-      "ズボン",
-      "くつ",
-      "ぼうし"
+      "ふよ",
+      "ひゆ",
+      "ふゆ",
+      "ぶゆ"
     ],
     "choices_ruby": [
-      "シャツ",
-      "ズボン",
-      "くつ",
-      "ぼうし"
+      "ふよ",
+      "ひゆ",
+      "ふゆ",
+      "ぶゆ"
+    ],
+    "answer": 2,
+    "correct_text": "ふゆ",
+    "meaning_en": "winter",
+    "explanation": "「冬」は「ふゆ」と読みます。",
+    "target_word_reading": "ふゆ",
+    "correct_text_reading": "ふゆ",
+    "correct_text_ruby": "ふゆ"
+  },
+  {
+    "id": 13,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "春",
+    "question": "春は花がたくさん咲きます。",
+    "question_ruby": "<u>春</u>は<ruby>花<rt>はな</rt></ruby>がたくさん<ruby>咲<rt>さ</rt></ruby>きます。",
+    "choices": [
+      "はる",
+      "はら",
+      "ばる",
+      "はろ"
+    ],
+    "choices_ruby": [
+      "はる",
+      "はら",
+      "ばる",
+      "はろ"
+    ],
+    "answer": 0,
+    "correct_text": "はる",
+    "meaning_en": "spring",
+    "explanation": "「春」は「はる」と読みます。",
+    "target_word_reading": "はる",
+    "correct_text_reading": "はる",
+    "correct_text_ruby": "はる"
+  },
+  {
+    "id": 14,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "一昨日",
+    "question": "一昨日、駅で先生に会いました。",
+    "question_ruby": "<u>一昨日</u>、<ruby>駅<rt>えき</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いました。",
+    "choices": [
+      "おどとい",
+      "おととし",
+      "いちさくひ",
+      "おととい"
+    ],
+    "choices_ruby": [
+      "おどとい",
+      "おととし",
+      "いちさくひ",
+      "おととい"
+    ],
+    "answer": 3,
+    "correct_text": "おととい",
+    "meaning_en": "the day before yesterday",
+    "explanation": "「一昨日」は「おととい」。「おととし」は「一昨年」（二年前）です。",
+    "target_word_reading": "おととい",
+    "correct_text_reading": "おととい",
+    "correct_text_ruby": "おととい"
+  },
+  {
+    "id": 15,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "兄",
+    "question": "兄は大学で音楽を勉強しています。",
+    "question_ruby": "<u>兄</u>は<ruby>大学<rt>だいがく</rt></ruby>で<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+    "choices": [
+      "あね",
+      "あに",
+      "あん",
+      "おに"
+    ],
+    "choices_ruby": [
+      "あね",
+      "あに",
+      "あん",
+      "おに"
     ],
     "answer": 1,
-    "correct_text": "ズボン",
-    "meaning_en": "",
-    "explanation": "玄関で脱ぐのは靴（くつ）です。",
-    "target_word_reading": "ズボン",
-    "correct_text_reading": "ズボン",
-    "correct_text_ruby": "ズボン"
+    "correct_text": "あに",
+    "meaning_en": "(my) older brother",
+    "explanation": "「兄」は「あに」。「あね」は「姉」の読みです。",
+    "target_word_reading": "あに",
+    "correct_text_reading": "あに",
+    "correct_text_ruby": "あに"
+  },
+  {
+    "id": 16,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "弟",
+    "question": "弟は小学生で、毎日サッカーをします。",
+    "question_ruby": "<u>弟</u>は<ruby>小学生<rt>しょうがくせい</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby>サッカーをします。",
+    "choices": [
+      "いもうと",
+      "おとと",
+      "おとうと",
+      "おどうと"
+    ],
+    "choices_ruby": [
+      "いもうと",
+      "おとと",
+      "おとうと",
+      "おどうと"
+    ],
+    "answer": 2,
+    "correct_text": "おとうと",
+    "meaning_en": "younger brother",
+    "explanation": "「弟」は「おとうと」。「おと・う・と」と三つ目を長く伸ばします。",
+    "target_word_reading": "おとうと",
+    "correct_text_reading": "おとうと",
+    "correct_text_ruby": "おとうと"
+  },
+  {
+    "id": 17,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "両親",
+    "question": "両親は先月、京都へ旅行に行きました。",
+    "question_ruby": "<u>両親</u>は<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+    "choices": [
+      "りょうしん",
+      "りょうじん",
+      "りょしん",
+      "りゃくしん"
+    ],
+    "choices_ruby": [
+      "りょうしん",
+      "りょうじん",
+      "りょしん",
+      "りゃくしん"
+    ],
+    "answer": 0,
+    "correct_text": "りょうしん",
+    "meaning_en": "parents",
+    "explanation": "「両」は「りょう」と長く読みます。",
+    "target_word_reading": "りょうしん",
+    "correct_text_reading": "りょうしん",
+    "correct_text_ruby": "りょうしん"
+  },
+  {
+    "id": 18,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "家族",
+    "question": "私の家族は四人です。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<u>家族</u>は<ruby>四人<rt>よにん</rt></ruby>です。",
+    "choices": [
+      "かそく",
+      "がぞく",
+      "かぞう",
+      "かぞく"
+    ],
+    "choices_ruby": [
+      "かそく",
+      "がぞく",
+      "かぞう",
+      "かぞく"
+    ],
+    "answer": 3,
+    "correct_text": "かぞく",
+    "meaning_en": "family",
+    "explanation": "「族」は「ぞく」と濁ります。",
+    "target_word_reading": "かぞく",
+    "correct_text_reading": "かぞく",
+    "correct_text_ruby": "かぞく"
+  },
+  {
+    "id": 19,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "友達",
+    "question": "日曜日に友達と映画を見ます。",
+    "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>に<u>友達</u>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+    "choices": [
+      "ゆうだち",
+      "ともだち",
+      "ともたち",
+      "ともだつ"
+    ],
+    "choices_ruby": [
+      "ゆうだち",
+      "ともだち",
+      "ともたち",
+      "ともだつ"
+    ],
+    "answer": 1,
+    "correct_text": "ともだち",
+    "meaning_en": "friend",
+    "explanation": "「友達」は「ともだち」。「だち」と濁ります。",
+    "target_word_reading": "ともだち",
+    "correct_text_reading": "ともだち",
+    "correct_text_ruby": "ともだち"
+  },
+  {
+    "id": 20,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "子供",
+    "question": "公園で子供たちが遊んでいます。",
+    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>で<u>子供</u>たちが<ruby>遊<rt>あそ</rt></ruby>んでいます。",
+    "choices": [
+      "ごども",
+      "こうども",
+      "こども",
+      "こどう"
+    ],
+    "choices_ruby": [
+      "ごども",
+      "こうども",
+      "こども",
+      "こどう"
+    ],
+    "answer": 2,
+    "correct_text": "こども",
+    "meaning_en": "child; children",
+    "explanation": "「子供」は「こども」と短く読みます。",
+    "target_word_reading": "こども",
+    "correct_text_reading": "こども",
+    "correct_text_ruby": "こども"
+  },
+  {
+    "id": 21,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "男",
+    "question": "駅の前で男の人が地図を見ています。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<u>男</u>の<ruby>人<rt>ひと</rt></ruby>が<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>ています。",
+    "choices": [
+      "おとご",
+      "おどこ",
+      "おんな",
+      "おとこ"
+    ],
+    "choices_ruby": [
+      "おとご",
+      "おどこ",
+      "おんな",
+      "おとこ"
+    ],
+    "answer": 3,
+    "correct_text": "おとこ",
+    "meaning_en": "man; male",
+    "explanation": "「男」は「おとこ」。「おんな」は「女」の読みです。",
+    "target_word_reading": "おとこ",
+    "correct_text_reading": "おとこ",
+    "correct_text_ruby": "おとこ"
+  },
+  {
+    "id": 22,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "女",
+    "question": "あの女の人は私の先生です。",
+    "question_ruby": "あの<u>女</u>の<ruby>人<rt>ひと</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>です。",
+    "choices": [
+      "おんなん",
+      "おとこ",
+      "おんな",
+      "おなな"
+    ],
+    "choices_ruby": [
+      "おんなん",
+      "おとこ",
+      "おんな",
+      "おなな"
+    ],
+    "answer": 2,
+    "correct_text": "おんな",
+    "meaning_en": "woman; female",
+    "explanation": "「女」は「おんな」と読みます。「おとこ」は「男」です。",
+    "target_word_reading": "おんな",
+    "correct_text_reading": "おんな",
+    "correct_text_ruby": "おんな"
   },
   {
     "id": 23,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "類義語",
-    "target_word": "早く 起きます",
-    "question": "あしたは <u>休み</u>です。",
-    "question_ruby": "あしたは<u>休み</u>です。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "大人",
+    "question": "大人は五百円です。",
+    "question_ruby": "<u>大人</u>は<ruby>五百円<rt>ごひゃくえん</rt></ruby>です。",
     "choices": [
-      "学校や仕事が ありません",
-      "たくさん 勉強します",
-      "早く 起きます",
-      "旅行に 行きます"
+      "おとな",
+      "だいにん",
+      "おおひと",
+      "おおにん"
     ],
     "choices_ruby": [
-      "<ruby>学校<rt>がっこう</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>が ありません",
-      "たくさん <ruby>勉強<rt>べんきょう</rt></ruby>します",
-      "<ruby>早<rt>はや</rt></ruby>く <ruby>起<rt>お</rt></ruby>きます",
-      "<ruby>旅行<rt>りょこう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます"
+      "おとな",
+      "だいにん",
+      "おおひと",
+      "おおにん"
     ],
-    "answer": 2,
-    "correct_text": "早く 起きます",
-    "meaning_en": "",
-    "explanation": "「休み」＝仕事や学校がないこと。",
-    "target_word_reading": "早く 起きます",
-    "correct_text_reading": "早く 起きます",
-    "correct_text_ruby": "<ruby>早<rt>はや</rt></ruby>く <ruby>起<rt>お</rt></ruby>きます"
+    "answer": 0,
+    "correct_text": "おとな",
+    "meaning_en": "adult",
+    "explanation": "「大人」は特別な読み方で「おとな」と読みます。",
+    "target_word_reading": "おとな",
+    "correct_text_reading": "おとな",
+    "correct_text_ruby": "おとな"
   },
   {
     "id": 24,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "類義語",
-    "target_word": "みじかいです",
-    "question": "この 問題は <u>やさしい</u>です。",
-    "question_ruby": "この <ruby>問題<rt>もんだい</rt></ruby>は<u>やさしい</u>です。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "頭",
+    "question": "昨日から頭が痛いです。",
+    "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>から<u>頭</u>が<ruby>痛<rt>いた</rt></ruby>いです。",
     "choices": [
-      "かんたんです",
-      "ながいです",
-      "むずかしいです",
-      "みじかいです"
+      "あまた",
+      "あたま",
+      "あだま",
+      "あたの"
     ],
     "choices_ruby": [
-      "かんたんです",
-      "ながいです",
-      "むずかしいです",
-      "みじかいです"
+      "あまた",
+      "あたま",
+      "あだま",
+      "あたの"
     ],
-    "answer": 3,
-    "correct_text": "みじかいです",
-    "meaning_en": "",
-    "explanation": "「やさしい」＝易しい・簡単。",
-    "target_word_reading": "みじかいです",
-    "correct_text_reading": "みじかいです",
-    "correct_text_ruby": "みじかいです"
+    "answer": 1,
+    "correct_text": "あたま",
+    "meaning_en": "head",
+    "explanation": "「頭」は「あたま」と読みます。",
+    "target_word_reading": "あたま",
+    "correct_text_reading": "あたま",
+    "correct_text_ruby": "あたま"
   },
   {
     "id": 25,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "類義語",
-    "target_word": "夕方（日が暮れるころ）",
-    "question": "<u>ゆうがた</u>、雨が ふりました。",
-    "question_ruby": "<u>ゆうがた</u>、<ruby>雨<rt>あめ</rt></ruby>が ふりました。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "目",
+    "question": "この赤ちゃんは目が大きいです。",
+    "question_ruby": "この<ruby>赤<rt>あか</rt></ruby>ちゃんは<u>目</u>が<ruby>大<rt>おお</rt></ruby>きいです。",
     "choices": [
-      "夕方（日が暮れるころ）",
-      "朝早く",
-      "夜中",
-      "お昼ごろ"
+      "みみ",
+      "くち",
+      "ま",
+      "め"
     ],
     "choices_ruby": [
-      "<ruby>夕方<rt>ゆうがた</rt></ruby>（日が暮れるころ）",
-      "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く",
-      "<ruby>夜中<rt>よなか</rt></ruby>",
-      "お<ruby>昼<rt>ひる</rt></ruby>ごろ"
+      "みみ",
+      "くち",
+      "ま",
+      "め"
     ],
-    "answer": 0,
-    "correct_text": "夕方（日が暮れるころ）",
-    "meaning_en": "",
-    "explanation": "「ゆうがた（夕方）」＝日の暮れる時間帯。",
-    "target_word_reading": "夕方（日が暮れるころ）",
-    "correct_text_reading": "夕方（日が暮れるころ）",
-    "correct_text_ruby": "<ruby>夕方<rt>ゆうがた</rt></ruby>（日が暮れるころ）"
+    "answer": 3,
+    "correct_text": "め",
+    "meaning_en": "eye",
+    "explanation": "「目」は「め」。「みみ」は「耳」です。",
+    "target_word_reading": "め",
+    "correct_text_reading": "め",
+    "correct_text_ruby": "め"
   },
   {
     "id": 26,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "類義語",
-    "target_word": "夜 いつも",
-    "question": "<u>毎朝</u> ジョギングを します。",
-    "question_ruby": "<u>毎朝</u>ジョギングを します。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "耳",
+    "question": "耳が痛いので、病院へ行きます。",
+    "question_ruby": "<u>耳</u>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
     "choices": [
-      "ときどき 朝",
-      "夜 いつも",
-      "日曜日の朝",
-      "朝 いつも"
+      "みめ",
+      "みみ",
+      "びび",
+      "め"
     ],
     "choices_ruby": [
-      "ときどき <ruby>朝<rt>あさ</rt></ruby>",
-      "<ruby>夜<rt>よる</rt></ruby> いつも",
-      "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>",
-      "<ruby>朝<rt>あさ</rt></ruby> いつも"
+      "みめ",
+      "みみ",
+      "びび",
+      "め"
     ],
     "answer": 1,
-    "correct_text": "夜 いつも",
-    "meaning_en": "",
-    "explanation": "「毎朝」＝毎日、朝に。",
-    "target_word_reading": "夜 いつも",
-    "correct_text_reading": "夜 いつも",
-    "correct_text_ruby": "<ruby>夜<rt>よる</rt></ruby> いつも"
+    "correct_text": "みみ",
+    "meaning_en": "ear",
+    "explanation": "「耳」は「みみ」と読みます。",
+    "target_word_reading": "みみ",
+    "correct_text_reading": "みみ",
+    "correct_text_ruby": "みみ"
   },
   {
     "id": 27,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙の使い方",
-    "target_word": "この 映画は いつも 面白くなかったです。",
-    "question": "使い方として 最もよいものを 1つ 選んでください：【いつも】",
-    "question_ruby": "<ruby>使い方<rt>つかいかた</rt></ruby>として <ruby>最<rt>もっと</rt></ruby>もよいものを 1つ <ruby>選<rt>えら</rt></ruby>んでください：【いつも】",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "歯",
+    "question": "朝ごはんの後で、歯を磨きます。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ごはんの<ruby>後<rt>あと</rt></ruby>で、<u>歯</u>を<ruby>磨<rt>みが</rt></ruby>きます。",
     "choices": [
-      "わたしは 朝 いつも コーヒーを 飲みます。",
-      "いつも 昨日 雨が ふりました。",
-      "この 映画は いつも 面白くなかったです。",
-      "いつも あした 会いましょう。"
+      "ほ",
+      "ば",
+      "は",
+      "め"
     ],
     "choices_ruby": [
-      "わたしは <ruby>朝<rt>あさ</rt></ruby> いつも コーヒーを <ruby>飲<rt>の</rt></ruby>みます。",
-      "いつも <ruby>昨日<rt>きのう</rt></ruby> <ruby>雨<rt>あめ</rt></ruby>が ふりました。",
-      "この <ruby>映画<rt>えいが</rt></ruby>は いつも <ruby>面白<rt>おもしろ</rt></ruby>くなかったです。",
-      "いつも あした <ruby>会<rt>あ</rt></ruby>いましょう。"
+      "ほ",
+      "ば",
+      "は",
+      "め"
     ],
     "answer": 2,
-    "correct_text": "この 映画は いつも 面白くなかったです。",
-    "meaning_en": "",
-    "explanation": "「いつも（always）」は日常的な習慣や不変の事態を表します。",
-    "target_word_reading": "この 映画は いつも 面白くなかったです。",
-    "correct_text_reading": "この 映画は いつも 面白くなかったです。",
-    "correct_text_ruby": "この <ruby>映画<rt>えいが</rt></ruby>は いつも <ruby>面白<rt>おもしろ</rt></ruby>くなかったです。"
+    "correct_text": "は",
+    "meaning_en": "tooth",
+    "explanation": "「歯」は「は」と読みます。",
+    "target_word_reading": "は",
+    "correct_text_reading": "は",
+    "correct_text_ruby": "は"
   },
   {
     "id": 28,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙の使い方",
-    "target_word": "少し 昨日 行きました。",
-    "question": "使い方として 最もよいものを 1つ 選んでください：【少し】",
-    "question_ruby": "<ruby>使い方<rt>つかいかた</rt></ruby>として <ruby>最<rt>もっと</rt></ruby>もよいものを 1つ <ruby>選<rt>えら</rt></ruby>んでください：【少し】",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "先生",
+    "question": "あの先生は英語がとても上手です。",
+    "question_ruby": "あの<u>先生</u>は<ruby>英語<rt>えいご</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>です。",
     "choices": [
-      "少し 学生です。",
-      "この 本は 少し 本です。",
-      "日本語が 少し 話せます。",
-      "少し 昨日 行きました。"
+      "せんせい",
+      "ぜんせい",
+      "せんしえ",
+      "せんせえ"
     ],
     "choices_ruby": [
-      "<ruby>少<rt>すこ</rt></ruby>し <ruby>学生<rt>がくせい</rt></ruby>です。",
-      "この <ruby>本<rt>ほん</rt></ruby>は <ruby>少<rt>すこ</rt></ruby>し <ruby>本<rt>ほん</rt></ruby>です。",
-      "<ruby>日本語<rt>にほんご</rt></ruby>が <ruby>少<rt>すこ</rt></ruby>し <ruby>話<rt>はな</rt></ruby>せます。",
-      "<ruby>少<rt>すこ</rt></ruby>し <ruby>昨日<rt>きのう</rt></ruby> <ruby>行<rt>い</rt></ruby>きました。"
+      "せんせい",
+      "ぜんせい",
+      "せんしえ",
+      "せんせえ"
     ],
-    "answer": 3,
-    "correct_text": "少し 昨日 行きました。",
-    "meaning_en": "",
-    "explanation": "「少し（a little）」は分量・程度を表します。",
-    "target_word_reading": "少し 昨日 行きました。",
-    "correct_text_reading": "少し 昨日 行きました。",
-    "correct_text_ruby": "<ruby>少<rt>すこ</rt></ruby>し <ruby>昨日<rt>きのう</rt></ruby> <ruby>行<rt>い</rt></ruby>きました。"
+    "answer": 0,
+    "correct_text": "せんせい",
+    "meaning_en": "teacher",
+    "explanation": "「先生」は「せんせい」。「せい」は「せ」＋「い」と読みます。",
+    "target_word_reading": "せんせい",
+    "correct_text_reading": "せんせい",
+    "correct_text_ruby": "せんせい"
   },
   {
     "id": 29,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙の使い方",
-    "target_word": "もうすぐ 春休みに なります。",
-    "question": "使い方として 最もよいものを 1つ 選んでください：【もうすぐ】",
-    "question_ruby": "<ruby>使い方<rt>つかいかた</rt></ruby>として <ruby>最<rt>もっと</rt></ruby>もよいものを 1つ <ruby>選<rt>えら</rt></ruby>んでください：【もうすぐ】",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "教室",
+    "question": "この教室は広くて明るいです。",
+    "question_ruby": "この<u>教室</u>は<ruby>広<rt>ひろ</rt></ruby>くて<ruby>明<rt>あか</rt></ruby>るいです。",
     "choices": [
-      "もうすぐ 春休みに なります。",
-      "この 部屋は もうすぐ 広いです。",
-      "もうすぐ 昔の 話です。",
-      "もうすぐ 昨日 来ました。"
+      "きょうしつ",
+      "きょしつ",
+      "こうしつ",
+      "きょうしち"
     ],
     "choices_ruby": [
-      "もうすぐ <ruby>春休<rt>はるやす</rt></ruby>みに なります。",
-      "この <ruby>部屋<rt>へや</rt></ruby>は もうすぐ <ruby>広<rt>ひろ</rt></ruby>いです。",
-      "もうすぐ <ruby>昔<rt>むかし</rt></ruby>の <ruby>話<rt>はなし</rt></ruby>です。",
-      "もうすぐ <ruby>昨日<rt>きのう</rt></ruby> <ruby>来<rt>き</rt></ruby>ました。"
+      "きょうしつ",
+      "きょしつ",
+      "こうしつ",
+      "きょうしち"
     ],
     "answer": 0,
-    "correct_text": "もうすぐ 春休みに なります。",
-    "meaning_en": "",
-    "explanation": "「もうすぐ（soon）」は近い未来に事態が起こることを表します。",
-    "target_word_reading": "もうすぐ 春休みに なります。",
-    "correct_text_reading": "もうすぐ 春休みに なります。",
-    "correct_text_ruby": "もうすぐ <ruby>春休<rt>はるやす</rt></ruby>みに なります。"
+    "correct_text": "きょうしつ",
+    "meaning_en": "classroom",
+    "explanation": "「教」は「きょう」と長く読みます。",
+    "target_word_reading": "きょうしつ",
+    "correct_text_reading": "きょうしつ",
+    "correct_text_ruby": "きょうしつ"
   },
   {
     "id": 30,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙の使い方",
-    "target_word": "いっしょに 雨が ふります。",
-    "question": "使い方として 最もよいものを 1つ 選んでください：【いっしょに】",
-    "question_ruby": "<ruby>使い方<rt>つかいかた</rt></ruby>として <ruby>最<rt>もっと</rt></ruby>もよいものを 1つ <ruby>選<rt>えら</rt></ruby>んでください：【いっしょに】",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "勉強",
+    "question": "勉強が終わったら、テレビを見てもいいです。",
+    "question_ruby": "<u>勉強</u>が<ruby>終<rt>お</rt></ruby>わったら、テレビを<ruby>見<rt>み</rt></ruby>てもいいです。",
     "choices": [
-      "いっしょに お昼ごはんを 食べませんか。",
-      "いっしょに 雨が ふります。",
-      "この ペンは いっしょに 高いです。",
-      "いっしょに 昨日の夜 寝ました。"
+      "へんきょう",
+      "べんぎょう",
+      "べんきょ",
+      "べんきょう"
     ],
     "choices_ruby": [
-      "いっしょに お<ruby>昼<rt>ひる</rt></ruby>ごはんを <ruby>食<rt>た</rt></ruby>べませんか。",
-      "いっしょに <ruby>雨<rt>あめ</rt></ruby>が ふります。",
-      "この ペンは いっしょに <ruby>高<rt>たか</rt></ruby>いです。",
-      "いっしょに <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>寝<rt>ね</rt></ruby>ました。"
+      "へんきょう",
+      "べんぎょう",
+      "べんきょ",
+      "べんきょう"
     ],
-    "answer": 1,
-    "correct_text": "いっしょに 雨が ふります。",
-    "meaning_en": "",
-    "explanation": "「いっしょに（together）」は他の人と共に行動する際に用います。",
-    "target_word_reading": "いっしょに 雨が ふります。",
-    "correct_text_reading": "いっしょに 雨が ふります。",
-    "correct_text_ruby": "いっしょに <ruby>雨<rt>あめ</rt></ruby>が ふります。"
+    "answer": 3,
+    "correct_text": "べんきょう",
+    "meaning_en": "study",
+    "explanation": "「勉強」は「べんきょう」。「強」は「きょう」と長く読みます。",
+    "target_word_reading": "べんきょう",
+    "correct_text_reading": "べんきょう",
+    "correct_text_ruby": "べんきょう"
   },
   {
     "id": 31,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "おととえ",
-    "question": "<u>一昨日</u>風が吹いた。",
-    "question_ruby": "<u>一昨日</u><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いた。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "宿題",
+    "question": "明日までに宿題を出してください。",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>までに<u>宿題</u>を<ruby>出<rt>だ</rt></ruby>してください。",
     "choices": [
-      "おとどい",
-      "おととい",
-      "おととえ",
-      "おとと"
+      "しゅうだい",
+      "しゅくだい",
+      "しゅくたい",
+      "すくだい"
     ],
     "choices_ruby": [
-      "おとどい",
-      "おととい",
-      "おととえ",
-      "おとと"
+      "しゅうだい",
+      "しゅくだい",
+      "しゅくたい",
+      "すくだい"
     ],
-    "answer": 2,
-    "correct_text": "おととえ",
-    "meaning_en": "",
-    "explanation": "「一昨日」の正しい読み方は【おととい】です。（意味：）",
-    "target_word_reading": "おととえ",
-    "correct_text_reading": "おととえ",
-    "correct_text_ruby": "おととえ"
+    "answer": 1,
+    "correct_text": "しゅくだい",
+    "meaning_en": "homework",
+    "explanation": "「題」は「だい」と濁ります。「しゅく」は短く読みます。",
+    "target_word_reading": "しゅくだい",
+    "correct_text_reading": "しゅくだい",
+    "correct_text_ruby": "しゅくだい"
   },
   {
     "id": 32,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "五",
-    "question": "<u>に</u>日酔いだ。",
-    "question_ruby": "<u>に</u><ruby>日<rt>にち</rt></ruby><ruby>酔<rt>よ</rt></ruby>いだ。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "質問",
+    "question": "先生に質問してもいいですか。",
+    "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>に<u>質問</u>してもいいですか。",
     "choices": [
-      "二",
-      "方",
-      "誰",
-      "五"
+      "しっもん",
+      "ひつもん",
+      "しつもん",
+      "しちもん"
     ],
     "choices_ruby": [
-      "二",
-      "方",
-      "誰",
-      "五"
+      "しっもん",
+      "ひつもん",
+      "しつもん",
+      "しちもん"
     ],
-    "answer": 3,
-    "correct_text": "五",
-    "meaning_en": "",
-    "explanation": "ひらがな「に」に該当する正しい漢字は【二】です。",
-    "target_word_reading": "五",
-    "correct_text_reading": "五",
-    "correct_text_ruby": "五"
+    "answer": 2,
+    "correct_text": "しつもん",
+    "meaning_en": "question (to ask)",
+    "explanation": "「質」は「しつ」と読みます。",
+    "target_word_reading": "しつもん",
+    "correct_text_reading": "しつもん",
+    "correct_text_ruby": "しつもん"
   },
   {
     "id": 33,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "切符",
-    "question": "（　　）代、ある（　　　）",
-    "question_ruby": "（　　）<ruby>代<rt>だい</rt></ruby>、ある（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "問題",
+    "question": "テストの問題は全部で十問です。",
+    "question_ruby": "テストの<u>問題</u>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>十<rt>じゅう</rt></ruby><ruby>問<rt>もん</rt></ruby>です。",
     "choices": [
-      "切符",
-      "磨く",
-      "帽子",
-      "大きい"
+      "ぶんだい",
+      "もんだい",
+      "もんだ",
+      "もんたい"
     ],
     "choices_ruby": [
-      "<ruby>切符<rt>きっぷ</rt></ruby>",
-      "<ruby>磨<rt>みが</rt></ruby>く",
-      "<ruby>帽子<rt>ぼうし</rt></ruby>",
-      "<ruby>大<rt>おお</rt></ruby>きい"
+      "ぶんだい",
+      "もんだい",
+      "もんだ",
+      "もんたい"
     ],
-    "answer": 0,
-    "correct_text": "切符",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【切符】（きっぷ：）です。",
-    "target_word_reading": "切符",
-    "correct_text_reading": "切符",
-    "correct_text_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>"
+    "answer": 1,
+    "correct_text": "もんだい",
+    "meaning_en": "problem; question",
+    "explanation": "「題」は「だい」と濁ります。",
+    "target_word_reading": "もんだい",
+    "correct_text_reading": "もんだい",
+    "correct_text_ruby": "もんだい"
   },
   {
     "id": 34,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぼしい",
-    "question": "水が<u>欲しい</u>。",
-    "question_ruby": "<ruby>水<rt>みず</rt></ruby>が<u>欲しい</u>。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "漢字",
+    "question": "この漢字の意味を教えてください。",
+    "question_ruby": "この<u>漢字</u>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
     "choices": [
-      "ほしえ",
-      "ぼしい",
-      "ほし",
-      "ほしい"
+      "かんし",
+      "かんず",
+      "がんじ",
+      "かんじ"
     ],
     "choices_ruby": [
-      "ほしえ",
-      "ぼしい",
-      "ほし",
-      "ほしい"
+      "かんし",
+      "かんず",
+      "がんじ",
+      "かんじ"
     ],
-    "answer": 1,
-    "correct_text": "ぼしい",
-    "meaning_en": "",
-    "explanation": "「欲しい」の正しい読み方は【ほしい】です。（意味：）",
-    "target_word_reading": "ぼしい",
-    "correct_text_reading": "ぼしい",
-    "correct_text_ruby": "ぼしい"
+    "answer": 3,
+    "correct_text": "かんじ",
+    "meaning_en": "Chinese character; kanji",
+    "explanation": "「漢字」は「かんじ」。「字」は「じ」と濁ります。",
+    "target_word_reading": "かんじ",
+    "correct_text_reading": "かんじ",
+    "correct_text_ruby": "かんじ"
   },
   {
     "id": 35,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "磨く",
-    "question": "<u>しゃしん</u>見せて。",
-    "question_ruby": "<u>しゃしん</u><ruby>見<rt>み</rt></ruby>せて。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "英語",
+    "question": "私は毎日、英語の本を読みます。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>、<u>英語</u>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
     "choices": [
-      "休む",
-      "写真",
-      "磨く",
-      "寝る"
+      "えいか",
+      "えいこ",
+      "えいご",
+      "えんご"
     ],
     "choices_ruby": [
-      "休む",
-      "写真",
-      "磨く",
-      "寝る"
+      "えいか",
+      "えいこ",
+      "えいご",
+      "えんご"
     ],
     "answer": 2,
-    "correct_text": "磨く",
-    "meaning_en": "",
-    "explanation": "ひらがな「しゃしん」に該当する正しい漢字は【写真】です。",
-    "target_word_reading": "磨く",
-    "correct_text_reading": "磨く",
-    "correct_text_ruby": "磨く"
+    "correct_text": "えいご",
+    "meaning_en": "English (language)",
+    "explanation": "「語」は「ご」と濁ります。",
+    "target_word_reading": "えいご",
+    "correct_text_reading": "えいご",
+    "correct_text_ruby": "えいご"
   },
   {
     "id": 36,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "明日",
-    "question": "（　　）の名前は（　　　）",
-    "question_ruby": "（　　）の<ruby>名前<rt>なまえ</rt></ruby>は（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "図書館",
+    "question": "学校の図書館で本を借ります。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>の<u>図書館</u>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。",
     "choices": [
-      "昨夜",
-      "食べ物",
-      "弟",
-      "明日"
+      "としょかん",
+      "ずしょかん",
+      "とそかん",
+      "としょうかん"
     ],
     "choices_ruby": [
-      "<ruby>昨夜<rt>さくや</rt></ruby>",
-      "<ruby>食べ物<rt>たべもの</rt></ruby>",
-      "<ruby>弟<rt>おとうと</rt></ruby>",
-      "<ruby>明日<rt>あした</rt></ruby>"
+      "としょかん",
+      "ずしょかん",
+      "とそかん",
+      "としょうかん"
     ],
-    "answer": 3,
-    "correct_text": "明日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【弟】（おとうと：）です。",
-    "target_word_reading": "明日",
-    "correct_text_reading": "明日",
-    "correct_text_ruby": "<ruby>明日<rt>あした</rt></ruby>"
+    "answer": 0,
+    "correct_text": "としょかん",
+    "meaning_en": "library",
+    "explanation": "「図」は「と」、「書」は「しょ」と読みます。",
+    "target_word_reading": "としょかん",
+    "correct_text_reading": "としょかん",
+    "correct_text_ruby": "としょかん"
   },
   {
     "id": 37,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "うたう",
-    "question": "私は今<u>歌う</u>。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby><u>歌う</u>。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "辞書",
+    "question": "この辞書は小さくて軽いです。",
+    "question_ruby": "この<u>辞書</u>は<ruby>小<rt>ちい</rt></ruby>さくて<ruby>軽<rt>かる</rt></ruby>いです。",
     "choices": [
-      "うたう",
-      "うだう",
-      "おたう",
-      "たう"
+      "じそ",
+      "しじょ",
+      "じしょ",
+      "じしょう"
     ],
     "choices_ruby": [
-      "うたう",
-      "うだう",
-      "おたう",
-      "たう"
+      "じそ",
+      "しじょ",
+      "じしょ",
+      "じしょう"
     ],
-    "answer": 0,
-    "correct_text": "うたう",
-    "meaning_en": "",
-    "explanation": "「歌う」の正しい読み方は【うたう】です。（意味：）",
-    "target_word_reading": "うたう",
-    "correct_text_reading": "うたう",
-    "correct_text_ruby": "うたう"
+    "answer": 2,
+    "correct_text": "じしょ",
+    "meaning_en": "dictionary",
+    "explanation": "「辞書」は「じしょ」。「しょ」は短く読みます。",
+    "target_word_reading": "じしょ",
+    "correct_text_reading": "じしょ",
+    "correct_text_ruby": "じしょ"
   },
   {
     "id": 38,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "明日",
-    "question": "<u>がっこう</u>はどう（　　　）",
-    "question_ruby": "<u>がっこう</u>はどう（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "鉛筆",
+    "question": "鉛筆で名前を書いてください。",
+    "question_ruby": "<u>鉛筆</u>で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。",
     "choices": [
-      "昨夜",
-      "明日",
-      "学校",
-      "帽子"
+      "えいひつ",
+      "えんぴつ",
+      "えんひつ",
+      "えんびつ"
     ],
     "choices_ruby": [
-      "昨夜",
-      "明日",
-      "学校",
-      "帽子"
+      "えいひつ",
+      "えんぴつ",
+      "えんひつ",
+      "えんびつ"
     ],
     "answer": 1,
-    "correct_text": "明日",
-    "meaning_en": "",
-    "explanation": "ひらがな「がっこう」に該当する正しい漢字は【学校】です。",
-    "target_word_reading": "明日",
-    "correct_text_reading": "明日",
-    "correct_text_ruby": "明日"
+    "correct_text": "えんぴつ",
+    "meaning_en": "pencil",
+    "explanation": "「筆」は「ひつ」ですが、「鉛筆」では「ぴつ」と半濁音になります。",
+    "target_word_reading": "えんぴつ",
+    "correct_text_reading": "えんぴつ",
+    "correct_text_ruby": "えんぴつ"
   },
   {
     "id": 39,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "長い",
-    "question": "仕事の途中で（　　）。",
-    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>で（　　）。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "留学生",
+    "question": "クラスに留学生が五人います。",
+    "question_ruby": "クラスに<u>留学生</u>が<ruby>五人<rt>ごにん</rt></ruby>います。",
     "choices": [
-      "疲れる",
-      "開ける",
-      "長い",
-      "休む"
+      "りゅうがくせい",
+      "りゅがくせい",
+      "るがくせい",
+      "りゅうかくせい"
     ],
     "choices_ruby": [
-      "<ruby>疲<rt>つか</rt></ruby>れる",
-      "<ruby>開<rt>あ</rt></ruby>ける",
-      "<ruby>長<rt>なが</rt></ruby>い",
-      "<ruby>休<rt>やす</rt></ruby>む"
+      "りゅうがくせい",
+      "りゅがくせい",
+      "るがくせい",
+      "りゅうかくせい"
     ],
-    "answer": 2,
-    "correct_text": "長い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【休む】（やすむ：）です。",
-    "target_word_reading": "長い",
-    "correct_text_reading": "長い",
-    "correct_text_ruby": "<ruby>長<rt>なが</rt></ruby>い"
+    "answer": 0,
+    "correct_text": "りゅうがくせい",
+    "meaning_en": "international student",
+    "explanation": "「留」は「りゅう」と長く読みます。",
+    "target_word_reading": "りゅうがくせい",
+    "correct_text_reading": "りゅうがくせい",
+    "correct_text_ruby": "りゅうがくせい"
   },
   {
     "id": 40,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "おおきえ",
-    "question": "彼は声が<u>大きい</u>。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>声<rt>こえ</rt></ruby>が<u>大きい</u>。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "練習",
+    "question": "日本語の練習を毎日続けています。",
+    "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>の<u>練習</u>を<ruby>毎日<rt>まいにち</rt></ruby><ruby>続<rt>つづ</rt></ruby>けています。",
     "choices": [
-      "おおきい",
-      "おおき",
-      "おおぎい",
-      "おおきえ"
+      "れんしう",
+      "れんじゅう",
+      "れんしゅ",
+      "れんしゅう"
     ],
     "choices_ruby": [
-      "おおきい",
-      "おおき",
-      "おおぎい",
-      "おおきえ"
+      "れんしう",
+      "れんじゅう",
+      "れんしゅ",
+      "れんしゅう"
     ],
     "answer": 3,
-    "correct_text": "おおきえ",
-    "meaning_en": "",
-    "explanation": "「大きい」の正しい読み方は【おおきい】です。（意味：）",
-    "target_word_reading": "おおきえ",
-    "correct_text_reading": "おおきえ",
-    "correct_text_ruby": "おおきえ"
+    "correct_text": "れんしゅう",
+    "meaning_en": "practice",
+    "explanation": "「習」は「しゅう」と長く読みます。",
+    "target_word_reading": "れんしゅう",
+    "correct_text_reading": "れんしゅう",
+    "correct_text_ruby": "れんしゅう"
   },
   {
     "id": 41,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "帽子",
-    "question": "<u>ぼうし</u>、返して。",
-    "question_ruby": "<u>ぼうし</u>、<ruby>返<rt>かえ</rt></ruby>して。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "駅",
+    "question": "駅の前に大きい本屋があります。",
+    "question_ruby": "<u>駅</u>の<ruby>前<rt>まえ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きい<ruby>本屋<rt>ほんや</rt></ruby>があります。",
     "choices": [
-      "帽子",
-      "着る",
-      "消す",
-      "長い"
+      "えき",
+      "えいき",
+      "いき",
+      "えぎ"
     ],
     "choices_ruby": [
-      "帽子",
-      "着る",
-      "消す",
-      "長い"
+      "えき",
+      "えいき",
+      "いき",
+      "えぎ"
     ],
     "answer": 0,
-    "correct_text": "帽子",
-    "meaning_en": "",
-    "explanation": "ひらがな「ぼうし」に該当する正しい漢字は【帽子】です。",
-    "target_word_reading": "帽子",
-    "correct_text_reading": "帽子",
-    "correct_text_ruby": "帽子"
+    "correct_text": "えき",
+    "meaning_en": "station",
+    "explanation": "「駅」は「えき」と読みます。",
+    "target_word_reading": "えき",
+    "correct_text_reading": "えき",
+    "correct_text_ruby": "えき"
   },
   {
     "id": 42,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "曇る",
-    "question": "（　　）に乗って。",
-    "question_ruby": "（　　）に<ruby>乗<rt>の</rt></ruby>って。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "銀行",
+    "question": "銀行は九時から三時まで開いています。",
+    "question_ruby": "<u>銀行</u>は<ruby>九時<rt>くじ</rt></ruby>から<ruby>三時<rt>さんじ</rt></ruby>まで<ruby>開<rt>あ</rt></ruby>いています。",
     "choices": [
-      "結構",
-      "曇る",
-      "車",
-      "今週"
+      "ぎんごう",
+      "ぎんぎょう",
+      "ぎんこう",
+      "きんこう"
     ],
     "choices_ruby": [
-      "<ruby>結構<rt>けっこう</rt></ruby>",
-      "<ruby>曇<rt>くも</rt></ruby>る",
-      "<ruby>車<rt>くるま</rt></ruby>",
-      "<ruby>今週<rt>こんしゅう</rt></ruby>"
+      "ぎんごう",
+      "ぎんぎょう",
+      "ぎんこう",
+      "きんこう"
     ],
-    "answer": 1,
-    "correct_text": "曇る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【車】（くるま：）です。",
-    "target_word_reading": "曇る",
-    "correct_text_reading": "曇る",
-    "correct_text_ruby": "<ruby>曇<rt>くも</rt></ruby>る"
+    "answer": 2,
+    "correct_text": "ぎんこう",
+    "meaning_en": "bank",
+    "explanation": "「銀」は「ぎん」。「行」は「こう」と読みます（「ぎょう」ではありません）。",
+    "target_word_reading": "ぎんこう",
+    "correct_text_reading": "ぎんこう",
+    "correct_text_ruby": "ぎんこう"
   },
   {
     "id": 43,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あじた",
-    "question": "<u>明日</u>来れる（　　　）",
-    "question_ruby": "<u>明日</u><ruby>来<rt>こ</rt></ruby>れる（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "郵便局",
+    "question": "郵便局で切手を買いました。",
+    "question_ruby": "<u>郵便局</u>で<ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "choices": [
-      "あした",
-      "あしだ",
-      "あじた",
-      "おした"
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうべんきょく",
+      "ゆうびんぎょく"
     ],
     "choices_ruby": [
-      "あした",
-      "あしだ",
-      "あじた",
-      "おした"
+      "ゆびんきょく",
+      "ゆうびんきょく",
+      "ゆうべんきょく",
+      "ゆうびんぎょく"
     ],
-    "answer": 2,
-    "correct_text": "あじた",
-    "meaning_en": "",
-    "explanation": "「明日」の正しい読み方は【あした】です。（意味：）",
-    "target_word_reading": "あじた",
-    "correct_text_reading": "あじた",
-    "correct_text_ruby": "あじた"
+    "answer": 1,
+    "correct_text": "ゆうびんきょく",
+    "meaning_en": "post office",
+    "explanation": "「郵便局」は「ゆうびんきょく」。「局」は「きょく」です。",
+    "target_word_reading": "ゆうびんきょく",
+    "correct_text_reading": "ゆうびんきょく",
+    "correct_text_ruby": "ゆうびんきょく"
   },
   {
     "id": 44,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "消す",
-    "question": "<u>ゆうべ</u>はごめん。",
-    "question_ruby": "<u>ゆうべ</u>はごめん。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "公園",
+    "question": "日曜日は公園を散歩します。",
+    "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>は<u>公園</u>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
     "choices": [
-      "昨夜",
-      "結構",
-      "長い",
-      "消す"
+      "こえん",
+      "ごうえん",
+      "こうせん",
+      "こうえん"
     ],
     "choices_ruby": [
-      "昨夜",
-      "結構",
-      "長い",
-      "消す"
+      "こえん",
+      "ごうえん",
+      "こうせん",
+      "こうえん"
     ],
     "answer": 3,
-    "correct_text": "消す",
-    "meaning_en": "",
-    "explanation": "ひらがな「ゆうべ」に該当する正しい漢字は【昨夜】です。",
-    "target_word_reading": "消す",
-    "correct_text_reading": "消す",
-    "correct_text_ruby": "消す"
+    "correct_text": "こうえん",
+    "meaning_en": "park",
+    "explanation": "「公」は「こう」と長く読みます。",
+    "target_word_reading": "こうえん",
+    "correct_text_reading": "こうえん",
+    "correct_text_ruby": "こうえん"
   },
   {
     "id": 45,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "食べ物",
-    "question": "好きな（　　）は（　　　）",
-    "question_ruby": "<ruby>好<rt>す</rt></ruby>きな（　　）は（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "病院",
+    "question": "病院の隣に薬屋があります。",
+    "question_ruby": "<u>病院</u>の<ruby>隣<rt>となり</rt></ruby>に<ruby>薬屋<rt>くすりや</rt></ruby>があります。",
     "choices": [
-      "食べ物",
-      "授業",
-      "聞く",
-      "練習"
+      "びょういん",
+      "びょいん",
+      "びょうえん",
+      "ひょういん"
     ],
     "choices_ruby": [
-      "<ruby>食べ物<rt>たべもの</rt></ruby>",
-      "<ruby>授業<rt>じゅぎょう</rt></ruby>",
-      "<ruby>聞<rt>き</rt></ruby>く",
-      "<ruby>練習<rt>れんしゅう</rt></ruby>"
+      "びょういん",
+      "びょいん",
+      "びょうえん",
+      "ひょういん"
     ],
     "answer": 0,
-    "correct_text": "食べ物",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【食べ物】（たべもの：）です。",
-    "target_word_reading": "食べ物",
-    "correct_text_reading": "食べ物",
-    "correct_text_ruby": "<ruby>食べ物<rt>たべもの</rt></ruby>"
+    "correct_text": "びょういん",
+    "meaning_en": "hospital",
+    "explanation": "「病」は「びょう」と濁ります。",
+    "target_word_reading": "びょういん",
+    "correct_text_reading": "びょういん",
+    "correct_text_ruby": "びょういん"
   },
   {
     "id": 46,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "じょうぷ",
-    "question": "大<u>丈夫</u>そう（　　　）",
-    "question_ruby": "<ruby>大<rt>だい</rt></ruby><u>丈夫</u>そう（　　　）",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "喫茶店",
+    "question": "喫茶店でコーヒーを飲みました。",
+    "question_ruby": "<u>喫茶店</u>でコーヒーを<ruby>飲<rt>の</rt></ruby>みました。",
     "choices": [
-      "しょうぶ",
-      "じょうぷ",
-      "じょぶ",
-      "じょうぶ"
+      "きっちゃてん",
+      "きっさてん",
+      "きさてん",
+      "きっさだん"
     ],
     "choices_ruby": [
-      "しょうぶ",
-      "じょうぷ",
-      "じょぶ",
-      "じょうぶ"
+      "きっちゃてん",
+      "きっさてん",
+      "きさてん",
+      "きっさだん"
     ],
     "answer": 1,
-    "correct_text": "じょうぷ",
-    "meaning_en": "",
-    "explanation": "「丈夫」の正しい読み方は【じょうぶ】です。（意味：）",
-    "target_word_reading": "じょうぷ",
-    "correct_text_reading": "じょうぷ",
-    "correct_text_ruby": "じょうぷ"
+    "correct_text": "きっさてん",
+    "meaning_en": "coffee shop; café",
+    "explanation": "「喫茶」は「きっさ」と小さい「っ」が入ります。",
+    "target_word_reading": "きっさてん",
+    "correct_text_reading": "きっさてん",
+    "correct_text_ruby": "きっさてん"
   },
   {
     "id": 47,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "曇る",
-    "question": "恩に<u>きる</u>よ。",
-    "question_ruby": "<ruby>恩<rt>おん</rt></ruby>に<u>きる</u>よ。",
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "映画館",
+    "question": "映画館は駅の近くにあります。",
+    "question_ruby": "<u>映画館</u>は<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。",
     "choices": [
-      "着る",
-      "消す",
-      "曇る",
-      "結構"
-    ],
-    "choices_ruby": [
-      "着る",
-      "消す",
-      "曇る",
-      "結構"
-    ],
-    "answer": 2,
-    "correct_text": "曇る",
-    "meaning_en": "",
-    "explanation": "ひらがな「きる」に該当する正しい漢字は【着る】です。",
-    "target_word_reading": "曇る",
-    "correct_text_reading": "曇る",
-    "correct_text_ruby": "曇る"
-  },
-  {
-    "id": 48,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "並べる",
-    "question": "窓を（　　）な。",
-    "question_ruby": "<ruby>窓<rt>まど</rt></ruby>を（　　）な。",
-    "choices": [
-      "開ける",
-      "毎週",
-      "締める",
-      "並べる"
-    ],
-    "choices_ruby": [
-      "<ruby>開<rt>あ</rt></ruby>ける",
-      "<ruby>毎週<rt>まいしゅう</rt></ruby>",
-      "<ruby>締<rt>し</rt></ruby>める",
-      "<ruby>並<rt>なら</rt></ruby>べる"
-    ],
-    "answer": 3,
-    "correct_text": "並べる",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【開ける】（あける：）です。",
-    "target_word_reading": "並べる",
-    "correct_text_reading": "並べる",
-    "correct_text_ruby": "<ruby>並<rt>なら</rt></ruby>べる"
-  },
-  {
-    "id": 49,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ながい",
-    "question": "人生は<u>長い</u>。",
-    "question_ruby": "<ruby>人生<rt>じんせい</rt></ruby>は<u>長い</u>。",
-    "choices": [
-      "ながい",
-      "なかい",
-      "ながえ",
-      "なが"
-    ],
-    "choices_ruby": [
-      "ながい",
-      "なかい",
-      "ながえ",
-      "なが"
-    ],
-    "answer": 0,
-    "correct_text": "ながい",
-    "meaning_en": "",
-    "explanation": "「長い」の正しい読み方は【ながい】です。（意味：）",
-    "target_word_reading": "ながい",
-    "correct_text_reading": "ながい",
-    "correct_text_ruby": "ながい"
-  },
-  {
-    "id": 50,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "古い",
-    "question": "電気を<u>けす</u>な。",
-    "question_ruby": "<ruby>電気<rt>でんき</rt></ruby>を<u>けす</u>な。",
-    "choices": [
-      "聞く",
-      "古い",
-      "消す",
-      "毎週"
-    ],
-    "choices_ruby": [
-      "聞く",
-      "古い",
-      "消す",
-      "毎週"
-    ],
-    "answer": 1,
-    "correct_text": "古い",
-    "meaning_en": "",
-    "explanation": "ひらがな「けす」に該当する正しい漢字は【消す】です。",
-    "target_word_reading": "古い",
-    "correct_text_reading": "古い",
-    "correct_text_ruby": "古い"
-  },
-  {
-    "id": 51,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "今年",
-    "question": "（　　）面白い。",
-    "question_ruby": "（　　）<ruby>面白<rt>おもしろ</rt></ruby>い。",
-    "choices": [
-      "結構",
-      "厚い",
-      "今年",
-      "古い"
-    ],
-    "choices_ruby": [
-      "<ruby>結構<rt>けっこう</rt></ruby>",
-      "<ruby>厚<rt>あつ</rt></ruby>い",
-      "<ruby>今年<rt>ことし</rt></ruby>",
-      "<ruby>古<rt>ふる</rt></ruby>い"
-    ],
-    "answer": 2,
-    "correct_text": "今年",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【結構】（けっこう：）です。",
-    "target_word_reading": "今年",
-    "correct_text_reading": "今年",
-    "correct_text_ruby": "<ruby>今年<rt>ことし</rt></ruby>"
-  },
-  {
-    "id": 52,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "こんじゅう",
-    "question": "<u>今週</u>末は暇（　　　）",
-    "question_ruby": "<u>今週</u><ruby>末<rt>すえ</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>（　　　）",
-    "choices": [
-      "こんしゅ",
-      "ごんしゅう",
-      "こんしゅう",
-      "こんじゅう"
-    ],
-    "choices_ruby": [
-      "こんしゅ",
-      "ごんしゅう",
-      "こんしゅう",
-      "こんじゅう"
-    ],
-    "answer": 3,
-    "correct_text": "こんじゅう",
-    "meaning_en": "",
-    "explanation": "「今週」の正しい読み方は【こんしゅう】です。（意味：）",
-    "target_word_reading": "こんじゅう",
-    "correct_text_reading": "こんじゅう",
-    "correct_text_ruby": "こんじゅう"
-  },
-  {
-    "id": 53,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "練習",
-    "question": "<u>れんしゅうする</u>は熟達の道。",
-    "question_ruby": "<u>れんしゅうする</u>は<ruby>熟達<rt>じゅくたつ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>。",
-    "choices": [
-      "練習",
-      "毎週",
-      "厚い",
-      "古い"
-    ],
-    "choices_ruby": [
-      "練習",
-      "毎週",
-      "厚い",
-      "古い"
-    ],
-    "answer": 0,
-    "correct_text": "練習",
-    "meaning_en": "",
-    "explanation": "ひらがな「れんしゅうする」に該当する正しい漢字は【練習】です。",
-    "target_word_reading": "練習",
-    "correct_text_reading": "練習",
-    "correct_text_ruby": "練習"
-  },
-  {
-    "id": 54,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "早い",
-    "question": "彼等は（　　）中だ。",
-    "question_ruby": "<ruby>彼等<rt>かれら</rt></ruby>は（　　）<ruby>中<rt>なか</rt></ruby>だ。",
-    "choices": [
-      "授業",
-      "早い",
-      "飲み物",
-      "撮る"
-    ],
-    "choices_ruby": [
-      "<ruby>授業<rt>じゅぎょう</rt></ruby>",
-      "<ruby>早<rt>はや</rt></ruby>い",
-      "<ruby>飲み物<rt>のみもの</rt></ruby>",
-      "<ruby>撮<rt>と</rt></ruby>る"
-    ],
-    "answer": 1,
-    "correct_text": "早い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【授業】（じゅぎょう：）です。",
-    "target_word_reading": "早い",
-    "correct_text_reading": "早い",
-    "correct_text_ruby": "<ruby>早<rt>はや</rt></ruby>い"
-  },
-  {
-    "id": 55,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ましゅう",
-    "question": "<u>毎週</u>釣りに行く。",
-    "question_ruby": "<u>毎週</u><ruby>釣<rt>つ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>く。",
-    "choices": [
-      "まえしゅう",
-      "まいしゅ",
-      "ましゅう",
-      "まいしゅう"
-    ],
-    "choices_ruby": [
-      "まえしゅう",
-      "まいしゅ",
-      "ましゅう",
-      "まいしゅう"
-    ],
-    "answer": 2,
-    "correct_text": "ましゅう",
-    "meaning_en": "",
-    "explanation": "「毎週」の正しい読み方は【まいしゅう】です。（意味：）",
-    "target_word_reading": "ましゅう",
-    "correct_text_reading": "ましゅう",
-    "correct_text_ruby": "ましゅう"
-  },
-  {
-    "id": 56,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "来週",
-    "question": "母は頭が<u>ふるい</u>。",
-    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>が<u>ふるい</u>。",
-    "choices": [
-      "撮る",
-      "時計",
-      "古い",
-      "来週"
-    ],
-    "choices_ruby": [
-      "撮る",
-      "時計",
-      "古い",
-      "来週"
-    ],
-    "answer": 3,
-    "correct_text": "来週",
-    "meaning_en": "",
-    "explanation": "ひらがな「ふるい」に該当する正しい漢字は【古い】です。",
-    "target_word_reading": "来週",
-    "correct_text_reading": "来週",
-    "correct_text_ruby": "来週"
-  },
-  {
-    "id": 57,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "厚い",
-    "question": "分（　　）本だな。",
-    "question_ruby": "<ruby>分<rt>ぶん</rt></ruby>（　　）<ruby>本<rt>ほん</rt></ruby>だな。",
-    "choices": [
-      "厚い",
-      "食べる",
-      "来週",
-      "小さい"
-    ],
-    "choices_ruby": [
-      "<ruby>厚<rt>あつ</rt></ruby>い",
-      "<ruby>食<rt>た</rt></ruby>べる",
-      "<ruby>来週<rt>らいしゅう</rt></ruby>",
-      "<ruby>小<rt>ちい</rt></ruby>さい"
-    ],
-    "answer": 0,
-    "correct_text": "厚い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【厚い】（あつい：）です。",
-    "target_word_reading": "厚い",
-    "correct_text_reading": "厚い",
-    "correct_text_ruby": "<ruby>厚<rt>あつ</rt></ruby>い"
-  },
-  {
-    "id": 58,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ごとし",
-    "question": "<u>今年</u>は春が遅い。",
-    "question_ruby": "<u>今年</u>は<ruby>春<rt>はる</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>い。",
-    "choices": [
-      "こどし",
-      "ごとし",
-      "ことじ",
-      "ことし"
-    ],
-    "choices_ruby": [
-      "こどし",
-      "ごとし",
-      "ことじ",
-      "ことし"
-    ],
-    "answer": 1,
-    "correct_text": "ごとし",
-    "meaning_en": "",
-    "explanation": "「今年」の正しい読み方は【ことし】です。（意味：）",
-    "target_word_reading": "ごとし",
-    "correct_text_reading": "ごとし",
-    "correct_text_ruby": "ごとし"
-  },
-  {
-    "id": 59,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "食べる",
-    "question": "この通りは<u>にぎやか</u>だ。",
-    "question_ruby": "この<ruby>通<rt>とお</rt></ruby>りは<u>にぎやか</u>だ。",
-    "choices": [
-      "小さい",
-      "金曜日",
-      "食べる",
-      "賑やか"
-    ],
-    "choices_ruby": [
-      "小さい",
-      "金曜日",
-      "食べる",
-      "賑やか"
-    ],
-    "answer": 2,
-    "correct_text": "食べる",
-    "meaning_en": "",
-    "explanation": "ひらがな「にぎやか」に該当する正しい漢字は【賑やか】です。",
-    "target_word_reading": "食べる",
-    "correct_text_reading": "食べる",
-    "correct_text_ruby": "食べる"
-  },
-  {
-    "id": 60,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "小さい",
-    "question": "彼は素（　　）。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>素<rt>もと</rt></ruby>（　　）。",
-    "choices": [
-      "早い",
-      "来週",
-      "公園",
-      "小さい"
-    ],
-    "choices_ruby": [
-      "<ruby>早<rt>はや</rt></ruby>い",
-      "<ruby>来週<rt>らいしゅう</rt></ruby>",
-      "<ruby>公園<rt>こうえん</rt></ruby>",
-      "<ruby>小<rt>ちい</rt></ruby>さい"
-    ],
-    "answer": 3,
-    "correct_text": "小さい",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【早い】（はやい：）です。",
-    "target_word_reading": "小さい",
-    "correct_text_reading": "小さい",
-    "correct_text_ruby": "<ruby>小<rt>ちい</rt></ruby>さい"
-  },
-  {
-    "id": 61,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "つくえ",
-    "question": "私の<u>机</u>は古い。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<u>机</u>は<ruby>古<rt>ふる</rt></ruby>い。",
-    "choices": [
-      "つくえ",
-      "つぐえ",
-      "づくえ",
-      "つくい"
-    ],
-    "choices_ruby": [
-      "つくえ",
-      "つぐえ",
-      "づくえ",
-      "つくい"
-    ],
-    "answer": 0,
-    "correct_text": "つくえ",
-    "meaning_en": "",
-    "explanation": "「机」の正しい読み方は【つくえ】です。（意味：）",
-    "target_word_reading": "つくえ",
-    "correct_text_reading": "つくえ",
-    "correct_text_ruby": "つくえ"
-  },
-  {
-    "id": 62,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "公園",
-    "question": "写真<u>とる</u>の、好き好き。",
-    "question_ruby": "<ruby>写真<rt>しゃしん</rt></ruby><u>とる</u>の、<ruby>好き好<rt>すきず</rt></ruby>き。",
-    "choices": [
-      "来週",
-      "公園",
-      "撮る",
-      "時計"
-    ],
-    "choices_ruby": [
-      "来週",
-      "公園",
-      "撮る",
-      "時計"
-    ],
-    "answer": 1,
-    "correct_text": "公園",
-    "meaning_en": "",
-    "explanation": "ひらがな「とる」に該当する正しい漢字は【撮る】です。",
-    "target_word_reading": "公園",
-    "correct_text_reading": "公園",
-    "correct_text_ruby": "公園"
-  },
-  {
-    "id": 63,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "病気",
-    "question": "何か（　　）をくれ。",
-    "question_ruby": "<ruby>何<rt>なに</rt></ruby>か（　　）をくれ。",
-    "choices": [
-      "花瓶",
-      "飲み物",
-      "病気",
-      "公園"
-    ],
-    "choices_ruby": [
-      "<ruby>花瓶<rt>かびん</rt></ruby>",
-      "<ruby>飲み物<rt>のみもの</rt></ruby>",
-      "<ruby>病気<rt>びょうき</rt></ruby>",
-      "<ruby>公園<rt>こうえん</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "病気",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【飲み物】（のみもの：）です。",
-    "target_word_reading": "病気",
-    "correct_text_reading": "病気",
-    "correct_text_ruby": "<ruby>病気<rt>びょうき</rt></ruby>"
-  },
-  {
-    "id": 64,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きんよび",
-    "question": "花の<u>金曜日</u>だ！",
-    "question_ruby": "<ruby>花<rt>はな</rt></ruby>の<u>金曜日</u>だ！",
-    "choices": [
-      "きんようび",
-      "きんようぴ",
-      "きんよおび",
-      "きんよび"
-    ],
-    "choices_ruby": [
-      "きんようび",
-      "きんようぴ",
-      "きんよおび",
-      "きんよび"
-    ],
-    "answer": 3,
-    "correct_text": "きんよび",
-    "meaning_en": "",
-    "explanation": "「金曜日」の正しい読み方は【きんようび】です。（意味：）",
-    "target_word_reading": "きんよび",
-    "correct_text_reading": "きんよび",
-    "correct_text_ruby": "きんよび"
-  },
-  {
-    "id": 65,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "国",
-    "question": "帝<u>くに</u>の逆襲。",
-    "question_ruby": "<ruby>帝<rt>みかど</rt></ruby><u>くに</u>の<ruby>逆襲<rt>ぎゃくしゅう</rt></ruby>。",
-    "choices": [
-      "国",
-      "四",
-      "門",
-      "晩"
-    ],
-    "choices_ruby": [
-      "国",
-      "四",
-      "門",
-      "晩"
-    ],
-    "answer": 0,
-    "correct_text": "国",
-    "meaning_en": "",
-    "explanation": "ひらがな「くに」に該当する正しい漢字は【国】です。",
-    "target_word_reading": "国",
-    "correct_text_reading": "国",
-    "correct_text_ruby": "国"
-  },
-  {
-    "id": 66,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "灰皿",
-    "question": "彼（　　）は歩く。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>（　　）は<ruby>歩<rt>ある</rt></ruby>く。",
-    "choices": [
-      "答える",
-      "灰皿",
-      "友達",
-      "女"
-    ],
-    "choices_ruby": [
-      "<ruby>答<rt>こた</rt></ruby>える",
-      "<ruby>灰皿<rt>はいざら</rt></ruby>",
-      "<ruby>友達<rt>ともだち</rt></ruby>",
-      "<ruby>女<rt>おんな</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "灰皿",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【女】（おんな：）です。",
-    "target_word_reading": "灰皿",
-    "correct_text_reading": "灰皿",
-    "correct_text_ruby": "<ruby>灰皿<rt>はいざら</rt></ruby>"
-  },
-  {
-    "id": 67,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "どけい",
-    "question": "<u>時計</u>してる（　　　）",
-    "question_ruby": "<u>時計</u>してる（　　　）",
-    "choices": [
-      "とげい",
-      "とけえ",
-      "どけい",
-      "とけい"
-    ],
-    "choices_ruby": [
-      "とげい",
-      "とけえ",
-      "どけい",
-      "とけい"
-    ],
-    "answer": 2,
-    "correct_text": "どけい",
-    "meaning_en": "",
-    "explanation": "「時計」の正しい読み方は【とけい】です。（意味：）",
-    "target_word_reading": "どけい",
-    "correct_text_reading": "どけい",
-    "correct_text_ruby": "どけい"
-  },
-  {
-    "id": 68,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "お菓子",
-    "question": "魚を<u>たべる</u>。",
-    "question_ruby": "<ruby>魚<rt>さかな</rt></ruby>を<u>たべる</u>。",
-    "choices": [
-      "答える",
-      "食べる",
-      "交差点",
-      "お菓子"
-    ],
-    "choices_ruby": [
-      "答える",
-      "食べる",
-      "交差点",
-      "お菓子"
-    ],
-    "answer": 3,
-    "correct_text": "お菓子",
-    "meaning_en": "",
-    "explanation": "ひらがな「たべる」に該当する正しい漢字は【食べる】です。",
-    "target_word_reading": "お菓子",
-    "correct_text_reading": "お菓子",
-    "correct_text_ruby": "お菓子"
-  },
-  {
-    "id": 69,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "六",
-    "question": "（　　）十の手習い。",
-    "question_ruby": "（　　）<ruby>十<rt>じゅう</rt></ruby>の<ruby>手習<rt>てなら</rt></ruby>い。",
-    "choices": [
-      "六",
-      "葉書",
-      "答える",
-      "着く"
-    ],
-    "choices_ruby": [
-      "<ruby>六<rt>ろく</rt></ruby>",
-      "<ruby>葉書<rt>はがき</rt></ruby>",
-      "<ruby>答<rt>こた</rt></ruby>える",
-      "<ruby>着<rt>つ</rt></ruby>く"
-    ],
-    "answer": 0,
-    "correct_text": "六",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【六】（ろく：）です。",
-    "target_word_reading": "六",
-    "correct_text_reading": "六",
-    "correct_text_ruby": "<ruby>六<rt>ろく</rt></ruby>"
-  },
-  {
-    "id": 70,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぢいさい",
-    "question": "この本は<u>小さい</u>。",
-    "question_ruby": "この<ruby>本<rt>ほん</rt></ruby>は<u>小さい</u>。",
-    "choices": [
-      "ちいざい",
-      "ぢいさい",
-      "ちいさい",
-      "ちさい"
-    ],
-    "choices_ruby": [
-      "ちいざい",
-      "ぢいさい",
-      "ちいさい",
-      "ちさい"
-    ],
-    "answer": 1,
-    "correct_text": "ぢいさい",
-    "meaning_en": "",
-    "explanation": "「小さい」の正しい読み方は【ちいさい】です。（意味：）",
-    "target_word_reading": "ぢいさい",
-    "correct_text_reading": "ぢいさい",
-    "correct_text_ruby": "ぢいさい"
-  },
-  {
-    "id": 71,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "友達",
-    "question": "また再<u>らいしゅう</u>。",
-    "question_ruby": "また<ruby>再<rt>さい</rt></ruby><u>らいしゅう</u>。",
-    "choices": [
-      "葉書",
-      "着く",
-      "友達",
-      "来週"
-    ],
-    "choices_ruby": [
-      "葉書",
-      "着く",
-      "友達",
-      "来週"
-    ],
-    "answer": 2,
-    "correct_text": "友達",
-    "meaning_en": "",
-    "explanation": "ひらがな「らいしゅう」に該当する正しい漢字は【来週】です。",
-    "target_word_reading": "友達",
-    "correct_text_reading": "友達",
-    "correct_text_ruby": "友達"
-  },
-  {
-    "id": 72,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "後ろ",
-    "question": "私は（　　）に歩く。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は（　　）に<ruby>歩<rt>ある</rt></ruby>く。",
-    "choices": [
-      "太い",
-      "公園",
-      "交差点",
-      "後ろ"
-    ],
-    "choices_ruby": [
-      "<ruby>太<rt>ふと</rt></ruby>い",
-      "<ruby>公園<rt>こうえん</rt></ruby>",
-      "<ruby>交差点<rt>こうさてん</rt></ruby>",
-      "<ruby>後<rt>うし</rt></ruby>ろ"
-    ],
-    "answer": 3,
-    "correct_text": "後ろ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【公園】（こうえん：）です。",
-    "target_word_reading": "後ろ",
-    "correct_text_reading": "後ろ",
-    "correct_text_ruby": "<ruby>後<rt>うし</rt></ruby>ろ"
-  },
-  {
-    "id": 73,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "びょうき",
-    "question": "<u>病気</u>と闘う。",
-    "question_ruby": "<u>病気</u>と<ruby>闘<rt>たたか</rt></ruby>う。",
-    "choices": [
-      "びょうき",
-      "びょき",
-      "ぴょうき",
-      "びょおき"
-    ],
-    "choices_ruby": [
-      "びょうき",
-      "びょき",
-      "ぴょうき",
-      "びょおき"
-    ],
-    "answer": 0,
-    "correct_text": "びょうき",
-    "meaning_en": "",
-    "explanation": "「病気」の正しい読み方は【びょうき】です。（意味：）",
-    "target_word_reading": "びょうき",
-    "correct_text_reading": "びょうき",
-    "correct_text_ruby": "びょうき"
-  },
-  {
-    "id": 74,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "耳",
-    "question": "二の二倍は<u>し / よん</u>。",
-    "question_ruby": "<ruby>二<rt>に</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>倍<rt>ばい</rt></ruby>は<u>し / よん</u>。",
-    "choices": [
-      "十",
-      "耳",
-      "四",
-      "男"
-    ],
-    "choices_ruby": [
-      "十",
-      "耳",
-      "四",
-      "男"
-    ],
-    "answer": 1,
-    "correct_text": "耳",
-    "meaning_en": "",
-    "explanation": "ひらがな「し / よん」に該当する正しい漢字は【四】です。",
-    "target_word_reading": "耳",
-    "correct_text_reading": "耳",
-    "correct_text_ruby": "耳"
-  },
-  {
-    "id": 75,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "遠い",
-    "question": "（　　）を下さい。",
-    "question_ruby": "（　　）を<ruby>下<rt>くだ</rt></ruby>さい。",
-    "choices": [
-      "先月",
-      "鉛筆",
-      "遠い",
-      "灰皿"
-    ],
-    "choices_ruby": [
-      "<ruby>先月<rt>せんげつ</rt></ruby>",
-      "<ruby>鉛筆<rt>えんぴつ</rt></ruby>",
-      "<ruby>遠<rt>とお</rt></ruby>い",
-      "<ruby>灰皿<rt>はいざら</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "遠い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【灰皿】（はいざら：）です。",
-    "target_word_reading": "遠い",
-    "correct_text_reading": "遠い",
-    "correct_text_ruby": "<ruby>遠<rt>とお</rt></ruby>い"
-  },
-  {
-    "id": 76,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "どもだち",
-    "question": "<u>友達</u>でしょ（　　　）",
-    "question_ruby": "<u>友達</u>でしょ（　　　）",
-    "choices": [
-      "ともだち",
-      "ともたち",
-      "ともだぢ",
-      "どもだち"
-    ],
-    "choices_ruby": [
-      "ともだち",
-      "ともたち",
-      "ともだぢ",
-      "どもだち"
-    ],
-    "answer": 3,
-    "correct_text": "どもだち",
-    "meaning_en": "",
-    "explanation": "「友達」の正しい読み方は【ともだち】です。（意味：）",
-    "target_word_reading": "どもだち",
-    "correct_text_reading": "どもだち",
-    "correct_text_ruby": "どもだち"
-  },
-  {
-    "id": 77,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "答える",
-    "question": "軽率に<u>こたえる</u>な。",
-    "question_ruby": "<ruby>軽率<rt>けいそつ</rt></ruby>に<u>こたえる</u>な。",
-    "choices": [
-      "答える",
-      "交差点",
-      "上げる",
-      "止まる"
-    ],
-    "choices_ruby": [
-      "答える",
-      "交差点",
-      "上げる",
-      "止まる"
-    ],
-    "answer": 0,
-    "correct_text": "答える",
-    "meaning_en": "",
-    "explanation": "ひらがな「こたえる」に該当する正しい漢字は【答える】です。",
-    "target_word_reading": "答える",
-    "correct_text_reading": "答える",
-    "correct_text_ruby": "答える"
-  },
-  {
-    "id": 78,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "部屋",
-    "question": "一（　　）させて。",
-    "question_ruby": "<ruby>一<rt>いち</rt></ruby>（　　）させて。",
-    "choices": [
-      "服",
-      "部屋",
-      "洗う",
-      "十日"
-    ],
-    "choices_ruby": [
-      "<ruby>服<rt>ふく</rt></ruby>",
-      "<ruby>部屋<rt>へや</rt></ruby>",
-      "<ruby>洗<rt>あら</rt></ruby>う",
-      "<ruby>十<rt>じゅう</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "部屋",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【服】（ふく：）です。",
-    "target_word_reading": "部屋",
-    "correct_text_reading": "部屋",
-    "correct_text_ruby": "<ruby>部屋<rt>へや</rt></ruby>"
-  },
-  {
-    "id": 79,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "はかき",
-    "question": "<u>葉書</u>をおくれ。",
-    "question_ruby": "<u>葉書</u>をおくれ。",
-    "choices": [
-      "はがぎ",
-      "ばがき",
-      "はかき",
-      "はがき"
-    ],
-    "choices_ruby": [
-      "はがぎ",
-      "ばがき",
-      "はかき",
-      "はがき"
-    ],
-    "answer": 2,
-    "correct_text": "はかき",
-    "meaning_en": "",
-    "explanation": "「葉書」の正しい読み方は【はがき】です。（意味：）",
-    "target_word_reading": "はかき",
-    "correct_text_reading": "はかき",
-    "correct_text_ruby": "はかき"
-  },
-  {
-    "id": 80,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "先月",
-    "question": "いつ<u>つく</u>の（　　　）",
-    "question_ruby": "いつ<u>つく</u>の（　　　）",
-    "choices": [
-      "鉛筆",
-      "遠い",
-      "着く",
-      "先月"
-    ],
-    "choices_ruby": [
-      "鉛筆",
-      "遠い",
-      "着く",
-      "先月"
-    ],
-    "answer": 3,
-    "correct_text": "先月",
-    "meaning_en": "",
-    "explanation": "ひらがな「つく」に該当する正しい漢字は【着く】です。",
-    "target_word_reading": "先月",
-    "correct_text_reading": "先月",
-    "correct_text_ruby": "先月"
-  },
-  {
-    "id": 81,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "お菓子",
-    "question": "（　　）買ってよ。",
-    "question_ruby": "（　　）<ruby>買<rt>か</rt></ruby>ってよ。",
-    "choices": [
-      "お菓子",
-      "洗う",
-      "元気",
-      "部屋"
-    ],
-    "choices_ruby": [
-      "お<ruby>菓子<rt>かし</rt></ruby>",
-      "<ruby>洗<rt>あら</rt></ruby>う",
-      "<ruby>元気<rt>げんき</rt></ruby>",
-      "<ruby>部屋<rt>へや</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "お菓子",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【お菓子】（おかし：）です。",
-    "target_word_reading": "お菓子",
-    "correct_text_reading": "お菓子",
-    "correct_text_ruby": "お<ruby>菓子<rt>かし</rt></ruby>"
-  },
-  {
-    "id": 82,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "しろ",
-    "question": "<u>後ろ</u>を見ろ。",
-    "question_ruby": "<u>後ろ</u>を<ruby>見<rt>み</rt></ruby>ろ。",
-    "choices": [
-      "うしろ",
-      "しろ",
-      "おしろ",
-      "うじろ"
-    ],
-    "choices_ruby": [
-      "うしろ",
-      "しろ",
-      "おしろ",
-      "うじろ"
-    ],
-    "answer": 1,
-    "correct_text": "しろ",
-    "meaning_en": "",
-    "explanation": "「後ろ」の正しい読み方は【うしろ】です。（意味：）",
-    "target_word_reading": "しろ",
-    "correct_text_reading": "しろ",
-    "correct_text_ruby": "しろ"
-  },
-  {
-    "id": 83,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "洗う",
-    "question": "トムは首が<u>ふとい</u>んだ。",
-    "question_ruby": "トムは<ruby>首<rt>くび</rt></ruby>が<u>ふとい</u>んだ。",
-    "choices": [
-      "太い",
-      "部屋",
-      "洗う",
-      "十日"
-    ],
-    "choices_ruby": [
-      "太い",
-      "部屋",
-      "洗う",
-      "十日"
-    ],
-    "answer": 2,
-    "correct_text": "洗う",
-    "meaning_en": "",
-    "explanation": "ひらがな「ふとい」に該当する正しい漢字は【太い】です。",
-    "target_word_reading": "洗う",
-    "correct_text_reading": "洗う",
-    "correct_text_ruby": "洗う"
-  },
-  {
-    "id": 84,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "止まる",
-    "question": "五（　　）歩百歩。",
-    "question_ruby": "<ruby>五<rt>ご</rt></ruby>（　　）<ruby>歩<rt>ふ</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>歩<rt>ほ</rt></ruby>。",
-    "choices": [
-      "十",
-      "六日",
-      "毎月",
-      "止まる"
-    ],
-    "choices_ruby": [
-      "<ruby>十<rt>じゅう</rt></ruby>",
-      "<ruby>六<rt>ろく</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>毎月<rt>まいつき</rt></ruby>",
-      "<ruby>止<rt>と</rt></ruby>まる"
-    ],
-    "answer": 3,
-    "correct_text": "止まる",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【十】（じゅう とお：）です。",
-    "target_word_reading": "止まる",
-    "correct_text_reading": "止まる",
-    "correct_text_ruby": "<ruby>止<rt>と</rt></ruby>まる"
-  },
-  {
-    "id": 85,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "こうさてん",
-    "question": "<u>交差点</u>で事故があった。",
-    "question_ruby": "<u>交差点</u>で<ruby>事故<rt>じこ</rt></ruby>があった。",
-    "choices": [
-      "こうさてん",
-      "こうざてん",
-      "ごうさてん",
-      "こさてん"
-    ],
-    "choices_ruby": [
-      "こうさてん",
-      "こうざてん",
-      "ごうさてん",
-      "こさてん"
-    ],
-    "answer": 0,
-    "correct_text": "こうさてん",
-    "meaning_en": "",
-    "explanation": "「交差点」の正しい読み方は【こうさてん】です。（意味：）",
-    "target_word_reading": "こうさてん",
-    "correct_text_reading": "こうさてん",
-    "correct_text_ruby": "こうさてん"
-  },
-  {
-    "id": 86,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "元気",
-    "question": "ここから<u>とおい</u>の（　　　）",
-    "question_ruby": "ここから<u>とおい</u>の（　　　）",
-    "choices": [
-      "遠い",
-      "元気",
-      "部屋",
-      "洗う"
-    ],
-    "choices_ruby": [
-      "遠い",
-      "元気",
-      "部屋",
-      "洗う"
-    ],
-    "answer": 1,
-    "correct_text": "元気",
-    "meaning_en": "",
-    "explanation": "ひらがな「とおい」に該当する正しい漢字は【遠い】です。",
-    "target_word_reading": "元気",
-    "correct_text_reading": "元気",
-    "correct_text_ruby": "元気"
-  },
-  {
-    "id": 87,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "泳ぐ",
-    "question": "これは（　　）。",
-    "question_ruby": "これは（　　）。",
-    "choices": [
-      "弾く",
-      "鉛筆",
-      "泳ぐ",
-      "お手洗い"
-    ],
-    "choices_ruby": [
-      "<ruby>弾<rt>ひ</rt></ruby>く",
-      "<ruby>鉛筆<rt>えんぴつ</rt></ruby>",
-      "<ruby>泳<rt>およ</rt></ruby>ぐ",
-      "お<ruby>手洗<rt>てあら</rt></ruby>い"
-    ],
-    "answer": 2,
-    "correct_text": "泳ぐ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【鉛筆】（えんぴつ：）です。",
-    "target_word_reading": "泳ぐ",
-    "correct_text_reading": "泳ぐ",
-    "correct_text_ruby": "<ruby>泳<rt>およ</rt></ruby>ぐ"
-  },
-  {
-    "id": 88,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "せんげづ",
-    "question": "会合は<u>先月</u>あった。",
-    "question_ruby": "<ruby>会合<rt>かいごう</rt></ruby>は<u>先月</u>あった。",
-    "choices": [
-      "せんけつ",
-      "ぜんげつ",
-      "せんげつ",
-      "せんげづ"
-    ],
-    "choices_ruby": [
-      "せんけつ",
-      "ぜんげつ",
-      "せんげつ",
-      "せんげづ"
-    ],
-    "answer": 3,
-    "correct_text": "せんげづ",
-    "meaning_en": "",
-    "explanation": "「先月」の正しい読み方は【せんげつ】です。（意味：）",
-    "target_word_reading": "せんげづ",
-    "correct_text_reading": "せんげづ",
-    "correct_text_ruby": "せんげづ"
-  },
-  {
-    "id": 89,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "上げる",
-    "question": "頭を<u>あげる</u>なよ。",
-    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>を<u>あげる</u>なよ。",
-    "choices": [
-      "上げる",
-      "月曜日",
-      "止まる",
-      "降りる"
-    ],
-    "choices_ruby": [
-      "上げる",
-      "月曜日",
-      "止まる",
-      "降りる"
-    ],
-    "answer": 0,
-    "correct_text": "上げる",
-    "meaning_en": "",
-    "explanation": "ひらがな「あげる」に該当する正しい漢字は【上げる】です。",
-    "target_word_reading": "上げる",
-    "correct_text_reading": "上げる",
-    "correct_text_ruby": "上げる"
-  },
-  {
-    "id": 90,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "降りる",
-    "question": "（　　）になれよ。",
-    "question_ruby": "（　　）になれよ。",
-    "choices": [
-      "男",
-      "降りる",
-      "一月",
-      "出る"
-    ],
-    "choices_ruby": [
-      "<ruby>男<rt>おとこ</rt></ruby>",
-      "<ruby>降<rt>お</rt></ruby>りる",
-      "<ruby>一月<rt>いちがつ</rt></ruby>",
-      "<ruby>出<rt>で</rt></ruby>る"
-    ],
-    "answer": 1,
-    "correct_text": "降りる",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【男】（おとこ：）です。",
-    "target_word_reading": "降りる",
-    "correct_text_reading": "降りる",
-    "correct_text_ruby": "<ruby>降<rt>お</rt></ruby>りる"
-  },
-  {
-    "id": 91,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "どおか",
-    "question": "明日は十月<u>十日</u>火曜日です。",
-    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>十月<rt>じゅうがつ</rt></ruby><u>十日</u><ruby>火曜日<rt>かようび</rt></ruby>です。",
-    "choices": [
-      "とおが",
-      "とおか",
-      "どおか",
-      "とあか"
-    ],
-    "choices_ruby": [
-      "とおが",
-      "とおか",
-      "どおか",
-      "とあか"
-    ],
-    "answer": 2,
-    "correct_text": "どおか",
-    "meaning_en": "",
-    "explanation": "「十日」の正しい読み方は【とおか】です。（意味：）",
-    "target_word_reading": "どおか",
-    "correct_text_reading": "どおか",
-    "correct_text_ruby": "どおか"
-  },
-  {
-    "id": 92,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "零",
-    "question": "初<u>みみ</u>ですね。",
-    "question_ruby": "<ruby>初<rt>はつ</rt></ruby><u>みみ</u>ですね。",
-    "choices": [
-      "兄",
-      "辺",
-      "耳",
-      "零"
-    ],
-    "choices_ruby": [
-      "兄",
-      "辺",
-      "耳",
-      "零"
-    ],
-    "answer": 3,
-    "correct_text": "零",
-    "meaning_en": "",
-    "explanation": "ひらがな「みみ」に該当する正しい漢字は【耳】です。",
-    "target_word_reading": "零",
-    "correct_text_reading": "零",
-    "correct_text_ruby": "零"
-  },
-  {
-    "id": 93,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "洗う",
-    "question": "血で血を（　　）。",
-    "question_ruby": "<ruby>血<rt>ち</rt></ruby>で<ruby>血<rt>ち</rt></ruby>を（　　）。",
-    "choices": [
-      "洗う",
-      "二つ",
-      "出る",
-      "今日"
-    ],
-    "choices_ruby": [
-      "<ruby>洗<rt>あら</rt></ruby>う",
-      "<ruby>二<rt>ふた</rt></ruby>つ",
-      "<ruby>出<rt>で</rt></ruby>る",
-      "<ruby>今日<rt>きょう</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "洗う",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【洗う】（あらう：）です。",
-    "target_word_reading": "洗う",
-    "correct_text_reading": "洗う",
-    "correct_text_ruby": "<ruby>洗<rt>あら</rt></ruby>う"
-  },
-  {
-    "id": 94,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "まえげつ/まいつき",
-    "question": "この雑誌は<u>毎月</u>出る。",
-    "question_ruby": "この<ruby>雑誌<rt>ざっし</rt></ruby>は<u>毎月</u><ruby>出<rt>で</rt></ruby>る。",
-    "choices": [
-      "まいげづ/まいつき",
-      "まえげつ/まいつき",
-      "まげつ/まいつき",
-      "まいげつ/まいつき"
-    ],
-    "choices_ruby": [
-      "まいげづ/まいつき",
-      "まえげつ/まいつき",
-      "まげつ/まいつき",
-      "まいげつ/まいつき"
-    ],
-    "answer": 1,
-    "correct_text": "まえげつ/まいつき",
-    "meaning_en": "",
-    "explanation": "「毎月」の正しい読み方は【まいげつ/まいつき】です。（意味：）",
-    "target_word_reading": "まえげつ/まいつき",
-    "correct_text_reading": "まえげつ/まいつき",
-    "correct_text_ruby": "まえげつ/まいつき"
-  },
-  {
-    "id": 95,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "月曜日",
-    "question": "立ち<u>とまる</u>な。",
-    "question_ruby": "<ruby>立<rt>た</rt></ruby>ち<u>とまる</u>な。",
-    "choices": [
-      "止まる",
-      "降りる",
-      "月曜日",
-      "万年筆"
-    ],
-    "choices_ruby": [
-      "止まる",
-      "降りる",
-      "月曜日",
-      "万年筆"
-    ],
-    "answer": 2,
-    "correct_text": "月曜日",
-    "meaning_en": "",
-    "explanation": "ひらがな「とまる」に該当する正しい漢字は【止まる】です。",
-    "target_word_reading": "月曜日",
-    "correct_text_reading": "月曜日",
-    "correct_text_ruby": "月曜日"
-  },
-  {
-    "id": 96,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "今月",
-    "question": "トムは、（　　）間だけ迷子の犬を預かることにしました。",
-    "question_ruby": "トムは、（　　）<ruby>間<rt>ま</rt></ruby>だけ<ruby>迷子<rt>まいご</rt></ruby>の<ruby>犬<rt>いぬ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かることにしました。",
-    "choices": [
-      "六日",
-      "背広",
-      "質問",
-      "今月"
-    ],
-    "choices_ruby": [
-      "<ruby>六<rt>ろく</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>背広<rt>せびろ</rt></ruby>",
-      "<ruby>質問<rt>しつもん</rt></ruby>",
-      "<ruby>今月<rt>こんげつ</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "今月",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【六日】（むいか：）です。",
-    "target_word_reading": "今月",
-    "correct_text_reading": "今月",
-    "correct_text_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>"
-  },
-  {
-    "id": 97,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "おてあらい",
-    "question": "<u>お手洗い</u>はどこですか。",
-    "question_ruby": "<u>お手洗い</u>はどこですか。",
-    "choices": [
-      "おてあらい",
-      "おてあらえ",
-      "おてあら",
-      "おであらい"
-    ],
-    "choices_ruby": [
-      "おてあらい",
-      "おてあらえ",
-      "おてあら",
-      "おであらい"
-    ],
-    "answer": 0,
-    "correct_text": "おてあらい",
-    "meaning_en": "",
-    "explanation": "「お手洗い」の正しい読み方は【おてあらい】です。（意味：）",
-    "target_word_reading": "おてあらい",
-    "correct_text_reading": "おてあらい",
-    "correct_text_ruby": "おてあらい"
-  },
-  {
-    "id": 98,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "今日",
-    "question": "君はギター<u>ひく</u>（　　　）",
-    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>はギター<u>ひく</u>（　　　）",
-    "choices": [
-      "置く",
-      "今日",
-      "弾く",
-      "二つ"
-    ],
-    "choices_ruby": [
-      "置く",
-      "今日",
-      "弾く",
-      "二つ"
-    ],
-    "answer": 1,
-    "correct_text": "今日",
-    "meaning_en": "",
-    "explanation": "ひらがな「ひく」に該当する正しい漢字は【弾く】です。",
-    "target_word_reading": "今日",
-    "correct_text_reading": "今日",
-    "correct_text_ruby": "今日"
-  },
-  {
-    "id": 99,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "今月",
-    "question": "彼は（　　）のが怖い。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は（　　）のが<ruby>怖<rt>こわ</rt></ruby>い。",
-    "choices": [
-      "泳ぐ",
-      "背広",
-      "今月",
-      "渡る"
-    ],
-    "choices_ruby": [
-      "<ruby>泳<rt>およ</rt></ruby>ぐ",
-      "<ruby>背広<rt>せびろ</rt></ruby>",
-      "<ruby>今月<rt>こんげつ</rt></ruby>",
-      "<ruby>渡<rt>わた</rt></ruby>る"
-    ],
-    "answer": 2,
-    "correct_text": "今月",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【泳ぐ】（およぐ：）です。",
-    "target_word_reading": "今月",
-    "correct_text_reading": "今月",
-    "correct_text_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>"
-  },
-  {
-    "id": 100,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ひどつき",
-    "question": "<u>一月</u>に彼に会いました。",
-    "question_ruby": "<u>一月</u>に<ruby>彼<rt>かれ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いました。",
-    "choices": [
-      "ひとつき",
-      "ひとづき",
-      "ひとつぎ",
-      "ひどつき"
-    ],
-    "choices_ruby": [
-      "ひとつき",
-      "ひとづき",
-      "ひとつぎ",
-      "ひどつき"
-    ],
-    "answer": 3,
-    "correct_text": "ひどつき",
-    "meaning_en": "",
-    "explanation": "「一月」の正しい読み方は【ひとつき】です。（意味：）",
-    "target_word_reading": "ひどつき",
-    "correct_text_reading": "ひどつき",
-    "correct_text_ruby": "ひどつき"
-  },
-  {
-    "id": 101,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "出る",
-    "question": "何時に<u>でる</u>（　　　）",
-    "question_ruby": "<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<u>でる</u>（　　　）",
-    "choices": [
-      "出る",
-      "今月",
-      "背広",
-      "質問"
-    ],
-    "choices_ruby": [
-      "出る",
-      "今月",
-      "背広",
-      "質問"
-    ],
-    "answer": 0,
-    "correct_text": "出る",
-    "meaning_en": "",
-    "explanation": "ひらがな「でる」に該当する正しい漢字は【出る】です。",
-    "target_word_reading": "出る",
-    "correct_text_reading": "出る",
-    "correct_text_ruby": "出る"
-  },
-  {
-    "id": 102,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "生徒",
-    "question": "（　　）は暑い。",
-    "question_ruby": "（　　）は<ruby>暑<rt>あつ</rt></ruby>い。",
-    "choices": [
-      "今日",
-      "生徒",
-      "万年筆",
-      "八日"
-    ],
-    "choices_ruby": [
-      "<ruby>今日<rt>きょう</rt></ruby>",
-      "<ruby>生徒<rt>せいと</rt></ruby>",
-      "<ruby>万年筆<rt>まんねんひつ</rt></ruby>",
-      "<ruby>八<rt>はち</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "生徒",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【今日】（きょう：）です。",
-    "target_word_reading": "生徒",
-    "correct_text_reading": "生徒",
-    "correct_text_ruby": "<ruby>生徒<rt>せいと</rt></ruby>"
-  },
-  {
-    "id": 103,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ふだつ",
-    "question": "<u>二つ</u>折り厳禁。",
-    "question_ruby": "<u>二つ</u><ruby>折<rt>お</rt></ruby>り<ruby>厳禁<rt>げんきん</rt></ruby>。",
-    "choices": [
-      "ぶたつ",
-      "ふたづ",
-      "ふだつ",
-      "ふたつ"
-    ],
-    "choices_ruby": [
-      "ぶたつ",
-      "ふたづ",
-      "ふだつ",
-      "ふたつ"
-    ],
-    "answer": 2,
-    "correct_text": "ふだつ",
-    "meaning_en": "",
-    "explanation": "「二つ」の正しい読み方は【ふたつ】です。（意味：）",
-    "target_word_reading": "ふだつ",
-    "correct_text_reading": "ふだつ",
-    "correct_text_ruby": "ふだつ"
-  },
-  {
-    "id": 104,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "万年筆",
-    "question": "<u>げつようび</u>です。",
-    "question_ruby": "<u>げつようび</u>です。",
-    "choices": [
-      "晩御飯",
-      "晴れる",
-      "月曜日",
-      "万年筆"
-    ],
-    "choices_ruby": [
-      "晩御飯",
-      "晴れる",
-      "月曜日",
-      "万年筆"
-    ],
-    "answer": 3,
-    "correct_text": "万年筆",
-    "meaning_en": "",
-    "explanation": "ひらがな「げつようび」に該当する正しい漢字は【月曜日】です。",
-    "target_word_reading": "万年筆",
-    "correct_text_reading": "万年筆",
-    "correct_text_ruby": "万年筆"
-  },
-  {
-    "id": 105,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "置く",
-    "question": "通路に物を（　　）な。",
-    "question_ruby": "<ruby>通路<rt>つうろ</rt></ruby>に<ruby>物<rt>もの</rt></ruby>を（　　）な。",
-    "choices": [
-      "置く",
-      "違う",
-      "休み",
-      "有名"
-    ],
-    "choices_ruby": [
-      "<ruby>置<rt>お</rt></ruby>く",
-      "<ruby>違<rt>ちが</rt></ruby>う",
-      "<ruby>休<rt>やす</rt></ruby>み",
-      "<ruby>有名<rt>ゆうめい</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "置く",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【置く】（おく：）です。",
-    "target_word_reading": "置く",
-    "correct_text_reading": "置く",
-    "correct_text_ruby": "<ruby>置<rt>お</rt></ruby>く"
-  },
-  {
-    "id": 106,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "こんけつ",
-    "question": "<u>今月</u>は金欠なの。",
-    "question_ruby": "<u>今月</u>は<ruby>金欠<rt>きんけつ</rt></ruby>なの。",
-    "choices": [
-      "こんげつ",
-      "こんけつ",
-      "こんげづ",
-      "ごんげつ"
-    ],
-    "choices_ruby": [
-      "こんげつ",
-      "こんけつ",
-      "こんげづ",
-      "ごんげつ"
-    ],
-    "answer": 1,
-    "correct_text": "こんけつ",
-    "meaning_en": "",
-    "explanation": "「今月」の正しい読み方は【こんげつ】です。（意味：）",
-    "target_word_reading": "こんけつ",
-    "correct_text_reading": "こんけつ",
-    "correct_text_ruby": "こんけつ"
-  },
-  {
-    "id": 107,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "違う",
-    "question": "私は新しい<u>せびろ</u>を買った。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<u>せびろ</u>を<ruby>買<rt>か</rt></ruby>った。",
-    "choices": [
-      "生徒",
-      "背広",
-      "違う",
-      "休み"
-    ],
-    "choices_ruby": [
-      "生徒",
-      "背広",
-      "違う",
-      "休み"
-    ],
-    "answer": 2,
-    "correct_text": "違う",
-    "meaning_en": "",
-    "explanation": "ひらがな「せびろ」に該当する正しい漢字は【背広】です。",
-    "target_word_reading": "違う",
-    "correct_text_reading": "違う",
-    "correct_text_ruby": "違う"
-  },
-  {
-    "id": 108,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "三つ",
-    "question": "（　　）になった。",
-    "question_ruby": "（　　）になった。",
-    "choices": [
-      "危ない",
-      "春",
-      "洋服",
-      "三つ"
-    ],
-    "choices_ruby": [
-      "<ruby>危<rt>あぶ</rt></ruby>ない",
-      "<ruby>春<rt>はる</rt></ruby>",
-      "<ruby>洋服<rt>ようふく</rt></ruby>",
-      "<ruby>三<rt>みっ</rt></ruby>つ"
-    ],
-    "answer": 3,
-    "correct_text": "三つ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【春】（はる：）です。",
-    "target_word_reading": "三つ",
-    "correct_text_reading": "三つ",
-    "correct_text_ruby": "<ruby>三<rt>みっ</rt></ruby>つ"
-  },
-  {
-    "id": 109,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ようか",
-    "question": "日本では、八月<u>八日</u>はヒゲの日です。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>八月<rt>はちがつ</rt></ruby><u>八日</u>はヒゲの<ruby>日<rt>ひ</rt></ruby>です。",
-    "choices": [
-      "ようか",
-      "ようが",
-      "よか",
-      "よおか"
-    ],
-    "choices_ruby": [
-      "ようか",
-      "ようが",
-      "よか",
-      "よおか"
-    ],
-    "answer": 0,
-    "correct_text": "ようか",
-    "meaning_en": "",
-    "explanation": "「八日」の正しい読み方は【ようか】です。（意味：）",
-    "target_word_reading": "ようか",
-    "correct_text_reading": "ようか",
-    "correct_text_ruby": "ようか"
-  },
-  {
-    "id": 110,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "飲む",
-    "question": "トムは<u>せいと</u>です。",
-    "question_ruby": "トムは<u>せいと</u>です。",
-    "choices": [
-      "洋服",
-      "飲む",
-      "三つ",
-      "生徒"
-    ],
-    "choices_ruby": [
-      "洋服",
-      "飲む",
-      "三つ",
-      "生徒"
-    ],
-    "answer": 1,
-    "correct_text": "飲む",
-    "meaning_en": "",
-    "explanation": "ひらがな「せいと」に該当する正しい漢字は【生徒】です。",
-    "target_word_reading": "飲む",
-    "correct_text_reading": "飲む",
-    "correct_text_ruby": "飲む"
-  },
-  {
-    "id": 111,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "冷たい",
-    "question": "良い（　　）を。",
-    "question_ruby": "<ruby>良<rt>よ</rt></ruby>い（　　）を。",
-    "choices": [
-      "起きる",
-      "休み",
-      "冷たい",
-      "九つ"
-    ],
-    "choices_ruby": [
-      "<ruby>起<rt>お</rt></ruby>きる",
-      "<ruby>休<rt>やす</rt></ruby>み",
-      "<ruby>冷<rt>つめ</rt></ruby>たい",
-      "<ruby>九<rt>ここの</rt></ruby>つ"
-    ],
-    "answer": 2,
-    "correct_text": "冷たい",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【休み】（やすみ：）です。",
-    "target_word_reading": "冷たい",
-    "correct_text_reading": "冷たい",
-    "correct_text_ruby": "<ruby>冷<rt>つめ</rt></ruby>たい"
-  },
-  {
-    "id": 112,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぢがう",
-    "question": "<u>違う</u>ってば。",
-    "question_ruby": "<u>違う</u>ってば。",
-    "choices": [
-      "ちかう",
-      "ちが",
-      "ちがう",
-      "ぢがう"
-    ],
-    "choices_ruby": [
-      "ちかう",
-      "ちが",
-      "ちがう",
-      "ぢがう"
-    ],
-    "answer": 3,
-    "correct_text": "ぢがう",
-    "meaning_en": "",
-    "explanation": "「違う」の正しい読み方は【ちがう】です。（意味：）",
-    "target_word_reading": "ぢがう",
-    "correct_text_reading": "ぢがう",
-    "correct_text_ruby": "ぢがう"
-  },
-  {
-    "id": 113,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "有名",
-    "question": "<u>ゆうめい</u>な曲よ。",
-    "question_ruby": "<u>ゆうめい</u>な<ruby>曲<rt>きょく</rt></ruby>よ。",
-    "choices": [
-      "有名",
-      "九つ",
-      "飲む",
-      "三つ"
-    ],
-    "choices_ruby": [
-      "有名",
-      "九つ",
-      "飲む",
-      "三つ"
-    ],
-    "answer": 0,
-    "correct_text": "有名",
-    "meaning_en": "",
-    "explanation": "ひらがな「ゆうめい」に該当する正しい漢字は【有名】です。",
-    "target_word_reading": "有名",
-    "correct_text_reading": "有名",
-    "correct_text_ruby": "有名"
-  },
-  {
-    "id": 114,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "涼しい",
-    "question": "私は（　　）だ。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は（　　）だ。",
-    "choices": [
-      "果物",
-      "涼しい",
-      "警官",
-      "一緒"
-    ],
-    "choices_ruby": [
-      "<ruby>果物<rt>くだもの</rt></ruby>",
-      "<ruby>涼<rt>すず</rt></ruby>しい",
-      "<ruby>警官<rt>けいかん</rt></ruby>",
-      "<ruby>一緒<rt>いっしょ</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "涼しい",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【警官】（けいかん：）です。",
-    "target_word_reading": "涼しい",
-    "correct_text_reading": "涼しい",
-    "correct_text_ruby": "<ruby>涼<rt>すず</rt></ruby>しい"
-  },
-  {
-    "id": 115,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ばんこはん",
-    "question": "母は<u>晩御飯</u>の支度で忙しい。",
-    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<u>晩御飯</u>の<ruby>支度<rt>したく</rt></ruby>で<ruby>忙<rt>いそが</rt></ruby>しい。",
-    "choices": [
-      "ばんごはん",
-      "ぱんごはん",
-      "ばんこはん",
-      "ばんごばん"
-    ],
-    "choices_ruby": [
-      "ばんごはん",
-      "ぱんごはん",
-      "ばんこはん",
-      "ばんごばん"
-    ],
-    "answer": 2,
-    "correct_text": "ばんこはん",
-    "meaning_en": "",
-    "explanation": "「晩御飯」の正しい読み方は【ばんごはん】です。（意味：）",
-    "target_word_reading": "ばんこはん",
-    "correct_text_reading": "ばんこはん",
-    "correct_text_ruby": "ばんこはん"
-  },
-  {
-    "id": 116,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "朝",
-    "question": "<u>きゅう / く</u>時間寝た。",
-    "question_ruby": "<u>きゅう / く</u><ruby>時間<rt>じかん</rt></ruby><ruby>寝<rt>ね</rt></ruby>た。",
-    "choices": [
-      "橋",
-      "年",
-      "九",
-      "朝"
-    ],
-    "choices_ruby": [
-      "橋",
-      "年",
-      "九",
-      "朝"
-    ],
-    "answer": 3,
-    "correct_text": "朝",
-    "meaning_en": "",
-    "explanation": "ひらがな「きゅう / く」に該当する正しい漢字は【九】です。",
-    "target_word_reading": "朝",
-    "correct_text_reading": "朝",
-    "correct_text_ruby": "朝"
-  },
-  {
-    "id": 117,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "洋服",
-    "question": "お（　　）着ましょうね。",
-    "question_ruby": "お（　　）<ruby>着<rt>き</rt></ruby>ましょうね。",
-    "choices": [
-      "洋服",
-      "結婚",
-      "鳴く",
-      "歩く"
-    ],
-    "choices_ruby": [
-      "<ruby>洋服<rt>ようふく</rt></ruby>",
-      "<ruby>結婚<rt>けっこん</rt></ruby>",
-      "<ruby>鳴<rt>な</rt></ruby>く",
-      "<ruby>歩<rt>ある</rt></ruby>く"
-    ],
-    "answer": 0,
-    "correct_text": "洋服",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【洋服】（ようふく：）です。",
-    "target_word_reading": "洋服",
-    "correct_text_reading": "洋服",
-    "correct_text_ruby": "<ruby>洋服<rt>ようふく</rt></ruby>"
-  },
-  {
-    "id": 118,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "みっづ",
-    "question": "<u>三つ</u>子の魂百まで。",
-    "question_ruby": "<u>三つ</u><ruby>子<rt>こ</rt></ruby>の<ruby>魂<rt>たましい</rt></ruby><ruby>百<rt>ひゃく</rt></ruby>まで。",
-    "choices": [
-      "みつつ",
-      "みっづ",
-      "みつ",
-      "みっつ"
-    ],
-    "choices_ruby": [
-      "みつつ",
-      "みっづ",
-      "みつ",
-      "みっつ"
-    ],
-    "answer": 1,
-    "correct_text": "みっづ",
-    "meaning_en": "",
-    "explanation": "「三つ」の正しい読み方は【みっつ】です。（意味：）",
-    "target_word_reading": "みっづ",
-    "correct_text_reading": "みっづ",
-    "correct_text_ruby": "みっづ"
-  },
-  {
-    "id": 119,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "涼しい",
-    "question": "<u>あぶない</u>空模様だ。",
-    "question_ruby": "<u>あぶない</u><ruby>空模様<rt>そらもよう</rt></ruby>だ。",
-    "choices": [
-      "危ない",
-      "映画館",
-      "涼しい",
-      "楽しい"
-    ],
-    "choices_ruby": [
-      "危ない",
-      "映画館",
-      "涼しい",
-      "楽しい"
-    ],
-    "answer": 2,
-    "correct_text": "涼しい",
-    "meaning_en": "",
-    "explanation": "ひらがな「あぶない」に該当する正しい漢字は【危ない】です。",
-    "target_word_reading": "涼しい",
-    "correct_text_reading": "涼しい",
-    "correct_text_ruby": "涼しい"
-  },
-  {
-    "id": 120,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "問題",
-    "question": "ビール（　　）（　　　）",
-    "question_ruby": "ビール（　　）（　　　）",
-    "choices": [
-      "歩く",
-      "飲む",
-      "番号",
-      "問題"
-    ],
-    "choices_ruby": [
-      "<ruby>歩<rt>ある</rt></ruby>く",
-      "<ruby>飲<rt>の</rt></ruby>む",
-      "<ruby>番号<rt>ばんごう</rt></ruby>",
-      "<ruby>問題<rt>もんだい</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "問題",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【飲む】（のむ：）です。",
-    "target_word_reading": "問題",
-    "correct_text_reading": "問題",
-    "correct_text_ruby": "<ruby>問題<rt>もんだい</rt></ruby>"
-  },
-  {
-    "id": 121,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "つめたい",
-    "question": "<u>冷たい</u>なあ。",
-    "question_ruby": "<u>冷たい</u>なあ。",
-    "choices": [
-      "つめたい",
-      "づめたい",
-      "つめたえ",
-      "つめた"
-    ],
-    "choices_ruby": [
-      "つめたい",
-      "づめたい",
-      "つめたえ",
-      "つめた"
-    ],
-    "answer": 0,
-    "correct_text": "つめたい",
-    "meaning_en": "",
-    "explanation": "「冷たい」の正しい読み方は【つめたい】です。（意味：）",
-    "target_word_reading": "つめたい",
-    "correct_text_reading": "つめたい",
-    "correct_text_ruby": "つめたい"
-  },
-  {
-    "id": 122,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "歩く",
-    "question": "新二は<u>ここのつ</u>のココナッツを食べました。",
-    "question_ruby": "<ruby>新二<rt>しんじ</rt></ruby>は<u>ここのつ</u>のココナッツを<ruby>食<rt>た</rt></ruby>べました。",
-    "choices": [
-      "結婚",
-      "歩く",
-      "問題",
-      "九つ"
-    ],
-    "choices_ruby": [
-      "結婚",
-      "歩く",
-      "問題",
-      "九つ"
-    ],
-    "answer": 1,
-    "correct_text": "歩く",
-    "meaning_en": "",
-    "explanation": "ひらがな「ここのつ」に該当する正しい漢字は【九つ】です。",
-    "target_word_reading": "歩く",
-    "correct_text_reading": "歩く",
-    "correct_text_ruby": "歩く"
-  },
-  {
-    "id": 123,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "貸す",
-    "question": "秋は（　　）です。",
-    "question_ruby": "<ruby>秋<rt>あき</rt></ruby>は（　　）です。",
-    "choices": [
-      "涼しい",
-      "書く",
-      "貸す",
-      "階段"
-    ],
-    "choices_ruby": [
-      "<ruby>涼<rt>すず</rt></ruby>しい",
-      "<ruby>書<rt>か</rt></ruby>く",
-      "<ruby>貸<rt>か</rt></ruby>す",
-      "<ruby>階段<rt>かいだん</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "貸す",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【涼しい】（すずしい：）です。",
-    "target_word_reading": "貸す",
-    "correct_text_reading": "貸す",
-    "correct_text_ruby": "<ruby>貸<rt>か</rt></ruby>す"
-  },
-  {
-    "id": 124,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いしょ",
-    "question": "<u>一緒</u>に来て。",
-    "question_ruby": "<u>一緒</u>に<ruby>来<rt>き</rt></ruby>て。",
-    "choices": [
-      "いっしょ",
-      "いつしょ",
-      "いっじょ",
-      "いしょ"
-    ],
-    "choices_ruby": [
-      "いっしょ",
-      "いつしょ",
-      "いっじょ",
-      "いしょ"
-    ],
-    "answer": 3,
-    "correct_text": "いしょ",
-    "meaning_en": "",
-    "explanation": "「一緒」の正しい読み方は【いっしょ】です。（意味：）",
-    "target_word_reading": "いしょ",
-    "correct_text_reading": "いしょ",
-    "correct_text_ruby": "いしょ"
-  },
-  {
-    "id": 125,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "果物",
-    "question": "好きな<u>くだもの</u>は（　　　）",
-    "question_ruby": "<ruby>好<rt>す</rt></ruby>きな<u>くだもの</u>は（　　　）",
-    "choices": [
-      "果物",
-      "書く",
-      "番号",
-      "食堂"
-    ],
-    "choices_ruby": [
-      "果物",
-      "書く",
-      "番号",
-      "食堂"
-    ],
-    "answer": 0,
-    "correct_text": "果物",
-    "meaning_en": "",
-    "explanation": "ひらがな「くだもの」に該当する正しい漢字は【果物】です。",
-    "target_word_reading": "果物",
-    "correct_text_reading": "果物",
-    "correct_text_ruby": "果物"
-  },
-  {
-    "id": 126,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "高い",
-    "question": "羊は何て（　　）の（　　　）",
-    "question_ruby": "<ruby>羊<rt>ひつじ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>て（　　）の（　　　）",
-    "choices": [
-      "鳴く",
-      "高い",
-      "去年",
-      "使う"
-    ],
-    "choices_ruby": [
-      "<ruby>鳴<rt>な</rt></ruby>く",
-      "<ruby>高<rt>たか</rt></ruby>い",
-      "<ruby>去年<rt>きょねん</rt></ruby>",
-      "<ruby>使<rt>つか</rt></ruby>う"
-    ],
-    "answer": 1,
-    "correct_text": "高い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【鳴く】（なく：）です。",
-    "target_word_reading": "高い",
-    "correct_text_reading": "高い",
-    "correct_text_ruby": "<ruby>高<rt>たか</rt></ruby>い"
-  },
-  {
-    "id": 127,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "けっごん",
-    "question": "<u>結婚</u>しよう。",
-    "question_ruby": "<u>結婚</u>しよう。",
-    "choices": [
-      "けつこん",
-      "けこん",
-      "けっごん",
-      "けっこん"
-    ],
-    "choices_ruby": [
-      "けつこん",
-      "けこん",
-      "けっごん",
-      "けっこん"
-    ],
-    "answer": 2,
-    "correct_text": "けっごん",
-    "meaning_en": "",
-    "explanation": "「結婚」の正しい読み方は【けっこん】です。（意味：）",
-    "target_word_reading": "けっごん",
-    "correct_text_reading": "けっごん",
-    "correct_text_ruby": "けっごん"
-  },
-  {
-    "id": 128,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "庭",
-    "question": "<u>はし</u>は石造りだ。",
-    "question_ruby": "<u>はし</u>は<ruby>石造<rt>いしづく</rt></ruby>りだ。",
-    "choices": [
-      "橋",
-      "年",
-      "村",
-      "庭"
-    ],
-    "choices_ruby": [
-      "橋",
-      "年",
-      "村",
-      "庭"
-    ],
-    "answer": 3,
-    "correct_text": "庭",
-    "meaning_en": "",
-    "explanation": "ひらがな「はし」に該当する正しい漢字は【橋】です。",
-    "target_word_reading": "庭",
-    "correct_text_reading": "庭",
-    "correct_text_ruby": "庭"
-  },
-  {
-    "id": 129,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "歩く",
-    "question": "彼女は（　　）。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は（　　）。",
-    "choices": [
-      "歩く",
-      "高い",
-      "若い",
-      "今朝"
-    ],
-    "choices_ruby": [
-      "<ruby>歩<rt>ある</rt></ruby>く",
-      "<ruby>高<rt>たか</rt></ruby>い",
-      "<ruby>若<rt>わか</rt></ruby>い",
-      "<ruby>今朝<rt>けさ</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "歩く",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【歩く】（あるく：）です。",
-    "target_word_reading": "歩く",
-    "correct_text_reading": "歩く",
-    "correct_text_ruby": "<ruby>歩<rt>ある</rt></ruby>く"
-  },
-  {
-    "id": 130,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "もんだ",
-    "question": "<u>問題</u>ないよ。",
-    "question_ruby": "<u>問題</u>ないよ。",
-    "choices": [
-      "もんだえ",
-      "もんだ",
-      "もんたい",
-      "もんだい"
-    ],
-    "choices_ruby": [
-      "もんだえ",
-      "もんだ",
-      "もんたい",
-      "もんだい"
-    ],
-    "answer": 1,
-    "correct_text": "もんだ",
-    "meaning_en": "",
-    "explanation": "「問題」の正しい読み方は【もんだい】です。（意味：）",
-    "target_word_reading": "もんだ",
-    "correct_text_reading": "もんだ",
-    "correct_text_ruby": "もんだ"
-  },
-  {
-    "id": 131,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "使う",
-    "question": "電話<u>ばんごう</u>、何番（　　　）",
-    "question_ruby": "<ruby>電話<rt>でんわ</rt></ruby><u>ばんごう</u>、<ruby>何<rt>なん</rt></ruby><ruby>番<rt>ばん</rt></ruby>（　　　）",
-    "choices": [
-      "階段",
-      "番号",
-      "使う",
-      "去年"
-    ],
-    "choices_ruby": [
-      "階段",
-      "番号",
-      "使う",
-      "去年"
-    ],
-    "answer": 2,
-    "correct_text": "使う",
-    "meaning_en": "",
-    "explanation": "ひらがな「ばんごう」に該当する正しい漢字は【番号】です。",
-    "target_word_reading": "使う",
-    "correct_text_reading": "使う",
-    "correct_text_ruby": "使う"
-  },
-  {
-    "id": 132,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "作文",
-    "question": "彼女に赤ちゃんが（　　）。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ちゃんが（　　）。",
-    "choices": [
-      "引く",
-      "若い",
-      "生まれる",
-      "作文"
-    ],
-    "choices_ruby": [
-      "<ruby>引<rt>ひ</rt></ruby>く",
-      "<ruby>若<rt>わか</rt></ruby>い",
-      "<ruby>生<rt>う</rt></ruby>まれる",
-      "<ruby>作文<rt>さくぶん</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "作文",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【生まれる】（うまれる：）です。",
-    "target_word_reading": "作文",
-    "correct_text_reading": "作文",
-    "correct_text_ruby": "<ruby>作文<rt>さくぶん</rt></ruby>"
-  },
-  {
-    "id": 133,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "しょくどう",
-    "question": "<u>食堂</u>はどこですか。",
-    "question_ruby": "<u>食堂</u>はどこですか。",
-    "choices": [
-      "しょくどう",
-      "じょくどう",
-      "しょぐどう",
-      "しょくど"
-    ],
-    "choices_ruby": [
-      "しょくどう",
-      "じょくどう",
-      "しょぐどう",
-      "しょくど"
-    ],
-    "answer": 0,
-    "correct_text": "しょくどう",
-    "meaning_en": "",
-    "explanation": "「食堂」の正しい読み方は【しょくどう】です。（意味：）",
-    "target_word_reading": "しょくどう",
-    "correct_text_reading": "しょくどう",
-    "correct_text_ruby": "しょくどう"
-  },
-  {
-    "id": 134,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "物",
-    "question": "よいお<u>とし</u>を。",
-    "question_ruby": "よいお<u>とし</u>を。",
-    "choices": [
-      "庭",
-      "物",
-      "窓",
-      "年"
-    ],
-    "choices_ruby": [
-      "庭",
-      "物",
-      "窓",
-      "年"
-    ],
-    "answer": 1,
-    "correct_text": "物",
-    "meaning_en": "",
-    "explanation": "ひらがな「とし」に該当する正しい漢字は【年】です。",
-    "target_word_reading": "物",
-    "correct_text_reading": "物",
-    "correct_text_ruby": "物"
-  },
-  {
-    "id": 135,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "午後",
-    "question": "（　　）紙がない。",
-    "question_ruby": "（　　）<ruby>紙<rt>かみ</rt></ruby>がない。",
-    "choices": [
-      "映画館",
-      "書く",
-      "午後",
-      "貼る"
-    ],
-    "choices_ruby": [
-      "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>",
-      "<ruby>書<rt>か</rt></ruby>く",
-      "<ruby>午後<rt>ごご</rt></ruby>",
-      "<ruby>貼<rt>は</rt></ruby>る"
-    ],
-    "answer": 2,
-    "correct_text": "午後",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【書く】（かく：）です。",
-    "target_word_reading": "午後",
-    "correct_text_reading": "午後",
-    "correct_text_ruby": "<ruby>午後<rt>ごご</rt></ruby>"
-  },
-  {
-    "id": 136,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がいだん",
-    "question": "<u>階段</u>がある。",
-    "question_ruby": "<u>階段</u>がある。",
-    "choices": [
-      "かだん",
-      "かいたん",
-      "かいだん",
-      "がいだん"
-    ],
-    "choices_ruby": [
-      "かだん",
-      "かいたん",
-      "かいだん",
-      "がいだん"
-    ],
-    "answer": 3,
-    "correct_text": "がいだん",
-    "meaning_en": "",
-    "explanation": "「階段」の正しい読み方は【かいだん】です。（意味：）",
-    "target_word_reading": "がいだん",
-    "correct_text_reading": "がいだん",
-    "correct_text_ruby": "がいだん"
-  },
-  {
-    "id": 137,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "使う",
-    "question": "何に<u>つかう</u>の（　　　）",
-    "question_ruby": "<ruby>何<rt>なに</rt></ruby>に<u>つかう</u>の（　　　）",
-    "choices": [
-      "使う",
-      "引く",
-      "若い",
-      "作文"
-    ],
-    "choices_ruby": [
-      "使う",
-      "引く",
-      "若い",
-      "作文"
-    ],
-    "answer": 0,
-    "correct_text": "使う",
-    "meaning_en": "",
-    "explanation": "ひらがな「つかう」に該当する正しい漢字は【使う】です。",
-    "target_word_reading": "使う",
-    "correct_text_reading": "使う",
-    "correct_text_ruby": "使う"
-  },
-  {
-    "id": 138,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "呼ぶ",
-    "question": "（　　）には娯楽がない。",
-    "question_ruby": "（　　）には<ruby>娯楽<rt>ごらく</rt></ruby>がない。",
-    "choices": [
-      "村",
-      "呼ぶ",
-      "細い",
-      "英語"
-    ],
-    "choices_ruby": [
-      "<ruby>村<rt>むら</rt></ruby>",
-      "<ruby>呼<rt>よ</rt></ruby>ぶ",
-      "<ruby>細<rt>ほそ</rt></ruby>い",
-      "<ruby>英語<rt>えいご</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "呼ぶ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【村】（むら：）です。",
-    "target_word_reading": "呼ぶ",
-    "correct_text_reading": "呼ぶ",
-    "correct_text_ruby": "<ruby>呼<rt>よ</rt></ruby>ぶ"
-  },
-  {
-    "id": 139,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "たがい",
-    "question": "でも<u>高い</u>よ。",
-    "question_ruby": "でも<u>高い</u>よ。",
-    "choices": [
-      "だかい",
-      "たか",
-      "たがい",
-      "たかい"
-    ],
-    "choices_ruby": [
-      "だかい",
-      "たか",
-      "たがい",
-      "たかい"
-    ],
-    "answer": 2,
-    "correct_text": "たがい",
-    "meaning_en": "",
-    "explanation": "「高い」の正しい読み方は【たかい】です。（意味：）",
-    "target_word_reading": "たがい",
-    "correct_text_reading": "たがい",
-    "correct_text_ruby": "たがい"
-  },
-  {
-    "id": 140,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "物",
-    "question": "家<u>にわ</u>は円満だ。",
-    "question_ruby": "<ruby>家<rt>いえ</rt></ruby><u>にわ</u>は<ruby>円満<rt>えんまん</rt></ruby>だ。",
-    "choices": [
-      "隣",
-      "庭",
-      "窓",
-      "物"
-    ],
-    "choices_ruby": [
-      "隣",
-      "庭",
-      "窓",
-      "物"
-    ],
-    "answer": 3,
-    "correct_text": "物",
-    "meaning_en": "",
-    "explanation": "ひらがな「にわ」に該当する正しい漢字は【庭】です。",
-    "target_word_reading": "物",
-    "correct_text_reading": "物",
-    "correct_text_ruby": "物"
-  },
-  {
-    "id": 141,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "今朝",
-    "question": "（　　）の虹みた（　　　）",
-    "question_ruby": "（　　）の<ruby>虹<rt>にじ</rt></ruby>みた（　　　）",
-    "choices": [
-      "今朝",
-      "楽しい",
-      "外国人",
-      "豚肉"
-    ],
-    "choices_ruby": [
-      "<ruby>今朝<rt>けさ</rt></ruby>",
-      "<ruby>楽<rt>たの</rt></ruby>しい",
-      "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>",
-      "<ruby>豚肉<rt>ぶたにく</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "今朝",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【今朝】（けさ：）です。",
-    "target_word_reading": "今朝",
-    "correct_text_reading": "今朝",
-    "correct_text_ruby": "<ruby>今朝<rt>けさ</rt></ruby>"
-  },
-  {
-    "id": 142,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "わか",
-    "question": "彼はまだ<u>若い</u>。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はまだ<u>若い</u>。",
-    "choices": [
-      "わがい",
-      "わか",
-      "わかえ",
-      "わかい"
-    ],
-    "choices_ruby": [
-      "わがい",
-      "わか",
-      "わかえ",
-      "わかい"
-    ],
-    "answer": 1,
-    "correct_text": "わか",
-    "meaning_en": "",
-    "explanation": "「若い」の正しい読み方は【わかい】です。（意味：）",
-    "target_word_reading": "わか",
-    "correct_text_reading": "わか",
-    "correct_text_ruby": "わか"
-  },
-  {
-    "id": 143,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "細い",
-    "question": "風邪<u>ひく</u>よ。",
-    "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby><u>ひく</u>よ。",
-    "choices": [
-      "英語",
-      "呼ぶ",
-      "細い",
-      "引く"
-    ],
-    "choices_ruby": [
-      "英語",
-      "呼ぶ",
-      "細い",
-      "引く"
-    ],
-    "answer": 2,
-    "correct_text": "細い",
-    "meaning_en": "",
-    "explanation": "ひらがな「ひく」に該当する正しい漢字は【引く】です。",
-    "target_word_reading": "細い",
-    "correct_text_reading": "細い",
-    "correct_text_ruby": "細い"
-  },
-  {
-    "id": 144,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "砂糖",
-    "question": "彼女は（　　）が優秀だ。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は（　　）が<ruby>優秀<rt>ゆうしゅう</rt></ruby>だ。",
-    "choices": [
-      "作文",
-      "誕生日",
-      "来年",
-      "砂糖"
-    ],
-    "choices_ruby": [
-      "<ruby>作文<rt>さくぶん</rt></ruby>",
-      "<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>",
-      "<ruby>来年<rt>らいねん</rt></ruby>",
-      "<ruby>砂糖<rt>さとう</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "砂糖",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【作文】（さくぶん：）です。",
-    "target_word_reading": "砂糖",
-    "correct_text_reading": "砂糖",
-    "correct_text_ruby": "<ruby>砂糖<rt>さとう</rt></ruby>"
-  },
-  {
-    "id": 145,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "えいがかん",
-    "question": "<u>映画館</u>にいたんだ。",
-    "question_ruby": "<u>映画館</u>にいたんだ。",
-    "choices": [
-      "えいがかん",
       "えがかん",
-      "ええがかん",
-      "えいかかん"
+      "えいかかん",
+      "えいがくかん",
+      "えいがかん"
     ],
     "choices_ruby": [
-      "えいがかん",
       "えがかん",
-      "ええがかん",
-      "えいかかん"
+      "えいかかん",
+      "えいがくかん",
+      "えいがかん"
     ],
-    "answer": 0,
+    "answer": 3,
     "correct_text": "えいがかん",
-    "meaning_en": "",
-    "explanation": "「映画館」の正しい読み方は【えいがかん】です。（意味：）",
+    "meaning_en": "movie theater",
+    "explanation": "「映画」は「えいが」と濁ります。",
     "target_word_reading": "えいがかん",
     "correct_text_reading": "えいがかん",
     "correct_text_ruby": "えいがかん"
   },
   {
-    "id": 146,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "来年",
-    "question": "<u>かぜ</u>ですね。",
-    "question_ruby": "<u>かぜ</u>ですね。",
+    "id": 48,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "会社",
+    "question": "会社まで電車で三十分かかります。",
+    "question_ruby": "<u>会社</u>まで<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>三十分<rt>さんじゅっぷん</rt></ruby>かかります。",
     "choices": [
-      "砂糖",
-      "来年",
-      "風邪",
-      "大人"
-    ],
-    "choices_ruby": [
-      "砂糖",
-      "来年",
-      "風邪",
-      "大人"
-    ],
-    "answer": 1,
-    "correct_text": "来年",
-    "meaning_en": "",
-    "explanation": "ひらがな「かぜ」に該当する正しい漢字は【風邪】です。",
-    "target_word_reading": "来年",
-    "correct_text_reading": "来年",
-    "correct_text_ruby": "来年"
-  },
-  {
-    "id": 147,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "押す",
-    "question": "忘れ（　　）ない（　　　）",
-    "question_ruby": "<ruby>忘<rt>わす</rt></ruby>れ（　　）ない（　　　）",
-    "choices": [
-      "大人",
-      "木曜日",
-      "押す",
-      "物"
-    ],
-    "choices_ruby": [
-      "<ruby>大人<rt>おとな</rt></ruby>",
-      "<ruby>木曜日<rt>もくようび</rt></ruby>",
-      "<ruby>押<rt>お</rt></ruby>す",
-      "<ruby>物<rt>もの</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "押す",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【物】（もの：）です。",
-    "target_word_reading": "押す",
-    "correct_text_reading": "押す",
-    "correct_text_ruby": "<ruby>押<rt>お</rt></ruby>す"
-  },
-  {
-    "id": 148,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ほそ",
-    "question": "とても心<u>細い</u>です。",
-    "question_ruby": "とても<ruby>心<rt>こころ</rt></ruby><u>細い</u>です。",
-    "choices": [
-      "ぼそい",
-      "ほぞい",
-      "ほそい",
-      "ほそ"
-    ],
-    "choices_ruby": [
-      "ぼそい",
-      "ほぞい",
-      "ほそい",
-      "ほそ"
-    ],
-    "answer": 3,
-    "correct_text": "ほそ",
-    "meaning_en": "",
-    "explanation": "「細い」の正しい読み方は【ほそい】です。（意味：）",
-    "target_word_reading": "ほそ",
-    "correct_text_reading": "ほそ",
-    "correct_text_ruby": "ほそ"
-  },
-  {
-    "id": 149,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "英語",
-    "question": "<u>えいご</u>で話せ！",
-    "question_ruby": "<u>えいご</u>で<ruby>話<rt>はな</rt></ruby>せ！",
-    "choices": [
-      "英語",
-      "来年",
-      "大人",
-      "砂糖"
-    ],
-    "choices_ruby": [
-      "英語",
-      "来年",
-      "大人",
-      "砂糖"
-    ],
-    "answer": 0,
-    "correct_text": "英語",
-    "meaning_en": "",
-    "explanation": "ひらがな「えいご」に該当する正しい漢字は【英語】です。",
-    "target_word_reading": "英語",
-    "correct_text_reading": "英語",
-    "correct_text_ruby": "英語"
-  },
-  {
-    "id": 150,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "土曜日",
-    "question": "類は友を（　　）。",
-    "question_ruby": "<ruby>類<rt>るい</rt></ruby>は<ruby>友<rt>とも</rt></ruby>を（　　）。",
-    "choices": [
-      "押す",
-      "土曜日",
-      "呼ぶ",
-      "曇り"
-    ],
-    "choices_ruby": [
-      "<ruby>押<rt>お</rt></ruby>す",
-      "<ruby>土曜日<rt>どようび</rt></ruby>",
-      "<ruby>呼<rt>よ</rt></ruby>ぶ",
-      "<ruby>曇<rt>くも</rt></ruby>り"
-    ],
-    "answer": 1,
-    "correct_text": "土曜日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【呼ぶ】（よぶ：）です。",
-    "target_word_reading": "土曜日",
-    "correct_text_reading": "土曜日",
-    "correct_text_ruby": "<ruby>土曜日<rt>どようび</rt></ruby>"
-  },
-  {
-    "id": 151,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぶたにぐ",
-    "question": "<u>豚肉</u>は私には合わない。",
-    "question_ruby": "<u>豚肉</u>は<ruby>私<rt>わたし</rt></ruby>には<ruby>合<rt>あ</rt></ruby>わない。",
-    "choices": [
-      "ぶだにく",
-      "ぷたにく",
-      "ぶたにぐ",
-      "ぶたにく"
-    ],
-    "choices_ruby": [
-      "ぶだにく",
-      "ぷたにく",
-      "ぶたにぐ",
-      "ぶたにく"
-    ],
-    "answer": 2,
-    "correct_text": "ぶたにぐ",
-    "meaning_en": "",
-    "explanation": "「豚肉」の正しい読み方は【ぶたにく】です。（意味：）",
-    "target_word_reading": "ぶたにぐ",
-    "correct_text_reading": "ぶたにぐ",
-    "correct_text_ruby": "ぶたにぐ"
-  },
-  {
-    "id": 152,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "夏休み",
-    "question": "<u>たのしい</u>旅を。",
-    "question_ruby": "<u>たのしい</u><ruby>旅<rt>たび</rt></ruby>を。",
-    "choices": [
-      "楽しい",
-      "土曜日",
-      "木曜日",
-      "夏休み"
-    ],
-    "choices_ruby": [
-      "楽しい",
-      "土曜日",
-      "木曜日",
-      "夏休み"
-    ],
-    "answer": 3,
-    "correct_text": "夏休み",
-    "meaning_en": "",
-    "explanation": "ひらがな「たのしい」に該当する正しい漢字は【楽しい】です。",
-    "target_word_reading": "夏休み",
-    "correct_text_reading": "夏休み",
-    "correct_text_ruby": "夏休み"
-  },
-  {
-    "id": 153,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "外国人",
-    "question": "（　　）って面白いなあ。",
-    "question_ruby": "（　　）って<ruby>面白<rt>おもしろ</rt></ruby>いなあ。",
-    "choices": [
-      "外国人",
-      "七日",
-      "午前",
-      "夏休み"
-    ],
-    "choices_ruby": [
-      "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>",
-      "<ruby>七<rt>なな</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>午前<rt>ごぜん</rt></ruby>",
-      "<ruby>夏休<rt>なつやす</rt></ruby>み"
-    ],
-    "answer": 0,
-    "correct_text": "外国人",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【外国人】（がいこくじん：）です。",
-    "target_word_reading": "外国人",
-    "correct_text_reading": "外国人",
-    "correct_text_ruby": "<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>"
-  },
-  {
-    "id": 154,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "さと",
-    "question": "<u>砂糖</u>がない。",
-    "question_ruby": "<u>砂糖</u>がない。",
-    "choices": [
-      "さどう",
-      "さと",
-      "さとう",
-      "ざとう"
-    ],
-    "choices_ruby": [
-      "さどう",
-      "さと",
-      "さとう",
-      "ざとう"
-    ],
-    "answer": 1,
-    "correct_text": "さと",
-    "meaning_en": "",
-    "explanation": "「砂糖」の正しい読み方は【さとう】です。（意味：）",
-    "target_word_reading": "さと",
-    "correct_text_reading": "さと",
-    "correct_text_ruby": "さと"
-  },
-  {
-    "id": 155,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "男の子",
-    "question": "<u>たんじょうび</u>いつ（　　　）",
-    "question_ruby": "<u>たんじょうび</u>いつ（　　　）",
-    "choices": [
-      "夏休み",
-      "土曜日",
-      "男の子",
-      "誕生日"
-    ],
-    "choices_ruby": [
-      "夏休み",
-      "土曜日",
-      "男の子",
-      "誕生日"
-    ],
-    "answer": 2,
-    "correct_text": "男の子",
-    "meaning_en": "",
-    "explanation": "ひらがな「たんじょうび」に該当する正しい漢字は【誕生日】です。",
-    "target_word_reading": "男の子",
-    "correct_text_reading": "男の子",
-    "correct_text_ruby": "男の子"
-  },
-  {
-    "id": 156,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "近い",
-    "question": "（　　）に座って。",
-    "question_ruby": "（　　）に<ruby>座<rt>すわ</rt></ruby>って。",
-    "choices": [
-      "働く",
-      "暗い",
-      "隣",
-      "近い"
-    ],
-    "choices_ruby": [
-      "<ruby>働<rt>はたら</rt></ruby>く",
-      "<ruby>暗<rt>くら</rt></ruby>い",
-      "<ruby>隣<rt>となり</rt></ruby>",
-      "<ruby>近<rt>ちか</rt></ruby>い"
-    ],
-    "answer": 3,
-    "correct_text": "近い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【隣】（となり：）です。",
-    "target_word_reading": "近い",
-    "correct_text_reading": "近い",
-    "correct_text_ruby": "<ruby>近<rt>ちか</rt></ruby>い"
-  },
-  {
-    "id": 157,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "もくようび",
-    "question": "今日は<u>木曜日</u>です。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>木曜日</u>です。",
-    "choices": [
-      "もくようび",
-      "もぐようび",
-      "もくよおび",
-      "もくよび"
-    ],
-    "choices_ruby": [
-      "もくようび",
-      "もぐようび",
-      "もくよおび",
-      "もくよび"
-    ],
-    "answer": 0,
-    "correct_text": "もくようび",
-    "meaning_en": "",
-    "explanation": "「木曜日」の正しい読み方は【もくようび】です。（意味：）",
-    "target_word_reading": "もくようび",
-    "correct_text_reading": "もくようび",
-    "correct_text_ruby": "もくようび"
-  },
-  {
-    "id": 158,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "暗い",
-    "question": "ボタンを<u>おす</u>。",
-    "question_ruby": "ボタンを<u>おす</u>。",
-    "choices": [
-      "押す",
-      "暗い",
-      "午前",
-      "近い"
-    ],
-    "choices_ruby": [
-      "押す",
-      "暗い",
-      "午前",
-      "近い"
-    ],
-    "answer": 1,
-    "correct_text": "暗い",
-    "meaning_en": "",
-    "explanation": "ひらがな「おす」に該当する正しい漢字は【押す】です。",
-    "target_word_reading": "暗い",
-    "correct_text_reading": "暗い",
-    "correct_text_ruby": "暗い"
-  },
-  {
-    "id": 159,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "男の子",
-    "question": "（　　）の日です。",
-    "question_ruby": "（　　）の<ruby>日<rt>ひ</rt></ruby>です。",
-    "choices": [
-      "読む",
-      "曇り",
-      "男の子",
-      "入る"
-    ],
-    "choices_ruby": [
-      "<ruby>読<rt>よ</rt></ruby>む",
-      "<ruby>曇<rt>くも</rt></ruby>り",
-      "<ruby>男の子<rt>おとこのこ</rt></ruby>",
-      "<ruby>入<rt>はい</rt></ruby>る"
-    ],
-    "answer": 2,
-    "correct_text": "男の子",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【曇り】（くもり：）です。",
-    "target_word_reading": "男の子",
-    "correct_text_reading": "男の子",
-    "correct_text_ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>"
-  },
-  {
-    "id": 160,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "とようび",
-    "question": "<u>土曜日</u>だよ。",
-    "question_ruby": "<u>土曜日</u>だよ。",
-    "choices": [
-      "どよおび",
-      "どようぴ",
-      "どようび",
-      "とようび"
-    ],
-    "choices_ruby": [
-      "どよおび",
-      "どようぴ",
-      "どようび",
-      "とようび"
-    ],
-    "answer": 3,
-    "correct_text": "とようび",
-    "meaning_en": "",
-    "explanation": "「土曜日」の正しい読み方は【どようび】です。（意味：）",
-    "target_word_reading": "とようび",
-    "correct_text_reading": "とようび",
-    "correct_text_ruby": "とようび"
-  },
-  {
-    "id": 161,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "何",
-    "question": "<u>なん/なに</u>してるの（　　　）",
-    "question_ruby": "<u>なん/なに</u>してるの（　　　）",
-    "choices": [
-      "何",
-      "手",
-      "本",
-      "右"
-    ],
-    "choices_ruby": [
-      "何",
-      "手",
-      "本",
-      "右"
-    ],
-    "answer": 0,
-    "correct_text": "何",
-    "meaning_en": "",
-    "explanation": "ひらがな「なん/なに」に該当する正しい漢字は【何】です。",
-    "target_word_reading": "何",
-    "correct_text_reading": "何",
-    "correct_text_ruby": "何"
-  },
-  {
-    "id": 162,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "男の子",
-    "question": "一週間は（　　）です。",
-    "question_ruby": "<ruby>一<rt>いち</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>は（　　）です。",
-    "choices": [
-      "辞書",
-      "男の子",
-      "読む",
-      "七日"
-    ],
-    "choices_ruby": [
-      "<ruby>辞書<rt>じしょ</rt></ruby>",
-      "<ruby>男の子<rt>おとこのこ</rt></ruby>",
-      "<ruby>読<rt>よ</rt></ruby>む",
-      "<ruby>七<rt>なな</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "男の子",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【七日】（なのか：）です。",
-    "target_word_reading": "男の子",
-    "correct_text_reading": "男の子",
-    "correct_text_ruby": "<ruby>男の子<rt>おとこのこ</rt></ruby>"
-  },
-  {
-    "id": 163,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ちがい",
-    "question": "決断の日は<u>近い</u>。",
-    "question_ruby": "<ruby>決断<rt>けつだん</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<u>近い</u>。",
-    "choices": [
-      "ぢかい",
-      "ちかい",
-      "ちがい",
-      "ちかえ"
-    ],
-    "choices_ruby": [
-      "ぢかい",
-      "ちかい",
-      "ちがい",
-      "ちかえ"
-    ],
-    "answer": 2,
-    "correct_text": "ちがい",
-    "meaning_en": "",
-    "explanation": "「近い」の正しい読み方は【ちかい】です。（意味：）",
-    "target_word_reading": "ちがい",
-    "correct_text_reading": "ちがい",
-    "correct_text_ruby": "ちがい"
-  },
-  {
-    "id": 164,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "辞書",
-    "question": "戸外は<u>くらい</u>。",
-    "question_ruby": "<ruby>戸外<rt>こがい</rt></ruby>は<u>くらい</u>。",
-    "choices": [
-      "外国",
-      "読む",
-      "暗い",
-      "辞書"
-    ],
-    "choices_ruby": [
-      "外国",
-      "読む",
-      "暗い",
-      "辞書"
-    ],
-    "answer": 3,
-    "correct_text": "辞書",
-    "meaning_en": "",
-    "explanation": "ひらがな「くらい」に該当する正しい漢字は【暗い】です。",
-    "target_word_reading": "辞書",
-    "correct_text_reading": "辞書",
-    "correct_text_ruby": "辞書"
-  },
-  {
-    "id": 165,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "働く",
-    "question": "（　　）しかない。",
-    "question_ruby": "（　　）しかない。",
-    "choices": [
-      "働く",
-      "短い",
-      "七つ",
-      "近く"
-    ],
-    "choices_ruby": [
-      "<ruby>働<rt>はたら</rt></ruby>く",
-      "<ruby>短<rt>みじか</rt></ruby>い",
-      "<ruby>七<rt>なな</rt></ruby>つ",
-      "<ruby>近<rt>ちか</rt></ruby>く"
-    ],
-    "answer": 0,
-    "correct_text": "働く",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【働く】（はたらく：）です。",
-    "target_word_reading": "働く",
-    "correct_text_reading": "働く",
-    "correct_text_ruby": "<ruby>働<rt>はたら</rt></ruby>く"
-  },
-  {
-    "id": 166,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "はえる",
-    "question": "芝生に<u>入る</u>な。",
-    "question_ruby": "<ruby>芝生<rt>しばふ</rt></ruby>に<u>入る</u>な。",
-    "choices": [
-      "ばいる",
-      "はえる",
-      "はる",
-      "はいる"
-    ],
-    "choices_ruby": [
-      "ばいる",
-      "はえる",
-      "はる",
-      "はいる"
-    ],
-    "answer": 1,
-    "correct_text": "はえる",
-    "meaning_en": "",
-    "explanation": "「入る」の正しい読み方は【はいる】です。（意味：）",
-    "target_word_reading": "はえる",
-    "correct_text_reading": "はえる",
-    "correct_text_ruby": "はえる"
-  },
-  {
-    "id": 167,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "近く",
-    "question": "そんな本<u>よむ</u>な。",
-    "question_ruby": "そんな<ruby>本<rt>ほん</rt></ruby><u>よむ</u>な。",
-    "choices": [
-      "七つ",
-      "読む",
-      "近く",
-      "五日"
-    ],
-    "choices_ruby": [
-      "七つ",
-      "読む",
-      "近く",
-      "五日"
-    ],
-    "answer": 2,
-    "correct_text": "近く",
-    "meaning_en": "",
-    "explanation": "ひらがな「よむ」に該当する正しい漢字は【読む】です。",
-    "target_word_reading": "近く",
-    "correct_text_reading": "近く",
-    "correct_text_ruby": "近く"
-  },
-  {
-    "id": 168,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "先生",
-    "question": "（　　）持ってる（　　　）",
-    "question_ruby": "（　　）<ruby>持<rt>も</rt></ruby>ってる（　　　）",
-    "choices": [
-      "辞書",
-      "座る",
-      "短い",
-      "先生"
-    ],
-    "choices_ruby": [
-      "<ruby>辞書<rt>じしょ</rt></ruby>",
-      "<ruby>座<rt>すわ</rt></ruby>る",
-      "<ruby>短<rt>みじか</rt></ruby>い",
-      "<ruby>先生<rt>せんせい</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "先生",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【辞書】（じしょ：）です。",
-    "target_word_reading": "先生",
-    "correct_text_reading": "先生",
-    "correct_text_ruby": "<ruby>先生<rt>せんせい</rt></ruby>"
-  },
-  {
-    "id": 169,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がいこく",
-    "question": "<u>外国</u>に行く気（　　　）",
-    "question_ruby": "<u>外国</u>に<ruby>行<rt>い</rt></ruby>く<ruby>気<rt>き</rt></ruby>（　　　）",
-    "choices": [
-      "がいこく",
-      "がこく",
-      "がえこく",
-      "かいこく"
-    ],
-    "choices_ruby": [
-      "がいこく",
-      "がこく",
-      "がえこく",
-      "かいこく"
-    ],
-    "answer": 0,
-    "correct_text": "がいこく",
-    "meaning_en": "",
-    "explanation": "「外国」の正しい読み方は【がいこく】です。（意味：）",
-    "target_word_reading": "がいこく",
-    "correct_text_reading": "がいこく",
-    "correct_text_ruby": "がいこく"
-  },
-  {
-    "id": 170,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "七",
-    "question": "<u>かぜ</u>邪ですね。",
-    "question_ruby": "<u>かぜ</u><ruby>邪<rt>よこしま</rt></ruby>ですね。",
-    "choices": [
-      "鼻",
-      "七",
-      "角",
-      "風"
-    ],
-    "choices_ruby": [
-      "鼻",
-      "七",
-      "角",
-      "風"
-    ],
-    "answer": 1,
-    "correct_text": "七",
-    "meaning_en": "",
-    "explanation": "ひらがな「かぜ」に該当する正しい漢字は【風】です。",
-    "target_word_reading": "七",
-    "correct_text_reading": "七",
-    "correct_text_ruby": "七"
-  },
-  {
-    "id": 171,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "下手",
-    "question": "（　　）に座って。",
-    "question_ruby": "（　　）に<ruby>座<rt>すわ</rt></ruby>って。",
-    "choices": [
-      "熱い",
-      "一日",
-      "下手",
-      "横"
-    ],
-    "choices_ruby": [
-      "<ruby>熱<rt>あつ</rt></ruby>い",
-      "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>下手<rt>へた</rt></ruby>",
-      "<ruby>横<rt>よこ</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "下手",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【横】（よこ：）です。",
-    "target_word_reading": "下手",
-    "correct_text_reading": "下手",
-    "correct_text_ruby": "<ruby>下手<rt>へた</rt></ruby>"
-  },
-  {
-    "id": 172,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いつが",
-    "question": "<u>五日</u>待ってくれ。",
-    "question_ruby": "<u>五日</u><ruby>待<rt>ま</rt></ruby>ってくれ。",
-    "choices": [
-      "いづか",
-      "いつか",
-      "つか",
-      "いつが"
-    ],
-    "choices_ruby": [
-      "いづか",
-      "いつか",
-      "つか",
-      "いつが"
-    ],
-    "answer": 3,
-    "correct_text": "いつが",
-    "meaning_en": "",
-    "explanation": "「五日」の正しい読み方は【いつか】です。（意味：）",
-    "target_word_reading": "いつが",
-    "correct_text_reading": "いつが",
-    "correct_text_ruby": "いつが"
-  },
-  {
-    "id": 173,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "今",
-    "question": "<u>いま</u>晩暇かな（　　　）",
-    "question_ruby": "<u>いま</u><ruby>晩<rt>ばん</rt></ruby><ruby>暇<rt>ひま</rt></ruby>かな（　　　）",
-    "choices": [
-      "今",
-      "七",
-      "鼻",
-      "外"
-    ],
-    "choices_ruby": [
-      "今",
-      "七",
-      "鼻",
-      "外"
-    ],
-    "answer": 0,
-    "correct_text": "今",
-    "meaning_en": "",
-    "explanation": "ひらがな「いま」に該当する正しい漢字は【今】です。",
-    "target_word_reading": "今",
-    "correct_text_reading": "今",
-    "correct_text_ruby": "今"
-  },
-  {
-    "id": 174,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "熱い",
-    "question": "（　　）利きなの（　　　）",
-    "question_ruby": "（　　）<ruby>利<rt>き</rt></ruby>きなの（　　　）",
-    "choices": [
-      "一日",
-      "熱い",
-      "左",
-      "弱い"
-    ],
-    "choices_ruby": [
-      "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>熱<rt>あつ</rt></ruby>い",
-      "<ruby>左<rt>ひだり</rt></ruby>",
-      "<ruby>弱<rt>よわ</rt></ruby>い"
-    ],
-    "answer": 1,
-    "correct_text": "熱い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【左】（ひだり：）です。",
-    "target_word_reading": "熱い",
-    "correct_text_reading": "熱い",
-    "correct_text_ruby": "<ruby>熱<rt>あつ</rt></ruby>い"
-  },
-  {
-    "id": 175,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぢかく",
-    "question": "７時<u>近く</u>だ。",
-    "question_ruby": "７<ruby>時<rt>じ</rt></ruby><u>近く</u>だ。",
-    "choices": [
-      "ちかぐ",
-      "ちがく",
-      "ぢかく",
-      "ちかく"
-    ],
-    "choices_ruby": [
-      "ちかぐ",
-      "ちがく",
-      "ぢかく",
-      "ちかく"
-    ],
-    "answer": 2,
-    "correct_text": "ぢかく",
-    "meaning_en": "",
-    "explanation": "「近く」の正しい読み方は【ちかく】です。（意味：）",
-    "target_word_reading": "ぢかく",
-    "correct_text_reading": "ぢかく",
-    "correct_text_ruby": "ぢかく"
-  },
-  {
-    "id": 176,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "鼻",
-    "question": "氷山の一<u>かど</u>だよ。",
-    "question_ruby": "<ruby>氷山<rt>ひょうざん</rt></ruby>の<ruby>一<rt>いち</rt></ruby><u>かど</u>だよ。",
-    "choices": [
-      "角",
-      "外",
-      "七",
-      "鼻"
-    ],
-    "choices_ruby": [
-      "角",
-      "外",
-      "七",
-      "鼻"
-    ],
-    "answer": 3,
-    "correct_text": "鼻",
-    "meaning_en": "",
-    "explanation": "ひらがな「かど」に該当する正しい漢字は【角】です。",
-    "target_word_reading": "鼻",
-    "correct_text_reading": "鼻",
-    "correct_text_ruby": "鼻"
-  },
-  {
-    "id": 177,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "七つ",
-    "question": "一つ、二つ、三つ、四つ、五つ、六つ、（　　）、八つ、九つ、十。",
-    "question_ruby": "<ruby>一<rt>ひと</rt></ruby>つ、<ruby>二<rt>ふた</rt></ruby>つ、<ruby>三<rt>みっ</rt></ruby>つ、<ruby>四<rt>よっ</rt></ruby>つ、<ruby>五<rt>いつ</rt></ruby>つ、<ruby>六<rt>むっ</rt></ruby>つ、（　　）、<ruby>八<rt>やっ</rt></ruby>つ、<ruby>九<rt>ここの</rt></ruby>つ、<ruby>十<rt>じゅう</rt></ruby>。",
-    "choices": [
-      "七つ",
-      "弱い",
-      "上手",
-      "少し"
-    ],
-    "choices_ruby": [
-      "<ruby>七<rt>なな</rt></ruby>つ",
-      "<ruby>弱<rt>よわ</rt></ruby>い",
-      "<ruby>上手<rt>じょうず</rt></ruby>",
-      "<ruby>少<rt>すこ</rt></ruby>し"
-    ],
-    "answer": 0,
-    "correct_text": "七つ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【七つ】（ななつ：）です。",
-    "target_word_reading": "七つ",
-    "correct_text_reading": "七つ",
-    "correct_text_ruby": "<ruby>七<rt>なな</rt></ruby>つ"
-  },
-  {
-    "id": 178,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "みしかい",
-    "question": "人生は<u>短い</u>。",
-    "question_ruby": "<ruby>人生<rt>じんせい</rt></ruby>は<u>短い</u>。",
-    "choices": [
-      "みじがい",
-      "みしかい",
-      "みじかい",
-      "みじかえ"
-    ],
-    "choices_ruby": [
-      "みじがい",
-      "みしかい",
-      "みじかい",
-      "みじかえ"
-    ],
-    "answer": 1,
-    "correct_text": "みしかい",
-    "meaning_en": "",
-    "explanation": "「短い」の正しい読み方は【みじかい】です。（意味：）",
-    "target_word_reading": "みしかい",
-    "correct_text_reading": "みしかい",
-    "correct_text_ruby": "みしかい"
-  },
-  {
-    "id": 179,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "弱い",
-    "question": "<u>せんせい</u>が来る。",
-    "question_ruby": "<u>せんせい</u>が<ruby>来<rt>く</rt></ruby>る。",
-    "choices": [
-      "一日",
-      "熱い",
-      "弱い",
-      "先生"
-    ],
-    "choices_ruby": [
-      "一日",
-      "熱い",
-      "弱い",
-      "先生"
-    ],
-    "answer": 2,
-    "correct_text": "弱い",
-    "meaning_en": "",
-    "explanation": "ひらがな「せんせい」に該当する正しい漢字は【先生】です。",
-    "target_word_reading": "弱い",
-    "correct_text_reading": "弱い",
-    "correct_text_ruby": "弱い"
-  },
-  {
-    "id": 180,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "売る",
-    "question": "その上に（　　）な。",
-    "question_ruby": "その<ruby>上<rt>うえ</rt></ruby>に（　　）な。",
-    "choices": [
-      "黒い",
-      "四つ",
-      "座る",
-      "売る"
-    ],
-    "choices_ruby": [
-      "<ruby>黒<rt>くろ</rt></ruby>い",
-      "<ruby>四<rt>よっ</rt></ruby>つ",
-      "<ruby>座<rt>すわ</rt></ruby>る",
-      "<ruby>売<rt>う</rt></ruby>る"
-    ],
-    "answer": 3,
-    "correct_text": "売る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【座る】（すわる：）です。",
-    "target_word_reading": "売る",
-    "correct_text_reading": "売る",
-    "correct_text_ruby": "<ruby>売<rt>う</rt></ruby>る"
-  },
-  {
-    "id": 181,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きたない",
-    "question": "<u>汚い</u>手口ね。",
-    "question_ruby": "<u>汚い</u><ruby>手口<rt>てぐち</rt></ruby>ね。",
-    "choices": [
-      "きたない",
-      "きだない",
-      "きたな",
-      "ぎたない"
-    ],
-    "choices_ruby": [
-      "きたない",
-      "きだない",
-      "きたな",
-      "ぎたない"
-    ],
-    "answer": 0,
-    "correct_text": "きたない",
-    "meaning_en": "",
-    "explanation": "「汚い」の正しい読み方は【きたない】です。（意味：）",
-    "target_word_reading": "きたない",
-    "correct_text_reading": "きたない",
-    "correct_text_ruby": "きたない"
-  },
-  {
-    "id": 182,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "少し",
-    "question": "彼は字が<u>へた</u>だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>字<rt>じ</rt></ruby>が<u>へた</u>だ。",
-    "choices": [
-      "下手",
-      "少し",
-      "弱い",
-      "一日"
-    ],
-    "choices_ruby": [
-      "下手",
-      "少し",
-      "弱い",
-      "一日"
-    ],
-    "answer": 1,
-    "correct_text": "少し",
-    "meaning_en": "",
-    "explanation": "ひらがな「へた」に該当する正しい漢字は【下手】です。",
-    "target_word_reading": "少し",
-    "correct_text_reading": "少し",
-    "correct_text_ruby": "少し"
-  },
-  {
-    "id": 183,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "夕方",
-    "question": "（　　）転び八起き。",
-    "question_ruby": "（　　）<ruby>転<rt>ころ</rt></ruby>び<ruby>八<rt>はち</rt></ruby><ruby>起<rt>お</rt></ruby>き。",
-    "choices": [
-      "黒い",
-      "眼鏡",
-      "夕方",
-      "七"
-    ],
-    "choices_ruby": [
-      "<ruby>黒<rt>くろ</rt></ruby>い",
-      "<ruby>眼鏡<rt>めがね</rt></ruby>",
-      "<ruby>夕方<rt>ゆうがた</rt></ruby>",
-      "<ruby>七<rt>なな</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "夕方",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【七】（しち / なな：）です。",
-    "target_word_reading": "夕方",
-    "correct_text_reading": "夕方",
-    "correct_text_ruby": "<ruby>夕方<rt>ゆうがた</rt></ruby>"
-  },
-  {
-    "id": 184,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あつ",
-    "question": "卵がまだ<u>熱い</u>。",
-    "question_ruby": "<ruby>卵<rt>たまご</rt></ruby>がまだ<u>熱い</u>。",
-    "choices": [
-      "あつい",
-      "あづい",
-      "あつえ",
-      "あつ"
-    ],
-    "choices_ruby": [
-      "あつい",
-      "あづい",
-      "あつえ",
-      "あつ"
-    ],
-    "answer": 3,
-    "correct_text": "あつ",
-    "meaning_en": "",
-    "explanation": "「熱い」の正しい読み方は【あつい】です。（意味：）",
-    "target_word_reading": "あつ",
-    "correct_text_reading": "あつ",
-    "correct_text_ruby": "あつ"
-  },
-  {
-    "id": 185,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "箱",
-    "question": "<u>はこ</u>を開けて。",
-    "question_ruby": "<u>はこ</u>を<ruby>開<rt>あ</rt></ruby>けて。",
-    "choices": [
-      "箱",
-      "暇",
-      "半",
-      "駅"
-    ],
-    "choices_ruby": [
-      "箱",
-      "暇",
-      "半",
-      "駅"
-    ],
-    "answer": 0,
-    "correct_text": "箱",
-    "meaning_en": "",
-    "explanation": "ひらがな「はこ」に該当する正しい漢字は【箱】です。",
-    "target_word_reading": "箱",
-    "correct_text_reading": "箱",
-    "correct_text_ruby": "箱"
-  },
-  {
-    "id": 186,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "住む",
-    "question": "良い（　　）を。",
-    "question_ruby": "<ruby>良<rt>よ</rt></ruby>い（　　）を。",
-    "choices": [
-      "一日",
-      "住む",
-      "自動車",
-      "半分"
-    ],
-    "choices_ruby": [
-      "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>住<rt>す</rt></ruby>む",
-      "<ruby>自動車<rt>じどうしゃ</rt></ruby>",
-      "<ruby>半分<rt>はんぶん</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "住む",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【一日】（いちにち：）です。",
-    "target_word_reading": "住む",
-    "correct_text_reading": "住む",
-    "correct_text_ruby": "<ruby>住<rt>す</rt></ruby>む"
-  },
-  {
-    "id": 187,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "すごし",
-    "question": "<u>少し</u>疲れた。",
-    "question_ruby": "<u>少し</u><ruby>疲<rt>つか</rt></ruby>れた。",
-    "choices": [
-      "すこし",
-      "ずこし",
-      "すごし",
-      "すこじ"
-    ],
-    "choices_ruby": [
-      "すこし",
-      "ずこし",
-      "すごし",
-      "すこじ"
-    ],
-    "answer": 2,
-    "correct_text": "すごし",
-    "meaning_en": "",
-    "explanation": "「少し」の正しい読み方は【すこし】です。（意味：）",
-    "target_word_reading": "すごし",
-    "correct_text_reading": "すごし",
-    "correct_text_ruby": "すごし"
-  },
-  {
-    "id": 188,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "明い",
-    "question": "世渡り<u>じょうず</u>ね。",
-    "question_ruby": "<ruby>世渡<rt>よわた</rt></ruby>り<u>じょうず</u>ね。",
-    "choices": [
-      "上手",
-      "眼鏡",
-      "料理",
-      "明い"
-    ],
-    "choices_ruby": [
-      "上手",
-      "眼鏡",
-      "料理",
-      "明い"
-    ],
-    "answer": 3,
-    "correct_text": "明い",
-    "meaning_en": "",
-    "explanation": "ひらがな「じょうず」に該当する正しい漢字は【上手】です。",
-    "target_word_reading": "明い",
-    "correct_text_reading": "明い",
-    "correct_text_ruby": "明い"
-  },
-  {
-    "id": 189,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "売る",
-    "question": "彼は果物を（　　）。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>果物<rt>くだもの</rt></ruby>を（　　）。",
-    "choices": [
-      "売る",
-      "煩い",
-      "半分",
-      "自動車"
-    ],
-    "choices_ruby": [
-      "<ruby>売<rt>う</rt></ruby>る",
-      "<ruby>煩<rt>うるさ</rt></ruby>い",
-      "<ruby>半分<rt>はんぶん</rt></ruby>",
-      "<ruby>自動車<rt>じどうしゃ</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "売る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【売る】（うる：）です。",
-    "target_word_reading": "売る",
-    "correct_text_reading": "売る",
-    "correct_text_ruby": "<ruby>売<rt>う</rt></ruby>る"
-  },
-  {
-    "id": 190,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "よつ",
-    "question": "見て！<u>四つ</u>葉！",
-    "question_ruby": "<ruby>見<rt>み</rt></ruby>て！<u>四つ</u><ruby>葉<rt>は</rt></ruby>！",
-    "choices": [
-      "よっづ",
-      "よつ",
-      "よつつ",
-      "よっつ"
-    ],
-    "choices_ruby": [
-      "よっづ",
-      "よつ",
-      "よつつ",
-      "よっつ"
-    ],
-    "answer": 1,
-    "correct_text": "よつ",
-    "meaning_en": "",
-    "explanation": "「四つ」の正しい読み方は【よっつ】です。（意味：）",
-    "target_word_reading": "よつ",
-    "correct_text_reading": "よつ",
-    "correct_text_ruby": "よつ"
-  },
-  {
-    "id": 191,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "煩い",
-    "question": "彼は腹<u>くろい</u>。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>腹<rt>はら</rt></ruby><u>くろい</u>。",
-    "choices": [
-      "半分",
-      "好き",
-      "煩い",
-      "黒い"
-    ],
-    "choices_ruby": [
-      "半分",
-      "好き",
-      "煩い",
-      "黒い"
-    ],
-    "answer": 2,
-    "correct_text": "煩い",
-    "meaning_en": "",
-    "explanation": "ひらがな「くろい」に該当する正しい漢字は【黒い】です。",
-    "target_word_reading": "煩い",
-    "correct_text_reading": "煩い",
-    "correct_text_ruby": "煩い"
-  },
-  {
-    "id": 192,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "好き",
-    "question": "（　　）の五時です。",
-    "question_ruby": "（　　）の<ruby>五<rt>ご</rt></ruby><ruby>時<rt>じ</rt></ruby>です。",
-    "choices": [
-      "夕方",
-      "消える",
-      "向こう",
-      "好き"
-    ],
-    "choices_ruby": [
-      "<ruby>夕方<rt>ゆうがた</rt></ruby>",
-      "<ruby>消<rt>き</rt></ruby>える",
-      "<ruby>向<rt>む</rt></ruby>こう",
-      "<ruby>好<rt>す</rt></ruby>き"
-    ],
-    "answer": 3,
-    "correct_text": "好き",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【夕方】（ゆうがた：）です。",
-    "target_word_reading": "好き",
-    "correct_text_reading": "好き",
-    "correct_text_ruby": "<ruby>好<rt>す</rt></ruby>き"
-  },
-  {
-    "id": 193,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あかるい",
-    "question": "この部屋は南向きの大きな窓があって、とても<u>明るい</u>です。",
-    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby><ruby>向<rt>む</rt></ruby>きの<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>があって、とても<u>明るい</u>です。",
-    "choices": [
-      "あかるい",
-      "あかるえ",
-      "あがるい",
-      "あかる"
-    ],
-    "choices_ruby": [
-      "あかるい",
-      "あかるえ",
-      "あがるい",
-      "あかる"
-    ],
-    "answer": 0,
-    "correct_text": "あかるい",
-    "meaning_en": "",
-    "explanation": "「明るい」の正しい読み方は【あかるい】です。（意味：bright）",
-    "target_word_reading": "あかるい",
-    "correct_text_reading": "あかるい",
-    "correct_text_ruby": "あかるい"
-  },
-  {
-    "id": 194,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "好き",
-    "question": "森は僕の<u>すむ</u>家だ。",
-    "question_ruby": "<ruby>森<rt>もり</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>の<u>すむ</u><ruby>家<rt>いえ</rt></ruby>だ。",
-    "choices": [
-      "住む",
-      "好き",
-      "半分",
-      "煩い"
-    ],
-    "choices_ruby": [
-      "住む",
-      "好き",
-      "半分",
-      "煩い"
-    ],
-    "answer": 1,
-    "correct_text": "好き",
-    "meaning_en": "",
-    "explanation": "ひらがな「すむ」に該当する正しい漢字は【住む】です。",
-    "target_word_reading": "好き",
-    "correct_text_reading": "好き",
-    "correct_text_ruby": "好き"
-  },
-  {
-    "id": 195,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "三日",
-    "question": "東京（　　）なう。",
-    "question_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>（　　）なう。",
-    "choices": [
-      "好き",
-      "駅",
-      "三日",
-      "図書館"
-    ],
-    "choices_ruby": [
-      "<ruby>好<rt>す</rt></ruby>き",
-      "<ruby>駅<rt>えき</rt></ruby>",
-      "<ruby>三<rt>さん</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>図書館<rt>としょかん</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "三日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【駅】（えき：）です。",
-    "target_word_reading": "三日",
-    "correct_text_reading": "三日",
-    "correct_text_ruby": "<ruby>三<rt>さん</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-  },
-  {
-    "id": 196,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "じどしゃ",
-    "question": "<u>自動車</u>は左折した。",
-    "question_ruby": "<u>自動車</u>は<ruby>左折<rt>させつ</rt></ruby>した。",
-    "choices": [
-      "じどうしゃ",
-      "じとうしゃ",
-      "じどうじゃ",
-      "じどしゃ"
-    ],
-    "choices_ruby": [
-      "じどうしゃ",
-      "じとうしゃ",
-      "じどうじゃ",
-      "じどしゃ"
-    ],
-    "answer": 3,
-    "correct_text": "じどしゃ",
-    "meaning_en": "",
-    "explanation": "「自動車」の正しい読み方は【じどうしゃ】です。（意味：）",
-    "target_word_reading": "じどしゃ",
-    "correct_text_reading": "じどしゃ",
-    "correct_text_ruby": "じどしゃ"
-  },
-  {
-    "id": 197,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "半分",
-    "question": "<u>はんぶん</u>よこせ。",
-    "question_ruby": "<u>はんぶん</u>よこせ。",
-    "choices": [
-      "半分",
-      "強い",
-      "三日",
-      "好き"
-    ],
-    "choices_ruby": [
-      "半分",
-      "強い",
-      "三日",
-      "好き"
-    ],
-    "answer": 0,
-    "correct_text": "半分",
-    "meaning_en": "",
-    "explanation": "ひらがな「はんぶん」に該当する正しい漢字は【半分】です。",
-    "target_word_reading": "半分",
-    "correct_text_reading": "半分",
-    "correct_text_ruby": "半分"
-  },
-  {
-    "id": 198,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "易しい",
-    "question": "この客引きはとても（　　）！",
-    "question_ruby": "この<ruby>客引<rt>きゃくひ</rt></ruby>きはとても（　　）！",
-    "choices": [
-      "自転車",
-      "易しい",
-      "難しい",
-      "煩い"
-    ],
-    "choices_ruby": [
-      "<ruby>自転車<rt>じてんしゃ</rt></ruby>",
-      "<ruby>易<rt>やさ</rt></ruby>しい",
-      "<ruby>難<rt>むずか</rt></ruby>しい",
-      "<ruby>煩<rt>うるさ</rt></ruby>い"
-    ],
-    "answer": 1,
-    "correct_text": "易しい",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【煩い】（うるさい：）です。",
-    "target_word_reading": "易しい",
-    "correct_text_reading": "易しい",
-    "correct_text_ruby": "<ruby>易<rt>やさ</rt></ruby>しい"
-  },
-  {
-    "id": 199,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "むこ",
-    "question": "<u>向こう</u>へ行け！",
-    "question_ruby": "<u>向こう</u>へ<ruby>行<rt>い</rt></ruby>け！",
-    "choices": [
-      "むこう",
-      "むこお",
-      "むこ",
-      "むごう"
-    ],
-    "choices_ruby": [
-      "むこう",
-      "むこお",
-      "むこ",
-      "むごう"
-    ],
-    "answer": 2,
-    "correct_text": "むこ",
-    "meaning_en": "",
-    "explanation": "「向こう」の正しい読み方は【むこう】です。（意味：）",
-    "target_word_reading": "むこ",
-    "correct_text_reading": "むこ",
-    "correct_text_ruby": "むこ"
-  },
-  {
-    "id": 200,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "会う",
-    "question": "彼が大<u>すき</u>！",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>大<rt>だい</rt></ruby><u>すき</u>！",
-    "choices": [
-      "遅い",
-      "音楽",
-      "好き",
-      "会う"
-    ],
-    "choices_ruby": [
-      "遅い",
-      "音楽",
-      "好き",
-      "会う"
-    ],
-    "answer": 3,
-    "correct_text": "会う",
-    "meaning_en": "",
-    "explanation": "ひらがな「すき」に該当する正しい漢字は【好き】です。",
-    "target_word_reading": "会う",
-    "correct_text_reading": "会う",
-    "correct_text_ruby": "会う"
-  },
-  {
-    "id": 201,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "三日",
-    "question": "切符は（　　）間有効だ。",
-    "question_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>は（　　）<ruby>間<rt>ま</rt></ruby><ruby>有効<rt>ゆうこう</rt></ruby>だ。",
-    "choices": [
-      "三日",
-      "大好き",
-      "毎年",
-      "遅い"
-    ],
-    "choices_ruby": [
-      "<ruby>三<rt>さん</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>大好<rt>だいす</rt></ruby>き",
-      "<ruby>毎年<rt>まいとし</rt></ruby>",
-      "<ruby>遅<rt>おそ</rt></ruby>い"
-    ],
-    "answer": 0,
-    "correct_text": "三日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【三日】（みっか：）です。",
-    "target_word_reading": "三日",
-    "correct_text_reading": "三日",
-    "correct_text_ruby": "<ruby>三<rt>さん</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-  },
-  {
-    "id": 202,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "としょがん",
-    "question": "明日<u>図書館</u>でね。",
-    "question_ruby": "<ruby>明日<rt>あした</rt></ruby><u>図書館</u>でね。",
-    "choices": [
-      "どしょかん",
-      "としょがん",
-      "としょかん",
-      "とじょかん"
-    ],
-    "choices_ruby": [
-      "どしょかん",
-      "としょがん",
-      "としょかん",
-      "とじょかん"
-    ],
-    "answer": 1,
-    "correct_text": "としょがん",
-    "meaning_en": "",
-    "explanation": "「図書館」の正しい読み方は【としょかん】です。（意味：）",
-    "target_word_reading": "としょがん",
-    "correct_text_reading": "としょがん",
-    "correct_text_ruby": "としょがん"
-  },
-  {
-    "id": 203,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "音楽",
-    "question": "悪運が<u>つよい</u>。",
-    "question_ruby": "<ruby>悪運<rt>あくうん</rt></ruby>が<u>つよい</u>。",
-    "choices": [
-      "会う",
-      "遅い",
-      "音楽",
-      "強い"
-    ],
-    "choices_ruby": [
-      "会う",
-      "遅い",
-      "音楽",
-      "強い"
-    ],
-    "answer": 2,
-    "correct_text": "音楽",
-    "meaning_en": "",
-    "explanation": "ひらがな「つよい」に該当する正しい漢字は【強い】です。",
-    "target_word_reading": "音楽",
-    "correct_text_reading": "音楽",
-    "correct_text_ruby": "音楽"
-  },
-  {
-    "id": 204,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "電話",
-    "question": "（　　）、暇（　　　）",
-    "question_ruby": "（　　）、<ruby>暇<rt>ひま</rt></ruby>（　　　）",
-    "choices": [
-      "日曜日",
-      "昨日",
-      "切る",
-      "電話"
-    ],
-    "choices_ruby": [
-      "<ruby>日曜日<rt>にちようび</rt></ruby>",
-      "<ruby>昨日<rt>きのう</rt></ruby>",
-      "<ruby>切<rt>き</rt></ruby>る",
-      "<ruby>電話<rt>でんわ</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "電話",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【日曜日】（にちようび：）です。",
-    "target_word_reading": "電話",
-    "correct_text_reading": "電話",
-    "correct_text_ruby": "<ruby>電話<rt>でんわ</rt></ruby>"
-  },
-  {
-    "id": 205,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "じてんしゃ",
-    "question": "<u>自転車</u>がある。",
-    "question_ruby": "<u>自転車</u>がある。",
-    "choices": [
-      "じてんしゃ",
-      "してんしゃ",
-      "じでんしゃ",
-      "じてんじゃ"
-    ],
-    "choices_ruby": [
-      "じてんしゃ",
-      "してんしゃ",
-      "じでんしゃ",
-      "じてんじゃ"
-    ],
-    "answer": 0,
-    "correct_text": "じてんしゃ",
-    "meaning_en": "",
-    "explanation": "「自転車」の正しい読み方は【じてんしゃ】です。（意味：）",
-    "target_word_reading": "じてんしゃ",
-    "correct_text_reading": "じてんしゃ",
-    "correct_text_ruby": "じてんしゃ"
-  },
-  {
-    "id": 206,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "入れる",
-    "question": "第２課は<u>やさしい</u>。",
-    "question_ruby": "<ruby>第<rt>だい</rt></ruby>２<ruby>課<rt>か</rt></ruby>は<u>やさしい</u>。",
-    "choices": [
-      "勤める",
-      "入れる",
-      "易しい",
-      "大好き"
-    ],
-    "choices_ruby": [
-      "勤める",
-      "入れる",
-      "易しい",
-      "大好き"
-    ],
-    "answer": 1,
-    "correct_text": "入れる",
-    "meaning_en": "",
-    "explanation": "ひらがな「やさしい」に該当する正しい漢字は【易しい】です。",
-    "target_word_reading": "入れる",
-    "correct_text_reading": "入れる",
-    "correct_text_ruby": "入れる"
-  },
-  {
-    "id": 207,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "全部",
-    "question": "彼は気（　　）。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>気<rt>き</rt></ruby>（　　）。",
-    "choices": [
-      "勤める",
-      "難しい",
-      "全部",
-      "子供"
-    ],
-    "choices_ruby": [
-      "<ruby>勤<rt>つと</rt></ruby>める",
-      "<ruby>難<rt>むずか</rt></ruby>しい",
-      "<ruby>全部<rt>ぜんぶ</rt></ruby>",
-      "<ruby>子供<rt>こども</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "全部",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【難しい】（むずかしい：）です。",
-    "target_word_reading": "全部",
-    "correct_text_reading": "全部",
-    "correct_text_ruby": "<ruby>全部<rt>ぜんぶ</rt></ruby>"
-  },
-  {
-    "id": 208,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あんがく",
-    "question": "<u>音楽</u>は好き（　　　）",
-    "question_ruby": "<u>音楽</u>は<ruby>好<rt>す</rt></ruby>き（　　　）",
-    "choices": [
-      "おんかく",
-      "おんがぐ",
-      "おんがく",
-      "あんがく"
-    ],
-    "choices_ruby": [
-      "おんかく",
-      "おんがぐ",
-      "おんがく",
-      "あんがく"
-    ],
-    "answer": 3,
-    "correct_text": "あんがく",
-    "meaning_en": "",
-    "explanation": "「音楽」の正しい読み方は【おんがく】です。（意味：）",
-    "target_word_reading": "あんがく",
-    "correct_text_reading": "あんがく",
-    "correct_text_ruby": "あんがく"
-  },
-  {
-    "id": 209,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "新しい",
-    "question": "この本は<u>あたらしい</u>。",
-    "question_ruby": "この<ruby>本<rt>ほん</rt></ruby>は<u>あたらしい</u>。",
-    "choices": [
-      "新しい",
-      "勤める",
-      "二十日",
-      "入れる"
-    ],
-    "choices_ruby": [
-      "新しい",
-      "勤める",
-      "二十日",
-      "入れる"
-    ],
-    "answer": 0,
-    "correct_text": "新しい",
-    "meaning_en": "",
-    "explanation": "ひらがな「あたらしい」に該当する正しい漢字は【新しい】です。",
-    "target_word_reading": "新しい",
-    "correct_text_reading": "新しい",
-    "correct_text_ruby": "新しい"
-  },
-  {
-    "id": 210,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "牛肉",
-    "question": "（　　）丸で囲む。",
-    "question_ruby": "（　　）<ruby>丸<rt>まる</rt></ruby>で<ruby>囲<rt>かこ</rt></ruby>む。",
-    "choices": [
-      "赤",
-      "牛肉",
-      "意味",
-      "入れる"
-    ],
-    "choices_ruby": [
-      "<ruby>赤<rt>あか</rt></ruby>",
-      "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>",
-      "<ruby>意味<rt>いみ</rt></ruby>",
-      "<ruby>入<rt>い</rt></ruby>れる"
-    ],
-    "answer": 1,
-    "correct_text": "牛肉",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【赤】（あか：）です。",
-    "target_word_reading": "牛肉",
-    "correct_text_reading": "牛肉",
-    "correct_text_ruby": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>"
-  },
-  {
-    "id": 211,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "おそえ",
-    "question": "トムは<u>遅い</u>。",
-    "question_ruby": "トムは<u>遅い</u>。",
-    "choices": [
-      "おそい",
-      "おぞい",
-      "おそえ",
-      "おそ"
-    ],
-    "choices_ruby": [
-      "おそい",
-      "おぞい",
-      "おそえ",
-      "おそ"
-    ],
-    "answer": 2,
-    "correct_text": "おそえ",
-    "meaning_en": "",
-    "explanation": "「遅い」の正しい読み方は【おそい】です。（意味：）",
-    "target_word_reading": "おそえ",
-    "correct_text_reading": "おそえ",
-    "correct_text_ruby": "おそえ"
-  },
-  {
-    "id": 212,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "全部",
-    "question": "<u>まいねん/まいとし</u>行きます。",
-    "question_ruby": "<u>まいねん/まいとし</u><ruby>行<rt>い</rt></ruby>きます。",
-    "choices": [
-      "意味",
-      "毎年",
-      "子供",
-      "全部"
-    ],
-    "choices_ruby": [
-      "意味",
-      "毎年",
-      "子供",
-      "全部"
-    ],
-    "answer": 3,
-    "correct_text": "全部",
-    "meaning_en": "",
-    "explanation": "ひらがな「まいねん/まいとし」に該当する正しい漢字は【毎年】です。",
-    "target_word_reading": "全部",
-    "correct_text_reading": "全部",
-    "correct_text_ruby": "全部"
-  },
-  {
-    "id": 213,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "大好き",
-    "question": "彼が（　　）！",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>が（　　）！",
-    "choices": [
-      "大好き",
-      "毎朝",
-      "二十日",
-      "多い"
-    ],
-    "choices_ruby": [
-      "<ruby>大好<rt>だいす</rt></ruby>き",
-      "<ruby>毎朝<rt>まいあさ</rt></ruby>",
-      "<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>多<rt>おお</rt></ruby>い"
-    ],
-    "answer": 0,
-    "correct_text": "大好き",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【大好き】（だいすき：）です。",
-    "target_word_reading": "大好き",
-    "correct_text_reading": "大好き",
-    "correct_text_ruby": "<ruby>大好<rt>だいす</rt></ruby>き"
-  },
-  {
-    "id": 214,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぎのう",
-    "question": "<u>昨日</u>、泳いだ（　　　）",
-    "question_ruby": "<u>昨日</u>、<ruby>泳<rt>およ</rt></ruby>いだ（　　　）",
-    "choices": [
-      "きのう",
-      "ぎのう",
-      "きのお",
-      "きの"
-    ],
-    "choices_ruby": [
-      "きのう",
-      "ぎのう",
-      "きのお",
-      "きの"
-    ],
-    "answer": 1,
-    "correct_text": "ぎのう",
-    "meaning_en": "",
-    "explanation": "「昨日」の正しい読み方は【きのう】です。（意味：）",
-    "target_word_reading": "ぎのう",
-    "correct_text_reading": "ぎのう",
-    "correct_text_ruby": "ぎのう"
-  },
-  {
-    "id": 215,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "牛肉",
-    "question": "道路を横<u>きる</u>な。",
-    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>を<ruby>横<rt>よこ</rt></ruby><u>きる</u>な。",
-    "choices": [
-      "全部",
-      "意味",
-      "牛肉",
-      "切る"
-    ],
-    "choices_ruby": [
-      "全部",
-      "意味",
-      "牛肉",
-      "切る"
-    ],
-    "answer": 2,
-    "correct_text": "牛肉",
-    "meaning_en": "",
-    "explanation": "ひらがな「きる」に該当する正しい漢字は【切る】です。",
-    "target_word_reading": "牛肉",
-    "correct_text_reading": "牛肉",
-    "correct_text_ruby": "牛肉"
-  },
-  {
-    "id": 216,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "来る",
-    "question": "（　　）中です。",
-    "question_ruby": "（　　）<ruby>中<rt>なか</rt></ruby>です。",
-    "choices": [
-      "来月",
-      "電話",
-      "旅行",
-      "来る"
-    ],
-    "choices_ruby": [
-      "<ruby>来月<rt>らいげつ</rt></ruby>",
-      "<ruby>電話<rt>でんわ</rt></ruby>",
-      "<ruby>旅行<rt>りょこう</rt></ruby>",
-      "<ruby>来<rt>く</rt></ruby>る"
-    ],
-    "answer": 3,
-    "correct_text": "来る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【電話】（でんわ：）です。",
-    "target_word_reading": "来る",
-    "correct_text_reading": "来る",
-    "correct_text_ruby": "<ruby>来<rt>く</rt></ruby>る"
-  },
-  {
-    "id": 217,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぎゅうにく",
-    "question": "<u>牛肉</u>は高い。",
-    "question_ruby": "<u>牛肉</u>は<ruby>高<rt>たか</rt></ruby>い。",
-    "choices": [
-      "ぎゅうにく",
-      "ぎゅうにぐ",
-      "ぎゅにく",
-      "きゅうにく"
-    ],
-    "choices_ruby": [
-      "ぎゅうにく",
-      "ぎゅうにぐ",
-      "ぎゅにく",
-      "きゅうにく"
-    ],
-    "answer": 0,
-    "correct_text": "ぎゅうにく",
-    "meaning_en": "",
-    "explanation": "「牛肉」の正しい読み方は【ぎゅうにく】です。（意味：）",
-    "target_word_reading": "ぎゅうにく",
-    "correct_text_reading": "ぎゅうにく",
-    "correct_text_ruby": "ぎゅうにく"
-  },
-  {
-    "id": 218,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "閉まる",
-    "question": "今日は金曜日、十月<u>はつか</u>だ。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>金曜日<rt>きんようび</rt></ruby>、<ruby>十月<rt>じゅうがつ</rt></ruby><u>はつか</u>だ。",
-    "choices": [
-      "小さな",
-      "閉まる",
-      "買い物",
-      "二十日"
-    ],
-    "choices_ruby": [
-      "小さな",
-      "閉まる",
-      "買い物",
-      "二十日"
-    ],
-    "answer": 1,
-    "correct_text": "閉まる",
-    "meaning_en": "",
-    "explanation": "ひらがな「はつか」に該当する正しい漢字は【二十日】です。",
-    "target_word_reading": "閉まる",
-    "correct_text_reading": "閉まる",
-    "correct_text_ruby": "閉まる"
-  },
-  {
-    "id": 219,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "医者",
-    "question": "疑問が（　　）。",
-    "question_ruby": "<ruby>疑問<rt>ぎもん</rt></ruby>が（　　）。",
-    "choices": [
-      "待つ",
-      "お姉さん",
-      "医者",
-      "多い"
-    ],
-    "choices_ruby": [
-      "<ruby>待<rt>ま</rt></ruby>つ",
-      "お<ruby>姉<rt>ねえ</rt></ruby>さん",
-      "<ruby>医者<rt>いしゃ</rt></ruby>",
-      "<ruby>多<rt>おお</rt></ruby>い"
-    ],
-    "answer": 2,
-    "correct_text": "医者",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【多い】（おおい：）です。",
-    "target_word_reading": "医者",
-    "correct_text_reading": "医者",
-    "correct_text_ruby": "<ruby>医者<rt>いしゃ</rt></ruby>"
-  },
-  {
-    "id": 220,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "まあさ",
-    "question": "父は<u>毎朝</u>散歩する。",
-    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は<u>毎朝</u><ruby>散歩<rt>さんぽ</rt></ruby>する。",
-    "choices": [
-      "まえあさ",
-      "まいあざ",
-      "まいあさ",
-      "まあさ"
-    ],
-    "choices_ruby": [
-      "まえあさ",
-      "まいあざ",
-      "まいあさ",
-      "まあさ"
-    ],
-    "answer": 3,
-    "correct_text": "まあさ",
-    "meaning_en": "",
-    "explanation": "「毎朝」の正しい読み方は【まいあさ】です。（意味：）",
-    "target_word_reading": "まあさ",
-    "correct_text_reading": "まあさ",
-    "correct_text_ruby": "まあさ"
-  },
-  {
-    "id": 221,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "旅行",
-    "question": "<u>りょこう</u>は好き（　　　）",
-    "question_ruby": "<u>りょこう</u>は<ruby>好<rt>す</rt></ruby>き（　　　）",
-    "choices": [
-      "旅行",
-      "並ぶ",
-      "待つ",
-      "医者"
-    ],
-    "choices_ruby": [
-      "旅行",
-      "並ぶ",
-      "待つ",
-      "医者"
-    ],
-    "answer": 0,
-    "correct_text": "旅行",
-    "meaning_en": "",
-    "explanation": "ひらがな「りょこう」に該当する正しい漢字は【旅行】です。",
-    "target_word_reading": "旅行",
-    "correct_text_reading": "旅行",
-    "correct_text_ruby": "旅行"
-  },
-  {
-    "id": 222,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "嫌い",
-    "question": "先生が（　　）。",
-    "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>が（　　）。",
-    "choices": [
-      "来る",
-      "嫌い",
-      "お姉さん",
-      "医者"
-    ],
-    "choices_ruby": [
-      "<ruby>来<rt>く</rt></ruby>る",
-      "<ruby>嫌<rt>きら</rt></ruby>い",
-      "お<ruby>姉<rt>ねえ</rt></ruby>さん",
-      "<ruby>医者<rt>いしゃ</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "嫌い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【来る】（くる：）です。",
-    "target_word_reading": "嫌い",
-    "correct_text_reading": "嫌い",
-    "correct_text_ruby": "<ruby>嫌<rt>きら</rt></ruby>い"
-  },
-  {
-    "id": 223,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "らえげつ",
-    "question": "再<u>来月</u>は１２月だ。",
-    "question_ruby": "<ruby>再<rt>さい</rt></ruby><u>来月</u>は<ruby>１２月<rt>じゅうにがつ</rt></ruby>だ。",
-    "choices": [
-      "らげつ",
-      "らいげつ",
-      "らえげつ",
-      "らいけつ"
-    ],
-    "choices_ruby": [
-      "らげつ",
-      "らいげつ",
-      "らえげつ",
-      "らいけつ"
-    ],
-    "answer": 2,
-    "correct_text": "らえげつ",
-    "meaning_en": "",
-    "explanation": "「来月」の正しい読み方は【らいげつ】です。（意味：）",
-    "target_word_reading": "らえげつ",
-    "correct_text_reading": "らえげつ",
-    "correct_text_ruby": "らえげつ"
-  },
-  {
-    "id": 224,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "嫌い",
-    "question": "猫は<u>どうぶつ</u>です。",
-    "question_ruby": "<ruby>猫<rt>ねこ</rt></ruby>は<u>どうぶつ</u>です。",
-    "choices": [
-      "待つ",
-      "医者",
-      "動物",
-      "嫌い"
-    ],
-    "choices_ruby": [
-      "待つ",
-      "医者",
-      "動物",
-      "嫌い"
-    ],
-    "answer": 3,
-    "correct_text": "嫌い",
-    "meaning_en": "",
-    "explanation": "ひらがな「どうぶつ」に該当する正しい漢字は【動物】です。",
-    "target_word_reading": "嫌い",
-    "correct_text_reading": "嫌い",
-    "correct_text_ruby": "嫌い"
-  },
-  {
-    "id": 225,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "冬",
-    "question": "（　　）は疲れる。",
-    "question_ruby": "（　　）は<ruby>疲<rt>つか</rt></ruby>れる。",
-    "choices": [
-      "冬",
-      "買う",
-      "狭い",
-      "同じ"
-    ],
-    "choices_ruby": [
-      "<ruby>冬<rt>ふゆ</rt></ruby>",
-      "<ruby>買<rt>か</rt></ruby>う",
-      "<ruby>狭<rt>せま</rt></ruby>い",
-      "<ruby>同<rt>おな</rt></ruby>じ"
-    ],
-    "answer": 0,
-    "correct_text": "冬",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【冬】（ふゆ：）です。",
-    "target_word_reading": "冬",
-    "correct_text_reading": "冬",
-    "correct_text_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>"
-  },
-  {
-    "id": 226,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がいもの",
-    "question": "<u>買い物</u>大好き！",
-    "question_ruby": "<u>買い物</u><ruby>大好<rt>だいす</rt></ruby>き！",
-    "choices": [
-      "かえもの",
-      "がいもの",
-      "かもの",
-      "かいもの"
-    ],
-    "choices_ruby": [
-      "かえもの",
-      "がいもの",
-      "かもの",
-      "かいもの"
-    ],
-    "answer": 1,
-    "correct_text": "がいもの",
-    "meaning_en": "",
-    "explanation": "「買い物」の正しい読み方は【かいもの】です。（意味：）",
-    "target_word_reading": "がいもの",
-    "correct_text_reading": "がいもの",
-    "correct_text_ruby": "がいもの"
-  },
-  {
-    "id": 227,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "人",
-    "question": "風は<u>みなみ</u>へ吹く。",
-    "question_ruby": "<ruby>風<rt>かぜ</rt></ruby>は<u>みなみ</u>へ<ruby>吹<rt>ふ</rt></ruby>く。",
-    "choices": [
-      "卵",
-      "南",
-      "人",
-      "肉"
-    ],
-    "choices_ruby": [
-      "卵",
-      "南",
-      "人",
-      "肉"
-    ],
-    "answer": 2,
-    "correct_text": "人",
-    "meaning_en": "",
-    "explanation": "ひらがな「みなみ」に該当する正しい漢字は【南】です。",
-    "target_word_reading": "人",
-    "correct_text_reading": "人",
-    "correct_text_ruby": "人"
-  },
-  {
-    "id": 228,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "小さな",
-    "question": "（　　）しかない。",
-    "question_ruby": "（　　）しかない。",
-    "choices": [
-      "病院",
-      "お父さん",
-      "待つ",
-      "小さな"
-    ],
-    "choices_ruby": [
-      "<ruby>病院<rt>びょういん</rt></ruby>",
-      "お<ruby>父<rt>とう</rt></ruby>さん",
-      "<ruby>待<rt>ま</rt></ruby>つ",
-      "<ruby>小<rt>ちい</rt></ruby>さな"
-    ],
-    "answer": 3,
-    "correct_text": "小さな",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【待つ】（まつ：）です。",
-    "target_word_reading": "小さな",
-    "correct_text_reading": "小さな",
-    "correct_text_ruby": "<ruby>小<rt>ちい</rt></ruby>さな"
-  },
-  {
-    "id": 229,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いしゃ",
-    "question": "彼は<u>医者</u>だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<u>医者</u>だ。",
-    "choices": [
-      "いしゃ",
-      "しゃ",
-      "えしゃ",
-      "いじゃ"
-    ],
-    "choices_ruby": [
-      "いしゃ",
-      "しゃ",
-      "えしゃ",
-      "いじゃ"
-    ],
-    "answer": 0,
-    "correct_text": "いしゃ",
-    "meaning_en": "",
-    "explanation": "「医者」の正しい読み方は【いしゃ】です。（意味：）",
-    "target_word_reading": "いしゃ",
-    "correct_text_reading": "いしゃ",
-    "correct_text_ruby": "いしゃ"
-  },
-  {
-    "id": 230,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "病院",
-    "question": "みんな<u>きらい</u>。",
-    "question_ruby": "みんな<u>きらい</u>。",
-    "choices": [
-      "嫌い",
-      "病院",
-      "電車",
-      "廊下"
-    ],
-    "choices_ruby": [
-      "嫌い",
-      "病院",
-      "電車",
-      "廊下"
-    ],
-    "answer": 1,
-    "correct_text": "病院",
-    "meaning_en": "",
-    "explanation": "ひらがな「きらい」に該当する正しい漢字は【嫌い】です。",
-    "target_word_reading": "病院",
-    "correct_text_reading": "病院",
-    "correct_text_ruby": "病院"
-  },
-  {
-    "id": 231,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "五つ",
-    "question": "（　　）意見です。",
-    "question_ruby": "（　　）<ruby>意見<rt>いけん</rt></ruby>です。",
-    "choices": [
-      "言葉",
-      "咲く",
-      "五つ",
-      "同じ"
-    ],
-    "choices_ruby": [
-      "<ruby>言葉<rt>ことば</rt></ruby>",
-      "<ruby>咲<rt>さ</rt></ruby>く",
-      "<ruby>五<rt>いつ</rt></ruby>つ",
-      "<ruby>同<rt>おな</rt></ruby>じ"
-    ],
-    "answer": 2,
-    "correct_text": "五つ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【同じ】（おなじ：）です。",
-    "target_word_reading": "五つ",
-    "correct_text_reading": "五つ",
-    "correct_text_ruby": "<ruby>五<rt>いつ</rt></ruby>つ"
-  },
-  {
-    "id": 232,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "せま",
-    "question": "<u>狭い</u>部屋だね。",
-    "question_ruby": "<u>狭い</u><ruby>部屋<rt>へや</rt></ruby>だね。",
-    "choices": [
-      "せまえ",
-      "せまい",
-      "ぜまい",
-      "せま"
-    ],
-    "choices_ruby": [
-      "せまえ",
-      "せまい",
-      "ぜまい",
-      "せま"
-    ],
-    "answer": 3,
-    "correct_text": "せま",
-    "meaning_en": "",
-    "explanation": "「狭い」の正しい読み方は【せまい】です。（意味：）",
-    "target_word_reading": "せま",
-    "correct_text_reading": "せま",
-    "correct_text_ruby": "せま"
-  },
-  {
-    "id": 233,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "悪い",
-    "question": "体に<u>わるい</u>よ。",
-    "question_ruby": "<ruby>体<rt>からだ</rt></ruby>に<u>わるい</u>よ。",
-    "choices": [
-      "悪い",
-      "廊下",
-      "病院",
-      "電車"
-    ],
-    "choices_ruby": [
-      "悪い",
-      "廊下",
-      "病院",
-      "電車"
-    ],
-    "answer": 0,
-    "correct_text": "悪い",
-    "meaning_en": "",
-    "explanation": "ひらがな「わるい」に該当する正しい漢字は【悪い】です。",
-    "target_word_reading": "悪い",
-    "correct_text_reading": "悪い",
-    "correct_text_ruby": "悪い"
-  },
-  {
-    "id": 234,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "洗濯",
-    "question": "ここはちょっと（　　）ですね（　　　）",
-    "question_ruby": "ここはちょっと（　　）ですね（　　　）",
-    "choices": [
-      "閉まる",
-      "洗濯",
-      "出かける",
-      "温い"
-    ],
-    "choices_ruby": [
-      "<ruby>閉<rt>し</rt></ruby>まる",
-      "<ruby>洗濯<rt>せんたく</rt></ruby>",
-      "<ruby>出<rt>で</rt></ruby>かける",
-      "<ruby>温<rt>ぬく</rt></ruby>い"
-    ],
-    "answer": 1,
-    "correct_text": "洗濯",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【温い】（ぬるい：）です。",
-    "target_word_reading": "洗濯",
-    "correct_text_reading": "洗濯",
-    "correct_text_ruby": "<ruby>洗濯<rt>せんたく</rt></ruby>"
-  },
-  {
-    "id": 235,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ちさな",
-    "question": "<u>小さな</u>部屋ね。",
-    "question_ruby": "<u>小さな</u><ruby>部屋<rt>へや</rt></ruby>ね。",
-    "choices": [
-      "ちいざな",
-      "ぢいさな",
-      "ちさな",
-      "ちいさな"
-    ],
-    "choices_ruby": [
-      "ちいざな",
-      "ぢいさな",
-      "ちさな",
-      "ちいさな"
-    ],
-    "answer": 2,
-    "correct_text": "ちさな",
-    "meaning_en": "",
-    "explanation": "「小さな」の正しい読み方は【ちいさな】です。（意味：）",
-    "target_word_reading": "ちさな",
-    "correct_text_reading": "ちさな",
-    "correct_text_ruby": "ちさな"
-  },
-  {
-    "id": 236,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "所",
-    "question": "<u>たまご</u>は嫌いです。",
-    "question_ruby": "<u>たまご</u>は<ruby>嫌<rt>きら</rt></ruby>いです。",
-    "choices": [
-      "先",
-      "卵",
-      "人",
-      "所"
-    ],
-    "choices_ruby": [
-      "先",
-      "卵",
-      "人",
-      "所"
-    ],
-    "answer": 3,
-    "correct_text": "所",
-    "meaning_en": "",
-    "explanation": "ひらがな「たまご」に該当する正しい漢字は【卵】です。",
-    "target_word_reading": "所",
-    "correct_text_reading": "所",
-    "correct_text_ruby": "所"
-  },
-  {
-    "id": 237,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "お父さん",
-    "question": "（　　）はどこ（　　　）",
-    "question_ruby": "（　　）はどこ（　　　）",
-    "choices": [
-      "お父さん",
-      "遊ぶ",
-      "上着",
-      "洗濯"
-    ],
-    "choices_ruby": [
-      "お<ruby>父<rt>とう</rt></ruby>さん",
-      "<ruby>遊<rt>あそ</rt></ruby>ぶ",
-      "<ruby>上着<rt>うわぎ</rt></ruby>",
-      "<ruby>洗濯<rt>せんたく</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "お父さん",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【お父さん】（おとうさん：）です。",
-    "target_word_reading": "お父さん",
-    "correct_text_reading": "お父さん",
-    "correct_text_ruby": "お<ruby>父<rt>とう</rt></ruby>さん"
-  },
-  {
-    "id": 238,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "びょうん",
-    "question": "ここは<u>病院</u>だ。",
-    "question_ruby": "ここは<u>病院</u>だ。",
-    "choices": [
-      "びょういん",
-      "びょうん",
-      "びょおいん",
-      "ぴょういん"
-    ],
-    "choices_ruby": [
-      "びょういん",
-      "びょうん",
-      "びょおいん",
-      "ぴょういん"
-    ],
-    "answer": 1,
-    "correct_text": "びょうん",
-    "meaning_en": "",
-    "explanation": "「病院」の正しい読み方は【びょういん】です。（意味：）",
-    "target_word_reading": "びょうん",
-    "correct_text_reading": "びょうん",
-    "correct_text_ruby": "びょうん"
-  },
-  {
-    "id": 239,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "洗濯",
-    "question": "<u>ろうか</u>に箱がある。",
-    "question_ruby": "<u>ろうか</u>に<ruby>箱<rt>はこ</rt></ruby>がある。",
-    "choices": [
-      "上着",
-      "廊下",
-      "洗濯",
-      "遊ぶ"
-    ],
-    "choices_ruby": [
-      "上着",
-      "廊下",
-      "洗濯",
-      "遊ぶ"
-    ],
-    "answer": 2,
-    "correct_text": "洗濯",
-    "meaning_en": "",
-    "explanation": "ひらがな「ろうか」に該当する正しい漢字は【廊下】です。",
-    "target_word_reading": "洗濯",
-    "correct_text_reading": "洗濯",
-    "correct_text_ruby": "洗濯"
-  },
-  {
-    "id": 240,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "遊ぶ",
-    "question": "（　　）来たよ。",
-    "question_ruby": "（　　）<ruby>来<rt>き</rt></ruby>たよ。",
-    "choices": [
-      "毎晩",
-      "上着",
-      "電車",
-      "遊ぶ"
-    ],
-    "choices_ruby": [
-      "<ruby>毎晩<rt>まいばん</rt></ruby>",
-      "<ruby>上着<rt>うわぎ</rt></ruby>",
-      "<ruby>電車<rt>でんしゃ</rt></ruby>",
-      "<ruby>遊<rt>あそ</rt></ruby>ぶ"
-    ],
-    "answer": 3,
-    "correct_text": "遊ぶ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【電車】（でんしゃ：）です。",
-    "target_word_reading": "遊ぶ",
-    "correct_text_reading": "遊ぶ",
-    "correct_text_ruby": "<ruby>遊<rt>あそ</rt></ruby>ぶ"
-  },
-  {
-    "id": 241,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ことば",
-    "question": "<u>言葉</u>を失った。",
-    "question_ruby": "<u>言葉</u>を<ruby>失<rt>うしな</rt></ruby>った。",
-    "choices": [
-      "ことば",
-      "ことぱ",
-      "こどば",
-      "ごとば"
-    ],
-    "choices_ruby": [
-      "ことば",
-      "ことぱ",
-      "こどば",
-      "ごとば"
-    ],
-    "answer": 0,
-    "correct_text": "ことば",
-    "meaning_en": "",
-    "explanation": "「言葉」の正しい読み方は【ことば】です。（意味：）",
-    "target_word_reading": "ことば",
-    "correct_text_reading": "ことば",
-    "correct_text_ruby": "ことば"
-  },
-  {
-    "id": 242,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "海",
-    "question": "文は<u>ひと</u>なり。",
-    "question_ruby": "<ruby>文<rt>ぶん</rt></ruby>は<u>ひと</u>なり。",
-    "choices": [
-      "雨",
-      "海",
-      "人",
-      "夏"
-    ],
-    "choices_ruby": [
-      "雨",
-      "海",
-      "人",
-      "夏"
-    ],
-    "answer": 1,
-    "correct_text": "海",
-    "meaning_en": "",
-    "explanation": "ひらがな「ひと」に該当する正しい漢字は【人】です。",
-    "target_word_reading": "海",
-    "correct_text_reading": "海",
-    "correct_text_ruby": "海"
-  },
-  {
-    "id": 243,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "青い",
-    "question": "彼女はケーキを（　　）に分けた。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はケーキを（　　）に<ruby>分<rt>わ</rt></ruby>けた。",
-    "choices": [
-      "天気",
-      "勉強",
-      "青い",
-      "五つ"
-    ],
-    "choices_ruby": [
-      "<ruby>天気<rt>てんき</rt></ruby>",
-      "<ruby>勉強<rt>べんきょう</rt></ruby>",
-      "<ruby>青<rt>あお</rt></ruby>い",
-      "<ruby>五<rt>いつ</rt></ruby>つ"
-    ],
-    "answer": 2,
-    "correct_text": "青い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【五つ】（いつつ：）です。",
-    "target_word_reading": "青い",
-    "correct_text_reading": "青い",
-    "correct_text_ruby": "<ruby>青<rt>あお</rt></ruby>い"
-  },
-  {
-    "id": 244,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "でがける",
-    "question": "<u>出かける</u>の（　　　）",
-    "question_ruby": "<u>出かける</u>の（　　　）",
-    "choices": [
-      "でかげる",
-      "てかける",
-      "でかける",
-      "でがける"
-    ],
-    "choices_ruby": [
-      "でかげる",
-      "てかける",
-      "でかける",
-      "でがける"
-    ],
-    "answer": 3,
-    "correct_text": "でがける",
-    "meaning_en": "",
-    "explanation": "「出かける」の正しい読み方は【でかける】です。（意味：）",
-    "target_word_reading": "でがける",
-    "correct_text_reading": "でがける",
-    "correct_text_ruby": "でがける"
-  },
-  {
-    "id": 245,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "先",
-    "question": "<u>さき</u>生が来る。",
-    "question_ruby": "<u>さき</u><ruby>生<rt>なま</rt></ruby>が<ruby>来<rt>く</rt></ruby>る。",
-    "choices": [
-      "先",
-      "紙",
-      "海",
-      "色"
-    ],
-    "choices_ruby": [
-      "先",
-      "紙",
-      "海",
-      "色"
-    ],
-    "answer": 0,
-    "correct_text": "先",
-    "meaning_en": "",
-    "explanation": "ひらがな「さき」に該当する正しい漢字は【先】です。",
-    "target_word_reading": "先",
-    "correct_text_reading": "先",
-    "correct_text_ruby": "先"
-  },
-  {
-    "id": 246,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "郵便局",
-    "question": "この場（　　）に（　　　）",
-    "question_ruby": "この<ruby>場<rt>ば</rt></ruby>（　　）に（　　　）",
-    "choices": [
-      "薄い",
-      "郵便局",
-      "黄色い",
-      "所"
-    ],
-    "choices_ruby": [
-      "<ruby>薄<rt>うす</rt></ruby>い",
-      "<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>",
-      "<ruby>黄色<rt>きいろ</rt></ruby>い",
-      "<ruby>所<rt>ところ</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "郵便局",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【所】（ところ：）です。",
-    "target_word_reading": "郵便局",
-    "correct_text_reading": "郵便局",
-    "correct_text_ruby": "<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>"
-  },
-  {
-    "id": 247,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "せんだく",
-    "question": "鬼の留守に<u>洗濯</u>。",
-    "question_ruby": "<ruby>鬼<rt>おに</rt></ruby>の<ruby>留守<rt>るす</rt></ruby>に<u>洗濯</u>。",
-    "choices": [
-      "ぜんたく",
-      "せんたぐ",
-      "せんだく",
-      "せんたく"
-    ],
-    "choices_ruby": [
-      "ぜんたく",
-      "せんたぐ",
-      "せんだく",
-      "せんたく"
-    ],
-    "answer": 2,
-    "correct_text": "せんだく",
-    "meaning_en": "",
-    "explanation": "「洗濯」の正しい読み方は【せんたく】です。（意味：）",
-    "target_word_reading": "せんだく",
-    "correct_text_reading": "せんだく",
-    "correct_text_ruby": "せんだく"
-  },
-  {
-    "id": 248,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "差す",
-    "question": "彼は<u>うわぎ</u>を掛けた。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<u>うわぎ</u>を<ruby>掛<rt>か</rt></ruby>けた。",
-    "choices": [
-      "薄い",
-      "勉強",
-      "上着",
-      "差す"
-    ],
-    "choices_ruby": [
-      "薄い",
-      "勉強",
-      "上着",
-      "差す"
-    ],
-    "answer": 3,
-    "correct_text": "差す",
-    "meaning_en": "",
-    "explanation": "ひらがな「うわぎ」に該当する正しい漢字は【上着】です。",
-    "target_word_reading": "差す",
-    "correct_text_reading": "差す",
-    "correct_text_ruby": "差す"
-  },
-  {
-    "id": 249,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "遊ぶ",
-    "question": "ここで（　　）な。",
-    "question_ruby": "ここで（　　）な。",
-    "choices": [
-      "遊ぶ",
-      "差す",
-      "二十歳",
-      "返す"
-    ],
-    "choices_ruby": [
-      "<ruby>遊<rt>あそ</rt></ruby>ぶ",
-      "<ruby>差<rt>さ</rt></ruby>す",
-      "<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>歳<rt>さい</rt></ruby>",
-      "<ruby>返<rt>かえ</rt></ruby>す"
-    ],
-    "answer": 0,
-    "correct_text": "遊ぶ",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【遊ぶ】（あそぶ：）です。",
-    "target_word_reading": "遊ぶ",
-    "correct_text_reading": "遊ぶ",
-    "correct_text_ruby": "<ruby>遊<rt>あそ</rt></ruby>ぶ"
-  },
-  {
-    "id": 250,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "まいぱん",
-    "question": "<u>毎晩</u>電話するよ。",
-    "question_ruby": "<u>毎晩</u><ruby>電話<rt>でんわ</rt></ruby>するよ。",
-    "choices": [
-      "まいばん",
-      "まいぱん",
-      "まえばん",
-      "まばん"
-    ],
-    "choices_ruby": [
-      "まいばん",
-      "まいぱん",
-      "まえばん",
-      "まばん"
-    ],
-    "answer": 1,
-    "correct_text": "まいぱん",
-    "meaning_en": "",
-    "explanation": "「毎晩」の正しい読み方は【まいばん】です。（意味：）",
-    "target_word_reading": "まいぱん",
-    "correct_text_reading": "まいぱん",
-    "correct_text_ruby": "まいぱん"
-  },
-  {
-    "id": 251,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "色",
-    "question": "大<u>うみ</u>の一滴。",
-    "question_ruby": "<ruby>大<rt>だい</rt></ruby><u>うみ</u>の<ruby>一滴<rt>いってき</rt></ruby>。",
-    "choices": [
-      "私",
-      "海",
-      "色",
-      "紙"
-    ],
-    "choices_ruby": [
-      "私",
-      "海",
-      "色",
-      "紙"
-    ],
-    "answer": 2,
-    "correct_text": "色",
-    "meaning_en": "",
-    "explanation": "ひらがな「うみ」に該当する正しい漢字は【海】です。",
-    "target_word_reading": "色",
-    "correct_text_reading": "色",
-    "correct_text_ruby": "色"
-  },
-  {
-    "id": 252,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "大勢",
-    "question": "顔が（　　）よ。",
-    "question_ruby": "<ruby>顔<rt>かお</rt></ruby>が（　　）よ。",
-    "choices": [
-      "お金",
-      "青い",
-      "二日",
-      "大勢"
-    ],
-    "choices_ruby": [
-      "お<ruby>金<rt>かね</rt></ruby>",
-      "<ruby>青<rt>あお</rt></ruby>い",
-      "<ruby>二<rt>に</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>大勢<rt>おおぜい</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "大勢",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【青い】（あおい：）です。",
-    "target_word_reading": "大勢",
-    "correct_text_reading": "大勢",
-    "correct_text_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>"
-  },
-  {
-    "id": 253,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "べんきょうする",
-    "question": "<u>勉強</u>するな。",
-    "question_ruby": "<u>勉強</u>するな。",
-    "choices": [
-      "べんきょうする",
-      "べんきょする",
-      "べんきょうずる",
-      "ぺんきょうする"
-    ],
-    "choices_ruby": [
-      "べんきょうする",
-      "べんきょする",
-      "べんきょうずる",
-      "ぺんきょうする"
-    ],
-    "answer": 0,
-    "correct_text": "べんきょうする",
-    "meaning_en": "",
-    "explanation": "「勉強」の正しい読み方は【べんきょうする】です。（意味：）",
-    "target_word_reading": "べんきょうする",
-    "correct_text_reading": "べんきょうする",
-    "correct_text_ruby": "べんきょうする"
-  },
-  {
-    "id": 254,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "皆さん",
-    "question": "花は<u>きいろい</u>。",
-    "question_ruby": "<ruby>花<rt>はな</rt></ruby>は<u>きいろい</u>。",
-    "choices": [
-      "二十歳",
-      "皆さん",
-      "黄色い",
-      "閉める"
-    ],
-    "choices_ruby": [
-      "二十歳",
-      "皆さん",
-      "黄色い",
-      "閉める"
-    ],
-    "answer": 1,
-    "correct_text": "皆さん",
-    "meaning_en": "",
-    "explanation": "ひらがな「きいろい」に該当する正しい漢字は【黄色い】です。",
-    "target_word_reading": "皆さん",
-    "correct_text_reading": "皆さん",
-    "correct_text_ruby": "皆さん"
-  },
-  {
-    "id": 255,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "閉める",
-    "question": "あの人は影が（　　）。",
-    "question_ruby": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>影<rt>かげ</rt></ruby>が（　　）。",
-    "choices": [
-      "寒い",
-      "薄い",
-      "閉める",
-      "皆さん"
-    ],
-    "choices_ruby": [
-      "<ruby>寒<rt>さむ</rt></ruby>い",
-      "<ruby>薄<rt>うす</rt></ruby>い",
-      "<ruby>閉<rt>し</rt></ruby>める",
-      "<ruby>皆<rt>みな</rt></ruby>さん"
-    ],
-    "answer": 2,
-    "correct_text": "閉める",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【薄い】（うすい：）です。",
-    "target_word_reading": "閉める",
-    "correct_text_reading": "閉める",
-    "correct_text_ruby": "<ruby>閉<rt>し</rt></ruby>める"
-  },
-  {
-    "id": 256,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ゆびんきょく",
-    "question": "<u>郵便局</u>に行くの（　　　）",
-    "question_ruby": "<u>郵便局</u>に<ruby>行<rt>い</rt></ruby>くの（　　　）",
-    "choices": [
-      "ゆうびんきょく",
-      "ゆうぴんきょく",
-      "ゆうびんきょぐ",
-      "ゆびんきょく"
-    ],
-    "choices_ruby": [
-      "ゆうびんきょく",
-      "ゆうぴんきょく",
-      "ゆうびんきょぐ",
-      "ゆびんきょく"
-    ],
-    "answer": 3,
-    "correct_text": "ゆびんきょく",
-    "meaning_en": "",
-    "explanation": "「郵便局」の正しい読み方は【ゆうびんきょく】です。（意味：）",
-    "target_word_reading": "ゆびんきょく",
-    "correct_text_reading": "ゆびんきょく",
-    "correct_text_ruby": "ゆびんきょく"
-  },
-  {
-    "id": 257,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "水曜日",
-    "question": "今日は<u>すいようび</u>です。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>すいようび</u>です。",
-    "choices": [
-      "水曜日",
-      "閉める",
-      "一昨年",
-      "皆さん"
-    ],
-    "choices_ruby": [
-      "水曜日",
-      "閉める",
-      "一昨年",
-      "皆さん"
-    ],
-    "answer": 0,
-    "correct_text": "水曜日",
-    "meaning_en": "",
-    "explanation": "ひらがな「すいようび」に該当する正しい漢字は【水曜日】です。",
-    "target_word_reading": "水曜日",
-    "correct_text_reading": "水曜日",
-    "correct_text_ruby": "水曜日"
-  },
-  {
-    "id": 258,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "皆さん",
-    "question": "（　　）がほしい。",
-    "question_ruby": "（　　）がほしい。",
-    "choices": [
-      "映画",
-      "皆さん",
-      "寒い",
-      "紙"
-    ],
-    "choices_ruby": [
-      "<ruby>映画<rt>えいが</rt></ruby>",
-      "<ruby>皆<rt>みな</rt></ruby>さん",
-      "<ruby>寒<rt>さむ</rt></ruby>い",
-      "<ruby>紙<rt>かみ</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "皆さん",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【紙】（かみ：）です。",
-    "target_word_reading": "皆さん",
-    "correct_text_reading": "皆さん",
-    "correct_text_ruby": "<ruby>皆<rt>みな</rt></ruby>さん"
-  },
-  {
-    "id": 259,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "かいす",
-    "question": "歴史は繰り<u>返す</u>。",
-    "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>は<ruby>繰<rt>く</rt></ruby>り<u>返す</u>。",
-    "choices": [
-      "かえず",
-      "がえす",
-      "かいす",
-      "かえす"
-    ],
-    "choices_ruby": [
-      "かえず",
-      "がえす",
-      "かいす",
-      "かえす"
-    ],
-    "answer": 2,
-    "correct_text": "かいす",
-    "meaning_en": "",
-    "explanation": "「返す」の正しい読み方は【かえす】です。（意味：）",
-    "target_word_reading": "かいす",
-    "correct_text_reading": "かいす",
-    "correct_text_ruby": "かいす"
-  },
-  {
-    "id": 260,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "皆さん",
-    "question": "ローリーは<u>はたち</u>だ。",
-    "question_ruby": "ローリーは<u>はたち</u>だ。",
-    "choices": [
-      "一昨年",
-      "二十歳",
-      "閉める",
-      "皆さん"
-    ],
-    "choices_ruby": [
-      "一昨年",
-      "二十歳",
-      "閉める",
-      "皆さん"
-    ],
-    "answer": 3,
-    "correct_text": "皆さん",
-    "meaning_en": "",
-    "explanation": "ひらがな「はたち」に該当する正しい漢字は【二十歳】です。",
-    "target_word_reading": "皆さん",
-    "correct_text_reading": "皆さん",
-    "correct_text_ruby": "皆さん"
-  },
-  {
-    "id": 261,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "大勢",
-    "question": "（　　）の人出ですよ。",
-    "question_ruby": "（　　）の<ruby>人出<rt>ひとで</rt></ruby>ですよ。",
-    "choices": [
-      "大勢",
-      "白い",
-      "財布",
-      "一昨年"
-    ],
-    "choices_ruby": [
-      "<ruby>大勢<rt>おおぜい</rt></ruby>",
-      "<ruby>白<rt>しろ</rt></ruby>い",
-      "<ruby>財布<rt>さいふ</rt></ruby>",
-      "<ruby>一昨年<rt>いっさくねん</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "大勢",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【大勢】（おおぜい：）です。",
-    "target_word_reading": "大勢",
-    "correct_text_reading": "大勢",
-    "correct_text_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>"
-  },
-  {
-    "id": 262,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "わたくじ",
-    "question": "<u>私</u>も行った。",
-    "question_ruby": "<u>私</u>も<ruby>行<rt>おこな</rt></ruby>った。",
-    "choices": [
-      "わだくし",
-      "わたくじ",
-      "わたくし",
-      "わたぐし"
-    ],
-    "choices_ruby": [
-      "わだくし",
-      "わたくじ",
-      "わたくし",
-      "わたぐし"
-    ],
-    "answer": 1,
-    "correct_text": "わたくじ",
-    "meaning_en": "",
-    "explanation": "「私」の正しい読み方は【わたくし】です。（意味：）",
-    "target_word_reading": "わたくじ",
-    "correct_text_reading": "わたくじ",
-    "correct_text_ruby": "わたくじ"
-  },
-  {
-    "id": 263,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "今晩",
-    "question": "<u>おかね</u>はどこ（　　　）",
-    "question_ruby": "<u>おかね</u>はどこ（　　　）",
-    "choices": [
-      "映画",
-      "お金",
-      "今晩",
-      "白い"
-    ],
-    "choices_ruby": [
-      "映画",
-      "お金",
-      "今晩",
-      "白い"
-    ],
-    "answer": 2,
-    "correct_text": "今晩",
-    "meaning_en": "",
-    "explanation": "ひらがな「おかね」に該当する正しい漢字は【お金】です。",
-    "target_word_reading": "今晩",
-    "correct_text_reading": "今晩",
-    "correct_text_ruby": "今晩"
-  },
-  {
-    "id": 264,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "一昨年",
-    "question": "（　　）酔いだ。",
-    "question_ruby": "（　　）<ruby>酔<rt>よ</rt></ruby>いだ。",
-    "choices": [
-      "二日",
-      "居る",
-      "玄関",
-      "一昨年"
-    ],
-    "choices_ruby": [
-      "<ruby>二<rt>に</rt></ruby><ruby>日<rt>にち</rt></ruby>",
-      "<ruby>居<rt>お</rt></ruby>る",
-      "<ruby>玄関<rt>げんかん</rt></ruby>",
-      "<ruby>一昨年<rt>いっさくねん</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "一昨年",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【二日】（ふつか：）です。",
-    "target_word_reading": "一昨年",
-    "correct_text_reading": "一昨年",
-    "correct_text_ruby": "<ruby>一昨年<rt>いっさくねん</rt></ruby>"
-  },
-  {
-    "id": 265,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "さむい",
-    "question": "肌<u>寒い</u>です。",
-    "question_ruby": "<ruby>肌<rt>はだ</rt></ruby><u>寒い</u>です。",
-    "choices": [
-      "さむい",
-      "さむえ",
-      "ざむい",
-      "さむ"
-    ],
-    "choices_ruby": [
-      "さむい",
-      "さむえ",
-      "ざむい",
-      "さむ"
-    ],
-    "answer": 0,
-    "correct_text": "さむい",
-    "meaning_en": "",
-    "explanation": "「寒い」の正しい読み方は【さむい】です。（意味：）",
-    "target_word_reading": "さむい",
-    "correct_text_reading": "さむい",
-    "correct_text_ruby": "さむい"
-  },
-  {
-    "id": 266,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "一昨年",
-    "question": "<u>みなさん</u>はお元気（　　　）",
-    "question_ruby": "<u>みなさん</u>はお<ruby>元気<rt>げんき</rt></ruby>（　　　）",
-    "choices": [
-      "無くす",
-      "一昨年",
-      "少ない",
-      "皆さん"
-    ],
-    "choices_ruby": [
-      "無くす",
-      "一昨年",
-      "少ない",
-      "皆さん"
-    ],
-    "answer": 1,
-    "correct_text": "一昨年",
-    "meaning_en": "",
-    "explanation": "ひらがな「みなさん」に該当する正しい漢字は【皆さん】です。",
-    "target_word_reading": "一昨年",
-    "correct_text_reading": "一昨年",
-    "correct_text_ruby": "一昨年"
-  },
-  {
-    "id": 267,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "出口",
-    "question": "（　　）に行くの（　　　）",
-    "question_ruby": "（　　）に<ruby>行<rt>い</rt></ruby>くの（　　　）",
-    "choices": [
-      "暑い",
-      "映画",
-      "出口",
-      "宿題"
-    ],
-    "choices_ruby": [
-      "<ruby>暑<rt>あつ</rt></ruby>い",
-      "<ruby>映画<rt>えいが</rt></ruby>",
-      "<ruby>出口<rt>でぐち</rt></ruby>",
-      "<ruby>宿題<rt>しゅくだい</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "出口",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【映画】（えいが：）です。",
-    "target_word_reading": "出口",
-    "correct_text_reading": "出口",
-    "correct_text_ruby": "<ruby>出口<rt>でぐち</rt></ruby>"
-  },
-  {
-    "id": 268,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "しろ",
-    "question": "<u>白い</u>ですか。",
-    "question_ruby": "<u>白い</u>ですか。",
-    "choices": [
-      "しろえ",
-      "しろい",
-      "じろい",
-      "しろ"
-    ],
-    "choices_ruby": [
-      "しろえ",
-      "しろい",
-      "じろい",
-      "しろ"
-    ],
-    "answer": 3,
-    "correct_text": "しろ",
-    "meaning_en": "",
-    "explanation": "「白い」の正しい読み方は【しろい】です。（意味：）",
-    "target_word_reading": "しろ",
-    "correct_text_reading": "しろ",
-    "correct_text_ruby": "しろ"
-  },
-  {
-    "id": 269,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "財布",
-    "question": "ほら<u>さいふ</u>だ。",
-    "question_ruby": "ほら<u>さいふ</u>だ。",
-    "choices": [
-      "財布",
-      "出口",
-      "暑い",
-      "毎日"
-    ],
-    "choices_ruby": [
-      "財布",
-      "出口",
-      "暑い",
-      "毎日"
-    ],
-    "answer": 0,
-    "correct_text": "財布",
-    "meaning_en": "",
-    "explanation": "ひらがな「さいふ」に該当する正しい漢字は【財布】です。",
-    "target_word_reading": "財布",
-    "correct_text_reading": "財布",
-    "correct_text_ruby": "財布"
-  },
-  {
-    "id": 270,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "借りる",
-    "question": "私は（　　）この山に登りました。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は（　　）この<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>りました。",
-    "choices": [
-      "取る",
-      "借りる",
-      "紅茶",
-      "一昨年"
-    ],
-    "choices_ruby": [
-      "<ruby>取<rt>と</rt></ruby>る",
-      "<ruby>借<rt>か</rt></ruby>りる",
-      "<ruby>紅茶<rt>こうちゃ</rt></ruby>",
-      "<ruby>一昨年<rt>いっさくねん</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "借りる",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【一昨年】（おととし：）です。",
-    "target_word_reading": "借りる",
-    "correct_text_reading": "借りる",
-    "correct_text_ruby": "<ruby>借<rt>か</rt></ruby>りる"
-  },
-  {
-    "id": 271,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ざし",
-    "question": "<u>雑誌</u>をくれないか。",
-    "question_ruby": "<u>雑誌</u>をくれないか。",
-    "choices": [
-      "ざっじ",
-      "ざっし",
-      "ざし",
-      "さっし"
-    ],
-    "choices_ruby": [
-      "ざっじ",
-      "ざっし",
-      "ざし",
-      "さっし"
-    ],
-    "answer": 2,
-    "correct_text": "ざし",
-    "meaning_en": "",
-    "explanation": "「雑誌」の正しい読み方は【ざっし】です。（意味：）",
-    "target_word_reading": "ざし",
-    "correct_text_reading": "ざし",
-    "correct_text_ruby": "ざし"
-  },
-  {
-    "id": 272,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "一人",
-    "question": "<u>でんき</u>消して。",
-    "question_ruby": "<u>でんき</u><ruby>消<rt>け</rt></ruby>して。",
-    "choices": [
-      "電気",
-      "取る",
-      "紅茶",
-      "一人"
-    ],
-    "choices_ruby": [
-      "電気",
-      "取る",
-      "紅茶",
-      "一人"
-    ],
-    "answer": 3,
-    "correct_text": "一人",
-    "meaning_en": "",
-    "explanation": "ひらがな「でんき」に該当する正しい漢字は【電気】です。",
-    "target_word_reading": "一人",
-    "correct_text_reading": "一人",
-    "correct_text_ruby": "一人"
-  },
-  {
-    "id": 273,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "毎日",
-    "question": "平凡な（　　）さ。",
-    "question_ruby": "<ruby>平凡<rt>へいぼん</rt></ruby>な（　　）さ。",
-    "choices": [
-      "毎日",
-      "切手",
-      "お風呂",
-      "野菜"
-    ],
-    "choices_ruby": [
-      "<ruby>毎日<rt>まいにち</rt></ruby>",
-      "<ruby>切手<rt>きって</rt></ruby>",
-      "お<ruby>風呂<rt>ふろ</rt></ruby>",
-      "<ruby>野菜<rt>やさい</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "毎日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【毎日】（まいにち：）です。",
-    "target_word_reading": "毎日",
-    "correct_text_reading": "毎日",
-    "correct_text_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>"
-  },
-  {
-    "id": 274,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "でぐぢ",
-    "question": "<u>出口</u>を探そう。",
-    "question_ruby": "<u>出口</u>を<ruby>探<rt>さが</rt></ruby>そう。",
-    "choices": [
-      "てぐち",
-      "でぐぢ",
-      "でぐち",
-      "でくち"
-    ],
-    "choices_ruby": [
-      "てぐち",
-      "でぐぢ",
-      "でぐち",
-      "でくち"
-    ],
-    "answer": 1,
-    "correct_text": "でぐぢ",
-    "meaning_en": "",
-    "explanation": "「出口」の正しい読み方は【でぐち】です。（意味：）",
-    "target_word_reading": "でぐぢ",
-    "correct_text_reading": "でぐぢ",
-    "correct_text_ruby": "でぐぢ"
-  },
-  {
-    "id": 275,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "茶色",
-    "question": "今日は<u>あつい</u>。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>あつい</u>。",
-    "choices": [
-      "紅茶",
-      "暑い",
-      "茶色",
-      "取る"
-    ],
-    "choices_ruby": [
-      "紅茶",
-      "暑い",
-      "茶色",
-      "取る"
-    ],
-    "answer": 2,
-    "correct_text": "茶色",
-    "meaning_en": "",
-    "explanation": "ひらがな「あつい」に該当する正しい漢字は【暑い】です。",
-    "target_word_reading": "茶色",
-    "correct_text_reading": "茶色",
-    "correct_text_ruby": "茶色"
-  },
-  {
-    "id": 276,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "仕事",
-    "question": "（　　）やった（　　　）",
-    "question_ruby": "（　　）やった（　　　）",
-    "choices": [
-      "宿題",
-      "お母さん",
-      "大学",
-      "仕事"
-    ],
-    "choices_ruby": [
-      "<ruby>宿題<rt>しゅくだい</rt></ruby>",
-      "お<ruby>母<rt>かあ</rt></ruby>さん",
-      "<ruby>大学<rt>だいがく</rt></ruby>",
-      "<ruby>仕事<rt>しごと</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "仕事",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【宿題】（しゅくだい：）です。",
-    "target_word_reading": "仕事",
-    "correct_text_reading": "仕事",
-    "correct_text_ruby": "<ruby>仕事<rt>しごと</rt></ruby>"
-  },
-  {
-    "id": 277,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "すくない",
-    "question": "５は８より<u>少ない</u>。",
-    "question_ruby": "５は８より<u>少ない</u>。",
-    "choices": [
-      "すくない",
-      "すぐない",
-      "すくなえ",
-      "すくな"
-    ],
-    "choices_ruby": [
-      "すくない",
-      "すぐない",
-      "すくなえ",
-      "すくな"
-    ],
-    "answer": 0,
-    "correct_text": "すくない",
-    "meaning_en": "",
-    "explanation": "「少ない」の正しい読み方は【すくない】です。（意味：）",
-    "target_word_reading": "すくない",
-    "correct_text_reading": "すくない",
-    "correct_text_ruby": "すくない"
-  },
-  {
-    "id": 278,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "見せる",
-    "question": "道具を<u>かりる</u>事が出来ますか。",
-    "question_ruby": "<ruby>道具<rt>どうぐ</rt></ruby>を<u>かりる</u><ruby>事<rt>こと</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ますか。",
-    "choices": [
-      "地下鉄",
-      "見せる",
-      "借りる",
-      "お弁当"
-    ],
-    "choices_ruby": [
-      "地下鉄",
-      "見せる",
-      "借りる",
-      "お弁当"
-    ],
-    "answer": 1,
-    "correct_text": "見せる",
-    "meaning_en": "",
-    "explanation": "ひらがな「かりる」に該当する正しい漢字は【借りる】です。",
-    "target_word_reading": "見せる",
-    "correct_text_reading": "見せる",
-    "correct_text_ruby": "見せる"
-  },
-  {
-    "id": 279,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "自分",
-    "question": "見て、（　　）極星よ。",
-    "question_ruby": "<ruby>見<rt>み</rt></ruby>て、（　　）<ruby>極<rt>ごく</rt></ruby><ruby>星<rt>ほし</rt></ruby>よ。",
-    "choices": [
-      "北",
-      "甘い",
-      "自分",
-      "靴下"
-    ],
-    "choices_ruby": [
-      "<ruby>北<rt>きた</rt></ruby>",
-      "<ruby>甘<rt>あま</rt></ruby>い",
-      "<ruby>自分<rt>じぶん</rt></ruby>",
-      "<ruby>靴下<rt>くつした</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "自分",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【北】（きた：）です。",
-    "target_word_reading": "自分",
-    "correct_text_reading": "自分",
-    "correct_text_ruby": "<ruby>自分<rt>じぶん</rt></ruby>"
-  },
-  {
-    "id": 280,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "こちゃ",
-    "question": "<u>紅茶</u>はいかが（　　　）",
-    "question_ruby": "<u>紅茶</u>はいかが（　　　）",
-    "choices": [
-      "こうちゃ",
-      "こうぢゃ",
-      "こおちゃ",
-      "こちゃ"
-    ],
-    "choices_ruby": [
-      "こうちゃ",
-      "こうぢゃ",
-      "こおちゃ",
-      "こちゃ"
-    ],
-    "answer": 3,
-    "correct_text": "こちゃ",
-    "meaning_en": "",
-    "explanation": "「紅茶」の正しい読み方は【こうちゃ】です。（意味：）",
-    "target_word_reading": "こちゃ",
-    "correct_text_reading": "こちゃ",
-    "correct_text_ruby": "こちゃ"
-  },
-  {
-    "id": 281,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "茶色",
-    "question": "<u>ちゃいろ</u>の動物は（　　　）",
-    "question_ruby": "<u>ちゃいろ</u>の<ruby>動物<rt>どうぶつ</rt></ruby>は（　　　）",
-    "choices": [
-      "茶色",
-      "静か",
-      "靴下",
-      "自分"
-    ],
-    "choices_ruby": [
-      "茶色",
-      "静か",
-      "靴下",
-      "自分"
-    ],
-    "answer": 0,
-    "correct_text": "茶色",
-    "meaning_en": "",
-    "explanation": "ひらがな「ちゃいろ」に該当する正しい漢字は【茶色】です。",
-    "target_word_reading": "茶色",
-    "correct_text_reading": "茶色",
-    "correct_text_ruby": "茶色"
-  },
-  {
-    "id": 282,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "地下鉄",
-    "question": "（　　）にする（　　　）",
-    "question_ruby": "（　　）にする（　　　）",
-    "choices": [
-      "便利",
-      "地下鉄",
-      "お弁当",
-      "お風呂"
-    ],
-    "choices_ruby": [
-      "<ruby>便利<rt>べんり</rt></ruby>",
-      "<ruby>地下鉄<rt>ちかてつ</rt></ruby>",
-      "お<ruby>弁当<rt>べんとう</rt></ruby>",
-      "お<ruby>風呂<rt>ふろ</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "地下鉄",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【お風呂】（おふろ：）です。",
-    "target_word_reading": "地下鉄",
-    "correct_text_reading": "地下鉄",
-    "correct_text_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>"
-  },
-  {
-    "id": 283,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "やざい",
-    "question": "茄子は<u>野菜</u>よ。",
-    "question_ruby": "<ruby>茄子<rt>なすび</rt></ruby>は<u>野菜</u>よ。",
-    "choices": [
-      "やさえ",
-      "やさい",
-      "やざい",
-      "やさ"
-    ],
-    "choices_ruby": [
-      "やさえ",
-      "やさい",
-      "やざい",
-      "やさ"
-    ],
-    "answer": 2,
-    "correct_text": "やざい",
-    "meaning_en": "",
-    "explanation": "「野菜」の正しい読み方は【やさい】です。（意味：）",
-    "target_word_reading": "やざい",
-    "correct_text_reading": "やざい",
-    "correct_text_ruby": "やざい"
-  },
-  {
-    "id": 284,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "自分",
-    "question": "小<u>きって</u>で支払う。",
-    "question_ruby": "<ruby>小<rt>しょう</rt></ruby><u>きって</u>で<ruby>支払<rt>しはら</rt></ruby>う。",
-    "choices": [
-      "甘い",
-      "靴下",
-      "切手",
-      "自分"
-    ],
-    "choices_ruby": [
-      "甘い",
-      "靴下",
-      "切手",
-      "自分"
-    ],
-    "answer": 3,
-    "correct_text": "自分",
-    "meaning_en": "",
-    "explanation": "ひらがな「きって」に該当する正しい漢字は【切手】です。",
-    "target_word_reading": "自分",
-    "correct_text_reading": "自分",
-    "correct_text_ruby": "自分"
-  },
-  {
-    "id": 285,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "仕事",
-    "question": "（　　）中です。",
-    "question_ruby": "（　　）<ruby>中<rt>なか</rt></ruby>です。",
-    "choices": [
-      "仕事",
-      "お皿",
-      "教室",
-      "重い"
-    ],
-    "choices_ruby": [
-      "<ruby>仕事<rt>しごと</rt></ruby>",
-      "お<ruby>皿<rt>さら</rt></ruby>",
-      "<ruby>教室<rt>きょうしつ</rt></ruby>",
-      "<ruby>重<rt>おも</rt></ruby>い"
-    ],
-    "answer": 0,
-    "correct_text": "仕事",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【仕事】（しごと：）です。",
-    "target_word_reading": "仕事",
-    "correct_text_reading": "仕事",
-    "correct_text_ruby": "<ruby>仕事<rt>しごと</rt></ruby>"
-  },
-  {
-    "id": 286,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "だいがぐ",
-    "question": "<u>大学</u>生です。",
-    "question_ruby": "<u>大学</u><ruby>生<rt>なま</rt></ruby>です。",
-    "choices": [
-      "だいかく",
-      "だいがぐ",
-      "たいがく",
-      "だいがく"
-    ],
-    "choices_ruby": [
-      "だいかく",
-      "だいがぐ",
-      "たいがく",
-      "だいがく"
-    ],
-    "answer": 1,
-    "correct_text": "だいがぐ",
-    "meaning_en": "",
-    "explanation": "「大学」の正しい読み方は【だいがく】です。（意味：）",
-    "target_word_reading": "だいがぐ",
-    "correct_text_reading": "だいがぐ",
-    "correct_text_ruby": "だいがぐ"
-  },
-  {
-    "id": 287,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "重い",
-    "question": "<u>しずか</u>過ぎる。",
-    "question_ruby": "<u>しずか</u><ruby>過<rt>す</rt></ruby>ぎる。",
-    "choices": [
-      "便利",
-      "教室",
-      "重い",
-      "静か"
-    ],
-    "choices_ruby": [
-      "便利",
-      "教室",
-      "重い",
-      "静か"
-    ],
-    "answer": 2,
-    "correct_text": "重い",
-    "meaning_en": "",
-    "explanation": "ひらがな「しずか」に該当する正しい漢字は【静か】です。",
-    "target_word_reading": "重い",
-    "correct_text_reading": "重い",
-    "correct_text_ruby": "重い"
-  },
-  {
-    "id": 288,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "建物",
-    "question": "手の内を（　　）な。",
-    "question_ruby": "<ruby>手の内<rt>てのうち</rt></ruby>を（　　）な。",
-    "choices": [
-      "八つ",
-      "見せる",
-      "先週",
-      "建物"
-    ],
-    "choices_ruby": [
-      "<ruby>八<rt>やっ</rt></ruby>つ",
-      "<ruby>見<rt>み</rt></ruby>せる",
-      "<ruby>先週<rt>せんしゅう</rt></ruby>",
-      "<ruby>建物<rt>たてもの</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "建物",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【見せる】（みせる：）です。",
-    "target_word_reading": "建物",
-    "correct_text_reading": "建物",
-    "correct_text_ruby": "<ruby>建物<rt>たてもの</rt></ruby>"
-  },
-  {
-    "id": 289,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "くつした",
-    "question": "君の<u>靴下</u>臭いよ。",
-    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>の<u>靴下</u><ruby>臭<rt>くさ</rt></ruby>いよ。",
-    "choices": [
-      "くつした",
-      "くつしだ",
-      "ぐつした",
-      "くづした"
-    ],
-    "choices_ruby": [
-      "くつした",
-      "くつしだ",
-      "ぐつした",
-      "くづした"
-    ],
-    "answer": 0,
-    "correct_text": "くつした",
-    "meaning_en": "",
-    "explanation": "「靴下」の正しい読み方は【くつした】です。（意味：）",
-    "target_word_reading": "くつした",
-    "correct_text_reading": "くつした",
-    "correct_text_ruby": "くつした"
-  },
-  {
-    "id": 290,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "教室",
-    "question": "<u>じぶん</u>でやれ。",
-    "question_ruby": "<u>じぶん</u>でやれ。",
-    "choices": [
-      "自分",
-      "教室",
-      "お皿",
-      "重い"
-    ],
-    "choices_ruby": [
-      "自分",
-      "教室",
-      "お皿",
-      "重い"
-    ],
-    "answer": 1,
-    "correct_text": "教室",
-    "meaning_en": "",
-    "explanation": "ひらがな「じぶん」に該当する正しい漢字は【自分】です。",
-    "target_word_reading": "教室",
-    "correct_text_reading": "教室",
-    "correct_text_ruby": "教室"
-  },
-  {
-    "id": 291,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "兄弟",
-    "question": "それは（　　）の（　　　）",
-    "question_ruby": "それは（　　）の（　　　）",
-    "choices": [
-      "話す",
-      "帰る",
-      "兄弟",
-      "甘い"
-    ],
-    "choices_ruby": [
-      "<ruby>話<rt>はな</rt></ruby>す",
-      "<ruby>帰<rt>かえ</rt></ruby>る",
-      "<ruby>兄弟<rt>きょうだい</rt></ruby>",
-      "<ruby>甘<rt>あま</rt></ruby>い"
-    ],
-    "answer": 2,
-    "correct_text": "兄弟",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【甘い】（あまい：）です。",
-    "target_word_reading": "兄弟",
-    "correct_text_reading": "兄弟",
-    "correct_text_ruby": "<ruby>兄弟<rt>きょうだい</rt></ruby>"
-  },
-  {
-    "id": 292,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ひろえ",
-    "question": "世界は<u>広い</u>。",
-    "question_ruby": "<ruby>世界<rt>せかい</rt></ruby>は<u>広い</u>。",
-    "choices": [
-      "びろい",
-      "ひろ",
-      "ひろい",
-      "ひろえ"
-    ],
-    "choices_ruby": [
-      "びろい",
-      "ひろ",
-      "ひろい",
-      "ひろえ"
-    ],
-    "answer": 3,
-    "correct_text": "ひろえ",
-    "meaning_en": "",
-    "explanation": "「広い」の正しい読み方は【ひろい】です。（意味：）",
-    "target_word_reading": "ひろえ",
-    "correct_text_reading": "ひろえ",
-    "correct_text_ruby": "ひろえ"
-  },
-  {
-    "id": 293,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "便利",
-    "question": "そりゃ<u>べんり</u>だね。",
-    "question_ruby": "そりゃ<u>べんり</u>だね。",
-    "choices": [
-      "便利",
-      "黄色",
-      "八つ",
-      "建物"
-    ],
-    "choices_ruby": [
-      "便利",
-      "黄色",
-      "八つ",
-      "建物"
-    ],
-    "answer": 0,
-    "correct_text": "便利",
-    "meaning_en": "",
-    "explanation": "ひらがな「べんり」に該当する正しい漢字は【便利】です。",
-    "target_word_reading": "便利",
-    "correct_text_reading": "便利",
-    "correct_text_ruby": "便利"
-  },
-  {
-    "id": 294,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "要る",
-    "question": "普通の（　　）にしてね。",
-    "question_ruby": "<ruby>普通<rt>ふつう</rt></ruby>の（　　）にしてね。",
-    "choices": [
-      "立つ",
-      "要る",
-      "八百屋",
-      "お弁当"
-    ],
-    "choices_ruby": [
-      "<ruby>立<rt>た</rt></ruby>つ",
-      "<ruby>要<rt>い</rt></ruby>る",
-      "<ruby>八百屋<rt>やおや</rt></ruby>",
-      "お<ruby>弁当<rt>べんとう</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "要る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【お弁当】（おべんとう：）です。",
-    "target_word_reading": "要る",
-    "correct_text_reading": "要る",
-    "correct_text_ruby": "<ruby>要<rt>い</rt></ruby>る"
-  },
-  {
-    "id": 295,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ちかてづ",
-    "question": "<u>地下鉄</u>に乗ろう。",
-    "question_ruby": "<u>地下鉄</u>に<ruby>乗<rt>の</rt></ruby>ろう。",
-    "choices": [
-      "ちかでつ",
-      "ちかてつ",
-      "ちかてづ",
-      "ちがてつ"
-    ],
-    "choices_ruby": [
-      "ちかでつ",
-      "ちかてつ",
-      "ちかてづ",
-      "ちがてつ"
-    ],
-    "answer": 2,
-    "correct_text": "ちかてづ",
-    "meaning_en": "",
-    "explanation": "「地下鉄」の正しい読み方は【ちかてつ】です。（意味：）",
-    "target_word_reading": "ちかてづ",
-    "correct_text_reading": "ちかてづ",
-    "correct_text_ruby": "ちかてづ"
-  },
-  {
-    "id": 296,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "帰る",
-    "question": "トムは<u>おもい</u>。",
-    "question_ruby": "トムは<u>おもい</u>。",
-    "choices": [
-      "重い",
-      "先週",
-      "話す",
-      "帰る"
-    ],
-    "choices_ruby": [
-      "重い",
-      "先週",
-      "話す",
-      "帰る"
-    ],
-    "answer": 3,
-    "correct_text": "帰る",
-    "meaning_en": "",
-    "explanation": "ひらがな「おもい」に該当する正しい漢字は【重い】です。",
-    "target_word_reading": "帰る",
-    "correct_text_reading": "帰る",
-    "correct_text_ruby": "帰る"
-  },
-  {
-    "id": 297,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "教室",
-    "question": "彼は（　　）だよ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は（　　）だよ。",
-    "choices": [
-      "教室",
-      "新聞",
-      "困る",
-      "行く"
-    ],
-    "choices_ruby": [
-      "<ruby>教室<rt>きょうしつ</rt></ruby>",
-      "<ruby>新聞<rt>しんぶん</rt></ruby>",
-      "<ruby>困<rt>こま</rt></ruby>る",
-      "<ruby>行<rt>い</rt></ruby>く"
-    ],
-    "answer": 0,
-    "correct_text": "教室",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【教室】（きょうしつ：）です。",
-    "target_word_reading": "教室",
-    "correct_text_reading": "教室",
-    "correct_text_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>"
-  },
-  {
-    "id": 298,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きえろ",
-    "question": "花は<u>黄色</u>い。",
-    "question_ruby": "<ruby>花<rt>はな</rt></ruby>は<u>黄色</u>い。",
-    "choices": [
-      "ぎいろ",
-      "きえろ",
-      "きろ",
-      "きいろ"
-    ],
-    "choices_ruby": [
-      "ぎいろ",
-      "きえろ",
-      "きろ",
-      "きいろ"
-    ],
-    "answer": 1,
-    "correct_text": "きえろ",
-    "meaning_en": "",
-    "explanation": "「黄色」の正しい読み方は【きいろ】です。（意味：）",
-    "target_word_reading": "きえろ",
-    "correct_text_reading": "きえろ",
-    "correct_text_ruby": "きえろ"
-  },
-  {
-    "id": 299,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "新聞",
-    "question": "高い<u>たてもの</u>ですね。",
-    "question_ruby": "<ruby>高<rt>たか</rt></ruby>い<u>たてもの</u>ですね。",
-    "choices": [
-      "要る",
-      "立つ",
-      "新聞",
-      "建物"
-    ],
-    "choices_ruby": [
-      "要る",
-      "立つ",
-      "新聞",
-      "建物"
-    ],
-    "answer": 2,
-    "correct_text": "新聞",
-    "meaning_en": "",
-    "explanation": "ひらがな「たてもの」に該当する正しい漢字は【建物】です。",
-    "target_word_reading": "新聞",
-    "correct_text_reading": "新聞",
-    "correct_text_ruby": "新聞"
-  },
-  {
-    "id": 300,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "牛乳",
-    "question": "彼女は（　　）だ。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は（　　）だ。",
-    "choices": [
-      "初めて",
-      "出す",
-      "八つ",
-      "牛乳"
-    ],
-    "choices_ruby": [
-      "<ruby>初<rt>はじ</rt></ruby>めて",
-      "<ruby>出<rt>だ</rt></ruby>す",
-      "<ruby>八<rt>やっ</rt></ruby>つ",
-      "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "牛乳",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【八つ】（やっつ：）です。",
-    "target_word_reading": "牛乳",
-    "correct_text_reading": "牛乳",
-    "correct_text_ruby": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>"
-  },
-  {
-    "id": 301,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "せんしゅう",
-    "question": "<u>先週</u>でした。",
-    "question_ruby": "<u>先週</u>でした。",
-    "choices": [
-      "せんしゅう",
-      "せんじゅう",
-      "せんしゅお",
-      "ぜんしゅう"
-    ],
-    "choices_ruby": [
-      "せんしゅう",
-      "せんじゅう",
-      "せんしゅお",
-      "ぜんしゅう"
-    ],
-    "answer": 0,
-    "correct_text": "せんしゅう",
-    "meaning_en": "",
-    "explanation": "「先週」の正しい読み方は【せんしゅう】です。（意味：）",
-    "target_word_reading": "せんしゅう",
-    "correct_text_reading": "せんしゅう",
-    "correct_text_ruby": "せんしゅう"
-  },
-  {
-    "id": 302,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "新聞",
-    "question": "家に<u>かえる</u>よ。",
-    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>に<u>かえる</u>よ。",
-    "choices": [
-      "行く",
-      "新聞",
-      "困る",
-      "帰る"
-    ],
-    "choices_ruby": [
-      "行く",
-      "新聞",
-      "困る",
-      "帰る"
-    ],
-    "answer": 1,
-    "correct_text": "新聞",
-    "meaning_en": "",
-    "explanation": "ひらがな「かえる」に該当する正しい漢字は【帰る】です。",
-    "target_word_reading": "新聞",
-    "correct_text_reading": "新聞",
-    "correct_text_ruby": "新聞"
-  },
-  {
-    "id": 303,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "家庭",
-    "question": "電（　　）るよ。",
-    "question_ruby": "<ruby>電<rt>でん</rt></ruby>（　　）るよ。",
-    "choices": [
-      "大丈夫",
-      "出す",
-      "家庭",
-      "話す"
-    ],
-    "choices_ruby": [
-      "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
-      "<ruby>出<rt>だ</rt></ruby>す",
-      "<ruby>家庭<rt>かてい</rt></ruby>",
-      "<ruby>話<rt>はな</rt></ruby>す"
-    ],
-    "answer": 2,
-    "correct_text": "家庭",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【話す】（はなす：）です。",
-    "target_word_reading": "家庭",
-    "correct_text_reading": "家庭",
-    "correct_text_ruby": "<ruby>家庭<rt>かてい</rt></ruby>"
-  },
-  {
-    "id": 304,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きょうたい",
-    "question": "<u>兄弟</u>はいるか。",
-    "question_ruby": "<u>兄弟</u>はいるか。",
-    "choices": [
-      "きょだい",
-      "きょうだ",
-      "きょうだい",
-      "きょうたい"
-    ],
-    "choices_ruby": [
-      "きょだい",
-      "きょうだ",
-      "きょうだい",
-      "きょうたい"
-    ],
-    "answer": 3,
-    "correct_text": "きょうたい",
-    "meaning_en": "",
-    "explanation": "「兄弟」の正しい読み方は【きょうだい】です。（意味：）",
-    "target_word_reading": "きょうたい",
-    "correct_text_reading": "きょうたい",
-    "correct_text_ruby": "きょうたい"
-  },
-  {
-    "id": 305,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "八百屋",
-    "question": "私は<u>やおや</u>の外で彼に出会った。",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>やおや</u>の<ruby>外<rt>そと</rt></ruby>で<ruby>彼<rt>かれ</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>った。",
-    "choices": [
-      "八百屋",
-      "忙しい",
-      "大丈夫",
-      "初めて"
-    ],
-    "choices_ruby": [
-      "八百屋",
-      "忙しい",
-      "大丈夫",
-      "初めて"
-    ],
-    "answer": 0,
-    "correct_text": "八百屋",
-    "meaning_en": "",
-    "explanation": "ひらがな「やおや」に該当する正しい漢字は【八百屋】です。",
-    "target_word_reading": "八百屋",
-    "correct_text_reading": "八百屋",
-    "correct_text_ruby": "八百屋"
-  },
-  {
-    "id": 306,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "開く",
-    "question": "林に竹が目（　　）。",
-    "question_ruby": "<ruby>林<rt>はやし</rt></ruby>に<ruby>竹<rt>たけ</rt></ruby>が<ruby>目<rt>め</rt></ruby>（　　）。",
-    "choices": [
-      "大丈夫",
-      "開く",
-      "立つ",
-      "速い"
-    ],
-    "choices_ruby": [
-      "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
-      "<ruby>開<rt>ひら</rt></ruby>く",
-      "<ruby>立<rt>た</rt></ruby>つ",
-      "<ruby>速<rt>はや</rt></ruby>い"
-    ],
-    "answer": 1,
-    "correct_text": "開く",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【立つ】（たつ：）です。",
-    "target_word_reading": "開く",
-    "correct_text_reading": "開く",
-    "correct_text_ruby": "<ruby>開<rt>ひら</rt></ruby>く"
-  },
-  {
-    "id": 307,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きゅうにゅう",
-    "question": "<u>牛乳</u>が腐った。",
-    "question_ruby": "<u>牛乳</u>が<ruby>腐<rt>くさ</rt></ruby>った。",
-    "choices": [
-      "ぎゅうにゅう",
-      "ぎゅおにゅう",
-      "きゅうにゅう",
-      "ぎゅにゅう"
-    ],
-    "choices_ruby": [
-      "ぎゅうにゅう",
-      "ぎゅおにゅう",
-      "きゅうにゅう",
-      "ぎゅにゅう"
-    ],
-    "answer": 2,
-    "correct_text": "きゅうにゅう",
-    "meaning_en": "",
-    "explanation": "「牛乳」の正しい読み方は【ぎゅうにゅう】です。（意味：）",
-    "target_word_reading": "きゅうにゅう",
-    "correct_text_reading": "きゅうにゅう",
-    "correct_text_ruby": "きゅうにゅう"
-  },
-  {
-    "id": 308,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "教える",
-    "question": "<u>はじめて</u>だろ（　　　）",
-    "question_ruby": "<u>はじめて</u>だろ（　　　）",
-    "choices": [
-      "初めて",
-      "火曜日",
-      "忙しい",
-      "教える"
-    ],
-    "choices_ruby": [
-      "初めて",
-      "火曜日",
-      "忙しい",
-      "教える"
-    ],
-    "answer": 3,
-    "correct_text": "教える",
-    "meaning_en": "",
-    "explanation": "ひらがな「はじめて」に該当する正しい漢字は【初めて】です。",
-    "target_word_reading": "教える",
-    "correct_text_reading": "教える",
-    "correct_text_ruby": "教える"
-  },
-  {
-    "id": 309,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "白",
-    "question": "明々（　　）々だ。",
-    "question_ruby": "<ruby>明<rt>あきら</rt></ruby>々（　　）々だ。",
-    "choices": [
-      "白",
-      "漢字",
-      "忙しい",
-      "走る"
-    ],
-    "choices_ruby": [
-      "<ruby>白<rt>しろ</rt></ruby>",
-      "<ruby>漢字<rt>かんじ</rt></ruby>",
-      "<ruby>忙<rt>いそが</rt></ruby>しい",
-      "<ruby>走<rt>はし</rt></ruby>る"
-    ],
-    "answer": 0,
-    "correct_text": "白",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【白】（しろ：）です。",
-    "target_word_reading": "白",
-    "correct_text_reading": "白",
-    "correct_text_ruby": "<ruby>白<rt>しろ</rt></ruby>"
-  },
-  {
-    "id": 310,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がてい",
-    "question": "<u>家庭</u>は円満だ。",
-    "question_ruby": "<u>家庭</u>は<ruby>円満<rt>えんまん</rt></ruby>だ。",
-    "choices": [
-      "かてい",
-      "がてい",
-      "かて",
-      "かでい"
-    ],
-    "choices_ruby": [
-      "かてい",
-      "がてい",
-      "かて",
-      "かでい"
-    ],
-    "answer": 1,
-    "correct_text": "がてい",
-    "meaning_en": "",
-    "explanation": "「家庭」の正しい読み方は【かてい】です。（意味：）",
-    "target_word_reading": "がてい",
-    "correct_text_reading": "がてい",
-    "correct_text_ruby": "がてい"
-  },
-  {
-    "id": 311,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "教える",
-    "question": "<u>だいじょうぶ</u>そう（　　　）",
-    "question_ruby": "<u>だいじょうぶ</u>そう（　　　）",
-    "choices": [
-      "大丈夫",
-      "火曜日",
-      "教える",
-      "忙しい"
-    ],
-    "choices_ruby": [
-      "大丈夫",
-      "火曜日",
-      "教える",
-      "忙しい"
-    ],
-    "answer": 2,
-    "correct_text": "教える",
-    "meaning_en": "",
-    "explanation": "ひらがな「だいじょうぶ」に該当する正しい漢字は【大丈夫】です。",
-    "target_word_reading": "教える",
-    "correct_text_reading": "教える",
-    "correct_text_ruby": "教える"
-  },
-  {
-    "id": 312,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "軽い",
-    "question": "車は（　　）な。",
-    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>は（　　）な。",
-    "choices": [
-      "持つ",
-      "速い",
-      "六つ",
-      "軽い"
-    ],
-    "choices_ruby": [
-      "<ruby>持<rt>も</rt></ruby>つ",
-      "<ruby>速<rt>はや</rt></ruby>い",
-      "<ruby>六<rt>むっ</rt></ruby>つ",
-      "<ruby>軽<rt>かる</rt></ruby>い"
-    ],
-    "answer": 3,
-    "correct_text": "軽い",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【速い】（はやい：）です。",
-    "target_word_reading": "軽い",
-    "correct_text_reading": "軽い",
-    "correct_text_ruby": "<ruby>軽<rt>かる</rt></ruby>い"
-  },
-  {
-    "id": 313,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いそがしい",
-    "question": "僕は<u>忙しい</u>。",
-    "question_ruby": "<ruby>僕<rt>ぼく</rt></ruby>は<u>忙しい</u>。",
-    "choices": [
-      "いそがしい",
-      "いそかしい",
-      "いぞがしい",
-      "いそがじい"
-    ],
-    "choices_ruby": [
-      "いそがしい",
-      "いそかしい",
-      "いぞがしい",
-      "いそがじい"
-    ],
-    "answer": 0,
-    "correct_text": "いそがしい",
-    "meaning_en": "",
-    "explanation": "「忙しい」の正しい読み方は【いそがしい】です。（意味：）",
-    "target_word_reading": "いそがしい",
-    "correct_text_reading": "いそがしい",
-    "correct_text_ruby": "いそがしい"
-  },
-  {
-    "id": 314,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "銀行",
-    "question": "<u>かんじ</u>を書きます。",
-    "question_ruby": "<u>かんじ</u>を<ruby>書<rt>か</rt></ruby>きます。",
-    "choices": [
-      "軽い",
-      "銀行",
-      "持つ",
-      "漢字"
-    ],
-    "choices_ruby": [
-      "軽い",
-      "銀行",
-      "持つ",
-      "漢字"
-    ],
-    "answer": 1,
-    "correct_text": "銀行",
-    "meaning_en": "",
-    "explanation": "ひらがな「かんじ」に該当する正しい漢字は【漢字】です。",
-    "target_word_reading": "銀行",
-    "correct_text_reading": "銀行",
-    "correct_text_ruby": "銀行"
-  },
-  {
-    "id": 315,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "火曜日",
-    "question": "彼は速く（　　）。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く（　　）。",
-    "choices": [
-      "走る",
-      "飛ぶ",
-      "火曜日",
-      "会社"
-    ],
-    "choices_ruby": [
-      "<ruby>走<rt>はし</rt></ruby>る",
-      "<ruby>飛<rt>と</rt></ruby>ぶ",
-      "<ruby>火曜日<rt>かようび</rt></ruby>",
-      "<ruby>会社<rt>かいしゃ</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "火曜日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【走る】（はしる：）です。",
-    "target_word_reading": "火曜日",
-    "correct_text_reading": "火曜日",
-    "correct_text_ruby": "<ruby>火曜日<rt>かようび</rt></ruby>"
-  },
-  {
-    "id": 316,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いだい",
-    "question": "頭が<u>痛い</u>な。",
-    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<u>痛い</u>な。",
-    "choices": [
-      "いたい",
-      "たい",
-      "えたい",
-      "いだい"
-    ],
-    "choices_ruby": [
-      "いたい",
-      "たい",
-      "えたい",
-      "いだい"
-    ],
-    "answer": 3,
-    "correct_text": "いだい",
-    "meaning_en": "",
-    "explanation": "「痛い」の正しい読み方は【いたい】です。（意味：）",
-    "target_word_reading": "いだい",
-    "correct_text_reading": "いだい",
-    "correct_text_ruby": "いだい"
-  },
-  {
-    "id": 317,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "六つ",
-    "question": "一つ、二つ、三つ、四つ、五つ、<u>むっつ</u>、七つ、八つ、九つ、十。",
-    "question_ruby": "<ruby>一<rt>ひと</rt></ruby>つ、<ruby>二<rt>ふた</rt></ruby>つ、<ruby>三<rt>みっ</rt></ruby>つ、<ruby>四<rt>よっ</rt></ruby>つ、<ruby>五<rt>いつ</rt></ruby>つ、<u>むっつ</u>、<ruby>七<rt>なな</rt></ruby>つ、<ruby>八<rt>やっ</rt></ruby>つ、<ruby>九<rt>ここの</rt></ruby>つ、<ruby>十<rt>じゅう</rt></ruby>。",
-    "choices": [
-      "六つ",
-      "本棚",
-      "銀行",
-      "安い"
-    ],
-    "choices_ruby": [
-      "六つ",
-      "本棚",
-      "銀行",
-      "安い"
-    ],
-    "answer": 0,
-    "correct_text": "六つ",
-    "meaning_en": "",
-    "explanation": "ひらがな「むっつ」に該当する正しい漢字は【六つ】です。",
-    "target_word_reading": "六つ",
-    "correct_text_reading": "六つ",
-    "correct_text_ruby": "六つ"
-  },
-  {
-    "id": 318,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "火曜日",
-    "question": "（　　）は美人だ。",
-    "question_ruby": "（　　）は<ruby>美人<rt>びじん</rt></ruby>だ。",
-    "choices": [
-      "死ぬ",
-      "火曜日",
-      "妹",
-      "脱ぐ"
-    ],
-    "choices_ruby": [
-      "<ruby>死<rt>し</rt></ruby>ぬ",
-      "<ruby>火曜日<rt>かようび</rt></ruby>",
-      "<ruby>妹<rt>いもうと</rt></ruby>",
-      "<ruby>脱<rt>ぬ</rt></ruby>ぐ"
-    ],
-    "answer": 1,
-    "correct_text": "火曜日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【妹】（いもうと：）です。",
-    "target_word_reading": "火曜日",
-    "correct_text_reading": "火曜日",
-    "correct_text_ruby": "<ruby>火曜日<rt>かようび</rt></ruby>"
-  },
-  {
-    "id": 319,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "がるい",
-    "question": "<u>軽い</u>風邪です。",
-    "question_ruby": "<u>軽い</u><ruby>風邪<rt>かぜ</rt></ruby>です。",
-    "choices": [
-      "かるい",
-      "かる",
-      "がるい",
-      "かるえ"
-    ],
-    "choices_ruby": [
-      "かるい",
-      "かる",
-      "がるい",
-      "かるえ"
-    ],
-    "answer": 2,
-    "correct_text": "がるい",
-    "meaning_en": "",
-    "explanation": "「軽い」の正しい読み方は【かるい】です。（意味：）",
-    "target_word_reading": "がるい",
-    "correct_text_reading": "がるい",
-    "correct_text_ruby": "がるい"
-  },
-  {
-    "id": 320,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "死ぬ",
-    "question": "僕が<u>もつ</u>よ。",
-    "question_ruby": "<ruby>僕<rt>ぼく</rt></ruby>が<u>もつ</u>よ。",
-    "choices": [
-      "持つ",
-      "飛ぶ",
-      "会社",
-      "死ぬ"
-    ],
-    "choices_ruby": [
-      "持つ",
-      "飛ぶ",
-      "会社",
-      "死ぬ"
-    ],
-    "answer": 3,
-    "correct_text": "死ぬ",
-    "meaning_en": "",
-    "explanation": "ひらがな「もつ」に該当する正しい漢字は【持つ】です。",
-    "target_word_reading": "死ぬ",
-    "correct_text_reading": "死ぬ",
-    "correct_text_ruby": "死ぬ"
-  },
-  {
-    "id": 321,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "鳥",
-    "question": "（　　）は卵を産む。",
-    "question_ruby": "（　　）は<ruby>卵<rt>たまご</rt></ruby>を<ruby>産<rt>う</rt></ruby>む。",
-    "choices": [
-      "鳥",
-      "降る",
-      "教える",
-      "始まる"
-    ],
-    "choices_ruby": [
-      "<ruby>鳥<rt>とり</rt></ruby>",
-      "<ruby>降<rt>ふ</rt></ruby>る",
-      "<ruby>教<rt>おし</rt></ruby>える",
-      "<ruby>始<rt>はじ</rt></ruby>まる"
-    ],
-    "answer": 0,
-    "correct_text": "鳥",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【鳥】（とり：）です。",
-    "target_word_reading": "鳥",
-    "correct_text_reading": "鳥",
-    "correct_text_ruby": "<ruby>鳥<rt>とり</rt></ruby>"
-  },
-  {
-    "id": 322,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぎんこお",
-    "question": "彼は<u>銀行</u>員です。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<u>銀行</u><ruby>員<rt>いん</rt></ruby>です。",
-    "choices": [
-      "ぎんこう",
-      "ぎんこお",
-      "ぎんごう",
-      "ぎんこ"
-    ],
-    "choices_ruby": [
-      "ぎんこう",
-      "ぎんこお",
-      "ぎんごう",
-      "ぎんこ"
-    ],
-    "answer": 1,
-    "correct_text": "ぎんこお",
-    "meaning_en": "",
-    "explanation": "「銀行」の正しい読み方は【ぎんこう】です。（意味：）",
-    "target_word_reading": "ぎんこお",
-    "correct_text_reading": "ぎんこお",
-    "correct_text_ruby": "ぎんこお"
-  },
-  {
-    "id": 323,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "死ぬ",
-    "question": "ジョンは<u>ほんだな</u>を作った。",
-    "question_ruby": "ジョンは<u>ほんだな</u>を<ruby>作<rt>つく</rt></ruby>った。",
-    "choices": [
-      "手紙",
-      "本棚",
-      "死ぬ",
-      "脱ぐ"
-    ],
-    "choices_ruby": [
-      "手紙",
-      "本棚",
-      "死ぬ",
-      "脱ぐ"
-    ],
-    "answer": 2,
-    "correct_text": "死ぬ",
-    "meaning_en": "",
-    "explanation": "ひらがな「ほんだな」に該当する正しい漢字は【本棚】です。",
-    "target_word_reading": "死ぬ",
-    "correct_text_reading": "死ぬ",
-    "correct_text_ruby": "死ぬ"
-  },
-  {
-    "id": 324,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "四日",
-    "question": "今日は魚が（　　）。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>が（　　）。",
-    "choices": [
-      "安い",
-      "忘れる",
-      "台所",
-      "四日"
-    ],
-    "choices_ruby": [
-      "<ruby>安<rt>やす</rt></ruby>い",
-      "<ruby>忘<rt>わす</rt></ruby>れる",
-      "<ruby>台所<rt>だいどころ</rt></ruby>",
-      "<ruby>四<rt>よん</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "四日",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【安い】（やすい：）です。",
-    "target_word_reading": "四日",
-    "correct_text_reading": "四日",
-    "correct_text_ruby": "<ruby>四<rt>よん</rt></ruby><ruby>日<rt>にち</rt></ruby>"
-  },
-  {
-    "id": 325,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "かいしゃ",
-    "question": "<u>会社</u>員です。",
-    "question_ruby": "<u>会社</u><ruby>員<rt>いん</rt></ruby>です。",
-    "choices": [
-      "かいしゃ",
-      "かしゃ",
       "かいじゃ",
-      "がいしゃ"
+      "がいしゃ",
+      "かいしゃ",
+      "かいしや"
     ],
     "choices_ruby": [
-      "かいしゃ",
-      "かしゃ",
       "かいじゃ",
-      "がいしゃ"
+      "がいしゃ",
+      "かいしゃ",
+      "かいしや"
     ],
-    "answer": 0,
+    "answer": 2,
     "correct_text": "かいしゃ",
-    "meaning_en": "",
-    "explanation": "「会社」の正しい読み方は【かいしゃ】です。（意味：）",
+    "meaning_en": "company; office",
+    "explanation": "「社」は「しゃ」と読みます。",
     "target_word_reading": "かいしゃ",
     "correct_text_reading": "かいしゃ",
     "correct_text_ruby": "かいしゃ"
   },
   {
-    "id": 326,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "女の子",
-    "question": "今日は<u>かようび</u>です。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>かようび</u>です。",
-    "choices": [
-      "火曜日",
-      "女の子",
-      "忘れる",
-      "大きな"
-    ],
-    "choices_ruby": [
-      "火曜日",
-      "女の子",
-      "忘れる",
-      "大きな"
-    ],
-    "answer": 1,
-    "correct_text": "女の子",
-    "meaning_en": "",
-    "explanation": "ひらがな「かようび」に該当する正しい漢字は【火曜日】です。",
-    "target_word_reading": "女の子",
-    "correct_text_reading": "女の子",
-    "correct_text_ruby": "女の子"
-  },
-  {
-    "id": 327,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "お茶",
-    "question": "（　　）もんか。",
-    "question_ruby": "（　　）もんか。",
-    "choices": [
-      "女の子",
-      "死ぬ",
-      "お茶",
-      "もう一度"
-    ],
-    "choices_ruby": [
-      "<ruby>女の子<rt>おんなのこ</rt></ruby>",
-      "<ruby>死<rt>し</rt></ruby>ぬ",
-      "お<ruby>茶<rt>ちゃ</rt></ruby>",
-      "もう<ruby>一度<rt>いちど</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "お茶",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【死ぬ】（しぬ：）です。",
-    "target_word_reading": "お茶",
-    "correct_text_reading": "お茶",
-    "correct_text_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>"
-  },
-  {
-    "id": 328,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "おじえる",
-    "question": "彼に<u>教える</u>な。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>に<u>教える</u>な。",
-    "choices": [
-      "あしえる",
-      "おしえる",
-      "おしいる",
-      "おじえる"
-    ],
-    "choices_ruby": [
-      "あしえる",
-      "おしえる",
-      "おしいる",
-      "おじえる"
-    ],
-    "answer": 3,
-    "correct_text": "おじえる",
-    "meaning_en": "",
-    "explanation": "「教える」の正しい読み方は【おしえる】です。（意味：）",
-    "target_word_reading": "おじえる",
-    "correct_text_reading": "おじえる",
-    "correct_text_ruby": "おじえる"
-  },
-  {
-    "id": 329,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "始まる",
-    "question": "いつ<u>はじまる</u>の（　　　）",
-    "question_ruby": "いつ<u>はじまる</u>の（　　　）",
-    "choices": [
-      "始まる",
-      "大きな",
-      "女の子",
-      "暖かい"
-    ],
-    "choices_ruby": [
-      "始まる",
-      "大きな",
-      "女の子",
-      "暖かい"
-    ],
-    "answer": 0,
-    "correct_text": "始まる",
-    "meaning_en": "",
-    "explanation": "ひらがな「はじまる」に該当する正しい漢字は【始まる】です。",
-    "target_word_reading": "始まる",
-    "correct_text_reading": "始まる",
-    "correct_text_ruby": "始まる"
-  },
-  {
-    "id": 330,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "夕飯",
-    "question": "雨が（　　）かな（　　　）",
-    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が（　　）かな（　　　）",
-    "choices": [
-      "入口",
-      "夕飯",
-      "降る",
-      "登る"
-    ],
-    "choices_ruby": [
-      "<ruby>入口<rt>いりぐち</rt></ruby>",
-      "<ruby>夕飯<rt>ゆうはん</rt></ruby>",
-      "<ruby>降<rt>ふ</rt></ruby>る",
-      "<ruby>登<rt>のぼ</rt></ruby>る"
-    ],
-    "answer": 1,
-    "correct_text": "夕飯",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【降る】（ふる：）です。",
-    "target_word_reading": "夕飯",
-    "correct_text_reading": "夕飯",
-    "correct_text_ruby": "<ruby>夕飯<rt>ゆうはん</rt></ruby>"
-  },
-  {
-    "id": 331,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "だいどごろ",
-    "question": "<u>台所</u>はどこ（　　　）",
-    "question_ruby": "<u>台所</u>はどこ（　　　）",
-    "choices": [
-      "だどころ",
-      "だいどころ",
-      "だいどごろ",
-      "だえどころ"
-    ],
-    "choices_ruby": [
-      "だどころ",
-      "だいどころ",
-      "だいどごろ",
-      "だえどころ"
-    ],
-    "answer": 2,
-    "correct_text": "だいどごろ",
-    "meaning_en": "",
-    "explanation": "「台所」の正しい読み方は【だいどころ】です。（意味：）",
-    "target_word_reading": "だいどごろ",
-    "correct_text_reading": "だいどごろ",
-    "correct_text_ruby": "だいどごろ"
-  },
-  {
-    "id": 332,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "暖かい",
-    "question": "死を<u>わすれる</u>な。",
-    "question_ruby": "<ruby>死<rt>し</rt></ruby>を<u>わすれる</u>な。",
-    "choices": [
-      "忘れる",
-      "女の子",
-      "大きな",
-      "暖かい"
-    ],
-    "choices_ruby": [
-      "忘れる",
-      "女の子",
-      "大きな",
-      "暖かい"
-    ],
-    "answer": 3,
-    "correct_text": "暖かい",
-    "meaning_en": "",
-    "explanation": "ひらがな「わすれる」に該当する正しい漢字は【忘れる】です。",
-    "target_word_reading": "暖かい",
-    "correct_text_reading": "暖かい",
-    "correct_text_ruby": "暖かい"
-  },
-  {
-    "id": 333,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "西",
-    "question": "日は（　　）に沈む。",
-    "question_ruby": "<ruby>日<rt>ひ</rt></ruby>は（　　）に<ruby>沈<rt>しず</rt></ruby>む。",
-    "choices": [
-      "西",
-      "学生",
-      "家族",
-      "低い"
-    ],
-    "choices_ruby": [
-      "<ruby>西<rt>にし</rt></ruby>",
-      "<ruby>学生<rt>がくせい</rt></ruby>",
-      "<ruby>家族<rt>かぞく</rt></ruby>",
-      "<ruby>低<rt>ひく</rt></ruby>い"
-    ],
-    "answer": 0,
-    "correct_text": "西",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【西】（にし：）です。",
-    "target_word_reading": "西",
-    "correct_text_reading": "西",
-    "correct_text_ruby": "<ruby>西<rt>にし</rt></ruby>"
-  },
-  {
-    "id": 334,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ひがじ",
-    "question": "<u>東</u>京駅なう。",
-    "question_ruby": "<u>東</u><ruby>京<rt>きょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>なう。",
-    "choices": [
-      "ひかし",
-      "ひがじ",
-      "びがし",
-      "ひがし"
-    ],
-    "choices_ruby": [
-      "ひかし",
-      "ひがじ",
-      "びがし",
-      "ひがし"
-    ],
-    "answer": 1,
-    "correct_text": "ひがじ",
-    "meaning_en": "",
-    "explanation": "「東」の正しい読み方は【ひがし】です。（意味：）",
-    "target_word_reading": "ひがじ",
-    "correct_text_reading": "ひがじ",
-    "correct_text_ruby": "ひがじ"
-  },
-  {
-    "id": 335,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "登る",
-    "question": "雨は<u>よっか</u>間降り続いた。",
-    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>は<u>よっか</u><ruby>間<rt>ま</rt></ruby><ruby>降り続<rt>ふりつづ</rt></ruby>いた。",
-    "choices": [
-      "四日",
-      "夕飯",
-      "登る",
-      "入口"
-    ],
-    "choices_ruby": [
-      "四日",
-      "夕飯",
-      "登る",
-      "入口"
-    ],
-    "answer": 2,
-    "correct_text": "登る",
-    "meaning_en": "",
-    "explanation": "ひらがな「よっか」に該当する正しい漢字は【四日】です。",
-    "target_word_reading": "登る",
-    "correct_text_reading": "登る",
-    "correct_text_ruby": "登る"
-  },
-  {
-    "id": 336,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "大きな",
-    "question": "（　　）おやり。",
-    "question_ruby": "（　　）おやり。",
-    "choices": [
-      "辛い",
-      "もう一度",
-      "言う",
-      "大きな"
-    ],
-    "choices_ruby": [
-      "<ruby>辛<rt>つら</rt></ruby>い",
-      "もう<ruby>一度<rt>いちど</rt></ruby>",
-      "<ruby>言<rt>い</rt></ruby>う",
-      "<ruby>大<rt>おお</rt></ruby>きな"
-    ],
-    "answer": 3,
-    "correct_text": "大きな",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【もう一度】（もういちど：）です。",
-    "target_word_reading": "大きな",
-    "correct_text_reading": "大きな",
-    "correct_text_ruby": "<ruby>大<rt>おお</rt></ruby>きな"
-  },
-  {
-    "id": 337,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ゆうはん",
-    "question": "今、<u>夕飯</u>中。",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>、<u>夕飯</u><ruby>中<rt>なか</rt></ruby>。",
-    "choices": [
-      "ゆうはん",
-      "ゆうばん",
-      "ゆおはん",
-      "ゆはん"
-    ],
-    "choices_ruby": [
-      "ゆうはん",
-      "ゆうばん",
-      "ゆおはん",
-      "ゆはん"
-    ],
-    "answer": 0,
-    "correct_text": "ゆうはん",
-    "meaning_en": "",
-    "explanation": "「夕飯」の正しい読み方は【ゆうはん】です。（意味：）",
-    "target_word_reading": "ゆうはん",
-    "correct_text_reading": "ゆうはん",
-    "correct_text_ruby": "ゆうはん"
-  },
-  {
-    "id": 338,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "辛い",
-    "question": "塀に<u>のぼる</u>な。",
-    "question_ruby": "<ruby>塀<rt>へい</rt></ruby>に<u>のぼる</u>な。",
-    "choices": [
-      "登る",
-      "辛い",
-      "両親",
-      "言う"
-    ],
-    "choices_ruby": [
-      "登る",
-      "辛い",
-      "両親",
-      "言う"
-    ],
-    "answer": 1,
-    "correct_text": "辛い",
-    "meaning_en": "",
-    "explanation": "ひらがな「のぼる」に該当する正しい漢字は【登る】です。",
-    "target_word_reading": "辛い",
-    "correct_text_reading": "辛い",
-    "correct_text_ruby": "辛い"
-  },
-  {
-    "id": 339,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "作る",
-    "question": "来て（　　）さい。",
-    "question_ruby": "<ruby>来<rt>き</rt></ruby>て（　　）さい。",
-    "choices": [
-      "吸う",
-      "時々",
-      "作る",
-      "下"
-    ],
-    "choices_ruby": [
-      "<ruby>吸<rt>す</rt></ruby>う",
-      "<ruby>時々<rt>ときどき</rt></ruby>",
-      "<ruby>作<rt>つく</rt></ruby>る",
-      "<ruby>下<rt>した</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "作る",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【下】（した：）です。",
-    "target_word_reading": "作る",
-    "correct_text_reading": "作る",
-    "correct_text_ruby": "<ruby>作<rt>つく</rt></ruby>る"
-  },
-  {
-    "id": 340,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "いりぐぢ",
-    "question": "<u>入口</u>の側で立った。",
-    "question_ruby": "<u>入口</u>の<ruby>側<rt>がわ</rt></ruby>で<ruby>立<rt>た</rt></ruby>った。",
-    "choices": [
-      "いりくち",
-      "いりぐち",
-      "えりぐち",
-      "いりぐぢ"
-    ],
-    "choices_ruby": [
-      "いりくち",
-      "いりぐち",
-      "えりぐち",
-      "いりぐぢ"
-    ],
-    "answer": 3,
-    "correct_text": "いりぐぢ",
-    "meaning_en": "",
-    "explanation": "「入口」の正しい読み方は【いりぐち】です。（意味：）",
-    "target_word_reading": "いりぐぢ",
-    "correct_text_reading": "いりぐぢ",
-    "correct_text_ruby": "いりぐぢ"
-  },
-  {
-    "id": 341,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "家族",
-    "question": "大<u>かぞく</u>なの（　　　）",
-    "question_ruby": "<ruby>大<rt>だい</rt></ruby><u>かぞく</u>なの（　　　）",
-    "choices": [
-      "家族",
-      "時々",
-      "作る",
-      "両親"
-    ],
-    "choices_ruby": [
-      "家族",
-      "時々",
-      "作る",
-      "両親"
-    ],
-    "answer": 0,
-    "correct_text": "家族",
-    "meaning_en": "",
-    "explanation": "ひらがな「かぞく」に該当する正しい漢字は【家族】です。",
-    "target_word_reading": "家族",
-    "correct_text_reading": "家族",
-    "correct_text_ruby": "家族"
-  },
-  {
-    "id": 342,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "喫茶店",
-    "question": "大（　　）です。",
-    "question_ruby": "<ruby>大<rt>だい</rt></ruby>（　　）です。",
-    "choices": [
-      "字引",
-      "喫茶店",
-      "学生",
-      "覚える"
-    ],
-    "choices_ruby": [
-      "<ruby>字引<rt>じびき</rt></ruby>",
-      "<ruby>喫茶店<rt>きっさてん</rt></ruby>",
-      "<ruby>学生<rt>がくせい</rt></ruby>",
-      "<ruby>覚<rt>おぼ</rt></ruby>える"
-    ],
-    "answer": 1,
-    "correct_text": "喫茶店",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【学生】（がくせい：）です。",
-    "target_word_reading": "喫茶店",
-    "correct_text_reading": "喫茶店",
-    "correct_text_ruby": "<ruby>喫茶店<rt>きっさてん</rt></ruby>"
-  },
-  {
-    "id": 343,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ひくえ",
-    "question": "トムは声が<u>低い</u>。",
-    "question_ruby": "トムは<ruby>声<rt>こえ</rt></ruby>が<u>低い</u>。",
-    "choices": [
-      "びくい",
-      "ひくい",
-      "ひくえ",
-      "ひく"
-    ],
-    "choices_ruby": [
-      "びくい",
-      "ひくい",
-      "ひくえ",
-      "ひく"
-    ],
-    "answer": 2,
-    "correct_text": "ひくえ",
-    "meaning_en": "",
-    "explanation": "「低い」の正しい読み方は【ひくい】です。（意味：）",
-    "target_word_reading": "ひくえ",
-    "correct_text_reading": "ひくえ",
-    "correct_text_ruby": "ひくえ"
-  },
-  {
-    "id": 344,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "吸う",
-    "question": "花粉症は<u>からい</u>。",
-    "question_ruby": "<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>は<u>からい</u>。",
-    "choices": [
-      "作る",
-      "時々",
-      "辛い",
-      "吸う"
-    ],
-    "choices_ruby": [
-      "作る",
-      "時々",
-      "辛い",
-      "吸う"
-    ],
-    "answer": 3,
-    "correct_text": "吸う",
-    "meaning_en": "",
-    "explanation": "ひらがな「からい」に該当する正しい漢字は【辛い】です。",
-    "target_word_reading": "吸う",
-    "correct_text_reading": "吸う",
-    "correct_text_ruby": "吸う"
-  },
-  {
-    "id": 345,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "言う",
-    "question": "よく（　　）よ。",
-    "question_ruby": "よく（　　）よ。",
-    "choices": [
-      "言う",
-      "封筒",
-      "交番",
-      "字引"
-    ],
-    "choices_ruby": [
-      "<ruby>言<rt>い</rt></ruby>う",
-      "<ruby>封筒<rt>ふうとう</rt></ruby>",
-      "<ruby>交番<rt>こうばん</rt></ruby>",
-      "<ruby>字引<rt>じびき</rt></ruby>"
-    ],
-    "answer": 0,
-    "correct_text": "言う",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【言う】（いう：）です。",
-    "target_word_reading": "言う",
-    "correct_text_reading": "言う",
-    "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>う"
-  },
-  {
-    "id": 346,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あおきな",
-    "question": "<u>大きな</u>犬ね。",
-    "question_ruby": "<u>大きな</u><ruby>犬<rt>いぬ</rt></ruby>ね。",
-    "choices": [
-      "おおきな",
-      "あおきな",
-      "おおぎな",
-      "おあきな"
-    ],
-    "choices_ruby": [
-      "おおきな",
-      "あおきな",
-      "おおぎな",
-      "おあきな"
-    ],
-    "answer": 1,
-    "correct_text": "あおきな",
-    "meaning_en": "",
-    "explanation": "「大きな」の正しい読み方は【おおきな】です。（意味：）",
-    "target_word_reading": "あおきな",
-    "correct_text_reading": "あおきな",
-    "correct_text_ruby": "あおきな"
-  },
-  {
-    "id": 347,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "家",
-    "question": "君<u>つぎ</u>第だよ。",
-    "question_ruby": "<ruby>君<rt>きみ</rt></ruby><u>つぎ</u><ruby>第<rt>だい</rt></ruby>だよ。",
-    "choices": [
-      "次",
-      "背",
-      "家",
-      "姉"
-    ],
-    "choices_ruby": [
-      "次",
-      "背",
-      "家",
-      "姉"
-    ],
-    "answer": 2,
-    "correct_text": "家",
-    "meaning_en": "",
-    "explanation": "ひらがな「つぎ」に該当する正しい漢字は【次】です。",
-    "target_word_reading": "家",
-    "correct_text_reading": "家",
-    "correct_text_ruby": "家"
-  },
-  {
-    "id": 348,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "散歩",
-    "question": "（　　）が離婚した。",
-    "question_ruby": "（　　）が<ruby>離婚<rt>りこん</rt></ruby>した。",
-    "choices": [
-      "両親",
-      "交番",
-      "朝御飯",
-      "散歩"
-    ],
-    "choices_ruby": [
-      "<ruby>両親<rt>りょうしん</rt></ruby>",
-      "<ruby>交番<rt>こうばん</rt></ruby>",
-      "<ruby>朝<rt>あさ</rt></ruby><ruby>御飯<rt>ごはん</rt></ruby>",
-      "<ruby>散歩<rt>さんぽ</rt></ruby>"
-    ],
-    "answer": 3,
-    "correct_text": "散歩",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【両親】（りょうしん：）です。",
-    "target_word_reading": "散歩",
-    "correct_text_reading": "散歩",
-    "correct_text_ruby": "<ruby>散歩<rt>さんぽ</rt></ruby>"
-  },
-  {
-    "id": 349,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あたたかい",
-    "question": "懐が<u>暖かい</u>。",
-    "question_ruby": "<ruby>懐<rt>ふところ</rt></ruby>が<u>暖かい</u>。",
-    "choices": [
-      "あたたかい",
-      "あたたかえ",
-      "あたたか",
-      "あだたかい"
-    ],
-    "choices_ruby": [
-      "あたたかい",
-      "あたたかえ",
-      "あたたか",
-      "あだたかい"
-    ],
-    "answer": 0,
-    "correct_text": "あたたかい",
-    "meaning_en": "",
-    "explanation": "「暖かい」の正しい読み方は【あたたかい】です。（意味：）",
-    "target_word_reading": "あたたかい",
-    "correct_text_reading": "あたたかい",
-    "correct_text_ruby": "あたたかい"
-  },
-  {
-    "id": 350,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
+    "id": 49,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
     "target_word": "交番",
-    "question": "蚕は繭を<u>つくる</u>。",
-    "question_ruby": "<ruby>蚕<rt>かいこ</rt></ruby>は<ruby>繭<rt>まゆ</rt></ruby>を<u>つくる</u>。",
+    "question": "あの交番で道を聞きましょう。",
+    "question_ruby": "あの<u>交番</u>で<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きましょう。",
     "choices": [
-      "作る",
-      "交番",
-      "封筒",
-      "字引"
+      "ごうばん",
+      "こうばん",
+      "こうはん",
+      "こばん"
     ],
     "choices_ruby": [
-      "作る",
-      "交番",
-      "封筒",
-      "字引"
+      "ごうばん",
+      "こうばん",
+      "こうはん",
+      "こばん"
     ],
     "answer": 1,
-    "correct_text": "交番",
-    "meaning_en": "",
-    "explanation": "ひらがな「つくる」に該当する正しい漢字は【作る】です。",
-    "target_word_reading": "交番",
-    "correct_text_reading": "交番",
-    "correct_text_ruby": "交番"
+    "correct_text": "こうばん",
+    "meaning_en": "police box",
+    "explanation": "「交」は「こう」と長く読みます。",
+    "target_word_reading": "こうばん",
+    "correct_text_reading": "こうばん",
+    "correct_text_ruby": "こうばん"
   },
   {
-    "id": 351,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "頼む",
-    "question": "彼は（　　）変です。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は（　　）<ruby>変<rt>へん</rt></ruby>です。",
+    "id": 50,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "玄関",
+    "question": "玄関で靴を脱いでください。",
+    "question_ruby": "<u>玄関</u>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。",
     "choices": [
-      "時々",
-      "留学生",
-      "頼む",
-      "大切"
+      "げんかん",
+      "げんけん",
+      "けんかん",
+      "げんがん"
     ],
     "choices_ruby": [
-      "<ruby>時々<rt>ときどき</rt></ruby>",
-      "<ruby>留学生<rt>りゅうがくせい</rt></ruby>",
-      "<ruby>頼<rt>たの</rt></ruby>む",
-      "<ruby>大切<rt>たいせつ</rt></ruby>"
-    ],
-    "answer": 2,
-    "correct_text": "頼む",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【時々】（ときどき：）です。",
-    "target_word_reading": "頼む",
-    "correct_text_reading": "頼む",
-    "correct_text_ruby": "<ruby>頼<rt>たの</rt></ruby>む"
-  },
-  {
-    "id": 352,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "きさてん",
-    "question": "<u>喫茶店</u>に行きたい（　　　）",
-    "question_ruby": "<u>喫茶店</u>に<ruby>行<rt>い</rt></ruby>きたい（　　　）",
-    "choices": [
-      "きっさてん",
-      "きつさてん",
-      "きっさでん",
-      "きさてん"
-    ],
-    "choices_ruby": [
-      "きっさてん",
-      "きつさてん",
-      "きっさでん",
-      "きさてん"
-    ],
-    "answer": 3,
-    "correct_text": "きさてん",
-    "meaning_en": "",
-    "explanation": "「喫茶店」の正しい読み方は【きっさてん】です。（意味：）",
-    "target_word_reading": "きさてん",
-    "correct_text_reading": "きさてん",
-    "correct_text_ruby": "きさてん"
-  },
-  {
-    "id": 353,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "覚える",
-    "question": "<u>おぼえる</u>の、簡単よ。",
-    "question_ruby": "<u>おぼえる</u>の、<ruby>簡単<rt>かんたん</rt></ruby>よ。",
-    "choices": [
-      "覚える",
-      "朝御飯",
-      "奥さん",
-      "留学生"
-    ],
-    "choices_ruby": [
-      "覚える",
-      "朝御飯",
-      "奥さん",
-      "留学生"
+      "げんかん",
+      "げんけん",
+      "けんかん",
+      "げんがん"
     ],
     "answer": 0,
-    "correct_text": "覚える",
-    "meaning_en": "",
-    "explanation": "ひらがな「おぼえる」に該当する正しい漢字は【覚える】です。",
-    "target_word_reading": "覚える",
-    "correct_text_reading": "覚える",
-    "correct_text_ruby": "覚える"
+    "correct_text": "げんかん",
+    "meaning_en": "entrance hall",
+    "explanation": "「玄関」は「げんかん」と読みます。",
+    "target_word_reading": "げんかん",
+    "correct_text_reading": "げんかん",
+    "correct_text_ruby": "げんかん"
   },
   {
-    "id": 354,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "掃除",
-    "question": "（　　）はいない。",
-    "question_ruby": "（　　）はいない。",
+    "id": 51,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "台所",
+    "question": "母は台所で料理を作っています。",
+    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<u>台所</u>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。",
     "choices": [
-      "一つ",
-      "掃除",
-      "二人",
-      "姉"
+      "だいしょ",
+      "だいところ",
+      "たいどころ",
+      "だいどころ"
     ],
     "choices_ruby": [
-      "<ruby>一<rt>ひと</rt></ruby>つ",
-      "<ruby>掃除<rt>そうじ</rt></ruby>",
-      "<ruby>二人<rt>ふたり</rt></ruby>",
-      "<ruby>姉<rt>あね</rt></ruby>"
-    ],
-    "answer": 1,
-    "correct_text": "掃除",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【姉】（あね：）です。",
-    "target_word_reading": "掃除",
-    "correct_text_reading": "掃除",
-    "correct_text_ruby": "<ruby>掃除<rt>そうじ</rt></ruby>"
-  },
-  {
-    "id": 355,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "じびぎ",
-    "question": "彼女はいわゆる生き<u>字引</u>だ。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はいわゆる<ruby>生<rt>い</rt></ruby>き<u>字引</u>だ。",
-    "choices": [
-      "じぴき",
-      "しびき",
-      "じびぎ",
-      "じびき"
-    ],
-    "choices_ruby": [
-      "じぴき",
-      "しびき",
-      "じびぎ",
-      "じびき"
-    ],
-    "answer": 2,
-    "correct_text": "じびぎ",
-    "meaning_en": "",
-    "explanation": "「字引」の正しい読み方は【じびき】です。（意味：）",
-    "target_word_reading": "じびぎ",
-    "correct_text_reading": "じびぎ",
-    "correct_text_ruby": "じびぎ"
-  },
-  {
-    "id": 356,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "頼む",
-    "question": "<u>ふうとう</u>がいる。",
-    "question_ruby": "<u>ふうとう</u>がいる。",
-    "choices": [
-      "二人",
-      "大切",
-      "封筒",
-      "頼む"
-    ],
-    "choices_ruby": [
-      "二人",
-      "大切",
-      "封筒",
-      "頼む"
+      "だいしょ",
+      "だいところ",
+      "たいどころ",
+      "だいどころ"
     ],
     "answer": 3,
-    "correct_text": "頼む",
-    "meaning_en": "",
-    "explanation": "ひらがな「ふうとう」に該当する正しい漢字は【封筒】です。",
-    "target_word_reading": "頼む",
-    "correct_text_reading": "頼む",
-    "correct_text_ruby": "頼む"
+    "correct_text": "だいどころ",
+    "meaning_en": "kitchen",
+    "explanation": "「台所」は「だいどころ」。「ところ」ではなく「どころ」と濁ります。",
+    "target_word_reading": "だいどころ",
+    "correct_text_reading": "だいどころ",
+    "correct_text_ruby": "だいどころ"
   },
   {
-    "id": 357,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "背",
-    "question": "僕は猫（　　）だ。",
-    "question_ruby": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>猫<rt>ねこ</rt></ruby>（　　）だ。",
+    "id": 52,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "階段",
+    "question": "この階段は少し急です。",
+    "question_ruby": "この<u>階段</u>は<ruby>少<rt>すこ</rt></ruby>し<ruby>急<rt>きゅう</rt></ruby>です。",
     "choices": [
-      "背",
-      "地図",
-      "文章",
-      "御飯"
+      "かいたん",
+      "かいてん",
+      "かいだん",
+      "がいだん"
     ],
     "choices_ruby": [
-      "<ruby>背<rt>せ</rt></ruby>",
-      "<ruby>地図<rt>ちず</rt></ruby>",
-      "<ruby>文章<rt>ぶんしょう</rt></ruby>",
-      "<ruby>御飯<rt>ごはん</rt></ruby>"
+      "かいたん",
+      "かいてん",
+      "かいだん",
+      "がいだん"
+    ],
+    "answer": 2,
+    "correct_text": "かいだん",
+    "meaning_en": "stairs",
+    "explanation": "「段」は「だん」と濁ります。",
+    "target_word_reading": "かいだん",
+    "correct_text_reading": "かいだん",
+    "correct_text_ruby": "かいだん"
+  },
+  {
+    "id": 53,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "入口",
+    "question": "入口はあちらです。",
+    "question_ruby": "<u>入口</u>はあちらです。",
+    "choices": [
+      "いれぐち",
+      "いりかど",
+      "いりぐち",
+      "はいりぐち"
+    ],
+    "choices_ruby": [
+      "いれぐち",
+      "いりかど",
+      "いりぐち",
+      "はいりぐち"
+    ],
+    "answer": 2,
+    "correct_text": "いりぐち",
+    "meaning_en": "entrance",
+    "explanation": "「入口」は「いりぐち」。「くち」は濁って「ぐち」になります。",
+    "target_word_reading": "いりぐち",
+    "correct_text_reading": "いりぐち",
+    "correct_text_ruby": "いりぐち"
+  },
+  {
+    "id": 54,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "町",
+    "question": "この町には大きいスーパーが二つあります。",
+    "question_ruby": "この<u>町</u>には<ruby>大<rt>おお</rt></ruby>きいスーパーが<ruby>二つ<rt>ふたつ</rt></ruby>あります。",
+    "choices": [
+      "むら",
+      "まど",
+      "みち",
+      "まち"
+    ],
+    "choices_ruby": [
+      "むら",
+      "まど",
+      "みち",
+      "まち"
+    ],
+    "answer": 3,
+    "correct_text": "まち",
+    "meaning_en": "town",
+    "explanation": "「町」は「まち」と読みます。",
+    "target_word_reading": "まち",
+    "correct_text_reading": "まち",
+    "correct_text_ruby": "まち"
+  },
+  {
+    "id": 55,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "村",
+    "question": "村の人はみんな親切です。",
+    "question_ruby": "<u>村</u>の<ruby>人<rt>ひと</rt></ruby>はみんな<ruby>親切<rt>しんせつ</rt></ruby>です。",
+    "choices": [
+      "むら",
+      "むろ",
+      "まち",
+      "ぶら"
+    ],
+    "choices_ruby": [
+      "むら",
+      "むろ",
+      "まち",
+      "ぶら"
     ],
     "answer": 0,
-    "correct_text": "背",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【背】（せ：）です。",
-    "target_word_reading": "背",
-    "correct_text_reading": "背",
-    "correct_text_ruby": "<ruby>背<rt>せ</rt></ruby>"
+    "correct_text": "むら",
+    "meaning_en": "village",
+    "explanation": "「村」は「むら」と読みます。",
+    "target_word_reading": "むら",
+    "correct_text_reading": "むら",
+    "correct_text_ruby": "むら"
   },
   {
-    "id": 358,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "こおばん",
-    "question": "<u>交番</u>が近くにある。",
-    "question_ruby": "<u>交番</u>が<ruby>近<rt>ちか</rt></ruby>くにある。",
+    "id": 56,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "山",
+    "question": "夏休みに家族で山に登りました。",
+    "question_ruby": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>家族<rt>かぞく</rt></ruby>で<u>山</u>に<ruby>登<rt>のぼ</rt></ruby>りました。",
     "choices": [
-      "こうぱん",
-      "こおばん",
-      "こばん",
-      "こうばん"
+      "やみ",
+      "やま",
+      "やめ",
+      "かわ"
     ],
     "choices_ruby": [
-      "こうぱん",
-      "こおばん",
-      "こばん",
-      "こうばん"
+      "やみ",
+      "やま",
+      "やめ",
+      "かわ"
     ],
     "answer": 1,
-    "correct_text": "こおばん",
-    "meaning_en": "",
-    "explanation": "「交番」の正しい読み方は【こうばん】です。（意味：）",
-    "target_word_reading": "こおばん",
-    "correct_text_reading": "こおばん",
-    "correct_text_ruby": "こおばん"
+    "correct_text": "やま",
+    "meaning_en": "mountain",
+    "explanation": "「山」は「やま」と読みます。",
+    "target_word_reading": "やま",
+    "correct_text_reading": "やま",
+    "correct_text_ruby": "やま"
   },
   {
-    "id": 359,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "二人",
-    "question": "<u>さんぽする</u>をした。",
-    "question_ruby": "<u>さんぽする</u>をした。",
+    "id": 57,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "川",
+    "question": "川で子供たちが泳いでいます。",
+    "question_ruby": "<u>川</u>で<ruby>子供<rt>こども</rt></ruby>たちが<ruby>泳<rt>およ</rt></ruby>いでいます。",
     "choices": [
-      "掃除",
-      "一つ",
-      "二人",
-      "散歩"
+      "かあ",
+      "やま",
+      "かわ",
+      "かば"
     ],
     "choices_ruby": [
-      "掃除",
-      "一つ",
-      "二人",
-      "散歩"
+      "かあ",
+      "やま",
+      "かわ",
+      "かば"
     ],
     "answer": 2,
-    "correct_text": "二人",
-    "meaning_en": "",
-    "explanation": "ひらがな「さんぽする」に該当する正しい漢字は【散歩】です。",
-    "target_word_reading": "二人",
-    "correct_text_reading": "二人",
-    "correct_text_ruby": "二人"
+    "correct_text": "かわ",
+    "meaning_en": "river",
+    "explanation": "「川」は「かわ」と読みます。",
+    "target_word_reading": "かわ",
+    "correct_text_reading": "かわ",
+    "correct_text_ruby": "かわ"
   },
   {
-    "id": 360,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "地図",
-    "question": "彼は画（　　）だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>画<rt>が</rt></ruby>（　　）だ。",
+    "id": 58,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "海",
+    "question": "夏に海へ行って、たくさん泳ぎました。",
+    "question_ruby": "<ruby>夏<rt>なつ</rt></ruby>に<u>海</u>へ<ruby>行<rt>い</rt></ruby>って、たくさん<ruby>泳<rt>およ</rt></ruby>ぎました。",
     "choices": [
-      "奥さん",
-      "大使館",
-      "家",
-      "地図"
+      "うむ",
+      "うみ",
+      "うま",
+      "かい"
     ],
     "choices_ruby": [
-      "<ruby>奥<rt>おく</rt></ruby>さん",
-      "<ruby>大使館<rt>たいしかん</rt></ruby>",
-      "<ruby>家<rt>いえ</rt></ruby>",
-      "<ruby>地図<rt>ちず</rt></ruby>"
+      "うむ",
+      "うみ",
+      "うま",
+      "かい"
     ],
-    "answer": 3,
-    "correct_text": "地図",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【家】（いえ：）です。",
-    "target_word_reading": "地図",
-    "correct_text_reading": "地図",
-    "correct_text_ruby": "<ruby>地図<rt>ちず</rt></ruby>"
+    "answer": 1,
+    "correct_text": "うみ",
+    "meaning_en": "sea; ocean",
+    "explanation": "「海」は「うみ」と読みます。",
+    "target_word_reading": "うみ",
+    "correct_text_reading": "うみ",
+    "correct_text_ruby": "うみ"
   },
   {
-    "id": 361,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "あさごはん",
-    "question": "<u>朝御飯</u>ができています。",
-    "question_ruby": "<u>朝御飯</u>ができています。",
+    "id": 59,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "天気",
+    "question": "明日の天気はどうですか。",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<u>天気</u>はどうですか。",
     "choices": [
+      "でんき",
+      "てんち",
+      "でんち",
+      "てんき"
+    ],
+    "choices_ruby": [
+      "でんき",
+      "てんち",
+      "でんち",
+      "てんき"
+    ],
+    "answer": 3,
+    "correct_text": "てんき",
+    "meaning_en": "weather",
+    "explanation": "「天気」は「てんき」。「でんき」は「電気」です。",
+    "target_word_reading": "てんき",
+    "correct_text_reading": "てんき",
+    "correct_text_ruby": "てんき"
+  },
+  {
+    "id": 60,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "雪",
+    "question": "昨日の夜、雪が降りました。",
+    "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<u>雪</u>が<ruby>降<rt>お</rt></ruby>りました。",
+    "choices": [
+      "ゆき",
+      "ゆぎ",
+      "ゆけ",
+      "あめ"
+    ],
+    "choices_ruby": [
+      "ゆき",
+      "ゆぎ",
+      "ゆけ",
+      "あめ"
+    ],
+    "answer": 0,
+    "correct_text": "ゆき",
+    "meaning_en": "snow",
+    "explanation": "「雪」は「ゆき」。「あめ」は「雨」です。",
+    "target_word_reading": "ゆき",
+    "correct_text_reading": "ゆき",
+    "correct_text_ruby": "ゆき"
+  },
+  {
+    "id": 61,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "風",
+    "question": "今日は風が強いです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>風</u>が<ruby>強<rt>つよ</rt></ruby>いです。",
+    "choices": [
+      "かせ",
+      "ふう",
+      "かぞ",
+      "かぜ"
+    ],
+    "choices_ruby": [
+      "かせ",
+      "ふう",
+      "かぞ",
+      "かぜ"
+    ],
+    "answer": 3,
+    "correct_text": "かぜ",
+    "meaning_en": "wind",
+    "explanation": "「風」は「かぜ」と読みます。",
+    "target_word_reading": "かぜ",
+    "correct_text_reading": "かぜ",
+    "correct_text_ruby": "かぜ"
+  },
+  {
+    "id": 62,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "曇り",
+    "question": "明日は曇りのち晴れでしょう。",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<u>曇り</u>のち<ruby>晴<rt>は</rt></ruby>れでしょう。",
+    "choices": [
+      "ぐもり",
+      "あめり",
+      "くもり",
+      "くまり"
+    ],
+    "choices_ruby": [
+      "ぐもり",
+      "あめり",
+      "くもり",
+      "くまり"
+    ],
+    "answer": 2,
+    "correct_text": "くもり",
+    "meaning_en": "cloudy weather",
+    "explanation": "「曇り」は「くもり」と読みます。",
+    "target_word_reading": "くもり",
+    "correct_text_reading": "くもり",
+    "correct_text_ruby": "くもり"
+  },
+  {
+    "id": 63,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "牛肉",
+    "question": "私は牛肉より豚肉のほうが好きです。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>牛肉</u>より<ruby>豚肉<rt>ぶたにく</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きです。",
+    "choices": [
+      "ぎゅうにぐ",
+      "ぎゅうにく",
+      "ぎゅにく",
+      "ぎゅうにゅう"
+    ],
+    "choices_ruby": [
+      "ぎゅうにぐ",
+      "ぎゅうにく",
+      "ぎゅにく",
+      "ぎゅうにゅう"
+    ],
+    "answer": 1,
+    "correct_text": "ぎゅうにく",
+    "meaning_en": "beef",
+    "explanation": "「牛肉」は「ぎゅうにく」。「ぎゅうにゅう」は「牛乳」です。",
+    "target_word_reading": "ぎゅうにく",
+    "correct_text_reading": "ぎゅうにく",
+    "correct_text_ruby": "ぎゅうにく"
+  },
+  {
+    "id": 64,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "果物",
+    "question": "お店で果物を買いました。",
+    "question_ruby": "お<ruby>店<rt>みせ</rt></ruby>で<u>果物</u>を<ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "くだもの",
+      "くたもの",
+      "くだもん",
+      "かもの"
+    ],
+    "choices_ruby": [
+      "くだもの",
+      "くたもの",
+      "くだもん",
+      "かもの"
+    ],
+    "answer": 0,
+    "correct_text": "くだもの",
+    "meaning_en": "fruit",
+    "explanation": "「果物」は「くだもの」。「もの」は濁りません。",
+    "target_word_reading": "くだもの",
+    "correct_text_reading": "くだもの",
+    "correct_text_ruby": "くだもの"
+  },
+  {
+    "id": 65,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "野菜",
+    "question": "野菜をたくさん食べると、体にいいです。",
+    "question_ruby": "<u>野菜</u>をたくさん<ruby>食<rt>た</rt></ruby>べると、<ruby>体<rt>からだ</rt></ruby>にいいです。",
+    "choices": [
+      "のさい",
+      "やなさい",
+      "やざい",
+      "やさい"
+    ],
+    "choices_ruby": [
+      "のさい",
+      "やなさい",
+      "やざい",
+      "やさい"
+    ],
+    "answer": 3,
+    "correct_text": "やさい",
+    "meaning_en": "vegetables",
+    "explanation": "「野菜」は「やさい」と読みます。",
+    "target_word_reading": "やさい",
+    "correct_text_reading": "やさい",
+    "correct_text_ruby": "やさい"
+  },
+  {
+    "id": 66,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "紅茶",
+    "question": "寒いので、紅茶を飲みます。",
+    "question_ruby": "<ruby>寒<rt>さむ</rt></ruby>いので、<u>紅茶</u>を<ruby>飲<rt>の</rt></ruby>みます。",
+    "choices": [
+      "こうちゃ",
+      "ごうちゃ",
+      "こうちや",
+      "こちゃ"
+    ],
+    "choices_ruby": [
+      "こうちゃ",
+      "ごうちゃ",
+      "こうちや",
+      "こちゃ"
+    ],
+    "answer": 0,
+    "correct_text": "こうちゃ",
+    "meaning_en": "black tea",
+    "explanation": "「紅」は「こう」と長く読みます。",
+    "target_word_reading": "こうちゃ",
+    "correct_text_reading": "こうちゃ",
+    "correct_text_ruby": "こうちゃ"
+  },
+  {
+    "id": 67,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "料理",
+    "question": "母は毎日、おいしい料理を作ってくれます。",
+    "question_ruby": "<ruby>母<rt>はは</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>、おいしい<u>料理</u>を<ruby>作<rt>つく</rt></ruby>ってくれます。",
+    "choices": [
+      "りょうりい",
+      "りょり",
+      "りょうり",
+      "るうり"
+    ],
+    "choices_ruby": [
+      "りょうりい",
+      "りょり",
+      "りょうり",
+      "るうり"
+    ],
+    "answer": 2,
+    "correct_text": "りょうり",
+    "meaning_en": "cooking; dish",
+    "explanation": "「料」は「りょう」と長く読みます。",
+    "target_word_reading": "りょうり",
+    "correct_text_reading": "りょうり",
+    "correct_text_ruby": "りょうり"
+  },
+  {
+    "id": 68,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "朝御飯",
+    "question": "毎日、朝御飯は七時に食べます。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>、<u>朝御飯</u>は<ruby>七時<rt>しちじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。",
+    "choices": [
+      "あさこはん",
       "あさごはん",
       "あさごばん",
-      "あさこはん",
-      "あざごはん"
+      "ちょうごはん"
     ],
     "choices_ruby": [
+      "あさこはん",
       "あさごはん",
       "あさごばん",
-      "あさこはん",
-      "あざごはん"
+      "ちょうごはん"
     ],
-    "answer": 0,
+    "answer": 1,
     "correct_text": "あさごはん",
-    "meaning_en": "",
-    "explanation": "「朝御飯」の正しい読み方は【あさごはん】です。（意味：）",
+    "meaning_en": "breakfast",
+    "explanation": "「朝御飯」は「あさごはん」と読みます。",
     "target_word_reading": "あさごはん",
     "correct_text_reading": "あさごはん",
     "correct_text_ruby": "あさごはん"
   },
   {
-    "id": 362,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "大使館",
-    "question": "<u>りゅうがくせい</u>の方ですか（　　　）",
-    "question_ruby": "<u>りゅうがくせい</u>の<ruby>方<rt>ほう</rt></ruby>ですか（　　　）",
+    "id": 69,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "傘",
+    "question": "雨が降りそうなので、傘を持って行きます。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうなので、<u>傘</u>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。",
     "choices": [
-      "奥さん",
-      "大使館",
-      "留学生",
-      "分かる"
+      "かぎ",
+      "かざ",
+      "かさ",
+      "がさ"
     ],
     "choices_ruby": [
-      "奥さん",
-      "大使館",
-      "留学生",
-      "分かる"
-    ],
-    "answer": 1,
-    "correct_text": "大使館",
-    "meaning_en": "",
-    "explanation": "ひらがな「りゅうがくせい」に該当する正しい漢字は【留学生】です。",
-    "target_word_reading": "大使館",
-    "correct_text_reading": "大使館",
-    "correct_text_ruby": "大使館"
-  },
-  {
-    "id": 363,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "お酒",
-    "question": "後で（　　）よ。",
-    "question_ruby": "<ruby>後<rt>あと</rt></ruby>で（　　）よ。",
-    "choices": [
-      "頼む",
-      "分かる",
-      "お酒",
-      "乗る"
-    ],
-    "choices_ruby": [
-      "<ruby>頼<rt>たの</rt></ruby>む",
-      "<ruby>分<rt>わ</rt></ruby>かる",
-      "お<ruby>酒<rt>さけ</rt></ruby>",
-      "<ruby>乗<rt>の</rt></ruby>る"
+      "かぎ",
+      "かざ",
+      "かさ",
+      "がさ"
     ],
     "answer": 2,
-    "correct_text": "お酒",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【頼む】（たのむ：）です。",
-    "target_word_reading": "お酒",
-    "correct_text_reading": "お酒",
-    "correct_text_ruby": "お<ruby>酒<rt>さけ</rt></ruby>"
+    "correct_text": "かさ",
+    "meaning_en": "umbrella",
+    "explanation": "「傘」は「かさ」と読みます。「かぎ」は「鍵」です。",
+    "target_word_reading": "かさ",
+    "correct_text_reading": "かさ",
+    "correct_text_ruby": "かさ"
   },
   {
-    "id": 364,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "たいぜつ",
-    "question": "<u>大切</u>にします。",
-    "question_ruby": "<u>大切</u>にします。",
+    "id": 70,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "帽子",
+    "question": "山へ行くとき、帽子をかぶります。",
+    "question_ruby": "<ruby>山<rt>やま</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くとき、<u>帽子</u>をかぶります。",
     "choices": [
-      "たいせつ",
-      "たいせづ",
-      "たえせつ",
-      "たいぜつ"
+      "もうし",
+      "ぼうし",
+      "ぼし",
+      "ぼうじ"
     ],
     "choices_ruby": [
-      "たいせつ",
-      "たいせづ",
-      "たえせつ",
-      "たいぜつ"
+      "もうし",
+      "ぼうし",
+      "ぼし",
+      "ぼうじ"
+    ],
+    "answer": 1,
+    "correct_text": "ぼうし",
+    "meaning_en": "hat; cap",
+    "explanation": "「帽」は「ぼう」と長く読みます。",
+    "target_word_reading": "ぼうし",
+    "correct_text_reading": "ぼうし",
+    "correct_text_ruby": "ぼうし"
+  },
+  {
+    "id": 71,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "眼鏡",
+    "question": "父は眼鏡をかけて新聞を読んでいます。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は<u>眼鏡</u>をかけて<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいます。",
+    "choices": [
+      "めがに",
+      "めかね",
+      "めきょう",
+      "めがね"
+    ],
+    "choices_ruby": [
+      "めがに",
+      "めかね",
+      "めきょう",
+      "めがね"
     ],
     "answer": 3,
-    "correct_text": "たいぜつ",
-    "meaning_en": "",
-    "explanation": "「大切」の正しい読み方は【たいせつ】です。（意味：）",
-    "target_word_reading": "たいぜつ",
-    "correct_text_reading": "たいぜつ",
-    "correct_text_ruby": "たいぜつ"
+    "correct_text": "めがね",
+    "meaning_en": "glasses",
+    "explanation": "「眼鏡」は特別な読み方で「めがね」と読みます。",
+    "target_word_reading": "めがね",
+    "correct_text_reading": "めがね",
+    "correct_text_ruby": "めがね"
   },
   {
-    "id": 365,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "声",
-    "question": "<u>こえ</u>援がやんだ。",
-    "question_ruby": "<u>こえ</u><ruby>援<rt>えん</rt></ruby>がやんだ。",
+    "id": 72,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "時計",
+    "question": "時計を見たら、もう九時でした。",
+    "question_ruby": "<u>時計</u>を<ruby>見<rt>み</rt></ruby>たら、もう<ruby>九時<rt>くじ</rt></ruby>でした。",
     "choices": [
-      "声",
-      "飴",
-      "絵",
-      "猫"
+      "とけい",
+      "とげい",
+      "じけい",
+      "とけえ"
     ],
     "choices_ruby": [
-      "声",
-      "飴",
-      "絵",
-      "猫"
+      "とけい",
+      "とげい",
+      "じけい",
+      "とけえ"
     ],
     "answer": 0,
+    "correct_text": "とけい",
+    "meaning_en": "clock; watch",
+    "explanation": "「時計」は「とけい」と読みます。「時」は「じ」ではなく「と」です。",
+    "target_word_reading": "とけい",
+    "correct_text_reading": "とけい",
+    "correct_text_ruby": "とけい"
+  },
+  {
+    "id": 73,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "切符",
+    "question": "駅で切符を二枚買いました。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>で<u>切符</u>を<ruby>二枚<rt>にまい</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "きっぶ",
+      "せっぷ",
+      "きふ",
+      "きっぷ"
+    ],
+    "choices_ruby": [
+      "きっぶ",
+      "せっぷ",
+      "きふ",
+      "きっぷ"
+    ],
+    "answer": 3,
+    "correct_text": "きっぷ",
+    "meaning_en": "ticket",
+    "explanation": "「切符」は「きっぷ」。小さい「っ」が入り、「ぷ」は半濁音です。",
+    "target_word_reading": "きっぷ",
+    "correct_text_reading": "きっぷ",
+    "correct_text_ruby": "きっぷ"
+  },
+  {
+    "id": 74,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "切手",
+    "question": "手紙に切手を貼ります。",
+    "question_ruby": "<ruby>手紙<rt>てがみ</rt></ruby>に<u>切手</u>を<ruby>貼<rt>は</rt></ruby>ります。",
+    "choices": [
+      "きって",
+      "きて",
+      "きっで",
+      "せって"
+    ],
+    "choices_ruby": [
+      "きって",
+      "きて",
+      "きっで",
+      "せって"
+    ],
+    "answer": 0,
+    "correct_text": "きって",
+    "meaning_en": "postage stamp",
+    "explanation": "「切手」は「きって」。小さい「っ」を忘れないようにします。",
+    "target_word_reading": "きって",
+    "correct_text_reading": "きって",
+    "correct_text_ruby": "きって"
+  },
+  {
+    "id": 75,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "写真",
+    "question": "旅行の写真を友達に見せました。",
+    "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<u>写真</u>を<ruby>友達<rt>ともだち</rt></ruby>に<ruby>見<rt>み</rt></ruby>せました。",
+    "choices": [
+      "しょしん",
+      "しゃしん",
+      "しゃじん",
+      "しゃせん"
+    ],
+    "choices_ruby": [
+      "しょしん",
+      "しゃしん",
+      "しゃじん",
+      "しゃせん"
+    ],
+    "answer": 1,
+    "correct_text": "しゃしん",
+    "meaning_en": "photograph",
+    "explanation": "「写真」は「しゃしん」と読みます。",
+    "target_word_reading": "しゃしん",
+    "correct_text_reading": "しゃしん",
+    "correct_text_ruby": "しゃしん"
+  },
+  {
+    "id": 76,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "電話",
+    "question": "家に着いたら、電話してください。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら、<u>電話</u>してください。",
+    "choices": [
+      "でんぱ",
+      "てんわ",
+      "でんわ",
+      "でんば"
+    ],
+    "choices_ruby": [
+      "でんぱ",
+      "てんわ",
+      "でんわ",
+      "でんば"
+    ],
+    "answer": 2,
+    "correct_text": "でんわ",
+    "meaning_en": "telephone",
+    "explanation": "「電」は「でん」と濁ります。",
+    "target_word_reading": "でんわ",
+    "correct_text_reading": "でんわ",
+    "correct_text_ruby": "でんわ"
+  },
+  {
+    "id": 77,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "自転車",
+    "question": "私は自転車で学校へ行きます。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<u>自転車</u>で<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "じてんじゃ",
+      "しでんしゃ",
+      "じてんしゃ",
+      "じでんしゃ"
+    ],
+    "choices_ruby": [
+      "じてんじゃ",
+      "しでんしゃ",
+      "じてんしゃ",
+      "じでんしゃ"
+    ],
+    "answer": 2,
+    "correct_text": "じてんしゃ",
+    "meaning_en": "bicycle",
+    "explanation": "「自転車」は「じてんしゃ」。「転」は「てん」と読みます。",
+    "target_word_reading": "じてんしゃ",
+    "correct_text_reading": "じてんしゃ",
+    "correct_text_ruby": "じてんしゃ"
+  },
+  {
+    "id": 78,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "飛行機",
+    "question": "飛行機で東京へ行きます。",
+    "question_ruby": "<u>飛行機</u>で<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "ひこうぎ",
+      "ひこうき",
+      "ひぎょうき",
+      "ひこき"
+    ],
+    "choices_ruby": [
+      "ひこうぎ",
+      "ひこうき",
+      "ひぎょうき",
+      "ひこき"
+    ],
+    "answer": 1,
+    "correct_text": "ひこうき",
+    "meaning_en": "airplane",
+    "explanation": "「行」は「こう」と長く読みます。",
+    "target_word_reading": "ひこうき",
+    "correct_text_reading": "ひこうき",
+    "correct_text_ruby": "ひこうき"
+  },
+  {
+    "id": 79,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "冷蔵庫",
+    "question": "ジュースを冷蔵庫に入れました。",
+    "question_ruby": "ジュースを<u>冷蔵庫</u>に<ruby>入<rt>い</rt></ruby>れました。",
+    "choices": [
+      "ろいぞうこ",
+      "れんぞうこ",
+      "れいそうこ",
+      "れいぞうこ"
+    ],
+    "choices_ruby": [
+      "ろいぞうこ",
+      "れんぞうこ",
+      "れいそうこ",
+      "れいぞうこ"
+    ],
+    "answer": 3,
+    "correct_text": "れいぞうこ",
+    "meaning_en": "refrigerator",
+    "explanation": "「蔵」は「ぞう」と濁ります。",
+    "target_word_reading": "れいぞうこ",
+    "correct_text_reading": "れいぞうこ",
+    "correct_text_ruby": "れいぞうこ"
+  },
+  {
+    "id": 80,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "花",
+    "question": "母の日に母に花を送りました。",
+    "question_ruby": "<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>母<rt>はは</rt></ruby>に<u>花</u>を<ruby>送<rt>おく</rt></ruby>りました。",
+    "choices": [
+      "はな",
+      "ばな",
+      "ほな",
+      "はま"
+    ],
+    "choices_ruby": [
+      "はな",
+      "ばな",
+      "ほな",
+      "はま"
+    ],
+    "answer": 0,
+    "correct_text": "はな",
+    "meaning_en": "flower",
+    "explanation": "「花」は「はな」と読みます。",
+    "target_word_reading": "はな",
+    "correct_text_reading": "はな",
+    "correct_text_ruby": "はな"
+  },
+  {
+    "id": 81,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "仕事",
+    "question": "父は銀行で仕事をしています。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<u>仕事</u>をしています。",
+    "choices": [
+      "しこと",
+      "じごと",
+      "しごと",
+      "ししごと"
+    ],
+    "choices_ruby": [
+      "しこと",
+      "じごと",
+      "しごと",
+      "ししごと"
+    ],
+    "answer": 2,
+    "correct_text": "しごと",
+    "meaning_en": "work; job",
+    "explanation": "「事」は「ごと」と濁ります。",
+    "target_word_reading": "しごと",
+    "correct_text_reading": "しごと",
+    "correct_text_ruby": "しごと"
+  },
+  {
+    "id": 82,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "旅行",
+    "question": "来月、家族で旅行に行きます。",
+    "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>で<u>旅行</u>に<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "りょこう",
+      "りょごう",
+      "りょうこう",
+      "りょこ"
+    ],
+    "choices_ruby": [
+      "りょこう",
+      "りょごう",
+      "りょうこう",
+      "りょこ"
+    ],
+    "answer": 0,
+    "correct_text": "りょこう",
+    "meaning_en": "trip; travel",
+    "explanation": "「旅行」は「りょこう」。「りょ」は短く、「こう」は長く読みます。",
+    "target_word_reading": "りょこう",
+    "correct_text_reading": "りょこう",
+    "correct_text_ruby": "りょこう"
+  },
+  {
+    "id": 83,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "病気",
+    "question": "風邪で病気になって、学校を休みました。",
+    "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>で<u>病気</u>になって、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みました。",
+    "choices": [
+      "ひょうき",
+      "びょうき",
+      "びょき",
+      "びょうぎ"
+    ],
+    "choices_ruby": [
+      "ひょうき",
+      "びょうき",
+      "びょき",
+      "びょうぎ"
+    ],
+    "answer": 1,
+    "correct_text": "びょうき",
+    "meaning_en": "illness",
+    "explanation": "「病」は「びょう」と濁って長く読みます。",
+    "target_word_reading": "びょうき",
+    "correct_text_reading": "びょうき",
+    "correct_text_ruby": "びょうき"
+  },
+  {
+    "id": 84,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "言葉",
+    "question": "日本語の言葉をたくさん覚えました。",
+    "question_ruby": "<ruby>日本語<rt>にほんご</rt></ruby>の<u>言葉</u>をたくさん<ruby>覚<rt>おぼ</rt></ruby>えました。",
+    "choices": [
+      "ごとば",
+      "げんば",
+      "ことは",
+      "ことば"
+    ],
+    "choices_ruby": [
+      "ごとば",
+      "げんば",
+      "ことは",
+      "ことば"
+    ],
+    "answer": 3,
+    "correct_text": "ことば",
+    "meaning_en": "word; language",
+    "explanation": "「言葉」は「ことば」。「ば」は濁ります。",
+    "target_word_reading": "ことば",
+    "correct_text_reading": "ことば",
+    "correct_text_ruby": "ことば"
+  },
+  {
+    "id": 85,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "外国",
+    "question": "外国に行ったことがありますか。",
+    "question_ruby": "<u>外国</u>に<ruby>行<rt>い</rt></ruby>ったことがありますか。",
+    "choices": [
+      "ほかくに",
+      "がいこく",
+      "かいこく",
+      "がいごく"
+    ],
+    "choices_ruby": [
+      "ほかくに",
+      "がいこく",
+      "かいこく",
+      "がいごく"
+    ],
+    "answer": 1,
+    "correct_text": "がいこく",
+    "meaning_en": "foreign country",
+    "explanation": "「外国」は「がいこく」。「外」は「がい」と濁ります。",
+    "target_word_reading": "がいこく",
+    "correct_text_reading": "がいこく",
+    "correct_text_ruby": "がいこく"
+  },
+  {
+    "id": 86,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "横",
+    "question": "ホテルの横に大きい木があります。",
+    "question_ruby": "ホテルの<u>横</u>に<ruby>大<rt>おお</rt></ruby>きい<ruby>木<rt>き</rt></ruby>があります。",
+    "choices": [
+      "ゆこ",
+      "よご",
+      "よこ",
+      "よっこ"
+    ],
+    "choices_ruby": [
+      "ゆこ",
+      "よご",
+      "よこ",
+      "よっこ"
+    ],
+    "answer": 2,
+    "correct_text": "よこ",
+    "meaning_en": "beside; side",
+    "explanation": "「横」は「よこ」と読みます。",
+    "target_word_reading": "よこ",
+    "correct_text_reading": "よこ",
+    "correct_text_ruby": "よこ"
+  },
+  {
+    "id": 87,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "新しい",
+    "question": "駅の近くに新しいスーパーができました。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<u>新しい</u>スーパーができました。",
+    "choices": [
+      "あたらしい",
+      "あたらい",
+      "あたたらしい",
+      "あらたしい"
+    ],
+    "choices_ruby": [
+      "あたらしい",
+      "あたらい",
+      "あたたらしい",
+      "あらたしい"
+    ],
+    "answer": 0,
+    "correct_text": "あたらしい",
+    "meaning_en": "new",
+    "explanation": "「新しい」は「あたらしい」。「あらたしい」と読み間違えやすいので注意します。",
+    "target_word_reading": "あたらしい",
+    "correct_text_reading": "あたらしい",
+    "correct_text_ruby": "あたらしい"
+  },
+  {
+    "id": 88,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "忙しい",
+    "question": "今週は仕事が忙しいです。",
+    "question_ruby": "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<u>忙しい</u>です。",
+    "choices": [
+      "いそぎしい",
+      "いそがい",
+      "いそかしい",
+      "いそがしい"
+    ],
+    "choices_ruby": [
+      "いそぎしい",
+      "いそがい",
+      "いそかしい",
+      "いそがしい"
+    ],
+    "answer": 3,
+    "correct_text": "いそがしい",
+    "meaning_en": "busy",
+    "explanation": "「忙しい」は「いそがしい」。「が」は濁ります。",
+    "target_word_reading": "いそがしい",
+    "correct_text_reading": "いそがしい",
+    "correct_text_ruby": "いそがしい"
+  },
+  {
+    "id": 89,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "楽しかった",
+    "question": "昨日のパーティーはとても楽しかったです。",
+    "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>のパーティーはとても<u>楽しかった</u>です。",
+    "choices": [
+      "たのしかった",
+      "らくしかった",
+      "たのしかたった",
+      "たのしがった"
+    ],
+    "choices_ruby": [
+      "たのしかった",
+      "らくしかった",
+      "たのしかたった",
+      "たのしがった"
+    ],
+    "answer": 0,
+    "correct_text": "たのしかった",
+    "meaning_en": "was fun; enjoyable",
+    "explanation": "「楽しい」は「たのしい」。「楽」を「らく」と読むのは「楽な」などの場合です。",
+    "target_word_reading": "たのしかった",
+    "correct_text_reading": "たのしかった",
+    "correct_text_ruby": "たのしかった"
+  },
+  {
+    "id": 90,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "涼しく",
+    "question": "夜になって、少し涼しくなりました。",
+    "question_ruby": "<ruby>夜<rt>よる</rt></ruby>になって、<ruby>少<rt>すこ</rt></ruby>し<u>涼しく</u>なりました。",
+    "choices": [
+      "すずじく",
+      "すすしく",
+      "りょうしく",
+      "すずしく"
+    ],
+    "choices_ruby": [
+      "すずじく",
+      "すすしく",
+      "りょうしく",
+      "すずしく"
+    ],
+    "answer": 3,
+    "correct_text": "すずしく",
+    "meaning_en": "cool (adverbial form)",
+    "explanation": "「涼しい」は「すずしい」と読みます。",
+    "target_word_reading": "すずしく",
+    "correct_text_reading": "すずしく",
+    "correct_text_ruby": "すずしく"
+  },
+  {
+    "id": 91,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "難しい",
+    "question": "この問題は難しいですね。",
+    "question_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>は<u>難しい</u>ですね。",
+    "choices": [
+      "むずがしい",
+      "なんしい",
+      "むずかしい",
+      "むすかしい"
+    ],
+    "choices_ruby": [
+      "むずがしい",
+      "なんしい",
+      "むずかしい",
+      "むすかしい"
+    ],
+    "answer": 2,
+    "correct_text": "むずかしい",
+    "meaning_en": "difficult",
+    "explanation": "「難しい」は「むずかしい」。「ず」は濁り、「か」は濁りません。",
+    "target_word_reading": "むずかしい",
+    "correct_text_reading": "むずかしい",
+    "correct_text_ruby": "むずかしい"
+  },
+  {
+    "id": 92,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "遠い",
+    "question": "駅から学校までは遠いです。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>学校<rt>がっこう</rt></ruby>までは<u>遠い</u>です。",
+    "choices": [
+      "とうい",
+      "とおい",
+      "おとい",
+      "ともい"
+    ],
+    "choices_ruby": [
+      "とうい",
+      "とおい",
+      "おとい",
+      "ともい"
+    ],
+    "answer": 1,
+    "correct_text": "とおい",
+    "meaning_en": "far",
+    "explanation": "「遠い」は「とおい」と読みます。「とうい」ではありません。",
+    "target_word_reading": "とおい",
+    "correct_text_reading": "とおい",
+    "correct_text_ruby": "とおい"
+  },
+  {
+    "id": 93,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "短い",
+    "question": "スカートが短いので、寒いです。",
+    "question_ruby": "スカートが<u>短い</u>ので、<ruby>寒<rt>さむ</rt></ruby>いです。",
+    "choices": [
+      "みじかい",
+      "みちかい",
+      "みじがい",
+      "みしかい"
+    ],
+    "choices_ruby": [
+      "みじかい",
+      "みちかい",
+      "みじがい",
+      "みしかい"
+    ],
+    "answer": 0,
+    "correct_text": "みじかい",
+    "meaning_en": "short",
+    "explanation": "「短い」は「みじかい」。「じ」は濁ります。",
+    "target_word_reading": "みじかい",
+    "correct_text_reading": "みじかい",
+    "correct_text_ruby": "みじかい"
+  },
+  {
+    "id": 94,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "明るい",
+    "question": "この部屋は窓が大きくて明るいです。",
+    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて<u>明るい</u>です。",
+    "choices": [
+      "あかるう",
+      "あかい",
+      "あきるい",
+      "あかるい"
+    ],
+    "choices_ruby": [
+      "あかるう",
+      "あかい",
+      "あきるい",
+      "あかるい"
+    ],
+    "answer": 3,
+    "correct_text": "あかるい",
+    "meaning_en": "bright",
+    "explanation": "「明るい」は「あかるい」と読みます。",
+    "target_word_reading": "あかるい",
+    "correct_text_reading": "あかるい",
+    "correct_text_ruby": "あかるい"
+  },
+  {
+    "id": 95,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "冷たい",
+    "question": "冷たい水をください。",
+    "question_ruby": "<u>冷たい</u><ruby>水<rt>みず</rt></ruby>をください。",
+    "choices": [
+      "つむたい",
+      "れいたい",
+      "つめたい",
+      "つべたい"
+    ],
+    "choices_ruby": [
+      "つむたい",
+      "れいたい",
+      "つめたい",
+      "つべたい"
+    ],
+    "answer": 2,
+    "correct_text": "つめたい",
+    "meaning_en": "cold (to the touch)",
+    "explanation": "「冷たい」は「つめたい」と読みます。",
+    "target_word_reading": "つめたい",
+    "correct_text_reading": "つめたい",
+    "correct_text_ruby": "つめたい"
+  },
+  {
+    "id": 96,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "汚い",
+    "question": "部屋が汚いので、そうじをします。",
+    "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>が<u>汚い</u>ので、そうじをします。",
+    "choices": [
+      "おたない",
+      "きたない",
+      "きだない",
+      "きたなし"
+    ],
+    "choices_ruby": [
+      "おたない",
+      "きたない",
+      "きだない",
+      "きたなし"
+    ],
+    "answer": 1,
+    "correct_text": "きたない",
+    "meaning_en": "dirty",
+    "explanation": "「汚い」は「きたない」と読みます。",
+    "target_word_reading": "きたない",
+    "correct_text_reading": "きたない",
+    "correct_text_ruby": "きたない"
+  },
+  {
+    "id": 97,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "遅い",
+    "question": "私は朝、起きるのが遅いです。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>、<ruby>起<rt>お</rt></ruby>きるのが<u>遅い</u>です。",
+    "choices": [
+      "おせい",
+      "おくい",
+      "おそい",
+      "おそう"
+    ],
+    "choices_ruby": [
+      "おせい",
+      "おくい",
+      "おそい",
+      "おそう"
+    ],
+    "answer": 2,
+    "correct_text": "おそい",
+    "meaning_en": "late; slow",
+    "explanation": "「遅い」は「おそい」と読みます。",
+    "target_word_reading": "おそい",
+    "correct_text_reading": "おそい",
+    "correct_text_ruby": "おそい"
+  },
+  {
+    "id": 98,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "少ない",
+    "question": "今年は雪が少ないです。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が<u>少ない</u>です。",
+    "choices": [
+      "しょうない",
+      "すくない",
+      "すくなし",
+      "すこない"
+    ],
+    "choices_ruby": [
+      "しょうない",
+      "すくない",
+      "すくなし",
+      "すこない"
+    ],
+    "answer": 1,
+    "correct_text": "すくない",
+    "meaning_en": "few; little",
+    "explanation": "「少ない」は「すくない」。「すこない」「すこしない」とは読みません。",
+    "target_word_reading": "すくない",
+    "correct_text_reading": "すくない",
+    "correct_text_ruby": "すくない"
+  },
+  {
+    "id": 99,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "起きます",
+    "question": "毎朝、六時に起きます。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>六時<rt>ろくじ</rt></ruby>に<u>起きます</u>。",
+    "choices": [
+      "おちます",
+      "ききます",
+      "あきます",
+      "おきます"
+    ],
+    "choices_ruby": [
+      "おちます",
+      "ききます",
+      "あきます",
+      "おきます"
+    ],
+    "answer": 3,
+    "correct_text": "おきます",
+    "meaning_en": "to get up; to wake up",
+    "explanation": "「起きます」は「おきます」と読みます。",
+    "target_word_reading": "おきます",
+    "correct_text_reading": "おきます",
+    "correct_text_ruby": "おきます"
+  },
+  {
+    "id": 100,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "歩きます",
+    "question": "駅まで十分ぐらい歩きます。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>十分<rt>じゅっぷん</rt></ruby>ぐらい<u>歩きます</u>。",
+    "choices": [
+      "あるきます",
+      "あるぎます",
+      "あゆきます",
+      "ほきます"
+    ],
+    "choices_ruby": [
+      "あるきます",
+      "あるぎます",
+      "あゆきます",
+      "ほきます"
+    ],
+    "answer": 0,
+    "correct_text": "あるきます",
+    "meaning_en": "to walk",
+    "explanation": "「歩きます」は「あるきます」と読みます。",
+    "target_word_reading": "あるきます",
+    "correct_text_reading": "あるきます",
+    "correct_text_ruby": "あるきます"
+  },
+  {
+    "id": 101,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "働いて",
+    "question": "父は銀行で働いています。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<u>働いて</u>います。",
+    "choices": [
+      "はたらきて",
+      "はたらって",
+      "はたいて",
+      "はたらいて"
+    ],
+    "choices_ruby": [
+      "はたらきて",
+      "はたらって",
+      "はたいて",
+      "はたらいて"
+    ],
+    "answer": 3,
+    "correct_text": "はたらいて",
+    "meaning_en": "working (te-form of 働く)",
+    "explanation": "「働く」は「はたらく」。「いて」が付くと「はたらいて」になります。",
+    "target_word_reading": "はたらいて",
+    "correct_text_reading": "はたらいて",
+    "correct_text_ruby": "はたらいて"
+  },
+  {
+    "id": 102,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "借りました",
+    "question": "図書館で本を借りました。",
+    "question_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<u>借りました</u>。",
+    "choices": [
+      "かいました",
+      "かりました",
+      "かしました",
+      "かえしました"
+    ],
+    "choices_ruby": [
+      "かいました",
+      "かりました",
+      "かしました",
+      "かえしました"
+    ],
+    "answer": 1,
+    "correct_text": "かりました",
+    "meaning_en": "borrowed",
+    "explanation": "「借りる」は「かりる」。「かす（貸す）」と間違えないようにします。",
+    "target_word_reading": "かりました",
+    "correct_text_reading": "かりました",
+    "correct_text_ruby": "かりました"
+  },
+  {
+    "id": 103,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "返します",
+    "question": "借りた本を返します。",
+    "question_ruby": "<ruby>借<rt>か</rt></ruby>りた<ruby>本<rt>ほん</rt></ruby>を<u>返します</u>。",
+    "choices": [
+      "かします",
+      "かえります",
+      "かえします",
+      "もどします"
+    ],
+    "choices_ruby": [
+      "かします",
+      "かえります",
+      "かえします",
+      "もどします"
+    ],
+    "answer": 2,
+    "correct_text": "かえします",
+    "meaning_en": "to return (something)",
+    "explanation": "「返す」は「かえす」。「かえる（帰る）」は自分が戻るときに使います。",
+    "target_word_reading": "かえします",
+    "correct_text_reading": "かえします",
+    "correct_text_ruby": "かえします"
+  },
+  {
+    "id": 104,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "乗ります",
+    "question": "駅でバスに乗ります。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>でバスに<u>乗ります</u>。",
+    "choices": [
+      "のります",
+      "のきます",
+      "のぼります",
+      "のみます"
+    ],
+    "choices_ruby": [
+      "のります",
+      "のきます",
+      "のぼります",
+      "のみます"
+    ],
+    "answer": 0,
+    "correct_text": "のります",
+    "meaning_en": "to ride; to get on",
+    "explanation": "「乗ります」は「のります」と読みます。",
+    "target_word_reading": "のります",
+    "correct_text_reading": "のります",
+    "correct_text_ruby": "のります"
+  },
+  {
+    "id": 105,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "降ります",
+    "question": "次の駅で電車を降ります。",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を<u>降ります</u>。",
+    "choices": [
+      "おります",
+      "くだります",
+      "さがります",
+      "ふります"
+    ],
+    "choices_ruby": [
+      "おります",
+      "くだります",
+      "さがります",
+      "ふります"
+    ],
+    "answer": 0,
+    "correct_text": "おります",
+    "meaning_en": "to get off",
+    "explanation": "「降」は、雨や雪には「ふる」ですが、乗り物には「おりる」と読みます。",
+    "target_word_reading": "おります",
+    "correct_text_reading": "おります",
+    "correct_text_ruby": "おります"
+  },
+  {
+    "id": 106,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "洗います",
+    "question": "食事の前に、手を洗います。",
+    "question_ruby": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>手<rt>て</rt></ruby>を<u>洗います</u>。",
+    "choices": [
+      "あろいます",
+      "あらいます",
+      "ならいます",
+      "あらします"
+    ],
+    "choices_ruby": [
+      "あろいます",
+      "あらいます",
+      "ならいます",
+      "あらします"
+    ],
+    "answer": 1,
+    "correct_text": "あらいます",
+    "meaning_en": "to wash",
+    "explanation": "「洗います」は「あらいます」と読みます。",
+    "target_word_reading": "あらいます",
+    "correct_text_reading": "あらいます",
+    "correct_text_ruby": "あらいます"
+  },
+  {
+    "id": 107,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "住んで",
+    "question": "私は大阪に住んでいます。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>に<u>住んで</u>います。",
+    "choices": [
+      "すいで",
+      "ずんで",
+      "すんで",
+      "じゅうんで"
+    ],
+    "choices_ruby": [
+      "すいで",
+      "ずんで",
+      "すんで",
+      "じゅうんで"
+    ],
+    "answer": 2,
+    "correct_text": "すんで",
+    "meaning_en": "living (te-form of 住む)",
+    "explanation": "「住む」は「すむ」。「んで」が付くと「すんで」になります。",
+    "target_word_reading": "すんで",
+    "correct_text_reading": "すんで",
+    "correct_text_ruby": "すんで"
+  },
+  {
+    "id": 108,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "忘れました",
+    "question": "傘を電車の中に忘れました。",
+    "question_ruby": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<u>忘れました</u>。",
+    "choices": [
+      "わすりました",
+      "わずれました",
+      "おぼえました",
+      "わすれました"
+    ],
+    "choices_ruby": [
+      "わすりました",
+      "わずれました",
+      "おぼえました",
+      "わすれました"
+    ],
+    "answer": 3,
+    "correct_text": "わすれました",
+    "meaning_en": "forgot; left behind",
+    "explanation": "「忘れる」は「わすれる」と読みます。",
+    "target_word_reading": "わすれました",
+    "correct_text_reading": "わすれました",
+    "correct_text_ruby": "わすれました"
+  },
+  {
+    "id": 109,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "疲れました",
+    "question": "今日はたくさん歩いて、疲れました。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>歩<rt>ある</rt></ruby>いて、<u>疲れました</u>。",
+    "choices": [
+      "つかりました",
+      "つがれました",
+      "つかれました",
+      "つかえました"
+    ],
+    "choices_ruby": [
+      "つかりました",
+      "つがれました",
+      "つかれました",
+      "つかえました"
+    ],
+    "answer": 2,
+    "correct_text": "つかれました",
+    "meaning_en": "got tired",
+    "explanation": "「疲れる」は「つかれる」と読みます。",
+    "target_word_reading": "つかれました",
+    "correct_text_reading": "つかれました",
+    "correct_text_ruby": "つかれました"
+  },
+  {
+    "id": 110,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "教えて",
+    "question": "先生が日本語を教えてくれます。",
+    "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>日本語<rt>にほんご</rt></ruby>を<u>教えて</u>くれます。",
+    "choices": [
+      "おしいて",
+      "おしえて",
+      "おじえて",
+      "おそえて"
+    ],
+    "choices_ruby": [
+      "おしいて",
+      "おしえて",
+      "おじえて",
+      "おそえて"
+    ],
+    "answer": 1,
+    "correct_text": "おしえて",
+    "meaning_en": "teaching (te-form of 教える)",
+    "explanation": "「教える」は「おしえる」と読みます。",
+    "target_word_reading": "おしえて",
+    "correct_text_reading": "おしえて",
+    "correct_text_ruby": "おしえて"
+  },
+  {
+    "id": 111,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "習って",
+    "question": "私は毎週土曜日にピアノを習っています。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>にピアノを<u>習って</u>います。",
+    "choices": [
+      "ならうて",
+      "ならいて",
+      "まなって",
+      "ならって"
+    ],
+    "choices_ruby": [
+      "ならうて",
+      "ならいて",
+      "まなって",
+      "ならって"
+    ],
+    "answer": 3,
+    "correct_text": "ならって",
+    "meaning_en": "learning (te-form of 習う)",
+    "explanation": "「習う」は「ならう」。「って」が付くと「ならって」になります。",
+    "target_word_reading": "ならって",
+    "correct_text_reading": "ならって",
+    "correct_text_ruby": "ならって"
+  },
+  {
+    "id": 112,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "覚えて",
+    "question": "毎日、新しい言葉を五つずつ覚えています。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>五つ<rt>いつつ</rt></ruby>ずつ<u>覚えて</u>います。",
+    "choices": [
+      "おぼえて",
+      "おぼいて",
+      "おぼれて",
+      "おもえて"
+    ],
+    "choices_ruby": [
+      "おぼえて",
+      "おぼいて",
+      "おぼれて",
+      "おもえて"
+    ],
+    "answer": 0,
+    "correct_text": "おぼえて",
+    "meaning_en": "memorizing (te-form of 覚える)",
+    "explanation": "「覚える」は「おぼえる」と読みます。",
+    "target_word_reading": "おぼえて",
+    "correct_text_reading": "おぼえて",
+    "correct_text_ruby": "おぼえて"
+  },
+  {
+    "id": 113,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "元気",
+    "question": "今日はとても元気ですね。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>はとても<u>元気</u>ですね。",
+    "choices": [
+      "げんぎ",
+      "けんき",
+      "もとき",
+      "げんき"
+    ],
+    "choices_ruby": [
+      "げんぎ",
+      "けんき",
+      "もとき",
+      "げんき"
+    ],
+    "answer": 3,
+    "correct_text": "げんき",
+    "meaning_en": "healthy; energetic",
+    "explanation": "「元気」は「げんき」。「気」は濁りません。",
+    "target_word_reading": "げんき",
+    "correct_text_reading": "げんき",
+    "correct_text_ruby": "げんき"
+  },
+  {
+    "id": 114,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "有名",
+    "question": "この店のカレーは有名です。",
+    "question_ruby": "この<ruby>店<rt>みせ</rt></ruby>のカレーは<u>有名</u>です。",
+    "choices": [
+      "ゆめい",
+      "ゆうみょう",
+      "ゆうめい",
+      "ゆうめえ"
+    ],
+    "choices_ruby": [
+      "ゆめい",
+      "ゆうみょう",
+      "ゆうめい",
+      "ゆうめえ"
+    ],
+    "answer": 2,
+    "correct_text": "ゆうめい",
+    "meaning_en": "famous",
+    "explanation": "「有名」は「ゆうめい」と長く読みます。",
+    "target_word_reading": "ゆうめい",
+    "correct_text_reading": "ゆうめい",
+    "correct_text_ruby": "ゆうめい"
+  },
+  {
+    "id": 115,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "便利",
+    "question": "駅の近くは買い物に便利です。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くは<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<u>便利</u>です。",
+    "choices": [
+      "べんり",
+      "ひんり",
+      "へんり",
+      "べんい"
+    ],
+    "choices_ruby": [
+      "べんり",
+      "ひんり",
+      "へんり",
+      "べんい"
+    ],
+    "answer": 0,
+    "correct_text": "べんり",
+    "meaning_en": "convenient",
+    "explanation": "「便利」は「べんり」と読みます。",
+    "target_word_reading": "べんり",
+    "correct_text_reading": "べんり",
+    "correct_text_ruby": "べんり"
+  },
+  {
+    "id": 116,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "親切",
+    "question": "駅の人はとても親切でした。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はとても<u>親切</u>でした。",
+    "choices": [
+      "しんぜつ",
+      "しんせつ",
+      "しんせい",
+      "おやせつ"
+    ],
+    "choices_ruby": [
+      "しんぜつ",
+      "しんせつ",
+      "しんせい",
+      "おやせつ"
+    ],
+    "answer": 1,
+    "correct_text": "しんせつ",
+    "meaning_en": "kind",
+    "explanation": "「親切」は「しんせつ」と読みます。",
+    "target_word_reading": "しんせつ",
+    "correct_text_reading": "しんせつ",
+    "correct_text_ruby": "しんせつ"
+  },
+  {
+    "id": 117,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "静か",
+    "question": "この図書館はとても静かです。",
+    "question_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>はとても<u>静か</u>です。",
+    "choices": [
+      "じずか",
+      "しずか",
+      "せいか",
+      "しすか"
+    ],
+    "choices_ruby": [
+      "じずか",
+      "しずか",
+      "せいか",
+      "しすか"
+    ],
+    "answer": 1,
+    "correct_text": "しずか",
+    "meaning_en": "quiet",
+    "explanation": "「静か」は「しずか」と読みます。",
+    "target_word_reading": "しずか",
+    "correct_text_reading": "しずか",
+    "correct_text_ruby": "しずか"
+  },
+  {
+    "id": 118,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "上手",
+    "question": "山田さんは日本語が上手です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>日本語<rt>にほんご</rt></ruby>が<u>上手</u>です。",
+    "choices": [
+      "じょしゅ",
+      "じょうづ",
+      "じょうしゅ",
+      "じょうず"
+    ],
+    "choices_ruby": [
+      "じょしゅ",
+      "じょうづ",
+      "じょうしゅ",
+      "じょうず"
+    ],
+    "answer": 3,
+    "correct_text": "じょうず",
+    "meaning_en": "skillful; good at",
+    "explanation": "「上手」は特別な読み方で「じょうず」と読みます。",
+    "target_word_reading": "じょうず",
+    "correct_text_reading": "じょうず",
+    "correct_text_ruby": "じょうず"
+  },
+  {
+    "id": 119,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "下手",
+    "question": "私は歌が下手です。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>が<u>下手</u>です。",
+    "choices": [
+      "へた",
+      "へだ",
+      "へたて",
+      "べた"
+    ],
+    "choices_ruby": [
+      "へた",
+      "へだ",
+      "へたて",
+      "べた"
+    ],
+    "answer": 0,
+    "correct_text": "へた",
+    "meaning_en": "poor at; unskillful",
+    "explanation": "「下手」は特別な読み方で「へた」と読みます。",
+    "target_word_reading": "へた",
+    "correct_text_reading": "へた",
+    "correct_text_ruby": "へた"
+  },
+  {
+    "id": 120,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "左",
+    "question": "この道を左に曲がってください。",
+    "question_ruby": "この<ruby>道<rt>みち</rt></ruby>を<u>左</u>に<ruby>曲<rt>ま</rt></ruby>がってください。",
+    "choices": [
+      "ひたり",
+      "ひだい",
+      "ひだり",
+      "みぎり"
+    ],
+    "choices_ruby": [
+      "ひたり",
+      "ひだい",
+      "ひだり",
+      "みぎり"
+    ],
+    "answer": 2,
+    "correct_text": "ひだり",
+    "meaning_en": "left",
+    "explanation": "「左」は「ひだり」と読みます。「みぎ」は「右」です。",
+    "target_word_reading": "ひだり",
+    "correct_text_reading": "ひだり",
+    "correct_text_ruby": "ひだり"
+  },
+  {
+    "id": 121,
+    "source": "実戦オリジナル問題",
+    "category": "漢字読み",
+    "target_word": "右",
+    "question": "銀行は郵便局の右にあります。",
+    "question_ruby": "<ruby>銀行<rt>ぎんこう</rt></ruby>は<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>の<u>右</u>にあります。",
+    "choices": [
+      "みき",
+      "ひぎ",
+      "みぎり",
+      "みぎ"
+    ],
+    "choices_ruby": [
+      "みき",
+      "ひぎ",
+      "みぎり",
+      "みぎ"
+    ],
+    "answer": 3,
+    "correct_text": "みぎ",
+    "meaning_en": "right",
+    "explanation": "「右」は「みぎ」と読みます。「ひだり」は「左」です。",
+    "target_word_reading": "みぎ",
+    "correct_text_reading": "みぎ",
+    "correct_text_ruby": "みぎ"
+  },
+  {
+    "id": 122,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あした",
+    "question": "あしたは 友達と 映画を 見に 行きます。",
+    "question_ruby": "<u>あした</u>は <ruby>友達<rt>ともだち</rt></ruby>と <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "昨日",
+      "毎日",
+      "明日",
+      "今日"
+    ],
+    "choices_ruby": [
+      "昨日",
+      "毎日",
+      "明日",
+      "今日"
+    ],
+    "answer": 2,
+    "correct_text": "明日",
+    "meaning_en": "tomorrow",
+    "explanation": "「明日」は「あした」。「昨日」は「きのう」、「今日」は「きょう」です。",
+    "target_word_reading": "あした",
+    "correct_text_reading": "あした",
+    "correct_text_ruby": "明日"
+  },
+  {
+    "id": 123,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "らいねん",
+    "question": "らいねん、日本へ 留学します。",
+    "question_ruby": "<u>らいねん</u>、<ruby>日本<rt>にほん</rt></ruby>へ <ruby>留学<rt>りゅうがく</rt></ruby>します。",
+    "choices": [
+      "来月",
+      "来年",
+      "去年",
+      "今年"
+    ],
+    "choices_ruby": [
+      "来月",
+      "来年",
+      "去年",
+      "今年"
+    ],
+    "answer": 1,
+    "correct_text": "来年",
+    "meaning_en": "next year",
+    "explanation": "「来年」は「らいねん」。「去年」は「きょねん」で、過去の年です。",
+    "target_word_reading": "らいねん",
+    "correct_text_reading": "らいねん",
+    "correct_text_ruby": "来年"
+  },
+  {
+    "id": 124,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "まいしゅう",
+    "question": "私は まいしゅう、日曜日に プールで 泳ぎます。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は <u>まいしゅう</u>、<ruby>日曜日<rt>にちようび</rt></ruby>に プールで <ruby>泳<rt>およ</rt></ruby>ぎます。",
+    "choices": [
+      "毎週",
+      "毎月",
+      "毎日",
+      "毎年"
+    ],
+    "choices_ruby": [
+      "毎週",
+      "毎月",
+      "毎日",
+      "毎年"
+    ],
+    "answer": 0,
+    "correct_text": "毎週",
+    "meaning_en": "every week",
+    "explanation": "「週」は「しゅう」。「毎日」「毎月」「毎年」とは単位が違います。",
+    "target_word_reading": "まいしゅう",
+    "correct_text_reading": "まいしゅう",
+    "correct_text_ruby": "毎週"
+  },
+  {
+    "id": 125,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ゆうがた",
+    "question": "ゆうがたから 雨が 降りそうです。",
+    "question_ruby": "<u>ゆうがた</u>から <ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうです。",
+    "choices": [
+      "午後",
+      "夕飯",
+      "今夜",
+      "夕方"
+    ],
+    "choices_ruby": [
+      "午後",
+      "夕飯",
+      "今夜",
+      "夕方"
+    ],
+    "answer": 3,
+    "correct_text": "夕方",
+    "meaning_en": "evening",
+    "explanation": "「夕方」は日が沈むころの時間。「夕飯」は「ゆうはん」（晩ごはん）です。",
+    "target_word_reading": "ゆうがた",
+    "correct_text_reading": "ゆうがた",
+    "correct_text_ruby": "夕方"
+  },
+  {
+    "id": 126,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "もくようび",
+    "question": "もくようびに、図書館で 友達に 会います。",
+    "question_ruby": "<u>もくようび</u>に、<ruby>図書館<rt>としょかん</rt></ruby>で <ruby>友達<rt>ともだち</rt></ruby>に <ruby>会<rt>あ</rt></ruby>います。",
+    "choices": [
+      "日曜日",
+      "木曜日",
+      "水曜日",
+      "金曜日"
+    ],
+    "choices_ruby": [
+      "日曜日",
+      "木曜日",
+      "水曜日",
+      "金曜日"
+    ],
+    "answer": 1,
+    "correct_text": "木曜日",
+    "meaning_en": "Thursday",
+    "explanation": "「木」は「もく」。「水曜日」は「すいようび」です。",
+    "target_word_reading": "もくようび",
+    "correct_text_reading": "もくようび",
+    "correct_text_ruby": "木曜日"
+  },
+  {
+    "id": 127,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ことし",
+    "question": "ことしの 夏は とても 暑いです。",
+    "question_ruby": "<u>ことし</u>の <ruby>夏<rt>なつ</rt></ruby>は とても <ruby>暑<rt>あつ</rt></ruby>いです。",
+    "choices": [
+      "来年",
+      "今月",
+      "去年",
+      "今年"
+    ],
+    "choices_ruby": [
+      "来年",
+      "今月",
+      "去年",
+      "今年"
+    ],
+    "answer": 3,
+    "correct_text": "今年",
+    "meaning_en": "this year",
+    "explanation": "「今年」は「ことし」と読む特別な言葉です。",
+    "target_word_reading": "ことし",
+    "correct_text_reading": "ことし",
+    "correct_text_ruby": "今年"
+  },
+  {
+    "id": 128,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "せんげつ",
+    "question": "せんげつ、新しい 会社に 入りました。",
+    "question_ruby": "<u>せんげつ</u>、<ruby>新<rt>あたら</rt></ruby>しい <ruby>会社<rt>かいしゃ</rt></ruby>に <ruby>入<rt>はい</rt></ruby>りました。",
+    "choices": [
+      "先月",
+      "今月",
+      "先週",
+      "来月"
+    ],
+    "choices_ruby": [
+      "先月",
+      "今月",
+      "先週",
+      "来月"
+    ],
+    "answer": 0,
+    "correct_text": "先月",
+    "meaning_en": "last month",
+    "explanation": "「先月」は「せんげつ」。「先週」は「せんしゅう」です。",
+    "target_word_reading": "せんげつ",
+    "correct_text_reading": "せんげつ",
+    "correct_text_ruby": "先月"
+  },
+  {
+    "id": 129,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ひる",
+    "question": "ひるごはんは 十二時に 食べます。",
+    "question_ruby": "<u>ひる</u>ごはんは <ruby>十二時<rt>じゅうにじ</rt></ruby>に <ruby>食<rt>た</rt></ruby>べます。",
+    "choices": [
+      "屋",
+      "夜",
+      "昼",
+      "朝"
+    ],
+    "choices_ruby": [
+      "屋",
+      "夜",
+      "昼",
+      "朝"
+    ],
+    "answer": 2,
+    "correct_text": "昼",
+    "meaning_en": "noon; daytime",
+    "explanation": "「昼」は「ひる」。形が似た「屋」は「や」と読みます。",
+    "target_word_reading": "ひる",
+    "correct_text_reading": "ひる",
+    "correct_text_ruby": "昼"
+  },
+  {
+    "id": 130,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ふつか",
+    "question": "ふつかに 友達と 会います。",
+    "question_ruby": "<u>ふつか</u>に <ruby>友達<rt>ともだち</rt></ruby>と <ruby>会<rt>あ</rt></ruby>います。",
+    "choices": [
+      "三日",
+      "五日",
+      "四日",
+      "二日"
+    ],
+    "choices_ruby": [
+      "三日",
+      "五日",
+      "四日",
+      "二日"
+    ],
+    "answer": 3,
+    "correct_text": "二日",
+    "meaning_en": "the 2nd; two days",
+    "explanation": "「二日」は「ふつか」。日付の読み方は特別です。「三日」は「みっか」です。",
+    "target_word_reading": "ふつか",
+    "correct_text_reading": "ふつか",
+    "correct_text_ruby": "二日"
+  },
+  {
+    "id": 131,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ようか",
+    "question": "来月の ようかは 母の 誕生日です。",
+    "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>の <u>ようか</u>は <ruby>母<rt>はは</rt></ruby>の <ruby>誕生日<rt>たんじょうび</rt></ruby>です。",
+    "choices": [
+      "九日",
+      "八日",
+      "十日",
+      "六日"
+    ],
+    "choices_ruby": [
+      "九日",
+      "八日",
+      "十日",
+      "六日"
+    ],
+    "answer": 1,
+    "correct_text": "八日",
+    "meaning_en": "the 8th; eight days",
+    "explanation": "「八日」は「ようか」。「六日」は「むいか」、「九日」は「ここのか」です。",
+    "target_word_reading": "ようか",
+    "correct_text_reading": "ようか",
+    "correct_text_ruby": "八日"
+  },
+  {
+    "id": 132,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はたち",
+    "question": "はたちに なったら、お酒を 飲んでもいいです。",
+    "question_ruby": "<u>はたち</u>に なったら、お<ruby>酒<rt>さけ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>んでもいいです。",
+    "choices": [
+      "十歳",
+      "二十日",
+      "二十歳",
+      "三十歳"
+    ],
+    "choices_ruby": [
+      "十歳",
+      "二十日",
+      "二十歳",
+      "三十歳"
+    ],
+    "answer": 2,
+    "correct_text": "二十歳",
+    "meaning_en": "twenty years old",
+    "explanation": "「二十歳」は「はたち」。「二十日」は「はつか」（20日）です。",
+    "target_word_reading": "はたち",
+    "correct_text_reading": "はたち",
+    "correct_text_ruby": "二十歳"
+  },
+  {
+    "id": 133,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ついたち",
+    "question": "来月の ついたちに、新しい 仕事が 始まります。",
+    "question_ruby": "<ruby>来月<rt>らいげつ</rt></ruby>の <u>ついたち</u>に、<ruby>新<rt>あたら</rt></ruby>しい <ruby>仕事<rt>しごと</rt></ruby>が <ruby>始<rt>はじ</rt></ruby>まります。",
+    "choices": [
+      "一日",
+      "二日",
+      "十日",
+      "三日"
+    ],
+    "choices_ruby": [
+      "一日",
+      "二日",
+      "十日",
+      "三日"
+    ],
+    "answer": 0,
+    "correct_text": "一日",
+    "meaning_en": "the 1st (of the month)",
+    "explanation": "月の「一日」は「ついたち」と読みます（「いちにち」は「1日間」）。",
+    "target_word_reading": "ついたち",
+    "correct_text_reading": "ついたち",
+    "correct_text_ruby": "一日"
+  },
+  {
+    "id": 134,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ちち",
+    "question": "ちちは 毎朝、新聞を 読みます。",
+    "question_ruby": "<u>ちち</u>は <ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。",
+    "choices": [
+      "欠",
+      "母",
+      "父",
+      "交"
+    ],
+    "choices_ruby": [
+      "欠",
+      "母",
+      "父",
+      "交"
+    ],
+    "answer": 2,
+    "correct_text": "父",
+    "meaning_en": "(my) father",
+    "explanation": "「父」は「ちち」。「母」は「はは」です。",
+    "target_word_reading": "ちち",
+    "correct_text_reading": "ちち",
+    "correct_text_ruby": "父"
+  },
+  {
+    "id": 135,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はは",
+    "question": "ははは 料理が 上手です。",
+    "question_ruby": "<u>はは</u>は <ruby>料理<rt>りょうり</rt></ruby>が <ruby>上手<rt>じょうず</rt></ruby>です。",
+    "choices": [
+      "毎",
+      "姉",
+      "海",
+      "母"
+    ],
+    "choices_ruby": [
+      "毎",
+      "姉",
+      "海",
+      "母"
+    ],
+    "answer": 3,
+    "correct_text": "母",
+    "meaning_en": "(my) mother",
+    "explanation": "「母」は「はは」。形の似た「毎」は「まい」と読みます。",
+    "target_word_reading": "はは",
+    "correct_text_reading": "はは",
+    "correct_text_ruby": "母"
+  },
+  {
+    "id": 136,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あね",
+    "question": "あねは 来年、結婚します。",
+    "question_ruby": "<u>あね</u>は <ruby>来年<rt>らいねん</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>します。",
+    "choices": [
+      "妹",
+      "姉",
+      "兄",
+      "弟"
+    ],
+    "choices_ruby": [
+      "妹",
+      "姉",
+      "兄",
+      "弟"
+    ],
+    "answer": 1,
+    "correct_text": "姉",
+    "meaning_en": "(my) older sister",
+    "explanation": "「姉」は「あね」。「妹」は「いもうと」です。",
+    "target_word_reading": "あね",
+    "correct_text_reading": "あね",
+    "correct_text_ruby": "姉"
+  },
+  {
+    "id": 137,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "いもうと",
+    "question": "いもうとは まだ 小学生です。",
+    "question_ruby": "<u>いもうと</u>は まだ <ruby>小学生<rt>しょうがくせい</rt></ruby>です。",
+    "choices": [
+      "妹",
+      "味",
+      "弟",
+      "姉"
+    ],
+    "choices_ruby": [
+      "妹",
+      "味",
+      "弟",
+      "姉"
+    ],
+    "answer": 0,
+    "correct_text": "妹",
+    "meaning_en": "younger sister",
+    "explanation": "「妹」は「いもうと」。「姉」は「あね」です。",
+    "target_word_reading": "いもうと",
+    "correct_text_reading": "いもうと",
+    "correct_text_ruby": "妹"
+  },
+  {
+    "id": 138,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "かお",
+    "question": "朝、冷たい 水で かおを 洗います。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>冷<rt>つめ</rt></ruby>たい <ruby>水<rt>みず</rt></ruby>で <u>かお</u>を <ruby>洗<rt>あら</rt></ruby>います。",
+    "choices": [
+      "願",
+      "顔",
+      "預",
+      "頭"
+    ],
+    "choices_ruby": [
+      "願",
+      "顔",
+      "預",
+      "頭"
+    ],
+    "answer": 1,
+    "correct_text": "顔",
+    "meaning_en": "face",
+    "explanation": "「顔」は「かお」。「頭」は「あたま」、「願」は「ねがう」の漢字です。",
+    "target_word_reading": "かお",
+    "correct_text_reading": "かお",
+    "correct_text_ruby": "顔"
+  },
+  {
+    "id": 139,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あし",
+    "question": "たくさん 歩いたので、あしが 痛いです。",
+    "question_ruby": "たくさん <ruby>歩<rt>ある</rt></ruby>いたので、<u>あし</u>が <ruby>痛<rt>いた</rt></ruby>いです。",
+    "choices": [
+      "足",
+      "口",
+      "手",
+      "走"
+    ],
+    "choices_ruby": [
+      "足",
+      "口",
+      "手",
+      "走"
+    ],
+    "answer": 0,
+    "correct_text": "足",
+    "meaning_en": "foot; leg",
+    "explanation": "「足」は「あし」。形の似た「走」は「はしる」と読みます。",
+    "target_word_reading": "あし",
+    "correct_text_reading": "あし",
+    "correct_text_ruby": "足"
+  },
+  {
+    "id": 140,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くち",
+    "question": "くちを 大きく 開けてください。",
+    "question_ruby": "<u>くち</u>を <ruby>大<rt>おお</rt></ruby>きく <ruby>開<rt>あ</rt></ruby>けてください。",
+    "choices": [
+      "目",
+      "日",
+      "田",
+      "口"
+    ],
+    "choices_ruby": [
+      "目",
+      "日",
+      "田",
+      "口"
+    ],
+    "answer": 3,
+    "correct_text": "口",
+    "meaning_en": "mouth",
+    "explanation": "「口」は「くち」。四角い形の「日」は「ひ」、「田」は「た」です。",
+    "target_word_reading": "くち",
+    "correct_text_reading": "くち",
+    "correct_text_ruby": "口"
+  },
+  {
+    "id": 141,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "て",
+    "question": "質問が ある 人は、てを あげてください。",
+    "question_ruby": "<ruby>質問<rt>しつもん</rt></ruby>が ある <ruby>人<rt>ひと</rt></ruby>は、<u>て</u>を あげてください。",
+    "choices": [
+      "午",
+      "千",
+      "手",
+      "毛"
+    ],
+    "choices_ruby": [
+      "午",
+      "千",
+      "手",
+      "毛"
+    ],
+    "answer": 2,
+    "correct_text": "手",
+    "meaning_en": "hand",
+    "explanation": "「手」は「て」。形の似た「毛」は「け」と読みます。",
+    "target_word_reading": "て",
+    "correct_text_reading": "て",
+    "correct_text_ruby": "手"
+  },
+  {
+    "id": 142,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "からだ",
+    "question": "からだに いい 野菜を たくさん 食べましょう。",
+    "question_ruby": "<u>からだ</u>に いい <ruby>野菜<rt>やさい</rt></ruby>を たくさん <ruby>食<rt>た</rt></ruby>べましょう。",
+    "choices": [
+      "体",
+      "林",
+      "本",
+      "休"
+    ],
+    "choices_ruby": [
+      "体",
+      "林",
+      "本",
+      "休"
+    ],
+    "answer": 0,
+    "correct_text": "体",
+    "meaning_en": "body",
+    "explanation": "「体」は「からだ」。「休」は「やすむ」、「本」は「ほん」です。",
+    "target_word_reading": "からだ",
+    "correct_text_reading": "からだ",
+    "correct_text_ruby": "体"
+  },
+  {
+    "id": 143,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "こえ",
+    "question": "あの 人は こえが 大きいです。",
+    "question_ruby": "あの <ruby>人<rt>ひと</rt></ruby>は <u>こえ</u>が <ruby>大<rt>おお</rt></ruby>きいです。",
+    "choices": [
+      "吉",
+      "声",
+      "売",
+      "戸"
+    ],
+    "choices_ruby": [
+      "吉",
+      "声",
+      "売",
+      "戸"
+    ],
+    "answer": 1,
     "correct_text": "声",
-    "meaning_en": "",
-    "explanation": "ひらがな「こえ」に該当する正しい漢字は【声】です。",
-    "target_word_reading": "声",
-    "correct_text_reading": "声",
+    "meaning_en": "voice",
+    "explanation": "「声」は「こえ」と読みます。",
+    "target_word_reading": "こえ",
+    "correct_text_reading": "こえ",
     "correct_text_ruby": "声"
   },
   {
-    "id": 366,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "荷物",
-    "question": "（　　）は結婚した。",
-    "question_ruby": "（　　）は<ruby>結婚<rt>けっこん</rt></ruby>した。",
+    "id": 144,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ひと",
+    "question": "あの ひとは だれですか。",
+    "question_ruby": "あの <u>ひと</u>は だれですか。",
     "choices": [
-      "二人",
-      "荷物",
-      "名前",
-      "乗る"
+      "八",
+      "入",
+      "大",
+      "人"
     ],
     "choices_ruby": [
-      "<ruby>二人<rt>ふたり</rt></ruby>",
-      "<ruby>荷物<rt>にもつ</rt></ruby>",
-      "<ruby>名前<rt>なまえ</rt></ruby>",
-      "<ruby>乗<rt>の</rt></ruby>る"
-    ],
-    "answer": 1,
-    "correct_text": "荷物",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【二人】（ふたり：）です。",
-    "target_word_reading": "荷物",
-    "correct_text_reading": "荷物",
-    "correct_text_ruby": "<ruby>荷物<rt>にもつ</rt></ruby>"
-  },
-  {
-    "id": 367,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "そうしする",
-    "question": "大<u>掃除</u>の時間よ。",
-    "question_ruby": "<ruby>大<rt>だい</rt></ruby><u>掃除</u>の<ruby>時間<rt>じかん</rt></ruby>よ。",
-    "choices": [
-      "そうじする",
-      "ぞうじする",
-      "そうしする",
-      "そうじずる"
-    ],
-    "choices_ruby": [
-      "そうじする",
-      "ぞうじする",
-      "そうしする",
-      "そうじずる"
-    ],
-    "answer": 2,
-    "correct_text": "そうしする",
-    "meaning_en": "",
-    "explanation": "「掃除」の正しい読み方は【そうじする】です。（意味：）",
-    "target_word_reading": "そうしする",
-    "correct_text_reading": "そうしする",
-    "correct_text_ruby": "そうしする"
-  },
-  {
-    "id": 368,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "荷物",
-    "question": "<u>ひとつ</u>選んで。",
-    "question_ruby": "<u>ひとつ</u><ruby>選<rt>えら</rt></ruby>んで。",
-    "choices": [
-      "お酒",
-      "一つ",
-      "乗る",
-      "荷物"
-    ],
-    "choices_ruby": [
-      "お酒",
-      "一つ",
-      "乗る",
-      "荷物"
+      "八",
+      "入",
+      "大",
+      "人"
     ],
     "answer": 3,
-    "correct_text": "荷物",
-    "meaning_en": "",
-    "explanation": "ひらがな「ひとつ」に該当する正しい漢字は【一つ】です。",
-    "target_word_reading": "荷物",
-    "correct_text_reading": "荷物",
-    "correct_text_ruby": "荷物"
+    "correct_text": "人",
+    "meaning_en": "person",
+    "explanation": "「人」は「ひと」。形の似た「入」は「いる・はいる」です。",
+    "target_word_reading": "ひと",
+    "correct_text_reading": "ひと",
+    "correct_text_ruby": "人"
   },
   {
-    "id": 369,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "語彙・文脈規定",
-    "target_word": "魚",
-    "question": "（　　）を食べる。",
-    "question_ruby": "（　　）を<ruby>食<rt>た</rt></ruby>べる。",
+    "id": 145,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ちかく",
+    "question": "駅の ちかくに 郵便局が あります。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の <u>ちかく</u>に <ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>が あります。",
     "choices": [
+      "迎く",
+      "遠く",
+      "近く",
+      "速く"
+    ],
+    "choices_ruby": [
+      "迎く",
+      "遠く",
+      "近く",
+      "速く"
+    ],
+    "answer": 2,
+    "correct_text": "近く",
+    "meaning_en": "nearby",
+    "explanation": "「近く」は「ちかく」。「遠く」は反対の意味で「とおく」です。",
+    "target_word_reading": "ちかく",
+    "correct_text_reading": "ちかく",
+    "correct_text_ruby": "近く"
+  },
+  {
+    "id": 146,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "みち",
+    "question": "この みちを まっすぐ 行ってください。",
+    "question_ruby": "この <u>みち</u>を まっすぐ <ruby>行<rt>い</rt></ruby>ってください。",
+    "choices": [
+      "追",
+      "近",
+      "通",
+      "道"
+    ],
+    "choices_ruby": [
+      "追",
+      "近",
+      "通",
+      "道"
+    ],
+    "answer": 3,
+    "correct_text": "道",
+    "meaning_en": "road; way",
+    "explanation": "「道」は「みち」。形の似た「通」は「とおる」「つう」と読みます。",
+    "target_word_reading": "みち",
+    "correct_text_reading": "みち",
+    "correct_text_ruby": "道"
+  },
+  {
+    "id": 147,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "みせ",
+    "question": "駅の 前に 新しい みせが できました。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>に <ruby>新<rt>あたら</rt></ruby>しい <u>みせ</u>が できました。",
+    "choices": [
+      "庭",
+      "店",
+      "度",
+      "広"
+    ],
+    "choices_ruby": [
+      "庭",
+      "店",
+      "度",
+      "広"
+    ],
+    "answer": 1,
+    "correct_text": "店",
+    "meaning_en": "shop; store",
+    "explanation": "「店」は「みせ」。形の似た「庭」は「にわ」と読みます。",
+    "target_word_reading": "みせ",
+    "correct_text_reading": "みせ",
+    "correct_text_ruby": "店"
+  },
+  {
+    "id": 148,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "そら",
+    "question": "今日は そらが とても 青いです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は <u>そら</u>が とても <ruby>青<rt>あお</rt></ruby>いです。",
+    "choices": [
+      "空",
+      "室",
+      "穴",
+      "窓"
+    ],
+    "choices_ruby": [
+      "空",
+      "室",
+      "穴",
+      "窓"
+    ],
+    "answer": 0,
+    "correct_text": "空",
+    "meaning_en": "sky",
+    "explanation": "「空」は「そら」。「窓」は「まど」、「室」は「しつ」です。",
+    "target_word_reading": "そら",
+    "correct_text_reading": "そら",
+    "correct_text_ruby": "空"
+  },
+  {
+    "id": 149,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "いけ",
+    "question": "公園の いけに 魚が います。",
+    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>の <u>いけ</u>に <ruby>魚<rt>さかな</rt></ruby>が います。",
+    "choices": [
+      "他",
+      "油",
+      "池",
+      "地"
+    ],
+    "choices_ruby": [
+      "他",
+      "油",
+      "池",
+      "地"
+    ],
+    "answer": 2,
+    "correct_text": "池",
+    "meaning_en": "pond",
+    "explanation": "「池」は「いけ」。「地」は「ち」、「他」は「ほか」と読みます。",
+    "target_word_reading": "いけ",
+    "correct_text_reading": "いけ",
+    "correct_text_ruby": "池"
+  },
+  {
+    "id": 150,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くすり",
+    "question": "朝と 夜に この くすりを 飲んでください。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>と <ruby>夜<rt>よる</rt></ruby>に この <u>くすり</u>を <ruby>飲<rt>の</rt></ruby>んでください。",
+    "choices": [
+      "楽",
+      "葉",
+      "薬",
+      "乗"
+    ],
+    "choices_ruby": [
+      "楽",
+      "葉",
+      "薬",
+      "乗"
+    ],
+    "answer": 2,
+    "correct_text": "薬",
+    "meaning_en": "medicine",
+    "explanation": "「薬」は「くすり」。形の似た「楽」は「たのしい」「らく」と読みます。",
+    "target_word_reading": "くすり",
+    "correct_text_reading": "くすり",
+    "correct_text_ruby": "薬"
+  },
+  {
+    "id": 151,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "でんしゃ",
+    "question": "毎朝、でんしゃで 会社へ 行きます。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<u>でんしゃ</u>で <ruby>会社<rt>かいしゃ</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "電話",
+      "電気",
+      "汽車",
+      "電車"
+    ],
+    "choices_ruby": [
+      "電話",
+      "電気",
+      "汽車",
+      "電車"
+    ],
+    "answer": 3,
+    "correct_text": "電車",
+    "meaning_en": "train",
+    "explanation": "「電車」は「でんしゃ」。「電話」は「でんわ」、「電気」は「でんき」です。",
+    "target_word_reading": "でんしゃ",
+    "correct_text_reading": "でんしゃ",
+    "correct_text_ruby": "電車"
+  },
+  {
+    "id": 152,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くるま",
+    "question": "父は くるまで 会社へ 行きます。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は <u>くるま</u>で <ruby>会社<rt>かいしゃ</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "事",
+      "車",
+      "東",
+      "重"
+    ],
+    "choices_ruby": [
+      "事",
+      "車",
+      "東",
+      "重"
+    ],
+    "answer": 1,
+    "correct_text": "車",
+    "meaning_en": "car",
+    "explanation": "「車」は「くるま」。形の似た「東」は「ひがし」と読みます。",
+    "target_word_reading": "くるま",
+    "correct_text_reading": "くるま",
+    "correct_text_ruby": "車"
+  },
+  {
+    "id": 153,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "でんき",
+    "question": "暗いので、でんきを つけましょう。",
+    "question_ruby": "<ruby>暗<rt>くら</rt></ruby>いので、<u>でんき</u>を つけましょう。",
+    "choices": [
+      "電気",
+      "電車",
+      "元気",
+      "天気"
+    ],
+    "choices_ruby": [
+      "電気",
+      "電車",
+      "元気",
+      "天気"
+    ],
+    "answer": 0,
+    "correct_text": "電気",
+    "meaning_en": "electricity; electric light",
+    "explanation": "「電気」は「でんき」。「天気」は「てんき」、「元気」は「げんき」です。",
+    "target_word_reading": "でんき",
+    "correct_text_reading": "でんき",
+    "correct_text_ruby": "電気"
+  },
+  {
+    "id": 154,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ほん",
+    "question": "図書館で ほんを 借りました。",
+    "question_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>で <u>ほん</u>を <ruby>借<rt>か</rt></ruby>りました。",
+    "choices": [
+      "本",
+      "末",
+      "木",
+      "体"
+    ],
+    "choices_ruby": [
+      "本",
+      "末",
+      "木",
+      "体"
+    ],
+    "answer": 0,
+    "correct_text": "本",
+    "meaning_en": "book",
+    "explanation": "「本」は「ほん」。「木」に一本線を足した形で、「木」は「き」です。",
+    "target_word_reading": "ほん",
+    "correct_text_reading": "ほん",
+    "correct_text_ruby": "本"
+  },
+  {
+    "id": 155,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "つくえ",
+    "question": "つくえの 上に 辞書が あります。",
+    "question_ruby": "<u>つくえ</u>の <ruby>上<rt>うえ</rt></ruby>に <ruby>辞書<rt>じしょ</rt></ruby>が あります。",
+    "choices": [
+      "札",
+      "林",
+      "板",
+      "机"
+    ],
+    "choices_ruby": [
+      "札",
+      "林",
+      "板",
+      "机"
+    ],
+    "answer": 3,
+    "correct_text": "机",
+    "meaning_en": "desk",
+    "explanation": "「机」は「つくえ」。木へんの漢字なので、形の似た字に注意します。",
+    "target_word_reading": "つくえ",
+    "correct_text_reading": "つくえ",
+    "correct_text_ruby": "机"
+  },
+  {
+    "id": 156,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "まど",
+    "question": "寒いので、まどを 閉めます。",
+    "question_ruby": "<ruby>寒<rt>さむ</rt></ruby>いので、<u>まど</u>を <ruby>閉<rt>し</rt></ruby>めます。",
+    "choices": [
+      "空",
+      "室",
+      "窓",
+      "穴"
+    ],
+    "choices_ruby": [
+      "空",
+      "室",
+      "窓",
+      "穴"
+    ],
+    "answer": 2,
+    "correct_text": "窓",
+    "meaning_en": "window",
+    "explanation": "「窓」は「まど」。「空」は「そら」と読みます。",
+    "target_word_reading": "まど",
+    "correct_text_reading": "まど",
+    "correct_text_ruby": "窓"
+  },
+  {
+    "id": 157,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くつ",
+    "question": "新しい くつを 買いました。",
+    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい <u>くつ</u>を <ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "化",
+      "靴",
+      "鞄",
+      "革"
+    ],
+    "choices_ruby": [
+      "化",
+      "靴",
+      "鞄",
+      "革"
+    ],
+    "answer": 1,
+    "correct_text": "靴",
+    "meaning_en": "shoes",
+    "explanation": "「靴」は「くつ」。「鞄」は「かばん」です。",
+    "target_word_reading": "くつ",
+    "correct_text_reading": "くつ",
+    "correct_text_ruby": "靴"
+  },
+  {
+    "id": 158,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ふく",
+    "question": "この ふくは 少し 小さいです。",
+    "question_ruby": "この <u>ふく</u>は <ruby>少<rt>すこ</rt></ruby>し <ruby>小<rt>ちい</rt></ruby>さいです。",
+    "choices": [
+      "服",
+      "脈",
+      "報",
+      "肌"
+    ],
+    "choices_ruby": [
+      "服",
+      "脈",
+      "報",
+      "肌"
+    ],
+    "answer": 0,
+    "correct_text": "服",
+    "meaning_en": "clothes",
+    "explanation": "「服」は「ふく」。形の似た「報」は「ほう」と読みます。",
+    "target_word_reading": "ふく",
+    "correct_text_reading": "ふく",
+    "correct_text_ruby": "服"
+  },
+  {
+    "id": 159,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "がっこう",
+    "question": "子供は がっこうで 友達と 遊びます。",
+    "question_ruby": "<ruby>子供<rt>こども</rt></ruby>は <u>がっこう</u>で <ruby>友達<rt>ともだち</rt></ruby>と <ruby>遊<rt>あそ</rt></ruby>びます。",
+    "choices": [
+      "学枝",
+      "学交",
+      "字校",
+      "学校"
+    ],
+    "choices_ruby": [
+      "学枝",
+      "学交",
+      "字校",
+      "学校"
+    ],
+    "answer": 3,
+    "correct_text": "学校",
+    "meaning_en": "school",
+    "explanation": "「学校」は「がっこう」。「校」は木へんです。「交」とは違います。",
+    "target_word_reading": "がっこう",
+    "correct_text_reading": "がっこう",
+    "correct_text_ruby": "学校"
+  },
+  {
+    "id": 160,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "だいがく",
+    "question": "姉は だいがくの 先生です。",
+    "question_ruby": "<ruby>姉<rt>あね</rt></ruby>は <u>だいがく</u>の <ruby>先生<rt>せんせい</rt></ruby>です。",
+    "choices": [
+      "犬学",
+      "大字",
+      "大学",
+      "太学"
+    ],
+    "choices_ruby": [
+      "犬学",
+      "大字",
+      "大学",
+      "太学"
+    ],
+    "answer": 2,
+    "correct_text": "大学",
+    "meaning_en": "university",
+    "explanation": "「大学」は「だいがく」。「大」に点がつくと「太」「犬」になります。",
+    "target_word_reading": "だいがく",
+    "correct_text_reading": "だいがく",
+    "correct_text_ruby": "大学"
+  },
+  {
+    "id": 161,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "さかな",
+    "question": "スーパーで さかなを 買いました。",
+    "question_ruby": "スーパーで <u>さかな</u>を <ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "色",
       "魚",
-      "冷蔵庫",
-      "飛行機",
+      "角",
+      "鳥"
+    ],
+    "choices_ruby": [
+      "色",
+      "魚",
+      "角",
+      "鳥"
+    ],
+    "answer": 1,
+    "correct_text": "魚",
+    "meaning_en": "fish",
+    "explanation": "「魚」は「さかな」。「鳥」は「とり」です。",
+    "target_word_reading": "さかな",
+    "correct_text_reading": "さかな",
+    "correct_text_ruby": "魚"
+  },
+  {
+    "id": 162,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "にく",
+    "question": "私は にくより 野菜が 好きです。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は <u>にく</u>より <ruby>野菜<rt>やさい</rt></ruby>が <ruby>好<rt>す</rt></ruby>きです。",
+    "choices": [
+      "全",
+      "肉",
+      "向",
+      "内"
+    ],
+    "choices_ruby": [
+      "全",
+      "肉",
+      "向",
+      "内"
+    ],
+    "answer": 1,
+    "correct_text": "肉",
+    "meaning_en": "meat",
+    "explanation": "「肉」は「にく」。形の似た「内」は「うち」「ない」と読みます。",
+    "target_word_reading": "にく",
+    "correct_text_reading": "にく",
+    "correct_text_ruby": "肉"
+  },
+  {
+    "id": 163,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "みず",
+    "question": "冷たい みずを 一杯 ください。",
+    "question_ruby": "<ruby>冷<rt>つめ</rt></ruby>たい <u>みず</u>を <ruby>一杯<rt>いっぱい</rt></ruby> ください。",
+    "choices": [
+      "木",
+      "氷",
+      "水",
+      "永"
+    ],
+    "choices_ruby": [
+      "木",
+      "氷",
+      "水",
+      "永"
+    ],
+    "answer": 2,
+    "correct_text": "水",
+    "meaning_en": "water",
+    "explanation": "「水」は「みず」。「氷」は「こおり」です。",
+    "target_word_reading": "みず",
+    "correct_text_reading": "みず",
+    "correct_text_ruby": "水"
+  },
+  {
+    "id": 164,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "たべもの",
+    "question": "好きな たべものは 何ですか。",
+    "question_ruby": "<ruby>好<rt>す</rt></ruby>きな <u>たべもの</u>は <ruby>何<rt>なん</rt></ruby>ですか。",
+    "choices": [
+      "食べ物",
+      "乗り物",
+      "飲み物",
+      "買い物"
+    ],
+    "choices_ruby": [
+      "食べ物",
+      "乗り物",
+      "飲み物",
+      "買い物"
+    ],
+    "answer": 0,
+    "correct_text": "食べ物",
+    "meaning_en": "food",
+    "explanation": "「食べ物」は「たべもの」。「飲み物」は「のみもの」です。",
+    "target_word_reading": "たべもの",
+    "correct_text_reading": "たべもの",
+    "correct_text_ruby": "食べ物"
+  },
+  {
+    "id": 165,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "のみもの",
+    "question": "冷蔵庫に のみものが 入っています。",
+    "question_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に <u>のみもの</u>が <ruby>入<rt>はい</rt></ruby>っています。",
+    "choices": [
+      "食べ物",
+      "買い物",
+      "乗り物",
+      "飲み物"
+    ],
+    "choices_ruby": [
+      "食べ物",
+      "買い物",
+      "乗り物",
+      "飲み物"
+    ],
+    "answer": 3,
+    "correct_text": "飲み物",
+    "meaning_en": "drink; beverage",
+    "explanation": "「飲み物」は「のみもの」。「食べ物」は「たべもの」です。",
+    "target_word_reading": "のみもの",
+    "correct_text_reading": "のみもの",
+    "correct_text_ruby": "飲み物"
+  },
+  {
+    "id": 166,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "かいもの",
+    "question": "日曜日に 母と かいものに 行きます。",
+    "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>に <ruby>母<rt>はは</rt></ruby>と <u>かいもの</u>に <ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "買い物",
+      "飲み物",
+      "乗り物",
+      "売り物"
+    ],
+    "choices_ruby": [
+      "買い物",
+      "飲み物",
+      "乗り物",
+      "売り物"
+    ],
+    "answer": 0,
+    "correct_text": "買い物",
+    "meaning_en": "shopping",
+    "explanation": "「買い物」は「かいもの」。「買う」の「買」を使います。",
+    "target_word_reading": "かいもの",
+    "correct_text_reading": "かいもの",
+    "correct_text_ruby": "買い物"
+  },
+  {
+    "id": 167,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "てがみ",
+    "question": "友達に てがみを 書きました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に <u>てがみ</u>を <ruby>書<rt>か</rt></ruby>きました。",
+    "choices": [
+      "手本",
+      "切手",
+      "手紙",
+      "手帳"
+    ],
+    "choices_ruby": [
+      "手本",
+      "切手",
+      "手紙",
+      "手帳"
+    ],
+    "answer": 2,
+    "correct_text": "手紙",
+    "meaning_en": "letter",
+    "explanation": "「手紙」は「てがみ」。「手帳」は「てちょう」、「切手」は「きって」です。",
+    "target_word_reading": "てがみ",
+    "correct_text_reading": "てがみ",
+    "correct_text_ruby": "手紙"
+  },
+  {
+    "id": 168,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "なまえ",
+    "question": "ここに なまえを 書いてください。",
+    "question_ruby": "ここに <u>なまえ</u>を <ruby>書<rt>か</rt></ruby>いてください。",
+    "choices": [
+      "各前",
+      "名字",
+      "名刺",
       "名前"
     ],
     "choices_ruby": [
-      "<ruby>魚<rt>さかな</rt></ruby>",
-      "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>",
-      "<ruby>飛行機<rt>ひこうき</rt></ruby>",
-      "<ruby>名前<rt>なまえ</rt></ruby>"
+      "各前",
+      "名字",
+      "名刺",
+      "名前"
+    ],
+    "answer": 3,
+    "correct_text": "名前",
+    "meaning_en": "name",
+    "explanation": "「名前」は「なまえ」。「名字」は「みょうじ」（姓）です。",
+    "target_word_reading": "なまえ",
+    "correct_text_reading": "なまえ",
+    "correct_text_ruby": "名前"
+  },
+  {
+    "id": 169,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "じかん",
+    "question": "出かける じかんですよ。",
+    "question_ruby": "<ruby>出<rt>で</rt></ruby>かける <u>じかん</u>ですよ。",
+    "choices": [
+      "時期",
+      "時間",
+      "時計",
+      "週間"
+    ],
+    "choices_ruby": [
+      "時期",
+      "時間",
+      "時計",
+      "週間"
+    ],
+    "answer": 1,
+    "correct_text": "時間",
+    "meaning_en": "time",
+    "explanation": "「時間」は「じかん」。「時計」は「とけい」です。",
+    "target_word_reading": "じかん",
+    "correct_text_reading": "じかん",
+    "correct_text_ruby": "時間"
+  },
+  {
+    "id": 170,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "しんぶん",
+    "question": "父は 毎朝、しんぶんを 読みます。",
+    "question_ruby": "<ruby>父<rt>ちち</rt></ruby>は <ruby>毎朝<rt>まいあさ</rt></ruby>、<u>しんぶん</u>を <ruby>読<rt>よ</rt></ruby>みます。",
+    "choices": [
+      "新問",
+      "親聞",
+      "新間",
+      "新聞"
+    ],
+    "choices_ruby": [
+      "新問",
+      "親聞",
+      "新間",
+      "新聞"
+    ],
+    "answer": 3,
+    "correct_text": "新聞",
+    "meaning_en": "newspaper",
+    "explanation": "「新聞」は「しんぶん」。「聞」は門がまえの中に耳があります。",
+    "target_word_reading": "しんぶん",
+    "correct_text_reading": "しんぶん",
+    "correct_text_ruby": "新聞"
+  },
+  {
+    "id": 171,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ちず",
+    "question": "ちずを 見ながら、駅まで 歩きました。",
+    "question_ruby": "<u>ちず</u>を <ruby>見<rt>み</rt></ruby>ながら、<ruby>駅<rt>えき</rt></ruby>まで <ruby>歩<rt>ある</rt></ruby>きました。",
+    "choices": [
+      "地図",
+      "他図",
+      "地回",
+      "池図"
+    ],
+    "choices_ruby": [
+      "地図",
+      "他図",
+      "地回",
+      "池図"
     ],
     "answer": 0,
-    "correct_text": "魚",
-    "meaning_en": "",
-    "explanation": "文脈から最も自然で適切な語は【魚】（さかな：）です。",
-    "target_word_reading": "魚",
-    "correct_text_reading": "魚",
-    "correct_text_ruby": "<ruby>魚<rt>さかな</rt></ruby>"
+    "correct_text": "地図",
+    "meaning_en": "map",
+    "explanation": "「地図」は「ちず」。「地」はつちへんです。「池」「他」と間違えないようにします。",
+    "target_word_reading": "ちず",
+    "correct_text_reading": "ちず",
+    "correct_text_ruby": "地図"
+  },
+  {
+    "id": 172,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "じゅうしょ",
+    "question": "ここに じゅうしょを 書いてください。",
+    "question_ruby": "ここに <u>じゅうしょ</u>を <ruby>書<rt>か</rt></ruby>いてください。",
+    "choices": [
+      "注所",
+      "柱所",
+      "住所",
+      "往所"
+    ],
+    "choices_ruby": [
+      "注所",
+      "柱所",
+      "住所",
+      "往所"
+    ],
+    "answer": 2,
+    "correct_text": "住所",
+    "meaning_en": "address",
+    "explanation": "「住所」は「じゅうしょ」。「住」はにんべんに「主」です。",
+    "target_word_reading": "じゅうしょ",
+    "correct_text_reading": "じゅうしょ",
+    "correct_text_ruby": "住所"
+  },
+  {
+    "id": 173,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ほんや",
+    "question": "駅の 前の ほんやで 辞書を 買いました。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>の <u>ほんや</u>で <ruby>辞書<rt>じしょ</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "本室",
+      "本屋",
+      "木屋",
+      "体屋"
+    ],
+    "choices_ruby": [
+      "本室",
+      "本屋",
+      "木屋",
+      "体屋"
+    ],
+    "answer": 1,
+    "correct_text": "本屋",
+    "meaning_en": "bookstore",
+    "explanation": "「本屋」は「ほんや」。「本」は「木」に一本線を足した形です。",
+    "target_word_reading": "ほんや",
+    "correct_text_reading": "ほんや",
+    "correct_text_ruby": "本屋"
+  },
+  {
+    "id": 174,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "にわ",
+    "question": "にわに 花が 咲いています。",
+    "question_ruby": "<u>にわ</u>に <ruby>花<rt>はな</rt></ruby>が <ruby>咲<rt>さ</rt></ruby>いています。",
+    "choices": [
+      "席",
+      "度",
+      "座",
+      "庭"
+    ],
+    "choices_ruby": [
+      "席",
+      "度",
+      "座",
+      "庭"
+    ],
+    "answer": 3,
+    "correct_text": "庭",
+    "meaning_en": "garden; yard",
+    "explanation": "「庭」は「にわ」。まだれの漢字で、形の似た「度」「座」と間違えやすいです。",
+    "target_word_reading": "にわ",
+    "correct_text_reading": "にわ",
+    "correct_text_ruby": "庭"
+  },
+  {
+    "id": 175,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "でぐち",
+    "question": "でぐちは あちらです。",
+    "question_ruby": "<u>でぐち</u>は あちらです。",
+    "choices": [
+      "出田",
+      "山口",
+      "出口",
+      "入口"
+    ],
+    "choices_ruby": [
+      "出田",
+      "山口",
+      "出口",
+      "入口"
+    ],
+    "answer": 2,
+    "correct_text": "出口",
+    "meaning_en": "exit",
+    "explanation": "「出口」は「でぐち」。「入口」は「いりぐち」で反対の意味です。",
+    "target_word_reading": "でぐち",
+    "correct_text_reading": "でぐち",
+    "correct_text_ruby": "出口"
+  },
+  {
+    "id": 176,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "もの",
+    "question": "デパートで いろいろな ものを 買いました。",
+    "question_ruby": "デパートで いろいろな <u>もの</u>を <ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "牧",
+      "物",
+      "勿",
+      "特"
+    ],
+    "choices_ruby": [
+      "牧",
+      "物",
+      "勿",
+      "特"
+    ],
+    "answer": 1,
+    "correct_text": "物",
+    "meaning_en": "thing; goods",
+    "explanation": "「物」は「もの」。うしへんの漢字です。形の似た「牧」「特」と区別します。",
+    "target_word_reading": "もの",
+    "correct_text_reading": "もの",
+    "correct_text_ruby": "物"
+  },
+  {
+    "id": 177,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ごご",
+    "question": "ごごは 授業が ありません。",
+    "question_ruby": "<u>ごご</u>は <ruby>授業<rt>じゅぎょう</rt></ruby>が ありません。",
+    "choices": [
+      "午後",
+      "千後",
+      "牛後",
+      "午前"
+    ],
+    "choices_ruby": [
+      "午後",
+      "千後",
+      "牛後",
+      "午前"
+    ],
+    "answer": 0,
+    "correct_text": "午後",
+    "meaning_en": "afternoon; P.M.",
+    "explanation": "「午後」は「ごご」。「午前」は「ごぜん」です。「午」は「牛」と形が似ています。",
+    "target_word_reading": "ごご",
+    "correct_text_reading": "ごご",
+    "correct_text_ruby": "午後"
+  },
+  {
+    "id": 178,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "なか",
+    "question": "かばんの なかに 財布が 入っています。",
+    "question_ruby": "かばんの <u>なか</u>に <ruby>財布<rt>さいふ</rt></ruby>が <ruby>入<rt>はい</rt></ruby>っています。",
+    "choices": [
+      "中",
+      "甲",
+      "申",
+      "由"
+    ],
+    "choices_ruby": [
+      "中",
+      "甲",
+      "申",
+      "由"
+    ],
+    "answer": 0,
+    "correct_text": "中",
+    "meaning_en": "inside",
+    "explanation": "「中」は「なか」。縦の線が上下に突き出ない字（「申」「由」「甲」）と間違えないようにします。",
+    "target_word_reading": "なか",
+    "correct_text_reading": "なか",
+    "correct_text_ruby": "中"
+  },
+  {
+    "id": 179,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "うえ",
+    "question": "いすの うえに 帽子が あります。",
+    "question_ruby": "いすの <u>うえ</u>に <ruby>帽子<rt>ぼうし</rt></ruby>が あります。",
+    "choices": [
+      "土",
+      "止",
+      "下",
+      "上"
+    ],
+    "choices_ruby": [
+      "土",
+      "止",
+      "下",
+      "上"
+    ],
+    "answer": 3,
+    "correct_text": "上",
+    "meaning_en": "on; above",
+    "explanation": "「上」は「うえ」。「下」は反対の「した」です。",
+    "target_word_reading": "うえ",
+    "correct_text_reading": "うえ",
+    "correct_text_ruby": "上"
+  },
+  {
+    "id": 180,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "かえります",
+    "question": "六時に 家へ かえります。",
+    "question_ruby": "<ruby>六時<rt>ろくじ</rt></ruby>に <ruby>家<rt>いえ</rt></ruby>へ <u>かえります</u>。",
+    "choices": [
+      "返ります",
+      "買います",
+      "帰ります",
+      "変わります"
+    ],
+    "choices_ruby": [
+      "返ります",
+      "買います",
+      "帰ります",
+      "変わります"
+    ],
+    "answer": 2,
+    "correct_text": "帰ります",
+    "meaning_en": "to return home; to go home",
+    "explanation": "「帰る」は自分が家などへ戻ること。「返る」は物が元の所へ戻ることで、「家へ」とは合いません。",
+    "target_word_reading": "かえります",
+    "correct_text_reading": "かえります",
+    "correct_text_ruby": "帰ります"
+  },
+  {
+    "id": 181,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はしります",
+    "question": "毎朝、公園を はしります。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>公園<rt>こうえん</rt></ruby>を <u>はしります</u>。",
+    "choices": [
+      "起ります",
+      "走ります",
+      "超ります",
+      "足ります"
+    ],
+    "choices_ruby": [
+      "起ります",
+      "走ります",
+      "超ります",
+      "足ります"
+    ],
+    "answer": 1,
+    "correct_text": "走ります",
+    "meaning_en": "to run",
+    "explanation": "「走る」は「はしる」。形の似た「足」は「あし」「たりる」と読みます。",
+    "target_word_reading": "はしります",
+    "correct_text_reading": "はしります",
+    "correct_text_ruby": "走ります"
+  },
+  {
+    "id": 182,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はいって",
+    "question": "どうぞ、部屋に はいって ください。",
+    "question_ruby": "どうぞ、<ruby>部屋<rt>へや</rt></ruby>に <u>はいって</u> ください。",
+    "choices": [
+      "来て",
+      "入って",
+      "出て",
+      "行って"
+    ],
+    "choices_ruby": [
+      "来て",
+      "入って",
+      "出て",
+      "行って"
+    ],
+    "answer": 1,
+    "correct_text": "入って",
+    "meaning_en": "come in (te-form of 入る)",
+    "explanation": "「入る」は「はいる」。「出る」は反対の「でる」です。",
+    "target_word_reading": "はいって",
+    "correct_text_reading": "はいって",
+    "correct_text_ruby": "入って"
+  },
+  {
+    "id": 183,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あけます",
+    "question": "暑いので、窓を あけます。",
+    "question_ruby": "<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>窓<rt>まど</rt></ruby>を <u>あけます</u>。",
+    "choices": [
+      "空けます",
+      "間けます",
+      "開けます",
+      "明けます"
+    ],
+    "choices_ruby": [
+      "空けます",
+      "間けます",
+      "開けます",
+      "明けます"
+    ],
+    "answer": 2,
+    "correct_text": "開けます",
+    "meaning_en": "to open",
+    "explanation": "窓やドアを「あける」は「開ける」。「明ける」は夜が明ける、「空ける」は場所や時間をあける意味です。",
+    "target_word_reading": "あけます",
+    "correct_text_reading": "あけます",
+    "correct_text_ruby": "開けます"
+  },
+  {
+    "id": 184,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "かしました",
+    "question": "友達に 辞書を かしました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に <ruby>辞書<rt>じしょ</rt></ruby>を <u>かしました</u>。",
+    "choices": [
+      "貸しました",
+      "買いました",
+      "貨しました",
+      "借りました"
+    ],
+    "choices_ruby": [
+      "貸しました",
+      "買いました",
+      "貨しました",
+      "借りました"
+    ],
+    "answer": 0,
+    "correct_text": "貸しました",
+    "meaning_en": "lent",
+    "explanation": "「貸す」は「かす」。「借りる」は「かりる」で、反対の意味です。",
+    "target_word_reading": "かしました",
+    "correct_text_reading": "かしました",
+    "correct_text_ruby": "貸しました"
+  },
+  {
+    "id": 185,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あそんで",
+    "question": "公園で 子供たちが あそんで います。",
+    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>で <ruby>子供<rt>こども</rt></ruby>たちが <u>あそんで</u> います。",
+    "choices": [
+      "道んで",
+      "逃んで",
+      "速んで",
+      "遊んで"
+    ],
+    "choices_ruby": [
+      "道んで",
+      "逃んで",
+      "速んで",
+      "遊んで"
+    ],
+    "answer": 3,
+    "correct_text": "遊んで",
+    "meaning_en": "playing (te-form of 遊ぶ)",
+    "explanation": "「遊ぶ」は「あそぶ」。しんにょうの形が似た字と区別します。",
+    "target_word_reading": "あそんで",
+    "correct_text_reading": "あそんで",
+    "correct_text_ruby": "遊んで"
+  },
+  {
+    "id": 186,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "まちます",
+    "question": "駅で 友達を まちます。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>で <ruby>友達<rt>ともだち</rt></ruby>を <u>まちます</u>。",
+    "choices": [
+      "待ちます",
+      "持ちます",
+      "時ちます",
+      "特ちます"
+    ],
+    "choices_ruby": [
+      "待ちます",
+      "持ちます",
+      "時ちます",
+      "特ちます"
+    ],
+    "answer": 0,
+    "correct_text": "待ちます",
+    "meaning_en": "to wait",
+    "explanation": "「待つ」は「まつ」。ぎょうにんべんです。てへんの「持つ」（もつ）と間違えやすいです。",
+    "target_word_reading": "まちます",
+    "correct_text_reading": "まちます",
+    "correct_text_ruby": "待ちます"
+  },
+  {
+    "id": 187,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "もって",
+    "question": "重い かばんを もって あげます。",
+    "question_ruby": "<ruby>重<rt>おも</rt></ruby>い かばんを <u>もって</u> あげます。",
+    "choices": [
+      "時って",
+      "待って",
+      "持って",
+      "特って"
+    ],
+    "choices_ruby": [
+      "時って",
+      "待って",
+      "持って",
+      "特って"
+    ],
+    "answer": 2,
+    "correct_text": "持って",
+    "meaning_en": "holding; carrying (te-form of 持つ)",
+    "explanation": "「持つ」は「もつ」。てへんです。ぎょうにんべんの「待つ」（まつ）と区別します。",
+    "target_word_reading": "もって",
+    "correct_text_reading": "もって",
+    "correct_text_ruby": "持って"
+  },
+  {
+    "id": 188,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "しめて",
+    "question": "寒いので、ドアを しめて ください。",
+    "question_ruby": "<ruby>寒<rt>さむ</rt></ruby>いので、ドアを <u>しめて</u> ください。",
+    "choices": [
+      "関めて",
+      "閉めて",
+      "開めて",
+      "間めて"
+    ],
+    "choices_ruby": [
+      "関めて",
+      "閉めて",
+      "開めて",
+      "間めて"
+    ],
+    "answer": 1,
+    "correct_text": "閉めて",
+    "meaning_en": "close (te-form of 閉める)",
+    "explanation": "「閉める」は「しめる」。もんがまえの中が「才」の形です。「開」とは反対の意味です。",
+    "target_word_reading": "しめて",
+    "correct_text_reading": "しめて",
+    "correct_text_ruby": "閉めて"
+  },
+  {
+    "id": 189,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "けして",
+    "question": "出かける 前に、電気を けして ください。",
+    "question_ruby": "<ruby>出<rt>で</rt></ruby>かける <ruby>前<rt>まえ</rt></ruby>に、<ruby>電気<rt>でんき</rt></ruby>を <u>けして</u> ください。",
+    "choices": [
+      "湯して",
+      "清して",
+      "肖して",
+      "消して"
+    ],
+    "choices_ruby": [
+      "湯して",
+      "清して",
+      "肖して",
+      "消して"
+    ],
+    "answer": 3,
+    "correct_text": "消して",
+    "meaning_en": "turn off (te-form of 消す)",
+    "explanation": "「消す」は「けす」。さんずいに「肖」です。",
+    "target_word_reading": "けして",
+    "correct_text_reading": "けして",
+    "correct_text_ruby": "消して"
+  },
+  {
+    "id": 190,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "よびました",
+    "question": "先生が 私の 名前を よびました。",
+    "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>が <ruby>私<rt>わたし</rt></ruby>の <ruby>名前<rt>なまえ</rt></ruby>を <u>よびました</u>。",
+    "choices": [
+      "吹びました",
+      "味びました",
+      "呼びました",
+      "叫びました"
+    ],
+    "choices_ruby": [
+      "吹びました",
+      "味びました",
+      "呼びました",
+      "叫びました"
+    ],
+    "answer": 2,
+    "correct_text": "呼びました",
+    "meaning_en": "called",
+    "explanation": "「呼ぶ」は「よぶ」。くちへんに「乎」です。",
+    "target_word_reading": "よびました",
+    "correct_text_reading": "よびました",
+    "correct_text_ruby": "呼びました"
+  },
+  {
+    "id": 191,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "つくります",
+    "question": "日曜日に、母と ケーキを つくります。",
+    "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>に、<ruby>母<rt>はは</rt></ruby>と ケーキを <u>つくります</u>。",
+    "choices": [
+      "作ります",
+      "昨ります",
+      "住ります",
+      "件ります"
+    ],
+    "choices_ruby": [
+      "作ります",
+      "昨ります",
+      "住ります",
+      "件ります"
+    ],
+    "answer": 0,
+    "correct_text": "作ります",
+    "meaning_en": "to make",
+    "explanation": "「作る」は「つくる」。にんべんに「乍」です。「昨」は「きのう」と読みます。",
+    "target_word_reading": "つくります",
+    "correct_text_reading": "つくります",
+    "correct_text_ruby": "作ります"
+  },
+  {
+    "id": 192,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "おしえます",
+    "question": "先生は 私たちに 英語を おしえます。",
+    "question_ruby": "<ruby>先生<rt>せんせい</rt></ruby>は <ruby>私<rt>わたし</rt></ruby>たちに <ruby>英語<rt>えいご</rt></ruby>を <u>おしえます</u>。",
+    "choices": [
+      "救えます",
+      "教えます",
+      "孝えます",
+      "数えます"
+    ],
+    "choices_ruby": [
+      "救えます",
+      "教えます",
+      "孝えます",
+      "数えます"
+    ],
+    "answer": 1,
+    "correct_text": "教えます",
+    "meaning_en": "to teach",
+    "explanation": "「教える」は「おしえる」。「数える」は「かぞえる」です。形が似ているので注意します。",
+    "target_word_reading": "おしえます",
+    "correct_text_reading": "おしえます",
+    "correct_text_ruby": "教えます"
+  },
+  {
+    "id": 193,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "たって",
+    "question": "電車の 中で ずっと たって いました。",
+    "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の <ruby>中<rt>なか</rt></ruby>で ずっと <u>たって</u> いました。",
+    "choices": [
+      "並って",
+      "泣って",
+      "位って",
+      "立って"
+    ],
+    "choices_ruby": [
+      "並って",
+      "泣って",
+      "位って",
+      "立って"
+    ],
+    "answer": 3,
+    "correct_text": "立って",
+    "meaning_en": "standing (te-form of 立つ)",
+    "explanation": "「立つ」は「たつ」。「並ぶ」は「ならぶ」で、人が列を作るときに使います。",
+    "target_word_reading": "たって",
+    "correct_text_reading": "たって",
+    "correct_text_ruby": "立って"
+  },
+  {
+    "id": 194,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ならんで",
+    "question": "切符を 買うために、駅の 前に ならんで います。",
+    "question_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>を <ruby>買<rt>か</rt></ruby>うために、<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>に <u>ならんで</u> います。",
+    "choices": [
+      "位んで",
+      "並んで",
+      "普んで",
+      "立んで"
+    ],
+    "choices_ruby": [
+      "位んで",
+      "並んで",
+      "普んで",
+      "立んで"
+    ],
+    "answer": 1,
+    "correct_text": "並んで",
+    "meaning_en": "lining up (te-form of 並ぶ)",
+    "explanation": "「並ぶ」は「ならぶ」。「立」を二つ並べたような形です。",
+    "target_word_reading": "ならんで",
+    "correct_text_reading": "ならんで",
+    "correct_text_ruby": "並んで"
+  },
+  {
+    "id": 195,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "とまりました",
+    "question": "バスが 駅の 前で とまりました。",
+    "question_ruby": "バスが <ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>で <u>とまりました</u>。",
+    "choices": [
+      "正まりました",
+      "泊まりました",
+      "止まりました",
+      "歩まりました"
+    ],
+    "choices_ruby": [
+      "正まりました",
+      "泊まりました",
+      "止まりました",
+      "歩まりました"
+    ],
+    "answer": 2,
+    "correct_text": "止まりました",
+    "meaning_en": "stopped",
+    "explanation": "動きが「とまる」は「止まる」。「泊まる」はホテルなどにとまる意味です。",
+    "target_word_reading": "とまりました",
+    "correct_text_reading": "とまりました",
+    "correct_text_ruby": "止まりました"
+  },
+  {
+    "id": 196,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "おわります",
+    "question": "授業は 五時に おわります。",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は <ruby>五時<rt>ごじ</rt></ruby>に <u>おわります</u>。",
+    "choices": [
+      "終わります",
+      "給わります",
+      "絵わります",
+      "経わります"
+    ],
+    "choices_ruby": [
+      "終わります",
+      "給わります",
+      "絵わります",
+      "経わります"
+    ],
+    "answer": 0,
+    "correct_text": "終わります",
+    "meaning_en": "to end; to finish",
+    "explanation": "「終わる」は「おわる」。いとへんに「冬」です。形の似た字に注意します。",
+    "target_word_reading": "おわります",
+    "correct_text_reading": "おわります",
+    "correct_text_ruby": "終わります"
+  },
+  {
+    "id": 197,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はじまります",
+    "question": "映画は 七時に はじまります。",
+    "question_ruby": "<ruby>映画<rt>えいが</rt></ruby>は <ruby>七時<rt>しちじ</rt></ruby>に <u>はじまります</u>。",
+    "choices": [
+      "好まります",
+      "如まります",
+      "姉まります",
+      "始まります"
+    ],
+    "choices_ruby": [
+      "好まります",
+      "如まります",
+      "姉まります",
+      "始まります"
+    ],
+    "answer": 3,
+    "correct_text": "始まります",
+    "meaning_en": "to begin; to start",
+    "explanation": "「始まる」は「はじまる」。おんなへんに「台」です。",
+    "target_word_reading": "はじまります",
+    "correct_text_reading": "はじまります",
+    "correct_text_ruby": "始まります"
+  },
+  {
+    "id": 198,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "さきます",
+    "question": "春に なると、花が さきます。",
+    "question_ruby": "<ruby>春<rt>はる</rt></ruby>に なると、<ruby>花<rt>はな</rt></ruby>が <u>さきます</u>。",
+    "choices": [
+      "笑きます",
+      "昨きます",
+      "咲きます",
+      "吹きます"
+    ],
+    "choices_ruby": [
+      "笑きます",
+      "昨きます",
+      "咲きます",
+      "吹きます"
+    ],
+    "answer": 2,
+    "correct_text": "咲きます",
+    "meaning_en": "to bloom",
+    "explanation": "「咲く」は「さく」。くちへんの漢字です。「笑う」（わらう）と形が似ているので間違えやすいです。",
+    "target_word_reading": "さきます",
+    "correct_text_reading": "さきます",
+    "correct_text_ruby": "咲きます"
+  },
+  {
+    "id": 199,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はれ",
+    "question": "明日は はれでしょう。",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は <u>はれ</u>でしょう。",
+    "choices": [
+      "静れ",
+      "晴れ",
+      "情れ",
+      "清れ"
+    ],
+    "choices_ruby": [
+      "静れ",
+      "晴れ",
+      "情れ",
+      "清れ"
+    ],
+    "answer": 1,
+    "correct_text": "晴れ",
+    "meaning_en": "fine weather; sunny",
+    "explanation": "「晴れ」は「はれ」。ひへんに「青」です。「情」「清」「静」と区別します。",
+    "target_word_reading": "はれ",
+    "correct_text_reading": "はれ",
+    "correct_text_ruby": "晴れ"
+  },
+  {
+    "id": 200,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ふるい",
+    "question": "この 本は とても ふるいです。",
+    "question_ruby": "この <ruby>本<rt>ほん</rt></ruby>は とても <u>ふるい</u>です。",
+    "choices": [
+      "右い",
+      "固い",
+      "苦い",
+      "古い"
+    ],
+    "choices_ruby": [
+      "右い",
+      "固い",
+      "苦い",
+      "古い"
+    ],
+    "answer": 3,
+    "correct_text": "古い",
+    "meaning_en": "old (not new)",
+    "explanation": "「古い」は「ふるい」。「苦い」は「にがい」、「固い」は「かたい」です。",
+    "target_word_reading": "ふるい",
+    "correct_text_reading": "ふるい",
+    "correct_text_ruby": "古い"
+  },
+  {
+    "id": 201,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ながい",
+    "question": "この 川は 日本で いちばん ながいです。",
+    "question_ruby": "この <ruby>川<rt>かわ</rt></ruby>は <ruby>日本<rt>にほん</rt></ruby>で いちばん <u>ながい</u>です。",
+    "choices": [
+      "長い",
+      "良い",
+      "張い",
+      "帳い"
+    ],
+    "choices_ruby": [
+      "長い",
+      "良い",
+      "張い",
+      "帳い"
+    ],
+    "answer": 0,
+    "correct_text": "長い",
+    "meaning_en": "long",
+    "explanation": "「長い」は「ながい」。「良い」は「よい／いい」です。",
+    "target_word_reading": "ながい",
+    "correct_text_reading": "ながい",
+    "correct_text_ruby": "長い"
+  },
+  {
+    "id": 202,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "おもい",
+    "question": "この かばんは とても おもいです。",
+    "question_ruby": "この かばんは とても <u>おもい</u>です。",
+    "choices": [
+      "種い",
+      "重い",
+      "動い",
+      "童い"
+    ],
+    "choices_ruby": [
+      "種い",
+      "重い",
+      "動い",
+      "童い"
+    ],
+    "answer": 1,
+    "correct_text": "重い",
+    "meaning_en": "heavy",
+    "explanation": "「重い」は「おもい」。「動」は「うごく」、「種」は「たね」と読みます。",
+    "target_word_reading": "おもい",
+    "correct_text_reading": "おもい",
+    "correct_text_ruby": "重い"
+  },
+  {
+    "id": 203,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くらい",
+    "question": "部屋が くらいので、電気を つけます。",
+    "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>が <u>くらい</u>ので、<ruby>電気<rt>でんき</rt></ruby>を つけます。",
+    "choices": [
+      "暗い",
+      "音い",
+      "昔い",
+      "暖い"
+    ],
+    "choices_ruby": [
+      "暗い",
+      "音い",
+      "昔い",
+      "暖い"
+    ],
+    "answer": 0,
+    "correct_text": "暗い",
+    "meaning_en": "dark",
+    "explanation": "「暗い」は「くらい」。ひへんに「音」です。「暖」は「あたたかい」と読みます。",
+    "target_word_reading": "くらい",
+    "correct_text_reading": "くらい",
+    "correct_text_ruby": "暗い"
+  },
+  {
+    "id": 204,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "わかい",
+    "question": "あの 先生は まだ わかいです。",
+    "question_ruby": "あの <ruby>先生<rt>せんせい</rt></ruby>は まだ <u>わかい</u>です。",
+    "choices": [
+      "苦い",
+      "者い",
+      "右い",
+      "若い"
+    ],
+    "choices_ruby": [
+      "苦い",
+      "者い",
+      "右い",
+      "若い"
+    ],
+    "answer": 3,
+    "correct_text": "若い",
+    "meaning_en": "young",
+    "explanation": "「若い」は「わかい」。「苦い」は「にがい」と読みます。形が似ています。",
+    "target_word_reading": "わかい",
+    "correct_text_reading": "わかい",
+    "correct_text_ruby": "若い"
+  },
+  {
+    "id": 205,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "つよい",
+    "question": "この 犬は とても つよいです。",
+    "question_ruby": "この <ruby>犬<rt>いぬ</rt></ruby>は とても <u>つよい</u>です。",
+    "choices": [
+      "張い",
+      "弱い",
+      "強い",
+      "引い"
+    ],
+    "choices_ruby": [
+      "張い",
+      "弱い",
+      "強い",
+      "引い"
+    ],
+    "answer": 2,
+    "correct_text": "強い",
+    "meaning_en": "strong",
+    "explanation": "「強い」は「つよい」。「弱い」は反対の「よわい」です。",
+    "target_word_reading": "つよい",
+    "correct_text_reading": "つよい",
+    "correct_text_ruby": "強い"
+  },
+  {
+    "id": 206,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ちいさい",
+    "question": "この 部屋は ちいさいですが、きれいです。",
+    "question_ruby": "この <ruby>部屋<rt>へや</rt></ruby>は <u>ちいさい</u>ですが、きれいです。",
+    "choices": [
+      "大さい",
+      "少さい",
+      "水さい",
+      "小さい"
+    ],
+    "choices_ruby": [
+      "大さい",
+      "少さい",
+      "水さい",
+      "小さい"
+    ],
+    "answer": 3,
+    "correct_text": "小さい",
+    "meaning_en": "small",
+    "explanation": "「小さい」は「ちいさい」。「少ない」（すくない）の「少」と間違えないようにします。",
+    "target_word_reading": "ちいさい",
+    "correct_text_reading": "ちいさい",
+    "correct_text_ruby": "小さい"
+  },
+  {
+    "id": 207,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "おおきい",
+    "question": "駅の 前に おおきい 木が あります。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>に <u>おおきい</u> <ruby>木<rt>き</rt></ruby>が あります。",
+    "choices": [
+      "大きい",
+      "太きい",
+      "犬きい",
+      "天きい"
+    ],
+    "choices_ruby": [
+      "大きい",
+      "太きい",
+      "犬きい",
+      "天きい"
+    ],
+    "answer": 0,
+    "correct_text": "大きい",
+    "meaning_en": "big",
+    "explanation": "「大きい」は「おおきい」。点が付くと「太」「犬」になります。",
+    "target_word_reading": "おおきい",
+    "correct_text_reading": "おおきい",
+    "correct_text_ruby": "大きい"
+  },
+  {
+    "id": 208,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あつい",
+    "question": "今日は 天気が よくて、とても あついです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は <ruby>天気<rt>てんき</rt></ruby>が よくて、とても <u>あつい</u>です。",
+    "choices": [
+      "熱い",
+      "暑い",
+      "厚い",
+      "著い"
+    ],
+    "choices_ruby": [
+      "熱い",
+      "暑い",
+      "厚い",
+      "著い"
+    ],
+    "answer": 1,
+    "correct_text": "暑い",
+    "meaning_en": "hot (weather)",
+    "explanation": "天気や気温が「あつい」は「暑い」。「熱い」は飲み物など、「厚い」は本や板に使います。",
+    "target_word_reading": "あつい",
+    "correct_text_reading": "あつい",
+    "correct_text_ruby": "暑い"
+  },
+  {
+    "id": 209,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "はやい",
+    "question": "朝は 起きるのが はやいです。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>は <ruby>起<rt>お</rt></ruby>きるのが <u>はやい</u>です。",
+    "choices": [
+      "平い",
+      "草い",
+      "早い",
+      "速い"
+    ],
+    "choices_ruby": [
+      "平い",
+      "草い",
+      "早い",
+      "速い"
+    ],
+    "answer": 2,
+    "correct_text": "早い",
+    "meaning_en": "early",
+    "explanation": "時間が「はやい」は「早い」。「速い」は動きの速さに使います。",
+    "target_word_reading": "はやい",
+    "correct_text_reading": "はやい",
+    "correct_text_ruby": "早い"
+  },
+  {
+    "id": 210,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "さむい",
+    "question": "冬の 朝は とても さむいです。",
+    "question_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>の <ruby>朝<rt>あさ</rt></ruby>は とても <u>さむい</u>です。",
+    "choices": [
+      "寒い",
+      "実い",
+      "塞い",
+      "寝い"
+    ],
+    "choices_ruby": [
+      "寒い",
+      "実い",
+      "塞い",
+      "寝い"
+    ],
+    "answer": 0,
+    "correct_text": "寒い",
+    "meaning_en": "cold (weather)",
+    "explanation": "「寒い」は「さむい」。「暑い」（あつい）の反対の意味です。",
+    "target_word_reading": "さむい",
+    "correct_text_reading": "さむい",
+    "correct_text_ruby": "寒い"
+  },
+  {
+    "id": 211,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "たのしい",
+    "question": "旅行は とても たのしいです。",
+    "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>は とても <u>たのしい</u>です。",
+    "choices": [
+      "栄しい",
+      "薬しい",
+      "楽しい",
+      "業しい"
+    ],
+    "choices_ruby": [
+      "栄しい",
+      "薬しい",
+      "楽しい",
+      "業しい"
+    ],
+    "answer": 2,
+    "correct_text": "楽しい",
+    "meaning_en": "fun; enjoyable",
+    "explanation": "「楽しい」は「たのしい」。くさかんむりの付く「薬」（くすり）と区別します。",
+    "target_word_reading": "たのしい",
+    "correct_text_reading": "たのしい",
+    "correct_text_ruby": "楽しい"
+  },
+  {
+    "id": 212,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ひくい",
+    "question": "この いすは ひくいので、使いにくいです。",
+    "question_ruby": "この いすは <u>ひくい</u>ので、<ruby>使<rt>つか</rt></ruby>いにくいです。",
+    "choices": [
+      "底い",
+      "低い",
+      "氏い",
+      "抵い"
+    ],
+    "choices_ruby": [
+      "底い",
+      "低い",
+      "氏い",
+      "抵い"
+    ],
+    "answer": 1,
+    "correct_text": "低い",
+    "meaning_en": "low",
+    "explanation": "「低い」は「ひくい」。「高い」の反対です。「底」は「そこ」と読みます。",
+    "target_word_reading": "ひくい",
+    "correct_text_reading": "ひくい",
+    "correct_text_ruby": "低い"
+  },
+  {
+    "id": 213,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "しろい",
+    "question": "しろい シャツを 買いました。",
+    "question_ruby": "<u>しろい</u> シャツを <ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "自い",
+      "目い",
+      "百い",
+      "白い"
+    ],
+    "choices_ruby": [
+      "自い",
+      "目い",
+      "百い",
+      "白い"
+    ],
+    "answer": 3,
+    "correct_text": "白い",
+    "meaning_en": "white",
+    "explanation": "「白い」は「しろい」。「百」は「ひゃく」、「自」は「じ」と読みます。",
+    "target_word_reading": "しろい",
+    "correct_text_reading": "しろい",
+    "correct_text_ruby": "白い"
+  },
+  {
+    "id": 214,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あおい",
+    "question": "あおい ボールペンを 貸してください。",
+    "question_ruby": "<u>あおい</u> ボールペンを <ruby>貸<rt>か</rt></ruby>してください。",
+    "choices": [
+      "清い",
+      "晴い",
+      "青い",
+      "静い"
+    ],
+    "choices_ruby": [
+      "清い",
+      "晴い",
+      "青い",
+      "静い"
+    ],
+    "answer": 2,
+    "correct_text": "青い",
+    "meaning_en": "blue",
+    "explanation": "「青い」は「あおい」。「清」「晴」「静」は「青」が入った形の似た字です。",
+    "target_word_reading": "あおい",
+    "correct_text_reading": "あおい",
+    "correct_text_ruby": "青い"
+  },
+  {
+    "id": 215,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "きた",
+    "question": "駅の きたに 大きい 公園が あります。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の <u>きた</u>に <ruby>大<rt>おお</rt></ruby>きい <ruby>公園<rt>こうえん</rt></ruby>が あります。",
+    "choices": [
+      "化",
+      "北",
+      "比",
+      "兆"
+    ],
+    "choices_ruby": [
+      "化",
+      "北",
+      "比",
+      "兆"
+    ],
+    "answer": 1,
+    "correct_text": "北",
+    "meaning_en": "north",
+    "explanation": "「北」は「きた」。形の似た「比」は「くらべる」と読みます。",
+    "target_word_reading": "きた",
+    "correct_text_reading": "きた",
+    "correct_text_ruby": "北"
+  },
+  {
+    "id": 216,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ひがし",
+    "question": "太陽は ひがしから のぼります。",
+    "question_ruby": "<ruby>太陽<rt>たいよう</rt></ruby>は <u>ひがし</u>から のぼります。",
+    "choices": [
+      "東",
+      "重",
+      "束",
+      "車"
+    ],
+    "choices_ruby": [
+      "東",
+      "重",
+      "束",
+      "車"
+    ],
+    "answer": 0,
+    "correct_text": "東",
+    "meaning_en": "east",
+    "explanation": "「東」は「ひがし」。「束」は「たば」と読み、形が似ています。",
+    "target_word_reading": "ひがし",
+    "correct_text_reading": "ひがし",
+    "correct_text_ruby": "東"
+  },
+  {
+    "id": 217,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "つき",
+    "question": "今夜は つきが きれいです。",
+    "question_ruby": "<ruby>今夜<rt>こんや</rt></ruby>は <u>つき</u>が きれいです。",
+    "choices": [
+      "用",
+      "目",
+      "日",
+      "月"
+    ],
+    "choices_ruby": [
+      "用",
+      "目",
+      "日",
+      "月"
+    ],
+    "answer": 3,
+    "correct_text": "月",
+    "meaning_en": "moon",
+    "explanation": "「月」は「つき」。「日」は「ひ」、「目」は「め」と読みます。",
+    "target_word_reading": "つき",
+    "correct_text_reading": "つき",
+    "correct_text_ruby": "月"
+  },
+  {
+    "id": 218,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あめ",
+    "question": "昨日は あめでした。",
+    "question_ruby": "<ruby>昨日<rt>きのう</rt></ruby>は <u>あめ</u>でした。",
+    "choices": [
+      "雲",
+      "雨",
+      "両",
+      "雪"
+    ],
+    "choices_ruby": [
+      "雲",
+      "雨",
+      "両",
+      "雪"
+    ],
+    "answer": 1,
+    "correct_text": "雨",
+    "meaning_en": "rain",
+    "explanation": "「雨」は「あめ」。「雪」は「ゆき」、「雲」は「くも」です。",
+    "target_word_reading": "あめ",
+    "correct_text_reading": "あめ",
+    "correct_text_ruby": "雨"
+  },
+  {
+    "id": 219,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "あき",
+    "question": "あきに なると、涼しく なります。",
+    "question_ruby": "<u>あき</u>に なると、<ruby>涼<rt>すず</rt></ruby>しく なります。",
+    "choices": [
+      "私",
+      "科",
+      "秒",
+      "秋"
+    ],
+    "choices_ruby": [
+      "私",
+      "科",
+      "秒",
+      "秋"
+    ],
+    "answer": 3,
+    "correct_text": "秋",
+    "meaning_en": "autumn",
+    "explanation": "「秋」は「あき」。のぎへんに「火」です。",
+    "target_word_reading": "あき",
+    "correct_text_reading": "あき",
+    "correct_text_ruby": "秋"
+  },
+  {
+    "id": 220,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "くに",
+    "question": "あなたの くにの 名前を 教えてください。",
+    "question_ruby": "あなたの <u>くに</u>の <ruby>名前<rt>なまえ</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えてください。",
+    "choices": [
+      "国",
+      "回",
+      "園",
+      "困"
+    ],
+    "choices_ruby": [
+      "国",
+      "回",
+      "園",
+      "困"
+    ],
+    "answer": 0,
+    "correct_text": "国",
+    "meaning_en": "country",
+    "explanation": "「国」は「くに」。くにがまえの中が「玉」です。",
+    "target_word_reading": "くに",
+    "correct_text_reading": "くに",
+    "correct_text_ruby": "国"
+  },
+  {
+    "id": 221,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "みどり",
+    "question": "春に なると、山が みどりに なります。",
+    "question_ruby": "<ruby>春<rt>はる</rt></ruby>に なると、<ruby>山<rt>やま</rt></ruby>が <u>みどり</u>に なります。",
+    "choices": [
+      "縁",
+      "練",
+      "緑",
+      "録"
+    ],
+    "choices_ruby": [
+      "縁",
+      "練",
+      "緑",
+      "録"
+    ],
+    "answer": 2,
+    "correct_text": "緑",
+    "meaning_en": "green",
+    "explanation": "「緑」は「みどり」。いとへんに「录」の形です。「縁」「録」と区別します。",
+    "target_word_reading": "みどり",
+    "correct_text_reading": "みどり",
+    "correct_text_ruby": "緑"
+  },
+  {
+    "id": 222,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ごふん",
+    "question": "駅まで 歩いて ごふんです。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>まで <ruby>歩<rt>ある</rt></ruby>いて <u>ごふん</u>です。",
+    "choices": [
+      "五人",
+      "五日",
+      "五本",
+      "五分"
+    ],
+    "choices_ruby": [
+      "五人",
+      "五日",
+      "五本",
+      "五分"
+    ],
+    "answer": 3,
+    "correct_text": "五分",
+    "meaning_en": "five minutes",
+    "explanation": "「五分」は「ごふん」。時間の「分」は「ふん／ぷん」と読みます。",
+    "target_word_reading": "ごふん",
+    "correct_text_reading": "ごふん",
+    "correct_text_ruby": "五分"
+  },
+  {
+    "id": 223,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "よじ",
+    "question": "会議は よじに 始まります。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>は <u>よじ</u>に <ruby>始<rt>はじ</rt></ruby>まります。",
+    "choices": [
+      "四日",
+      "四分",
+      "四時",
+      "四人"
+    ],
+    "choices_ruby": [
+      "四日",
+      "四分",
+      "四時",
+      "四人"
+    ],
+    "answer": 2,
+    "correct_text": "四時",
+    "meaning_en": "four o'clock",
+    "explanation": "「四時」は「よじ」と読みます。「四日」は「よっか」、「四人」は「よにん」です。",
+    "target_word_reading": "よじ",
+    "correct_text_reading": "よじ",
+    "correct_text_ruby": "四時"
+  },
+  {
+    "id": 224,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ごひゃくえん",
+    "question": "この ノートは ごひゃくえんです。",
+    "question_ruby": "この ノートは <u>ごひゃくえん</u>です。",
+    "choices": [
+      "五百円",
+      "五十円",
+      "五千円",
+      "五万円"
+    ],
+    "choices_ruby": [
+      "五百円",
+      "五十円",
+      "五千円",
+      "五万円"
+    ],
+    "answer": 0,
+    "correct_text": "五百円",
+    "meaning_en": "500 yen",
+    "explanation": "「五百円」は「ごひゃくえん」。「五十円」は「ごじゅうえん」、「五千円」は「ごせんえん」です。",
+    "target_word_reading": "ごひゃくえん",
+    "correct_text_reading": "ごひゃくえん",
+    "correct_text_ruby": "五百円"
+  },
+  {
+    "id": 225,
+    "source": "実戦オリジナル問題",
+    "category": "漢字表記",
+    "target_word": "ふたり",
+    "question": "ふたりで 映画を 見ます。",
+    "question_ruby": "<u>ふたり</u>で <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます。",
+    "choices": [
+      "一人",
+      "二人",
+      "十人",
+      "三人"
+    ],
+    "choices_ruby": [
+      "一人",
+      "二人",
+      "十人",
+      "三人"
+    ],
+    "answer": 1,
+    "correct_text": "二人",
+    "meaning_en": "two people",
+    "explanation": "「二人」は「ふたり」と読みます。「一人」は「ひとり」、「三人」は「さんにん」です。",
+    "target_word_reading": "ふたり",
+    "correct_text_reading": "ふたり",
+    "correct_text_ruby": "二人"
+  },
+  {
+    "id": 226,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ベッドから（　　　）、すぐに顔を洗います。",
+    "question_ruby": "ベッドから（　　　）、すぐに<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+    "choices": [
+      "着いて",
+      "寝て",
+      "起きて",
+      "乗って"
+    ],
+    "choices_ruby": [
+      "<ruby>着<rt>つ</rt></ruby>いて",
+      "<ruby>寝<rt>ね</rt></ruby>て",
+      "<ruby>起<rt>お</rt></ruby>きて",
+      "<ruby>乗<rt>の</rt></ruby>って"
+    ],
+    "answer": 2,
+    "correct_text": "起きて",
+    "meaning_en": "get up (te-form of 起きる)",
+    "explanation": "「ベッドから起きて」が自然です。「寝て」は「ベッドで寝て」なら使えますが、「ベッドから」とは合いません。",
+    "target_word_reading": "",
+    "correct_text_reading": "おきて",
+    "correct_text_ruby": "<ruby>起<rt>お</rt></ruby>きて"
+  },
+  {
+    "id": 227,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "次の駅で電車を（　　　）ください。",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を（　　　）ください。",
+    "choices": [
+      "降りて",
+      "入って",
+      "乗って",
+      "着て"
+    ],
+    "choices_ruby": [
+      "<ruby>降<rt>お</rt></ruby>りて",
+      "<ruby>入<rt>はい</rt></ruby>って",
+      "<ruby>乗<rt>の</rt></ruby>って",
+      "<ruby>着<rt>き</rt></ruby>て"
+    ],
+    "answer": 0,
+    "correct_text": "降りて",
+    "meaning_en": "get off (te-form of 降りる)",
+    "explanation": "「電車を降りる」と言います。「乗る」は「電車に乗る」で、助詞は「に」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "おりて",
+    "correct_text_ruby": "<ruby>降<rt>お</rt></ruby>りて"
+  },
+  {
+    "id": 228,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "寒いので、コートを（　　　）出かけます。",
+    "question_ruby": "<ruby>寒<rt>さむ</rt></ruby>いので、コートを（　　　）<ruby>出<rt>で</rt></ruby>かけます。",
+    "choices": [
+      "かぶって",
+      "はいて",
+      "かけて",
+      "着て"
+    ],
+    "choices_ruby": [
+      "かぶって",
+      "はいて",
+      "かけて",
+      "<ruby>着<rt>き</rt></ruby>て"
+    ],
+    "answer": 3,
+    "correct_text": "着て",
+    "meaning_en": "wear (te-form of 着る)",
+    "explanation": "コートやシャツは「着る」。「はく」は靴・ズボン、「かぶる」は帽子、「かける」は眼鏡に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "きて",
+    "correct_text_ruby": "<ruby>着<rt>き</rt></ruby>て"
+  },
+  {
+    "id": 229,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "日差しが強いので、帽子を（　　　）散歩に行きます。",
+    "question_ruby": "<ruby>日差<rt>ひざ</rt></ruby>しが<ruby>強<rt>つよ</rt></ruby>いので、<ruby>帽子<rt>ぼうし</rt></ruby>を（　　　）<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "はいて",
+      "かぶって",
+      "かけて",
+      "着て"
+    ],
+    "choices_ruby": [
+      "はいて",
+      "かぶって",
+      "かけて",
+      "<ruby>着<rt>き</rt></ruby>て"
+    ],
+    "answer": 1,
+    "correct_text": "かぶって",
+    "meaning_en": "wear on the head (te-form of かぶる)",
+    "explanation": "帽子は「かぶる」。「着る」は服、「はく」は靴やズボンに使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "かぶって",
+    "correct_text_ruby": "かぶって"
+  },
+  {
+    "id": 230,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "新しい靴を（　　　）、駅まで歩きました。",
+    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>を（　　　）、<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>きました。",
+    "choices": [
+      "かぶって",
+      "かけて",
+      "着て",
+      "はいて"
+    ],
+    "choices_ruby": [
+      "かぶって",
+      "かけて",
+      "<ruby>着<rt>き</rt></ruby>て",
+      "はいて"
+    ],
+    "answer": 3,
+    "correct_text": "はいて",
+    "meaning_en": "wear on the feet (te-form of はく)",
+    "explanation": "靴・靴下・ズボンは「はく」を使います。「着る」は服に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "はいて",
+    "correct_text_ruby": "はいて"
+  },
+  {
+    "id": 231,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "目が悪いので、いつも眼鏡を（　　　）います。",
+    "question_ruby": "<ruby>目<rt>め</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、いつも<ruby>眼鏡<rt>めがね</rt></ruby>を（　　　）います。",
+    "choices": [
+      "かけて",
+      "着て",
+      "はいて",
+      "かぶって"
+    ],
+    "choices_ruby": [
+      "かけて",
+      "<ruby>着<rt>き</rt></ruby>て",
+      "はいて",
+      "かぶって"
+    ],
+    "answer": 0,
+    "correct_text": "かけて",
+    "meaning_en": "wear (glasses) (te-form of かける)",
+    "explanation": "眼鏡は「かける」。「かぶる」は帽子に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "かけて",
+    "correct_text_ruby": "かけて"
+  },
+  {
+    "id": 232,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "家に本がないので、図書館で三冊（　　　）。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>がないので、<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>三冊<rt>さんさつ</rt></ruby>（　　　）。",
+    "choices": [
+      "貸しました",
+      "借りました",
+      "返しました",
+      "売りました"
+    ],
+    "choices_ruby": [
+      "<ruby>貸<rt>か</rt></ruby>しました",
+      "<ruby>借<rt>か</rt></ruby>りました",
+      "<ruby>返<rt>かえ</rt></ruby>しました",
+      "<ruby>売<rt>う</rt></ruby>りました"
+    ],
+    "answer": 1,
+    "correct_text": "借りました",
+    "meaning_en": "borrowed",
+    "explanation": "お金を払わずに本を使うのは「借りる」。「貸す」は反対に人に貸すときに使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "かりました",
+    "correct_text_ruby": "<ruby>借<rt>か</rt></ruby>りました"
+  },
+  {
+    "id": 233,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "友達が傘を持っていなかったので、私の傘を（　　　）。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていなかったので、<ruby>私<rt>わたし</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>を（　　　）。",
+    "choices": [
+      "返しました",
+      "買いました",
+      "貸しました",
+      "借りました"
+    ],
+    "choices_ruby": [
+      "<ruby>返<rt>かえ</rt></ruby>しました",
+      "<ruby>買<rt>か</rt></ruby>いました",
+      "<ruby>貸<rt>か</rt></ruby>しました",
+      "<ruby>借<rt>か</rt></ruby>りました"
+    ],
+    "answer": 2,
+    "correct_text": "貸しました",
+    "meaning_en": "lent",
+    "explanation": "持っていない友達に渡すのは「貸す」。「借りる」は自分が人から借りるときに使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "かしました",
+    "correct_text_ruby": "<ruby>貸<rt>か</rt></ruby>しました"
+  },
+  {
+    "id": 234,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "借りた本を、図書館に（　　　）。",
+    "question_ruby": "<ruby>借<rt>か</rt></ruby>りた<ruby>本<rt>ほん</rt></ruby>を、<ruby>図書館<rt>としょかん</rt></ruby>に（　　　）。",
+    "choices": [
+      "返しました",
+      "買いました",
+      "売りました",
+      "貸しました"
+    ],
+    "choices_ruby": [
+      "<ruby>返<rt>かえ</rt></ruby>しました",
+      "<ruby>買<rt>か</rt></ruby>いました",
+      "<ruby>売<rt>う</rt></ruby>りました",
+      "<ruby>貸<rt>か</rt></ruby>しました"
+    ],
+    "answer": 0,
+    "correct_text": "返しました",
+    "meaning_en": "returned",
+    "explanation": "借りた物を元の所へ戻すのは「返す」です。「借りた本を貸す」とは言いません。",
+    "target_word_reading": "",
+    "correct_text_reading": "かえしました",
+    "correct_text_ruby": "<ruby>返<rt>かえ</rt></ruby>しました"
+  },
+  {
+    "id": 235,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この店は新鮮な野菜を安く（　　　）います。",
+    "question_ruby": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く（　　　）います。",
+    "choices": [
+      "借りて",
+      "売って",
+      "買って",
+      "返して"
+    ],
+    "choices_ruby": [
+      "<ruby>借<rt>か</rt></ruby>りて",
+      "<ruby>売<rt>う</rt></ruby>って",
+      "<ruby>買<rt>か</rt></ruby>って",
+      "<ruby>返<rt>かえ</rt></ruby>して"
+    ],
+    "answer": 1,
+    "correct_text": "売って",
+    "meaning_en": "selling (te-form of 売る)",
+    "explanation": "店がお客さんにお金をもらって渡すのは「売る」。「買う」はお客さんの動作です。",
+    "target_word_reading": "",
+    "correct_text_reading": "うって",
+    "correct_text_ruby": "<ruby>売<rt>う</rt></ruby>って"
+  },
+  {
+    "id": 236,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "駅の前で、友達を一時間（　　　）。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>を<ruby>一時間<rt>いちじかん</rt></ruby>（　　　）。",
+    "choices": [
+      "始めました",
+      "習いました",
+      "閉めました",
+      "待ちました"
+    ],
+    "choices_ruby": [
+      "<ruby>始<rt>はじ</rt></ruby>めました",
+      "<ruby>習<rt>なら</rt></ruby>いました",
+      "<ruby>閉<rt>し</rt></ruby>めました",
+      "<ruby>待<rt>ま</rt></ruby>ちました"
+    ],
+    "answer": 3,
+    "correct_text": "待ちました",
+    "meaning_en": "waited",
+    "explanation": "人が来るのをそのままの場所でいるのは「待つ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "まちました",
+    "correct_text_ruby": "<ruby>待<rt>ま</rt></ruby>ちました"
+  },
+  {
+    "id": 237,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "部屋が暑いので、窓を（　　　）、風を入れましょう。",
+    "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>窓<rt>まど</rt></ruby>を（　　　）、<ruby>風<rt>かぜ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れましょう。",
+    "choices": [
+      "消して",
+      "閉めて",
+      "開けて",
+      "止めて"
+    ],
+    "choices_ruby": [
+      "<ruby>消<rt>け</rt></ruby>して",
+      "<ruby>閉<rt>し</rt></ruby>めて",
+      "<ruby>開<rt>あ</rt></ruby>けて",
+      "<ruby>止<rt>と</rt></ruby>めて"
+    ],
+    "answer": 2,
+    "correct_text": "開けて",
+    "meaning_en": "open (te-form of 開ける)",
+    "explanation": "風を入れるなら窓を「開ける」。「閉める」は反対の動作です。",
+    "target_word_reading": "",
+    "correct_text_reading": "あけて",
+    "correct_text_ruby": "<ruby>開<rt>あ</rt></ruby>けて"
+  },
+  {
+    "id": 238,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "寒いので、ドアを（　　　）ください。",
+    "question_ruby": "<ruby>寒<rt>さむ</rt></ruby>いので、ドアを（　　　）ください。",
+    "choices": [
+      "閉めて",
+      "開けて",
+      "消して",
+      "止めて"
+    ],
+    "choices_ruby": [
+      "<ruby>閉<rt>し</rt></ruby>めて",
+      "<ruby>開<rt>あ</rt></ruby>けて",
+      "<ruby>消<rt>け</rt></ruby>して",
+      "<ruby>止<rt>と</rt></ruby>めて"
+    ],
+    "answer": 0,
+    "correct_text": "閉めて",
+    "meaning_en": "close (te-form of 閉める)",
+    "explanation": "ドアや窓は「閉める」。「消す」は電気やテレビに使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "しめて",
+    "correct_text_ruby": "<ruby>閉<rt>し</rt></ruby>めて"
+  },
+  {
+    "id": 239,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "暗いので、電気を（　　　）ください。",
+    "question_ruby": "<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電気<rt>でんき</rt></ruby>を（　　　）ください。",
+    "choices": [
+      "止めて",
+      "閉めて",
+      "つけて",
+      "消して"
+    ],
+    "choices_ruby": [
+      "<ruby>止<rt>と</rt></ruby>めて",
+      "<ruby>閉<rt>し</rt></ruby>めて",
+      "つけて",
+      "<ruby>消<rt>け</rt></ruby>して"
+    ],
+    "answer": 2,
+    "correct_text": "つけて",
+    "meaning_en": "turn on (te-form of つける)",
+    "explanation": "暗いときは電気を「つける」。「消す」は反対の動作です。",
+    "target_word_reading": "",
+    "correct_text_reading": "つけて",
+    "correct_text_ruby": "つけて"
+  },
+  {
+    "id": 240,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "出かける前に、電気を（　　　）ください。",
+    "question_ruby": "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、<ruby>電気<rt>でんき</rt></ruby>を（　　　）ください。",
+    "choices": [
+      "つけて",
+      "開けて",
+      "呼んで",
+      "消して"
+    ],
+    "choices_ruby": [
+      "つけて",
+      "<ruby>開<rt>あ</rt></ruby>けて",
+      "<ruby>呼<rt>よ</rt></ruby>んで",
+      "<ruby>消<rt>け</rt></ruby>して"
+    ],
+    "answer": 3,
+    "correct_text": "消して",
+    "meaning_en": "turn off (te-form of 消す)",
+    "explanation": "出かける前にするのは「消す」です。「つける」は反対の動作です。",
+    "target_word_reading": "",
+    "correct_text_reading": "けして",
+    "correct_text_ruby": "<ruby>消<rt>け</rt></ruby>して"
+  },
+  {
+    "id": 241,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "手紙に切手を（　　　）から、ポストに入れます。",
+    "question_ruby": "<ruby>手紙<rt>てがみ</rt></ruby>に<ruby>切手<rt>きって</rt></ruby>を（　　　）から、ポストに<ruby>入<rt>い</rt></ruby>れます。",
+    "choices": [
+      "吸って",
+      "貼って",
+      "引いて",
+      "押して"
+    ],
+    "choices_ruby": [
+      "<ruby>吸<rt>す</rt></ruby>って",
+      "<ruby>貼<rt>は</rt></ruby>って",
+      "<ruby>引<rt>ひ</rt></ruby>いて",
+      "<ruby>押<rt>お</rt></ruby>して"
+    ],
+    "answer": 1,
+    "correct_text": "貼って",
+    "meaning_en": "stick; paste (te-form of 貼る)",
+    "explanation": "切手は「貼る」。「押す」はボタンなどに、「引く」はドアなどに使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "はって",
+    "correct_text_ruby": "<ruby>貼<rt>は</rt></ruby>って"
+  },
+  {
+    "id": 242,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ペンで、ここに名前を（　　　）ください。",
+    "question_ruby": "ペンで、ここに<ruby>名前<rt>なまえ</rt></ruby>を（　　　）ください。",
+    "choices": [
+      "書いて",
+      "聞いて",
+      "読んで",
+      "洗って"
+    ],
+    "choices_ruby": [
+      "<ruby>書<rt>か</rt></ruby>いて",
+      "<ruby>聞<rt>き</rt></ruby>いて",
+      "<ruby>読<rt>よ</rt></ruby>んで",
+      "<ruby>洗<rt>あら</rt></ruby>って"
+    ],
+    "answer": 0,
+    "correct_text": "書いて",
+    "meaning_en": "write (te-form of 書く)",
+    "explanation": "ペンを使って文字を残すのは「書く」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "かいて",
+    "correct_text_ruby": "<ruby>書<rt>か</rt></ruby>いて"
+  },
+  {
+    "id": 243,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ラジオで音楽を（　　　）います。",
+    "question_ruby": "ラジオで<ruby>音楽<rt>おんがく</rt></ruby>を（　　　）います。",
+    "choices": [
+      "読んで",
+      "見て",
+      "聞いて",
+      "話して"
+    ],
+    "choices_ruby": [
+      "<ruby>読<rt>よ</rt></ruby>んで",
+      "<ruby>見<rt>み</rt></ruby>て",
+      "<ruby>聞<rt>き</rt></ruby>いて",
+      "<ruby>話<rt>はな</rt></ruby>して"
+    ],
+    "answer": 2,
+    "correct_text": "聞いて",
+    "meaning_en": "listening (te-form of 聞く)",
+    "explanation": "音楽やラジオは耳で「聞く」。「見る」はテレビや映画に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "きいて",
+    "correct_text_ruby": "<ruby>聞<rt>き</rt></ruby>いて"
+  },
+  {
+    "id": 244,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "毎晩、寝る前に本を（　　　）。",
+    "question_ruby": "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を（　　　）。",
+    "choices": [
+      "泳ぎます",
+      "読みます",
+      "歌います",
+      "洗います"
+    ],
+    "choices_ruby": [
+      "<ruby>泳<rt>およ</rt></ruby>ぎます",
+      "<ruby>読<rt>よ</rt></ruby>みます",
+      "<ruby>歌<rt>うた</rt></ruby>います",
+      "<ruby>洗<rt>あら</rt></ruby>います"
+    ],
+    "answer": 1,
+    "correct_text": "読みます",
+    "meaning_en": "read",
+    "explanation": "本は「読む」。「歌う」は歌、「泳ぐ」は水の中、「洗う」は物に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "よみます",
+    "correct_text_ruby": "<ruby>読<rt>よ</rt></ruby>みます"
+  },
+  {
+    "id": 245,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "公園で子供たちが元気に（　　　）います。",
+    "question_ruby": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>子供<rt>こども</rt></ruby>たちが<ruby>元気<rt>げんき</rt></ruby>に（　　　）います。",
+    "choices": [
+      "住んで",
+      "習って",
+      "休んで",
+      "遊んで"
+    ],
+    "choices_ruby": [
+      "<ruby>住<rt>す</rt></ruby>んで",
+      "<ruby>習<rt>なら</rt></ruby>って",
+      "<ruby>休<rt>やす</rt></ruby>んで",
+      "<ruby>遊<rt>あそ</rt></ruby>んで"
+    ],
+    "answer": 3,
+    "correct_text": "遊んで",
+    "meaning_en": "playing (te-form of 遊ぶ)",
+    "explanation": "子供が楽しく動き回るのは「遊ぶ」。「休む」は反対に静かにすることです。",
+    "target_word_reading": "",
+    "correct_text_reading": "あそんで",
+    "correct_text_ruby": "<ruby>遊<rt>あそ</rt></ruby>んで"
+  },
+  {
+    "id": 246,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "私は大阪に（　　　）います。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>大阪<rt>おおさか</rt></ruby>に（　　　）います。",
+    "choices": [
+      "住んで",
+      "座って",
+      "立って",
+      "乗って"
+    ],
+    "choices_ruby": [
+      "<ruby>住<rt>す</rt></ruby>んで",
+      "<ruby>座<rt>すわ</rt></ruby>って",
+      "<ruby>立<rt>た</rt></ruby>って",
+      "<ruby>乗<rt>の</rt></ruby>って"
+    ],
+    "answer": 0,
+    "correct_text": "住んで",
+    "meaning_en": "living (te-form of 住む)",
+    "explanation": "場所に家があって生活しているのは「住む」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "すんで",
+    "correct_text_ruby": "<ruby>住<rt>す</rt></ruby>んで"
+  },
+  {
+    "id": 247,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ここに（　　　）ください。いすがありますよ。",
+    "question_ruby": "ここに（　　　）ください。いすがありますよ。",
+    "choices": [
+      "走って",
+      "座って",
+      "泳いで",
+      "歩いて"
+    ],
+    "choices_ruby": [
+      "<ruby>走<rt>はし</rt></ruby>って",
+      "<ruby>座<rt>すわ</rt></ruby>って",
+      "<ruby>泳<rt>およ</rt></ruby>いで",
+      "<ruby>歩<rt>ある</rt></ruby>いて"
+    ],
+    "answer": 1,
+    "correct_text": "座って",
+    "meaning_en": "sit (te-form of 座る)",
+    "explanation": "いすがあるので、「座る」が合います。",
+    "target_word_reading": "",
+    "correct_text_reading": "すわって",
+    "correct_text_ruby": "<ruby>座<rt>すわ</rt></ruby>って"
+  },
+  {
+    "id": 248,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "のどが渇いたので、冷たい水を（　　　）。",
+    "question_ruby": "のどが<ruby>渇<rt>かわ</rt></ruby>いたので、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>を（　　　）。",
+    "choices": [
+      "食べました",
+      "吸いました",
+      "飲みました",
+      "洗いました"
+    ],
+    "choices_ruby": [
+      "<ruby>食<rt>た</rt></ruby>べました",
+      "<ruby>吸<rt>す</rt></ruby>いました",
+      "<ruby>飲<rt>の</rt></ruby>みました",
+      "<ruby>洗<rt>あら</rt></ruby>いました"
+    ],
+    "answer": 2,
+    "correct_text": "飲みました",
+    "meaning_en": "drank",
+    "explanation": "水やお茶は「飲む」。「食べる」は食べ物に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "のみました",
+    "correct_text_ruby": "<ruby>飲<rt>の</rt></ruby>みました"
+  },
+  {
+    "id": 249,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "お風呂に入る前に、シャワーを（　　　）。",
+    "question_ruby": "お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、シャワーを（　　　）。",
+    "choices": [
+      "着ます",
+      "磨きます",
+      "洗います",
+      "浴びます"
+    ],
+    "choices_ruby": [
+      "<ruby>着<rt>き</rt></ruby>ます",
+      "<ruby>磨<rt>みが</rt></ruby>きます",
+      "<ruby>洗<rt>あら</rt></ruby>います",
+      "<ruby>浴<rt>あ</rt></ruby>びます"
+    ],
+    "answer": 3,
+    "correct_text": "浴びます",
+    "meaning_en": "to take (a shower)",
+    "explanation": "シャワーは「浴びる」と言います。「シャワーを洗う」とは言いません。",
+    "target_word_reading": "",
+    "correct_text_reading": "あびます",
+    "correct_text_ruby": "<ruby>浴<rt>あ</rt></ruby>びます"
+  },
+  {
+    "id": 250,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ごはんを食べた後で、歯を（　　　）。",
+    "question_ruby": "ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で、<ruby>歯<rt>は</rt></ruby>を（　　　）。",
+    "choices": [
+      "切ります",
+      "吸います",
+      "磨きます",
+      "洗います"
+    ],
+    "choices_ruby": [
+      "<ruby>切<rt>き</rt></ruby>ります",
+      "<ruby>吸<rt>す</rt></ruby>います",
+      "<ruby>磨<rt>みが</rt></ruby>きます",
+      "<ruby>洗<rt>あら</rt></ruby>います"
+    ],
+    "answer": 2,
+    "correct_text": "磨きます",
+    "meaning_en": "to brush; to polish",
+    "explanation": "歯は「磨く」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "みがきます",
+    "correct_text_ruby": "<ruby>磨<rt>みが</rt></ruby>きます"
+  },
+  {
+    "id": 251,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "雨が（　　　）いるので、傘を持って行きます。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が（　　　）いるので、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "咲いて",
+      "降って",
+      "鳴いて",
+      "吹いて"
+    ],
+    "choices_ruby": [
+      "<ruby>咲<rt>さ</rt></ruby>いて",
+      "<ruby>降<rt>ふ</rt></ruby>って",
+      "<ruby>鳴<rt>な</rt></ruby>いて",
+      "<ruby>吹<rt>ふ</rt></ruby>いて"
+    ],
+    "answer": 1,
+    "correct_text": "降って",
+    "meaning_en": "falling (te-form of 降る)",
+    "explanation": "雨や雪は「降る」。「吹く」は風に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "ふって",
+    "correct_text_ruby": "<ruby>降<rt>ふ</rt></ruby>って"
+  },
+  {
+    "id": 252,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "春になると、公園の花が（　　　）。",
+    "question_ruby": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>公園<rt>こうえん</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が（　　　）。",
+    "choices": [
+      "吹きます",
+      "止まります",
+      "降ります",
+      "咲きます"
+    ],
+    "choices_ruby": [
+      "<ruby>吹<rt>ふ</rt></ruby>きます",
+      "<ruby>止<rt>と</rt></ruby>まります",
+      "<ruby>降<rt>お</rt></ruby>ります",
+      "<ruby>咲<rt>さ</rt></ruby>きます"
+    ],
+    "answer": 3,
+    "correct_text": "咲きます",
+    "meaning_en": "bloom",
+    "explanation": "花は「咲く」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "さきます",
+    "correct_text_ruby": "<ruby>咲<rt>さ</rt></ruby>きます"
+  },
+  {
+    "id": 253,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "宿題を家に（　　　）しまいました。",
+    "question_ruby": "<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に（　　　）しまいました。",
+    "choices": [
+      "忘れて",
+      "返して",
+      "並べて",
+      "閉めて"
+    ],
+    "choices_ruby": [
+      "<ruby>忘<rt>わす</rt></ruby>れて",
+      "<ruby>返<rt>かえ</rt></ruby>して",
+      "<ruby>並<rt>なら</rt></ruby>べて",
+      "<ruby>閉<rt>し</rt></ruby>めて"
+    ],
+    "answer": 0,
+    "correct_text": "忘れて",
+    "meaning_en": "forget; leave behind (te-form of 忘れる)",
+    "explanation": "「〜てしまいました」の前では「忘れて」が自然です。うっかり持ってこなかったことを表します。",
+    "target_word_reading": "",
+    "correct_text_reading": "わすれて",
+    "correct_text_ruby": "<ruby>忘<rt>わす</rt></ruby>れて"
+  },
+  {
+    "id": 254,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この花はきれいですね。写真を（　　　）もいいですか。",
+    "question_ruby": "この<ruby>花<rt>はな</rt></ruby>はきれいですね。<ruby>写真<rt>しゃしん</rt></ruby>を（　　　）もいいですか。",
+    "choices": [
+      "撮って",
+      "並べて",
+      "吸って",
+      "洗って"
+    ],
+    "choices_ruby": [
+      "<ruby>撮<rt>と</rt></ruby>って",
+      "<ruby>並<rt>なら</rt></ruby>べて",
+      "<ruby>吸<rt>す</rt></ruby>って",
+      "<ruby>洗<rt>あら</rt></ruby>って"
+    ],
+    "answer": 0,
+    "correct_text": "撮って",
+    "meaning_en": "take (a photo) (te-form of 撮る)",
+    "explanation": "写真は「撮る」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "とって",
+    "correct_text_ruby": "<ruby>撮<rt>と</rt></ruby>って"
+  },
+  {
+    "id": 255,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "もう少し大きい声で（　　　）ください。",
+    "question_ruby": "もう<ruby>少<rt>すこ</rt></ruby>し<ruby>大<rt>おお</rt></ruby>きい<ruby>声<rt>こえ</rt></ruby>で（　　　）ください。",
+    "choices": [
+      "乗って",
+      "歩いて",
+      "話して",
+      "泳いで"
+    ],
+    "choices_ruby": [
+      "<ruby>乗<rt>の</rt></ruby>って",
+      "<ruby>歩<rt>ある</rt></ruby>いて",
+      "<ruby>話<rt>はな</rt></ruby>して",
+      "<ruby>泳<rt>およ</rt></ruby>いで"
+    ],
+    "answer": 2,
+    "correct_text": "話して",
+    "meaning_en": "speak (te-form of 話す)",
+    "explanation": "声を出して言葉を伝えるのは「話す」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "はなして",
+    "correct_text_ruby": "<ruby>話<rt>はな</rt></ruby>して"
+  },
+  {
+    "id": 256,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この漢字の意味がわかりません。先生に（　　　）みます。",
+    "question_ruby": "この<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>がわかりません。<ruby>先生<rt>せんせい</rt></ruby>に（　　　）みます。",
+    "choices": [
+      "閉めて",
+      "聞いて",
+      "返して",
+      "貸して"
+    ],
+    "choices_ruby": [
+      "<ruby>閉<rt>し</rt></ruby>めて",
+      "<ruby>聞<rt>き</rt></ruby>いて",
+      "<ruby>返<rt>かえ</rt></ruby>して",
+      "<ruby>貸<rt>か</rt></ruby>して"
+    ],
+    "answer": 1,
+    "correct_text": "聞いて",
+    "meaning_en": "ask (te-form of 聞く)",
+    "explanation": "わからないことを人にたずねるのは「聞く」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "きいて",
+    "correct_text_ruby": "<ruby>聞<rt>き</rt></ruby>いて"
+  },
+  {
+    "id": 257,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "毎朝、公園を三十分（　　　）います。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>三十分<rt>さんじゅっぷん</rt></ruby>（　　　）います。",
+    "choices": [
+      "洗って",
+      "泳いで",
+      "乗って",
+      "走って"
+    ],
+    "choices_ruby": [
+      "<ruby>洗<rt>あら</rt></ruby>って",
+      "<ruby>泳<rt>およ</rt></ruby>いで",
+      "<ruby>乗<rt>の</rt></ruby>って",
+      "<ruby>走<rt>はし</rt></ruby>って"
+    ],
+    "answer": 3,
+    "correct_text": "走って",
+    "meaning_en": "running (te-form of 走る)",
+    "explanation": "公園を足で速く動くのは「走る」です。「泳ぐ」は水の中で使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "はしって",
+    "correct_text_ruby": "<ruby>走<rt>はし</rt></ruby>って"
+  },
+  {
+    "id": 258,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "兄は銀行で（　　　）います。",
+    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で（　　　）います。",
+    "choices": [
+      "働いて",
+      "泳いで",
+      "歌って",
+      "遊んで"
+    ],
+    "choices_ruby": [
+      "<ruby>働<rt>はたら</rt></ruby>いて",
+      "<ruby>泳<rt>およ</rt></ruby>いで",
+      "<ruby>歌<rt>うた</rt></ruby>って",
+      "<ruby>遊<rt>あそ</rt></ruby>んで"
+    ],
+    "answer": 0,
+    "correct_text": "働いて",
+    "meaning_en": "working (te-form of 働く)",
+    "explanation": "仕事をする場所は「で」を使って「銀行で働く」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "はたらいて",
+    "correct_text_ruby": "<ruby>働<rt>はたら</rt></ruby>いて"
+  },
+  {
+    "id": 259,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "田中さん、電話番号を（　　　）ください。メモしますから。",
+    "question_ruby": "<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を（　　　）ください。メモしますから。",
+    "choices": [
+      "貸して",
+      "教えて",
+      "返して",
+      "閉めて"
+    ],
+    "choices_ruby": [
+      "<ruby>貸<rt>か</rt></ruby>して",
+      "<ruby>教<rt>おし</rt></ruby>えて",
+      "<ruby>返<rt>かえ</rt></ruby>して",
+      "<ruby>閉<rt>し</rt></ruby>めて"
+    ],
+    "answer": 1,
+    "correct_text": "教えて",
+    "meaning_en": "tell (te-form of 教える)",
+    "explanation": "知らないことを相手に伝えてもらうときは「教える」を使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "おしえて",
+    "correct_text_ruby": "<ruby>教<rt>おし</rt></ruby>えて"
+  },
+  {
+    "id": 260,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "このカレーは（　　　）て、水をたくさん飲みました。",
+    "question_ruby": "このカレーは（　　　）て、<ruby>水<rt>みず</rt></ruby>をたくさん<ruby>飲<rt>の</rt></ruby>みました。",
+    "choices": [
+      "低くて",
+      "甘くて",
+      "辛くて",
+      "狭くて"
+    ],
+    "choices_ruby": [
+      "<ruby>低<rt>ひく</rt></ruby>くて",
+      "<ruby>甘<rt>あま</rt></ruby>くて",
+      "<ruby>辛<rt>から</rt></ruby>くて",
+      "<ruby>狭<rt>せま</rt></ruby>くて"
+    ],
+    "answer": 2,
+    "correct_text": "辛くて",
+    "meaning_en": "spicy (te-form of 辛い)",
+    "explanation": "水をたくさん飲んだのは、カレーが「辛い」からです。「甘い」とは意味が合いません。",
+    "target_word_reading": "",
+    "correct_text_reading": "からくて",
+    "correct_text_ruby": "<ruby>辛<rt>から</rt></ruby>くて"
+  },
+  {
+    "id": 261,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "このケーキは（　　　）て、おいしいです。",
+    "question_ruby": "このケーキは（　　　）て、おいしいです。",
+    "choices": [
+      "狭くて",
+      "重くて",
+      "暗くて",
+      "甘くて"
+    ],
+    "choices_ruby": [
+      "<ruby>狭<rt>せま</rt></ruby>くて",
+      "<ruby>重<rt>おも</rt></ruby>くて",
+      "<ruby>暗<rt>くら</rt></ruby>くて",
+      "<ruby>甘<rt>あま</rt></ruby>くて"
+    ],
+    "answer": 3,
+    "correct_text": "甘くて",
+    "meaning_en": "sweet (te-form of 甘い)",
+    "explanation": "ケーキの味を表すのは「甘い」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "あまくて",
+    "correct_text_ruby": "<ruby>甘<rt>あま</rt></ruby>くて"
+  },
+  {
+    "id": 262,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "夏は（　　　）ので、毎日冷たいジュースを飲みます。",
+    "question_ruby": "<ruby>夏<rt>なつ</rt></ruby>は（　　　）ので、<ruby>毎日<rt>まいにち</rt></ruby><ruby>冷<rt>つめ</rt></ruby>たいジュースを<ruby>飲<rt>の</rt></ruby>みます。",
+    "choices": [
+      "狭い",
+      "暑い",
+      "寒い",
+      "低い"
+    ],
+    "choices_ruby": [
+      "<ruby>狭<rt>せま</rt></ruby>い",
+      "<ruby>暑<rt>あつ</rt></ruby>い",
+      "<ruby>寒<rt>さむ</rt></ruby>い",
+      "<ruby>低<rt>ひく</rt></ruby>い"
+    ],
+    "answer": 1,
+    "correct_text": "暑い",
+    "meaning_en": "hot (weather)",
+    "explanation": "冷たい飲み物が飲みたくなるのは「暑い」ときです。",
+    "target_word_reading": "",
+    "correct_text_reading": "あつい",
+    "correct_text_ruby": "<ruby>暑<rt>あつ</rt></ruby>い"
+  },
+  {
+    "id": 263,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "冬は（　　　）ので、コートを着て出かけます。",
+    "question_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>は（　　　）ので、コートを<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけます。",
+    "choices": [
+      "重い",
+      "甘い",
+      "暑い",
+      "寒い"
+    ],
+    "choices_ruby": [
+      "<ruby>重<rt>おも</rt></ruby>い",
+      "<ruby>甘<rt>あま</rt></ruby>い",
+      "<ruby>暑<rt>あつ</rt></ruby>い",
+      "<ruby>寒<rt>さむ</rt></ruby>い"
+    ],
+    "answer": 3,
+    "correct_text": "寒い",
+    "meaning_en": "cold (weather)",
+    "explanation": "コートを着るのは「寒い」ときです。",
+    "target_word_reading": "",
+    "correct_text_reading": "さむい",
+    "correct_text_ruby": "<ruby>寒<rt>さむ</rt></ruby>い"
+  },
+  {
+    "id": 264,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この荷物は（　　　）ので、一人では持てません。",
+    "question_ruby": "この<ruby>荷物<rt>にもつ</rt></ruby>は（　　　）ので、<ruby>一人<rt>ひとり</rt></ruby>では<ruby>持<rt>も</rt></ruby>てません。",
+    "choices": [
+      "低い",
+      "汚い",
+      "重い",
+      "狭い"
+    ],
+    "choices_ruby": [
+      "<ruby>低<rt>ひく</rt></ruby>い",
+      "<ruby>汚<rt>きたな</rt></ruby>い",
+      "<ruby>重<rt>おも</rt></ruby>い",
+      "<ruby>狭<rt>せま</rt></ruby>い"
+    ],
+    "answer": 2,
+    "correct_text": "重い",
+    "meaning_en": "heavy",
+    "explanation": "一人で持てないのは荷物が「重い」からです。",
+    "target_word_reading": "",
+    "correct_text_reading": "おもい",
+    "correct_text_ruby": "<ruby>重<rt>おも</rt></ruby>い"
+  },
+  {
+    "id": 265,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この部屋は窓が大きくて、とても（　　　）です。",
+    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて、とても（　　　）です。",
+    "choices": [
+      "明るい",
+      "遅い",
+      "重い",
+      "暗い"
+    ],
+    "choices_ruby": [
+      "<ruby>明<rt>あか</rt></ruby>るい",
+      "<ruby>遅<rt>おそ</rt></ruby>い",
+      "<ruby>重<rt>おも</rt></ruby>い",
+      "<ruby>暗<rt>くら</rt></ruby>い"
+    ],
+    "answer": 0,
+    "correct_text": "明るい",
+    "meaning_en": "bright",
+    "explanation": "窓が大きいと部屋は「明るい」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "あかるい",
+    "correct_text_ruby": "<ruby>明<rt>あか</rt></ruby>るい"
+  },
+  {
+    "id": 266,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "私の部屋は（　　　）ので、友達が四人来ても大丈夫です。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は（　　　）ので、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>四人<rt>よにん</rt></ruby><ruby>来<rt>き</rt></ruby>ても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。",
+    "choices": [
+      "低い",
+      "短い",
+      "広い",
+      "狭い"
+    ],
+    "choices_ruby": [
+      "<ruby>低<rt>ひく</rt></ruby>い",
+      "<ruby>短<rt>みじか</rt></ruby>い",
+      "<ruby>広<rt>ひろ</rt></ruby>い",
+      "<ruby>狭<rt>せま</rt></ruby>い"
+    ],
+    "answer": 2,
+    "correct_text": "広い",
+    "meaning_en": "spacious",
+    "explanation": "四人来ても大丈夫なのは部屋が「広い」からです。「狭い」は反対の意味です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ひろい",
+    "correct_text_ruby": "<ruby>広<rt>ひろ</rt></ruby>い"
+  },
+  {
+    "id": 267,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この道は車が多くて、（　　　）です。",
+    "question_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、（　　　）です。",
+    "choices": [
+      "軽い",
+      "若い",
+      "甘い",
+      "危ない"
+    ],
+    "choices_ruby": [
+      "<ruby>軽<rt>かる</rt></ruby>い",
+      "<ruby>若<rt>わか</rt></ruby>い",
+      "<ruby>甘<rt>あま</rt></ruby>い",
+      "<ruby>危<rt>あぶ</rt></ruby>ない"
+    ],
+    "answer": 3,
+    "correct_text": "危ない",
+    "meaning_en": "dangerous",
+    "explanation": "車が多い道は「危ない」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "あぶない",
+    "correct_text_ruby": "<ruby>危<rt>あぶ</rt></ruby>ない"
+  },
+  {
+    "id": 268,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "あの店のラーメンは安くて（　　　）です。",
+    "question_ruby": "あの<ruby>店<rt>みせ</rt></ruby>のラーメンは<ruby>安<rt>やす</rt></ruby>くて（　　　）です。",
+    "choices": [
+      "暗い",
+      "おいしい",
+      "遠い",
+      "広い"
+    ],
+    "choices_ruby": [
+      "<ruby>暗<rt>くら</rt></ruby>い",
+      "おいしい",
+      "<ruby>遠<rt>とお</rt></ruby>い",
+      "<ruby>広<rt>ひろ</rt></ruby>い"
+    ],
+    "answer": 1,
+    "correct_text": "おいしい",
+    "meaning_en": "delicious",
+    "explanation": "ラーメンの味をほめるのは「おいしい」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "おいしい",
+    "correct_text_ruby": "おいしい"
+  },
+  {
+    "id": 269,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "今日は仕事が（　　　）て、昼ごはんを食べる時間がありませんでした。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が（　　　）て、<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>がありませんでした。",
+    "choices": [
+      "忙しくて",
+      "低くて",
+      "甘くて",
+      "涼しくて"
+    ],
+    "choices_ruby": [
+      "<ruby>忙<rt>いそが</rt></ruby>しくて",
+      "<ruby>低<rt>ひく</rt></ruby>くて",
+      "<ruby>甘<rt>あま</rt></ruby>くて",
+      "<ruby>涼<rt>すず</rt></ruby>しくて"
+    ],
+    "answer": 0,
+    "correct_text": "忙しくて",
+    "meaning_en": "busy (te-form of 忙しい)",
+    "explanation": "時間がなかった理由になるのは「忙しい」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "いそがしくて",
+    "correct_text_ruby": "<ruby>忙<rt>いそが</rt></ruby>しくて"
+  },
+  {
+    "id": 270,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この問題は（　　　）て、わかりません。",
+    "question_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>は（　　　）て、わかりません。",
+    "choices": [
+      "涼しくて",
+      "易しくて",
+      "若くて",
+      "難しくて"
+    ],
+    "choices_ruby": [
+      "<ruby>涼<rt>すず</rt></ruby>しくて",
+      "<ruby>易<rt>やさ</rt></ruby>しくて",
+      "<ruby>若<rt>わか</rt></ruby>くて",
+      "<ruby>難<rt>むずか</rt></ruby>しくて"
+    ],
+    "answer": 3,
+    "correct_text": "難しくて",
+    "meaning_en": "difficult (te-form of 難しい)",
+    "explanation": "わからない理由は問題が「難しい」からです。「易しい」だと、意味が反対になります。",
+    "target_word_reading": "",
+    "correct_text_reading": "むずかしくて",
+    "correct_text_ruby": "<ruby>難<rt>むずか</rt></ruby>しくて"
+  },
+  {
+    "id": 271,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "あの人はまだ二十歳で、とても（　　　）です。",
+    "question_ruby": "あの<ruby>人<rt>ひと</rt></ruby>はまだ<ruby>二十歳<rt>はたち</rt></ruby>で、とても（　　　）です。",
+    "choices": [
+      "低い",
+      "古い",
+      "若い",
+      "狭い"
+    ],
+    "choices_ruby": [
+      "<ruby>低<rt>ひく</rt></ruby>い",
+      "<ruby>古<rt>ふる</rt></ruby>い",
+      "<ruby>若<rt>わか</rt></ruby>い",
+      "<ruby>狭<rt>せま</rt></ruby>い"
+    ],
+    "answer": 2,
+    "correct_text": "若い",
+    "meaning_en": "young",
+    "explanation": "人の年齢が低いことは「若い」と言います。「古い」は物に使います。",
+    "target_word_reading": "",
+    "correct_text_reading": "わかい",
+    "correct_text_ruby": "<ruby>若<rt>わか</rt></ruby>い"
+  },
+  {
+    "id": 272,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "電車の中は人が（　　　）、座ることができませんでした。",
+    "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が（　　　）、<ruby>座<rt>すわ</rt></ruby>ることができませんでした。",
+    "choices": [
+      "多くて",
+      "短くて",
+      "遅くて",
+      "少なくて"
+    ],
+    "choices_ruby": [
+      "<ruby>多<rt>おお</rt></ruby>くて",
+      "<ruby>短<rt>みじか</rt></ruby>くて",
+      "<ruby>遅<rt>おそ</rt></ruby>くて",
+      "<ruby>少<rt>すく</rt></ruby>なくて"
+    ],
+    "answer": 0,
+    "correct_text": "多くて",
+    "meaning_en": "many (te-form of 多い)",
+    "explanation": "座れなかった理由は人が「多い」からです。",
+    "target_word_reading": "",
+    "correct_text_reading": "おおくて",
+    "correct_text_ruby": "<ruby>多<rt>おお</rt></ruby>くて"
+  },
+  {
+    "id": 273,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "歩くのが（　　　）ので、バスに間に合いませんでした。",
+    "question_ruby": "<ruby>歩<rt>ある</rt></ruby>くのが（　　　）ので、バスに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いませんでした。",
+    "choices": [
+      "短い",
+      "遅い",
+      "近い",
+      "速い"
+    ],
+    "choices_ruby": [
+      "<ruby>短<rt>みじか</rt></ruby>い",
+      "<ruby>遅<rt>おそ</rt></ruby>い",
+      "<ruby>近<rt>ちか</rt></ruby>い",
+      "<ruby>速<rt>はや</rt></ruby>い"
+    ],
+    "answer": 1,
+    "correct_text": "遅い",
+    "meaning_en": "slow; late",
+    "explanation": "バスに間に合わなかったのは歩くのが「遅い」からです。",
+    "target_word_reading": "",
+    "correct_text_reading": "おそい",
+    "correct_text_ruby": "<ruby>遅<rt>おそ</rt></ruby>い"
+  },
+  {
+    "id": 274,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "駅から家までとても（　　　）ですから、毎朝バスに乗ります。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>までとても（　　　）ですから、<ruby>毎朝<rt>まいあさ</rt></ruby>バスに<ruby>乗<rt>の</rt></ruby>ります。",
+    "choices": [
+      "近い",
+      "狭い",
+      "短い",
+      "遠い"
+    ],
+    "choices_ruby": [
+      "<ruby>近<rt>ちか</rt></ruby>い",
+      "<ruby>狭<rt>せま</rt></ruby>い",
+      "<ruby>短<rt>みじか</rt></ruby>い",
+      "<ruby>遠<rt>とお</rt></ruby>い"
+    ],
+    "answer": 3,
+    "correct_text": "遠い",
+    "meaning_en": "far",
+    "explanation": "毎朝バスに乗るのは家が駅から「遠い」からです。",
+    "target_word_reading": "",
+    "correct_text_reading": "とおい",
+    "correct_text_ruby": "<ruby>遠<rt>とお</rt></ruby>い"
+  },
+  {
+    "id": 275,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "このかばんは軽くて（　　　）です。",
+    "question_ruby": "このかばんは<ruby>軽<rt>かる</rt></ruby>くて（　　　）です。",
+    "choices": [
+      "有名",
+      "親切",
+      "便利",
+      "元気"
+    ],
+    "choices_ruby": [
+      "<ruby>有名<rt>ゆうめい</rt></ruby>",
+      "<ruby>親切<rt>しんせつ</rt></ruby>",
+      "<ruby>便利<rt>べんり</rt></ruby>",
+      "<ruby>元気<rt>げんき</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "便利",
+    "meaning_en": "convenient",
+    "explanation": "軽くて使いやすいことは「便利」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "べんり",
+    "correct_text_ruby": "<ruby>便利<rt>べんり</rt></ruby>"
+  },
+  {
+    "id": 276,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "山田さんは毎日練習しているので、ピアノが（　　　）です。",
+    "question_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>しているので、ピアノが（　　　）です。",
+    "choices": [
+      "下手",
+      "上手",
+      "親切",
+      "静か"
+    ],
+    "choices_ruby": [
+      "<ruby>下手<rt>へた</rt></ruby>",
+      "<ruby>上手<rt>じょうず</rt></ruby>",
+      "<ruby>親切<rt>しんせつ</rt></ruby>",
+      "<ruby>静<rt>しず</rt></ruby>か"
+    ],
+    "answer": 1,
+    "correct_text": "上手",
+    "meaning_en": "skillful; good at",
+    "explanation": "毎日練習しているので「上手」になります。「下手」は反対の意味です。",
+    "target_word_reading": "",
+    "correct_text_reading": "じょうず",
+    "correct_text_ruby": "<ruby>上手<rt>じょうず</rt></ruby>"
+  },
+  {
+    "id": 277,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "私は魚が（　　　）です。肉のほうがずっと好きです。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>が（　　　）です。<ruby>肉<rt>にく</rt></ruby>のほうがずっと<ruby>好<rt>す</rt></ruby>きです。",
+    "choices": [
+      "嫌い",
+      "静か",
+      "上手",
+      "有名"
+    ],
+    "choices_ruby": [
+      "<ruby>嫌<rt>きら</rt></ruby>い",
+      "<ruby>静<rt>しず</rt></ruby>か",
+      "<ruby>上手<rt>じょうず</rt></ruby>",
+      "<ruby>有名<rt>ゆうめい</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "嫌い",
+    "meaning_en": "dislike",
+    "explanation": "肉のほうが好きなので、魚は「嫌い」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "きらい",
+    "correct_text_ruby": "<ruby>嫌<rt>きら</rt></ruby>い"
+  },
+  {
+    "id": 278,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この図書館は（　　　）ですから、ゆっくり勉強できます。",
+    "question_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>は（　　　）ですから、ゆっくり<ruby>勉強<rt>べんきょう</rt></ruby>できます。",
+    "choices": [
+      "賑やか",
+      "元気",
+      "静か",
+      "有名"
+    ],
+    "choices_ruby": [
+      "<ruby>賑<rt>にぎ</rt></ruby>やか",
+      "<ruby>元気<rt>げんき</rt></ruby>",
+      "<ruby>静<rt>しず</rt></ruby>か",
+      "<ruby>有名<rt>ゆうめい</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "静か",
+    "meaning_en": "quiet",
+    "explanation": "ゆっくり勉強できるのは「静か」な場所です。「賑やか」は人が多く楽しい様子です。",
+    "target_word_reading": "",
+    "correct_text_reading": "しずか",
+    "correct_text_ruby": "<ruby>静<rt>しず</rt></ruby>か"
+  },
+  {
+    "id": 279,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "あの店はいつもお客さんが多くて、（　　　）です。",
+    "question_ruby": "あの<ruby>店<rt>みせ</rt></ruby>はいつもお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>多<rt>おお</rt></ruby>くて、（　　　）です。",
+    "choices": [
+      "下手",
+      "嫌い",
+      "静か",
+      "賑やか"
+    ],
+    "choices_ruby": [
+      "<ruby>下手<rt>へた</rt></ruby>",
+      "<ruby>嫌<rt>きら</rt></ruby>い",
+      "<ruby>静<rt>しず</rt></ruby>か",
+      "<ruby>賑<rt>にぎ</rt></ruby>やか"
+    ],
+    "answer": 3,
+    "correct_text": "賑やか",
+    "meaning_en": "lively; bustling",
+    "explanation": "お客さんが多くて活気があるのは「賑やか」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "にぎやか",
+    "correct_text_ruby": "<ruby>賑<rt>にぎ</rt></ruby>やか"
+  },
+  {
+    "id": 280,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "駅で道を教えてくれた人は、とても（　　　）でした。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれた<ruby>人<rt>ひと</rt></ruby>は、とても（　　　）でした。",
+    "choices": [
+      "親切",
+      "下手",
+      "嫌い",
+      "有名"
+    ],
+    "choices_ruby": [
+      "<ruby>親切<rt>しんせつ</rt></ruby>",
+      "<ruby>下手<rt>へた</rt></ruby>",
+      "<ruby>嫌<rt>きら</rt></ruby>い",
+      "<ruby>有名<rt>ゆうめい</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "親切",
+    "meaning_en": "kind",
+    "explanation": "助けてくれた人の性格を言うので「親切」が合います。",
+    "target_word_reading": "",
+    "correct_text_reading": "しんせつ",
+    "correct_text_ruby": "<ruby>親切<rt>しんせつ</rt></ruby>"
+  },
+  {
+    "id": 281,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この花は（　　　）ですね。写真を撮りましょう。",
+    "question_ruby": "この<ruby>花<rt>はな</rt></ruby>は（　　　）ですね。<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りましょう。",
+    "choices": [
+      "便利",
+      "きれい",
+      "嫌い",
+      "下手"
+    ],
+    "choices_ruby": [
+      "<ruby>便利<rt>べんり</rt></ruby>",
+      "きれい",
+      "<ruby>嫌<rt>きら</rt></ruby>い",
+      "<ruby>下手<rt>へた</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "きれい",
+    "meaning_en": "pretty; beautiful",
+    "explanation": "写真を撮りたくなるのは「きれい」なものです。",
+    "target_word_reading": "",
+    "correct_text_reading": "きれい",
+    "correct_text_ruby": "きれい"
+  },
+  {
+    "id": 282,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "毎日運動しているので、祖父はとても（　　　）です。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しているので、<ruby>祖父<rt>そふ</rt></ruby>はとても（　　　）です。",
+    "choices": [
+      "便利",
+      "有名",
+      "下手",
+      "元気"
+    ],
+    "choices_ruby": [
+      "<ruby>便利<rt>べんり</rt></ruby>",
+      "<ruby>有名<rt>ゆうめい</rt></ruby>",
+      "<ruby>下手<rt>へた</rt></ruby>",
+      "<ruby>元気<rt>げんき</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "元気",
+    "meaning_en": "healthy; energetic",
+    "explanation": "毎日運動して健康なことは「元気」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "げんき",
+    "correct_text_ruby": "<ruby>元気<rt>げんき</rt></ruby>"
+  },
+  {
+    "id": 283,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "雨が降っていますから、（　　　）を持って行きます。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていますから、（　　　）を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "傘",
+      "新聞",
+      "切手",
+      "手紙"
+    ],
+    "choices_ruby": [
+      "<ruby>傘<rt>かさ</rt></ruby>",
+      "<ruby>新聞<rt>しんぶん</rt></ruby>",
+      "<ruby>切手<rt>きって</rt></ruby>",
+      "<ruby>手紙<rt>てがみ</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "傘",
+    "meaning_en": "umbrella",
+    "explanation": "雨の日に使うのは「傘」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "かさ",
+    "correct_text_ruby": "<ruby>傘<rt>かさ</rt></ruby>"
+  },
+  {
+    "id": 284,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "駅で電車の（　　　）を二枚買いました。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>の（　　　）を<ruby>二枚<rt>にまい</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "手紙",
+      "切手",
+      "切符",
+      "封筒"
+    ],
+    "choices_ruby": [
+      "<ruby>手紙<rt>てがみ</rt></ruby>",
+      "<ruby>切手<rt>きって</rt></ruby>",
+      "<ruby>切符<rt>きっぷ</rt></ruby>",
+      "<ruby>封筒<rt>ふうとう</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "切符",
+    "meaning_en": "ticket",
+    "explanation": "電車に乗るために買うのは「切符」です。「切手」は手紙に貼ります。",
+    "target_word_reading": "",
+    "correct_text_reading": "きっぷ",
+    "correct_text_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>"
+  },
+  {
+    "id": 285,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "手紙に（　　　）を貼って、ポストに入れます。",
+    "question_ruby": "<ruby>手紙<rt>てがみ</rt></ruby>に（　　　）を<ruby>貼<rt>は</rt></ruby>って、ポストに<ruby>入<rt>い</rt></ruby>れます。",
+    "choices": [
+      "地図",
+      "切手",
+      "辞書",
+      "切符"
+    ],
+    "choices_ruby": [
+      "<ruby>地図<rt>ちず</rt></ruby>",
+      "<ruby>切手<rt>きって</rt></ruby>",
+      "<ruby>辞書<rt>じしょ</rt></ruby>",
+      "<ruby>切符<rt>きっぷ</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "切手",
+    "meaning_en": "postage stamp",
+    "explanation": "手紙に貼るのは「切手」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "きって",
+    "correct_text_ruby": "<ruby>切手<rt>きって</rt></ruby>"
+  },
+  {
+    "id": 286,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "遠くの文字が見えないので、（　　　）をかけます。",
+    "question_ruby": "<ruby>遠<rt>とお</rt></ruby>くの<ruby>文字<rt>もじ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えないので、（　　　）をかけます。",
+    "choices": [
+      "靴下",
+      "帽子",
+      "時計",
+      "眼鏡"
+    ],
+    "choices_ruby": [
+      "<ruby>靴下<rt>くつした</rt></ruby>",
+      "<ruby>帽子<rt>ぼうし</rt></ruby>",
+      "<ruby>時計<rt>とけい</rt></ruby>",
+      "<ruby>眼鏡<rt>めがね</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "眼鏡",
+    "meaning_en": "glasses",
+    "explanation": "見えにくいときに「かける」のは「眼鏡」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "めがね",
+    "correct_text_ruby": "<ruby>眼鏡<rt>めがね</rt></ruby>"
+  },
+  {
+    "id": 287,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "（　　　）を見たら、もう十二時でした。",
+    "question_ruby": "（　　　）を<ruby>見<rt>み</rt></ruby>たら、もう<ruby>十二時<rt>じゅうにじ</rt></ruby>でした。",
+    "choices": [
+      "時計",
+      "地図",
+      "辞書",
+      "鉛筆"
+    ],
+    "choices_ruby": [
+      "<ruby>時計<rt>とけい</rt></ruby>",
+      "<ruby>地図<rt>ちず</rt></ruby>",
+      "<ruby>辞書<rt>じしょ</rt></ruby>",
+      "<ruby>鉛筆<rt>えんぴつ</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "時計",
+    "meaning_en": "clock; watch",
+    "explanation": "時間を見るのは「時計」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "とけい",
+    "correct_text_ruby": "<ruby>時計<rt>とけい</rt></ruby>"
+  },
+  {
+    "id": 288,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "道がわからないので、（　　　）を見ながら歩きます。",
+    "question_ruby": "<ruby>道<rt>みち</rt></ruby>がわからないので、（　　　）を<ruby>見<rt>み</rt></ruby>ながら<ruby>歩<rt>ある</rt></ruby>きます。",
+    "choices": [
+      "靴",
+      "切符",
+      "地図",
+      "傘"
+    ],
+    "choices_ruby": [
+      "<ruby>靴<rt>くつ</rt></ruby>",
+      "<ruby>切符<rt>きっぷ</rt></ruby>",
+      "<ruby>地図<rt>ちず</rt></ruby>",
+      "<ruby>傘<rt>かさ</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "地図",
+    "meaning_en": "map",
+    "explanation": "道を調べるときに見るのは「地図」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ちず",
+    "correct_text_ruby": "<ruby>地図<rt>ちず</rt></ruby>"
+  },
+  {
+    "id": 289,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この漢字の意味がわかりません。（　　　）で調べてもいいですか。",
+    "question_ruby": "この<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>がわかりません。（　　　）で<ruby>調<rt>しら</rt></ruby>べてもいいですか。",
+    "choices": [
+      "地図",
+      "辞書",
+      "靴下",
+      "帽子"
+    ],
+    "choices_ruby": [
+      "<ruby>地図<rt>ちず</rt></ruby>",
+      "<ruby>辞書<rt>じしょ</rt></ruby>",
+      "<ruby>靴下<rt>くつした</rt></ruby>",
+      "<ruby>帽子<rt>ぼうし</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "辞書",
+    "meaning_en": "dictionary",
+    "explanation": "言葉の意味を調べるのは「辞書」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "じしょ",
+    "correct_text_ruby": "<ruby>辞書<rt>じしょ</rt></ruby>"
+  },
+  {
+    "id": 290,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "頭が痛いので、（　　　）を飲んで寝ます。",
+    "question_ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、（　　　）を<ruby>飲<rt>の</rt></ruby>んで<ruby>寝<rt>ね</rt></ruby>ます。",
+    "choices": [
+      "靴",
+      "机",
+      "薬",
+      "傘"
+    ],
+    "choices_ruby": [
+      "<ruby>靴<rt>くつ</rt></ruby>",
+      "<ruby>机<rt>つくえ</rt></ruby>",
+      "<ruby>薬<rt>くすり</rt></ruby>",
+      "<ruby>傘<rt>かさ</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "薬",
+    "meaning_en": "medicine",
+    "explanation": "痛いときに飲むのは「薬」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "くすり",
+    "correct_text_ruby": "<ruby>薬<rt>くすり</rt></ruby>"
+  },
+  {
+    "id": 291,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "のどが痛いので、（　　　）に行きます。",
+    "question_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いので、（　　　）に<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "郵便局",
+      "病院",
+      "図書館",
+      "銀行"
+    ],
+    "choices_ruby": [
+      "<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>",
+      "<ruby>病院<rt>びょういん</rt></ruby>",
+      "<ruby>図書館<rt>としょかん</rt></ruby>",
+      "<ruby>銀行<rt>ぎんこう</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "病院",
+    "meaning_en": "hospital",
+    "explanation": "体の調子が悪いときに行くのは「病院」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "びょういん",
+    "correct_text_ruby": "<ruby>病院<rt>びょういん</rt></ruby>"
+  },
+  {
+    "id": 292,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "お金を出したいので、（　　　）に行きます。",
+    "question_ruby": "お<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したいので、（　　　）に<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "銀行",
+      "喫茶店",
+      "病院",
+      "公園"
+    ],
+    "choices_ruby": [
+      "<ruby>銀行<rt>ぎんこう</rt></ruby>",
+      "<ruby>喫茶店<rt>きっさてん</rt></ruby>",
+      "<ruby>病院<rt>びょういん</rt></ruby>",
+      "<ruby>公園<rt>こうえん</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "銀行",
+    "meaning_en": "bank",
+    "explanation": "お金を出し入れする所は「銀行」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ぎんこう",
+    "correct_text_ruby": "<ruby>銀行<rt>ぎんこう</rt></ruby>"
+  },
+  {
+    "id": 293,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "手紙を出すために、（　　　）へ行きます。",
+    "question_ruby": "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すために、（　　　）へ<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "銀行",
+      "会社",
+      "駅",
+      "郵便局"
+    ],
+    "choices_ruby": [
+      "<ruby>銀行<rt>ぎんこう</rt></ruby>",
+      "<ruby>会社<rt>かいしゃ</rt></ruby>",
+      "<ruby>駅<rt>えき</rt></ruby>",
+      "<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "郵便局",
+    "meaning_en": "post office",
+    "explanation": "手紙や荷物を送る所は「郵便局」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ゆうびんきょく",
+    "correct_text_ruby": "<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>"
+  },
+  {
+    "id": 294,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "本を借りるために、（　　　）へ行きます。",
+    "question_ruby": "<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りるために、（　　　）へ<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "図書館",
+      "交番",
+      "映画館",
+      "喫茶店"
+    ],
+    "choices_ruby": [
+      "<ruby>図書館<rt>としょかん</rt></ruby>",
+      "<ruby>交番<rt>こうばん</rt></ruby>",
+      "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>",
+      "<ruby>喫茶店<rt>きっさてん</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "図書館",
+    "meaning_en": "library",
+    "explanation": "本を借りられる所は「図書館」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "としょかん",
+    "correct_text_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>"
+  },
+  {
+    "id": 295,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "おまわりさんがいる（　　　）で、道を聞きましょう。",
+    "question_ruby": "おまわりさんがいる（　　　）で、<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きましょう。",
+    "choices": [
+      "映画館",
+      "交番",
+      "図書館",
+      "喫茶店"
+    ],
+    "choices_ruby": [
+      "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>",
+      "<ruby>交番<rt>こうばん</rt></ruby>",
+      "<ruby>図書館<rt>としょかん</rt></ruby>",
+      "<ruby>喫茶店<rt>きっさてん</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "交番",
+    "meaning_en": "police box",
+    "explanation": "おまわりさんがいる小さい建物は「交番」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "こうばん",
+    "correct_text_ruby": "<ruby>交番<rt>こうばん</rt></ruby>"
+  },
+  {
+    "id": 296,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "日曜日は、友達と（　　　）で映画を見ます。",
+    "question_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>は、<ruby>友達<rt>ともだち</rt></ruby>と（　　　）で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。",
+    "choices": [
+      "図書館",
+      "喫茶店",
+      "病院",
+      "映画館"
+    ],
+    "choices_ruby": [
+      "<ruby>図書館<rt>としょかん</rt></ruby>",
+      "<ruby>喫茶店<rt>きっさてん</rt></ruby>",
+      "<ruby>病院<rt>びょういん</rt></ruby>",
+      "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "映画館",
+    "meaning_en": "movie theater",
+    "explanation": "映画を見る所は「映画館」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "えいがかん",
+    "correct_text_ruby": "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>"
+  },
+  {
+    "id": 297,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "休みの日は、（　　　）でコーヒーを飲みながら本を読みます。",
+    "question_ruby": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は、（　　　）でコーヒーを<ruby>飲<rt>の</rt></ruby>みながら<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+    "choices": [
+      "銀行",
+      "病院",
+      "喫茶店",
+      "映画館"
+    ],
+    "choices_ruby": [
+      "<ruby>銀行<rt>ぎんこう</rt></ruby>",
+      "<ruby>病院<rt>びょういん</rt></ruby>",
+      "<ruby>喫茶店<rt>きっさてん</rt></ruby>",
+      "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "喫茶店",
+    "meaning_en": "coffee shop",
+    "explanation": "コーヒーを飲む店は「喫茶店」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "きっさてん",
+    "correct_text_ruby": "<ruby>喫茶店<rt>きっさてん</rt></ruby>"
+  },
+  {
+    "id": 298,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "今日はいい天気ですから、（　　　）で散歩しましょう。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>はいい<ruby>天気<rt>てんき</rt></ruby>ですから、（　　　）で<ruby>散歩<rt>さんぽ</rt></ruby>しましょう。",
+    "choices": [
+      "公園",
+      "病院",
+      "会社",
+      "銀行"
+    ],
+    "choices_ruby": [
+      "<ruby>公園<rt>こうえん</rt></ruby>",
+      "<ruby>病院<rt>びょういん</rt></ruby>",
+      "<ruby>会社<rt>かいしゃ</rt></ruby>",
+      "<ruby>銀行<rt>ぎんこう</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "公園",
+    "meaning_en": "park",
+    "explanation": "散歩にぴったりなのは「公園」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "こうえん",
+    "correct_text_ruby": "<ruby>公園<rt>こうえん</rt></ruby>"
+  },
+  {
+    "id": 299,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "（　　　）を食べると、体にいいです。",
+    "question_ruby": "（　　　）を<ruby>食<rt>た</rt></ruby>べると、<ruby>体<rt>からだ</rt></ruby>にいいです。",
+    "choices": [
+      "薬",
+      "手紙",
+      "靴",
+      "野菜"
+    ],
+    "choices_ruby": [
+      "<ruby>薬<rt>くすり</rt></ruby>",
+      "<ruby>手紙<rt>てがみ</rt></ruby>",
+      "<ruby>靴<rt>くつ</rt></ruby>",
+      "<ruby>野菜<rt>やさい</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "野菜",
+    "meaning_en": "vegetables",
+    "explanation": "体にいい食べ物は「野菜」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "やさい",
+    "correct_text_ruby": "<ruby>野菜<rt>やさい</rt></ruby>"
+  },
+  {
+    "id": 300,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "（　　　）は雪が降るので、スキーに行きます。",
+    "question_ruby": "（　　　）は<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るので、スキーに<ruby>行<rt>い</rt></ruby>きます。",
+    "choices": [
+      "秋",
+      "春",
+      "冬",
+      "夏"
+    ],
+    "choices_ruby": [
+      "<ruby>秋<rt>あき</rt></ruby>",
+      "<ruby>春<rt>はる</rt></ruby>",
+      "<ruby>冬<rt>ふゆ</rt></ruby>",
+      "<ruby>夏<rt>なつ</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "冬",
+    "meaning_en": "winter",
+    "explanation": "雪が降る季節は「冬」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ふゆ",
+    "correct_text_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>"
+  },
+  {
+    "id": 301,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "今日は日曜日です。（　　　）は月曜日です。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>です。（　　　）は<ruby>月曜日<rt>げつようび</rt></ruby>です。",
+    "choices": [
+      "先週",
+      "明日",
+      "一昨日",
+      "昨日"
+    ],
+    "choices_ruby": [
+      "<ruby>先週<rt>せんしゅう</rt></ruby>",
+      "<ruby>明日<rt>あした</rt></ruby>",
+      "<ruby>一昨日<rt>おととい</rt></ruby>",
+      "<ruby>昨日<rt>きのう</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "明日",
+    "meaning_en": "tomorrow",
+    "explanation": "日曜日の次の日は、今日の次の日、つまり「明日」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "あした",
+    "correct_text_ruby": "<ruby>明日<rt>あした</rt></ruby>"
+  },
+  {
+    "id": 302,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "今日は水曜日です。（　　　）は火曜日でした。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>水曜日<rt>すいようび</rt></ruby>です。（　　　）は<ruby>火曜日<rt>かようび</rt></ruby>でした。",
+    "choices": [
+      "明日",
+      "昨日",
+      "明後日",
+      "来週"
+    ],
+    "choices_ruby": [
+      "<ruby>明日<rt>あした</rt></ruby>",
+      "<ruby>昨日<rt>きのう</rt></ruby>",
+      "<ruby>明後日<rt>みょうごにち</rt></ruby>",
+      "<ruby>来週<rt>らいしゅう</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "昨日",
+    "meaning_en": "yesterday",
+    "explanation": "水曜日の前の日は「昨日」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "きのう",
+    "correct_text_ruby": "<ruby>昨日<rt>きのう</rt></ruby>"
+  },
+  {
+    "id": 303,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "朝ごはんは七時で、（　　　）は十二時に食べます。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>七時<rt>しちじ</rt></ruby>で、（　　　）は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べます。",
+    "choices": [
+      "夕方",
+      "晩ごはん",
+      "昼ごはん",
+      "夜中"
+    ],
+    "choices_ruby": [
+      "<ruby>夕方<rt>ゆうがた</rt></ruby>",
+      "<ruby>晩<rt>ばん</rt></ruby>ごはん",
+      "<ruby>昼<rt>ひる</rt></ruby>ごはん",
+      "<ruby>夜中<rt>よなか</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "昼ごはん",
+    "meaning_en": "lunch",
+    "explanation": "十二時に食べる食事は「昼ごはん」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ひるごはん",
+    "correct_text_ruby": "<ruby>昼<rt>ひる</rt></ruby>ごはん"
+  },
+  {
+    "id": 304,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "私の家族は、父と母と姉と私の（　　　）です。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>は、<ruby>父<rt>ちち</rt></ruby>と<ruby>母<rt>はは</rt></ruby>と<ruby>姉<rt>あね</rt></ruby>と<ruby>私<rt>わたし</rt></ruby>の（　　　）です。",
+    "choices": [
+      "三人",
+      "五人",
+      "二人",
+      "四人"
+    ],
+    "choices_ruby": [
+      "<ruby>三人<rt>さんにん</rt></ruby>",
+      "<ruby>五人<rt>ごにん</rt></ruby>",
+      "<ruby>二人<rt>ふたり</rt></ruby>",
+      "<ruby>四人<rt>よにん</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "四人",
+    "meaning_en": "four people",
+    "explanation": "父・母・姉・私で全部で四人なので「四人（よにん）」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "よにん",
+    "correct_text_ruby": "<ruby>四人<rt>よにん</rt></ruby>"
+  },
+  {
+    "id": 305,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "りんごを三つ、バナナを二つ買いました。全部で（　　　）買いました。",
+    "question_ruby": "りんごを<ruby>三つ<rt>みっつ</rt></ruby>、バナナを<ruby>二つ<rt>ふたつ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。<ruby>全部<rt>ぜんぶ</rt></ruby>で（　　　）<ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "五つ",
+      "二つ",
+      "三つ",
+      "六つ"
+    ],
+    "choices_ruby": [
+      "<ruby>五つ<rt>いつつ</rt></ruby>",
+      "<ruby>二つ<rt>ふたつ</rt></ruby>",
+      "<ruby>三つ<rt>みっつ</rt></ruby>",
+      "<ruby>六つ<rt>むっつ</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "五つ",
+    "meaning_en": "five items",
+    "explanation": "三つと二つを合わせると「五つ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "いつつ",
+    "correct_text_ruby": "<ruby>五つ<rt>いつつ</rt></ruby>"
+  },
+  {
+    "id": 306,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "くつ下を二（　　　）買いました。",
+    "question_ruby": "くつ<ruby>下<rt>した</rt></ruby>を<ruby>二<rt>に</rt></ruby>（　　　）<ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "本",
+      "足",
+      "枚",
+      "冊"
+    ],
+    "choices_ruby": [
+      "<ruby>本<rt>ほん</rt></ruby>",
+      "<ruby>足<rt>そく</rt></ruby>",
+      "<ruby>枚<rt>まい</rt></ruby>",
+      "<ruby>冊<rt>さつ</rt></ruby>"
+    ],
+    "answer": 1,
+    "correct_text": "足",
+    "meaning_en": "counter for pairs of footwear",
+    "explanation": "靴や靴下は「足（そく）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "そく",
+    "correct_text_ruby": "<ruby>足<rt>そく</rt></ruby>"
+  },
+  {
+    "id": 307,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ノートを三（　　　）買いました。",
+    "question_ruby": "ノートを<ruby>三<rt>さん</rt></ruby>（　　　）<ruby>買<rt>か</rt></ruby>いました。",
+    "choices": [
+      "冊",
+      "枚",
+      "台",
+      "本"
+    ],
+    "choices_ruby": [
+      "<ruby>冊<rt>さつ</rt></ruby>",
+      "<ruby>枚<rt>まい</rt></ruby>",
+      "<ruby>台<rt>だい</rt></ruby>",
+      "<ruby>本<rt>ほん</rt></ruby>"
+    ],
+    "answer": 0,
+    "correct_text": "冊",
+    "meaning_en": "counter for books and notebooks",
+    "explanation": "本やノートは「冊（さつ）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "さつ",
+    "correct_text_ruby": "<ruby>冊<rt>さつ</rt></ruby>"
+  },
+  {
+    "id": 308,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "切手を五（　　　）ください。",
+    "question_ruby": "<ruby>切手<rt>きって</rt></ruby>を<ruby>五<rt>ご</rt></ruby>（　　　）ください。",
+    "choices": [
+      "本",
+      "冊",
+      "台",
+      "枚"
+    ],
+    "choices_ruby": [
+      "<ruby>本<rt>ほん</rt></ruby>",
+      "<ruby>冊<rt>さつ</rt></ruby>",
+      "<ruby>台<rt>だい</rt></ruby>",
+      "<ruby>枚<rt>まい</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "枚",
+    "meaning_en": "counter for flat things",
+    "explanation": "切手や紙のような薄い物は「枚（まい）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "まい",
+    "correct_text_ruby": "<ruby>枚<rt>まい</rt></ruby>"
+  },
+  {
+    "id": 309,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "コップで、ジュースを二（　　　）飲みました。",
+    "question_ruby": "コップで、ジュースを<ruby>二<rt>に</rt></ruby>（　　　）<ruby>飲<rt>の</rt></ruby>みました。",
+    "choices": [
+      "枚",
+      "本",
+      "杯",
+      "台"
+    ],
+    "choices_ruby": [
+      "<ruby>枚<rt>まい</rt></ruby>",
+      "<ruby>本<rt>ほん</rt></ruby>",
+      "<ruby>杯<rt>はい</rt></ruby>",
+      "<ruby>台<rt>だい</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "杯",
+    "meaning_en": "counter for cupfuls",
+    "explanation": "コップに入った飲み物は「杯（はい）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "はい",
+    "correct_text_ruby": "<ruby>杯<rt>はい</rt></ruby>"
+  },
+  {
+    "id": 310,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "うちには犬が二（　　　）います。",
+    "question_ruby": "うちには<ruby>犬<rt>いぬ</rt></ruby>が<ruby>二<rt>に</rt></ruby>（　　　）います。",
+    "choices": [
+      "冊",
+      "台",
+      "本",
+      "匹"
+    ],
+    "choices_ruby": [
+      "<ruby>冊<rt>さつ</rt></ruby>",
+      "<ruby>台<rt>だい</rt></ruby>",
+      "<ruby>本<rt>ほん</rt></ruby>",
+      "<ruby>匹<rt>ひき</rt></ruby>"
+    ],
+    "answer": 3,
+    "correct_text": "匹",
+    "meaning_en": "counter for small animals",
+    "explanation": "犬や猫などの小さい動物は「匹（ひき）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "ひき",
+    "correct_text_ruby": "<ruby>匹<rt>ひき</rt></ruby>"
+  },
+  {
+    "id": 311,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "私の家には、テレビが二（　　　）あります。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>には、テレビが<ruby>二<rt>に</rt></ruby>（　　　）あります。",
+    "choices": [
+      "冊",
+      "枚",
+      "台",
+      "本"
+    ],
+    "choices_ruby": [
+      "<ruby>冊<rt>さつ</rt></ruby>",
+      "<ruby>枚<rt>まい</rt></ruby>",
+      "<ruby>台<rt>だい</rt></ruby>",
+      "<ruby>本<rt>ほん</rt></ruby>"
+    ],
+    "answer": 2,
+    "correct_text": "台",
+    "meaning_en": "counter for machines and vehicles",
+    "explanation": "テレビや車などの機械は「台（だい）」で数えます。",
+    "target_word_reading": "",
+    "correct_text_reading": "だい",
+    "correct_text_ruby": "<ruby>台<rt>だい</rt></ruby>"
+  },
+  {
+    "id": 312,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "スープを（　　　）で飲みます。",
+    "question_ruby": "スープを（　　　）で<ruby>飲<rt>の</rt></ruby>みます。",
+    "choices": [
+      "スプーン",
+      "フォーク",
+      "ナイフ",
+      "ペン"
+    ],
+    "choices_ruby": [
+      "スプーン",
+      "フォーク",
+      "ナイフ",
+      "ペン"
+    ],
+    "answer": 0,
+    "correct_text": "スプーン",
+    "meaning_en": "spoon",
+    "explanation": "スープを飲むときに使うのは「スプーン」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "スプーン",
+    "correct_text_ruby": "スプーン"
+  },
+  {
+    "id": 313,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "ステーキを（　　　）で切ります。",
+    "question_ruby": "ステーキを（　　　）で<ruby>切<rt>き</rt></ruby>ります。",
+    "choices": [
+      "スプーン",
+      "ナイフ",
+      "ボタン",
+      "ペン"
+    ],
+    "choices_ruby": [
+      "スプーン",
+      "ナイフ",
+      "ボタン",
+      "ペン"
+    ],
+    "answer": 1,
+    "correct_text": "ナイフ",
+    "meaning_en": "knife",
+    "explanation": "肉を切る道具は「ナイフ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ナイフ",
+    "correct_text_ruby": "ナイフ"
+  },
+  {
+    "id": 314,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "手紙を出したいので、（　　　）を探しています。",
+    "question_ruby": "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したいので、（　　　）を<ruby>探<rt>さが</rt></ruby>しています。",
+    "choices": [
+      "ベッド",
+      "ポケット",
+      "ボタン",
+      "ポスト"
+    ],
+    "choices_ruby": [
+      "ベッド",
+      "ポケット",
+      "ボタン",
+      "ポスト"
+    ],
+    "answer": 3,
+    "correct_text": "ポスト",
+    "meaning_en": "mailbox; post",
+    "explanation": "手紙を入れる所は「ポスト」です。「ポケット」は服に付いている小さい袋です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ポスト",
+    "correct_text_ruby": "ポスト"
+  },
+  {
+    "id": 315,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "シャツの（　　　）が取れたので、母につけてもらいました。",
+    "question_ruby": "シャツの（　　　）が<ruby>取<rt>と</rt></ruby>れたので、<ruby>母<rt>はは</rt></ruby>につけてもらいました。",
+    "choices": [
+      "ボタン",
+      "ポスト",
+      "ペット",
+      "ベッド"
+    ],
+    "choices_ruby": [
+      "ボタン",
+      "ポスト",
+      "ペット",
+      "ベッド"
+    ],
+    "answer": 0,
+    "correct_text": "ボタン",
+    "meaning_en": "button",
+    "explanation": "シャツに付いていて、取れることがあるのは「ボタン」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ボタン",
+    "correct_text_ruby": "ボタン"
+  },
+  {
+    "id": 316,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "毎朝、テレビで今日の（　　　）を見ます。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、テレビで<ruby>今日<rt>きょう</rt></ruby>の（　　　）を<ruby>見<rt>み</rt></ruby>ます。",
+    "choices": [
+      "ボタン",
+      "ベッド",
+      "ニュース",
+      "ノート"
+    ],
+    "choices_ruby": [
+      "ボタン",
+      "ベッド",
+      "ニュース",
+      "ノート"
+    ],
+    "answer": 2,
+    "correct_text": "ニュース",
+    "meaning_en": "news",
+    "explanation": "テレビで見る、世の中の出来事の知らせは「ニュース」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ニュース",
+    "correct_text_ruby": "ニュース"
+  },
+  {
+    "id": 317,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "授業のあとで、（　　　）に新しい言葉を書きます。",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>のあとで、（　　　）に<ruby>新<rt>あたら</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。",
+    "choices": [
+      "ポスト",
+      "ノート",
+      "コップ",
+      "ナイフ"
+    ],
+    "choices_ruby": [
+      "ポスト",
+      "ノート",
+      "コップ",
+      "ナイフ"
+    ],
+    "answer": 1,
+    "correct_text": "ノート",
+    "meaning_en": "notebook",
+    "explanation": "言葉を書くために使うのは「ノート」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ノート",
+    "correct_text_ruby": "ノート"
+  },
+  {
+    "id": 318,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "のどが渇いたので、（　　　）に水を入れて飲みました。",
+    "question_ruby": "のどが<ruby>渇<rt>かわ</rt></ruby>いたので、（　　　）に<ruby>水<rt>みず</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>飲<rt>の</rt></ruby>みました。",
+    "choices": [
+      "ネクタイ",
+      "ポスト",
+      "ナイフ",
+      "コップ"
+    ],
+    "choices_ruby": [
+      "ネクタイ",
+      "ポスト",
+      "ナイフ",
+      "コップ"
+    ],
+    "answer": 3,
+    "correct_text": "コップ",
+    "meaning_en": "glass; cup",
+    "explanation": "水を入れて飲む入れ物は「コップ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "コップ",
+    "correct_text_ruby": "コップ"
+  },
+  {
+    "id": 319,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "兄は（　　　）が上手で、よく歌いながら弾きます。",
+    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>は（　　　）が<ruby>上手<rt>じょうず</rt></ruby>で、よく<ruby>歌<rt>うた</rt></ruby>いながら<ruby>弾<rt>はじ</rt></ruby>きます。",
+    "choices": [
+      "カメラ",
+      "ニュース",
+      "ギター",
+      "テーブル"
+    ],
+    "choices_ruby": [
+      "カメラ",
+      "ニュース",
+      "ギター",
+      "テーブル"
+    ],
+    "answer": 2,
+    "correct_text": "ギター",
+    "meaning_en": "guitar",
+    "explanation": "「弾く」と一緒に使うのは「ギター」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ギター",
+    "correct_text_ruby": "ギター"
+  },
+  {
+    "id": 320,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "旅行のとき、新しい（　　　）で写真をたくさん撮りました。",
+    "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>のとき、<ruby>新<rt>あたら</rt></ruby>しい（　　　）で<ruby>写真<rt>しゃしん</rt></ruby>をたくさん<ruby>撮<rt>と</rt></ruby>りました。",
+    "choices": [
+      "カメラ",
+      "ベッド",
+      "ギター",
+      "ラジオ"
+    ],
+    "choices_ruby": [
+      "カメラ",
+      "ベッド",
+      "ギター",
+      "ラジオ"
+    ],
+    "answer": 0,
+    "correct_text": "カメラ",
+    "meaning_en": "camera",
+    "explanation": "写真を撮る機械は「カメラ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "カメラ",
+    "correct_text_ruby": "カメラ"
+  },
+  {
+    "id": 321,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "雨がひどいので、駅から（　　　）に乗って帰りました。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>がひどいので、<ruby>駅<rt>えき</rt></ruby>から（　　　）に<ruby>乗<rt>の</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>りました。",
+    "choices": [
+      "テレビ",
+      "タクシー",
+      "ポスト",
+      "ボタン"
+    ],
+    "choices_ruby": [
+      "テレビ",
+      "タクシー",
+      "ポスト",
+      "ボタン"
+    ],
+    "answer": 1,
+    "correct_text": "タクシー",
+    "meaning_en": "taxi",
+    "explanation": "「乗る」ことができる乗り物は「タクシー」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "タクシー",
+    "correct_text_ruby": "タクシー"
+  },
+  {
+    "id": 322,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "友達が来るので、（　　　）にきれいな花を置きました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>来<rt>く</rt></ruby>るので、（　　　）にきれいな<ruby>花<rt>はな</rt></ruby>を<ruby>置<rt>お</rt></ruby>きました。",
+    "choices": [
+      "ペット",
+      "テーブル",
+      "ポスト",
+      "ボタン"
+    ],
+    "choices_ruby": [
+      "ペット",
+      "テーブル",
+      "ポスト",
+      "ボタン"
+    ],
+    "answer": 1,
+    "correct_text": "テーブル",
+    "meaning_en": "table",
+    "explanation": "花を置く家具は「テーブル」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "テーブル",
+    "correct_text_ruby": "テーブル"
+  },
+  {
+    "id": 323,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "夏休みは毎日、（　　　）で泳ぎます。",
+    "question_ruby": "<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>毎日<rt>まいにち</rt></ruby>、（　　　）で<ruby>泳<rt>およ</rt></ruby>ぎます。",
+    "choices": [
+      "カメラ",
+      "ポスト",
+      "ニュース",
+      "プール"
+    ],
+    "choices_ruby": [
+      "カメラ",
+      "ポスト",
+      "ニュース",
+      "プール"
+    ],
+    "answer": 3,
+    "correct_text": "プール",
+    "meaning_en": "swimming pool",
+    "explanation": "泳ぐ場所は「プール」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "プール",
+    "correct_text_ruby": "プール"
+  },
+  {
+    "id": 324,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "冬は寒いので、部屋の中で（　　　）をつけます。",
+    "question_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いので、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で（　　　）をつけます。",
+    "choices": [
+      "ストーブ",
+      "ネクタイ",
+      "ベッド",
+      "ポスト"
+    ],
+    "choices_ruby": [
+      "ストーブ",
+      "ネクタイ",
+      "ベッド",
+      "ポスト"
+    ],
+    "answer": 0,
+    "correct_text": "ストーブ",
+    "meaning_en": "heater",
+    "explanation": "寒い部屋を温める道具は「ストーブ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "ストーブ",
+    "correct_text_ruby": "ストーブ"
+  },
+  {
+    "id": 325,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "朝ごはんに（　　　）とバターを食べます。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>ごはんに（　　　）とバターを<ruby>食<rt>た</rt></ruby>べます。",
+    "choices": [
+      "ペン",
+      "ページ",
+      "パン",
+      "ペット"
+    ],
+    "choices_ruby": [
+      "ペン",
+      "ページ",
+      "パン",
+      "ペット"
+    ],
+    "answer": 2,
+    "correct_text": "パン",
+    "meaning_en": "bread",
+    "explanation": "バターをつけて食べるのは「パン」です。「ペン」は字を書く道具で、音が似ています。",
+    "target_word_reading": "",
+    "correct_text_reading": "パン",
+    "correct_text_ruby": "パン"
+  },
+  {
+    "id": 326,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この問題は（　　　）難しくないです。",
+    "question_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>は（　　　）<ruby>難<rt>むずか</rt></ruby>しくないです。",
+    "choices": [
+      "あまり",
+      "たくさん",
+      "よく",
+      "とても"
+    ],
+    "choices_ruby": [
+      "あまり",
+      "たくさん",
+      "よく",
+      "とても"
+    ],
+    "answer": 0,
+    "correct_text": "あまり",
+    "meaning_en": "not very (with negative)",
+    "explanation": "「あまり〜ない」で「それほど〜ない」という意味になります。「とても」は否定文では使いません。",
+    "target_word_reading": "",
+    "correct_text_reading": "あまり",
+    "correct_text_ruby": "あまり"
+  },
+  {
+    "id": 327,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "A：宿題は終わりましたか。B：はい、（　　　）終わりました。",
+    "question_ruby": "A：<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>終<rt>お</rt></ruby>わりましたか。<br>B：はい、（　　　）<ruby>終<rt>お</rt></ruby>わりました。",
+    "choices": [
+      "あまり",
+      "まだ",
+      "もう",
+      "ずっと"
+    ],
+    "choices_ruby": [
+      "あまり",
+      "まだ",
+      "もう",
+      "ずっと"
+    ],
+    "answer": 2,
+    "correct_text": "もう",
+    "meaning_en": "already",
+    "explanation": "「はい」で答え、終わったことを言うので「もう」が合います。",
+    "target_word_reading": "",
+    "correct_text_reading": "もう",
+    "correct_text_ruby": "もう"
+  },
+  {
+    "id": 328,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "A：宿題は終わりましたか。B：いいえ、（　　　）終わっていません。",
+    "question_ruby": "A：<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>終<rt>お</rt></ruby>わりましたか。<br>B：いいえ、（　　　）<ruby>終<rt>お</rt></ruby>わっていません。",
+    "choices": [
+      "もう",
+      "よく",
+      "すぐ",
+      "まだ"
+    ],
+    "choices_ruby": [
+      "もう",
+      "よく",
+      "すぐ",
+      "まだ"
+    ],
+    "answer": 3,
+    "correct_text": "まだ",
+    "meaning_en": "not yet",
+    "explanation": "「まだ〜ていません」で「今のところ〜ていない」という意味です。",
+    "target_word_reading": "",
+    "correct_text_reading": "まだ",
+    "correct_text_ruby": "まだ"
+  },
+  {
+    "id": 329,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "すみません、もう少し（　　　）話してください。",
+    "question_ruby": "すみません、もう<ruby>少<rt>すこ</rt></ruby>し（　　　）<ruby>話<rt>はな</rt></ruby>してください。",
+    "choices": [
+      "たくさん",
+      "ゆっくり",
+      "あまり",
+      "ときどき"
+    ],
+    "choices_ruby": [
+      "たくさん",
+      "ゆっくり",
+      "あまり",
+      "ときどき"
+    ],
+    "answer": 1,
+    "correct_text": "ゆっくり",
+    "meaning_en": "slowly",
+    "explanation": "話す速さをお願いするときは「ゆっくり」と言います。",
+    "target_word_reading": "",
+    "correct_text_reading": "ゆっくり",
+    "correct_text_ruby": "ゆっくり"
+  },
+  {
+    "id": 330,
+    "source": "実戦オリジナル問題",
+    "category": "文脈規定",
+    "target_word": "",
+    "question": "この道を（　　　）行くと、駅があります。",
+    "question_ruby": "この<ruby>道<rt>みち</rt></ruby>を（　　　）<ruby>行<rt>い</rt></ruby>くと、<ruby>駅<rt>えき</rt></ruby>があります。",
+    "choices": [
+      "たくさん",
+      "いつも",
+      "まっすぐ",
+      "あまり"
+    ],
+    "choices_ruby": [
+      "たくさん",
+      "いつも",
+      "まっすぐ",
+      "あまり"
+    ],
+    "answer": 2,
+    "correct_text": "まっすぐ",
+    "meaning_en": "straight",
+    "explanation": "道を曲がらずに行くことは「まっすぐ」です。",
+    "target_word_reading": "",
+    "correct_text_reading": "まっすぐ",
+    "correct_text_ruby": "まっすぐ"
+  },
+  {
+    "id": 331,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "少し",
+    "question": "お茶をすこし飲みました。",
+    "question_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>を<u>すこし</u><ruby>飲<rt>の</rt></ruby>みました。",
+    "choices": [
+      "お茶をたくさん飲みました。",
+      "お茶を全部飲みました。",
+      "お茶を毎日飲みました。",
+      "お茶をちょっと飲みました。"
+    ],
+    "choices_ruby": [
+      "お<ruby>茶<rt>ちゃ</rt></ruby>をたくさん<ruby>飲<rt>の</rt></ruby>みました。",
+      "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>飲<rt>の</rt></ruby>みました。",
+      "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby><ruby>飲<rt>の</rt></ruby>みました。",
+      "お<ruby>茶<rt>ちゃ</rt></ruby>をちょっと<ruby>飲<rt>の</rt></ruby>みました。"
+    ],
+    "answer": 3,
+    "correct_text": "お茶をちょっと飲みました。",
+    "meaning_en": "a little",
+    "explanation": "「少し」と「ちょっと」はどちらも量が多くないことを表します。「たくさん」は反対の意味です。",
+    "target_word_reading": "すこし",
+    "correct_text_reading": "おちゃをちょっとのみました。",
+    "correct_text_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>をちょっと<ruby>飲<rt>の</rt></ruby>みました。"
+  },
+  {
+    "id": 332,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "易しい",
+    "question": "この問題はやさしいです。",
+    "question_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>は<u>やさしい</u>です。",
+    "choices": [
+      "この問題はむずかしいです。",
+      "この問題はかんたんです。",
+      "この問題は古いです。",
+      "この問題は長いです。"
+    ],
+    "choices_ruby": [
+      "この<ruby>問題<rt>もんだい</rt></ruby>はむずかしいです。",
+      "この<ruby>問題<rt>もんだい</rt></ruby>はかんたんです。",
+      "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いです。",
+      "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>長<rt>なが</rt></ruby>いです。"
+    ],
+    "answer": 1,
+    "correct_text": "この問題はかんたんです。",
+    "meaning_en": "easy",
+    "explanation": "ここでの「やさしい」は「易しい」で、「かんたん」と同じ意味です。「むずかしい」は反対の意味です。",
+    "target_word_reading": "やさしい",
+    "correct_text_reading": "このもんだいはかんたんです。",
+    "correct_text_ruby": "この<ruby>問題<rt>もんだい</rt></ruby>はかんたんです。"
+  },
+  {
+    "id": 333,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "高い",
+    "question": "この時計はたかいです。",
+    "question_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<u>たかい</u>です。",
+    "choices": [
+      "この時計は安くないです。",
+      "この時計は安いです。",
+      "この時計は小さいです。",
+      "この時計は古くないです。"
+    ],
+    "choices_ruby": [
+      "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>安<rt>やす</rt></ruby>くないです。",
+      "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>安<rt>やす</rt></ruby>いです。",
+      "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さいです。",
+      "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>くないです。"
+    ],
+    "answer": 0,
+    "correct_text": "この時計は安くないです。",
+    "meaning_en": "expensive",
+    "explanation": "値段が「高い」ことは「安くない」と言い換えられます。「安い」は反対の意味です。",
+    "target_word_reading": "たかい",
+    "correct_text_reading": "このとけいはやすくないです。",
+    "correct_text_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>安<rt>やす</rt></ruby>くないです。"
+  },
+  {
+    "id": 334,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "忙しい",
+    "question": "今週は仕事がいそがしいです。",
+    "question_ruby": "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<u>いそがしい</u>です。",
+    "choices": [
+      "今週はひまです。",
+      "今週は休みです。",
+      "今週はひまではありません。",
+      "今週は仕事が少ないです。"
+    ],
+    "choices_ruby": [
+      "<ruby>今週<rt>こんしゅう</rt></ruby>はひまです。",
+      "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みです。",
+      "<ruby>今週<rt>こんしゅう</rt></ruby>はひまではありません。",
+      "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。"
+    ],
+    "answer": 2,
+    "correct_text": "今週はひまではありません。",
+    "meaning_en": "busy",
+    "explanation": "「忙しい」は、することが多くて時間がないことです。「ひまではない」と同じ意味になります。",
+    "target_word_reading": "いそがしい",
+    "correct_text_reading": "こんしゅうはひまではありません。",
+    "correct_text_ruby": "<ruby>今週<rt>こんしゅう</rt></ruby>はひまではありません。"
+  },
+  {
+    "id": 335,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "元気",
+    "question": "祖母はげんきです。",
+    "question_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>は<u>げんき</u>です。",
+    "choices": [
+      "祖母は病気です。",
+      "祖母は仕事が忙しいです。",
+      "祖母は有名です。",
+      "祖母は病気ではありません。"
+    ],
+    "choices_ruby": [
+      "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>です。",
+      "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しいです。",
+      "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>です。",
+      "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>ではありません。"
+    ],
+    "answer": 3,
+    "correct_text": "祖母は病気ではありません。",
+    "meaning_en": "healthy; well",
+    "explanation": "「元気」は体の調子がいいことです。「病気ではない」と言い換えられます。",
+    "target_word_reading": "げんき",
+    "correct_text_reading": "そぼはびょうきではありません。",
+    "correct_text_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>ではありません。"
+  },
+  {
+    "id": 336,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "静か",
+    "question": "図書館はしずかです。",
+    "question_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>は<u>しずか</u>です。",
+    "choices": [
+      "図書館は人が多いです。",
+      "図書館は新しいです。",
+      "図書館は音が少ないです。",
+      "図書館は音が大きいです。"
+    ],
+    "choices_ruby": [
+      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいです。",
+      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
+      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。"
+    ],
+    "answer": 2,
+    "correct_text": "図書館は音が少ないです。",
+    "meaning_en": "quiet",
+    "explanation": "「静か」は音が少ないことです。「音が大きい」は反対の意味です。",
+    "target_word_reading": "しずか",
+    "correct_text_reading": "としょかんはおとがすくないです。",
+    "correct_text_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。"
+  },
+  {
+    "id": 337,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "上手",
+    "question": "兄はサッカーがじょうずです。",
+    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>はサッカーが<u>じょうず</u>です。",
+    "choices": [
+      "兄はサッカーが好きではありません。",
+      "兄はサッカーがよくできます。",
+      "兄はサッカーを見ません。",
+      "兄はサッカーができません。"
+    ],
+    "choices_ruby": [
+      "<ruby>兄<rt>あに</rt></ruby>はサッカーが<ruby>好<rt>す</rt></ruby>きではありません。",
+      "<ruby>兄<rt>あに</rt></ruby>はサッカーがよくできます。",
+      "<ruby>兄<rt>あに</rt></ruby>はサッカーを<ruby>見<rt>み</rt></ruby>ません。",
+      "<ruby>兄<rt>あに</rt></ruby>はサッカーができません。"
+    ],
+    "answer": 1,
+    "correct_text": "兄はサッカーがよくできます。",
+    "meaning_en": "skillful; good at",
+    "explanation": "「上手」は、うまくできることです。「よくできる」と同じ意味です。",
+    "target_word_reading": "じょうず",
+    "correct_text_reading": "あにはサッカーがよくできます。",
+    "correct_text_ruby": "<ruby>兄<rt>あに</rt></ruby>はサッカーがよくできます。"
+  },
+  {
+    "id": 338,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "下手",
+    "question": "私は料理がへたです。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<u>へた</u>です。",
+    "choices": [
+      "私は料理が上手ではありません。",
+      "私は料理が好きです。",
+      "私は料理が上手です。",
+      "私は料理をよく作ります。"
+    ],
+    "choices_ruby": [
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ではありません。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>をよく<ruby>作<rt>つく</rt></ruby>ります。"
+    ],
+    "answer": 0,
+    "correct_text": "私は料理が上手ではありません。",
+    "meaning_en": "poor at; unskillful",
+    "explanation": "「下手」は、うまくできないことです。「上手ではない」と言い換えられます。",
+    "target_word_reading": "へた",
+    "correct_text_reading": "わたしはりょうりがじょうずではありません。",
+    "correct_text_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ではありません。"
+  },
+  {
+    "id": 339,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "毎朝",
+    "question": "まいあさ、コーヒーを飲みます。",
+    "question_ruby": "<u>まいあさ</u>、コーヒーを<ruby>飲<rt>の</rt></ruby>みます。",
+    "choices": [
+      "朝はときどき、コーヒーを飲みます。",
+      "朝はいつも、コーヒーを飲みます。",
+      "朝はまだ、コーヒーを飲んでいません。",
+      "朝はあまり、コーヒーを飲みません。"
+    ],
+    "choices_ruby": [
+      "<ruby>朝<rt>あさ</rt></ruby>はときどき、コーヒーを<ruby>飲<rt>の</rt></ruby>みます。",
+      "<ruby>朝<rt>あさ</rt></ruby>はいつも、コーヒーを<ruby>飲<rt>の</rt></ruby>みます。",
+      "<ruby>朝<rt>あさ</rt></ruby>はまだ、コーヒーを<ruby>飲<rt>の</rt></ruby>んでいません。",
+      "<ruby>朝<rt>あさ</rt></ruby>はあまり、コーヒーを<ruby>飲<rt>の</rt></ruby>みません。"
+    ],
+    "answer": 1,
+    "correct_text": "朝はいつも、コーヒーを飲みます。",
+    "meaning_en": "every morning",
+    "explanation": "「毎朝」は朝になるたびにすることなので、「朝はいつも」と言い換えられます。「ときどき」は回数が少なくなります。",
+    "target_word_reading": "まいあさ",
+    "correct_text_reading": "あさはいつも、コーヒーをのみます。",
+    "correct_text_ruby": "<ruby>朝<rt>あさ</rt></ruby>はいつも、コーヒーを<ruby>飲<rt>の</rt></ruby>みます。"
+  },
+  {
+    "id": 340,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "病気",
+    "question": "弟はびょうきです。",
+    "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>は<u>びょうき</u>です。",
+    "choices": [
+      "弟は学校で勉強しています。",
+      "弟は今日、仕事が忙しいです。",
+      "弟はとても元気です。",
+      "弟は体の調子が悪いです。"
+    ],
+    "choices_ruby": [
+      "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+      "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しいです。",
+      "<ruby>弟<rt>おとうと</rt></ruby>はとても<ruby>元気<rt>げんき</rt></ruby>です。",
+      "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。"
+    ],
+    "answer": 3,
+    "correct_text": "弟は体の調子が悪いです。",
+    "meaning_en": "illness; sick",
+    "explanation": "「病気」は体の調子が悪いことです。「元気」は反対の意味です。",
+    "target_word_reading": "びょうき",
+    "correct_text_reading": "おとうとはからだのちょうしがわるいです。",
+    "correct_text_ruby": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。"
+  },
+  {
+    "id": 341,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "近い",
+    "question": "駅はうちからちかいです。",
+    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>はうちから<u>ちかい</u>です。",
+    "choices": [
+      "駅はうちから遠いです。",
+      "駅はうちから広くないです。",
+      "駅はうちから遠くないです。",
+      "駅はうちから古くないです。"
+    ],
+    "choices_ruby": [
+      "<ruby>駅<rt>えき</rt></ruby>はうちから<ruby>遠<rt>とお</rt></ruby>いです。",
+      "<ruby>駅<rt>えき</rt></ruby>はうちから<ruby>広<rt>ひろ</rt></ruby>くないです。",
+      "<ruby>駅<rt>えき</rt></ruby>はうちから<ruby>遠<rt>とお</rt></ruby>くないです。",
+      "<ruby>駅<rt>えき</rt></ruby>はうちから<ruby>古<rt>ふる</rt></ruby>くないです。"
+    ],
+    "answer": 2,
+    "correct_text": "駅はうちから遠くないです。",
+    "meaning_en": "near",
+    "explanation": "「近い」は距離が短いことで、「遠くない」と同じ意味です。",
+    "target_word_reading": "ちかい",
+    "correct_text_reading": "えきはうちからとおくないです。",
+    "correct_text_ruby": "<ruby>駅<rt>えき</rt></ruby>はうちから<ruby>遠<rt>とお</rt></ruby>くないです。"
+  },
+  {
+    "id": 342,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "昨夜",
+    "question": "ゆうべは早く寝ました。",
+    "question_ruby": "<u>ゆうべ</u>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。",
+    "choices": [
+      "きのうの夜は早く寝ました。",
+      "きのうの昼は早く寝ました。",
+      "毎晩早く寝ました。",
+      "今朝は早く寝ました。"
+    ],
+    "choices_ruby": [
+      "きのうの<ruby>夜<rt>よる</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。",
+      "きのうの<ruby>昼<rt>ひる</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。",
+      "<ruby>毎晩<rt>まいばん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。",
+      "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。"
+    ],
+    "answer": 0,
+    "correct_text": "きのうの夜は早く寝ました。",
+    "meaning_en": "last night",
+    "explanation": "「昨夜（ゆうべ）」は「きのうの夜」のことです。",
+    "target_word_reading": "ゆうべ",
+    "correct_text_reading": "きのうのよるははやくねました。",
+    "correct_text_ruby": "きのうの<ruby>夜<rt>よる</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ました。"
+  },
+  {
+    "id": 343,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "今朝",
+    "question": "けさは雨でした。",
+    "question_ruby": "<u>けさ</u>は<ruby>雨<rt>あめ</rt></ruby>でした。",
+    "choices": [
+      "あしたの朝は雨でした。",
+      "毎朝、雨でした。",
+      "今日の朝は雨でした。",
+      "きのうの朝は雨でした。"
+    ],
+    "choices_ruby": [
+      "あしたの<ruby>朝<rt>あさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でした。",
+      "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>でした。",
+      "<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でした。",
+      "きのうの<ruby>朝<rt>あさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でした。"
+    ],
+    "answer": 2,
+    "correct_text": "今日の朝は雨でした。",
+    "meaning_en": "this morning",
+    "explanation": "「今朝（けさ）」は「今日の朝」のことです。",
+    "target_word_reading": "けさ",
+    "correct_text_reading": "きょうのあさはあめでした。",
+    "correct_text_ruby": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でした。"
+  },
+  {
+    "id": 344,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "来月",
+    "question": "らいげつ、友達と旅行します。",
+    "question_ruby": "<u>らいげつ</u>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。",
+    "choices": [
+      "今月の前の月に、友達と旅行します。",
+      "毎月、友達と旅行します。",
+      "先月の前の月に、友達と旅行します。",
+      "今月の次の月に、友達と旅行します。"
+    ],
+    "choices_ruby": [
+      "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。",
+      "<ruby>毎月<rt>まいつき</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。",
+      "<ruby>先月<rt>せんげつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。",
+      "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。"
+    ],
+    "answer": 3,
+    "correct_text": "今月の次の月に、友達と旅行します。",
+    "meaning_en": "next month",
+    "explanation": "「来月」は「今月の次の月」です。「今月の前の月」は「先月」です。",
+    "target_word_reading": "らいげつ",
+    "correct_text_reading": "こんげつのつぎのつきに、ともだちとりょこうします。",
+    "correct_text_ruby": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。"
+  },
+  {
+    "id": 345,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "有名",
+    "question": "この町はゆうめいです。",
+    "question_ruby": "この<ruby>町<rt>まち</rt></ruby>は<u>ゆうめい</u>です。",
+    "choices": [
+      "この町は人が少ないです。",
+      "この町は多くの人が知っています。",
+      "この町は小さくて静かです。",
+      "この町は駅から近いです。"
+    ],
+    "choices_ruby": [
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>知<rt>し</rt></ruby>っています。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さくて<ruby>静<rt>しず</rt></ruby>かです。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いです。"
+    ],
+    "answer": 1,
+    "correct_text": "この町は多くの人が知っています。",
+    "meaning_en": "famous",
+    "explanation": "「有名」は、多くの人に知られていることです。",
+    "target_word_reading": "ゆうめい",
+    "correct_text_reading": "このまちはおおくのひとがしっています。",
+    "correct_text_ruby": "この<ruby>町<rt>まち</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>知<rt>し</rt></ruby>っています。"
+  },
+  {
+    "id": 346,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "全部",
+    "question": "宿題はぜんぶ終わりました。",
+    "question_ruby": "<ruby>宿題<rt>しゅくだい</rt></ruby>は<u>ぜんぶ</u><ruby>終<rt>お</rt></ruby>わりました。",
+    "choices": [
+      "宿題はみんな終わりました。",
+      "宿題はまだ終わっていません。",
+      "宿題は一つだけ終わりました。",
+      "宿題は少し終わりました。"
+    ],
+    "choices_ruby": [
+      "<ruby>宿題<rt>しゅくだい</rt></ruby>はみんな<ruby>終<rt>お</rt></ruby>わりました。",
+      "<ruby>宿題<rt>しゅくだい</rt></ruby>はまだ<ruby>終<rt>お</rt></ruby>わっていません。",
+      "<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>一つ<rt>ひとつ</rt></ruby>だけ<ruby>終<rt>お</rt></ruby>わりました。",
+      "<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>終<rt>お</rt></ruby>わりました。"
+    ],
+    "answer": 0,
+    "correct_text": "宿題はみんな終わりました。",
+    "meaning_en": "all; everything",
+    "explanation": "「全部」は残りがないことで、「みんな」と同じ意味で使えます。",
+    "target_word_reading": "ぜんぶ",
+    "correct_text_reading": "しゅくだいはみんなおわりました。",
+    "correct_text_ruby": "<ruby>宿題<rt>しゅくだい</rt></ruby>はみんな<ruby>終<rt>お</rt></ruby>わりました。"
+  },
+  {
+    "id": 347,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "終わります",
+    "question": "授業は五時におわります。",
+    "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>に<u>おわります</u>。",
+    "choices": [
+      "授業は五時からです。",
+      "授業は五時に始まります。",
+      "授業は五時に来ます。",
+      "授業は五時までです。"
+    ],
+    "choices_ruby": [
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>からです。",
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。",
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。",
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>までです。"
+    ],
+    "answer": 3,
+    "correct_text": "授業は五時までです。",
+    "meaning_en": "ends; finishes",
+    "explanation": "「五時に終わる」は「五時まで」と同じ意味です。「五時から」は始まる時間を表します。",
+    "target_word_reading": "おわります",
+    "correct_text_reading": "じゅぎょうはごじまでです。",
+    "correct_text_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>五時<rt>ごじ</rt></ruby>までです。"
+  },
+  {
+    "id": 348,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "始まります",
+    "question": "会議は九時にはじまります。",
+    "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>に<u>はじまります</u>。",
+    "choices": [
+      "会議は九時に終わります。",
+      "会議は九時からです。",
+      "会議は九時前に終わります。",
+      "会議は九時までです。"
+    ],
+    "choices_ruby": [
+      "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。",
+      "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>からです。",
+      "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。",
+      "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>までです。"
+    ],
+    "answer": 1,
+    "correct_text": "会議は九時からです。",
+    "meaning_en": "begins; starts",
+    "explanation": "「九時に始まる」は「九時から」と同じ意味です。「九時まで」は終わる時間を表します。",
+    "target_word_reading": "はじまります",
+    "correct_text_reading": "かいぎはくじからです。",
+    "correct_text_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>からです。"
+  },
+  {
+    "id": 349,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "広い",
+    "question": "この部屋はひろいです。",
+    "question_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<u>ひろい</u>です。",
+    "choices": [
+      "この部屋は狭くないです。",
+      "この部屋は明るくないです。",
+      "この部屋は狭いです。",
+      "この部屋は新しくないです。"
+    ],
+    "choices_ruby": [
+      "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>狭<rt>せま</rt></ruby>くないです。",
+      "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るくないです。",
+      "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>狭<rt>せま</rt></ruby>いです。",
+      "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しくないです。"
+    ],
+    "answer": 0,
+    "correct_text": "この部屋は狭くないです。",
+    "meaning_en": "spacious",
+    "explanation": "「広い」は「狭くない」と言い換えられます。「狭い」は反対の意味です。",
+    "target_word_reading": "ひろい",
+    "correct_text_reading": "このへやはせまくないです。",
+    "correct_text_ruby": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>狭<rt>せま</rt></ruby>くないです。"
+  },
+  {
+    "id": 350,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "暗い",
+    "question": "夜の道はくらいです。",
+    "question_ruby": "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>は<u>くらい</u>です。",
+    "choices": [
+      "夜の道は水が冷たいです。",
+      "夜の道は人が多いです。",
+      "夜の道はものが見えにくいです。",
+      "夜の道は音が大きいです。"
+    ],
+    "choices_ruby": [
+      "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>は<ruby>水<rt>みず</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいです。",
+      "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>はものが<ruby>見<rt>み</rt></ruby>えにくいです。",
+      "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。"
+    ],
+    "answer": 2,
+    "correct_text": "夜の道はものが見えにくいです。",
+    "meaning_en": "dark",
+    "explanation": "「暗い」は光が少なくて、見えにくいことです。",
+    "target_word_reading": "くらい",
+    "correct_text_reading": "よるのみちはものがみえにくいです。",
+    "correct_text_ruby": "<ruby>夜<rt>よる</rt></ruby>の<ruby>道<rt>みち</rt></ruby>はものが<ruby>見<rt>み</rt></ruby>えにくいです。"
+  },
+  {
+    "id": 351,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "欲しい",
+    "question": "新しいかばんがほしいです。",
+    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しいかばんが<u>ほしい</u>です。",
+    "choices": [
+      "新しいかばんを持っています。",
+      "新しいかばんを買いたいです。",
+      "新しいかばんを買いました。",
+      "新しいかばんが好きです。"
+    ],
+    "choices_ruby": [
+      "<ruby>新<rt>あたら</rt></ruby>しいかばんを<ruby>持<rt>も</rt></ruby>っています。",
+      "<ruby>新<rt>あたら</rt></ruby>しいかばんを<ruby>買<rt>か</rt></ruby>いたいです。",
+      "<ruby>新<rt>あたら</rt></ruby>しいかばんを<ruby>買<rt>か</rt></ruby>いました。",
+      "<ruby>新<rt>あたら</rt></ruby>しいかばんが<ruby>好<rt>す</rt></ruby>きです。"
+    ],
+    "answer": 1,
+    "correct_text": "新しいかばんを買いたいです。",
+    "meaning_en": "want",
+    "explanation": "「ほしい」は、手に入れたいということです。「買いたい」と近い意味です。",
+    "target_word_reading": "ほしい",
+    "correct_text_reading": "あたらしいかばんをかいたいです。",
+    "correct_text_ruby": "<ruby>新<rt>あたら</rt></ruby>しいかばんを<ruby>買<rt>か</rt></ruby>いたいです。"
+  },
+  {
+    "id": 352,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "暇",
+    "question": "今日はひまです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<u>ひま</u>です。",
+    "choices": [
+      "今日はとても忙しいです。",
+      "今日は会議があります。",
+      "今日はすることがありません。",
+      "今日は仕事がたくさんあります。"
+    ],
+    "choices_ruby": [
+      "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>忙<rt>いそが</rt></ruby>しいです。",
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>会議<rt>かいぎ</rt></ruby>があります。",
+      "<ruby>今日<rt>きょう</rt></ruby>はすることがありません。",
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>がたくさんあります。"
+    ],
+    "answer": 2,
+    "correct_text": "今日はすることがありません。",
+    "meaning_en": "free (time); idle",
+    "explanation": "「ひま」は、することがなくて時間があることです。",
+    "target_word_reading": "ひま",
+    "correct_text_reading": "きょうはすることがありません。",
+    "correct_text_ruby": "<ruby>今日<rt>きょう</rt></ruby>はすることがありません。"
+  },
+  {
+    "id": 353,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "悪い",
+    "question": "今日は天気がわるいです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<u>わるい</u>です。",
+    "choices": [
+      "今日は天気が明るいです。",
+      "今日は天気がいいです。",
+      "今日は天気が暑くないです。",
+      "今日は天気がよくないです。"
+    ],
+    "choices_ruby": [
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るいです。",
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいです。",
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>暑<rt>あつ</rt></ruby>くないです。",
+      "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がよくないです。"
+    ],
+    "answer": 3,
+    "correct_text": "今日は天気がよくないです。",
+    "meaning_en": "bad",
+    "explanation": "「悪い」は「よくない」と同じ意味です。「いい」は反対の意味です。",
+    "target_word_reading": "わるい",
+    "correct_text_reading": "きょうはてんきがよくないです。",
+    "correct_text_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がよくないです。"
+  },
+  {
+    "id": 354,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "多い",
+    "question": "この町は店がおおいです。",
+    "question_ruby": "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>が<u>おおい</u>です。",
+    "choices": [
+      "この町は店がたくさんあります。",
+      "この町は店が古いです。",
+      "この町は店がありません。",
+      "この町は店が少ないです。"
+    ],
+    "choices_ruby": [
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>がたくさんあります。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>いです。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>がありません。",
+      "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。"
+    ],
+    "answer": 0,
+    "correct_text": "この町は店がたくさんあります。",
+    "meaning_en": "many",
+    "explanation": "「多い」は数が多いことで、「たくさんある」と言い換えられます。「少ない」は反対の意味です。",
+    "target_word_reading": "おおい",
+    "correct_text_reading": "このまちはみせがたくさんあります。",
+    "correct_text_ruby": "この<ruby>町<rt>まち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>がたくさんあります。"
+  },
+  {
+    "id": 355,
+    "source": "実戦オリジナル問題",
+    "category": "類義語",
+    "target_word": "夕方",
+    "question": "ゆうがた、公園を散歩します。",
+    "question_ruby": "<u>ゆうがた</u>、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+    "choices": [
+      "夜になった後で、公園を散歩します。",
+      "夜になる前に、公園を散歩します。",
+      "朝になる前に、公園を散歩します。",
+      "昼になった後で、公園を散歩します。"
+    ],
+    "choices_ruby": [
+      "<ruby>夜<rt>よる</rt></ruby>になった<ruby>後<rt>あと</rt></ruby>で、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+      "<ruby>夜<rt>よる</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+      "<ruby>朝<rt>あさ</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+      "<ruby>昼<rt>ひる</rt></ruby>になった<ruby>後<rt>あと</rt></ruby>で、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。"
+    ],
+    "answer": 1,
+    "correct_text": "夜になる前に、公園を散歩します。",
+    "meaning_en": "evening",
+    "explanation": "「夕方」は、日が暮れて夜になる前の時間です。",
+    "target_word_reading": "ゆうがた",
+    "correct_text_reading": "よるになるまえに、こうえんをさんぽします。",
+    "correct_text_ruby": "<ruby>夜<rt>よる</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>に、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。"
+  },
+  {
+    "id": 356,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "大勢",
+    "question": "【大勢】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>大勢<rt>たいせい</rt></ruby>】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "日曜日の公園には、大勢の人がいました。",
+      "テーブルの上に、大勢のりんごがあります。",
+      "私は大勢の水を飲みました。",
+      "大勢で、一人で映画を見に行きました。"
+    ],
+    "choices_ruby": [
+      "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。",
+      "テーブルの<ruby>上<rt>うえ</rt></ruby>に、<ruby>大勢<rt>たいせい</rt></ruby>のりんごがあります。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
+      "<ruby>大勢<rt>たいせい</rt></ruby>で、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    ],
+    "answer": 0,
+    "correct_text": "日曜日の公園には、大勢の人がいました。",
+    "meaning_en": "a large number of people",
+    "explanation": "「大勢」は人が多いときに使います。物や水には「たくさん」を使います。",
+    "target_word_reading": "おおぜい",
+    "correct_text_reading": "おおぜい",
+    "correct_text_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。"
+  },
+  {
+    "id": 357,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "習う",
+    "question": "【習う】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>習<rt>なら</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "先生は毎週土曜日に、私にピアノを習っています。",
+      "弟に誕生日のプレゼントを習いました。",
+      "私は毎週土曜日に、友達に日本語を習ってあげます。",
+      "私は毎週土曜日に、先生にピアノを習っています。"
+    ],
+    "choices_ruby": [
+      "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>私<rt>わたし</rt></ruby>にピアノを<ruby>習<rt>なら</rt></ruby>っています。",
+      "<ruby>弟<rt>おとうと</rt></ruby>に<ruby>誕生日<rt>たんじょうび</rt></ruby>のプレゼントを<ruby>習<rt>なら</rt></ruby>いました。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>習<rt>なら</rt></ruby>ってあげます。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>先生<rt>せんせい</rt></ruby>にピアノを<ruby>習<rt>なら</rt></ruby>っています。"
+    ],
+    "answer": 3,
+    "correct_text": "私は毎週土曜日に、先生にピアノを習っています。",
+    "meaning_en": "to learn (from someone)",
+    "explanation": "「習う」は、先生などから教えてもらうときに使います。教える側は「教える」です。",
+    "target_word_reading": "ならう",
+    "correct_text_reading": "ならう",
+    "correct_text_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>先生<rt>せんせい</rt></ruby>にピアノを<ruby>習<rt>なら</rt></ruby>っています。"
+  },
+  {
+    "id": 358,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "借りる",
+    "question": "【借りる】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>借<rt>か</rt></ruby>りる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "友達が自転車を忘れたので、私の自転車を借りてあげました。",
+      "友達に自転車を借りて、公園へ行きました。",
+      "借りた本は、今日、図書館に借りました。",
+      "この辞書は私のですから、あなたに借ります。"
+    ],
+    "choices_ruby": [
+      "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたので、<ruby>私<rt>わたし</rt></ruby>の<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りてあげました。",
+      "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りて、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
+      "<ruby>借<rt>か</rt></ruby>りた<ruby>本<rt>ほん</rt></ruby>は、<ruby>今日<rt>きょう</rt></ruby>、<ruby>図書館<rt>としょかん</rt></ruby>に<ruby>借<rt>か</rt></ruby>りました。",
+      "この<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のですから、あなたに<ruby>借<rt>か</rt></ruby>ります。"
+    ],
+    "answer": 1,
+    "correct_text": "友達に自転車を借りて、公園へ行きました。",
+    "meaning_en": "to borrow",
+    "explanation": "「借りる」は、人から物を借りることです。自分の物や、返すときには使いません。",
+    "target_word_reading": "かりる",
+    "correct_text_reading": "かりる",
+    "correct_text_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りて、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。"
+  },
+  {
+    "id": 359,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "着る",
+    "question": "【着る】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>着<rt>き</rt></ruby>る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "眼鏡を着て、新聞を読みます。",
+      "夏は、毎日帽子を着て学校へ行きます。",
+      "冬は、あたたかいセーターを着ます。",
+      "新しい靴を着て、散歩に行きました。"
+    ],
+    "choices_ruby": [
+      "<ruby>眼鏡<rt>めがね</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+      "<ruby>夏<rt>なつ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "<ruby>冬<rt>ふゆ</rt></ruby>は、あたたかいセーターを<ruby>着<rt>き</rt></ruby>ます。",
+      "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+    ],
+    "answer": 2,
+    "correct_text": "冬は、あたたかいセーターを着ます。",
+    "meaning_en": "to wear (clothes)",
+    "explanation": "「着る」は服に使います。帽子は「かぶる」、靴は「はく」、眼鏡は「かける」です。",
+    "target_word_reading": "きる",
+    "correct_text_reading": "きる",
+    "correct_text_ruby": "<ruby>冬<rt>ふゆ</rt></ruby>は、あたたかいセーターを<ruby>着<rt>き</rt></ruby>ます。"
+  },
+  {
+    "id": 360,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "洗う",
+    "question": "【洗う】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>洗<rt>あら</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "食事の前に、きれいな水で手を洗います。",
+      "コーヒーを洗って、飲みました。",
+      "毎朝、顔を洗って、歯を洗います。",
+      "朝ごはんを食べた後で、シャワーを洗います。"
+    ],
+    "choices_ruby": [
+      "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、きれいな<ruby>水<rt>みず</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "コーヒーを<ruby>洗<rt>あら</rt></ruby>って、<ruby>飲<rt>の</rt></ruby>みました。",
+      "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>って、<ruby>歯<rt>は</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+      "<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で、シャワーを<ruby>洗<rt>あら</rt></ruby>います。"
+    ],
+    "answer": 0,
+    "correct_text": "食事の前に、きれいな水で手を洗います。",
+    "meaning_en": "to wash",
+    "explanation": "「洗う」は水で汚れを取るときに使います。歯は「磨く」、シャワーは「浴びる」です。",
+    "target_word_reading": "あらう",
+    "correct_text_reading": "あらう",
+    "correct_text_ruby": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、きれいな<ruby>水<rt>みず</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。"
+  },
+  {
+    "id": 361,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "磨く",
+    "question": "【磨く】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>磨<rt>みが</rt></ruby>く】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "雨の日は、傘を磨いて出かけます。",
+      "食事の前に、手を磨きます。",
+      "毎朝、顔を磨いてから、出かけます。",
+      "毎晩、寝る前に歯を磨きます。"
+    ],
+    "choices_ruby": [
+      "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、<ruby>傘<rt>かさ</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。",
+      "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>手<rt>て</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
+      "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>顔<rt>かお</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>いてから、<ruby>出<rt>で</rt></ruby>かけます。",
+      "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。"
+    ],
+    "answer": 3,
+    "correct_text": "毎晩、寝る前に歯を磨きます。",
+    "meaning_en": "to brush; to polish",
+    "explanation": "「磨く」は歯や靴などをこすってきれいにするときに使います。顔や手は「洗う」です。",
+    "target_word_reading": "みがく",
+    "correct_text_reading": "みがく",
+    "correct_text_ruby": "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。"
+  },
+  {
+    "id": 362,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "多い",
+    "question": "【多い】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>多<rt>おお</rt></ruby>い】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "私は、多い友達がいます。",
+      "昨日は、多い雨が降りました。",
+      "この町は、公園が多いです。",
+      "この町には、多い公園があります。"
+    ],
+    "choices_ruby": [
+      "<ruby>私<rt>わたし</rt></ruby>は、<ruby>多<rt>おお</rt></ruby>い<ruby>友達<rt>ともだち</rt></ruby>がいます。",
+      "<ruby>昨日<rt>きのう</rt></ruby>は、<ruby>多<rt>おお</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りました。",
+      "この<ruby>町<rt>まち</rt></ruby>は、<ruby>公園<rt>こうえん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "この<ruby>町<rt>まち</rt></ruby>には、<ruby>多<rt>おお</rt></ruby>い<ruby>公園<rt>こうえん</rt></ruby>があります。"
+    ],
+    "answer": 2,
+    "correct_text": "この町は、公園が多いです。",
+    "meaning_en": "many; a lot",
+    "explanation": "「多い」は「〜が多いです」の形で使います。名前の前に付けるときは「多くの」「たくさんの」と言います。",
+    "target_word_reading": "おおい",
+    "correct_text_reading": "おおい",
+    "correct_text_ruby": "この<ruby>町<rt>まち</rt></ruby>は、<ruby>公園<rt>こうえん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。"
+  },
+  {
+    "id": 363,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "開ける",
+    "question": "【開ける】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>開<rt>あ</rt></ruby>ける】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "暑いので、エアコンを開けます。",
+      "暑いので、窓を開けます。",
+      "暗いので、電気を開けます。",
+      "寒いので、ストーブを開けます。"
+    ],
+    "choices_ruby": [
+      "<ruby>暑<rt>あつ</rt></ruby>いので、エアコンを<ruby>開<rt>あ</rt></ruby>けます。",
+      "<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。",
+      "<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電気<rt>でんき</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。",
+      "<ruby>寒<rt>さむ</rt></ruby>いので、ストーブを<ruby>開<rt>あ</rt></ruby>けます。"
+    ],
+    "answer": 1,
+    "correct_text": "暑いので、窓を開けます。",
+    "meaning_en": "to open",
+    "explanation": "「開ける」は窓やドア、箱などに使います。電気やエアコンは「つける」です。",
+    "target_word_reading": "あける",
+    "correct_text_reading": "あける",
+    "correct_text_ruby": "<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。"
+  },
+  {
+    "id": 364,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "消す",
+    "question": "【消す】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>消<rt>け</rt></ruby>す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "寝る前に、ドアを消します。",
+      "寝る前に、手紙を消します。",
+      "寝る前に、窓を消します。",
+      "寝る前に、電気を消します。"
+    ],
+    "choices_ruby": [
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、ドアを<ruby>消<rt>け</rt></ruby>します。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>窓<rt>まど</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。"
+    ],
+    "answer": 3,
+    "correct_text": "寝る前に、電気を消します。",
+    "meaning_en": "to turn off; to erase",
+    "explanation": "「消す」は電気やテレビを止めるときや、字をなくすときに使います。ドアや窓は「閉める」です。",
+    "target_word_reading": "けす",
+    "correct_text_reading": "けす",
+    "correct_text_ruby": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。"
+  },
+  {
+    "id": 365,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "終わる",
+    "question": "【終わる】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>終<rt>お</rt></ruby>わる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "授業は十二時に終わります。",
+      "私は宿題を終わって、寝ました。",
+      "先生は十二時に授業を終わります。",
+      "仕事を終わったので、帰ります。"
+    ],
+    "choices_ruby": [
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>終<rt>お</rt></ruby>わって、<ruby>寝<rt>ね</rt></ruby>ました。",
+      "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>わります。",
+      "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>わったので、<ruby>帰<rt>かえ</rt></ruby>ります。"
+    ],
+    "answer": 0,
+    "correct_text": "授業は十二時に終わります。",
+    "meaning_en": "to end; to be over",
+    "explanation": "「終わる」は「授業が終わる」のように、物事が主語になります。「〜を終わる」とは言いません。",
+    "target_word_reading": "おわる",
+    "correct_text_reading": "おわる",
+    "correct_text_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+  },
+  {
+    "id": 366,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "住む",
+    "question": "【住む】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>住<rt>す</rt></ruby>む】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "私は東京の小さいアパートを住んでいます。",
+      "私は東京の小さいアパートに住んでいます。",
+      "私は毎日、会社に住んでいます。",
+      "私の家は、駅から住んでいます。"
+    ],
+    "choices_ruby": [
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さいアパートを<ruby>住<rt>す</rt></ruby>んでいます。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さいアパートに<ruby>住<rt>す</rt></ruby>んでいます。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
+      "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>から<ruby>住<rt>す</rt></ruby>んでいます。"
+    ],
+    "answer": 1,
+    "correct_text": "私は東京の小さいアパートに住んでいます。",
+    "meaning_en": "to live; to reside",
+    "explanation": "「住む」は場所を「に」で表して「〜に住む」と言います。「〜を住む」とは言いません。",
+    "target_word_reading": "すむ",
+    "correct_text_reading": "すむ",
+    "correct_text_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さいアパートに<ruby>住<rt>す</rt></ruby>んでいます。"
+  },
+  {
+    "id": 367,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "乗る",
+    "question": "【乗る】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>乗<rt>の</rt></ruby>る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "毎朝、自転車を乗って、学校へ行きます。",
+      "駅から会社まで、タクシーを乗ります。",
+      "駅で電車に乗って、会社へ行きます。",
+      "駅で電車を乗って、会社へ行きます。"
+    ],
+    "choices_ruby": [
+      "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>って、<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "<ruby>駅<rt>えき</rt></ruby>から<ruby>会社<rt>かいしゃ</rt></ruby>まで、タクシーを<ruby>乗<rt>の</rt></ruby>ります。",
+      "<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    ],
+    "answer": 2,
+    "correct_text": "駅で電車に乗って、会社へ行きます。",
+    "meaning_en": "to ride; to get on",
+    "explanation": "「乗る」は乗り物を「に」で表して「電車に乗る」と言います。「を」は使いません。",
+    "target_word_reading": "のる",
+    "correct_text_reading": "のる",
+    "correct_text_ruby": "<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+  },
+  {
+    "id": 368,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "並ぶ",
+    "question": "【並ぶ】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>並<rt>なら</rt></ruby>ぶ】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "駅の前で、人が切符を買うために並んでいます。",
+      "ここに靴を並んでください。",
+      "私は毎朝、切符を並んでいます。",
+      "先生が本を机の上に並んでいます。"
+    ],
+    "choices_ruby": [
+      "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby>が<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うために<ruby>並<rt>なら</rt></ruby>んでいます。",
+      "ここに<ruby>靴<rt>くつ</rt></ruby>を<ruby>並<rt>なら</rt></ruby>んでください。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>並<rt>なら</rt></ruby>んでいます。",
+      "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>本<rt>ほん</rt></ruby>を<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んでいます。"
+    ],
+    "answer": 0,
+    "correct_text": "駅の前で、人が切符を買うために並んでいます。",
+    "meaning_en": "to line up",
+    "explanation": "「並ぶ」は人や物が列になることです。物を列にするときは「並べる」を使います。",
+    "target_word_reading": "ならぶ",
+    "correct_text_reading": "ならぶ",
+    "correct_text_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby>が<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うために<ruby>並<rt>なら</rt></ruby>んでいます。"
+  },
+  {
+    "id": 369,
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "貸す",
+    "question": "【貸す】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>貸<rt>か</rt></ruby>す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "choices": [
+      "私は図書館から本を貸しました。",
+      "友達に傘を貸してあげました。",
+      "友達が私に傘を貸してあげました。",
+      "私は友達から千円を貸しました。"
+    ],
+    "choices_ruby": [
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>図書館<rt>としょかん</rt></ruby>から<ruby>本<rt>ほん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>しました。",
+      "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してあげました。",
+      "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してあげました。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>から<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>しました。"
+    ],
+    "answer": 1,
+    "correct_text": "友達に傘を貸してあげました。",
+    "meaning_en": "to lend",
+    "explanation": "「貸す」は、自分の物を人に使わせることです。人から借りるときは「借りる」を使います。",
+    "target_word_reading": "かす",
+    "correct_text_reading": "かす",
+    "correct_text_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してあげました。"
   },
   {
     "id": 370,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の読み",
-    "target_word": "ぶんしょお",
-    "question": "彼は<u>文章</u>がうまい。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<u>文章</u>がうまい。",
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "使う",
+    "question": "【使う】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>使<rt>つか</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
-      "ぶんしょ",
-      "ぶんしょお",
-      "ぶんしょう",
-      "ぷんしょう"
+      "ペンを使って、ごはんを食べます。",
+      "ナイフを使って、スープを飲みます。",
+      "ナイフとフォークを使って、ステーキを食べます。",
+      "傘を使って、手紙を書きます。"
     ],
     "choices_ruby": [
-      "ぶんしょ",
-      "ぶんしょお",
-      "ぶんしょう",
-      "ぷんしょう"
+      "ペンを<ruby>使<rt>つか</rt></ruby>って、ごはんを<ruby>食<rt>た</rt></ruby>べます。",
+      "ナイフを<ruby>使<rt>つか</rt></ruby>って、スープを<ruby>飲<rt>の</rt></ruby>みます。",
+      "ナイフとフォークを<ruby>使<rt>つか</rt></ruby>って、ステーキを<ruby>食<rt>た</rt></ruby>べます。",
+      "<ruby>傘<rt>かさ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。"
     ],
-    "answer": 1,
-    "correct_text": "ぶんしょお",
-    "meaning_en": "",
-    "explanation": "「文章」の正しい読み方は【ぶんしょう】です。（意味：）",
-    "target_word_reading": "ぶんしょお",
-    "correct_text_reading": "ぶんしょお",
-    "correct_text_ruby": "ぶんしょお"
+    "answer": 2,
+    "correct_text": "ナイフとフォークを使って、ステーキを食べます。",
+    "meaning_en": "to use",
+    "explanation": "「使う」は道具を目的に合わせて使うことです。スープは「スプーン」、手紙は「ペン」を使います。",
+    "target_word_reading": "つかう",
+    "correct_text_reading": "つかう",
+    "correct_text_ruby": "ナイフとフォークを<ruby>使<rt>つか</rt></ruby>って、ステーキを<ruby>食<rt>た</rt></ruby>べます。"
   },
   {
     "id": 371,
-    "source": "JLPT N5 公式入門総合問題集",
-    "category": "漢字の表記",
-    "target_word": "荷物",
-    "question": "夕<u>ごはん</u>ができました。",
-    "question_ruby": "<ruby>夕<rt>ゆう</rt></ruby><u>ごはん</u>ができました。",
+    "source": "実戦オリジナル問題",
+    "category": "語彙用法",
+    "target_word": "教える",
+    "question": "【教える】の 使い方が いちばん 正しい文は どれですか。",
+    "question_ruby": "【<ruby>教<rt>おし</rt></ruby>える】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
-      "乗る",
-      "名前",
-      "荷物",
-      "御飯"
+      "知らない人に道を聞かれたので、駅への行き方を貸しました。",
+      "知らない人に道を聞かれたので、駅への行き方を借りました。",
+      "知らない人に道を聞かれたので、駅への行き方を習いました。",
+      "知らない人に道を聞かれたので、駅への行き方を教えました。"
     ],
     "choices_ruby": [
-      "乗る",
-      "名前",
-      "荷物",
-      "御飯"
+      "<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれたので、<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>貸<rt>か</rt></ruby>しました。",
+      "<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれたので、<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>借<rt>か</rt></ruby>りました。",
+      "<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれたので、<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いました。",
+      "<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれたので、<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えました。"
     ],
-    "answer": 2,
-    "correct_text": "荷物",
-    "meaning_en": "",
-    "explanation": "ひらがな「ごはん」に該当する正しい漢字は【御飯】です。",
-    "target_word_reading": "荷物",
-    "correct_text_reading": "荷物",
-    "correct_text_ruby": "荷物"
+    "answer": 3,
+    "correct_text": "知らない人に道を聞かれたので、駅への行き方を教えました。",
+    "meaning_en": "to teach; to tell",
+    "explanation": "「教える」は、知っていることを相手に伝えるときに使います。「習う」は教えてもらう側の言葉です。",
+    "target_word_reading": "おしえる",
+    "correct_text_reading": "おしえる",
+    "correct_text_ruby": "<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれたので、<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えました。"
   }
 ];
+
