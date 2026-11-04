@@ -6341,6 +6341,63 @@
       } catch (e) {}
     }
 
+    // 1c. Also absorb any custom cards & JLPT savedVocab from UserProgress / JLPT pages
+    try {
+      const activeSid = localStorage.getItem('haku_current_student_id') || 'guest';
+      const studentKeysToCheck = Array.from(new Set([activeSid, 'guest']));
+      studentKeysToCheck.forEach(sid => {
+        const removedSet = new Set(JSON.parse(localStorage.getItem(`haku_removed_ids_${sid}`) || '[]'));
+        const stCustom = JSON.parse(localStorage.getItem(`haku_custom_cards_${sid}`) || '[]');
+        if (Array.isArray(stCustom)) {
+          stCustom.forEach(c => {
+            if (c && c.id && c.word && !removedSet.has(c.id) && !removedSet.has(c.word) && !seedCardMap.has(c.id) && c.section_num === undefined && isCustomCardId(c.id)) {
+              if (!allCustomCards.find(existing => existing.id === c.id)) {
+                allCustomCards.push({ ...c, isCustom: true });
+              }
+            }
+          });
+        }
+        const progRaw = localStorage.getItem(`jlpt_progress_${sid}`);
+        if (progRaw) {
+          const prog = JSON.parse(progRaw);
+          if (prog && Array.isArray(prog.savedVocab)) {
+            prog.savedVocab.forEach(v => {
+              if (!v || !v.word || removedSet.has(v.word) || (v.id && removedSet.has(v.id))) return;
+              const existingByWord = allCustomCards.find(existing => existing.word === v.word || existing.id === v.id);
+              if (!existingByWord) {
+                const cId = v.cardId || v.id || `card_${Date.now()}_${Math.random().toString(36).substr(2, 5)}`;
+                if (isCustomCardId(cId) && !seedCardMap.has(cId)) {
+                  const mStr = v.meaning || v.word;
+                  const safeJa = /[\uAC00-\uD7AF]/.test(mStr) ? v.word : mStr;
+                  allCustomCards.push({
+                    id: cId,
+                    word: v.word,
+                    reading: v.reading || '',
+                    category: v.level || 'JLPT',
+                    level: v.level || 'JLPT',
+                    meaning: { en: mStr, ja: safeJa, zh_TW: mStr, zh_CN: mStr, ko: mStr, zh_HK: mStr, fr: mStr },
+                    example: {
+                      ja: v.exampleJa || '',
+                      en: v.exampleNative || '',
+                      zh_TW: v.exampleNative || '',
+                      zh_CN: v.exampleNative || '',
+                      ko: v.exampleNative || '',
+                      zh_HK: v.exampleNative || '',
+                      fr: v.exampleNative || ''
+                    },
+                    studentId: sid,
+                    isCustom: true,
+                    source: v.source || 'jlpt',
+                    createdAt: v.addedAt ? (new Date(v.addedAt).getTime() || Date.now()) : Date.now()
+                  });
+                }
+              }
+            });
+          }
+        }
+      });
+    } catch (e) {}
+
     // Ensure Midori's card_1791393927923_pd4xbi and Arun's new cards are present in custom pool
     const ensureCustomCard = (card) => {
       const idx = allCustomCards.findIndex(c => c.id === card.id);
@@ -7765,7 +7822,71 @@
     const mapKey = `haku_mylist_card_map_${studentPrefix}`;
 
     const saved = localStorage.getItem(key);
-    mylistSet = new Set(saved ? JSON.parse(saved) : []);
+    const removedSet = new Set(JSON.parse(localStorage.getItem(`haku_removed_ids_${studentPrefix}`) || '[]'));
+    mylistSet = new Set((saved ? JSON.parse(saved) : []).filter(id => id && !removedSet.has(id)));
+
+    // Sync any items saved in JLPT / Portal (jlpt_progress_{studentPrefix}.savedVocab) into mylistSet & vocabList
+    try {
+      const stCustom = JSON.parse(localStorage.getItem(`haku_custom_cards_${studentPrefix}`) || '[]');
+      if (Array.isArray(stCustom)) {
+        stCustom.forEach(c => {
+          if (c && c.id && c.word && !removedSet.has(c.id) && !removedSet.has(c.word) && !isCorruptedCard(c)) {
+            if (!vocabList.find(v => v.id === c.id)) vocabList.push({ ...c, isCustom: true });
+          }
+        });
+      }
+      const progRaw = localStorage.getItem(`jlpt_progress_${studentPrefix}`);
+      if (progRaw) {
+        const prog = JSON.parse(progRaw);
+        if (prog && Array.isArray(prog.savedVocab)) {
+          let storedAll = [];
+          try { storedAll = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]'); } catch(e) {}
+          let storedAllChanged = false;
+          prog.savedVocab.forEach(v => {
+            if (!v || !v.word || removedSet.has(v.word) || (v.id && removedSet.has(v.id))) return;
+            let matchedCard = vocabList.find(c => c.word === v.word || (v.id && c.id === v.id));
+            if (!matchedCard) {
+              const cId = v.cardId || v.id || `card_${Date.now()}_${Math.random().toString(36).substr(2, 5)}`;
+              const mStr = v.meaning || v.word;
+              const safeJa = /[\uAC00-\uD7AF]/.test(mStr) ? v.word : mStr;
+              matchedCard = {
+                id: cId,
+                word: v.word,
+                reading: v.reading || '',
+                category: v.level || 'JLPT',
+                level: v.level || 'JLPT',
+                meaning: { en: mStr, ja: safeJa, zh_TW: mStr, zh_CN: mStr, ko: mStr, zh_HK: mStr, fr: mStr },
+                example: {
+                  ja: v.exampleJa || '',
+                  en: v.exampleNative || '',
+                  zh_TW: v.exampleNative || '',
+                  zh_CN: v.exampleNative || '',
+                  ko: v.exampleNative || '',
+                  zh_HK: v.exampleNative || '',
+                  fr: v.exampleNative || ''
+                },
+                studentId: studentPrefix,
+                isCustom: true,
+                source: v.source || 'jlpt',
+                createdAt: v.addedAt ? (new Date(v.addedAt).getTime() || Date.now()) : Date.now()
+              };
+              vocabList.push(matchedCard);
+              if (!storedAll.find(c => c.id === matchedCard.id)) {
+                storedAll.push(matchedCard);
+                storedAllChanged = true;
+              }
+            }
+            if (matchedCard && matchedCard.id && !mylistSet.has(matchedCard.id)) {
+              mylistSet.add(matchedCard.id);
+            }
+          });
+          if (storedAllChanged) {
+            localStorage.setItem('haku_all_custom_cards', JSON.stringify(storedAll));
+            localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
+          }
+        }
+      }
+    } catch (e) {}
 
     const savedFolders = localStorage.getItem(foldersKey);
     mylistFolders = savedFolders ? JSON.parse(savedFolders) : [];
@@ -8117,6 +8238,7 @@
   const MASTER_STUDENT_PASSCODES = {
     'haku': 'ppooii0099',
     'admin': 'ppooii0099',
+    'guest': '0000',
     '0001': '1122',
     '0002': '2233',
     '0003': '3344',
@@ -8151,13 +8273,15 @@
   // Authenticates student behind the scenes using internal virtual email (e.g. 0001@haku.local)
   // This satisfies Gemini's security rule: request.auth.token.email == studentId + '@haku.local'
   async function ensureStudentCloudAuth(studentId, passcode) {
-    if (!isFirebaseReady || !fbAuth || !studentId || studentId === 'guest') return false;
+    if (!isFirebaseReady || !fbAuth || !studentId) return false;
     const virtualEmail = `${studentId.toLowerCase()}@haku.local`;
     const masterPass = (typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '';
     let passList = [passcode, masterPass].filter(Boolean);
     if (studentId === 'haku' || studentId === 'admin') {
       passList = ['ppooii0099', 'ppooiillkk'];
       if (passcode && !passList.includes(passcode)) passList.unshift(passcode);
+    } else if (studentId === 'guest') {
+      passList = ['0000', '1122'];
     }
 
     try {
@@ -8222,6 +8346,28 @@
           const authData = await authRes.json();
           idToken = authData.idToken;
           break;
+        } else {
+          try {
+            const errData = await authRes.json();
+            const errMsg = errData.error && errData.error.message;
+            if (errMsg === 'EMAIL_NOT_FOUND') {
+              const signUpUrl = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=" + API_KEY;
+              const signUpRes = await fetch(signUpUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                  email: studentId.toLowerCase() + "@haku.local",
+                  password: "haku_" + p + "_sec",
+                  returnSecureToken: true
+                })
+              });
+              if (signUpRes.ok) {
+                const signUpData = await signUpRes.json();
+                idToken = signUpData.idToken;
+                break;
+              }
+            }
+          } catch(errJson) {}
         }
       } catch (e) {}
     }
@@ -8297,7 +8443,7 @@
       try {
         const syncOperation = async () => {
           // Authenticate as target student to satisfy Firestore security rules
-          await ensureStudentCloudAuth(studentId, targetStudent.passcode);
+          await ensureStudentCloudAuth(studentId, (targetStudent && targetStudent.passcode) || effectivePasscode);
           const docRef = fbDb.collection('students').doc(studentId);
           try {
             const snap = await docRef.get();
@@ -8388,29 +8534,58 @@
 
   // Push student's mylist, folders, and mapping to Cloud Firestore
   async function syncStudentToCloud(studentId) {
-    if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return;
+    if (!studentId) return;
+    const targetStudent = students.find(s => s.id === studentId) || currentStudent;
+    const passcode = targetStudent ? targetStudent.passcode : ((typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '0000');
+
+    // Read local removed IDs and JLPT savedVocab
+    let localRemoved = [];
+    try { localRemoved = JSON.parse(localStorage.getItem(`haku_removed_ids_${studentId}`) || '[]'); } catch (e) {}
+    const removedSet = new Set(Array.isArray(localRemoved) ? localRemoved : []);
+
+    let localSavedVocab = [];
+    try {
+      const prog = JSON.parse(localStorage.getItem(`jlpt_progress_${studentId}`) || '{}');
+      if (Array.isArray(prog.savedVocab)) localSavedVocab = prog.savedVocab;
+    } catch (e) {}
+
+    // Gather any card objects that this student has in their mylist and aren't in INITIAL_VOCAB_DATA or CLASS_VOCAB_DATA
+    const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
+    const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
+    const customCardsToSync = [];
+    mylistSet.forEach(cId => {
+      if (!seedIds.has(cId) && !classIds.has(cId) && !cId.startsWith('class_word_')) {
+        const resolvedCard = getCardById(cId);
+        if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt && !isCorruptedCard(resolvedCard)) customCardsToSync.push(resolvedCard);
+      }
+    });
+
+    if (!isFirebaseReady || !fbDb) {
+      recordWordNames(customCardsToSync);
+      const wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
+      await syncStudentViaRest(studentId, passcode, {
+        mylist: Array.from(mylistSet),
+        folders: mylistFolders,
+        cardFolderMap: mylistCardFolderMap,
+        customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
+        savedVocab: localSavedVocab,
+        removedIds: Array.from(removedSet),
+        wordNames: wordNamesToSync
+      });
+      return;
+    }
+
     return runWithCloudSyncLock(async () => {
       try {
-        const targetStudent = students.find(s => s.id === studentId) || currentStudent;
-        const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
         await ensureStudentCloudAuth(studentId, passcode);
-
-        // Gather any card objects that this student has in their mylist and aren't in INITIAL_VOCAB_DATA or CLASS_VOCAB_DATA
-        const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
-        const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
-        const customCardsToSync = [];
-        mylistSet.forEach(cId => {
-          if (!seedIds.has(cId) && !classIds.has(cId) && !cId.startsWith('class_word_')) {
-            const resolvedCard = getCardById(cId);
-            if (resolvedCard && !isStubCard(resolvedCard) && !resolvedCard.isRebuilt && !isCorruptedCard(resolvedCard)) customCardsToSync.push(resolvedCard);
-          }
-        });
 
         const docRef = fbDb.collection('students').doc(studentId);
 
         // ★ 単語名レジストリ（定義が消えても単語名から復元できるように）
         recordWordNames(customCardsToSync);
         let wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
+        let mergedSavedVocab = localSavedVocab.slice();
+        const haveVocabWords = new Set(mergedSavedVocab.map(v => v && v.word).filter(Boolean));
 
         // ★ クラウドに既にある正しいカード定義を消さないよう、必ずマージしてから保存
         try {
@@ -8421,21 +8596,36 @@
               mergeWordNames(cloudData.wordNames);
               wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
             }
+            const cloudRemoved = new Set(Array.isArray(cloudData.removedIds) ? cloudData.removedIds : []);
+            cloudRemoved.forEach(r => {
+              if (!mylistSet.has(r) && !haveVocabWords.has(r)) removedSet.add(r);
+            });
+
             const cloudCards = Array.isArray(cloudData.customCards) ? cloudData.customCards : [];
             const haveIds = new Set(customCardsToSync.map(c => c.id));
             cloudCards.forEach(c => {
-              if (c && c.id && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && mylistSet.has(c.id)) {
+              if (c && c.id && !removedSet.has(c.id) && !removedSet.has(c.word) && !isStubCard(c) && !isCorruptedCard(c) && !haveIds.has(c.id) && (mylistSet.has(c.id) || (Array.isArray(cloudData.mylist) && cloudData.mylist.includes(c.id)))) {
                 customCardsToSync.push(c);
                 haveIds.add(c.id);
               }
             });
 
+            if (Array.isArray(cloudData.savedVocab)) {
+              cloudData.savedVocab.forEach(sv => {
+                if (sv && sv.word && !removedSet.has(sv.word) && !removedSet.has(sv.id) && !haveVocabWords.has(sv.word)) {
+                  mergedSavedVocab.push(sv);
+                  haveVocabWords.add(sv.word);
+                }
+              });
+            }
+
             // ★ 超重要: クラウドの mylist を双方向結合マージ（クラウドの既存単語を絶対に消さない）
-            const cloudRemoved = new Set(Array.isArray(cloudData.removedIds) ? cloudData.removedIds : []);
             if (Array.isArray(cloudData.mylist) && cloudData.mylist.length > 0) {
               let localAddedFromCloud = false;
               cloudData.mylist.forEach(id => {
-                if (!cloudRemoved.has(id) && !mylistSet.has(id)) {
+                const c = getCardById(id);
+                const wName = c ? c.word : '';
+                if (!removedSet.has(id) && (!wName || !removedSet.has(wName)) && !mylistSet.has(id)) {
                   mylistSet.add(id);
                   localAddedFromCloud = true;
                 }
@@ -8455,29 +8645,43 @@
           console.warn('Pre-push cloud merge note:', e);
         }
 
-        await docRef.set({
+        const payload = {
           mylist: Array.from(mylistSet),
           folders: mylistFolders,
           cardFolderMap: mylistCardFolderMap,
           customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
+          savedVocab: mergedSavedVocab,
+          removedIds: Array.from(removedSet),
           wordNames: wordNamesToSync,
           updatedAt: firebase.firestore.FieldValue.serverTimestamp()
-        }, { merge: true });
+        };
+        await docRef.set(payload, { merge: true });
         console.log(`Cloud sync pushed for student ${studentId} ☁️`);
       } catch (err) {
-        console.warn('Cloud sync push note:', err.message);
+        console.warn('Cloud sync push note, trying REST fallback:', err.message);
+        recordWordNames(customCardsToSync);
+        const wordNamesToSync = buildWordNamesFor(Array.from(mylistSet));
+        await syncStudentViaRest(studentId, passcode, {
+          mylist: Array.from(mylistSet),
+          folders: mylistFolders,
+          cardFolderMap: mylistCardFolderMap,
+          customCards: customCardsToSync.filter(c => !isCorruptedCard(c)),
+          savedVocab: localSavedVocab,
+          removedIds: Array.from(removedSet),
+          wordNames: wordNamesToSync
+        });
       }
     });
   }
 
   // Pull student's mylist, folders, and mapping from Cloud Firestore
   async function syncStudentFromCloud(studentId) {
-    if (!isFirebaseReady || !fbDb || !studentId || studentId === 'guest') return false;
+    if (!isFirebaseReady || !fbDb || !studentId) return false;
     return runWithCloudSyncLock(async () => {
       try {
         // Ensure user is authenticated first
         const targetStudent = students.find(s => s.id === studentId) || currentStudent;
-        const passcode = targetStudent ? targetStudent.passcode : (currentStudent ? currentStudent.passcode : '1122');
+        const passcode = targetStudent ? targetStudent.passcode : ((typeof MASTER_STUDENT_PASSCODES !== 'undefined' && MASTER_STUDENT_PASSCODES[studentId]) || '0000');
         await ensureStudentCloudAuth(studentId, passcode);
 
       const docRef = fbDb.collection('students').doc(studentId);
@@ -8486,8 +8690,46 @@
         const data = snap.data();
         let changed = false;
 
-        // 1. Sync custom card definitions (e.g. newly imported cards from PC)
-        if (Array.isArray(data.customCards) && data.customCards.length > 0) {
+        let localRemoved = [];
+        try { localRemoved = JSON.parse(localStorage.getItem(`haku_removed_ids_${studentId}`) || '[]'); } catch (e) {}
+        const removedSet = new Set([...(Array.isArray(data.removedIds) ? data.removedIds : []), ...(Array.isArray(localRemoved) ? localRemoved : [])]);
+        try { localStorage.setItem(`haku_removed_ids_${studentId}`, JSON.stringify(Array.from(removedSet))); } catch (e) {}
+
+        // 1. Sync custom card definitions (e.g. newly imported cards from PC or JLPT savedVocab)
+        const incomingCustomCards = Array.isArray(data.customCards) ? data.customCards.slice() : [];
+        if (Array.isArray(data.savedVocab)) {
+          data.savedVocab.forEach(sv => {
+            if (!sv || !sv.word || removedSet.has(sv.word) || removedSet.has(sv.id)) return;
+            const cid = sv.id || ('jlpt_saved_' + encodeURIComponent(sv.word));
+            if (!incomingCustomCards.find(c => c && (c.id === cid || c.word === sv.word))) {
+              const fallbackDlg = getNaturalDefaultDialogue(sv.word, sv.reading || '');
+              incomingCustomCards.push({
+                id: cid,
+                word: sv.word,
+                reading: sv.reading || sv.word,
+                category: sv.level ? `JLPT ${sv.level}` : 'マイリスト',
+                section_title: sv.level ? `JLPT ${sv.level}` : 'JLPT・辞書保存',
+                meaning: {
+                  en: sv.meaning || '—',
+                  ja: /[\uAC00-\uD7AF]/.test(String(sv.meaning_ja || '')) ? sv.word : (sv.meaning_ja || sv.word),
+                  zh_TW: sv.meaning_zh_TW || sv.meaning || '—',
+                  zh_CN: sv.meaning_zh_CN || sv.meaning || '—',
+                  ko: sv.meaning_ko || sv.meaning || '—',
+                  zh_HK: sv.meaning_zh_HK || sv.meaning || '—',
+                  fr: sv.meaning_fr || sv.meaning || '—'
+                },
+                example: {
+                  ja: sv.exampleJa || fallbackDlg.ja,
+                  en: sv.exampleNative || fallbackDlg.en
+                },
+                isCustom: true,
+                isJlptSaved: true
+              });
+            }
+          });
+        }
+
+        if (incomingCustomCards.length > 0) {
           let vocabChanged = false;
           let storedCustom = [];
           try {
@@ -8496,8 +8738,9 @@
 
           const classIds = new Set((window.CLASS_VOCAB_DATA || []).map(c => c.id));
           const seedIds = new Set((window.INITIAL_VOCAB_DATA || []).map(c => c.id));
-          data.customCards.forEach(card => {
+          incomingCustomCards.forEach(card => {
             if (!card || isStubCard(card) || isCorruptedCard(card)) return;
+            if (removedSet.has(card.id) || removedSet.has(card.word)) return;
             if (card && card.id && !card.isRebuilt && !classIds.has(card.id) && !seedIds.has(card.id) && !card.id.startsWith('class_word_')) {
               card.isCustom = true;
               const vIdx = vocabList.findIndex(c => c.id === card.id);
@@ -8520,6 +8763,7 @@
           if (vocabChanged) {
             localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
             localStorage.setItem('haku_all_custom_cards', JSON.stringify(storedCustom));
+            localStorage.setItem(`haku_custom_cards_${studentId}`, JSON.stringify(incomingCustomCards));
             changed = true;
           }
         }
@@ -8529,15 +8773,30 @@
           if (mergeWordNames(data.wordNames)) changed = true;
         }
 
-        // 2. Sync mylist IDs（先生が削除した単語は端末からも消す）
-        const removedSet = new Set(Array.isArray(data.removedIds) ? data.removedIds : []);
+        // 2. Sync mylist IDs（削除した単語は端末からも消す）
         removedSet.forEach(id => { if (mylistSet.has(id)) { mylistSet.delete(id); changed = true; } });
         if (Array.isArray(data.mylist)) {
           data.mylist.filter(id => !removedSet.has(id)).forEach(id => {
             const c = getCardById(id);
-            if (c && isCorruptedCard(c)) return;
+            if (c && (isCorruptedCard(c) || removedSet.has(c.word))) return;
             if (!mylistSet.has(id)) {
               mylistSet.add(id);
+              changed = true;
+            }
+          });
+        }
+        // Also ensure any savedVocab from JLPT is in mylistSet
+        if (Array.isArray(data.savedVocab)) {
+          data.savedVocab.forEach(sv => {
+            if (!sv || !sv.word || removedSet.has(sv.word) || removedSet.has(sv.id)) return;
+            const cid = sv.id || ('jlpt_saved_' + encodeURIComponent(sv.word));
+            const alreadyHasWord = Array.from(mylistSet).some(id => {
+              if (id === cid || id === sv.word) return true;
+              const c = getCardById(id);
+              return c && c.word === sv.word;
+            });
+            if (!alreadyHasWord) {
+              mylistSet.add(cid);
               changed = true;
             }
           });
@@ -8622,6 +8881,24 @@
           localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
           localStorage.setItem(foldersKey, JSON.stringify(mylistFolders));
           localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
+
+          // Also sync down to jlpt_progress_${studentId}.savedVocab so JLPT pages see cloud items
+          if (Array.isArray(data.savedVocab)) {
+            try {
+              const progKey = `jlpt_progress_${studentId}`;
+              const prog = JSON.parse(localStorage.getItem(progKey) || '{}');
+              const existingSaved = Array.isArray(prog.savedVocab) ? prog.savedVocab.filter(v => v && v.word && !removedSet.has(v.word) && !removedSet.has(v.id)) : [];
+              const existingWords = new Set(existingSaved.map(v => v.word));
+              data.savedVocab.forEach(sv => {
+                if (sv && sv.word && !removedSet.has(sv.word) && !removedSet.has(sv.id) && !existingWords.has(sv.word)) {
+                  existingSaved.push(sv);
+                  existingWords.add(sv.word);
+                }
+              });
+              prog.savedVocab = existingSaved;
+              localStorage.setItem(progKey, JSON.stringify(prog));
+            } catch (e) {}
+          }
           console.log(`Cloud data successfully synced down for ${studentId}! ☁️✨`);
         }
         updateMylistBadge();
@@ -8819,6 +9096,61 @@
     });
   }
 
+  // Unified removal helper so removing in Flashcards also removes from JLPT savedVocab & tracks in removedIds
+  function removeCardFromUnifiedMylist(cardOrId, wordOpt) {
+    const studentPrefix = currentStudent ? currentStudent.id : 'guest';
+    const cardObj = (typeof cardOrId === 'object' && cardOrId) ? cardOrId : getCardById(cardOrId);
+    const idToRemove = (typeof cardOrId === 'object' && cardOrId) ? cardOrId.id : String(cardOrId || '');
+    const wordToRemove = wordOpt || (cardObj && cardObj.word) || '';
+
+    if (idToRemove) {
+      mylistSet.delete(idToRemove);
+      delete mylistCardFolderMap[idToRemove];
+    }
+    if (wordToRemove) {
+      Array.from(mylistSet).forEach(existingId => {
+        if (existingId === wordToRemove || existingId === ('jlpt_saved_' + encodeURIComponent(wordToRemove)) || (existingId.startsWith('jlpt_') && existingId.endsWith(`_${wordToRemove}`))) {
+          mylistSet.delete(existingId);
+          delete mylistCardFolderMap[existingId];
+        } else {
+          const c = getCardById(existingId);
+          if (c && c.word === wordToRemove) {
+            mylistSet.delete(existingId);
+            delete mylistCardFolderMap[existingId];
+          }
+        }
+      });
+    }
+
+    // Record in haku_removed_ids_${studentPrefix} so cloud sync doesn't re-add it
+    try {
+      const remKey = `haku_removed_ids_${studentPrefix}`;
+      const remArr = JSON.parse(localStorage.getItem(remKey) || '[]');
+      const remSet = new Set(Array.isArray(remArr) ? remArr : []);
+      if (idToRemove) remSet.add(idToRemove);
+      if (wordToRemove) {
+        remSet.add(wordToRemove);
+        remSet.add('jlpt_saved_' + encodeURIComponent(wordToRemove));
+      }
+      localStorage.setItem(remKey, JSON.stringify(Array.from(remSet)));
+    } catch (e) {}
+
+    // Remove from jlpt_progress_${studentPrefix}.savedVocab and legacy JLPT keys
+    if (wordToRemove) {
+      try {
+        const progKey = `jlpt_progress_${studentPrefix}`;
+        const prog = JSON.parse(localStorage.getItem(progKey) || '{}');
+        if (Array.isArray(prog.savedVocab)) {
+          prog.savedVocab = prog.savedVocab.filter(v => v && v.word !== wordToRemove && v.id !== idToRemove);
+          localStorage.setItem(progKey, JSON.stringify(prog));
+        }
+      } catch (e) {}
+      if (window.UserProgress && typeof window.UserProgress.removeSavedVocab === 'function') {
+        try { window.UserProgress.removeSavedVocab(wordToRemove); } catch (e) {}
+      }
+    }
+  }
+
   function saveMylistForCurrentStudent() {
     const studentPrefix = currentStudent ? currentStudent.id : 'guest';
     const key = `haku_mylist_${studentPrefix}`;
@@ -8828,22 +9160,152 @@
     localStorage.setItem(key, JSON.stringify(Array.from(mylistSet)));
     localStorage.setItem(foldersKey, JSON.stringify(mylistFolders));
     localStorage.setItem(mapKey, JSON.stringify(mylistCardFolderMap));
-    try { recordWordNames(getMylistCards()); } catch (e) {}
+
+    const mylistCards = getMylistCards();
+    try { recordWordNames(mylistCards); } catch (e) {}
+
+    // Unmark any currently present card IDs/words from haku_removed_ids_${studentPrefix}
+    let removedSet = new Set();
+    try {
+      const remKey = `haku_removed_ids_${studentPrefix}`;
+      const remArr = JSON.parse(localStorage.getItem(remKey) || '[]');
+      removedSet = new Set(Array.isArray(remArr) ? remArr : []);
+      let remModified = false;
+      mylistSet.forEach(id => {
+        if (removedSet.delete(id)) remModified = true;
+      });
+      mylistCards.forEach(c => {
+        if (c && c.word) {
+          if (removedSet.delete(c.word)) remModified = true;
+          if (removedSet.delete('jlpt_saved_' + encodeURIComponent(c.word))) remModified = true;
+        }
+      });
+      if (remModified) {
+        localStorage.setItem(remKey, JSON.stringify(Array.from(removedSet)));
+      }
+    } catch (e) {}
+
+    // Materialize custom/JLPT/dict cards into haku_custom_cards_${studentPrefix}, haku_all_custom_cards, and jlpt_progress_${studentPrefix}.savedVocab
+    try {
+      const presetHomeworkSet = new Set([
+        ...(typeof MIDORI_NEW_CARD_IDS !== 'undefined' ? MIDORI_NEW_CARD_IDS : []),
+        ...(typeof DANIEL_NEW_CARD_IDS !== 'undefined' ? DANIEL_NEW_CARD_IDS : []),
+        ...(typeof ELIIE_NEW_CARD_IDS !== 'undefined' ? ELIIE_NEW_CARD_IDS : []),
+        ...(typeof ARUN_NEW_CARD_IDS !== 'undefined' ? ARUN_NEW_CARD_IDS : [])
+      ]);
+
+      let studentCustom = [];
+      try { studentCustom = JSON.parse(localStorage.getItem(`haku_custom_cards_${studentPrefix}`) || '[]'); } catch (e) {}
+      if (!Array.isArray(studentCustom)) studentCustom = [];
+
+      let allCustom = [];
+      try { allCustom = JSON.parse(localStorage.getItem('haku_all_custom_cards') || '[]'); } catch (e) {}
+      if (!Array.isArray(allCustom)) allCustom = [];
+
+      const progKey = `jlpt_progress_${studentPrefix}`;
+      let prog = {};
+      try { prog = JSON.parse(localStorage.getItem(progKey) || '{}'); } catch (e) {}
+      if (!Array.isArray(prog.savedVocab)) prog.savedVocab = [];
+      prog.savedVocab = prog.savedVocab.filter(v => v && v.word && !removedSet.has(v.word) && !removedSet.has(v.id));
+
+      let customModified = false;
+      let progModified = false;
+
+      mylistCards.forEach(c => {
+        if (!c || !c.id || !c.word || isStubCard(c) || isCorruptedCard(c)) return;
+        const isPresetHomework = c.id.startsWith('class_word_') || presetHomeworkSet.has(c.id);
+        if (isPresetHomework) return;
+
+        if (!studentCustom.find(sc => sc && sc.id === c.id)) {
+          studentCustom.push({ ...c, isCustom: true });
+          customModified = true;
+        }
+        if (!allCustom.find(ac => ac && ac.id === c.id)) {
+          allCustom.push({ ...c, isCustom: true });
+          customModified = true;
+        }
+        if (!vocabList.find(vc => vc && vc.id === c.id)) {
+          vocabList.push({ ...c, isCustom: true });
+          customModified = true;
+        }
+
+        const existingSv = prog.savedVocab.find(v => v && (v.word === c.word || v.id === c.id));
+        if (!existingSv) {
+          const mObj = (c.meaning && typeof c.meaning === 'object') ? c.meaning : { en: String(c.meaning || '') };
+          const exObj = (c.example && typeof c.example === 'object') ? c.example : { ja: '', en: '' };
+          prog.savedVocab.unshift({
+            id: c.id,
+            word: c.word,
+            reading: c.reading || '',
+            meaning: mObj.en || mObj.ja || '',
+            meaning_en: mObj.en || '',
+            meaning_zh_TW: mObj.zh_TW || mObj.en || '',
+            meaning_zh_CN: mObj.zh_CN || mObj.zh_TW || mObj.en || '',
+            meaning_ko: mObj.ko || mObj.en || '',
+            meaning_zh_HK: mObj.zh_HK || mObj.zh_TW || mObj.en || '',
+            meaning_fr: mObj.fr || mObj.en || '',
+            exampleJa: exObj.ja || '',
+            exampleNative: exObj.en || '',
+            level: (c.category || '').replace(/^JLPT\s*/i, '') || 'マイリスト',
+            source: 'flashcard',
+            savedAt: new Date().toISOString()
+          });
+          progModified = true;
+        }
+      });
+
+      if (customModified) {
+        localStorage.setItem(`haku_custom_cards_${studentPrefix}`, JSON.stringify(studentCustom));
+        localStorage.setItem('haku_all_custom_cards', JSON.stringify(allCustom));
+        localStorage.setItem('haku_vocab_data', JSON.stringify(vocabList));
+      }
+      if (progModified) {
+        localStorage.setItem(progKey, JSON.stringify(prog));
+      }
+    } catch (e) {
+      console.warn('Unified local sync note:', e);
+    }
 
     updateMylistBadge();
 
     // Trigger asynchronous cloud sync to persist on all devices!
-    if (currentStudent && currentStudent.id !== 'guest') {
-      syncStudentToCloud(currentStudent.id);
+    syncStudentToCloud(studentPrefix);
+  }
+
+  // Listen for changes from JLPT pages / other tabs / UserProgress cloud sync
+  function refreshUnifiedMylistUI() {
+    loadMylistForCurrentStudent();
+    updateMylistBadge();
+    if (typeof updateJlptHeaderSavedCount === 'function') updateJlptHeaderSavedCount();
+    const mv = document.getElementById('viewMylist');
+    if (mv && !mv.classList.contains('hidden')) renderMylistView();
+    const jv = document.getElementById('viewJlpt');
+    if (jv && !jv.classList.contains('hidden') && typeof renderJlptPage === 'function') renderJlptPage();
+  }
+  window.addEventListener('storage', (e) => {
+    if (!e || !e.key) return;
+    const studentPrefix = currentStudent ? currentStudent.id : 'guest';
+    if (
+      e.key === `haku_mylist_${studentPrefix}` ||
+      e.key === `jlpt_progress_${studentPrefix}` ||
+      e.key === `haku_custom_cards_${studentPrefix}` ||
+      e.key === 'haku_unified_mylist' ||
+      e.key === 'jlpt_custom_vocab_terms'
+    ) {
+      refreshUnifiedMylistUI();
     }
+  });
+  if (window.UserProgress && typeof window.UserProgress.onProgressChanged === 'function') {
+    window.UserProgress.onProgressChanged(() => {
+      refreshUnifiedMylistUI();
+    });
   }
 
   // --- Folder Picker Modal for Adding Cards to My List ---
   function promptFolderSelectAndAdd(card, onComplete) {
     // If already in mylist, toggle off directly
     if (mylistSet.has(card.id)) {
-      mylistSet.delete(card.id);
-      delete mylistCardFolderMap[card.id];
+      removeCardFromUnifiedMylist(card, card.word);
       saveMylistForCurrentStudent();
       showToast(currentLang === 'ja' ? `「${card.word}」をマイリストから解除しました` : `Removed "${card.word}" from My List`);
       if (onComplete) onComplete(false);
@@ -10342,7 +10804,7 @@
           e.stopPropagation();
           const label = saveBtn.querySelector('.choice-save-label');
           if (mylistSet.has(card.id)) {
-            mylistSet.delete(card.id);
+            removeCardFromUnifiedMylist(card, card.word);
             saveBtn.className = 'btn-choice-save text-[10px] px-2 py-0.5 rounded-md bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold transition flex items-center space-x-0.5';
             if (label) label.textContent = '保存';
             showToast('マイリストから解除しました');
@@ -10561,6 +11023,59 @@
           found.isCustom = true;
           if (!vocabList.find(c => c.id === found.id)) vocabList.push(found);
           return found;
+        }
+      }
+    } catch (e) {}
+
+    // 1c. Check haku_custom_cards_${studentPrefix} and jlpt_progress_${studentPrefix}.savedVocab
+    try {
+      const studentPrefix = currentStudent ? currentStudent.id : 'guest';
+      const studentCustom = JSON.parse(localStorage.getItem(`haku_custom_cards_${studentPrefix}`) || '[]');
+      if (Array.isArray(studentCustom)) {
+        found = studentCustom.find(c => c && (c.id === cardId || c.word === cardId));
+        if (found) {
+          if (!found.example || !found.example.ja) {
+            const dlg = getNaturalDefaultDialogue(found.word || '', found.reading || '');
+            found.example = { ja: dlg.ja, en: (found.example && found.example.en) || dlg.en };
+          }
+          found.isCustom = true;
+          if (!vocabList.find(c => c.id === found.id)) vocabList.push(found);
+          return found;
+        }
+      }
+      const prog = JSON.parse(localStorage.getItem(`jlpt_progress_${studentPrefix}`) || '{}');
+      if (Array.isArray(prog.savedVocab)) {
+        let targetWord = cardId;
+        if (cardId.startsWith('jlpt_saved_')) {
+          try { targetWord = decodeURIComponent(cardId.slice('jlpt_saved_'.length)); } catch (e) {}
+        }
+        const sv = prog.savedVocab.find(v => v && (v.id === cardId || v.word === cardId || v.word === targetWord));
+        if (sv && sv.word) {
+          const dlg = getNaturalDefaultDialogue(sv.word, sv.reading || '');
+          const built = {
+            id: sv.id || ('jlpt_saved_' + encodeURIComponent(sv.word)),
+            word: sv.word,
+            reading: sv.reading || sv.word,
+            category: sv.level ? `JLPT ${sv.level}` : 'マイリスト',
+            section_title: sv.level ? `JLPT ${sv.level}` : 'JLPT・辞書保存',
+            meaning: {
+              en: sv.meaning || '—',
+              ja: /[\uAC00-\uD7AF]/.test(String(sv.meaning_ja || '')) ? sv.word : (sv.meaning_ja || sv.word),
+              zh_TW: sv.meaning_zh_TW || sv.meaning || '—',
+              zh_CN: sv.meaning_zh_CN || sv.meaning || '—',
+              ko: sv.meaning_ko || sv.meaning || '—',
+              zh_HK: sv.meaning_zh_HK || sv.meaning || '—',
+              fr: sv.meaning_fr || sv.meaning || '—'
+            },
+            example: {
+              ja: sv.exampleJa || dlg.ja,
+              en: sv.exampleNative || dlg.en
+            },
+            isCustom: true,
+            isJlptSaved: true
+          };
+          if (!vocabList.find(c => c.id === built.id)) vocabList.push(built);
+          return built;
         }
       }
     } catch (e) {}
@@ -11146,8 +11661,7 @@
 
       // Remove from star
       item.querySelector('.btn-remove-star').addEventListener('click', () => {
-        mylistSet.delete(card.id);
-        delete mylistCardFolderMap[card.id];
+        removeCardFromUnifiedMylist(card, card.word);
         saveMylistForCurrentStudent();
         renderMylistView();
         renderCurrentCard();
@@ -15192,15 +15706,19 @@
     const cardId = `jlpt_${currentJlptLevel}_${idx}_${w.word}`;
     let existingId = null;
     for (const id of mylistSet) {
-      if (id === w.word || (id.startsWith('jlpt_') && id.endsWith(`_${w.word}`))) {
+      if (id === w.word || id === ('jlpt_saved_' + encodeURIComponent(w.word)) || (id.startsWith('jlpt_') && id.endsWith(`_${w.word}`))) {
+        existingId = id;
+        break;
+      }
+      const c = getCardById(id);
+      if (c && c.word === w.word) {
         existingId = id;
         break;
       }
     }
 
     if (existingId) {
-      mylistSet.delete(existingId);
-      delete mylistCardFolderMap[existingId];
+      removeCardFromUnifiedMylist(existingId, w.word);
       saveMylistForCurrentStudent();
       showToast(currentLang === 'ja' ? `「${w.word}」をマイリストから解除しました` : `Removed "${w.word}" from My List`);
     } else {
@@ -15481,15 +15999,19 @@
 
     let existingId = null;
     for (const id of mylistSet) {
-      if (id === word || (id.startsWith('jlpt_') && id.endsWith(`_${word}`))) {
+      if (id === word || id === ('jlpt_saved_' + encodeURIComponent(word)) || (id.startsWith('jlpt_') && id.endsWith(`_${word}`))) {
+        existingId = id;
+        break;
+      }
+      const c = getCardById(id);
+      if (c && c.word === word) {
         existingId = id;
         break;
       }
     }
 
     if (existingId) {
-      mylistSet.delete(existingId);
-      delete mylistCardFolderMap[existingId];
+      removeCardFromUnifiedMylist(existingId, word);
       saveMylistForCurrentStudent();
       showToast(currentLang === 'ja' ? `「${word}」をマイリストから解除しました` : `Removed "${word}" from My List`);
     } else {
