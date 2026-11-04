@@ -6524,6 +6524,10 @@
         }
 
         // 3. Fallbacks for curated cards
+        if (stId === '0028') {
+          const ids0028 = window.CLASS_0028_IDS || [];
+          ids0028.forEach(cId => studentCardIds.add(cId));
+        }
         if (stId === '0027') {
           const ids0027 = window.CLASS_0027_IDS || [];
           ids0027.forEach(cId => studentCardIds.add(cId));
@@ -7977,7 +7981,8 @@
     '0024': '7788',
     '0025': '8899',
     '0026': '9900',
-    '0027': '1122'
+    '0027': '1122',
+    '0028': '2233'
   };
 
   // --- Firebase Cloud Sync Core ---

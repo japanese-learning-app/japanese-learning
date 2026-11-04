@@ -35,7 +35,8 @@
     { id: "0024", name: "生徒24", lang: "en", passcode: "7788" },
     { id: "0025", name: "生徒25", lang: "en", passcode: "8899" },
     { id: "0026", name: "生徒26", lang: "en", passcode: "9900" },
-    { id: "0027", name: "生徒27", lang: "en", passcode: "1122" }
+    { id: "0027", name: "生徒27", lang: "en", passcode: "1122" },
+    { id: "0028", name: "生徒28", lang: "en", passcode: "2233" }
   ];
 
   const STORAGE_KEY_STUDENT_ID = 'haku_current_student_id';
