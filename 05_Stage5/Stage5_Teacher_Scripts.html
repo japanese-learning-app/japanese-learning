@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stage 5 講師用カンペ・進行台本 (Lesson 1〜3 完全対応・画面共有セーフ)</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&family=Klee+One:wght@600&family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #004D47;
+    --navy-dark: #003B46;
+    --teal: #128277;
+    --teal-light: #EBF6F4;
+    --amber: #128277;
+    --amber-light: #F8FBE9;
+    --rose: #07575B;
+    --rose-light: #EAF5F8;
+    --bg: #FBFDF3;
+    --card: #FFFFFF;
+    --border: #66A5AD;
+    --text: #1E3533;
+    --muted: #476260;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #FBFDF3 0%, #F1F9EC 45%, #E6F4F6 100%);
+    background-attachment: fixed;
+    color: var(--text);
+    font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    line-height: 1.65;
+    padding-bottom: 80px;
+  }
+  /* Sticky Top Control Bar */
+  .top-bar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #006E7F;
+    border-bottom: 4px solid #6BD4DE;
+    color: #fff;
+    padding: 12px 24px;
+    box-shadow: 0 4px 16px rgba(0, 59, 70, 0.2);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .brand-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .secret-badge {
+    background: #1995AD;
+    border: 1px solid #C4DFE6;
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 800;
+    padding: 4px 10px;
+    border-radius: 999px;
+    letter-spacing: 0.04em;
+  }
+  .sync-badge {
+    background: rgba(255, 255, 255, 0.16);
+    border: 1.5px solid #A1D6E2;
+    color: #F8FBE9;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .sync-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #A1D6E2;
+    box-shadow: 0 0 8px #A1D6E2;
+  }
+  .lesson-switcher {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .lesson-tab {
+    background: rgba(255,255,255,0.14);
+    color: #FFFFFF;
+    border: 1.5px solid rgba(196,223,230,0.45);
+    border-radius: 999px;
+    padding: 8px 16px;
+    font-weight: 800;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+  .lesson-tab:hover {
+    background: rgba(255,255,255,0.24);
+  }
+  .lesson-tab.active {
+    background: #F8FBE9;
+    color: #004D47;
+    border-color: #F8FBE9;
+    box-shadow: 0 2px 10px rgba(0, 77, 71, 0.25);
+  }
+  .utility-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .timer-box {
+    background: rgba(255,255,255,0.14);
+    border: 1px solid rgba(196,223,230,0.45);
+    border-radius: 999px;
+    padding: 6px 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Inter', monospace;
+    font-weight: 800;
+    font-size: 1rem;
+  }
+  .util-btn {
+    background: rgba(255,255,255,0.15);
+    color: #fff;
+    border: 1px solid rgba(196,223,230,0.45);
+    border-radius: 999px;
+    padding: 6px 12px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .util-btn:hover { background: rgba(255,255,255,0.28); }
+  .util-btn.active { background: #F8FBE9; color: #004D47; border-color: #F8FBE9; }
+
+  /* Step Quick Jump Bar */
+  .step-jump-bar {
+    background: #fff;
+    border-bottom: 2px solid var(--border);
+    padding: 10px 24px;
+    position: sticky;
+    top: 60px;
+    z-index: 990;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+  }
+  .step-jump-btn {
+    background: #EBF6F4;
+    color: var(--navy);
+    border: 1.5px solid #66A5AD;
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-size: 0.82rem;
+    font-weight: 800;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .step-jump-btn:hover { background: #C4DFE6; }
+  .step-jump-btn.active {
+    background: #128277;
+    color: #fff;
+    border-color: #004D47;
+  }
+
+  /* Main Container */
+  .container {
+    max-width: 1360px;
+    width: 96%;
+    margin: 24px auto;
+    padding: 0 20px;
+  }
+  .lesson-pane { display: none; }
+  .lesson-pane.active { display: block; }
+
+  .lesson-overview-card {
+    background: linear-gradient(135deg, #004D47 0%, #128277 60%, #52958B 100%);
+    color: #fff;
+    border-radius: 18px;
+    padding: 24px 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 8px 24px rgba(0, 77, 71, 0.18);
+  }
+  .lesson-overview-card h1 {
+    margin: 0 0 10px 0;
+    font-size: 1.55rem;
+  }
+  .meta-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  .meta-pill {
+    background: rgba(255,255,255,0.16);
+    border: 1px solid rgba(255,255,255,0.3);
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  /* Step Script Card */
+  .script-step-card {
+    background: var(--card);
+    border: 2px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 22px;
+    transition: all 0.25s;
+    scroll-margin-top: 130px;
+  }
+  .script-step-card.synced-highlight {
+    border-color: var(--teal);
+    box-shadow: 0 0 0 4px rgba(43, 122, 120, 0.22);
+  }
+  .step-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    border-bottom: 2px solid #F1F5F9;
+    padding-bottom: 14px;
+    margin-bottom: 18px;
+  }
+  .step-title-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .step-num-badge {
+    background: var(--navy);
+    color: #fff;
+    font-weight: 800;
+    font-size: 0.85rem;
+    padding: 5px 12px;
+    border-radius: 8px;
+  }
+  .step-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--navy);
+    margin: 0;
+  }
+  .time-badge {
+    background: #F8FBE9;
+    color: #004D47;
+    border: 1.5px solid #65B887;
+    font-weight: 800;
+    font-size: 0.85rem;
+    padding: 4px 12px;
+    border-radius: 999px;
+  }
+
+  /* Script Blocks */
+  .script-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .talk-box {
+    background: #F8FAFC;
+    border-left: 5px solid var(--navy);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .talk-box-title {
+    font-weight: 800;
+    color: var(--navy);
+    font-size: 0.92rem;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .jp-script {
+    font-size: 1.04rem;
+    font-weight: 600;
+    color: #0F172A;
+    margin: 6px 0;
+  }
+  .en-script {
+    font-size: 0.93rem;
+    color: #334155;
+    background: #EFF6FF;
+    border-left: 3px solid #60A5FA;
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin-top: 8px;
+  }
+  body.hide-en .en-script { display: none; }
+
+  .ccq-box {
+    background: var(--teal-light);
+    border: 1.5px solid var(--teal);
+    border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .ccq-title {
+    font-weight: 800;
+    color: var(--teal);
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+  }
+
+  .rescue-box {
+    background: #F1F1F2;
+    border: 1.5px solid #66999B;
+    border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .rescue-title {
+    font-weight: 800;
+    color: #005864;
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+  }
+
+  .chat-copy-box {
+    background: #F8FBE9;
+    border: 1.5px dashed #00947A;
+    border-radius: 12px;
+    padding: 14px 16px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .chat-copy-text {
+    font-family: 'Inter', 'Noto Sans JP', monospace;
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: #004D47;
+    white-space: pre-wrap;
+  }
+  .copy-btn {
+    background: #00947A;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-weight: 800;
+    font-size: 0.84rem;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .copy-btn:hover { opacity: 0.92; }
+
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: var(--navy-dark);
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-weight: 700;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    display: none;
+    z-index: 2000;
+  }
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="brand-area">
+    <span class="secret-badge">🔒 講師専用・画面共有しないウィンドウ</span>
+    <span class="sync-badge" id="syncStatusBadge">
+      <span class="sync-dot"></span>
+      <span id="syncStatusText">生徒用テキストと自動連動中</span>
+    </span>
+  </div>
+
+  <div class="lesson-switcher">
+    <button class="lesson-tab active" onclick="switchLesson(1)" id="tabLesson1">Lesson 1：可能形・趣味</button>
+    <button class="lesson-tab" onclick="switchLesson(2)" id="tabLesson2">Lesson 2：た形経験・前後</button>
+    <button class="lesson-tab" onclick="switchLesson(3)" id="tabLesson3">Lesson 3：普通形・意見・伝聞</button>
+  </div>
+
+  <div class="utility-controls">
+    <div class="timer-box">
+      <span>⏱️</span>
+      <span id="timerDisplay">50:00</span>
+      <button class="util-btn" onclick="toggleTimer()" id="timerBtn">開始</button>
+      <button class="util-btn" onclick="resetTimer()">リセット</button>
+    </div>
+    <button class="util-btn active" id="enToggleBtn" onclick="toggleEnglishScript()">🇬🇧 英語台本: ON</button>
+  </div>
+</div>
+
+<div class="step-jump-bar" id="stepJumpBar">
+  <button class="step-jump-btn active" onclick="scrollToStep(0)">Step 0: 導入・宿題</button>
+  <button class="step-jump-btn" onclick="scrollToStep(1)">Step 1: 文法図解</button>
+  <button class="step-jump-btn" onclick="scrollToStep(2)">Step 2: 語彙・表現</button>
+  <button class="step-jump-btn" onclick="scrollToStep(3)">Step 3: 重要例文</button>
+  <button class="step-jump-btn" onclick="scrollToStep(4)">Step 4: 4択クイズ</button>
+  <button class="step-jump-btn" onclick="scrollToStep(5)">Step 5: 会話ロールプレイ</button>
+  <button class="step-jump-btn" onclick="scrollToStep(6)">Step 6: 変換・並び替え</button>
+  <button class="step-jump-btn" onclick="scrollToStep(7)">Step 7: インタビュー</button>
+</div>
+
+<div class="container">
+
+  <!-- ==================== LESSON 1 ==================== -->
+  <div class="lesson-pane active" id="lessonPane1">
+    <div class="lesson-overview-card">
+      <h1>📘 Stage 5 - Lesson 1 講師用進行台本：できること・趣味（可能表現）</h1>
+      <div><strong>最重要ゴール：</strong>① 可能形（〜ることができます／可能動詞）の3グループ変換を即答できるようにする、② 助詞「を ➔ が」のシフトと「見られます vs 見えます」を区別する、③ 未習文法（〜ば・〜たら・〜し）を一切使わずに自然な会話を楽しむ。</div>
+      <div class="meta-pills">
+        <span class="meta-pill">📌 連動フラッシュカード：#42 基本動詞 可能形(1) [26語] / #43 基本動詞 可能形(2) [24語]</span>
+        <span class="meta-pill">⏱️ 標準ペース：50分（会話重視ならStep 6は宿題回しOK）</span>
+      </div>
+    </div>
+
+    <!-- L1 Step 0 -->
+    <div class="script-step-card" id="l1-step-0">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 0</span>
+          <h2 class="step-title">導入・アイスブレイク＆宿題フラッシュカード確認</h2>
+        </div>
+        <span class="time-badge">⏱️ 00:00 - 05:00 (5分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 講師の第一声・アイスブレイク台本（Stage 4までの既習表現のみ使用）</div>
+          <div class="jp-script">「こんにちは！今日からStage 5に入ります。テーマは『できること（Can do）』と『趣味（Hobby）』です！まずウォームアップしましょう。〇〇さんは、料理をしますか？何を作りますか？車の運転をしますか？」</div>
+          <div class="en-script">"Welcome to Stage 5! Today's topic is 'What you can do' and 'Hobbies'. First, quick warm-up: Do you cook? What do you make? Do you drive?"</div>
+        </div>
+        <div class="ccq-box">
+          <div class="ccq-title">📌 宿題フラッシュカード（#42・#43）の確認トーク</div>
+          <div>「今回のレッスンは、フラッシュカードの <strong>#42『基本動詞 可能形(1)』</strong> と <strong>#43『基本動詞 可能形(2)』</strong> の合計50語と完全連動しています。レッスン後に宿題としてこの2つのデッキを練習すると、今日習う50個の動詞が一気に定着しますよ！」</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 1 -->
+    <div class="script-step-card" id="l1-step-1">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 1</span>
+          <h2 class="step-title">文法・図解（可能表現2ルート／助詞シフト／見えます・聞こえます）</h2>
+        </div>
+        <span class="time-badge">⏱️ 05:00 - 17:00 (12分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ポイント①：2つの「できます」ルート（辞書形＋ことができます ⇄ 可能動詞）</div>
+          <div class="jp-script">「日本語で『〜できます（can do）』と言う方法は2つあります。1つ目はとても簡単！すでに習った『辞書形（Dictionary form）』に『〜ことができます』をつけるだけです。少し長くて丁寧な響きになります。2つ目は、ネイティブが毎日の会話で一番使うショートカット『可能動詞（Potential verb）』です！」</div>
+          <div class="en-script">"There are two ways to say 'can do' in Japanese. Route 1 is easy: just add 'koto ga dekimasu' to the dictionary form. Route 2 is the shorter Potential Verb that native speakers use every day in conversation!"</div>
+        </div>
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ポイント②：3グループ変換のコツ＆「ら抜き言葉」のリアル解説</div>
+          <div class="jp-script">「Ⅰグループは『i段（ますの前）』を『e段（エの音）』に変えます。kimasu ➔ kemasu、nomimasu ➔ nomemasu！Ⅱグループは『〜られます』をつけます。ちなみに、日本人の日常会話では『食べれる・見れる』のように『ら』を抜く（ら抜き言葉）人も多いですが、JLPT試験やビジネスでは『食べられます・見られます』が正解なので、まずは正式な形で覚えましょう！」</div>
+          <div class="en-script">"For Group 1, change the 'i' sound before -masu to the 'e' sound! For Group 2, add '-raremasu'. Note: Many native speakers drop 'ra' in casual speech ('tabereru'), which is called 'ra-nuki kotoba', so you'll hear it in anime or daily life, but in JLPT and business, always use '-raremasu'!"</div>
+        </div>
+        <div class="ccq-box">
+          <div class="ccq-title">⚡ 5秒理解度チェック（CCQs：生徒に口頭で即答してもらう）</div>
+          <ul>
+            <li>講師：「『飲みます』の可能動詞は？」➔ 生徒：「<strong>飲めます！</strong>」</li>
+            <li>講師：「『食べます』の可能動詞は？」➔ 生徒：「<strong>食べられます！</strong>」</li>
+            <li>講師：「『来ます（きます）』の可能動詞は？」➔ 生徒：「<strong>来られます（こられます）！</strong>（※きられますにならないよう注意！）」</li>
+          </ul>
+        </div>
+        <div class="rescue-box">
+          <div class="rescue-title">🚑 生徒がつまずく3大ポイント＆切り返しトーク</div>
+          <ul>
+            <li><strong>① 助詞「を ➔ が」と「に・へ」の混同：</strong>「『日本語を話します』は動作ですが、『日本語が話せます』は能力・状態なので、対象を『が』でマークします。ただし！『一人で病院へ行けます』の『へ・に』や『駅から歩けます』の『から』は目的語（を）ではないので、そのままキープします！」</li>
+            <li><strong>② 見られます vs 見えます：</strong>「Netflixで映画を『見られます』は、お金を払ったり会員登録して『見ようと思えば見られる（条件・能力）』。新幹線の窓から富士山が『見えます』は、特別な努力をしなくても『自然に目に入ってくる』ときです！」</li>
+            <li><strong>③ わかります vs 知っています：</strong>「『そのニュースを知りません』とは言えますが、能力として『日本語を知りません』とは言いません。言語や意味を理解できる能力は100%『日本語がわかります／わかりません』を使います！」</li>
+          </ul>
+        </div>
+        <div class="chat-copy-box">
+          <div class="chat-copy-text">【可能形の黄金ルール】
+① Ⅰグループ：iます ➔ eます（書きます ➔ 書けます / 話します ➔ 話せます）
+② Ⅱグループ：ます ➔ られます（食べます ➔ 食べられます）
+③ Ⅲグループ：します ➔ できます / 来ます(きます) ➔ 来られます(こられます)
+④ 助詞：〜を ➔ 〜が（日本語を話す ➔ 日本語が話せる）</div>
+          <button class="copy-btn" onclick="copyText(this)">📋 チャット用にコピー</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 2 -->
+    <div class="script-step-card" id="l1-step-2">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 2</span>
+          <h2 class="step-title">語彙・表現（宿題フラッシュカード #42・#43 全50語＋趣味・副詞）</h2>
+        </div>
+        <span class="time-badge">⏱️ 17:00 - 23:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 進行のコツ（全50語を全部読ませず、ピックアップ＆マイリスト登録！）</div>
+          <div class="jp-script">「ここには宿題フラッシュカード #42 と #43 に入っている全50個の可能動詞が並んでいます。全部で50語あるので、今は特に発音に気をつけたい動詞（来られます・出られます・立てます・待てます）と、副詞（なかなか〜ない・ぜんぜん〜ない・ぜひ）を一緒に声に出して読みましょう。難しいなと思った単語は、右の『★』ボタンを押してマイリストに入れておいてくださいね！」</div>
+          <div class="en-script">"Here are all 50 potential verbs from Homework Flashcards #42 and #43! Let's read the tricky ones together, and click the ★ button on any word you want to save to your My List!"</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 3 -->
+    <div class="script-step-card" id="l1-step-3">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 3</span>
+          <h2 class="step-title">重要例文（現代のリアル場面10選）</h2>
+        </div>
+        <span class="time-badge">⏱️ 23:00 - 29:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ リピート＆パーソナライズ質問（生徒自身のことに置き換える）</div>
+          <div class="jp-script">「例文を1つ読んだあと、〇〇さん自身のことを聞きますね！たとえば1番『このカフェではクレジットカードが使えますか』を読んだら、『〇〇さんのよく行くカフェでは、カードやPayPayが使えますか？』のように答えてみてください！」</div>
+          <div class="en-script">"After we read each example, I'll ask how it applies to your real life—like whether you can use credit cards at your favorite cafe!"</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 4 -->
+    <div class="script-step-card" id="l1-step-4">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 4</span>
+          <h2 class="step-title">実践4択クイズ（10問）</h2>
+        </div>
+        <span class="time-badge">⏱️ 29:00 - 35:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クイズ進行台本（理由も一言聞いて定着させる）</div>
+          <div class="jp-script">「1番から順番に選んでみましょう！正解したら『どうしてそれを選んだか（Ⅰグループだから・自然に目に入るから 等）』も一言教えてもらえると完璧です！」</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 5 -->
+    <div class="script-step-card" id="l1-step-5">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 5</span>
+          <h2 class="step-title">会話ロールプレイ（現代の3大シーン：休日カフェ・リモート会議・観光地）</h2>
+        </div>
+        <span class="time-badge">⏱️ 35:00 - 41:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ロールプレイの進め方（セリフ隠しボタン活用！）</div>
+          <div class="jp-script">「まずは全部表示した状態でAとBに分かれて読みます。2回目は上の『🙈 相手（B）を隠す』ボタンを押して、英語（または母語）のヒントを見ながら日本語で言えるかチャレンジしてみましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 6 -->
+    <div class="script-step-card" id="l1-step-6">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 6</span>
+          <h2 class="step-title">文法変換＆語順並び替えドリル</h2>
+        </div>
+        <span class="time-badge">⏱️ 41:00 - 45:00 (4分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ スピード変換ドリル進行</div>
+          <div class="jp-script">「私が辞書形を言いますので、3秒以内に可能動詞に変えて言ってみてください！いきますよ、『泳ぎます』➔『泳げます！』」</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L1 Step 7 -->
+    <div class="script-step-card" id="l1-step-7">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 7</span>
+          <h2 class="step-title">フリートーク＆インタビュー（全8問＋宿題案内）</h2>
+        </div>
+        <span class="time-badge">⏱️ 45:00 - 50:00 (5分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クロージング＆宿題出しトーク</div>
+          <div class="jp-script">「今日もたくさん日本語で話せましたね！宿題はアプリのフラッシュカード <strong>#42『基本動詞 可能形(1)』</strong> と <strong>#43『基本動詞 可能形(2)』</strong> です。今日テキストで『★』をつけた単語もマイリストに入っているので、ぜひ復習してくださいね！」</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== LESSON 2 ==================== -->
+  <div class="lesson-pane" id="lessonPane2">
+    <div class="lesson-overview-card">
+      <h1>📘 Stage 5 - Lesson 2 講師用進行台本：経験・アドバイス・動作の前後</h1>
+      <div><strong>最重要ゴール：</strong>①「〜たことがあります」と単なる過去「〜ました」の違いを明確にする、②「〜たり〜たりします」の最後は必ず「します／しました」で締める、③「前に（辞書形）」と「後で／後に（た形・名詞の）」を使い分け、ネイティブのリアルな感覚を伝える。</div>
+      <div class="meta-pills">
+        <span class="meta-pill">📌 連動フラッシュカード：#34 基本動詞(5) [22語] / #29 電車 [20語] / #47 たform(1) [26語]</span>
+        <span class="meta-pill">💡 ネイティブ重要補足：「ご飯を食べたあとで／あとに」の使い分け基準を明快に解説！</span>
+      </div>
+    </div>
+
+    <!-- L2 Step 0 -->
+    <div class="script-step-card" id="l2-step-0">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 0</span>
+          <h2 class="step-title">導入・アイスブレイク＆宿題チェック</h2>
+        </div>
+        <span class="time-badge">⏱️ 00:00 - 05:00 (5分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 講師の第一声・ウォームアップ</div>
+          <div class="jp-script">「こんにちは！前回の可能形フラッシュカード #42・#43 は練習できましたか？今日はすでに習った『た形（〜た）』を使って、人生の経験を話したり、友達にアドバイスしたり、順番（〜の前に・〜のあとで）を話す表現をマスターしましょう！」</div>
+          <div class="en-script">"Welcome back! Today we'll use the Ta-form you already know to talk about life experiences, give advice, and describe the order of actions (before/after)!"</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L2 Step 1 -->
+    <div class="script-step-card" id="l2-step-1">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 1</span>
+          <h2 class="step-title">文法・図解（たことがあります／たり〜たり／方がいい／なります／前に・後で・後に）</h2>
+        </div>
+        <span class="time-badge">⏱️ 05:00 - 18:00 (13分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ポイント①：「〜たことがあります（人生の経験）」vs「〜ました（特定の過去）」</div>
+          <div class="jp-script">「『北海道へ行ったことがあります』は、生まれてから今日までの人生の中で1回以上経験があるという意味です。だから『昨日、食べたことがあります』『先週、行ったことがあります』とは言えません！昨日や先週の出来事は、シンプルに『昨日、食べました』『先週、行きました』を使います。」</div>
+          <div class="en-script">"'Ta koto ga arimasu' is for life experience up to now. Never pair it with recent specific times like 'yesterday' or 'last week'—for those, just use regular '-mashita'!"</div>
+        </div>
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ポイント②：「前に」は100%辞書形！「後で」は100%た形！</div>
+          <div class="jp-script">「昨日（過去）のことであっても、『寝るまえに本を読みました』の『寝る』は必ず辞書形（ル形）です！なぜなら、本を読んだ時点では『まだ寝ていない（これから寝る）』からです。逆に『終わったあとで』は、すでに動作が完了したあとだから100%『た形』になります！」</div>
+          <div class="en-script">"Even when talking about yesterday, the verb before 'mae ni' is ALWAYS Dictionary Form because the action hasn't happened yet at that moment! Before 'ato de', it's ALWAYS Ta-form because the action is already completed!"</div>
+        </div>
+        <div class="rescue-box">
+          <div class="rescue-title">💡 講師必見！「後で」「後に」「〜てから」完全使い分けトーク台本（生徒画面の図解を指さしながら話す全文）</div>
+          <div>
+            <strong>【ステップ①：助詞「で」と「に」のコアイメージ（「手で入れる」vs「手に入れる」）】</strong><br>
+            「『後で』と『後に』の違いは、助詞の『で』と『に』を比べると一発でイメージできますよ！たとえば<strong>『手で入れる』</strong>と<strong>『手に入れる』</strong>の違いを考えてみましょう。<br>
+            ・<strong>『で』</strong>は、その行為をするために利用する<strong>手段・方法・道具</strong>、または行為が行われる<strong>空間や時間枠</strong>を表します（手という道具を使って入れる）。だから<strong>『後でする』</strong>は、<strong>『後（あと）という時間枠を使ってする』</strong>という意味になります（例：『また後で連絡しますね！』）。<br>
+            ・<strong>『に』</strong>は、行為の<strong>目的・帰着点（ゴール）</strong>や<strong>移動先・変化の結果</strong>を表します（自分の手というゴールへ移動させゲットする）。だから<strong>『後にする』</strong>は、<strong>『他の時間帯（未定を含む）から、後という時間帯へ移動・変更する（先送りする）』</strong>という意味になります（例：『その話は後にしよう』）。<br>
+            ・また、<strong>『私の後（あと）について来て』が正解で『後でついて来て』がバツ</strong>なのも、『私の後ろという位置（帰着点）へ移動して来てほしい』のであって、『後という時間を使って移動させる』わけではないからです！『3年後に帰国する』も、3年後という到達ポイント（帰着点）を指すので100%『に』になります。」<br><br>
+
+            <strong>【ステップ②：「AたあとでB」vs「AたあとにB」の関連性とフォーマル度】</strong><br>
+            「動詞のた形につく場合は、日常会話では両方使えることも多いですが、厳密には<strong>2つの出来事（AとB）に関連性があるかどうか</strong>が違います。<br>
+            ・<strong>『昼ご飯を食べたあとで、お茶を飲んだ』</strong>：単に時間の順序（AのあとにBが起きた）を表します。2つの出来事が無関係・偶然でもOKで、『たまたま飲んだのがお茶だった（コーヒーや水に置き換えても同じ）』というニュアンスです。日常の話し言葉（口語）で一番よく使われます。<br>
+            ・<strong>『昼ご飯を食べたあとに、お茶を飲んだ』</strong>：AとBの間に<strong>強い関連性</strong>がある、またはBがAの影響を受けている（食後の一杯として決まっているお茶など、勝手に水やコーヒーに置き換えられないセット感）を表します。また『会議のあとに質問を受け付けます』『嵐のあとには静けさがやってくる』のように、直後のタイミングやフォーマル・書き言葉で好まれます。」<br><br>
+
+            <strong>【ステップ③：「AてからB」vs「AたあとでB」の条件・準備・焦点の違い】</strong><br>
+            「『玉ねぎを刻んでから炒めます（一連のシームレスな調理の流れ）』と『玉ねぎを刻んだあとで炒めます（間に別の作業が入ってもOK）』のように置き換えられる文もありますが、<strong>置き換えると不自然になる決定的な違い</strong>があります！<br>
+            ・<strong>『AてからB』＝【Aが先！Aが必須条件・準備・きっかけ！（前件Aの『いつ行うか』に重点）】</strong><br>
+            　BをするためにまずAが必要という条件があるときは『〜てから』を使います！<br>
+            　例：『手を洗ってから食べなさい』『全員そろってから乾杯しましょう』『お湯が沸いてから野菜を入れます』『よく読んでからサインしてください』『アルコール消毒をしてから店内にお入りください』『二十歳になってからお酒を飲む』『日本に来てから空手を始めた（起点からの継続）』『ペットが死んでから母はずっと元気がない』。<br>
+            ・<strong>『Aたあと（で）B』＝【Aが終わった時点（何を行ったか）を客観的に示す／無意志・偶然の気づき】</strong><br>
+            　自分の意志でコントロールできない現象や、偶然の気づきには『〜たあと（で）』しか使えません！<br>
+            　例：『電車を降りたあとで、スマホがないことに気がついた（×降りてから気がついた）』『本を読んだあとでタイトルの意味がわかった』『地震が起こったあと、停電になった』『フードコートでは食べたあと、食器をカウンターに返すことになっている（後件のルールに重点）』。」
+          </div>
+        </div>
+        <div class="chat-copy-box">
+          <div class="chat-copy-text">【前・後の鉄則まとめ】
+・[辞書形] ＋ まえに（寝るまえに / 食べるまえに）※過去でも辞書形！
+・[た形] ＋ あとで／あとに（食べたあとで / 仕事が終わったあとで）
+・単独の「Later」＝ また後で（あとで）！
+・時間の後ろ ＝ 10分後に（じゅっぷんごに）・3年後に（さんねんごに）！</div>
+          <button class="copy-btn" onclick="copyText(this)">📋 チャット用にコピー</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- L2 Step 2 to Step 7 -->
+    <div class="script-step-card" id="l2-step-2">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 2</span>
+          <h2 class="step-title">語彙・表現（宿題フラッシュカード #34 基本動詞(5) ＋ #29 電車 全42語）</h2>
+        </div>
+        <span class="time-badge">⏱️ 18:00 - 24:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 進行のコツ（基本動詞(5)のた形変換と電車語彙の確認）</div>
+          <div class="jp-script">「ここには宿題フラッシュカード #34『基本動詞(5)』の22語と、#29『電車』の20語が入っています。特に『片付けます』『磨きます』『組み立てます』『乗り換えます』など、日常生活でよく使う動詞の『た形』も一緒に確認しておきましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l2-step-3">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 3</span>
+          <h2 class="step-title">重要例文（10文）</h2>
+        </div>
+        <span class="time-badge">⏱️ 24:00 - 30:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 例文音読＆「〜たことがありますか？」即興Q&A</div>
+          <div class="jp-script">「例文を読んだら、〇〇さん自身の経験も教えてください！『日本の温泉に入ったことがありますか？』『スマホを電車に忘れたことがありますか？』」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l2-step-4">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 4</span>
+          <h2 class="step-title">実践4択クイズ（10問）</h2>
+        </div>
+        <span class="time-badge">⏱️ 30:00 - 36:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クイズのポイント解説</div>
+          <div class="jp-script">「特に『昨日〜ました vs 〜たことがあります』『寝るまえに』『10分後に』『また後で』の使い分け問題に注目して解いてみましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l2-step-5">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 5</span>
+          <h2 class="step-title">会話ロールプレイ（北海道旅行・体調不良とアドバイス・電車の乗り換え）</h2>
+        </div>
+        <span class="time-badge">⏱️ 36:00 - 42:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ロールプレイ進行</div>
+          <div class="jp-script">「シーン3の『電車での乗り換え案内』は、日本旅行でそのまま使える超実用表現です。駅員さん役と旅行者役を交代して練習しましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l2-step-6">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 6</span>
+          <h2 class="step-title">文法変換＆語順並び替えドリル</h2>
+        </div>
+        <span class="time-badge">⏱️ 42:00 - 46:00 (4分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 変化表現（〜くなります／〜になります）のスピードチェック</div>
+          <div class="jp-script">「い形容詞は『〜くなります（暖かくなります）』、な形容詞と名詞は『〜になります（上手になります・春になります）』！口頭で素早く変換してみましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l2-step-7">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 7</span>
+          <h2 class="step-title">フリートーク＆インタビュー（全8問＋宿題案内）</h2>
+        </div>
+        <span class="time-badge">⏱️ 46:00 - 50:00 (4分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クロージング＆宿題出しトーク</div>
+          <div class="jp-script">「宿題はフラッシュカード <strong>#34『基本動詞(5)』</strong>、<strong>#29『電車』</strong>、そしてた形の復習として <strong>#47『基本動詞 たform(1)』</strong> です！」</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== LESSON 3 ==================== -->
+  <div class="lesson-pane" id="lessonPane3">
+    <div class="lesson-overview-card">
+      <h1>📘 Stage 5 - Lesson 3 講師用進行台本：普通形・意見・伝聞・推量・カジュアル会話</h1>
+      <div><strong>最重要ゴール：</strong>① 動詞・い形容詞・な形容詞・名詞の「普通形（4時制）」を完全整理する、②「〜と思います／〜と言いました」は名詞・な形容詞に『だ』がつくが、「〜でしょう」は『だ』が消える違いをマスターする、③ 丁寧体（です・ます）と普通体（カジュアル会話：うん・ううん）を切り替えられるようにする。</div>
+      <div class="meta-pills">
+        <span class="meta-pill">📌 連動フラッシュカード：#26 季節/天気 [23語] / #47・#48 たform(1)(2)</span>
+        <span class="meta-pill">🔥 試験最頻出：「雨だでしょう(誤) ➔ 雨でしょう(正)」「いいだった(誤) ➔ よかった(正)」</span>
+      </div>
+    </div>
+
+    <!-- L3 Step 0 -->
+    <div class="script-step-card" id="l3-step-0">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 0</span>
+          <h2 class="step-title">導入・アイスブレイク＆今日の天気トーク</h2>
+        </div>
+        <span class="time-badge">⏱️ 00:00 - 05:00 (5分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 講師の第一声・天気ウォームアップ</div>
+          <div class="jp-script">「こんにちは！今日の〇〇さんの街の天気はどうですか？晴れていますか？曇っていますか？明日は雨が降ると思いますか？今日は日本語の中級への扉になる超重要テーマ『普通形（Plain Form）』と『〜と思います・〜と言いました・〜でしょう』をマスターします！」</div>
+          <div class="en-script">"Hello! How's the weather in your city today? Today we're unlocking the biggest gateway to intermediate Japanese: the Plain Form, plus 'I think', 'someone said', and 'probably'!"</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- L3 Step 1 -->
+    <div class="script-step-card" id="l3-step-1">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 1</span>
+          <h2 class="step-title">文法・図解（普通形マトリックス／と思います／と言いました／でしょう／カジュアル会話）</h2>
+        </div>
+        <span class="time-badge">⏱️ 05:00 - 18:00 (13分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ ポイント①：普通形は「新しい活用」ではなく、すでに習った3つの形の組み合わせ！</div>
+          <div class="jp-script">「『普通形（Plain form）』と聞くと新しく覚えることがたくさんありそうですが、実はもう全部習っています！動詞の現在肯定は『辞書形（〜る）』、現在否定は『ない形（〜ない）』、過去肯定は『た形（〜た）』、過去否定は『〜なかった』です！一番気をつけるのは『いい（良い）』の活用だけ！『いい ➔ よくない ➔ よかった ➔ よくなかった』を声に出して3回言ってみましょう！」</div>
+          <div class="en-script">"Good news: the Plain Form isn't brand new! For verbs, it's just Dictionary form, Nai-form, Ta-form, and -nakatta, which you already know! Just watch out for 'ii (good)': ii -> yokunai -> yokatta -> yokunakatta!"</div>
+        </div>
+        <div class="rescue-box">
+          <div class="rescue-title">🔥 最大のひっかけ：「〜と思います（だアリ）」vs「〜でしょう（だナシ）」</div>
+          <div>
+            「な形容詞と名詞の現在肯定は『便利だ』『雨だ』のように『だ』がつきます。だから『便利だと思います』『明日は雨だと思います』は『だ』が必要です。<br>
+            <strong>しかし！『〜でしょう』の前だけは、『だ』と『でしょう』がぶつかるので『だ』が消えます！</strong><br>
+            ・明日は<strong>雨だと思います</strong>（『だ』アリ！）<br>
+            ・明日は<strong>雨でしょう</strong>（『だ』ナシ！『雨だでしょう』は絶対ダメ！）」
+          </div>
+        </div>
+        <div class="chat-copy-box">
+          <div class="chat-copy-text">【Lesson 3 最重要ルール】
+① いいです ➔ いい / よくない / よかった / よくなかった
+② な形容詞・名詞 ＋ と思います：『だ』がつく！（便利だと思います・雨だと思います）
+③ な形容詞・名詞 ＋ でしょう：『だ』が消える！（便利でしょう・雨でしょう）
+④ カジュアル返事：はい ➔ うん / いいえ ➔ ううん</div>
+          <button class="copy-btn" onclick="copyText(this)">📋 チャット用にコピー</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- L3 Step 2 to Step 7 -->
+    <div class="script-step-card" id="l3-step-2">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 2</span>
+          <h2 class="step-title">語彙・表現（宿題フラッシュカード #26 季節/天気 全23語＋意見・推量語彙 全40語）</h2>
+        </div>
+        <span class="time-badge">⏱️ 18:00 - 24:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 進行のコツ（旧版テキストで1語しか入っていなかった語彙リストを40語に完全拡充！）</div>
+          <div class="jp-script">「ここには宿題フラッシュカード #26『季節/天気』の全23語と、意見を言うときに必須の副詞（たぶん・きっと・もしかしたら）が入っています。天気予報の単語（晴れ・曇り・台風・雷・湿度・蒸し暑い）を確認しましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l3-step-3">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 3</span>
+          <h2 class="step-title">重要例文（10文）</h2>
+        </div>
+        <span class="time-badge">⏱️ 24:00 - 30:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 例文音読＆「〜についてどう思いますか？」質問</div>
+          <div class="jp-script">「例文6番『日本の電車についてどう思いますか』を読んだら、〇〇さん自身の意見も『〜と思います』を使って教えてくださいね！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l3-step-4">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 4</span>
+          <h2 class="step-title">実践4択クイズ（10問）</h2>
+        </div>
+        <span class="time-badge">⏱️ 30:00 - 36:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クイズ進行</div>
+          <div class="jp-script">「『雨だと思います』と『雨でしょう』の使い分け、『よかった』の活用に気をつけて10問チャレンジしましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l3-step-5">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 5</span>
+          <h2 class="step-title">会話ロールプレイ（天気予報と週末・友達とのカジュアル会話・会議の伝言）</h2>
+        </div>
+        <span class="time-badge">⏱️ 36:00 - 42:00 (6分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ シーン2（カジュアル会話）とシーン3（ビジネスの伝言）の対比</div>
+          <div class="jp-script">「シーン2では友達同士のカジュアルな普通体（うん・ううん・行く？・よかった！）、シーン3では職場で『田中さんが〜と言っていました』と伝える丁寧な会話を両方体験してみましょう！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l3-step-6">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 6</span>
+          <h2 class="step-title">文法変換＆語順並び替えドリル</h2>
+        </div>
+        <span class="time-badge">⏱️ 42:00 - 46:00 (4分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ 丁寧体 ➔ 普通形 スピード変換</div>
+          <div class="jp-script">「丁寧体を一瞬で普通形に変える練習です！『忙しいです ➔ 忙しい』『暇でした ➔ 暇だった』『いい天気でした ➔ いい天気だった』！」</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="script-step-card" id="l3-step-7">
+      <div class="step-header">
+        <div class="step-title-group">
+          <span class="step-num-badge">Step 7</span>
+          <h2 class="step-title">フリートーク＆インタビュー（全8問＋Stage 5完了まとめ）</h2>
+        </div>
+        <span class="time-badge">⏱️ 46:00 - 50:00 (4分)</span>
+      </div>
+      <div class="script-grid">
+        <div class="talk-box">
+          <div class="talk-box-title">🗣️ クロージング＆宿題出しトーク</div>
+          <div class="jp-script">「これでStage 5の3レッスンすべて完了です！宿題はフラッシュカード <strong>#26『季節/天気』</strong> と、普通形の基礎になる <strong>#47・#48『基本動詞 たform(1)(2)』</strong> です。お疲れ様でした！」</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="toast" id="toastBox">コピーしました！</div>
+
+<script>
+  let currentLesson = 1;
+  let currentStep = 0;
+
+  function switchLesson(lessonNum, fromSync = false) {
+    currentLesson = lessonNum;
+    [1, 2, 3].forEach(n => {
+      document.getElementById('tabLesson' + n).classList.toggle('active', n === lessonNum);
+      document.getElementById('lessonPane' + n).classList.toggle('active', n === lessonNum);
+    });
+    highlightStepCard(lessonNum, currentStep, fromSync);
+  }
+
+  function scrollToStep(stepIdx, fromSync = false) {
+    currentStep = stepIdx;
+    const btns = document.querySelectorAll('.step-jump-btn');
+    btns.forEach((b, idx) => b.classList.toggle('active', idx === stepIdx));
+    highlightStepCard(currentLesson, stepIdx, fromSync);
+  }
+
+  function highlightStepCard(lessonNum, stepIdx, fromSync = false) {
+    document.querySelectorAll('.script-step-card').forEach(el => el.classList.remove('synced-highlight'));
+    const target = document.getElementById('l' + lessonNum + '-step-' + stepIdx);
+    if (target) {
+      target.classList.add('synced-highlight');
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    if (fromSync) {
+      const txt = document.getElementById('syncStatusText');
+      if (txt) {
+        txt.textContent = '連動完了: Lesson ' + lessonNum + ' / Step ' + stepIdx;
+      }
+    }
+  }
+
+  // BroadcastChannel listener to auto-sync with Student Textbook window
+  try {
+    const bc = new BroadcastChannel('jp_stage5_sync');
+    bc.onmessage = (ev) => {
+      const d = ev.data || {};
+      if (d.lessonId) {
+        const m = String(d.lessonId).match(/Lesson([123])/i);
+        if (m) {
+          const lNum = parseInt(m[1], 10);
+          if (lNum !== currentLesson) {
+            switchLesson(lNum, true);
+          }
+        }
+      }
+      if (typeof d.step === 'number') {
+        scrollToStep(d.step, true);
+      }
+    };
+  } catch (e) {}
+
+  // Toggle English Script
+  function toggleEnglishScript() {
+    document.body.classList.toggle('hide-en');
+    const isHidden = document.body.classList.contains('hide-en');
+    const btn = document.getElementById('enToggleBtn');
+    btn.textContent = isHidden ? '🇬🇧 英語台本: OFF' : '🇬🇧 英語台本: ON';
+    btn.classList.toggle('active', !isHidden);
+  }
+
+  // Copy Chat Text
+  function copyText(btn) {
+    const box = btn.parentElement.querySelector('.chat-copy-text');
+    if (!box) return;
+    navigator.clipboard.writeText(box.innerText).then(() => {
+      const t = document.getElementById('toastBox');
+      t.style.display = 'block';
+      setTimeout(() => { t.style.display = 'none'; }, 1800);
+    });
+  }
+
+  // 50-minute Countdown Timer
+  let remainingSec = 50 * 60;
+  let timerInterval = null;
+  function updateTimerUI() {
+    const m = String(Math.floor(remainingSec / 60)).padStart(2, '0');
+    const s = String(remainingSec % 60).padStart(2, '0');
+    document.getElementById('timerDisplay').textContent = m + ':' + s;
+  }
+  function toggleTimer() {
+    const btn = document.getElementById('timerBtn');
+    if (timerInterval) {
+      clearInterval(timerInterval);
+      timerInterval = null;
+      btn.textContent = '再開';
+      btn.classList.remove('active');
+    } else {
+      timerInterval = setInterval(() => {
+        if (remainingSec > 0) {
+          remainingSec--;
+          updateTimerUI();
+        } else {
+          clearInterval(timerInterval);
+          timerInterval = null;
+        }
+      }, 1000);
+      btn.textContent = '一時停止';
+      btn.classList.add('active');
+    }
+  }
+  function resetTimer() {
+    if (timerInterval) {
+      clearInterval(timerInterval);
+      timerInterval = null;
+    }
+    remainingSec = 50 * 60;
+    updateTimerUI();
+    const btn = document.getElementById('timerBtn');
+    btn.textContent = '開始';
+    btn.classList.remove('active');
+  }
+</script>
+</body>
+</html>
