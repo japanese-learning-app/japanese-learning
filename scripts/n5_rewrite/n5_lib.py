@@ -44,15 +44,17 @@ def parse_num(s):
         return None
     if s.isdigit():
         return int(s)
-    # kanji numeral up to 999
+    # kanji numeral up to 9999
     n, cur = 0, 0
     for c in s:
         if c in _KNUM:
-            cur = cur * 10 + _KNUM[c] if False else _KNUM[c]
+            cur = _KNUM[c]
         elif c == '十':
             n += (cur or 1) * 10; cur = 0
         elif c == '百':
             n += (cur or 1) * 100; cur = 0
+        elif c == '千':
+            n += (cur or 1) * 1000; cur = 0
     return n + cur
 
 _DIG = ['れい', 'いち', 'に', 'さん', 'よん', 'ご', 'ろく', 'なな', 'はち', 'きゅう']
@@ -62,7 +64,9 @@ def num_reading(n, last='std'):
     if n == 0:
         return 'れい'
     parts = []
-    h, t, u = n // 100, (n // 10) % 10, n % 10
+    th, h, t, u = (n // 1000) % 10, (n // 100) % 10, (n // 10) % 10, n % 10
+    if th:
+        parts.append(({3: 'さんぜん', 8: 'はっせん'}).get(th, ('' if th == 1 else _DIG[th]) + 'せん'))
     if h:
         parts.append(({3: 'さんびゃく', 6: 'ろっぴゃく', 8: 'はっぴゃく'}).get(h, ('' if h == 1 else _DIG[h]) + 'ひゃく'))
     if t:
@@ -208,6 +212,7 @@ _FIX_SURFACE = {  # surface -> hiragana reading (hand verified)
     '今月': 'こんげつ', '今週': 'こんしゅう', '先週': 'せんしゅう', '先月': 'せんげつ', '来月': 'らいげつ',
     '一人': 'ひとり', '二人': 'ふたり', '午前': 'ごぜん', '午後': 'ごご', '何': None,  # 何 handled in context
     '外国': 'がいこく', '日本': 'にほん', '日本語': 'にほんご', '日本人': 'にほんじん', '日本料理': 'にほんりょうり',
+    '角': 'かど', '他': 'ほか', '手': 'て', '緑色': 'みどりいろ',
     '中': None, '人': None, '日': None,
 }
 _FIX_SURFACE = {k: v for k, v in _FIX_SURFACE.items() if v}
@@ -274,6 +279,8 @@ def _ruby_text(seg):
                 rd = kata2hira(t.reading if t.reading and t.reading != '*' else s)
                 if s[0] == '行' and t.base_form == '行う':      # 行って/行き... are always 行く at N5 (Janome sometimes picks 行う)
                     rd = rd.replace('おこな', 'い')
+                if s.startswith('来') and t.base_form == '来る' and rd.startswith('きた'):
+                    rd = 'こ' + rd[2:]
             al = _align(s, rd)
             if al is None:
                 out.append(_ruby(s, rd))
@@ -293,7 +300,7 @@ def R(text, skip_u=False):
     # split on tags and explicit annotations
     text = re.sub(r'(?<![{|])一人', '{一人|ひとり}', text)
     text = re.sub(r'(?<![{|])二人', '{二人|ふたり}', text)
-    text = text.replace('誕生日', '{誕生日|たんじょうび}')
+    text = re.sub(r'(?<![{|])誕生日', '{誕生日|たんじょうび}', text)
     text = re.sub(r'の日(?![本曜])', 'の{日|ひ}', text)
     tokens = re.split(r'(<[^>]+>|\{[^{}|]+\|[^{}|]+\})', text)
     for tk in tokens:

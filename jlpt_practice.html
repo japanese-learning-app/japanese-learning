@@ -1878,7 +1878,7 @@
             <span id="card-vocab-cards-badge" class="card-badge-count" style="background:#ED8C72; color:white; font-weight:800;">3,412 語</span>
           </div>
           <div class="card-title-main" style="color:#D45D40;">語彙フラッシュカード</div>
-          <div id="card-vocab-cards-sub" class="card-subtitle-reading">3D両面カード・公式全語彙（ごいフラッシュカード）</div>
+          <div id="card-vocab-cards-sub" class="card-subtitle-reading">3D両面カード・全語彙網羅（ごいフラッシュカード）</div>
           <ul class="card-feature-list">
             <li id="card-vocab-cards-b1">全3,412語を完全網羅</li>
             <li>3Dカードフリップで隙間時間にサクサク記憶定着</li>
@@ -2003,7 +2003,7 @@
           <div class="card-title-main" style="color:#BE185D;">実戦模擬試験</div>
           <div id="card-mock-sub" class="card-subtitle-reading">本番時間・尺度得点・合格基準点シミュレーション</div>
           <ul class="card-feature-list">
-            <li id="card-mock-b1">公式試験時間＆問題構成に完全準拠（全91問）</li>
+            <li id="card-mock-b1">本番の試験時間＆問題構成を忠実に再現（全91問）</li>
             <li>尺度得点算出（180点満点・得点区分基準点判定）</li>
             <li>終了後即時スコアカード＆「間違えた問題だけ」復習</li>
             <li>全問ふりがな切替＆詳細解説＆リスニング音声連動</li>
@@ -2047,7 +2047,7 @@
             <div class="card-icon-square gold" style="width: 36px; height: 36px; font-size: 15px;">辞</div>
             <div>
               <div style="font-weight: 800; font-size: 13.5px; color: var(--accent-gold);">単語帳</div>
-              <div style="font-size: 11px; color: var(--text-muted);">五十音順・公式8,300+語彙集</div>
+              <div style="font-size: 11px; color: var(--text-muted);">五十音順・8,300+語彙集</div>
             </div>
           </div>
           <a href="jlpt_vocab.html" class="card-btn-action gold" style="padding: 7px 15px; font-size: 11.5px; width: auto; margin-top: 0; text-decoration:none;">
@@ -2646,9 +2646,9 @@
       vocabCount: 702,
       vocabQuizCount: 371,
       readingUrl: 'jlpt_n5_reading.html',
-      readingQuestions: 6,
+      readingQuestions: 30,
       listeningUrl: 'jlpt_n5_listening.html',
-      listeningQuestions: 24,
+      listeningQuestions: 60,
       mockUrl: 'jlpt_n5_mock.html',
       mockQuestions: 91
     }
@@ -2755,6 +2755,8 @@
     if (rdBadge) rdBadge.textContent = `${info.readingQuestions || 21} 問`;
     const rdPill = document.getElementById('card-reading-pill');
     if (rdPill) rdPill.textContent = `全${info.readingQuestions || 21}問・実戦模試`;
+    const rdB1 = document.getElementById('card-reading-b1');
+    if (rdB1) rdB1.textContent = `全${info.readingQuestions || 21}問を完全網羅`;
 
     // 6. 聴解演習
     const linkListening = document.getElementById('link-listening');
@@ -2766,6 +2768,8 @@
     if (lsBadge) lsBadge.textContent = `${info.listeningQuestions || 31} 問`;
     const lsPill = document.getElementById('card-listening-pill');
     if (lsPill) lsPill.textContent = `全${info.listeningQuestions || 31}問・音声連動`;
+    const lsB1 = document.getElementById('card-listening-b1');
+    if (lsB1) lsB1.textContent = `全${info.listeningQuestions || 31}問の実戦模試・音声ファースト設計`;
 
     // 7. 実戦模擬試験
     const linkMock = document.getElementById('link-mock');
