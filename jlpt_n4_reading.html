@@ -289,7 +289,7 @@
             <span>JLPT N4 読解実戦道場</span>
             <span class="text-xs bg-white text-[#127285] font-extrabold px-2.5 py-0.5 rounded-full">実戦模試 第1回</span>
           </div>
-          <div class="text-xs text-white/80">全6文章・全10問 完全準拠模試（短文・中文・情報検索）</div>
+          <div class="text-xs text-white/80">全11文章・全21問 総合実戦模試（短文・中文・情報検索）</div>
         </div>
       </div>
 
@@ -313,7 +313,7 @@
 
       <!-- Quick Nav Buttons -->
       <div class="flex items-center gap-2 text-xs font-bold text-slate-500">
-        <span id="progress-indicator">問 1 / 10</span>
+        <span id="progress-indicator">問 1 / 21</span>
         <button onclick="prevPassage()" class="px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 hover:bg-slate-100 transition flex items-center gap-1">
           <i data-lucide="chevron-left" class="w-4 h-4"></i>
           <span>前の文章</span>
@@ -564,7 +564,8 @@
       // Update progress indicator
       const firstQ = p.questions[0].q_num;
       const lastQ = p.questions[p.questions.length - 1].q_num;
-      document.getElementById('progress-indicator').textContent = firstQ === lastQ ? `問 ${firstQ} / 10` : `問 ${firstQ}〜${lastQ} / 10`;
+      const totalQ = data.total_questions || 21;
+      document.getElementById('progress-indicator').textContent = firstQ === lastQ ? `問 ${firstQ} / ${totalQ}` : `問 ${firstQ}〜${lastQ} / ${totalQ}`;
 
       lucide.createIcons();
     }
@@ -647,7 +648,7 @@
 
       const textEl = document.getElementById(`q${qNum}-explanation-text`);
       if (textEl) {
-        textEl.textContent = targetQ.explanation[lang] || targetQ.explanation.ja;
+        textEl.innerHTML = targetQ.explanation[lang] || targetQ.explanation.ja;
       }
     }
 
