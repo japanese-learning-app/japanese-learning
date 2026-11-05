@@ -695,7 +695,7 @@
 
           <!-- 3. Choices Grid (白背景 × ライトブルー枠) -->
           <div class="choices-grid">
-            ${q.choices.map((c, cIdx) => `
+            ${(q.choices_ruby || q.choices).map((c, cIdx) => `
               <div onclick="selectListeningChoice(${q.q_num}, ${cIdx})" id="lq${q.q_num}-card-${cIdx}" class="choice-card">
                 <div class="choice-badge-num">${cIdx + 1}</div>
                 <div class="flex-1">${c}</div>
@@ -805,7 +805,7 @@
       }
 
       // 3. 再生開始
-      status.textContent = '再生中…（Google音声）';
+      status.textContent = '再生中…';
       status.className = 'text-xs font-bold text-[#1995AD]';
       btn.innerHTML = '<i data-lucide="square" class="w-5 h-5 fill-white"></i>';
       lucide.createIcons();
@@ -907,7 +907,7 @@
       if (!q || !q.explanation) return;
 
       const expEl = document.getElementById(`lexp-text-${qNum}`);
-      if (expEl) expEl.textContent = q.explanation[lang] || q.explanation.ja || '';
+      if (expEl) expEl.innerHTML = q.explanation[lang] || q.explanation.ja || '';
 
       ['ja', 'en', 'zh', 'ko'].forEach(l => {
         const btn = document.getElementById(`lexp-btn-${qNum}-${l}`);

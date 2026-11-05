@@ -289,7 +289,7 @@
             <span>JLPT N1 読解実戦道場</span>
             <span class="text-xs bg-white text-[#127285] font-extrabold px-2.5 py-0.5 rounded-full">実戦模試 第1回</span>
           </div>
-          <div class="text-xs text-white/80">全10文章・全21問 完全準拠模試（短文・中文・統合・長文・情報検索）</div>
+          <div class="text-xs text-white/80">全10文章・全21問 実戦読解演習（短文・中文・統合・長文・情報検索）</div>
         </div>
       </div>
 
@@ -521,7 +521,7 @@
 
           <!-- Choices Grid -->
           <div class="space-y-2.5" id="choices-grid-${q.q_num}">
-            ${q.choices.map((c, cIdx) => `
+            ${(q.choices_ruby || q.choices).map((c, cIdx) => `
               <div onclick="selectReadingChoice(${q.q_num}, ${cIdx})" id="q${q.q_num}-card-${cIdx}" class="choice-card">
                 <div class="choice-badge-num">${cIdx + 1}</div>
                 <div class="flex-1">${c}</div>
@@ -647,7 +647,7 @@
 
       const textEl = document.getElementById(`q${qNum}-explanation-text`);
       if (textEl) {
-        textEl.textContent = targetQ.explanation[lang] || targetQ.explanation.ja;
+        textEl.innerHTML = targetQ.explanation[lang] || targetQ.explanation.ja;
       }
     }
 
