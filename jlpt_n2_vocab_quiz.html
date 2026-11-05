@@ -2392,24 +2392,35 @@
   }
   loadMyListFromStorage();
 
-  function saveMyList() {
+  function syncQuizQuestionWithUserProgress(q, isSaved) {
+    if (!window.UserProgress || !q) return;
+    const rawWord = (q.category === '漢字読み' && q.target_word) ? q.target_word : (q.correct_text || q.target_word || (q.choices && q.choices[q.answer]) || '');
+    const word = cleanSearchWord(rawWord) || rawWord;
+    if (!word) return;
+    const reading = (q.category === '漢字読み' && q.target_word) ? (q.correct_text || q.target_word_reading || '') : (q.correct_text_reading || q.target_word_reading || '');
+    if (isSaved) {
+      const dictInfo = (typeof searchDictionaryOnPage === 'function') ? searchDictionaryOnPage(word) : null;
+      window.UserProgress.addSavedVocab({
+        id: 'jlpt_saved_' + encodeURIComponent(word),
+        word: word,
+        reading: reading || (dictInfo && dictInfo.reading) || '',
+        meaning: q.meaning_en || (dictInfo && dictInfo.meaning) || q.explanation || '',
+        exampleJa: q.question_ruby || q.question || (dictInfo && dictInfo.example_ja) || '',
+        exampleNative: q.question_en || (dictInfo && dictInfo.example_en) || '',
+        level: 'N2語彙',
+        source: 'jlpt'
+      });
+    } else {
+      window.UserProgress.removeSavedVocab(word);
+    }
+  }
+
+  function saveMyList(changedQuestion) {
     localStorage.setItem(getMyListStorageKey(), JSON.stringify(myList));
     updateMyListUI();
-    // 総合ポータルのマイリストにも同期
-    if (window.UserProgress && activeIndices.length > 0) {
-      const q = data[activeIndices[currentIndex]];
-      if (q && q.correctAnswer) {
-        if (myList.includes(q.id)) {
-          window.UserProgress.addSavedVocab({
-            id: `jlpt_vocab_q_${q.id}`,
-            word: q.correctAnswer,
-            reading: q.reading || '',
-            meaning: q.meaning || q.questionText || '',
-            level: 'N2',
-            source: 'jlpt'
-          });
-        }
-      }
+    const q = changedQuestion || (activeIndices.length > 0 ? data[activeIndices[currentIndex]] : null);
+    if (q) {
+      syncQuizQuestionWithUserProgress(q, myList.includes(q.id));
     }
   }
 
@@ -2850,8 +2861,12 @@
 
   function isTermSavedInMylist(term) {
     try {
+      const clean = cleanSearchWord(term) || term;
+      if (window.UserProgress && (window.UserProgress.isVocabSaved(clean) || window.UserProgress.isVocabSaved(term))) {
+        return true;
+      }
       const list = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
-      return list.includes(term);
+      return list.includes(term) || list.includes(clean);
     } catch(e) {
       return false;
     }
@@ -2898,19 +2913,35 @@
   // Action 1: Toggle Save to MyList
   btnSaveToMylist.addEventListener('click', () => {
     if (!activeModalTerm) return;
+    const clean = cleanSearchWord(activeModalTerm) || activeModalTerm;
     const isSaved = isTermSavedInMylist(activeModalTerm);
     try {
       let customList = JSON.parse(localStorage.getItem('jlpt_custom_vocab_terms') || '[]');
       if (isSaved) {
-        customList = customList.filter(t => t !== activeModalTerm);
+        customList = customList.filter(t => t !== activeModalTerm && t !== clean);
         localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        if (window.UserProgress) {
+          window.UserProgress.removeSavedVocab(clean);
+          if (clean !== activeModalTerm) window.UserProgress.removeSavedVocab(activeModalTerm);
+        }
         updateMylistButton(false);
         showToast(`「${activeModalTerm}」をマイリストから削除しました`);
       } else {
-        if (!customList.includes(activeModalTerm)) {
-          customList.push(activeModalTerm);
-        }
+        if (!customList.includes(clean)) customList.push(clean);
         localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(customList));
+        if (window.UserProgress) {
+          const dictInfo = (typeof searchDictionaryOnPage === 'function') ? searchDictionaryOnPage(clean) : null;
+          window.UserProgress.addSavedVocab({
+            id: 'jlpt_saved_' + encodeURIComponent(clean),
+            word: clean,
+            reading: (activeModalItem && activeModalItem.reading) || (dictInfo && dictInfo.reading) || '',
+            meaning: (activeModalItem && activeModalItem.meaning) || (dictInfo && dictInfo.meaning) || '',
+            exampleJa: (dictInfo && dictInfo.example_ja) || '',
+            exampleNative: (dictInfo && dictInfo.example_en) || '',
+            level: (dictInfo && dictInfo.level) || 'N2語彙',
+            source: 'jlpt'
+          });
+        }
         updateMylistButton(true);
         showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
       }
@@ -3194,7 +3225,7 @@
 
   // Direct Add to MyList from Dictionary Result
   window.toggleDictCardMylist = function(term, btnElem) {
-    const clean = cleanSearchWord(term);
+    const clean = cleanSearchWord(term) || term;
     const isSaved = isTermSavedInMylist(clean);
     let list = [];
     try {
@@ -3202,8 +3233,12 @@
     } catch(e) { list = []; }
 
     if (isSaved) {
-      list = list.filter(t => t !== clean);
+      list = list.filter(t => t !== clean && t !== term);
       localStorage.setItem('jlpt_custom_vocab_terms', JSON.stringify(list));
+      if (window.UserProgress) {
+        window.UserProgress.removeSavedVocab(clean);
+        if (term !== clean) window.UserProgress.removeSavedVocab(term);
+      }
       if (btnElem) {
         btnElem.classList.remove('saved');
         btnElem.innerHTML = `⭐ マイリストに追加`;
@@ -3220,12 +3255,15 @@
       updateMylistButton(true);
       showToast(`「${clean}」をマイリストに追加しました！⭐`);
       if (window.UserProgress) {
+        const dictInfo = (typeof searchDictionaryOnPage === 'function') ? searchDictionaryOnPage(clean) : null;
         window.UserProgress.addSavedVocab({
-          id: `custom_vocab_${Date.now()}_${clean}`,
+          id: 'jlpt_saved_' + encodeURIComponent(clean),
           word: clean,
-          reading: '',
-          meaning: '辞書検索から追加',
-          level: 'N2',
+          reading: (dictInfo && dictInfo.reading) || '',
+          meaning: (dictInfo && dictInfo.meaning) || '辞書検索から追加',
+          exampleJa: (dictInfo && dictInfo.example_ja) || '',
+          exampleNative: (dictInfo && dictInfo.example_en) || '',
+          level: (dictInfo && dictInfo.level) || 'N2語彙',
           source: 'dict'
         });
       }
@@ -3693,7 +3731,8 @@
       myList.push(qid);
       showToast('マイリストに保存しました！');
     }
-    saveMyList();
+    const qObj = data.find(item => item.id === qid);
+    saveMyList(qObj);
     if (btn) {
       const svg = btn.querySelector('svg');
       if (svg) svg.setAttribute('fill', myList.includes(qid) ? 'currentColor' : 'none');

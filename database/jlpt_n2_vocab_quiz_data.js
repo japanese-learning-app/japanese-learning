@@ -13484,7 +13484,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "一致",
-    "meaning_en": "(1) coincidence; agreement",
+    "meaning_en": "Because the survey tally results and the opinions from the field matched, we decided to proceed with the plan.",
     "explanation": "",
     "kanji_info": [
       {
@@ -13529,7 +13529,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "いっち",
     "correct_text_reading": "いっち",
-    "correct_text_ruby": "<ruby>一致<rt>いっち</rt></ruby>"
+    "correct_text_ruby": "<ruby>一致<rt>いっち</rt></ruby>",
+    "sentence": "アンケートの集計結果と現場の意見が（　　　）したので、計画を進めることにした。"
   },
   {
     "id": 227,
@@ -15657,7 +15658,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "あやしい",
-    "meaning_en": "怪しい[a]doubtful",
+    "meaning_en": "Dark clouds have been spreading since morning, and the sky looks suspiciously like it might start raining at any moment.",
     "explanation": "",
     "kanji_info": [
       {
@@ -15686,7 +15687,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "あやしい",
     "correct_text_reading": "あやしい",
-    "correct_text_ruby": "あやしい"
+    "correct_text_ruby": "あやしい",
+    "sentence": "朝から黒い雲が広がっていて、今にも雨が降り出しそうな（　　　）空模様だ。"
   },
   {
     "id": 264,
@@ -17624,7 +17626,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "プライバシー",
-    "meaning_en": "privacy",
+    "meaning_en": "To protect personal privacy, I avoid posting photos online that could identify the area around my home.",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -17646,7 +17648,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "ぷらいばしー",
     "correct_text_reading": "ぷらいばしー",
-    "correct_text_ruby": "プライバシー"
+    "correct_text_ruby": "プライバシー",
+    "sentence": "個人の（　　　）を守るため、インターネット上に自宅周辺が特定できる写真を投稿しないようにしている。"
   },
   {
     "id": 300,
@@ -20806,10 +20809,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "【あわれな】子犬を拾って家に連れて帰った。",
     "question_ruby": "【あわれな】<ruby>子犬<rt>こいぬ</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>帰<rt>かえ</rt></ruby>った。",
     "choices": [
-      "汚い",
-      "かわいい",
-      "かわいそうな",
-      "死にそうな"
+      "きれいな",
+      "げんきな",
+      "あわれな",
+      "寂しそうな"
     ],
     "choices_ruby": [
       "<ruby>汚<rt>きたな</rt></ruby>い",
@@ -24071,10 +24074,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【暴く】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【暴く】",
     "choices": [
-      "政治家の不正を暴くために、証拠を集めているところだ。",
-      "おとなしかった馬が突然暴れだして、周りにいた人たちがけがを負ってしまった。",
-      "先生でも解けなかった数学の問題を、彼は簡単に解いてしまった。",
-      "どんな理由があったとしても、人の顔を強く叩くことは許されることではない。"
+      "長年の調査によって、ついに歴史の隠された真実を暴くことに成功した。",
+      "朝起きたら、まず窓を暴いて新鮮な空気を入れる。",
+      "プレゼントの箱を暴いて、中身を取り出した。",
+      "約束の時間に遅れることは、どんな理由があっても許されない。"
     ],
     "choices_ruby": [
       "<ruby>政治<rt>せいじ</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>不正<rt>ふせい</rt></ruby>を<ruby>暴<rt>あば</rt></ruby>くために、<ruby>証拠<rt>しょうこ</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めているところだ。",
@@ -24084,7 +24087,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "政治家の不正を暴くために、証拠を集めているところだ。",
-    "meaning_en": "",
+    "meaning_en": "Through years of investigation, they finally succeeded in uncovering the hidden truth of history.",
     "explanation": "【似た言葉とのニュアンスの違い】\n「暴く（あばく）」は、隠されていた悪事、秘密、陰謀などを突き止めて白日の下に晒すことです（「不正を暴く」「正体を暴く」）。単に新しい事実を見つける（発見する）や、解明する（解明する）よりも、隠蔽された不正を摘発する強い批判的ニュアンスを含みます。\n\n【英語直訳とのズレ・注意点】\n英語の \"expose\", \"uncover\", \"reveal (scandal/crime)\" に相当します。警察やジャーナリストが隠蔽された汚職や犯罪を公に暴き出す場面で使われます。",
     "kanji_info": [
       {
@@ -24357,10 +24360,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【言い切る】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【言い切る】",
     "choices": [
-      "トンネルの中に入ると、ラジオの音声が言い切れた。",
-      "犯人は絶対に彼だと言い切ることはできませんが、可能性は高いです。",
-      "先生の話を言い切って、学生が質問をした。",
-      "ずっと気持ちを言えずにいたが、ついに明日彼女に言い切ろうと思っている。"
+      "彼はいつも自分の意見ばかり言い切って、人の話を聞かない。",
+      "この方法が絶対に正しいと言い切ることはできませんが、試す価値はあります。",
+      "最後まで文章を言い切ってから、質問を受け付けます。",
+      "大事な秘密をうっかり友達に言い切ってしまった。"
     ],
     "choices_ruby": [
       "トンネルの<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、ラジオの<ruby>音声<rt>おんせい</rt></ruby>が<ruby>言<rt>い</rt></ruby>い<ruby>切<rt>き</rt></ruby>れた。",
@@ -24370,7 +24373,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "犯人は絶対に彼だと言い切ることはできませんが、可能性は高いです。",
-    "meaning_en": "to declare; to assert",
+    "meaning_en": "I cannot state definitively that this method is absolutely right, but it is worth trying.",
     "explanation": "【似た言葉とのニュアンスの違い】\n「言い切る（いいきる）」は、躊躇や迷いを見せず、最後まで断言することです（「絶対に〜だと言い切る」）。すべてを話し終えることや、単に伝えることとは異なり、100%の自信を持って断定する態度を表します。\n\n【英語直訳とのズレ・注意点】\n英語の \"state flatly\", \"assert\", \"declare definitely\" にあたります。「〜とは言い切れない（cannot say for sure）」という否定の形でも頻繁に使われます。",
     "kanji_info": [
       {
@@ -24917,10 +24920,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【呼びかける】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【呼びかける】",
     "choices": [
-      "自分の名前を呼びかけられたら、大きな声で返事をしてください。",
-      "イベント会場内で、警備員が必死にマスクの着用を呼びかけている。",
-      "ネット上で悪口を呼びかけられて、嫌な気持ちになった。",
-      "彼女を誕生日パーティーに呼びかけたが、忙しいという理由で断られてしまった。"
+      "市民にゴミの分別を呼びかけるポスターを駅前に貼った。",
+      "毎朝、隣のおばさんに挨拶を呼びかけている。",
+      "遠くにいる友人に大きな声で呼びかけられたが、気づかなかった。",
+      "タクシーを呼びかけて、急いで空港へ向かった。"
     ],
     "choices_ruby": [
       "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びかけられたら、<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>返事<rt>へんじ</rt></ruby>をしてください。",
@@ -24930,7 +24933,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "イベント会場内で、警備員が必死にマスクの着用を呼びかけている。",
-    "meaning_en": "to call out to; to hail",
+    "meaning_en": "We put up posters in front of the station calling on citizens to sort their trash.",
     "explanation": "【似た言葉とのニュアンスの違い】\n「呼びかける（よびかける）」は、大勢の人々に向けて注意や協力を促すメッセージを発信することです（「マスクの着用を呼びかける」「寄付を呼びかける」）。個人を大声で呼ぶ（呼ぶ）だけでなく、公共的なアピールを行う際に用いられます。\n\n【英語直訳とのズレ・注意点】\n英語の \"call on (people to do)\", \"appeal for\" にあたります。警備員やアナウンスが公衆に行動を呼びかける典型的な表現です。",
     "kanji_info": [
       {
@@ -25782,10 +25785,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【明らか】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【明らか】",
     "choices": [
-      "ずっとなぞに包まれていた犯人の姿が明らかになった。",
-      "彼は明らかな性格なので、彼がいるとその場の雰囲気が良くなる。",
-      "彼は今の仕事に対してどう思っているのか、明らかに話してくれた。",
-      "パソコンの画面が明らかなので、目が疲れてきた。"
+      "徹底的な調査によって、機械が故障した原因が明らかになった。",
+      "カーテンを開けると、部屋の中が明らかになった。",
+      "彼はサッカーのルールに明らかだ。",
+      "明日までに宿題を明らかにしなければならない。"
     ],
     "choices_ruby": [
       "ずっとなぞに<ruby>包<rt>つつ</rt></ruby>まれていた<ruby>犯人<rt>はんにん</rt></ruby>の<ruby>姿<rt>すがた</rt></ruby>が<ruby>明<rt>あき</rt></ruby>らかになった。",
@@ -25795,7 +25798,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "ずっとなぞに包まれていた犯人の姿が明らかになった。",
-    "meaning_en": "obvious; evident",
+    "meaning_en": "Through a thorough investigation, the cause of the machine's malfunction became clear.",
     "explanation": "【似た言葉とのニュアンスの違い】\n「明らか（あきらか）」は、物事の実態や真実、証拠などがはっきりと誰の目にも見えて疑う余地がないことです（「真相が明らかになる」「明らかな証拠」）。「明るい（光が多い）」とは異なり、事柄の真偽が明白になる論理的な状態を表します。\n\n【英語直訳とのズレ・注意点】\n英語の \"clear\", \"obvious\", \"evident\" に相当します。「明らかになる（come to light / be revealed）」というコロケーションで頻出します。",
     "kanji_info": [
       {
@@ -27600,7 +27603,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "たおれ",
-    "meaning_en": "collapse; collapsing",
+    "meaning_en": "The big tree in the garden fell down in yesterday's strong wind, breaking the fence.",
     "explanation": "",
     "kanji_info": [
       {
@@ -27629,7 +27632,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "たおれ",
     "correct_text_reading": "たおれ",
-    "correct_text_ruby": "たおれ"
+    "correct_text_ruby": "たおれ",
+    "sentence": "昨日の強い風で庭の大きな木が【倒れ】、垣根が壊れてしまった。"
   },
   {
     "id": 468,
@@ -27914,7 +27918,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "つかまった",
-    "meaning_en": "The robber was caught immediately.",
+    "meaning_en": "The little bird that escaped into the garden was caught right away.",
     "explanation": "",
     "kanji_info": [
       {
@@ -27943,7 +27947,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "つかまった",
     "correct_text_reading": "つかまった",
-    "correct_text_ruby": "つかまった"
+    "correct_text_ruby": "つかまった",
+    "sentence": "庭に逃げた小鳥はすぐに【捕まった】。"
   },
   {
     "id": 474,
@@ -28909,10 +28914,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "A「新しい仕事はどう？」 B「きついけれど、（　　　）がありますよ。」",
     "question_ruby": "A「<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>はどう？」 B「きついけれど、（　　　）がありますよ。」",
     "choices": [
-      "あこがれ",
-      "いじめ",
-      "こだわり",
-      "やりがい"
+      "おもいやり",
+      "ためらい",
+      "やりがい",
+      "いきがい"
     ],
     "choices_ruby": [
       "あこがれ",
@@ -30592,7 +30597,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "ぬすまれた",
-    "meaning_en": "",
+    "meaning_en": "The famous painting stolen from the exhibition room was safely found.",
     "explanation": "",
     "kanji_info": [
       {
@@ -30621,7 +30626,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "ぬすまれた",
     "correct_text_reading": "ぬすまれた",
-    "correct_text_ruby": "ぬすまれた"
+    "correct_text_ruby": "ぬすまれた",
+    "sentence": "展示室から【盗まれた】有名な絵画が、無事に発見された。"
   },
   {
     "id": 525,
@@ -31624,7 +31630,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "いばって",
-    "meaning_en": "That superior is hated by his subordinates because he acts important even though",
+    "meaning_en": "Just because he succeeded a little, he does nothing but brag and boss people around.",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -31646,7 +31652,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "いばって",
     "correct_text_reading": "いばって",
-    "correct_text_ruby": "いばって"
+    "correct_text_ruby": "いばって",
+    "sentence": "彼は少し成功したからといって、周りの人に（　　　）ばかりいる。"
   },
   {
     "id": 544,
@@ -35512,7 +35519,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "じどう",
-    "meaning_en": "children; juvenile",
+    "meaning_en": "The local library holds reading sessions for elementary school children.",
     "explanation": "",
     "kanji_info": [
       {
@@ -35557,7 +35564,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "じどう",
     "correct_text_reading": "じどう",
-    "correct_text_ruby": "じどう"
+    "correct_text_ruby": "じどう",
+    "sentence": "地域の図書館では、小学生の【児童】を対象にした読書会を開いている。"
   },
   {
     "id": 615,
@@ -35817,7 +35825,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "許し",
-    "meaning_en": "Bullying is an unforgivable act.",
+    "meaning_en": "Breaking a promise over and over is an unforgivable act.",
     "explanation": "【似た文法とのニュアンスの違い】\n動詞ます形語幹＋「がたい」は、心情的・道義的に「到底〜することはできない、心理的抵抗があって無理だ」という主観的不可能性を表します（「許し難い行為」「信じがたい」）。「〜にくい（客観的な難しさ）」とは異なり、話者の強い憤りや驚きがこもります。\n\n【英語直訳とのズレ・注意点】\n英語の \"unforgivable / hard to forgive\" にあたります。イジメなど道義にもとる悪行に対して「断じて許せない」という強い道徳的拒否感を示します。",
     "kanji_info": [
       {
@@ -35848,7 +35856,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "english_pitfall": "英語の \"unforgivable / hard to forgive\" にあたります。イジメなど道義にもとる悪行に対して「断じて許せない」という強い道徳的拒否感を示します。",
     "target_word_reading": "ゆるし",
     "correct_text_reading": "ゆるし",
-    "correct_text_ruby": "<ruby>許<rt>ゆる</rt></ruby>し"
+    "correct_text_ruby": "<ruby>許<rt>ゆる</rt></ruby>し",
+    "sentence": "約束を何度も破るのは（　　　）難い行為だ。"
   },
   {
     "id": 620,
@@ -41236,7 +41245,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あばれ",
-    "meaning_en": "The man got drunk and lashed out, screaming that he would kill his friend.",
+    "meaning_en": "Thunder suddenly began to rumble, and the horses on the ranch got startled and started thrashing around wildly.",
     "explanation": "",
     "kanji_info": [
       {
@@ -41265,7 +41274,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "あばれ",
     "correct_text_reading": "あばれ",
-    "correct_text_ruby": "あばれ"
+    "correct_text_ruby": "あばれ",
+    "sentence": "急に雷が鳴り始め、牧場の馬が驚いて激しく【暴れ】出した。"
   },
   {
     "id": 714,
@@ -43619,7 +43629,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "うぬぼれている",
-    "meaning_en": "She is beautiful but not much liked because she is full of herself.",
+    "meaning_en": "He seems conceited about his ability just from winning a prize once in a contest.",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -43641,7 +43651,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "うぬぼれている",
     "correct_text_reading": "うぬぼれている",
-    "correct_text_ruby": "うぬぼれている"
+    "correct_text_ruby": "うぬぼれている",
+    "sentence": "彼は一度コンクールで入賞しただけで、自分の実力を（　　　）ようだ。"
   },
   {
     "id": 757,
@@ -44584,7 +44595,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "するどい",
-    "meaning_en": "His sharp political cartoons captured the readers' sentiment.",
+    "meaning_en": "His essays captured readers' sympathy with sharp observation of human nature and humor.",
     "explanation": "",
     "kanji_info": [
       {
@@ -44613,7 +44624,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "するどい",
     "correct_text_reading": "するどい",
-    "correct_text_ruby": "するどい"
+    "correct_text_ruby": "するどい",
+    "sentence": "彼のエッセイは、【鋭い】人間観察とユーモアで読者の共感を呼んだ。"
   },
   {
     "id": 774,
@@ -49698,7 +49710,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "サイト",
-    "meaning_en": "website",
+    "meaning_en": "I checked the latest event information on an online information site.",
     "explanation": "",
     "kanji_info": [],
     "similar": [
@@ -49720,7 +49732,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "さいと",
     "correct_text_reading": "さいと",
-    "correct_text_ruby": "サイト"
+    "correct_text_ruby": "サイト",
+    "sentence": "インターネットの案内（　　　）で最新のイベント情報を確認した。"
   },
   {
     "id": 868,

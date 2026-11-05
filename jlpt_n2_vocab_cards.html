@@ -1263,7 +1263,7 @@
         showToast(`「${word}」をマイリストから削除しました`);
       } else {
         if (typeof UserProgress !== 'undefined') {
-          UserProgress.toggleSaveVocab({ word: item.word, reading: item.reading, meaning: item.meaning, level: 'N2語彙' });
+          UserProgress.toggleSaveVocab({ word: item.word, reading: item.reading, meaning: item.meaning, exampleJa: item.ex_ja || '', exampleNative: item.ex_en || '', level: 'N2語彙', source: 'jlpt' });
         }
         try {
           let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
@@ -1318,12 +1318,7 @@
         showToast(`「${item.word}」をマイリストから削除しました`);
       } else {
         if (typeof UserProgress !== 'undefined') {
-          UserProgress.toggleSaveVocab({
-            word: item.word,
-            reading: item.reading,
-            meaning: item.meaning,
-            level: 'N2語彙'
-          });
+          UserProgress.toggleSaveVocab({ word: item.word, reading: item.reading, meaning: item.meaning, exampleJa: item.ex_ja || '', exampleNative: item.ex_en || '', level: 'N2語彙', source: 'jlpt' });
         }
         try {
           let list = JSON.parse(localStorage.getItem(STORAGE_VOCAB_TERMS_KEY) || '[]');
@@ -1511,6 +1506,12 @@
     renderSidebar();
     updateActiveCategoryHeader();
     renderUnitPills();
+        if (typeof UserProgress !== 'undefined' && typeof UserProgress.onProgressChanged === 'function') {
+      UserProgress.onProgressChanged(() => {
+        if (filterMode === 'starred') buildActiveDeck();
+        else renderCard();
+      });
+    }
     buildActiveDeck();
 
     // Render Lucide icons
