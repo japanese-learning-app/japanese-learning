@@ -805,12 +805,12 @@
       }
 
       // 3. 再生開始
-      status.textContent = '再生中…（Google音声）';
+      status.textContent = '再生中…';
       status.className = 'text-xs font-bold text-[#1995AD]';
       btn.innerHTML = '<i data-lucide="square" class="w-5 h-5 fill-white"></i>';
       lucide.createIcons();
 
-      // ローカル Google TTS 音声ファイルのパス
+      // ローカル音声ファイルのパス
       const audioSrc = q.audio_file || `audio/listening/n3_q${qNum}.mp3`;
       const audio = new Audio(audioSrc);
       activeListeningAudio = audio;
@@ -907,7 +907,7 @@
       if (!q || !q.explanation) return;
 
       const expEl = document.getElementById(`lexp-text-${qNum}`);
-      if (expEl) expEl.textContent = q.explanation[lang] || q.explanation.ja || '';
+      if (expEl) expEl.innerHTML = q.explanation[lang] || q.explanation.ja || '';
 
       ['ja', 'en', 'zh', 'ko'].forEach(l => {
         const btn = document.getElementById(`lexp-btn-${qNum}-${l}`);
