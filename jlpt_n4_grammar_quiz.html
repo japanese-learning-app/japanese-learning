@@ -1841,18 +1841,40 @@
     showToast(selectedLimit === 0 ? '全問題を最初から完全シャッフルしました！' : `${filteredIndices.length} 問を満遍なく再シャッフルしました！`);
   });
 
+  function syncGrammarQuestionWithUserProgress(q, isSaved) {
+    if (!window.UserProgress || !q || !q.grammar) return;
+    const word = q.grammar.trim();
+    if (isSaved) {
+      window.UserProgress.addSavedVocab({
+        id: 'jlpt_saved_' + encodeURIComponent(word),
+        word: word,
+        reading: q.reading || '',
+        meaning: q.meaning_en || '',
+        exampleJa: q.sentence_jp_ruby || q.sentence_jp || '',
+        exampleNative: q.sentence_en || '',
+        level: 'N4文法',
+        source: 'jlpt'
+      });
+    } else {
+      window.UserProgress.removeSavedVocab(word);
+    }
+  }
+
   // Bookmark Toggle
   bookmarkBtn.addEventListener('click', () => {
     const realIndex = filteredIndices[currentIndex];
-    const qid = data[realIndex].id;
+    const q = data[realIndex];
+    const qid = q.id;
     const pos = bookmarks.indexOf(qid);
     if (pos >= 0) {
       bookmarks.splice(pos, 1);
       bookmarkBtn.classList.remove('active');
+      syncGrammarQuestionWithUserProgress(q, false);
       showToast('マイリストから解除しました');
     } else {
       bookmarks.push(qid);
       bookmarkBtn.classList.add('active');
+      syncGrammarQuestionWithUserProgress(q, true);
       showToast('マイリストに保存しました！');
     }
     localStorage.setItem('jlpt_n4_bookmarks', JSON.stringify(bookmarks));
@@ -2106,8 +2128,12 @@
 
   function isTermSavedInMylist(term) {
     try {
+      const clean = (typeof cleanSearchWord === 'function' ? cleanSearchWord(term) : term) || term;
+      if (window.UserProgress && (window.UserProgress.isVocabSaved(term) || window.UserProgress.isVocabSaved(clean))) {
+        return true;
+      }
       const list = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
-      return list.includes(term);
+      return list.includes(term) || list.includes(clean);
     } catch(e) {
       return false;
     }
@@ -2165,11 +2191,16 @@
   btnSaveToMylist.addEventListener('click', () => {
     if (!activeModalTerm) return;
     const isSaved = isTermSavedInMylist(activeModalTerm);
+    const termKey = (activeModalData && activeModalData.term) ? activeModalData.term : activeModalTerm;
     try {
       let customMylist = JSON.parse(localStorage.getItem('jlpt_custom_grammar_notes') || '[]');
       if (isSaved) {
-        customMylist = customMylist.filter(t => t !== activeModalTerm);
+        customMylist = customMylist.filter(t => t !== activeModalTerm && t !== termKey);
         localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        if (window.UserProgress) {
+          window.UserProgress.removeSavedVocab(activeModalTerm);
+          if (termKey !== activeModalTerm) window.UserProgress.removeSavedVocab(termKey);
+        }
         updateMylistButton(false);
         showToast(`「${activeModalTerm}」をマイリストから削除しました`);
       } else {
@@ -2177,6 +2208,19 @@
           customMylist.push(activeModalTerm);
         }
         localStorage.setItem('jlpt_custom_grammar_notes', JSON.stringify(customMylist));
+        if (window.UserProgress) {
+          const dictInfo = (typeof searchDictionaryOnPage === 'function') ? searchDictionaryOnPage(termKey) : null;
+          window.UserProgress.addSavedVocab({
+            id: 'jlpt_saved_' + encodeURIComponent(termKey),
+            word: termKey,
+            reading: (activeModalData && activeModalData.reading) || (dictInfo && dictInfo.reading) || '',
+            meaning: (activeModalData && activeModalData.meaning) || (dictInfo && dictInfo.meaning) || '',
+            exampleJa: (dictInfo && dictInfo.example_ja) || '',
+            exampleNative: (dictInfo && dictInfo.example_en) || '',
+            level: 'N4文法',
+            source: 'jlpt'
+          });
+        }
         updateMylistButton(true);
         showToast(`「${activeModalTerm}」をマイリストに追加しました！⭐`);
       }
@@ -2680,14 +2724,17 @@
   }
 
   window.toggleReviewGrammarBookmark = function(qid, btn) {
+    const q = data.find(item => item.id === qid);
     const pos = bookmarks.indexOf(qid);
     if (pos >= 0) {
       bookmarks.splice(pos, 1);
       btn.querySelector('span').style.color = 'var(--text-muted)';
+      syncGrammarQuestionWithUserProgress(q, false);
       showToast('マイリストから解除しました');
     } else {
       bookmarks.push(qid);
       btn.querySelector('span').style.color = 'var(--sakura-pink-deep)';
+      syncGrammarQuestionWithUserProgress(q, true);
       showToast('マイリストに保存しました！★');
     }
     localStorage.setItem('jlpt_n4_bookmarks', JSON.stringify(bookmarks));

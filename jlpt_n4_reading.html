@@ -9,6 +9,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="auth.js?v=20261021_0110"></script>
+  <script src="user_progress.js?v=20261021_0110"></script>
   <script src="database/dictionary_data.js" defer></script>
   <script src="database/jlpt_n4_reading_data.js"></script>
   <style>
@@ -785,12 +787,23 @@
           id: 'item_' + Date.now(),
           term: term,
           folder: folder,
-          level: 'N2',
+          level: 'N4',
           addedAt: new Date().toISOString()
         });
         localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
       }
-      showToast(`「${term}」を【${folder}】フォルダに保存しました！`);
+      if (window.UserProgress) {
+        const entry = Array.isArray(window.DICT_DATA) ? window.DICT_DATA.find(d => d.w === term || d.r === term || (d.w && d.w.includes(term))) : null;
+        window.UserProgress.addSavedVocab({
+          id: 'jlpt_saved_' + encodeURIComponent(term),
+          word: term,
+          reading: entry ? (entry.r || '') : '',
+          meaning: entry && Array.isArray(entry.m) ? entry.m.join(', ') : '',
+          level: 'N4読解',
+          source: 'jlpt'
+        });
+      }
+      showToast(`「${term}」をマイリストに保存しました！⭐`);
       closeDictModal();
     }
 

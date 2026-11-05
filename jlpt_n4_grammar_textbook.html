@@ -777,8 +777,28 @@
     }
 
     function toggleBookmark(gid) {
-      if (userBookmarks.has(gid)) userBookmarks.delete(gid);
-      else userBookmarks.add(gid);
+      const g = grammarMap.get(gid);
+      if (userBookmarks.has(gid)) {
+        userBookmarks.delete(gid);
+        if (window.UserProgress && g && g.name) {
+          window.UserProgress.removeSavedVocab(g.name);
+        }
+      } else {
+        userBookmarks.add(gid);
+        if (window.UserProgress && g && g.name) {
+          const firstQ = (g.questions && g.questions[0]) ? g.questions[0] : null;
+          window.UserProgress.addSavedVocab({
+            id: 'jlpt_saved_' + encodeURIComponent(g.name),
+            word: g.name,
+            reading: g.reading || '',
+            meaning: g.meaning_en || '',
+            exampleJa: (firstQ && (firstQ.sentence_jp_ruby || firstQ.sentence_jp)) || '',
+            exampleNative: (firstQ && firstQ.sentence_en) || '',
+            level: 'N4文法',
+            source: 'jlpt'
+          });
+        }
+      }
       localStorage.setItem('jlpt_n4_bookmarks', JSON.stringify([...userBookmarks]));
       renderLessonContent(gid);
       renderSidebar();

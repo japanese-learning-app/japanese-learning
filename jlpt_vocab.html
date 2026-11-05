@@ -698,11 +698,15 @@
     if (!w || typeof UserProgress === 'undefined') return;
 
     const reading = (w.reading && w.reading !== w.word) ? w.reading : (w.k || '');
+    const ex = (w.examples && w.examples[0]) ? w.examples[0] : null;
     UserProgress.toggleSaveVocab({
       word: w.word,
       reading: reading,
       meanings: w.meanings || [],
-      level: currentLevel
+      exampleJa: ex ? (ex.ja || '') : '',
+      exampleNative: ex ? (ex.en || '') : '',
+      level: currentLevel,
+      source: 'jlpt'
     });
 
     updateHeaderSavedCount();
@@ -834,15 +838,27 @@
   function toggleModalSave() {
     if (!currentModalWord || typeof UserProgress === 'undefined') return;
     const reading = (currentModalWord.reading && currentModalWord.reading !== currentModalWord.word) ? currentModalWord.reading : (currentModalWord.k || '');
+    const ex = (currentModalWord.examples && currentModalWord.examples[0]) ? currentModalWord.examples[0] : null;
     UserProgress.toggleSaveVocab({
       word: currentModalWord.word,
       reading: reading,
       meanings: currentModalWord.meanings || [],
-      level: currentLevel
+      exampleJa: ex ? (ex.ja || '') : '',
+      exampleNative: ex ? (ex.en || '') : '',
+      level: currentLevel,
+      source: 'jlpt'
     });
     updateModalSaveButton();
     updateHeaderSavedCount();
     renderPage();
+  }
+
+  if (typeof UserProgress !== 'undefined' && typeof UserProgress.onProgressChanged === 'function') {
+    UserProgress.onProgressChanged(() => {
+      updateHeaderSavedCount();
+      updateModalSaveButton();
+      renderPage();
+    });
   }
 
   function closeModal(event) {
