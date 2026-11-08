@@ -10,7 +10,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
-  <script src="database/jlpt_n5_mock_rounds.js"></script>
+  <script src="database/jlpt_n2_mock_rounds.js"></script>
   <script src="database/jlpt_n2_mock_data.js"></script>
 
   <style>
@@ -182,10 +182,10 @@
         </a>
         <div>
           <div class="flex items-center gap-2">
-            <span class="bg-white text-[#127285] text-xs font-black px-2.5 py-0.5 rounded-full tracking-wide shadow-xs">N5 模試</span>
+            <span class="bg-white text-[#127285] text-xs font-black px-2.5 py-0.5 rounded-full tracking-wide shadow-xs">N2 模試</span>
             <h1 class="text-sm md:text-base font-extrabold text-white" id="exam-title-header">実戦模擬試験 第1回</h1>
           </div>
-          <p class="text-[11px] text-white/80 hidden sm:block">本番形式 全91問（文字語彙・文法読解・聴解）</p>
+          <p class="text-[11px] text-white/80 hidden sm:block">本番形式 全106問（言語知識・読解 105分 / 聴解 50分）</p>
         </div>
       </div>
 
@@ -210,7 +210,7 @@
         <!-- Timer Display -->
         <div class="flex items-center gap-1.5 bg-black/25 border border-white/25 px-3 py-1.5 rounded-xl text-white font-mono text-xs md:text-sm font-extrabold shadow-inner">
           <i data-lucide="clock" class="w-4 h-4 text-white"></i>
-          <span id="timer-display" class="tracking-wider">105:00</span>
+          <span id="timer-display" class="tracking-wider">155:00</span>
           <button id="btn-timer-toggle" class="text-white/80 hover:text-white ml-1 p-0.5" title="一時停止/再開">
             <i data-lucide="pause" id="timer-icon" class="w-3.5 h-3.5"></i>
           </button>
@@ -226,7 +226,7 @@
         <button id="btn-open-marksheet" class="relative text-xs font-bold px-3 py-1.5 rounded-full border border-white/30 bg-white/20 hover:bg-white/30 text-white flex items-center gap-1.5 transition">
           <i data-lucide="layout-grid" class="w-4 h-4"></i>
           <span class="hidden md:inline">解答用紙</span>
-          <span id="answered-counter-pill" class="bg-white text-[#127285] text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold">0/91</span>
+          <span id="answered-counter-pill" class="bg-white text-[#127285] text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold">0/106</span>
         </button>
 
         <button id="btn-submit-exam" class="text-xs md:text-sm font-extrabold px-4 py-1.5 rounded-full bg-white hover:bg-[#EDF7F9] text-[#127285] shadow-md flex items-center gap-1.5 transition">
@@ -241,19 +241,19 @@
     <div class="bg-white border-t border-[#E2ECF2] shadow-xs px-4">
       <div class="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto py-2.5 custom-scroll text-xs md:text-sm">
         <button id="tab-sec1" onclick="switchSection('sec1')" class="nav-tab active flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
-          <span>① 文字・語彙</span>
-          <span class="text-[11px] opacity-80">(35問 / 25分)</span>
-          <span id="badge-sec1" class="text-[10px] bg-white text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/35</span>
+          <span>① 言語知識（語彙・文法）</span>
+          <span class="text-[11px] opacity-80">(54問)</span>
+          <span id="badge-sec1" class="text-[10px] bg-white text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/54</span>
         </button>
         <button id="tab-sec2" onclick="switchSection('sec2')" class="nav-tab flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
-          <span>② 文法・読解</span>
-          <span class="text-[11px] opacity-80">(32問 / 50分)</span>
-          <span id="badge-sec2" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/32</span>
+          <span>② 読解</span>
+          <span class="text-[11px] opacity-80">(21問 / ①②計105分)</span>
+          <span id="badge-sec2" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/21</span>
         </button>
         <button id="tab-sec3" onclick="switchSection('sec3')" class="nav-tab flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
           <span>③ 聴解</span>
-          <span class="text-[11px] opacity-80">(24問 / 30分)</span>
-          <span id="badge-sec3" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/24</span>
+          <span class="text-[11px] opacity-80">(31問 / 50分)</span>
+          <span id="badge-sec3" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/31</span>
         </button>
 
         <div class="ml-auto hidden lg:flex items-center gap-3 text-xs text-[#7E92A2]">
@@ -323,7 +323,7 @@
       <div class="px-6 py-4 border-b border-gray-200 flex items-center justify-between bg-teal-50">
         <div class="flex items-center gap-2">
           <i data-lucide="layout-grid" class="w-5 h-5 text-teal-700"></i>
-          <h2 class="text-base font-extrabold text-gray-900">マークシート解答用紙（全91問）</h2>
+          <h2 class="text-base font-extrabold text-gray-900">マークシート解答用紙（全106問）</h2>
         </div>
         <button onclick="closeMarksheetModal()" class="text-gray-400 hover:text-gray-700 p-1 rounded-lg">
           <i data-lucide="x" class="w-5 h-5"></i>
@@ -334,8 +334,8 @@
         <!-- Section 1 Grid -->
         <div>
           <div class="flex items-center justify-between mb-2">
-            <h3 class="text-xs font-extrabold text-teal-800">① 言語知識（文字・語彙） (問1〜問35)</h3>
-            <span id="ms-count-sec1" class="text-[11px] font-mono font-bold text-gray-500">0/35 解答</span>
+            <h3 class="text-xs font-extrabold text-teal-800">① 言語知識（文字・語彙・文法） (問1〜問54)</h3>
+            <span id="ms-count-sec1" class="text-[11px] font-mono font-bold text-gray-500">0/54 解答</span>
           </div>
           <div id="ms-grid-sec1" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
         </div>
@@ -343,8 +343,8 @@
         <!-- Section 2 Grid -->
         <div>
           <div class="flex items-center justify-between mb-2">
-            <h3 class="text-xs font-extrabold text-teal-800">② 言語知識（文法）・読解 (問36〜問67)</h3>
-            <span id="ms-count-sec2" class="text-[11px] font-mono font-bold text-gray-500">0/32 解答</span>
+            <h3 class="text-xs font-extrabold text-teal-800">② 読解 (問55〜問75)</h3>
+            <span id="ms-count-sec2" class="text-[11px] font-mono font-bold text-gray-500">0/21 解答</span>
           </div>
           <div id="ms-grid-sec2" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
         </div>
@@ -352,8 +352,8 @@
         <!-- Section 3 Grid -->
         <div>
           <div class="flex items-center justify-between mb-2">
-            <h3 class="text-xs font-extrabold text-teal-800">③ 聴解 (問68〜問91)</h3>
-            <span id="ms-count-sec3" class="text-[11px] font-mono font-bold text-gray-500">0/24 解答</span>
+            <h3 class="text-xs font-extrabold text-teal-800">③ 聴解 (問76〜問106)</h3>
+            <span id="ms-count-sec3" class="text-[11px] font-mono font-bold text-gray-500">0/31 解答</span>
           </div>
           <div id="ms-grid-sec3" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
         </div>
@@ -402,21 +402,29 @@
       <div class="p-6 overflow-y-auto custom-scroll space-y-5 flex-1 bg-white">
         
         <!-- Score Highlights -->
-        <div class="grid grid-cols-3 gap-3 text-center">
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
           <div class="bg-[#FAF1F3] border border-[#F2D5DB] p-3 rounded-2xl">
             <div class="text-[11px] font-bold text-[#B8596E]">総合得点</div>
             <div class="text-2xl font-black text-[#1F2D3D] mt-1">
               <span id="score-total" class="text-[#1995AD]">0</span><span class="text-xs text-[#7E92A2]">/180点</span>
             </div>
-            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">合格点: 80点以上</div>
+            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">合格点: 90点以上</div>
           </div>
 
           <div class="bg-[#EDF7F9] border border-[#1995AD]/20 p-3 rounded-2xl">
-            <div class="text-[11px] font-bold text-[#127285]">言語知識・読解</div>
+            <div class="text-[11px] font-bold text-[#127285]">言語知識</div>
             <div class="text-2xl font-black text-[#1F2D3D] mt-1">
-              <span id="score-lang-reading" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/120点</span>
+              <span id="score-lang" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/60点</span>
             </div>
-            <div id="bench-lang-reading" class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 38点</div>
+            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 19点</div>
+          </div>
+
+          <div class="bg-[#EDF7F9] border border-[#1995AD]/20 p-3 rounded-2xl">
+            <div class="text-[11px] font-bold text-[#127285]">読解</div>
+            <div class="text-2xl font-black text-[#1F2D3D] mt-1">
+              <span id="score-reading" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/60点</span>
+            </div>
+            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 19点</div>
           </div>
 
           <div class="bg-[#EDF7F9] border border-[#1995AD]/20 p-3 rounded-2xl">
@@ -424,7 +432,7 @@
             <div class="text-2xl font-black text-[#1F2D3D] mt-1">
               <span id="score-listening" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/60点</span>
             </div>
-            <div id="bench-listening" class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 19点</div>
+            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 19点</div>
           </div>
         </div>
 
@@ -496,28 +504,59 @@
     let reviewFilter = 'all'; // 'all', 'wrong', 'bookmarked'
     let currentActiveAudio = null;
 
+    function getStorageKeys(rNum) {
+      if (rNum === 1) {
+        return { ans: 'jlpt_n2_mock01_answers', bm: 'jlpt_n2_mock01_bookmarks' };
+      }
+      return { ans: `jlpt_n2_mock_r${rNum}_answers`, bm: `jlpt_n2_mock_r${rNum}_bookmarks` };
+    }
+
     function changeRound(roundVal) {
       const rNum = parseInt(roundVal);
       if (window.JLPT_N2_MOCK_ROUNDS && window.JLPT_N2_MOCK_ROUNDS[rNum]) {
+        if (currentAudioEl) {
+          currentAudioEl.pause();
+          currentAudioEl = null;
+          currentAudioQId = null;
+        }
         MOCK_DATA = window.JLPT_N2_MOCK_ROUNDS[rNum];
         currentRound = rNum;
         userAnswers = {};
         bookmarks = {};
+        try {
+          const keys = getStorageKeys(rNum);
+          const saved = localStorage.getItem(keys.ans);
+          if (saved) userAnswers = JSON.parse(saved);
+          const savedBm = localStorage.getItem(keys.bm);
+          if (savedBm) bookmarks = JSON.parse(savedBm);
+        } catch (e) {}
         isSubmitted = false;
         reviewFilter = 'all';
         currentSectionId = 'sec1';
-        remainingSeconds = (MOCK_DATA.totalTimeMinutes || 105) * 60;
+        remainingSeconds = (MOCK_DATA.totalTimeMinutes || 155) * 60;
         
         // Update Title if present
-        const titleEl = document.querySelector('h1');
-        if (titleEl) titleEl.textContent = MOCK_DATA.title;
+        const titleEl = document.getElementById('exam-title-header');
+        if (titleEl) titleEl.textContent = `実戦模擬試験 第${rNum}回`;
+        document.title = `JLPT N2 実戦模擬試験 第${rNum}回 — 本番時間・自動採点・合否判定`;
+
+        // Reset Submit Buttons
+        const btnSubmit = document.getElementById('btn-submit-exam');
+        if (btnSubmit) {
+          btnSubmit.innerHTML = '<i data-lucide="check-circle" class="w-4 h-4 text-[#127285]"></i><span>採点する</span>';
+          btnSubmit.onclick = confirmSubmit;
+        }
+        const btnBottomSubmit = document.getElementById('btn-bottom-submit');
+        if (btnBottomSubmit) {
+          btnBottomSubmit.innerHTML = '<i data-lucide="send" class="w-4 h-4"></i><span>試験を提出して採点する</span>';
+          btnBottomSubmit.onclick = confirmSubmit;
+        }
 
         // Reset UI
         document.getElementById('review-banner').classList.add('hidden');
-        renderSectionTabs();
-        renderPalette();
-        renderCurrentSection();
-        updateProgress();
+        switchSection('sec1');
+        renderMarksheetBubbles();
+        updateAnswerCounter();
         
         // Restart timer
         if (timerInterval) clearInterval(timerInterval);
@@ -527,7 +566,7 @@
     }
 
     // Timer (105 minutes = 6300 seconds)
-    let remainingSeconds = 105 * 60;
+    let remainingSeconds = 155 * 60;
     let timerInterval = null;
     let isTimerRunning = true;
 
@@ -540,9 +579,9 @@
     function initApp() {
       // Load saved answers from localStorage if available
       try {
-        const saved = localStorage.getItem('jlpt_n5_mock01_answers');
+        const saved = localStorage.getItem('jlpt_n2_mock01_answers');
         if (saved) userAnswers = JSON.parse(saved);
-        const savedBm = localStorage.getItem('jlpt_n5_mock01_bookmarks');
+        const savedBm = localStorage.getItem('jlpt_n2_mock01_bookmarks');
         if (savedBm) bookmarks = JSON.parse(savedBm);
       } catch (e) {}
 
@@ -879,10 +918,11 @@
 
       // Reading Passage (if applicable)
       let passageHtml = '';
-      if (q.passageRuby) {
-        let textWithMark = q.passageRuby;
+      if (q.passage || q.passageRuby) {
+        let textWithMark = isSubmitted
+          ? (q.passageRuby || (q.passage || '').replace(/\n/g, '<br>'))
+          : (q.passage || '').replace(/\n/g, '<br>');
         if (isSubmitted && q.evidence) {
-          // Highlight evidence text
           textWithMark = textWithMark.replace(q.evidence, `<mark class="evidence-mark">${q.evidence}</mark>`);
         }
         passageHtml = `
@@ -892,6 +932,18 @@
               <span>本文</span>
             </div>
             <div class="text-[#1F2D3D] leading-relaxed text-sm md:text-base">${textWithMark}</div>
+          </div>
+        `;
+      }
+
+      // Listening Illustration (4:3, text-free)
+      let illustrationHtml = '';
+      if (q.illustration_url) {
+        illustrationHtml = `
+          <div class="mb-3 flex justify-center">
+            <div class="w-full max-w-md aspect-[4/3] rounded-2xl overflow-hidden border border-[#E2ECF2] bg-[#F8FAFC] shadow-xs">
+              <img src="${q.illustration_url}" alt="聴解場面イラスト" class="w-full h-full object-cover" loading="lazy">
+            </div>
           </div>
         `;
       }
@@ -917,14 +969,18 @@
         `;
       }
 
-      // Question Sentence / Stem
+      // Question Sentence / Stem (No ruby leakage before submission; hide Immediate Response utterance before submission)
+      const isImmediateResponse = (q.category && q.category.includes('即時応答'));
+      const displayTitle = isSubmitted
+        ? (q.titleRuby || q.title)
+        : (isImmediateResponse ? '音声を聞いて、最もよい返事を１つ選んでください。' : q.title);
       const questionTitle = `
         <div class="text-sm md:text-base font-bold text-[#1F2D3D] leading-relaxed">
-          ${q.titleRuby || q.title}
+          ${displayTitle}
         </div>
       `;
 
-      // Choices
+      // Choices (Plain before submission, Ruby after submission)
       let optionsHtml = '<div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mt-3">';
       q.options.forEach((opt, idx) => {
         const isSelected = userAnswers[q.id] === idx;
@@ -942,12 +998,14 @@
           }
         }
 
+        const optLabel = isSubmitted ? ((q.optionsRuby && q.optionsRuby[idx]) || opt) : opt;
+
         optionsHtml += `
           <button onclick="selectOption(${q.id}, ${idx})" class="${optClass}" ${isSubmitted ? 'disabled' : ''}>
             <span class="w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs shrink-0 ${isSelected ? 'bg-[#1995AD] text-white' : 'bg-[#EDF7F9] text-[#127285]'}">
               ${idx + 1}
             </span>
-            <span class="flex-1">${(q.optionsRuby && q.optionsRuby[idx]) || opt}</span>
+            <span class="flex-1">${optLabel}</span>
           </button>
         `;
       });
@@ -957,14 +1015,14 @@
       let explanationHtml = '';
       if (isSubmitted) {
         let scriptDetails = '';
-        if (q.scriptRuby) {
+        if (q.scriptRuby || q.script) {
           scriptDetails = `
             <div class="mt-2.5 p-3 rounded-xl bg-white border border-[#1995AD]/25 text-xs leading-relaxed text-[#1F2D3D]">
               <div class="font-extrabold text-[#127285] mb-1 flex items-center gap-1">
                 <i data-lucide="headphones" class="w-3.5 h-3.5"></i>
                 <span>会話スクリプト</span>
               </div>
-              <div>${q.scriptRuby}</div>
+              <div>${q.scriptRuby || (q.script || '').replace(/\n/g, '<br>')}</div>
             </div>
           `;
         }
@@ -981,7 +1039,7 @@
         `;
       }
 
-      card.innerHTML = topRow + passageHtml + audioHtml + questionTitle + optionsHtml + explanationHtml;
+      card.innerHTML = topRow + passageHtml + illustrationHtml + audioHtml + questionTitle + optionsHtml + explanationHtml;
       return card;
     }
 
@@ -990,7 +1048,8 @@
       if (isSubmitted) return;
       userAnswers[qId] = optIdx;
       try {
-        localStorage.setItem('jlpt_n5_mock01_answers', JSON.stringify(userAnswers));
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.ans, JSON.stringify(userAnswers));
       } catch(e) {}
 
       // Re-render card
@@ -1010,7 +1069,8 @@
     function toggleBookmark(qId) {
       bookmarks[qId] = !bookmarks[qId];
       try {
-        localStorage.setItem('jlpt_n5_mock01_bookmarks', JSON.stringify(bookmarks));
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.bm, JSON.stringify(bookmarks));
       } catch(e) {}
 
       const q = MOCK_DATA.questions.find(item => item.id === qId);
@@ -1193,15 +1253,14 @@
       // Total: 180 max points. Passing mark: 80 points.
       // Benchmarks: Language/Reading >= 38, Listening >= 19.
 
-      let lrWeightEarned = 0;
-      let lrWeightTotal = 0;
-      let lsWeightEarned = 0;
-      let lsWeightTotal = 0;
+      let langWeightEarned = 0, langWeightTotal = 0;
+      let readWeightEarned = 0, readWeightTotal = 0;
+      let lsWeightEarned = 0, lsWeightTotal = 0;
 
-      let vocabCorrect = 0, vocabTotal = 35;
-      let grammarCorrect = 0, grammarTotal = 26;
-      let readingCorrect = 0, readingTotal = 6;
-      let listeningCorrect = 0, listeningTotal = 24;
+      let vocabCorrect = 0, vocabTotal = 32;
+      let grammarCorrect = 0, grammarTotal = 22;
+      let readingCorrect = 0, readingTotal = 21;
+      let listeningCorrect = 0, listeningTotal = 31;
 
       const breakdown = {};
 
@@ -1215,16 +1274,19 @@
         breakdown[q.category].total++;
         if (isCorrect) breakdown[q.category].correct++;
 
-        if (q.sectionId === 'sec1' || q.sectionId === 'sec2') {
-          lrWeightTotal += w;
-          if (isCorrect) lrWeightEarned += w;
-
-          if (q.sectionId === 'sec1') {
+        if (q.sectionId === 'sec1') {
+          langWeightTotal += w;
+          if (isCorrect) langWeightEarned += w;
+          if (q.qNum <= 32) {
             if (isCorrect) vocabCorrect++;
-          } else if (q.subsectionId === 's2_m1' || q.subsectionId === 's2_m2' || q.subsectionId === 's2_m3') {
-            if (isCorrect) grammarCorrect++;
           } else {
-            if (isCorrect) readingCorrect++;
+            if (isCorrect) grammarCorrect++;
+          }
+        } else if (q.sectionId === 'sec2') {
+          readWeightTotal += w;
+          if (isCorrect) {
+            readWeightEarned += w;
+            readingCorrect++;
           }
         } else {
           lsWeightTotal += w;
@@ -1235,16 +1297,18 @@
         }
       });
 
-      // Scaled Scores
-      const scaledLR = Math.round((lrWeightEarned / lrWeightTotal) * 120);
-      const scaledLS = Math.round((lsWeightEarned / lsWeightTotal) * 60);
-      const scaledTotal = scaledLR + scaledLS;
+      // Scaled Scores (60 + 60 + 60 = 180)
+      const scaledLang = Math.round((langWeightEarned / (langWeightTotal || 1)) * 60);
+      const scaledRead = Math.round((readWeightEarned / (readWeightTotal || 1)) * 60);
+      const scaledLS = Math.round((lsWeightEarned / (lsWeightTotal || 1)) * 60);
+      const scaledTotal = scaledLang + scaledRead + scaledLS;
 
       // Pass/Fail Determination
-      const benchLRPassed = scaledLR >= 38;
+      const benchLangPassed = scaledLang >= 19;
+      const benchReadPassed = scaledRead >= 19;
       const benchLSPassed = scaledLS >= 19;
-      const totalPassed = scaledTotal >= 80;
-      const isPassed = totalPassed && benchLRPassed && benchLSPassed;
+      const totalPassed = scaledTotal >= 90;
+      const isPassed = totalPassed && benchLangPassed && benchReadPassed && benchLSPassed;
 
       // References (A/B/C)
       const vocabRate = (vocabCorrect / vocabTotal) * 100;
@@ -1258,7 +1322,8 @@
 
       // Populate Result Modal
       document.getElementById('score-total').textContent = scaledTotal;
-      document.getElementById('score-lang-reading').textContent = scaledLR;
+      document.getElementById('score-lang').textContent = scaledLang;
+      document.getElementById('score-reading').textContent = scaledRead;
       document.getElementById('score-listening').textContent = scaledLS;
 
       const headerEl = document.getElementById('result-modal-header');
@@ -1270,7 +1335,7 @@
         headerEl.className = 'px-6 py-6 text-white relative transition-colors duration-300';
         headerEl.style.background = 'linear-gradient(135deg, #1995AD, #127285)';
         badgeText.textContent = '🎉 合 格 (PASSED)';
-        descText.textContent = `総合得点 ${scaledTotal}点！ 合格点（80点）および各区分の基準点を突破しました。`;
+        descText.textContent = `総合得点 ${scaledTotal}点！ 合格点（90点）および3区分の基準点（各19点）を突破しました。`;
         if (poodleImg) poodleImg.src = 'images/mock_poodle_pass.png';
         try {
           confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
@@ -1280,9 +1345,10 @@
         headerEl.style.background = 'linear-gradient(135deg, #B8596E, #CE5A73)';
         badgeText.textContent = '不 合 格 (FAILED)';
         let reason = `総合得点 ${scaledTotal}点。`;
-        if (!benchLRPassed) reason += ' 言語知識・読解が基準点(38点)を下回りました。';
+        if (!benchLangPassed) reason += ' 言語知識が基準点(19点)を下回りました。';
+        if (!benchReadPassed) reason += ' 読解が基準点(19点)を下回りました。';
         if (!benchLSPassed) reason += ' 聴解が基準点(19点)を下回りました。';
-        if (benchLRPassed && benchLSPassed && !totalPassed) reason += ' 合格基準点(80点)に届きませんでした。';
+        if (benchLangPassed && benchReadPassed && benchLSPassed && !totalPassed) reason += ' 合格基準点(90点)に届きませんでした。';
         descText.textContent = reason;
         if (poodleImg) poodleImg.src = 'images/mock_poodle_fail.png';
       }
