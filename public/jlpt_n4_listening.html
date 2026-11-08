@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N4 聴解実戦道場 — 全28問 完全網羅実戦模試（音声・イラスト連動）</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="auth.js?v=20261021_0110"></script>
+  <script src="user_progress.js?v=20261021_0110"></script>
+  <script src="database/dictionary_data.js" defer></script>
+  <script src="database/jlpt_n4_listening_data.js"></script>
+  <style>
+    :root {
+      --primary-blue: #1995AD;
+      --primary-blue-dark: #127285;
+      --primary-blue-light: #43B0C4;
+      --primary-blue-pale: #EDF7F9;
+      
+      --point-navy: #4D648D;
+      --point-ice: #D0E1F9;
+
+      --sakura-pink-bg: #FAF1F3;
+      --sakura-pink-soft: #FDF7F8;
+      --sakura-pink-accent: #E8A4B2;
+      --sakura-pink-deep: #B8596E;
+      --sakura-pink-border: #F2D5DB;
+
+      --text-primary: #1F2D3D;
+      --text-secondary: #4D648D;
+      --text-muted: #7E92A2;
+      
+      --card-bg: #FFFFFF;
+      --card-border: #E2ECF2;
+      --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
+
+      --correct-bg: #E8F5E9;
+      --correct-border: #81C784;
+      --correct-text: #2E7D32;
+
+      --wrong-bg: #FEE2E2;
+      --wrong-border: #FCA5A5;
+      --wrong-text: #991B1B;
+
+      --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      background-color: var(--sakura-pink-bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      font-family: var(--app-font);
+      line-height: 1.7;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    ruby { ruby-position: over; }
+    ruby rt {
+      font-size: 0.54em;
+      color: var(--primary-blue-dark);
+      font-weight: 600;
+      user-select: none;
+      letter-spacing: 0;
+      line-height: 1;
+      transform: translateY(-2px);
+    }
+    body.furigana-off ruby rt,
+    body.hide-furigana ruby rt {
+      display: none !important;
+    }
+
+    /* Site Header */
+    .site-header {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: #FFFFFF;
+      padding: 16px 20px 14px;
+      box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .header-btn {
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      color: #FFFFFF;
+      padding: 6px 13px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .header-btn:hover {
+      background: rgba(255, 255, 255, 0.3);
+      transform: translateY(-1px);
+    }
+
+    .toggle-pill {
+      background: rgba(255, 255, 255, 0.22);
+      border: 1px solid rgba(255, 255, 255, 0.45);
+      border-radius: 20px;
+      padding: 3px 4px;
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggle-opt {
+      padding: 3px 10px;
+      border-radius: 14px;
+      font-size: 11px;
+      font-weight: 800;
+      transition: all 0.2s;
+      color: rgba(255, 255, 255, 0.85);
+    }
+    .toggle-opt.active {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Main Container */
+    .question-card {
+      background: var(--card-bg);
+      border: 1.5px solid var(--card-border);
+      border-radius: 24px;
+      box-shadow: var(--card-shadow);
+      padding: 28px 24px;
+      margin-bottom: 24px;
+      transition: all 0.2s ease;
+    }
+
+    /* Audio Player Bar */
+    .audio-player-bar {
+      background: linear-gradient(135deg, #F0F9FA 0%, #E6F4F7 100%);
+      border: 1.5px solid #C4E5EB;
+      border-radius: 16px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 20px;
+    }
+
+    .play-circle-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(25, 149, 173, 0.35);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+    .play-circle-btn:hover {
+      transform: scale(1.06);
+      box-shadow: 0 6px 16px rgba(25, 149, 173, 0.45);
+    }
+
+    /* Illustration Container (4:3 Unified Aspect Ratio) */
+    .illustration-frame {
+      width: 100%;
+      max-width: 580px;
+      margin: 0 auto 20px;
+      aspect-ratio: 4 / 3;
+      border-radius: 18px;
+      overflow: hidden;
+      border: 1.5px solid #E2ECF2;
+      box-shadow: 0 4px 16px rgba(77, 100, 141, 0.08);
+      background: #FFFFFF;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .illustration-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Choices Grid */
+    .choices-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-top: 14px;
+    }
+    @media (max-width: 640px) {
+      .choices-grid { grid-template-columns: 1fr; }
+    }
+
+    /* Choice Button: 白背景 × ライトブルー枠 #B8D1F5 (確定仕様) */
+    .choice-card {
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      border-radius: 14px;
+      padding: 13px 16px;
+      font-size: 14.5px;
+      font-weight: 600;
+      color: #1F2D3D;
+      cursor: pointer;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+      box-shadow: 0 2px 6px rgba(77, 100, 141, 0.04);
+      user-select: none;
+      line-height: 1.6;
+    }
+    .choice-card:hover:not(.locked) {
+      border-color: #7AA2DE;
+      background: #EEF4FC;
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(77, 100, 141, 0.12);
+    }
+    .choice-card.locked { cursor: default; }
+
+    .choice-badge-num {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      color: #4D648D;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12.5px;
+      font-weight: 800;
+      flex-shrink: 0;
+      margin-top: 1px;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(77, 100, 141, 0.08);
+    }
+
+    .choice-card.correct {
+      background: var(--correct-bg) !important;
+      border-color: var(--correct-border) !important;
+      color: var(--correct-text) !important;
+    }
+    .choice-card.correct .choice-badge-num {
+      background: var(--correct-border) !important;
+      color: #FFFFFF !important;
+      border-color: var(--correct-border) !important;
+    }
+    .choice-card.wrong {
+      background: var(--wrong-bg) !important;
+      border-color: var(--wrong-border) !important;
+      color: var(--wrong-text) !important;
+    }
+    .choice-card.wrong .choice-badge-num {
+      background: var(--wrong-border) !important;
+      color: #FFFFFF !important;
+      border-color: var(--wrong-border) !important;
+    }
+
+    /* Explanation Box */
+    .explanation-box {
+      margin-top: 22px;
+      padding: 20px 22px;
+      border-radius: 18px;
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      display: none;
+      animation: fadeIn 0.3s ease;
+    }
+    .explanation-box.show { display: block; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Script Accordion Panel */
+    .script-panel {
+      display: none;
+      margin-top: 14px;
+      padding: 16px 18px;
+      background: #FFFFFF;
+      border-radius: 14px;
+      border: 1px solid #E2ECF2;
+      animation: fadeIn 0.2s ease;
+    }
+    .script-panel.show { display: block; }
+
+    /* Text Selection Toolbar */
+    #selection-toolbar {
+      position: absolute;
+      z-index: 1000;
+      background: #1F2D3D;
+      color: #FFFFFF;
+      border-radius: 12px;
+      padding: 6px 10px;
+      font-size: 12px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+      display: none;
+      align-items: center;
+      gap: 8px;
+      animation: popIn 0.15s ease-out;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: scale(0.9) translateY(4px); }
+      to { opacity: 1; transform: scale(1) translateY(0); }
+    }
+
+    /* Modal Backdrop */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(31, 45, 61, 0.55);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .modal-backdrop.show { display: flex; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- 1. Site Header -->
+  <header class="site-header">
+    <div class="max-w-4xl mx-auto flex justify-between items-center flex-wrap gap-3">
+      <div class="flex items-center gap-3">
+        <a href="jlpt_practice.html" class="header-btn" style="text-decoration:none;">
+          <i data-lucide="arrow-left" class="w-4 h-4"></i>
+          <span>JLPT対策に戻る</span>
+        </a>
+        <div>
+          <div class="text-lg sm:text-xl font-bold tracking-tight flex items-center gap-2">
+            <span>JLPT N4 聴解実戦道場</span>
+            <span class="text-xs bg-white text-[#127285] font-extrabold px-2.5 py-0.5 rounded-full">実戦模試 第1回</span>
+          </div>
+          <div class="text-xs text-white/80">場面イラスト・音声連動出題（課題・ポイント・概要・即時応答・統合）</div>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-3">
+        <a href="jlpt_n5_mock.html" class="header-btn" style="text-decoration:none; background:#BE185D; color:white; border-color:#F472B6; font-weight:800;" title="実戦模擬試験（N5先行公開中）">
+          <i data-lucide="award" class="w-4 h-4"></i>
+          <span>📝 実戦模擬試験 (N5公開中)</span>
+        </a>
+        <div class="toggle-pill" onclick="toggleFurigana()" title="ふりがな表示切替">
+          <div id="furi-on" class="toggle-opt active">ふりがな ON</div>
+          <div id="furi-off" class="toggle-opt">OFF</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ==================================================== -->
+  <!-- 1. CATEGORY SELECTION VIEW (カテゴリ選択画面: 初期表示) -->
+  <!-- ==================================================== -->
+  <main class="max-w-4xl mx-auto px-4 py-8 flex-1 w-full" id="category-selection-view">
+    <div class="text-center max-w-2xl mx-auto mb-8">
+      <div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[#EDF7F9] text-[#127285] text-xs font-black border border-[#1995AD]/25 mb-3">
+        <span>🎧</span> JLPT N4 聴解実戦道場（実戦模試 第1回）
+      </div>
+      <h2 class="text-2xl sm:text-3xl font-black text-slate-800 tracking-tight mb-2">
+        学習するセクションを選択
+      </h2>
+      <p class="text-sm text-slate-500 font-medium">
+        本番同様の全問通し演習、または苦手な分野を集中して攻略できます。
+      </p>
+    </div>
+
+        <!-- N4 4大カテゴリカード グリッド (全28問) -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <!-- 1. 全28問 実戦模試フルセット -->
+      <div onclick="startListeningSection('all')" class="bg-gradient-to-br from-[#1995AD] to-[#127285] text-white p-6 rounded-2xl cursor-pointer hover:shadow-lg hover:scale-[1.01] transition duration-200 flex flex-col justify-between border border-[#1995AD]/30 md:col-span-2">
+        <div class="flex items-start justify-between gap-4">
+          <div class="flex items-center gap-3.5">
+            <span class="text-3xl">🌟</span>
+            <div>
+              <div class="text-lg sm:text-xl font-black flex items-center gap-2">
+                <span>全28問 実戦模試フルセット</span>
+                <span class="text-xs font-bold px-2.5 py-0.5 rounded-full bg-white/20 text-white">本番形式 / 約35分</span>
+              </div>
+              <div class="text-xs text-white/85 mt-1 font-medium leading-relaxed">
+                問題1（課題理解）から問題4（即時応答）まで、N4本番と同一の順序・問題数で一気に解く総合演習です。
+              </div>
+            </div>
+          </div>
+          <span class="px-4 py-2 rounded-xl bg-white text-[#127285] font-black text-xs shadow-xs shrink-0 flex items-center gap-1">
+            演習開始 →
+          </span>
+        </div>
+      </div>
+
+      <!-- 2. 問題1 課題理解 (8問) -->
+      <div onclick="startListeningSection('問題1 課題理解')" class="bg-white p-5 rounded-2xl border-1.5 border-[#B8D1F5] hover:border-[#1995AD] hover:shadow-md cursor-pointer transition flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black px-2.5 py-0.5 rounded-full bg-[#FAF1F3] text-[#B8596E] border border-[#F2D5DB]">
+              問題1 (全8問)
+            </span>
+            <span class="text-xs text-slate-400 font-bold">行動指示の聞き取り</span>
+          </div>
+          <h3 class="text-base font-black text-slate-800 mb-1 flex items-center gap-2">
+            <span>🎯</span> 課題理解
+          </h3>
+          <p class="text-xs text-slate-500 font-medium leading-relaxed">
+            日常会話やアナウンスを聞き、「このあとまず何をするか」という指示を聞き取るセクション。
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-black text-[#1995AD]">
+          <span>8問に挑戦</span>
+          <span>→</span>
+        </div>
+      </div>
+
+      <!-- 3. 問題2 ポイント理解 (7問) -->
+      <div onclick="startListeningSection('問題2 ポイント理解')" class="bg-white p-5 rounded-2xl border-1.5 border-[#B8D1F5] hover:border-[#1995AD] hover:shadow-md cursor-pointer transition flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black px-2.5 py-0.5 rounded-full bg-[#FAF1F3] text-[#B8596E] border border-[#F2D5DB]">
+              問題2 (全7問)
+            </span>
+            <span class="text-xs text-slate-400 font-bold">理由・選択の根拠</span>
+          </div>
+          <h3 class="text-base font-black text-slate-800 mb-1 flex items-center gap-2">
+            <span>🔍</span> ポイント理解
+          </h3>
+          <p class="text-xs text-slate-500 font-medium leading-relaxed">
+            話を聞く前に質問を把握し、理由や日時、場所などの重要ポイントを聞き取るセクション。
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-black text-[#1995AD]">
+          <span>7問に挑戦</span>
+          <span>→</span>
+        </div>
+      </div>
+
+      <!-- 4. 問題3 発話表現 (5問) -->
+      <div onclick="startListeningSection('問題3 発話表現')" class="bg-white p-5 rounded-2xl border-1.5 border-[#B8D1F5] hover:border-[#1995AD] hover:shadow-md cursor-pointer transition flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black px-2.5 py-0.5 rounded-full bg-[#FAF1F3] text-[#B8596E] border border-[#F2D5DB]">
+              問題3 (全5問)
+            </span>
+            <span class="text-xs text-slate-400 font-bold">場面ごとの声かけ</span>
+          </div>
+          <h3 class="text-base font-black text-slate-800 mb-1 flex items-center gap-2">
+            <span>🗣️</span> 発話表現
+          </h3>
+          <p class="text-xs text-slate-500 font-medium leading-relaxed">
+            イラストの状況を見て、その場面で相手に何と言うかを選ぶセクション。
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-black text-[#1995AD]">
+          <span>5問に挑戦</span>
+          <span>→</span>
+        </div>
+      </div>
+
+      <!-- 5. 問題4 即時応答 (8問) -->
+      <div onclick="startListeningSection('問題4 即時応答')" class="bg-white p-5 rounded-2xl border-1.5 border-[#B8D1F5] hover:border-[#1995AD] hover:shadow-md cursor-pointer transition flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black px-2.5 py-0.5 rounded-full bg-[#FAF1F3] text-[#B8596E] border border-[#F2D5DB]">
+              問題4 (全8問)
+            </span>
+            <span class="text-xs text-slate-400 font-bold">3択スピード応答</span>
+          </div>
+          <h3 class="text-base font-black text-slate-800 mb-1 flex items-center gap-2">
+            <span>⚡</span> 即時応答
+          </h3>
+          <p class="text-xs text-slate-500 font-medium leading-relaxed">
+            日常の短い問いかけや挨拶を聞いて、最も適した返答を3択から瞬時に選ぶセクション。
+          </p>
+        </div>
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-black text-[#1995AD]">
+          <span>8問に挑戦</span>
+          <span>→</span>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ==================================================== -->
+  <!-- 2. QUESTIONS SECTION WRAPPER (問題演習画面: 選択後表示) -->
+  <!-- ==================================================== -->
+  <div id="questions-section-wrapper" class="hidden flex-1 flex flex-col w-full">
+    <!-- Top Action Bar with Return to Category & Filter Tabs -->
+    <div class="max-w-4xl mx-auto px-4 py-3 w-full">
+      <div class="bg-white rounded-2xl p-3 sm:p-4 border border-[#E2ECF2] shadow-xs flex items-center justify-between flex-wrap gap-3">
+        <div class="flex items-center gap-2 flex-wrap">
+          <button onclick="returnToCategoryMenu()" class="px-3.5 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-black text-xs flex items-center gap-1.5 transition">
+            <i data-lucide="layout-grid" class="w-3.5 h-3.5"></i>
+            <span>← セクション選択</span>
+          </button>
+          
+          <div class="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1" id="section-filter-pills">
+            <button onclick="filterSection('all')" id="btn-sec-all" class="px-3 py-1 rounded-xl text-xs font-extrabold bg-[#1995AD] text-white shadow-xs shrink-0">全28問</button>
+            <button onclick="filterSection('問題1 課題理解')" id="btn-sec-1" class="px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0">問題1 課題理解 (8問)</button>
+            <button onclick="filterSection('問題2 ポイント理解')" id="btn-sec-2" class="px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0">問題2 ポイント理解 (7問)</button>
+            <button onclick="filterSection('問題3 発話表現')" id="btn-sec-3" class="px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0">問題3 発話表現 (5問)</button>
+            <button onclick="filterSection('問題4 即時応答')" id="btn-sec-4" class="px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0">問題4 即時応答 (8問)</button>
+          </div>
+        </div>
+
+        <div class="text-xs font-bold text-slate-500">
+          <span id="listening-score-tracker">解答済み: 0 / 28</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Question Cards Container -->
+    <main class="max-w-4xl mx-auto px-4 py-3 flex-1 w-full" id="listening-cards-container">
+      <!-- Populated via JS -->
+    </main>
+  </div>
+
+  <!-- 4. Text Selection Toolbar -->
+  <div id="selection-toolbar">
+    <span id="selection-word" class="font-bold text-[#43B0C4] max-w-[120px] truncate"></span>
+    <span class="text-slate-500">|</span>
+    <button onclick="handleToolbarDict()" class="hover:text-[#43B0C4] flex items-center gap-1 font-bold">
+      <i data-lucide="search" class="w-3 h-3"></i> 辞書
+    </button>
+    <button onclick="handleToolbarSave()" class="hover:text-[#E8A4B2] flex items-center gap-1 font-bold">
+      <i data-lucide="bookmark" class="w-3 h-3"></i> 保存
+    </button>
+  </div>
+
+  <!-- 5. Dictionary Modal -->
+  <div id="dict-modal" class="modal-backdrop" onclick="if(event.target===this) closeDictModal()">
+    <div class="bg-white rounded-3xl p-6 max-w-md w-full shadow-2xl border border-slate-200">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-4">
+        <span class="text-xs font-extrabold text-[#1995AD] uppercase tracking-wider flex items-center gap-1">
+          <i data-lucide="book-marked" class="w-4 h-4"></i> 内蔵辞書
+        </span>
+        <button onclick="closeDictModal()" class="text-slate-400 hover:text-slate-600 text-lg">✕</button>
+      </div>
+      <div id="dict-modal-content">
+        <!-- Content -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Footer -->
+  <footer class="bg-white border-t border-slate-200 py-4 mt-8">
+    <div class="max-w-4xl mx-auto px-4 text-center text-xs text-slate-500">
+      JLPT N4 聴解実戦道場 — 完全オリジナル実戦問題（著作権侵害ゼロ・音声ファースト設計）
+    </div>
+  </footer>
+
+  <script>
+    let currentFilter = 'all';
+    const answeredListeningMap = {};
+    const listeningBookmarks = new Set(JSON.parse(localStorage.getItem('haku_listening_bookmarks') || '[]'));
+
+    document.addEventListener('DOMContentLoaded', () => {
+      renderListeningQuestions();
+      initListeningTextSelection();
+      lucide.createIcons();
+    });
+
+    function toggleFurigana() {
+      document.body.classList.toggle('furigana-off');
+      const isOff = document.body.classList.contains('furigana-off');
+      document.getElementById('furi-on').classList.toggle('active', !isOff);
+      document.getElementById('furi-off').classList.toggle('active', isOff);
+    }
+
+    function startListeningSection(sec) {
+      document.getElementById('category-selection-view').classList.add('hidden');
+      document.getElementById('questions-section-wrapper').classList.remove('hidden');
+      filterSection(sec);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function returnToCategoryMenu() {
+      document.getElementById('questions-section-wrapper').classList.add('hidden');
+      document.getElementById('category-selection-view').classList.remove('hidden');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function filterSection(sec) {
+      currentFilter = sec;
+      const pills = [
+        { id: 'btn-sec-all', sec: 'all' },
+        { id: 'btn-sec-1', sec: '問題1 課題理解' },
+        { id: 'btn-sec-2', sec: '問題2 ポイント理解' },
+        { id: 'btn-sec-3', sec: '問題3 発話表現' },
+        { id: 'btn-sec-4', sec: '問題4 即時応答' },
+      ];
+      pills.forEach(p => {
+        const btn = document.getElementById(p.id);
+        if (btn) {
+          if (p.sec === sec) {
+            btn.className = 'px-3 py-1 rounded-xl text-xs font-extrabold bg-[#1995AD] text-white shadow-xs shrink-0';
+          } else {
+            btn.className = 'px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0';
+          }
+        }
+      });
+      renderListeningQuestions();
+    }
+
+    function renderListeningQuestions() {
+      const container = document.getElementById('listening-cards-container');
+      container.innerHTML = '';
+
+      const data = window.JLPT_N4_LISTENING_DATA;
+      if (!data) return;
+
+      const filtered = data.questions.filter(q => currentFilter === 'all' || q.section === currentFilter);
+
+      filtered.forEach(q => {
+        const card = document.createElement('div');
+        card.className = 'question-card';
+        card.id = `qcard-${q.q_num}`;
+
+        const isBookmarked = listeningBookmarks.has(q.q_num);
+
+        card.innerHTML = `
+          <!-- Top Row -->
+          <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-4">
+            <span class="px-2.5 py-0.5 rounded-full bg-[#EDF7F9] text-[#127285] text-xs font-extrabold border border-[#1995AD]/20">
+              ${q.section}
+            </span>
+            <div class="flex items-center gap-2">
+              <span class="text-sm font-extrabold text-[#1995AD]">Q. ${q.q_num}</span>
+              <button onclick="toggleListeningBookmark(${q.q_num})" id="lbm-${q.q_num}" class="text-slate-300 hover:text-amber-400 p-1 text-base transition ${isBookmarked ? 'text-amber-400 fill-amber-400' : ''}" title="問題をマイリストに保存">
+                ★
+              </button>
+            </div>
+          </div>
+
+          <!-- 1. Audio Player Bar (Audio-First: Spoilers Hidden) -->
+          <div class="audio-player-bar">
+            <div class="flex items-center gap-3">
+              <div class="play-circle-btn" onclick="playQuestionAudio(${q.q_num})" id="play-btn-${q.q_num}" title="音声を再生">
+                <i data-lucide="play" class="w-5 h-5 fill-white ml-0.5"></i>
+              </div>
+              <div>
+                <div class="text-sm font-extrabold text-slate-800">音声を聴く</div>
+                <div class="text-xs text-slate-400 font-medium">再生ボタンを押して会話と質問を聴いてください</div>
+              </div>
+            </div>
+            <span id="audio-status-${q.q_num}" class="text-xs font-bold text-slate-400">未再生</span>
+          </div>
+
+          <!-- 2. Illustration (Aspect 4:3, 0 Arrows) -->
+          ${q.has_illustration && q.illustration_url ? `
+            <div class="illustration-frame">
+              <img src="${q.illustration_url}" alt="場面イラスト" />
+            </div>
+          ` : ''}
+
+          <!-- 3. Choices Grid (白背景 × ライトブルー枠) -->
+          <div class="choices-grid">
+            ${q.choices.map((c, cIdx) => `
+              <div onclick="selectListeningChoice(${q.q_num}, ${cIdx})" id="lq${q.q_num}-card-${cIdx}" class="choice-card">
+                <div class="choice-badge-num">${cIdx + 1}</div>
+                <div class="flex-1">${c}</div>
+              </div>
+            `).join('')}
+          </div>
+
+          <!-- 4. Explanation Box (Sakura Pink) -->
+          <div id="lq${q.q_num}-feedback" class="explanation-box">
+            <div class="flex items-center justify-between mb-3 pb-2 border-b border-[#F2D5DB]">
+              <span id="lq${q.q_num}-status-pill" class="text-xs font-extrabold px-3 py-1 rounded-full"></span>
+              <span class="text-xs font-bold text-[#127285]">正解：${q.answer + 1}番</span>
+            </div>
+
+            <!-- Question Prompt Reveal (Post-answer only) -->
+            <div class="p-2.5 bg-white/70 rounded-xl border border-[#F2D5DB] mb-3">
+              <span class="text-[11px] font-bold text-[#B8596E] block mb-0.5">【質問】</span>
+              <div class="text-xs font-bold text-slate-800">${q.prompt_ruby || q.prompt}</div>
+            </div>
+
+            <!-- Multilingual Tabs -->
+            <div class="flex items-center gap-1 mb-2.5 border-b border-[#F2D5DB] pb-1.5 text-xs font-bold">
+              <button onclick="switchListeningLang(${q.q_num}, 'ja')" id="lexp-btn-${q.q_num}-ja" class="px-2.5 py-0.5 rounded-md bg-[#1995AD] text-white">日本語</button>
+              <button onclick="switchListeningLang(${q.q_num}, 'en')" id="lexp-btn-${q.q_num}-en" class="px-2.5 py-0.5 rounded-md text-slate-600 hover:bg-slate-100">🇺🇸 English</button>
+              <button onclick="switchListeningLang(${q.q_num}, 'zh')" id="lexp-btn-${q.q_num}-zh" class="px-2.5 py-0.5 rounded-md text-slate-600 hover:bg-slate-100">🇹🇼 繁體中文</button>
+              <button onclick="switchListeningLang(${q.q_num}, 'ko')" id="lexp-btn-${q.q_num}-ko" class="px-2.5 py-0.5 rounded-md text-slate-600 hover:bg-slate-100">🇰🇷 한국어</button>
+            </div>
+
+            <!-- Core Explanation -->
+            <div id="lexp-text-${q.q_num}" class="text-xs leading-relaxed text-slate-700 font-medium mb-3">
+              ${q.explanation.ja || ''}
+            </div>
+
+            <!-- Script Reveal Accordion -->
+            <div class="pt-2 border-t border-[#F2D5DB]">
+              <button onclick="toggleScriptPanel(${q.q_num})" class="text-xs font-bold text-[#1995AD] hover:underline flex items-center gap-1">
+                <i data-lucide="file-text" class="w-3.5 h-3.5"></i>
+                <span id="script-toggle-btn-${q.q_num}">▼ 放送された問題文と会話台本（スクリプト）を表示</span>
+              </button>
+              <div id="script-panel-${q.q_num}" class="script-panel">
+                ${q.script_html}
+              </div>
+            </div>
+          </div>
+        `;
+
+        container.appendChild(card);
+
+        if (answeredListeningMap[q.q_num] !== undefined) {
+          applyListeningChoiceResult(q.q_num, answeredListeningMap[q.q_num], q.answer);
+        }
+      });
+
+      updateScoreTracker();
+      lucide.createIcons();
+    }
+
+    // Audio Playback Engine (Official Google TTS with Immediate Pause / Stop Control)
+    let activeListeningAudio = null;
+    let activePlayingQNum = null;
+
+    function playQuestionAudio(qNum) {
+      const data = window.JLPT_N4_LISTENING_DATA;
+      const q = data.questions.find(item => item.q_num === qNum);
+      if (!q) return;
+
+      const btn = document.getElementById(`play-btn-${qNum}`);
+      const status = document.getElementById(`audio-status-${qNum}`);
+
+      // 1. もし現在この問題が再生中なら、即座に一時停止/停止する（ストップボタンの動作）
+      if (activePlayingQNum === qNum) {
+        if (activeListeningAudio) {
+          activeListeningAudio.pause();
+          activeListeningAudio.currentTime = 0;
+          activeListeningAudio = null;
+        }
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+        }
+        activePlayingQNum = null;
+        status.textContent = '停止中（タップで再生）';
+        status.className = 'text-xs font-bold text-slate-500';
+        btn.innerHTML = '<i data-lucide="play" class="w-5 h-5 fill-white"></i>';
+        lucide.createIcons();
+        return;
+      }
+
+      // 2. もし別の問題が再生中なら、そちらを停止してリセットする
+      if (activePlayingQNum !== null && activePlayingQNum !== qNum) {
+        const prevQ = activePlayingQNum;
+        if (activeListeningAudio) {
+          activeListeningAudio.pause();
+          activeListeningAudio.currentTime = 0;
+          activeListeningAudio = null;
+        }
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+        }
+        const prevBtn = document.getElementById(`play-btn-${prevQ}`);
+        const prevStatus = document.getElementById(`audio-status-${prevQ}`);
+        if (prevBtn) prevBtn.innerHTML = '<i data-lucide="play" class="w-5 h-5 fill-white"></i>';
+        if (prevStatus) {
+          prevStatus.textContent = '再生待機';
+          prevStatus.className = 'text-xs font-bold text-slate-400';
+        }
+        activePlayingQNum = null;
+      }
+
+      // 3. 再生開始
+      status.textContent = '再生中…';
+      status.className = 'text-xs font-bold text-[#1995AD]';
+      btn.innerHTML = '<i data-lucide="square" class="w-5 h-5 fill-white"></i>';
+      lucide.createIcons();
+
+      // ローカル Google TTS 音声ファイルのパス
+      const audioSrc = q.audio_file || `audio/listening/n4_q${qNum}.mp3`;
+      const audio = new Audio(audioSrc);
+      activeListeningAudio = audio;
+      activePlayingQNum = qNum;
+
+      audio.onended = () => {
+        status.textContent = '再生完了';
+        status.className = 'text-xs font-bold text-emerald-600';
+        btn.innerHTML = '<i data-lucide="rotate-ccw" class="w-5 h-5 fill-white"></i>';
+        lucide.createIcons();
+        activePlayingQNum = null;
+        activeListeningAudio = null;
+      };
+
+      audio.onerror = (e) => {
+        console.warn(`Local audio for Q${qNum} failed, falling back to online Google TTS / WebSpeech:`, e);
+        // Fallback: Web Speech API
+        if ('speechSynthesis' in window) {
+          window.speechSynthesis.cancel();
+          const text = q.speech_audio_text || q.speech_dialogue || q.prompt;
+          const utterance = new SpeechSynthesisUtterance(text);
+          utterance.lang = 'ja-JP';
+          utterance.rate = 0.95;
+          utterance.onend = () => {
+            status.textContent = '再生完了';
+            status.className = 'text-xs font-bold text-emerald-600';
+            btn.innerHTML = '<i data-lucide="rotate-ccw" class="w-5 h-5 fill-white"></i>';
+            lucide.createIcons();
+            activePlayingQNum = null;
+            activeListeningAudio = null;
+          };
+          window.speechSynthesis.speak(utterance);
+        } else {
+          status.textContent = '再生エラー';
+          btn.innerHTML = '<i data-lucide="play" class="w-5 h-5 fill-white"></i>';
+          lucide.createIcons();
+          activePlayingQNum = null;
+          activeListeningAudio = null;
+        }
+      };
+
+      const playPromise = audio.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(err => {
+          console.warn('Audio play was interrupted or blocked:', err);
+        });
+      }
+    }
+
+    function selectListeningChoice(qNum, selectedIdx) {
+      if (answeredListeningMap[qNum] !== undefined) return;
+      answeredListeningMap[qNum] = selectedIdx;
+
+      const data = window.JLPT_N4_LISTENING_DATA;
+      const q = data.questions.find(item => item.q_num === qNum);
+      if (!q) return;
+
+      applyListeningChoiceResult(qNum, selectedIdx, q.answer);
+      updateScoreTracker();
+    }
+
+    function applyListeningChoiceResult(qNum, selectedIdx, correctIdx) {
+      const isCorrect = (selectedIdx === correctIdx);
+      const selectedCard = document.getElementById(`lq${qNum}-card-${selectedIdx}`);
+      const correctCard = document.getElementById(`lq${qNum}-card-${correctIdx}`);
+      const feedback = document.getElementById(`lq${qNum}-feedback`);
+      const statusPill = document.getElementById(`lq${qNum}-status-pill`);
+
+      for (let i = 0; i < 4; i++) {
+        const c = document.getElementById(`lq${qNum}-card-${i}`);
+        if (c) c.classList.add('locked');
+      }
+
+      if (isCorrect) {
+        if (selectedCard) selectedCard.classList.add('correct');
+        statusPill.className = 'text-xs font-extrabold px-3 py-1 rounded-full bg-[#E8F5E9] text-[#2E7D32] border border-[#81C784]';
+        statusPill.textContent = '正解！';
+      } else {
+        if (selectedCard) selectedCard.classList.add('wrong');
+        if (correctCard) correctCard.classList.add('correct');
+        statusPill.className = 'text-xs font-extrabold px-3 py-1 rounded-full bg-[#FEE2E2] text-[#991B1B] border border-[#FCA5A5]';
+        statusPill.textContent = '不正解';
+      }
+
+      if (feedback) {
+        feedback.classList.add('show');
+        feedback.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    function switchListeningLang(qNum, lang) {
+      const data = window.JLPT_N4_LISTENING_DATA;
+      const q = data.questions.find(item => item.q_num === qNum);
+      if (!q || !q.explanation) return;
+
+      const expEl = document.getElementById(`lexp-text-${qNum}`);
+      if (expEl) expEl.innerHTML = q.explanation[lang] || q.explanation.ja || '';
+
+      ['ja', 'en', 'zh', 'ko'].forEach(l => {
+        const btn = document.getElementById(`lexp-btn-${qNum}-${l}`);
+        if (btn) {
+          if (l === lang) {
+            btn.className = 'px-2.5 py-0.5 rounded-md bg-[#1995AD] text-white';
+          } else {
+            btn.className = 'px-2.5 py-0.5 rounded-md text-slate-600 hover:bg-slate-100';
+          }
+        }
+      });
+    }
+
+    function toggleScriptPanel(qNum) {
+      const panel = document.getElementById(`script-panel-${qNum}`);
+      const btn = document.getElementById(`script-toggle-btn-${qNum}`);
+      if (!panel) return;
+      const isShow = panel.classList.contains('show');
+      if (isShow) {
+        panel.classList.remove('show');
+        btn.textContent = '▼ 放送された問題文と会話台本（スクリプト）を表示';
+      } else {
+        panel.classList.add('show');
+        btn.textContent = '▲ スクリプトを閉じる';
+      }
+    }
+
+    function toggleListeningBookmark(qNum) {
+      const btn = document.getElementById(`lbm-${qNum}`);
+      if (listeningBookmarks.has(qNum)) {
+        listeningBookmarks.delete(qNum);
+        if (btn) btn.classList.remove('text-amber-400', 'fill-amber-400');
+        showListeningToast(`問${qNum} のブックマークを解除しました`);
+      } else {
+        listeningBookmarks.add(qNum);
+        if (btn) btn.classList.add('text-amber-400', 'fill-amber-400');
+        showListeningToast(`問${qNum} をマイリスト（JLPT問題）に保存しました！`);
+      }
+      localStorage.setItem('haku_listening_bookmarks', JSON.stringify([...listeningBookmarks]));
+    }
+
+    function updateScoreTracker() {
+      const count = Object.keys(answeredListeningMap).length;
+      document.getElementById('listening-score-tracker').textContent = `解答済み: ${count} / 28`;
+    }
+
+    // Text Selection Toolbar
+    let selectedListeningText = '';
+    function initListeningTextSelection() {
+      document.addEventListener('mouseup', (e) => {
+        const sel = window.getSelection();
+        const text = sel ? sel.toString().trim() : '';
+        const toolbar = document.getElementById('selection-toolbar');
+
+        if (!text || text.length === 0 || text.length > 30) {
+          if (!e.target.closest('#selection-toolbar')) {
+            toolbar.style.display = 'none';
+          }
+          return;
+        }
+
+        selectedListeningText = text;
+        document.getElementById('selection-word').textContent = text;
+
+        const range = sel.getRangeAt(0);
+        const rect = range.getBoundingClientRect();
+
+        toolbar.style.top = `${window.scrollY + rect.top - 46}px`;
+        toolbar.style.left = `${Math.max(10, window.scrollX + rect.left + (rect.width / 2) - 80)}px`;
+        toolbar.style.display = 'flex';
+        lucide.createIcons();
+      });
+    }
+
+    function handleToolbarDict() {
+      document.getElementById('selection-toolbar').style.display = 'none';
+      openDictModal(selectedListeningText);
+    }
+
+    function openDictModal(term) {
+      const modal = document.getElementById('dict-modal');
+      const content = document.getElementById('dict-modal-content');
+      if (!modal || !content) return;
+
+      const dictData = window.DICT_DATA || window.DICTIONARY_DATA || [];
+      let entry = null;
+      if (dictData.length > 0) {
+        entry = dictData.find(d => (d.w || d.word) === term || (d.r || d.reading) === term);
+        if (!entry && term.length >= 2) {
+          entry = dictData.find(d => (d.w || d.word).startsWith(term));
+        }
+      }
+
+      if (entry) {
+        const word = entry.w || entry.word;
+        const reading = entry.r || entry.reading || '';
+        const meanings = Array.isArray(entry.m) ? entry.m.join(', ') : (entry.meaning || entry.m || '');
+        const level = entry.l || entry.level || '';
+
+        content.innerHTML = `
+          <div class="mb-4">
+            <div class="flex items-center gap-2">
+              <span class="text-2xl font-black text-[#1F2D3D]">${word}</span>
+              ${level ? `<span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-700">${level}</span>` : ''}
+            </div>
+            ${reading && reading !== word ? `<div class="text-sm font-bold text-[#1995AD]">${reading}</div>` : ''}
+          </div>
+          <div class="bg-slate-50 p-3.5 rounded-xl border border-slate-200 mb-4 text-sm">
+            <div class="text-xs font-bold text-slate-400 mb-1">意味 / Definition</div>
+            <div class="font-medium text-slate-800">${meanings}</div>
+          </div>
+          <button onclick="saveListeningToMyList('${word}', '単語・語彙')" class="w-full py-2.5 rounded-xl bg-[#1995AD] text-white font-bold text-xs shadow-md hover:bg-[#127285] transition mb-2">
+            🔖 マイリスト（単語・語彙）に保存
+          </button>
+          <a href="https://www.google.com/search?q=${encodeURIComponent(word + ' 意味')}" target="_blank" rel="noopener noreferrer" class="w-full py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold text-xs flex items-center justify-center gap-1.5 transition" style="text-decoration:none;">
+            <svg class="w-3.5 h-3.5 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+            </svg>
+            <span>Googleでさらに詳しく検索</span>
+          </a>
+        `;
+      } else {
+        content.innerHTML = `
+          <div class="mb-3">
+            <div class="text-xl font-bold text-slate-800">${term}</div>
+          </div>
+          <p class="text-xs text-slate-500 mb-4">内蔵辞書に完全一致する見出し語がありませんでしたが、Googleで検索するか、マイリストに保存して後で復習できます。</p>
+          <div class="space-y-2">
+            <a href="https://www.google.com/search?q=${encodeURIComponent(term + ' 意味')}" target="_blank" rel="noopener noreferrer" class="w-full py-2.5 px-4 rounded-xl bg-[#4285F4] hover:bg-[#3367D6] text-white font-bold text-xs shadow-md flex items-center justify-center gap-2 transition" style="text-decoration:none;">
+              <svg class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+              </svg>
+              <span>Googleで「${term}」を検索</span>
+            </a>
+            <button onclick="saveListeningToMyList('${term}', '単語・語彙')" class="w-full py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs shadow-sm flex items-center justify-center gap-1.5 transition">
+              🔖 「${term}」をマイリストに保存
+            </button>
+          </div>
+        `;
+      }
+      modal.classList.add('show');
+    }
+
+    function closeDictModal() {
+      const modal = document.getElementById('dict-modal');
+      if (modal) modal.classList.remove('show');
+    }
+
+    function syncListeningTermToUnifiedMylist(term, folder) {
+      if (!term) return;
+      const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      if (!unifiedList.some(item => item.term === term)) {
+        unifiedList.push({
+          id: 'lis_item_' + Date.now(),
+          term: term,
+          folder: folder || '単語・語彙',
+          level: 'N4',
+          addedAt: new Date().toISOString()
+        });
+        localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+      }
+      if (window.UserProgress) {
+        const entry = Array.isArray(window.DICT_DATA) ? window.DICT_DATA.find(d => d.w === term || d.r === term || (d.w && d.w.includes(term))) : null;
+        window.UserProgress.addSavedVocab({
+          id: 'jlpt_saved_' + encodeURIComponent(term),
+          word: term,
+          reading: entry ? (entry.r || '') : '',
+          meaning: entry && Array.isArray(entry.m) ? entry.m.join(', ') : '',
+          level: 'N4聴解',
+          source: 'jlpt'
+        });
+      }
+    }
+
+    function saveListeningToMyList(term, folder) {
+      syncListeningTermToUnifiedMylist(term, folder);
+      showListeningToast(`「${term}」をマイリストに保存しました！⭐`);
+      closeDictModal();
+    }
+
+    function handleToolbarSave() {
+      document.getElementById('selection-toolbar').style.display = 'none';
+      syncListeningTermToUnifiedMylist(selectedListeningText, '単語・語彙');
+      showListeningToast(`「${selectedListeningText}」をマイリストに保存しました！⭐`);
+    }
+
+    function showListeningToast(msg) {
+      let toast = document.getElementById('listening-toast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'listening-toast';
+        toast.className = 'fixed bottom-6 right-6 bg-[#1F2D3D] text-white px-4 py-2.5 rounded-2xl shadow-xl z-50 text-xs font-bold transition duration-300 transform translate-y-10 opacity-0';
+        document.body.appendChild(toast);
+      }
+      toast.textContent = msg;
+      toast.classList.remove('translate-y-10', 'opacity-0');
+      setTimeout(() => {
+        toast.classList.add('translate-y-10', 'opacity-0');
+      }, 2500);
+    }
+  </script>
+</body>
+</html>

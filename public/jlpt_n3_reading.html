@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N3 読解実戦道場 — 全11パッセージ・全21問 完全網羅実戦模試</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="auth.js?v=20261021_0110"></script>
+  <script src="user_progress.js?v=20261021_0110"></script>
+  <script src="database/dictionary_data.js" defer></script>
+  <script src="database/jlpt_n3_reading_data.js"></script>
+  <style>
+    :root {
+      --primary-blue: #1995AD;
+      --primary-blue-dark: #127285;
+      --primary-blue-light: #43B0C4;
+      --primary-blue-pale: #EDF7F9;
+      
+      --point-navy: #4D648D;
+      --point-ice: #D0E1F9;
+
+      --sakura-pink-bg: #FAF1F3;
+      --sakura-pink-soft: #FDF7F8;
+      --sakura-pink-accent: #E8A4B2;
+      --sakura-pink-deep: #B8596E;
+      --sakura-pink-border: #F2D5DB;
+
+      --text-primary: #1F2D3D;
+      --text-secondary: #4D648D;
+      --text-muted: #7E92A2;
+      
+      --card-bg: #FFFFFF;
+      --card-border: #E2ECF2;
+      --card-shadow: 0 10px 30px rgba(25, 149, 173, 0.08);
+
+      --correct-bg: #E8F5E9;
+      --correct-border: #81C784;
+      --correct-text: #2E7D32;
+
+      --wrong-bg: #FEE2E2;
+      --wrong-border: #FCA5A5;
+      --wrong-text: #991B1B;
+
+      --app-font: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      background-color: var(--sakura-pink-bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      font-family: var(--app-font);
+      line-height: 1.75;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    ruby { ruby-position: over; }
+    ruby rt {
+      font-size: 0.54em;
+      color: var(--primary-blue-dark);
+      font-weight: 600;
+      user-select: none;
+      letter-spacing: 0;
+      line-height: 1;
+      transform: translateY(-2px);
+    }
+    body.furigana-off ruby rt,
+    body.hide-furigana ruby rt {
+      display: none !important;
+    }
+
+    /* Site Header */
+    .site-header {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+      color: #FFFFFF;
+      padding: 16px 20px 14px;
+      box-shadow: 0 4px 20px rgba(50, 100, 117, 0.2);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .header-btn {
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      color: #FFFFFF;
+      padding: 6px 13px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .header-btn:hover {
+      background: rgba(255, 255, 255, 0.3);
+      transform: translateY(-1px);
+    }
+
+    /* Furigana Toggle Pill */
+    .toggle-pill {
+      background: rgba(255, 255, 255, 0.22);
+      border: 1px solid rgba(255, 255, 255, 0.45);
+      border-radius: 20px;
+      padding: 3px 4px;
+      display: flex;
+      align-items: center;
+      gap: 3px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggle-opt {
+      padding: 3px 10px;
+      border-radius: 14px;
+      font-size: 11px;
+      font-weight: 800;
+      transition: all 0.2s;
+      color: rgba(255, 255, 255, 0.85);
+    }
+    .toggle-opt.active {
+      background: #FFFFFF;
+      color: var(--primary-blue-dark);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Cards */
+    .passage-card, .question-card {
+      background: var(--card-bg);
+      border: 1.5px solid var(--card-border);
+      border-radius: 22px;
+      box-shadow: var(--card-shadow);
+      padding: 24px;
+      transition: all 0.2s ease;
+    }
+
+    /* Choice Buttons: 白背景 × ライトブルー枠 #B8D1F5 (確定仕様) */
+    .choice-card {
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      border-radius: 14px;
+      padding: 13px 16px;
+      font-size: 14.5px;
+      font-weight: 600;
+      color: #1F2D3D;
+      cursor: pointer;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      transition: all 0.2s cubic-bezier(0.25, 0.8, 0.25, 1);
+      box-shadow: 0 2px 6px rgba(77, 100, 141, 0.04);
+      user-select: none;
+      line-height: 1.6;
+    }
+    .choice-card:hover:not(.locked) {
+      border-color: #7AA2DE;
+      background: #EEF4FC;
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(77, 100, 141, 0.12);
+    }
+    .choice-card.locked { cursor: default; }
+
+    .choice-badge-num {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      background: #FFFFFF;
+      border: 1.5px solid #B8D1F5;
+      color: #4D648D;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12.5px;
+      font-weight: 800;
+      flex-shrink: 0;
+      margin-top: 1px;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(77, 100, 141, 0.08);
+    }
+
+    .choice-card.correct {
+      background: var(--correct-bg) !important;
+      border-color: var(--correct-border) !important;
+      color: var(--correct-text) !important;
+    }
+    .choice-card.correct .choice-badge-num {
+      background: var(--correct-border) !important;
+      color: #FFFFFF !important;
+      border-color: var(--correct-border) !important;
+    }
+    .choice-card.wrong {
+      background: var(--wrong-bg) !important;
+      border-color: var(--wrong-border) !important;
+      color: var(--wrong-text) !important;
+    }
+    .choice-card.wrong .choice-badge-num {
+      background: var(--wrong-border) !important;
+      color: #FFFFFF !important;
+      border-color: var(--wrong-border) !important;
+    }
+
+    /* Evidence Target Highlight */
+    .evidence-target {
+      transition: all 0.3s ease;
+      border-radius: 4px;
+      padding: 1px 4px;
+    }
+    .evidence-target.highlight-active {
+      background-color: #FEF08A !important;
+      color: #713F12 !important;
+      box-shadow: 0 0 0 2px #FACC15, 0 2px 8px rgba(250, 204, 21, 0.3);
+      font-weight: 700;
+      border-radius: 4px;
+    }
+
+    /* Explanation Box */
+    .explanation-box {
+      margin-top: 20px;
+      padding: 20px 22px;
+      border-radius: 18px;
+      background: var(--sakura-pink-soft);
+      border: 1px solid var(--sakura-pink-border);
+      display: none;
+      animation: fadeIn 0.3s ease;
+    }
+    .explanation-box.show { display: block; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Text Selection Toolbar */
+    #selection-toolbar {
+      position: absolute;
+      z-index: 1000;
+      background: #1F2D3D;
+      color: #FFFFFF;
+      border-radius: 12px;
+      padding: 6px 10px;
+      font-size: 12px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+      display: none;
+      align-items: center;
+      gap: 8px;
+      animation: popIn 0.15s ease-out;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: scale(0.9) translateY(4px); }
+      to { opacity: 1; transform: scale(1) translateY(0); }
+    }
+
+    /* Modal Backdrop */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(31, 45, 61, 0.55);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .modal-backdrop.show { display: flex; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- 1. Site Header -->
+  <header class="site-header">
+    <div class="max-w-7xl mx-auto flex justify-between items-center flex-wrap gap-3">
+      <div class="flex items-center gap-3">
+        <a href="jlpt_practice.html?level=n3" class="header-btn" style="text-decoration:none;">
+          <i data-lucide="arrow-left" class="w-4 h-4"></i>
+          <span>JLPT対策に戻る</span>
+        </a>
+        <div>
+          <div class="text-lg sm:text-xl font-bold tracking-tight flex items-center gap-2">
+            <span>JLPT N3 読解実戦道場</span>
+            <span class="text-xs bg-white text-[#127285] font-extrabold px-2.5 py-0.5 rounded-full">実戦模試 第1回</span>
+          </div>
+          <div class="text-xs text-white/80">全11文章・全21問 総合実戦模試（短文・中文・長文・情報検索）</div>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-3">
+        <!-- Furigana Switch -->
+        <div class="toggle-pill" onclick="toggleFurigana()" title="ふりがな表示切替">
+          <div id="furi-on" class="toggle-opt active">ふりがな ON</div>
+          <div id="furi-off" class="toggle-opt">OFF</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- 2. Controls & Question Selector Bar -->
+  <div class="max-w-7xl mx-auto px-4 py-3 w-full">
+    <div class="bg-white rounded-2xl p-3 sm:p-4 border border-[#E2ECF2] shadow-xs flex items-center justify-between flex-wrap gap-3">
+      <!-- Section Pills -->
+      <div class="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1" id="section-pills">
+        <!-- Populated via JS -->
+      </div>
+
+      <!-- Quick Nav Buttons -->
+      <div class="flex items-center gap-2 text-xs font-bold text-slate-500">
+        <span id="progress-indicator">問 1 / 21</span>
+        <button onclick="prevPassage()" class="px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 hover:bg-slate-100 transition flex items-center gap-1">
+          <i data-lucide="chevron-left" class="w-4 h-4"></i>
+          <span>前の文章</span>
+        </button>
+        <button onclick="nextPassage()" class="px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 hover:bg-slate-100 transition flex items-center gap-1">
+          <span>次の文章</span>
+          <i data-lucide="chevron-right" class="w-4 h-4"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Main Workspace (2-Column Responsive Layout) -->
+  <main class="max-w-7xl mx-auto px-4 py-3 flex-1 w-full grid grid-cols-1 lg:grid-cols-12 gap-6">
+
+    <!-- LEFT COLUMN: Reading Passage (7 cols) -->
+    <section class="lg:col-span-7 flex flex-col space-y-4">
+      <div class="passage-card flex-1 flex flex-col justify-between">
+        <div>
+          <!-- Passage Header -->
+          <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-4 flex-wrap gap-2">
+            <div class="flex items-center gap-2">
+              <span id="passage-section-badge" class="px-2.5 py-0.5 rounded-full bg-[#EDF7F9] text-[#127285] text-xs font-extrabold border border-[#1995AD]/20">
+                問題10 短文読解
+              </span>
+              <span id="passage-genre-badge" class="px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 text-xs font-semibold">
+                ビジネス通知
+              </span>
+            </div>
+            <div class="text-xs text-slate-400 font-medium flex items-center gap-1">
+              <i data-lucide="clock" class="w-3.5 h-3.5"></i>
+              <span id="passage-time-est">目安：2〜3分</span>
+            </div>
+          </div>
+
+          <h2 id="passage-title" class="text-base sm:text-lg font-extrabold text-[#1F2D3D] mb-4">
+            文章タイトル
+          </h2>
+
+          <!-- Article Text -->
+          <article id="passage-content" class="text-[15px] sm:text-[16px] leading-[2.1] text-slate-800 text-justify select-text">
+            <!-- Populated via JS -->
+          </article>
+        </div>
+
+        <!-- Vocabulary Notes Area -->
+        <div class="mt-6 pt-4 border-t border-slate-100 bg-[#FDF7F8] p-3.5 rounded-xl border border-[#F2D5DB]">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-extrabold text-[#B8596E] flex items-center gap-1.5">
+              <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+              <span>本文の重要N3語彙・表現ミニ辞典</span>
+            </span>
+            <span class="text-[10px] text-slate-400">文字選択で辞書検索可能</span>
+          </div>
+          <div id="passage-vocab-list" class="flex flex-wrap gap-1.5 text-xs">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT COLUMN: Interactive Questions (5 cols) -->
+    <section class="lg:col-span-5 flex flex-col space-y-4" id="questions-container">
+      <!-- Populated via JS -->
+    </section>
+
+  </main>
+
+  <!-- 4. Text Selection Toolbar -->
+  <div id="selection-toolbar">
+    <span id="selection-word" class="font-bold text-[#43B0C4] max-w-[120px] truncate"></span>
+    <span class="text-slate-500">|</span>
+    <button onclick="handleToolbarDict()" class="hover:text-[#43B0C4] flex items-center gap-1 font-bold">
+      <i data-lucide="search" class="w-3 h-3"></i> 辞書
+    </button>
+    <button onclick="handleToolbarSave()" class="hover:text-[#E8A4B2] flex items-center gap-1 font-bold">
+      <i data-lucide="bookmark" class="w-3 h-3"></i> 保存
+    </button>
+  </div>
+
+  <!-- 5. Dictionary Modal -->
+  <div id="dict-modal" class="modal-backdrop" onclick="if(event.target===this) closeDictModal()">
+    <div class="bg-white rounded-3xl p-6 max-w-md w-full shadow-2xl border border-slate-200">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-4">
+        <span class="text-xs font-extrabold text-[#1995AD] uppercase tracking-wider flex items-center gap-1">
+          <i data-lucide="book-marked" class="w-4 h-4"></i> 内蔵辞書
+        </span>
+        <button onclick="closeDictModal()" class="text-slate-400 hover:text-slate-600 text-lg">✕</button>
+      </div>
+      <div id="dict-modal-content">
+        <!-- Content -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Footer -->
+  <footer class="bg-white border-t border-slate-200 py-4 mt-8">
+    <div class="max-w-7xl mx-auto px-4 text-center text-xs text-slate-500">
+      JLPT N3 読解実戦道場 — 完全オリジナル問題（著作権侵害ゼロ・政治中立・高精度解説）
+    </div>
+  </footer>
+
+  <script>
+    let currentPassageIdx = 0;
+    const answeredMap = {}; // qNum -> choiceIdx
+    const bookmarkSet = new Set(JSON.parse(localStorage.getItem('haku_n3_reading_bookmarks') || '[]'));
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initSectionPills();
+      loadPassage(0);
+      initTextSelection();
+      lucide.createIcons();
+    });
+
+    function toggleFurigana() {
+      document.body.classList.toggle('furigana-off');
+      const isOff = document.body.classList.contains('furigana-off');
+      document.getElementById('furi-on').classList.toggle('active', !isOff);
+      document.getElementById('furi-off').classList.toggle('active', isOff);
+    }
+
+    function initSectionPills() {
+      const container = document.getElementById('section-pills');
+      container.innerHTML = '';
+      const data = window.JLPT_N3_READING_DATA;
+      if (!data) return;
+
+      data.passages.forEach((p, idx) => {
+        const btn = document.createElement('button');
+        btn.id = `pill-passage-${idx}`;
+        btn.className = `px-3 py-1 rounded-xl text-xs font-extrabold transition shrink-0 ${idx === 0 ? 'bg-[#1995AD] text-white shadow-xs' : 'bg-slate-100 text-slate-600 hover:bg-slate-200'}`;
+        const qNums = p.questions.map(q => q.q_num);
+        const label = qNums.length === 1 ? `第${qNums[0]}問` : `第${qNums[0]}〜${qNums[qNums.length - 1]}問`;
+        btn.textContent = label;
+        btn.onclick = () => loadPassage(idx);
+        container.appendChild(btn);
+      });
+    }
+
+    function loadPassage(idx) {
+      const data = window.JLPT_N3_READING_DATA;
+      if (!data || !data.passages[idx]) return;
+
+      currentPassageIdx = idx;
+      const p = data.passages[idx];
+
+      // Update pills
+      data.passages.forEach((_, i) => {
+        const pill = document.getElementById(`pill-passage-${i}`);
+        if (pill) {
+          if (i === idx) {
+            pill.className = 'px-3 py-1 rounded-xl text-xs font-extrabold bg-[#1995AD] text-white shadow-xs shrink-0';
+          } else {
+            pill.className = 'px-3 py-1 rounded-xl text-xs font-extrabold bg-slate-100 text-slate-600 hover:bg-slate-200 shrink-0';
+          }
+        }
+      });
+
+      // Update Left Column
+      document.getElementById('passage-section-badge').textContent = p.section_name;
+      document.getElementById('passage-genre-badge').textContent = p.genre;
+      document.getElementById('passage-time-est').textContent = `目安：${p.time_est}`;
+      document.getElementById('passage-title').innerHTML = p.title_ruby || p.title;
+      document.getElementById('passage-content').innerHTML = p.text_html;
+
+      // Vocab List
+      const vocabContainer = document.getElementById('passage-vocab-list');
+      vocabContainer.innerHTML = '';
+      if (p.vocab_notes && p.vocab_notes.length > 0) {
+        p.vocab_notes.forEach(v => {
+          const item = document.createElement('span');
+          item.className = 'px-2 py-0.5 bg-white border border-[#F2D5DB] rounded-md text-slate-700 font-medium cursor-help';
+          item.title = v.meaning;
+          item.textContent = `${v.word}：${v.meaning}`;
+          vocabContainer.appendChild(item);
+        });
+      }
+
+      // Update Right Column (Questions)
+      const qContainer = document.getElementById('questions-container');
+      qContainer.innerHTML = '';
+
+      p.questions.forEach((q) => {
+        const qCard = document.createElement('div');
+        qCard.className = 'question-card';
+        qCard.id = `qcard-${q.q_num}`;
+
+        const isBookmarked = bookmarkSet.has(q.q_num);
+
+        qCard.innerHTML = `
+          <div class="flex items-center justify-between pb-3 border-b border-slate-100 mb-3.5">
+            <span class="px-2.5 py-0.5 rounded-full bg-[#FAF1F3] text-[#B8596E] font-black text-xs border border-[#F2D5DB]">
+              問 ${q.q_num}
+            </span>
+            <div class="flex items-center gap-2">
+              <button onclick="toggleQuestionBookmark(${q.q_num})" id="bm-${q.q_num}" class="text-slate-300 hover:text-amber-400 p-1 text-base transition ${isBookmarked ? 'text-amber-400 fill-amber-400' : ''}" title="問題をマイリストに保存">
+                ★
+              </button>
+            </div>
+          </div>
+
+          <h3 class="text-[15px] font-bold text-slate-900 leading-snug mb-4">
+            ${q.question_html}
+          </h3>
+
+          <!-- Choices Grid -->
+          <div class="space-y-2.5" id="choices-grid-${q.q_num}">
+            ${q.choices.map((c, cIdx) => `
+              <div onclick="selectReadingChoice(${q.q_num}, ${cIdx})" id="q${q.q_num}-card-${cIdx}" class="choice-card">
+                <div class="choice-badge-num">${cIdx + 1}</div>
+                <div class="flex-1">${c}</div>
+              </div>
+            `).join('')}
+          </div>
+
+          <!-- Explanation Container (Sakura Pink) -->
+          <div id="q${q.q_num}-feedback" class="explanation-box">
+            <div class="flex items-center justify-between mb-3 pb-2 border-b border-[#F2D5DB] flex-wrap gap-2">
+              <span id="q${q.q_num}-status-pill" class="text-xs font-extrabold px-3 py-1 rounded-full"></span>
+              <span class="text-xs font-bold text-[#127285] bg-[#EDF7F9] px-2.5 py-1 rounded-lg border border-[#1995AD]/20">正解：${q.answer + 1}番</span>
+            </div>
+
+            <!-- Language Tabs -->
+            <div class="flex items-center gap-1 mb-2.5 border-b border-[#F2D5DB] pb-1.5 text-xs font-bold">
+              <button onclick="switchLangTab(${q.q_num}, 'ja')" id="lang-btn-${q.q_num}-ja" class="px-2.5 py-0.5 rounded-md bg-[#1995AD] text-white">日本語</button>
+              <button onclick="switchLangTab(${q.q_num}, 'en')" id="lang-btn-${q.q_num}-en" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">English</button>
+              <button onclick="switchLangTab(${q.q_num}, 'zh')" id="lang-btn-${q.q_num}-zh" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">繁體中文</button>
+              <button onclick="switchLangTab(${q.q_num}, 'ko')" id="lang-btn-${q.q_num}-ko" class="px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100">한국語</button>
+            </div>
+
+            <div id="q${q.q_num}-explanation-text" class="text-xs leading-relaxed text-slate-700 font-medium">
+              ${q.explanation.ja}
+            </div>
+          </div>
+        `;
+
+        qContainer.appendChild(qCard);
+
+        // If previously answered, re-render state and ensure evidence highlight is active
+        if (answeredMap[q.q_num] !== undefined) {
+          applyChoiceResult(q.q_num, answeredMap[q.q_num], q.answer);
+          if (q.evidence_id) {
+            highlightEvidence(q.evidence_id);
+          }
+        }
+      });
+
+      // Update progress indicator
+      const firstQ = p.questions[0].q_num;
+      const lastQ = p.questions[p.questions.length - 1].q_num;
+      const totalQ = data.total_questions || 21;
+      document.getElementById('progress-indicator').textContent = firstQ === lastQ ? `問 ${firstQ} / ${totalQ}` : `問 ${firstQ}〜${lastQ} / ${totalQ}`;
+
+      lucide.createIcons();
+    }
+
+    function highlightEvidence(evId) {
+      if (!evId) return;
+      const target = document.getElementById(evId);
+      if (!target) return;
+      target.classList.add('highlight-active');
+    }
+
+    function selectReadingChoice(qNum, selectedIdx) {
+      if (answeredMap[qNum] !== undefined) return;
+      answeredMap[qNum] = selectedIdx;
+
+      const data = window.JLPT_N3_READING_DATA;
+      let targetQ = null;
+      for (const p of data.passages) {
+        for (const q of p.questions) {
+          if (q.q_num === qNum) { targetQ = q; break; }
+        }
+      }
+      if (!targetQ) return;
+
+      applyChoiceResult(qNum, selectedIdx, targetQ.answer);
+
+      // 選択肢を選択した瞬間に、該当する本文の根拠箇所を自動的に黄色ハイライト
+      if (targetQ.evidence_id) {
+        highlightEvidence(targetQ.evidence_id);
+        const target = document.getElementById(targetQ.evidence_id);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+      }
+    }
+
+    function applyChoiceResult(qNum, selectedIdx, correctIdx) {
+      const isCorrect = (selectedIdx === correctIdx);
+      const selectedCard = document.getElementById(`q${qNum}-card-${selectedIdx}`);
+      const correctCard = document.getElementById(`q${qNum}-card-${correctIdx}`);
+      const feedback = document.getElementById(`q${qNum}-feedback`);
+      const statusPill = document.getElementById(`q${qNum}-status-pill`);
+
+      // Lock choices
+      for (let i = 0; i < 4; i++) {
+        const c = document.getElementById(`q${qNum}-card-${i}`);
+        if (c) c.classList.add('locked');
+      }
+
+      if (isCorrect) {
+        if (selectedCard) selectedCard.classList.add('correct');
+        statusPill.className = 'text-xs font-extrabold px-3 py-1 rounded-full bg-[#E8F5E9] text-[#2E7D32] border border-[#81C784]';
+        statusPill.textContent = '正解！';
+      } else {
+        if (selectedCard) selectedCard.classList.add('wrong');
+        if (correctCard) correctCard.classList.add('correct');
+        statusPill.className = 'text-xs font-extrabold px-3 py-1 rounded-full bg-[#FEE2E2] text-[#991B1B] border border-[#FCA5A5]';
+        statusPill.textContent = '不正解';
+      }
+
+      if (feedback) feedback.classList.add('show');
+    }
+
+    function switchLangTab(qNum, lang) {
+      const data = window.JLPT_N3_READING_DATA;
+      let targetQ = null;
+      for (const p of data.passages) {
+        for (const q of p.questions) {
+          if (q.q_num === qNum) { targetQ = q; break; }
+        }
+      }
+      if (!targetQ) return;
+
+      ['ja', 'en', 'zh', 'ko'].forEach(l => {
+        const btn = document.getElementById(`lang-btn-${qNum}-${l}`);
+        if (btn) {
+          btn.className = (l === lang) ? 'px-2.5 py-0.5 rounded-md bg-[#1995AD] text-white' : 'px-2.5 py-0.5 rounded-md text-slate-500 hover:bg-slate-100';
+        }
+      });
+
+      const textEl = document.getElementById(`q${qNum}-explanation-text`);
+      if (textEl) {
+        textEl.innerHTML = targetQ.explanation[lang] || targetQ.explanation.ja;
+      }
+    }
+
+    function toggleQuestionBookmark(qNum) {
+      const btn = document.getElementById(`bm-${qNum}`);
+      if (bookmarkSet.has(qNum)) {
+        bookmarkSet.delete(qNum);
+        if (btn) btn.classList.remove('text-amber-400', 'fill-amber-400');
+        showToast(`問${qNum} のブックマークを解除しました`);
+      } else {
+        bookmarkSet.add(qNum);
+        if (btn) btn.classList.add('text-amber-400', 'fill-amber-400');
+        showToast(`問${qNum} をマイリスト（JLPT問題）に保存しました！`);
+      }
+      localStorage.setItem('haku_n3_reading_bookmarks', JSON.stringify([...bookmarkSet]));
+    }
+
+    function prevPassage() {
+      if (currentPassageIdx > 0) loadPassage(currentPassageIdx - 1);
+    }
+    function nextPassage() {
+      const data = window.JLPT_N3_READING_DATA;
+      if (data && currentPassageIdx < data.passages.length - 1) loadPassage(currentPassageIdx + 1);
+    }
+
+    // Text Selection Toolbar Logic
+    let selectedTextGlobal = '';
+    function initTextSelection() {
+      document.addEventListener('mouseup', handleTextSelection);
+    }
+
+    function handleTextSelection(e) {
+      const sel = window.getSelection();
+      const text = sel ? sel.toString().trim() : '';
+      const toolbar = document.getElementById('selection-toolbar');
+
+      if (!text || text.length === 0 || text.length > 30) {
+        if (!e.target.closest('#selection-toolbar')) {
+          toolbar.style.display = 'none';
+        }
+        return;
+      }
+
+      selectedTextGlobal = text;
+      document.getElementById('selection-word').textContent = text;
+
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+
+      toolbar.style.top = `${window.scrollY + rect.top - 46}px`;
+      toolbar.style.left = `${Math.max(10, window.scrollX + rect.left + (rect.width / 2) - 80)}px`;
+      toolbar.style.display = 'flex';
+      lucide.createIcons();
+    }
+
+    function handleToolbarDict() {
+      document.getElementById('selection-toolbar').style.display = 'none';
+      openDictModal(selectedTextGlobal);
+    }
+
+    function handleToolbarSave() {
+      document.getElementById('selection-toolbar').style.display = 'none';
+      saveToMyList(selectedTextGlobal, '単語・語彙');
+    }
+
+    function openDictModal(term) {
+      const modal = document.getElementById('dict-modal');
+      const content = document.getElementById('dict-modal-content');
+
+      const dictData = window.DICT_DATA || window.DICTIONARY_DATA || [];
+      let entry = null;
+      if (dictData.length > 0) {
+        entry = dictData.find(d => (d.w || d.word) === term || (d.r || d.reading) === term);
+        if (!entry && term.length >= 2) {
+          entry = dictData.find(d => (d.w || d.word).startsWith(term));
+        }
+      }
+
+      if (entry) {
+        const word = entry.w || entry.word;
+        const reading = entry.r || entry.reading || '';
+        const meanings = Array.isArray(entry.m) ? entry.m.join(', ') : (entry.meaning || entry.m || '');
+        const level = entry.l || entry.level || '';
+
+        content.innerHTML = `
+          <div class="mb-4">
+            <div class="flex items-center gap-2">
+              <span class="text-2xl font-black text-[#1F2D3D]">${word}</span>
+              ${level ? `<span class="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-100 text-blue-700">${level}</span>` : ''}
+            </div>
+            ${reading && reading !== word ? `<div class="text-sm font-bold text-[#1995AD]">${reading}</div>` : ''}
+          </div>
+          <div class="bg-slate-50 p-3.5 rounded-xl border border-slate-200 mb-4 text-sm">
+            <div class="text-xs font-bold text-slate-400 mb-1">意味 / Definition</div>
+            <div class="font-medium text-slate-800">${meanings}</div>
+          </div>
+          <button onclick="saveToMyList('${word}', '単語・語彙')" class="w-full py-2.5 rounded-xl bg-[#1995AD] text-white font-bold text-xs shadow-md hover:bg-[#127285] transition mb-2">
+            🔖 マイリスト（単語・語彙）に保存
+          </button>
+          <a href="https://www.google.com/search?q=${encodeURIComponent(word + ' 意味')}" target="_blank" rel="noopener noreferrer" class="w-full py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-600 font-bold text-xs flex items-center justify-center gap-1.5 transition" style="text-decoration:none;">
+            <svg class="w-3.5 h-3.5 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+            </svg>
+            <span>Googleでさらに詳しく検索</span>
+          </a>
+        `;
+      } else {
+        content.innerHTML = `
+          <div class="mb-3">
+            <div class="text-xl font-bold text-slate-800">${term}</div>
+          </div>
+          <p class="text-xs text-slate-500 mb-4">内蔵辞書に完全一致する見出し語がありませんでしたが、Googleで検索するか、マイリストに保存して後で復習できます。</p>
+          <div class="space-y-2">
+            <a href="https://www.google.com/search?q=${encodeURIComponent(term + ' 意味')}" target="_blank" rel="noopener noreferrer" class="w-full py-2.5 px-4 rounded-xl bg-[#4285F4] hover:bg-[#3367D6] text-white font-bold text-xs shadow-md flex items-center justify-center gap-2 transition" style="text-decoration:none;">
+              <svg class="w-4 h-4 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.24 10.285V14.4h6.806c-.275 1.765-2.056 5.174-6.806 5.174-4.095 0-7.439-3.389-7.439-7.574s3.345-7.574 7.439-7.574c2.33 0 3.891.989 4.785 1.849l3.254-3.138C18.189 1.186 15.479 0 12.24 0c-6.635 0-12 5.365-12 12s5.365 12 12 12c6.926 0 11.52-4.869 11.52-11.726 0-.788-.085-1.39-.189-1.989H12.24z"/>
+              </svg>
+              <span>Googleで「${term}」を検索</span>
+            </a>
+            <button onclick="saveToMyList('${term}', '単語・語彙')" class="w-full py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs shadow-sm flex items-center justify-center gap-1.5 transition">
+              🔖 「${term}」をマイリストに保存
+            </button>
+          </div>
+        `;
+      }
+      modal.classList.add('show');
+    }
+
+    function closeDictModal() {
+      document.getElementById('dict-modal').classList.remove('show');
+    }
+
+    function saveToMyList(term, folder) {
+      const unifiedList = JSON.parse(localStorage.getItem('haku_unified_mylist') || '[]');
+      if (!unifiedList.some(item => item.term === term)) {
+        unifiedList.push({
+          id: 'item_' + Date.now(),
+          term: term,
+          folder: folder,
+          level: 'N3',
+          addedAt: new Date().toISOString()
+        });
+        localStorage.setItem('haku_unified_mylist', JSON.stringify(unifiedList));
+      }
+      if (window.UserProgress) {
+        const entry = Array.isArray(window.DICT_DATA) ? window.DICT_DATA.find(d => d.w === term || d.r === term || (d.w && d.w.includes(term))) : null;
+        window.UserProgress.addSavedVocab({
+          id: 'jlpt_saved_' + encodeURIComponent(term),
+          word: term,
+          reading: entry ? (entry.r || '') : '',
+          meaning: entry && Array.isArray(entry.m) ? entry.m.join(', ') : '',
+          level: 'N3読解',
+          source: 'jlpt'
+        });
+      }
+      showToast(`「${term}」をマイリストに保存しました！⭐`);
+      closeDictModal();
+    }
+
+    function showToast(msg) {
+      let toast = document.getElementById('reading-toast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'reading-toast';
+        toast.className = 'fixed bottom-6 right-6 bg-[#1F2D3D] text-white px-4 py-2.5 rounded-2xl shadow-xl z-50 text-xs font-bold transition duration-300 transform translate-y-10 opacity-0';
+        document.body.appendChild(toast);
+      }
+      toast.textContent = msg;
+      toast.classList.remove('translate-y-10', 'opacity-0');
+      setTimeout(() => {
+        toast.classList.add('translate-y-10', 'opacity-0');
+      }, 2500);
+    }
+  </script>
+</body>
+</html>

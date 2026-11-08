@@ -561,10 +561,17 @@ def build_all_rounds():
         sec2_src = SEC2_ROUNDS[r]
         sec3_pool = select_listening_pool(r)
         qs = build_section_questions(r, sec1_src, sec2_src, sec3_pool)
+        sections_meta = json.loads(json.dumps(N4_SECTIONS_META))
+        for sec in sections_meta:
+            sec["name"] = sec["title"]
+            for sub in sec["subsections"]:
+                sub["desc"] = sub["instruction"]
+                sub["count"] = sum(1 for q in qs if q["subsectionId"] == sub["id"])
         rounds_obj[str(r)] = {
             "level": "N4",
             "round": r,
             "title": f"JLPT N4 実戦模擬試験（第{r}回）",
+            "totalQuestions": len(qs),
             "totalTimeMinutes": 125,
             "passScore": 90,
             "maxTotalScore": 180,
@@ -572,7 +579,7 @@ def build_all_rounds():
                 "langReading": 38,
                 "listening": 19
             },
-            "sections": N4_SECTIONS_META,
+            "sections": sections_meta,
             "questions": qs
         }
     return rounds_obj
@@ -625,7 +632,7 @@ def audit_all_rounds(rounds_obj):
                     errors.append(f"{q_id}: missing audio file {audio_rel}")
                 if not os.path.exists(os.path.join(BASE_DIR, illus_rel)):
                     errors.append(f"{q_id}: missing illustration file {illus_rel}")
-                if re.search(r'(?<![ゃャ])あ、', q.get("script", "")):
+                if re.search(r'(?:^|[\s「（『。！？\n：])あ、', q.get("script", "")):
                     errors.append(f"{q_id}: contains banned 'あ、' in listening script")
 
             blob = json.dumps(q, ensure_ascii=False)

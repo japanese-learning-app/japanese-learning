@@ -5497,7 +5497,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かいご",
     "ruby": "<ruby>介護<rt>かいご</rt></ruby>",
     "meaning": "nursing",
-    "ex_ja": "<ruby>来年<rt>らいねん</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まるね。",
+    "ex_ja": "<ruby>来年<rt>らいねん</rt></ruby>から<ruby>日本<rt>にほん</rt></ruby>では<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まるね。",
     "ex_en": "The new national elder-care insurance system starts next year, right?"
   },
   {
@@ -7529,7 +7529,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かんしゅう",
     "ruby": "<ruby>慣習<rt>かんしゅう</rt></ruby>",
     "meaning": "usual (historical) custom",
-    "ex_ja": "これは<ruby>日本<rt>にっぽん</rt></ruby><ruby>独特<rt>どくとく</rt></ruby>の<ruby>慣習<rt>かんしゅう</rt></ruby>だ。",
+    "ex_ja": "これは<ruby>日本<rt>にほん</rt></ruby><ruby>独特<rt>どくとく</rt></ruby>の<ruby>慣習<rt>かんしゅう</rt></ruby>だ。",
     "ex_en": "This is a custom peculiar to Japan."
   },
   {
@@ -10537,7 +10537,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "きんろう",
     "ruby": "<ruby>勤労<rt>きんろう</rt></ruby>",
     "meaning": "labor; exertion; diligent service",
-    "ex_ja": "<ruby>勤労<rt>きんろう</rt></ruby>によって<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>になった。",
+    "ex_ja": "<ruby>勤労<rt>きんろう</rt></ruby>によって<ruby>日本<rt>にほん</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>になった。",
     "ex_en": "Hard work has made Japan what it is today."
   },
   {
@@ -10745,7 +10745,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ぎょうせき",
     "ruby": "<ruby>業績<rt>ぎょうせき</rt></ruby>",
     "meaning": "achievement; performance; results; work; contribution",
-    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby><ruby>業績<rt>ぎょうせき</rt></ruby>は<ruby>改善<rt>かいぜん</rt></ruby>した。",
+    "ex_ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby><ruby>業績<rt>ぎょうせき</rt></ruby>は<ruby>改善<rt>かいぜん</rt></ruby>した。",
     "ex_en": "Corporate results in Japan have improved."
   },
   {
@@ -19929,8 +19929,8 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "じしゅ",
     "ruby": "<ruby>自主<rt>じしゅ</rt></ruby>",
     "meaning": "independence; autonomy",
-    "ex_ja": "<ruby>靖国神社<rt>やすくにじんじゃ</rt></ruby><ruby>参拝<rt>さんぱい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>しては<ruby>閣僚<rt>かくりょう</rt></ruby>の<ruby>自主<rt>じしゅ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せられている。",
-    "ex_en": "The question of worshipping at the Yasukuni Shrine is left to the independent judgement of Cabinet ministers."
+    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>宿題<rt>しゅくだい</rt></ruby>の<ruby>進<rt>すす</rt></ruby>め<ruby>方<rt>かた</rt></ruby>は、<ruby>生徒<rt>せいと</rt></ruby><ruby>一人一人<rt>ひとりひとり</rt></ruby>の<ruby>自主<rt>じしゅ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>計画<rt>けいかく</rt></ruby>に<ruby>任<rt>まか</rt></ruby>されている。",
+    "ex_en": "How to proceed with the summer vacation homework is left to each student's independent planning."
   },
   {
     "id": "n1_v_1244_1",
@@ -23177,7 +23177,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "そうかん",
     "ruby": "<ruby>創刊<rt>そうかん</rt></ruby>",
     "meaning": "launching (e.g. newspaper); first issue",
-    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby><ruby>創刊<rt>そうかん</rt></ruby>を<ruby>果<rt>は</rt></ruby>たしたイギリス<ruby>発<rt>はつ</rt></ruby>のホームレスの<ruby>人<rt>ひと</rt></ruby>だけが<ruby>販売<rt>はんばい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>となれるストリートペーパー「ビッグイシュー」について<ruby>紹介<rt>しょうかい</rt></ruby>しよう。",
+    "ex_ja": "<ruby>日本<rt>にほん</rt></ruby><ruby>創刊<rt>そうかん</rt></ruby>を<ruby>果<rt>は</rt></ruby>たしたイギリス<ruby>発<rt>はつ</rt></ruby>のホームレスの<ruby>人<rt>ひと</rt></ruby>だけが<ruby>販売<rt>はんばい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>となれるストリートペーパー「ビッグイシュー」について<ruby>紹介<rt>しょうかい</rt></ruby>しよう。",
     "ex_en": "I shall be introducing the street paper that is only sold by the homeless, \"The Big Issue\", started in England and has had its first Japanese issue."
   },
   {
@@ -28937,7 +28937,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "とくゆう",
     "ruby": "<ruby>特有<rt>とくゆう</rt></ruby>",
     "meaning": "characteristic (of); peculiar (to)",
-    "ex_ja": "これは<ruby>日本<rt>にっぽん</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>だ。",
+    "ex_ja": "これは<ruby>日本<rt>にほん</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>だ。",
     "ex_en": "This is a custom peculiar to Japan."
   },
   {
@@ -34297,7 +34297,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ひりつ",
     "ruby": "<ruby>比率<rt>ひりつ</rt></ruby>",
     "meaning": "ratio; proportion; percentage",
-    "ex_ja": "<ruby>先進<rt>せんしん</rt></ruby><ruby>国<rt>こく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>日本<rt>にっぽん</rt></ruby>だけがイタリアよりも<ruby>高齢<rt>こうれい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby><ruby>比率<rt>ひりつ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。",
+    "ex_ja": "<ruby>先進<rt>せんしん</rt></ruby><ruby>国<rt>こく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>日本<rt>にほん</rt></ruby>だけがイタリアよりも<ruby>高齢<rt>こうれい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby><ruby>比率<rt>ひりつ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。",
     "ex_en": "Only Japan has an older demographic than Italy among advanced countries."
   },
   {
@@ -34697,7 +34697,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ふきつ",
     "ruby": "<ruby>不吉<rt>ふきつ</rt></ruby>",
     "meaning": "ominous; sinister; bad luck; ill omen; inauspiciousness",
-    "ex_ja": "４は<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>不吉<rt>ふきつ</rt></ruby>な<ruby>数字<rt>すうじ</rt></ruby>だ。",
+    "ex_ja": "４は<ruby>日本<rt>にほん</rt></ruby>では<ruby>不吉<rt>ふきつ</rt></ruby>な<ruby>数字<rt>すうじ</rt></ruby>だ。",
     "ex_en": "Four is an unlucky number in Japan."
   },
   {
@@ -37897,7 +37897,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "まとめ",
     "ruby": "<ruby>纏<rt>まと</rt></ruby>め",
     "meaning": "settlement; conclusion",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>民話<rt>みんわ</rt></ruby>を<ruby>教科書<rt>きょうかしょ</rt></ruby><ruby>用<rt>よう</rt></ruby>に<ruby>纏<rt>まと</rt></ruby>めた。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>民話<rt>みんわ</rt></ruby>を<ruby>教科書<rt>きょうかしょ</rt></ruby><ruby>用<rt>よう</rt></ruby>に<ruby>纏<rt>まと</rt></ruby>めた。",
     "ex_en": "He compiled a Japanese folklore anthology for use in schools."
   },
   {
@@ -38377,7 +38377,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "みつど",
     "ruby": "<ruby>密度<rt>みつど</rt></ruby>",
     "meaning": "density",
-    "ex_ja": "<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>人口<rt>じんこう</rt></ruby><ruby>密度<rt>みつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>国<rt>くに</rt></ruby>である。",
+    "ex_ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>人口<rt>じんこう</rt></ruby><ruby>密度<rt>みつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>国<rt>くに</rt></ruby>である。",
     "ex_en": "Japan has a high population density."
   },
   {
@@ -49241,7 +49241,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "になう",
     "ruby": "<ruby>担<rt>にな</rt></ruby>う",
     "meaning": "to carry on shoulder; to bear (burden); to shoulder (gun)",
-    "ex_ja": "<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>のインフラ<ruby>整備<rt>せいび</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>役割<rt>やくわり</rt></ruby>を<ruby>担<rt>にな</rt></ruby>うため、<ruby>官民<rt>かんみん</rt></ruby><ruby>一体<rt>いったい</rt></ruby>となった<ruby>努力<rt>どりょく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められている。",
+    "ex_ja": "<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>のインフラ<ruby>整備<rt>せいび</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>が<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>役割<rt>やくわり</rt></ruby>を<ruby>担<rt>にな</rt></ruby>うため、<ruby>官民<rt>かんみん</rt></ruby><ruby>一体<rt>いったい</rt></ruby>となった<ruby>努力<rt>どりょく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められている。",
     "ex_en": "In order for Japan to play a central role in the infrastructural improvement of Southeast Asia, tremendous effort between its government and people is required."
   },
   {

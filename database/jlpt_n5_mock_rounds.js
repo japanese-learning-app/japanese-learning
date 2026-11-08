@@ -4,6 +4,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 1,
     "title": "JLPT N5 実戦模擬試験（第1回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -24,30 +25,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -61,44 +71,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -112,30 +135,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -2466,6 +2498,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 2,
     "title": "JLPT N5 実戦模擬試験（第2回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -2486,30 +2519,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -2523,44 +2565,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -2574,30 +2629,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -4928,6 +4992,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 3,
     "title": "JLPT N5 実戦模擬試験（第3回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -4948,30 +5013,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -4985,44 +5059,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -5036,30 +5123,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -7390,6 +7486,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 4,
     "title": "JLPT N5 実戦模擬試験（第4回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -7410,30 +7507,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -7447,44 +7553,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -7498,30 +7617,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -9852,6 +9980,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 5,
     "title": "JLPT N5 実戦模擬試験（第5回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -9872,30 +10001,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -9909,44 +10047,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -9960,30 +10111,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -12314,6 +12474,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 6,
     "title": "JLPT N5 実戦模擬試験（第6回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -12334,30 +12495,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -12371,44 +12541,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -12422,30 +12605,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -14776,6 +14968,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 7,
     "title": "JLPT N5 実戦模擬試験（第7回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -14796,30 +14989,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -14833,44 +15035,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -14884,30 +15099,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -17238,6 +17462,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 8,
     "title": "JLPT N5 実戦模擬試験（第8回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -17258,30 +17483,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -17295,44 +17529,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -17346,30 +17593,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -19700,6 +19956,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 9,
     "title": "JLPT N5 実戦模擬試験（第9回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -19720,30 +19977,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -19757,44 +20023,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -19808,30 +20087,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [
@@ -22162,6 +22450,7 @@ window.JLPT_N5_MOCK_ROUNDS = {
     "level": "N5",
     "round": 10,
     "title": "JLPT N5 実戦模擬試験（第10回）",
+    "totalQuestions": 91,
     "totalTimeMinutes": 90,
     "passScore": 80,
     "maxTotalScore": 180,
@@ -22182,30 +22471,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "漢字読み",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 12
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 8
           },
           {
             "id": "s1_m3",
             "number": "問題3",
             "name": "文脈規定",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 10
           },
           {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
             "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           }
-        ]
+        ],
+        "name": "言語知識（文字・語彙）"
       },
       {
         "id": "sec2",
@@ -22219,44 +22517,57 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "文法形式の判断",
             "instruction": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4."
+            "instructionEn": "What goes into the parentheses ( )? Choose the best one from 1, 2, 3, or 4.",
+            "desc": "（　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 16
           },
           {
             "id": "s2_m2",
             "number": "問題2",
             "name": "文の組み立て",
             "instruction": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?"
+            "instructionEn": "Which word goes into the ★ slot when ordering the four choices to make a natural sentence?",
+            "desc": "★に　はいる　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m3",
             "number": "問題3",
             "name": "文章の文法",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61]."
+            "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s2_m4",
             "number": "問題4",
             "name": "内容理解（短文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the short passages and choose the best answer to the question."
+            "instructionEn": "Read the short passages and choose the best answer to the question.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 3
           },
           {
             "id": "s2_m5",
             "number": "問題5",
             "name": "内容理解（中文）",
             "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Read the medium-length passage and answer the questions below."
+            "instructionEn": "Read the medium-length passage and answer the questions below.",
+            "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 2
           },
           {
             "id": "s2_m6",
             "number": "問題6",
             "name": "情報検索",
             "instruction": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the notice and choose the best answer to the question."
+            "instructionEn": "Look at the notice and choose the best answer to the question.",
+            "desc": "みぎの　おしらせを　みて、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 1
           }
-        ]
+        ],
+        "name": "言語知識（文法）・読解"
       },
       {
         "id": "sec3",
@@ -22270,30 +22581,39 @@ window.JLPT_N5_MOCK_ROUNDS = {
             "number": "問題1",
             "name": "課題理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer from 1 to 4.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 7
           },
           {
             "id": "s3_m2",
             "number": "問題2",
             "name": "ポイント理解",
             "instruction": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer."
+            "instructionEn": "First listen to the question. Then listen to the conversation and choose the best answer.",
+            "desc": "はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から　４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           },
           {
             "id": "s3_m3",
             "number": "問題3",
             "name": "発話表現",
             "instruction": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3."
+            "instructionEn": "Look at the picture and listen. What does the person say? Choose the best one from 1 to 3.",
+            "desc": "えを　みながら　しつもんを　きいて　ください。やじるしの　ひとは　なんと　いいますか。１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 5
           },
           {
             "id": "s3_m4",
             "number": "問題4",
             "name": "即時応答",
             "instruction": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
-            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3."
+            "instructionEn": "Listen to the short statement and choose the best response from 1 to 3.",
+            "desc": "えなどが　ありません。ぶんを　きいて、１から　３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+            "count": 6
           }
-        ]
+        ],
+        "name": "聴解"
       }
     ],
     "questions": [

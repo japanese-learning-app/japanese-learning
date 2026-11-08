@@ -6985,9 +6985,9 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
     "formula": "動詞・形容詞・名詞 ＋ <strong>恐れがある</strong>",
     "notes_ja": "文脈に応じた適切な活用形（動詞・名詞・形容詞）に接続します。文末の表現との相性に注意しましょう。",
     "notes_en": "* Connects according to standard JLPT N2 syntactic rules for 恐れがある.",
-    "nuance_ja": "台風・感染症・景気悪化・事故など、<strong>『社会的・客観的に重大で望ましくない事態・危険が発生する可能性がある』</strong>とニュースや公式警告で注意を促す硬い表現です。",
+    "nuance_ja": "台風・感染症・景気悪化・事故など、<strong>『社会的・客観的に重大で望ましくない事態・危険が発生する可能性がある』</strong>とニュースや公共の警告で注意を促す硬い表現です。",
     "nuance_en": "Formal expression used in news and official announcements to warn that a serious, undesirable, or dangerous outcome may occur.",
-    "trap_ja": "英語の \"there is a risk/fear that\" から、個人的な心配（「遅刻する恐れがある」「怒られる恐れがある」）に乱用する誤用があります。「恐れがある」は社会・自然・公共の重大な危険や公式ニュースで好まれる硬い表現です。",
+    "trap_ja": "英語の \"there is a risk/fear that\" から、個人的な心配（「遅刻する恐れがある」「怒られる恐れがある」）に乱用する誤用があります。「恐れがある」は社会・自然・公共の重大な危険や報道・公的なお知らせで好まれる硬い表現です。",
     "trap_en": "恐れがある is suited for formal, societal, or severe risks (weather, economy, accidents), not minor personal worries.",
     "contrast": [
       {
@@ -8298,7 +8298,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with て以来)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for て以来",
-        "sentence": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。"
+        "sentence": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。"
       }
     ],
     "comparison": [
@@ -8309,7 +8309,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: since; henceforth~.",
-        "example": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。"
+        "example": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。"
       },
       {
         "form": "〜てからずっと",

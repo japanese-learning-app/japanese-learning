@@ -9629,7 +9629,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "語形成",
     "target_word": "初上陸",
     "question": "このカフェは、先月日本に（　　　）上陸した。",
-    "question_ruby": "このカフェは、<ruby>先月<rt>せんげつ</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に（　　　）<ruby>上陸<rt>じょうりく</rt></ruby>した。",
+    "question_ruby": "このカフェは、<ruby>先月<rt>せんげつ</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に（　　　）<ruby>上陸<rt>じょうりく</rt></ruby>した。",
     "choices": [
       "現",
       "初",
@@ -10461,7 +10461,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "語形成",
     "target_word": "日本流",
     "question": "彼の仕事の進め方は、いかにも日本（　　　）だ。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>の<ruby>進め方<rt>すすめかた</rt></ruby>は、いかにも<ruby>日本<rt>にっぽん</rt></ruby>（　　　）だ。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>の<ruby>進め方<rt>すすめかた</rt></ruby>は、いかにも<ruby>日本<rt>にほん</rt></ruby>（　　　）だ。",
     "choices": [
       "観",
       "流",
@@ -10929,7 +10929,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "語形成",
     "target_word": "消費量",
     "question": "奈良県は日本で最もコーヒーの消費（　　　）が多いところです。",
-    "question_ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>県<rt>けん</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もコーヒーの<ruby>消費<rt>しょうひ</rt></ruby>（　　　）が<ruby>多<rt>おお</rt></ruby>いところです。",
+    "question_ruby": "<ruby>奈良<rt>なら</rt></ruby><ruby>県<rt>けん</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もコーヒーの<ruby>消費<rt>しょうひ</rt></ruby>（　　　）が<ruby>多<rt>おお</rt></ruby>いところです。",
     "choices": [
       "集",
       "点",
@@ -12769,14 +12769,14 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to suffer; to groan"
       },
       {
-        "term": "戦争",
-        "reading": "せんそう",
-        "meaning": "war"
+        "term": "接戦",
+        "reading": "せっせん",
+        "meaning": "close game; close contest"
       },
       {
-        "term": "大戦",
-        "reading": "たいせん",
-        "meaning": "great war; great battle"
+        "term": "熱戦",
+        "reading": "ねっせん",
+        "meaning": "fierce match; heated game"
       }
     ],
     "target_word_reading": "くせん",
@@ -14412,7 +14412,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "占めている",
     "question": "日本の約7割を森林が（　　　）。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>約<rt>やく</rt></ruby>7<ruby>割<rt>わり</rt></ruby>を<ruby>森林<rt>しんりん</rt></ruby>が（　　　）。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>約<rt>やく</rt></ruby>7<ruby>割<rt>わり</rt></ruby>を<ruby>森林<rt>しんりん</rt></ruby>が（　　　）。",
     "choices": [
       "伸ばしている",
       "占めている",
@@ -23444,7 +23444,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "おなかが空いていたので、店長にご飯を繁盛してもらった。"
     ],
     "choices_ruby": [
-      "かつて<ruby>京都<rt>きょうと</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>首都<rt>しゅと</rt></ruby>として<ruby>繁盛<rt>はんじょう</rt></ruby>していた。",
+      "かつて<ruby>京都<rt>きょうと</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>首都<rt>しゅと</rt></ruby>として<ruby>繁盛<rt>はんじょう</rt></ruby>していた。",
       "ミントは<ruby>繁盛<rt>はんじょう</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いので、<ruby>放<rt>はな</rt></ruby>っておいても<ruby>成長<rt>せいちょう</rt></ruby>する<ruby>育<rt>そだ</rt></ruby>てやすい<ruby>植物<rt>しょくぶつ</rt></ruby>だそうだ。",
       "この<ruby>和菓子<rt>わがし</rt></ruby><ruby>屋<rt>や</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>まで<ruby>繁盛<rt>はんじょう</rt></ruby>している<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>店<rt>みせ</rt></ruby>だそうだ。",
       "おなかが<ruby>空<rt>あ</rt></ruby>いていたので、<ruby>店長<rt>てんちょう</rt></ruby>にご<ruby>飯<rt>はん</rt></ruby>を<ruby>繁盛<rt>はんじょう</rt></ruby>してもらった。"
@@ -23584,7 +23584,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "明日は台風が来る予報なので、遠足は廃止になるだろう。"
     ],
     "choices_ruby": [
-      "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>水泳<rt>すいえい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>する<ruby>小学校<rt>しょうがっこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているそうだ。",
+      "<ruby>日本<rt>にほん</rt></ruby>では、<ruby>水泳<rt>すいえい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>する<ruby>小学校<rt>しょうがっこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているそうだ。",
       "けがをしたので、しばらくは<ruby>活動<rt>かつどう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>します。",
       "<ruby>花火<rt>はなび</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>のため、<ruby>明日<rt>あした</rt></ruby>の10<ruby>時<rt>じ</rt></ruby>までこの<ruby>道路<rt>どうろ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>通行<rt>つうこう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>いたします。",
       "<ruby>明日<rt>あした</rt></ruby>は<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>予報<rt>よほう</rt></ruby>なので、<ruby>遠足<rt>えんそく</rt></ruby>は<ruby>廃止<rt>はいし</rt></ruby>になるだろう。"
@@ -23638,7 +23638,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "english_pitfall": "英語の \"abolish\", \"discontinue\", \"repeal\" にあたります。一度「廃止」すると完全に仕組みそのものが消滅・終了することを意味します。",
     "target_word_reading": "はいし",
     "correct_text_reading": "にっぽんでは、すいえいのじゅぎょうをはいしするしょうがっこうがふえているそうだ。",
-    "correct_text_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>水泳<rt>すいえい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>する<ruby>小学校<rt>しょうがっこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているそうだ。"
+    "correct_text_ruby": "<ruby>日本<rt>にほん</rt></ruby>では、<ruby>水泳<rt>すいえい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>廃止<rt>はいし</rt></ruby>する<ruby>小学校<rt>しょうがっこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているそうだ。"
   },
   {
     "id": 398,
@@ -23657,7 +23657,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>母<rt>はは</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>訪<rt>たず</rt></ruby>ねてきたので、とりあえず<ruby>居間<rt>いま</rt></ruby>に<ruby>導入<rt>どうにゅう</rt></ruby>した。",
       "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>最新<rt>さいしん</rt></ruby>のパソコンを<ruby>導入<rt>どうにゅう</rt></ruby>してから、<ruby>仕事<rt>しごと</rt></ruby>がしやすくなった。",
       "オーケストラの<ruby>演奏<rt>えんそう</rt></ruby>とともに、<ruby>代表<rt>だいひょう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>導入<rt>どうにゅう</rt></ruby>してきた。",
-      "<ruby>日本<rt>にっぽん</rt></ruby>にお<ruby>越<rt>こ</rt></ruby>しになった<ruby>際<rt>さい</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>が<ruby>皆様<rt>みなさま</rt></ruby>をおいしいお<ruby>店<rt>みせ</rt></ruby>に<ruby>導入<rt>どうにゅう</rt></ruby>いたします。"
+      "<ruby>日本<rt>にほん</rt></ruby>にお<ruby>越<rt>こ</rt></ruby>しになった<ruby>際<rt>さい</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>が<ruby>皆様<rt>みなさま</rt></ruby>をおいしいお<ruby>店<rt>みせ</rt></ruby>に<ruby>導入<rt>どうにゅう</rt></ruby>いたします。"
     ],
     "answer": 1,
     "correct_text": "会社に最新のパソコンを導入してから、仕事がしやすくなった。",
@@ -23796,7 +23796,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>心<rt>こころ</rt></ruby>も<ruby>体<rt>からだ</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>くするため、3か<ruby>月<rt>げつ</rt></ruby><ruby>間山<rt>まやま</rt></ruby>で<ruby>洗練<rt>せんれん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねた。",
       "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>汗<rt>あせ</rt></ruby>をかいたので、<ruby>髪<rt>かみ</rt></ruby>を<ruby>洗練<rt>せんれん</rt></ruby>した。",
-      "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>洗練<rt>せんれん</rt></ruby>するために、<ruby>日本<rt>にっぽん</rt></ruby>のアニメやドラマを<ruby>見<rt>み</rt></ruby>ている。",
+      "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>洗練<rt>せんれん</rt></ruby>するために、<ruby>日本<rt>にほん</rt></ruby>のアニメやドラマを<ruby>見<rt>み</rt></ruby>ている。",
       "<ruby>彼<rt>かれ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>る<ruby>時計<rt>とけい</rt></ruby>は、<ruby>機能<rt>きのう</rt></ruby><ruby>性<rt>せい</rt></ruby>はもちろんだが、<ruby>洗練<rt>せんれん</rt></ruby>されたデザインが<ruby>魅力<rt>みりょく</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。"
     ],
     "answer": 3,
@@ -24027,7 +24027,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>昔<rt>むかし</rt></ruby>から<ruby>泳<rt>およ</rt></ruby>ぐのが<ruby>苦手<rt>にがて</rt></ruby>だった<ruby>私<rt>わたし</rt></ruby>は、<ruby>海水浴<rt>かいすいよく</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってすぐに<ruby>潜<rt>もぐ</rt></ruby>ってしまった。",
-      "<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>睡眠<rt>すいみん</rt></ruby>も<ruby>忘<rt>わす</rt></ruby>れてしまうほど、<ruby>日本<rt>にっぽん</rt></ruby>のアニメに<ruby>潜<rt>もぐ</rt></ruby>ってしまった。",
+      "<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>睡眠<rt>すいみん</rt></ruby>も<ruby>忘<rt>わす</rt></ruby>れてしまうほど、<ruby>日本<rt>にほん</rt></ruby>のアニメに<ruby>潜<rt>もぐ</rt></ruby>ってしまった。",
       "<ruby>締め切<rt>しめき</rt></ruby>りが<ruby>近<rt>ちか</rt></ruby>いので、<ruby>部屋<rt>へや</rt></ruby>に<ruby>潜<rt>もぐ</rt></ruby>って<ruby>新<rt>あたら</rt></ruby>しい<ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>原稿<rt>げんこう</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>けている。",
       "<ruby>南<rt>みなみ</rt></ruby>の<ruby>島<rt>しま</rt></ruby>のきれいな<ruby>海<rt>うみ</rt></ruby>に<ruby>潜<rt>もぐ</rt></ruby>って、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>で<ruby>魚<rt>さかな</rt></ruby>をつかまえてみたい。"
     ],
@@ -25319,7 +25319,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "このパソコンは<ruby>性能<rt>せいのう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>く<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>価格<rt>かかく</rt></ruby>なので、<ruby>学生<rt>がくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>だ。",
       "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にあるものだけで<ruby>手頃<rt>てごろ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>れる<ruby>料理<rt>りょうり</rt></ruby>をインターネットで<ruby>探<rt>さが</rt></ruby>す。",
       "<ruby>彼<rt>かれ</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>努力<rt>どりょく</rt></ruby>してきたので、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>したのは<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>だと<ruby>言<rt>い</rt></ruby>えるだろう。",
-      "<ruby>自然<rt>しぜん</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>非常時<rt>ひじょうじ</rt></ruby>に<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>をする<ruby>能力<rt>のうりょく</rt></ruby>が<ruby>政府<rt>せいふ</rt></ruby>に<ruby>求<rt>もと</rt></ruby>められている。"
+      "<ruby>自然<rt>しぜん</rt></ruby><ruby>災害<rt>さいがい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby>では、<ruby>非常時<rt>ひじょうじ</rt></ruby>に<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>をする<ruby>能力<rt>のうりょく</rt></ruby>が<ruby>政府<rt>せいふ</rt></ruby>に<ruby>求<rt>もと</rt></ruby>められている。"
     ],
     "answer": 0,
     "correct_text": "このパソコンは性能が良く手頃な価格なので、学生に人気だ。",
@@ -25930,7 +25930,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "述べた",
     "question": "フランスの大統領は、日本の印象を次のように【述べた】。",
-    "question_ruby": "フランスの<ruby>大統領<rt>だいとうりょう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>次<rt>つぎ</rt></ruby>のように【述べた】。",
+    "question_ruby": "フランスの<ruby>大統領<rt>だいとうりょう</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>次<rt>つぎ</rt></ruby>のように【述べた】。",
     "choices": [
       "のべた",
       "ぬべた",
@@ -26407,7 +26407,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "につき",
     "meaning_en": "We will collect 1,000 yen from each person to buy a wedding present for Mr. Tanaka.",
-    "explanation": "【似た文法とのニュアンスの違い】\n数量詞＋「につき」は、「〜あたり、〜に対して」という配分・割合の基準を表します（「一人につき1,000円」「1時間につき500円」）。理由を表す「工事中につき（＝ため）」とは用法が異なります。\n\n【英語直訳とのズレ・注意点】\n英語の \"per / for each\"（一人あたり per person）に相当します。日常会話の「一人あたり」よりも事務的・公式な集金や規定で好んで使われます。",
+    "explanation": "【似た文法とのニュアンスの違い】\n数量詞＋「につき」は、「〜あたり、〜に対して」という配分・割合の基準を表します（「一人につき1,000円」「1時間につき500円」）。理由を表す「工事中につき（＝ため）」とは用法が異なります。\n\n【英語直訳とのズレ・注意点】\n英語の \"per / for each\"（一人あたり per person）に相当します。日常会話の「一人あたり」よりも事務的・公的な集金や規定で好んで使われます。",
     "kanji_info": [
       {
         "kanji": "付",
@@ -26434,7 +26434,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       }
     ],
     "nuance_diff": "数量詞＋「につき」は、「〜あたり、〜に対して」という配分・割合の基準を表します（「一人につき1,000円」「1時間につき500円」）。理由を表す「工事中につき（＝ため）」とは用法が異なります。",
-    "english_pitfall": "英語の \"per / for each\"（一人あたり per person）に相当します。日常会話の「一人あたり」よりも事務的・公式な集金や規定で好んで使われます。",
+    "english_pitfall": "英語の \"per / for each\"（一人あたり per person）に相当します。日常会話の「一人あたり」よりも事務的・公的な集金や規定で好んで使われます。",
     "target_word_reading": "につき",
     "correct_text_reading": "につき",
     "correct_text_ruby": "につき"
@@ -27865,7 +27865,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "における",
     "meaning_en": "Let us think about various problems related to education.",
-    "explanation": "【似た文法とのニュアンスの違い】\n名詞＋「における＋名詞」は、場所、時代、分野、状況などを格調高く限定する書き言葉の表現です（「教育における諸問題」「現代における役割」）。日常会話の「〜での」を論文や公式スピーチで改まって言う形です。\n\n【英語直訳とのズレ・注意点】\n英語の \"in / at / regarding\" に相当します。日常の「学校で友達と遊んだ」には使わず、「学校における教育方針」のようにフォーマルな場面で修飾語として使われます。",
+    "explanation": "【似た文法とのニュアンスの違い】\n名詞＋「における＋名詞」は、場所、時代、分野、状況などを格調高く限定する書き言葉の表現です（「教育における諸問題」「現代における役割」）。日常会話の「〜での」を論文や公的なスピーチで改まって言う形です。\n\n【英語直訳とのズレ・注意点】\n英語の \"in / at / regarding\" に相当します。日常の「学校で友達と遊んだ」には使わず、「学校における教育方針」のようにフォーマルな場面で修飾語として使われます。",
     "kanji_info": [
       {
         "kanji": "於",
@@ -27891,7 +27891,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "in; at"
       }
     ],
-    "nuance_diff": "名詞＋「における＋名詞」は、場所、時代、分野、状況などを格調高く限定する書き言葉の表現です（「教育における諸問題」「現代における役割」）。日常会話の「〜での」を論文や公式スピーチで改まって言う形です。",
+    "nuance_diff": "名詞＋「における＋名詞」は、場所、時代、分野、状況などを格調高く限定する書き言葉の表現です（「教育における諸問題」「現代における役割」）。日常会話の「〜での」を論文や公的なスピーチで改まって言う形です。",
     "english_pitfall": "英語の \"in / at / regarding\" に相当します。日常の「学校で友達と遊んだ」には使わず、「学校における教育方針」のようにフォーマルな場面で修飾語として使われます。",
     "target_word_reading": "における",
     "correct_text_reading": "における",
@@ -32162,7 +32162,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "に先だって",
     "meaning_en": "Prior to the examination in December, there will be a practice test in October.",
-    "explanation": "【似た文法とのニュアンスの違い】\n名詞 / 動詞辞書形＋「に先立って」は、重大なイベントや事業を正式に始める前段階として、準備や関連措置を行うことを表します（「本試験に先立って模擬試験を行う」）。「〜の前に」の極めて改まった表現です。\n\n【英語直訳とのズレ・注意点】\n英語の \"prior to / in advance of / beforehand\" にあたります。公式な試験、公演、工事などの前哨戦・事前準備の文脈で用いられます。",
+    "explanation": "【似た文法とのニュアンスの違い】\n名詞 / 動詞辞書形＋「に先立って」は、重大なイベントや事業を正式に始める前段階として、準備や関連措置を行うことを表します（「本試験に先立って模擬試験を行う」）。「〜の前に」の極めて改まった表現です。\n\n【英語直訳とのズレ・注意点】\n英語の \"prior to / in advance of / beforehand\" にあたります。公的な試験、公演、工事などの前哨戦・事前準備の文脈で用いられます。",
     "kanji_info": [],
     "similar": [
       {
@@ -32182,7 +32182,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       }
     ],
     "nuance_diff": "名詞 / 動詞辞書形＋「に先立って」は、重大なイベントや事業を正式に始める前段階として、準備や関連措置を行うことを表します（「本試験に先立って模擬試験を行う」）。「〜の前に」の極めて改まった表現です。",
-    "english_pitfall": "英語の \"prior to / in advance of / beforehand\" にあたります。公式な試験、公演、工事などの前哨戦・事前準備の文脈で用いられます。",
+    "english_pitfall": "英語の \"prior to / in advance of / beforehand\" にあたります。公的な試験、公演、工事などの前哨戦・事前準備の文脈で用いられます。",
     "target_word_reading": "にさきだって",
     "correct_text_reading": "にさきだって",
     "correct_text_ruby": "に<ruby>先<rt>せん</rt></ruby>だって"
@@ -38731,7 +38731,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "日本へ来て",
     "question": "日本に来てから、一度も国へ帰っていない。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>てから、<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>国<rt>くに</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>っていない。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>てから、<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>国<rt>くに</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>っていない。",
     "choices": [
       "来日の",
       "日本へ来て",
@@ -38740,9 +38740,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>来日<rt>らいにち</rt></ruby>の",
-      "<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>て",
-      "<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>る",
-      "<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>た"
+      "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>て",
+      "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>る",
+      "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>た"
     ],
     "answer": 1,
     "correct_text": "日本へ来て",
@@ -38797,7 +38797,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "にっぽんへきて",
     "correct_text_reading": "にっぽんへきて",
-    "correct_text_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>て"
+    "correct_text_ruby": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>て"
   },
   {
     "id": 671,
@@ -39633,7 +39633,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "おそれ",
     "meaning_en": "We are recalling this type of battery because of the danger of combustion.",
-    "explanation": "【似た文法とのニュアンスの違い】\n名詞 / 動詞辞書形＋「おそれがある（恐れ・虞）」は、放置すると火災、事故、倒産など重大な危機や危害が発生する危険性・懸念があることを警告する硬い公式表現です（「発火のおそれがあります」）。リコール通知などで多用されます。\n\n【英語直訳とのズレ・注意点】\n英語の \"there is a risk/danger of (catching fire)\" に直結します。公的な安全警告文で最も重視される責任ある告知用語です。",
+    "explanation": "【似た文法とのニュアンスの違い】\n名詞 / 動詞辞書形＋「おそれがある（恐れ・虞）」は、放置すると火災、事故、倒産など重大な危機や危害が発生する危険性・懸念があることを警告する硬い公的表現です（「発火のおそれがあります」）。リコール通知などで多用されます。\n\n【英語直訳とのズレ・注意点】\n英語の \"there is a risk/danger of (catching fire)\" に直結します。公的な安全警告文で最も重視される責任ある告知用語です。",
     "kanji_info": [
       {
         "kanji": "恐",
@@ -39659,7 +39659,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "be afraid; dread"
       }
     ],
-    "nuance_diff": "名詞 / 動詞辞書形＋「おそれがある（恐れ・虞）」は、放置すると火災、事故、倒産など重大な危機や危害が発生する危険性・懸念があることを警告する硬い公式表現です（「発火のおそれがあります」）。リコール通知などで多用されます。",
+    "nuance_diff": "名詞 / 動詞辞書形＋「おそれがある（恐れ・虞）」は、放置すると火災、事故、倒産など重大な危機や危害が発生する危険性・懸念があることを警告する硬い公的表現です（「発火のおそれがあります」）。リコール通知などで多用されます。",
     "english_pitfall": "英語の \"there is a risk/danger of (catching fire)\" に直結します。公的な安全警告文で最も重視される責任ある告知用語です。",
     "target_word_reading": "おそれ",
     "correct_text_reading": "おそれ",
@@ -40265,7 +40265,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "食糧",
     "question": "日本でも（　　　）が不足するという時代が来るかもしれない。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でも（　　　）が<ruby>不足<rt>ふそく</rt></ruby>するという<ruby>時代<rt>じだい</rt></ruby>が<ruby>来<rt>く</rt></ruby>るかもしれない。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>でも（　　　）が<ruby>不足<rt>ふそく</rt></ruby>するという<ruby>時代<rt>じだい</rt></ruby>が<ruby>来<rt>く</rt></ruby>るかもしれない。",
     "choices": [
       "食事",
       "食費",
@@ -46098,7 +46098,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "城",
     "question": "歴史ある日本の有名な（　　　）を見学しに行きませんか。",
-    "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な（　　　）を<ruby>見学<rt>けんがく</rt></ruby>しに<ruby>行<rt>い</rt></ruby>きませんか。",
+    "question_ruby": "<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>日本<rt>にほん</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な（　　　）を<ruby>見学<rt>けんがく</rt></ruby>しに<ruby>行<rt>い</rt></ruby>きませんか。",
     "choices": [
       "寺",
       "城",
@@ -48084,7 +48084,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "各地",
     "question": "日本（　　　）から桜の開花情報が届いています。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>（　　　）から<ruby>桜<rt>さくら</rt></ruby>の<ruby>開花<rt>かいか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いています。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>（　　　）から<ruby>桜<rt>さくら</rt></ruby>の<ruby>開花<rt>かいか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いています。",
     "choices": [
       "国内",
       "各国",
@@ -49172,7 +49172,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "アジア",
     "question": "日本をはじめとする（　　　）諸国の経済成長が著しい。",
-    "question_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>をはじめとする（　　　）<ruby>諸国<rt>しょこく</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby><ruby>成長<rt>せいちょう</rt></ruby>が<ruby>著<rt>いちじる</rt></ruby>しい。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>をはじめとする（　　　）<ruby>諸国<rt>しょこく</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby><ruby>成長<rt>せいちょう</rt></ruby>が<ruby>著<rt>いちじる</rt></ruby>しい。",
     "choices": [
       "ヨーロッパ",
       "アフリカ",
@@ -49694,8 +49694,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文脈規定",
     "target_word": "サイト",
-    "question": "インターネットの公式（　　　）で最新の試験情報を確認した。",
-    "question_ruby": "インターネットの<ruby>公式<rt>こうしき</rt></ruby>（　　　）で<ruby>最新<rt>さいしん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。",
+    "question": "インターネットの専用（　　　）で最新の試験情報を確認した。",
+    "question_ruby": "インターネットの<ruby>専用<rt>せんよう</rt></ruby>（　　　）で<ruby>最新<rt>さいしん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。",
     "choices": [
       "アプリ",
       "ブログ",

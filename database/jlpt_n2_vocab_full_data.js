@@ -48326,12 +48326,12 @@ window.JLPT_N2_VOCAB_DATA = [
     "cat_group": "特別編",
     "color": "teal",
     "page": 69,
-    "word": "非公式",
-    "reading": "ひこうしき",
-    "ruby": "<ruby>非公式<rt>ひこうしき</rt></ruby>",
-    "meaning": "informal, unofficial",
-    "ex_ja": "<ruby>正式<rt>せいしき</rt></ruby>な<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、まずは<ruby>関係<rt>かんけい</rt></ruby>する<ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>で<ruby>非公式<rt>ひこうしき</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>の<ruby>場<rt>ば</rt></ruby>を<ruby>持<rt>も</rt></ruby>った。",
-    "ex_en": "Before holding a formal meeting, the staff in charge from the relevant departments first held an informal exchange of views."
+    "word": "非公開",
+    "reading": "ひこうかい",
+    "ruby": "<ruby>非公開<rt>ひこうかい</rt></ruby>",
+    "meaning": "private, closed to the public, undisclosed",
+    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>特別<rt>とくべつ</rt></ruby><ruby>展示<rt>てんじ</rt></ruby>では、これまでずっと<ruby>非公開<rt>ひこうかい</rt></ruby>だった<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>歴史<rt>れきし</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>一般<rt>いっぱん</rt></ruby>に<ruby>展示<rt>てんじ</rt></ruby>される。",
+    "ex_en": "At the special exhibition starting next month, valuable historical materials that have been closed to the public until now will be exhibited to the public for the first time."
   },
   {
     "id": "n2_v_3009",

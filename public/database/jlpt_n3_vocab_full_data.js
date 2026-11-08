@@ -16182,10 +16182,10 @@ window.JLPT_N3_VOCAB_DATA = [
     "color": "blue",
     "page": 34,
     "word": "日本",
-    "reading": "にっぽん",
-    "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>",
+    "reading": "にほん",
+    "ruby": "<ruby>日本<rt>にほん</rt></ruby>",
     "meaning": "Japan",
-    "ex_ja": "スポーツの<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>たちの<ruby>活躍<rt>かつやく</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られた。",
+    "ex_ja": "スポーツの<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>たちの<ruby>活躍<rt>かつやく</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られた。",
     "ex_en": "At the international sports tournament, big applause was given for the achievements of Japan's athletes."
   },
   {
