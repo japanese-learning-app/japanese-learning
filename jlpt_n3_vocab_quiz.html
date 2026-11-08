@@ -1847,12 +1847,10 @@
       <select class="filter-select" id="categoryFilter">
         <option value="all">全カテゴリー対象（全500問）</option>
         <option value="漢字読み">漢字の読み方（漢字読み）</option>
-        <option value="漢字表記">漢字の書き方（表記）</option>
-        <option value="語形成">語形成・接辞（接頭辞・接尾辞）</option>
-        <option value="文脈規定">文脈規定・穴埋め</option>
+        <option value="表記">漢字の書き方（表記）</option>
+        <option value="語彙・文脈規定">文脈規定・穴埋め</option>
         <option value="類義語">類義語・言い換え表現</option>
-        <option value="語彙用法">語彙の正しい用法</option>
-        <option value="文法形式の判断">文法形式の判断（実戦演習）</option>
+        <option value="語彙の使い方">語彙の正しい用法（使い方）</option>
       </select>
 
       <!-- Question Count Limit -->
@@ -2222,8 +2220,8 @@
   let userAnswersMap = {};
 
   // LocalStorage Keys
-  const STORAGE_RESUME_KEY = 'n2_vocab_quiz_last_idx';
-  const STORAGE_MYLIST_KEY = 'n2_vocab_quiz_mylist';
+  const STORAGE_RESUME_KEY = 'n3_vocab_quiz_last_idx';
+  const STORAGE_MYLIST_KEY = 'n3_vocab_quiz_mylist';
   const STORAGE_FURI_KEY = 'jlpt_furigana_pref';
 
   // DOM Elements
@@ -2379,14 +2377,14 @@
 
   function getMyListStorageKey() {
     const sId = (window.AppAuth && window.AppAuth.getCurrentStudent()?.id) || localStorage.getItem('haku_current_student_id') || 'guest';
-    return `n2_vocab_quiz_mylist_${sId}`;
+    return `n3_vocab_quiz_mylist_${sId}`;
   }
 
   // Load MyList from LocalStorage
   let myList = [];
   function loadMyListFromStorage() {
     try {
-      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n2_vocab_quiz_mylist');
+      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n3_vocab_quiz_mylist');
       myList = raw ? JSON.parse(raw) : [];
     } catch(e) { myList = []; }
   }
@@ -3060,7 +3058,7 @@
             reading: '',
             meaning: window.JLPT_SIMILAR_GRAMMAR_DICT[k].meaning || '',
             similar: window.JLPT_SIMILAR_GRAMMAR_DICT[k].similar || '',
-            level: 'N2 文法'
+            level: 'N3 文法'
           };
           break;
         }
@@ -3113,7 +3111,7 @@
     return {
       term: primary.term || cleanQ,
       reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
-      level: primary.level || 'JLPT N2',
+      level: primary.level || 'JLPT N3',
       meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
       example_ja: ex_ja,
       example_en: ex_en,

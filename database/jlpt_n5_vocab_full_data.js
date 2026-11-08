@@ -7604,12 +7604,12 @@ window.JLPT_N5_VOCAB_DATA = [
     "cat_group": "入門語彙マスター",
     "color": "emerald",
     "page": 2,
-    "word": "死ぬ",
-    "reading": "しぬ",
-    "ruby": "<ruby>死<rt>し</rt></ruby>ぬ",
-    "meaning": "to die",
-    "ex_ja": "<ruby>花<rt>はな</rt></ruby>は、<ruby>水<rt>みず</rt></ruby>がないと<ruby>死<rt>し</rt></ruby>にます。",
-    "ex_en": "Flowers die without water."
+    "word": "枯れる",
+    "reading": "かれる",
+    "ruby": "<ruby>枯<rt>か</rt></ruby>れる",
+    "meaning": "to wither; to wilt (plants)",
+    "ex_ja": "<ruby>花<rt>はな</rt></ruby>は、<ruby>水<rt>みず</rt></ruby>をあげないとすぐに<ruby>枯<rt>か</rt></ruby>れてしまいます。",
+    "ex_en": "Flowers will quickly wither if you do not water them."
   },
   {
     "id": "n5_v_0051_2",

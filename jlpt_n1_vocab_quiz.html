@@ -1796,7 +1796,7 @@
         <span>JLPT N1 文字・語彙 穴埋めマスター</span>
         <span class="badge-n1">全500問</span>
       </div>
-      <div class="brand-sub">PDF完全準拠（この1冊で合格する ＆ 新にほんご500問）演習道場</div>
+      <div class="brand-sub">JLPT N1 実戦オリジナル 4択演習道場</div>
     </div>
     <div class="header-actions">
       <!-- 生徒認証バッジ -->
@@ -1821,8 +1821,8 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
         <span>マイリスト (<span id="myListCountHeader">0</span>)</span>
       </button>
-      <!-- Quick Links to other N2 sections -->
-      <a href="jlpt_n1_vocab_cards.html" class="header-btn" title="N1語彙フラッシュカード（全3,412語）へ">
+      <!-- Quick Links to other N1 sections -->
+      <a href="jlpt_n1_vocab_cards.html" class="header-btn" title="N1語彙フラッシュカード（全3,747語）へ">
         🎴 語彙カード
       </a>
       <a href="jlpt_n1_grammar_quiz.html" class="header-btn" title="N1文法穴埋め演習道場（全508問）へ">
@@ -1847,12 +1847,10 @@
       <select class="filter-select" id="categoryFilter">
         <option value="all">全カテゴリー対象（全500問）</option>
         <option value="漢字読み">漢字の読み方（漢字読み）</option>
-        <option value="漢字表記">漢字の書き方（表記）</option>
-        <option value="語形成">語形成・接辞（接頭辞・接尾辞）</option>
-        <option value="文脈規定">文脈規定・穴埋め</option>
+        <option value="表記">漢字の書き方（表記）</option>
+        <option value="語彙・文脈規定">文脈規定・穴埋め</option>
         <option value="類義語">類義語・言い換え表現</option>
-        <option value="語彙用法">語彙の正しい用法</option>
-        <option value="文法形式の判断">文法形式の判断（実戦演習）</option>
+        <option value="語彙の使い方">語彙の正しい用法（使い方）</option>
       </select>
 
       <!-- Question Count Limit -->
@@ -2222,8 +2220,8 @@
   let userAnswersMap = {};
 
   // LocalStorage Keys
-  const STORAGE_RESUME_KEY = 'n2_vocab_quiz_last_idx';
-  const STORAGE_MYLIST_KEY = 'n2_vocab_quiz_mylist';
+  const STORAGE_RESUME_KEY = 'n1_vocab_quiz_last_idx';
+  const STORAGE_MYLIST_KEY = 'n1_vocab_quiz_mylist';
   const STORAGE_FURI_KEY = 'jlpt_furigana_pref';
 
   // DOM Elements
@@ -2379,14 +2377,14 @@
 
   function getMyListStorageKey() {
     const sId = (window.AppAuth && window.AppAuth.getCurrentStudent()?.id) || localStorage.getItem('haku_current_student_id') || 'guest';
-    return `n2_vocab_quiz_mylist_${sId}`;
+    return `n1_vocab_quiz_mylist_${sId}`;
   }
 
   // Load MyList from LocalStorage
   let myList = [];
   function loadMyListFromStorage() {
     try {
-      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n2_vocab_quiz_mylist');
+      const raw = localStorage.getItem(getMyListStorageKey()) || localStorage.getItem('n1_vocab_quiz_mylist');
       myList = raw ? JSON.parse(raw) : [];
     } catch(e) { myList = []; }
   }
@@ -3060,7 +3058,7 @@
             reading: '',
             meaning: window.JLPT_SIMILAR_GRAMMAR_DICT[k].meaning || '',
             similar: window.JLPT_SIMILAR_GRAMMAR_DICT[k].similar || '',
-            level: 'N2 文法'
+            level: 'N1 文法'
           };
           break;
         }
@@ -3113,7 +3111,7 @@
     return {
       term: primary.term || cleanQ,
       reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
-      level: primary.level || 'JLPT N2',
+      level: primary.level || 'JLPT N1',
       meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
       example_ja: ex_ja,
       example_en: ex_en,

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>JLPT N2 文字・語彙 マスター フラッシュカード（全3,747語・全25カテゴリ完全網羅）</title>
+  <title>JLPT N1 文字・語彙 マスター フラッシュカード（全3,747語・全25カテゴリ完全網羅）</title>
   
   <!-- Google Fonts: Inter & Noto Sans JP -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -258,7 +258,7 @@
         </a>
         <div>
           <div class="flex items-center gap-2">
-            <span class="text-xs font-black px-2 py-0.5 rounded-full bg-white/20 text-white border border-white/30">N2</span>
+            <span class="text-xs font-black px-2 py-0.5 rounded-full bg-white/20 text-white border border-white/30">N1</span>
             <h1 class="text-sm sm:text-base font-extrabold text-white">文字・語彙 マスター フラッシュカード</h1>
           </div>
           <p class="text-[10px] sm:text-xs text-white/80 font-medium">全3,747語・全25カテゴリ完全網羅</p>
@@ -471,7 +471,7 @@
               <span id="frontCatBadge" class="text-xs px-2.5 py-0.5 rounded-full font-bold bg-lightBlueBg text-deepNavy">名詞(1文字)</span>
               <div class="flex items-center gap-1.5">
                 <span id="frontModeIndicator" class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-slate-100 text-slate-500">日 ➔ 英</span>
-                <button id="btnFrontSpeak" onclick="event.stopPropagation(); speakFront()" class="p-2.5 rounded-full bg-deepNavy text-white shadow-sm hover:opacity-90 active:scale-95 transition" title="音声を発音 (Google TTS)">
+                <button id="btnFrontSpeak" onclick="event.stopPropagation(); speakFront()" class="p-2.5 rounded-full bg-deepNavy text-white shadow-sm hover:opacity-90 active:scale-95 transition" title="音声を発音">
                   <i data-lucide="volume-2" class="w-5 h-5"></i>
                 </button>
               </div>
@@ -500,7 +500,7 @@
                 <span id="backWordHeader" class="text-sm font-bold text-darkNavyText ml-1.5 font-jp">穴</span>
                 <span id="backReadingHeader" class="text-xs text-slate-400 ml-1 font-jp">（あな）</span>
               </div>
-              <button onclick="event.stopPropagation(); speakWord()" class="p-2 rounded-full bg-slate-100 text-deepNavy hover:bg-slate-200 active:scale-95 transition" title="日本語を発音 (Google TTS)">
+              <button onclick="event.stopPropagation(); speakWord()" class="p-2 rounded-full bg-slate-100 text-deepNavy hover:bg-slate-200 active:scale-95 transition" title="日本語を発音">
                 <i data-lucide="volume-2" class="w-4 h-4"></i>
               </button>
             </div>
@@ -518,7 +518,7 @@
                   <i data-lucide="message-square" class="w-3.5 h-3.5 text-deepNavy"></i>
                   <span>実戦例文 (Example)</span>
                 </span>
-                <button onclick="speakExample()" class="p-1 rounded-full text-deepNavy hover:bg-white/60 active:scale-95 transition" title="例文の音声 (Google TTS)">
+                <button onclick="speakExample()" class="p-1 rounded-full text-deepNavy hover:bg-white/60 active:scale-95 transition" title="例文の音声">
                   <i data-lucide="volume-2" class="w-4 h-4"></i>
                 </button>
               </div>
@@ -925,7 +925,7 @@
         frontWord.className = 'text-2xl sm:text-4xl font-extrabold text-deepNavy tracking-tight leading-snug font-sans select-text px-2';
         frontWord.textContent = item.meaning || '';
         if (frontHint) frontHint.textContent = 'この英語の日本語は？（タップして確認）⟳';
-        if (btnFrontSpeak) btnFrontSpeak.title = '英語を発音 (Google TTS)';
+        if (btnFrontSpeak) btnFrontSpeak.title = '英語を発音';
 
         // BACK: Japanese Answer
         backCatBadge.textContent = item.cat_short || item.cat_name;
@@ -947,7 +947,7 @@
         frontWord.className = 'text-4xl sm:text-6xl font-extrabold text-darkNavyText tracking-tight leading-relaxed font-jp select-text';
         frontWord.innerHTML = item.ruby || item.word;
         if (frontHint) frontHint.textContent = 'タップして意味・例文を確認 ⟳';
-        if (btnFrontSpeak) btnFrontSpeak.title = '日本語を発音 (Google TTS)';
+        if (btnFrontSpeak) btnFrontSpeak.title = '日本語を発音';
 
         // BACK: Meaning
         backCatBadge.textContent = item.cat_short || item.cat_name;
@@ -1180,7 +1180,7 @@
         if (rate === 100) {
           msgEl.textContent = '🎉 パーフェクト達成！素晴らしい語彙力です！';
         } else if (rate >= 80) {
-          msgEl.textContent = '✨ 大変素晴らしい成績です！N2合格ライン突破！';
+          msgEl.textContent = '✨ 大変素晴らしい成績です！N1合格ライン突破！';
         } else if (rate >= 60) {
           msgEl.textContent = '👍 よく頑張りました！要復習の単語をチェックしましょう！';
         } else {

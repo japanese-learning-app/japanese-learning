@@ -1,0 +1,764 @@
+[
+  {
+    "gid": 1,
+    "term": "〜を皮切りに",
+    "reading": "をかわきりに",
+    "meaning": "〜を始まりとして次々に同じようなことが行われる。(starting with ~ as the first)"
+  },
+  {
+    "gid": 2,
+    "term": "〜であれ",
+    "reading": "であれ",
+    "meaning": "たとえ〜であっても。〜でも。(whether it is ~ or ~)"
+  },
+  {
+    "gid": 3,
+    "term": "〜極まりない",
+    "reading": "きわまりない",
+    "meaning": "これ以上ないほど非常に〜だ。(extremely; boundlessly ~)"
+  },
+  {
+    "gid": 4,
+    "term": "〜を禁じ得ない",
+    "reading": "をきんじえない",
+    "meaning": "感情や涙などを抑えることができない。(cannot suppress; cannot help feeling ~)"
+  },
+  {
+    "gid": 5,
+    "term": "〜に至っては",
+    "reading": "にいたっては",
+    "meaning": "極端な例として〜の場合は。(when it comes to ~ (extreme case))"
+  },
+  {
+    "gid": 6,
+    "term": "〜まじき",
+    "reading": "まじき",
+    "meaning": "ある立場として決してあってはならない。(that should not be; unpardonable for)"
+  },
+  {
+    "gid": 7,
+    "term": "〜ごとき",
+    "reading": "ごとき",
+    "meaning": "〜のような。あるいは〜なんて（軽視・謙遜）。(like; as if; such as)"
+  },
+  {
+    "gid": 8,
+    "term": "〜ずくめ",
+    "reading": "ずくめ",
+    "meaning": "全体がそればかりである状態を表す。(entirely; full of; nothing but)"
+  },
+  {
+    "gid": 9,
+    "term": "〜まみれ",
+    "reading": "まみれ",
+    "meaning": "汗・泥・血・借金など好ましくないものが表面全体についている。(covered in; smeared with)"
+  },
+  {
+    "gid": 10,
+    "term": "〜ゆえに",
+    "reading": "ゆえに",
+    "meaning": "〜という理由・原因のために。(because of; due to)"
+  },
+  {
+    "gid": 11,
+    "term": "〜ならでは",
+    "reading": "ならでは",
+    "meaning": "〜だけが持っている特別な素晴らしさを表す。(uniquely possible for; characteristic of)"
+  },
+  {
+    "gid": 12,
+    "term": "〜にかかわる",
+    "reading": "にかかわる",
+    "meaning": "命や名誉など重大な事態に影響・関係する。(affecting; concerning (serious matter))"
+  },
+  {
+    "gid": 13,
+    "term": "〜とあっては",
+    "reading": "とあっては",
+    "meaning": "〜という特別な事情・状況なら。(given that special situation)"
+  },
+  {
+    "gid": 14,
+    "term": "〜たるもの",
+    "reading": "たるもの",
+    "meaning": "〜という身分・資格を持つ者ならば当然。(in the role/position of)"
+  },
+  {
+    "gid": 15,
+    "term": "〜あっての",
+    "reading": "あっての",
+    "meaning": "〜が存在するからこそ成り立つ。(which exists only thanks to)"
+  },
+  {
+    "gid": 16,
+    "term": "〜ともなると",
+    "reading": "ともなると",
+    "meaning": "その段階や特別な立場に達すると。(once one reaches the stage of)"
+  },
+  {
+    "gid": 17,
+    "term": "〜なくして",
+    "reading": "なくして",
+    "meaning": "もし〜がなければ実現しない。(without ~; impossible without)"
+  },
+  {
+    "gid": 18,
+    "term": "〜なしに",
+    "reading": "なしに",
+    "meaning": "〜をしないで。(without doing ~)"
+  },
+  {
+    "gid": 19,
+    "term": "〜なりに",
+    "reading": "なりに",
+    "meaning": "その人・物相応に。(in one’s own way; commensurate with)"
+  },
+  {
+    "gid": 20,
+    "term": "〜を踏まえて",
+    "reading": "をふまえて",
+    "meaning": "〜を前提・基礎として。(based on; taking into consideration)"
+  },
+  {
+    "gid": 21,
+    "term": "〜に先駆けて",
+    "reading": "にさきがけて",
+    "meaning": "他の誰よりも先に。(ahead of; taking the lead in)"
+  },
+  {
+    "gid": 22,
+    "term": "〜を契機に",
+    "reading": "をけいきに",
+    "meaning": "〜をきっかけとして大きな変化が起きる。(triggered by; using ~ as opportunity)"
+  },
+  {
+    "gid": 23,
+    "term": "〜を機に",
+    "reading": "をきに",
+    "meaning": "〜をよい機会として行動を起こす。(taking the opportunity of)"
+  },
+  {
+    "gid": 24,
+    "term": "〜と相まって",
+    "reading": "とあいまって",
+    "meaning": "〜と互いに影響し合ってより一層。(combined with; together with)"
+  },
+  {
+    "gid": 25,
+    "term": "〜にかまけて",
+    "reading": "にかまけて",
+    "meaning": "一つのことばかりに夢中になって他を疎かにする。(being preoccupied with; neglecting other things)"
+  },
+  {
+    "gid": 26,
+    "term": "〜にかこつけて",
+    "reading": "にかこつけて",
+    "meaning": "別の事柄を口実・言いがかりにして。(under the pretext of)"
+  },
+  {
+    "gid": 27,
+    "term": "〜はおろか",
+    "reading": "はおろか",
+    "meaning": "〜はもちろんのこと、もっと簡単なことも。(let alone; not to speak of)"
+  },
+  {
+    "gid": 28,
+    "term": "〜ならいざしらず",
+    "reading": "ならいざしらず",
+    "meaning": "〜ならともかく、そうではないのだから。(may be fine for ~, but definitely not)"
+  },
+  {
+    "gid": 29,
+    "term": "〜ならまだしも",
+    "reading": "ならまだしも",
+    "meaning": "〜ならまだ許せるが。(would be understandable, but)"
+  },
+  {
+    "gid": 30,
+    "term": "〜といえども",
+    "reading": "といえども",
+    "meaning": "たとえ〜であっても。(even though; despite being)"
+  },
+  {
+    "gid": 31,
+    "term": "〜とはいえ",
+    "reading": "とはいえ",
+    "meaning": "事実を認めるが、しかし。(although; nonetheless)"
+  },
+  {
+    "gid": 32,
+    "term": "〜からある",
+    "reading": "からある",
+    "meaning": "〜以上の大きさ・重さ・長さがある。(as much as; more than (size/weight))"
+  },
+  {
+    "gid": 33,
+    "term": "〜からの",
+    "reading": "からの",
+    "meaning": "〜以上の数・金額・人数がある。(as many as; upwards of (cost/people))"
+  },
+  {
+    "gid": 34,
+    "term": "〜そばから",
+    "reading": "そばから",
+    "meaning": "〜してもすぐに同じことが繰り返される。(no sooner than ~; right after)"
+  },
+  {
+    "gid": 35,
+    "term": "〜が早いか",
+    "reading": "がはやいか",
+    "meaning": "〜するとほとんど同時に。(as soon as; no sooner had)"
+  },
+  {
+    "gid": 36,
+    "term": "〜や否や",
+    "reading": "やいなや",
+    "meaning": "〜するとすぐその瞬間に。(the moment; right as)"
+  },
+  {
+    "gid": 37,
+    "term": "〜なり",
+    "reading": "なり",
+    "meaning": "〜したとたん、予想外の次の動作を起こす。(immediately upon doing)"
+  },
+  {
+    "gid": 38,
+    "term": "〜んばかり",
+    "reading": "んばかり",
+    "meaning": "今にも〜しそうな様子で。(as if about to; virtually)"
+  },
+  {
+    "gid": 39,
+    "term": "〜とばかりに",
+    "reading": "とばかりに",
+    "meaning": "言葉には出さないが表情や態度で示す。(as if to say)"
+  },
+  {
+    "gid": 40,
+    "term": "〜めく",
+    "reading": "めく",
+    "meaning": "〜の気配や傾向が強く感じられる。(take on the air of; show signs of)"
+  },
+  {
+    "gid": 41,
+    "term": "〜ぶる",
+    "reading": "ぶる",
+    "meaning": "本当はそうでないのに、そのように振る舞う。(act like; pretend to be)"
+  },
+  {
+    "gid": 42,
+    "term": "〜びる",
+    "reading": "びる",
+    "meaning": "その状態にふさわしく見える、大人びる。(seem mature; age-appropriate)"
+  },
+  {
+    "gid": 43,
+    "term": "〜げ",
+    "reading": "げ",
+    "meaning": "いかにも〜ありそうな様子。(appearing to be; looking ~)"
+  },
+  {
+    "gid": 44,
+    "term": "〜じみた",
+    "reading": "じみた",
+    "meaning": "〜のような好ましくない感じを帯びている。(tinted with; seeming like)"
+  },
+  {
+    "gid": 45,
+    "term": "〜きらいがある",
+    "reading": "きらいがある",
+    "meaning": "望ましくない傾向・癖がある。(have a bad tendency to)"
+  },
+  {
+    "gid": 46,
+    "term": "〜始末だ",
+    "reading": "しまつだ",
+    "meaning": "いろいろ悪いことが重なって最終的に困った結果になる。(end up in a bad state of)"
+  },
+  {
+    "gid": 47,
+    "term": "〜っぱなし",
+    "reading": "っぱなし",
+    "meaning": "ある動作や状態を放置したままにする。(left in an ongoing/unfinished state)"
+  },
+  {
+    "gid": 48,
+    "term": "〜ずにはすまない",
+    "reading": "ずにはすまない",
+    "meaning": "社会常識や立場上、〜しないでは済まされない。(cannot get away without doing)"
+  },
+  {
+    "gid": 49,
+    "term": "〜ないではすまない",
+    "reading": "ないではすまない",
+    "meaning": "どうしても〜しなければ許されない。(cannot be excused without doing)"
+  },
+  {
+    "gid": 50,
+    "term": "〜ずにはおかない",
+    "reading": "ずにはおかない",
+    "meaning": "必ず〜という結果をもたらす。(bound to; will inevitably cause)"
+  },
+  {
+    "gid": 51,
+    "term": "〜ないではおかない",
+    "reading": "ないではおかない",
+    "meaning": "自然の勢いで必ず〜させてしまう。(cannot refrain from causing)"
+  },
+  {
+    "gid": 52,
+    "term": "〜を余儀なくされる",
+    "reading": "をよぎなくされる",
+    "meaning": "やむを得ず〜させられる。(be forced to do)"
+  },
+  {
+    "gid": 53,
+    "term": "〜を余儀なくさせる",
+    "reading": "をよぎなくさせる",
+    "meaning": "相手にやむを得ず〜を行わせる。(force someone to do)"
+  },
+  {
+    "gid": 54,
+    "term": "〜に耐えない",
+    "reading": "にたえない",
+    "meaning": "感情が強すぎて抑えきれない。(cannot suppress feelings; deeply moved)"
+  },
+  {
+    "gid": 55,
+    "term": "〜に堪えない",
+    "reading": "にたえない",
+    "meaning": "見る・聞くに値しない、ひどい状態。(cannot stand; unbearable to watch)"
+  },
+  {
+    "gid": 56,
+    "term": "〜に足る",
+    "reading": "にたる",
+    "meaning": "〜する価値・能力が十分にある。(worthy of; sufficient for)"
+  },
+  {
+    "gid": 57,
+    "term": "〜に堪える",
+    "reading": "にたえる",
+    "meaning": "〜するだけの十分な価値がある。(worthy of praise/reading)"
+  },
+  {
+    "gid": 58,
+    "term": "〜に忍びない",
+    "reading": "にしのびない",
+    "meaning": "心が痛んで〜するのに耐えられない。(cannot bear to (see/do))"
+  },
+  {
+    "gid": 59,
+    "term": "〜に及ばない",
+    "reading": "におよばない",
+    "meaning": "そこまでする必要はない。〜には及ばない。(no need to; falls short of)"
+  },
+  {
+    "gid": 60,
+    "term": "〜までもない",
+    "reading": "までもない",
+    "meaning": "言うまでもなく明白である。する必要がない。(goes without saying; no need)"
+  },
+  {
+    "gid": 61,
+    "term": "〜には及ばない",
+    "reading": "にはおよばない",
+    "meaning": "わざわざ〜する必要はない。(there is no need to)"
+  },
+  {
+    "gid": 62,
+    "term": "〜にほかならない",
+    "reading": "にほかならない",
+    "meaning": "まさにそれ以外の何物でもない。(nothing other than; simply because)"
+  },
+  {
+    "gid": 63,
+    "term": "〜にすぎない",
+    "reading": "にすぎない",
+    "meaning": "ただ〜だけで、それ以上の価値はない。(nothing more than; merely)"
+  },
+  {
+    "gid": 64,
+    "term": "〜にとどまらない",
+    "reading": "にとどまらない",
+    "meaning": "ある範囲に収まらず、さらに広がる。(not limited to; extends beyond)"
+  },
+  {
+    "gid": 65,
+    "term": "〜にとどまらず",
+    "reading": "にとどまらず",
+    "meaning": "〜だけでなく、より広い範囲に及ぶ。(not stopping at; but also)"
+  },
+  {
+    "gid": 66,
+    "term": "〜もさることながら",
+    "reading": "もさることながら",
+    "meaning": "〜はもちろん、それ以上に。(not only ~, but even more so)"
+  },
+  {
+    "gid": 67,
+    "term": "〜のみならず",
+    "reading": "のみならず",
+    "meaning": "〜だけでなく、その上。(not only ~, but also)"
+  },
+  {
+    "gid": 68,
+    "term": "〜であれ〜であれ",
+    "reading": "であれであれ",
+    "meaning": "〜の場合でも、〜の場合でも同じだ。(whether A or B)"
+  },
+  {
+    "gid": 69,
+    "term": "〜といい〜といい",
+    "reading": "といいといい",
+    "meaning": "〜を見ても〜を見ても、どれも。(both A and B)"
+  },
+  {
+    "gid": 70,
+    "term": "〜こととて",
+    "reading": "こととて",
+    "meaning": "〜という理由・状況なので。(because; owing to the situation of)"
+  },
+  {
+    "gid": 71,
+    "term": "〜とあって",
+    "reading": "とあって",
+    "meaning": "〜という特別な状況なので。(because of the special condition that)"
+  },
+  {
+    "gid": 72,
+    "term": "〜をもって",
+    "reading": "をもって",
+    "meaning": "〜の手段で。あるいは〜の期日で終了する。(by means of; as of (cutoff))"
+  },
+  {
+    "gid": 73,
+    "term": "〜を限りに",
+    "reading": "をかぎりに",
+    "meaning": "〜の時を最後に、以後はやめる。(as the final cutoff; starting from now no more)"
+  },
+  {
+    "gid": 74,
+    "term": "〜ともなく",
+    "reading": "ともなく",
+    "meaning": "特に意識や目的を持たずに自然と。(without thinking; absentmindedly)"
+  },
+  {
+    "gid": 75,
+    "term": "〜ともなしに",
+    "reading": "ともなしに",
+    "meaning": "意識せずにぼんやりと。(unconsciously; without clear aim)"
+  },
+  {
+    "gid": 76,
+    "term": "〜ながらに",
+    "reading": "ながらに",
+    "meaning": "生まれたときや元の状態のままで。(while remaining in the state of)"
+  },
+  {
+    "gid": 77,
+    "term": "〜きわまる",
+    "reading": "きわまる",
+    "meaning": "この上なく限界まで〜である。(extremely; reaches the peak of)"
+  },
+  {
+    "gid": 78,
+    "term": "〜といったらない",
+    "reading": "といったらない",
+    "meaning": "言葉で言い表せないほどすごい。(beyond words; extraordinarily)"
+  },
+  {
+    "gid": 79,
+    "term": "〜かぎりだ",
+    "reading": "かぎりだ",
+    "meaning": "最高に〜の気持ちだ。(feel supremely/extremely ~)"
+  },
+  {
+    "gid": 80,
+    "term": "〜手前",
+    "reading": "てまえ",
+    "meaning": "周囲の目や相手の立場を考えると。(out of consideration for; given one’s stance)"
+  },
+  {
+    "gid": 81,
+    "term": "〜そびれる",
+    "reading": "そびれる",
+    "meaning": "〜する機会を逃してしまう。(miss the opportunity to do)"
+  },
+  {
+    "gid": 82,
+    "term": "〜かたわら",
+    "reading": "かたわら",
+    "meaning": "本業の一方で、別の活動も行う。(alongside; while doing one’s main job)"
+  },
+  {
+    "gid": 83,
+    "term": "〜かたがた",
+    "reading": "かたがた",
+    "meaning": "ある目的のついでに別の用件も果たす。(while also doing; combining purposes)"
+  },
+  {
+    "gid": 84,
+    "term": "〜がてら",
+    "reading": "がてら",
+    "meaning": "散歩やついでを兼ねて。(while on the occasion of; as a sideline)"
+  },
+  {
+    "gid": 85,
+    "term": "〜をよそに",
+    "reading": "をよそに",
+    "meaning": "周囲の心配や反対をまったく気にせず。(disregarding; indifferent to)"
+  },
+  {
+    "gid": 86,
+    "term": "〜をものともせず",
+    "reading": "をものともせず",
+    "meaning": "困難やプレッシャーに負けずに立ち向かう。(defying; braving (hardship/danger))"
+  },
+  {
+    "gid": 87,
+    "term": "〜を押して",
+    "reading": "をおして",
+    "meaning": "病気や反対を無理に乗り越えて行う。(pushing through; despite illness/opposition)"
+  },
+  {
+    "gid": 88,
+    "term": "〜をおいて〜ない",
+    "reading": "をおいてない",
+    "meaning": "〜以外には絶対にない・適任者はいない。(nobody/nothing else besides)"
+  },
+  {
+    "gid": 89,
+    "term": "〜はさておき",
+    "reading": "はさておき",
+    "meaning": "今は脇に置いて、まず本題に入る。(putting aside; setting aside)"
+  },
+  {
+    "gid": 90,
+    "term": "〜はどうあれ",
+    "reading": "はどうあれ",
+    "meaning": "どんな状況であろうと。(whatever the case may be)"
+  },
+  {
+    "gid": 91,
+    "term": "〜拍子に",
+    "reading": "ひょうしに",
+    "meaning": "何かの勢いやはずみで思わぬことが起きる。(by the momentum of; right at the moment)"
+  },
+  {
+    "gid": 92,
+    "term": "〜折に",
+    "reading": "おりに",
+    "meaning": "その機会・好機・タイミングで。(on the occasion of; when)"
+  },
+  {
+    "gid": 93,
+    "term": "〜を境に",
+    "reading": "をさかいに",
+    "meaning": "それを区切りとして状況が一変する。(marking the boundary/turning point)"
+  },
+  {
+    "gid": 94,
+    "term": "〜を経て",
+    "reading": "をへて",
+    "meaning": "年月・場所・経験を通過して。(through; via process/years)"
+  },
+  {
+    "gid": 95,
+    "term": "〜を前提として",
+    "reading": "をぜんていとして",
+    "meaning": "〜をあらかじめ条件・前提として。(on the premise of)"
+  },
+  {
+    "gid": 96,
+    "term": "〜をもってすれば",
+    "reading": "をもってすれば",
+    "meaning": "その能力や実力を使えば。(if done with one’s ability/power)"
+  },
+  {
+    "gid": 97,
+    "term": "〜んがため",
+    "reading": "んがため",
+    "meaning": "強い目的のために努力する。(in order to achieve a major goal)"
+  },
+  {
+    "gid": 98,
+    "term": "〜んとする",
+    "reading": "んとする",
+    "meaning": "今にも〜しようとする。(be about to do; attempt to)"
+  },
+  {
+    "gid": 99,
+    "term": "〜てやまない",
+    "reading": "てやまない",
+    "meaning": "心から強く祈る・願い続ける。(never cease to; wholeheartedly wish)"
+  },
+  {
+    "gid": 100,
+    "term": "〜てからというもの",
+    "reading": "てからというもの",
+    "meaning": "〜して以来ずっとその状態が続いている。(ever since doing ~)"
+  },
+  {
+    "gid": 101,
+    "term": "〜にあって",
+    "reading": "にあって",
+    "meaning": "その特殊な時代や極限状況の中で。(in the special condition/circumstance of)"
+  },
+  {
+    "gid": 102,
+    "term": "〜のも無理はない",
+    "reading": "のもむりはない",
+    "meaning": "そうなるのは当然で不思議ではない。(it is only natural; no wonder)"
+  },
+  {
+    "gid": 103,
+    "term": "〜のみか",
+    "reading": "のみか",
+    "meaning": "〜だけでなく、その上さらに。(not only; not merely)"
+  },
+  {
+    "gid": 104,
+    "term": "〜といったらありはしない",
+    "reading": "といったらありはしない",
+    "meaning": "この上なくひどい・困った状態だ。(utterly; extraordinarily bad)"
+  },
+  {
+    "gid": 105,
+    "term": "〜の至り",
+    "reading": "のいたり",
+    "meaning": "この上ない最高の状態（光栄の至り、若気の至り）。(the pinnacle of; utmost)"
+  },
+  {
+    "gid": 106,
+    "term": "〜の極み",
+    "reading": "のきわみ",
+    "meaning": "これ以上ない極限の境地（贅沢の極み、疲労の極み）。(the peak of; height of)"
+  },
+  {
+    "gid": 107,
+    "term": "〜たりとも〜ない",
+    "reading": "たりともない",
+    "meaning": "最小の１単位でも絶対に〜ない。(not even a single (second/cent))"
+  },
+  {
+    "gid": 108,
+    "term": "〜をおいてほかにない",
+    "reading": "をおいてほかにない",
+    "meaning": "それ以外には絶対にない。(none other than)"
+  },
+  {
+    "gid": 109,
+    "term": "〜に値する",
+    "reading": "にあたいする",
+    "meaning": "そうするだけの価値が十分にある。(worthy of; deserve)"
+  },
+  {
+    "gid": 110,
+    "term": "〜に難くない",
+    "reading": "にかたくない",
+    "meaning": "想像や推察が容易にできる。(not hard to imagine/foresee)"
+  },
+  {
+    "gid": 111,
+    "term": "〜てはかなわない",
+    "reading": "てはかなわない",
+    "meaning": "我慢できないほど困る・嫌だ。(cannot endure; can’t stand)"
+  },
+  {
+    "gid": 112,
+    "term": "〜てはたまらない",
+    "reading": "てはたまらない",
+    "meaning": "感情や欲求が強くて抑えられない。(unbearably; cannot help feeling)"
+  },
+  {
+    "gid": 113,
+    "term": "〜てはならない",
+    "reading": "てはならない",
+    "meaning": "道徳や法律上、決してしてはいけない。(must never; shall not)"
+  },
+  {
+    "gid": 114,
+    "term": "〜ないではいられない",
+    "reading": "ないではいられない",
+    "meaning": "どうしても我慢できず自然にしてしまう。(cannot resist doing; compelled to)"
+  },
+  {
+    "gid": 115,
+    "term": "〜ずにはいられない",
+    "reading": "ずにはいられない",
+    "meaning": "抑えきれずに思わずしてしまう。(cannot help doing; spontaneous urge)"
+  },
+  {
+    "gid": 116,
+    "term": "〜ざるを得ない",
+    "reading": "ざるをえない",
+    "meaning": "他に方法がなく、嫌でもしなければならない。(have no choice but to)"
+  },
+  {
+    "gid": 117,
+    "term": "〜ようものなら",
+    "reading": "ようものなら",
+    "meaning": "もしそんなことをしたら大変なことになる。(if ever such a thing happens)"
+  },
+  {
+    "gid": 118,
+    "term": "〜ばこそ",
+    "reading": "ばこそ",
+    "meaning": "まさにその理由があるからこそ。(precisely because)"
+  },
+  {
+    "gid": 119,
+    "term": "〜なくしては",
+    "reading": "なくしては",
+    "meaning": "もし〜がなければ到底不可能だ。(impossible without ~)"
+  },
+  {
+    "gid": 120,
+    "term": "〜ないことには",
+    "reading": "ないことには",
+    "meaning": "まず〜しなければ次の段階に進めない。(unless ~ is done, cannot)"
+  },
+  {
+    "gid": 121,
+    "term": "〜としたところで",
+    "reading": "としたところで",
+    "meaning": "たとえそう仮定しても結果は同じだ。(even if we assume that)"
+  },
+  {
+    "gid": 122,
+    "term": "〜にしたところで",
+    "reading": "にしたところで",
+    "meaning": "その立場から見ても同じことだ。(even from the standpoint of)"
+  },
+  {
+    "gid": 123,
+    "term": "〜にしてみれば",
+    "reading": "にしてみれば",
+    "meaning": "その人の立場から考えれば。(from the viewpoint of)"
+  },
+  {
+    "gid": 124,
+    "term": "〜からといって",
+    "reading": "からといって",
+    "meaning": "〜という理由だけで必ずしもそうとは限らない。(just because; simply because)"
+  },
+  {
+    "gid": 125,
+    "term": "〜いかんだ",
+    "reading": "いかんだ",
+    "meaning": "その条件や成り行きによって決まる。(depends on)"
+  },
+  {
+    "gid": 126,
+    "term": "〜いかんによって",
+    "reading": "いかんによって",
+    "meaning": "次第で結果が変わる。(depending on)"
+  },
+  {
+    "gid": 127,
+    "term": "〜いかんにかかわらず",
+    "reading": "いかんにかかわらず",
+    "meaning": "どのような条件であっても関係なく。(regardless of)"
+  }
+]

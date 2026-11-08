@@ -2349,7 +2349,7 @@
           reading: vMatch.reading || '',
           ruby: vMatch.ruby || '',
           meaning: vMatch.meaning || '',
-          level: vMatch.cat_name || 'N2 語彙',
+          level: vMatch.cat_name || 'N1 語彙',
           example_ja: vMatch.ex_ja || '',
           example_en: vMatch.ex_en || ''
         };
@@ -2399,7 +2399,7 @@
     return {
       term: primary.term || cleanQ,
       reading: primary.reading || (vocabMatch ? vocabMatch.reading : ''),
-      level: primary.level || 'JLPT N2',
+      level: primary.level || 'JLPT N1',
       meaning: primary.meaning || (vocabMatch ? vocabMatch.meaning : ''),
       example_ja: ex_ja,
       example_en: ex_en,
