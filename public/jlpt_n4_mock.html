@@ -1,0 +1,1391 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N4 実戦模擬試験 第1回 — 本番時間・自動採点・合否判定</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+  <script src="database/jlpt_n4_mock_rounds.js"></script>
+  <script src="database/jlpt_n4_mock_data.js"></script>
+
+  <style>
+    :root {
+      --primary-blue: #1995AD;
+      --primary-blue-dark: #127285;
+      --primary-blue-light: #43B0C4;
+      --primary-blue-pale: #EDF7F9;
+      
+      --sakura-pink-bg: #FAF1F3;
+      --sakura-pink-soft: #FDF7F8;
+      --sakura-pink-accent: #E8A4B2;
+      --sakura-pink-deep: #B8596E;
+
+      --text-primary: #1F2D3D;
+      --text-secondary: #4D648D;
+      --text-muted: #7E92A2;
+
+      --card-bg: #FFFFFF;
+      --card-border: #E2ECF2;
+      --correct-bg: #E8F5E9;
+      --correct-text: #2E7D32;
+      --wrong-bg: #FEE2E2;
+      --wrong-text: #991B1B;
+
+      --app-font: 'Inter', "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      background-color: var(--sakura-pink-bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(232, 164, 178, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(70, 130, 151, 0.12) 0%, transparent 40%);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      font-family: var(--app-font);
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    
+    u {
+      text-decoration: underline;
+      text-decoration-color: #14778B;
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 4px;
+      font-weight: 700;
+      color: inherit;
+    }
+
+    .jlpt-underline-blank {
+      display: inline-block;
+      width: 2.2em;
+      border-bottom: 1.5px solid #14778B;
+      vertical-align: -2px;
+      margin: 0 3px;
+      text-decoration: none !important;
+    }
+
+    ruby { ruby-position: over; }
+    rt {
+      font-size: 0.65em;
+      color: var(--primary-blue-dark);
+      user-select: none;
+    }
+    body.hide-furigana rt { display: none; }
+
+    .custom-scroll::-webkit-scrollbar { width: 6px; height: 6px; }
+    .custom-scroll::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 4px; }
+    .custom-scroll::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+
+    .nav-tab {
+      background: #F8FAFC;
+      color: #4D648D;
+      border: 1.5px solid #E2ECF2;
+      border-radius: 12px;
+      transition: all 0.2s;
+    }
+    .nav-tab:hover {
+      background: #EDF7F9;
+      color: #127285;
+      border-color: #A4D4DE;
+    }
+    .nav-tab.active {
+      background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%) !important;
+      color: #FFFFFF !important;
+      border-color: var(--primary-blue-dark) !important;
+      box-shadow: 0 4px 12px rgba(25, 149, 173, 0.25);
+      font-weight: 800;
+    }
+
+    .opt-btn {
+      transition: all 0.15s ease-in-out;
+      border: 1.5px solid #E2ECF2;
+      background: #FFFFFF;
+      color: #1F2D3D;
+    }
+    .opt-btn:hover {
+      background-color: #EDF7F9;
+      border-color: #1995AD;
+    }
+    .opt-btn.selected {
+      background-color: #EDF7F9;
+      border-color: var(--primary-blue);
+      box-shadow: 0 0 0 2px rgba(25, 149, 173, 0.25);
+    }
+
+    .mark-bubble {
+      transition: all 0.15s;
+    }
+    .mark-bubble.answered {
+      background-color: var(--primary-blue);
+      color: white;
+      border-color: var(--primary-blue-dark);
+    }
+    .mark-bubble.bookmarked {
+      border: 2px solid #EAB308 !important;
+      position: relative;
+    }
+    .mark-bubble.bookmarked::after {
+      content: '';
+      position: absolute;
+      top: -2px;
+      right: -2px;
+      width: 7px;
+      height: 7px;
+      background-color: #EAB308;
+      border-radius: 50%;
+    }
+
+    .reading-box {
+      background: #FAFCFD;
+      border: 1.5px solid #D6E4ED;
+      border-radius: 12px;
+      padding: 16px 20px;
+      line-height: 1.9;
+      font-size: 15px;
+    }
+
+    .reading-box mark.evidence-mark {
+      background-color: #FEF08A;
+      color: inherit;
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+
+    .audio-player-bar {
+      background: #F0F9FB;
+      border: 1px solid #C8E5ED;
+      border-radius: 10px;
+      padding: 10px 14px;
+    }
+  </style>
+</head>
+<body class="p-0 m-0 pb-24">
+
+  <!-- TOP STICKY HEADER -->
+  <header class="sticky top-0 z-40 bg-gradient-to-r from-[#1995AD] to-[#127285] text-white shadow-md">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-3">
+      
+      <!-- Left: Logo & Back -->
+      <div class="flex items-center gap-3">
+        <a href="jlpt_practice.html" class="flex items-center gap-1.5 text-xs md:text-sm font-bold text-white bg-white/20 hover:bg-white/30 border border-white/30 px-3 py-1.5 rounded-full transition">
+          <i data-lucide="arrow-left" class="w-4 h-4"></i>
+          <span>道場トップ</span>
+        </a>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="bg-white text-[#127285] text-xs font-black px-2.5 py-0.5 rounded-full tracking-wide shadow-xs">N4 模試</span>
+            <h1 class="text-sm md:text-base font-extrabold text-white" id="exam-title-header">実戦模擬試験 第1回</h1>
+          </div>
+          <p class="text-[11px] text-white/80 hidden sm:block">本番形式 全98問（文字語彙・文法読解・聴解）</p>
+        </div>
+      </div>
+
+      <!-- Center: Round Selector & Timer -->
+      <div class="flex items-center gap-2 sm:gap-4">
+        <!-- Round Select -->
+        <div class="relative inline-block text-left">
+          <select id="round-select" onchange="changeRound(this.value)" class="text-xs md:text-sm font-bold bg-white/20 hover:bg-white/30 border border-white/30 text-white rounded-xl px-3 py-1.5 focus:bg-white focus:text-gray-900 outline-none cursor-pointer transition">
+            <option value="1" class="text-gray-900 bg-white">第1回 (本番実戦)</option>
+            <option value="2" class="text-gray-900 bg-white">第2回 (本番実戦)</option>
+            <option value="3" class="text-gray-900 bg-white">第3回 (本番実戦)</option>
+            <option value="4" class="text-gray-900 bg-white">第4回 (本番実戦)</option>
+            <option value="5" class="text-gray-900 bg-white">第5回 (本番実戦)</option>
+            <option value="6" class="text-gray-900 bg-white">第6回 (本番実戦)</option>
+            <option value="7" class="text-gray-900 bg-white">第7回 (本番実戦)</option>
+            <option value="8" class="text-gray-900 bg-white">第8回 (本番実戦)</option>
+            <option value="9" class="text-gray-900 bg-white">第9回 (本番実戦)</option>
+            <option value="10" class="text-gray-900 bg-white">第10回 (本番実戦)</option>
+          </select>
+        </div>
+
+        <!-- Timer Display -->
+        <div class="flex items-center gap-1.5 bg-black/25 border border-white/25 px-3 py-1.5 rounded-xl text-white font-mono text-xs md:text-sm font-extrabold shadow-inner">
+          <i data-lucide="clock" class="w-4 h-4 text-white"></i>
+          <span id="timer-display" class="tracking-wider">105:00</span>
+          <button id="btn-timer-toggle" class="text-white/80 hover:text-white ml-1 p-0.5" title="一時停止/再開">
+            <i data-lucide="pause" id="timer-icon" class="w-3.5 h-3.5"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Right: Tools (Furigana, Mark Sheet, Submit) -->
+      <div class="flex items-center gap-2">
+        <div class="hidden sm:flex items-center gap-1 text-[11px] font-bold text-white bg-white/20 border border-white/30 px-2.5 py-1.5 rounded-full" title="本番と同じ形式の模擬試験">
+          <span>本番形式</span>
+        </div>
+
+        <button id="btn-open-marksheet" class="relative text-xs font-bold px-3 py-1.5 rounded-full border border-white/30 bg-white/20 hover:bg-white/30 text-white flex items-center gap-1.5 transition">
+          <i data-lucide="layout-grid" class="w-4 h-4"></i>
+          <span class="hidden md:inline">解答用紙</span>
+          <span id="answered-counter-pill" class="bg-white text-[#127285] text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold">0/98</span>
+        </button>
+
+        <button id="btn-submit-exam" class="text-xs md:text-sm font-extrabold px-4 py-1.5 rounded-full bg-white hover:bg-[#EDF7F9] text-[#127285] shadow-md flex items-center gap-1.5 transition">
+          <i data-lucide="check-circle" class="w-4 h-4 text-[#127285]"></i>
+          <span>採点する</span>
+        </button>
+      </div>
+
+    </div>
+
+    <!-- SUB HEADER: SECTION TABS -->
+    <div class="bg-white border-t border-[#E2ECF2] shadow-xs px-4">
+      <div class="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto py-2.5 custom-scroll text-xs md:text-sm">
+        <button id="tab-sec1" onclick="switchSection('sec1')" class="nav-tab active flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
+          <span>① 文字・語彙</span>
+          <span class="text-[11px] opacity-80">(35問 / 30分)</span>
+          <span id="badge-sec1" class="text-[10px] bg-white text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/35</span>
+        </button>
+        <button id="tab-sec2" onclick="switchSection('sec2')" class="nav-tab flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
+          <span>② 文法・読解</span>
+          <span class="text-[11px] opacity-80">(35問 / 60分)</span>
+          <span id="badge-sec2" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/32</span>
+        </button>
+        <button id="tab-sec3" onclick="switchSection('sec3')" class="nav-tab flex items-center gap-2 px-4 py-1.5 rounded-xl font-bold transition whitespace-nowrap">
+          <span>③ 聴解</span>
+          <span class="text-[11px] opacity-80">(28問 / 35分)</span>
+          <span id="badge-sec3" class="text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold">0/24</span>
+        </button>
+
+        <div class="ml-auto hidden lg:flex items-center gap-3 text-xs text-[#7E92A2]">
+          <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-[#1995AD]"></span>解答済</span>
+          <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-yellow-400"></span>見直し</span>
+          <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-gray-300"></span>未解答</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- REVIEW FILTER BAR (Only visible after submission) -->
+  <div id="review-banner" class="hidden bg-[#FAF1F3] border-b border-[#F2D5DB] py-3 px-4">
+    <div class="max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <span class="bg-[#B8596E] text-white text-xs font-bold px-2.5 py-0.5 rounded-full">復習モード</span>
+        <span class="text-xs md:text-sm font-bold text-[#1F2D3D]" id="review-status-text">採点が完了しました。解説を確認できます。</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <button onclick="setReviewFilter('wrong')" id="filter-btn-wrong" class="text-xs font-bold px-3.5 py-1.5 rounded-xl bg-white border border-[#B8596E] text-[#B8596E] hover:bg-[#FAF1F3] flex items-center gap-1.5 shadow-xs transition">
+          <span>🔴 間違えた問題だけ復習 (Review Incorrect Only)</span>
+          <span id="wrong-count-badge" class="bg-[#FAF1F3] text-[#B8596E] border border-[#F2D5DB] text-[10px] px-1.5 py-0.5 rounded-full font-mono font-bold">0</span>
+        </button>
+        <button onclick="setReviewFilter('all')" id="filter-btn-all" class="text-xs font-bold px-3.5 py-1.5 rounded-xl bg-[#1995AD] text-white hover:bg-[#127285] shadow-xs transition">
+          <span>全問解説 (All Explanations)</span>
+        </button>
+        <button onclick="setReviewFilter('bookmarked')" id="filter-btn-bookmarked" class="text-xs font-bold px-3.5 py-1.5 rounded-xl bg-white border border-yellow-400 text-yellow-800 hover:bg-yellow-50 flex items-center gap-1 shadow-xs transition">
+          <span>🔖 見直し (Bookmarked)</span>
+          <span id="bookmarked-count-badge" class="bg-yellow-100 text-yellow-800 text-[10px] px-1.5 py-0.5 rounded-full font-mono font-bold">0</span>
+        </button>
+        <button onclick="openResultModal()" class="text-xs font-bold px-3.5 py-1.5 rounded-xl bg-[#127285] text-white hover:bg-[#0E5B6A] flex items-center gap-1 shadow-xs transition">
+          <i data-lucide="award" class="w-3.5 h-3.5"></i>
+          <span>成績表を見る</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MAIN EXAM CONTAINER -->
+  <main class="max-w-4xl mx-auto px-4 py-6">
+    <div id="questions-container" class="space-y-6">
+      <!-- Injected by JavaScript -->
+    </div>
+
+    <!-- Bottom Action Navigation -->
+    <div class="mt-8 flex items-center justify-between border-t border-gray-200 pt-6">
+      <button id="btn-prev-section" onclick="prevSection()" class="px-4 py-2 rounded-lg bg-white border border-gray-300 text-gray-700 font-bold text-xs md:text-sm hover:bg-gray-50 flex items-center gap-1.5">
+        <i data-lucide="chevron-left" class="w-4 h-4"></i>
+        <span>前の科目へ</span>
+      </button>
+
+      <button id="btn-bottom-submit" onclick="confirmSubmit()" class="px-6 py-2.5 rounded-lg bg-gradient-to-r from-teal-600 to-cyan-700 text-white font-extrabold text-sm md:text-base shadow hover:from-teal-700 hover:to-cyan-800 flex items-center gap-2">
+        <i data-lucide="send" class="w-4 h-4"></i>
+        <span>試験を提出して採点する</span>
+      </button>
+
+      <button id="btn-next-section" onclick="nextSection()" class="px-4 py-2 rounded-lg bg-white border border-gray-300 text-gray-700 font-bold text-xs md:text-sm hover:bg-gray-50 flex items-center gap-1.5">
+        <span>次の科目へ</span>
+        <i data-lucide="chevron-right" class="w-4 h-4"></i>
+      </button>
+    </div>
+  </main>
+
+  <!-- MARK SHEET DRAWER / MODAL -->
+  <div id="marksheet-modal" class="fixed inset-0 z-50 bg-black/40 backdrop-blur-sm hidden flex items-center justify-center p-3 md:p-6">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-3xl w-full max-h-[90vh] flex flex-col overflow-hidden animate-scale-in">
+      <div class="px-6 py-4 border-b border-gray-200 flex items-center justify-between bg-teal-50">
+        <div class="flex items-center gap-2">
+          <i data-lucide="layout-grid" class="w-5 h-5 text-teal-700"></i>
+          <h2 class="text-base font-extrabold text-gray-900">マークシート解答用紙（全98問）</h2>
+        </div>
+        <button onclick="closeMarksheetModal()" class="text-gray-400 hover:text-gray-700 p-1 rounded-lg">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+
+      <div class="p-6 overflow-y-auto custom-scroll space-y-6 flex-1">
+        <!-- Section 1 Grid -->
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-xs font-extrabold text-teal-800">① 言語知識（文字・語彙） (問1〜問35)</h3>
+            <span id="ms-count-sec1" class="text-[11px] font-mono font-bold text-gray-500">0/35 解答</span>
+          </div>
+          <div id="ms-grid-sec1" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
+        </div>
+
+        <!-- Section 2 Grid -->
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-xs font-extrabold text-teal-800">② 言語知識（文法）・読解 (問36〜問70)</h3>
+            <span id="ms-count-sec2" class="text-[11px] font-mono font-bold text-gray-500">0/32 解答</span>
+          </div>
+          <div id="ms-grid-sec2" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
+        </div>
+
+        <!-- Section 3 Grid -->
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-xs font-extrabold text-teal-800">③ 聴解 (問71〜問98)</h3>
+            <span id="ms-count-sec3" class="text-[11px] font-mono font-bold text-gray-500">0/24 解答</span>
+          </div>
+          <div id="ms-grid-sec3" class="grid grid-cols-7 sm:grid-cols-10 gap-2"></div>
+        </div>
+      </div>
+
+      <div class="px-6 py-3 border-t border-gray-200 bg-gray-50 flex items-center justify-between">
+        <div class="text-xs text-gray-600">
+          <span>番号をクリックするとその問題にジャンプします</span>
+        </div>
+        <button onclick="closeMarksheetModal()" class="px-4 py-2 bg-gray-800 text-white text-xs font-bold rounded-lg hover:bg-gray-900">
+          閉じる
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULT & SCORECARD MODAL -->
+  <div id="result-modal" class="fixed inset-0 z-50 bg-black/50 backdrop-blur-sm hidden flex items-center justify-center p-3 md:p-6">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[92vh] flex flex-col overflow-hidden animate-scale-in">
+      
+      <!-- Result Modal Header -->
+      <div id="result-modal-header" class="px-6 py-6 text-white relative transition-colors duration-300" style="background: linear-gradient(135deg, #1995AD, #127285);">
+        <button onclick="closeResultModal()" class="absolute top-3.5 right-3.5 text-white/80 hover:text-white p-1.5 rounded-full hover:bg-white/20 transition z-20">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+
+        <div class="flex items-center justify-between gap-4 sm:gap-6 py-1 max-w-xl mx-auto pr-2 sm:pr-4">
+          <div class="text-left flex-1 min-w-0">
+            <span class="inline-block text-[10px] font-extrabold uppercase tracking-widest px-2.5 py-0.5 rounded-full bg-white/20 mb-1.5">
+              JLPT N4 MOCK EXAM RESULT
+            </span>
+            <div id="result-badge-text" class="text-2xl sm:text-3xl md:text-4xl font-black leading-tight tracking-tight">
+              合 格 (PASSED)
+            </div>
+            <p id="result-desc-text" class="text-xs sm:text-sm text-white/95 font-medium mt-1 leading-relaxed">おめでとうございます！合格基準点を突破しました。</p>
+          </div>
+          <img id="result-poodle-img" src="images/mock_poodle_pass.png" alt="プードル" class="w-20 h-24 sm:w-24 sm:h-28 object-contain drop-shadow-md shrink-0">
+        </div>
+
+        <p class="text-[11px] text-white/85 mt-3 font-normal leading-relaxed max-w-xl mx-auto border-t border-white/20 pt-2 text-center">
+          ※JLPT本番では単なる素点計算ではなく、項目応答理論（IRT）に基づく「尺度得点」が用いられます。本システムの得点は、この考え方を参考にした目安（推定値）です。
+        </p>
+      </div>
+
+      <!-- Result Modal Body -->
+      <div class="p-6 overflow-y-auto custom-scroll space-y-5 flex-1 bg-white">
+        
+        <!-- Score Highlights -->
+        <div class="grid grid-cols-3 gap-3 text-center">
+          <div class="bg-[#FAF1F3] border border-[#F2D5DB] p-3 rounded-2xl">
+            <div class="text-[11px] font-bold text-[#B8596E]">総合得点</div>
+            <div class="text-2xl font-black text-[#1F2D3D] mt-1">
+              <span id="score-total" class="text-[#1995AD]">0</span><span class="text-xs text-[#7E92A2]">/180点</span>
+            </div>
+            <div class="text-[10px] text-[#4D648D] mt-0.5 font-bold">合格点: 90点以上</div>
+          </div>
+
+          <div class="bg-[#EDF7F9] border border-[#1995AD]/20 p-3 rounded-2xl">
+            <div class="text-[11px] font-bold text-[#127285]">言語知識・読解</div>
+            <div class="text-2xl font-black text-[#1F2D3D] mt-1">
+              <span id="score-lang-reading" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/120点</span>
+            </div>
+            <div id="bench-lang-reading" class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 38点</div>
+          </div>
+
+          <div class="bg-[#EDF7F9] border border-[#1995AD]/20 p-3 rounded-2xl">
+            <div class="text-[11px] font-bold text-[#127285]">聴解</div>
+            <div class="text-2xl font-black text-[#1F2D3D] mt-1">
+              <span id="score-listening" class="text-[#127285]">0</span><span class="text-xs text-[#7E92A2]">/60点</span>
+            </div>
+            <div id="bench-listening" class="text-[10px] text-[#4D648D] mt-0.5 font-bold">基準点: 19点</div>
+          </div>
+        </div>
+
+        <!-- Reference Ratings (A/B/C) -->
+        <div class="bg-[#EDF7F9]/80 border border-[#1995AD]/20 rounded-2xl p-4">
+          <div class="text-xs font-extrabold text-[#127285] mb-2.5 flex items-center gap-1.5">
+            <i data-lucide="info" class="w-4 h-4 text-[#1995AD]"></i>
+            <span>参考情報（正答率判定）</span>
+          </div>
+          <div class="grid grid-cols-2 gap-3 text-xs">
+            <div class="bg-white p-3 rounded-xl border border-[#1995AD]/20 flex items-center justify-between shadow-xs">
+              <span class="font-bold text-[#1F2D3D]">文字・語彙</span>
+              <span id="grade-vocab" class="font-black text-xs px-2.5 py-0.5 rounded-full bg-[#EDF7F9] text-[#127285] border border-[#1995AD]/25">A (よくできた)</span>
+            </div>
+            <div class="bg-white p-3 rounded-xl border border-[#1995AD]/20 flex items-center justify-between shadow-xs">
+              <span class="font-bold text-[#1F2D3D]">文法</span>
+              <span id="grade-grammar" class="font-black text-xs px-2.5 py-0.5 rounded-full bg-[#EDF7F9] text-[#127285] border border-[#1995AD]/25">A (よくできた)</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Category Breakdown Table -->
+        <div>
+          <h4 class="text-xs font-extrabold text-[#1F2D3D] mb-2 flex items-center gap-1.5">
+            <span class="w-2.5 h-2.5 rounded-full bg-[#1995AD]"></span>
+            <span>大問別 成績詳細</span>
+          </h4>
+          <div class="border border-[#E2ECF2] rounded-2xl overflow-hidden text-xs shadow-xs">
+            <table class="w-full text-left">
+              <thead class="bg-[#EDF7F9] text-[#127285] font-bold border-b border-[#E2ECF2]">
+                <tr>
+                  <th class="p-2.5">大問</th>
+                  <th class="p-2.5 text-center">問題数</th>
+                  <th class="p-2.5 text-center">正答数</th>
+                  <th class="p-2.5 text-right">正答率</th>
+                </tr>
+              </thead>
+              <tbody id="result-breakdown-tbody" class="divide-y divide-[#E2ECF2] text-[#1F2D3D]">
+                <!-- Injected by JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Result Modal Footer -->
+      <div class="px-6 py-4 border-t border-[#E2ECF2] bg-[#F8FAFC] flex flex-wrap items-center justify-between gap-3">
+        <button onclick="closeResultModal(); setReviewFilter('wrong');" class="text-xs md:text-sm font-extrabold px-4 py-2.5 rounded-xl text-white flex items-center gap-1.5 shadow-md hover:opacity-95 transition-all" style="background: linear-gradient(135deg, #B8596E, #CE5A73); box-shadow: 0 4px 14px rgba(184,89,110,0.35);">
+          <span>🔴 間違えた問題だけ復習する (Review Incorrect Only)</span>
+        </button>
+        <button onclick="closeResultModal(); setReviewFilter('all');" class="text-xs md:text-sm font-bold px-4 py-2.5 rounded-xl bg-[#1995AD] hover:bg-[#127285] text-white flex items-center gap-1.5 shadow-sm transition">
+          <span>全問解説 (All Explanations)</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- JAVASCRIPT LOGIC -->
+  <script>
+    // State
+    let MOCK_DATA = window.JLPT_N4_MOCK_DATA;
+    let currentRound = 1;
+    let currentSectionId = 'sec1';
+    let userAnswers = {}; // { qId: selectedOptionIndex }
+    let bookmarks = {}; // { qId: boolean }
+    let isSubmitted = false;
+    let reviewFilter = 'all'; // 'all', 'wrong', 'bookmarked'
+    let currentActiveAudio = null;
+
+    function getStorageKeys(rNum) {
+      if (rNum === 1) {
+        return { ans: 'jlpt_n4_mock01_answers', bm: 'jlpt_n4_mock01_bookmarks' };
+      }
+      return { ans: `jlpt_n4_mock_r${rNum}_answers`, bm: `jlpt_n4_mock_r${rNum}_bookmarks` };
+    }
+
+    function changeRound(roundVal) {
+      const rNum = parseInt(roundVal);
+      if (window.JLPT_N4_MOCK_ROUNDS && window.JLPT_N4_MOCK_ROUNDS[rNum]) {
+        if (currentAudioEl) {
+          currentAudioEl.pause();
+          currentAudioEl = null;
+          currentAudioQId = null;
+        }
+        MOCK_DATA = window.JLPT_N4_MOCK_ROUNDS[rNum];
+        currentRound = rNum;
+        userAnswers = {};
+        bookmarks = {};
+        try {
+          const keys = getStorageKeys(rNum);
+          const saved = localStorage.getItem(keys.ans);
+          if (saved) userAnswers = JSON.parse(saved);
+          const savedBm = localStorage.getItem(keys.bm);
+          if (savedBm) bookmarks = JSON.parse(savedBm);
+        } catch (e) {}
+        isSubmitted = false;
+        reviewFilter = 'all';
+        currentSectionId = 'sec1';
+        remainingSeconds = (MOCK_DATA.totalTimeMinutes || 105) * 60;
+        
+        // Update Title if present
+        const titleEl = document.getElementById('exam-title-header');
+        if (titleEl) titleEl.textContent = `実戦模擬試験 第${rNum}回`;
+        document.title = `JLPT N4 実戦模擬試験 第${rNum}回 — 本番時間・自動採点・合否判定`;
+
+        // Reset Submit Buttons
+        const btnSubmit = document.getElementById('btn-submit-exam');
+        if (btnSubmit) {
+          btnSubmit.innerHTML = '<i data-lucide="check-circle" class="w-4 h-4 text-[#127285]"></i><span>採点する</span>';
+          btnSubmit.onclick = confirmSubmit;
+        }
+        const btnBottomSubmit = document.getElementById('btn-bottom-submit');
+        if (btnBottomSubmit) {
+          btnBottomSubmit.innerHTML = '<i data-lucide="send" class="w-4 h-4"></i><span>試験を提出して採点する</span>';
+          btnBottomSubmit.onclick = confirmSubmit;
+        }
+
+        // Reset UI
+        document.getElementById('review-banner').classList.add('hidden');
+        switchSection('sec1');
+        renderMarksheetBubbles();
+        updateAnswerCounter();
+        
+        // Restart timer
+        if (timerInterval) clearInterval(timerInterval);
+        isTimerRunning = true;
+        startTimer();
+      }
+    }
+
+    // Timer (105 minutes = 6300 seconds)
+    let remainingSeconds = 105 * 60;
+    let timerInterval = null;
+    let isTimerRunning = true;
+
+    // Initialization
+    window.addEventListener('DOMContentLoaded', () => {
+      initApp();
+      lucide.createIcons();
+    });
+
+    function initApp() {
+      // Load saved answers from localStorage if available
+      try {
+        const saved = localStorage.getItem('jlpt_n4_mock01_answers');
+        if (saved) userAnswers = JSON.parse(saved);
+        const savedBm = localStorage.getItem('jlpt_n4_mock01_bookmarks');
+        if (savedBm) bookmarks = JSON.parse(savedBm);
+      } catch (e) {}
+
+      renderCurrentSection();
+      renderMarksheetBubbles();
+      updateAnswerCounter();
+      startTimer();
+
+      // Check URL params (supports both http and file:// schemas)
+      const href = window.location.href;
+      if (href.includes('sec=sec2')) {
+        switchSection('sec2');
+      } else if (href.includes('sec=sec3')) {
+        switchSection('sec3');
+      }
+
+      const qMatch = href.match(/[?&]q=(\d+)/);
+      if (qMatch) {
+        setTimeout(() => {
+          const el = document.getElementById(`q-card-${qMatch[1]}`);
+          if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
+        }, 50);
+      }
+
+      if (href.includes('testResult=pass')) {
+        MOCK_DATA.questions.forEach((q) => {
+          userAnswers[q.id] = q.correctIndex;
+        });
+        submitExam();
+      } else if (href.includes('testResult=1') || href.includes('testResult=fail')) {
+        MOCK_DATA.questions.forEach((q, idx) => {
+          if (q.sectionId === 'sec3') {
+            userAnswers[q.id] = (q.correctIndex + 1) % 4; // Fail listening benchmark
+          } else if (idx % 2 === 0) {
+            userAnswers[q.id] = q.correctIndex;
+          } else {
+            userAnswers[q.id] = (q.correctIndex + 1) % 4;
+          }
+        });
+        submitExam();
+      }
+
+      // Furigana toggle
+      const btnFurigana = document.getElementById('btn-toggle-furigana');
+      if (btnFurigana) {
+        btnFurigana.addEventListener('click', () => {
+          document.body.classList.toggle('hide-furigana');
+          const isHidden = document.body.classList.contains('hide-furigana');
+          document.getElementById('label-furigana').textContent = isHidden ? 'ふりがな OFF' : 'ふりがな ON';
+        });
+      }
+
+      // Marksheet button
+      document.getElementById('btn-open-marksheet').addEventListener('click', openMarksheetModal);
+
+      // Submit buttons
+      document.getElementById('btn-submit-exam').addEventListener('click', confirmSubmit);
+
+      // Timer toggle
+      document.getElementById('btn-timer-toggle').addEventListener('click', toggleTimer);
+    }
+
+    // Timer functions
+    function startTimer() {
+      if (timerInterval) clearInterval(timerInterval);
+      timerInterval = setInterval(() => {
+        if (!isTimerRunning || isSubmitted) return;
+        if (remainingSeconds > 0) {
+          remainingSeconds--;
+          updateTimerDisplay();
+        } else {
+          clearInterval(timerInterval);
+          alert('試験時間が終了しました。自動的に採点します。');
+          submitExam();
+        }
+      }, 1000);
+      updateTimerDisplay();
+    }
+
+    function toggleTimer() {
+      isTimerRunning = !isTimerRunning;
+      const icon = document.getElementById('timer-icon');
+      if (isTimerRunning) {
+        icon.setAttribute('data-lucide', 'pause');
+      } else {
+        icon.setAttribute('data-lucide', 'play');
+      }
+      lucide.createIcons();
+    }
+
+    function updateTimerDisplay() {
+      const minutes = Math.floor(remainingSeconds / 60);
+      const seconds = remainingSeconds % 60;
+      const disp = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+      const elem = document.getElementById('timer-display');
+      if (elem) elem.textContent = disp;
+      if (remainingSeconds <= 300) {
+        elem.classList.add('text-red-400');
+        elem.classList.remove('text-teal-300');
+      }
+    }
+
+    // Section Switching
+    function switchSection(secId) {
+      currentSectionId = secId;
+      ['sec1', 'sec2', 'sec3'].forEach(id => {
+        const tab = document.getElementById(`tab-${id}`);
+        const badge = document.getElementById(`badge-${id}`);
+        if (id === secId) {
+          tab.classList.add('active');
+          if (badge) {
+            badge.className = 'text-[10px] bg-white text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold';
+          }
+        } else {
+          tab.classList.remove('active');
+          if (badge) {
+            badge.className = 'text-[10px] bg-[#EDF7F9] text-[#127285] px-1.5 py-0.5 rounded-full font-mono font-bold';
+          }
+        }
+      });
+
+      renderCurrentSection();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function prevSection() {
+      if (currentSectionId === 'sec3') switchSection('sec2');
+      else if (currentSectionId === 'sec2') switchSection('sec1');
+    }
+
+    function nextSection() {
+      if (currentSectionId === 'sec1') switchSection('sec2');
+      else if (currentSectionId === 'sec2') switchSection('sec3');
+    }
+
+    // Render Section Questions
+        function renderCurrentSection() {
+      const container = document.getElementById('questions-container');
+      container.innerHTML = '';
+
+      if (isSubmitted && reviewFilter === 'wrong') {
+        // Render all wrong questions across the entire exam grouped by section
+        let totalWrongRendered = 0;
+
+        MOCK_DATA.sections.forEach(sec => {
+          const secWrongQs = MOCK_DATA.questions.filter(q => q.sectionId === sec.id && userAnswers[q.id] !== q.correctIndex);
+          if (secWrongQs.length === 0) return;
+
+          const secBanner = document.createElement('div');
+          secBanner.className = 'bg-gradient-to-r from-red-500 to-rose-600 text-white rounded-xl p-3.5 shadow-sm flex items-center justify-between mt-6 first:mt-0';
+          secBanner.innerHTML = `
+            <div class="flex items-center gap-2">
+              <span class="font-extrabold text-sm">${sec.name}</span>
+            </div>
+            <span class="text-xs bg-white/20 font-bold px-2 py-0.5 rounded font-mono">不正解: ${secWrongQs.length}問</span>
+          `;
+          container.appendChild(secBanner);
+
+          sec.subsections.forEach(sub => {
+            const subWrong = secWrongQs.filter(q => q.subsectionId === sub.id);
+            if (subWrong.length === 0) return;
+
+            const subHeader = document.createElement('div');
+            subHeader.className = 'bg-white rounded-xl border border-gray-200 p-4 shadow-sm';
+            subHeader.innerHTML = `
+              <div class="flex items-center justify-between mb-1">
+                <h3 class="font-extrabold text-sm text-gray-900 flex items-center gap-2">
+                  <span class="w-2.5 h-2.5 rounded-full bg-red-500"></span>
+                  <span>${sub.name}</span>
+                </h3>
+              </div>
+              <p class="text-xs text-gray-600 leading-relaxed">${sub.desc}</p>
+            `;
+            container.appendChild(subHeader);
+
+            subWrong.forEach(q => {
+              const card = createQuestionCard(q);
+              container.appendChild(card);
+              totalWrongRendered++;
+            });
+          });
+        });
+
+        if (totalWrongRendered === 0) {
+          container.innerHTML = `
+            <div class="bg-white rounded-2xl border border-green-200 p-10 text-center space-y-3 shadow-sm">
+              <div class="w-16 h-16 mx-auto rounded-full bg-green-100 text-green-700 flex items-center justify-center text-3xl font-black">
+                🎉
+              </div>
+              <h3 class="text-xl font-extrabold text-gray-900">全問正解です！お見事です！</h3>
+              <p class="text-xs text-gray-500">間違えた問題はありませんでした。素晴らしい日本語力です。</p>
+            </div>
+          `;
+        }
+
+        updateSectionBadges();
+        lucide.createIcons();
+        return;
+      }
+
+      const sectionMeta = MOCK_DATA.sections.find(s => s.id === currentSectionId);
+      if (!sectionMeta) return;
+
+      let renderedCount = 0;
+
+      // Group questions by subsection
+      sectionMeta.subsections.forEach(sub => {
+        const subQs = MOCK_DATA.questions.filter(q => q.subsectionId === sub.id);
+        if (subQs.length === 0) return;
+
+        // Check if any question matches current review filter
+        const visibleQs = subQs.filter(q => {
+          if (!isSubmitted || reviewFilter === 'all') return true;
+          if (reviewFilter === 'bookmarked') return !!bookmarks[q.id];
+          return true;
+        });
+
+        if (isSubmitted && visibleQs.length === 0) return;
+
+        // Subsection Header Box
+        const subHeader = document.createElement('div');
+        subHeader.className = 'bg-white rounded-2xl border border-[#E2ECF2] p-4 md:p-5 shadow-xs space-y-2';
+        subHeader.innerHTML = `
+          <div class="flex items-center justify-between">
+            <h3 class="font-extrabold text-sm md:text-base text-[#1F2D3D] flex items-center gap-2">
+              <span class="w-2.5 h-2.5 rounded-full bg-[#1995AD]"></span>
+              <span>${sub.name}</span>
+            </h3>
+            <span class="text-xs text-[#127285] bg-[#EDF7F9] border border-[#1995AD]/20 font-mono font-bold px-2.5 py-0.5 rounded-full">${sub.count}問</span>
+          </div>
+          <p class="text-xs text-[#4D648D] leading-relaxed bg-[#FAF1F3] border border-[#F2D5DB] text-[#B8596E] font-medium p-3 rounded-xl">${sub.desc}</p>
+        `;
+        container.appendChild(subHeader);
+
+        // Render questions
+        visibleQs.forEach(q => {
+          const card = createQuestionCard(q);
+          container.appendChild(card);
+          renderedCount++;
+        });
+      });
+
+      if (isSubmitted && renderedCount === 0 && reviewFilter === 'bookmarked') {
+        const emptyBox = document.createElement('div');
+        emptyBox.className = 'bg-white rounded-2xl border border-[#E2ECF2] p-8 text-center space-y-3 shadow-xs';
+        emptyBox.innerHTML = `
+          <div class="w-14 h-14 mx-auto rounded-full bg-yellow-100 text-yellow-700 flex items-center justify-center text-2xl font-black">
+            🔖
+          </div>
+          <h3 class="text-base font-extrabold text-[#1F2D3D]">この科目にチェックした問題はありません</h3>
+          <p class="text-xs text-[#7E92A2]">問題カードの「見直す」ボタンを押すとここに登録されます。</p>
+        `;
+        container.appendChild(emptyBox);
+      }
+
+      updateSectionBadges();
+      lucide.createIcons();
+    }
+
+    function setReviewFilter(filter) {
+      reviewFilter = filter;
+      ['all', 'wrong', 'bookmarked'].forEach(f => {
+        const btn = document.getElementById(`filter-btn-${f}`);
+        if (!btn) return;
+        if (f === filter) {
+          btn.classList.add('ring-2', 'ring-[#1995AD]', 'font-black');
+        } else {
+          btn.classList.remove('ring-2', 'ring-[#1995AD]', 'font-black');
+        }
+      });
+
+      // If 'wrong' is clicked and current section has 0 wrong, auto-navigate to the first section that has wrong answers
+      if (filter === 'wrong') {
+        const curSecQs = MOCK_DATA.questions.filter(q => q.sectionId === currentSectionId);
+        const curWrong = curSecQs.filter(q => userAnswers[q.id] !== q.correctIndex).length;
+        if (curWrong === 0) {
+          for (const s of ['sec1', 'sec2', 'sec3']) {
+            const sqs = MOCK_DATA.questions.filter(q => q.sectionId === s);
+            const swrong = sqs.filter(q => userAnswers[q.id] !== q.correctIndex).length;
+            if (swrong > 0) {
+              currentSectionId = s;
+              ['sec1', 'sec2', 'sec3'].forEach(id => {
+                const tab = document.getElementById(`tab-${id}`);
+                if (id === s) tab.classList.add('active');
+                else tab.classList.remove('active');
+              });
+              break;
+            }
+          }
+        }
+      }
+
+      renderCurrentSection();
+    }
+
+    // Create Individual Question Card
+    function createQuestionCard(q) {
+      const card = document.createElement('div');
+      card.id = `q-card-${q.id}`;
+      card.className = 'bg-white rounded-2xl border border-[#E2ECF2] p-4 md:p-5 shadow-xs space-y-4 transition';
+
+      const isAnswered = userAnswers[q.id] !== undefined;
+      const isBookmarked = !!bookmarks[q.id];
+      const isCorrect = isSubmitted && userAnswers[q.id] === q.correctIndex;
+      const isWrong = isSubmitted && userAnswers[q.id] !== q.correctIndex;
+
+      if (isSubmitted) {
+        if (isCorrect) card.classList.add('border-green-300', 'bg-green-50/20');
+        else if (isWrong) card.classList.add('border-red-300', 'bg-red-50/20');
+      }
+
+      // Top row: Question Number & Bookmark
+      const topRow = `
+        <div class="flex items-center justify-between border-b border-[#E2ECF2]/60 pb-2">
+          <div class="flex items-center gap-2">
+            <span class="font-mono font-black text-xs px-2.5 py-0.5 rounded-full bg-[#EDF7F9] text-[#127285] border border-[#1995AD]/20">
+              問 ${q.qNum}
+            </span>
+            <span class="text-[11px] font-bold text-[#4D648D]">${q.category}</span>
+          </div>
+          <div class="flex items-center gap-2">
+            ${isSubmitted ? `
+              <span class="text-xs font-extrabold px-2.5 py-0.5 rounded-full ${isCorrect ? 'bg-green-100 text-green-800 border border-green-200' : 'bg-red-100 text-red-800 border border-red-200'}">
+                ${isCorrect ? '正解 (Correct)' : '不正解 (Incorrect)'}
+              </span>
+            ` : ''}
+            <button onclick="toggleBookmark(${q.id})" class="text-xs flex items-center gap-1 px-2.5 py-1 rounded-full transition ${isBookmarked ? 'bg-yellow-100 text-yellow-800 font-bold border border-yellow-300' : 'text-gray-400 hover:text-gray-600 hover:bg-gray-100'}">
+              <i data-lucide="bookmark" class="w-3.5 h-3.5 ${isBookmarked ? 'fill-yellow-500 text-yellow-600' : ''}"></i>
+              <span class="hidden sm:inline">${isBookmarked ? '見直し済み' : '見直す'}</span>
+            </button>
+          </div>
+        </div>
+      `;
+
+      // Reading Passage (if applicable)
+      let passageHtml = '';
+      if (q.passage || q.passageRuby) {
+        let textWithMark = isSubmitted
+          ? (q.passageRuby || (q.passage || '').replace(/\n/g, '<br>'))
+          : (q.passage || '').replace(/\n/g, '<br>');
+        if (isSubmitted && q.evidence) {
+          textWithMark = textWithMark.replace(q.evidence, `<mark class="evidence-mark">${q.evidence}</mark>`);
+        }
+        passageHtml = `
+          <div class="reading-box mb-3 border border-[#E2ECF2] bg-[#FAFCFD] rounded-2xl p-4 md:p-5">
+            <div class="flex items-center gap-1.5 text-xs font-bold text-[#127285] mb-2.5 border-b border-[#EDF7F9] pb-1.5">
+              <i data-lucide="book-open" class="w-4 h-4 text-[#1995AD]"></i>
+              <span>本文</span>
+            </div>
+            <div class="text-[#1F2D3D] leading-relaxed text-sm md:text-base">${textWithMark}</div>
+          </div>
+        `;
+      }
+
+      // Listening Illustration (4:3, text-free)
+      let illustrationHtml = '';
+      if (q.illustration_url) {
+        illustrationHtml = `
+          <div class="mb-3 flex justify-center">
+            <div class="w-full max-w-md aspect-[4/3] rounded-2xl overflow-hidden border border-[#E2ECF2] bg-[#F8FAFC] shadow-xs">
+              <img src="${q.illustration_url}" alt="聴解場面イラスト" class="w-full h-full object-cover" loading="lazy">
+            </div>
+          </div>
+        `;
+      }
+
+      // Audio Player (for listening questions)
+      let audioHtml = '';
+      if (q.audioUrl) {
+        audioHtml = `
+          <div class="audio-player-bar mb-3 bg-[#EDF7F9] border border-[#1995AD]/25 rounded-2xl p-3">
+            <div class="flex items-center justify-between gap-3">
+              <button onclick="playAudio('${q.audioUrl}', ${q.id})" id="audio-btn-${q.id}" class="flex items-center gap-1.5 bg-[#1995AD] hover:bg-[#127285] text-white font-bold text-xs px-3.5 py-1.5 rounded-full shadow-xs transition">
+                <i data-lucide="play" class="w-3.5 h-3.5" id="audio-icon-${q.id}"></i>
+                <span id="audio-btn-text-${q.id}">音声を聞く</span>
+              </button>
+              <div class="text-[11px] text-[#127285] font-mono font-bold" id="audio-time-${q.id}">00:00 / --:--</div>
+              <div class="flex items-center gap-1 text-[11px]">
+                <button onclick="setSpeed(${q.id}, 0.8)" class="px-2 py-0.5 rounded-full bg-white text-[#4D648D] hover:bg-[#EDF7F9] border border-[#E2ECF2]">0.8x</button>
+                <button onclick="setSpeed(${q.id}, 1.0)" class="px-2 py-0.5 rounded-full bg-[#1995AD] text-white font-bold border border-[#127285]">1.0x</button>
+                <button onclick="setSpeed(${q.id}, 1.2)" class="px-2 py-0.5 rounded-full bg-white text-[#4D648D] hover:bg-[#EDF7F9] border border-[#E2ECF2]">1.2x</button>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+
+      // Question Sentence / Stem (No ruby leakage before submission; hide Immediate Response utterance before submission)
+      const isImmediateResponse = (q.category && q.category.includes('即時応答'));
+      const displayTitle = isSubmitted
+        ? (q.titleRuby || q.title)
+        : (isImmediateResponse ? '音声を聞いて、最もよい返事を１つ選んでください。' : q.title);
+      const questionTitle = `
+        <div class="text-sm md:text-base font-bold text-[#1F2D3D] leading-relaxed">
+          ${displayTitle}
+        </div>
+      `;
+
+      // Choices (Plain before submission, Ruby after submission)
+      let optionsHtml = '<div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mt-3">';
+      q.options.forEach((opt, idx) => {
+        const isSelected = userAnswers[q.id] === idx;
+        let optClass = 'opt-btn flex items-center gap-3 p-3 rounded-xl border border-[#E2ECF2] bg-white text-xs md:text-sm font-medium text-left cursor-pointer';
+
+        if (isSelected) {
+          optClass += ' selected';
+        }
+
+        if (isSubmitted) {
+          if (idx === q.correctIndex) {
+            optClass += ' border-green-500 bg-green-50 text-green-900 font-bold ring-2 ring-green-300';
+          } else if (isSelected && idx !== q.correctIndex) {
+            optClass += ' border-red-500 bg-red-50 text-red-900 line-through';
+          }
+        }
+
+        const optLabel = isSubmitted ? ((q.optionsRuby && q.optionsRuby[idx]) || opt) : opt;
+
+        optionsHtml += `
+          <button onclick="selectOption(${q.id}, ${idx})" class="${optClass}" ${isSubmitted ? 'disabled' : ''}>
+            <span class="w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs shrink-0 ${isSelected ? 'bg-[#1995AD] text-white' : 'bg-[#EDF7F9] text-[#127285]'}">
+              ${idx + 1}
+            </span>
+            <span class="flex-1">${optLabel}</span>
+          </button>
+        `;
+      });
+      optionsHtml += '</div>';
+
+      // Explanation (Only shown after submission)
+      let explanationHtml = '';
+      if (isSubmitted) {
+        let scriptDetails = '';
+        if (q.scriptRuby || q.script) {
+          scriptDetails = `
+            <div class="mt-2.5 p-3 rounded-xl bg-white border border-[#1995AD]/25 text-xs leading-relaxed text-[#1F2D3D]">
+              <div class="font-extrabold text-[#127285] mb-1 flex items-center gap-1">
+                <i data-lucide="headphones" class="w-3.5 h-3.5"></i>
+                <span>会話スクリプト</span>
+              </div>
+              <div>${q.scriptRuby || (q.script || '').replace(/\n/g, '<br>')}</div>
+            </div>
+          `;
+        }
+
+        explanationHtml = `
+          <div class="explanation-box mt-3 p-3.5 md:p-4 rounded-xl bg-[#FAF1F3] border border-[#F2D5DB] text-xs md:text-sm space-y-2">
+            <div class="font-extrabold text-[#B8596E] flex items-center gap-1.5">
+              <i data-lucide="help-circle" class="w-4 h-4"></i>
+              <span>解説</span>
+            </div>
+            <div class="text-[#1F2D3D] leading-relaxed whitespace-pre-line">${q.explanation || '解説を準備中です。'}</div>
+            ${scriptDetails}
+          </div>
+        `;
+      }
+
+      card.innerHTML = topRow + passageHtml + illustrationHtml + audioHtml + questionTitle + optionsHtml + explanationHtml;
+      return card;
+    }
+
+    // Answer selection
+    function selectOption(qId, optIdx) {
+      if (isSubmitted) return;
+      userAnswers[qId] = optIdx;
+      try {
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.ans, JSON.stringify(userAnswers));
+      } catch(e) {}
+
+      // Re-render card
+      const q = MOCK_DATA.questions.find(item => item.id === qId);
+      const card = document.getElementById(`q-card-${qId}`);
+      if (card && q) {
+        const newCard = createQuestionCard(q);
+        card.replaceWith(newCard);
+        lucide.createIcons();
+      }
+
+      updateAnswerCounter();
+      updateMarksheetBubble(qId);
+    }
+
+    // Bookmark toggle
+    function toggleBookmark(qId) {
+      bookmarks[qId] = !bookmarks[qId];
+      try {
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.bm, JSON.stringify(bookmarks));
+      } catch(e) {}
+
+      const q = MOCK_DATA.questions.find(item => item.id === qId);
+      const card = document.getElementById(`q-card-${qId}`);
+      if (card && q) {
+        const newCard = createQuestionCard(q);
+        card.replaceWith(newCard);
+        lucide.createIcons();
+      }
+
+      updateMarksheetBubble(qId);
+    }
+
+    // Audio Playback
+    let currentAudioEl = null;
+    let currentAudioQId = null;
+
+    function playAudio(url, qId) {
+      if (currentAudioEl && currentAudioQId === qId) {
+        if (!currentAudioEl.paused) {
+          currentAudioEl.pause();
+          updateAudioBtnState(qId, false);
+          return;
+        } else {
+          currentAudioEl.play();
+          updateAudioBtnState(qId, true);
+          return;
+        }
+      }
+
+      // Stop previous
+      if (currentAudioEl) {
+        currentAudioEl.pause();
+        updateAudioBtnState(currentAudioQId, false);
+      }
+
+      currentAudioEl = new Audio(url);
+      currentAudioQId = qId;
+
+      currentAudioEl.addEventListener('timeupdate', () => {
+        const cur = formatTime(currentAudioEl.currentTime);
+        const dur = formatTime(currentAudioEl.duration || 0);
+        const timeEl = document.getElementById(`audio-time-${qId}`);
+        if (timeEl) timeEl.textContent = `${cur} / ${dur}`;
+      });
+
+      currentAudioEl.addEventListener('ended', () => {
+        updateAudioBtnState(qId, false);
+      });
+
+      currentAudioEl.play();
+      updateAudioBtnState(qId, true);
+    }
+
+    function setSpeed(qId, speed) {
+      if (currentAudioEl && currentAudioQId === qId) {
+        currentAudioEl.playbackRate = speed;
+      }
+    }
+
+    function updateAudioBtnState(qId, isPlaying) {
+      const btnText = document.getElementById(`audio-btn-text-${qId}`);
+      const btnIcon = document.getElementById(`audio-icon-${qId}`);
+      if (btnText && btnIcon) {
+        if (isPlaying) {
+          btnText.textContent = '停止';
+          btnIcon.setAttribute('data-lucide', 'square');
+        } else {
+          btnText.textContent = '音声を聞く';
+          btnIcon.setAttribute('data-lucide', 'play');
+        }
+        lucide.createIcons();
+      }
+    }
+
+    function formatTime(sec) {
+      const m = Math.floor(sec / 60);
+      const s = Math.floor(sec % 60);
+      return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+
+    // Marksheet Modal Rendering
+    function renderMarksheetBubbles() {
+      ['sec1', 'sec2', 'sec3'].forEach(secId => {
+        const grid = document.getElementById(`ms-grid-${secId}`);
+        if (!grid) return;
+        grid.innerHTML = '';
+
+        const qs = MOCK_DATA.questions.filter(q => q.sectionId === secId);
+        qs.forEach(q => {
+          const btn = document.createElement('button');
+          btn.id = `ms-bubble-${q.id}`;
+          btn.className = 'mark-bubble w-9 h-9 rounded-lg border border-gray-300 font-mono text-xs font-bold flex items-center justify-center';
+          btn.textContent = q.qNum;
+          btn.title = `問 ${q.qNum}`;
+
+          if (userAnswers[q.id] !== undefined) {
+            btn.classList.add('answered');
+          }
+          if (bookmarks[q.id]) {
+            btn.classList.add('bookmarked');
+          }
+
+          btn.addEventListener('click', () => {
+            closeMarksheetModal();
+            if (currentSectionId !== q.sectionId) {
+              switchSection(q.sectionId);
+            }
+            setTimeout(() => {
+              const card = document.getElementById(`q-card-${q.id}`);
+              if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }, 100);
+          });
+
+          grid.appendChild(btn);
+        });
+      });
+    }
+
+    function updateMarksheetBubble(qId) {
+      const btn = document.getElementById(`ms-bubble-${qId}`);
+      if (!btn) return;
+      if (userAnswers[qId] !== undefined) btn.classList.add('answered');
+      else btn.classList.remove('answered');
+
+      if (bookmarks[qId]) btn.classList.add('bookmarked');
+      else btn.classList.remove('bookmarked');
+    }
+
+    function updateAnswerCounter() {
+      const totalAnswered = Object.keys(userAnswers).length;
+      const pill = document.getElementById('answered-counter-pill');
+      if (pill) pill.textContent = `${totalAnswered}/${MOCK_DATA.totalQuestions}`;
+
+      updateSectionBadges();
+    }
+
+    function updateSectionBadges() {
+      ['sec1', 'sec2', 'sec3'].forEach(secId => {
+        const qs = MOCK_DATA.questions.filter(q => q.sectionId === secId);
+        const ans = qs.filter(q => userAnswers[q.id] !== undefined).length;
+        const badge = document.getElementById(`badge-${secId}`);
+        if (badge) badge.textContent = `${ans}/${qs.length}`;
+
+        const msCount = document.getElementById(`ms-count-${secId}`);
+        if (msCount) msCount.textContent = `${ans}/${qs.length} 解答`;
+      });
+    }
+
+    function openMarksheetModal() {
+      document.getElementById('marksheet-modal').classList.remove('hidden');
+    }
+
+    function closeMarksheetModal() {
+      document.getElementById('marksheet-modal').classList.add('hidden');
+    }
+
+    // Submit & Scoring Logic
+    function confirmSubmit() {
+      const totalAnswered = Object.keys(userAnswers).length;
+      const unanswered = MOCK_DATA.totalQuestions - totalAnswered;
+
+      let msg = '試験を終了して採点しますか？';
+      if (unanswered > 0) {
+        msg = `まだ ${unanswered} 問が未解答です。このまま提出して採点しますか？`;
+      }
+
+      if (confirm(msg)) {
+        submitExam();
+      }
+    }
+
+    function submitExam() {
+      isSubmitted = true;
+      if (timerInterval) clearInterval(timerInterval);
+
+      // Scoring simulation (Item Response Theory scale model)
+      // Language Knowledge & Reading: 120 max points (Section 1 + Section 2)
+      // Listening: 60 max points (Section 3)
+      // Total: 180 max points. Passing mark: 80 points.
+      // Benchmarks: Language/Reading >= 38, Listening >= 19.
+
+      let lrWeightEarned = 0;
+      let lrWeightTotal = 0;
+      let lsWeightEarned = 0;
+      let lsWeightTotal = 0;
+
+      let vocabCorrect = 0, vocabTotal = 35;
+      let grammarCorrect = 0, grammarTotal = 26;
+      let readingCorrect = 0, readingTotal = 6;
+      let listeningCorrect = 0, listeningTotal = 24;
+
+      const breakdown = {};
+
+      MOCK_DATA.questions.forEach(q => {
+        const isCorrect = userAnswers[q.id] === q.correctIndex;
+        const w = q.weight || 1.0;
+
+        if (!breakdown[q.category]) {
+          breakdown[q.category] = { total: 0, correct: 0 };
+        }
+        breakdown[q.category].total++;
+        if (isCorrect) breakdown[q.category].correct++;
+
+        if (q.sectionId === 'sec1' || q.sectionId === 'sec2') {
+          lrWeightTotal += w;
+          if (isCorrect) lrWeightEarned += w;
+
+          if (q.sectionId === 'sec1') {
+            if (isCorrect) vocabCorrect++;
+          } else if (q.subsectionId === 's2_m1' || q.subsectionId === 's2_m2' || q.subsectionId === 's2_m3') {
+            if (isCorrect) grammarCorrect++;
+          } else {
+            if (isCorrect) readingCorrect++;
+          }
+        } else {
+          lsWeightTotal += w;
+          if (isCorrect) {
+            lsWeightEarned += w;
+            listeningCorrect++;
+          }
+        }
+      });
+
+      // Scaled Scores
+      const scaledLR = Math.round((lrWeightEarned / lrWeightTotal) * 120);
+      const scaledLS = Math.round((lsWeightEarned / lsWeightTotal) * 60);
+      const scaledTotal = scaledLR + scaledLS;
+
+      // Pass/Fail Determination
+      const benchLRPassed = scaledLR >= 38;
+      const benchLSPassed = scaledLS >= 19;
+      const totalPassed = scaledTotal >= 90;
+      const isPassed = totalPassed && benchLRPassed && benchLSPassed;
+
+      // References (A/B/C)
+      const vocabRate = (vocabCorrect / vocabTotal) * 100;
+      const grammarRate = (grammarCorrect / grammarTotal) * 100;
+
+      const getGrade = (rate) => {
+        if (rate >= 67) return 'A (よくできた)';
+        if (rate >= 34) return 'B (できた)';
+        return 'C (あまりできなかった)';
+      };
+
+      // Populate Result Modal
+      document.getElementById('score-total').textContent = scaledTotal;
+      document.getElementById('score-lang-reading').textContent = scaledLR;
+      document.getElementById('score-listening').textContent = scaledLS;
+
+      const headerEl = document.getElementById('result-modal-header');
+      const badgeText = document.getElementById('result-badge-text');
+      const descText = document.getElementById('result-desc-text');
+      const poodleImg = document.getElementById('result-poodle-img');
+
+      if (isPassed) {
+        headerEl.className = 'px-6 py-6 text-white relative transition-colors duration-300';
+        headerEl.style.background = 'linear-gradient(135deg, #1995AD, #127285)';
+        badgeText.textContent = '🎉 合 格 (PASSED)';
+        descText.textContent = `総合得点 ${scaledTotal}点！ 合格点（90点）および各区分の基準点を突破しました。`;
+        if (poodleImg) poodleImg.src = 'images/mock_poodle_pass.png';
+        try {
+          confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
+        } catch(e) {}
+      } else {
+        headerEl.className = 'px-6 py-6 text-white relative transition-colors duration-300';
+        headerEl.style.background = 'linear-gradient(135deg, #B8596E, #CE5A73)';
+        badgeText.textContent = '不 合 格 (FAILED)';
+        let reason = `総合得点 ${scaledTotal}点。`;
+        if (!benchLRPassed) reason += ' 言語知識・読解が基準点(38点)を下回りました。';
+        if (!benchLSPassed) reason += ' 聴解が基準点(19点)を下回りました。';
+        if (benchLRPassed && benchLSPassed && !totalPassed) reason += ' 合格基準点(90点)に届きませんでした。';
+        descText.textContent = reason;
+        if (poodleImg) poodleImg.src = 'images/mock_poodle_fail.png';
+      }
+
+      // Ratings
+      document.getElementById('grade-vocab').textContent = getGrade(vocabRate);
+      document.getElementById('grade-grammar').textContent = getGrade(grammarRate);
+
+      // Breakdown Table
+      const tbody = document.getElementById('result-breakdown-tbody');
+      tbody.innerHTML = '';
+      for (const [catName, stat] of Object.entries(breakdown)) {
+        const rate = Math.round((stat.correct / stat.total) * 100);
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="p-2.5 font-bold">${catName}</td>
+          <td class="p-2.5 text-center font-mono">${stat.total}</td>
+          <td class="p-2.5 text-center font-mono font-bold ${stat.correct === stat.total ? 'text-green-600' : ''}">${stat.correct}</td>
+          <td class="p-2.5 text-right font-mono font-bold">${rate}%</td>
+        `;
+        tbody.appendChild(tr);
+      }
+
+      // Show Review Banner
+      document.getElementById('review-banner').classList.remove('hidden');
+      const wrongCount = MOCK_DATA.totalQuestions - (vocabCorrect + grammarCorrect + readingCorrect + listeningCorrect);
+      document.getElementById('wrong-count-badge').textContent = wrongCount;
+      document.getElementById('bookmarked-count-badge').textContent = Object.values(bookmarks).filter(Boolean).length;
+
+      // Update submit buttons
+      const btnSubmit = document.getElementById('btn-submit-exam');
+      btnSubmit.innerHTML = '<i data-lucide="award" class="w-4 h-4"></i><span>成績表を見る</span>';
+      btnSubmit.onclick = openResultModal;
+
+      const btnBottomSubmit = document.getElementById('btn-bottom-submit');
+      btnBottomSubmit.innerHTML = '<i data-lucide="award" class="w-4 h-4"></i><span>成績表を見る</span>';
+      btnBottomSubmit.onclick = openResultModal;
+
+      // Open Modal
+      openResultModal();
+      renderCurrentSection();
+      lucide.createIcons();
+    }
+
+    function openResultModal() {
+      document.getElementById('result-modal').classList.remove('hidden');
+    }
+
+    function closeResultModal() {
+      document.getElementById('result-modal').classList.add('hidden');
+    }
+  </script>
+</body>
+</html>
