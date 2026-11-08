@@ -496,28 +496,59 @@
     let reviewFilter = 'all'; // 'all', 'wrong', 'bookmarked'
     let currentActiveAudio = null;
 
+    function getStorageKeys(rNum) {
+      if (rNum === 1) {
+        return { ans: 'jlpt_n5_mock01_answers', bm: 'jlpt_n5_mock01_bookmarks' };
+      }
+      return { ans: `jlpt_n5_mock_r${rNum}_answers`, bm: `jlpt_n5_mock_r${rNum}_bookmarks` };
+    }
+
     function changeRound(roundVal) {
       const rNum = parseInt(roundVal);
       if (window.JLPT_N5_MOCK_ROUNDS && window.JLPT_N5_MOCK_ROUNDS[rNum]) {
+        if (currentAudioEl) {
+          currentAudioEl.pause();
+          currentAudioEl = null;
+          currentAudioQId = null;
+        }
         MOCK_DATA = window.JLPT_N5_MOCK_ROUNDS[rNum];
         currentRound = rNum;
         userAnswers = {};
         bookmarks = {};
+        try {
+          const keys = getStorageKeys(rNum);
+          const saved = localStorage.getItem(keys.ans);
+          if (saved) userAnswers = JSON.parse(saved);
+          const savedBm = localStorage.getItem(keys.bm);
+          if (savedBm) bookmarks = JSON.parse(savedBm);
+        } catch (e) {}
         isSubmitted = false;
         reviewFilter = 'all';
         currentSectionId = 'sec1';
         remainingSeconds = (MOCK_DATA.totalTimeMinutes || 105) * 60;
         
         // Update Title if present
-        const titleEl = document.querySelector('h1');
-        if (titleEl) titleEl.textContent = MOCK_DATA.title;
+        const titleEl = document.getElementById('exam-title-header');
+        if (titleEl) titleEl.textContent = `実戦模擬試験 第${rNum}回`;
+        document.title = `JLPT N5 実戦模擬試験 第${rNum}回 — 本番時間・自動採点・合否判定`;
+
+        // Reset Submit Buttons
+        const btnSubmit = document.getElementById('btn-submit-exam');
+        if (btnSubmit) {
+          btnSubmit.innerHTML = '<i data-lucide="check-circle" class="w-4 h-4 text-[#127285]"></i><span>採点する</span>';
+          btnSubmit.onclick = confirmSubmit;
+        }
+        const btnBottomSubmit = document.getElementById('btn-bottom-submit');
+        if (btnBottomSubmit) {
+          btnBottomSubmit.innerHTML = '<i data-lucide="send" class="w-4 h-4"></i><span>試験を提出して採点する</span>';
+          btnBottomSubmit.onclick = confirmSubmit;
+        }
 
         // Reset UI
         document.getElementById('review-banner').classList.add('hidden');
-        renderSectionTabs();
-        renderPalette();
-        renderCurrentSection();
-        updateProgress();
+        switchSection('sec1');
+        renderMarksheetBubbles();
+        updateAnswerCounter();
         
         // Restart timer
         if (timerInterval) clearInterval(timerInterval);
@@ -879,10 +910,11 @@
 
       // Reading Passage (if applicable)
       let passageHtml = '';
-      if (q.passageRuby) {
-        let textWithMark = q.passageRuby;
+      if (q.passage || q.passageRuby) {
+        let textWithMark = isSubmitted
+          ? (q.passageRuby || (q.passage || '').replace(/\n/g, '<br>'))
+          : (q.passage || '').replace(/\n/g, '<br>');
         if (isSubmitted && q.evidence) {
-          // Highlight evidence text
           textWithMark = textWithMark.replace(q.evidence, `<mark class="evidence-mark">${q.evidence}</mark>`);
         }
         passageHtml = `
@@ -892,6 +924,18 @@
               <span>本文</span>
             </div>
             <div class="text-[#1F2D3D] leading-relaxed text-sm md:text-base">${textWithMark}</div>
+          </div>
+        `;
+      }
+
+      // Listening Illustration (4:3, text-free)
+      let illustrationHtml = '';
+      if (q.illustration_url) {
+        illustrationHtml = `
+          <div class="mb-3 flex justify-center">
+            <div class="w-full max-w-md aspect-[4/3] rounded-2xl overflow-hidden border border-[#E2ECF2] bg-[#F8FAFC] shadow-xs">
+              <img src="${q.illustration_url}" alt="聴解場面イラスト" class="w-full h-full object-cover" loading="lazy">
+            </div>
           </div>
         `;
       }
@@ -917,14 +961,18 @@
         `;
       }
 
-      // Question Sentence / Stem
+      // Question Sentence / Stem (No ruby leakage before submission; hide Immediate Response utterance before submission)
+      const isImmediateResponse = (q.category && q.category.includes('即時応答'));
+      const displayTitle = isSubmitted
+        ? (q.titleRuby || q.title)
+        : (isImmediateResponse ? '音声を聞いて、最もよい返事を１つ選んでください。' : q.title);
       const questionTitle = `
         <div class="text-sm md:text-base font-bold text-[#1F2D3D] leading-relaxed">
-          ${q.titleRuby || q.title}
+          ${displayTitle}
         </div>
       `;
 
-      // Choices
+      // Choices (Plain before submission, Ruby after submission)
       let optionsHtml = '<div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mt-3">';
       q.options.forEach((opt, idx) => {
         const isSelected = userAnswers[q.id] === idx;
@@ -942,12 +990,14 @@
           }
         }
 
+        const optLabel = isSubmitted ? ((q.optionsRuby && q.optionsRuby[idx]) || opt) : opt;
+
         optionsHtml += `
           <button onclick="selectOption(${q.id}, ${idx})" class="${optClass}" ${isSubmitted ? 'disabled' : ''}>
             <span class="w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs shrink-0 ${isSelected ? 'bg-[#1995AD] text-white' : 'bg-[#EDF7F9] text-[#127285]'}">
               ${idx + 1}
             </span>
-            <span class="flex-1">${(q.optionsRuby && q.optionsRuby[idx]) || opt}</span>
+            <span class="flex-1">${optLabel}</span>
           </button>
         `;
       });
@@ -957,14 +1007,14 @@
       let explanationHtml = '';
       if (isSubmitted) {
         let scriptDetails = '';
-        if (q.scriptRuby) {
+        if (q.scriptRuby || q.script) {
           scriptDetails = `
             <div class="mt-2.5 p-3 rounded-xl bg-white border border-[#1995AD]/25 text-xs leading-relaxed text-[#1F2D3D]">
               <div class="font-extrabold text-[#127285] mb-1 flex items-center gap-1">
                 <i data-lucide="headphones" class="w-3.5 h-3.5"></i>
                 <span>会話スクリプト</span>
               </div>
-              <div>${q.scriptRuby}</div>
+              <div>${q.scriptRuby || (q.script || '').replace(/\n/g, '<br>')}</div>
             </div>
           `;
         }
@@ -981,7 +1031,7 @@
         `;
       }
 
-      card.innerHTML = topRow + passageHtml + audioHtml + questionTitle + optionsHtml + explanationHtml;
+      card.innerHTML = topRow + passageHtml + illustrationHtml + audioHtml + questionTitle + optionsHtml + explanationHtml;
       return card;
     }
 
@@ -990,7 +1040,8 @@
       if (isSubmitted) return;
       userAnswers[qId] = optIdx;
       try {
-        localStorage.setItem('jlpt_n5_mock01_answers', JSON.stringify(userAnswers));
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.ans, JSON.stringify(userAnswers));
       } catch(e) {}
 
       // Re-render card
@@ -1010,7 +1061,8 @@
     function toggleBookmark(qId) {
       bookmarks[qId] = !bookmarks[qId];
       try {
-        localStorage.setItem('jlpt_n5_mock01_bookmarks', JSON.stringify(bookmarks));
+        const keys = getStorageKeys(currentRound);
+        localStorage.setItem(keys.bm, JSON.stringify(bookmarks));
       } catch(e) {}
 
       const q = MOCK_DATA.questions.find(item => item.id === qId);
