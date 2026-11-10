@@ -1,3 +1,4 @@
+// Auto-generated Full Curriculum Dataset (#00 - #82)
 window.INITIAL_VOCAB_DATA = [
   {
     "id": "card_0001",
@@ -74,12 +75,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "はじめまして、<ruby>高橋<rt>たかはし</rt></ruby>です。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br/>はじめまして、<ruby>田中<rt>たなか</rt></ruby>です。こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
-      "en": "Nice to meet you, I'm 高橋. Pleased to meet you.<br>Nice to meet you, I'm 田中. Likewise, pleased to meet you.",
-      "zh_TW": "初次見面，我是高橋。請多指教。<br>初次見面，我是田中。我也請您多多指教。",
-      "zh_CN": "初次見面，我是高橋。請多指教。<br>初次見面，我是田中。我也請您多多指教。",
-      "ko": "Nice to meet you, I'm 高橋. Pleased to meet you.<br>Nice to meet you, I'm 田中. Likewise, pleased to meet you.",
-      "zh_HK": "初次見面，我是高橋。請多指教。<br>初次見面，我是田中。我也請您多多指教。",
-      "fr": "Nice to meet you, I'm 高橋. Pleased to meet you.<br>Nice to meet you, I'm 田中. Likewise, pleased to meet you."
+      "en": "Nice to meet you, I'm Takahashi. Pleased to meet you.<br/>Nice to meet you, I'm Tanaka. Likewise, pleased to meet you.",
+      "zh_TW": "初次見面，我是高橋。請多指教。<br/>初次見面，我是田中。彼此彼此，請多指教。",
+      "zh_CN": "初次见面，我是高桥。请多关照。<br/>初次见面，我是田中。彼此彼此，请多关照。",
+      "ko": "처음 뵙겠습니다, 다카하시입니다. 잘 부탁드립니다.<br/>처음 뵙겠습니다, 다나카입니다. 저야말로 잘 부탁드립니다.",
+      "zh_HK": "初次見面，我係高橋。請多多指教。<br/>初次見面，我係田中。大家咁話，請多多指教。",
+      "fr": "Enchanté, je suis Takahashi. Ravi de faire votre connaissance.<br/>Enchanté, je suis Tanaka. Tout le plaisir est pour moi."
     },
     "related": "授業で先生と生徒がよく使う必須表現です。"
   },
@@ -319,7 +320,7 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "student",
       "zh_TW": "學生",
-      "zh_CN": "学生",
+      "zh_CN": "學生",
       "ko": "학생",
       "zh_HK": "學生",
       "fr": "étudiant(e)"
@@ -345,11 +346,11 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せんせい",
     "category": "まずは授業で使う単語を覚えよう！",
     "meaning": {
-      "en": "teacher / doctor",
-      "zh_TW": "老師 / 醫生",
-      "zh_CN": "老师 / 医生",
+      "en": "teacher",
+      "zh_TW": "老師",
+      "zh_CN": "老師",
       "ko": "선생님",
-      "zh_HK": "老師 / 先生",
+      "zh_HK": "老師",
       "fr": "professeur / maître"
     },
     "example": {
@@ -1302,7 +1303,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "初次見面／很高興認識你",
       "ko": "처음 뵙겠습니다",
       "zh_HK": "初次見面／很高興認識你",
-      "fr": "Nice to meet you (forme en te)"
+      "fr": "Nice to meet you"
     },
     "example": {
       "ja": "はじめまして、<ruby>田中<rt>たなか</rt></ruby>です。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br/>はじめまして、<ruby>鈴木<rt>すずき</rt></ruby>です。こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
@@ -1442,7 +1443,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "我很好",
       "ko": "잘 지내요",
       "zh_HK": "我很好",
-      "fr": "I'm good / I'm fine"
+      "fr": "I'm fine"
     },
     "example": {
       "ja": "おかげさまで、<ruby>元気<rt>げんき</rt></ruby>です。<br/><ruby>渡辺<rt>わたなべ</rt></ruby>さんはどうですか？",
@@ -1554,7 +1555,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "我要開動了",
       "ko": "잘 먹겠습니다",
       "zh_HK": "我要開動了",
-      "fr": "recevoir (humble pour もらう)"
+      "fr": "Thank you for the meal (said before eating)"
     },
     "example": {
       "ja": "おいしそうなご<ruby>飯<rt>はん</rt></ruby>ですね。いただきます！<br/>どうぞ、<ruby>温<rt>あたた</rt></ruby>かいうちに<ruby>食<rt>た</rt></ruby>べてください。",
@@ -1638,7 +1639,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "不好意思／對不起",
       "ko": "죄송합니다 / 실례합니다",
       "zh_HK": "不好意思／對不起",
-      "fr": "Excuse me / Sorry"
+      "fr": "Excuse me / I'm sorry"
     },
     "example": {
       "ja": "すみません、<ruby>駅<rt>えき</rt></ruby>はどこですか？<br/>あそこの<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がったところです。",
@@ -1862,7 +1863,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "你還好嗎？／沒問題嗎？",
       "ko": "괜찮아요?",
       "zh_HK": "你還好嗎？／沒問題嗎？",
-      "fr": "Are you okay?"
+      "fr": "Are you okay? / Is it okay?"
     },
     "example": {
       "ja": "<ruby>顔色<rt>かおいろ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いですが、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか？<br/><ruby>少<rt>すこ</rt></ruby>し<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いですが、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。",
@@ -2565,7 +2566,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "chaussures"
     },
     "example": {
-      "ja": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>い</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぐルールです。",
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぐルールです。",
       "en": "When entering a Japanese house, the rule is to take off your shoes at the entrance.",
       "zh_TW": "進入日本人的家中時，規則是在玄關脫下鞋子。",
       "zh_CN": "进入日本人的家中时，规则是在玄关脱下鞋子。",
@@ -2594,12 +2595,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>渡辺<rt>わたなべ</rt></ruby>です。<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。",
-      "en": "I am 渡辺. I am a Japanese language student.",
-      "zh_TW": "我是渡辺。我是日語學生。",
-      "zh_CN": "我是渡辺。我是日語學生。",
-      "ko": "I am 渡辺. I am a Japanese language student.",
-      "zh_HK": "我是渡辺。我是日語學生。",
-      "fr": "I am 渡辺. I am a Japanese language student."
+      "en": "I am Watanabe. I am a Japanese language student.",
+      "zh_TW": "我是渡邊。我是日語專業的學生。",
+      "zh_CN": "我是渡边。我是日语专业的学生。",
+      "ko": "저는 와타나베입니다. 일본어 학생입니다.",
+      "zh_HK": "我係渡邊。我係學日文嘅學生。",
+      "fr": "Je m'appelle Watanabe. Je suis étudiant en japonais."
     },
     "related": "【代名詞・家族】私 (人称代名詞・親族の呼称)"
   },
@@ -2733,13 +2734,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "elles"
     },
     "example": {
-      "ja": "A: こちらは<ruby>加藤<rt>かとう</rt></ruby>さんの<ruby>彼女<rt>かのじょ</rt></ruby>たちですか？<br/>B: はい、<ruby>私<rt>わたし</rt></ruby>の<ruby>彼女<rt>かのじょ</rt></ruby>たちです。",
-      "en": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female).",
-      "zh_TW": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female).",
-      "zh_CN": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female).",
-      "ko": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female).",
-      "zh_HK": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female).",
-      "fr": "A: Is this your they (female), 加藤-san?\nB: Yes, this is my they (female)."
+      "ja": "A: あそこにいる<ruby>人<rt>ひと</rt></ruby>たちは<ruby>誰<rt>だれ</rt></ruby>ですか？<br/>B: <ruby>彼女<rt>かのじょ</rt></ruby>たちは<ruby>私<rt>わたし</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>です。",
+      "en": "A: Who are the people over there?<br/>B: They (those women) are my university friends.",
+      "zh_TW": "A: 在那邊的那些人是誰？<br/>B: 她們是我的大學朋友。",
+      "zh_CN": "A: 在那边的那些人是谁？<br/>B: 她们是我的大学朋友。",
+      "ko": "A: 저기에 있는 사람들은 누구입니까?<br/>B: 그녀들은 제 대학교 친구들입니다.",
+      "zh_HK": "A: 喺嗰邊嗰班人係邊個嚟㗎？<br/>B: 佢哋（嗰班女仔）係我嘅大學朋友。",
+      "fr": "A : Qui sont les personnes là-bas ?<br/>B : Elles sont mes amies d'université."
     },
     "related": "【代名詞・家族】彼女たち (人称代名詞・親族の呼称)"
   },
@@ -3342,11 +3343,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "married couple / husband and wife",
-      "zh_TW": "夫妻",
-      "zh_CN": "夫妻",
-      "ko": "夫妻",
-      "zh_HK": "夫妻",
-      "fr": "married couple / husband and wife"
+      "zh_TW": "夫妻 / 夫婦",
+      "zh_CN": "夫妻 / 夫妇",
+      "ko": "부부",
+      "zh_HK": "夫婦 / 兩公婆",
+      "fr": "couple marié / mari et femme"
     },
     "example": {
       "ja": "<ruby>田中<rt>たなか</rt></ruby>さんご<ruby>夫婦<rt>ふうふ</rt></ruby>はとても<ruby>仲<rt>なか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて、いつも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>散歩<rt>さんぽ</rt></ruby>しています。",
@@ -5001,13 +5002,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "employé(e) d'entreprise"
     },
     "example": {
-      "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>をしています。",
-      "en": "A: What is your job, 高橋-san?\nB: I work as a company employee.",
-      "zh_TW": "A: What is your job, 高橋-san?\nB: I work as a company employee.",
-      "zh_CN": "A: What is your job, 高橋-san?\nB: I work as a company employee.",
-      "ko": "A: What is your job, 高橋-san?\nB: I work as a company employee.",
-      "zh_HK": "A: What is your job, 高橋-san?\nB: I work as a company employee.",
-      "fr": "A: What is your job, 高橋-san?\nB: I work as a company employee."
+      "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。",
+      "en": "A: What is your job, Ms. Takahashi?<br/>B: I am a company employee.",
+      "zh_TW": "A: 高橋小姐的工作是什麼？<br/>B: 我是公司職員。",
+      "zh_CN": "A: 高桥小姐的工作是什么？<br/>B: 我是公司职员。",
+      "ko": "A: 다카하시 씨의 직업은 무엇입니까?<br/>B: 저는 회사원입니다.",
+      "zh_HK": "A: 高橋小姐你做盛行㗎？<br/>B: 我係公司職員。",
+      "fr": "A : Quel est votre métier, Mme Takahashi ?<br/>B : Je suis employée de bureau."
     },
     "related": "【職業・身分】会社員 (仕事や社会的立場を表す語彙)"
   },
@@ -5057,13 +5058,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "infirmier(ère)"
     },
     "example": {
-      "ja": "A: <ruby>小林<rt>こばやし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>をしています。",
-      "en": "A: What is your job, 小林-san?\nB: I work as a nurse.",
-      "zh_TW": "A: What is your job, 小林-san?\nB: I work as a nurse.",
-      "zh_CN": "A: What is your job, 小林-san?\nB: I work as a nurse.",
-      "ko": "A: What is your job, 小林-san?\nB: I work as a nurse.",
-      "zh_HK": "A: What is your job, 小林-san?\nB: I work as a nurse.",
-      "fr": "A: What is your job, 小林-san?\nB: I work as a nurse."
+      "ja": "A: <ruby>小林<rt>こばやし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>病院<rt>びょういん</rt></ruby>で<ruby>看護師<rt>かんごし</rt></ruby>をしています。",
+      "en": "A: What is your job, Ms. Kobayashi?<br/>B: I work as a nurse at a hospital.",
+      "zh_TW": "A: 小林小姐的工作是什麼？<br/>B: 我在醫院當護理師。",
+      "zh_CN": "A: 小林小姐的工作是什么？<br/>B: 我在医院当护士。",
+      "ko": "A: 고바야시 씨의 직업은 무엇입니까?<br/>B: 병원에서 간호사로 일하고 있습니다.",
+      "zh_HK": "A: 小林小姐你做咩工作㗎？<br/>B: 我喺醫院做護士。",
+      "fr": "A : Quel est votre métier, Mme Kobayashi ?<br/>B : Je travaille comme infirmière à l'hôpital."
     },
     "related": "【職業・身分】看護師 (仕事や社会的立場を表す語彙)"
   },
@@ -5085,13 +5086,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "employé(e) de banque"
     },
     "example": {
-      "ja": "A: <ruby>鈴木<rt>すずき</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>銀行員<rt>ぎんこういん</rt></ruby>をしています。",
-      "en": "A: What is your job, 鈴木-san?\nB: I work as a bank employee.",
-      "zh_TW": "A: What is your job, 鈴木-san?\nB: I work as a bank employee.",
-      "zh_CN": "A: What is your job, 鈴木-san?\nB: I work as a bank employee.",
-      "ko": "A: What is your job, 鈴木-san?\nB: I work as a bank employee.",
-      "zh_HK": "A: What is your job, 鈴木-san?\nB: I work as a bank employee.",
-      "fr": "A: What is your job, 鈴木-san?\nB: I work as a bank employee."
+      "ja": "A: <ruby>鈴木<rt>すずき</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>銀行員<rt>ぎんこういん</rt></ruby>です。",
+      "en": "A: What is your job, Ms. Suzuki?<br/>B: I am a bank employee.",
+      "zh_TW": "A: 鈴木小姐的工作是什麼？<br/>B: 我是銀行行員。",
+      "zh_CN": "A: 铃木小姐的工作是什么？<br/>B: 我是银行职员。",
+      "ko": "A: 스즈키 씨의 직업은 무엇입니까?<br/>B: 저는 은행원입니다.",
+      "zh_HK": "A: 鈴木小姐你做咩工作㗎？<br/>B: 我係銀行職員。",
+      "fr": "A : Quel est votre métier, Mme Suzuki ?<br/>B : Je suis employée de banque."
     },
     "related": "【職業・身分】銀行員 (仕事や社会的立場を表す語彙)"
   },
@@ -5170,12 +5171,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>弁護士<rt>べんごし</rt></ruby>をしています。",
-      "en": "A: What is your job, 佐藤-san?\nB: I work as a lawyer.",
-      "zh_TW": "A: What is your job, 佐藤-san?\nB: I work as a lawyer.",
-      "zh_CN": "A: What is your job, 佐藤-san?\nB: I work as a lawyer.",
-      "ko": "A: What is your job, 佐藤-san?\nB: I work as a lawyer.",
-      "zh_HK": "A: What is your job, 佐藤-san?\nB: I work as a lawyer.",
-      "fr": "A: What is your job, 佐藤-san?\nB: I work as a lawyer."
+      "en": "A: What is your job, Ms. Sato?<br/>B: I work as a lawyer.",
+      "zh_TW": "A: 佐藤小姐的工作是什麼？<br/>B: 我當律師。",
+      "zh_CN": "A: 佐藤小姐的工作是什么？<br/>B: 我当律师。",
+      "ko": "A: 사토 씨의 직업은 무엇입니까?<br/>B: 저는 변호사로 일하고 있습니다.",
+      "zh_HK": "A: 佐藤小姐你做咩工作㗎？<br/>B: 我係做律師嘅。",
+      "fr": "A : Quel est votre métier, Mme Sato ?<br/>B : Je travaille comme avocate."
     },
     "related": "【職業・身分】弁護士 (仕事や社会的立場を表す語彙)"
   },
@@ -5198,12 +5199,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>警察官<rt>けいさつかん</rt></ruby>をしています。",
-      "en": "A: What is your job, 田中-san?\nB: I work as a police officer.",
-      "zh_TW": "A: What is your job, 田中-san?\nB: I work as a police officer.",
-      "zh_CN": "A: What is your job, 田中-san?\nB: I work as a police officer.",
-      "ko": "A: What is your job, 田中-san?\nB: I work as a police officer.",
-      "zh_HK": "A: What is your job, 田中-san?\nB: I work as a police officer.",
-      "fr": "A: What is your job, 田中-san?\nB: I work as a police officer."
+      "en": "A: What is your job, Mr. Tanaka?<br/>B: I work as a police officer.",
+      "zh_TW": "A: 田中先生的工作是什麼？<br/>B: 我當警察。",
+      "zh_CN": "A: 田中先生的工作是什么？<br/>B: 我当警察。",
+      "ko": "A: 다나카 씨의 직업은 무엇입니까?<br/>B: 저는 경찰관으로 일하고 있습니다.",
+      "zh_HK": "A: 田中先生你做咩工作㗎？<br/>B: 我係做警察嘅。",
+      "fr": "A : Quel est votre métier, M. Tanaka ?<br/>B : Je suis policier."
     },
     "related": "【職業・身分】警察官 (仕事や社会的立場を表す語彙)"
   },
@@ -5618,12 +5619,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>小林<rt>こばやし</rt></ruby>さんは<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year.",
-      "zh_TW": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year.",
-      "zh_CN": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year.",
-      "ko": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year.",
-      "zh_HK": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year.",
-      "fr": "A: Have you ever been to Tokyo, 小林-san?\nB: Yes, I went to Tokyo last year."
+      "en": "A: Have you ever been to Tokyo, Ms. Kobayashi?<br/>B: Yes, I went to Tokyo last year.",
+      "zh_TW": "A: 小林小姐去過東京嗎？<br/>B: 去過，我去年去了東京。",
+      "zh_CN": "A: 小林小姐去过东京吗？<br/>B: 去过，我去年去了东京。",
+      "ko": "A: 고바야시 씨는 도쿄에 가 본 적이 있습니까?<br/>B: 네, 작년에 도쿄에 갔습니다.",
+      "zh_HK": "A: 小林小姐你有冇去過東京呀？<br/>B: 有呀，我舊年去咗東京。",
+      "fr": "A : Êtes-vous déjà allée à Tokyo, Mme Kobayashi ?<br/>B : Oui, je suis allée à Tokyo l'année dernière."
     },
     "related": "【地理・地名】東京 (国名・地域・行政区画)"
   },
@@ -5646,12 +5647,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大阪<rt>おおさか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>大阪<rt>おおさか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year.",
-      "zh_TW": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year.",
-      "zh_CN": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year.",
-      "ko": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year.",
-      "zh_HK": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year.",
-      "fr": "A: Have you ever been to Osaka, 鈴木-san?\nB: Yes, I went to Osaka last year."
+      "en": "A: Have you ever been to Osaka, Ms. Suzuki?<br/>B: Yes, I went to Osaka last year.",
+      "zh_TW": "A: 鈴木小姐去過大阪嗎？<br/>B: 去過，我去年去了大阪。",
+      "zh_CN": "A: 铃木小姐去过大阪吗？<br/>B: 去过，我去年去了大阪。",
+      "ko": "A: 스즈키 씨는 오사카에 가 본 적이 있습니까?<br/>B: 네, 작년에 오사카에 갔습니다.",
+      "zh_HK": "A: 鈴木小姐你有冇去過大阪呀？<br/>B: 有呀，我舊年去咗大阪。",
+      "fr": "A : Êtes-vous déjà allée à Osaka, Mme Suzuki ?<br/>B : Oui, je suis allée à Osaka l'année dernière."
     },
     "related": "【地理・地名】大阪 (国名・地域・行政区画)"
   },
@@ -5674,12 +5675,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>伊藤<rt>いとう</rt></ruby>さんは<ruby>名古屋<rt>なごや</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>名古屋<rt>なごや</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year.",
-      "zh_TW": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year.",
-      "zh_CN": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year.",
-      "ko": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year.",
-      "zh_HK": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year.",
-      "fr": "A: Have you ever been to Nagoya, 伊藤-san?\nB: Yes, I went to Nagoya last year."
+      "en": "A: Have you ever been to Nagoya, Mr. Ito?<br/>B: Yes, I went to Nagoya last year.",
+      "zh_TW": "A: 伊藤先生去過名古屋嗎？<br/>B: 去過，我去年去了名古屋。",
+      "zh_CN": "A: 伊藤先生去过名古屋吗？<br/>B: 去过，我去年去了名古屋。",
+      "ko": "A: 이토 씨는 나고야에 가 본 적이 있습니까?<br/>B: 네, 작년에 나고야에 갔습니다.",
+      "zh_HK": "A: 伊藤先生你有冇去過名古屋呀？<br/>B: 有呀，我舊年去咗名古屋。",
+      "fr": "A : Êtes-vous déjà allé à Nagoya, M. Ito ?<br/>B : Oui, je suis allé à Nagoya l'année dernière."
     },
     "related": "【地理・地名】名古屋 (国名・地域・行政区画)"
   },
@@ -5702,12 +5703,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>中村<rt>なかむら</rt></ruby>さんはベトナムへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>ベトナムへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year.",
-      "zh_TW": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year.",
-      "zh_CN": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year.",
-      "ko": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year.",
-      "zh_HK": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year.",
-      "fr": "A: Have you ever been to Vietnam, 中村-san?\nB: Yes, I went to Vietnam last year."
+      "en": "A: Have you ever been to Vietnam, Mr. Nakamura?<br/>B: Yes, I went to Vietnam last year.",
+      "zh_TW": "A: 中村先生去過越南嗎？<br/>B: 去過，我去年去了越南。",
+      "zh_CN": "A: 中村先生去过越南吗？<br/>B: 去过，我去年去了越南。",
+      "ko": "A: 나카무라 씨는 베트남에 가 본 적이 있습니까?<br/>B: 네, 작년에 베트남에 갔습니다.",
+      "zh_HK": "A: 中村先生你有冇去過越南呀？<br/>B: 有呀，我舊年去咗越南。",
+      "fr": "A : Êtes-vous déjà allé au Vietnam, M. Nakamura ?<br/>B : Oui, je suis allé au Vietnam l'année dernière."
     },
     "related": "【地理・地名】ベトナム (国名・地域・行政区画)"
   },
@@ -5730,12 +5731,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんはインドへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>インドへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year.",
-      "zh_TW": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year.",
-      "zh_CN": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year.",
-      "ko": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year.",
-      "zh_HK": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year.",
-      "fr": "A: Have you ever been to India, 佐藤-san?\nB: Yes, I went to India last year."
+      "en": "A: Have you ever been to India, Ms. Sato?<br/>B: Yes, I went to India last year.",
+      "zh_TW": "A: 佐藤小姐去過印度嗎？<br/>B: 去過，我去年去了印度。",
+      "zh_CN": "A: 佐藤小姐去过印度吗？<br/>B: 去过，我去年去了印度。",
+      "ko": "A: 사토 씨는 인도에 가 본 적이 있습니까?<br/>B: 네, 작년에 인도에 갔습니다.",
+      "zh_HK": "A: 佐藤小姐你有冇去過印度呀？<br/>B: 有呀，我舊年去咗印度。",
+      "fr": "A : Êtes-vous déjà allée en Inde, Mme Sato ?<br/>B : Oui, je suis allée en Inde l'année dernière."
     },
     "related": "【地理・地名】インド (国名・地域・行政区画)"
   },
@@ -5758,12 +5759,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さんはメキシコへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>メキシコへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year.",
-      "zh_TW": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year.",
-      "zh_CN": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year.",
-      "ko": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year.",
-      "zh_HK": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year.",
-      "fr": "A: Have you ever been to Mexico, 田中-san?\nB: Yes, I went to Mexico last year."
+      "en": "A: Have you ever been to Mexico, Mr. Tanaka?<br/>B: Yes, I went to Mexico last year.",
+      "zh_TW": "A: 田中先生去過墨西哥嗎？<br/>B: 去過，我去年去了墨西哥。",
+      "zh_CN": "A: 田中先生去过墨西哥吗？<br/>B: 去过，我去年去了墨西哥。",
+      "ko": "A: 다나카 씨는 멕시코에 가 본 적이 있습니까?<br/>B: 네, 작년에 멕시코에 갔습니다.",
+      "zh_HK": "A: 田中先生你有冇去過墨西哥呀？<br/>B: 有呀，我舊年去咗墨西哥。",
+      "fr": "A : Êtes-vous déjà allé au Mexique, M. Tanaka ?<br/>B : Oui, je suis allé au Mexique l'année dernière."
     },
     "related": "【地理・地名】メキシコ (国名・地域・行政区画)"
   },
@@ -5786,12 +5787,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>山本<rt>やまもと</rt></ruby>さんはインドネシアへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>インドネシアへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year.",
-      "zh_TW": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year.",
-      "zh_CN": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year.",
-      "ko": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year.",
-      "zh_HK": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year.",
-      "fr": "A: Have you ever been to Indonesia, 山本-san?\nB: Yes, I went to Indonesia last year."
+      "en": "A: Have you ever been to Indonesia, Mr. Yamamoto?<br/>B: Yes, I went to Indonesia last year.",
+      "zh_TW": "A: 山本先生去過印尼嗎？<br/>B: 去過，我去年去了印尼。",
+      "zh_CN": "A: 山本先生去过印度尼西亚吗？<br/>B: 去过，我去年去了印度尼西亚。",
+      "ko": "A: 야마모토 씨는 인도네시아에 가 본 적이 있습니까?<br/>B: 네, 작년에 인도네시아에 갔습니다.",
+      "zh_HK": "A: 山本先生你有冇去過印尼呀？<br/>B: 有呀，我舊年去咗印尼。",
+      "fr": "A : Êtes-vous déjà allé en Indonésie, M. Yamamoto ?<br/>B : Oui, je suis allé en Indonésie l'année dernière."
     },
     "related": "【地理・地名】インドネシア (国名・地域・行政区画)"
   },
@@ -5842,12 +5843,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby>さんはイギリスへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>イギリスへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year.",
-      "zh_TW": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year.",
-      "zh_CN": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year.",
-      "ko": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year.",
-      "zh_HK": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year.",
-      "fr": "A: Have you ever been to UK, 高橋-san?\nB: Yes, I went to UK last year."
+      "en": "A: Have you ever been to the UK, Ms. Takahashi?<br/>B: Yes, I went to the UK last year.",
+      "zh_TW": "A: 高橋小姐去過英國嗎？<br/>B: 去過，我去年去了英國。",
+      "zh_CN": "A: 高桥小姐去过英国吗？<br/>B: 去过，我去年去了英国。",
+      "ko": "A: 다카하시 씨는 영국에 가 본 적이 있습니까?<br/>B: 네, 작년에 영국에 갔습니다.",
+      "zh_HK": "A: 高橋小姐你有冇去過英國呀？<br/>B: 有呀，我舊年去咗英國。",
+      "fr": "A : Êtes-vous déjà allée au Royaume-Uni, Mme Takahashi ?<br/>B : Oui, je suis allée au Royaume-Uni l'année dernière."
     },
     "related": "【地理・地名】イギリス (国名・地域・行政区画)"
   },
@@ -5870,12 +5871,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>渡辺<rt>わたなべ</rt></ruby>さんは<ruby>中国<rt>ちゅうごく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>中国<rt>ちゅうごく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year.",
-      "zh_TW": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year.",
-      "zh_CN": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year.",
-      "ko": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year.",
-      "zh_HK": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year.",
-      "fr": "A: Have you ever been to China, 渡辺-san?\nB: Yes, I went to China last year."
+      "en": "A: Have you ever been to China, Mr. Watanabe?<br/>B: Yes, I went to China last year.",
+      "zh_TW": "A: 渡邊先生去過中國嗎？<br/>B: 去過，我去年去了中國。",
+      "zh_CN": "A: 渡边先生去过中国吗？<br/>B: 去过，我去年去了中国。",
+      "ko": "A: 와타나베 씨는 중국에 가 본 적이 있습니까?<br/>B: 네, 작년에 중국에 갔습니다.",
+      "zh_HK": "A: 渡邊先生你有冇去過中國呀？<br/>B: 有呀，我舊年去咗中國。",
+      "fr": "A : Êtes-vous déjà allé en Chine, M. Watanabe ?<br/>B : Oui, je suis allé en Chine l'année dernière."
     },
     "related": "【地理・地名】中国 (国名・地域・行政区画)"
   },
@@ -5955,12 +5956,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>伊藤<rt>いとう</rt></ruby>さんは<ruby>香港<rt>ほんこん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>香港<rt>ほんこん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year.",
-      "zh_TW": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year.",
-      "zh_CN": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year.",
-      "ko": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year.",
-      "zh_HK": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year.",
-      "fr": "A: Have you ever been to Hong Kong, 伊藤-san?\nB: Yes, I went to Hong Kong last year."
+      "en": "A: Have you ever been to Hong Kong, Mr. Ito?<br/>B: Yes, I went to Hong Kong last year.",
+      "zh_TW": "A: 伊藤先生去過香港嗎？<br/>B: 去過，我去年去了香港。",
+      "zh_CN": "A: 伊藤先生去过香港吗？<br/>B: 去过，我去年去了香港。",
+      "ko": "A: 이토 씨는 홍콩에 가 본 적이 있습니까?<br/>B: 네, 작년에 홍콩에 갔습니다.",
+      "zh_HK": "A: 伊藤先生你有冇去過香港呀？<br/>B: 有呀，我舊年去咗香港。",
+      "fr": "A : Êtes-vous déjà allé à Hong Kong, M. Ito ?<br/>B : Oui, je suis allé à Hong Kong l'année dernière."
     },
     "related": "【地理・地名】香港 (国名・地域・行政区画)"
   },
@@ -5983,12 +5984,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>中村<rt>なかむら</rt></ruby>さんはタイへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>タイへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year.",
-      "zh_TW": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year.",
-      "zh_CN": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year.",
-      "ko": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year.",
-      "zh_HK": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year.",
-      "fr": "A: Have you ever been to Thailand, 中村-san?\nB: Yes, I went to Thailand last year."
+      "en": "A: Have you ever been to Thailand, Mr. Nakamura?<br/>B: Yes, I went to Thailand last year.",
+      "zh_TW": "A: 中村先生去過泰國嗎？<br/>B: 去過，我去年去了泰國。",
+      "zh_CN": "A: 中村先生去过泰国吗？<br/>B: 去过，我去年去了泰国。",
+      "ko": "A: 나카무라 씨는 태국에 가 본 적이 있습니까?<br/>B: 네, 작년에 태국에 갔습니다.",
+      "zh_HK": "A: 中村先生你有冇去過泰國呀？<br/>B: 有呀，我舊年去咗泰國。",
+      "fr": "A : Êtes-vous déjà allé en Thaïlande, M. Nakamura ?<br/>B : Oui, je suis allé en Thaïlande l'année dernière."
     },
     "related": "【地理・地名】タイ (国名・地域・行政区画)"
   },
@@ -6011,12 +6012,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんはマレーシアへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>マレーシアへ<ruby>行<rt>い</rt></ruby>きました。",
-      "en": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year.",
-      "zh_TW": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year.",
-      "zh_CN": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year.",
-      "ko": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year.",
-      "zh_HK": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year.",
-      "fr": "A: Have you ever been to Malaysia, 佐藤-san?\nB: Yes, I went to Malaysia last year."
+      "en": "A: Have you ever been to Malaysia, Ms. Sato?<br/>B: Yes, I went to Malaysia last year.",
+      "zh_TW": "A: 佐藤小姐去過馬來西亞嗎？<br/>B: 去過，我去年去了馬來西亞。",
+      "zh_CN": "A: 佐藤小姐去过马来西亚吗？<br/>B: 去过，我去年去了马来西亚。",
+      "ko": "A: 사토 씨는 말레이시아에 가 본 적이 있습니까?<br/>B: 네, 작년에 말레이시아에 갔습니다.",
+      "zh_HK": "A: 佐藤小姐你有冇去過馬來西亞呀？<br/>B: 有呀，我舊年去咗馬來西亞。",
+      "fr": "A : Êtes-vous déjà allée en Malaisie, Mme Sato ?<br/>B : Oui, je suis allée en Malaisie l'année dernière."
     },
     "related": "【地理・地名】マレーシア (国名・地域・行政区画)"
   },
@@ -6542,13 +6543,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "index finger / pointer finger"
     },
     "example": {
-      "ja": "A: どうしましたか？<br/>B: <ruby>少<rt>すこ</rt></ruby>し<ruby>人差<rt>ひとさし</rt></ruby>し<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
-      "en": "A: What is wrong?\nB: My index finger / pointer finger hurts a little.",
-      "zh_TW": "A: What is wrong?\nB: My index finger / pointer finger hurts a little.",
-      "zh_CN": "A: What is wrong?\nB: My index finger / pointer finger hurts a little.",
-      "ko": "A: What is wrong?\nB: My index finger / pointer finger hurts a little.",
-      "zh_HK": "A: What is wrong?\nB: My index finger / pointer finger hurts a little.",
-      "fr": "A: What is wrong?\nB: My index finger / pointer finger hurts a little."
+      "ja": "A: どうしましたか？<br/>B: <ruby>少<rt>すこ</rt></ruby>し<ruby>人差<rt>ひとさ</rt></ruby>し<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
+      "en": "A: What happened?<br/>B: My index finger hurts a little.",
+      "zh_TW": "A: 怎麼了？<br/>B: 食指有一點痛。",
+      "zh_CN": "A: 怎么了？<br/>B: 食指有一点疼。",
+      "ko": "A: 왜 그러십니까?<br/>B: 집게손가락(검지)이 조금 아픕니다.",
+      "zh_HK": "A: 咩事呀？<br/>B: 隻食指有少少痛。",
+      "fr": "A : Qu'est-ce qui ne va pas ?<br/>B : J'ai un peu mal à l'index."
     },
     "related": "【身体部位】人差し指 (人体の名称・健康や症状の表現)"
   },
@@ -9834,7 +9835,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "剛才",
       "ko": "방금 / 방금 전에",
       "zh_HK": "剛才",
-      "fr": "right now / this very moment"
+      "fr": "just now (seconds to minutes ago)"
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さん、もう<ruby>出<rt>で</rt></ruby>かけましたか？<br/>B: はい、たった<ruby>今<rt>いま</rt></ruby>タクシーに<ruby>乗<rt>の</rt></ruby>って<ruby>空港<rt>くうこう</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かいました。",
@@ -10557,12 +10558,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かえる・かえります",
     "category": "基本動詞(1)",
     "meaning": {
-      "en": "to return / to go home",
-      "zh_TW": "回去／回家",
-      "zh_CN": "回去／回家",
-      "ko": "돌아가다 / 집에 가다",
-      "zh_HK": "返去／返屋企",
-      "fr": "rentrer / retourner"
+      "en": "to go home / to return home",
+      "zh_TW": "回家 / 回去",
+      "zh_CN": "回家 / 回去",
+      "ko": "집에 가다 / 돌아가다",
+      "zh_HK": "返屋企 / 返去",
+      "fr": "rentrer (chez soi) / retourner"
     },
     "example": {
       "ja": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったら、まっすぐ<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。",
@@ -10810,11 +10811,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to speak / to talk",
-      "zh_TW": "說話",
-      "zh_CN": "說話",
+      "zh_TW": "說話 / 交談",
+      "zh_CN": "说话 / 交谈",
       "ko": "말하다 / 이야기하다",
-      "zh_HK": "說話",
-      "fr": "to talk / to speak"
+      "zh_HK": "講嘢 / 傾偈",
+      "fr": "parler / discuter"
     },
     "example": {
       "ja": "レッスンでは、たくさん<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すようにしています。",
@@ -11033,12 +11034,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "わすれる・わすれます",
     "category": "基本動詞(1)",
     "meaning": {
-      "en": "to forget",
+      "en": "to forget / to leave behind",
       "zh_TW": "忘記",
-      "zh_CN": "忘記",
-      "ko": "잊어버리다",
-      "zh_HK": "忘記",
-      "fr": "to forget"
+      "zh_CN": "忘记",
+      "ko": "잊다 / 잊어버리다",
+      "zh_HK": "唔記得 / 留低",
+      "fr": "oublier"
     },
     "example": {
       "ja": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>時々<rt>ときどき</rt></ruby><ruby>忘<rt>わす</rt></ruby>れます。",
@@ -11062,11 +11063,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(1)",
     "meaning": {
       "en": "to remember / to memorize",
-      "zh_TW": "覚える（おぼえる）、覚えます",
-      "zh_CN": "覚える（おぼえる）、覚えます",
-      "ko": "覚える（おぼえる）、覚えます",
-      "zh_HK": "覚える（おぼえる）、覚えます",
-      "fr": "覚える（おぼえる）、覚えます"
+      "zh_TW": "記住 / 背誦",
+      "zh_CN": "记住 / 背诵",
+      "ko": "외우다 / 기억하다",
+      "zh_HK": "記住 / 記低",
+      "fr": "mémoriser / se souvenir"
     },
     "example": {
       "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を5つ<ruby>覚<rt>おぼ</rt></ruby>えるようにしています。",
@@ -11127,11 +11128,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>降<rt>お</rt></ruby>ります。",
       "en": "I get off the train at the next station.",
-      "zh_TW": "下車",
-      "zh_CN": "下車",
-      "ko": "I get off the train at the next station.",
-      "zh_HK": "下車",
-      "fr": "I get off the train at the next station."
+      "zh_TW": "在下一站下電車。",
+      "zh_CN": "在下一站下电车。",
+      "ko": "다음 역에서 전철에서 내립니다.",
+      "zh_HK": "喺下一個站落電車。",
+      "fr": "Je descends du train à la prochaine gare."
     },
     "related": "【原型（辞書形）】降りる（おりる）\n【ます形】降ります\n【て形】降りて\n【ない形】降りない\n【た形】降りた\n【グループ・連語】2グループ (一段) / 「駅で降りる」"
   },
@@ -11154,12 +11155,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いたので、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みます。",
-      "en": "I caught a cold, so I am taking time off work.",
-      "zh_TW": "休息",
-      "zh_CN": "休息",
-      "ko": "I caught a cold, so I am taking time off work.",
-      "zh_HK": "休息",
-      "fr": "I caught a cold, so I am taking time off work."
+      "en": "I caught a cold, so I am taking the day off from work.",
+      "zh_TW": "因為感冒了，所以向公司請假休息。",
+      "zh_CN": "因为感冒了，所以向公司请假休息。",
+      "ko": "감기에 걸려서 회사를 쉽니다.",
+      "zh_HK": "因為傷風感冒，所以向公司請假休息。",
+      "fr": "Comme j'ai attrapé un rhume, je prends un jour de congé."
     },
     "related": "【原型（辞書形）】休む（やすむ）\n【ます形】休みます\n【て形】休んで\n【ない形】休まない\n【た形】休んだ\n【グループ・連語】1グループ (五段) / 「学校を休む」"
   },
@@ -11822,7 +11823,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "快了",
       "ko": "이제 곧",
       "zh_HK": "快了",
-      "fr": "soon"
+      "fr": "very soon / almost"
     },
     "example": {
       "ja": "もうすぐ<ruby>待<rt>ま</rt></ruby>ちに<ruby>待<rt>ま</rt></ruby>ったゴールデンウィークですね。<ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか？",
@@ -12881,12 +12882,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "でる・でます",
     "category": "基本動詞(2)",
     "meaning": {
-      "en": "to leave / to go out",
-      "zh_TW": "出去",
-      "zh_CN": "出去",
-      "ko": "나가다 / 나갑니다",
-      "zh_HK": "出去",
-      "fr": "to exit / to go out"
+      "en": "to leave / to exit (a room/place)",
+      "zh_TW": "離開 / 走出（房間·家）",
+      "zh_CN": "离开 / 走出（房间·家）",
+      "ko": "나가다 / (방·집을) 나서다",
+      "zh_HK": "出（門口·房） / 離開",
+      "fr": "sortir (d'un lieu) / quitter"
     },
     "example": {
       "ja": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
@@ -12909,12 +12910,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はいる・はいります",
     "category": "基本動詞(2)",
     "meaning": {
-      "en": "to enter",
-      "zh_TW": "進去",
-      "zh_CN": "進去",
-      "ko": "들어가다 / 들어갑니다",
-      "zh_HK": "進去",
-      "fr": "to enter / to go in"
+      "en": "to enter / to go in",
+      "zh_TW": "進去 / 進入",
+      "zh_CN": "进去 / 进入",
+      "ko": "들어가다 / 들어오다",
+      "zh_HK": "入去 / 進入",
+      "fr": "entrer"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
@@ -13245,12 +13246,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "つくる・つくります",
     "category": "基本動詞(2)",
     "meaning": {
-      "en": "to make",
-      "zh_TW": "做",
-      "zh_CN": "做",
-      "ko": "만들다 / 만듭니다",
-      "zh_HK": "做",
-      "fr": "to make / to cook"
+      "en": "to make / to cook",
+      "zh_TW": "做 / 製作",
+      "zh_CN": "做 / 制作",
+      "ko": "만들다 / 요리하다",
+      "zh_HK": "整 / 製作",
+      "fr": "faire / fabriquer / cuisiner"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>手作<rt>てづく</rt></ruby>りのパスタを<ruby>作<rt>つく</rt></ruby>ります。",
@@ -13358,11 +13359,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to teach / to tell",
-      "zh_TW": "教",
-      "zh_CN": "教",
-      "ko": "가르치다 / 가르칩니다",
-      "zh_HK": "教",
-      "fr": "to teach / to tell"
+      "zh_TW": "教 / 告訴",
+      "zh_CN": "教 / 告诉",
+      "ko": "가르치다 / 알려주다",
+      "zh_HK": "教 / 話俾…知",
+      "fr": "enseigner / indiquer"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>までの<ruby>道<rt>みち</rt></ruby>を<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えます。",
@@ -13442,11 +13443,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(2)",
     "meaning": {
       "en": "to wait",
-      "zh_TW": "等",
-      "zh_CN": "等",
-      "ko": "기다리다 / 기다립니다",
-      "zh_HK": "等",
-      "fr": "to wait"
+      "zh_TW": "等 / 等待",
+      "zh_CN": "等 / 等待",
+      "ko": "기다리다",
+      "zh_HK": "等 / 等候",
+      "fr": "attendre"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>のカフェで<ruby>友達<rt>ともだち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。",
@@ -13530,7 +13531,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "明白",
       "ko": "이해하다 / 이해합니다",
       "zh_HK": "明白",
-      "fr": "can understand / know"
+      "fr": "to understand"
     },
     "example": {
       "ja": "<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がよくわかります。",
@@ -13558,7 +13559,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "會",
       "ko": "할 수 있다 / 할 수 있습니다",
       "zh_HK": "會",
-      "fr": "can do / be ready"
+      "fr": "to be able to / can"
     },
     "example": {
       "ja": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しできるようになりました。<br/>もっと<ruby>勉強<rt>べんきょう</rt></ruby>したいです！",
@@ -13721,12 +13722,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せんたくする・せんたくします",
     "category": "する動詞（名詞）",
     "meaning": {
-      "en": "laundry / washing clothes",
+      "en": "to do the laundry",
       "zh_TW": "洗衣服",
       "zh_CN": "洗衣服",
-      "ko": "빨래",
-      "zh_HK": "洗衣服",
-      "fr": "to do laundry"
+      "ko": "세탁하다 / 빨래하다",
+      "zh_HK": "洗衫",
+      "fr": "faire la lessive"
     },
     "example": {
       "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>しました。<br/>すぐ<ruby>乾<rt>かわ</rt></ruby>きそうですね。",
@@ -13749,12 +13750,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "そうじする・そうじします",
     "category": "する動詞（名詞）",
     "meaning": {
-      "en": "cleaning / tidying",
-      "zh_TW": "打掃",
-      "zh_CN": "打掃",
-      "ko": "청소",
-      "zh_HK": "打掃",
-      "fr": "to clean"
+      "en": "to clean (a room)",
+      "zh_TW": "打掃 / 清掃",
+      "zh_CN": "打扫 / 清扫",
+      "ko": "청소하다",
+      "zh_HK": "打掃 / 執屋",
+      "fr": "nettoyer / faire le ménage"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>をきれいに<ruby>掃除<rt>そうじ</rt></ruby>しました。<br/><ruby>気持<rt>きも</rt></ruby>ちよく<ruby>過<rt>す</rt></ruby>ごせますね。",
@@ -13805,12 +13806,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "うんてんする・うんてんします",
     "category": "する動詞（名詞）",
     "meaning": {
-      "en": "driving",
-      "zh_TW": "開車",
-      "zh_CN": "開車",
-      "ko": "운전",
-      "zh_HK": "開車",
-      "fr": "to drive"
+      "en": "to drive",
+      "zh_TW": "開車 / 駕駛",
+      "zh_CN": "开车 / 驾驶",
+      "ko": "운전하다",
+      "zh_HK": "揸車 / 駕駛",
+      "fr": "conduire"
     },
     "example": {
       "ja": "<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>は<ruby>安全<rt>あんぜん</rt></ruby><ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby>ですね。<br/>シートベルトを<ruby>忘<rt>わす</rt></ruby>れずに。",
@@ -14711,11 +14712,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "すみません、<ruby>駅<rt>えき</rt></ruby>はどこですか？",
       "en": "Excuse me, where is the station?",
-      "zh_TW": "不好意思",
-      "zh_CN": "不好意思",
-      "ko": "Excuse me, where is the station?",
-      "zh_HK": "不好意思",
-      "fr": "Excuse me, where is the station?"
+      "zh_TW": "不好意思，請問車站在哪裡？",
+      "zh_CN": "不好意思，请问车站在哪里？",
+      "ko": "실례합니다, 역은 어디입니까?",
+      "zh_HK": "唔該，請問車站喺邊度呀？",
+      "fr": "Excusez-moi, où se trouve la gare ?"
     },
     "related": "【相槌・談話標識】すみません (会話を円滑につなぐ自然な応答表現)"
   },
@@ -15159,11 +15160,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>東京<rt>とうきょう</rt></ruby>ドームはとても<ruby>大<rt>おお</rt></ruby>きいです。",
       "en": "Tokyo Dome is very big.",
-      "zh_TW": "大",
-      "zh_CN": "大",
-      "ko": "Tokyo Dome is very big.",
-      "zh_HK": "大",
-      "fr": "Tokyo Dome is very big."
+      "zh_TW": "東京巨蛋非常大。",
+      "zh_CN": "东京巨蛋非常大。",
+      "ko": "도쿄 돔은 매우 큽니다.",
+      "zh_HK": "東京巨蛋非常大。",
+      "fr": "Le Tokyo Dome est très grand."
     },
     "related": "【い形容詞】大きい (否定: 大きくない / 過去: 大きかった)"
   },
@@ -15215,11 +15216,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>新<rt>あたら</rt></ruby>しいパソコンを<ruby>買<rt>か</rt></ruby>いました。",
       "en": "I bought a new computer.",
-      "zh_TW": "新的",
-      "zh_CN": "新的",
-      "ko": "I bought a new computer.",
-      "zh_HK": "新的",
-      "fr": "I bought a new computer."
+      "zh_TW": "買了新電腦。",
+      "zh_CN": "买了新电脑。",
+      "ko": "새 컴퓨터를 샀습니다.",
+      "zh_HK": "買咗部新電腦。",
+      "fr": "J'ai acheté un nouvel ordinateur."
     },
     "related": "【い形容詞】新しい (否定: 新しくない / 過去: 新しかった)"
   },
@@ -15243,11 +15244,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>京都<rt>きょうと</rt></ruby>には<ruby>古<rt>ふる</rt></ruby>いお<ruby>寺<rt>てら</rt></ruby>がたくさんあります。",
       "en": "There are many old temples in Kyoto.",
-      "zh_TW": "舊",
-      "zh_CN": "舊",
-      "ko": "There are many old temples in Kyoto.",
-      "zh_HK": "舊",
-      "fr": "There are many old temples in Kyoto."
+      "zh_TW": "京都有很多古老的寺廟。",
+      "zh_CN": "京都有很多古老的寺庙。",
+      "ko": "교토에는 오래된 절이 많이 있습니다.",
+      "zh_HK": "京都有好多古老嘅寺廟。",
+      "fr": "Il y a beaucoup de vieux temples à Kyoto."
     },
     "related": "【い形容詞】古い (否定: 古くない / 過去: 古かった)"
   },
@@ -15325,13 +15326,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "hot (weather / air)"
     },
     "example": {
-      "ja": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。",
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。",
       "en": "Summer in Japan is very hot.",
-      "zh_TW": "熱（天氣）",
-      "zh_CN": "熱（天氣）",
-      "ko": "Summer in Japan is very hot.",
-      "zh_HK": "熱（天氣）",
-      "fr": "Summer in Japan is very hot."
+      "zh_TW": "日本的夏天非常熱。",
+      "zh_CN": "日本的夏天非常热。",
+      "ko": "일본의 여름은 매우 덥습니다.",
+      "zh_HK": "日本嘅夏天非常熱。",
+      "fr": "L'été au Japon est très chaud."
     },
     "related": "【い形容詞】暑い (否定: 暑くない / 過去: 暑かった)"
   },
@@ -15353,13 +15354,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "hot (to the touch / food / drink)"
     },
     "example": {
-      "ja": "このスープは<ruby>熱<rt>あつ</rt></ruby>いですから<ruby>気<rt>き</rt></ruby>をつけてください。",
+      "ja": "このスープは<ruby>熱<rt>あつ</rt></ruby>いですから、<ruby>気<rt>き</rt></ruby>をつけてください。",
       "en": "Please be careful as this soup is hot.",
-      "zh_TW": "燙",
-      "zh_CN": "燙",
-      "ko": "Please be careful as this soup is hot.",
-      "zh_HK": "燙",
-      "fr": "Please be careful as this soup is hot."
+      "zh_TW": "這個湯很燙，請小心。",
+      "zh_CN": "这个汤很烫，请小心。",
+      "ko": "이 수프는 뜨거우니까 조심해 주세요.",
+      "zh_HK": "呢碗湯好熱，請小心飲。",
+      "fr": "Faites attention car cette soupe est très chaude."
     },
     "related": "【い形容詞】熱い (否定: 熱くない / 過去: 熱かった)"
   },
@@ -15383,11 +15384,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>北海道<rt>ほっかいどう</rt></ruby>はとても<ruby>寒<rt>さむ</rt></ruby>いです。",
       "en": "Hokkaido in winter is very cold.",
-      "zh_TW": "冷（天氣）",
-      "zh_CN": "冷（天氣）",
-      "ko": "Hokkaido in winter is very cold.",
-      "zh_HK": "冷（天氣）",
-      "fr": "Hokkaido in winter is very cold."
+      "zh_TW": "冬天的北海道非常冷。",
+      "zh_CN": "冬天的北海道非常冷。",
+      "ko": "겨울의 홋카이도는 매우 춥습니다.",
+      "zh_HK": "冬天嘅北海道非常凍。",
+      "fr": "Hokkaido en hiver est très froid."
     },
     "related": "【い形容詞】寒い (否定: 寒くない / 過去: 寒かった)"
   },
@@ -15410,12 +15411,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みましょう。",
-      "en": "Let us drink some cold tea.",
-      "zh_TW": "冰冷",
-      "zh_CN": "冰冷",
-      "ko": "Let us drink some cold tea.",
-      "zh_HK": "冰冷",
-      "fr": "Let us drink some cold tea."
+      "en": "Let's drink some cold tea.",
+      "zh_TW": "喝點冰茶吧。",
+      "zh_CN": "喝点凉茶吧。",
+      "ko": "차가운 차를 마십시다.",
+      "zh_HK": "飲杯凍茶啦。",
+      "fr": "Buvons du thé froid."
     },
     "related": "【い形容詞】冷たい (否定: 冷たくない / 過去: 冷たかった)"
   },
@@ -15523,11 +15524,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "このカメラは<ruby>性能<rt>せいのう</rt></ruby>がいいですが、<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>いです。",
       "en": "This camera has great performance, but it is a bit expensive.",
-      "zh_TW": "貴",
-      "zh_CN": "貴",
-      "ko": "This camera has great performance, but it is a bit expensive.",
-      "zh_HK": "貴",
-      "fr": "This camera has great performance, but it is a bit expensive."
+      "zh_TW": "這台相機性能很好，但稍微有點貴。",
+      "zh_CN": "这台相机性能很好，但稍微有点贵。",
+      "ko": "이 카메라는 성능이 좋지만 조금 비쌉니다.",
+      "zh_HK": "呢部相機性能好好，但係有少少貴。",
+      "fr": "Cet appareil photo est très performant, mais il est un peu cher."
     },
     "related": "【い形容詞】高い (否定: 高くない / 過去: 高かった)"
   },
@@ -15551,11 +15552,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "スーパーで<ruby>安<rt>やす</rt></ruby>い<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
       "en": "I bought cheap vegetables at the supermarket.",
-      "zh_TW": "便宜",
-      "zh_CN": "便宜",
-      "ko": "I bought cheap vegetables at the supermarket.",
-      "zh_HK": "便宜",
-      "fr": "I bought cheap vegetables at the supermarket."
+      "zh_TW": "在超市買了便宜的蔬菜。",
+      "zh_CN": "在超市买了便宜的蔬菜。",
+      "ko": "슈퍼마켓에서 싼 채소를 샀습니다.",
+      "zh_HK": "喺超市買咗啲平菜。",
+      "fr": "J'ai acheté des légumes bon marché au supermarché."
     },
     "related": "【い形容詞】安い (否定: 安くない / 過去: 安かった)"
   },
@@ -15719,11 +15720,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。",
       "en": "Beautiful flowers are blooming in the park.",
-      "zh_TW": "漂亮",
-      "zh_CN": "漂亮",
-      "ko": "Beautiful flowers are blooming in the park.",
-      "zh_HK": "漂亮",
-      "fr": "Beautiful flowers are blooming in the park."
+      "zh_TW": "公園裡盛開著美麗的花。",
+      "zh_CN": "公园里盛开着美丽的花。",
+      "ko": "공원에 예쁜 꽃이 피어 있습니다.",
+      "zh_HK": "公園入面開咗好靚嘅花。",
+      "fr": "De belles fleurs s'épanouissent dans le parc."
     },
     "related": "【な形容詞】綺麗な (否定: 綺麗なではない・じゃありません / 過去: 綺麗なでした)"
   },
@@ -15747,11 +15748,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>夜<rt>よる</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>はとても<ruby>静<rt>しず</rt></ruby>かです。",
       "en": "The library at night is very quiet.",
-      "zh_TW": "安靜",
-      "zh_CN": "安靜",
-      "ko": "The library at night is very quiet.",
-      "zh_HK": "安靜",
-      "fr": "The library at night is very quiet."
+      "zh_TW": "夜晚的圖書館非常安靜。",
+      "zh_CN": "夜晚的图书馆非常安静。",
+      "ko": "밤의 도서관은 매우 조용합니다.",
+      "zh_HK": "夜晚嘅圖書館非常靜。",
+      "fr": "La bibliothèque est très calme le soir."
     },
     "related": "【な形容詞】静かな (否定: 静かなではない・じゃありません / 過去: 静かなでした)"
   },
@@ -15774,12 +15775,12 @@ window.INITIAL_VOCAB_DATA = [
     },
     "example": {
       "ja": "<ruby>渋谷<rt>しぶや</rt></ruby>のスクランブル<ruby>交差点<rt>こうさてん</rt></ruby>はとても<ruby>賑<rt>にぎ</rt></ruby>やかです。",
-      "en": "Shibuya crossing is very lively and bustling.",
-      "zh_TW": "熱鬧",
-      "zh_CN": "熱鬧",
-      "ko": "Shibuya crossing is very lively and bustling.",
-      "zh_HK": "熱鬧",
-      "fr": "Shibuya crossing is very lively and bustling."
+      "en": "Shibuya scramble crossing is very lively and bustling.",
+      "zh_TW": "澀谷的十字路口非常熱鬧。",
+      "zh_CN": "涩谷的十字路口非常热闹。",
+      "ko": "시부야 스크램블 교차로는 매우 번화합니다.",
+      "zh_HK": "澀谷十字路口非常熱鬧。",
+      "fr": "Le carrefour de Shibuya est très animé."
     },
     "related": "【な形容詞】賑やかな (否定: 賑やかなではない・じゃありません / 過去: 賑やかなでした)"
   },
@@ -15941,13 +15942,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "favourite / liked"
     },
     "example": {
-      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
       "en": "I love Japanese cuisine.",
-      "zh_TW": "喜歡的",
-      "zh_CN": "喜歡的",
-      "ko": "I love Japanese cuisine.",
-      "zh_HK": "喜歡的",
-      "fr": "I love Japanese cuisine."
+      "zh_TW": "我非常喜歡日本料理。",
+      "zh_CN": "我非常喜欢日本料理。",
+      "ko": "저는 일본 요리를 무척 좋아합니다.",
+      "zh_HK": "我好鍾意食日本菜。",
+      "fr": "J'adore la cuisine japonaise."
     },
     "related": "【な形容詞】好きな (否定: 好きなではない・じゃありません / 過去: 好きなでした)"
   },
@@ -16025,13 +16026,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "convenient / handy"
     },
     "example": {
-      "ja": "コンビニは24<ruby>時間<rt>じかん</rt></ruby><ruby>開<rt>ひら</rt></ruby>いていて、とても<ruby>便利<rt>べんり</rt></ruby>です。",
-      "en": "Convenience stores are open 24 hours and very convenient.",
-      "zh_TW": "方便",
-      "zh_CN": "方便",
-      "ko": "Convenience stores are open 24 hours and very convenient.",
-      "zh_HK": "方便",
-      "fr": "Convenience stores are open 24 hours and very convenient."
+      "ja": "コンビニは24<ruby>時間<rt>じかん</rt></ruby><ruby>開<rt>あ</rt></ruby>いていて、とても<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "Convenience stores are open 24 hours and are very convenient.",
+      "zh_TW": "便利商店24小時營業，非常方便。",
+      "zh_CN": "便利店24小时营业，非常方便。",
+      "ko": "편의점은 24시간 열려 있어서 매우 편리합니다.",
+      "zh_HK": "便利店開廿四小時，非常方便。",
+      "fr": "Les supérettes sont ouvertes 24h/24 et sont très pratiques."
     },
     "related": "【な形容詞】便利な (否定: 便利なではない・じゃありません / 過去: 便利なでした)"
   },
@@ -16139,11 +16140,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "この<ruby>文法<rt>ぶんぽう</rt></ruby>はルールが<ruby>簡単<rt>かんたん</rt></ruby>です。",
       "en": "The rules for this grammar are simple.",
-      "zh_TW": "簡單",
-      "zh_CN": "簡單",
-      "ko": "The rules for this grammar are simple.",
-      "zh_HK": "簡單",
-      "fr": "The rules for this grammar are simple."
+      "zh_TW": "這個文法的規則很簡單。",
+      "zh_CN": "这个语法的规则很简单。",
+      "ko": "이 문법은 규칙이 간단합니다.",
+      "zh_HK": "呢個文法嘅規則好簡單。",
+      "fr": "Les règles de cette grammaire sont simples."
     },
     "related": "【な形容詞】簡単な (否定: 簡単なではない・じゃありません / 過去: 簡単なでした)"
   },
@@ -16167,11 +16168,11 @@ window.INITIAL_VOCAB_DATA = [
     "example": {
       "ja": "<ruby>引越<rt>ひっこ</rt></ruby>しの<ruby>準備<rt>じゅんび</rt></ruby>はとても<ruby>大変<rt>たいへん</rt></ruby>でした。",
       "en": "Preparing for moving was very tough.",
-      "zh_TW": "辛苦",
-      "zh_CN": "辛苦",
-      "ko": "Preparing for moving was very tough.",
-      "zh_HK": "辛苦",
-      "fr": "Preparing for moving was very tough."
+      "zh_TW": "搬家的準備工作非常辛苦。",
+      "zh_CN": "搬家的准备工作非常辛苦。",
+      "ko": "이사 준비는 매우 힘들었습니다.",
+      "zh_HK": "搬屋嘅準備工夫真係好辛苦。",
+      "fr": "Les préparatifs du déménagement ont été très difficiles."
     },
     "related": "【な形容詞】大変な (否定: 大変なではない・じゃありません / 過去: 大変なでした)"
   },
@@ -16803,10 +16804,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "time",
       "zh_TW": "時間",
-      "zh_CN": "時間",
-      "ko": "時間",
+      "zh_CN": "时间",
+      "ko": "시간",
       "zh_HK": "時間",
-      "fr": "time"
+      "fr": "le temps / l'heure"
     },
     "example": {
       "ja": "A: まだ<ruby>時間<rt>じかん</rt></ruby>はありますか？<br/>B: ええ、まだ30<ruby>分<rt>ぷん</rt></ruby>ありますよ。ゆっくりどうぞ。",
@@ -16830,11 +16831,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "promise / appointment",
-      "zh_TW": "約好",
-      "zh_CN": "約好",
-      "ko": "約定",
-      "zh_HK": "約好",
-      "fr": "promise / appointment"
+      "zh_TW": "約定 / 約會",
+      "zh_CN": "约定 / 约会",
+      "ko": "약속",
+      "zh_HK": "約定 / 約會",
+      "fr": "la promesse / le rendez-vous"
     },
     "example": {
       "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>にカフェで<ruby>会<rt>あ</rt></ruby>う<ruby>約束<rt>やくそく</rt></ruby>、<ruby>覚<rt>おぼ</rt></ruby>えていますか？<br/>B: もちろんです！<ruby>楽<rt>たの</rt></ruby>しみにしていますね。",
@@ -16858,11 +16859,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "meeting up / meetup",
-      "zh_TW": "碰面",
-      "zh_CN": "碰面",
-      "ko": "碰面",
-      "zh_HK": "碰面",
-      "fr": "meeting up / meetup"
+      "zh_TW": "碰面 / 會合",
+      "zh_CN": "碰面 / 会合",
+      "ko": "만나기로 함 / 약속 장소에서 만남",
+      "zh_HK": "等齊人 / 約見面",
+      "fr": "le rendez-vous (point de rencontre)"
     },
     "example": {
       "ja": "<ruby>渋谷駅<rt>しぶやえき</rt></ruby>のハチ<ruby>公前<rt>こうまえ</rt></ruby>の<ruby>広場<rt>ひろば</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせをしています。",
@@ -16885,12 +16886,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ようじ",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "errand",
-      "zh_TW": "嘢做",
-      "zh_CN": "嘢做",
-      "ko": "要辦的事",
-      "zh_HK": "嘢做",
-      "fr": "affaire / course à faire"
+      "en": "errand / things to do",
+      "zh_TW": "有事 / 要辦的事",
+      "zh_CN": "有事 / 要办的事",
+      "ko": "볼일 / 용무",
+      "zh_HK": "有嘢做 / 事務",
+      "fr": "une affaire / une course à faire"
     },
     "example": {
       "ja": "A: <ruby>今日<rt>きょう</rt></ruby>の<ruby>放課後<rt>ほうかご</rt></ruby>、<ruby>何<rt>なに</rt></ruby>か<ruby>用事<rt>ようじ</rt></ruby>がありますか？<br/>B: <ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>く<ruby>用事<rt>ようじ</rt></ruby>があります。",
@@ -16914,11 +16915,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "plan / schedule",
-      "zh_TW": "計劃",
-      "zh_CN": "計劃",
-      "ko": "計畫",
-      "zh_HK": "計劃",
-      "fr": "plan / schedule"
+      "zh_TW": "計畫 / 日程",
+      "zh_CN": "计划 / 日程",
+      "ko": "예정 / 일정",
+      "zh_HK": "計劃 / 行程",
+      "fr": "le programme / l'emploi du temps"
     },
     "example": {
       "ja": "A: <ruby>今週末<rt>こんしゅうまつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>はもう<ruby>決<rt>き</rt></ruby>まりましたか？<br/>B: <ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
@@ -16944,9 +16945,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "trip / travel",
       "zh_TW": "旅行",
       "zh_CN": "旅行",
-      "ko": "旅行",
+      "ko": "여행",
       "zh_HK": "旅行",
-      "fr": "trip / travel"
+      "fr": "le voyage"
     },
     "example": {
       "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>沖縄<rt>おきなわ</rt></ruby>へ3<ruby>泊<rt>はく</rt></ruby><ruby>4日<rt>よっか</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
@@ -16969,15 +16970,15 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ジェーポップ",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "J-POP",
-      "zh_TW": "日本流行音樂",
-      "zh_CN": "日本流行音樂",
-      "ko": "日本流行音樂",
-      "zh_HK": "日本流行音樂",
-      "fr": "J-POP"
+      "en": "J-POP (Japanese pop music)",
+      "zh_TW": "日本流行音樂 (J-POP)",
+      "zh_CN": "日本流行音乐 (J-POP)",
+      "ko": "J-POP (일본 대중음악)",
+      "zh_HK": "日本流行音樂 (J-POP)",
+      "fr": "la J-POP (musique pop japonaise)"
     },
     "example": {
-      "ja": "A: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をよく<ruby>聴<rt>き</rt></ruby>きますか？<br/>B: <ruby>最近<rt>さいきん</rt></ruby>のJ-POPのヒット<ruby>曲<rt>きょく</rt></ruby>をよく<ruby>聴<rt>き</rt></ruby>いていますよ。",
+      "ja": "A: <ruby>日本<rt>にほん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をよく<ruby>聴<rt>き</rt></ruby>きますか？<br/>B: <ruby>最近<rt>さいきん</rt></ruby>のJ-POPのヒット<ruby>曲<rt>きょく</rt></ruby>をよく<ruby>聴<rt>き</rt></ruby>いていますよ。",
       "en": "A: What kind of Japanese music do you often listen to?<br>B: I often listen to recent J-POP hits.",
       "zh_TW": "A: 你常聽什麼樣的日本音樂呢？<br>B: 我常聽最近的J-POP熱門流行歌曲喔。",
       "zh_CN": "A: 你常听什么样的日本音乐呢？<br>B: 我常听最近的J-POP热门流行歌曲喔。",
@@ -16997,12 +16998,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "えんか",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "enka",
+      "en": "enka (traditional Japanese ballad)",
       "zh_TW": "演歌",
       "zh_CN": "演歌",
-      "ko": "演歌",
+      "ko": "엔카 (일본 전통 가요)",
       "zh_HK": "演歌",
-      "fr": "enka"
+      "fr": "l'enka (chanson traditionnelle japonaise)"
     },
     "example": {
       "ja": "A: おじいちゃんはお<ruby>風呂<rt>ふろ</rt></ruby>でよく<ruby>演歌<rt>えんか</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>っています。<br/>B: <ruby>情感<rt>じょうかん</rt></ruby>がこもっていて<ruby>味<rt>あじ</rt></ruby>がありますね。",
@@ -17026,11 +17027,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "horror",
-      "zh_TW": "恐怖",
-      "zh_CN": "恐怖",
-      "ko": "恐怖",
-      "zh_HK": "恐怖",
-      "fr": "horror"
+      "zh_TW": "恐怖（片）",
+      "zh_CN": "恐怖（片）",
+      "ko": "호러 / 공포",
+      "zh_HK": "恐怖（片）",
+      "fr": "l'horreur (film d'horreur)"
     },
     "example": {
       "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>話題<rt>わだい</rt></ruby>のホラー<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。<br/>B: <ruby>怖<rt>こわ</rt></ruby>くて<ruby>夜<rt>よる</rt></ruby><ruby>眠<rt>ねむ</rt></ruby>れなくなりませんでしたか？",
@@ -17053,12 +17054,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "れんあい",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "romance",
-      "zh_TW": "愛情",
-      "zh_CN": "愛情",
-      "ko": "愛情",
-      "zh_HK": "愛情",
-      "fr": "romance"
+      "en": "romance / love",
+      "zh_TW": "戀愛 / 愛情",
+      "zh_CN": "恋爱 / 爱情",
+      "ko": "연애 / 로맨스",
+      "zh_HK": "戀愛 / 愛情",
+      "fr": "la romance / l'amour"
     },
     "example": {
       "ja": "<ruby>若者<rt>わかもの</rt></ruby>の<ruby>恋愛<rt>れんあい</rt></ruby>をテーマにしたドラマが、<ruby>今<rt>いま</rt></ruby>とても<ruby>人気<rt>にんき</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。",
@@ -17082,11 +17083,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "mystery",
-      "zh_TW": "推理",
-      "zh_CN": "推理",
-      "ko": "推理",
-      "zh_HK": "推理",
-      "fr": "mystery"
+      "zh_TW": "推理 / 懸疑",
+      "zh_CN": "推理 / 悬疑",
+      "ko": "미스터리 / 추리",
+      "zh_HK": "推理 / 懸疑",
+      "fr": "le mystère / le roman policier"
     },
     "example": {
       "ja": "A: このミステリー<ruby>小説<rt>しょうせつ</rt></ruby>、<ruby>結末<rt>けつまつ</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>予想<rt>よそう</rt></ruby>できませんでした！<br/>B: <ruby>面白<rt>おもしろ</rt></ruby>そうですね、<ruby>私<rt>わたし</rt></ruby>も<ruby>読<rt>よ</rt></ruby>んでみたいです。",
@@ -17165,12 +17166,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "サッカー",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "soccer",
+      "en": "soccer / football",
       "zh_TW": "足球",
       "zh_CN": "足球",
-      "ko": "足球",
+      "ko": "축구",
       "zh_HK": "足球",
-      "fr": "soccer"
+      "fr": "le football"
     },
     "example": {
       "ja": "A: <ruby>今夜<rt>こんや</rt></ruby>はワールドカップのサッカーの<ruby>試合<rt>しあい</rt></ruby>がありますよ。<br/>B: テレビの<ruby>前<rt>まえ</rt></ruby>で<ruby>応援<rt>おうえん</rt></ruby>しなきゃいけませんね！",
@@ -17193,12 +17194,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "バレーボール／バレー",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "volleyball / volley",
+      "en": "volleyball",
       "zh_TW": "排球",
       "zh_CN": "排球",
-      "ko": "排球",
+      "ko": "배구",
       "zh_HK": "排球",
-      "fr": "volleyball / volley"
+      "fr": "le volley-ball"
     },
     "example": {
       "ja": "A: <ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、バレーボール<ruby>部<rt>ぶ</rt></ruby>に<ruby>所属<rt>しょぞく</rt></ruby>していました。<br/>B: <ruby>身長<rt>しんちょう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いからアタッカーだったんですか？",
@@ -17221,12 +17222,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "バスケットボール／バスケ",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "basketball / basket",
+      "en": "basketball",
       "zh_TW": "籃球",
-      "zh_CN": "籃球",
-      "ko": "籃球",
+      "zh_CN": "篮球",
+      "ko": "농구",
       "zh_HK": "籃球",
-      "fr": "basketball / basket"
+      "fr": "le basket-ball"
     },
     "example": {
       "ja": "A: <ruby>放課後<rt>ほうかご</rt></ruby>、<ruby>体育館<rt>たいいくかん</rt></ruby>でバスケの<ruby>試合<rt>しあい</rt></ruby>をやっています。<br/>B: <ruby>観<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>こう！<ruby>応援<rt>おうえん</rt></ruby>しようよ。",
@@ -17251,10 +17252,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "tennis",
       "zh_TW": "網球",
-      "zh_CN": "網球",
-      "ko": "網球",
+      "zh_CN": "网球",
+      "ko": "테니스",
       "zh_HK": "網球",
-      "fr": "tennis"
+      "fr": "le tennis"
     },
     "example": {
       "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はよくテニスをしますか？<br/>B: ええ、テニスコートで<ruby>友達<rt>ともだち</rt></ruby>と<ruby>楽<rt>たの</rt></ruby>しく<ruby>運動<rt>うんどう</rt></ruby>しています。",
@@ -17280,9 +17281,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "baseball",
       "zh_TW": "棒球",
       "zh_CN": "棒球",
-      "ko": "棒球",
+      "ko": "야구",
       "zh_HK": "棒球",
-      "fr": "baseball"
+      "fr": "le baseball"
     },
     "example": {
       "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>のプロ<ruby>野球中継<rt>やきゅうちゅうけい</rt></ruby>、<ruby>見<rt>み</rt></ruby>ましたか？<br/>B: <ruby>逆転<rt>ぎゃくてん</rt></ruby>ホームランの<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>大興奮<rt>だいこうふん</rt></ruby>でした！",
@@ -17305,12 +17306,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "たっきゅう",
     "category": "予定/映画/スポーツ",
     "meaning": {
-      "en": "table tennis",
-      "zh_TW": "乒乓球",
+      "en": "table tennis / ping-pong",
+      "zh_TW": "桌球 / 乒乓球",
       "zh_CN": "乒乓球",
-      "ko": "桌球",
-      "zh_HK": "乒乓球",
-      "fr": "table tennis"
+      "ko": "탁구",
+      "zh_HK": "乒乓波",
+      "fr": "le tennis de table / le ping-pong"
     },
     "example": {
       "ja": "A: <ruby>温泉旅館<rt>おんせんりょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まったら、<ruby>浴衣<rt>ゆかた</rt></ruby>で<ruby>卓球<rt>たっきゅう</rt></ruby>をするのが<ruby>定番<rt>ていばん</rt></ruby>ですね。<br/>B: スマッシュが<ruby>決<rt>き</rt></ruby>まると<ruby>爽快<rt>そうかい</rt></ruby>ですね！",
@@ -17364,9 +17365,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "judo",
       "zh_TW": "柔道",
       "zh_CN": "柔道",
-      "ko": "柔道",
+      "ko": "유도",
       "zh_HK": "柔道",
-      "fr": "judo"
+      "fr": "le judo"
     },
     "example": {
       "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>から<ruby>道場<rt>どうじょう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>って<ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>稽古<rt>けいこ</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>んでいます。",
@@ -17390,11 +17391,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "予定/映画/スポーツ",
     "meaning": {
       "en": "swimming",
-      "zh_TW": "游水",
-      "zh_CN": "游水",
-      "ko": "游泳",
+      "zh_TW": "游泳",
+      "zh_CN": "游泳",
+      "ko": "수영",
       "zh_HK": "游水",
-      "fr": "swimming"
+      "fr": "la natation"
     },
     "example": {
       "ja": "A: <ruby>健康<rt>けんこう</rt></ruby>のために<ruby>何<rt>なに</rt></ruby>かスポーツをしていますか？<br/>B: <ruby>毎週<rt>まいしゅう</rt></ruby>プールに<ruby>通<rt>かよ</rt></ruby>って、<ruby>水泳<rt>すいえい</rt></ruby>をしています。",
@@ -17419,10 +17420,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "kendo",
       "zh_TW": "劍道",
-      "zh_CN": "劍道",
-      "ko": "劍道",
+      "zh_CN": "剑道",
+      "ko": "검도",
       "zh_HK": "劍道",
-      "fr": "kendo"
+      "fr": "le kendo"
     },
     "example": {
       "ja": "A: <ruby>剣道<rt>けんどう</rt></ruby>の<ruby>道場<rt>どうじょう</rt></ruby>から、<ruby>気迫<rt>きはく</rt></ruby>のこもった<ruby>大<rt>おお</rt></ruby>きな<ruby>掛け声<rt>かけごえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえます。<br/>B: <ruby>礼儀正<rt>れいぎただ</rt></ruby>しくて<ruby>引<rt>ひ</rt></ruby>き<ruby>締<rt>し</rt></ruby>まりますね。",
@@ -17447,10 +17448,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "season",
       "zh_TW": "季節",
-      "zh_CN": "季節",
-      "ko": "季節",
+      "zh_CN": "季节",
+      "ko": "계절",
       "zh_HK": "季節",
-      "fr": "season"
+      "fr": "la saison"
     },
     "example": {
       "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>四季<rt>しき</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しく、それぞれの<ruby>季節<rt>きせつ</rt></ruby>で<ruby>景色<rt>けしき</rt></ruby>や<ruby>旬<rt>しゅん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しめます。",
@@ -17476,9 +17477,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "spring",
       "zh_TW": "春天",
       "zh_CN": "春天",
-      "ko": "春天",
+      "ko": "봄",
       "zh_HK": "春天",
-      "fr": "spring"
+      "fr": "le printemps"
     },
     "example": {
       "ja": "<ruby>春<rt>はる</rt></ruby>になると<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いて、お<ruby>花見<rt>はなみ</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>で<ruby>賑<rt>にぎ</rt></ruby>わいます。",
@@ -17504,9 +17505,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "summer",
       "zh_TW": "夏天",
       "zh_CN": "夏天",
-      "ko": "夏天",
+      "ko": "여름",
       "zh_HK": "夏天",
-      "fr": "summer"
+      "fr": "l'été"
     },
     "example": {
       "ja": "<ruby>夏<rt>なつ</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いので、プールや<ruby>海<rt>うみ</rt></ruby>へ<ruby>泳<rt>およ</rt></ruby>ぎに<ruby>行<rt>い</rt></ruby>きたいです。",
@@ -17532,9 +17533,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "autumn / fall",
       "zh_TW": "秋天",
       "zh_CN": "秋天",
-      "ko": "秋天",
+      "ko": "가을",
       "zh_HK": "秋天",
-      "fr": "autumn / fall"
+      "fr": "l'automne"
     },
     "example": {
       "ja": "<ruby>秋<rt>あき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすく、<ruby>紅葉<rt>こうよう</rt></ruby>がとても<ruby>美<rt>うつく</rt></ruby>しい<ruby>季節<rt>きせつ</rt></ruby>です。",
@@ -17560,9 +17561,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "winter",
       "zh_TW": "冬天",
       "zh_CN": "冬天",
-      "ko": "冬天",
+      "ko": "겨울",
       "zh_HK": "冬天",
-      "fr": "winter"
+      "fr": "l'hiver"
     },
     "example": {
       "ja": "<ruby>冬<rt>ふゆ</rt></ruby>はスキー<ruby>場<rt>ば</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>雪景色<rt>ゆきげしき</rt></ruby>を<ruby>眺<rt>なが</rt></ruby>めながら<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいです。",
@@ -17587,10 +17588,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "weather",
       "zh_TW": "天氣",
-      "zh_CN": "天氣",
-      "ko": "天氣",
+      "zh_CN": "天气",
+      "ko": "날씨",
       "zh_HK": "天氣",
-      "fr": "temps (météo)"
+      "fr": "le temps (météo)"
     },
     "example": {
       "ja": "A:<ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はいかがですか？<br/>B: ぽかぽかしてとてもいい<ruby>天気<rt>てんき</rt></ruby>ですよ。",
@@ -17616,9 +17617,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "rain",
       "zh_TW": "雨",
       "zh_CN": "雨",
-      "ko": "雨",
+      "ko": "비",
       "zh_HK": "雨",
-      "fr": "rain"
+      "fr": "la pluie"
     },
     "example": {
       "ja": "<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたので、<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いました。",
@@ -17642,11 +17643,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "sunny / clear sky",
-      "zh_TW": "天晴",
-      "zh_CN": "天晴",
-      "ko": "晴天",
-      "zh_HK": "天晴",
-      "fr": "sunny / clear sky"
+      "zh_TW": "晴天",
+      "zh_CN": "晴天",
+      "ko": "맑음",
+      "zh_HK": "好天 / 天晴",
+      "fr": "le beau temps / ensoleillé"
     },
     "example": {
       "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はどうですか？<br/>B: <ruby>明日<rt>あした</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby>すっきりと<ruby>晴<rt>は</rt></ruby>れる<ruby>予報<rt>よほう</rt></ruby>です。",
@@ -17671,10 +17672,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "cloudy",
       "zh_TW": "陰天",
-      "zh_CN": "陰天",
-      "ko": "陰天",
+      "zh_CN": "阴天",
+      "ko": "흐림",
       "zh_HK": "陰天",
-      "fr": "cloudy"
+      "fr": "nuageux / le temps couvert"
     },
     "example": {
       "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>り<ruby>空<rt>あ</rt></ruby>で、<ruby>日差<rt>ひざ</rt></ruby>しが<ruby>弱<rt>よわ</rt></ruby>くて<ruby>過<rt>す</rt></ruby>ごしやすいです。",
@@ -17699,10 +17700,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "wind",
       "zh_TW": "風",
-      "zh_CN": "風",
-      "ko": "風",
+      "zh_CN": "风",
+      "ko": "바람",
       "zh_HK": "風",
-      "fr": "wind"
+      "fr": "le vent"
     },
     "example": {
       "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて、<ruby>帽子<rt>ぼうし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ばされそうになりました。",
@@ -17727,10 +17728,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "cherry blossom",
       "zh_TW": "櫻花",
-      "zh_CN": "櫻花",
-      "ko": "櫻花",
+      "zh_CN": "樱花",
+      "ko": "벚꽃",
       "zh_HK": "櫻花",
-      "fr": "fleurs de cerisier / sakura"
+      "fr": "les fleurs de cerisier (sakura)"
     },
     "example": {
       "ja": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>川<rt>かわ</rt></ruby><ruby>沿<rt>ぞ</rt></ruby>いの<ruby>桜<rt>さくら</rt></ruby><ruby>並木<rt>なみき</rt></ruby>が<ruby>ピンク色<rt>ぴんくいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
@@ -17754,11 +17755,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "dango (sweet rice dumpling)",
-      "zh_TW": "糯米糰子",
-      "zh_CN": "糯米糰子",
-      "ko": "糰子",
+      "zh_TW": "糰子 / 糯米糰子",
+      "zh_CN": "团子 / 糯米丸子",
+      "ko": "경단 (당고)",
       "zh_HK": "糯米糰子",
-      "fr": "dango (sweet rice dumpling)"
+      "fr": "le dango (boulette de riz sucrée)"
     },
     "example": {
       "ja": "お<ruby>花見<rt>はなみ</rt></ruby>をしながら、<ruby>甘<rt>あま</rt></ruby>くて<ruby>香<rt>こう</rt></ruby>ばしいみたらし<ruby>団子<rt>だんご</rt></ruby>をいただきました。",
@@ -17782,11 +17783,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "fireworks",
-      "zh_TW": "煙花",
-      "zh_CN": "煙花",
-      "ko": "煙火",
+      "zh_TW": "煙火",
+      "zh_CN": "烟花 / 焰火",
+      "ko": "불꽃놀이",
       "zh_HK": "煙花",
-      "fr": "fireworks"
+      "fr": "les feux d'artifice"
     },
     "example": {
       "ja": "<ruby>夏<rt>なつ</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>に<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がる<ruby>大<rt>おお</rt></ruby>きな<ruby>花火<rt>はなび</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>で<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
@@ -17810,11 +17811,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "festival",
-      "zh_TW": "節慶",
-      "zh_CN": "節慶",
-      "ko": "祭典",
-      "zh_HK": "節慶",
-      "fr": "festival"
+      "zh_TW": "祭典 / 節慶",
+      "zh_CN": "祭典 / 节庆",
+      "ko": "축제 / 마쓰리",
+      "zh_HK": "祭典 / 節慶",
+      "fr": "le festival (matsuri)"
     },
     "example": {
       "ja": "<ruby>地元<rt>じもと</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつり</rt></ruby>で<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>つ</rt></ruby>て、<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
@@ -17838,11 +17839,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "sea / ocean",
-      "zh_TW": "海",
-      "zh_CN": "海",
-      "ko": "海",
+      "zh_TW": "海 / 大海",
+      "zh_CN": "海 / 大海",
+      "ko": "바다",
       "zh_HK": "海",
-      "fr": "sea / ocean"
+      "fr": "la mer / l'océan"
     },
     "example": {
       "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>沖縄<rt>おきなわ</rt></ruby>のきれいな<ruby>海<rt>うみ</rt></ruby>でシュノーケリングを<ruby>楽<rt>たの</rt></ruby>しみました。",
@@ -17868,9 +17869,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "mountain",
       "zh_TW": "山",
       "zh_CN": "山",
-      "ko": "山",
+      "ko": "산",
       "zh_HK": "山",
-      "fr": "mountain"
+      "fr": "la montagne"
     },
     "example": {
       "ja": "<ruby>天気<rt>てんき</rt></ruby>のいい<ruby>休日<rt>きゅうじつ</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>富士<rt>ふじ</rt></ruby><ruby>山<rt>やま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くへ<ruby>登山<rt>とざん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
@@ -17894,11 +17895,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "river",
-      "zh_TW": "河",
-      "zh_CN": "河",
-      "ko": "河",
+      "zh_TW": "河 / 川",
+      "zh_CN": "河 / 川",
+      "ko": "강",
       "zh_HK": "河",
-      "fr": "river"
+      "fr": "la rivière / le fleuve"
     },
     "example": {
       "ja": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>鴨<rt>かも</rt></ruby><ruby>川<rt>かわ</rt></ruby>のほとりを<ruby>散歩<rt>さんぽ</rt></ruby>すると、<ruby>風<rt>かぜ</rt></ruby>が<ruby>心地<rt>ここち</rt></ruby>よいです。",
@@ -17922,11 +17923,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "autumn leaves",
-      "zh_TW": "紅葉",
-      "zh_CN": "紅葉",
-      "ko": "紅葉",
+      "zh_TW": "紅葉 / 楓葉",
+      "zh_CN": "红叶 / 枫叶",
+      "ko": "단풍",
       "zh_HK": "紅葉",
-      "fr": "feuilles d'automne / érable"
+      "fr": "les feuilles d'automne (momiji)"
     },
     "example": {
       "ja": "1<ruby>1月<rt>いちがつ</rt></ruby>になると、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>山々<rt>やまやま</rt></ruby>が<ruby>見事<rt>みごと</rt></ruby>な<ruby>紅葉<rt>こうよう</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
@@ -17950,11 +17951,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "sweet potato",
-      "zh_TW": "番薯",
-      "zh_CN": "番薯",
-      "ko": "地瓜",
+      "zh_TW": "地瓜 / 番薯",
+      "zh_CN": "红薯 / 地瓜",
+      "ko": "고구마",
       "zh_HK": "番薯",
-      "fr": "sweet potato"
+      "fr": "la patate douce"
     },
     "example": {
       "ja": "<ruby>秋<rt>あき</rt></ruby>の<ruby>焼き芋<rt>やきいも</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで、ホクホクに<ruby>焼<rt>や</rt></ruby>けた<ruby>甘<rt>あま</rt></ruby>いさつまいもを<ruby>買<rt>か</rt></ruby>いました。",
@@ -17978,11 +17979,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "kotatsu (heated table)",
-      "zh_TW": "暖桌",
-      "zh_CN": "暖桌",
-      "ko": "被爐",
-      "zh_HK": "暖桌",
-      "fr": "kotatsu (heated table)"
+      "zh_TW": "被爐 / 暖桌",
+      "zh_CN": "被炉 / 暖桌",
+      "ko": "코타츠 (일본식 난방 탁자)",
+      "zh_HK": "暖桌（被爐）",
+      "fr": "le kotatsu (table chauffante)"
     },
     "example": {
       "ja": "<ruby>冬<rt>ふゆ</rt></ruby>はこたつに<ruby>入<rt>はい</rt></ruby>ってミカンを<ruby>食<rt>た</rt></ruby>べるのが<ruby>一番<rt>いちばん</rt></ruby>ですね。<br/>ぽかぽか<ruby>温<rt>あたた</rt></ruby>まります。",
@@ -18006,11 +18007,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "季節/天気",
     "meaning": {
       "en": "hot pot",
-      "zh_TW": "打邊爐",
-      "zh_CN": "打邊爐",
-      "ko": "火鍋",
-      "zh_HK": "打邊爐",
-      "fr": "hot pot"
+      "zh_TW": "火鍋",
+      "zh_CN": "火锅",
+      "ko": "전골 / 나베 요리",
+      "zh_HK": "打邊爐 / 火鍋",
+      "fr": "la fondue japonaise (nabe)"
     },
     "example": {
       "ja": "<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>温<rt>あたた</rt></ruby>かい<ruby>寄<rt>よ</rt></ruby>せ<ruby>鍋<rt>なべ</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>むのが<ruby>一番<rt>いちばん</rt></ruby>です。",
@@ -18035,10 +18036,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "Christmas",
       "zh_TW": "聖誕節",
-      "zh_CN": "聖誕節",
-      "ko": "聖誕節",
+      "zh_CN": "圣诞节",
+      "ko": "크리스마스",
       "zh_HK": "聖誕節",
-      "fr": "Christmas"
+      "fr": "Noël"
     },
     "example": {
       "ja": "1<ruby>2月<rt>にがつ</rt></ruby>になると<ruby>街中<rt>まちじゅう</rt></ruby>がイルミネーションで<ruby>輝<rt>かがや</rt></ruby>き、クリスマスの<ruby>雰囲気<rt>ふんいき</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれます。",
@@ -18061,12 +18062,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おしょうがつ",
     "category": "季節/天気",
     "meaning": {
-      "en": "Japanese New Year",
-      "zh_TW": "日本新年",
-      "zh_CN": "日本新年",
-      "ko": "日本新年",
-      "zh_HK": "日本新年",
-      "fr": "Japanese New Year"
+      "en": "New Year's holidays",
+      "zh_TW": "新年 / 正月",
+      "zh_CN": "新年 / 正月",
+      "ko": "설날 / 정월",
+      "zh_HK": "新年 / 正月",
+      "fr": "le Nouvel An japonais"
     },
     "example": {
       "ja": "<ruby>日本<rt>にほん</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>には、おせち<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
@@ -18090,11 +18091,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to swim",
-      "zh_TW": "游水",
-      "zh_CN": "游水",
-      "ko": "游泳",
+      "zh_TW": "游泳",
+      "zh_CN": "游泳",
+      "ko": "수영하다 / 헤엄치다",
       "zh_HK": "游水",
-      "fr": "to swim"
+      "fr": "nager"
     },
     "example": {
       "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>海<rt>うみ</rt></ruby>でたくさん<ruby>泳<rt>およ</rt></ruby>ぎます。",
@@ -18118,11 +18119,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to get tired",
-      "zh_TW": "攰",
-      "zh_CN": "攰",
-      "ko": "疲累",
-      "zh_HK": "攰",
-      "fr": "to get tired"
+      "zh_TW": "累 / 疲勞",
+      "zh_CN": "累 / 疲劳",
+      "ko": "지치다 / 피곤해지다",
+      "zh_HK": "攰 / 疲倦",
+      "fr": "se fatiguer / être fatigué"
     },
     "example": {
       "ja": "たくさん<ruby>歩<rt>ある</rt></ruby>くと<ruby>足<rt>あし</rt></ruby>が<ruby>疲<rt>つか</rt></ruby>れます。",
@@ -18145,12 +18146,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "でかける・でかけます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to go out",
-      "zh_TW": "出門",
-      "zh_CN": "出門",
-      "ko": "出門",
-      "zh_HK": "出門",
-      "fr": "to go out"
+      "en": "to go out (for an outing)",
+      "zh_TW": "外出 / 出門",
+      "zh_CN": "外出 / 出门",
+      "ko": "외출하다",
+      "zh_HK": "出街 / 出門",
+      "fr": "sortir (en promenade / faire des courses)"
     },
     "example": {
       "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>午後<rt>ごご</rt></ruby>から<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>出掛<rt>でか</rt></ruby>けます。",
@@ -18173,12 +18174,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "つける・つけます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to turn on",
-      "zh_TW": "開（燈）",
-      "zh_CN": "開（燈）",
-      "ko": "開（電器）",
-      "zh_HK": "開（燈）",
-      "fr": "to turn on"
+      "en": "to turn on (a light/appliance)",
+      "zh_TW": "打開（燈·電器）",
+      "zh_CN": "打开（灯·电器）",
+      "ko": "켜다",
+      "zh_HK": "開（燈·電器）",
+      "fr": "allumer"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いので<ruby>電気<rt>でんき</rt></ruby>をつけます。",
@@ -18201,12 +18202,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "けす・けします",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to turn off",
-      "zh_TW": "關（燈）",
-      "zh_CN": "關（燈）",
-      "ko": "關（電器）",
-      "zh_HK": "關（燈）",
-      "fr": "to turn off"
+      "en": "to turn off / to erase",
+      "zh_TW": "關掉（電器） / 擦掉",
+      "zh_CN": "关掉（电器） / 擦掉",
+      "ko": "끄다 / 지우다",
+      "zh_HK": "熄（燈·電器） / 擦走",
+      "fr": "éteindre / effacer"
     },
     "example": {
       "ja": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にテレビの<ruby>電源<rt>でんげん</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。<br/><ruby>静<rt>しず</rt></ruby>かになりました。",
@@ -18230,11 +18231,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to hurry",
-      "zh_TW": "快點",
-      "zh_CN": "快點",
-      "ko": "趕快",
-      "zh_HK": "快點",
-      "fr": "to hurry"
+      "zh_TW": "趕快 / 匆忙",
+      "zh_CN": "赶快 / 匆忙",
+      "ko": "서두르다",
+      "zh_HK": "趕時間 / 快啲",
+      "fr": "se dépêcher"
     },
     "example": {
       "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れそうなので<ruby>急<rt>いそ</rt></ruby>ぎます。",
@@ -18258,11 +18259,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to wait",
-      "zh_TW": "等",
-      "zh_CN": "等",
-      "ko": "等",
-      "zh_HK": "等",
-      "fr": "to wait"
+      "zh_TW": "等 / 等待",
+      "zh_CN": "等 / 等待",
+      "ko": "기다리다",
+      "zh_HK": "等 / 等候",
+      "fr": "attendre"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。",
@@ -18285,12 +18286,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "もつ・もちます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to hold / to have",
-      "zh_TW": "攞住",
-      "zh_CN": "攞住",
-      "ko": "拿著",
-      "zh_HK": "攞住",
-      "fr": "to hold / to have"
+      "en": "to hold / to carry / to have",
+      "zh_TW": "拿 / 持有",
+      "zh_CN": "拿 / 持有",
+      "ko": "들다 / 가지다",
+      "zh_HK": "拎住 / 揸住",
+      "fr": "tenir / porter / avoir"
     },
     "example": {
       "ja": "<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>私<rt>わたし</rt></ruby>が<ruby>持<rt>も</rt></ruby>ちます。",
@@ -18313,12 +18314,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とる・とります",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to take / to get",
-      "zh_TW": "攞",
-      "zh_CN": "攞",
-      "ko": "拿",
-      "zh_HK": "攞",
-      "fr": "to take / to get"
+      "en": "to take / to get / to pass",
+      "zh_TW": "拿 / 取得",
+      "zh_CN": "拿 / 取得",
+      "ko": "집다 / 취하다 / 찍다",
+      "zh_HK": "攞 / 拎",
+      "fr": "prendre"
     },
     "example": {
       "ja": "テーブルの<ruby>上<rt>うえ</rt></ruby>の<ruby>塩<rt>しお</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。",
@@ -18342,11 +18343,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to help (with a task)",
-      "zh_TW": "幫手",
-      "zh_CN": "幫手",
-      "ko": "幫忙",
+      "zh_TW": "幫忙 / 協助",
+      "zh_CN": "帮忙 / 协助",
+      "ko": "돕다 / 거들다",
       "zh_HK": "幫手",
-      "fr": "to help (with a task)"
+      "fr": "aider (à une tâche)"
     },
     "example": {
       "ja": "<ruby>料理<rt>りょうり</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>います。",
@@ -18369,12 +18370,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "たすける・たすけます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to help / to save",
-      "zh_TW": "救",
-      "zh_CN": "救",
-      "ko": "幫助",
-      "zh_HK": "救",
-      "fr": "to help / to save"
+      "en": "to help / to save / to rescue",
+      "zh_TW": "救 / 救助",
+      "zh_CN": "救 / 救助",
+      "ko": "구조하다 / 돕다",
+      "zh_HK": "救 / 幫助",
+      "fr": "sauver / secourir"
     },
     "example": {
       "ja": "<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>を<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けます。",
@@ -18397,12 +18398,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はなす・はなします",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to talk / to speak",
-      "zh_TW": "講嘢",
-      "zh_CN": "講嘢",
-      "ko": "說話",
-      "zh_HK": "講嘢",
-      "fr": "to talk / to speak"
+      "en": "to speak / to talk",
+      "zh_TW": "說話 / 交談",
+      "zh_CN": "说话 / 交谈",
+      "ko": "말하다 / 이야기하다",
+      "zh_HK": "講嘢 / 傾偈",
+      "fr": "parler / discuter"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しく<ruby>話<rt>はな</rt></ruby>すことができました。",
@@ -18425,12 +18426,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "よぶ・よびます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to call",
-      "zh_TW": "呼叫",
-      "zh_CN": "呼叫",
-      "ko": "叫",
-      "zh_HK": "呼叫",
-      "fr": "to call"
+      "en": "to call / to invite",
+      "zh_TW": "叫 / 呼喚",
+      "zh_CN": "叫 / 呼唤",
+      "ko": "부르다",
+      "zh_HK": "叫 / 稱呼",
+      "fr": "appeler"
     },
     "example": {
       "ja": "<ruby>電話<rt>でんわ</rt></ruby>でタクシーを1<ruby>台<rt>だい</rt></ruby><ruby>呼<rt>よ</rt></ruby>びます。",
@@ -18454,20 +18455,20 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to show",
-      "zh_TW": "畀...睇",
-      "zh_CN": "畀...睇",
-      "ko": "給...看",
-      "zh_HK": "畀...睇",
-      "fr": "to show"
+      "zh_TW": "給…看 / 出示",
+      "zh_CN": "给…看 / 出示",
+      "ko": "보여주다",
+      "zh_HK": "俾…睇 / 出示",
+      "fr": "montrer"
     },
     "example": {
-      "ja": "パスポートを<ruby>見<rt>み</rt></ruby>せる。",
-      "en": "I/Please to show.",
-      "zh_TW": "請/我要畀...睇。",
-      "zh_CN": "請/我要畀...睇。",
-      "ko": "I/Please to show.",
-      "zh_HK": "請/我要畀...睇。",
-      "fr": "I/Please to show."
+      "ja": "<ruby>改札<rt>かいさつ</rt></ruby>で<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せます。",
+      "en": "I show my ticket to the station staff at the ticket gate.",
+      "zh_TW": "在剪票口向車站工作人員出示車票。",
+      "zh_CN": "在检票口向车站工作人员出示车票。",
+      "ko": "개찰구에서 역무원에게 표를 보여 줍니다.",
+      "zh_HK": "喺閘口向車站職員出示車飛。",
+      "fr": "Je montre mon billet à l'employé de la gare au portillon."
     },
     "related": "【原型（辞書形）】見せる（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「写真を見せる」"
   },
@@ -18482,11 +18483,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to teach / to tell",
-      "zh_TW": "教",
-      "zh_CN": "教",
-      "ko": "教",
-      "zh_HK": "教",
-      "fr": "to teach / to tell"
+      "zh_TW": "教 / 告訴",
+      "zh_CN": "教 / 告诉",
+      "ko": "가르치다 / 알려주다",
+      "zh_HK": "教 / 話俾…知",
+      "fr": "enseigner / indiquer"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>日本語<rt>にほんご</rt></ruby>をやさしく<ruby>教<rt>おし</rt></ruby>えます。",
@@ -18510,11 +18511,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(3)",
     "meaning": {
       "en": "to enter / to go in",
-      "zh_TW": "進入",
-      "zh_CN": "進入",
-      "ko": "進去",
-      "zh_HK": "進入",
-      "fr": "to enter / to go in"
+      "zh_TW": "進去 / 進入",
+      "zh_CN": "进去 / 进入",
+      "ko": "들어가다 / 들어오다",
+      "zh_HK": "入去 / 進入",
+      "fr": "entrer"
     },
     "example": {
       "en": "In the afternoon, I enter a quiet cafe.",
@@ -18537,12 +18538,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "でる・でます",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "to exit / to go out",
-      "zh_TW": "出去",
-      "zh_CN": "出去",
-      "ko": "出去",
-      "zh_HK": "出去",
-      "fr": "to exit / to go out"
+      "en": "to leave / to exit (a room/place)",
+      "zh_TW": "離開 / 走出（房間·家）",
+      "zh_CN": "离开 / 走出（房间·家）",
+      "ko": "나가다 / (방·집을) 나서다",
+      "zh_HK": "出（門口·房） / 離開",
+      "fr": "sortir (d'un lieu) / quitter"
     },
     "example": {
       "ja": "<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
@@ -18565,12 +18566,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ふる・ふります",
     "category": "基本動詞(3)",
     "meaning": {
-      "en": "(rain) to fall",
-      "zh_TW": "落雨",
-      "zh_CN": "落雨",
-      "ko": "下雨",
-      "zh_HK": "落雨",
-      "fr": "(rain) to fall"
+      "en": "to fall (rain/snow)",
+      "zh_TW": "下（雨·雪）",
+      "zh_CN": "下（雨·雪）",
+      "ko": "(비·눈이) 내리다",
+      "zh_HK": "落（雨·雪）",
+      "fr": "tomber (pluie / neige)"
     },
     "example": {
       "ja": "<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。",
@@ -18595,10 +18596,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "weekend",
       "zh_TW": "週末",
-      "zh_CN": "週末",
-      "ko": "週末",
+      "zh_CN": "周末",
+      "ko": "주말",
       "zh_HK": "週末",
-      "fr": "weekend"
+      "fr": "le week-end"
     },
     "example": {
       "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をして<ruby>過<rt>す</rt></ruby>ごしましたか？<br/>B: <ruby>家<rt>いえ</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>たり、<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったりしました。",
@@ -18622,11 +18623,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "consecutive holidays",
-      "zh_TW": "連假",
-      "zh_CN": "連假",
-      "ko": "連假",
+      "zh_TW": "連假 / 連休",
+      "zh_CN": "连休 / 小长假",
+      "ko": "연휴",
       "zh_HK": "連假",
-      "fr": "consecutive holidays"
+      "fr": "les jours fériés consécutifs"
     },
     "example": {
       "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>祝日<rt>しゅくじつ</rt></ruby>は<ruby>連休<rt>れんきゅう</rt></ruby>になるので、<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
@@ -18649,12 +18650,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "びじゅつ",
     "category": "お出掛け",
     "meaning": {
-      "en": "art",
+      "en": "art / fine arts",
       "zh_TW": "美術",
-      "zh_CN": "美術",
-      "ko": "美術",
+      "zh_CN": "美术",
+      "ko": "미술",
       "zh_HK": "美術",
-      "fr": "art"
+      "fr": "les beaux-arts / l'art"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>に<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>現代<rt>げんだい</rt></ruby><ruby>美術<rt>びじゅつ</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>を<ruby>鑑賞<rt>かんしょう</rt></ruby>しました。",
@@ -18679,10 +18680,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "fishing",
       "zh_TW": "釣魚",
-      "zh_CN": "釣魚",
-      "ko": "釣魚",
+      "zh_CN": "钓鱼",
+      "ko": "낚시",
       "zh_HK": "釣魚",
-      "fr": "fishing"
+      "fr": "la pêche"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>に<ruby>父親<rt>ちちおや</rt></ruby>と<ruby>川<rt>かわ</rt></ruby>へ<ruby>釣<rt>つ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きました。",
@@ -18707,10 +18708,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "museum",
       "zh_TW": "博物館",
-      "zh_CN": "博物館",
-      "ko": "博物館",
+      "zh_CN": "博物馆",
+      "ko": "박물관",
       "zh_HK": "博物館",
-      "fr": "museum"
+      "fr": "le musée"
     },
     "example": {
       "ja": "<ruby>国立<rt>こくりつ</rt></ruby><ruby>科学<rt>かがく</rt></ruby><ruby>博物館<rt>はくぶつかん</rt></ruby>で、<ruby>大<rt>おお</rt></ruby>きな<ruby>恐竜<rt>きょうりゅう</rt></ruby>の<ruby>化石<rt>かせき</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。",
@@ -18733,12 +18734,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おてら",
     "category": "お出掛け",
     "meaning": {
-      "en": "temple",
-      "zh_TW": "廟宇",
-      "zh_CN": "廟宇",
-      "ko": "寺廟",
-      "zh_HK": "廟宇",
-      "fr": "temple"
+      "en": "Buddhist temple",
+      "zh_TW": "寺廟",
+      "zh_CN": "寺庙",
+      "ko": "절 / 사찰",
+      "zh_HK": "寺廟",
+      "fr": "le temple bouddhiste"
     },
     "example": {
       "ja": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>いきれいなお<ruby>寺<rt>てら</rt></ruby>を<ruby>散策<rt>さんさく</rt></ruby>して、<ruby>心<rt>こころ</rt></ruby>が<ruby>落ち着<rt>おちつ</rt></ruby>きました。",
@@ -18764,9 +18765,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "Shinto shrine",
       "zh_TW": "神社",
       "zh_CN": "神社",
-      "ko": "神社",
+      "ko": "신사",
       "zh_HK": "神社",
-      "fr": "Shinto shrine"
+      "fr": "le sanctuaire shinto"
     },
     "example": {
       "ja": "お<ruby>正月<rt>しょうがつ</rt></ruby>には<ruby>近<rt>ちか</rt></ruby>くの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>健康<rt>けんこう</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>りました。",
@@ -18790,11 +18791,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "church",
-      "zh_TW": "教堂",
-      "zh_CN": "教堂",
-      "ko": "教會",
+      "zh_TW": "教堂 / 教會",
+      "zh_CN": "教堂 / 教会",
+      "ko": "교회",
       "zh_HK": "教堂",
-      "fr": "church"
+      "fr": "l'église"
     },
     "example": {
       "ja": "<ruby>街角<rt>まちかど</rt></ruby>にある<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>教会<rt>きょうかい</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>しました。",
@@ -18819,10 +18820,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "gymnasium",
       "zh_TW": "體育館",
-      "zh_CN": "體育館",
-      "ko": "體育館",
+      "zh_CN": "体育馆",
+      "ko": "체육관",
       "zh_HK": "體育館",
-      "fr": "gymnasium"
+      "fr": "le gymnase"
     },
     "example": {
       "ja": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>でも<ruby>体育館<rt>たいいくかん</rt></ruby>で<ruby>思い切<rt>おもいき</rt></ruby>りバドミントンが<ruby>楽<rt>たの</rt></ruby>しめます。",
@@ -18847,10 +18848,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "embassy",
       "zh_TW": "大使館",
-      "zh_CN": "大使館",
-      "ko": "大使館",
+      "zh_CN": "大使馆",
+      "ko": "대사관",
       "zh_HK": "大使館",
-      "fr": "embassy"
+      "fr": "l'ambassade"
     },
     "example": {
       "ja": "ワーキングホリデーのビザを<ruby>申請<rt>しんせい</rt></ruby>するために、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
@@ -18876,9 +18877,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "swimming pool",
       "zh_TW": "游泳池",
       "zh_CN": "游泳池",
-      "ko": "游泳池",
-      "zh_HK": "游泳池",
-      "fr": "swimming pool"
+      "ko": "수영장 (풀)",
+      "zh_HK": "泳池",
+      "fr": "la piscine"
     },
     "example": {
       "ja": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏休<rt>なつやす</rt></ruby>みには、<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>行<rt>い</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>と<ruby>思い切<rt>おもいき</rt></ruby>り<ruby>泳<rt>およ</rt></ruby>ぎます。",
@@ -18902,11 +18903,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "city hall",
-      "zh_TW": "市政廳",
-      "zh_CN": "市政廳",
-      "ko": "市公所",
+      "zh_TW": "市政府 / 市公所",
+      "zh_CN": "市政府 / 市公所",
+      "ko": "시청",
       "zh_HK": "市政廳",
-      "fr": "city hall"
+      "fr": "la mairie / l'hôtel de ville"
     },
     "example": {
       "ja": "<ruby>住所<rt>じゅうしょ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わったので、<ruby>住民票<rt>じゅうみんひょう</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>しに<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
@@ -18930,11 +18931,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "police box",
-      "zh_TW": "差館分所",
-      "zh_CN": "差館分所",
-      "ko": "派出所",
-      "zh_HK": "差館分所",
-      "fr": "police box"
+      "zh_TW": "派出所",
+      "zh_CN": "派出所 / 警岗",
+      "ko": "파출소 (코반)",
+      "zh_HK": "差館崗亭 / 派出所",
+      "fr": "le poste de police (koban)"
     },
     "example": {
       "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>で<ruby>財布<rt>さいふ</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>ったので、すぐに<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>けました。",
@@ -18960,9 +18961,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "fire station",
       "zh_TW": "消防局",
       "zh_CN": "消防局",
-      "ko": "消防局",
+      "ko": "소방서",
       "zh_HK": "消防局",
-      "fr": "fire station"
+      "fr": "la caserne de pompiers"
     },
     "example": {
       "ja": "<ruby>近所<rt>きんじょ</rt></ruby>で<ruby>火災<rt>かさい</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>したときは、<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いてすぐに<ruby>消防署<rt>しょうぼうしょ</rt></ruby>に<ruby>通報<rt>つうほう</rt></ruby>しましょう。",
@@ -18986,11 +18987,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "convenience store",
-      "zh_TW": "便利店",
+      "zh_TW": "便利商店",
       "zh_CN": "便利店",
-      "ko": "便利商店",
+      "ko": "편의점",
       "zh_HK": "便利店",
-      "fr": "convenience store"
+      "fr": "la supérette (konbini)"
     },
     "example": {
       "ja": "<ruby>夜遅<rt>よるおそ</rt></ruby>くにお<ruby>腹<rt>はら</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いたので、コンビニでおにぎりを<ruby>買<rt>か</rt></ruby>ってきました。",
@@ -19013,12 +19014,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きっさてん",
     "category": "お出掛け",
     "meaning": {
-      "en": "café / coffee shop",
-      "zh_TW": "咖啡室",
-      "zh_CN": "咖啡室",
-      "ko": "咖啡廳",
-      "zh_HK": "咖啡室",
-      "fr": "café / coffee shop"
+      "en": "coffee shop / tearoom",
+      "zh_TW": "咖啡廳",
+      "zh_CN": "咖啡馆 / 茶餐厅",
+      "ko": "찻집 / 다방",
+      "zh_HK": "茶餐廳 / 咖啡室",
+      "fr": "le salon de thé / le café"
     },
     "example": {
       "ja": "レトロな<ruby>雰囲気<rt>ふんいき</rt></ruby>の<ruby>喫茶店<rt>きっさてん</rt></ruby>で、<ruby>名物<rt>めいぶつ</rt></ruby>のプリンとブレンドコーヒーを<ruby>楽<rt>たの</rt></ruby>しみました。",
@@ -19043,10 +19044,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "bakery",
       "zh_TW": "麵包店",
-      "zh_CN": "麵包店",
-      "ko": "麵包店",
-      "zh_HK": "麵包店",
-      "fr": "bakery"
+      "zh_CN": "面包店",
+      "ko": "빵집",
+      "zh_HK": "麵包舖",
+      "fr": "la boulangerie"
     },
     "example": {
       "ja": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さなパン<ruby>屋<rt>や</rt></ruby>から、<ruby>焼<rt>や</rt></ruby>き<ruby>立<rt>た</rt></ruby>てのクロワッサンのいい<ruby>香<rt>かお</rt></ruby>りが<ruby>漂<rt>ただよ</rt></ruby>ってきます。",
@@ -19070,11 +19071,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "お出掛け",
     "meaning": {
       "en": "liquor store",
-      "zh_TW": "酒類專門店",
-      "zh_CN": "酒類專門店",
-      "ko": "菸酒行",
-      "zh_HK": "酒類專門店",
-      "fr": "liquor store"
+      "zh_TW": "酒行 / 菸酒行",
+      "zh_CN": "酒行 / 烟酒店",
+      "ko": "주류 판매점 (술집)",
+      "zh_HK": "酒莊 / 賣酒舖",
+      "fr": "le caviste / le magasin de spiritueux"
     },
     "example": {
       "ja": "<ruby>地元<rt>じもと</rt></ruby>の<ruby>銘酒<rt>めいしゅ</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>っている<ruby>酒屋<rt>さかや</rt></ruby>で、<ruby>父<rt>ちち</rt></ruby>への<ruby>誕生日<rt>たんじょうび</rt></ruby>プレゼントを<ruby>選<rt>えら</rt></ruby>びました。",
@@ -19097,12 +19098,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "やおや",
     "category": "お出掛け",
     "meaning": {
-      "en": "vegetable shop / greengrocer",
-      "zh_TW": "菜檔",
-      "zh_CN": "菜檔",
-      "ko": "蔬菜店",
+      "en": "greengrocer / vegetable shop",
+      "zh_TW": "蔬果行 / 菜店",
+      "zh_CN": "菜店 / 蔬果店",
+      "ko": "채소가게 (청과물점)",
       "zh_HK": "菜檔",
-      "fr": "vegetable shop / greengrocer"
+      "fr": "le marchand defruits et légumes"
     },
     "example": {
       "ja": "<ruby>商店街<rt>しょうてんがい</rt></ruby>の<ruby>八百屋<rt>やおや</rt></ruby>さんで、<ruby>採<rt>と</rt></ruby>れたての<ruby>新鮮<rt>しんせん</rt></ruby>なトマトときゅうりを<ruby>買<rt>か</rt></ruby>いました。",
@@ -19125,12 +19126,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きっぷうりば",
     "category": "電車",
     "meaning": {
-      "en": "ticket office",
+      "en": "ticket counter / ticket office",
       "zh_TW": "售票處",
-      "zh_CN": "售票處",
-      "ko": "售票處",
+      "zh_CN": "售票处",
+      "ko": "매표소",
       "zh_HK": "售票處",
-      "fr": "ticket office"
+      "fr": "le guichet de billets"
     },
     "example": {
       "ja": "<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>指定席<rt>していせき</rt></ruby>を<ruby>買<rt>か</rt></ruby>うため、<ruby>切符<rt>きっぷ</rt></ruby><ruby>売り場<rt>うりば</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>に<ruby>並<rt>なら</rt></ruby>びました。",
@@ -19153,12 +19154,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "けんばいき",
     "category": "電車",
     "meaning": {
-      "en": "ticket machine",
+      "en": "ticket vending machine",
       "zh_TW": "自動售票機",
-      "zh_CN": "自動售票機",
-      "ko": "自動售票機",
+      "zh_CN": "自动售票机",
+      "ko": "자동 발매기",
       "zh_HK": "自動售票機",
-      "fr": "ticket machine"
+      "fr": "le distributeur de billets"
     },
     "example": {
       "ja": "<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードの<ruby>残高<rt>ざんだか</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなったので、<ruby>券売機<rt>けんばいき</rt></ruby>でチャージしました。",
@@ -19182,11 +19183,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "ticket gate",
-      "zh_TW": "閘口",
-      "zh_CN": "閘口",
-      "ko": "剪票口",
+      "zh_TW": "剪票口",
+      "zh_CN": "检票口",
+      "ko": "개찰구",
       "zh_HK": "閘口",
-      "fr": "ticket gate"
+      "fr": "le portillon automatique"
     },
     "example": {
       "ja": "ICカードをタッチして<ruby>改札口<rt>かいさつぐち</rt></ruby>を<ruby>通<rt>とう</rt></ruby>り、ホームへ<ruby>向<rt>む</rt></ruby>かいます。",
@@ -19212,9 +19213,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "entrance",
       "zh_TW": "入口",
       "zh_CN": "入口",
-      "ko": "入口",
+      "ko": "입구",
       "zh_HK": "入口",
-      "fr": "entrance"
+      "fr": "l'entrée"
     },
     "example": {
       "ja": "コンサートホールの<ruby>入口<rt>いりぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせをしています。",
@@ -19240,9 +19241,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "exit",
       "zh_TW": "出口",
       "zh_CN": "出口",
-      "ko": "出口",
+      "ko": "출구",
       "zh_HK": "出口",
-      "fr": "exit"
+      "fr": "la sortie"
     },
     "example": {
       "ja": "A: すみません、<ruby>東口<rt>ひがしぐち</rt></ruby>の<ruby>出口<rt>でぐち</rt></ruby>はどちらですか？<br/>B: あの<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>がって<ruby>右側<rt>みぎがわ</rt></ruby>ですよ。",
@@ -19266,11 +19267,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "east exit",
-      "zh_TW": "東出口",
-      "zh_CN": "東出口",
-      "ko": "東口",
+      "zh_TW": "東口",
+      "zh_CN": "东口",
+      "ko": "동쪽 출구",
       "zh_HK": "東出口",
-      "fr": "east exit"
+      "fr": "la sortie est"
     },
     "example": {
       "ja": "A: どこで<ruby>待ち合<rt>まちあ</rt></ruby>わせる？<br/>B: <ruby>東口<rt>ひがしぐち</rt></ruby>の<ruby>広場<rt>ひろば</rt></ruby>にある<ruby>大<rt>おお</rt></ruby>きな<ruby>時計台<rt>とけいだい</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っているね。",
@@ -19294,11 +19295,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "west exit",
-      "zh_TW": "西出口",
-      "zh_CN": "西出口",
-      "ko": "西口",
+      "zh_TW": "西口",
+      "zh_CN": "西口",
+      "ko": "서쪽 출구",
       "zh_HK": "西出口",
-      "fr": "west exit"
+      "fr": "la sortie ouest"
     },
     "example": {
       "ja": "<ruby>西口<rt>にしぐち</rt></ruby>を<ruby>出<rt>で</rt></ruby>ると、<ruby>空港<rt>くうこう</rt></ruby><ruby>直行<rt>ちょっこう</rt></ruby>のリムジンバス<ruby>乗り場<rt>のりば</rt></ruby>があります。",
@@ -19322,11 +19323,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "south exit",
-      "zh_TW": "南出口",
-      "zh_CN": "南出口",
-      "ko": "南口",
+      "zh_TW": "南口",
+      "zh_CN": "南口",
+      "ko": "남쪽 출구",
       "zh_HK": "南出口",
-      "fr": "south exit"
+      "fr": "la sortie sud"
     },
     "example": {
       "ja": "<ruby>南口<rt>みなみぐち</rt></ruby>の<ruby>歩行者天国<rt>ほこうしゃてんごく</rt></ruby>は、<ruby>週末<rt>しゅうまつ</rt></ruby>になると<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>にん</rt></ruby>で<ruby>賑<rt>にぎ</rt></ruby>わいます。",
@@ -19350,11 +19351,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "north exit",
-      "zh_TW": "北出口",
-      "zh_CN": "北出口",
-      "ko": "北口",
+      "zh_TW": "北口",
+      "zh_CN": "北口",
+      "ko": "북쪽 출구",
       "zh_HK": "北出口",
-      "fr": "north exit"
+      "fr": "la sortie nord"
     },
     "example": {
       "ja": "<ruby>北口<rt>きたぐち</rt></ruby>のロータリーから<ruby>市役所<rt>しやくしょ</rt></ruby><ruby>行<rt>い</rt></ruby>きの<ruby>路線<rt>ろせん</rt></ruby>バスが<ruby>出<rt>で</rt></ruby>ています。",
@@ -19378,11 +19379,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "central exit",
-      "zh_TW": "中央出口",
-      "zh_CN": "中央出口",
-      "ko": "中央口",
+      "zh_TW": "中央口",
+      "zh_CN": "中央口",
+      "ko": "중앙 출구",
       "zh_HK": "中央出口",
-      "fr": "central exit"
+      "fr": "la sortie centrale"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>中央口<rt>ちゅうおうぐち</rt></ruby>は<ruby>待ち合<rt>まちあ</rt></ruby>わせの<ruby>定番<rt>ていばん</rt></ruby>スポットで、いつも<ruby>活気<rt>かっき</rt></ruby>があります。",
@@ -19406,11 +19407,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "limited express",
-      "zh_TW": "特快",
-      "zh_CN": "特快",
-      "ko": "特急列車",
-      "zh_HK": "特快",
-      "fr": "limited express"
+      "zh_TW": "特急列車",
+      "zh_CN": "特急列车",
+      "ko": "특급 열차",
+      "zh_HK": "特急列車",
+      "fr": "le train express limité"
     },
     "example": {
       "ja": "<ruby>成田空港<rt>なりたくうこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くために、<ruby>日暮里駅<rt>にっぽりえき</rt></ruby>からスカイライナーの<ruby>特急<rt>とっきゅう</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。",
@@ -19433,12 +19434,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きゅうこう",
     "category": "電車",
     "meaning": {
-      "en": "express",
-      "zh_TW": "急行",
-      "zh_CN": "急行",
-      "ko": "急行列車",
-      "zh_HK": "急行",
-      "fr": "express"
+      "en": "express train",
+      "zh_TW": "急行列車",
+      "zh_CN": "急行列车",
+      "ko": "급행 열차",
+      "zh_HK": "急行列車",
+      "fr": "le train express"
     },
     "example": {
       "ja": "この<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>急行<rt>きゅうこう</rt></ruby>なので、<ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>よりも<ruby>早<rt>はや</rt></ruby>く<ruby>目的地<rt>もくてきち</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きますよ。",
@@ -19461,12 +19462,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かいそく",
     "category": "電車",
     "meaning": {
-      "en": "rapid / semi-express",
-      "zh_TW": "快車",
-      "zh_CN": "快車",
-      "ko": "快速列車",
-      "zh_HK": "快車",
-      "fr": "rapid / semi-express"
+      "en": "rapid train",
+      "zh_TW": "快速列車",
+      "zh_CN": "快速列车",
+      "ko": "쾌속 열차",
+      "zh_HK": "快速列車",
+      "fr": "le train rapide"
     },
     "example": {
       "ja": "この<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>快速<rt>かいそく</rt></ruby>なので、<ruby>途中<rt>とちゅう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>駅<rt>えき</rt></ruby>は<ruby>通過<rt>つうか</rt></ruby>します。<br/><ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>早<rt>はや</rt></ruby>く<ruby>着<rt>つ</rt></ruby>きますよ。",
@@ -19517,12 +19518,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "じこくひょう",
     "category": "電車",
     "meaning": {
-      "en": "timetable",
+      "en": "timetable / schedule",
       "zh_TW": "時刻表",
-      "zh_CN": "時刻表",
-      "ko": "時刻表",
-      "zh_HK": "時刻表",
-      "fr": "timetable"
+      "zh_CN": "时刻表",
+      "ko": "시각표 / 시간표",
+      "zh_HK": "時間表 / 時刻表",
+      "fr": "les horaires (tableau des horaires)"
     },
     "example": {
       "ja": "バス<ruby>停<rt>てい</rt></ruby>の<ruby>時刻表<rt>じこくひょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して、<ruby>次<rt>つぎ</rt></ruby>のバスの<ruby>時間<rt>じかん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。",
@@ -19545,12 +19546,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "〜はつ",
     "category": "電車",
     "meaning": {
-      "en": "departing from〜",
-      "zh_TW": "〜開",
-      "zh_CN": "〜開",
-      "ko": "〜出發",
-      "zh_HK": "〜開",
-      "fr": "departing from〜"
+      "en": "departing at / from ~",
+      "zh_TW": "〜發車 / 〜出發",
+      "zh_CN": "〜发车 / 〜出发",
+      "ko": "~발 (출발)",
+      "zh_HK": "〜開出",
+      "fr": "départ à / de ~"
     },
     "example": {
       "ja": "この<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>10<ruby>時<rt>じ</rt></ruby><ruby>発<rt>はつ</rt></ruby>ののぞみ<ruby>号<rt>ごう</rt></ruby>です。<br/><ruby>指定席<rt>していせき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>りましょう。",
@@ -19573,12 +19574,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "〜ちゃく",
     "category": "電車",
     "meaning": {
-      "en": "arriving at〜",
-      "zh_TW": "〜到",
-      "zh_CN": "〜到",
-      "ko": "〜到達",
-      "zh_HK": "〜到",
-      "fr": "arriving at〜"
+      "en": "arriving at ~",
+      "zh_TW": "〜到達",
+      "zh_CN": "〜到达",
+      "ko": "~착 (도착)",
+      "zh_HK": "〜到達",
+      "fr": "arrivée à ~"
     },
     "example": {
       "ja": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby><ruby>京都<rt>きょうと</rt></ruby><ruby>着<rt>つ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>です。<br/><ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り<ruby>運行<rt>うんこう</rt></ruby>していますね。",
@@ -19601,12 +19602,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "〜ゆき",
     "category": "電車",
     "meaning": {
-      "en": "bound for〜",
-      "zh_TW": "去〜",
-      "zh_CN": "去〜",
-      "ko": "往〜",
-      "zh_HK": "去〜",
-      "fr": "bound for〜"
+      "en": "bound for ~",
+      "zh_TW": "開往〜",
+      "zh_CN": "开往〜",
+      "ko": "~행",
+      "zh_HK": "去〜 / 開往〜",
+      "fr": "à destination de ~"
     },
     "example": {
       "ja": "このバスは<ruby>渋谷<rt>しぶや</rt></ruby><ruby>駅<rt>えき</rt></ruby><ruby>行<rt>い</rt></ruby>きです。<br/><ruby>前<rt>まえ</rt></ruby>のドアからお<ruby>乗<rt>の</rt></ruby>りください。",
@@ -19631,10 +19632,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "one way",
       "zh_TW": "單程",
-      "zh_CN": "單程",
-      "ko": "單程",
+      "zh_CN": "单程",
+      "ko": "편도",
       "zh_HK": "單程",
-      "fr": "one way"
+      "fr": "l'aller simple"
     },
     "example": {
       "ja": "<ruby>帰<rt>かえ</rt></ruby>りの<ruby>日程<rt>にってい</rt></ruby>がまだ<ruby>決<rt>き</rt></ruby>まっていないので、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>片道<rt>かたみち</rt></ruby><ruby>切符<rt>きっぷ</rt></ruby>だけ<ruby>購入<rt>こうにゅう</rt></ruby>しました。",
@@ -19658,11 +19659,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "電車",
     "meaning": {
       "en": "round trip",
-      "zh_TW": "來回",
-      "zh_CN": "來回",
-      "ko": "來回",
+      "zh_TW": "往返 / 來回",
+      "zh_CN": "往返 / 来回",
+      "ko": "왕복",
       "zh_HK": "來回",
-      "fr": "round trip"
+      "fr": "l'aller-retour"
     },
     "example": {
       "ja": "<ruby>京都<rt>きょうと</rt></ruby>までの<ruby>新幹線<rt>しんかんせん</rt></ruby>は、<ruby>往復<rt>おうふく</rt></ruby>でチケットを<ruby>予約<rt>よやく</rt></ruby>したほうが<ruby>割引<rt>わりびき</rt></ruby>でお<ruby>得<rt>とく</rt></ruby>です。",
@@ -19693,13 +19694,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wake up / to get up (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きてください。",
-      "en": "I/Please to wake up / to get up (te-form).",
-      "zh_TW": "請/我要起床（て形）。",
-      "zh_CN": "請/我要起床（て形）。",
-      "ko": "I/Please to wake up / to get up (te-form).",
-      "zh_HK": "請/我要起床（て形）。",
-      "fr": "I/Please to wake up / to get up (te-form)."
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きてください。",
+      "en": "Please wake up at 6 a.m. tomorrow.",
+      "zh_TW": "明天請早上六點起床。",
+      "zh_CN": "明天请早上六点起床。",
+      "ko": "내일은 아침 6시에 일어나 주세요.",
+      "zh_HK": "聽日請喺朝早六點起身。",
+      "fr": "Veuillez vous lever demain matin à six heures."
     },
     "related": "【原型（辞書形）】起きて（おきる）\n【ます形】起きます\n【て形】起きて\n【ない形】起きない\n【た形】起きた\n【グループ・連語】2グループ (一段) / 「早く起きてください」"
   },
@@ -19749,13 +19750,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to go (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>う。",
-      "en": "I/Please to go (te-form).",
-      "zh_TW": "請/我要去（て形）。",
-      "zh_CN": "請/我要去（て形）。",
-      "ko": "I/Please to go (te-form).",
-      "zh_HK": "請/我要去（て形）。",
-      "fr": "I/Please to go (te-form)."
+      "ja": "<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。",
+      "en": "I go to the station and buy a Shinkansen ticket.",
+      "zh_TW": "去車站買新幹線的車票。",
+      "zh_CN": "去车站买新干线的车票。",
+      "ko": "역에 가서 신칸센 표를 삽니다.",
+      "zh_HK": "去車站買新幹線嘅車飛。",
+      "fr": "Je vais à la gare et j'achète un billet de Shinkansen."
     },
     "related": "【原型（辞書形）】行って（いく）\n【ます形】行きます\n【て形】行って\n【ない形】行かない\n【た形】行った\n【グループ・連語】1グループ (五段・促音便例外) / 「駅へ行って切符を買う」"
   },
@@ -19777,13 +19778,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to return / to go home (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ってご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる。",
-      "en": "I/Please to return / to go home (te-form).",
-      "zh_TW": "請/我要回去（て形）。",
-      "zh_CN": "請/我要回去（て形）。",
-      "ko": "I/Please to return / to go home (te-form).",
-      "zh_HK": "請/我要回去（て形）。",
-      "fr": "I/Please to return / to go home (te-form)."
+      "ja": "<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>って、<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "I go home and eat dinner.",
+      "zh_TW": "回家吃晚飯。",
+      "zh_CN": "回家吃晚饭。",
+      "ko": "집에 돌아가서 저녁밥을 먹습니다.",
+      "zh_HK": "返屋企食晚飯。",
+      "fr": "Je rentre à la maison et je prends le dîner."
     },
     "related": "【原型（辞書形）】帰って（かえる）\n【ます形】帰ります\n【て形】帰って\n【ない形】帰らない\n【た形】帰った\n【グループ・連語】1グループ (五段・ら行注意) / 「家へ帰ってご飯を食べる」"
   },
@@ -19805,13 +19806,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to come (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "こちらへ<ruby>来<rt>き</rt></ruby>てください。",
-      "en": "I/Please to come (te-form).",
-      "zh_TW": "請/我要來（て形）。",
-      "zh_CN": "請/我要來（て形）。",
-      "ko": "I/Please to come (te-form).",
-      "zh_HK": "請/我要來（て形）。",
-      "fr": "I/Please to come (te-form)."
+      "ja": "すみません、ちょっとこちらへ<ruby>来<rt>き</rt></ruby>てください。",
+      "en": "Excuse me, please come here for a moment.",
+      "zh_TW": "不好意思，請過來一下。",
+      "zh_CN": "不好意思，请过来一下。",
+      "ko": "실례합니다, 잠깐 이쪽으로 와 주세요.",
+      "zh_HK": "唔該，請過一過嚟呢邊。",
+      "fr": "Excusez-moi, veuillez venir ici un instant."
     },
     "related": "【原型（辞書形）】来て（くる）\n【ます形】来ます\n【て形】来て\n【ない形】来ない\n【た形】来た\n【グループ・連語】3グループ (カ変) / 「こちらへ来てください」"
   },
@@ -19833,13 +19834,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to eat (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "たくさん<ruby>食<rt>た</rt></ruby>べてください。",
-      "en": "I/Please to eat (te-form).",
-      "zh_TW": "請/我要吃（て形）。",
-      "zh_CN": "請/我要吃（て形）。",
-      "ko": "I/Please to eat (te-form).",
-      "zh_HK": "請/我要吃（て形）。",
-      "fr": "I/Please to eat (te-form)."
+      "ja": "どうぞたくさん<ruby>食<rt>た</rt></ruby>べてくださいね。",
+      "en": "Please go ahead and eat a lot.",
+      "zh_TW": "請多吃一點吧。",
+      "zh_CN": "请多吃一点吧。",
+      "ko": "아무쪼록 많이 드세요.",
+      "zh_HK": "唔使客氣，食多啲啦。",
+      "fr": "Je vous en prie, mangez bien."
     },
     "related": "【原型（辞書形）】食べて（たべる）\n【ます形】食べます\n【て形】食べて\n【ない形】食べない\n【た形】食べた\n【グループ・連語】2グループ (一段) / 「たくさん食べてください」"
   },
@@ -19861,13 +19862,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to drink (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>寝<rt>ね</rt></ruby>てください。",
-      "en": "I/Please to drink (te-form).",
-      "zh_TW": "請/我要喝（て形）。",
-      "zh_CN": "請/我要喝（て形）。",
-      "ko": "I/Please to drink (te-form).",
-      "zh_HK": "請/我要喝（て形）。",
-      "fr": "I/Please to drink (te-form)."
+      "ja": "<ruby>食後<rt>しょくご</rt></ruby>にこの<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで、<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>てください。",
+      "en": "Please take this medicine after meals and go to bed early.",
+      "zh_TW": "請飯後吃這個藥，早點睡覺。",
+      "zh_CN": "请饭后吃这个药，早点睡觉。",
+      "ko": "식후에 이 약을 먹고 일찍 주무세요.",
+      "zh_HK": "請喺食完飯之後食呢隻藥，然後早啲瞓。",
+      "fr": "Veuillez prendre ce médicament après le repas et vous coucher tôt."
     },
     "related": "【原型（辞書形）】飲んで（のむ）\n【ます形】飲みます\n【て形】飲んで\n【ない形】飲まない\n【た形】飲んだ\n【グループ・連語】1グループ (五段) / 「薬を飲んで寝てください」"
   },
@@ -19889,13 +19890,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to sleep / to go to bed (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>てください。",
-      "en": "I/Please to sleep / to go to bed (te-form).",
-      "zh_TW": "請/我要睡覺（て形）。",
-      "zh_CN": "請/我要睡覺（て形）。",
-      "ko": "I/Please to sleep / to go to bed (te-form).",
-      "zh_HK": "請/我要睡覺（て形）。",
-      "fr": "I/Please to sleep / to go to bed (te-form)."
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>いですから、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>てください。",
+      "en": "Tomorrow is an early day, so please go to bed early tonight.",
+      "zh_TW": "明天要早起，今晚請早點睡。",
+      "zh_CN": "明天要早起，今晚请早点睡。",
+      "ko": "내일은 일찍 일어나야 하니까 오늘 밤은 일찍 주무세요.",
+      "zh_HK": "聽日要早起，今晚請早啲瞓啦。",
+      "fr": "Demain on se lève tôt, alors couchez-vous tôt ce soir."
     },
     "related": "【原型（辞書形）】寝て（ねる）\n【ます形】寝ます\n【て形】寝て\n【ない形】寝ない\n【た形】寝た\n【グループ・連語】2グループ (一段) / 「ゆっくり寝てください」"
   },
@@ -19917,13 +19918,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to look / to watch / to see (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てください。",
-      "en": "I/Please to look / to watch / to see (te-form).",
-      "zh_TW": "請/我要看（て形）。",
-      "zh_CN": "請/我要看（て形）。",
-      "ko": "I/Please to look / to watch / to see (te-form).",
-      "zh_HK": "請/我要看（て形）。",
-      "fr": "I/Please to look / to watch / to see (te-form)."
+      "ja": "このきれいな<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てください。",
+      "en": "Please look at this beautiful photo.",
+      "zh_TW": "請看這張漂亮的照片。",
+      "zh_CN": "请看这张漂亮的照片。",
+      "ko": "이 예쁜 사진을 봐 주세요.",
+      "zh_HK": "請睇下呢張靚相。",
+      "fr": "Veuillez regarder cette belle photo."
     },
     "related": "【原型（辞書形）】見て（みる）\n【ます形】見ます\n【て形】見て\n【ない形】見ない\n【た形】見た\n【グループ・連語】2グループ (一段) / 「これを見てください」"
   },
@@ -19945,13 +19946,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to ask / to hear (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いてください。",
-      "en": "I/Please to ask / to hear (te-form).",
-      "zh_TW": "請/我要問（て形）。",
-      "zh_CN": "請/我要問（て形）。",
-      "ko": "I/Please to ask / to hear (te-form).",
-      "zh_HK": "請/我要問（て形）。",
-      "fr": "I/Please to ask / to hear (te-form)."
+      "ja": "まずこのCDの<ruby>会話<rt>かいわ</rt></ruby>をよく<ruby>聞<rt>き</rt></ruby>いてください。",
+      "en": "First, please listen carefully to the conversation on this CD.",
+      "zh_TW": "請先仔細聽這張CD裡的對話。",
+      "zh_CN": "请先仔细听这张CD里的对话。",
+      "ko": "먼저 이 CD의 대화를 잘 들어 주세요.",
+      "zh_HK": "請先留心聽下呢隻CD入面嘅對話。",
+      "fr": "Tout d'abord, veuillez écouter attentivement la conversation de ce CD."
     },
     "related": "【原型（辞書形）】聞いて（きく）\n【ます形】聞きます\n【て形】聞いて\n【ない形】聞かない\n【た形】聞いた\n【グループ・連語】1グループ (五段) / 「ラジオを聞いて勉強する」"
   },
@@ -20001,13 +20002,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to read (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでください。",
-      "en": "I/Please to read (te-form).",
-      "zh_TW": "請/我要讀（て形）。",
-      "zh_CN": "請/我要讀（て形）。",
-      "ko": "I/Please to read (te-form).",
-      "zh_HK": "請/我要讀（て形）。",
-      "fr": "I/Please to read (te-form)."
+      "ja": "<ruby>次<rt>つぎ</rt></ruby>のページの<ruby>文<rt>ぶん</rt></ruby>を<ruby>声<rt>こえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>読<rt>よ</rt></ruby>んでください。",
+      "en": "Please read the sentences on the next page aloud.",
+      "zh_TW": "請大聲朗讀下一頁的句子。",
+      "zh_CN": "请大声朗读下一页的句子。",
+      "ko": "다음 페이지의 문장을 소리 내어 읽어 주세요.",
+      "zh_HK": "請大聲讀出下一頁嘅句子。",
+      "fr": "Veuillez lire à haute voix le texte de la page suivante."
     },
     "related": "【原型（辞書形）】読んで（よむ）\n【ます形】読みます\n【て形】読んで\n【ない形】読まない\n【た形】読んだ\n【グループ・連語】1グループ (五段) / 「新聞を読んでください」"
   },
@@ -20029,13 +20030,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to speak / to talk (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "ゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
-      "en": "I/Please to speak / to talk (te-form).",
-      "zh_TW": "請/我要說話（て形）。",
-      "zh_CN": "請/我要說話（て形）。",
-      "ko": "I/Please to speak / to talk (te-form).",
-      "zh_HK": "請/我要說話（て形）。",
-      "fr": "I/Please to speak / to talk (te-form)."
+      "ja": "すみません、もう<ruby>少<rt>すこ</rt></ruby>しゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
+      "en": "Excuse me, please speak a little more slowly.",
+      "zh_TW": "不好意思，請再說慢一點。",
+      "zh_CN": "不好意思，请再说慢一点。",
+      "ko": "실례합니다, 조금만 더 천천히 말해 주세요.",
+      "zh_HK": "唔該，請講慢少少。",
+      "fr": "Excusez-moi, veuillez parler un peu plus lentement."
     },
     "related": "【原型（辞書形）】話して（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「ゆっくり話してください」"
   },
@@ -20085,13 +20086,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to buy / to purchase (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "パンを<ruby>買<rt>か</rt></ruby>ってください。",
-      "en": "I/Please to buy / to purchase (te-form).",
-      "zh_TW": "請/我要買（て形）。",
-      "zh_CN": "請/我要買（て形）。",
-      "ko": "I/Please to buy / to purchase (te-form).",
-      "zh_HK": "請/我要買（て形）。",
-      "fr": "I/Please to buy / to purchase (te-form)."
+      "ja": "<ruby>帰<rt>かえ</rt></ruby>りにスーパーで<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>とパンを<ruby>買<rt>か</rt></ruby>ってください。",
+      "en": "Please buy milk and bread at the supermarket on your way back.",
+      "zh_TW": "回來的路上請在超市買牛奶和麵包。",
+      "zh_CN": "回来的路上请在超市买牛奶和面包。",
+      "ko": "돌아오는 길에 슈퍼에서 우유와 빵을 사 주세요.",
+      "zh_HK": "返嚟嗰陣請喺超市買牛奶同麵包。",
+      "fr": "Veuillez acheter du lait et du pain au supermarché sur le chemin du retour."
     },
     "related": "【原型（辞書形）】買って（かう）\n【ます形】買います\n【て形】買って\n【ない形】買わない\n【た形】買った\n【グループ・連語】1グループ (五段) / 「お土産を買って帰る」"
   },
@@ -20113,13 +20114,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to do (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "はじめまして、<ruby>田中<rt>たなか</rt></ruby>です。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
-      "en": "Nice to meet you, I am Tanaka. Nice to meet you.",
-      "zh_TW": "做（て形）",
-      "zh_CN": "做（て形）",
-      "ko": "Nice to meet you, I am Tanaka. Nice to meet you.",
-      "zh_HK": "做（て形）",
-      "fr": "Nice to meet you, I am Tanaka. Nice to meet you."
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby>をしてください。",
+      "en": "Please review your Japanese every day.",
+      "zh_TW": "請每天複習日語。",
+      "zh_CN": "请每天复习日语。",
+      "ko": "매일 일본어 복습을 해 주세요.",
+      "zh_HK": "請每日溫習日文。",
+      "fr": "Veuillez réviser votre japonais tous les jours."
     },
     "related": "【原型（辞書形）】して（する）\n【ます形】します\n【て形】して\n【ない形】しない\n【た形】した\n【グループ・連語】3グループ (サ変動詞) / 「早く宿題をしてください」"
   },
@@ -20253,13 +20254,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to forget (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて<ruby>困<rt>こま</rt></ruby>りました。",
-      "en": "I/Please to forget (te-form).",
-      "zh_TW": "請/我要忘記（て形）。",
-      "zh_CN": "請/我要忘記（て形）。",
-      "ko": "I/Please to forget (te-form).",
-      "zh_HK": "請/我要忘記（て形）。",
-      "fr": "I/Please to forget (te-form)."
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて、<ruby>困<rt>こま</rt></ruby>りました。",
+      "en": "I left my umbrella on the train and was in trouble.",
+      "zh_TW": "把雨傘忘在電車裡了，真傷腦筋。",
+      "zh_CN": "把雨伞忘在电车里了，真伤脑筋。",
+      "ko": "전철 안에 우산을 두고 내려서 곤란했습니다.",
+      "zh_HK": "唔記得拎把遮留咗喺電車入面，真係頭痕。",
+      "fr": "J'ai oublié mon parapluie dans le train et j'étais bien ennuyé."
     },
     "related": "【原型（辞書形）】忘れて（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「傘を忘れて困った」"
   },
@@ -20897,13 +20898,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to teach / to tell (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
-      "en": "I/Please to teach / to tell (te-form).",
-      "zh_TW": "請/我要教（て形）。",
-      "zh_CN": "請/我要教（て形）。",
-      "ko": "I/Please to teach / to tell (te-form).",
-      "zh_HK": "請/我要教（て形）。",
-      "fr": "I/Please to teach / to tell (te-form)."
+      "ja": "すみません、<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "en": "Excuse me, please tell me Mr. Tanaka's phone number.",
+      "zh_TW": "不好意思，請告訴我田中先生的電話號碼。",
+      "zh_CN": "不好意思，请告诉我田中先生的电话号码。",
+      "ko": "실례합니다, 다나카 씨의 전화번호를 알려 주세요.",
+      "zh_HK": "唔該，請話俾我知田中先生嘅電話號碼。",
+      "fr": "Excusez-moi, veuillez me donner le numéro de téléphone de M. Tanaka."
     },
     "related": "【原型（辞書形）】教えて（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「電話番号を教えてください」"
   },
@@ -20981,13 +20982,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wait (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。",
-      "en": "I/Please to wait (te-form).",
-      "zh_TW": "請/我要等（て形）。",
-      "zh_CN": "請/我要等（て形）。",
-      "ko": "I/Please to wait (te-form).",
-      "zh_HK": "請/我要等（て形）。",
-      "fr": "I/Please to wait (te-form)."
+      "ja": "すぐ<ruby>行<rt>い</rt></ruby>きますから、そこで<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。",
+      "en": "I'll be right there, so please wait there a moment.",
+      "zh_TW": "我馬上就去，請在那裡稍等一下。",
+      "zh_CN": "我马上就去，请在那里稍等一下。",
+      "ko": "금방 갈 테니까 거기서 조금만 기다려 주세요.",
+      "zh_HK": "我即刻過嚟，請喺嗰度等一陣。",
+      "fr": "J'arrive tout de suite, veuillez attendre un instant là-bas."
     },
     "related": "【原型（辞書形）】待って（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「ちょっと待ってください」"
   },
@@ -21149,13 +21150,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to get tired (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れて<ruby>休<rt>やす</rt></ruby>みました。",
-      "en": "I/Please to get tired (te-form).",
-      "zh_TW": "請/我要攰（て形）。",
-      "zh_CN": "請/我要攰（て形）。",
-      "ko": "I/Please to get tired (te-form).",
-      "zh_HK": "請/我要攰（て形）。",
-      "fr": "I/Please to get tired (te-form)."
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>休<rt>やす</rt></ruby>みます。",
+      "en": "I walked a lot and got tired today, so I will rest early.",
+      "zh_TW": "今天走了很多路累了，所以早點休息。",
+      "zh_CN": "今天走了很多路累了，所以早点休息。",
+      "ko": "오늘은 많이 걸어서 피곤하기 때문에 일찍 쉽니다.",
+      "zh_HK": "今日行咗好多路好攰，所以早啲休息。",
+      "fr": "J'ai beaucoup marché aujourd'hui et je suis fatigué, alors je vais me reposer tôt."
     },
     "related": "【原型（辞書形）】疲れて（つかれる）\n【ます形】疲れます\n【て形】疲れて\n【ない形】疲れない\n【た形】疲れた\n【グループ・連語】2グループ (一段) / 「今日はとても疲れて早く寝た」"
   },
@@ -21373,13 +21374,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to help (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>手伝<rt>てつだ</rt></ruby>ってください。",
-      "en": "I/Please to help (te-form).",
-      "zh_TW": "請/我要幫手（て形）。",
-      "zh_CN": "請/我要幫手（て形）。",
-      "ko": "I/Please to help (te-form).",
-      "zh_HK": "請/我要幫手（て形）。",
-      "fr": "I/Please to help (te-form)."
+      "ja": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いので、<ruby>少<rt>すこ</rt></ruby>し<ruby>手伝<rt>てつだ</rt></ruby>ってください。",
+      "en": "The luggage is heavy, so please help me a little.",
+      "zh_TW": "行李很重，請幫我一下。",
+      "zh_CN": "行李很重，请帮我一下。",
+      "ko": "짐이 무거우니 조금 도와주세요.",
+      "zh_HK": "啲行李好重，請幫一幫手。",
+      "fr": "Les bagages sont lourds, veuillez m'aider un peu."
     },
     "related": "【原型（辞書形）】手伝って（てつだう）\n【ます形】手伝います\n【て形】手伝って\n【ない形】手伝わない\n【た形】手伝った\n【グループ・連語】1グループ (五段) / 「少し手伝ってください」"
   },
@@ -21485,13 +21486,13 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to show (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてください。",
-      "en": "I/Please to show (te-form).",
-      "zh_TW": "請/我要畀...睇（て形）。",
-      "zh_CN": "請/我要畀...睇（て形）。",
-      "ko": "I/Please to show (te-form).",
-      "zh_HK": "請/我要畀...睇（て形）。",
-      "fr": "I/Please to show (te-form)."
+      "ja": "すみません、その<ruby>黒<rt>くろ</rt></ruby>い<ruby>鞄<rt>かばん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてください。",
+      "en": "Excuse me, please show me that black bag.",
+      "zh_TW": "不好意思，請給我看一下那個黑色的包包。",
+      "zh_CN": "不好意思，请给我看一下那个黑色的包。",
+      "ko": "실례합니다, 그 검은색 가방을 보여 주세요.",
+      "zh_HK": "唔該，請俾我睇下嗰個黑色袋。",
+      "fr": "Excusez-moi, veuillez me montrer ce sac noir."
     },
     "related": "【原型（辞書形）】見せて（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「パスポートを見せてください」"
   },
@@ -21617,12 +21618,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "あびる・あびます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to shower / to bathe",
-      "zh_TW": "淋浴",
-      "zh_CN": "淋浴",
-      "ko": "洗澡",
-      "zh_HK": "淋浴",
-      "fr": "to shower / to bathe"
+      "en": "to take a shower / to bathe",
+      "zh_TW": "淋浴 / 洗澡",
+      "zh_CN": "淋浴 / 洗澡",
+      "ko": "샤워하다 / 뒤집어쓰다",
+      "zh_HK": "沖涼 / 淋浴",
+      "fr": "prendre une douche"
     },
     "example": {
       "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらシャワーを<ruby>浴<rt>あ</rt></ruby>びます。",
@@ -21645,21 +21646,21 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "のりかえる・のりかえます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to transfer",
-      "zh_TW": "轉車",
-      "zh_CN": "轉車",
-      "ko": "轉車",
+      "en": "to transfer (trains/buses)",
+      "zh_TW": "轉乘 / 轉車",
+      "zh_CN": "换乘 / 转车",
+      "ko": "갈아타다 / 환승하다",
       "zh_HK": "轉車",
-      "fr": "to transfer"
+      "fr": "changer (de train / de bus)"
     },
     "example": {
-      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>乗り換<rt>のりか</rt></ruby>える。",
-      "en": "I/Please to transfer.",
-      "zh_TW": "請/我要轉車。",
-      "zh_CN": "請/我要轉車。",
-      "ko": "I/Please to transfer.",
-      "zh_HK": "請/我要轉車。",
-      "fr": "I/Please to transfer."
+      "ja": "<ruby>新宿駅<rt>しんじゅくえき</rt></ruby>で<ruby>山手線<rt>やまのてせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えます。",
+      "en": "I transfer to the Yamanote Line at Shinjuku Station.",
+      "zh_TW": "在新宿站轉乘山手線。",
+      "zh_CN": "在新宿站换乘山手线。",
+      "ko": "신주쿠역에서 야마노테선으로 갈아탑니다.",
+      "zh_HK": "喺新宿站轉山手線。",
+      "fr": "Je change pour la ligne Yamanote à la gare de Shinjuku."
     },
     "related": "【原型（辞書形）】乗り換える（のりかえる）\n【ます形】乗り換えます\n【て形】乗り換えて\n【ない形】乗り換えない\n【た形】乗り換えた\n【グループ・連語】2グループ (一段) / 「新宿で乗り換える」"
   },
@@ -21674,11 +21675,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to put in / to insert",
-      "zh_TW": "放入",
-      "zh_CN": "放入",
-      "ko": "放進去",
-      "zh_HK": "放入",
-      "fr": "can enter / can go in"
+      "zh_TW": "放進 / 放入",
+      "zh_CN": "放进 / 放入",
+      "ko": "넣다",
+      "zh_HK": "擺入去 / 放入",
+      "fr": "mettre dans / insérer"
     },
     "example": {
       "ja": "カバンに<ruby>財布<rt>さいふ</rt></ruby>と<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。",
@@ -21701,12 +21702,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "だす・だします",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to take out / to submit",
-      "zh_TW": "交出去",
-      "zh_CN": "交出去",
-      "ko": "拿出來",
-      "zh_HK": "交出去",
-      "fr": "to take out / to submit"
+      "en": "to take out / to hand in / to send",
+      "zh_TW": "拿出 / 提交 / 寄出",
+      "zh_CN": "拿出 / 提交 / 寄出",
+      "ko": "꺼내다 / 제출하다 / 내다",
+      "zh_HK": "拎出嚟 / 交出",
+      "fr": "sortir (quelque chose) / remettre"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>宿題<rt>しゅくだい</rt></ruby>のノートを<ruby>出<rt>だ</rt></ruby>します。",
@@ -21729,12 +21730,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おす・おします",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to push",
-      "zh_TW": "推",
-      "zh_CN": "推",
-      "ko": "推",
-      "zh_HK": "推",
-      "fr": "to push"
+      "en": "to push / to press",
+      "zh_TW": "按 / 推",
+      "zh_CN": "按 / 推",
+      "ko": "누르다 / 밀다",
+      "zh_HK": "撳 / 推",
+      "fr": "pousser / appuyer"
     },
     "example": {
       "ja": "エレベーターのボタンを<ruby>押<rt>お</rt></ruby>します。",
@@ -21758,11 +21759,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to put / to place",
-      "zh_TW": "放",
-      "zh_CN": "放",
-      "ko": "放",
-      "zh_HK": "放",
-      "fr": "to put / to place"
+      "zh_TW": "放 / 放置",
+      "zh_CN": "放 / 放置",
+      "ko": "놓다 / 두다",
+      "zh_HK": "擺 / 放低",
+      "fr": "poser / placer"
     },
     "example": {
       "ja": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>置<rt>お</rt></ruby>きます。",
@@ -21786,11 +21787,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to make / to cook",
-      "zh_TW": "製作",
-      "zh_CN": "製作",
-      "ko": "做",
-      "zh_HK": "製作",
-      "fr": "to make / to cook"
+      "zh_TW": "做 / 製作",
+      "zh_CN": "做 / 制作",
+      "ko": "만들다 / 요리하다",
+      "zh_HK": "整 / 製作",
+      "fr": "faire / fabriquer / cuisiner"
     },
     "example": {
       "ja": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に<ruby>手作<rt>てづく</rt></ruby>りのバースデーケーキを<ruby>作<rt>つく</rt></ruby>ります。<br/><ruby>喜<rt>よろこ</rt></ruby>んでくれるといいな。",
@@ -21814,11 +21815,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to sell",
-      "zh_TW": "賣",
-      "zh_CN": "賣",
-      "ko": "賣",
+      "zh_TW": "賣 / 出售",
+      "zh_CN": "卖 / 出售",
+      "ko": "팔다",
       "zh_HK": "賣",
-      "fr": "to sell"
+      "fr": "vendre"
     },
     "example": {
       "ja": "フリーマーケットで<ruby>手作<rt>てづく</rt></ruby>りのアクセサリーを<ruby>売<rt>う</rt></ruby>ります。<br/>たくさん<ruby>売<rt>う</rt></ruby>れるといいですね。",
@@ -21842,11 +21843,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to stop / to park",
-      "zh_TW": "泊車",
-      "zh_CN": "泊車",
-      "ko": "停車",
-      "zh_HK": "泊車",
-      "fr": "to stop / to park"
+      "zh_TW": "停下 / 停車",
+      "zh_CN": "停下 / 停车",
+      "ko": "멈추다 / 주차하다",
+      "zh_HK": "停低 / 泊車",
+      "fr": "arrêter / garer"
     },
     "example": {
       "ja": "<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めます。",
@@ -21869,12 +21870,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "すわる・すわります",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to sit",
-      "zh_TW": "坐",
-      "zh_CN": "坐",
-      "ko": "坐",
-      "zh_HK": "坐",
-      "fr": "to sit"
+      "en": "to sit down",
+      "zh_TW": "坐 / 坐下",
+      "zh_CN": "坐 / 坐下",
+      "ko": "앉다",
+      "zh_HK": "坐低",
+      "fr": "s'asseoir"
     },
     "example": {
       "ja": "こちらのソファに<ruby>座<rt>すわ</rt></ruby>ります。",
@@ -21897,12 +21898,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "たつ・たちます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to stand",
-      "zh_TW": "企",
-      "zh_CN": "企",
-      "ko": "站",
-      "zh_HK": "企",
-      "fr": "to stand"
+      "en": "to stand up",
+      "zh_TW": "站 / 站立",
+      "zh_CN": "站 / 站立",
+      "ko": "서다 / 일어서다",
+      "zh_HK": "企起身 / 企",
+      "fr": "se lever / être debout"
     },
     "example": {
       "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>でお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>るために<ruby>立<rt>た</rt></ruby>ちます。",
@@ -21926,11 +21927,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to live / to reside",
-      "zh_TW": "住",
-      "zh_CN": "住",
-      "ko": "住",
-      "zh_HK": "住",
-      "fr": "to live / to reside"
+      "zh_TW": "住 / 居住",
+      "zh_CN": "住 / 居住",
+      "ko": "살다 / 거주하다",
+      "zh_HK": "住 / 居住",
+      "fr": "habiter / vivre"
     },
     "example": {
       "ja": "<ruby>緑<rt>みどり</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>静<rt>しず</rt></ruby>かな<ruby>街<rt>まち</rt></ruby>に<ruby>住<rt>す</rt></ruby>みます。",
@@ -21953,12 +21954,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "すう・すいます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to smoke",
-      "zh_TW": "食煙",
-      "zh_CN": "食煙",
-      "ko": "抽菸",
-      "zh_HK": "食煙",
-      "fr": "to smoke"
+      "en": "to breathe in / to smoke",
+      "zh_TW": "吸 / 抽（菸）",
+      "zh_CN": "吸 / 抽（烟）",
+      "ko": "피우다 / 들이마시다",
+      "zh_HK": "食（煙） / 吸",
+      "fr": "fumer / aspirer"
     },
     "example": {
       "ja": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>います。",
@@ -21981,12 +21982,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おぼえる・おぼえます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to memorize",
-      "zh_TW": "記住",
-      "zh_CN": "記住",
-      "ko": "記住",
-      "zh_HK": "記住",
-      "fr": "to memorize"
+      "en": "to remember / to memorize",
+      "zh_TW": "記住 / 背誦",
+      "zh_CN": "记住 / 背诵",
+      "ko": "외우다 / 기억하다",
+      "zh_HK": "記住 / 記低",
+      "fr": "mémoriser / se souvenir"
     },
     "example": {
       "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を５つずつ<ruby>覚<rt>おぼ</rt></ruby>えるようにしています。",
@@ -22009,12 +22010,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "わすれる・わすれます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to forget",
-      "zh_TW": "唔記得",
-      "zh_CN": "唔記得",
-      "ko": "忘記",
-      "zh_HK": "唔記得",
-      "fr": "to forget"
+      "en": "to forget / to leave behind",
+      "zh_TW": "忘記",
+      "zh_CN": "忘记",
+      "ko": "잊다 / 잊어버리다",
+      "zh_HK": "唔記得 / 留低",
+      "fr": "oublier"
     },
     "example": {
       "ja": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>時々<rt>ときどき</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れます。",
@@ -22037,12 +22038,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "なくす・なくします",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to lose / to misplace",
-      "zh_TW": "唔見咗",
-      "zh_CN": "唔見咗",
-      "ko": "弄丟",
+      "en": "to lose (an item)",
+      "zh_TW": "弄丟 / 遺失",
+      "zh_CN": "弄丢 / 丢失",
+      "ko": "잃어버리다",
       "zh_HK": "唔見咗",
-      "fr": "to lose / to misplace"
+      "fr": "perdre (un objet)"
     },
     "example": {
       "ja": "うっかり<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>失<rt>な</rt></ruby>くします。",
@@ -22066,11 +22067,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(4)",
     "meaning": {
       "en": "to pay",
-      "zh_TW": "畀錢",
-      "zh_CN": "畀錢",
-      "ko": "付錢",
-      "zh_HK": "畀錢",
-      "fr": "to pay"
+      "zh_TW": "付錢 / 支付",
+      "zh_CN": "付钱 / 支付",
+      "ko": "지불하다 / 내다",
+      "zh_HK": "俾錢 / 付款",
+      "fr": "payer"
     },
     "example": {
       "ja": "お<ruby>会計<rt>かいけい</rt></ruby>はクレジットカードで<ruby>払<rt>はら</rt></ruby>います。",
@@ -22093,12 +22094,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かえす・かえします",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to return / to give back",
-      "zh_TW": "還",
-      "zh_CN": "還",
-      "ko": "還",
-      "zh_HK": "還",
-      "fr": "to return / to give back"
+      "en": "to give back / to return (an item)",
+      "zh_TW": "歸還 / 還",
+      "zh_CN": "归还 / 还",
+      "ko": "돌려주다 / 반납하다",
+      "zh_HK": "還（嘢）",
+      "fr": "rendre (un objet)"
     },
     "example": {
       "ja": "<ruby>明日<rt>あした</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>します。",
@@ -22121,12 +22122,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "やめる・やめます",
     "category": "基本動詞(4)",
     "meaning": {
-      "en": "to quit / to leave / to stop",
-      "zh_TW": "退出",
-      "zh_CN": "退出",
-      "ko": "辭職",
-      "zh_HK": "退出",
-      "fr": "to quit / to leave / to stop"
+      "en": "to quit / to resign",
+      "zh_TW": "辭職 / 放棄",
+      "zh_CN": "辞职 / 放弃",
+      "ko": "그만두다 / 사직하다",
+      "zh_HK": "辭職 / 唔做",
+      "fr": "démissionner / arrêter"
     },
     "example": {
       "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>のために<ruby>今<rt>いま</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めます。",
@@ -22149,12 +22150,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しらべる・しらべます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to look up / to research",
-      "zh_TW": "查",
-      "zh_CN": "查",
-      "ko": "查詢",
-      "zh_HK": "查",
-      "fr": "to look up / to research"
+      "en": "to look up / to check / to investigate",
+      "zh_TW": "調查 / 查閱",
+      "zh_CN": "调查 / 查阅",
+      "ko": "조사하다 / 찾아보다",
+      "zh_HK": "查 / 檢查",
+      "fr": "chercher / vérifier"
     },
     "example": {
       "ja": "わからない<ruby>単語<rt>たんご</rt></ruby>は、<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>意味<rt>いみ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べます。<br/>すぐにノートに<ruby>書<rt>か</rt></ruby>きますよ。",
@@ -22177,12 +22178,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しゅうりする・しゅうりします",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to repair",
-      "zh_TW": "整",
-      "zh_CN": "整",
-      "ko": "修理",
-      "zh_HK": "整",
-      "fr": "to repair"
+      "en": "to repair / to fix",
+      "zh_TW": "修理 / 維修",
+      "zh_CN": "修理 / 维修",
+      "ko": "수리하다 / 고치다",
+      "zh_HK": "修理 / 整返好",
+      "fr": "réparer"
     },
     "example": {
       "ja": "<ruby>自転車<rt>じてんしゃ</rt></ruby><ruby>屋<rt>や</rt></ruby>さんでブレーキを<ruby>修理<rt>しゅうり</rt></ruby>します。",
@@ -22207,10 +22208,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "to contact / to get in touch",
       "zh_TW": "聯絡",
-      "zh_CN": "聯絡",
-      "ko": "聯絡",
+      "zh_CN": "联系 / 联络",
+      "ko": "연락하다",
       "zh_HK": "聯絡",
-      "fr": "to contact / to get in touch"
+      "fr": "contacter"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら<ruby>電話<rt>でんわ</rt></ruby>で<ruby>連絡<rt>れんらく</rt></ruby>しますね。<br/><ruby>改札<rt>かいさつ</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っていてください。",
@@ -22233,12 +22234,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とまる・とまります",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to stay (overnight)",
-      "zh_TW": "住宿",
-      "zh_CN": "住宿",
-      "ko": "住宿",
-      "zh_HK": "住宿",
-      "fr": "to stay (overnight)"
+      "en": "to stay overnight",
+      "zh_TW": "住宿 / 過夜",
+      "zh_CN": "住宿 / 留宿",
+      "ko": "묵다 / 숙박하다",
+      "zh_HK": "住（酒店） / 過夜",
+      "fr": "séjourner / passer la nuit"
     },
     "example": {
       "ja": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まります。",
@@ -22261,12 +22262,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "そうじする・そうじします",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to clean",
-      "zh_TW": "打掃",
-      "zh_CN": "打掃",
-      "ko": "打掃",
-      "zh_HK": "打掃",
-      "fr": "to clean"
+      "en": "to clean (a room)",
+      "zh_TW": "打掃 / 清掃",
+      "zh_CN": "打扫 / 清扫",
+      "ko": "청소하다",
+      "zh_HK": "打掃 / 執屋",
+      "fr": "nettoyer / faire le ménage"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>をきれいに<ruby>掃除<rt>そうじ</rt></ruby>します。",
@@ -22289,12 +22290,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せんたくする・せんたくします",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to do laundry",
-      "zh_TW": "洗衫",
-      "zh_CN": "洗衫",
-      "ko": "洗衣服",
+      "en": "to do the laundry",
+      "zh_TW": "洗衣服",
+      "zh_CN": "洗衣服",
+      "ko": "세탁하다 / 빨래하다",
       "zh_HK": "洗衫",
-      "fr": "to do laundry"
+      "fr": "faire la lessive"
     },
     "example": {
       "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>にまとめて<ruby>服<rt>ふく</rt></ruby>を<ruby>洗濯<rt>せんたく</rt></ruby>します。",
@@ -22317,12 +22318,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ひく・ひきます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to play (an instrument)",
-      "zh_TW": "彈",
-      "zh_CN": "彈",
-      "ko": "彈",
-      "zh_HK": "彈",
-      "fr": "to play (an instrument)"
+      "en": "to play (a string/keyboard instrument)",
+      "zh_TW": "彈（鋼琴·吉他）",
+      "zh_CN": "弹（钢琴·吉他）",
+      "ko": "(악기를) 연주하다 / 치다",
+      "zh_HK": "彈（琴·結他）",
+      "fr": "jouer (d'un instrument à cordes/clavier)"
     },
     "example": {
       "ja": "<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>からピアノを<ruby>弾<rt>ひ</rt></ruby>くのが<ruby>大好<rt>だいす</rt></ruby>きです。<br/><ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>しています。",
@@ -22348,9 +22349,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "to sing",
       "zh_TW": "唱歌",
       "zh_CN": "唱歌",
-      "ko": "唱歌",
+      "ko": "노래하다 / 부르다",
       "zh_HK": "唱歌",
-      "fr": "to sing"
+      "fr": "chanter"
     },
     "example": {
       "ja": "カラオケで<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>います。",
@@ -22374,11 +22375,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to collect / to gather",
-      "zh_TW": "收集",
-      "zh_CN": "收集",
-      "ko": "收集",
-      "zh_HK": "收集",
-      "fr": "to collect / to gather"
+      "zh_TW": "收集 / 集合",
+      "zh_CN": "收集 / 集合",
+      "ko": "모으다 / 수집하다",
+      "zh_HK": "收集 / 儲",
+      "fr": "collectionner / rassembler"
     },
     "example": {
       "ja": "<ruby>旅先<rt>たびさき</rt></ruby>で<ruby>可愛<rt>かわい</rt></ruby>いご<ruby>当地<rt>とうち</rt></ruby>マグネットを<ruby>集<rt>あつ</rt></ruby>めるのが<ruby>趣味<rt>しゅみ</rt></ruby>です。<br/>たくさん<ruby>並<rt>なら</rt></ruby>んでいます。",
@@ -22402,11 +22403,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to throw away / to discard",
-      "zh_TW": "掉",
-      "zh_CN": "掉",
-      "ko": "丟掉",
-      "zh_HK": "掉",
-      "fr": "to throw away / to discard"
+      "zh_TW": "丟掉 / 丟棄",
+      "zh_CN": "扔掉 / 丢弃",
+      "ko": "버리다",
+      "zh_HK": "掉咗 / 揼",
+      "fr": "jeter"
     },
     "example": {
       "ja": "いらなくなった<ruby>段ボール<rt>だんぼーる</rt></ruby>を<ruby>資源<rt>しげん</rt></ruby>ごみの<ruby>日<rt>ひ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てます。<br/>リサイクルしましょう。",
@@ -22429,12 +22430,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かえる・かえます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to change (transitive)",
-      "zh_TW": "換",
-      "zh_CN": "換",
-      "ko": "改變",
-      "zh_HK": "換",
-      "fr": "to change (transitive)"
+      "en": "to change / to alter (transitive)",
+      "zh_TW": "改變 / 更換",
+      "zh_CN": "改变 / 更换",
+      "ko": "바꾸다 / 변경하다",
+      "zh_HK": "改 / 換",
+      "fr": "changer / modifier (transitif)"
     },
     "example": {
       "ja": "<ruby>気分転換<rt>きぶんてんかん</rt></ruby>にカーテンの<ruby>色<rt>いろ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えます。",
@@ -22458,11 +22459,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to change (intransitive)",
-      "zh_TW": "改變",
-      "zh_CN": "改變",
-      "ko": "改變",
-      "zh_HK": "改變",
-      "fr": "to change (intransitive)"
+      "zh_TW": "變化 / 改變",
+      "zh_CN": "变化 / 改变",
+      "ko": "바뀌다 / 변하다",
+      "zh_HK": "變 / 改變",
+      "fr": "changer (intransitif)"
     },
     "example": {
       "ja": "<ruby>季節<rt>きせつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、<ruby>吹<rt>ふ</rt></ruby>く<ruby>風<rt>かぜ</rt></ruby>の<ruby>匂<rt>にお</rt></ruby>いも<ruby>変<rt>か</rt></ruby>わりますね。<br/><ruby>秋<rt>あき</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じます。",
@@ -22486,11 +22487,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to drive",
-      "zh_TW": "揸車",
-      "zh_CN": "揸車",
-      "ko": "開車",
-      "zh_HK": "揸車",
-      "fr": "to drive"
+      "zh_TW": "開車 / 駕駛",
+      "zh_CN": "开车 / 驾驶",
+      "ko": "운전하다",
+      "zh_HK": "揸車 / 駕駛",
+      "fr": "conduire"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。",
@@ -22513,12 +22514,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とる・とります",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to take / to get",
-      "zh_TW": "攞",
-      "zh_CN": "攞",
-      "ko": "拿",
-      "zh_HK": "攞",
-      "fr": "to take / to get"
+      "en": "to take / to get / to pass",
+      "zh_TW": "拿 / 取得",
+      "zh_CN": "拿 / 取得",
+      "ko": "집다 / 취하다 / 찍다",
+      "zh_HK": "攞 / 拎",
+      "fr": "prendre"
     },
     "example": {
       "ja": "<ruby>棚<rt>たな</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。",
@@ -22541,12 +22542,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "いう・いいます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to say",
-      "zh_TW": "講",
-      "zh_CN": "講",
-      "ko": "說",
-      "zh_HK": "講",
-      "fr": "to say"
+      "en": "to say / to tell",
+      "zh_TW": "說 / 講",
+      "zh_CN": "说 / 讲",
+      "ko": "말하다",
+      "zh_HK": "講 / 話",
+      "fr": "dire"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>に「ありがとうございます」と<ruby>言<rt>い</rt></ruby>います。",
@@ -22569,12 +22570,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きをつける・きをつけます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to be careful / to watch out",
-      "zh_TW": "注意",
-      "zh_CN": "注意",
-      "ko": "小心",
-      "zh_HK": "注意",
-      "fr": "to be careful / to watch out"
+      "en": "to be careful / to take care",
+      "zh_TW": "小心 / 注意",
+      "zh_CN": "小心 / 注意",
+      "ko": "조심하다 / 주의하다",
+      "zh_HK": "小心 / 留意",
+      "fr": "faire attention"
     },
     "example": {
       "ja": "<ruby>夜道<rt>よみち</rt></ruby>では<ruby>足元<rt>あしもと</rt></ruby>に<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けます。",
@@ -22599,10 +22600,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "to study abroad",
       "zh_TW": "留學",
-      "zh_CN": "留學",
-      "ko": "留學",
+      "zh_CN": "留学",
+      "ko": "유학하다",
       "zh_HK": "留學",
-      "fr": "to study abroad"
+      "fr": "étudier à l'étranger"
     },
     "example": {
       "ja": "<ruby>来年<rt>らいねん</rt></ruby>から<ruby>日本<rt>にほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>へ<ruby>留学<rt>りゅうがく</rt></ruby>します。",
@@ -22625,12 +22626,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しんぱいする・しんぱいします",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to worry",
+      "en": "to worry / to be anxious",
       "zh_TW": "擔心",
-      "zh_CN": "擔心",
-      "ko": "擔心",
+      "zh_CN": "担心",
+      "ko": "걱정하다",
       "zh_HK": "擔心",
-      "fr": "to worry"
+      "fr": "s'inquiéter"
     },
     "example": {
       "ja": "<ruby>遅<rt>おそ</rt></ruby>くなる<ruby>時<rt>じ</rt></ruby>は<ruby>心配<rt>しんぱい</rt></ruby>するので、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>一本<rt>いっぽん</rt></ruby><ruby>入<rt>い</rt></ruby>れてね。<br/>はい、すぐ<ruby>電話<rt>でんわ</rt></ruby>します。",
@@ -22653,12 +22654,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "もっていく・もっていきます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to take (something) there",
-      "zh_TW": "帶去",
-      "zh_CN": "帶去",
-      "ko": "帶去",
-      "zh_HK": "帶去",
-      "fr": "to take (something) there"
+      "en": "to take (something) along",
+      "zh_TW": "帶去 / 拿去",
+      "zh_CN": "带去 / 拿去",
+      "ko": "가지고 가다",
+      "zh_HK": "帶去 / 拎去",
+      "fr": "emporter"
     },
     "example": {
       "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだから、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くのを<ruby>忘<rt>わす</rt></ruby>れないでね。",
@@ -22682,11 +22683,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to bring (something) here",
-      "zh_TW": "帶嚟",
-      "zh_CN": "帶嚟",
-      "ko": "帶來",
-      "zh_HK": "帶嚟",
-      "fr": "to bring (something) here"
+      "zh_TW": "帶來 / 拿來",
+      "zh_CN": "带来 / 拿来",
+      "ko": "가지고 오다",
+      "zh_HK": "帶嚟 / 拎嚟",
+      "fr": "apporter"
     },
     "example": {
       "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>に<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきます。",
@@ -22709,12 +22710,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "つれていく・つれていきます",
     "category": "基本動詞(5)",
     "meaning": {
-      "en": "to take (someone) there",
+      "en": "to take (someone) along",
       "zh_TW": "帶（人）去",
-      "zh_CN": "帶（人）去",
-      "ko": "帶（人）去",
+      "zh_CN": "带（人）去",
+      "ko": "데리고 가다",
       "zh_HK": "帶（人）去",
-      "fr": "to take (someone) there"
+      "fr": "emmener (quelqu'un)"
     },
     "example": {
       "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>たちを<ruby>動物園<rt>どうぶつえん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>く<ruby>約束<rt>やくそく</rt></ruby>をしました。",
@@ -22738,11 +22739,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "基本動詞(5)",
     "meaning": {
       "en": "to bring (someone) here",
-      "zh_TW": "帶（人）嚟",
-      "zh_CN": "帶（人）嚟",
-      "ko": "帶（人）來",
+      "zh_TW": "帶（人）來",
+      "zh_CN": "带（人）来",
+      "ko": "데리고 오다",
       "zh_HK": "帶（人）嚟",
-      "fr": "to bring (someone) here"
+      "fr": "amener (quelqu'un)"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>にペットの<ruby>犬<rt>いぬ</rt></ruby>を<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れてきます。",
@@ -22766,20 +22767,20 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "delicious / tasty",
-      "zh_TW": "好喝",
-      "zh_CN": "好喝",
-      "ko": "好吃",
-      "zh_HK": "好喝",
-      "fr": "delicious / tasty"
+      "zh_TW": "好吃 / 美味",
+      "zh_CN": "好吃 / 美味",
+      "ko": "맛있다",
+      "zh_HK": "好食 / 好味",
+      "fr": "délicieux / bon"
     },
     "example": {
-      "ja": "このラーメンはとても<ruby>美味<rt>おい</rt></ruby>しいです。",
-      "en": "This ramen is very delicious.",
-      "zh_TW": "好喝",
-      "zh_CN": "好喝",
-      "ko": "This ramen is very delicious.",
-      "zh_HK": "好喝",
-      "fr": "This ramen is very delicious."
+      "ja": "このお店のラーメンはとても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "en": "The ramen at this shop is very delicious.",
+      "zh_TW": "這家店的拉麵非常好吃。",
+      "zh_CN": "这家店的拉面非常好吃。",
+      "ko": "이 가게의 라멘은 매우 맛있습니다.",
+      "zh_HK": "呢間舖頭嘅拉麵好好食。",
+      "fr": "Les ramens de ce restaurant sont très délicieux."
     },
     "related": "【い形容詞】美味しい (否定: 美味しくない / 過去: 美味しかった)"
   },
@@ -22793,12 +22794,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はやい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "fast / early",
-      "zh_TW": "早",
-      "zh_CN": "早",
-      "ko": "快",
-      "zh_HK": "早",
-      "fr": "fast / early"
+      "en": "early / fast",
+      "zh_TW": "早 / 快",
+      "zh_CN": "早 / 快",
+      "ko": "이르다 / 빠르다",
+      "zh_HK": "早 / 快",
+      "fr": "tôt / rapide"
     },
     "example": {
       "ja": "<ruby>朝早<rt>あさはや</rt></ruby>い<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>れば、お<ruby>昼前<rt>ひるまえ</rt></ruby>には<ruby>京都<rt>きょうと</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きますよ。",
@@ -22821,12 +22822,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おそい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "slow / late",
-      "zh_TW": "遲",
-      "zh_CN": "遲",
-      "ko": "慢",
-      "zh_HK": "遲",
-      "fr": "slow / late"
+      "en": "late / slow",
+      "zh_TW": "晚 / 慢",
+      "zh_CN": "晚 / 慢",
+      "ko": "늦다 / 느리다",
+      "zh_HK": "遲 / 慢",
+      "fr": "tard / lent"
     },
     "example": {
       "ja": "<ruby>台風<rt>たいふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>のダイヤが<ruby>乱<rt>みだ</rt></ruby>れて、<ruby>到着<rt>とうちゃく</rt></ruby>が1<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなりました。",
@@ -22850,11 +22851,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "heavy",
-      "zh_TW": "重",
-      "zh_CN": "重",
-      "ko": "重",
+      "zh_TW": "重 / 沉重",
+      "zh_CN": "重 / 沉重",
+      "ko": "무겁다",
       "zh_HK": "重",
-      "fr": "heavy"
+      "fr": "lourd"
     },
     "example": {
       "ja": "スーツケースが<ruby>重<rt>おも</rt></ruby>いので、<ruby>階段<rt>かいだん</rt></ruby>ではなくエレベーターを<ruby>使<rt>つか</rt></ruby>いましょう。",
@@ -22877,12 +22878,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かるい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "light",
+      "en": "light (in weight)",
       "zh_TW": "輕",
-      "zh_CN": "輕",
-      "ko": "輕",
+      "zh_CN": "轻",
+      "ko": "가볍다",
       "zh_HK": "輕",
-      "fr": "light"
+      "fr": "léger"
     },
     "example": {
       "ja": "この<ruby>最新<rt>さいしん</rt></ruby>の<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>は、カバンに<ruby>入<rt>い</rt></ruby>れても<ruby>気<rt>き</rt></ruby>にならないほど<ruby>軽<rt>かる</rt></ruby>いです。",
@@ -22905,12 +22906,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "あかるい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "bright",
-      "zh_TW": "光猛",
-      "zh_CN": "光猛",
-      "ko": "明亮",
-      "zh_HK": "光猛",
-      "fr": "bright"
+      "en": "bright / cheerful",
+      "zh_TW": "明亮 / 開朗",
+      "zh_CN": "明亮 / 开朗",
+      "ko": "밝다",
+      "zh_HK": "光猛 / 開朗",
+      "fr": "lumineux / clair"
     },
     "example": {
       "ja": "<ruby>大<rt>おお</rt></ruby>きな<ruby>窓<rt>まど</rt></ruby>からたっぷり<ruby>光<rt>ひかり</rt></ruby>が<ruby>入<rt>いっ</rt></ruby>ってくるので、<ruby>昼間<rt>ひるま</rt></ruby>は<ruby>照明<rt>しょうめい</rt></ruby>がいらないほど<ruby>明<rt>あか</rt></ruby>るいです。",
@@ -22934,11 +22935,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "dark",
-      "zh_TW": "暗",
-      "zh_CN": "暗",
-      "ko": "暗",
+      "zh_TW": "暗 / 昏暗",
+      "zh_CN": "暗 / 昏暗",
+      "ko": "어둡다",
       "zh_HK": "暗",
-      "fr": "dark"
+      "fr": "sombre"
     },
     "example": {
       "ja": "<ruby>夜道<rt>よみち</rt></ruby>は<ruby>足元<rt>あしもと</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くて<ruby>危<rt>あぶ</rt></ruby>ないから、スマホのライトをつけて<ruby>歩<rt>ある</rt></ruby>きましょう。",
@@ -22963,8 +22964,8 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "long",
       "zh_TW": "長",
-      "zh_CN": "長",
-      "ko": "長",
+      "zh_CN": "长",
+      "ko": "길다",
       "zh_HK": "長",
       "fr": "long"
     },
@@ -22992,9 +22993,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "short",
       "zh_TW": "短",
       "zh_CN": "短",
-      "ko": "短",
+      "ko": "짧다",
       "zh_HK": "短",
-      "fr": "short"
+      "fr": "court"
     },
     "example": {
       "ja": "<ruby>楽<rt>たの</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby>はあっという<ruby>間<rt>ま</rt></ruby>に<ruby>過<rt>す</rt></ruby>ぎて、<ruby>一日<rt>いちにち</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じられますね。",
@@ -23018,11 +23019,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "wide / spacious",
-      "zh_TW": "闊",
-      "zh_CN": "闊",
-      "ko": "寬廣",
-      "zh_HK": "闊",
-      "fr": "wide / spacious"
+      "zh_TW": "寬敞 / 廣闊",
+      "zh_CN": "宽敞 / 广阔",
+      "ko": "넓다",
+      "zh_HK": "闊 / 寬敞",
+      "fr": "vaste / spacieux"
     },
     "example": {
       "ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>した<ruby>新<rt>あたら</rt></ruby>しいアパートは、リビングが<ruby>広<rt>ひろ</rt></ruby>くて<ruby>開放感<rt>かいほうかん</rt></ruby>があります。",
@@ -23045,12 +23046,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せまい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "narrow",
-      "zh_TW": "窄",
-      "zh_CN": "窄",
-      "ko": "窄",
-      "zh_HK": "窄",
-      "fr": "narrow"
+      "en": "narrow / small (room)",
+      "zh_TW": "窄 / 狹小",
+      "zh_CN": "窄 / 狭小",
+      "ko": "좁다",
+      "zh_HK": "窄 / 細",
+      "fr": "étroit"
     },
     "example": {
       "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>狭<rt>せま</rt></ruby>いので、<ruby>車同士<rt>くるまどうし</rt></ruby>がすれ<ruby>違<rt>ちが</rt></ruby>う<ruby>時<rt>とき</rt></ruby>はスピードを<ruby>落<rt>お</rt></ruby>とします。",
@@ -23073,12 +23074,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ちかい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "close / near",
+      "en": "near / close",
       "zh_TW": "近",
       "zh_CN": "近",
-      "ko": "近",
+      "ko": "가깝다",
       "zh_HK": "近",
-      "fr": "close / near"
+      "fr": "proche / près"
     },
     "example": {
       "ja": "このホテルは<ruby>最寄<rt>もよ</rt></ruby>りの<ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>3分<rt>さんぷん</rt></ruby>と<ruby>近<rt>ちか</rt></ruby>くて、<ruby>観光<rt>かんこう</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>です。",
@@ -23101,12 +23102,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とおい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "far",
+      "en": "far / distant",
       "zh_TW": "遠",
-      "zh_CN": "遠",
-      "ko": "遠",
+      "zh_CN": "远",
+      "ko": "멀다",
       "zh_HK": "遠",
-      "fr": "far"
+      "fr": "loin / éloigné"
     },
     "example": {
       "ja": "<ruby>実家<rt>じっか</rt></ruby>はここから<ruby>遠<rt>とお</rt></ruby>いので、お<ruby>正月<rt>しょうがつ</rt></ruby>と<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>帰省<rt>きせい</rt></ruby>します。",
@@ -23131,10 +23132,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "painful / sore",
       "zh_TW": "痛",
-      "zh_CN": "痛",
-      "ko": "痛",
+      "zh_CN": "痛 / 疼",
+      "ko": "아프다",
       "zh_HK": "痛",
-      "fr": "painful / sore"
+      "fr": "douloureux / avoir mal"
     },
     "example": {
       "ja": "<ruby>靴擦<rt>くつず</rt></ruby>れをしてかかとが<ruby>痛<rt>いた</rt></ruby>いので、<ruby>絆創膏<rt>ばんそうこう</rt></ruby>を<ruby>貼<rt>は</rt></ruby>りました。",
@@ -23158,14 +23159,14 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "lonely",
-      "zh_TW": "寂寞",
-      "zh_CN": "寂寞",
-      "ko": "寂寞",
-      "zh_HK": "寂寞",
-      "fr": "lonely"
+      "zh_TW": "寂寞 / 孤單",
+      "zh_CN": "寂寞 / 孤单",
+      "ko": "외롭다 / 쓸쓸하다",
+      "zh_HK": "寂寞 / 孤單",
+      "fr": "seul / triste"
     },
     "example": {
-      "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えなくて<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しかったです。",
+      "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>月<rt>つき</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えなくて<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しかったです。",
       "en": "During my first month studying abroad in Japan, I felt a little lonely being unable to see my family.",
       "zh_TW": "剛來日本留學的第一個月，因為見不到家人感到有點寂寞孤單。",
       "zh_CN": "刚来日本留学的第一个月，因为见不到家人感到有点寂寞孤单。",
@@ -23186,11 +23187,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "い形容詞(2)",
     "meaning": {
       "en": "young",
-      "zh_TW": "後生",
-      "zh_CN": "後生",
-      "ko": "年輕",
-      "zh_HK": "後生",
-      "fr": "young"
+      "zh_TW": "年輕",
+      "zh_CN": "年轻",
+      "ko": "젊다",
+      "zh_HK": "後生 / 年輕",
+      "fr": "jeune"
     },
     "example": {
       "ja": "<ruby>祖父<rt>そふ</rt></ruby>は80<ruby>歳<rt>とし</rt></ruby>ですが、<ruby>毎朝<rt>まいあさ</rt></ruby>ジョギングをしていて<ruby>気持<rt>きも</rt></ruby>ちも<ruby>体<rt>からだ</rt></ruby>も<ruby>若<rt>わか</rt></ruby>いです。",
@@ -23215,10 +23216,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "dangerous",
       "zh_TW": "危險",
-      "zh_CN": "危險",
-      "ko": "危險",
+      "zh_CN": "危险",
+      "ko": "위험하다",
       "zh_HK": "危險",
-      "fr": "dangerous"
+      "fr": "dangereux"
     },
     "example": {
       "ja": "<ruby>歩<rt>ある</rt></ruby>きながらスマホを<ruby>操作<rt>そうさ</rt></ruby>すると、<ruby>周<rt>まわ</rt></ruby>りが<ruby>見<rt>み</rt></ruby>えなくてとても<ruby>危<rt>あぶ</rt></ruby>ないですよ。",
@@ -23243,10 +23244,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "envious / jealous",
       "zh_TW": "羨慕",
-      "zh_CN": "羨慕",
-      "ko": "羨慕",
+      "zh_CN": "羡慕",
+      "ko": "부럽다",
       "zh_HK": "羨慕",
-      "fr": "envious / jealous"
+      "fr": "envieux / jaloux"
     },
     "example": {
       "ja": "A: <ruby>来月<rt>らいげつ</rt></ruby>ハワイでリゾートバカンスを<ruby>過<rt>す</rt></ruby>ごすんだ。<br/>B: いいなあ、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>羨<rt>うらや</rt></ruby>ましい！",
@@ -23269,12 +23270,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "こわい",
     "category": "い形容詞(2)",
     "meaning": {
-      "en": "scary / frightening",
-      "zh_TW": "可怕",
-      "zh_CN": "可怕",
-      "ko": "可怕",
-      "zh_HK": "可怕",
-      "fr": "scary / frightening"
+      "en": "scary / afraid",
+      "zh_TW": "可怕 / 害怕",
+      "zh_CN": "可怕 / 害怕",
+      "ko": "무섭다 / 두렵다",
+      "zh_HK": "好驚 / 恐怖",
+      "fr": "effrayant / avoir peur"
     },
     "example": {
       "ja": "<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なので、ビルのガラス<ruby>張<rt>は</rt></ruby>りの<ruby>展望台<rt>てんぼうだい</rt></ruby>は<ruby>足<rt>あし</rt></ruby>がすくんで<ruby>怖<rt>こわ</rt></ruby>いです。",
@@ -23297,12 +23298,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "びょうき",
     "category": "病気/症状",
     "meaning": {
-      "en": "illness / disease",
-      "zh_TW": "病",
-      "zh_CN": "病",
-      "ko": "病",
-      "zh_HK": "病",
-      "fr": "illness / disease"
+      "en": "illness / sickness",
+      "zh_TW": "生病 / 疾病",
+      "zh_CN": "生病 / 疾病",
+      "ko": "병 / 질병",
+      "zh_HK": "病 / 疾病",
+      "fr": "la maladie"
     },
     "example": {
       "ja": "<ruby>風邪<rt>かぜ</rt></ruby>などの<ruby>病気<rt>びょうき</rt></ruby>にならないように、<ruby>手洗<rt>てあら</rt></ruby>いうがいを<ruby>心<rt>こころ</rt></ruby>がけています。",
@@ -23327,19 +23328,19 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "symptom",
       "zh_TW": "症狀",
-      "zh_CN": "症狀",
-      "ko": "症狀",
+      "zh_CN": "症状",
+      "ko": "증상",
       "zh_HK": "症狀",
-      "fr": "symptom"
+      "fr": "le symptôme"
     },
     "example": {
-      "ja": "<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>軽<rt>かる</rt></ruby>いですよ。",
-      "en": "Your condition isn't serious.",
-      "zh_TW": "Your condition isn't serious.",
-      "zh_CN": "Your condition isn't serious.",
-      "ko": "Your condition isn't serious.",
-      "zh_HK": "Your condition isn't serious.",
-      "fr": "Your condition isn't serious."
+      "ja": "<ruby>早<rt>はや</rt></ruby>めに<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだので、<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>軽<rt>かる</rt></ruby>いです。",
+      "en": "Because I took medicine early, my symptoms are mild.",
+      "zh_TW": "因為提早吃了藥，所以症狀很輕。",
+      "zh_CN": "因为早早吃了药，所以症状很轻。",
+      "ko": "일찍 약을 먹었기 때문에 증상은 가볍습니다.",
+      "zh_HK": "因為早啲食咗藥，所以症狀好輕微。",
+      "fr": "Comme j'ai pris des médicaments tôt, mes symptômes sont légers."
     },
     "related": "【医療・健康】症状 (体調不良・病院受診時の症状表現)"
   },
@@ -23355,10 +23356,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "have a headache",
       "zh_TW": "頭痛",
-      "zh_CN": "頭痛",
-      "ko": "頭痛",
+      "zh_CN": "头疼 / 头痛",
+      "ko": "머리가 아프다 (두통이 있다)",
       "zh_HK": "頭痛",
-      "fr": "have a headache"
+      "fr": "avoir mal à la tête"
     },
     "example": {
       "ja": "<ruby>朝<rt>あさ</rt></ruby>からズキズキと<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>休<rt>やす</rt></ruby>みます。",
@@ -23382,11 +23383,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "病気/症状",
     "meaning": {
       "en": "have a stomachache",
-      "zh_TW": "肚痛",
-      "zh_CN": "肚痛",
-      "ko": "肚子痛",
+      "zh_TW": "肚子痛",
+      "zh_CN": "肚子疼 / 肚子痛",
+      "ko": "배가 아프다 (복통이 있다)",
       "zh_HK": "肚痛",
-      "fr": "have a stomachache"
+      "fr": "avoir mal au ventre"
     },
     "example": {
       "ja": "<ruby>冷<rt>つめ</rt></ruby>たいものを<ruby>食<rt>た</rt></ruby>べすぎておなかが<ruby>痛<rt>いた</rt></ruby>くなったので、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
@@ -23411,10 +23412,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "have a toothache",
       "zh_TW": "牙痛",
-      "zh_CN": "牙痛",
-      "ko": "牙痛",
+      "zh_CN": "牙疼 / 牙痛",
+      "ko": "이가 아프다 (치통이 있다)",
       "zh_HK": "牙痛",
-      "fr": "have a toothache"
+      "fr": "avoir mal aux dents"
     },
     "example": {
       "ja": "<ruby>虫歯<rt>むしば</rt></ruby>のせいで<ruby>歯<rt>は</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>に<ruby>歯医者<rt>はいしゃ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。",
@@ -23439,10 +23440,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "have a fever",
       "zh_TW": "發燒",
-      "zh_CN": "發燒",
-      "ko": "發燒",
+      "zh_CN": "发烧",
+      "ko": "열이 나다 / 열이 있다",
       "zh_HK": "發燒",
-      "fr": "have a fever"
+      "fr": "avoir de la fièvre"
     },
     "example": {
       "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>熱<rt>ねつ</rt></ruby>があるみたいなので、<ruby>体温計<rt>たいおんけい</rt></ruby>で<ruby>測<rt>はか</rt></ruby>ってみます。<br/><ruby>無理<rt>むり</rt></ruby>せず<ruby>休<rt>やす</rt></ruby>んでね。",
@@ -23468,9 +23469,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "have a cough",
       "zh_TW": "咳嗽",
       "zh_CN": "咳嗽",
-      "ko": "咳嗽",
-      "zh_HK": "咳嗽",
-      "fr": "have a cough"
+      "ko": "기침이 나다",
+      "zh_HK": "咳 / 咳嗽",
+      "fr": "tousser"
     },
     "example": {
       "ja": "<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて、せきが<ruby>出<rt>で</rt></ruby>るのでマスクをつけます。<br/>のど<ruby>飴<rt>あめ</rt></ruby>をなめましょう。",
@@ -23495,10 +23496,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "have a runny nose",
       "zh_TW": "流鼻水",
-      "zh_CN": "流鼻水",
-      "ko": "流鼻水",
+      "zh_CN": "流鼻涕",
+      "ko": "콧물이 나다",
       "zh_HK": "流鼻水",
-      "fr": "have a runny nose"
+      "fr": "avoir le nez qui coule"
     },
     "example": {
       "ja": "<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>で、くしゃみと<ruby>鼻水<rt>はなみず</rt></ruby>が<ruby>出<rt>で</rt></ruby>るのが<ruby>止<rt>と</rt></ruby>まりません。<br/>ティッシュが<ruby>手放<rt>てばな</rt></ruby>せませんね。",
@@ -23521,12 +23522,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ちがでる",
     "category": "病気/症状",
     "meaning": {
-      "en": "bleed",
-      "zh_TW": "流血",
-      "zh_CN": "流血",
-      "ko": "流血",
+      "en": "to bleed",
+      "zh_TW": "流血 / 出血",
+      "zh_CN": "流血 / 出血",
+      "ko": "피가 나다",
       "zh_HK": "流血",
-      "fr": "bleed"
+      "fr": "saigner"
     },
     "example": {
       "ja": "<ruby>料理<rt>りょうり</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>指<rt>ゆび</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>切<rt>き</rt></ruby>って<ruby>血<rt>ち</rt></ruby>が<ruby>出<rt>で</rt></ruby>るので、<ruby>絆創膏<rt>ばんそうこう</rt></ruby>を<ruby>貼<rt>は</rt></ruby>りました。<br/><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。",
@@ -23549,12 +23550,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はきけがする",
     "category": "病気/症状",
     "meaning": {
-      "en": "feel nauseous / feel sick",
-      "zh_TW": "噁心",
-      "zh_CN": "噁心",
-      "ko": "想吐",
-      "zh_HK": "噁心",
-      "fr": "feel nauseous / feel sick"
+      "en": "feel nauseous",
+      "zh_TW": "噁心 / 想吐",
+      "zh_CN": "恶心 / 想吐",
+      "ko": "구역질이 나다 / 메스껍다",
+      "zh_HK": "作嘔 / 想嘔",
+      "fr": "avoir la nausée"
     },
     "example": {
       "ja": "<ruby>車<rt>くるま</rt></ruby>に<ruby>酔<rt>よ</rt></ruby>って<ruby>少<rt>すこ</rt></ruby>し<ruby>吐き気<rt>はきけ</rt></ruby>がするので、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>深呼吸<rt>しんこきゅう</rt></ruby>します。<br/><ruby>休<rt>やす</rt></ruby>めば<ruby>治<rt>なお</rt></ruby>りますよ。",
@@ -23577,12 +23578,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "さむけがする",
     "category": "病気/症状",
     "meaning": {
-      "en": "feel a chill",
-      "zh_TW": "發寒",
-      "zh_CN": "發寒",
-      "ko": "發冷",
-      "zh_HK": "發寒",
-      "fr": "feel a chill"
+      "en": "feel chilly / have chills",
+      "zh_TW": "發冷 / 畏寒",
+      "zh_CN": "发冷 / 打寒战",
+      "ko": "오한이 나다 / 으슬으슬 춥다",
+      "zh_HK": "發冷",
+      "fr": "avoir des frissons"
     },
     "example": {
       "ja": "<ruby>風邪<rt>かぜ</rt></ruby>のひき<ruby>始<rt>はじ</rt></ruby>めでゾクゾクと<ruby>寒気<rt>さむけ</rt></ruby>がするので、<ruby>葛根<rt>かずらね</rt></ruby><ruby>湯<rt>ゆ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>寝<rt>ね</rt></ruby>ます。<br/><ruby>温<rt>あたた</rt></ruby>かくしてね。",
@@ -23606,11 +23607,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "病気/症状",
     "meaning": {
       "en": "feel dizzy",
-      "zh_TW": "頭暈",
-      "zh_CN": "頭暈",
-      "ko": "頭暈",
+      "zh_TW": "頭暈 / 眩暈",
+      "zh_CN": "头晕 / 眩晕",
+      "ko": "현기증이 나다 / 어지럽다",
       "zh_HK": "頭暈",
-      "fr": "feel dizzy"
+      "fr": "avoir des vertiges"
     },
     "example": {
       "ja": "<ruby>急<rt>いそ</rt></ruby>に<ruby>立ち上<rt>たちあ</rt></ruby>がったらクラクラとめまいがしたので、<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>りました。<br/><ruby>水分<rt>すいぶん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りましょう。",
@@ -23633,12 +23634,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "げりをする",
     "category": "病気/症状",
     "meaning": {
-      "en": "have diarrhoea",
-      "zh_TW": "肚屙",
-      "zh_CN": "肚屙",
-      "ko": "拉肚子",
-      "zh_HK": "肚屙",
-      "fr": "have diarrhoea"
+      "en": "have diarrhea",
+      "zh_TW": "拉肚子 / 腹瀉",
+      "zh_CN": "拉肚子 / 腹泻",
+      "ko": "설사를 하다",
+      "zh_HK": "肚痾",
+      "fr": "avoir la diarrhée"
     },
     "example": {
       "ja": "お<ruby>腹<rt>なか</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やして<ruby>下痢<rt>げり</rt></ruby>をするので、<ruby>温<rt>あたた</rt></ruby>かいおかゆを<ruby>食<rt>た</rt></ruby>べます。<br/><ruby>胃腸<rt>いちょう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>めましょう。",
@@ -23664,9 +23665,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "be constipated",
       "zh_TW": "便秘",
       "zh_CN": "便秘",
-      "ko": "便秘",
+      "ko": "변비에 걸리다",
       "zh_HK": "便秘",
-      "fr": "be constipated"
+      "fr": "être constipé"
     },
     "example": {
       "ja": "<ruby>旅行<rt>りょこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって<ruby>便秘<rt>べんぴ</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですね。<br/>ヨーグルトを<ruby>食<rt>た</rt></ruby>べましょう。",
@@ -23689,12 +23690,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "けがをする",
     "category": "病気/症状",
     "meaning": {
-      "en": "get injured",
+      "en": "get injured / get hurt",
       "zh_TW": "受傷",
-      "zh_CN": "受傷",
-      "ko": "受傷",
-      "zh_HK": "受傷",
-      "fr": "get injured"
+      "zh_CN": "受伤",
+      "ko": "다치다 / 부상을 입다",
+      "zh_HK": "受傷 / 整親",
+      "fr": "se blesser"
     },
     "example": {
       "ja": "サッカーの<ruby>試合<rt>しあい</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>んで<ruby>膝<rt>ひざ</rt></ruby>にけがをしましたが、<ruby>大<rt>たい</rt></ruby>したことはありません。<br/><ruby>消毒<rt>しょうどく</rt></ruby>しましたよ。",
@@ -23717,12 +23718,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "やけどをする",
     "category": "病気/症状",
     "meaning": {
-      "en": "get burnt",
-      "zh_TW": "燙傷",
-      "zh_CN": "燙傷",
-      "ko": "燙傷",
-      "zh_HK": "燙傷",
-      "fr": "get burnt"
+      "en": "get burned / get scalded",
+      "zh_TW": "燙傷 / 燒傷",
+      "zh_CN": "烫伤 / 烧伤",
+      "ko": "화상을 입다 / 데다",
+      "zh_HK": "淥親 / 燒傷",
+      "fr": "se brûler"
     },
     "example": {
       "ja": "<ruby>熱<rt>あつ</rt></ruby>いヤカンに<ruby>触<rt>さわ</rt></ruby>って<ruby>軽<rt>かる</rt></ruby>くやけどをするので、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>で<ruby>冷<rt>ひ</rt></ruby>やしました。<br/><ruby>流水<rt>りゅうすい</rt></ruby>で<ruby>冷<rt>ひ</rt></ruby>やすのが<ruby>大切<rt>たいせつ</rt></ruby>です。",
@@ -23746,11 +23747,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "病気/症状",
     "meaning": {
       "en": "have no appetite",
-      "zh_TW": "冇胃口",
-      "zh_CN": "冇胃口",
-      "ko": "沒有食欲",
+      "zh_TW": "沒有食慾 / 沒胃口",
+      "zh_CN": "没有食欲 / 没胃口",
+      "ko": "식욕이 없다 / 입맛이 없다",
       "zh_HK": "冇胃口",
-      "fr": "have no appetite"
+      "fr": "ne pas avoir d'appétit"
     },
     "example": {
       "ja": "<ruby>夏<rt>なつ</rt></ruby>バテ<ruby>気味<rt>ぎみ</rt></ruby>で<ruby>食欲<rt>しょくよく</rt></ruby>がないですが、<ruby>栄養<rt>えいよう</rt></ruby>をつけるためにそうめんを<ruby>食<rt>た</rt></ruby>べました。",
@@ -23773,12 +23774,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かたがこる",
     "category": "病気/症状",
     "meaning": {
-      "en": "feel stiff shoulders",
-      "zh_TW": "膊頭痠",
-      "zh_CN": "膊頭痠",
-      "ko": "肩膀酸痛",
-      "zh_HK": "膊頭痠",
-      "fr": "feel stiff shoulders"
+      "en": "have stiff shoulders",
+      "zh_TW": "肩膀痠痛",
+      "zh_CN": "肩膀酸痛",
+      "ko": "어깨가 결리다 / 뭉치다",
+      "zh_HK": "膊頭痠痛",
+      "fr": "avoir les épaules raides"
     },
     "example": {
       "ja": "<ruby>一日中<rt>いちにちじゅう</rt></ruby>パソコン<ruby>作業<rt>さぎょう</rt></ruby>をして<ruby>肩<rt>かた</rt></ruby>がこるので、ストレッチをします。<br/>ほぐれますね。",
@@ -23801,12 +23802,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "からだがだるい",
     "category": "病気/症状",
     "meaning": {
-      "en": "feel weary",
-      "zh_TW": "周身攰",
-      "zh_CN": "周身攰",
-      "ko": "身體沉重",
-      "zh_HK": "周身攰",
-      "fr": "feel weary"
+      "en": "feel sluggish / feel weary",
+      "zh_TW": "身體倦怠 / 四肢無力",
+      "zh_CN": "身体乏力 / 浑身倦怠",
+      "ko": "몸이 나른하다 / 무겁다",
+      "zh_HK": "周身攰 / 渾身無力",
+      "fr": "se sentir courbaturé / las"
     },
     "example": {
       "ja": "<ruby>風邪<rt>かぜ</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めで<ruby>体<rt>からだ</rt></ruby>がだるいので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>くお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>寝<rt>ね</rt></ruby>ます。",
@@ -23830,11 +23831,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "病気/症状",
     "meaning": {
       "en": "itchy",
-      "zh_TW": "痕",
-      "zh_CN": "痕",
-      "ko": "癢",
-      "zh_HK": "痕",
-      "fr": "itchy"
+      "zh_TW": "癢",
+      "zh_CN": "痒",
+      "ko": "가렵다",
+      "zh_HK": "痕 / 痕癢",
+      "fr": "qui démange"
     },
     "example": {
       "ja": "<ruby>蚊<rt>か</rt></ruby>に<ruby>刺<rt>さ</rt></ruby>されて<ruby>腕<rt>うで</rt></ruby>が<ruby>痒<rt>かゆ</rt></ruby>いので、お<ruby>薬<rt>くすり</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>りました。",
@@ -23857,12 +23858,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かぜ",
     "category": "病気/症状",
     "meaning": {
-      "en": "cold",
+      "en": "cold (illness)",
       "zh_TW": "感冒",
       "zh_CN": "感冒",
-      "ko": "感冒",
-      "zh_HK": "感冒",
-      "fr": "cold"
+      "ko": "감기",
+      "zh_HK": "傷風 / 感冒",
+      "fr": "le rhume"
     },
     "example": {
       "ja": "A: <ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて<ruby>熱<rt>ねつ</rt></ruby>もあります。<br/>B:<ruby>風邪<rt>かぜ</rt></ruby>ですね。<ruby>温<rt>あたた</rt></ruby>かくして<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>てください。",
@@ -23885,12 +23886,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "インフルエンザ",
     "category": "病気/症状",
     "meaning": {
-      "en": "flu / influenza",
+      "en": "influenza / flu",
       "zh_TW": "流感",
       "zh_CN": "流感",
-      "ko": "流感",
-      "zh_HK": "流感",
-      "fr": "flu / influenza"
+      "ko": "독감 (인플루엔자)",
+      "zh_HK": "流感（流行性感冒）",
+      "fr": "la grippe"
     },
     "example": {
       "ja": "<ruby>高熱<rt>こうねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>て<ruby>病院<rt>びょういん</rt></ruby>で<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたら、<ruby>インフルエンザ<rt>いんふるえんざ</rt></ruby>だと<ruby>診断<rt>しんだん</rt></ruby>されました。",
@@ -23915,10 +23916,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "appendicitis",
       "zh_TW": "盲腸炎",
-      "zh_CN": "盲腸炎",
-      "ko": "盲腸炎",
+      "zh_CN": "阑尾炎 / 盲肠炎",
+      "ko": "맹장염 (충수염)",
       "zh_HK": "盲腸炎",
-      "fr": "appendicitis"
+      "fr": "l'appendicite"
     },
     "example": {
       "ja": "<ruby>右<rt>みぎ</rt></ruby>の<ruby>下腹部<rt>かふくぶ</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく<ruby>痛<rt>いた</rt></ruby>むので、<ruby>盲腸<rt>もうちょう</rt></ruby>ではないかと<ruby>心配<rt>しんぱい</rt></ruby>です。",
@@ -23941,12 +23942,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ぎっくりごし",
     "category": "病気/症状",
     "meaning": {
-      "en": "slipped disc",
-      "zh_TW": "椎間盤突出",
-      "zh_CN": "椎間盤突出",
-      "ko": "椎間盤突出",
-      "zh_HK": "椎間盤突出",
-      "fr": "slipped disc"
+      "en": "acute low back pain / strained back",
+      "zh_TW": "閃到腰",
+      "zh_CN": "闪腰 / 急性腰痛",
+      "ko": "급성 요통 (삐끗한 허리)",
+      "zh_HK": "閃親腰",
+      "fr": "le tour de reins / le lumbago"
     },
     "example": {
       "ja": "<ruby>重<rt>おも</rt></ruby>い<ruby>段<rt>だん</rt></ruby>ボールを<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げた<ruby>瞬間<rt>しゅんかん</rt></ruby>に、<ruby>ぎっくり腰<rt>ぎっくりごし</rt></ruby>になって<ruby>動<rt>うご</rt></ruby>けなくなりました。",
@@ -23971,10 +23972,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "sprain",
       "zh_TW": "扭傷",
-      "zh_CN": "扭傷",
-      "ko": "扭傷",
-      "zh_HK": "扭傷",
-      "fr": "sprain"
+      "zh_CN": "扭伤",
+      "ko": "염좌 (발목 등을 삠)",
+      "zh_HK": "拗柴 / 扭傷",
+      "fr": "l'entorse / la foulure"
     },
     "example": {
       "ja": "<ruby>階段<rt>かいだん</rt></ruby>で<ruby>足首<rt>あしくび</rt></ruby>を<ruby>ねんざ<rt>ねんざ</rt></ruby>してしまったので、<ruby>氷<rt>こおり</rt></ruby>で<ruby>冷<rt>ひ</rt></ruby>やして<ruby>湿布<rt>しっぷ</rt></ruby>を<ruby>貼<rt>は</rt></ruby>りました。",
@@ -24000,9 +24001,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "bone fracture",
       "zh_TW": "骨折",
       "zh_CN": "骨折",
-      "ko": "骨折",
+      "ko": "골절 (뼈가 부러짐)",
       "zh_HK": "骨折",
-      "fr": "bone fracture"
+      "fr": "la fracture"
     },
     "example": {
       "ja": "<ruby>転<rt>ころ</rt></ruby>んでしまいましたが、<ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、<ruby>骨折<rt>こっせつ</rt></ruby>はしていなくて<ruby>安心<rt>あんしん</rt></ruby>しました。",
@@ -24028,9 +24029,9 @@ window.INITIAL_VOCAB_DATA = [
       "en": "hangover",
       "zh_TW": "宿醉",
       "zh_CN": "宿醉",
-      "ko": "宿醉",
+      "ko": "숙취",
       "zh_HK": "宿醉",
-      "fr": "hangover"
+      "fr": "la gueule de bois"
     },
     "example": {
       "ja": "<ruby>昨日<rt>きのう</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みすぎて、ひどい<ruby>二日酔い<rt>ふつかよい</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>がガンガンします。",
@@ -24394,7 +24395,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "說話／講話",
       "ko": "말하다 / 이야기하다",
       "zh_HK": "說話／講話",
-      "fr": "to talk / to speak"
+      "fr": "to speak / to talk"
     },
     "example": {
       "ja": "<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さないでください。",
@@ -24646,7 +24647,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "記住／記得",
       "ko": "외우다・기억하다",
       "zh_HK": "記住／記得",
-      "fr": "to memorize / to remember"
+      "fr": "to memorize"
     },
     "example": {
       "ja": "<ruby>使<rt>つか</rt></ruby>わない<ruby>単語<rt>たんご</rt></ruby>は、なかなか<ruby>頭<rt>あたま</rt></ruby>に<ruby>覚<rt>おぼ</rt></ruby>えない。",
@@ -25906,7 +25907,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "進去／進入",
       "ko": "들어가다",
       "zh_HK": "進去／進入",
-      "fr": "to enter"
+      "fr": "to enter / to go in"
     },
     "example": {
       "ja": "<ruby>土足<rt>どそく</rt></ruby>でこの<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないでください。",
@@ -25934,7 +25935,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "出去",
       "ko": "나가다／나오다",
       "zh_HK": "出去",
-      "fr": "to leave / to go out"
+      "fr": "to exit / to go out"
     },
     "example": {
       "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで、<ruby>教室<rt>きょうしつ</rt></ruby>から<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ない。",
@@ -26158,7 +26159,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "做／製作",
       "ko": "만들다",
       "zh_HK": "做／製作",
-      "fr": "to make"
+      "fr": "to make / to produce"
     },
     "example": {
       "ja": "<ruby>今週<rt>こんしゅう</rt></ruby>はお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>らないで、<ruby>学食<rt>がくしょく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる。",
@@ -27306,7 +27307,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能說／會講",
       "ko": "말할 수 있다",
       "zh_HK": "能說／會講",
-      "fr": "pouvoir parler"
+      "fr": "can speak"
     },
     "example": {
       "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>せるようになった。",
@@ -27698,7 +27699,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能忘記",
       "ko": "잊을 수 있다",
       "zh_HK": "能忘記",
-      "fr": "pouvoir oublier"
+      "fr": "can forget"
     },
     "example": {
       "ja": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>いて、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れられる。",
@@ -27726,7 +27727,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能記住／背得起",
       "ko": "외울 수 있다",
       "zh_HK": "能記住／背得起",
-      "fr": "pouvoir mémoriser / retenir"
+      "fr": "can memorize / remember"
     },
     "example": {
       "ja": "カードを<ruby>使<rt>つか</rt></ruby>うと、<ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>がすぐに<ruby>覚<rt>おぼ</rt></ruby>えられる。",
@@ -27861,12 +27862,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はいれる・はいれます",
     "category": "基本動詞 可能形 (2)",
     "meaning": {
-      "en": "can enter / can go in",
-      "zh_TW": "能進去／可以進入",
-      "zh_CN": "能進去／可以進入",
-      "ko": "들어갈 수 있다",
-      "zh_HK": "能進去／可以進入",
-      "fr": "can enter / can go in"
+      "en": "to put in / to insert",
+      "zh_TW": "放進 / 放入",
+      "zh_CN": "放进 / 放入",
+      "ko": "넣다",
+      "zh_HK": "擺入去 / 放入",
+      "fr": "mettre dans / insérer"
     },
     "example": {
       "en": "Can we enter this restaurant without a reservation?",
@@ -28118,7 +28119,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能做／會製作",
       "ko": "만들 수 있다",
       "zh_HK": "能做／會製作",
-      "fr": "pouvoir fabriquer / préparer"
+      "fr": "can make"
     },
     "example": {
       "ja": "<ruby>母<rt>はは</rt></ruby>に<ruby>教<rt>おし</rt></ruby>わって、おいしいカレーが<ruby>作<rt>つく</rt></ruby>れるようになった。",
@@ -28202,7 +28203,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能等／等得了",
       "ko": "기다릴 수 있다",
       "zh_HK": "能等／等得了",
-      "fr": "pouvoir attendre"
+      "fr": "can wait"
     },
     "example": {
       "ja": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいるので、３０<ruby>分<rt>ぷん</rt></ruby>くらいなら<ruby>待<rt>ま</rt></ruby>てるよ。",
@@ -28286,7 +28287,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能出去／能出席",
       "ko": "나갈 수 있다",
       "zh_HK": "能出去／能出席",
-      "fr": "pouvoir sortir / assister"
+      "fr": "can go out / attend"
     },
     "example": {
       "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなったので、<ruby>明日<rt>あした</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>られる。",
@@ -28426,7 +28427,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能教／可以告訴",
       "ko": "가르쳐 줄 수 있다",
       "zh_HK": "能教／可以告訴",
-      "fr": "pouvoir enseigner / indiquer"
+      "fr": "can teach / tell"
     },
     "example": {
       "ja": "<ruby>道<rt>みち</rt></ruby>をよく<ruby>知<rt>し</rt></ruby>っているから、<ruby>駅<rt>えき</rt></ruby>までの<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えられるよ。",
@@ -33254,5 +33255,19997 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "J'ai amené mon meilleur ami du lycée à la fête d'aujourd'hui."
     },
     "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)"
+  },
+  {
+    "id": "card_1188",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "浴びて",
+    "reading": "あびて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "shower; bathe (te-form)",
+      "zh_TW": "淋浴；澆（て形）",
+      "zh_CN": "淋浴；浇（て形）",
+      "ko": "샤워하고; 뒤집어쓰고",
+      "zh_HK": "沖涼；淋（て形）",
+      "fr": "prendre une douche (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>シャワーを<ruby>浴<rt>あ</rt></ruby>びてから、<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "Every morning I take a shower and then go to the office.",
+      "zh_TW": "每天早上洗完淋浴後去公司。",
+      "zh_CN": "每天早上洗完淋浴后去公司。",
+      "ko": "매일 아침 샤워를 하고 나서 회사에 갑니다.",
+      "zh_HK": "每日朝早沖完涼之後返公司。",
+      "fr": "Chaque matin, je prends une douche avant d'aller au bureau."
+    },
+    "related": "浴びます（ます形） / 浴びる（辞書形）"
+  },
+  {
+    "id": "card_1189",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "乗り換えて",
+    "reading": "のりかえて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "transfer; change trains (te-form)",
+      "zh_TW": "轉乘；換車（て形）",
+      "zh_CN": "换乘（て形）",
+      "ko": "갈아타고; 환승하고",
+      "zh_HK": "轉車（て形）",
+      "fr": "changer de train (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>乗り換<rt>のりか</rt></ruby>えてください。",
+      "en": "Please transfer trains at Tokyo Station.",
+      "zh_TW": "請在東京站轉乘電車。",
+      "zh_CN": "请在东京站换乘电车。",
+      "ko": "도쿄역에서 전철을 갈아타 주세요.",
+      "zh_HK": "請喺東京站轉電車。",
+      "fr": "Veuillez changer de train à la gare de Tokyo."
+    },
+    "related": "乗り換えます（ます形） / 乗り換える（辞書形）"
+  },
+  {
+    "id": "card_1190",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "入れて",
+    "reading": "いれて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "put in; insert (te-form)",
+      "zh_TW": "放入；裝入（て形）",
+      "zh_CN": "放入；装入（て形）",
+      "ko": "넣고; 넣어서",
+      "zh_HK": "放落去；入（て形）",
+      "fr": "mettre dans ; insérer (forme en -te)"
+    },
+    "example": {
+      "ja": "コーヒーに<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>飲<rt>の</rt></ruby>みます。",
+      "en": "I put sugar in my coffee and drink it.",
+      "zh_TW": "在咖啡裡放糖喝。",
+      "zh_CN": "在咖啡里放糖喝。",
+      "ko": "커피에 설탕을 넣어서 마십니다.",
+      "zh_HK": "喺咖啡度落糖飲。",
+      "fr": "Je mets du sucre dans mon café avant de le boire."
+    },
+    "related": "入れます（ます形） / 入れる（辞書形）"
+  },
+  {
+    "id": "card_1191",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "出して",
+    "reading": "だして",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "take out; hand in; send (te-form)",
+      "zh_TW": "拿出；提交；寄出（て形）",
+      "zh_CN": "拿出；提交；寄出（て形）",
+      "ko": "꺼내고; 제출하고",
+      "zh_HK": "攞出嚟；交（て形）",
+      "fr": "sortir ; remettre ; envoyer (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>鞄<rt>かばん</rt></ruby>からノートを<ruby>出<rt>だ</rt></ruby>して、<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きました。",
+      "en": "I took the notebook out of my bag and put it on the desk.",
+      "zh_TW": "從包包裡拿出筆記本放在桌子上。",
+      "zh_CN": "从包里拿出笔记本放在桌子上。",
+      "ko": "가방에서 노트를 꺼내서 책상 위에 놓았습니다.",
+      "zh_HK": "喺袋度攞本簿出嚟擺喺張枱度。",
+      "fr": "J'ai sorti le cahier de mon sac et l'ai posé sur le bureau."
+    },
+    "related": "出します（ます形） / 出す（辞書形）"
+  },
+  {
+    "id": "card_1192",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "押して",
+    "reading": "おして",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "push; press (te-form)",
+      "zh_TW": "按；推（て形）",
+      "zh_CN": "按；推（て形）",
+      "ko": "누르고; 밀고",
+      "zh_HK": "撳；推（て形）",
+      "fr": "pousser ; appuyer (forme en -te)"
+    },
+    "example": {
+      "ja": "このボタンを<ruby>押<rt>お</rt></ruby>して、<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってください。",
+      "en": "Please press this button and buy a ticket.",
+      "zh_TW": "請按這個按鈕買票。",
+      "zh_CN": "请按这个按钮买票。",
+      "ko": "이 버튼을 눌러서 표를 사 주세요.",
+      "zh_HK": "請撳呢個掣買飛。",
+      "fr": "Veuillez appuyer sur ce bouton pour acheter un billet."
+    },
+    "related": "押します（ます形） / 押す（辞書形）"
+  },
+  {
+    "id": "card_1193",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "置いて",
+    "reading": "おいて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "put; place (te-form)",
+      "zh_TW": "放置（て形）",
+      "zh_CN": "放置（て形）",
+      "ko": "놓고; 두고",
+      "zh_HK": "擺；放低（て形）",
+      "fr": "poser ; placer (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>荷物<rt>にもつ</rt></ruby>はあそこの<ruby>椅子<rt>いす</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてください。",
+      "en": "Please put your luggage on that chair over there.",
+      "zh_TW": "請把行李放在那邊的椅子上。",
+      "zh_CN": "请把行李放在那边的椅子上。",
+      "ko": "짐은 저기 의자 위에 놓아 주세요.",
+      "zh_HK": "請將行李擺喺嗰邊張凳上面。",
+      "fr": "Veuillez poser vos bagages sur cette chaise là-bas."
+    },
+    "related": "置きます（ます形） / 置く（辞書形）"
+  },
+  {
+    "id": "card_1194",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "貸して",
+    "reading": "かして",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "lend; rent out (te-form)",
+      "zh_TW": "借給（て形）",
+      "zh_CN": "借给（て形）",
+      "ko": "빌려주고; 빌려주어서",
+      "zh_HK": "借畀（て形）",
+      "fr": "prêter (forme en -te)"
+    },
+    "example": {
+      "ja": "すみませんが、<ruby>少<rt>すこ</rt></ruby>しボールペンを<ruby>貸<rt>か</rt></ruby>してください。",
+      "en": "Excuse me, could you please lend me a ballpoint pen for a moment?",
+      "zh_TW": "不好意思，請借我一下原子筆。",
+      "zh_CN": "不好意思，请借我一下圆珠笔。",
+      "ko": "실례지만, 볼펜을 잠깐 빌려주세요.",
+      "zh_HK": "唔該，請借支原子筆畀我用一陣。",
+      "fr": "Excusez-moi, pourriez-vous me prêter un stylo à bille un instant ?"
+    },
+    "related": "貸します（ます形） / 貸す（辞書形）"
+  },
+  {
+    "id": "card_1195",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "売って",
+    "reading": "うって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "sell (te-form)",
+      "zh_TW": "賣；銷售（て形）",
+      "zh_CN": "卖；销售（て形）",
+      "ko": "팔고; 팔아서",
+      "zh_HK": "賣（て形）",
+      "fr": "vendre (forme en -te)"
+    },
+    "example": {
+      "ja": "あのパン<ruby>屋<rt>や</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>おいしいパンを<ruby>売<rt>う</rt></ruby>っています。",
+      "en": "That bakery sells delicious bread every day.",
+      "zh_TW": "那家麵包店每天都賣好吃的麵包。",
+      "zh_CN": "那家面包店每天都卖好吃的面包。",
+      "ko": "저 빵집은 매일 맛있는 빵을 팔고 있습니다.",
+      "zh_HK": "嗰間麵包舖每日都賣好食嘅麵包。",
+      "fr": "Cette boulangerie vend du pain délicieux tous les jours."
+    },
+    "related": "売ります（ます形） / 売る（辞書形）"
+  },
+  {
+    "id": "card_1196",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "止めて",
+    "reading": "とめて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "stop; park (te-form)",
+      "zh_TW": "停下；停放（て形）",
+      "zh_CN": "停下；停放（て形）",
+      "ko": "멈추고; 세우고",
+      "zh_HK": "停低；泊（て形）",
+      "fr": "arrêter ; garer (forme en -te)"
+    },
+    "example": {
+      "ja": "ここに<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてはいけません。",
+      "en": "You must not park your bicycle here.",
+      "zh_TW": "不可以在這裡停放自行車。",
+      "zh_CN": "不可以在这里停放自行车。",
+      "ko": "여기에 자전거를 세우면 안 됩니다.",
+      "zh_HK": "唔可以喺呢度泊單車。",
+      "fr": "Vous ne devez pas garer votre vélo ici."
+    },
+    "related": "止めます（ます形） / 止める（辞書形）"
+  },
+  {
+    "id": "card_1197",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "座って",
+    "reading": "すわって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "sit down (te-form)",
+      "zh_TW": "坐下（て形）",
+      "zh_CN": "坐下（て形）",
+      "ko": "앉고; 앉아서",
+      "zh_HK": "坐低（て形）",
+      "fr": "s'asseoir (forme en -te)"
+    },
+    "example": {
+      "ja": "どうぞこちらの<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってください。",
+      "en": "Please have a seat on this chair.",
+      "zh_TW": "請坐這邊的椅子。",
+      "zh_CN": "请坐这边的椅子。",
+      "ko": "부디 이쪽 의자에 앉아 주세요.",
+      "zh_HK": "請坐呢邊張凳啦。",
+      "fr": "Veuillez vous asseoir sur cette chaise, je vous en prie."
+    },
+    "related": "座ります（ます形） / 座る（辞書形）"
+  },
+  {
+    "id": "card_1198",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "立って",
+    "reading": "たって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "stand up (te-form)",
+      "zh_TW": "站立（て形）",
+      "zh_CN": "站立（て形）",
+      "ko": "서고; 서서",
+      "zh_HK": "企起身（て形）",
+      "fr": "se lever ; être debout (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばれた<ruby>人<rt>ひと</rt></ruby>は、<ruby>席<rt>せき</rt></ruby>を<ruby>立<rt>た</rt></ruby>ってください。",
+      "en": "Those whose names are called, please stand up from your seats.",
+      "zh_TW": "被叫到名字的人請從座位上站起來。",
+      "zh_CN": "被叫到名字的人请从座位上站起来。",
+      "ko": "이름이 불린 사람은 자리에서 일어나 주세요.",
+      "zh_HK": "叫到名嘅人請喺個位度企起身。",
+      "fr": "Les personnes dont le nom est appelé sont priées de se lever."
+    },
+    "related": "立ちます（ます形） / 立つ（辞書形）"
+  },
+  {
+    "id": "card_1199",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "住んで",
+    "reading": "すんで",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "live; reside (te-form)",
+      "zh_TW": "居住（て形）",
+      "zh_CN": "居住（て形）",
+      "ko": "살고; 거주하고",
+      "zh_HK": "住（て形）",
+      "fr": "habiter ; vivre (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
+      "en": "Mr. Tanaka lives in Tokyo with his family.",
+      "zh_TW": "田中先生和家人一起住在東京。",
+      "zh_CN": "田中先生和家人一起住在东京。",
+      "ko": "다나카 씨는 가족과 함께 도쿄에 살고 있습니다.",
+      "zh_HK": "田中先生同屋企人一齊住喺東京。",
+      "fr": "M. Tanaka habite à Tokyo avec sa famille."
+    },
+    "related": "住みます（ます形） / 住む（辞書形）"
+  },
+  {
+    "id": "card_1200",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "吸って",
+    "reading": "すって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "breathe in; smoke (te-form)",
+      "zh_TW": "吸；抽菸（て形）",
+      "zh_CN": "吸；抽烟（て形）",
+      "ko": "피우고; 들이마시고",
+      "zh_HK": "吸；食（煙）（て形）",
+      "fr": "inspirer ; fumer (forme en -te)"
+    },
+    "example": {
+      "ja": "レストランの<ruby>中<rt>なか</rt></ruby>でたばこを<ruby>吸<rt>す</rt></ruby>ってはいけません。",
+      "en": "You must not smoke inside the restaurant.",
+      "zh_TW": "不可以在餐廳裡抽菸。",
+      "zh_CN": "不可以在餐厅里抽烟。",
+      "ko": "레스토랑 안에서 담배를 피우면 안 됩니다.",
+      "zh_HK": "唔可以喺餐廳入面食煙。",
+      "fr": "Il est interdit de fumer à l'intérieur du restaurant."
+    },
+    "related": "吸います（ます形） / 吸う（辞書形）"
+  },
+  {
+    "id": "card_1201",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "借りて",
+    "reading": "かりて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "borrow; rent (te-form)",
+      "zh_TW": "借入（て形）",
+      "zh_CN": "借入（て形）",
+      "ko": "빌리고; 빌려서",
+      "zh_HK": "借（て形）",
+      "fr": "emprunter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りて、<ruby>家<rt>いえ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>みました。",
+      "en": "I borrowed a book from the library and read it at home.",
+      "zh_TW": "在圖書館借了書，在家裡讀了。",
+      "zh_CN": "在图书馆借了书，在家里读了。",
+      "ko": "도서관에서 책을 빌려서 집에서 읽었습니다.",
+      "zh_HK": "喺圖書館借咗本書返屋企睇。",
+      "fr": "J'ai emprunté un livre à la bibliothèque et je l'ai lu à la maison."
+    },
+    "related": "借ります（ます形） / 借りる（辞書形）"
+  },
+  {
+    "id": "card_1202",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "習って",
+    "reading": "ならって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "learn (from a teacher) (te-form)",
+      "zh_TW": "向老師學（て形）",
+      "zh_CN": "向老师学（て形）",
+      "ko": "배우고; 배워서",
+      "zh_HK": "跟老師學（て形）",
+      "fr": "apprendre (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>習<rt>なら</rt></ruby>っています。",
+      "en": "I am learning Japanese from a Japanese teacher.",
+      "zh_TW": "正在跟日本老師學日語。",
+      "zh_CN": "正在跟日本老师学日语。",
+      "ko": "일본인 선생님께 일본어를 배우고 있습니다.",
+      "zh_HK": "我跟緊日本老師學日文。",
+      "fr": "J'apprends le japonais avec un professeur japonais."
+    },
+    "related": "習います（ます形） / 習う（辞書形）"
+  },
+  {
+    "id": "card_1203",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "失くして",
+    "reading": "なくして",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "lose (an item) (te-form)",
+      "zh_TW": "弄丟；遺失（て形）",
+      "zh_CN": "弄丢；遗失（て形）",
+      "ko": "잃어버리고; 분실해서",
+      "zh_HK": "唔見咗（て形）",
+      "fr": "perdre (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>失<rt>しつ</rt></ruby>くしてしまいました。",
+      "en": "I lost my important key near the station.",
+      "zh_TW": "在車站附近把重要的鑰匙弄丟了。",
+      "zh_CN": "在车站附近把重要的钥匙弄丢了。",
+      "ko": "역 근처에서 소중한 열쇠를 잃어버렸습니다.",
+      "zh_HK": "喺車站附近唔見咗條好緊要嘅鎖匙。",
+      "fr": "J'ai perdu ma clé importante près de la gare."
+    },
+    "related": "失くします（ます形） / 失くす（辞書形）"
+  },
+  {
+    "id": "card_1204",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "払って",
+    "reading": "はらって",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "pay (te-form)",
+      "zh_TW": "支付；付款（て形）",
+      "zh_CN": "支付；付款（て形）",
+      "ko": "지불하고; 내고",
+      "zh_HK": "畀（錢）（て形）",
+      "fr": "payer (forme en -te)"
+    },
+    "example": {
+      "ja": "レジでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>ってから、<ruby>店<rt>みせ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ました。",
+      "en": "I paid the money at the register and then left the store.",
+      "zh_TW": "在收銀台付了錢後離開了店。",
+      "zh_CN": "在收银台付了钱后离开了店。",
+      "ko": "계산대에서 돈을 내고 나서 가게를 나왔습니다.",
+      "zh_HK": "喺收銀處畀咗錢之後離開間舖頭。",
+      "fr": "J'ai payé à la caisse avant de sortir du magasin."
+    },
+    "related": "払います（ます形） / 払う（辞書形）"
+  },
+  {
+    "id": "card_1205",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "返して",
+    "reading": "かえして",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "return (an item); give back (te-form)",
+      "zh_TW": "歸還（て形）",
+      "zh_CN": "归还（て形）",
+      "ko": "돌려주고; 반납하고",
+      "zh_HK": "還（て形）",
+      "fr": "rendre (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>までに<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>してください。",
+      "en": "Please return the library book by next Friday.",
+      "zh_TW": "請在下週五之前歸還圖書館的書。",
+      "zh_CN": "请在下周五之前归还图书馆的书。",
+      "ko": "다음 주 금요일까지 도서관 책을 반납해 주세요.",
+      "zh_HK": "請喺下個禮拜五之前還返圖書館本書。",
+      "fr": "Veuillez rendre le livre de la bibliothèque d'ici vendredi prochain."
+    },
+    "related": "返します（ます形） / 返す（辞書形）"
+  },
+  {
+    "id": "card_1206",
+    "section_num": 52,
+    "section_title": "#52 基本動詞(4) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "辞めて",
+    "reading": "やめて",
+    "category": "基本動詞(4) てform",
+    "meaning": {
+      "en": "quit; resign (te-form)",
+      "zh_TW": "辭職；放棄（て形）",
+      "zh_CN": "辞职；放弃（て形）",
+      "ko": "그만두고; 사직하고",
+      "zh_HK": "辭職；唔做（て形）",
+      "fr": "démissionner ; arrêter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>先月<rt>せんげつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めて、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。",
+      "en": "Ms. Sato quit her company last month and opened her own shop.",
+      "zh_TW": "佐藤小姐上個月辭掉公司的工作，開了自己的店。",
+      "zh_CN": "佐藤小姐上个月辞掉公司的工作，开了自己的店。",
+      "ko": "사토 씨는 지난달 회사를 그만두고 자신의 가게를 열었습니다.",
+      "zh_HK": "佐藤小姐上個月辭咗份工，開咗間屬於自己嘅舖頭。",
+      "fr": "Mme Sato a quitté son entreprise le mois dernier et a ouvert sa propre boutique."
+    },
+    "related": "辞めます（ます形） / 辞める（辞書形）"
+  },
+  {
+    "id": "card_1207",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "調べて",
+    "reading": "しらべて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "look up; investigate; check (te-form)",
+      "zh_TW": "調查；查閱（て形）",
+      "zh_CN": "调查；查阅（て形）",
+      "ko": "조사하고; 찾아보고",
+      "zh_HK": "查；調查（て形）",
+      "fr": "chercher ; vérifier (forme en -te)"
+    },
+    "example": {
+      "ja": "わからない<ruby>言葉<rt>ことば</rt></ruby>は<ruby>辞書<rt>じしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べてください。",
+      "en": "Please look up words you don't understand in the dictionary.",
+      "zh_TW": "不懂的詞請查字典。",
+      "zh_CN": "不懂的词请查字典。",
+      "ko": "모르는 말은 사전에서 찾아봐 주세요.",
+      "zh_HK": "唔識嘅字請查字典。",
+      "fr": "Veuillez chercher dans le dictionnaire les mots que vous ne comprenez pas."
+    },
+    "related": "調べます（ます形） / 調べる（辞書形）"
+  },
+  {
+    "id": "card_1208",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "修理して",
+    "reading": "しゅうりして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "repair; fix (te-form)",
+      "zh_TW": "修理（て形）",
+      "zh_CN": "修理（て形）",
+      "ko": "수리하고; 고치고",
+      "zh_HK": "修理；整返好（て形）",
+      "fr": "réparer (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>壊<rt>こわ</rt></ruby>れた<ruby>時計<rt>とけい</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>して、もう<ruby>一度<rt>いちど</rt></ruby><ruby>使<rt>つか</rt></ruby>います。",
+      "en": "I will repair the broken watch and use it again.",
+      "zh_TW": "把壞了的手錶修好再用一次。",
+      "zh_CN": "把坏了的手表修好再用一次。",
+      "ko": "고장 난 시계를 수리해서 다시 한번 씁니다.",
+      "zh_HK": "整返好隻爛咗嘅錶再戴。",
+      "fr": "Je vais faire réparer la montre cassée et l'utiliser à nouveau."
+    },
+    "related": "修理します（ます形） / 修理する（辞書形）"
+  },
+  {
+    "id": "card_1209",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "連絡して",
+    "reading": "れんらくして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "contact; get in touch (te-form)",
+      "zh_TW": "聯絡（て形）",
+      "zh_CN": "联系（て形）",
+      "ko": "연락하고; 연락해서",
+      "zh_HK": "聯絡（て形）",
+      "fr": "contacter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら、すぐ<ruby>私<rt>わたし</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+      "en": "Please contact me immediately when you arrive at the station.",
+      "zh_TW": "到了車站後請馬上聯絡我。",
+      "zh_CN": "到了车站后请马上联系我。",
+      "ko": "역에 도착하면 바로 저에게 연락해 주세요.",
+      "zh_HK": "到咗車站之後請即刻聯絡我。",
+      "fr": "Veuillez me contacter dès que vous arrivez à la gare."
+    },
+    "related": "連絡します（ます形） / 連絡する（辞書形）"
+  },
+  {
+    "id": "card_1210",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "泊まって",
+    "reading": "とまって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "stay overnight (te-form)",
+      "zh_TW": "留宿；住宿（て形）",
+      "zh_CN": "留宿；住宿（て形）",
+      "ko": "묵고; 숙박하고",
+      "zh_HK": "住（酒店）；過夜（て形）",
+      "fr": "séjourner ; passer la nuit (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>京都<rt>きょうと</rt></ruby>の<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まって、おいしい<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I stayed at a traditional inn in Kyoto and ate delicious food.",
+      "zh_TW": "住在京都的旅館，吃了美味的料理。",
+      "zh_CN": "住在京都的旅馆，吃了美味的料理。",
+      "ko": "교토 료칸에 묵으면서 맛있는 요리를 먹었습니다.",
+      "zh_HK": "喺京都嘅旅館住咗一晚，仲食咗好味嘅料理。",
+      "fr": "J'ai séjourné dans une auberge traditionnelle à Kyoto et mangé de délicieux plats."
+    },
+    "related": "泊まります（ます形） / 泊まる（辞書形）"
+  },
+  {
+    "id": "card_1211",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "掃除して",
+    "reading": "そうじして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "clean; sweep (te-form)",
+      "zh_TW": "打掃（て形）",
+      "zh_CN": "打扫（て形）",
+      "ko": "청소하고; 청소해서",
+      "zh_HK": "打掃；執屋（て形）",
+      "fr": "nettoyer (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>して、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+      "en": "On the weekend I clean my room and read books.",
+      "zh_TW": "週末打掃房間，然後看書。",
+      "zh_CN": "周末打扫房间，然后看书。",
+      "ko": "주말에는 방을 청소하고 책을 읽습니다.",
+      "zh_HK": "週末執好間房之後睇書。",
+      "fr": "Le week-end, je nettoie ma chambre et je lis des livres."
+    },
+    "related": "掃除します（ます形） / 掃除する（辞書形）"
+  },
+  {
+    "id": "card_1212",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "洗濯して",
+    "reading": "せんたくして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "do laundry; wash clothes (te-form)",
+      "zh_TW": "洗衣服（て形）",
+      "zh_CN": "洗衣服（て形）",
+      "ko": "세탁하고; 빨래해서",
+      "zh_HK": "洗衫（て形）",
+      "fr": "faire la lessive (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいですから、<ruby>服<rt>ふく</rt></ruby>を<ruby>洗濯<rt>せんたく</rt></ruby>して<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>しましょう。",
+      "en": "Since the weather is nice, let's wash the clothes and hang them outside.",
+      "zh_TW": "因為天氣好，把衣服洗了晾在外面吧。",
+      "zh_CN": "因为天气好，把衣服洗了晾在外面吧。",
+      "ko": "날씨가 좋으니까 옷을 세탁해서 밖에 널어요.",
+      "zh_HK": "今日好天，洗咗啲衫之後晾喺出面啦。",
+      "fr": "Comme il fait beau, faisons la lessive et étendons le linge dehors."
+    },
+    "related": "洗濯します（ます形） / 洗濯する（辞書形）"
+  },
+  {
+    "id": "card_1213",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "弾いて",
+    "reading": "ひいて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "play (string/keyboard instrument) (te-form)",
+      "zh_TW": "彈奏（て形）",
+      "zh_CN": "弹奏（て形）",
+      "ko": "치며; 연주하고",
+      "zh_HK": "彈（琴/結他）（て形）",
+      "fr": "jouer d'un instrument à cordes/clavier (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんはピアノを<ruby>弾<rt>ひ</rt></ruby>いて、みんなに<ruby>聞<rt>き</rt></ruby>かせました。",
+      "en": "Ms. Suzuki played the piano and let everyone listen.",
+      "zh_TW": "鈴木小姐彈了鋼琴給大家聽。",
+      "zh_CN": "铃木小姐弹了钢琴给大家听。",
+      "ko": "스즈키 씨는 피아노를 쳐서 모두에게 들려주었습니다.",
+      "zh_HK": "鈴木小姐彈琴畀大家聽。",
+      "fr": "Mme Suzuki a joué du piano pour tout le monde."
+    },
+    "related": "弾きます（ます形） / 弾く（辞書形）"
+  },
+  {
+    "id": "card_1214",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "歌って",
+    "reading": "うたって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "sing (te-form)",
+      "zh_TW": "唱歌（て形）",
+      "zh_CN": "唱歌（て形）",
+      "ko": "노래하고; 불러서",
+      "zh_HK": "唱（歌）（て形）",
+      "fr": "chanter (forme en -te)"
+    },
+    "example": {
+      "ja": "パーティーで<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>って、とても<ruby>楽<rt>たの</rt></ruby>しかったです。",
+      "en": "I sang Japanese songs at the party and had a great time.",
+      "zh_TW": "在派對上唱了日本歌，非常開心。",
+      "zh_CN": "在派对上唱了日本歌，非常开心。",
+      "ko": "파티에서 일본 노래를 불러서 정말 즐거웠습니다.",
+      "zh_HK": "喺派對度唱日本歌，真係好開心。",
+      "fr": "J'ai chanté des chansons japonaises à la fête et je me suis beaucoup amusé."
+    },
+    "related": "歌います（ます形） / 歌う（辞書形）"
+  },
+  {
+    "id": "card_1215",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "集めて",
+    "reading": "あつめて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "collect; gather (te-form)",
+      "zh_TW": "收集；集合（て形）",
+      "zh_CN": "收集；集合（て形）",
+      "ko": "모으고; 수집해서",
+      "zh_HK": "收集；儲（て形）",
+      "fr": "collectionner ; rassembler (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>珍<rt>めずら</rt></ruby>しい<ruby>切手<rt>きって</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。",
+      "en": "I am collecting rare stamps from around the world.",
+      "zh_TW": "正在收集世界上罕見的郵票。",
+      "zh_CN": "正在收集世界上罕见的邮票。",
+      "ko": "세계의 희귀한 우표를 모으고 있습니다.",
+      "zh_HK": "我儲緊世界各地特別嘅郵票。",
+      "fr": "Je collectionne des timbres rares du monde entier."
+    },
+    "related": "集めます（ます形） / 集める（辞書形）"
+  },
+  {
+    "id": "card_1216",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "捨てて",
+    "reading": "すてて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "throw away (te-form)",
+      "zh_TW": "扔掉；丟棄（て形）",
+      "zh_CN": "扔掉（て形）",
+      "ko": "버리고; 버려서",
+      "zh_HK": "掉（垃圾）（て形）",
+      "fr": "jeter (forme en -te)"
+    },
+    "example": {
+      "ja": "いらない<ruby>紙<rt>かみ</rt></ruby>はあの<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>ててください。",
+      "en": "Please throw away unneeded paper into that trash can.",
+      "zh_TW": "不要的紙請丟進那個垃圾桶裡。",
+      "zh_CN": "不要的纸请扔进那个垃圾桶里。",
+      "ko": "필요 없는 종이는 저 쓰레기통에 버려 주세요.",
+      "zh_HK": "唔要嘅紙請掉入嗰個垃圾桶度。",
+      "fr": "Veuillez jeter les papiers inutiles dans cette poubelle là-bas."
+    },
+    "related": "捨てます（ます形） / 捨てる（辞書形）"
+  },
+  {
+    "id": "card_1217",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "変えて",
+    "reading": "かえて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "change; alter (transitive te-form)",
+      "zh_TW": "改變；更換（他動詞て形）",
+      "zh_CN": "改变；更换（他动词て形）",
+      "ko": "바꾸고; 변경해서",
+      "zh_HK": "改；換（他動詞て形）",
+      "fr": "changer ; modifier (transitif, forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>のカーテンを<ruby>新<rt>あたら</rt></ruby>しいものに<ruby>変<rt>か</rt></ruby>えてみました。",
+      "en": "I tried changing the room curtains to new ones.",
+      "zh_TW": "試著把房間的窗簾換成了新的。",
+      "zh_CN": "试着把房间的窗帘换成了新的。",
+      "ko": "방 커튼을 새것으로 바꾸어 보았습니다.",
+      "zh_HK": "試下將間房嘅窗簾換過副新嘅。",
+      "fr": "J'ai essayé de remplacer les rideaux de la chambre par des neufs."
+    },
+    "related": "変えます（ます形） / 変える（辞書形）"
+  },
+  {
+    "id": "card_1218",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "変わって",
+    "reading": "かわって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "change; be altered (intransitive te-form)",
+      "zh_TW": "變化；改變（自動詞て形）",
+      "zh_CN": "变化；改变（自动词て形）",
+      "ko": "바뀌고; 변해서",
+      "zh_HK": "變；改變（自動詞て形）",
+      "fr": "changer ; évoluer (intransitif, forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>季節<rt>きせつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって、だんだん<ruby>涼<rt>すず</rt></ruby>しくなりました。",
+      "en": "The season changed, and it gradually became cooler.",
+      "zh_TW": "季節變了，漸漸涼快起來了。",
+      "zh_CN": "季节变了，渐渐凉快起来了。",
+      "ko": "계절이 바뀌어서 점점 선선해졌습니다.",
+      "zh_HK": "轉咗季，天氣開始越嚟越涼爽。",
+      "fr": "La saison a changé et il fait de plus en plus frais."
+    },
+    "related": "変わります（ます形） / 変わる（辞書形）"
+  },
+  {
+    "id": "card_1219",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "運転して",
+    "reading": "うんてんして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "drive (te-form)",
+      "zh_TW": "駕駛；開車（て形）",
+      "zh_CN": "驾驶；开车（て形）",
+      "ko": "운전하고; 운전해서",
+      "zh_HK": "揸車；駕駛（て形）",
+      "fr": "conduire (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>車<rt>しゃ</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "My father drives a car to the office every day.",
+      "zh_TW": "爸爸每天開車去公司。",
+      "zh_CN": "爸爸每天开车去公司。",
+      "ko": "아버지는 매일 차를 운전해서 회사에 갑니다.",
+      "zh_HK": "爸爸每日揸車返公司。",
+      "fr": "Mon père conduit sa voiture tous les jours pour aller au travail."
+    },
+    "related": "運転します（ます形） / 運転する（辞書形）"
+  },
+  {
+    "id": "card_1220",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "渡して",
+    "reading": "わたして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "hand over; give; pass (te-form)",
+      "zh_TW": "交給；遞給（て形）",
+      "zh_CN": "交给；递给（て形）",
+      "ko": "건네주고; 건네서",
+      "zh_HK": "交畀；遞畀（て形）",
+      "fr": "remettre ; passer (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>受付<rt>うけつけ</rt></ruby>でこの<ruby>書類<rt>しょるい</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>してください。",
+      "en": "Please hand over this document at the reception desk.",
+      "zh_TW": "請在櫃檯提交這份文件。",
+      "zh_CN": "请在接待处提交这份文件。",
+      "ko": "접수처에서 이 서류를 건네주세요.",
+      "zh_HK": "請喺接待處交呢份文件。",
+      "fr": "Veuillez remettre ce document à la réception."
+    },
+    "related": "渡します（ます形） / 渡す（辞書形）"
+  },
+  {
+    "id": "card_1221",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "言って",
+    "reading": "いって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "say; tell (te-form)",
+      "zh_TW": "說；講（て形）",
+      "zh_CN": "说；讲（て形）",
+      "ko": "말하고; 말해서",
+      "zh_HK": "講；話（て形）",
+      "fr": "dire (forme en -te)"
+    },
+    "example": {
+      "ja": "もう<ruby>一度<rt>いちど</rt></ruby>ゆっくり<ruby>言<rt>い</rt></ruby>ってください。",
+      "en": "Please say it again slowly.",
+      "zh_TW": "請再慢慢說一遍。",
+      "zh_CN": "请再慢慢说一遍。",
+      "ko": "다시 한번 천천히 말해 주세요.",
+      "zh_HK": "請再慢慢講多次。",
+      "fr": "Veuillez le redire lentement, s'il vous plaît."
+    },
+    "related": "言います（ます形） / 言う（辞書形）"
+  },
+  {
+    "id": "card_1222",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "気を付けて",
+    "reading": "きをつけて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "be careful; take care (te-form)",
+      "zh_TW": "小心；注意（て形）",
+      "zh_CN": "小心；注意（て形）",
+      "ko": "조심하고; 주의해서",
+      "zh_HK": "小心；注意（て形）",
+      "fr": "faire attention (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>夜道<rt>よみち</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>いですから、<ruby>車<rt>くるま</rt></ruby>に<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けて<ruby>帰<rt>かえ</rt></ruby>ってください。",
+      "en": "Because the night road is dark, please watch out for cars on your way home.",
+      "zh_TW": "夜路很黑，請小心車輛回家。",
+      "zh_CN": "夜路很黑，请小心车辆回家。",
+      "ko": "밤길은 어두우니까 차를 조심해서 돌아가세요.",
+      "zh_HK": "夜晚條路好黑，返屋企嗰陣小心睇車呀。",
+      "fr": "Comme la route est sombre la nuit, faites attention aux voitures en rentrant."
+    },
+    "related": "気を付けます（ます形） / 気を付ける（辞書形）"
+  },
+  {
+    "id": "card_1223",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "留学して",
+    "reading": "りゅうがくして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "study abroad (te-form)",
+      "zh_TW": "留學（て形）",
+      "zh_CN": "留学（て形）",
+      "ko": "유학하고; 유학해서",
+      "zh_HK": "留學（て形）",
+      "fr": "étudier à l'étranger (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>留学<rt>りゅうがく</rt></ruby>して、<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したいです。",
+      "en": "I want to study abroad in Japan and learn about Japanese culture.",
+      "zh_TW": "想去日本留學，學習日本文化。",
+      "zh_CN": "想去日本留学，学习日本文化。",
+      "ko": "일본으로 유학해서 일본 문화를 공부하고 싶습니다.",
+      "zh_HK": "我想去日本留學，學下日本文化。",
+      "fr": "Je veux étudier au Japon pour apprendre la culture japonaise."
+    },
+    "related": "留学します（ます形） / 留学する（辞書形）"
+  },
+  {
+    "id": "card_1224",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "心配して",
+    "reading": "しんぱいして",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "worry; be anxious (te-form)",
+      "zh_TW": "擔心（て形）",
+      "zh_CN": "担心（て形）",
+      "ko": "걱정하고; 염려해서",
+      "zh_HK": "擔心（て形）",
+      "fr": "s'inquiéter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>はいつも<ruby>私<rt>わたし</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>しています。",
+      "en": "My mother is always worrying about my health.",
+      "zh_TW": "媽媽總是擔心我的健康。",
+      "zh_CN": "妈妈总是担心我的健康。",
+      "ko": "어머니는 언제나 제 건강을 걱정하고 계십니다.",
+      "zh_HK": "媽咪成日都好擔心我嘅健康。",
+      "fr": "Ma mère s'inquiète toujours pour ma santé."
+    },
+    "related": "心配します（ます形） / 心配する（辞書形）"
+  },
+  {
+    "id": "card_1225",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "持って行って",
+    "reading": "もっていって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "take (something) along (te-form)",
+      "zh_TW": "帶去；拿去（て形）",
+      "zh_CN": "带去；拿去（て形）",
+      "ko": "가지고 가고; 챙겨 가서",
+      "zh_HK": "帶去；拎去（て形）",
+      "fr": "emporter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>午後<rt>ごご</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りますから、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>ってください。",
+      "en": "It will rain in the afternoon, so please take an umbrella with you.",
+      "zh_TW": "下午會下雨，請把雨傘帶去。",
+      "zh_CN": "下午会下雨，请把雨伞带去。",
+      "ko": "오후에는 비가 오니까 우산을 가지고 가세요.",
+      "zh_HK": "下晝會落雨，請帶埋把遮出門口啦。",
+      "fr": "Il va pleuvoir cet après-midi, alors emportez un parapluie."
+    },
+    "related": "持って行きます（ます形） / 持って行く（辞書形）"
+  },
+  {
+    "id": "card_1226",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "持ってきて",
+    "reading": "もってきて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "bring (something) here (te-form)",
+      "zh_TW": "帶來；拿來（て形）",
+      "zh_CN": "带来；拿来（て形）",
+      "ko": "가지고 오고; 챙겨 와서",
+      "zh_HK": "帶嚟；拎嚟（て形）",
+      "fr": "apporter (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>にこの<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。",
+      "en": "Please bring this dictionary to tomorrow's class.",
+      "zh_TW": "明天的課請把這本字典帶來。",
+      "zh_CN": "明天的课请把这本字典带来。",
+      "ko": "내일 수업에 이 사전을 가지고 와 주세요.",
+      "zh_HK": "聽日上堂請帶呢本字典嚟。",
+      "fr": "Veuillez apporter ce dictionnaire au cours de demain."
+    },
+    "related": "持ってきます（ます形） / 持ってくる（辞書形）"
+  },
+  {
+    "id": "card_1227",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "連れて行って",
+    "reading": "つれていって",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "take (someone) along (te-form)",
+      "zh_TW": "帶（人）去（て形）",
+      "zh_CN": "带（人）去（て形）",
+      "ko": "데리고 가고; 데려가서",
+      "zh_HK": "帶（人/動物）去（て形）",
+      "fr": "emmener quelqu'un (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>今度<rt>こんど</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもを<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>ってあげます。",
+      "en": "This Sunday, I will take my child to the zoo.",
+      "zh_TW": "這個星期天，我要帶孩子去動物園。",
+      "zh_CN": "这个星期天，我要带孩子去动物园。",
+      "ko": "이번 일요일에 아이를 동물원에 데리고 가 줄 겁니다.",
+      "zh_HK": "今個禮拜日，我會帶小朋友去動物園玩。",
+      "fr": "Ce dimanche, j'emmènerai mon enfant au zoo."
+    },
+    "related": "連れて行きます（ます形） / 連れて行く（辞書形）"
+  },
+  {
+    "id": "card_1228",
+    "section_num": 53,
+    "section_title": "#53 基本動詞(5) てform",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "連れてきて",
+    "reading": "つれてきて",
+    "category": "基本動詞(5) てform",
+    "meaning": {
+      "en": "bring (someone) here (te-form)",
+      "zh_TW": "帶（人）來（て形）",
+      "zh_CN": "带（人）来（て形）",
+      "ko": "데리고 오고; 데려와서",
+      "zh_HK": "帶（人/動物）嚟（て形）",
+      "fr": "amener quelqu'un (forme en -te)"
+    },
+    "example": {
+      "ja": "<ruby>今度<rt>こんど</rt></ruby>のパーティーに、ぜひご<ruby>家族<rt>かぞく</rt></ruby>も<ruby>連<rt>つ</rt></ruby>れてきてください。",
+      "en": "Please be sure to bring your family to the upcoming party.",
+      "zh_TW": "下次的派對，請一定把家人也帶來。",
+      "zh_CN": "下次的派对，请一定把家人也带来。",
+      "ko": "이번 파티에 꼭 가족분들도 데리고 오세요.",
+      "zh_HK": "下次開派對，請一定要帶埋你屋企人嚟呀。",
+      "fr": "À la prochaine fête, n'hésitez surtout pas à amener votre famille."
+    },
+    "related": "連れてきます（ます形） / 連れてくる（辞書形）"
+  },
+  {
+    "id": "card_1229",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "交差点",
+    "reading": "こうさてん",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "intersection; crossroads",
+      "zh_TW": "十字路口；交叉口",
+      "zh_CN": "十字路口；交叉口",
+      "ko": "교차로; 사거리",
+      "zh_HK": "十字路口；交界處",
+      "fr": "carrefour ; intersection"
+    },
+    "example": {
+      "ja": "あの<ruby>交差点<rt>こうさてん</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>へ<ruby>曲<rt>ま</rt></ruby>がると、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>があります。",
+      "en": "If you turn right at that intersection, there is a post office.",
+      "zh_TW": "在那個十字路口往右轉，就有郵局。",
+      "zh_CN": "在那个十字路口往右拐，就有邮局。",
+      "ko": "저 교차로에서 오른쪽으로 돌면 우체국이 있습니다.",
+      "zh_HK": "喺嗰個十字路口轉右，就會見到郵局。",
+      "fr": "Si vous tournez à droite à ce carrefour, vous trouverez un bureau de poste."
+    },
+    "related": "角 / 信号"
+  },
+  {
+    "id": "card_1230",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "信号",
+    "reading": "しんごう",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "traffic light; signal",
+      "zh_TW": "紅綠燈；號誌",
+      "zh_CN": "红绿灯；信号灯",
+      "ko": "신호; 신호등",
+      "zh_HK": "交通燈；紅綠燈",
+      "fr": "feu de circulation ; signal"
+    },
+    "example": {
+      "ja": "<ruby>信号<rt>しんごう</rt></ruby>が<ruby>青<rt>あお</rt></ruby>になってから、<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ってください。",
+      "en": "Please cross the street after the traffic light turns green.",
+      "zh_TW": "請等紅綠燈變綠後再過馬路。",
+      "zh_CN": "请等红绿灯变绿后再过马路。",
+      "ko": "신호가 초록불로 바뀌고 나서 길을 건너세요.",
+      "zh_HK": "請等交通燈轉綠燈之後先好過馬路。",
+      "fr": "Veuillez traverser la rue après que le feu est passé au vert."
+    },
+    "related": "交差点 / 道"
+  },
+  {
+    "id": "card_1231",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "角",
+    "reading": "かど",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "corner (of a street/desk)",
+      "zh_TW": "轉角；角落",
+      "zh_CN": "拐角；角落",
+      "ko": "모퉁이; 구석; 각",
+      "zh_HK": "街角；轉角；角",
+      "fr": "coin ; angle"
+    },
+    "example": {
+      "ja": "<ruby>二<rt>ふた</rt></ruby>つ<ruby>目<rt>め</rt></ruby>の<ruby>角<rt>かく</rt></ruby>を<ruby>左<rt>ひだり</rt></ruby>へ<ruby>曲<rt>ま</rt></ruby>がってください。",
+      "en": "Please turn left at the second corner.",
+      "zh_TW": "請在第二個轉角往左轉。",
+      "zh_CN": "请在第二个拐角往左拐。",
+      "ko": "두 번째 모퉁이에서 왼쪽으로 돌아 주세요.",
+      "zh_HK": "請喺第二個街角轉左。",
+      "fr": "Veuillez tourner à gauche au deuxième coin de rue."
+    },
+    "related": "交差点 / 曲がる"
+  },
+  {
+    "id": "card_1232",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "橋",
+    "reading": "はし",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "bridge",
+      "zh_TW": "橋；橋樑",
+      "zh_CN": "桥；桥梁",
+      "ko": "다리; 교량",
+      "zh_HK": "橋",
+      "fr": "pont"
+    },
+    "example": {
+      "ja": "あの<ruby>白<rt>しろ</rt></ruby>い<ruby>橋<rt>はし</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>って、まっすぐ<ruby>行<rt>い</rt></ruby>ってください。",
+      "en": "Please cross that white bridge and go straight.",
+      "zh_TW": "請過那座白橋，一直往前走。",
+      "zh_CN": "请过那座白桥，一直往前走。",
+      "ko": "저 하얀 다리를 건너서 쭉 가세요.",
+      "zh_HK": "請過咗嗰條白色橋之後直行。",
+      "fr": "Traversez ce pont blanc et allez tout droit."
+    },
+    "related": "川 / 渡る"
+  },
+  {
+    "id": "card_1233",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "道",
+    "reading": "みち",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "road; street; way",
+      "zh_TW": "路；道路",
+      "zh_CN": "路；道路",
+      "ko": "길; 도로",
+      "zh_HK": "路；馬路",
+      "fr": "route ; chemin ; rue"
+    },
+    "example": {
+      "ja": "すみません、<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+      "en": "Excuse me, please tell me the way to the station.",
+      "zh_TW": "不好意思，請告訴我怎麼去車站。",
+      "zh_CN": "不好意思，请告诉我怎么去车站。",
+      "ko": "실례합니다, 역으로 가는 길을 알려 주세요.",
+      "zh_HK": "唔該，請問去車站條路點行呀？",
+      "fr": "Excusez-moi, pourriez-vous m'indiquer le chemin pour aller à la gare ?"
+    },
+    "related": "道路 / 交差点"
+  },
+  {
+    "id": "card_1234",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "建物",
+    "reading": "たてもの",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "building",
+      "zh_TW": "建築物；大樓",
+      "zh_CN": "建筑物；大楼",
+      "ko": "건물; 빌딩",
+      "zh_HK": "建築物；大廈",
+      "fr": "bâtiment ; immeuble"
+    },
+    "example": {
+      "ja": "あの<ruby>高<rt>たか</rt></ruby>くて<ruby>白<rt>しろ</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>たちの<ruby>学校<rt>がっこう</rt></ruby>です。",
+      "en": "That tall white building is our school.",
+      "zh_TW": "那棟又高又白的建築物是我們的學校。",
+      "zh_CN": "那栋又高又白的建筑物是我们的学校。",
+      "ko": "저 높고 하얀 건물이 우리 학교입니다.",
+      "zh_HK": "嗰棟又高又白嘅建築物就係我哋學校。",
+      "fr": "Ce grand bâtiment blanc est notre école."
+    },
+    "related": "ビル / 家"
+  },
+  {
+    "id": "card_1235",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "向こう",
+    "reading": "むこう",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "over there; the other side; beyond",
+      "zh_TW": "對面；那邊",
+      "zh_CN": "对面；那边",
+      "ko": "저편; 건너편; 맞은편",
+      "zh_HK": "對面；嗰邊",
+      "fr": "de l'autre côté ; là-bas"
+    },
+    "example": {
+      "ja": "<ruby>川<rt>かわ</rt></ruby>の<ruby>向<rt>む</rt></ruby>こうにきれいな<ruby>公園<rt>こうえん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。",
+      "en": "A beautiful park can be seen on the other side of the river.",
+      "zh_TW": "河的對面可以看到美麗的公園。",
+      "zh_CN": "河的对面可以看到美丽的公园。",
+      "ko": "강 건너편에 아름다운 공원이 보입니다.",
+      "zh_HK": "喺條河嘅對面可以見到一個好靚嘅公園。",
+      "fr": "On peut voir un joli parc de l'autre côté de la rivière."
+    },
+    "related": "近く / 横"
+  },
+  {
+    "id": "card_1236",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "横",
+    "reading": "よこ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "beside; side; width",
+      "zh_TW": "旁邊；側面；橫向",
+      "zh_CN": "旁边；侧面；横向",
+      "ko": "옆; 가로",
+      "zh_HK": "側邊；隔離",
+      "fr": "à côté ; côté ; largeur"
+    },
+    "example": {
+      "ja": "テレビの<ruby>横<rt>よこ</rt></ruby>に<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>置<rt>お</rt></ruby>きました。",
+      "en": "I placed a bookshelf beside the TV.",
+      "zh_TW": "在電視機旁邊放了書架。",
+      "zh_CN": "在电视机旁边放了书架。",
+      "ko": "텔레비전 옆에 책장을 놓았습니다.",
+      "zh_HK": "我喺電視機側邊擺咗個書櫃。",
+      "fr": "J'ai placé une bibliothèque à côté de la télévision."
+    },
+    "related": "隣 / 近く"
+  },
+  {
+    "id": "card_1237",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "近く",
+    "reading": "ちかく",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "near; neighborhood; vicinity",
+      "zh_TW": "附近；近處",
+      "zh_CN": "附近；近处",
+      "ko": "근처; 가까이",
+      "zh_HK": "附近",
+      "fr": "près ; proximité ; voisinage"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>新<rt>あたら</rt></ruby>しいスーパーができました。",
+      "en": "A new supermarket opened near the station.",
+      "zh_TW": "車站附近新開了一家超市。",
+      "zh_CN": "车站附近新开了一家超市。",
+      "ko": "역 근처에 새로운 슈퍼마켓이 생겼습니다.",
+      "zh_HK": "車站附近新開咗一間超級市場。",
+      "fr": "Un nouveau supermarché a ouvert près de la gare."
+    },
+    "related": "遠い / 辺"
+  },
+  {
+    "id": "card_1238",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "辺",
+    "reading": "へん",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "area; vicinity; around",
+      "zh_TW": "一帶；附近",
+      "zh_CN": "一带；附近",
+      "ko": "근처; 일대; 부근",
+      "zh_HK": "呢頭；附近",
+      "fr": "environs ; coin ; parages"
+    },
+    "example": {
+      "ja": "この<ruby>辺<rt>あたり</rt></ruby>に<ruby>静<rt>しず</rt></ruby>かなカフェはありますか。",
+      "en": "Is there a quiet cafe around here?",
+      "zh_TW": "這一帶有安靜的咖啡館嗎？",
+      "zh_CN": "这一带有安静的咖啡馆吗？",
+      "ko": "이 근처에 조용한 카페가 있습니까?",
+      "zh_HK": "呢頭有冇啲靜少少嘅咖啡店呀？",
+      "fr": "Y a-t-il un café tranquille dans les environs ?"
+    },
+    "related": "近く / 所"
+  },
+  {
+    "id": "card_1239",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "所",
+    "reading": "ところ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "place; spot; point",
+      "zh_TW": "地方；場所",
+      "zh_CN": "地方；场所",
+      "ko": "곳; 장소",
+      "zh_HK": "地方；處",
+      "fr": "endroit ; lieu"
+    },
+    "example": {
+      "ja": "ここは<ruby>夏<rt>なつ</rt></ruby>でもとても<ruby>涼<rt>すず</rt></ruby>しい<ruby>所<rt>ところ</rt></ruby>です。",
+      "en": "This is a place that is very cool even in summer.",
+      "zh_TW": "這裡是個即使在夏天也很涼快的地方。",
+      "zh_CN": "这里是个即使在夏天也很凉快的地方。",
+      "ko": "여기는 여름에도 매우 시원한 곳입니다.",
+      "zh_HK": "呢度係一個就算夏天都好涼爽嘅地方。",
+      "fr": "C'est un endroit très frais même en été."
+    },
+    "related": "場所 / 辺"
+  },
+  {
+    "id": "card_1240",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "東",
+    "reading": "ひがし",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "east",
+      "zh_TW": "東；東方",
+      "zh_CN": "东；东方",
+      "ko": "동쪽",
+      "zh_HK": "東；東面",
+      "fr": "est"
+    },
+    "example": {
+      "ja": "<ruby>太陽<rt>たいよう</rt></ruby>は<ruby>東<rt>ひがし</rt></ruby>から<ruby>昇<rt>のぼ</rt></ruby>ります。",
+      "en": "The sun rises from the east.",
+      "zh_TW": "太陽從東方升起。",
+      "zh_CN": "太阳从东方升起。",
+      "ko": "태양은 동쪽에서 뜹니다.",
+      "zh_HK": "太陽由東面升起。",
+      "fr": "Le soleil se lève à l'est."
+    },
+    "related": "西 / 南 / 北"
+  },
+  {
+    "id": "card_1241",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "西",
+    "reading": "にし",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "west",
+      "zh_TW": "西；西方",
+      "zh_CN": "西；西方",
+      "ko": "서쪽",
+      "zh_HK": "西；西面",
+      "fr": "ouest"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>西<rt>にし</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きなデパートがあります。",
+      "en": "There is a large department store to the west of the station.",
+      "zh_TW": "車站西邊有一家大百貨公司。",
+      "zh_CN": "车站西边有一家大百货商店。",
+      "ko": "역 서쪽에 큰 백화점이 있습니다.",
+      "zh_HK": "車站西面有一間大百貨公司。",
+      "fr": "Il y a un grand magasin à l'ouest de la gare."
+    },
+    "related": "東 / 南 / 北"
+  },
+  {
+    "id": "card_1242",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "南",
+    "reading": "みなみ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "south",
+      "zh_TW": "南；南方",
+      "zh_CN": "南；南方",
+      "ko": "남쪽",
+      "zh_HK": "南；南面",
+      "fr": "sud"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby>を<ruby>向<rt>む</rt></ruby>いています。",
+      "en": "The window of my room faces south.",
+      "zh_TW": "我房間的窗戶朝南。",
+      "zh_CN": "我房间的窗户朝南。",
+      "ko": "내 방 창문은 남쪽을 향하고 있습니다.",
+      "zh_HK": "我間房隻窗向南。",
+      "fr": "La fenêtre de ma chambre donne sur le sud."
+    },
+    "related": "北 / 東 / 西"
+  },
+  {
+    "id": "card_1243",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "北",
+    "reading": "きた",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "north",
+      "zh_TW": "北；北方",
+      "zh_CN": "北；北方",
+      "ko": "북쪽",
+      "zh_HK": "北；北面",
+      "fr": "nord"
+    },
+    "example": {
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>になると、<ruby>北<rt>きた</rt></ruby>から<ruby>冷<rt>つめ</rt></ruby>たい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きます。",
+      "en": "When winter comes, a cold wind blows from the north.",
+      "zh_TW": "到了冬天，北邊會吹來冷風。",
+      "zh_CN": "到了冬天，北边会吹来冷风。",
+      "ko": "겨울이 되면 북쪽에서 찬 바람이 붑니다.",
+      "zh_HK": "一到冬天，北面就會吹凍風過嚟。",
+      "fr": "Quand l'hiver arrive, un vent froid souffle du nord."
+    },
+    "related": "南 / 東 / 西"
+  },
+  {
+    "id": "card_1244",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "お釣り",
+    "reading": "おつり",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "change (money returned)",
+      "zh_TW": "找零",
+      "zh_CN": "找零；找头",
+      "ko": "거스름돈; 잔돈",
+      "zh_HK": "找續；找返嘅錢",
+      "fr": "monnaie (rendue)"
+    },
+    "example": {
+      "ja": "<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して、<ruby>二<rt>に</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>のお<ruby>釣<rt>つ</rt></ruby>りをもらいました。",
+      "en": "I paid 1,000 yen and received 200 yen in change.",
+      "zh_TW": "付了一千日圓，找回了兩百日圓零錢。",
+      "zh_CN": "付了一千日元，找回了两百日元零钱。",
+      "ko": "천 엔을 내고 이백 엔의 거스름돈을 받았습니다.",
+      "zh_HK": "畀咗一千円，找返二百円。",
+      "fr": "J'ai donné mille yens et on m'a rendu deux cents yens de monnaie."
+    },
+    "related": "お金 / 財布"
+  },
+  {
+    "id": "card_1245",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "財布",
+    "reading": "さいふ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "wallet; purse",
+      "zh_TW": "錢包；皮夾",
+      "zh_CN": "钱包",
+      "ko": "지갑",
+      "zh_HK": "銀包",
+      "fr": "portefeuille ; porte-monnaie"
+    },
+    "example": {
+      "ja": "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、<ruby>財布<rt>さいふ</rt></ruby>と<ruby>鍵<rt>かぎ</rt></ruby>があるか<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "en": "Before going out, I check whether I have my wallet and keys.",
+      "zh_TW": "出門前確認一下有沒有帶錢包和鑰匙。",
+      "zh_CN": "出门前确认一下有没有带钱包和钥匙。",
+      "ko": "외출하기 전에 지갑과 열쇠가 있는지 확인합니다.",
+      "zh_HK": "出門口之前，我會確認下有冇帶銀包同鎖匙。",
+      "fr": "Avant de sortir, je vérifie que j'ai bien mon portefeuille et mes clés."
+    },
+    "related": "お金 / 鞄"
+  },
+  {
+    "id": "card_1246",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "お金",
+    "reading": "おかね",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "money",
+      "zh_TW": "錢；金錢",
+      "zh_CN": "钱；金钱",
+      "ko": "돈; 금전",
+      "zh_HK": "錢",
+      "fr": "argent ; monnaie"
+    },
+    "example": {
+      "ja": "<ruby>銀行<rt>ぎんこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、お<ruby>金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろしてきます。",
+      "en": "I am going to the bank to withdraw some money.",
+      "zh_TW": "去銀行領點錢回來。",
+      "zh_CN": "去银行取点钱回来。",
+      "ko": "은행에 가서 돈을 찾으러 다녀오겠습니다.",
+      "zh_HK": "我去銀行撳啲錢先。",
+      "fr": "Je vais à la banque pour retirer de l'argent."
+    },
+    "related": "財布 / お釣り"
+  },
+  {
+    "id": "card_1247",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "切符",
+    "reading": "きっぷ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "ticket (train, bus, etc.)",
+      "zh_TW": "車票；票",
+      "zh_CN": "车票；票",
+      "ko": "표; 티켓",
+      "zh_HK": "車飛；飛",
+      "fr": "billet ; ticket"
+    },
+    "example": {
+      "ja": "<ruby>改札<rt>かいさつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってください。",
+      "en": "Please buy a ticket before entering the ticket gate.",
+      "zh_TW": "進剪票口之前請先買車票。",
+      "zh_CN": "进检票口之前请先买车票。",
+      "ko": "개찰구에 들어가기 전에 표를 사 주세요.",
+      "zh_HK": "入閘之前請買車飛先。",
+      "fr": "Veuillez acheter un billet avant de passer le portillon."
+    },
+    "related": "電車 / 駅"
+  },
+  {
+    "id": "card_1248",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "荷物",
+    "reading": "にもつ",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "luggage; baggage; parcel",
+      "zh_TW": "行李；包裹",
+      "zh_CN": "行李；包裹",
+      "ko": "짐; 수하물",
+      "zh_HK": "行李；包裹",
+      "fr": "bagages ; colis"
+    },
+    "example": {
+      "ja": "<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょうか。",
+      "en": "Shall I carry your heavy luggage?",
+      "zh_TW": "我來幫您拿沉重的行李吧？",
+      "zh_CN": "我来帮您拿沉重的行李吧？",
+      "ko": "무거운 짐을 들어 드릴까요?",
+      "zh_HK": "不如等我幫你拎啲重行李啦？",
+      "fr": "Voulez-vous que je porte vos bagages lourds ?"
+    },
+    "related": "鞄 / 運ぶ"
+  },
+  {
+    "id": "card_1249",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "エレベーター",
+    "reading": "えれべーたー",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "elevator; lift",
+      "zh_TW": "電梯；升降機",
+      "zh_CN": "电梯；升降机",
+      "ko": "엘리베이터",
+      "zh_HK": "𨋢；升降機",
+      "fr": "ascenseur"
+    },
+    "example": {
+      "ja": "エレベーターに<ruby>乗<rt>の</rt></ruby>って、<ruby>五<rt>ご</rt></ruby><ruby>階<rt>かい</rt></ruby>へ<ruby>上<rt>あ</rt></ruby>がりました。",
+      "en": "I took the elevator and went up to the fifth floor.",
+      "zh_TW": "搭電梯上了五樓。",
+      "zh_CN": "乘电梯上了五楼。",
+      "ko": "엘리베이터를 타고 5층으로 올라갔습니다.",
+      "zh_HK": "我搭𨋢上咗五樓。",
+      "fr": "J'ai pris l'ascenseur pour monter au cinquième étage."
+    },
+    "related": "エスカレーター / 階段"
+  },
+  {
+    "id": "card_1250",
+    "section_num": 54,
+    "section_title": "#54 Stage 6 街・道案内・移動の未習語",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "エスカレーター",
+    "reading": "えすかれーたー",
+    "category": "Stage 6 街・道案内・移動の未習語",
+    "meaning": {
+      "en": "escalator",
+      "zh_TW": "電扶梯；手扶梯",
+      "zh_CN": "自动扶梯",
+      "ko": "에스컬레이터",
+      "zh_HK": "扶手電梯",
+      "fr": "escalator ; escalier mécanique"
+    },
+    "example": {
+      "ja": "エスカレーターの<ruby>上<rt>うえ</rt></ruby>では<ruby>歩<rt>ある</rt></ruby>かないでください。",
+      "en": "Please do not walk on the escalator.",
+      "zh_TW": "請不要在手扶梯上走動。",
+      "zh_CN": "请不要在自动扶梯上走动。",
+      "ko": "에스컬레이터 위에서는 걷지 마세요.",
+      "zh_HK": "喺扶手電梯上面請唔好行。",
+      "fr": "Veuillez ne pas marcher dans l'escalator."
+    },
+    "related": "エレベーター / 階段"
+  },
+  {
+    "id": "card_1251",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "これ",
+    "reading": "これ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "this (one here)",
+      "zh_TW": "這個",
+      "zh_CN": "这个",
+      "ko": "이것",
+      "zh_HK": "呢個",
+      "fr": "ceci ; celui-ci"
+    },
+    "example": {
+      "ja": "これは<ruby>私<rt>わたし</rt></ruby>が<ruby>昨日<rt>きのう</rt></ruby><ruby>買<rt>か</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<ruby>辞書<rt>じしょ</rt></ruby>です。",
+      "en": "This is the new dictionary I bought yesterday.",
+      "zh_TW": "這是我昨天買的新字典。",
+      "zh_CN": "这是我昨天买的新字典。",
+      "ko": "이것은 제가 어제 산 새로운 사전입니다.",
+      "zh_HK": "呢本係我尋日買嘅新字典。",
+      "fr": "Ceci est le nouveau dictionnaire que j'ai acheté hier."
+    },
+    "related": "それ / あれ / どれ"
+  },
+  {
+    "id": "card_1252",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "それ",
+    "reading": "それ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that (one near you)",
+      "zh_TW": "那個（離聽話人近）",
+      "zh_CN": "那个（离听话人近）",
+      "ko": "그것",
+      "zh_HK": "嗰個（近對方）",
+      "fr": "cela ; celui-là"
+    },
+    "example": {
+      "ja": "それはどこの<ruby>国<rt>くに</rt></ruby>のワインですか。",
+      "en": "Which country is that wine from?",
+      "zh_TW": "那是哪個國家的紅酒？",
+      "zh_CN": "那是哪个国家的红酒？",
+      "ko": "그것은 어느 나라 와인입니까?",
+      "zh_HK": "嗰支係邊個國家嘅紅酒嚟㗎？",
+      "fr": "De quel pays vient ce vin-là ?"
+    },
+    "related": "これ / あれ / どれ"
+  },
+  {
+    "id": "card_1253",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "あれ",
+    "reading": "あれ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that (one over there)",
+      "zh_TW": "那個（離雙方都遠）",
+      "zh_CN": "那个（离双方都远）",
+      "ko": "저것",
+      "zh_HK": "嗰個（遠處）",
+      "fr": "cela là-bas ; celui-là"
+    },
+    "example": {
+      "ja": "あれは<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>です。",
+      "en": "That over there is the tallest building in Tokyo.",
+      "zh_TW": "那是東京最高的建築物。",
+      "zh_CN": "那是东京最高的建筑物。",
+      "ko": "저것은 도쿄에서 가장 높은 건물입니다.",
+      "zh_HK": "嗰棟係東京最高嘅建築物。",
+      "fr": "Cela là-bas est le plus haut bâtiment de Tokyo."
+    },
+    "related": "これ / それ / どれ"
+  },
+  {
+    "id": "card_1254",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "どれ",
+    "reading": "どれ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "which one (of three or more)",
+      "zh_TW": "哪個",
+      "zh_CN": "哪个",
+      "ko": "어느 것",
+      "zh_HK": "邊個",
+      "fr": "lequel ; laquelle"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>傘<rt>かさ</rt></ruby>はどれですか。",
+      "en": "Which one is Ms. Sato's umbrella?",
+      "zh_TW": "佐藤小姐的雨傘是哪一把？",
+      "zh_CN": "佐藤小姐的雨伞是哪一把？",
+      "ko": "사토 씨의 우산은 어느 것입니까?",
+      "zh_HK": "邊把先係佐藤小姐嘅遮呀？",
+      "fr": "Lequel est le parapluie de Mme Sato ?"
+    },
+    "related": "これ / それ / あれ"
+  },
+  {
+    "id": "card_1255",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "この",
+    "reading": "この",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "this (+ noun)",
+      "zh_TW": "這個…；這…",
+      "zh_CN": "这个…；这…",
+      "ko": "이",
+      "zh_HK": "呢個…",
+      "fr": "ce ; cet ; cette (+ nom)"
+    },
+    "example": {
+      "ja": "この<ruby>本<rt>ほん</rt></ruby>はとても<ruby>面白<rt>おもしろ</rt></ruby>いですから、<ruby>読<rt>よ</rt></ruby>んでみてください。",
+      "en": "This book is very interesting, so please try reading it.",
+      "zh_TW": "這本書非常有趣，請讀讀看。",
+      "zh_CN": "这本书非常有趣，请读读看。",
+      "ko": "이 책은 매우 재미있으니까 읽어 보세요.",
+      "zh_HK": "呢本書好有趣㗎，你試下睇吖。",
+      "fr": "Ce livre est très intéressant, essayez donc de le lire."
+    },
+    "related": "その / あの / どの"
+  },
+  {
+    "id": "card_1256",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "その",
+    "reading": "その",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that (+ noun near you)",
+      "zh_TW": "那個…；那…",
+      "zh_CN": "那个…；那…",
+      "ko": "그",
+      "zh_HK": "嗰個…（近對方）",
+      "fr": "ce ...-là (+ nom)"
+    },
+    "example": {
+      "ja": "すみません、そのペンをちょっと<ruby>貸<rt>か</rt></ruby>してください。",
+      "en": "Excuse me, could you lend me that pen for a moment?",
+      "zh_TW": "不好意思，請把那支筆借我一下。",
+      "zh_CN": "不好意思，请把那支笔借我一下。",
+      "ko": "실례합니다, 그 펜을 잠깐 빌려주세요.",
+      "zh_HK": "唔該，可唔可以借你嗰支筆用一陣？",
+      "fr": "Excusez-moi, pourriez-vous me prêter ce stylo-là un instant ?"
+    },
+    "related": "この / あの / どの"
+  },
+  {
+    "id": "card_1257",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "あの",
+    "reading": "あの",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that (+ noun over there)",
+      "zh_TW": "那個…（遠處）",
+      "zh_CN": "那个…（远处）",
+      "ko": "저",
+      "zh_HK": "嗰個…（遠處）",
+      "fr": "ce ... là-bas (+ nom)"
+    },
+    "example": {
+      "ja": "あの<ruby>眼鏡<rt>めがね</rt></ruby>をかけている<ruby>人<rt>ひと</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>です。",
+      "en": "That person wearing glasses over there is Professor Tanaka.",
+      "zh_TW": "那位戴眼鏡的人是田中老師。",
+      "zh_CN": "那位戴眼镜的人是田中老师。",
+      "ko": "저 안경을 쓰고 있는 사람은 다나카 선생님입니다.",
+      "zh_HK": "嗰個戴住眼鏡嘅人係田中老師。",
+      "fr": "Cette personne là-bas qui porte des lunettes est le professeur Tanaka."
+    },
+    "related": "この / その / どの"
+  },
+  {
+    "id": "card_1258",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "どの",
+    "reading": "どの",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "which (+ noun)",
+      "zh_TW": "哪個…；哪…",
+      "zh_CN": "哪个…；哪…",
+      "ko": "어느",
+      "zh_HK": "邊個…",
+      "fr": "quel ; quelle (+ nom)"
+    },
+    "example": {
+      "ja": "どの<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>れば<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>けますか。",
+      "en": "Which train should I take to go to Kyoto?",
+      "zh_TW": "搭哪班電車能去京都？",
+      "zh_CN": "坐哪趟电车能去京都？",
+      "ko": "어느 전철을 타면 교토에 갈 수 있습니까?",
+      "zh_HK": "搭邊班電車可以去到京都呀？",
+      "fr": "Quel train dois-je prendre pour aller à Kyoto ?"
+    },
+    "related": "この / その / あの"
+  },
+  {
+    "id": "card_1259",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "ここ",
+    "reading": "ここ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "here; this place",
+      "zh_TW": "這裡；這兒",
+      "zh_CN": "这里；这儿",
+      "ko": "여기; 이곳",
+      "zh_HK": "呢度",
+      "fr": "ici ; cet endroit"
+    },
+    "example": {
+      "ja": "ここに<ruby>名前<rt>なまえ</rt></ruby>と<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。",
+      "en": "Please write your name and phone number here.",
+      "zh_TW": "請在這裡寫上名字和電話號碼。",
+      "zh_CN": "请在这里写上名字和电话号码。",
+      "ko": "여기에 이름과 전화번호를 적어 주세요.",
+      "zh_HK": "請喺呢度寫低你個名同電話號碼。",
+      "fr": "Veuillez écrire votre nom et votre numéro de téléphone ici."
+    },
+    "related": "そこ / あそこ / どこ"
+  },
+  {
+    "id": "card_1260",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "そこ",
+    "reading": "そこ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "there (near you)",
+      "zh_TW": "那裡；那兒",
+      "zh_CN": "那里；那儿",
+      "ko": "거기; 그곳",
+      "zh_HK": "嗰度（近對方）",
+      "fr": "là ; cet endroit-là"
+    },
+    "example": {
+      "ja": "そこに<ruby>置<rt>お</rt></ruby>いてある<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてもよろしいですか。",
+      "en": "May I open the box placed there?",
+      "zh_TW": "我可以打開放在那裡的箱子嗎？",
+      "zh_CN": "我可以打开放在那里的箱子吗？",
+      "ko": "거기에 놓여 있는 상자를 열어도 될까요?",
+      "zh_HK": "我可唔可以打開擺喺嗰度個箱呀？",
+      "fr": "Puis-je ouvrir la boîte qui est posée là ?"
+    },
+    "related": "ここ / あそこ / どこ"
+  },
+  {
+    "id": "card_1261",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "あそこ",
+    "reading": "あそこ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "over there",
+      "zh_TW": "那裡（遠處）",
+      "zh_CN": "那里（远处）",
+      "ko": "저기; 저곳",
+      "zh_HK": "嗰度（遠處）",
+      "fr": "là-bas"
+    },
+    "example": {
+      "ja": "あそこに<ruby>白<rt>しろ</rt></ruby>い<ruby>犬<rt>いぬ</rt></ruby>が<ruby>座<rt>すわ</rt></ruby>っています。",
+      "en": "A white dog is sitting over there.",
+      "zh_TW": "那裡坐著一隻白狗。",
+      "zh_CN": "那里坐着一只白狗。",
+      "ko": "저기에 하얀 개가 앉아 있습니다.",
+      "zh_HK": "嗰邊有隻白色狗仔坐喺度。",
+      "fr": "Un chien blanc est assis là-bas."
+    },
+    "related": "ここ / そこ / どこ"
+  },
+  {
+    "id": "card_1262",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "どこ",
+    "reading": "どこ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "where; what place",
+      "zh_TW": "哪裡；哪兒",
+      "zh_CN": "哪里；哪儿",
+      "ko": "어디; 어느 곳",
+      "zh_HK": "邊度",
+      "fr": "où ; quel endroit"
+    },
+    "example": {
+      "ja": "お<ruby>手洗<rt>てあら</rt></ruby>いはどこにありますか。",
+      "en": "Where is the restroom?",
+      "zh_TW": "洗手間在哪裡？",
+      "zh_CN": "洗手间在哪里？",
+      "ko": "화장실은 어디에 있습니까?",
+      "zh_HK": "請問洗手間喺邊度呀？",
+      "fr": "Où se trouvent les toilettes ?"
+    },
+    "related": "ここ / そこ / あそこ"
+  },
+  {
+    "id": "card_1263",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "こちら",
+    "reading": "こちら",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "this way; this person (polite)",
+      "zh_TW": "這邊；這位",
+      "zh_CN": "这边；这位",
+      "ko": "이쪽; 이분",
+      "zh_HK": "呢邊；呢位",
+      "fr": "par ici ; cette personne-ci"
+    },
+    "example": {
+      "ja": "こちらは<ruby>新<rt>あたら</rt></ruby>しく<ruby>入<rt>はい</rt></ruby>った<ruby>鈴木<rt>すずき</rt></ruby>さんです。",
+      "en": "This is Ms. Suzuki, who newly joined us.",
+      "zh_TW": "這位是新來的鈴木小姐。",
+      "zh_CN": "这位是新来的铃木小姐。",
+      "ko": "이분은 새로 들어온 스즈키 씨입니다.",
+      "zh_HK": "呢位係新嚟嘅鈴木小姐。",
+      "fr": "Voici Mme Suzuki, qui vient de nous rejoindre."
+    },
+    "related": "そちら / あちら / どちら"
+  },
+  {
+    "id": "card_1264",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "そちら",
+    "reading": "そちら",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that way (near you); your side (polite)",
+      "zh_TW": "那邊；您那邊",
+      "zh_CN": "那边；您那边",
+      "ko": "그쪽; 그분",
+      "zh_HK": "嗰邊；你嗰邊",
+      "fr": "par là ; de votre côté"
+    },
+    "example": {
+      "ja": "そちらの<ruby>天気<rt>てんき</rt></ruby>はいかがでしょうか。",
+      "en": "How is the weather over there?",
+      "zh_TW": "您那邊的天氣怎麼樣？",
+      "zh_CN": "您那边的天气怎么样？",
+      "ko": "그쪽 날씨는 어떻습니까?",
+      "zh_HK": "你嗰邊天氣點呀？",
+      "fr": "Comment est le temps de votre côté ?"
+    },
+    "related": "こちら / あちら / どちら"
+  },
+  {
+    "id": "card_1265",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "あちら",
+    "reading": "あちら",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "that way over there (polite)",
+      "zh_TW": "那邊（遠處）",
+      "zh_CN": "那边（远处）",
+      "ko": "저쪽; 저분",
+      "zh_HK": "嗰邊（遠處）",
+      "fr": "par là-bas ; celui-là"
+    },
+    "example": {
+      "ja": "エレベーターはあちらにございます。",
+      "en": "The elevator is over that way.",
+      "zh_TW": "電梯在那邊。",
+      "zh_CN": "电梯在那边。",
+      "ko": "엘리베이터는 저쪽에 있습니다.",
+      "zh_HK": "升降機喺嗰邊。",
+      "fr": "L'ascenseur se trouve par là-bas."
+    },
+    "related": "こちら / そちら / どちら"
+  },
+  {
+    "id": "card_1266",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "どちら",
+    "reading": "どちら",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "which way; which one (of two); where (polite)",
+      "zh_TW": "哪邊；哪一個（二選一）",
+      "zh_CN": "哪边；哪一个（二选一）",
+      "ko": "어느 쪽; 어디",
+      "zh_HK": "邊度；邊一個（二選一）",
+      "fr": "lequel (entre deux) ; où (poli)"
+    },
+    "example": {
+      "ja": "コーヒーと<ruby>紅茶<rt>こうちゃ</rt></ruby>と、どちらがいいですか。",
+      "en": "Which would you prefer, coffee or black tea?",
+      "zh_TW": "咖啡和紅茶，您喜歡哪一個？",
+      "zh_CN": "咖啡和红茶，您喜欢哪一个？",
+      "ko": "커피와 홍차 중 어느 쪽이 좋으십니까?",
+      "zh_HK": "咖啡同紅茶，你想要邊樣呀？",
+      "fr": "Lequel préférez-vous entre le café et le thé noir ?"
+    },
+    "related": "こちら / そちら / あちら"
+  },
+  {
+    "id": "card_1267",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "誰",
+    "reading": "だれ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "who",
+      "zh_TW": "誰",
+      "zh_CN": "谁",
+      "ko": "누구",
+      "zh_HK": "邊個",
+      "fr": "qui"
+    },
+    "example": {
+      "ja": "あそこで<ruby>先生<rt>せんせい</rt></ruby>と<ruby>話<rt>はな</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。",
+      "en": "Who is the person talking with the teacher over there?",
+      "zh_TW": "在那邊和老師說話的人是誰？",
+      "zh_CN": "在那边和老师说话的人是谁？",
+      "ko": "저기에서 선생님과 이야기하고 있는 사람은 누구입니까?",
+      "zh_HK": "喺嗰邊同老師講緊嘢嘅人係邊個嚟㗎？",
+      "fr": "Qui est la personne qui parle avec le professeur là-bas ?"
+    },
+    "related": "どなた"
+  },
+  {
+    "id": "card_1268",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "何",
+    "reading": "なに / なん",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "what",
+      "zh_TW": "什麼",
+      "zh_CN": "什么",
+      "ko": "무엇; 뭐",
+      "zh_HK": "咩；乜嘢",
+      "fr": "quoi ; que ; quel"
+    },
+    "example": {
+      "ja": "<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていますか。",
+      "en": "What is inside the box?",
+      "zh_TW": "箱子裡裝了什麼？",
+      "zh_CN": "箱子里装了什么？",
+      "ko": "상자 안에 무엇이 들어 있습니까?",
+      "zh_HK": "個箱入面裝住啲咩呀？",
+      "fr": "Qu'y a-t-il à l'intérieur de la boîte ?"
+    },
+    "related": "どれ / どこ"
+  },
+  {
+    "id": "card_1269",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "いくら",
+    "reading": "いくら",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "how much (price)",
+      "zh_TW": "多少錢",
+      "zh_CN": "多少钱",
+      "ko": "얼마",
+      "zh_HK": "幾多錢",
+      "fr": "combien (prix)"
+    },
+    "example": {
+      "ja": "すみません、この<ruby>時計<rt>とけい</rt></ruby>はいくらですか。",
+      "en": "Excuse me, how much is this watch?",
+      "zh_TW": "不好意思，這支手錶多少錢？",
+      "zh_CN": "不好意思，这块手表多少钱？",
+      "ko": "실례합니다, 이 시계는 얼마입니까?",
+      "zh_HK": "唔該，請問呢隻錶幾多錢呀？",
+      "fr": "Excusez-moi, combien coûte cette montre ?"
+    },
+    "related": "〜円 / お金"
+  },
+  {
+    "id": "card_1270",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "〜円",
+    "reading": "〜えん",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "... yen",
+      "zh_TW": "…日圓",
+      "zh_CN": "…日元",
+      "ko": "~엔",
+      "zh_HK": "…円（日圓）",
+      "fr": "... yens"
+    },
+    "example": {
+      "ja": "このノートは<ruby>一<rt>いち</rt></ruby><ruby>冊<rt>さつ</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>五<rt>ご</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>円<rt>えん</rt></ruby>です。",
+      "en": "This notebook is 150 yen per volume.",
+      "zh_TW": "這本筆記本一本一百五十日圓。",
+      "zh_CN": "这本笔记本一本一百五十日元。",
+      "ko": "이 노트는 한 권에 150엔입니다.",
+      "zh_HK": "呢本簿一百五十円一本。",
+      "fr": "Ce cahier coûte cent cinquante yens l'unité."
+    },
+    "related": "いくら / お金"
+  },
+  {
+    "id": "card_1271",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "〜階",
+    "reading": "〜かい / 〜がい",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "...th floor",
+      "zh_TW": "…樓；…層",
+      "zh_CN": "…楼；…层",
+      "ko": "~층",
+      "zh_HK": "…樓；…層",
+      "fr": "...e étage"
+    },
+    "example": {
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>はこの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>三<rt>さん</rt></ruby><ruby>階<rt>かい</rt></ruby>にあります。",
+      "en": "The conference room is on the third floor of this building.",
+      "zh_TW": "會議室在這棟樓的三樓。",
+      "zh_CN": "会议室在这栋楼的三楼。",
+      "ko": "회의실은 이 건물 3층에 있습니다.",
+      "zh_HK": "會議室喺呢棟大廈嘅三樓。",
+      "fr": "La salle de réunion se trouve au troisième étage de ce bâtiment."
+    },
+    "related": "建物 / エレベーター"
+  },
+  {
+    "id": "card_1272",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "半分",
+    "reading": "はんぶん",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "half",
+      "zh_TW": "一半",
+      "zh_CN": "一半",
+      "ko": "절반; 반",
+      "zh_HK": "一半",
+      "fr": "moitié ; demi"
+    },
+    "example": {
+      "ja": "<ruby>大<rt>おお</rt></ruby>きいりんごを<ruby>半分<rt>はんぶん</rt></ruby>に<ruby>切<rt>き</rt></ruby>って、<ruby>妹<rt>いもうと</rt></ruby>にあげました。",
+      "en": "I cut a big apple in half and gave it to my younger sister.",
+      "zh_TW": "把大蘋果切成兩半，分給了妹妹。",
+      "zh_CN": "把大苹果切成两半，分给了妹妹。",
+      "ko": "큰 사과를 반으로 잘라서 여동생에게 주었습니다.",
+      "zh_HK": "我將個大蘋果切開一半畀阿妹食。",
+      "fr": "J'ai coupé une grosse pomme en deux et j'en ai donné la moitié à ma petite sœur."
+    },
+    "related": "全部"
+  },
+  {
+    "id": "card_1273",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "all; everything",
+      "zh_TW": "全部；所有",
+      "zh_CN": "全部；所有",
+      "ko": "전부; 모두",
+      "zh_HK": "全部；晒",
+      "fr": "tout ; en entier"
+    },
+    "example": {
+      "ja": "<ruby>宿題<rt>しゅくだい</rt></ruby>はもう<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わりました。",
+      "en": "I have already finished all of my homework.",
+      "zh_TW": "作業已經全部做完了。",
+      "zh_CN": "作业已经全部做完了。",
+      "ko": "숙제는 벌써 전부 끝났습니다.",
+      "zh_HK": "功課已經全部做晒喇。",
+      "fr": "J'ai déjà terminé tous mes devoirs."
+    },
+    "related": "半分"
+  },
+  {
+    "id": "card_1274",
+    "section_num": 55,
+    "section_title": "#55 【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "同じ",
+    "reading": "おなじ",
+    "category": "【N5総復習①】指示語（こそあど）・疑問詞・数量",
+    "meaning": {
+      "en": "same; identical",
+      "zh_TW": "相同；一樣",
+      "zh_CN": "相同；一样",
+      "ko": "같은; 동일한",
+      "zh_HK": "一樣；相同",
+      "fr": "même ; identique"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>と<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じです。",
+      "en": "Ms. Takahashi and I have the same birthday.",
+      "zh_TW": "我和高橋小姐的生日是同一天。",
+      "zh_CN": "我和高桥小姐的生日是同一天。",
+      "ko": "저와 다카하시 씨는 생일이 같습니다.",
+      "zh_HK": "我同高橋小姐同一日生日。",
+      "fr": "Mme Takahashi et moi avons la même date d'anniversaire."
+    },
+    "related": "違う"
+  },
+  {
+    "id": "card_1275",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "玄関",
+    "reading": "げんかん",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "entranceway; front door; foyer",
+      "zh_TW": "玄關；門口",
+      "zh_CN": "玄关；门口",
+      "ko": "현관",
+      "zh_HK": "玄關；門口",
+      "fr": "entrée ; vestibule"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るときは、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎます。",
+      "en": "When entering a house, you take off your shoes at the entranceway.",
+      "zh_TW": "進屋時在玄關脫鞋。",
+      "zh_CN": "进屋时在玄关脱鞋。",
+      "ko": "집에 들어갈 때는 현관에서 신발을 벗습니다.",
+      "zh_HK": "入屋嗰陣要喺玄關除鞋。",
+      "fr": "Quand on entre dans une maison, on enlève ses chaussures dans l'entrée."
+    },
+    "related": "門 / 戸"
+  },
+  {
+    "id": "card_1276",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "台所",
+    "reading": "だいどころ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "kitchen",
+      "zh_TW": "廚房",
+      "zh_CN": "厨房",
+      "ko": "부엌; 주방",
+      "zh_HK": "廚房",
+      "fr": "cuisine (pièce)"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>台所<rt>だいどころ</rt></ruby>で<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。",
+      "en": "My mother is making dinner in the kitchen right now.",
+      "zh_TW": "媽媽現在正在廚房做晚飯。",
+      "zh_CN": "妈妈现在正在厨房做晚饭。",
+      "ko": "어머니는 지금 부엌에서 저녁 식사를 만들고 계십니다.",
+      "zh_HK": "媽咪而家喺廚房煮緊晚飯。",
+      "fr": "Ma mère prépare actuellement le dîner dans la cuisine."
+    },
+    "related": "冷蔵庫 / お皿"
+  },
+  {
+    "id": "card_1277",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "お風呂",
+    "reading": "おふろ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "bath; bathroom",
+      "zh_TW": "浴室；洗澡",
+      "zh_CN": "澡堂；浴缸；洗澡",
+      "ko": "목욕; 욕실",
+      "zh_HK": "沖涼房；浴缸；沖涼",
+      "fr": "bain ; salle de bains"
+    },
+    "example": {
+      "ja": "<ruby>夜<rt>よる</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってゆっくり<ruby>休<rt>やす</rt></ruby>みます。",
+      "en": "At night I take a warm bath and rest leisurely.",
+      "zh_TW": "晚上泡個熱水澡好好休息。",
+      "zh_CN": "晚上泡个热水澡好好休息。",
+      "ko": "밤에는 따뜻한 목욕탕에 들어가 푹 쉽니다.",
+      "zh_HK": "夜晚浸返個熱水浴，好好休息下。",
+      "fr": "Le soir, je prends un bain chaud et je me repose tranquillement."
+    },
+    "related": "シャワー / 浴びる"
+  },
+  {
+    "id": "card_1278",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "restroom; lavatory; bathroom",
+      "zh_TW": "洗手間；廁所",
+      "zh_CN": "洗手间；厕所",
+      "ko": "화장실",
+      "zh_HK": "洗手間；廁所",
+      "fr": "toilettes"
+    },
+    "example": {
+      "ja": "すみません、お<ruby>手洗<rt>てあら</rt></ruby>いはどこですか。",
+      "en": "Excuse me, where is the restroom?",
+      "zh_TW": "不好意思，請問洗手間在哪裡？",
+      "zh_CN": "不好意思，请问洗手间在哪里？",
+      "ko": "실례합니다, 화장실은 어디입니까?",
+      "zh_HK": "唔該，請問洗手間喺邊度呀？",
+      "fr": "Excusez-moi, où sont les toilettes ?"
+    },
+    "related": "トイレ / 洗面所"
+  },
+  {
+    "id": "card_1279",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "廊下",
+    "reading": "ろうか",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "hallway; corridor",
+      "zh_TW": "走廊",
+      "zh_CN": "走廊；过道",
+      "ko": "복도",
+      "zh_HK": "走廊",
+      "fr": "couloir"
+    },
+    "example": {
+      "ja": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>廊下<rt>ろうか</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ってはいけません。",
+      "en": "You must not run in the school hallway.",
+      "zh_TW": "不可以在學校走廊裡奔跑。",
+      "zh_CN": "不可以在学校走廊里奔跑。",
+      "ko": "학교 복도를 뛰면 안 됩니다.",
+      "zh_HK": "唔可以喺學校走廊度跑。",
+      "fr": "Il ne faut pas courir dans les couloirs de l'école."
+    },
+    "related": "階段 / 教室"
+  },
+  {
+    "id": "card_1280",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "庭",
+    "reading": "にわ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "garden; yard",
+      "zh_TW": "院子；庭園",
+      "zh_CN": "院子；庭院",
+      "ko": "정원; 마당",
+      "zh_HK": "花園；院子",
+      "fr": "jardin ; cour"
+    },
+    "example": {
+      "ja": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>庭<rt>にわ</rt></ruby>できれいな<ruby>花<rt>はな</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てています。",
+      "en": "My grandfather grows beautiful flowers in the garden every day.",
+      "zh_TW": "爺爺每天在院子裡種美麗的花。",
+      "zh_CN": "爷爷每天在院子里种美丽的花。",
+      "ko": "할아버지는 매일 정원에서 예쁜 꽃을 기르고 계십니다.",
+      "zh_HK": "爺爺每日都喺花園度種靚花。",
+      "fr": "Mon grand-père cultive de belles fleurs dans le jardin tous les jours."
+    },
+    "related": "花 / 木"
+  },
+  {
+    "id": "card_1281",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "門",
+    "reading": "もん",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "gate",
+      "zh_TW": "大門；門",
+      "zh_CN": "大门；门",
+      "ko": "문; 대문",
+      "zh_HK": "大門；閘門",
+      "fr": "portail ; porte"
+    },
+    "example": {
+      "ja": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>門<rt>もん</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>閉<rt>し</rt></ruby>まります。",
+      "en": "The school gate closes at six o'clock in the afternoon.",
+      "zh_TW": "學校的大門下午六點關。",
+      "zh_CN": "学校的大门下午六点关。",
+      "ko": "학교 문은 오후 6시에 닫힙니다.",
+      "zh_HK": "學校大閘下晝六點鐘會閂。",
+      "fr": "Le portail de l'école ferme à dix-huit heures."
+    },
+    "related": "玄関 / 戸"
+  },
+  {
+    "id": "card_1282",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "戸",
+    "reading": "と",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "door (sliding door); shutter",
+      "zh_TW": "門；拉門",
+      "zh_CN": "门；拉门",
+      "ko": "문",
+      "zh_HK": "門；趟門",
+      "fr": "porte (coulissante)"
+    },
+    "example": {
+      "ja": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいですから、<ruby>戸<rt>と</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めてください。",
+      "en": "The wind is cold, so please close the door.",
+      "zh_TW": "風很冷，請把門關上。",
+      "zh_CN": "风很冷，请把门关上。",
+      "ko": "바람이 차가우니까 문을 닫아 주세요.",
+      "zh_HK": "啲風好凍，請閂埋度門啦。",
+      "fr": "Le vent est froid, veuillez donc fermer la porte."
+    },
+    "related": "ドア / 窓"
+  },
+  {
+    "id": "card_1283",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "本棚",
+    "reading": "ほんだな",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "bookshelf; bookcase",
+      "zh_TW": "書架",
+      "zh_CN": "书架",
+      "ko": "책장; 책꽂이",
+      "zh_HK": "書櫃；書架",
+      "fr": "bibliothèque ; étagère à livres"
+    },
+    "example": {
+      "ja": "<ruby>読<rt>よ</rt></ruby>んだ<ruby>本<rt>ほん</rt></ruby>は<ruby>元<rt>もと</rt></ruby>の<ruby>本棚<rt>ほんだな</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>してください。",
+      "en": "Please return the books you read to their original bookshelf.",
+      "zh_TW": "讀完的書請放回原來的書架上。",
+      "zh_CN": "读完的书请放回原来的书架上。",
+      "ko": "읽은 책은 원래 책장에 돌려놓아 주세요.",
+      "zh_HK": "睇完嘅書請放返去原本個書櫃度。",
+      "fr": "Veuillez remettre les livres que vous avez lus sur leur étagère d'origine."
+    },
+    "related": "本 / 棚"
+  },
+  {
+    "id": "card_1284",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "refrigerator; fridge",
+      "zh_TW": "冰箱",
+      "zh_CN": "冰箱",
+      "ko": "냉장고",
+      "zh_HK": "雪櫃",
+      "fr": "réfrigérateur"
+    },
+    "example": {
+      "ja": "<ruby>買<rt>か</rt></ruby>ってきた<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れました。",
+      "en": "I put the milk I bought into the refrigerator.",
+      "zh_TW": "把買來的牛奶放進了冰箱。",
+      "zh_CN": "把买来的牛奶放进了冰箱。",
+      "ko": "사 온 우유를 냉장고에 넣었습니다.",
+      "zh_HK": "我將買返嚟嘅牛奶放咗入雪櫃。",
+      "fr": "J'ai mis le lait que j'ai acheté dans le réfrigérateur."
+    },
+    "related": "台所 / 冷たい"
+  },
+  {
+    "id": "card_1285",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "花瓶",
+    "reading": "かびん",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "flower vase",
+      "zh_TW": "花瓶",
+      "zh_CN": "花瓶",
+      "ko": "꽃병; 화병",
+      "zh_HK": "花樽",
+      "fr": "vase"
+    },
+    "example": {
+      "ja": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>の<ruby>花瓶<rt>かびん</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>いバラが<ruby>飾<rt>かざ</rt></ruby>ってあります。",
+      "en": "Red roses are displayed in the vase on the desk.",
+      "zh_TW": "桌子上的花瓶裡插著紅玫瑰。",
+      "zh_CN": "桌子上的花瓶里插着红玫瑰。",
+      "ko": "책상 위 꽃병에 빨간 장미가 장식되어 있습니다.",
+      "zh_HK": "張枱上面個花樽插住紅玫瑰。",
+      "fr": "Des roses rouges sont disposées dans le vase sur le bureau."
+    },
+    "related": "花 / コップ"
+  },
+  {
+    "id": "card_1286",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "灰皿",
+    "reading": "はいざら",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "ashtray",
+      "zh_TW": "菸灰缸",
+      "zh_CN": "烟灰缸",
+      "ko": "재떨이",
+      "zh_HK": "煙灰缸",
+      "fr": "cendrier"
+    },
+    "example": {
+      "ja": "すみません、ここに<ruby>灰皿<rt>はいざら</rt></ruby>はありますか。",
+      "en": "Excuse me, is there an ashtray here?",
+      "zh_TW": "不好意思，請問這裡有菸灰缸嗎？",
+      "zh_CN": "不好意思，请问这里有烟灰缸吗？",
+      "ko": "실례합니다, 여기에 재떨이가 있습니까?",
+      "zh_HK": "唔該，請問呢度有冇煙灰缸呀？",
+      "fr": "Excusez-moi, y a-t-il un cendrier ici ?"
+    },
+    "related": "たばこ / お皿"
+  },
+  {
+    "id": "card_1287",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "お皿",
+    "reading": "おさら",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "plate; dish",
+      "zh_TW": "盤子；碟子",
+      "zh_CN": "盘子；碟子",
+      "ko": "접시",
+      "zh_HK": "碟",
+      "fr": "assiette ; plat"
+    },
+    "example": {
+      "ja": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>後<rt>のち</rt></ruby>で、<ruby>白<rt>しろ</rt></ruby>いお<ruby>皿<rt>さら</rt></ruby>を<ruby>五<rt>ご</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>洗<rt>あら</rt></ruby>いました。",
+      "en": "After the meal, I washed five white plates.",
+      "zh_TW": "飯後洗了五個白盤子。",
+      "zh_CN": "饭后洗了五个白盘子。",
+      "ko": "식사 후에 하얀 접시를 다섯 장 씻었습니다.",
+      "zh_HK": "食完飯之後，我洗咗五隻白碟。",
+      "fr": "Après le repas, j'ai lavé cinq assiettes blanches."
+    },
+    "related": "コップ / 茶碗"
+  },
+  {
+    "id": "card_1288",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "箱",
+    "reading": "はこ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "box; case",
+      "zh_TW": "箱子；盒子",
+      "zh_CN": "箱子；盒子",
+      "ko": "상자; 박스",
+      "zh_HK": "箱；盒",
+      "fr": "boîte ; caisse"
+    },
+    "example": {
+      "ja": "この<ruby>大<rt>おお</rt></ruby>きな<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>古<rt>ふる</rt></ruby>い<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っています。",
+      "en": "Old photos are inside this large box.",
+      "zh_TW": "這個大箱子裡裝著老照片。",
+      "zh_CN": "这个大箱子里装着老照片。",
+      "ko": "이 큰 상자 안에 오래된 사진이 들어 있습니다.",
+      "zh_HK": "呢個大箱入面裝住啲舊相。",
+      "fr": "De vieilles photos se trouvent dans cette grande boîte."
+    },
+    "related": "荷物 / 入れる"
+  },
+  {
+    "id": "card_1289",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "紙",
+    "reading": "かみ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "paper",
+      "zh_TW": "紙；紙張",
+      "zh_CN": "纸；纸张",
+      "ko": "종이",
+      "zh_HK": "紙",
+      "fr": "papier"
+    },
+    "example": {
+      "ja": "<ruby>白<rt>しろ</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。",
+      "en": "Please write your name in large letters on the white paper.",
+      "zh_TW": "請在白紙上大大地寫上名字。",
+      "zh_CN": "请在白纸上大大地写上名字。",
+      "ko": "하얀 종이에 크게 이름을 써 주세요.",
+      "zh_HK": "請喺張白紙上面大隻字寫低你個名。",
+      "fr": "Veuillez écrire votre nom en grand sur la feuille de papier blanc."
+    },
+    "related": "手紙 / ノート"
+  },
+  {
+    "id": "card_1290",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "手紙",
+    "reading": "てがみ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "letter",
+      "zh_TW": "信；書信",
+      "zh_CN": "信；书信",
+      "ko": "편지",
+      "zh_HK": "信",
+      "fr": "lettre"
+    },
+    "example": {
+      "ja": "<ruby>国<rt>くに</rt></ruby>にいる<ruby>母<rt>はは</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。",
+      "en": "I wrote a letter in Japanese to my mother in my home country.",
+      "zh_TW": "用日語給在老家的媽媽寫了信。",
+      "zh_CN": "用日语给在老家的妈妈写了信。",
+      "ko": "고향에 계신 어머니께 일본어로 편지를 썼습니다.",
+      "zh_HK": "我用日文寫咗封信畀喺鄉下嘅媽咪。",
+      "fr": "J'ai écrit une lettre en japonais à ma mère qui est dans mon pays."
+    },
+    "related": "葉書 / 封筒 / 切手"
+  },
+  {
+    "id": "card_1291",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "葉書",
+    "reading": "はがき",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "postcard",
+      "zh_TW": "明信片",
+      "zh_CN": "明信片",
+      "ko": "엽서",
+      "zh_HK": "明信片",
+      "fr": "carte postale"
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby><ruby>先<rt>さき</rt></ruby>から<ruby>友達<rt>ともだち</rt></ruby>にきれいな<ruby>葉書<rt>はがき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。",
+      "en": "I sent a pretty postcard to my friend from my travel destination.",
+      "zh_TW": "從旅行地給朋友寄了漂亮的明信片。",
+      "zh_CN": "从旅行地给朋友寄了漂亮的明信片。",
+      "ko": "여행지에서 친구에게 예쁜 엽서를 보냈습니다.",
+      "zh_HK": "我喺去旅行嘅地方寄咗張好靚嘅明信片畀朋友。",
+      "fr": "J'ai envoyé une jolie carte postale à mon ami depuis mon lieu de voyage."
+    },
+    "related": "手紙 / 切手"
+  },
+  {
+    "id": "card_1292",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "封筒",
+    "reading": "ふうとう",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "envelope",
+      "zh_TW": "信封",
+      "zh_CN": "信封",
+      "ko": "봉투",
+      "zh_HK": "信封",
+      "fr": "enveloppe"
+    },
+    "example": {
+      "ja": "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>封筒<rt>ふうとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>切手<rt>きって</rt></ruby>を<ruby>貼<rt>は</rt></ruby>りました。",
+      "en": "I put the letter in an envelope and stuck a stamp on it.",
+      "zh_TW": "把信裝進信封，貼上了郵票。",
+      "zh_CN": "把信装进信封，贴上了邮票。",
+      "ko": "편지를 봉투에 넣고 우표를 붙였습니다.",
+      "zh_HK": "我將封信放入信封度，然後貼上郵票。",
+      "fr": "J'ai mis la lettre dans une enveloppe et j'ai collé un timbre."
+    },
+    "related": "手紙 / 切手"
+  },
+  {
+    "id": "card_1293",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "万年筆",
+    "reading": "まんねんひつ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "fountain pen",
+      "zh_TW": "鋼筆",
+      "zh_CN": "钢笔",
+      "ko": "만년필",
+      "zh_HK": "墨水筆；鋼筆",
+      "fr": "stylo-plume"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>から<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>に<ruby>黒<rt>くろ</rt></ruby>い<ruby>万年筆<rt>まんねんひつ</rt></ruby>をもらいました。",
+      "en": "I received a black fountain pen from my father on my birthday.",
+      "zh_TW": "生日那天收到了爸爸送的黑色鋼筆。",
+      "zh_CN": "生日那天收到了爸爸送的黑色钢笔。",
+      "ko": "아버지께 생일에 검은색 만년필을 받았습니다.",
+      "zh_HK": "生日嗰陣收到爸爸送畀我嘅黑色墨水筆。",
+      "fr": "J'ai reçu un stylo-plume noir de mon père pour mon anniversaire."
+    },
+    "related": "ボールペン / 鉛筆"
+  },
+  {
+    "id": "card_1294",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "洋服",
+    "reading": "ようふく",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "Western-style clothes; clothes",
+      "zh_TW": "西式服裝；衣服",
+      "zh_CN": "西式服装；衣服",
+      "ko": "양복; 옷",
+      "zh_HK": "衫；西式衫褲",
+      "fr": "vêtements (de style occidental)"
+    },
+    "example": {
+      "ja": "デパートへ<ruby>行<rt>い</rt></ruby>って、<ruby>春<rt>はる</rt></ruby>に<ruby>着<rt>き</rt></ruby>る<ruby>洋服<rt>ようふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I went to the department store and bought clothes to wear in spring.",
+      "zh_TW": "去百貨公司買了春天穿的衣服。",
+      "zh_CN": "去百货商店买了春天穿的衣服。",
+      "ko": "백화점에 가서 봄에 입을 옷을 샀습니다.",
+      "zh_HK": "我去咗百貨公司買春天着嘅衫。",
+      "fr": "Je suis allé au grand magasin et j'ai acheté des vêtements pour le printemps."
+    },
+    "related": "服 / 着物"
+  },
+  {
+    "id": "card_1295",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "上着",
+    "reading": "うわぎ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "jacket; coat; outerwear",
+      "zh_TW": "上衣；外套",
+      "zh_CN": "上衣；外套",
+      "ko": "상의; 겉옷; 재킷",
+      "zh_HK": "外套；衫",
+      "fr": "veste ; manteau ; blouson"
+    },
+    "example": {
+      "ja": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いですから、<ruby>厚<rt>あつ</rt></ruby>い<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけましょう。",
+      "en": "It's cold outside, so let's put on a thick jacket before going out.",
+      "zh_TW": "外面很冷，穿上厚外套出門吧。",
+      "zh_CN": "外面很冷，穿上厚外套出门吧。",
+      "ko": "밖은 추우니까 두꺼운 겉옷을 입고 나갑시다.",
+      "zh_HK": "出面好凍，着件厚外套先出門口啦。",
+      "fr": "Il fait froid dehors, mettons une veste épaisse avant de sortir."
+    },
+    "related": "コート / 洋服"
+  },
+  {
+    "id": "card_1296",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "背広",
+    "reading": "せびろ",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "business suit",
+      "zh_TW": "西裝",
+      "zh_CN": "西装；男式西服",
+      "ko": "신사복; 양복",
+      "zh_HK": "西裝",
+      "fr": "costume (d'homme)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>毎日<rt>まいにち</rt></ruby>きれいな<ruby>背広<rt>せびろ</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "Mr. Tanaka wears a neat suit to the office every day.",
+      "zh_TW": "田中先生每天穿著整潔的西裝去公司。",
+      "zh_CN": "田中先生每天穿着整洁的西装去公司。",
+      "ko": "다나카 씨는 매일 깔끔한 양복을 입고 회사에 갑니다.",
+      "zh_HK": "田中先生每日都着住整齊嘅西裝返公司。",
+      "fr": "M. Tanaka porte un costume soigné tous les jours pour aller au bureau."
+    },
+    "related": "ネクタイ / 上着"
+  },
+  {
+    "id": "card_1297",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "靴下",
+    "reading": "くつした",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "socks",
+      "zh_TW": "襪子",
+      "zh_CN": "袜子",
+      "ko": "양말",
+      "zh_HK": "襪",
+      "fr": "chaussettes"
+    },
+    "example": {
+      "ja": "<ruby>白<rt>しろ</rt></ruby>い<ruby>靴下<rt>くつした</rt></ruby>を<ruby>三<rt>さん</rt></ruby><ruby>足<rt>そく</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I bought three pairs of white socks.",
+      "zh_TW": "買了三雙白襪子。",
+      "zh_CN": "买了三双白袜子。",
+      "ko": "하얀 양말을 세 켤레 샀습니다.",
+      "zh_HK": "我買咗三對白襪。",
+      "fr": "J'ai acheté trois paires de chaussettes blanches."
+    },
+    "related": "靴 / 履く"
+  },
+  {
+    "id": "card_1298",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "hat; cap",
+      "zh_TW": "帽子",
+      "zh_CN": "帽子",
+      "ko": "모자",
+      "zh_HK": "帽",
+      "fr": "chapeau ; casquette"
+    },
+    "example": {
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>日差<rt>ひざ</rt></ruby>しが<ruby>強<rt>つよ</rt></ruby>いですから、<ruby>帽子<rt>ぼうし</rt></ruby>をかぶってください。",
+      "en": "Because the sunlight is strong in summer, please wear a hat.",
+      "zh_TW": "夏天陽光強烈，請戴上帽子。",
+      "zh_CN": "夏天阳光强烈，请戴上帽子。",
+      "ko": "여름에는 햇살이 강하니까 모자를 써 주세요.",
+      "zh_HK": "夏天太陽好猛，出街請戴帽啦。",
+      "fr": "Comme le soleil tape fort en été, veuillez porter un chapeau."
+    },
+    "related": "かぶる / 眼鏡"
+  },
+  {
+    "id": "card_1299",
+    "section_num": 56,
+    "section_title": "#56 【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "眼鏡",
+    "reading": "めがね",
+    "category": "【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞",
+    "meaning": {
+      "en": "glasses; eyeglasses",
+      "zh_TW": "眼鏡",
+      "zh_CN": "眼镜",
+      "ko": "안경",
+      "zh_HK": "眼鏡",
+      "fr": "lunettes"
+    },
+    "example": {
+      "ja": "<ruby>黒板<rt>こくばん</rt></ruby>の<ruby>字<rt>じ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えないときは、<ruby>眼鏡<rt>めがね</rt></ruby>をかけます。",
+      "en": "When I cannot see the writing on the blackboard, I put on my glasses.",
+      "zh_TW": "看不清黑板上的字時，我就戴上眼鏡。",
+      "zh_CN": "看不清黑板上的字时，我就戴上眼镜。",
+      "ko": "칠판 글씨가 보이지 않을 때는 안경을 씁니다.",
+      "zh_HK": "睇唔清楚黑板上面啲字嗰陣，我會戴眼鏡。",
+      "fr": "Quand je ne vois pas ce qui est écrit au tableau, je mets mes lunettes."
+    },
+    "related": "かける / 目"
+  },
+  {
+    "id": "card_1300",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "空",
+    "reading": "そら",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "sky",
+      "zh_TW": "天空",
+      "zh_CN": "天空",
+      "ko": "하늘",
+      "zh_HK": "天空；天",
+      "fr": "ciel"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>雲<rt>くも</rt></ruby>が<ruby>一<rt>ひと</rt></ruby>つもなくて、<ruby>空<rt>そら</rt></ruby>がとても<ruby>青<rt>あお</rt></ruby>いです。",
+      "en": "There isn't a single cloud today, and the sky is very blue.",
+      "zh_TW": "今天萬里無雲，天空非常藍。",
+      "zh_CN": "今天万里无云，天空非常蓝。",
+      "ko": "오늘은 구름이 하나도 없고 하늘이 매우 파랗습니다.",
+      "zh_HK": "今日一嚿雲都冇，個天好藍。",
+      "fr": "Aujourd'hui, il n'y a pas un seul nuage et le ciel est très bleu."
+    },
+    "related": "天気 / 雲"
+  },
+  {
+    "id": "card_1301",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "雪",
+    "reading": "ゆき",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "snow",
+      "zh_TW": "雪",
+      "zh_CN": "雪",
+      "ko": "눈",
+      "zh_HK": "雪",
+      "fr": "neige"
+    },
+    "example": {
+      "ja": "<ruby>北海道<rt>ほっかいどう</rt></ruby>では<ruby>冬<rt>ふゆ</rt></ruby>にたくさん<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。",
+      "en": "In Hokkaido, a lot of snow falls in winter.",
+      "zh_TW": "北海道冬天會下很多雪。",
+      "zh_CN": "北海道冬天会下很多雪。",
+      "ko": "홋카이도에서는 겨울에 눈이 많이 내립니다.",
+      "zh_HK": "北海道喺冬天會落好多雪。",
+      "fr": "À Hokkaido, il tombe beaucoup de neige en hiver."
+    },
+    "related": "雨 / 冬"
+  },
+  {
+    "id": "card_1302",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "池",
+    "reading": "いけ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "pond",
+      "zh_TW": "池塘",
+      "zh_CN": "池塘",
+      "ko": "연못",
+      "zh_HK": "池塘",
+      "fr": "étang ; bassin"
+    },
+    "example": {
+      "ja": "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>池<rt>いけ</rt></ruby>にきれいな<ruby>魚<rt>さかな</rt></ruby>がたくさん<ruby>泳<rt>およ</rt></ruby>いでいます。",
+      "en": "Many beautiful fish are swimming in the park pond.",
+      "zh_TW": "公園的池塘裡游著許多漂亮的魚。",
+      "zh_CN": "公园的池塘里游着许多漂亮的鱼。",
+      "ko": "공원 연못에 예쁜 물고기가 많이 헤엄치고 있습니다.",
+      "zh_HK": "公園個池塘入面有好多靚魚游緊水。",
+      "fr": "Beaucoup de jolis poissons nagent dans l'étang du parc."
+    },
+    "related": "川 / 湖"
+  },
+  {
+    "id": "card_1303",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "木",
+    "reading": "き",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "tree; wood",
+      "zh_TW": "樹；樹木；木頭",
+      "zh_CN": "树；树木；木头",
+      "ko": "나무",
+      "zh_HK": "樹；木",
+      "fr": "arbre ; bois"
+    },
+    "example": {
+      "ja": "<ruby>春<rt>はる</rt></ruby>になると、この<ruby>木<rt>き</rt></ruby>にピンクの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます。",
+      "en": "When spring comes, pink flowers bloom on this tree.",
+      "zh_TW": "到了春天，這棵樹會開粉紅色的花。",
+      "zh_CN": "到了春天，这棵树会开粉红色的花。",
+      "ko": "봄이 되면 이 나무에 분홍색 꽃이 핍니다.",
+      "zh_HK": "一到春天，呢棵樹就會開粉紅色嘅花。",
+      "fr": "Quand le printemps arrive, des fleurs roses éclosent sur cet arbre."
+    },
+    "related": "花 / 庭"
+  },
+  {
+    "id": "card_1304",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "写真",
+    "reading": "しゃしん",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "photograph; photo; picture",
+      "zh_TW": "照片；相片",
+      "zh_CN": "照片；相片",
+      "ko": "사진",
+      "zh_HK": "相；相片",
+      "fr": "photo ; photographie"
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>でたくさんの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りました。",
+      "en": "I took a lot of photos on my trip.",
+      "zh_TW": "在旅行中拍了很多照片。",
+      "zh_CN": "在旅行中拍了很多照片。",
+      "ko": "여행에서 많은 사진을 찍었습니다.",
+      "zh_HK": "我喺去旅行嗰陣影咗好多相。",
+      "fr": "J'ai pris beaucoup de photos pendant mon voyage."
+    },
+    "related": "カメラ / 撮る"
+  },
+  {
+    "id": "card_1305",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "絵",
+    "reading": "え",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "picture; drawing; painting",
+      "zh_TW": "畫；圖畫",
+      "zh_CN": "画；图画",
+      "ko": "그림",
+      "zh_HK": "畫；圖畫",
+      "fr": "dessin ; peinture ; tableau"
+    },
+    "example": {
+      "ja": "<ruby>中村<rt>なかむら</rt></ruby>さんは<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くのがとても<ruby>上手<rt>じょうず</rt></ruby>です。",
+      "en": "Mr. Nakamura is very good at drawing pictures.",
+      "zh_TW": "中村先生非常擅長畫畫。",
+      "zh_CN": "中村先生非常擅长画画。",
+      "ko": "나카무라 씨는 그림을 그리는 것을 매우 잘합니다.",
+      "zh_HK": "中村先生畫畫好叻。",
+      "fr": "M. Nakamura est très doué pour dessiner."
+    },
+    "related": "写真 / 美術館"
+  },
+  {
+    "id": "card_1306",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "音楽",
+    "reading": "おんがく",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "music",
+      "zh_TW": "音樂",
+      "zh_CN": "音乐",
+      "ko": "음악",
+      "zh_HK": "音樂",
+      "fr": "musique"
+    },
+    "example": {
+      "ja": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>静<rt>しず</rt></ruby>かな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。",
+      "en": "I listen to quiet music before going to bed.",
+      "zh_TW": "睡覺前聽安靜的音樂。",
+      "zh_CN": "睡觉前听安静的音乐。",
+      "ko": "자기 전에 조용한 음악을 듣습니다.",
+      "zh_HK": "瞓覺之前我會聽啲靜態嘅音樂。",
+      "fr": "J'écoute de la musique douce avant d'aller dormir."
+    },
+    "related": "歌 / 聞く"
+  },
+  {
+    "id": "card_1307",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "作文",
+    "reading": "さくぶん",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "essay; composition",
+      "zh_TW": "作文",
+      "zh_CN": "作文",
+      "ko": "작문; 글짓기",
+      "zh_HK": "作文",
+      "fr": "rédaction ; composition"
+    },
+    "example": {
+      "ja": "<ruby>日本語<rt>にほんご</rt></ruby>で「<ruby>私<rt>わたし</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>」という<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。",
+      "en": "I wrote an essay titled 'My Dream' in Japanese.",
+      "zh_TW": "用日語寫了一篇題為《我的夢想》的作文。",
+      "zh_CN": "用日语写了一篇题为《我的梦想》的作文。",
+      "ko": "일본어로 '나의 꿈'이라는 작문을 썼습니다.",
+      "zh_HK": "我用日文寫咗一篇叫做《我嘅夢想》嘅作文。",
+      "fr": "J'ai écrit une rédaction en japonais intitulée « Mon rêve »."
+    },
+    "related": "宿題 / 書く"
+  },
+  {
+    "id": "card_1308",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "漢字",
+    "reading": "かんじ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "kanji; Chinese characters",
+      "zh_TW": "漢字",
+      "zh_CN": "汉字",
+      "ko": "한자",
+      "zh_HK": "漢字",
+      "fr": "kanji ; caractère chinois"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>新<rt>あたら</rt></ruby>しい<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>しています。",
+      "en": "I practice new kanji little by little every day.",
+      "zh_TW": "每天一點點地練習新漢字。",
+      "zh_CN": "每天一点点地练习新汉字。",
+      "ko": "매일 조금씩 새로운 한자를 연습하고 있습니다.",
+      "zh_HK": "我每日都逐少逐少噉練習新漢字。",
+      "fr": "J'apprends de nouveaux kanjis petit à petit chaque jour."
+    },
+    "related": "ひらがな / カタカナ"
+  },
+  {
+    "id": "card_1309",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "言葉",
+    "reading": "ことば",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "word; language; expression",
+      "zh_TW": "詞語；語言；話",
+      "zh_CN": "词语；语言；话",
+      "ko": "말; 단어; 언어",
+      "zh_HK": "詞語；語言；說話",
+      "fr": "mot ; langue ; parole"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>をたくさん<ruby>覚<rt>おぼ</rt></ruby>えました。",
+      "en": "I learned many new words through Japanese songs.",
+      "zh_TW": "透過日本歌曲記住了很多新詞。",
+      "zh_CN": "通过日本歌曲记住了很多新词。",
+      "ko": "일본 노래로 새로운 단어를 많이 외웠습니다.",
+      "zh_HK": "我透過日本歌記識咗好多新詞語。",
+      "fr": "J'ai appris beaucoup de nouveaux mots grâce aux chansons japonaises."
+    },
+    "related": "日本語 / 辞書"
+  },
+  {
+    "id": "card_1310",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "問題",
+    "reading": "もんだい",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "question; problem",
+      "zh_TW": "問題；題目",
+      "zh_CN": "问题；题目",
+      "ko": "문제",
+      "zh_HK": "問題；題目",
+      "fr": "question ; problème"
+    },
+    "example": {
+      "ja": "テストの<ruby>問題<rt>もんだい</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>問<rt>もん</rt></ruby>ありました。",
+      "en": "There were twenty questions in total on the test.",
+      "zh_TW": "考試題目一共有二十題。",
+      "zh_CN": "考试题目一共有二十道。",
+      "ko": "테스트 문제는 전부 20문항 있었습니다.",
+      "zh_HK": "測驗題目總共有二十題。",
+      "fr": "Il y avait vingt questions en tout dans l'examen."
+    },
+    "related": "質問 / 答え"
+  },
+  {
+    "id": "card_1311",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "番号",
+    "reading": "ばんごう",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "number (phone, room, etc.)",
+      "zh_TW": "號碼；編號",
+      "zh_CN": "号码；编号",
+      "ko": "번호",
+      "zh_HK": "號碼；編號",
+      "fr": "numéro"
+    },
+    "example": {
+      "ja": "ホテルの<ruby>部屋<rt>へや</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>は<ruby>三<rt>さん</rt></ruby>〇<ruby>五<rt>ご</rt></ruby><ruby>号室<rt>ごうしつ</rt></ruby>です。",
+      "en": "The hotel room number is Room 305.",
+      "zh_TW": "飯店的房間號碼是305號房。",
+      "zh_CN": "酒店的房间号是305室。",
+      "ko": "호텔 방 번호는 305호실입니다.",
+      "zh_HK": "酒店房號係三零五號房。",
+      "fr": "Le numéro de la chambre d'hôtel est la 305."
+    },
+    "related": "電話番号"
+  },
+  {
+    "id": "card_1312",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "birthday",
+      "zh_TW": "生日",
+      "zh_CN": "生日",
+      "ko": "생일",
+      "zh_HK": "生日",
+      "fr": "anniversaire"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>母<rt>はは</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>です。",
+      "en": "Next Wednesday is my mother's birthday.",
+      "zh_TW": "下週三是媽媽的生日。",
+      "zh_CN": "下周三是妈妈的生日。",
+      "ko": "다음 주 수요일은 어머니의 생일입니다.",
+      "zh_HK": "下個禮拜三係媽咪嘅生日。",
+      "fr": "Mercredi prochain, c'est l'anniversaire de ma mère."
+    },
+    "related": "プレゼント / お祝い"
+  },
+  {
+    "id": "card_1313",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "summer vacation; summer holiday",
+      "zh_TW": "暑假",
+      "zh_CN": "暑假",
+      "ko": "여름방학; 여름휴가",
+      "zh_HK": "暑假",
+      "fr": "vacances d'été"
+    },
+    "example": {
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>家族<rt>かぞく</rt></ruby>で<ruby>沖縄<rt>おきなわ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。",
+      "en": "This summer vacation, I want to go to Okinawa with my family.",
+      "zh_TW": "今年暑假想和家人一起去沖繩。",
+      "zh_CN": "今年暑假想和家人一起去冲绳。",
+      "ko": "올해 여름휴가는 가족과 함께 오키나와에 가고 싶습니다.",
+      "zh_HK": "今年暑假我想同屋企人一齊去沖繩。",
+      "fr": "Cet été, pendant les vacances, je voudrais aller à Okinawa en famille."
+    },
+    "related": "休み / 旅行"
+  },
+  {
+    "id": "card_1314",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "外国",
+    "reading": "がいこく",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "foreign country",
+      "zh_TW": "外國",
+      "zh_CN": "外国",
+      "ko": "외국",
+      "zh_HK": "外國",
+      "fr": "pays étranger"
+    },
+    "example": {
+      "ja": "いつか<ruby>外国<rt>がいこく</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしてみたいです。",
+      "en": "Someday I would like to try working in a foreign country.",
+      "zh_TW": "總有一天想在外國工作看看。",
+      "zh_CN": "总有一天想在外国工作看看。",
+      "ko": "언젠가 외국에서 일을 해 보고 싶습니다.",
+      "zh_HK": "希望將來有機會去外國做下嘢。",
+      "fr": "Un jour, j'aimerais essayer de travailler à l'étranger."
+    },
+    "related": "外国人 / 留学"
+  },
+  {
+    "id": "card_1315",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "foreigner; foreign national",
+      "zh_TW": "外國人",
+      "zh_CN": "外国人",
+      "ko": "외국인",
+      "zh_HK": "外國人",
+      "fr": "étranger (personne)"
+    },
+    "example": {
+      "ja": "この<ruby>町<rt>まち</rt></ruby>にはたくさんの<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいます。",
+      "en": "Many foreigners live in this town.",
+      "zh_TW": "這個鎮上住著很多外國人。",
+      "zh_CN": "这个镇上住着很多外国人。",
+      "ko": "이 동네에는 많은 외국인이 살고 있습니다.",
+      "zh_HK": "呢個小鎮有好多外國人住。",
+      "fr": "Beaucoup d'étrangers habitent dans cette ville."
+    },
+    "related": "外国"
+  },
+  {
+    "id": "card_1316",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "会社",
+    "reading": "かいしゃ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "company; office; workplace",
+      "zh_TW": "公司",
+      "zh_CN": "公司",
+      "ko": "회사",
+      "zh_HK": "公司",
+      "fr": "entreprise ; société ; bureau"
+    },
+    "example": {
+      "ja": "<ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあります。",
+      "en": "Mr. Ito's company is located near Shinjuku Station.",
+      "zh_TW": "伊藤先生的公司在新宿站附近。",
+      "zh_CN": "伊藤先生的公司在新宿站附近。",
+      "ko": "이토 씨의 회사는 신주쿠역 근처에 있습니다.",
+      "zh_HK": "伊藤先生間公司喺新宿站附近。",
+      "fr": "L'entreprise de M. Ito se trouve près de la gare de Shinjuku."
+    },
+    "related": "仕事 / 会社員"
+  },
+  {
+    "id": "card_1317",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "生徒",
+    "reading": "せいと",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "student; pupil",
+      "zh_TW": "學生",
+      "zh_CN": "学生",
+      "ko": "학생; 생도",
+      "zh_HK": "學生",
+      "fr": "élève"
+    },
+    "example": {
+      "ja": "このクラスには<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>がいます。",
+      "en": "There are twenty students in this class.",
+      "zh_TW": "這個班有二十名學生。",
+      "zh_CN": "这个班有二十名学生。",
+      "ko": "이 반에는 스무 명의 학생이 있습니다.",
+      "zh_HK": "呢班有二十個學生。",
+      "fr": "Il y a vingt élèves dans cette classe."
+    },
+    "related": "学生 / 先生"
+  },
+  {
+    "id": "card_1318",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "友達",
+    "reading": "ともだち",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "friend",
+      "zh_TW": "朋友",
+      "zh_CN": "朋友",
+      "ko": "친구",
+      "zh_HK": "朋友",
+      "fr": "ami ; amie"
+    },
+    "example": {
+      "ja": "<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>高校<rt>こうこう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "On Saturday, I am going to see a movie with my high school friend.",
+      "zh_TW": "星期六和高中朋友去看電影。",
+      "zh_CN": "星期六和高中朋友去看电影。",
+      "ko": "토요일에 고등학교 친구와 영화를 보러 갑니다.",
+      "zh_HK": "禮拜六我會同中學朋友去睇戲。",
+      "fr": "Samedi, je vais voir un film avec un ami du lycée."
+    },
+    "related": "一緒 / 会う"
+  },
+  {
+    "id": "card_1319",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "boy",
+      "zh_TW": "男孩",
+      "zh_CN": "男孩",
+      "ko": "남자아이",
+      "zh_HK": "男仔",
+      "fr": "garçon"
+    },
+    "example": {
+      "ja": "あそこでサッカーをしている<ruby>男の子<rt>おとこのこ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>です。",
+      "en": "The boy playing soccer over there is my younger brother.",
+      "zh_TW": "在那邊踢足球的男孩是我弟弟。",
+      "zh_CN": "在那边踢足球的男孩是我弟弟。",
+      "ko": "저기에서 축구를 하고 있는 남자아이는 제 남동생입니다.",
+      "zh_HK": "喺嗰邊踢緊波嘅男仔係我細佬。",
+      "fr": "Le garçon qui joue au football là-bas est mon petit frère."
+    },
+    "related": "女の子 / 子ども"
+  },
+  {
+    "id": "card_1320",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "girl",
+      "zh_TW": "女孩",
+      "zh_CN": "女孩",
+      "ko": "여자아이",
+      "zh_HK": "女仔",
+      "fr": "fille"
+    },
+    "example": {
+      "ja": "<ruby>赤<rt>あか</rt></ruby>い<ruby>帽子<rt>ぼうし</rt></ruby>をかぶっている<ruby>女の子<rt>おんなのこ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。",
+      "en": "Who is the girl wearing the red hat?",
+      "zh_TW": "戴著紅帽子的女孩是誰？",
+      "zh_CN": "戴着红帽子的女孩是谁？",
+      "ko": "빨간 모자를 쓰고 있는 여자아이는 누구입니까?",
+      "zh_HK": "戴住紅帽嗰個女仔係邊個呀？",
+      "fr": "Qui est la petite fille qui porte un chapeau rouge ?"
+    },
+    "related": "男の子 / 子ども"
+  },
+  {
+    "id": "card_1321",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "皆さん",
+    "reading": "みなさん",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "everyone; ladies and gentlemen",
+      "zh_TW": "大家；各位",
+      "zh_CN": "大家；各位",
+      "ko": "여러분",
+      "zh_HK": "大家；各位",
+      "fr": "tout le monde ; mesdames et messieurs"
+    },
+    "example": {
+      "ja": "<ruby>皆<rt>みな</rt></ruby>さん、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>にここへ<ruby>集<rt>あつ</rt></ruby>まってください。",
+      "en": "Everyone, please gather here at nine o'clock tomorrow morning.",
+      "zh_TW": "各位，請明天早上九點在這裡集合。",
+      "zh_CN": "各位，请明天早上九点在这里集合。",
+      "ko": "여러분, 내일 아침 9시에 여기로 모여 주세요.",
+      "zh_HK": "各位，請喺聽朝九點鐘嚟呢度集合。",
+      "fr": "Tout le monde, veuillez vous rassembler ici demain matin à neuf heures."
+    },
+    "related": "みんな"
+  },
+  {
+    "id": "card_1322",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "砂糖",
+    "reading": "さとう",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "sugar",
+      "zh_TW": "糖；砂糖",
+      "zh_CN": "糖；砂糖",
+      "ko": "설탕",
+      "zh_HK": "糖；砂糖",
+      "fr": "sucre"
+    },
+    "example": {
+      "ja": "<ruby>紅茶<rt>こうちゃ</rt></ruby>に<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>入<rt>い</rt></ruby>れて<ruby>飲<rt>の</rt></ruby>みました。",
+      "en": "I put a little sugar in my black tea and drank it.",
+      "zh_TW": "在紅茶裡放了一點糖喝了。",
+      "zh_CN": "在红茶里放了一点糖喝了。",
+      "ko": "홍차에 설탕을 조금 넣어서 마셨습니다.",
+      "zh_HK": "我喺紅茶度落咗少少糖飲。",
+      "fr": "J'ai mis un peu de sucre dans mon thé noir avant de le boire."
+    },
+    "related": "塩 / 甘い"
+  },
+  {
+    "id": "card_1323",
+    "section_num": 57,
+    "section_title": "#57 【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "塩",
+    "reading": "しお",
+    "category": "【N5総復習③】自然・趣味・学習・日常の未習N5名詞",
+    "meaning": {
+      "en": "salt",
+      "zh_TW": "鹽",
+      "zh_CN": "盐",
+      "ko": "소금",
+      "zh_HK": "鹽",
+      "fr": "sel"
+    },
+    "example": {
+      "ja": "サラダに<ruby>塩<rt>しお</rt></ruby>をかけて<ruby>食<rt>た</rt></ruby>べてください。",
+      "en": "Please sprinkle some salt on the salad and eat it.",
+      "zh_TW": "請在沙拉上撒點鹽吃。",
+      "zh_CN": "请在沙拉上撒点盐吃。",
+      "ko": "샐러드에 소금을 뿌려서 드세요.",
+      "zh_HK": "請喺沙律度落少少鹽食啦。",
+      "fr": "Mettez un peu de sel sur la salade avant de la manger."
+    },
+    "related": "砂糖 / 辛い"
+  },
+  {
+    "id": "card_1324",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "貸す・貸します",
+    "reading": "かす・かします",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "lend; rent out",
+      "zh_TW": "借出；借給",
+      "zh_CN": "借出；借给",
+      "ko": "빌려주다",
+      "zh_HK": "借畀（人）",
+      "fr": "prêter ; louer"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたので、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>しました。",
+      "en": "Since it started raining, I lent my umbrella to a friend.",
+      "zh_TW": "因為下起雨來，把雨傘借給了朋友。",
+      "zh_CN": "因为下起雨来，把雨伞借给了朋友。",
+      "ko": "비가 오기 시작해서 친구에게 우산을 빌려주었습니다.",
+      "zh_HK": "因為開始落雨，我借咗把遮畀朋友。",
+      "fr": "Comme il commençait à pleuvoir, j'ai prêté mon parapluie à mon ami."
+    },
+    "related": "借りる / 返す"
+  },
+  {
+    "id": "card_1325",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "借りる・借ります",
+    "reading": "かりる・かります",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "borrow; rent",
+      "zh_TW": "借入；向…借",
+      "zh_CN": "借入；向…借",
+      "ko": "빌리다",
+      "zh_HK": "借（人哋嘅嘢）",
+      "fr": "emprunter ; louer"
+    },
+    "example": {
+      "ja": "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>三<rt>さん</rt></ruby><ruby>冊<rt>さつ</rt></ruby><ruby>借<rt>か</rt></ruby>りました。",
+      "en": "I borrowed three books on Japanese history from the library.",
+      "zh_TW": "在圖書館借了三本日本歷史書。",
+      "zh_CN": "在图书馆借了三本日本历史书。",
+      "ko": "도서관에서 일본 역사 책을 세 권 빌렸습니다.",
+      "zh_HK": "我喺圖書館借咗三本日本歷史書。",
+      "fr": "J'ai emprunté trois livres sur l'histoire du Japon à la bibliothèque."
+    },
+    "related": "貸す / 返す"
+  },
+  {
+    "id": "card_1326",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "渡す・渡します",
+    "reading": "わたす・わたします",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "hand over; give; pass",
+      "zh_TW": "交給；遞給",
+      "zh_CN": "交给；递给",
+      "ko": "건네주다; 넘기다",
+      "zh_HK": "交畀；遞畀",
+      "fr": "remettre ; donner ; passer"
+    },
+    "example": {
+      "ja": "この<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>渡<rt>わた</rt></ruby>してください。",
+      "en": "Please hand this letter to Mr. Tanaka.",
+      "zh_TW": "請把這封信交給田中先生。",
+      "zh_CN": "请把这封信交给田中先生。",
+      "ko": "이 편지를 다나카 씨에게 건네주세요.",
+      "zh_HK": "請幫我將呢封信交畀田中先生。",
+      "fr": "Veuillez remettre cette lettre à M. Tanaka."
+    },
+    "related": "あげる / 届ける"
+  },
+  {
+    "id": "card_1327",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "頼む・頼みます",
+    "reading": "たのむ・たのみます",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "ask (a favor); request; order",
+      "zh_TW": "拜託；請求；點餐",
+      "zh_CN": "拜托；请求；点菜",
+      "ko": "부탁하다; 주문하다",
+      "zh_HK": "拜託；叫（嘢食）",
+      "fr": "demander (un service) ; commander"
+    },
+    "example": {
+      "ja": "<ruby>忙<rt>いそが</rt></ruby>しいので、<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>みました。",
+      "en": "Because I was busy, I asked Ms. Suzuki to help with the work.",
+      "zh_TW": "因為很忙，把工作拜託給了鈴木小姐。",
+      "zh_CN": "因为很忙，把工作拜托给了铃木小姐。",
+      "ko": "바빠서 스즈키 씨에게 일을 부탁했습니다.",
+      "zh_HK": "因為太忙，我拜託咗鈴木小姐幫手做嘢。",
+      "fr": "Comme j'étais occupé, j'ai demandé à Mme Suzuki de s'occuper du travail."
+    },
+    "related": "お願いする"
+  },
+  {
+    "id": "card_1328",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "習う・習います",
+    "reading": "ならう・ならいます",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "learn (from a teacher); take lessons",
+      "zh_TW": "學習（向老師學）",
+      "zh_CN": "学习（向老师学）",
+      "ko": "배우다",
+      "zh_HK": "學（跟老師學）",
+      "fr": "apprendre (avec un professeur) ; suivre des cours"
+    },
+    "example": {
+      "ja": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>に<ruby>先生<rt>せんせい</rt></ruby>からピアノを<ruby>習<rt>なら</rt></ruby>っています。",
+      "en": "Every Saturday, I take piano lessons from a teacher.",
+      "zh_TW": "每週六跟老師學鋼琴。",
+      "zh_CN": "每周六跟老师学钢琴。",
+      "ko": "매주 토요일에 선생님께 피아노를 배우고 있습니다.",
+      "zh_HK": "我逢禮拜六都會跟老師學彈琴。",
+      "fr": "Chaque samedi, je prends des cours de piano avec un professeur."
+    },
+    "related": "教える / 勉強する"
+  },
+  {
+    "id": "card_1329",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "勤める・勤めます",
+    "reading": "つとめる・つとめます",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "work for; be employed at",
+      "zh_TW": "就職；工作；上班",
+      "zh_CN": "就职；工作；上班",
+      "ko": "근무하다; 다니다",
+      "zh_HK": "返工；任職於",
+      "fr": "travailler pour ; être employé"
+    },
+    "example": {
+      "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>に<ruby>勤<rt>つと</rt></ruby>めています。",
+      "en": "My older brother works at a bank in Tokyo.",
+      "zh_TW": "哥哥在東京的銀行工作。",
+      "zh_CN": "哥哥在东京的银行工作。",
+      "ko": "형은 도쿄의 은행에 근무하고 있습니다.",
+      "zh_HK": "阿哥喺東京一間銀行返工。",
+      "fr": "Mon grand frère travaille dans une banque à Tokyo."
+    },
+    "related": "働く / 会社"
+  },
+  {
+    "id": "card_1330",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "困る・困ります",
+    "reading": "こまる・こまります",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "be troubled; have a problem; be in difficulty",
+      "zh_TW": "為難；困擾；傷腦筋",
+      "zh_CN": "为难；困扰；伤脑筋",
+      "ko": "곤란하다; 난처하다",
+      "zh_HK": "頭痕；麻煩；唔知點算",
+      "fr": "être ennuyé ; avoir des problèmes"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>がわからなくて、とても<ruby>困<rt>こま</rt></ruby>りました。",
+      "en": "I didn't know the way and was in a lot of trouble.",
+      "zh_TW": "因為不認識路，非常為難。",
+      "zh_CN": "因为不认识路，非常为难。",
+      "ko": "길을 몰라서 매우 곤란했습니다.",
+      "zh_HK": "因為唔識路，搞到我好頭痕。",
+      "fr": "Je ne connaissais pas le chemin et j'étais bien embêté."
+    },
+    "related": "大変 / 問題"
+  },
+  {
+    "id": "card_1331",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "登る・登ります",
+    "reading": "のぼる・のぼります",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "climb; ascend",
+      "zh_TW": "爬；登（山）",
+      "zh_CN": "爬；登（山）",
+      "ko": "오르다; 등산하다",
+      "zh_HK": "行（山）；爬（山）",
+      "fr": "grimper ; gravir ; monter"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。",
+      "en": "During next month's holiday, I will climb Mt. Fuji with my friends.",
+      "zh_TW": "下個月休假時要和朋友去爬富士山。",
+      "zh_CN": "下个月休假时要和朋友去爬富士山。",
+      "ko": "다음 달 휴일에 친구와 후지산에 오릅니다.",
+      "zh_HK": "下個月放假我會同朋友去行富士山。",
+      "fr": "Le mois prochain, pendant les vacances, je vais gravir le mont Fuji avec mes amis."
+    },
+    "related": "山 / 上がる"
+  },
+  {
+    "id": "card_1332",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "吹く・吹きます",
+    "reading": "ふく・ふきます",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "blow (wind); play (wind instrument)",
+      "zh_TW": "吹（風）；吹奏",
+      "zh_CN": "吹（风）；吹奏",
+      "ko": "불다",
+      "zh_HK": "吹（風）",
+      "fr": "souffler (vent) ; jouer (instrument à vent)"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>外<rt>そと</rt></ruby>で<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
+      "en": "A strong wind is blowing outside today.",
+      "zh_TW": "今天外面颳著大風。",
+      "zh_CN": "今天外面刮着大风。",
+      "ko": "오늘은 밖에서 강한 바람이 불고 있습니다.",
+      "zh_HK": "今日出面吹緊好大風。",
+      "fr": "Un vent fort souffle dehors aujourd'hui."
+    },
+    "related": "風 / 天気"
+  },
+  {
+    "id": "card_1333",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "差す・差します",
+    "reading": "さす・さします",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "hold up (an umbrella); put in (eye drops)",
+      "zh_TW": "撐（傘）；點（眼藥水）",
+      "zh_CN": "撑（伞）；滴（眼药水）",
+      "ko": "(우산을) 쓰다",
+      "zh_HK": "擔（遮）",
+      "fr": "ouvrir / tenir (un parapluie)"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていますから、<ruby>傘<rt>かさ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>して<ruby>歩<rt>ある</rt></ruby>きましょう。",
+      "en": "Because it is raining, let's walk holding up our umbrellas.",
+      "zh_TW": "正在下雨，撐著傘走吧。",
+      "zh_CN": "正在下雨，撑着伞走吧。",
+      "ko": "비가 오고 있으니까 우산을 쓰고 걸어갑시다.",
+      "zh_HK": "落緊雨呀，我哋擔住遮行啦。",
+      "fr": "Comme il pleut, marchons avec notre parapluie ouvert."
+    },
+    "related": "傘 / 雨"
+  },
+  {
+    "id": "card_1334",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "撮る・撮ります",
+    "reading": "とる・とります",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "take (a photo); shoot (a video)",
+      "zh_TW": "拍（照）；拍攝",
+      "zh_CN": "拍（照）；拍摄",
+      "ko": "(사진을) 찍다; 촬영하다",
+      "zh_HK": "影（相/片）",
+      "fr": "prendre (une photo) ; filmer"
+    },
+    "example": {
+      "ja": "ここでみんなで<ruby>記念<rt>きねん</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りましょう。",
+      "en": "Let's take a commemorative photo together here.",
+      "zh_TW": "大家在這裡一起拍張紀念照吧。",
+      "zh_CN": "大家在这里一起拍张纪念照吧。",
+      "ko": "여기서 다 같이 기념사진을 찍읍시다.",
+      "zh_HK": "我哋大家喺呢度一齊影張紀念相啦。",
+      "fr": "Prenons une photo souvenir tous ensemble ici."
+    },
+    "related": "写真 / カメラ"
+  },
+  {
+    "id": "card_1335",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "磨く・磨きます",
+    "reading": "みがく・みがきます",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "brush (teeth); polish; shine",
+      "zh_TW": "刷（牙）；擦亮；磨練",
+      "zh_CN": "刷（牙）；擦亮；磨练",
+      "ko": "닦다; 갈다",
+      "zh_HK": "刷（牙）；擦亮",
+      "fr": "se brosser (les dents) ; polir"
+    },
+    "example": {
+      "ja": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>で、<ruby>必<rt>かなら</rt></ruby>ず<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
+      "en": "After eating a meal, I always brush my teeth.",
+      "zh_TW": "吃完飯後一定會刷牙。",
+      "zh_CN": "吃完饭后一定会刷牙。",
+      "ko": "밥을 먹은 후에 반드시 이를 닦습니다.",
+      "zh_HK": "食完飯之後我一定會刷牙。",
+      "fr": "Après avoir mangé, je me brosse toujours les dents."
+    },
+    "related": "歯 / 洗う"
+  },
+  {
+    "id": "card_1336",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "曲がる・曲がります",
+    "reading": "まがる・まがります",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "turn; bend",
+      "zh_TW": "轉彎；彎曲",
+      "zh_CN": "拐弯；转弯；弯曲",
+      "ko": "돌다; 굽다",
+      "zh_HK": "轉彎；曲",
+      "fr": "tourner ; se courber"
+    },
+    "example": {
+      "ja": "あの<ruby>角<rt>かく</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>へ<ruby>曲<rt>ま</rt></ruby>がると、<ruby>駅<rt>えき</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。",
+      "en": "If you turn right at that corner, you will see the station.",
+      "zh_TW": "在那個轉角往右轉，就能看到車站。",
+      "zh_CN": "在那个拐角往右拐，就能看到车站。",
+      "ko": "저 모퉁이를 오른쪽으로 돌면 역이 보입니다.",
+      "zh_HK": "喺嗰個街角轉右，就會見到車站。",
+      "fr": "Si vous tournez à droite à ce coin de rue, vous verrez la gare."
+    },
+    "related": "角 / まっすぐ"
+  },
+  {
+    "id": "card_1337",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "warm (weather, air, heart)",
+      "zh_TW": "暖和；溫暖（氣候）",
+      "zh_CN": "暖和；温暖（气候）",
+      "ko": "따뜻하다",
+      "zh_HK": "暖；暖和（天氣）",
+      "fr": "doux ; chaud (temps, climat)"
+    },
+    "example": {
+      "ja": "<ruby>春<rt>はる</rt></ruby>になって、<ruby>毎日<rt>まいにち</rt></ruby><ruby>暖<rt>あたた</rt></ruby>かくなりました。",
+      "en": "Spring has come, and it has become warm every day.",
+      "zh_TW": "到了春天，每天都變暖和了。",
+      "zh_CN": "到了春天，每天都变暖和了。",
+      "ko": "봄이 되어 매일 따뜻해졌습니다.",
+      "zh_HK": "到咗春天，天氣日日都變得好暖和。",
+      "fr": "Le printemps est arrivé et il fait doux tous les jours."
+    },
+    "related": "涼しい / 温かい"
+  },
+  {
+    "id": "card_1338",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "cool; refreshing (weather, breeze)",
+      "zh_TW": "涼快；涼爽",
+      "zh_CN": "凉快；凉爽",
+      "ko": "시원하다; 선선하다",
+      "zh_HK": "涼爽；涼快",
+      "fr": "frais ; rafraîchissant (temps)"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いて<ruby>気持<rt>きも</rt></ruby>ちがいいです。",
+      "en": "In the morning and at night, a cool breeze blows and feels pleasant.",
+      "zh_TW": "早晚吹著涼爽的風，很舒服。",
+      "zh_CN": "早晚吹着凉爽的风，很舒服。",
+      "ko": "아침과 밤에는 선선한 바람이 불어 기분이 좋습니다.",
+      "zh_HK": "朝早同夜晚有涼風吹過，真係好舒服。",
+      "fr": "Le matin et le soir, une brise fraîche souffle et c'est très agréable."
+    },
+    "related": "暖かい / 寒い"
+  },
+  {
+    "id": "card_1339",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "ぬるい",
+    "reading": "ぬるい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "lukewarm; tepid",
+      "zh_TW": "溫吞；不夠熱；微溫",
+      "zh_CN": "温吞；不冷不热；不够热",
+      "ko": "미지근하다",
+      "zh_HK": "微溫；唔夠熱；暖笠笠",
+      "fr": "tiède"
+    },
+    "example": {
+      "ja": "このお<ruby>茶<rt>ちゃ</rt></ruby>はもうぬるくなっていますね。",
+      "en": "This tea has already become lukewarm, hasn't it?",
+      "zh_TW": "這杯茶已經變溫了呢。",
+      "zh_CN": "这杯茶已经变温了呢。",
+      "ko": "이 차는 벌써 미지근해졌네요.",
+      "zh_HK": "呢杯茶已經攤到唔夠熱喇。",
+      "fr": "Ce thé est déjà devenu tiède, n'est-ce pas ?"
+    },
+    "related": "熱い / 冷たい"
+  },
+  {
+    "id": "card_1340",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "汚い",
+    "reading": "きたない",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "dirty; messy",
+      "zh_TW": "髒；亂",
+      "zh_CN": "脏；乱",
+      "ko": "더럽다; 지저분하다",
+      "zh_HK": "污糟；立亂",
+      "fr": "sale ; en désordre"
+    },
+    "example": {
+      "ja": "<ruby>手<rt>て</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いですから、<ruby>石鹸<rt>せっけん</rt></ruby>できれいに<ruby>洗<rt>あら</rt></ruby>ってください。",
+      "en": "Your hands are dirty, so please wash them cleanly with soap.",
+      "zh_TW": "手很髒，請用肥皂洗乾淨。",
+      "zh_CN": "手很脏，请用肥皂洗干净。",
+      "ko": "손이 더러우니까 비누로 깨끗이 씻어 주세요.",
+      "zh_HK": "隻手好污糟，請用番梘洗乾淨啦。",
+      "fr": "Vos mains sont sales, veuillez les laver soigneusement avec du savon."
+    },
+    "related": "きれい / 洗う"
+  },
+  {
+    "id": "card_1341",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "うるさい",
+    "reading": "うるさい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "noisy; loud; annoying",
+      "zh_TW": "吵鬧；煩人",
+      "zh_CN": "吵闹；烦人",
+      "ko": "시끄럽다",
+      "zh_HK": "嘈；煩",
+      "fr": "bruyant ; agaçant"
+    },
+    "example": {
+      "ja": "<ruby>外<rt>そと</rt></ruby>の<ruby>工事<rt>こうじ</rt></ruby>の<ruby>音<rt>おと</rt></ruby>がうるさくて、<ruby>勉強<rt>べんきょう</rt></ruby>できません。",
+      "en": "The construction noise outside is so loud that I cannot study.",
+      "zh_TW": "外面的施工聲音很吵，沒法學習。",
+      "zh_CN": "外面的施工声音很吵，没法学习。",
+      "ko": "밖의 공사 소리가 시끄러워서 공부할 수 없습니다.",
+      "zh_HK": "出面地盤啲聲太嘈，搞到我溫唔到書。",
+      "fr": "Le bruit des travaux dehors est si fort que je ne peux pas étudier."
+    },
+    "related": "静か / 音"
+  },
+  {
+    "id": "card_1342",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "強い",
+    "reading": "つよい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "strong; powerful",
+      "zh_TW": "強；強壯；強烈",
+      "zh_CN": "强；强壮；强烈",
+      "ko": "강하다; 세다",
+      "zh_HK": "強；大（風/雨）；勁",
+      "fr": "fort ; puissant"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いので、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まっています。",
+      "en": "Because the wind is strong today, the trains are stopped.",
+      "zh_TW": "今天因為風大，電車停駛了。",
+      "zh_CN": "今天因为风大，电车停运了。",
+      "ko": "오늘은 바람이 세서 전철이 멈춰 있습니다.",
+      "zh_HK": "今日因為太大風，電車停駛咗。",
+      "fr": "Comme le vent est fort aujourd'hui, les trains sont arrêtés."
+    },
+    "related": "弱い"
+  },
+  {
+    "id": "card_1343",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "弱い",
+    "reading": "よわい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "weak; frail",
+      "zh_TW": "弱；虛弱",
+      "zh_CN": "弱；虚弱",
+      "ko": "약하다",
+      "zh_HK": "弱；孱弱",
+      "fr": "faible ; fragile"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>に<ruby>弱<rt>よわ</rt></ruby>いので、ジュースを<ruby>飲<rt>の</rt></ruby>みます。",
+      "en": "Because I have a low tolerance for alcohol, I will drink juice.",
+      "zh_TW": "我酒量不好，所以喝果汁。",
+      "zh_CN": "我酒量不好，所以喝果汁。",
+      "ko": "저는 술에 약해서 주스를 마십니다.",
+      "zh_HK": "我唔係幾飲得酒，所以我飲果汁。",
+      "fr": "Comme je supporte mal l'alcool, je vais boire du jus de fruits."
+    },
+    "related": "強い"
+  },
+  {
+    "id": "card_1344",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "太い",
+    "reading": "ふとい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "thick; fat",
+      "zh_TW": "粗；胖",
+      "zh_CN": "粗；胖",
+      "ko": "굵다; 두껍다",
+      "zh_HK": "粗；肥",
+      "fr": "épais ; gros"
+    },
+    "example": {
+      "ja": "この<ruby>太<rt>ふと</rt></ruby>いペンで<ruby>紙<rt>かみ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>書<rt>か</rt></ruby>いてください。",
+      "en": "Please write in large letters on the paper with this thick pen.",
+      "zh_TW": "請用這支粗筆在紙上大大地寫。",
+      "zh_CN": "请用这支粗笔在纸上大大地写。",
+      "ko": "이 굵은 펜으로 종이에 크게 써 주세요.",
+      "zh_HK": "請用呢支粗筆喺張紙度大隻字寫低。",
+      "fr": "Veuillez écrire en grand sur le papier avec ce gros feutre."
+    },
+    "related": "細い"
+  },
+  {
+    "id": "card_1345",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "細い",
+    "reading": "ほそい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "thin; slender; narrow",
+      "zh_TW": "細；窄；苗條",
+      "zh_CN": "细；窄；苗条",
+      "ko": "가늘다; 좁다",
+      "zh_HK": "幼；窄；瘦",
+      "fr": "fin ; mince ; étroit"
+    },
+    "example": {
+      "ja": "この<ruby>先<rt>さき</rt></ruby>は<ruby>道<rt>みち</rt></ruby>が<ruby>細<rt>ほそ</rt></ruby>いですから、<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けてください。",
+      "en": "The road ahead is narrow, so please be careful.",
+      "zh_TW": "前面路很窄，請小心。",
+      "zh_CN": "前面路很窄，请小心。",
+      "ko": "이 앞은 길이 좁으니까 조심해 주세요.",
+      "zh_HK": "前面條路好窄，請小心啲行。",
+      "fr": "La route devient étroite plus loin, alors faites attention."
+    },
+    "related": "太い"
+  },
+  {
+    "id": "card_1346",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "丸い",
+    "reading": "まるい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "round; circular",
+      "zh_TW": "圓的；圓形的",
+      "zh_CN": "圆的；圆形的",
+      "ko": "둥글다; 동그랗다",
+      "zh_HK": "圓；圓形嘅",
+      "fr": "rond ; circulaire"
+    },
+    "example": {
+      "ja": "リビングに<ruby>丸<rt>まる</rt></ruby>いテーブルを<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I bought a round table for the living room.",
+      "zh_TW": "給客廳買了一張圓桌。",
+      "zh_CN": "给客厅买了一张圆桌。",
+      "ko": "거실에 둥근 테이블을 샀습니다.",
+      "zh_HK": "我買咗一張圓枱擺喺客廳。",
+      "fr": "J'ai acheté une table ronde pour le salon."
+    },
+    "related": "四角い"
+  },
+  {
+    "id": "card_1347",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "多い",
+    "reading": "おおい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "many; much; numerous",
+      "zh_TW": "多；許多",
+      "zh_CN": "多；许多",
+      "ko": "많다",
+      "zh_HK": "多",
+      "fr": "nombreux ; beaucoup de"
+    },
+    "example": {
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>や<ruby>車<rt>くるま</rt></ruby>がとても<ruby>多<rt>おお</rt></ruby>い<ruby>町<rt>まち</rt></ruby>です。",
+      "en": "Tokyo is a city with very many people and cars.",
+      "zh_TW": "東京是一個人和車都非常多的城市。",
+      "zh_CN": "东京是一个人和车都非常多的城市。",
+      "ko": "도쿄는 사람이나 차가 매우 많은 도시입니다.",
+      "zh_HK": "東京係一個人同車都好多嘅城市。",
+      "fr": "Tokyo est une ville où il y a énormément de gens et de voitures."
+    },
+    "related": "少ない / たくさん"
+  },
+  {
+    "id": "card_1348",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "少ない",
+    "reading": "すくない",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "few; little; scarce",
+      "zh_TW": "少；很少",
+      "zh_CN": "少；很少",
+      "ko": "적다",
+      "zh_HK": "少",
+      "fr": "peu nombreux ; peu de"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>くは<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
+      "en": "Early in the morning, there are few people taking the train.",
+      "zh_TW": "一大早搭電車的人很少。",
+      "zh_CN": "一大早坐电车的人很少。",
+      "ko": "아침 일찍은 전철을 타는 사람이 적습니다.",
+      "zh_HK": "朝頭早搭電車嘅人好少。",
+      "fr": "Tôt le matin, il y a peu de gens qui prennent le train."
+    },
+    "related": "多い"
+  },
+  {
+    "id": "card_1349",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "欲しい",
+    "reading": "ほしい",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "want; desire (an object)",
+      "zh_TW": "想要",
+      "zh_CN": "想要",
+      "ko": "가지고 싶다; 원하다",
+      "zh_HK": "想要",
+      "fr": "vouloir ; désirer (un objet)"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しくて<ruby>軽<rt>かる</rt></ruby>いパソコンが<ruby>欲<rt>ほ</rt></ruby>しいです。",
+      "en": "I want a new and lightweight laptop.",
+      "zh_TW": "我想要一台又新又輕的電腦。",
+      "zh_CN": "我想要一台又新又轻的电脑。",
+      "ko": "저는 새롭고 가벼운 노트북이 가지고 싶습니다.",
+      "zh_HK": "我想要一部又新又輕嘅手提電腦。",
+      "fr": "Je voudrais un nouvel ordinateur portable et léger."
+    },
+    "related": "〜たい"
+  },
+  {
+    "id": "card_1350",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "丈夫な",
+    "reading": "じょうぶな",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "sturdy; durable; healthy",
+      "zh_TW": "結實；牢固；健康",
+      "zh_CN": "结实；牢固；健康",
+      "ko": "튼튼하다",
+      "zh_HK": "實淨；襟用；健壯",
+      "fr": "solide ; robuste ; en bonne santé"
+    },
+    "example": {
+      "ja": "この<ruby>鞄<rt>かばん</rt></ruby>はとても<ruby>丈夫<rt>じょうぶ</rt></ruby>ですから、<ruby>長<rt>なが</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えます。",
+      "en": "Because this bag is very sturdy, you can use it for a long time.",
+      "zh_TW": "這個包包非常結實，可以用很久。",
+      "zh_CN": "这个包非常结实，可以用很久。",
+      "ko": "이 가방은 매우 튼튼해서 오래 쓸 수 있습니다.",
+      "zh_HK": "呢個袋好實淨，可以用好耐。",
+      "fr": "Ce sac est très solide, vous pourrez donc l'utiliser longtemps."
+    },
+    "related": "強い / 元気"
+  },
+  {
+    "id": "card_1351",
+    "section_num": 58,
+    "section_title": "#58 【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "folder_id": "folder_5",
+    "folder_name": "初級 52-58（Stage 6・N5総仕上げ）",
+    "word": "初めて",
+    "reading": "はじめて",
+    "category": "【N5総復習④】未習のN5動詞・形容詞・副詞",
+    "meaning": {
+      "en": "for the first time",
+      "zh_TW": "第一次；初次",
+      "zh_CN": "第一次；初次",
+      "ko": "처음으로; 처음",
+      "zh_HK": "第一次；初次",
+      "fr": "pour la première fois"
+    },
+    "example": {
+      "ja": "<ruby>去年<rt>きょねん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めてスキーをしました。",
+      "en": "Last winter, I skied for the first time.",
+      "zh_TW": "去年冬天我第一次滑了雪。",
+      "zh_CN": "去年冬天我第一次滑了雪。",
+      "ko": "작년 겨울에 처음으로 스키를 탔습니다.",
+      "zh_HK": "舊年冬天，我第一次去滑雪。",
+      "fr": "L'hiver dernier, j'ai fait du ski pour la première fois."
+    },
+    "related": "最初"
+  },
+  {
+    "id": "card_1352",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "直す・直します",
+    "reading": "なおす・なおします",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "fix; repair; correct",
+      "zh_TW": "修理；修改；改正",
+      "zh_CN": "修理；修改；改正",
+      "ko": "고치다; 수정하다",
+      "zh_HK": "修理；改（錯處）",
+      "fr": "réparer ; corriger"
+    },
+    "example": {
+      "ja": "<ruby>作文<rt>さくぶん</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>えたところを<ruby>赤<rt>あか</rt></ruby>ペンで<ruby>直<rt>なお</rt></ruby>しました。",
+      "en": "I corrected the mistakes in my essay with a red pen.",
+      "zh_TW": "用紅筆修改了作文裡寫錯的地方。",
+      "zh_CN": "用红笔修改了作文里写错的地方。",
+      "ko": "작문의 틀린 부분을 빨간 펜으로 고쳤습니다.",
+      "zh_HK": "我用紅筆改返好篇作文入面錯咗嘅地方。",
+      "fr": "J'ai corrigé les fautes de ma rédaction avec un stylo rouge."
+    },
+    "related": "修理する / 治る"
+  },
+  {
+    "id": "card_1353",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "送る・送ります",
+    "reading": "おくる・おくります",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "send (a package/mail); escort/see someone off",
+      "zh_TW": "寄；送（人）",
+      "zh_CN": "寄；送（人）",
+      "ko": "보내다; 배웅하다",
+      "zh_HK": "寄；送（人）",
+      "fr": "envoyer ; raccompagner"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>にきれいな<ruby>花<rt>はな</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りました。",
+      "en": "I sent beautiful flowers for my mother's birthday.",
+      "zh_TW": "在媽媽生日那天寄了美麗的花。",
+      "zh_CN": "在妈妈生日那天寄了美丽的花。",
+      "ko": "어머니 생신에 예쁜 꽃을 보냈습니다.",
+      "zh_HK": "喺媽咪生日嗰日，我寄咗束靚花畀佢。",
+      "fr": "J'ai envoyé de belles fleurs pour l'anniversaire de ma mère."
+    },
+    "related": "届ける / 迎えに行く"
+  },
+  {
+    "id": "card_1354",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "迎えに行く",
+    "reading": "むかえにいく",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "go to pick up (someone)",
+      "zh_TW": "去接（人）",
+      "zh_CN": "去接（人）",
+      "ko": "마중 나가다; 데리러 가다",
+      "zh_HK": "去接（人）",
+      "fr": "aller chercher (quelqu'un)"
+    },
+    "example": {
+      "ja": "<ruby>空港<rt>くうこう</rt></ruby>へ<ruby>日本<rt>にほん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えに<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I am going to the airport to pick up my Japanese friend.",
+      "zh_TW": "去機場接日本朋友。",
+      "zh_CN": "去机场接日本朋友。",
+      "ko": "공항으로 일본 친구를 마중하러 갑니다.",
+      "zh_HK": "我去機場接日本朋友。",
+      "fr": "Je vais à l'aéroport pour chercher mon ami japonais."
+    },
+    "related": "迎えに来る / 送る"
+  },
+  {
+    "id": "card_1355",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "迎えに来る",
+    "reading": "むかえにくる",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "come to pick up (someone)",
+      "zh_TW": "來接（人）",
+      "zh_CN": "来接（人）",
+      "ko": "마중 나오다; 데리러 오다",
+      "zh_HK": "嚟接（人）",
+      "fr": "venir chercher (quelqu'un)"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったので、<ruby>父<rt>ちち</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>駅<rt>えき</rt></ruby>まで<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>てくれました。",
+      "en": "Because it rained, my father came to the station by car to pick me up.",
+      "zh_TW": "因為下雨了，爸爸開車來車站接我。",
+      "zh_CN": "因为下雨了，爸爸开车来车站接我。",
+      "ko": "비가 와서 아버지가 차로 역까지 데리러 와 주셨습니다.",
+      "zh_HK": "因為落雨，爸爸揸車嚟到車站接我。",
+      "fr": "Comme il pleuvait, mon père est venu me chercher en voiture à la gare."
+    },
+    "related": "迎えに行く / 送る"
+  },
+  {
+    "id": "card_1356",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ごちそうする",
+    "reading": "ごちそうする",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "treat (someone to a meal)",
+      "zh_TW": "請客（吃飯）；款待",
+      "zh_CN": "请客（吃饭）；款待",
+      "ko": "대접하다; 한턱내다",
+      "zh_HK": "請食飯；請客",
+      "fr": "inviter (au restaurant) ; offrir un repas"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>給料<rt>きゅうりょう</rt></ruby><ruby>日<rt>び</rt></ruby>ですから、<ruby>私<rt>わたし</rt></ruby>が<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>をごちそうします。",
+      "en": "Since today is payday, I will treat you to lunch.",
+      "zh_TW": "今天是發薪日，午飯我請客。",
+      "zh_CN": "今天是发薪日，午饭我请客。",
+      "ko": "오늘은 월급날이니까 제가 점심을 한턱내겠습니다.",
+      "zh_HK": "今日出糧呀，晏晝飯等我請啦。",
+      "fr": "Comme c'est jour de paie aujourd'hui, je vous invite à déjeuner."
+    },
+    "related": "ごちそうさまでした"
+  },
+  {
+    "id": "card_1357",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "通う・通います",
+    "reading": "かよう・かよいます",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "commute; attend regularly",
+      "zh_TW": "定期往返；通學；通勤",
+      "zh_CN": "定期往返；上学；上班",
+      "ko": "다니다; 통학/통근하다",
+      "zh_HK": "返（學/工）；定期去",
+      "fr": "fréquenter ; faire la navette"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>一<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>かけて<ruby>大学<rt>だいがく</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。",
+      "en": "I commute to university by train for an hour every day.",
+      "zh_TW": "我每天搭一小時電車去上大學。",
+      "zh_CN": "我每天坐一小时电车去上大学。",
+      "ko": "저는 매일 전철로 한 시간 걸려서 대학교에 다니고 있습니다.",
+      "zh_HK": "我每日搭一個鐘頭電車返大學。",
+      "fr": "Je mets une heure en train tous les jours pour aller à l'université."
+    },
+    "related": "行く / 勤める"
+  },
+  {
+    "id": "card_1358",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "続ける・続けます",
+    "reading": "つづける・つづけます",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "continue; keep up",
+      "zh_TW": "繼續；持續",
+      "zh_CN": "继续；持续",
+      "ko": "계속하다; 이어가다",
+      "zh_HK": "繼續；堅持",
+      "fr": "continuer ; poursuivre"
+    },
+    "example": {
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby>ジョギングを<ruby>続<rt>つづ</rt></ruby>けています。",
+      "en": "For my health, I continue jogging every morning.",
+      "zh_TW": "為了健康，每天早上堅持慢跑。",
+      "zh_CN": "为了健康，每天早上坚持慢跑。",
+      "ko": "건강을 위해 매일 아침 조깅을 계속하고 있습니다.",
+      "zh_HK": "為咗健康，我每日朝早都堅持慢跑。",
+      "fr": "Pour ma santé, je continue à faire du jogging chaque matin."
+    },
+    "related": "始める / 終わる"
+  },
+  {
+    "id": "card_1359",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "噛む・噛みます",
+    "reading": "かむ・かみます",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "chew; bite",
+      "zh_TW": "嚼；咬",
+      "zh_CN": "嚼；咬",
+      "ko": "씹다; 물다",
+      "zh_HK": "咬；𡁻",
+      "fr": "mâcher ; mordre"
+    },
+    "example": {
+      "ja": "ご<ruby>飯<rt>はん</rt></ruby>はよく<ruby>噛<rt>か</rt></ruby>んでから<ruby>食<rt>た</rt></ruby>べてください。",
+      "en": "Please chew your food well before swallowing.",
+      "zh_TW": "吃飯請細嚼慢嚥。",
+      "zh_CN": "吃饭请细嚼慢咽。",
+      "ko": "밥은 잘 씹어서 드세요.",
+      "zh_HK": "食飯請𡁻爛啲先好吞呀。",
+      "fr": "Veuillez bien mâcher votre nourriture en mangeant."
+    },
+    "related": "食べる / 歯"
+  },
+  {
+    "id": "card_1360",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "声",
+    "reading": "こえ",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "voice",
+      "zh_TW": "聲音（人或動物的嗓音）",
+      "zh_CN": "声音（人或动物的嗓音）",
+      "ko": "목소리; 소리",
+      "zh_HK": "把聲；聲音（人聲）",
+      "fr": "voix"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんはとてもきれいな<ruby>声<rt>こえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>います。",
+      "en": "Ms. Suzuki sings in a very beautiful voice.",
+      "zh_TW": "鈴木小姐用非常動聽的嗓音唱歌。",
+      "zh_CN": "铃木小姐用非常动听的嗓音唱歌。",
+      "ko": "스즈키 씨는 매우 예쁜 목소리로 노래합니다.",
+      "zh_HK": "鈴木小姐唱歌把聲好靚。",
+      "fr": "Mme Suzuki chante avec une très belle voix."
+    },
+    "related": "音 / 話す"
+  },
+  {
+    "id": "card_1361",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "音",
+    "reading": "おと",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "sound; noise",
+      "zh_TW": "聲音（物體發出的聲響）",
+      "zh_CN": "声音（物体发出的声响）",
+      "ko": "소리; 음",
+      "zh_HK": "聲；聲音（物件聲）",
+      "fr": "son ; bruit"
+    },
+    "example": {
+      "ja": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>からピアノの<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえます。",
+      "en": "I can hear the sound of a piano from the next room.",
+      "zh_TW": "從隔壁房間傳來鋼琴的聲音。",
+      "zh_CN": "从隔壁房间传来钢琴的声音。",
+      "ko": "옆방에서 피아노 소리가 들립니다.",
+      "zh_HK": "隔離房傳嚟彈鋼琴嘅聲。",
+      "fr": "On entend le son d'un piano depuis la pièce voisine."
+    },
+    "related": "声 / 音楽"
+  },
+  {
+    "id": "card_1362",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "景色",
+    "reading": "けしき",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "scenery; landscape",
+      "zh_TW": "景色；風景",
+      "zh_CN": "景色；风景",
+      "ko": "경치; 풍경",
+      "zh_HK": "景色；風景",
+      "fr": "paysage ; vue"
+    },
+    "example": {
+      "ja": "<ruby>山<rt>やま</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>から<ruby>見<rt>み</rt></ruby>る<ruby>秋<rt>あき</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しいです。",
+      "en": "The autumn scenery seen from the top of the mountain is truly beautiful.",
+      "zh_TW": "從山頂看到的秋天景色真的很美。",
+      "zh_CN": "从山顶看到的秋天景色真的很美。",
+      "ko": "산 정상에서 보는 가을 경치는 정말 아름답습니다.",
+      "zh_HK": "喺山頂望落去嘅秋天景色真係好靚。",
+      "fr": "Le paysage d'automne vu du sommet de la montagne est vraiment magnifique."
+    },
+    "related": "眺め / 自然"
+  },
+  {
+    "id": "card_1363",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "眺め",
+    "reading": "ながめ",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "view; prospect",
+      "zh_TW": "景觀；視野；眺望的景色",
+      "zh_CN": "眺望的景色；视野；景观",
+      "ko": "전망; 경치",
+      "zh_HK": "景觀；視野",
+      "fr": "vue ; panorama"
+    },
+    "example": {
+      "ja": "このホテルのレストランは<ruby>海<rt>うみ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えて<ruby>眺<rt>なが</rt></ruby>めがいいです。",
+      "en": "This hotel's restaurant overlooks the sea and has a great view.",
+      "zh_TW": "這家飯店的餐廳能看到大海，視野很好。",
+      "zh_CN": "这家酒店的餐厅能看到大海，视野很好。",
+      "ko": "이 호텔 레스토랑은 바다가 보여서 전망이 좋습니다.",
+      "zh_HK": "呢間酒店嘅餐廳望到海，個景觀好靚。",
+      "fr": "Le restaurant de cet hôtel donne sur la mer et offre une belle vue."
+    },
+    "related": "景色"
+  },
+  {
+    "id": "card_1364",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "波",
+    "reading": "なみ",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "wave",
+      "zh_TW": "波浪；海浪",
+      "zh_CN": "波浪；海浪",
+      "ko": "파도; 물결",
+      "zh_HK": "浪；海浪",
+      "fr": "vague ; onde"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて、<ruby>海<rt>うみ</rt></ruby>の<ruby>波<rt>なみ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。",
+      "en": "The wind is strong today, and the ocean waves are high.",
+      "zh_TW": "今天風很大，海浪很高。",
+      "zh_CN": "今天风很大，海浪很高。",
+      "ko": "오늘은 바람이 세서 바다 파도가 높습니다.",
+      "zh_HK": "今日好大風，海面啲浪好大。",
+      "fr": "Aujourd'hui, le vent est fort et les vagues de la mer sont hautes."
+    },
+    "related": "海 / 風"
+  },
+  {
+    "id": "card_1365",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "品物",
+    "reading": "しなもの",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "goods; article; item",
+      "zh_TW": "物品；商品；貨品",
+      "zh_CN": "物品；商品；货品",
+      "ko": "물품; 물건",
+      "zh_HK": "貨品；物品",
+      "fr": "marchandise ; article"
+    },
+    "example": {
+      "ja": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>安<rt>やす</rt></ruby>くていい<ruby>品物<rt>しなもの</rt></ruby>がたくさんあります。",
+      "en": "This shop has many cheap and good-quality items.",
+      "zh_TW": "這家店有很多物美價廉的商品。",
+      "zh_CN": "这家店有很多物美价廉的商品。",
+      "ko": "이 가게는 싸고 좋은 물건이 많이 있습니다.",
+      "zh_HK": "呢間舖頭有好多又平又靚嘅貨品。",
+      "fr": "Ce magasin propose beaucoup d'articles de bonne qualité et pas chers."
+    },
+    "related": "荷物 / 店"
+  },
+  {
+    "id": "card_1366",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "人気がある",
+    "reading": "にんきがある",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "be popular",
+      "zh_TW": "受歡迎；有人氣",
+      "zh_CN": "受欢迎；有人气",
+      "ko": "인기가 있다",
+      "zh_HK": "受歡迎；有人氣",
+      "fr": "être populaire ; avoir du succès"
+    },
+    "example": {
+      "ja": "このアニメは<ruby>外国<rt>がいこく</rt></ruby>でもとても<ruby>人気<rt>にんき</rt></ruby>があります。",
+      "en": "This anime is very popular in foreign countries as well.",
+      "zh_TW": "這部動漫在外國也非常受歡迎。",
+      "zh_CN": "这部动漫在外国也非常受欢迎。",
+      "ko": "이 애니메이션은 외국에서도 매우 인기가 있습니다.",
+      "zh_HK": "呢套動畫喺外國都好受歡迎。",
+      "fr": "Cet anime est également très populaire à l'étranger."
+    },
+    "related": "有名"
+  },
+  {
+    "id": "card_1367",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ジョギング",
+    "reading": "じょぎんぐ",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "jogging",
+      "zh_TW": "慢跑",
+      "zh_CN": "慢跑",
+      "ko": "조깅",
+      "zh_HK": "慢跑；緩步跑",
+      "fr": "jogging ; footing"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>ジョギングをしています。",
+      "en": "Every morning I jog for thirty minutes in the park.",
+      "zh_TW": "每天早上在公園慢跑三十分鐘。",
+      "zh_CN": "每天早上在公园慢跑三十分钟。",
+      "ko": "매일 아침 공원에서 30분 동안 조깅을 하고 있습니다.",
+      "zh_HK": "我每日朝早都喺公園慢跑三十分鐘。",
+      "fr": "Chaque matin, je fais trente minutes de jogging dans le parc."
+    },
+    "related": "走る / 運動"
+  },
+  {
+    "id": "card_1368",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "はっきり",
+    "reading": "はっきり",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "clearly; distinctly",
+      "zh_TW": "清楚地；明確地",
+      "zh_CN": "清楚地；明确地",
+      "ko": "분명히; 또렷이",
+      "zh_HK": "清楚；清晰",
+      "fr": "clairement ; distinctement"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がよくて、<ruby>遠<rt>とお</rt></ruby>くの<ruby>山<rt>やま</rt></ruby>がはっきり<ruby>見<rt>み</rt></ruby>えます。",
+      "en": "The weather is nice today, and the distant mountains can be seen clearly.",
+      "zh_TW": "今天天氣很好，遠處的山看得清清楚楚。",
+      "zh_CN": "今天天气很好，远处的山看得清清楚楚。",
+      "ko": "오늘은 날씨가 좋아서 멀리 있는 산이 또렷이 보입니다.",
+      "zh_HK": "今日天氣好好，遠處嘅山都睇得好清楚。",
+      "fr": "Il fait beau aujourd'hui et on voit clairement les montagnes au loin."
+    },
+    "related": "よく / ぜんぜん"
+  },
+  {
+    "id": "card_1369",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜しか",
+    "reading": "〜しか",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "only ... (used with negative verb)",
+      "zh_TW": "只…；僅…（接否定）",
+      "zh_CN": "只…；仅…（接否定）",
+      "ko": "~밖에",
+      "zh_HK": "只係…；得…（接否定）",
+      "fr": "ne ... que"
+    },
+    "example": {
+      "ja": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>五<rt>ご</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>しかありません。",
+      "en": "There is only 500 yen in my wallet.",
+      "zh_TW": "錢包裡只有五百日圓。",
+      "zh_CN": "钱包里只有五百日元。",
+      "ko": "지갑 안에 500엔밖에 없습니다.",
+      "zh_HK": "我個銀包入面得返五百円咋。",
+      "fr": "Il n'y a que cinq cents yens dans mon portefeuille."
+    },
+    "related": "〜だけ"
+  },
+  {
+    "id": "card_1370",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜ながら",
+    "reading": "〜ながら",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "while doing ...",
+      "zh_TW": "一邊…一邊…",
+      "zh_CN": "一边…一边…",
+      "ko": "~하면서",
+      "zh_HK": "一邊…一邊…",
+      "fr": "tout en faisant ..."
+    },
+    "example": {
+      "ja": "いつも<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きながら、<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>をします。",
+      "en": "I always clean my room while listening to music.",
+      "zh_TW": "我總是一邊聽音樂一邊打掃房間。",
+      "zh_CN": "我总是一边听音乐一边打扫房间。",
+      "ko": "언제나 음악을 들으면서 방 청소를 합니다.",
+      "zh_HK": "我成日都一邊聽音樂，一邊執屋。",
+      "fr": "Je nettoie toujours ma chambre tout en écoutant de la musique."
+    },
+    "related": "〜て"
+  },
+  {
+    "id": "card_1371",
+    "section_num": 59,
+    "section_title": "#59 Stage 7 生活・送迎・継続・様子の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜し",
+    "reading": "〜し",
+    "category": "Stage 7 生活・送迎・継続・様子の新出語",
+    "meaning": {
+      "en": "not only ... but also; because (listing reasons)",
+      "zh_TW": "既…又…；而且（列舉原因）",
+      "zh_CN": "既…又…；而且（列举原因）",
+      "ko": "~하고; ~해서",
+      "zh_HK": "既…又…；而且（列舉原因）",
+      "fr": "non seulement ... mais aussi ; et puis"
+    },
+    "example": {
+      "ja": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>もおいしいし、<ruby>値段<rt>ねだん</rt></ruby>も<ruby>安<rt>やす</rt></ruby>いです。",
+      "en": "This restaurant not only has delicious food, its prices are also cheap.",
+      "zh_TW": "這家店不僅菜好吃，價格也很便宜。",
+      "zh_CN": "这家店不仅菜好吃，价格也很便宜。",
+      "ko": "이 가게는 요리도 맛있고 가격도 쌉니다.",
+      "zh_HK": "呢間餐廳啲嘢食又好味，價錢又平。",
+      "fr": "Dans ce restaurant, non seulement la cuisine est délicieuse, mais les prix sont aussi bas."
+    },
+    "related": "〜から"
+  },
+  {
+    "id": "card_1372",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "開く・開きます",
+    "reading": "あく・あきます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "open; be opened (intransitive)",
+      "zh_TW": "開；打開（自動詞）",
+      "zh_CN": "开；打开（自动词）",
+      "ko": "열리다",
+      "zh_HK": "開；打開（自動詞）",
+      "fr": "s'ouvrir (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>のドアが<ruby>自動<rt>じどう</rt></ruby>で<ruby>開<rt>あ</rt></ruby>きます。",
+      "en": "The train doors open automatically.",
+      "zh_TW": "電車的門自動打開。",
+      "zh_CN": "电车的门自动打开。",
+      "ko": "전철 문이 자동으로 열립니다.",
+      "zh_HK": "電車嘅門會自動打開。",
+      "fr": "Les portes du train s'ouvrent automatiquement."
+    },
+    "related": "開ける（他動詞） / 閉まる"
+  },
+  {
+    "id": "card_1373",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "閉まる・閉まります",
+    "reading": "しまる・しまります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "close; be closed (intransitive)",
+      "zh_TW": "關；關閉（自動詞）",
+      "zh_CN": "关；关闭（自动词）",
+      "ko": "닫히다",
+      "zh_HK": "閂；關埋（自動詞）",
+      "fr": "se fermer (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>午後<rt>ごご</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>にスーパーのドアが<ruby>閉<rt>し</rt></ruby>まります。",
+      "en": "The supermarket doors close at nine o'clock in the evening.",
+      "zh_TW": "超市的門晚上九點關。",
+      "zh_CN": "超市的门晚上九点关。",
+      "ko": "오후 9시에 슈퍼마켓 문이 닫힙니다.",
+      "zh_HK": "超級市場嘅門夜晚九點鐘會閂。",
+      "fr": "Les portes du supermarché ferment à vingt et une heures."
+    },
+    "related": "閉める（他動詞） / 開く"
+  },
+  {
+    "id": "card_1374",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "つく・つきます",
+    "reading": "つく・つきます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "turn on; be lit (lights, electricity)",
+      "zh_TW": "亮；點亮（自動詞）",
+      "zh_CN": "亮；点亮（自动词）",
+      "ko": "(불이) 켜지다",
+      "zh_HK": "着（燈/電）（自動詞）",
+      "fr": "s'allumer (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>自動<rt>じどう</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>がつきます。",
+      "en": "When you enter the room, the light turns on automatically.",
+      "zh_TW": "一進房間，電燈就會自動亮起。",
+      "zh_CN": "一进房间，电灯就会自动亮起。",
+      "ko": "방에 들어가면 자동으로 불이 켜집니다.",
+      "zh_HK": "一入間房，盞燈就會自動着。",
+      "fr": "Quand on entre dans la pièce, la lumière s'allume automatiquement."
+    },
+    "related": "つける（他動詞） / 消える"
+  },
+  {
+    "id": "card_1375",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "消える・消えます",
+    "reading": "きえる・きえます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "go out; turn off; disappear (intransitive)",
+      "zh_TW": "熄滅；消失（自動詞）",
+      "zh_CN": "熄灭；消失（自动词）",
+      "ko": "(불이) 꺼지다; 사라지다",
+      "zh_HK": "熄（燈/火）；消失（自動詞）",
+      "fr": "s'éteindre ; disparaître (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いて、ろうそくの<ruby>火<rt>ひ</rt></ruby>が<ruby>消<rt>き</rt></ruby>えました。",
+      "en": "A strong wind blew, and the candle flame went out.",
+      "zh_TW": "颳了一陣大風，蠟燭的火滅了。",
+      "zh_CN": "刮了一阵大风，蜡烛的火灭了。",
+      "ko": "강한 바람이 불어서 촛불이 꺼졌습니다.",
+      "zh_HK": "吹咗一陣大風，蠟燭啲火熄咗。",
+      "fr": "Un vent fort a soufflé et la flamme de la bougie s'est éteinte."
+    },
+    "related": "消す（他動詞） / つく"
+  },
+  {
+    "id": "card_1376",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "止まる・止まります",
+    "reading": "とまる・とまります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "stop; come to a halt (intransitive)",
+      "zh_TW": "停；停下（自動詞）",
+      "zh_CN": "停；停下（自动词）",
+      "ko": "멈추다; 서다",
+      "zh_HK": "停；停低（自動詞）",
+      "fr": "s'arrêter (intransitif)"
+    },
+    "example": {
+      "ja": "この<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>各駅<rt>かくえき</rt></ruby>に<ruby>止<rt>と</rt></ruby>まります。",
+      "en": "This train stops at every station.",
+      "zh_TW": "這班電車每站都停。",
+      "zh_CN": "这趟电车每站都停。",
+      "ko": "이 전철은 각 역에 섭니다.",
+      "zh_HK": "呢班電車站站停。",
+      "fr": "Ce train s'arrête à toutes les gares."
+    },
+    "related": "止める（他動詞）"
+  },
+  {
+    "id": "card_1377",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "壊れる・壊れます",
+    "reading": "こわれる・こわれます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; be broken (intransitive)",
+      "zh_TW": "壞；損壞（自動詞）",
+      "zh_CN": "坏；损坏（自动词）",
+      "ko": "고장 나다; 부서지다",
+      "zh_HK": "爛；壞（自動詞）",
+      "fr": "se casser ; tomber en panne (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>急<rt>きゅう</rt></ruby>にエアコンが<ruby>壊<rt>こわ</rt></ruby>れてしまいました。",
+      "en": "Last night, the air conditioner suddenly broke down.",
+      "zh_TW": "昨天晚上冷氣突然壞了。",
+      "zh_CN": "昨天晚上空调突然坏了。",
+      "ko": "어젯밤에 갑자기 에어컨이 고장 나 버렸습니다.",
+      "zh_HK": "尋晚部冷氣突然間壞咗。",
+      "fr": "Hier soir, le climatiseur est soudainement tombé en panne."
+    },
+    "related": "壊す（他動詞） / 直す"
+  },
+  {
+    "id": "card_1378",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "壊す・壊します",
+    "reading": "こわす・こわします",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; destroy (transitive)",
+      "zh_TW": "弄壞；打破（他動詞）",
+      "zh_CN": "弄坏；打碎（他动词）",
+      "ko": "고장 내다; 부수다",
+      "zh_HK": "整爛；整壞（他動詞）",
+      "fr": "casser ; détruire (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>弟<rt>おとうと</rt></ruby>が<ruby>誤<rt>あやま</rt></ruby>っておもちゃを<ruby>壊<rt>こわ</rt></ruby>してしまいました。",
+      "en": "My younger brother accidentally broke the toy.",
+      "zh_TW": "弟弟不小心把玩具弄壞了。",
+      "zh_CN": "弟弟不小心把玩具弄坏了。",
+      "ko": "남동생이 실수로 장난감을 고장 내 버렸습니다.",
+      "zh_HK": "細佬唔小心整爛咗件玩具。",
+      "fr": "Mon petit frère a cassé le jouet par mégarde."
+    },
+    "related": "壊れる（自動詞） / 直す"
+  },
+  {
+    "id": "card_1379",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "汚れる・汚れます",
+    "reading": "よごれる・よごれます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "get dirty; become soiled (intransitive)",
+      "zh_TW": "變髒（自動詞）",
+      "zh_CN": "变脏（自动词）",
+      "ko": "더러워지다",
+      "zh_HK": "整污糟；變污糟（自動詞）",
+      "fr": "se salir (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>いたので、<ruby>白<rt>しろ</rt></ruby>い<ruby>靴<rt>くつ</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れました。",
+      "en": "Because I walked on a rainy day, my white shoes got dirty.",
+      "zh_TW": "因為雨天走路，白鞋變髒了。",
+      "zh_CN": "因为雨天走路，白鞋变脏了。",
+      "ko": "비 오는 날에 걸어서 하얀 신발이 더러워졌습니다.",
+      "zh_HK": "因為落雨天行路，對白鞋污糟咗。",
+      "fr": "Comme j'ai marché sous la pluie, mes chaussures blanches se sont salies."
+    },
+    "related": "汚す（他動詞） / 汚い"
+  },
+  {
+    "id": "card_1380",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "汚す・汚します",
+    "reading": "よごす・よごします",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "make dirty; stain (transitive)",
+      "zh_TW": "弄髒（他動詞）",
+      "zh_CN": "弄脏（他动词）",
+      "ko": "더럽히다",
+      "zh_HK": "整污糟（他動詞）",
+      "fr": "salir (transitif)"
+    },
+    "example": {
+      "ja": "コーヒーをこぼして、<ruby>新<rt>あたら</rt></ruby>しいシャツを<ruby>汚<rt>よご</rt></ruby>してしまいました。",
+      "en": "I spilled coffee and stained my new shirt.",
+      "zh_TW": "灑了咖啡，把新襯衫弄髒了。",
+      "zh_CN": "洒了咖啡，把新衬衫弄脏了。",
+      "ko": "커피를 쏟아서 새 셔츠를 더럽히고 말았습니다.",
+      "zh_HK": "我倒瀉咗咖啡，整污糟咗件新恤衫。",
+      "fr": "J'ai renversé du café et j'ai sali ma chemise neuve."
+    },
+    "related": "汚れる（自動詞） / 洗う"
+  },
+  {
+    "id": "card_1381",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "割れる・割れます",
+    "reading": "われる・われます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; crack; smash (glass, dishes) (intransitive)",
+      "zh_TW": "碎；破裂（自動詞）",
+      "zh_CN": "碎；破裂（自动词）",
+      "ko": "깨지다",
+      "zh_HK": "爛；碎（玻璃/碟）（自動詞）",
+      "fr": "se casser ; se briser (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>地震<rt>じしん</rt></ruby>で<ruby>棚<rt>たな</rt></ruby>からお<ruby>皿<rt>さら</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちて<ruby>割<rt>わ</rt></ruby>れました。",
+      "en": "Due to the earthquake, plates fell from the shelf and broke.",
+      "zh_TW": "因為地震，盤子從架子上掉下來摔碎了。",
+      "zh_CN": "因为地震，盘子从架子上掉下来摔碎了。",
+      "ko": "지진으로 선반에서 접시가 떨어져 깨졌습니다.",
+      "zh_HK": "因為地震，隻碟由個架度跌落嚟跌爛咗。",
+      "fr": "À cause du tremblement de terre, des assiettes sont tombées de l'étagère et se sont brisées."
+    },
+    "related": "割る（他動詞）"
+  },
+  {
+    "id": "card_1382",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "割る・割ります",
+    "reading": "わる・わります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; crack; split (transitive)",
+      "zh_TW": "打破；打碎（他動詞）",
+      "zh_CN": "打碎；打破（他动词）",
+      "ko": "깨다; 나누다",
+      "zh_HK": "打爛；扑爛（他動詞）",
+      "fr": "casser ; briser (transitif)"
+    },
+    "example": {
+      "ja": "お<ruby>皿<rt>さら</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>っているときに、コップを<ruby>一<rt>ひと</rt></ruby>つ<ruby>割<rt>わ</rt></ruby>ってしまいました。",
+      "en": "While washing the dishes, I accidentally broke one glass.",
+      "zh_TW": "洗碗的時候不小心打破了一個杯子。",
+      "zh_CN": "洗碗的时候不小心打碎了一个杯子。",
+      "ko": "설거지를 하다가 컵을 하나 깨뜨리고 말았습니다.",
+      "zh_HK": "洗緊碗嗰陣，我唔小心打爛咗一隻杯。",
+      "fr": "En faisant la vaisselle, j'ai malheureusement cassé un verre."
+    },
+    "related": "割れる（自動詞）"
+  },
+  {
+    "id": "card_1383",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "折れる・折れます",
+    "reading": "おれる・おれます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; snap; be folded (stick, bone, branch) (intransitive)",
+      "zh_TW": "斷；折斷（自動詞）",
+      "zh_CN": "断；折断（自动词）",
+      "ko": "부러지다; 접히다",
+      "zh_HK": "斷；折斷（自動詞）",
+      "fr": "se casser ; se plier (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で<ruby>庭<rt>にわ</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れました。",
+      "en": "A branch of the garden tree snapped in the strong wind.",
+      "zh_TW": "院子裡的樹枝被大風吹斷了。",
+      "zh_CN": "院子里的树枝被大风吹断了。",
+      "ko": "강한 바람에 정원의 나뭇가지가 부러졌습니다.",
+      "zh_HK": "花園棵樹嘅樹枝畀大風吹斷咗。",
+      "fr": "Une branche de l'arbre du jardin s'est cassée à cause du vent fort."
+    },
+    "related": "折る（他動詞）"
+  },
+  {
+    "id": "card_1384",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "折る・折ります",
+    "reading": "おる・おります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "break; snap; fold (paper) (transitive)",
+      "zh_TW": "折；摺疊；弄斷（他動詞）",
+      "zh_CN": "折；折叠；弄断（他动词）",
+      "ko": "부러뜨리다; 접다",
+      "zh_HK": "摺（紙）；拗斷（他動詞）",
+      "fr": "casser ; plier (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>色紙<rt>いろがみ</rt></ruby>を<ruby>折<rt>お</rt></ruby>って、きれいな<ruby>鶴<rt>つる</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+      "en": "I folded colored paper and made a pretty paper crane.",
+      "zh_TW": "摺色紙做了一隻漂亮的紙鶴。",
+      "zh_CN": "折彩纸做了一只漂亮的纸鹤。",
+      "ko": "색종이를 접어서 예쁜 학을 만들었습니다.",
+      "zh_HK": "我摺咗張顏色紙，整咗隻好靚嘅紙鶴。",
+      "fr": "J'ai plié du papier coloré pour faire une jolie grue en origami."
+    },
+    "related": "折れる（自動詞）"
+  },
+  {
+    "id": "card_1385",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "破れる・破れます",
+    "reading": "やぶれる・やぶれます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "tear; rip; be torn (paper, cloth) (intransitive)",
+      "zh_TW": "破；撕破（自動詞）",
+      "zh_CN": "破；撕破（自动词）",
+      "ko": "찢어지다",
+      "zh_HK": "穿；爛（紙/衫）（自動詞）",
+      "fr": "se déchirer (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>すぎて、<ruby>紙袋<rt>かみぶくろ</rt></ruby>が<ruby>破<rt>やぶ</rt></ruby>れてしまいました。",
+      "en": "The luggage was too heavy, and the paper bag tore.",
+      "zh_TW": "因為東西太重，紙袋破了。",
+      "zh_CN": "因为东西太重，纸袋破了。",
+      "ko": "짐이 너무 무거워서 종이봉투가 찢어져 버렸습니다.",
+      "zh_HK": "因為啲嘢太重，個紙袋穿咗。",
+      "fr": "Comme le contenu était trop lourd, le sac en papier s'est déchiré."
+    },
+    "related": "破る（他動詞）"
+  },
+  {
+    "id": "card_1386",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "破る・破ります",
+    "reading": "やぶる・やぶります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "tear; rip; break (a rule/promise) (transitive)",
+      "zh_TW": "撕破；打破（約定）（他動詞）",
+      "zh_CN": "撕破；打破（约定）（他动词）",
+      "ko": "찢다; (약속을) 어기다",
+      "zh_HK": "搣爛；違反（規矩）（他動詞）",
+      "fr": "déchirer ; rompre (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>古<rt>ふる</rt></ruby>い<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>細<rt>こま</rt></ruby>かく<ruby>破<rt>やぶ</rt></ruby>って<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てました。",
+      "en": "I tore the old letter into small pieces and threw it in the trash can.",
+      "zh_TW": "把舊信撕碎丟進了垃圾桶。",
+      "zh_CN": "把旧信撕碎扔进了垃圾桶。",
+      "ko": "오래된 편지를 잘게 찢어서 쓰레기통에 버렸습니다.",
+      "zh_HK": "我將封舊信搣碎掉入垃圾桶。",
+      "fr": "J'ai déchiré la vieille lettre en petits morceaux et je l'ai jetée à la poubelle."
+    },
+    "related": "破れる（自動詞）"
+  },
+  {
+    "id": "card_1387",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "落ちる・落ちます",
+    "reading": "おちる・おちます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "fall; drop (intransitive)",
+      "zh_TW": "掉；落下（自動詞）",
+      "zh_CN": "掉；落下（自动词）",
+      "ko": "떨어지다",
+      "zh_HK": "跌落嚟；甩（自動詞）",
+      "fr": "tomber (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>秋<rt>あき</rt></ruby>になると、<ruby>木の葉<rt>このは</rt></ruby>がたくさん<ruby>落<rt>お</rt></ruby>ちます。",
+      "en": "When autumn comes, many tree leaves fall.",
+      "zh_TW": "到了秋天，許多樹葉會落下來。",
+      "zh_CN": "到了秋天，许多树叶会落下来。",
+      "ko": "가을이 되면 나뭇잎이 많이 떨어집니다.",
+      "zh_HK": "一到秋天，好多樹葉就會跌落嚟。",
+      "fr": "Quand l'automne arrive, beaucoup de feuilles tombent des arbres."
+    },
+    "related": "落とす（他動詞）"
+  },
+  {
+    "id": "card_1388",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "落とす・落とします",
+    "reading": "おとす・おとします",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "drop; lose (transitive)",
+      "zh_TW": "弄掉；遺失（他動詞）",
+      "zh_CN": "弄掉；遗失（他动词）",
+      "ko": "떨어뜨리다",
+      "zh_HK": "跌咗；整跌（他動詞）",
+      "fr": "faire tomber ; perdre (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>階段<rt>かいだん</rt></ruby>でスマートフォンを<ruby>落<rt>お</rt></ruby>としてしまいました。",
+      "en": "I accidentally dropped my smartphone on the stairs.",
+      "zh_TW": "在樓梯上不小心把智慧型手機掉在了地上。",
+      "zh_CN": "在楼梯上不小心把智能手机掉在了地上。",
+      "ko": "계단에서 스마트폰을 떨어뜨리고 말았습니다.",
+      "zh_HK": "我喺樓梯唔小心跌咗部電話落地。",
+      "fr": "J'ai malencontreusement fait tomber mon smartphone dans les escaliers."
+    },
+    "related": "落ちる（自動詞） / 拾う"
+  },
+  {
+    "id": "card_1389",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "並ぶ・並びます",
+    "reading": "ならぶ・ならびます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "line up; stand in a line (intransitive)",
+      "zh_TW": "排隊；排列（自動詞）",
+      "zh_CN": "排队；排列（自动词）",
+      "ko": "줄 서다; 나란히 서다",
+      "zh_HK": "排隊；排好（自動詞）",
+      "fr": "faire la queue ; s'aligner (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>有名<rt>ゆうめい</rt></ruby>なラーメン<ruby>屋<rt>や</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。",
+      "en": "Many people are lining up in front of the famous ramen shop.",
+      "zh_TW": "著名的拉麵店前排了很多人。",
+      "zh_CN": "著名的拉面店前排了很多人。",
+      "ko": "유명한 라멘집 앞에 많은 사람이 줄을 서 있습니다.",
+      "zh_HK": "嗰間出名嘅拉麵舖出面有好多人排緊隊。",
+      "fr": "Beaucoup de gens font la queue devant ce célèbre restaurant de ramen."
+    },
+    "related": "並べる（他動詞）"
+  },
+  {
+    "id": "card_1390",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "並べる・並べます",
+    "reading": "ならべる・ならべます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "line up; arrange; lay out (transitive)",
+      "zh_TW": "排列；擺放（他動詞）",
+      "zh_CN": "排列；摆放（他动词）",
+      "ko": "나란히 놓다; 진열하다",
+      "zh_HK": "擺好；排列（他動詞）",
+      "fr": "aligner ; disposer (transitif)"
+    },
+    "example": {
+      "ja": "テーブルの<ruby>上<rt>うえ</rt></ruby>にお<ruby>皿<rt>さら</rt></ruby>とコップをきれいに<ruby>並<rt>なら</rt></ruby>べました。",
+      "en": "I neatly arranged the plates and glasses on the table.",
+      "zh_TW": "在桌子上整齊地擺好了盤子和杯子。",
+      "zh_CN": "在桌子上整齐地摆好了盘子和杯子。",
+      "ko": "테이블 위에 접시와 컵을 예쁘게 늘어놓았습니다.",
+      "zh_HK": "我喺張枱上面整齊噉擺好晒啲碟同杯。",
+      "fr": "J'ai soigneusement disposé les assiettes et les verres sur la table."
+    },
+    "related": "並ぶ（自動詞）"
+  },
+  {
+    "id": "card_1391",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "掛かる・掛かります",
+    "reading": "かかる・かかります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "hang; be hung; be locked (intransitive)",
+      "zh_TW": "掛著；鎖著（自動詞）",
+      "zh_CN": "挂着；锁着（自动词）",
+      "ko": "걸리다; 잠기다",
+      "zh_HK": "掛住；鎖住（自動詞）",
+      "fr": "être accroché ; être verrouillé (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>にきれいな<ruby>絵<rt>え</rt></ruby>が<ruby>掛<rt>か</rt></ruby>かっています。",
+      "en": "A beautiful picture is hanging on the wall of the room.",
+      "zh_TW": "房間的牆上掛著一幅美麗的畫。",
+      "zh_CN": "房间的墙上挂着一幅美丽的画。",
+      "ko": "방 벽에 예쁜 그림이 걸려 있습니다.",
+      "zh_HK": "間房嘅牆上面掛住一幅好靚嘅畫。",
+      "fr": "Un joli tableau est accroché au mur de la chambre."
+    },
+    "related": "掛ける（他動詞）"
+  },
+  {
+    "id": "card_1392",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "掛ける・掛けます",
+    "reading": "かける・かけます",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "hang; put on (glasses); lock (transitive)",
+      "zh_TW": "掛；戴（眼鏡）；鎖（他動詞）",
+      "zh_CN": "挂；戴（眼镜）；锁（他动词）",
+      "ko": "걸다",
+      "zh_HK": "掛（衫/畫）（他動詞）",
+      "fr": "accrocher ; suspendre (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>脱<rt>ぬ</rt></ruby>いだコートをハンガーに<ruby>掛<rt>か</rt></ruby>けました。",
+      "en": "I hung the coat I took off on a hanger.",
+      "zh_TW": "把脫下來的大衣掛在了衣架上。",
+      "zh_CN": "把脱下来的大衣挂在了衣架上。",
+      "ko": "벗은 코트를 옷걸이에 걸었습니다.",
+      "zh_HK": "我將除落嚟嘅大褸掛喺衣架度。",
+      "fr": "J'ai accroché mon manteau sur un cintre après l'avoir enlevé."
+    },
+    "related": "掛かる（自動詞）"
+  },
+  {
+    "id": "card_1393",
+    "section_num": 60,
+    "section_title": "#60 Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "貼る・貼ります",
+    "reading": "はる・はります",
+    "category": "Stage 7 自動詞・他動詞ペア完全攻略(1)",
+    "meaning": {
+      "en": "stick; paste; put up (a poster/stamp)",
+      "zh_TW": "貼；張貼",
+      "zh_CN": "贴；张贴",
+      "ko": "붙이다",
+      "zh_HK": "貼（郵票/海報）",
+      "fr": "coller ; afficher"
+    },
+    "example": {
+      "ja": "<ruby>封筒<rt>ふうとう</rt></ruby>に<ruby>八<rt>はち</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>四<rt>よん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<ruby>貼<rt>は</rt></ruby>って<ruby>出<rt>だ</rt></ruby>しました。",
+      "en": "I stuck an 84-yen stamp on the envelope and mailed it.",
+      "zh_TW": "在信封上貼了八十四日圓的郵票寄出去了。",
+      "zh_CN": "在信封上贴了八十四日元的邮票寄出去了。",
+      "ko": "봉투에 84엔짜리 우표를 붙여서 보냈습니다.",
+      "zh_HK": "我喺信封上面貼咗張八十四円嘅郵票然後寄出。",
+      "fr": "J'ai collé un timbre à quatre-vingt-quatre yens sur l'enveloppe avant de l'envoyer."
+    },
+    "related": "ポスター / 切手"
+  },
+  {
+    "id": "card_1394",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飾る・飾ります",
+    "reading": "かざる・かざります",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "decorate; display",
+      "zh_TW": "裝飾；擺設",
+      "zh_CN": "装饰；摆设",
+      "ko": "장식하다; 꾸미다",
+      "zh_HK": "裝飾；擺設",
+      "fr": "décorer ; exposer"
+    },
+    "example": {
+      "ja": "<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>春<rt>はる</rt></ruby>の<ruby>花<rt>はな</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>りました。",
+      "en": "I displayed spring flowers at the entranceway.",
+      "zh_TW": "在玄關擺上了春天的花。",
+      "zh_CN": "在玄关摆上了春天的花。",
+      "ko": "현관에 봄꽃을 장식했습니다.",
+      "zh_HK": "我喺玄關度擺咗啲春天嘅花做裝飾。",
+      "fr": "J'ai décoré l'entrée avec des fleurs de printemps."
+    },
+    "related": "花瓶 / 並べる"
+  },
+  {
+    "id": "card_1395",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "片付ける・片付けます",
+    "reading": "かたづける・かたづけます",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "tidy up; put in order; clean up",
+      "zh_TW": "收拾；整理",
+      "zh_CN": "收拾；整理",
+      "ko": "치우다; 정리하다",
+      "zh_HK": "執拾；執好",
+      "fr": "ranger ; mettre en ordre"
+    },
+    "example": {
+      "ja": "お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>部屋<rt>へや</rt></ruby>をきれいに<ruby>片付<rt>かたづ</rt></ruby>けました。",
+      "en": "Before the guests arrived, I tidied up the room neatly.",
+      "zh_TW": "在客人來之前，把房間收拾得乾乾淨淨。",
+      "zh_CN": "在客人来之前，把房间收拾得干干净净。",
+      "ko": "손님이 오기 전에 방을 깨끗하게 치웠습니다.",
+      "zh_HK": "喺客人嚟之前，我將間房執得好乾淨。",
+      "fr": "Avant l'arrivée des invités, j'ai bien rangé la pièce."
+    },
+    "related": "掃除する / 戻す"
+  },
+  {
+    "id": "card_1396",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "戻す・戻します",
+    "reading": "もどす・もどします",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "put back; return (to original place)",
+      "zh_TW": "放回；歸還原處",
+      "zh_CN": "放回；归还原处",
+      "ko": "돌려놓다; 제자리에 두다",
+      "zh_HK": "放返原位；還原",
+      "fr": "remettre (à sa place) ; rendre"
+    },
+    "example": {
+      "ja": "<ruby>使<rt>つか</rt></ruby>ったハサミは<ruby>元<rt>もと</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>戻<rt>もど</rt></ruby>してください。",
+      "en": "Please put the scissors you used back into the original drawer.",
+      "zh_TW": "用過的剪刀請放回原來的抽屜裡。",
+      "zh_CN": "用过的剪刀请放回原来的抽屉里。",
+      "ko": "사용한 가위는 원래 서랍에 돌려놓아 주세요.",
+      "zh_HK": "用完嘅較剪請放返入原本個櫃桶度。",
+      "fr": "Veuillez remettre les ciseaux que vous avez utilisés dans leur tiroir d'origine."
+    },
+    "related": "片付ける / 返す"
+  },
+  {
+    "id": "card_1397",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "植える・植えます",
+    "reading": "うえる・うえます",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "plant; grow (trees, flowers)",
+      "zh_TW": "種；種植",
+      "zh_CN": "种；种植",
+      "ko": "심다",
+      "zh_HK": "種（花/樹）",
+      "fr": "planter"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>庭<rt>にわ</rt></ruby>にトマトの<ruby>苗<rt>なえ</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。",
+      "en": "On the weekend, I planted tomato seedlings in the garden.",
+      "zh_TW": "週末在院子裡種了番茄苗。",
+      "zh_CN": "周末在院子里种了番茄苗。",
+      "ko": "주말에 정원에 토마토 모종을 심었습니다.",
+      "zh_HK": "週末我喺花園度種咗啲番茄苗。",
+      "fr": "Ce week-end, j'ai planté des pieds de tomates dans le jardin."
+    },
+    "related": "庭 / 育てる"
+  },
+  {
+    "id": "card_1398",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "決まる・決まります",
+    "reading": "きまる・きまります",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "be decided; be settled (intransitive)",
+      "zh_TW": "定下來；決定（自動詞）",
+      "zh_CN": "定下来；决定（自动词）",
+      "ko": "정해지다; 결정되다",
+      "zh_HK": "定咗；決定好（自動詞）",
+      "fr": "être décidé ; être fixé (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>出張<rt>しゅっちょう</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりました。",
+      "en": "The schedule for next month's business trip has been decided.",
+      "zh_TW": "下個月出差的日程定下來了。",
+      "zh_CN": "下个月出差的日程定下来了。",
+      "ko": "다음 달 출장 일정이 정해졌습니다.",
+      "zh_HK": "下個月出差嘅行程已經定好咗。",
+      "fr": "Le programme du voyage d'affaires du mois prochain a été fixé."
+    },
+    "related": "決める（他動詞）"
+  },
+  {
+    "id": "card_1399",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "決める・決めます",
+    "reading": "きめる・きめます",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "decide; choose (transitive)",
+      "zh_TW": "決定（他動詞）",
+      "zh_CN": "决定（他动词）",
+      "ko": "정하다; 결정하다",
+      "zh_HK": "決定；揀定（他動詞）",
+      "fr": "décider ; choisir (transitif)"
+    },
+    "example": {
+      "ja": "まだ<ruby>注文<rt>ちゅうもん</rt></ruby>する<ruby>料理<rt>りょうり</rt></ruby>を<ruby>決<rt>き</rt></ruby>めていません。",
+      "en": "I haven't decided which dish to order yet.",
+      "zh_TW": "還沒決定好要點什麼菜。",
+      "zh_CN": "还没决定好要点什么菜。",
+      "ko": "아직 주문할 요리를 정하지 못했습니다.",
+      "zh_HK": "我仲未決定好嗌咩嘢食。",
+      "fr": "Je n'ai pas encore décidé quel plat commander."
+    },
+    "related": "決まる（自動詞）"
+  },
+  {
+    "id": "card_1400",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "見つかる・見つかります",
+    "reading": "みつかる・みつかります",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "be found; be discovered (intransitive)",
+      "zh_TW": "找到；被發現（自動詞）",
+      "zh_CN": "找到；被发现（自动词）",
+      "ko": "발견되다; 찾아지다",
+      "zh_HK": "搵返；搵到（自動詞）",
+      "fr": "être trouvé ; se retrouver (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>失<rt>しつ</rt></ruby>くしたと<ruby>思<rt>おも</rt></ruby>っていた<ruby>鍵<rt>かぎ</rt></ruby>が、<ruby>鞄<rt>かばん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかりました。",
+      "en": "The key I thought I had lost was found inside my bag.",
+      "zh_TW": "以為弄丟了的鑰匙在包包裡找到了。",
+      "zh_CN": "以为弄丢了的钥匙在包里找到了。",
+      "ko": "잃어버린 줄 알았던 열쇠가 가방 안에서 발견되었습니다.",
+      "zh_HK": "以為唔見咗嗰條鎖匙，喺個袋入面搵返喇。",
+      "fr": "La clé que je croyais perdue a été retrouvée dans mon sac."
+    },
+    "related": "見つける（他動詞） / 探す"
+  },
+  {
+    "id": "card_1401",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "見つける・見つけます",
+    "reading": "みつける・みつけます",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "find; discover (transitive)",
+      "zh_TW": "找到；發現（他動詞）",
+      "zh_CN": "找到；发现（他动词）",
+      "ko": "찾다; 발견하다",
+      "zh_HK": "搵到；發現（他動詞）",
+      "fr": "trouver ; découvrir (transitif)"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くでおいしいパン<ruby>屋<rt>や</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。",
+      "en": "I found a delicious bakery near the station.",
+      "zh_TW": "在車站附近發現了一家好吃的麵包店。",
+      "zh_CN": "在车站附近发现了一家好吃的面包店。",
+      "ko": "역 근처에서 맛있는 빵집을 찾았습니다.",
+      "zh_HK": "我喺車站附近搵到一間好食嘅麵包舖。",
+      "fr": "J'ai trouvé une délicieuse boulangerie près de la gare."
+    },
+    "related": "見つかる（自動詞） / 探す"
+  },
+  {
+    "id": "card_1402",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "予習する・予習します",
+    "reading": "よしゅうする・よしゅうします",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "prepare for a lesson; preview",
+      "zh_TW": "預習",
+      "zh_CN": "预习",
+      "ko": "예습하다",
+      "zh_HK": "預習",
+      "fr": "préparer sa leçon à l'avance"
+    },
+    "example": {
+      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>必<rt>かなら</rt></ruby>ず<ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を<ruby>予習<rt>よしゅう</rt></ruby>します。",
+      "en": "Before class, I always preview the new vocabulary.",
+      "zh_TW": "上課前一定會預習新單字。",
+      "zh_CN": "上课前一定会预习新单词。",
+      "ko": "수업 전에 반드시 새로운 단어를 예습합니다.",
+      "zh_HK": "上堂之前我一定會預習新詞語。",
+      "fr": "Avant le cours, je prépare toujours le nouveau vocabulaire à l'avance."
+    },
+    "related": "復習する / 勉強する"
+  },
+  {
+    "id": "card_1403",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "復習する・復習します",
+    "reading": "ふくしゅうする・ふくしゅうします",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "review (what was learned)",
+      "zh_TW": "複習",
+      "zh_CN": "复习",
+      "ko": "복습하다",
+      "zh_HK": "複習；溫習",
+      "fr": "réviser (ses cours)"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってから、<ruby>今日<rt>きょう</rt></ruby><ruby>習<rt>なら</rt></ruby>った<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>しました。",
+      "en": "After returning home, I reviewed the grammar I learned today.",
+      "zh_TW": "回家後複習了今天學的文法。",
+      "zh_CN": "回家后复习了今天学的语法。",
+      "ko": "집에 돌아와서 오늘 배운 문법을 복습했습니다.",
+      "zh_HK": "返到屋企之後，我溫習返今日學過嘅文法。",
+      "fr": "Après être rentré à la maison, j'ai révisé la grammaire apprise aujourd'hui."
+    },
+    "related": "予習する / 練習する"
+  },
+  {
+    "id": "card_1404",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "カレンダー",
+    "reading": "かれんだー",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "calendar",
+      "zh_TW": "日曆；月曆",
+      "zh_CN": "日历；挂历",
+      "ko": "달력; 캘린더",
+      "zh_HK": "日曆；月曆",
+      "fr": "calendrier"
+    },
+    "example": {
+      "ja": "<ruby>壁<rt>かべ</rt></ruby>のカレンダーに<ruby>友達<rt>ともだち</rt></ruby>との<ruby>約束<rt>やくそく</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。",
+      "en": "I wrote my appointment with a friend on the wall calendar.",
+      "zh_TW": "在牆上的月曆上寫下了和朋友的約定。",
+      "zh_CN": "在墙上的日历上写下了和朋友的约定。",
+      "ko": "벽 달력에 친구와의 약속을 적었습니다.",
+      "zh_HK": "我喺牆上面個月曆度寫低咗同朋友嘅約會。",
+      "fr": "J'ai noté mon rendez-vous avec mon ami sur le calendrier mural."
+    },
+    "related": "予定表 / ポスター"
+  },
+  {
+    "id": "card_1405",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ポスター",
+    "reading": "ぽすたー",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "poster",
+      "zh_TW": "海報",
+      "zh_CN": "海报",
+      "ko": "포스터",
+      "zh_HK": "海報",
+      "fr": "affiche ; poster"
+    },
+    "example": {
+      "ja": "<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>のポスターが<ruby>貼<rt>は</rt></ruby>ってあります。",
+      "en": "A travel poster is put up on the classroom wall.",
+      "zh_TW": "教室的牆上貼著旅行海報。",
+      "zh_CN": "教室的墙上贴着旅行海报。",
+      "ko": "교실 벽에 여행 포스터가 붙어 있습니다.",
+      "zh_HK": "課室嘅牆上面貼住張旅行海報。",
+      "fr": "Une affiche de voyage est collée sur le mur de la salle de classe."
+    },
+    "related": "貼る / 壁"
+  },
+  {
+    "id": "card_1406",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "予定表",
+    "reading": "よていひょう",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "schedule; itinerary",
+      "zh_TW": "日程表；預定表",
+      "zh_CN": "日程表；计划表",
+      "ko": "예정표; 일정표",
+      "zh_HK": "時間表；行程表",
+      "fr": "emploi du temps ; planning"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby><ruby>表<rt>ひょう</rt></ruby>をメールで<ruby>送<rt>おく</rt></ruby>ってください。",
+      "en": "Please send next week's schedule by email.",
+      "zh_TW": "請把下週的預定表透過電子郵件發給我。",
+      "zh_CN": "请把下周的日程表通过邮件发给我。",
+      "ko": "다음 주 일정표를 메일로 보내 주세요.",
+      "zh_HK": "請用電郵將下個禮拜嘅行程表傳畀我。",
+      "fr": "Veuillez m'envoyer le planning de la semaine prochaine par e-mail."
+    },
+    "related": "カレンダー / 約束"
+  },
+  {
+    "id": "card_1407",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "引き出し",
+    "reading": "ひきだし",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "drawer",
+      "zh_TW": "抽屜",
+      "zh_CN": "抽屉",
+      "ko": "서랍",
+      "zh_HK": "櫃桶",
+      "fr": "tiroir"
+    },
+    "example": {
+      "ja": "パスポートは<ruby>机<rt>つくえ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>入<rt>はい</rt></ruby>っています。",
+      "en": "My passport is in the top drawer of the desk.",
+      "zh_TW": "護照在桌子最上面的抽屜裡。",
+      "zh_CN": "护照在桌子最上面的抽屉里。",
+      "ko": "여권은 책상 맨 위 서랍에 들어 있습니다.",
+      "zh_HK": "護照放咗喺張枱最上面嗰格櫃桶入面。",
+      "fr": "Mon passeport se trouve dans le tiroir du haut du bureau."
+    },
+    "related": "机 / 棚"
+  },
+  {
+    "id": "card_1408",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "棚",
+    "reading": "たな",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "shelf; rack",
+      "zh_TW": "架子；櫃子",
+      "zh_CN": "架子；搁板",
+      "ko": "선반; 찬장",
+      "zh_HK": "架；層架",
+      "fr": "étagère"
+    },
+    "example": {
+      "ja": "<ruby>台所<rt>だいどころ</rt></ruby>の<ruby>棚<rt>たな</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>いお<ruby>皿<rt>さら</rt></ruby>が<ruby>並<rt>な</rt></ruby>べてあります。",
+      "en": "White plates are lined up on the kitchen shelf.",
+      "zh_TW": "廚房的架子上整齊地擺著白盤子。",
+      "zh_CN": "厨房的架子上整齐地摆着白盘子。",
+      "ko": "부엌 선반에 하얀 접시가 나란히 놓여 있습니다.",
+      "zh_HK": "廚房個層架上面整齊噉擺住啲白碟。",
+      "fr": "Des assiettes blanches sont alignées sur l'étagère de la cuisine."
+    },
+    "related": "本棚 / 引き出し"
+  },
+  {
+    "id": "card_1409",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "壁",
+    "reading": "かべ",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "wall",
+      "zh_TW": "牆；牆壁",
+      "zh_CN": "墙；墙壁",
+      "ko": "벽",
+      "zh_HK": "牆；牆壁",
+      "fr": "mur ; paroi"
+    },
+    "example": {
+      "ja": "<ruby>白<rt>しろ</rt></ruby>い<ruby>壁<rt>かべ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>時計<rt>とけい</rt></ruby>を<ruby>掛<rt>か</rt></ruby>けました。",
+      "en": "I hung a large clock on the white wall.",
+      "zh_TW": "在白牆上掛了一個大時鐘。",
+      "zh_CN": "在白墙上挂了一个大钟。",
+      "ko": "하얀 벽에 큰 시계를 걸었습니다.",
+      "zh_HK": "我喺幅白牆上面掛咗個大鐘。",
+      "fr": "J'ai accroché une grande horloge sur le mur blanc."
+    },
+    "related": "隅 / 部屋"
+  },
+  {
+    "id": "card_1410",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "隅",
+    "reading": "すみ",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "corner; nook (inside a room/box)",
+      "zh_TW": "角落（房間內部）",
+      "zh_CN": "角落；隅（房间内部）",
+      "ko": "구석; 모서리",
+      "zh_HK": "角落頭（房入面）",
+      "fr": "coin ; recoin (intérieur)"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>に<ruby>古<rt>ふる</rt></ruby>い<ruby>掃除<rt>そうじ</rt></ruby><ruby>機<rt>き</rt></ruby>が<ruby>置<rt>お</rt></ruby>いてあります。",
+      "en": "An old vacuum cleaner is placed in the corner of the room.",
+      "zh_TW": "房間的角落裡放著一台舊吸塵器。",
+      "zh_CN": "房间的角落里放着一台旧吸尘器。",
+      "ko": "방 구석에 오래된 청소기가 놓여 있습니다.",
+      "zh_HK": "間房嘅角落頭擺住一部舊吸塵機。",
+      "fr": "Un vieil aspirateur est posé dans le coin de la pièce."
+    },
+    "related": "角 / 真ん中"
+  },
+  {
+    "id": "card_1411",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "真ん中",
+    "reading": "まんなか",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "middle; center",
+      "zh_TW": "正中間；中央",
+      "zh_CN": "正中间；中央",
+      "ko": "한가운데; 중앙",
+      "zh_HK": "正中間；中間",
+      "fr": "milieu ; centre"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>真ん中<rt>まんなか</rt></ruby>に<ruby>丸<rt>まる</rt></ruby>いテーブルを<ruby>置<rt>お</rt></ruby>きました。",
+      "en": "I placed a round table in the center of the room.",
+      "zh_TW": "在房間正中間放了一張圓桌。",
+      "zh_CN": "在房间正中间放了一张圆桌。",
+      "ko": "방 한가운데에 둥근 테이블을 놓았습니다.",
+      "zh_HK": "我喺間房正中間擺咗張圓枱。",
+      "fr": "J'ai placé une table ronde au milieu de la pièce."
+    },
+    "related": "隅 / 横"
+  },
+  {
+    "id": "card_1412",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "そのまま",
+    "reading": "そのまま",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "as it is; just like that",
+      "zh_TW": "原封不動；就那樣",
+      "zh_CN": "原封不动；就那样",
+      "ko": "그대로",
+      "zh_HK": "就噉；維持原狀",
+      "fr": "tel quel ; comme ça"
+    },
+    "example": {
+      "ja": "まだ<ruby>使<rt>つか</rt></ruby>いますから、<ruby>電気<rt>でんき</rt></ruby>はそのままにしておいてください。",
+      "en": "I am still using it, so please leave the light on as it is.",
+      "zh_TW": "還要用，請讓電燈就那樣亮著吧。",
+      "zh_CN": "还要用，请让电灯就那样亮着吧。",
+      "ko": "아직 쓸 거니까 불은 그대로 켜 두세요.",
+      "zh_HK": "我仲要用㗎，盞燈就噉開住先啦。",
+      "fr": "Je m'en sers encore, alors laissez la lumière telle quelle."
+    },
+    "related": "〜ておく"
+  },
+  {
+    "id": "card_1413",
+    "section_num": 61,
+    "section_title": "#61 Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜ておく",
+    "reading": "〜ておく",
+    "category": "Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備",
+    "meaning": {
+      "en": "do ... in advance; leave ... as is",
+      "zh_TW": "事先做好…；保持…狀態",
+      "zh_CN": "提前做好…；保持…状态",
+      "ko": "~해 두다",
+      "zh_HK": "預先做好…；留返…",
+      "fr": "faire ... à l'avance ; laisser ..."
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、ホテルを<ruby>予約<rt>よやく</rt></ruby>しておきます。",
+      "en": "Before going on a trip, I will book a hotel in advance.",
+      "zh_TW": "去旅行之前，事先把飯店預訂好。",
+      "zh_CN": "去旅行之前，提前把酒店预订好。",
+      "ko": "여행을 가기 전에 호텔을 예약해 둡니다.",
+      "zh_HK": "去旅行之前，我會預先訂好酒店。",
+      "fr": "Avant de partir en voyage, je réserve l'hôtel à l'avance."
+    },
+    "related": "準備 / 予習する"
+  },
+  {
+    "id": "card_1414",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "行こう",
+    "reading": "いこう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's go; I'll go (volitional form)",
+      "zh_TW": "去吧（意向形）",
+      "zh_CN": "去吧（意向形）",
+      "ko": "가자; 갈까",
+      "zh_HK": "去啦；一齊去（意向形）",
+      "fr": "allons-y (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいから、みんなで<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こう。",
+      "en": "Since the weather is nice, let's all go to the beach.",
+      "zh_TW": "天氣這麼好，大家一起去海邊吧。",
+      "zh_CN": "天气这么好，大家一起去海边吧。",
+      "ko": "날씨가 좋으니까 다 같이 바다에 가자.",
+      "zh_HK": "今日天氣咁好，我哋大家一齊去海邊啦。",
+      "fr": "Comme il fait beau, allons tous à la mer."
+    },
+    "related": "行きます（ます形） / 行く（辞書形）"
+  },
+  {
+    "id": "card_1415",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "帰ろう",
+    "reading": "かえろう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's go home; let's return (volitional form)",
+      "zh_TW": "回去吧；回家吧（意向形）",
+      "zh_CN": "回去吧；回家吧（意向形）",
+      "ko": "돌아가자; 집에 가자",
+      "zh_HK": "返屋企啦（意向形）",
+      "fr": "rentrons (forme volitive)"
+    },
+    "example": {
+      "ja": "もう<ruby>遅<rt>おそ</rt></ruby>いから、そろそろ<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ろう。",
+      "en": "It's already late, so let's head home soon.",
+      "zh_TW": "已經很晚了，差不多該回家了吧。",
+      "zh_CN": "已经很晚了，差不多该回家了吧。",
+      "ko": "벌써 늦었으니까 슬슬 집에 돌아가자.",
+      "zh_HK": "已經好夜喇，我哋差唔多返屋企啦。",
+      "fr": "Il est déjà tard, rentrons bientôt à la maison."
+    },
+    "related": "帰ります（ます形） / 帰る（辞書形）"
+  },
+  {
+    "id": "card_1416",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲もう",
+    "reading": "のもう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's drink (volitional form)",
+      "zh_TW": "喝吧（意向形）",
+      "zh_CN": "喝吧（意向形）",
+      "ko": "마시자",
+      "zh_HK": "飲啦（意向形）",
+      "fr": "buvons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いたから、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>もう。",
+      "en": "I'm thirsty, so let's drink some cold water.",
+      "zh_TW": "口渴了，喝點冷水吧。",
+      "zh_CN": "口渴了，喝点冷水吧。",
+      "ko": "목이 마르니까 찬물을 마시자.",
+      "zh_HK": "好頸渴呀，飲啲凍水啦。",
+      "fr": "J'ai soif, buvons de l'eau fraîche."
+    },
+    "related": "飲みます（ます形） / 飲む（辞書形）"
+  },
+  {
+    "id": "card_1417",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "聞こう",
+    "reading": "きこう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's listen; let's ask (volitional form)",
+      "zh_TW": "聽吧；問吧（意向形）",
+      "zh_CN": "听吧；问吧（意向形）",
+      "ko": "듣자; 물어보자",
+      "zh_HK": "聽下啦；問下啦（意向形）",
+      "fr": "écoutons ; demandons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>がわからないから、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>聞<rt>き</rt></ruby>こう。",
+      "en": "Since we don't know the way, let's ask the station staff.",
+      "zh_TW": "因為不認識路，問問車站工作人員吧。",
+      "zh_CN": "因为不认识路，问问车站工作人员吧。",
+      "ko": "길을 모르니까 역무원에게 물어보자.",
+      "zh_HK": "唔識路呀，不如問下車站職員啦。",
+      "fr": "Comme nous ne connaissons pas le chemin, demandons à l'employé de la gare."
+    },
+    "related": "聞きます（ます形） / 聞く（辞書形）"
+  },
+  {
+    "id": "card_1418",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "話そう",
+    "reading": "はなそう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's talk; let's speak (volitional form)",
+      "zh_TW": "說吧；聊聊吧（意向形）",
+      "zh_CN": "说吧；聊聊吧（意向形）",
+      "ko": "이야기하자; 말하자",
+      "zh_HK": "傾下啦；講啦（意向形）",
+      "fr": "parlons ; discutons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>時間<rt>じかん</rt></ruby>があるときに、ゆっくり<ruby>将来<rt>しょうらい</rt></ruby>について<ruby>話<rt>はな</rt></ruby>そう。",
+      "en": "When we have time, let's talk leisurely about the future.",
+      "zh_TW": "有空的時候，慢慢聊聊未來吧。",
+      "zh_CN": "有空的时候，慢慢聊聊未来吧。",
+      "ko": "시간이 있을 때 천천히 장래에 대해 이야기하자.",
+      "zh_HK": "得閒嗰陣，我哋慢慢傾下將來嘅事啦。",
+      "fr": "Quand nous aurons le temps, discutons tranquillement de l'avenir."
+    },
+    "related": "話します（ます形） / 話す（辞書形）"
+  },
+  {
+    "id": "card_1419",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "買おう",
+    "reading": "かおう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's buy; I'll buy (volitional form)",
+      "zh_TW": "買吧（意向形）",
+      "zh_CN": "买吧（意向形）",
+      "ko": "사자",
+      "zh_HK": "買啦（意向形）",
+      "fr": "achetons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>に、きれいな<ruby>花束<rt>はなたば</rt></ruby>を<ruby>買<rt>か</rt></ruby>おうと<ruby>思<rt>おも</rt></ruby>っています。",
+      "en": "I am thinking of buying a beautiful bouquet for my mother's birthday.",
+      "zh_TW": "打算在媽媽生日時買一束漂亮的花。",
+      "zh_CN": "打算在妈妈生日时买一束漂亮的花。",
+      "ko": "어머니 생신에 예쁜 꽃다발을 사려고 생각하고 있습니다.",
+      "zh_HK": "我打算喺媽咪生日嗰陣買束靚花畀佢。",
+      "fr": "Je pense acheter un joli bouquet de fleurs pour l'anniversaire de ma mère."
+    },
+    "related": "買います（ます形） / 買う（辞書形）"
+  },
+  {
+    "id": "card_1420",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "待とう",
+    "reading": "まとう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's wait (volitional form)",
+      "zh_TW": "等吧（意向形）",
+      "zh_CN": "等吧（意向形）",
+      "ko": "기다리자",
+      "zh_HK": "等下啦（意向形）",
+      "fr": "attendons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんはすぐ<ruby>来<rt>く</rt></ruby>るから、もう<ruby>少<rt>すこ</rt></ruby>しここで<ruby>待<rt>ま</rt></ruby>とう。",
+      "en": "Ms. Suzuki will come soon, so let's wait here a little longer.",
+      "zh_TW": "鈴木小姐馬上就來，在這裡再等一會兒吧。",
+      "zh_CN": "铃木小姐马上就来，在这里再等一会儿吧。",
+      "ko": "스즈키 씨는 금방 올 거니까 조금만 더 여기서 기다리자.",
+      "zh_HK": "鈴木小姐好快就到，我哋喺呢度再等一陣啦。",
+      "fr": "Mme Suzuki va bientôt arriver, attendons encore un peu ici."
+    },
+    "related": "待ちます（ます形） / 待つ（辞書形）"
+  },
+  {
+    "id": "card_1421",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "泳ごう",
+    "reading": "およごう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's swim (volitional form)",
+      "zh_TW": "游泳吧（意向形）",
+      "zh_CN": "游泳吧（意向形）",
+      "ko": "수영하자",
+      "zh_HK": "游水啦（意向形）",
+      "fr": "nageons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>沖縄<rt>おきなわ</rt></ruby>のきれいな<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ごう。",
+      "en": "Let's swim in the beautiful sea of Okinawa during summer vacation.",
+      "zh_TW": "暑假去沖繩美麗的大海裡游泳吧。",
+      "zh_CN": "暑假去冲绳美丽的大海里游泳吧。",
+      "ko": "여름방학에 오키나와의 아름다운 바다에서 수영하자.",
+      "zh_HK": "暑假一齊去沖繩個靚海度游水啦。",
+      "fr": "Pendant les vacances d'été, allons nager dans la belle mer d'Okinawa."
+    },
+    "related": "泳ぎます（ます形） / 泳ぐ（辞書形）"
+  },
+  {
+    "id": "card_1422",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "急ごう",
+    "reading": "いそごう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's hurry (volitional form)",
+      "zh_TW": "快點吧；趕快吧（意向形）",
+      "zh_CN": "快点吧；抓紧吧（意向形）",
+      "ko": "서두르자",
+      "zh_HK": "快啲啦；趕時間啦（意向形）",
+      "fr": "dépêchons-nous (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>だから、<ruby>少<rt>すこ</rt></ruby>し<ruby>急<rt>いそ</rt></ruby>ごう。",
+      "en": "It's time for the train, so let's hurry a bit.",
+      "zh_TW": "到電車的時間了，稍微快點吧。",
+      "zh_CN": "到电车的时间了，稍微快点吧。",
+      "ko": "전철 시간이니까 조금 서두르자.",
+      "zh_HK": "夠鐘搭電車喇，我哋行快少少啦。",
+      "fr": "C'est l'heure du train, dépêchons-nous un peu."
+    },
+    "related": "急ぎます（ます形） / 急ぐ（辞書形）"
+  },
+  {
+    "id": "card_1423",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "手伝おう",
+    "reading": "てつだおう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's help; I'll help (volitional form)",
+      "zh_TW": "幫忙吧（意向形）",
+      "zh_CN": "帮忙吧（意向形）",
+      "ko": "도와주자",
+      "zh_HK": "幫手啦（意向形）",
+      "fr": "aidons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しそうだから、<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>おう。",
+      "en": "Mom looks busy, so I'll help prepare dinner.",
+      "zh_TW": "媽媽看起來很忙，去幫她準備晚飯吧。",
+      "zh_CN": "妈妈看起来很忙，去帮她准备晚饭吧。",
+      "ko": "어머니가 바빠 보이시니까 저녁 식사 준비를 도와드리자.",
+      "zh_HK": "媽咪睇落好忙，我去幫手準備晚飯先。",
+      "fr": "Maman a l'air occupée, je vais l'aider à préparer le dîner."
+    },
+    "related": "手伝います（ます形） / 手伝う（辞書形）"
+  },
+  {
+    "id": "card_1424",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "食べよう",
+    "reading": "たべよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's eat (volitional form)",
+      "zh_TW": "吃吧（意向形）",
+      "zh_CN": "吃吧（意向形）",
+      "ko": "먹자",
+      "zh_HK": "食啦（意向形）",
+      "fr": "mangeons (forme volitive)"
+    },
+    "example": {
+      "ja": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>いたから、あの<ruby>店<rt>みせ</rt></ruby>で<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べよう。",
+      "en": "I'm hungry, so let's eat lunch at that restaurant.",
+      "zh_TW": "肚子餓了，去那家店吃午飯吧。",
+      "zh_CN": "肚子饿了，去那家店吃午饭吧。",
+      "ko": "배가 고프니까 저 가게에서 점심을 먹자.",
+      "zh_HK": "肚餓喇，我哋去嗰間舖頭食晏晝飯啦。",
+      "fr": "J'ai faim, allons déjeuner dans ce restaurant-là."
+    },
+    "related": "食べます（ます形） / 食べる（辞書形）"
+  },
+  {
+    "id": "card_1425",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "見よう",
+    "reading": "みよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's watch; let's look (volitional form)",
+      "zh_TW": "看吧（意向形）",
+      "zh_CN": "看吧（意向形）",
+      "ko": "보자",
+      "zh_HK": "睇啦（意向形）",
+      "fr": "regardons ; voyons (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>っています。",
+      "en": "Tonight I'm thinking of watching a movie leisurely at home.",
+      "zh_TW": "今晚打算在家裡悠閒地看部電影。",
+      "zh_CN": "今晚打算在家里悠闲地看部电影。",
+      "ko": "오늘 밤은 집에서 푹 쉬면서 영화를 보려고 생각하고 있습니다.",
+      "zh_HK": "今晚我打算喺屋企舒舒服服噉睇返套戲。",
+      "fr": "Ce soir, je pense regarder tranquillement un film à la maison."
+    },
+    "related": "見ます（ます形） / 見る（辞書形）"
+  },
+  {
+    "id": "card_1426",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "起きよう",
+    "reading": "おきよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's wake up; I'll get up (volitional form)",
+      "zh_TW": "起床吧（意向形）",
+      "zh_CN": "起床吧（意向形）",
+      "ko": "일어나자",
+      "zh_HK": "起身啦（意向形）",
+      "fr": "levons-nous (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>いから、<ruby>朝<rt>あさ</rt></ruby><ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きよう。",
+      "en": "Tomorrow is an early day, so let's get up at six in the morning.",
+      "zh_TW": "明天要早起，早上六點起床吧。",
+      "zh_CN": "明天要早起，早上六点起床吧。",
+      "ko": "내일은 일찍 나가야 하니까 아침 6시에 일어나자.",
+      "zh_HK": "聽日要早出門口，朝早六點鐘起身啦。",
+      "fr": "Demain nous partons tôt, levons-nous à six heures du matin."
+    },
+    "related": "起きます（ます形） /起きる（辞書形）"
+  },
+  {
+    "id": "card_1427",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "寝よう",
+    "reading": "ねよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's sleep; let's go to bed (volitional form)",
+      "zh_TW": "睡吧（意向形）",
+      "zh_CN": "睡吧（意向形）",
+      "ko": "자자",
+      "zh_HK": "瞓覺啦（意向形）",
+      "fr": "allons dormir ; couchons-nous (forme volitive)"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れたから、<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>よう。",
+      "en": "I walked a lot today and am tired, so I'll go to bed early.",
+      "zh_TW": "今天走了很多路很累，早點睡吧。",
+      "zh_CN": "今天走了很多路很累，早点睡吧。",
+      "ko": "오늘은 많이 걸어서 피곤하니까 일찍 자자.",
+      "zh_HK": "今日行咗好多路好攰，早啲瞓覺啦。",
+      "fr": "J'ai beaucoup marché aujourd'hui et je suis fatigué, allons dormir tôt."
+    },
+    "related": "寝ます（ます形） / 寝る（辞書形）"
+  },
+  {
+    "id": "card_1428",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "調べよう",
+    "reading": "しらべよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's check; let's look up (volitional form)",
+      "zh_TW": "查一下吧（意向形）",
+      "zh_CN": "查一下吧（意向形）",
+      "ko": "조사하자; 찾아보자",
+      "zh_HK": "查下啦（意向形）",
+      "fr": "cherchons ; vérifions (forme volitive)"
+    },
+    "example": {
+      "ja": "インターネットで<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べよう。",
+      "en": "Let's check the train times on the internet.",
+      "zh_TW": "在網路上查一下電車的時間吧。",
+      "zh_CN": "在网上查一下电车的时间吧。",
+      "ko": "인터넷으로 전철 시간을 찾아보자.",
+      "zh_HK": "上網查下班電車嘅時間啦。",
+      "fr": "Vérifions les horaires de train sur Internet."
+    },
+    "related": "調べます（ます形） / 調べる（辞書形）"
+  },
+  {
+    "id": "card_1429",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "しよう",
+    "reading": "しよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's do (volitional form)",
+      "zh_TW": "做吧（意向形）",
+      "zh_CN": "做吧（意向形）",
+      "ko": "하자",
+      "zh_HK": "做啦（意向形）",
+      "fr": "faisons (forme volitive)"
+    },
+    "example": {
+      "ja": "テストが<ruby>近<rt>ちか</rt></ruby>いから、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しよう。",
+      "en": "Since the test is coming up soon, let's study together.",
+      "zh_TW": "快考試了，一起學習吧。",
+      "zh_CN": "快考试了，一起学习吧。",
+      "ko": "시험이 가까우니까 같이 공부하자.",
+      "zh_HK": "就嚟測驗喇，我哋一齊溫書啦。",
+      "fr": "Comme l'examen approche, étudions ensemble."
+    },
+    "related": "します（ます形） / する（辞書形）"
+  },
+  {
+    "id": "card_1430",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "来よう",
+    "reading": "こよう",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "let's come; I'll come (volitional form)",
+      "zh_TW": "來吧（意向形）",
+      "zh_CN": "来吧（意向形）",
+      "ko": "오자",
+      "zh_HK": "嚟啦（意向形）",
+      "fr": "venons (forme volitive)"
+    },
+    "example": {
+      "ja": "この<ruby>公園<rt>こうえん</rt></ruby>はとてもきれいだから、また<ruby>春<rt>はる</rt></ruby>に<ruby>来<rt>こ</rt></ruby>よう。",
+      "en": "This park is very beautiful, so let's come again in spring.",
+      "zh_TW": "這個公園非常漂亮，春天再來吧。",
+      "zh_CN": "这个公园非常漂亮，春天再来吧。",
+      "ko": "이 공원은 정말 예쁘니까 봄에 또 오자.",
+      "zh_HK": "呢個公園真係好靚，春天嗰陣再嚟過啦。",
+      "fr": "Ce parc est très joli, revenons-y au printemps."
+    },
+    "related": "来ます（ます形） / 来る（辞書形）"
+  },
+  {
+    "id": "card_1431",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "将来",
+    "reading": "しょうらい",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "future (personal future)",
+      "zh_TW": "將來；未來",
+      "zh_CN": "将来；未来",
+      "ko": "장래; 미래",
+      "zh_HK": "將來；未來",
+      "fr": "avenir ; futur"
+    },
+    "example": {
+      "ja": "<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>のレストランを<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>思<rt>おも</rt></ruby>っています。",
+      "en": "In the future, I am thinking of opening my own restaurant.",
+      "zh_TW": "將來我想開一家自己的餐廳。",
+      "zh_CN": "将来我想开一家自己的餐厅。",
+      "ko": "장래에는 제 레스토랑을 열고 싶다고 생각하고 있습니다.",
+      "zh_HK": "我將來想開一間屬於自己嘅餐廳。",
+      "fr": "À l'avenir, j'aimerais ouvrir mon propre restaurant."
+    },
+    "related": "夢 / 計画"
+  },
+  {
+    "id": "card_1432",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "進学する",
+    "reading": "しんがくする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "go on to the next stage of education (e.g., university)",
+      "zh_TW": "升學",
+      "zh_CN": "升学",
+      "ko": "진학하다",
+      "zh_HK": "升學",
+      "fr": "poursuivre ses études (à l'université, etc.)"
+    },
+    "example": {
+      "ja": "<ruby>高校<rt>こうこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>するつもりです。",
+      "en": "After graduating from high school, I intend to go on to a university in Tokyo.",
+      "zh_TW": "高中畢業後，我打算升入東京的大學。",
+      "zh_CN": "高中毕业后，我打算升入东京的大学。",
+      "ko": "고등학교를 졸업하면 도쿄의 대학교로 진학할 생각입니다.",
+      "zh_HK": "中學畢業之後，我打算升讀東京嘅大學。",
+      "fr": "Après le lycée, j'ai l'intention de poursuivre mes études dans une université à Tokyo."
+    },
+    "related": "大学 / 就職する"
+  },
+  {
+    "id": "card_1433",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "就職する",
+    "reading": "しゅうしょくする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "find employment; get a full-time job",
+      "zh_TW": "就職；就業",
+      "zh_CN": "就职；就业；找工作",
+      "ko": "취직하다",
+      "zh_HK": "就業；搵工做",
+      "fr": "trouver un emploi ; entrer dans la vie active"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>貿易<rt>ぼうえき</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>するために、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+      "en": "I am studying Japanese in order to get a job at a Japanese trading company.",
+      "zh_TW": "為了去日本的貿易公司就職，正在學習日語。",
+      "zh_CN": "为了去日本的贸易公司就职，正在学习日语。",
+      "ko": "일본 무역 회사에 취직하기 위해 일본어를 공부하고 있습니다.",
+      "zh_HK": "為咗入日本嘅貿易公司做嘢，我而家學緊日文。",
+      "fr": "J'étudie le japonais afin de trouver un emploi dans une société de commerce japonaise."
+    },
+    "related": "会社 / 進学する"
+  },
+  {
+    "id": "card_1434",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "貯金する",
+    "reading": "ちょきんする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "save money; put money in a bank",
+      "zh_TW": "存錢；儲蓄",
+      "zh_CN": "存钱；储蓄",
+      "ko": "저금하다; 저축하다",
+      "zh_HK": "儲錢",
+      "fr": "économiser de l'argent ; épargner"
+    },
+    "example": {
+      "ja": "<ruby>来年<rt>らいねん</rt></ruby><ruby>外国<rt>がいこく</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くために、<ruby>毎月<rt>まいつき</rt></ruby><ruby>貯金<rt>ちょきん</rt></ruby>しています。",
+      "en": "I am saving money every month in order to travel abroad next year.",
+      "zh_TW": "為了明年去外國旅行，每個月都在存錢。",
+      "zh_CN": "为了明年去外国旅行，每个月都在存钱。",
+      "ko": "내년에 외국으로 여행을 가기 위해서 매달 저금하고 있습니다.",
+      "zh_HK": "為咗出年去外國旅行，我每個月都有儲錢。",
+      "fr": "J'économise de l'argent chaque mois pour partir en voyage à l'étranger l'année prochaine."
+    },
+    "related": "お金 / 銀行"
+  },
+  {
+    "id": "card_1435",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "到着する",
+    "reading": "とうちゃくする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "arrive",
+      "zh_TW": "到達；抵達",
+      "zh_CN": "到达；抵达",
+      "ko": "도착하다",
+      "zh_HK": "到達；抵達",
+      "fr": "arriver"
+    },
+    "example": {
+      "ja": "<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>成田空港<rt>なりたくうこう</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。",
+      "en": "The airplane is scheduled to arrive at Narita Airport at three o'clock in the afternoon.",
+      "zh_TW": "飛機預計下午三點抵達成田機場。",
+      "zh_CN": "飞机预计下午三点抵达成田机场。",
+      "ko": "비행기는 오후 3시에 나리타 공항에 도착할 예정입니다.",
+      "zh_HK": "架飛機預計下晝三點鐘到達成田機場。",
+      "fr": "L'avion doit arriver à l'aéroport de Narita à quinze heures."
+    },
+    "related": "着く / 出発する"
+  },
+  {
+    "id": "card_1436",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "出発する",
+    "reading": "しゅっぱつする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "depart; leave; set off",
+      "zh_TW": "出發；啟程",
+      "zh_CN": "出发；启程",
+      "ko": "출발하다",
+      "zh_HK": "出發；起程",
+      "fr": "partir ; quitter"
+    },
+    "example": {
+      "ja": "バスは<ruby>朝<rt>あさ</rt></ruby><ruby>八<rt>はち</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>します。",
+      "en": "The bus departs from in front of the station at eight o'clock in the morning.",
+      "zh_TW": "巴士早上八點從車站前出發。",
+      "zh_CN": "巴士早上八点从车站前出发。",
+      "ko": "버스는 아침 8시에 역 앞에서 출발합니다.",
+      "zh_HK": "旅遊巴朝早八點鐘喺車站出面出發。",
+      "fr": "Le bus part de devant la gare à huit heures du matin."
+    },
+    "related": "出る / 到着する"
+  },
+  {
+    "id": "card_1437",
+    "section_num": 62,
+    "section_title": "#62 Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "成功する",
+    "reading": "せいこうする",
+    "category": "Stage 8 基本動詞 意向形（〜よう）＆ 将来計画",
+    "meaning": {
+      "en": "succeed",
+      "zh_TW": "成功",
+      "zh_CN": "成功",
+      "ko": "성공하다",
+      "zh_HK": "成功",
+      "fr": "réussir ; avoir du succès"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいプロジェクトが<ruby>成功<rt>せいこう</rt></ruby>するように<ruby>頑張<rt>がんば</rt></ruby>りましょう。",
+      "en": "Let's do our best so that the new project succeeds.",
+      "zh_TW": "為了讓新專案取得成功，我們一起加油吧。",
+      "zh_CN": "为了让新项目取得成功，我们一起加油吧。",
+      "ko": "새로운 프로젝트가 성공할 수 있도록 열심히 합시다.",
+      "zh_HK": "為咗令新計劃成功，我哋一齊努力啦。",
+      "fr": "Faisons de notre mieux pour que le nouveau projet réussisse."
+    },
+    "related": "頑張る / 合格する"
+  },
+  {
+    "id": "card_1438",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "晴れる・晴れます",
+    "reading": "はれる・はれます",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "clear up; be sunny",
+      "zh_TW": "放晴；晴朗",
+      "zh_CN": "放晴；晴朗",
+      "ko": "개다; 맑아지다",
+      "zh_HK": "放晴；好天",
+      "fr": "s'éclaircir ; faire beau"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>からよく<ruby>晴<rt>は</rt></ruby>れるでしょう。",
+      "en": "Tomorrow it will probably be very sunny from the morning.",
+      "zh_TW": "明天從早上起就會是個大晴天吧。",
+      "zh_CN": "明天从早上起就会是个大晴天吧。",
+      "ko": "내일은 아침부터 맑게 갤 것입니다.",
+      "zh_HK": "聽日由朝早開始應該會好好天。",
+      "fr": "Demain, le temps sera probablement bien dégagé dès le matin."
+    },
+    "related": "晴れ / 曇る"
+  },
+  {
+    "id": "card_1439",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "曇る・曇ります",
+    "reading": "くもる・くもります",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "get cloudy; cloud over; fog up",
+      "zh_TW": "變陰；多雲；起霧",
+      "zh_CN": "变阴；多云；起雾",
+      "ko": "흐려지다; 김이 서리다",
+      "zh_HK": "轉陰天；多雲；起霧",
+      "fr": "se couvrir (temps) ; s'embuer"
+    },
+    "example": {
+      "ja": "<ruby>午後<rt>ごご</rt></ruby>から<ruby>空<rt>そら</rt></ruby>が<ruby>曇<rt>くも</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>し<ruby>寒<rt>さむ</rt></ruby>くなりました。",
+      "en": "The sky clouded over in the afternoon, and it became a bit cold.",
+      "zh_TW": "下午起天空變陰，稍微冷了起來。",
+      "zh_CN": "下午起天空变阴，稍微冷了起来。",
+      "ko": "오후부터 하늘이 흐려져서 조금 추워졌습니다.",
+      "zh_HK": "下晝開始個天轉陰，仲凍咗少少。",
+      "fr": "Le ciel s'est couvert dans l'après-midi et il s'est mis à faire un peu froid."
+    },
+    "related": "曇り / 晴れる"
+  },
+  {
+    "id": "card_1440",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "止む・止みます",
+    "reading": "やむ・やみます",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "stop (rain, snow, wind)",
+      "zh_TW": "停（雨、雪、風等停止）",
+      "zh_CN": "停（雨、雪、风等停止）",
+      "ko": "(비·눈이) 그치다; 멎다",
+      "zh_HK": "停（雨/雪/風）",
+      "fr": "cesser ; s'arrêter (pluie, neige, vent)"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>止<rt>や</rt></ruby>んだので、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "Because the rain stopped, I went for a walk in the park.",
+      "zh_TW": "因為雨停了，去公園散步了。",
+      "zh_CN": "因为雨停了，去公园散步了。",
+      "ko": "비가 그쳐서 공원에 산책하러 갔습니다.",
+      "zh_HK": "因為停咗雨，我出去公園散步。",
+      "fr": "Comme la pluie s'est arrêtée, je suis allé me promener au parc."
+    },
+    "related": "雨 / 晴れる"
+  },
+  {
+    "id": "card_1441",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "台風",
+    "reading": "たいふう",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "typhoon",
+      "zh_TW": "颱風",
+      "zh_CN": "台风",
+      "ko": "태풍",
+      "zh_HK": "颱風；打風",
+      "fr": "typhon"
+    },
+    "example": {
+      "ja": "<ruby>強<rt>つよ</rt></ruby>い<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>き</rt></ruby>ているので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>りましょう。",
+      "en": "A strong typhoon is coming, so let's go home early.",
+      "zh_TW": "因為強颱要來了，早點回家吧。",
+      "zh_CN": "因为强台风要来了，早点回家吧。",
+      "ko": "강한 태풍이 오고 있으니까 일찍 집에 돌아갑시다.",
+      "zh_HK": "有個好勁嘅颱風吹緊埋嚟，我哋早啲返屋企啦。",
+      "fr": "Comme un puissant typhon approche, rentrons tôt à la maison."
+    },
+    "related": "風 / 大雨"
+  },
+  {
+    "id": "card_1442",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "無理をする",
+    "reading": "むりをする",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "overdo it; push oneself too hard",
+      "zh_TW": "勉強；過度勞累",
+      "zh_CN": "勉强；过度劳累",
+      "ko": "무리하다",
+      "zh_HK": "勉強；太辛苦自己",
+      "fr": "trop en faire ; forcer"
+    },
+    "example": {
+      "ja": "<ruby>熱<rt>ねつ</rt></ruby>があるときは、<ruby>無理<rt>むり</rt></ruby>をしないでゆっくり<ruby>休<rt>やす</rt></ruby>んでください。",
+      "en": "When you have a fever, please don't push yourself too hard and get plenty of rest.",
+      "zh_TW": "發燒的時候請不要勉強，好好休息。",
+      "zh_CN": "发烧的时候请不要勉强，好好休息。",
+      "ko": "열이 있을 때는 무리하지 말고 푹 쉬세요.",
+      "zh_HK": "發緊燒嗰陣唔好勉強自己，要好好休息下。",
+      "fr": "Quand vous avez de la fièvre, ne forcez pas et reposez-vous bien."
+    },
+    "related": "休む / 体"
+  },
+  {
+    "id": "card_1443",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "合格する",
+    "reading": "ごうかくする",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "pass (an exam)",
+      "zh_TW": "合格；及格；考上",
+      "zh_CN": "合格；及格；考上",
+      "ko": "합격하다",
+      "zh_HK": "合格；考到",
+      "fr": "réussir (un examen)"
+    },
+    "example": {
+      "ja": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>して、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました。",
+      "en": "I studied very hard and passed the Japanese exam.",
+      "zh_TW": "努力學習，通過了日語考試。",
+      "zh_CN": "努力学习，通过了日语考试。",
+      "ko": "열심히 공부해서 일본어 시험에 합격했습니다.",
+      "zh_HK": "我好努力溫書，終於考到日文試合格喇。",
+      "fr": "J'ai étudié dur et j'ai réussi l'examen de japonais."
+    },
+    "related": "試験 / 成功する"
+  },
+  {
+    "id": "card_1444",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "たぶん",
+    "reading": "たぶん",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "probably; maybe",
+      "zh_TW": "大概；也許",
+      "zh_CN": "大概；恐怕；也许",
+      "ko": "아마",
+      "zh_HK": "大概；可能",
+      "fr": "probablement ; sans doute"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんはまだ<ruby>来<rt>き</rt></ruby>ていませんが、たぶんもうすぐ<ruby>着<rt>つ</rt></ruby>くでしょう。",
+      "en": "Mr. Tanaka hasn't arrived yet, but he will probably get here soon.",
+      "zh_TW": "田中先生還沒來，大概馬上就到了吧。",
+      "zh_CN": "田中先生还没来，大概马上就到了吧。",
+      "ko": "다나카 씨는 아직 안 왔지만, 아마 곧 도착할 것입니다.",
+      "zh_HK": "田中先生仲未嚟，不過佢大概好快就會到。",
+      "fr": "M. Tanaka n'est pas encore là, mais il arrivera probablement bientôt."
+    },
+    "related": "〜でしょう / もしかしたら"
+  },
+  {
+    "id": "card_1445",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "もしかしたら",
+    "reading": "もしかしたら",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "perhaps; by some chance; possibly",
+      "zh_TW": "說不定；或許",
+      "zh_CN": "说不定；或许",
+      "ko": "어쩌면; 혹시",
+      "zh_HK": "話唔定；或者",
+      "fr": "peut-être que ; par hasard"
+    },
+    "example": {
+      "ja": "<ruby>空<rt>そら</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くなってきたから、もしかしたら<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るかもしれません。",
+      "en": "The sky has gotten dark, so it might possibly rain.",
+      "zh_TW": "天變暗了，說不定會下雨。",
+      "zh_CN": "天变暗了，说不定会下雨。",
+      "ko": "하늘이 어두워진 걸 보니 어쩌면 비가 올지도 모릅니다.",
+      "zh_HK": "個天開始黑齊，話唔定陣間會落雨。",
+      "fr": "Le ciel s'est assombri, il se pourrait bien qu'il pleuve."
+    },
+    "related": "〜かもしれない / たぶん"
+  },
+  {
+    "id": "card_1446",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "立入禁止",
+    "reading": "たちいりきんし",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "No Entry; Keep Out",
+      "zh_TW": "禁止進入",
+      "zh_CN": "禁止入内",
+      "ko": "출입 금지",
+      "zh_HK": "不准內進；禁止進入",
+      "fr": "Entrée interdite ; Défense d'entrer"
+    },
+    "example": {
+      "ja": "あそこは<ruby>危<rt>あぶ</rt></ruby>ないですから、「<ruby>立入禁止<rt>たちいりきんし</rt></ruby>」と<ruby>書<rt>か</rt></ruby>いてあります。",
+      "en": "Because it is dangerous over there, there is a sign saying 'No Entry'.",
+      "zh_TW": "那裡很危險，所以寫著「禁止進入」。",
+      "zh_CN": "那里很危险，所以写着“禁止入内”。",
+      "ko": "저기는 위험하니까 '출입 금지'라고 적혀 있습니다.",
+      "zh_HK": "嗰邊好危險，所以寫住「不准內進」。",
+      "fr": "Comme c'est dangereux là-bas, il est écrit « Entrée interdite »."
+    },
+    "related": "駐車禁止 / 使用禁止"
+  },
+  {
+    "id": "card_1447",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "駐車禁止",
+    "reading": "ちゅうしゃきんし",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "No Parking",
+      "zh_TW": "禁止停車",
+      "zh_CN": "禁止停车",
+      "ko": "주차 금지",
+      "zh_HK": "不准泊車",
+      "fr": "Stationnement interdit"
+    },
+    "example": {
+      "ja": "ここは<ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>ですから、<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてはいけません。",
+      "en": "This is a No Parking zone, so you must not park your car here.",
+      "zh_TW": "這裡是禁止停車區域，不可以停車。",
+      "zh_CN": "这里是禁止停车区域，不可以停车。",
+      "ko": "여기는 주차 금지 구역이니까 차를 세우면 안 됩니다.",
+      "zh_HK": "呢度係不准泊車區，唔可以喺度泊車。",
+      "fr": "Le stationnement est interdit ici, vous ne devez pas garer votre voiture."
+    },
+    "related": "立入禁止 / 止める"
+  },
+  {
+    "id": "card_1448",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "使用禁止",
+    "reading": "しようきんし",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "Do Not Use; Out of Order",
+      "zh_TW": "禁止使用",
+      "zh_CN": "禁止使用",
+      "ko": "사용 금지",
+      "zh_HK": "禁止使用；暫停使用",
+      "fr": "Interdiction d'utiliser ; Hors service"
+    },
+    "example": {
+      "ja": "このエレベーターは<ruby>故障<rt>こしょう</rt></ruby>しているため、<ruby>使用<rt>しよう</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>です。",
+      "en": "Because this elevator is out of order, its use is prohibited.",
+      "zh_TW": "這部電梯因為故障，禁止使用。",
+      "zh_CN": "这部电梯因为故障，禁止使用。",
+      "ko": "이 엘리베이터는 고장 났기 때문에 사용 금지입니다.",
+      "zh_HK": "呢部𨋢壞咗，而家暫停使用。",
+      "fr": "Cet ascenseur étant en panne, il est interdit de l'utiliser."
+    },
+    "related": "使用中 / 立入禁止"
+  },
+  {
+    "id": "card_1449",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "非常口",
+    "reading": "ひじょうぐち",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "emergency exit",
+      "zh_TW": "緊急出口；安全門",
+      "zh_CN": "紧急出口；安全出口",
+      "ko": "비상구",
+      "zh_HK": "緊急出口；太平門",
+      "fr": "sortie de secours"
+    },
+    "example": {
+      "ja": "ホテルに<ruby>泊<rt>と</rt></ruby>まるときは、まず<ruby>非常口<rt>ひじょうぐち</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "en": "When staying at a hotel, I first check the emergency exit.",
+      "zh_TW": "住飯店時，先確認緊急出口的位置。",
+      "zh_CN": "住酒店时，先确认紧急出口的位置。",
+      "ko": "호텔에 묵을 때는 먼저 비상구를 확인합니다.",
+      "zh_HK": "住酒店嗰陣，我會先確認緊急出口喺邊度。",
+      "fr": "Quand je séjourne à l'hôtel, je vérifie d'abord où se trouve la sortie de secours."
+    },
+    "related": "入口 / 出口"
+  },
+  {
+    "id": "card_1450",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "無料",
+    "reading": "むりょう",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "free of charge; no charge",
+      "zh_TW": "免費",
+      "zh_CN": "免费",
+      "ko": "무료; 공짜",
+      "zh_HK": "免費",
+      "fr": "gratuit"
+    },
+    "example": {
+      "ja": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>は、<ruby>小学生<rt>しょうがくせい</rt></ruby><ruby>以下<rt>いか</rt></ruby>は<ruby>無料<rt>むりょう</rt></ruby>です。",
+      "en": "This art museum is free for elementary school students and younger.",
+      "zh_TW": "這家美術館小學生以下免費。",
+      "zh_CN": "这家美术馆小学生以下免费。",
+      "ko": "이 미술관은 초등학생 이하는 무료입니다.",
+      "zh_HK": "呢間美術館小學生或以下係免費入場嘅。",
+      "fr": "Ce musée d'art est gratuit pour les élèves du primaire et les plus jeunes."
+    },
+    "related": "有料 / お金"
+  },
+  {
+    "id": "card_1451",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "有料",
+    "reading": "ゆうりょう",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "for a fee; toll; paid",
+      "zh_TW": "收費；付費",
+      "zh_CN": "收费；有偿",
+      "ko": "유료",
+      "zh_HK": "收費",
+      "fr": "payant"
+    },
+    "example": {
+      "ja": "ここから<ruby>先<rt>さき</rt></ruby>は<ruby>有料<rt>ゆうりょう</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>になります。",
+      "en": "From here on, it becomes a toll road.",
+      "zh_TW": "從這裡往前是收費道路。",
+      "zh_CN": "从这里往前是收费公路。",
+      "ko": "여기서부터는 유료 도로입니다.",
+      "zh_HK": "由呢度開始前面係收費道路。",
+      "fr": "À partir d'ici, la route devient payante."
+    },
+    "related": "無料 / 払う"
+  },
+  {
+    "id": "card_1452",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "使用中",
+    "reading": "しようちゅう",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "in use; occupied",
+      "zh_TW": "使用中；有人",
+      "zh_CN": "使用中；有人",
+      "ko": "사용 중",
+      "zh_HK": "使用中；有人用緊",
+      "fr": "en cours d'utilisation ; occupé"
+    },
+    "example": {
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですので<ruby>入<rt>い</rt></ruby>れません。",
+      "en": "The conference room is currently in use, so you cannot enter.",
+      "zh_TW": "會議室現在正在使用中，不能進去。",
+      "zh_CN": "会议室现在正在使用中，不能进去。",
+      "ko": "회의실은 지금 사용 중이라서 들어갈 수 없습니다.",
+      "zh_HK": "會議室而家有人用緊，唔入得去。",
+      "fr": "La salle de réunion est actuellement occupée, on ne peut pas y entrer."
+    },
+    "related": "使用禁止"
+  },
+  {
+    "id": "card_1453",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "看板",
+    "reading": "かんばん",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "signboard; billboard; sign",
+      "zh_TW": "招牌；告示牌",
+      "zh_CN": "招牌；告示牌",
+      "ko": "간판; 표지판",
+      "zh_HK": "招牌；指示牌",
+      "fr": "enseigne ; panneau"
+    },
+    "example": {
+      "ja": "あの<ruby>黄色<rt>きいろ</rt></ruby>い<ruby>看板<rt>かんばん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が、<ruby>駅<rt>えき</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>人気<rt>にんき</rt></ruby>のパン<ruby>屋<rt>や</rt></ruby>です。",
+      "en": "That shop with the yellow signboard is the most popular bakery at the station.",
+      "zh_TW": "那家掛著黃色招牌的店是車站最受歡迎的麵包店。",
+      "zh_CN": "那家挂着黄色招牌的店是车站最受欢迎的面包店。",
+      "ko": "저 노란 간판 가게가 역에서 가장 인기 있는 빵집입니다.",
+      "zh_HK": "嗰間黃色招牌嘅舖頭就係車站最受歡迎嘅麵包舖。",
+      "fr": "Ce magasin avec l'enseigne jaune est la boulangerie la plus populaire de la gare."
+    },
+    "related": "マーク / 店"
+  },
+  {
+    "id": "card_1454",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "マーク",
+    "reading": "まーく",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "mark; symbol; logo",
+      "zh_TW": "標誌；符號；記號",
+      "zh_CN": "标志；符号；记号",
+      "ko": "마크; 기호; 표시",
+      "zh_HK": "標誌；符號",
+      "fr": "marque ; symbole ; logo"
+    },
+    "example": {
+      "ja": "この<ruby>緑<rt>みどり</rt></ruby>のマークは<ruby>非常口<rt>ひじょうぐち</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しています。",
+      "en": "This green symbol represents the emergency exit.",
+      "zh_TW": "這個綠色標誌代表緊急出口。",
+      "zh_CN": "这个绿色标志代表紧急出口。",
+      "ko": "이 초록색 마크는 비상구를 나타냅니다.",
+      "zh_HK": "呢個綠色標誌代表緊急出口。",
+      "fr": "Ce symbole vert indique la sortie de secours."
+    },
+    "related": "看板 / 矢印"
+  },
+  {
+    "id": "card_1455",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "逃げる・逃げます",
+    "reading": "にげる・にげます",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "run away; escape",
+      "zh_TW": "逃跑；避難",
+      "zh_CN": "逃跑；避难",
+      "ko": "도망치다; 대피하다",
+      "zh_HK": "逃走；走難",
+      "fr": "s'enfuir ; s'échapper ; évacuer"
+    },
+    "example": {
+      "ja": "<ruby>火事<rt>かじ</rt></ruby>のときは、エレベーターを<ruby>使<rt>つか</rt></ruby>わないで<ruby>外<rt>そと</rt></ruby>へ<ruby>逃<rt>に</rt></ruby>げてください。",
+      "en": "In case of a fire, please escape outside without using the elevator.",
+      "zh_TW": "發生火災時，請不要使用電梯，直接逃到外面。",
+      "zh_CN": "发生火灾时，请不要使用电梯，直接逃到外面。",
+      "ko": "화재 시에는 엘리베이터를 쓰지 말고 밖으로 대피하세요.",
+      "zh_HK": "火警嗰陣，請唔好搭𨋢，要即刻走出去出面逃生。",
+      "fr": "En cas d'incendie, évacuez vers l'extérieur sans utiliser l'ascenseur."
+    },
+    "related": "非常口 / 急ぐ"
+  },
+  {
+    "id": "card_1456",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "頑張る・頑張ります",
+    "reading": "がんばる・がんばります",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "do one's best; work hard; hang in there",
+      "zh_TW": "加油；努力",
+      "zh_CN": "加油；努力",
+      "ko": "열심히 하다; 힘내다",
+      "zh_HK": "努力；加油",
+      "fr": "faire de son mieux ; tenir bon"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>のスピーチ、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張<rt>がんば</rt></ruby>ってください。",
+      "en": "Please do your best until the very end in tomorrow's speech.",
+      "zh_TW": "明天的演講，請加油堅持到最後。",
+      "zh_CN": "明天的演讲，请加油坚持到最后。",
+      "ko": "내일 스피치, 끝까지 힘내세요.",
+      "zh_HK": "聽日嘅演講，請努力加油到最後呀。",
+      "fr": "Pour votre discours de demain, faites de votre mieux jusqu'au bout !"
+    },
+    "related": "成功する / 合格する"
+  },
+  {
+    "id": "card_1457",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "伝言",
+    "reading": "でんごん",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "message (left for someone)",
+      "zh_TW": "留言；口信",
+      "zh_CN": "留言；口信",
+      "ko": "전언; 메모; 메시지",
+      "zh_HK": "留言；口訊",
+      "fr": "message (laissé à quelqu'un)"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>席<rt>せき</rt></ruby>を<ruby>外<rt>はず</rt></ruby>していますので、<ruby>伝言<rt>でんごん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いできますか。",
+      "en": "Ms. Sato is away from her desk, so could I leave a message?",
+      "zh_TW": "佐藤小姐不在座位上，能請您幫我留個言嗎？",
+      "zh_CN": "佐藤小姐不在座位上，能请您帮我留个言吗？",
+      "ko": "사토 씨는 자리를 비웠으니 전언을 부탁드려도 될까요?",
+      "zh_HK": "佐藤小姐行開咗，請問可唔可以幫我留個口訊呀？",
+      "fr": "Mme Sato n'est pas à son bureau, puis-je lui laisser un message ?"
+    },
+    "related": "連絡する / 電話"
+  },
+  {
+    "id": "card_1458",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "説明書",
+    "reading": "せつめいしょ",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "instruction manual",
+      "zh_TW": "說明書",
+      "zh_CN": "说明书",
+      "ko": "설명서",
+      "zh_HK": "說明書",
+      "fr": "mode d'emploi ; notice"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいカメラを<ruby>使<rt>つか</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に、よく<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+      "en": "Before using my new camera, I read the instruction manual carefully.",
+      "zh_TW": "在使用新相機之前，仔細閱讀說明書。",
+      "zh_CN": "在使用新相机之前，仔细阅读说明书。",
+      "ko": "새 카메라를 사용하기 전에 설명서를 잘 읽습니다.",
+      "zh_HK": "用新相機之前，我會詳細睇一次說明書先。",
+      "fr": "Avant d'utiliser mon nouvel appareil photo, je lis attentivement le mode d'emploi."
+    },
+    "related": "読む / 組み立てる"
+  },
+  {
+    "id": "card_1459",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "組み立てる・組み立てます",
+    "reading": "くみたてる・くみたてます",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "assemble; put together",
+      "zh_TW": "組裝；裝配",
+      "zh_CN": "组装；装配",
+      "ko": "조립하다",
+      "zh_HK": "組裝；砌",
+      "fr": "assembler ; monter"
+    },
+    "example": {
+      "ja": "<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>本棚<rt>ほんだな</rt></ruby>を<ruby>組み立<rt>くみた</rt></ruby>てました。",
+      "en": "While looking at the instruction manual, I assembled the new bookshelf by myself.",
+      "zh_TW": "我看著說明書，一個人組裝好了新書架。",
+      "zh_CN": "我看着说明书，一个人组装好了新书架。",
+      "ko": "설명서를 보면서 혼자서 새 책장을 조립했습니다.",
+      "zh_HK": "我一邊睇住說明書，一邊自己一個砌好咗個新書櫃。",
+      "fr": "En suivant la notice, j'ai monté la nouvelle bibliothèque tout seul."
+    },
+    "related": "説明書 / 作る"
+  },
+  {
+    "id": "card_1460",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "矢印",
+    "reading": "やじるし",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "arrow (symbol)",
+      "zh_TW": "箭頭",
+      "zh_CN": "箭头",
+      "ko": "화살표",
+      "zh_HK": "箭嘴",
+      "fr": "flèche (symbole)"
+    },
+    "example": {
+      "ja": "<ruby>床<rt>ゆか</rt></ruby>にある<ruby>青<rt>あお</rt></ruby>い<ruby>矢印<rt>やじるし</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>進<rt>すす</rt></ruby>んでください。",
+      "en": "Please proceed along the blue arrows on the floor.",
+      "zh_TW": "請沿著地上的藍色箭頭往前走。",
+      "zh_CN": "请沿着地上的蓝色箭头往前走。",
+      "ko": "바닥에 있는 파란 화살표를 따라 진행해 주세요.",
+      "zh_HK": "請跟住地下嘅藍色箭嘴指示向前行。",
+      "fr": "Veuillez avancer en suivant les flèches bleues au sol."
+    },
+    "related": "マーク / 線"
+  },
+  {
+    "id": "card_1461",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "線",
+    "reading": "せん",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "line; track; wire",
+      "zh_TW": "線；線條；路線",
+      "zh_CN": "线；线条；线路",
+      "ko": "선; 줄",
+      "zh_HK": "線；路線",
+      "fr": "ligne ; trait"
+    },
+    "example": {
+      "ja": "<ruby>大事<rt>だいじ</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>線<rt>せん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いてください。",
+      "en": "Please draw a red line under the important words.",
+      "zh_TW": "請在重要的詞語下面畫紅線。",
+      "zh_CN": "请在重要的词语下面画红线。",
+      "ko": "중요한 단어 아래에 빨간 줄을 그어 주세요.",
+      "zh_HK": "請喺重要嘅詞語下面畫條紅線。",
+      "fr": "Veuillez tirer un trait rouge sous les mots importants."
+    },
+    "related": "矢印 / 順番"
+  },
+  {
+    "id": "card_1462",
+    "section_num": 63,
+    "section_title": "#63 Stage 8 天気変化・標識・説明書・手順の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "順番",
+    "reading": "じゅんばん",
+    "category": "Stage 8 天気変化・標識・説明書・手順の新出語",
+    "meaning": {
+      "en": "order; turn (in line)",
+      "zh_TW": "順序；次序",
+      "zh_CN": "顺序；次序",
+      "ko": "순서; 차례",
+      "zh_HK": "順序；次序",
+      "fr": "ordre ; tour"
+    },
+    "example": {
+      "ja": "<ruby>番号<rt>ばんごう</rt></ruby>の<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びますから、<ruby>座<rt>すわ</rt></ruby>って<ruby>待<rt>ま</rt></ruby>っていてください。",
+      "en": "We will call names in numerical order, so please sit and wait.",
+      "zh_TW": "會按號碼順序叫名字，請坐著等候。",
+      "zh_CN": "会按号码顺序叫名字，请坐着等候。",
+      "ko": "번호 순서대로 이름을 부를 테니 앉아서 기다려 주세요.",
+      "zh_HK": "我哋會按號碼順序叫名，請坐低等一陣。",
+      "fr": "Nous allons appeler les noms dans l'ordre des numéros, veuillez patienter assis."
+    },
+    "related": "並ぶ / 番号"
+  },
+  {
+    "id": "card_1463",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "行けば",
+    "reading": "いけば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) go (conditional form)",
+      "zh_TW": "如果去的話（條件形）",
+      "zh_CN": "如果去的话（条件形）",
+      "ko": "가면",
+      "zh_HK": "如果去嘅話（條件形）",
+      "fr": "si l'on va (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>今<rt>いま</rt></ruby>すぐ<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>けば、<ruby>八<rt>はち</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間に合<rt>まにあ</rt></ruby>います。",
+      "en": "If you go to the station right now, you will make the eight o'clock train.",
+      "zh_TW": "如果現在馬上去車站的話，就能趕上八點的電車。",
+      "zh_CN": "如果现在马上去车站的话，就能赶上八点的电车。",
+      "ko": "지금 바로 역에 가면 8시 전철에 제시간에 맞출 수 있습니다.",
+      "zh_HK": "如果而家即刻去車站嘅話，就趕得切搭八點鐘班電車。",
+      "fr": "Si vous allez à la gare tout de suite, vous aurez le train de huit heures."
+    },
+    "related": "行きます（ます形） / 行く（辞書形）"
+  },
+  {
+    "id": "card_1464",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "書けば",
+    "reading": "かけば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) write (conditional form)",
+      "zh_TW": "如果寫的話（條件形）",
+      "zh_CN": "如果写的话（条件形）",
+      "ko": "쓰면; 적으면",
+      "zh_HK": "如果寫嘅話（條件形）",
+      "fr": "si l'on écrit (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "ここに<ruby>名前<rt>なまえ</rt></ruby>と<ruby>住所<rt>じゅうしょ</rt></ruby>を<ruby>書<rt>か</rt></ruby>けば、<ruby>手続<rt>てつづ</rt></ruby>きは<ruby>終<rt>お</rt></ruby>わりです。",
+      "en": "If you write your name and address here, the procedure is complete.",
+      "zh_TW": "只要在這裡寫上名字和地址，手續就完成了。",
+      "zh_CN": "只要在这里写上名字和住址，手续就完成了。",
+      "ko": "여기에 이름과 주소를 적으면 수속은 끝납니다.",
+      "zh_HK": "只要喺呢度寫低名同地址，手續就搞掂㗎喇。",
+      "fr": "Si vous écrivez votre nom et votre adresse ici, la procédure sera terminée."
+    },
+    "related": "書きます（ます形） / 書く（辞書形）"
+  },
+  {
+    "id": "card_1465",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲めば",
+    "reading": "のめば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) drink / take medicine (conditional form)",
+      "zh_TW": "如果喝/吃（藥）的話（條件形）",
+      "zh_CN": "如果喝/吃（药）的话（条件形）",
+      "ko": "마시면; (약을) 먹으면",
+      "zh_HK": "如果飲/食（藥）嘅話（條件形）",
+      "fr": "si l'on boit / prend (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "この<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>めば、すぐ<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がりますよ。",
+      "en": "If you take this medicine, your fever will go down right away.",
+      "zh_TW": "吃了這種藥的話，馬上就會退燒喔。",
+      "zh_CN": "吃了这种药的话，马上就会退烧哦。",
+      "ko": "이 약을 먹으면 금방 열이 내릴 거예요.",
+      "zh_HK": "食咗呢隻藥嘅話，好快就會退燒㗎喇。",
+      "fr": "Si vous prenez ce médicament, votre fièvre baissera tout de suite."
+    },
+    "related": "飲みます（ます形） / 飲む（辞書形）"
+  },
+  {
+    "id": "card_1466",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "読めば",
+    "reading": "よめば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) read (conditional form)",
+      "zh_TW": "如果讀的話（條件形）",
+      "zh_CN": "如果读的话（条件形）",
+      "ko": "읽으면",
+      "zh_HK": "如果睇/讀嘅話（條件形）",
+      "fr": "si l'on lit (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>をよく<ruby>読<rt>よ</rt></ruby>めば、<ruby>使い方<rt>つかいかた</rt></ruby>がわかります。",
+      "en": "If you read the instruction manual carefully, you will understand how to use it.",
+      "zh_TW": "只要仔細看說明書，就能明白使用方法。",
+      "zh_CN": "只要仔细看说明书，就能明白使用方法。",
+      "ko": "설명서를 잘 읽으면 사용법을 알 수 있습니다.",
+      "zh_HK": "只要詳細睇下說明書，就會明白點樣用。",
+      "fr": "Si vous lisez attentivement le mode d'emploi, vous comprendrez comment l'utiliser."
+    },
+    "related": "読みます（ます形） / 読む（辞書形）"
+  },
+  {
+    "id": "card_1467",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "話せば",
+    "reading": "はなせば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) speak / talk (conditional form)",
+      "zh_TW": "如果說/商量的話（條件形）",
+      "zh_CN": "如果说/商量的话（条件形）",
+      "ko": "이야기하면; 말하면",
+      "zh_HK": "如果講/傾嘅話（條件形）",
+      "fr": "si l'on parle (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんにゆっくり<ruby>話<rt>はな</rt></ruby>せば、きっとわかってくれます。",
+      "en": "If you talk to Mr. Tanaka calmly, he will surely understand.",
+      "zh_TW": "如果跟田中先生好好說的話，他一定會理解的。",
+      "zh_CN": "如果跟田中先生好好说的话，他一定会理解的。",
+      "ko": "다나카 씨에게 천천히 이야기하면 분명 이해해 줄 겁니다.",
+      "zh_HK": "如果同田中先生慢慢傾嘅話，佢一定會明白嘅。",
+      "fr": "Si vous en parlez calmement à M. Tanaka, il vous comprendra sûrement."
+    },
+    "related": "話します（ます形） / 話す（辞書形）"
+  },
+  {
+    "id": "card_1468",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "待てば",
+    "reading": "まてば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) wait (conditional form)",
+      "zh_TW": "如果等的話（條件形）",
+      "zh_CN": "如果等的话（条件形）",
+      "ko": "기다리면",
+      "zh_HK": "如果等嘅話（條件形）",
+      "fr": "si l'on attend (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "あと<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>てば、<ruby>次<rt>つぎ</rt></ruby>のバスが<ruby>来<rt>き</rt></ruby>ます。",
+      "en": "If we wait five more minutes, the next bus will come.",
+      "zh_TW": "再等五分鐘的話，下一班公車就來了。",
+      "zh_CN": "再等五分钟的话，下一班巴士就来了。",
+      "ko": "5분만 더 기다리면 다음 버스가 옵니다.",
+      "zh_HK": "再等多五分鐘嘅話，下一班巴士就會到。",
+      "fr": "Si nous attendons encore cinq minutes, le prochain bus arrivera."
+    },
+    "related": "待ちます（ます形） / 待つ（辞書形）"
+  },
+  {
+    "id": "card_1469",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "買えば",
+    "reading": "かえば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) buy (conditional form)",
+      "zh_TW": "如果買的話（條件形）",
+      "zh_CN": "如果买的话（条件形）",
+      "ko": "사면",
+      "zh_HK": "如果買嘅話（條件形）",
+      "fr": "si l'on achète (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "インターネットで<ruby>買<rt>か</rt></ruby>えば、<ruby>店<rt>みせ</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>安<rt>やす</rt></ruby>くなります。",
+      "en": "If you buy it on the internet, it will be a little cheaper than at the store.",
+      "zh_TW": "如果在網路上買的話，會比店裡稍微便宜一點。",
+      "zh_CN": "如果在网上买的话，会比店里稍微便宜一点。",
+      "ko": "인터넷으로 사면 가게보다 조금 싸집니다.",
+      "zh_HK": "如果喺網上買嘅話，會比喺舖頭買平少少。",
+      "fr": "Si vous l'achetez sur Internet, ce sera un peu moins cher qu'en magasin."
+    },
+    "related": "買います（ます形） / 買う（辞書形）"
+  },
+  {
+    "id": "card_1470",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "食べれば",
+    "reading": "たべれば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) eat (conditional form)",
+      "zh_TW": "如果吃的話（條件形）",
+      "zh_CN": "如果吃的话（条件形）",
+      "ko": "먹으면",
+      "zh_HK": "如果食嘅話（條件形）",
+      "fr": "si l'on mange (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>温<rt>あたた</rt></ruby>かいスープを<ruby>食<rt>た</rt></ruby>べれば、<ruby>体<rt>からだ</rt></ruby>が<ruby>温<rt>あたた</rt></ruby>まりますよ。",
+      "en": "If you eat warm soup, your body will warm up.",
+      "zh_TW": "喝點熱湯的話，身體就會暖和起來喔。",
+      "zh_CN": "喝点热汤的话，身体就会暖和起来哦。",
+      "ko": "따뜻한 수프를 먹으면 몸이 따뜻해질 거예요.",
+      "zh_HK": "飲碗熱湯嘅話，成個人都會暖返晒㗎。",
+      "fr": "Si vous mangez une soupe chaude, cela vous réchauffera."
+    },
+    "related": "食べます（ます形） / 食べる（辞書形）"
+  },
+  {
+    "id": "card_1471",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "見れば",
+    "reading": "みれば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) look / see (conditional form)",
+      "zh_TW": "如果看的話（條件形）",
+      "zh_CN": "如果看的话（条件形）",
+      "ko": "보면",
+      "zh_HK": "如果睇嘅話（條件形）",
+      "fr": "si l'on regarde / voit (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "この<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば、<ruby>駅<rt>えき</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>がすぐわかります。",
+      "en": "If you look at this map, you will immediately know where the station is.",
+      "zh_TW": "看這張地圖的話，馬上就能知道車站的位置。",
+      "zh_CN": "看这张地图的话，马上就能知道车站的位置。",
+      "ko": "이 지도를 보면 역 위치를 바로 알 수 있습니다.",
+      "zh_HK": "睇下呢張地圖嘅話，即刻就會知道車站喺邊度。",
+      "fr": "Si vous regardez cette carte, vous trouverez tout de suite où est la gare."
+    },
+    "related": "見ます（ます形） / 見る（辞書形）"
+  },
+  {
+    "id": "card_1472",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "調べれば",
+    "reading": "しらべれば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) check / look up (conditional form)",
+      "zh_TW": "如果查的話（條件形）",
+      "zh_CN": "如果查的话（条件形）",
+      "ko": "조사하면; 찾아보면",
+      "zh_HK": "如果查嘅話（條件形）",
+      "fr": "si l'on cherche / vérifie (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>辞書<rt>じしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べれば、<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読み方<rt>よみかた</rt></ruby>がわかります。",
+      "en": "If you look it up in a dictionary, you will find out how to read the kanji.",
+      "zh_TW": "查字典的話，就能知道漢字的讀法。",
+      "zh_CN": "查字典的话，就能知道汉字的读音。",
+      "ko": "사전에서 찾아보면 한자 읽는 법을 알 수 있습니다.",
+      "zh_HK": "查下字典嘅話，就會知道個漢字點讀。",
+      "fr": "Si vous cherchez dans le dictionnaire, vous trouverez comment lire ce kanji."
+    },
+    "related": "調べます（ます形） / 調べる（辞書形）"
+  },
+  {
+    "id": "card_1473",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "すれば",
+    "reading": "すれば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) do (conditional form)",
+      "zh_TW": "如果做的話（條件形）",
+      "zh_CN": "如果做的话（条件形）",
+      "ko": "하면",
+      "zh_HK": "如果做嘅話（條件形）",
+      "fr": "si l'on fait (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>練習<rt>れんしゅう</rt></ruby>すれば、<ruby>必<rt>かなら</rt></ruby>ず<ruby>上手<rt>じょうず</rt></ruby>になります。",
+      "en": "If you practice little by little every day, you will surely get better.",
+      "zh_TW": "如果每天一點點練習的話，一定會變熟練的。",
+      "zh_CN": "如果每天一点点练习的话，一定会变熟练的。",
+      "ko": "매일 조금씩 연습하면 반드시 능숙해집니다.",
+      "zh_HK": "如果每日逐少逐少噉練習，一定會變得好叻。",
+      "fr": "Si vous vous entraînez un peu chaque jour, vous progresserez à coup sûr."
+    },
+    "related": "します（ます形） / する（辞書形）"
+  },
+  {
+    "id": "card_1474",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "来れば",
+    "reading": "くれば",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if (you) come (conditional form)",
+      "zh_TW": "如果來的話（條件形）",
+      "zh_CN": "如果来的话（条件形）",
+      "ko": "오면",
+      "zh_HK": "如果嚟嘅話（條件形）",
+      "fr": "si l'on vient (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>春<rt>はる</rt></ruby>に<ruby>来<rt>く</rt></ruby>れば、ここでたくさんの<ruby>桜<rt>さくら</rt></ruby>が<ruby>見<rt>み</rt></ruby>られますよ。",
+      "en": "If you come in spring, you can see lots of cherry blossoms here.",
+      "zh_TW": "如果春天來的話，在這裡能看到很多櫻花喔。",
+      "zh_CN": "如果春天来的话，在这里能看到很多樱花哦。",
+      "ko": "봄에 오면 여기서 많은 벚꽃을 볼 수 있어요.",
+      "zh_HK": "如果春天嚟嘅話，喺呢度可以睇到好多櫻花㗎。",
+      "fr": "Si vous venez au printemps, vous pourrez voir beaucoup de cerisiers en fleurs ici."
+    },
+    "related": "来ます（ます形） / 来る（辞書形）"
+  },
+  {
+    "id": "card_1475",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "安ければ",
+    "reading": "やすければ",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if it is cheap (conditional form)",
+      "zh_TW": "如果便宜的話（條件形）",
+      "zh_CN": "如果便宜的话（条件形）",
+      "ko": "싸면",
+      "zh_HK": "如果平嘅話（條件形）",
+      "fr": "si c'est bon marché (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "もう<ruby>少<rt>すこ</rt></ruby>し<ruby>安<rt>やす</rt></ruby>ければ、このパソコンを<ruby>買<rt>か</rt></ruby>いたいです。",
+      "en": "If it is a little cheaper, I want to buy this laptop.",
+      "zh_TW": "如果再便宜一點的話，我想買這台電腦。",
+      "zh_CN": "如果再便宜一点的话，我想买这台电脑。",
+      "ko": "조금만 더 싸면 이 노트북을 사고 싶습니다.",
+      "zh_HK": "如果平多少少嘅話，我想買呢部電腦。",
+      "fr": "S'il était un peu moins cher, j'aimerais acheter cet ordinateur."
+    },
+    "related": "安い / 高ければ"
+  },
+  {
+    "id": "card_1476",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "高ければ",
+    "reading": "たかければ",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if it is expensive / high (conditional form)",
+      "zh_TW": "如果貴/高的話（條件形）",
+      "zh_CN": "如果贵/高的话（条件形）",
+      "ko": "비싸면; 높으면",
+      "zh_HK": "如果貴/高嘅話（條件形）",
+      "fr": "si c'est cher / haut (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>ければ、<ruby>無理<rt>むり</rt></ruby>に<ruby>買<rt>か</rt></ruby>わなくてもいいです。",
+      "en": "If the price is high, you don't have to force yourself to buy it.",
+      "zh_TW": "如果價格太貴的話，不用勉強買也可以。",
+      "zh_CN": "如果价格太贵的话，不用勉强买也可以。",
+      "ko": "가격이 비싸면 무리해서 사지 않아도 됩니다.",
+      "zh_HK": "如果價錢太貴嘅話，唔使勉強買㗎。",
+      "fr": "Si le prix est trop élevé, vous n'êtes pas obligé de l'acheter."
+    },
+    "related": "高い / 安ければ"
+  },
+  {
+    "id": "card_1477",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "よければ",
+    "reading": "よければ",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if it is good / fine with you (conditional form)",
+      "zh_TW": "如果好的話；如果可以的話（條件形）",
+      "zh_CN": "如果好的话；如果可以的话（条件形）",
+      "ko": "좋으면; 괜찮다면",
+      "zh_HK": "如果好嘅話；如果唔介意（條件形）",
+      "fr": "si c'est bon ; si cela vous convient (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>天気<rt>てんき</rt></ruby>がよければ<ruby>公園<rt>こうえん</rt></ruby>でテニスをしましょう。",
+      "en": "Tomorrow afternoon, if the weather is nice, let's play tennis at the park.",
+      "zh_TW": "明天下午如果天氣好的話，去公園打網球吧。",
+      "zh_CN": "明天下午如果天气好的话，去公园打网球吧。",
+      "ko": "내일 오후에 날씨가 좋으면 공원에서 테니스를 칩시다.",
+      "zh_HK": "聽日下晝如果好天嘅話，我哋去公園打網球啦。",
+      "fr": "Demain après-midi, s'il fait beau, jouons au tennis dans le parc."
+    },
+    "related": "いい（よい） / 悪ければ"
+  },
+  {
+    "id": "card_1478",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "悪ければ",
+    "reading": "わるければ",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if it is bad (conditional form)",
+      "zh_TW": "如果不好的話（條件形）",
+      "zh_CN": "如果不好的话（条件形）",
+      "ko": "나쁘면",
+      "zh_HK": "如果唔好嘅話（條件形）",
+      "fr": "si c'est mauvais (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>ければ、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>んでください。",
+      "en": "If you are not feeling well, please go home early and rest today.",
+      "zh_TW": "如果身體不舒服的話，今天請早點回去休息吧。",
+      "zh_CN": "如果身体不舒服的话，今天请早点回去休息吧。",
+      "ko": "몸 상태가 나쁘면 오늘은 일찍 돌아가서 쉬세요.",
+      "zh_HK": "如果身體唔舒服嘅話，今日請早啲返屋企休息啦。",
+      "fr": "Si vous ne vous sentez pas bien, rentrez tôt et reposez-vous aujourd'hui."
+    },
+    "related": "悪い / よければ"
+  },
+  {
+    "id": "card_1479",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "なければ",
+    "reading": "なければ",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "if there is no ...; if not ... (conditional form)",
+      "zh_TW": "如果沒有…的話（條件形）",
+      "zh_CN": "如果没有…的话（条件形）",
+      "ko": "없으면; ~하지 않으면",
+      "zh_HK": "如果冇…嘅話（條件形）",
+      "fr": "s'il n'y a pas ; sinon (forme conditionnelle)"
+    },
+    "example": {
+      "ja": "<ruby>質問<rt>しつもん</rt></ruby>がなければ、これで<ruby>今日<rt>きょう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>わります。",
+      "en": "If there are no questions, we will end today's class here.",
+      "zh_TW": "如果沒有問題的話，今天的課就上到這裡。",
+      "zh_CN": "如果没有问题的话，今天的课就上到这里。",
+      "ko": "질문이 없으면 이것으로 오늘 수업을 마치겠습니다.",
+      "zh_HK": "如果冇問題嘅話，今日堂課就上到呢度。",
+      "fr": "S'il n'y a pas de questions, nous terminons le cours d'aujourd'hui ici."
+    },
+    "related": "ない"
+  },
+  {
+    "id": "card_1480",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "咲く・咲きます",
+    "reading": "さく・さきます",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "bloom; blossom",
+      "zh_TW": "開花；綻放",
+      "zh_CN": "开花；绽放",
+      "ko": "(꽃이) 피다",
+      "zh_HK": "開（花）",
+      "fr": "fleurir ; éclore"
+    },
+    "example": {
+      "ja": "<ruby>暖<rt>あたた</rt></ruby>かくなれば、<ruby>公園<rt>こうえん</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>きます。",
+      "en": "When it gets warm, the cherry blossoms in the park bloom beautifully.",
+      "zh_TW": "天變暖和的話，公園的櫻花就會美麗地盛開。",
+      "zh_CN": "天变暖和的话，公园的樱花就会美丽地盛开。",
+      "ko": "따뜻해지면 공원의 벚꽃이 예쁘게 핍니다.",
+      "zh_HK": "天氣變暖嘅話，公園啲櫻花就會開得好靚。",
+      "fr": "Dès qu'il fait doux, les cerisiers du parc fleurissent magnifiquement."
+    },
+    "related": "花 / 春"
+  },
+  {
+    "id": "card_1481",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "慣れる・慣れます",
+    "reading": "なれる・なれます",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "get used to; become accustomed to",
+      "zh_TW": "習慣；適應",
+      "zh_CN": "习惯；适应",
+      "ko": "익숙해지다; 습관이 되다",
+      "zh_HK": "習慣；適應",
+      "fr": "s'habituer à"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>三<rt>さん</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby>が<ruby>経<rt>た</rt></ruby>ち、やっと<ruby>日本<rt>にほん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れました。",
+      "en": "Three months have passed since I came to Japan, and I have finally gotten used to life in Japan.",
+      "zh_TW": "來日本已經三個月了，終於習慣了日本的生活。",
+      "zh_CN": "来日本已经三个月了，终于习惯了日本的生活。",
+      "ko": "일본에 온 지 3개월이 지나서 겨우 일본 생활에 익숙해졌습니다.",
+      "zh_HK": "嚟咗日本三個月，我終於習慣咗日本嘅生活喇。",
+      "fr": "Cela fait trois mois que je suis arrivé au Japon et je me suis enfin habitué à la vie ici."
+    },
+    "related": "習慣 / 生活"
+  },
+  {
+    "id": "card_1482",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "条件",
+    "reading": "じょうけん",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "condition; requirement; terms",
+      "zh_TW": "條件",
+      "zh_CN": "条件",
+      "ko": "조건",
+      "zh_HK": "條件",
+      "fr": "condition"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いことが、<ruby>部屋<rt>へや</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すときの<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>条件<rt>じょうけん</rt></ruby>です。",
+      "en": "Being close to the station is an important condition when looking for an apartment.",
+      "zh_TW": "離車站近是找房子時的重要條件。",
+      "zh_CN": "离车站近是找房子时的重要条件。",
+      "ko": "역에서 가까운 것이 방을 구할 때의 중요한 조건입니다.",
+      "zh_HK": "近車站係我搵屋嗰陣好重要嘅條件。",
+      "fr": "La proximité de la gare est une condition importante pour chercher un appartement."
+    },
+    "related": "決める / 選ぶ"
+  },
+  {
+    "id": "card_1483",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "都合がいい",
+    "reading": "つごうがいい",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "convenient (time/schedule)",
+      "zh_TW": "方便；時間合適",
+      "zh_CN": "方便；时间合适",
+      "ko": "형편이 좋다; 시간이 괜찮다",
+      "zh_HK": "方便；時間啱",
+      "fr": "pratique ; qui arrange (emploi du temps)"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby>なら、いつでも<ruby>都合<rt>つごう</rt></ruby>がいいです。",
+      "en": "If it's next Tuesday, any time is convenient for me.",
+      "zh_TW": "如果是下週二的話，我什麼時候都方便。",
+      "zh_CN": "如果是下周二的话，我什么时候都方便。",
+      "ko": "다음 주 화요일이라면 언제든지 시간이 괜찮습니다.",
+      "zh_HK": "如果係下個禮拜二嘅話，我幾時都方便。",
+      "fr": "Si c'est mardi prochain, n'importe quelle heure me convient."
+    },
+    "related": "都合が悪い / 予定"
+  },
+  {
+    "id": "card_1484",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "都合が悪い",
+    "reading": "つごうがわるい",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "inconvenient (time/schedule)",
+      "zh_TW": "不方便；時間不合適",
+      "zh_CN": "不方便；时间不合适",
+      "ko": "형편이 나쁘다; 시간이 안 되다",
+      "zh_HK": "唔方便；時間唔啱",
+      "fr": "pas pratique ; qui n'arrange pas"
+    },
+    "example": {
+      "ja": "すみません、<ruby>明日<rt>あした</rt></ruby>はちょっと<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>行<rt>い</rt></ruby>けません。",
+      "en": "I'm sorry, tomorrow is a bit inconvenient for me, so I cannot go.",
+      "zh_TW": "不好意思，明天我時間不太方便，去不了。",
+      "zh_CN": "不好意思，明天我时间不太方便，去不了。",
+      "ko": "죄송합니다, 내일은 좀 사정이 있어서 갈 수 없습니다.",
+      "zh_HK": "唔好意思，聽日我時間唔係幾方便，去唔到呀。",
+      "fr": "Désolé, demain cela ne m'arrange pas trop, je ne pourrai pas venir."
+    },
+    "related": "都合がいい / 用事"
+  },
+  {
+    "id": "card_1485",
+    "section_num": 64,
+    "section_title": "#64 Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜ば〜ほど",
+    "reading": "〜ば〜ほど",
+    "category": "Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現",
+    "meaning": {
+      "en": "the more ... the more ...",
+      "zh_TW": "越…越…",
+      "zh_CN": "越…越…",
+      "ko": "~하면 ~할수록",
+      "zh_HK": "越…越…",
+      "fr": "plus ... plus ..."
+    },
+    "example": {
+      "ja": "<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>すればするほど、<ruby>面白<rt>おもしろ</rt></ruby>くなります。",
+      "en": "The more you study Japanese, the more interesting it becomes.",
+      "zh_TW": "日語越學越有趣。",
+      "zh_CN": "日语越学越有趣。",
+      "ko": "일본어는 공부하면 공부할수록 재미있어집니다.",
+      "zh_HK": "日文越學就越覺得有趣。",
+      "fr": "Plus on étudie le japonais, plus cela devient intéressant."
+    },
+    "related": "もっと / だんだん"
+  },
+  {
+    "id": "card_1486",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "間に合う・間に合います",
+    "reading": "まにあう・まにあいます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "be in time (for); make it on time",
+      "zh_TW": "來得及；趕得上",
+      "zh_CN": "来得及；赶得上",
+      "ko": "시간에 대다; 늦지 않다",
+      "zh_HK": "趕得切；嚟得切",
+      "fr": "être à l'heure ; arriver à temps"
+    },
+    "example": {
+      "ja": "タクシーに<ruby>乗<rt>の</rt></ruby>ったので、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合<rt>まにあ</rt></ruby>いました。",
+      "en": "Because I took a taxi, I made it in time for the meeting.",
+      "zh_TW": "因為搭了計程車，趕上了會議時間。",
+      "zh_CN": "因为坐了出租车，赶上了会议时间。",
+      "ko": "택시를 타서 회의 시간에 늦지 않았습니다.",
+      "zh_HK": "因為搭咗的士，所以趕得切開會時間。",
+      "fr": "Comme j'ai pris un taxi, je suis arrivé à temps pour la réunion."
+    },
+    "related": "遅れる / 急ぐ"
+  },
+  {
+    "id": "card_1487",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "遅れる・遅れます",
+    "reading": "おくれる・おくれます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "be late; be delayed",
+      "zh_TW": "遲到；誤點",
+      "zh_CN": "迟到；晚点",
+      "ko": "늦다; 지연되다",
+      "zh_HK": "遲到；延誤",
+      "fr": "être en retard"
+    },
+    "example": {
+      "ja": "<ruby>雪<rt>ゆき</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>ぐらい<ruby>遅<rt>おく</rt></ruby>れています。",
+      "en": "Due to the snow, the train is delayed by about ten minutes.",
+      "zh_TW": "受下雪影響，電車誤點了十分鐘左右。",
+      "zh_CN": "受下雪影响，电车晚点了十分钟左右。",
+      "ko": "눈의 영향으로 전철이 10분 정도 지연되고 있습니다.",
+      "zh_HK": "受到落雪影響，電車延誤咗大約十分鐘。",
+      "fr": "À cause de la neige, le train a environ dix minutes de retard."
+    },
+    "related": "間に合う / 時間"
+  },
+  {
+    "id": "card_1488",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "治る・治ります",
+    "reading": "なおる・なおります",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "get well; be cured; heal (illness/injury)",
+      "zh_TW": "痊癒；治好（病、傷）",
+      "zh_CN": "痊愈；治好（病、伤）",
+      "ko": "(병·상처가) 낫다; 치유되다",
+      "zh_HK": "好返；醫好（病/傷）",
+      "fr": "guérir (maladie, blessure)"
+    },
+    "example": {
+      "ja": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでよく<ruby>寝<rt>ね</rt></ruby>たら、<ruby>風邪<rt>かぜ</rt></ruby>がすっかり<ruby>治<rt>なお</rt></ruby>りました。",
+      "en": "After taking medicine and sleeping well, my cold was completely cured.",
+      "zh_TW": "吃了藥好好睡了一覺後，感冒完全好了。",
+      "zh_CN": "吃了药好好睡了一觉后，感冒完全好了。",
+      "ko": "약을 먹고 푹 잤더니 감기가 완전히 나았습니다.",
+      "zh_HK": "食咗藥再好好瞓一覺之後，感冒已經完全好返晒。",
+      "fr": "Après avoir pris des médicaments et bien dormi, mon rhume est complètement guéri."
+    },
+    "related": "病気 / 直す"
+  },
+  {
+    "id": "card_1489",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "乾く・乾きます",
+    "reading": "かわく・かわきます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "dry; get dry (intransitive)",
+      "zh_TW": "乾；變乾",
+      "zh_CN": "干；变干",
+      "ko": "마르다; 건조해지다",
+      "zh_HK": "乾；乾透",
+      "fr": "sécher (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きます。",
+      "en": "Because the weather is nice today, the laundry dries quickly.",
+      "zh_TW": "今天天氣很好，洗的衣服很快就乾了。",
+      "zh_CN": "今天天气很好，洗的衣服很快就干了。",
+      "ko": "오늘은 날씨가 좋아서 세탁물이 금방 마릅니다.",
+      "zh_HK": "今日天氣好好，洗好嘅衫好快就乾。",
+      "fr": "Comme il fait beau aujourd'hui, le linge sèche vite."
+    },
+    "related": "洗濯する / 干す"
+  },
+  {
+    "id": "card_1490",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "冷える・冷えます",
+    "reading": "ひえる・ひえます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "get cold; chill; cool down (intransitive)",
+      "zh_TW": "變涼；冰鎮；受涼",
+      "zh_CN": "变凉；冰镇；受凉",
+      "ko": "식다; 차가워지다",
+      "zh_HK": "變凍；雪凍；着涼",
+      "fr": "refroidir ; se rafraîchir (intransitif)"
+    },
+    "example": {
+      "ja": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたスイカがよく<ruby>冷<rt>ひ</rt></ruby>えています。",
+      "en": "The watermelon put in the refrigerator is nicely chilled.",
+      "zh_TW": "放進冰箱裡的西瓜已經冰鎮好了。",
+      "zh_CN": "放进冰箱里的西瓜已经冰镇好了。",
+      "ko": "냉장고에 넣어 둔 수박이 잘 차가워졌습니다.",
+      "zh_HK": "放咗入雪櫃嘅西瓜已經雪得好凍喇。",
+      "fr": "La pastèque mise au réfrigérateur est bien fraîche."
+    },
+    "related": "冷たい / 冷蔵庫"
+  },
+  {
+    "id": "card_1491",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "太る・太ります",
+    "reading": "ふとる・ふとります",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "gain weight; get fat",
+      "zh_TW": "胖；發胖",
+      "zh_CN": "胖；发胖",
+      "ko": "살찌다",
+      "zh_HK": "肥；肥咗",
+      "fr": "grossir ; prendre du poids"
+    },
+    "example": {
+      "ja": "お<ruby>正月<rt>しょうがつ</rt></ruby>においしいものをたくさん<ruby>食<rt>た</rt></ruby>べて、<ruby>二<rt>に</rt></ruby>キロ<ruby>太<rt>ふと</rt></ruby>りました。",
+      "en": "I ate a lot of delicious food during New Year's and gained two kilograms.",
+      "zh_TW": "過年吃了很多好吃的，胖了兩公斤。",
+      "zh_CN": "过年吃了很多好吃的，胖了两公斤。",
+      "ko": "설날에 맛있는 것을 많이 먹어서 2킬로그램이나 살이 쪘습니다.",
+      "zh_HK": "新年食咗好多好嘢，結果肥咗兩公斤。",
+      "fr": "J'ai mangé beaucoup de bonnes choses au Nouvel An et j'ai pris deux kilos."
+    },
+    "related": "痩せる / 体重"
+  },
+  {
+    "id": "card_1492",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "痩せる・痩せます",
+    "reading": "やせる・やせます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "lose weight; get thin",
+      "zh_TW": "瘦；變瘦",
+      "zh_CN": "瘦；变瘦",
+      "ko": "살이 빠지다; 야위다",
+      "zh_HK": "瘦；瘦咗",
+      "fr": "maigrir ; perdre du poids"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けていたら、<ruby>三<rt>さん</rt></ruby>キロ<ruby>痩<rt>や</rt></ruby>せました。",
+      "en": "As I kept exercising every day, I lost three kilograms.",
+      "zh_TW": "堅持每天運動後，瘦了三公斤。",
+      "zh_CN": "坚持每天运动后，瘦了三公斤。",
+      "ko": "매일 운동을 계속했더니 3킬로그램 빠졌습니다.",
+      "zh_HK": "堅持每日做運動之後，我瘦咗三公斤。",
+      "fr": "En continuant à faire du sport tous les jours, j'ai perdu trois kilos."
+    },
+    "related": "太る / 運動"
+  },
+  {
+    "id": "card_1493",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "自炊する・自炊します",
+    "reading": "じすいする・じすいします",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "cook for oneself; do one's own cooking",
+      "zh_TW": "自己做飯；開伙",
+      "zh_CN": "自己做饭",
+      "ko": "자취하다; 직접 요리하다",
+      "zh_HK": "自己煮飯",
+      "fr": "cuisiner soi-même"
+    },
+    "example": {
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>と<ruby>貯金<rt>ちょきん</rt></ruby>のために、<ruby>毎日<rt>まいにち</rt></ruby>なるべく<ruby>自炊<rt>じすい</rt></ruby>しています。",
+      "en": "For my health and savings, I cook for myself every day as much as possible.",
+      "zh_TW": "為了健康和存錢，每天盡量自己做飯。",
+      "zh_CN": "为了健康和存钱，每天尽量自己做饭。",
+      "ko": "건강과 저금을 위해 매일 되도록 직접 요리해 먹습니다.",
+      "zh_HK": "為咗健康同儲錢，我每日都盡量自己煮飯食。",
+      "fr": "Pour ma santé et mes économies, je cuisine moi-même autant que possible chaque jour."
+    },
+    "related": "料理 / 作る"
+  },
+  {
+    "id": "card_1494",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "早起きする",
+    "reading": "はやおきする",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "get up early; rise early",
+      "zh_TW": "早起",
+      "zh_CN": "早起",
+      "ko": "일찍 일어나다",
+      "zh_HK": "早起身",
+      "fr": "se lever tôt"
+    },
+    "example": {
+      "ja": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>も<ruby>早起<rt>はやお</rt></ruby>きして、<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しています。",
+      "en": "Even on holidays, I get up early and take a walk in the park.",
+      "zh_TW": "休息日也早起去公園散步。",
+      "zh_CN": "休息日也早起去公园散步。",
+      "ko": "쉬는 날에도 일찍 일어나서 공원을 산책하고 있습니다.",
+      "zh_HK": "放假嘅日子我都會早起身去公園散步。",
+      "fr": "Même pendant les jours de congé, je me lève tôt pour me promener au parc."
+    },
+    "related": "寝坊する / 起きる"
+  },
+  {
+    "id": "card_1495",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "寝坊する",
+    "reading": "ねぼうする",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "oversleep; sleep in late",
+      "zh_TW": "睡懶覺；睡過頭",
+      "zh_CN": "睡懒觉；睡过头",
+      "ko": "늦잠 자다",
+      "zh_HK": "瞓晏咗；賴床",
+      "fr": "faire la grasse matinée ; avoir une panne d'oreiller"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>起<rt>お</rt></ruby>きていたので、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>してしまいました。",
+      "en": "Because I stayed up late last night, I overslept this morning.",
+      "zh_TW": "因為昨晚熬夜到很晚，今天早上睡過頭了。",
+      "zh_CN": "因为昨晚熬夜到很晚，今天早上睡过头了。",
+      "ko": "어젯밤 늦게까지 깨어 있어서 오늘 아침에는 늦잠을 자 버렸습니다.",
+      "zh_HK": "因為尋晚好夜先瞓，搞到今朝瞓晏咗。",
+      "fr": "Comme j'ai veillé tard hier soir, j'ai eu une panne d'oreiller ce matin."
+    },
+    "related": "早起きする / 遅れる"
+  },
+  {
+    "id": "card_1496",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "目覚まし時計",
+    "reading": "めざましどけい",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "alarm clock",
+      "zh_TW": "鬧鐘",
+      "zh_CN": "闹钟",
+      "ko": "자명종; 알람 시계",
+      "zh_HK": "鬧鐘",
+      "fr": "réveil"
+    },
+    "example": {
+      "ja": "<ruby>寝坊<rt>ねぼう</rt></ruby>しないように、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>にセットしました。",
+      "en": "So as not to oversleep, I set the alarm clock for six o'clock.",
+      "zh_TW": "為了不睡過頭，把鬧鐘定在了六點。",
+      "zh_CN": "为了不睡过头，把闹钟定在了六点。",
+      "ko": "늦잠 자지 않도록 알람 시계를 6시에 맞췄습니다.",
+      "zh_HK": "為咗唔好瞓晏咗，我將個鬧鐘校咗喺六點。",
+      "fr": "Pour ne pas me réveiller en retard, j'ai réglé mon réveil sur six heures."
+    },
+    "related": "早起きする / 時計"
+  },
+  {
+    "id": "card_1497",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "habit; custom",
+      "zh_TW": "習慣；習俗",
+      "zh_CN": "习惯；习俗",
+      "ko": "습관; 관습",
+      "zh_HK": "習慣；習俗",
+      "fr": "habitude ; coutume"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>コップ<ruby>一<rt>いち</rt></ruby><ruby>杯<rt>はい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのが<ruby>私<rt>わたし</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>です。",
+      "en": "Drinking a glass of water every morning is my habit.",
+      "zh_TW": "每天早上喝一杯水是我的習慣。",
+      "zh_CN": "每天早上喝一杯水是我的习惯。",
+      "ko": "매일 아침 물 한 컵을 마시는 것이 제 습관입니다.",
+      "zh_HK": "每日朝早飲一杯水係我嘅習慣。",
+      "fr": "Boire un verre d'eau chaque matin est mon habitude."
+    },
+    "related": "慣れる / 毎日"
+  },
+  {
+    "id": "card_1498",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "育てる・育てます",
+    "reading": "そだてる・そだてます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "raise; bring up (children/pets); grow (plants)",
+      "zh_TW": "養育；培育；種植",
+      "zh_CN": "养育；培育；种植",
+      "ko": "기르다; 키우다",
+      "zh_HK": "養大；栽種",
+      "fr": "élever ; cultiver"
+    },
+    "example": {
+      "ja": "ベランダでミニトマトを<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てています。",
+      "en": "I am carefully growing cherry tomatoes on the balcony.",
+      "zh_TW": "在陽台上悉心培育著小番茄。",
+      "zh_CN": "在阳台上悉心培育着小番茄。",
+      "ko": "베란다에서 방울토마토를 소중히 키우고 있습니다.",
+      "zh_HK": "我喺露台度好用心噉種緊車厘茄。",
+      "fr": "Je cultive avec soin des tomates cerises sur mon balcon."
+    },
+    "related": "植える / 花"
+  },
+  {
+    "id": "card_1499",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "整理する・整理します",
+    "reading": "せいりする・せいりします",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "sort out; organize; put in order",
+      "zh_TW": "整理；整頓",
+      "zh_CN": "整理；整顿",
+      "ko": "정리하다",
+      "zh_HK": "整理；執拾",
+      "fr": "trier ; organiser ; ranger"
+    },
+    "example": {
+      "ja": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しの<ruby>中<rt>なか</rt></ruby>をきれいに<ruby>整理<rt>せいり</rt></ruby>しました。",
+      "en": "I neatly organized the inside of my desk drawer.",
+      "zh_TW": "把書桌抽屜裡面整理得乾乾淨淨。",
+      "zh_CN": "把书桌抽屉里面整理得干干净净。",
+      "ko": "책상 서랍 안을 깨끗하게 정리했습니다.",
+      "zh_HK": "我將書枱櫃桶入面執得好整齊。",
+      "fr": "J'ai bien trié et rangé l'intérieur du tiroir de mon bureau."
+    },
+    "related": "片付ける / 並べる"
+  },
+  {
+    "id": "card_1500",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "申し込む・申し込みます",
+    "reading": "もうしこむ・もうしこみます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "apply for; sign up for; subscribe",
+      "zh_TW": "申請；報名",
+      "zh_CN": "申请；报名",
+      "ko": "신청하다; 응모하다",
+      "zh_HK": "報名；申請",
+      "fr": "s'inscrire à ; postuler ; faire une demande"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>スピーチコンテストに<ruby>申し込<rt>もうしこ</rt></ruby>みました。",
+      "en": "I signed up for next month's Japanese speech contest.",
+      "zh_TW": "報名參加了下個月的日語演講比賽。",
+      "zh_CN": "报名参加了下个月的日语演讲比赛。",
+      "ko": "다음 달 일본어 스피치 대회에 신청했습니다.",
+      "zh_HK": "我報咗名參加下個月嘅日文演講比賽。",
+      "fr": "Je me suis inscrit au concours d'éloquence en japonais du mois prochain."
+    },
+    "related": "予約する / 参加する"
+  },
+  {
+    "id": "card_1501",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "引っ越す・引っ越します",
+    "reading": "ひっこす・ひっこします",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "move (to a new house/apartment)",
+      "zh_TW": "搬家；遷居",
+      "zh_CN": "搬家；迁居",
+      "ko": "이사하다",
+      "zh_HK": "搬屋",
+      "fr": "déménager"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>新<rt>あたら</rt></ruby>しいアパートへ<ruby>引っ越<rt>ひっこ</rt></ruby>します。",
+      "en": "Next month, I am moving to a new apartment near the station.",
+      "zh_TW": "下個月要搬到車站附近的新公寓去。",
+      "zh_CN": "下个月要搬到车站附近的新公寓去。",
+      "ko": "다음 달에 역 근처의 새 아파트로 이사합니다.",
+      "zh_HK": "下個月我會搬去車站附近嘅新公寓。",
+      "fr": "Le mois prochain, je déménage dans un nouvel appartement près de la gare."
+    },
+    "related": "住む / 部屋"
+  },
+  {
+    "id": "card_1502",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "生まれる・生まれます",
+    "reading": "うまれる・うまれます",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "be born",
+      "zh_TW": "出生；誕生",
+      "zh_CN": "出生；诞生",
+      "ko": "태어나다",
+      "zh_HK": "出世；誕生",
+      "fr": "naître"
+    },
+    "example": {
+      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>姉<rt>あね</rt></ruby>に<ruby>元気<rt>げんき</rt></ruby>な<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。",
+      "en": "Last week, my older sister had a healthy baby.",
+      "zh_TW": "上週姊姊生了一個健康的寶寶。",
+      "zh_CN": "上周姐姐生了一个健康的宝宝。",
+      "ko": "지난주에 언니에게 건강한 아기가 태어났습니다.",
+      "zh_HK": "上個禮拜我家姐生咗個肥肥白白嘅BB。",
+      "fr": "La semaine dernière, ma grande sœur a donné naissance à un bébé en pleine santé."
+    },
+    "related": "誕生日 / 赤ちゃん"
+  },
+  {
+    "id": "card_1503",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "かける（鍵を）",
+    "reading": "かける（かぎを）",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "lock (a door)",
+      "zh_TW": "鎖（門）；上鎖",
+      "zh_CN": "锁（门）；上锁",
+      "ko": "(열쇠를) 잠그다",
+      "zh_HK": "鎖（門）；落鎖",
+      "fr": "verrouiller ; fermer à clé"
+    },
+    "example": {
+      "ja": "<ruby>出<rt>で</rt></ruby>かけるときは、<ruby>必<rt>かなら</rt></ruby>ずドアに<ruby>鍵<rt>かぎ</rt></ruby>をかけてください。",
+      "en": "When going out, please be sure to lock the door.",
+      "zh_TW": "出門時請務必鎖好門。",
+      "zh_CN": "出门时请务必锁好门。",
+      "ko": "외출할 때는 반드시 문에 열쇠를 잠그세요.",
+      "zh_HK": "出門口嗰陣，請一定要鎖好門。",
+      "fr": "Quand vous sortez, n'oubliez surtout pas de fermer la porte à clé."
+    },
+    "related": "鍵 / 閉める"
+  },
+  {
+    "id": "card_1504",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "気持ちがいい",
+    "reading": "きもちがいい",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "feel good; pleasant; refreshing",
+      "zh_TW": "心情舒暢；舒服",
+      "zh_CN": "心情舒畅；舒服",
+      "ko": "기분이 좋다; 상쾌하다",
+      "zh_HK": "舒服；爽",
+      "fr": "agréable ; qui fait du bien"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って<ruby>気持<rt>きも</rt></ruby>ちがいいです。",
+      "en": "When I open the window early in the morning, a cool breeze comes in and feels great.",
+      "zh_TW": "一大早打開窗戶，涼風吹進來真舒服。",
+      "zh_CN": "一大早打开窗户，凉风吹进来真舒服。",
+      "ko": "아침 일찍 창문을 열면 시원한 바람이 들어와서 기분이 좋습니다.",
+      "zh_HK": "朝頭早打開窗，有陣涼風吹入嚟真係好舒服。",
+      "fr": "Quand j'ouvre la fenêtre tôt le matin, une brise fraîche entre et c'est très agréable."
+    },
+    "related": "涼しい / 晴れ"
+  },
+  {
+    "id": "card_1505",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "苦手な",
+    "reading": "にがてな",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "not good at; weak in; fond of (negative)",
+      "zh_TW": "不擅長；不拿手；怕",
+      "zh_CN": "不擅长；怕；不爱吃",
+      "ko": "서투른; 거북한; 못 하는",
+      "zh_HK": "唔擅長；唔鍾意",
+      "fr": "peu doué pour ; avoir du mal avec"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>早起<rt>はやお</rt></ruby>きが<ruby>苦手<rt>にがて</rt></ruby>なので、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>大変<rt>たいへん</rt></ruby>です。",
+      "en": "Because I am bad at getting up early, every morning is tough for me.",
+      "zh_TW": "我不擅長早起，所以每天早上都很辛苦。",
+      "zh_CN": "我不擅长早起，所以每天早上都很痛苦。",
+      "ko": "저는 일찍 일어나는 것에 서툴러서 매일 아침이 힘들어요.",
+      "zh_HK": "我最怕早起身，所以日日朝早都好辛苦。",
+      "fr": "Comme j'ai du mal à me lever tôt, chaque matin est difficile."
+    },
+    "related": "得意 / 下手"
+  },
+  {
+    "id": "card_1506",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "きっかけ",
+    "reading": "きっかけ",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "chance; motive; trigger; starting point",
+      "zh_TW": "契機；起因；機會",
+      "zh_CN": "契机；起因；机会",
+      "ko": "계기",
+      "zh_HK": "契機；起因",
+      "fr": "occasion ; élément déclencheur"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>のアニメを<ruby>見<rt>み</rt></ruby>たのが、<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>するきっかけです。",
+      "en": "Watching Japanese anime was what sparked me to study Japanese.",
+      "zh_TW": "看日本動漫是我學習日語的契機。",
+      "zh_CN": "看日本动漫是我学习日语的契机。",
+      "ko": "일본 애니메이션을 본 것이 일본어를 공부하게 된 계기입니다.",
+      "zh_HK": "睇日本動畫係我開始學日文嘅契機。",
+      "fr": "C'est le fait d'avoir regardé des animes japonais qui m'a donné envie d'apprendre le japonais."
+    },
+    "related": "始める / 理由"
+  },
+  {
+    "id": "card_1507",
+    "section_num": 65,
+    "section_title": "#65 Stage 9 目標・習慣・生活管理の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "やっと",
+    "reading": "やっと",
+    "category": "Stage 9 目標・習慣・生活管理の新出語",
+    "meaning": {
+      "en": "finally; at last; barely",
+      "zh_TW": "好不容易；終於",
+      "zh_CN": "好不容易；终于",
+      "ko": "겨우; 간신히; 드디어",
+      "zh_HK": "終於；好唔容易",
+      "fr": "enfin ; finalement ; tout juste"
+    },
+    "example": {
+      "ja": "<ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>かかって、やっと<ruby>山<rt>やま</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+      "en": "It took three hours, and we finally reached the top of the mountain.",
+      "zh_TW": "花了三個小時，終於到達了山頂。",
+      "zh_CN": "花了三个小时，终于到达了山顶。",
+      "ko": "세 시간이 걸려서 겨우 산 정상에 도착했습니다.",
+      "zh_HK": "行咗三個鐘頭，終於去到山頂喇。",
+      "fr": "Au bout de trois heures, nous sommes enfin arrivés au sommet de la montagne."
+    },
+    "related": "とうとう"
+  },
+  {
+    "id": "card_1508",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "褒められる",
+    "reading": "ほめられる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be praised (passive form)",
+      "zh_TW": "被表揚；受誇獎（被動形）",
+      "zh_CN": "被表扬；受夸奖（被动形）",
+      "ko": "칭찬받다",
+      "zh_HK": "俾人讚；受表揚（被動形）",
+      "fr": "être félicité ; être complimenté (forme passive)"
+    },
+    "example": {
+      "ja": "テストで<ruby>百<rt>ひゃく</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>褒<rt>ほ</rt></ruby>められました。",
+      "en": "I got 100 points on the test and was praised by the teacher.",
+      "zh_TW": "考試得了一百分，被老師表揚了。",
+      "zh_CN": "考试得了一百分，被老师表扬了。",
+      "ko": "시험에서 100점을 받아서 선생님께 칭찬받았습니다.",
+      "zh_HK": "測驗攞到一百分，我俾老師讚呀。",
+      "fr": "J'ai eu cent sur cent à l'examen et j'ai été félicité par le professeur."
+    },
+    "related": "褒める / 叱られる"
+  },
+  {
+    "id": "card_1509",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "褒める・褒めます",
+    "reading": "ほめる・ほめます",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "praise; compliment",
+      "zh_TW": "表揚；誇獎",
+      "zh_CN": "表扬；夸奖",
+      "ko": "칭찬하다",
+      "zh_HK": "讚；表揚",
+      "fr": "féliciter ; complimenter"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>をいつも<ruby>褒<rt>ほ</rt></ruby>めてくれます。",
+      "en": "My mother always praises the food I cook.",
+      "zh_TW": "媽媽總是誇獎我做的菜。",
+      "zh_CN": "妈妈总是夸奖我做的菜。",
+      "ko": "어머니는 제가 만든 요리를 언제나 칭찬해 주십니다.",
+      "zh_HK": "媽咪成日都讚我煮嘅嘢食。",
+      "fr": "Ma mère me complimente toujours sur les plats que je prépare."
+    },
+    "related": "褒められる / 叱る"
+  },
+  {
+    "id": "card_1510",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "叱られる",
+    "reading": "しかられる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be scolded (passive form)",
+      "zh_TW": "被批評；挨罵（被動形）",
+      "zh_CN": "被批评；挨骂（被动形）",
+      "ko": "꾸중을 듣다; 혼나다",
+      "zh_HK": "俾人鬧（被動形）",
+      "fr": "se faire gronder (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>叱<rt>しか</rt></ruby>られました。",
+      "en": "I forgot my homework and was scolded by the teacher.",
+      "zh_TW": "忘了帶作業，被老師批評了。",
+      "zh_CN": "忘了带作业，被老师批评了。",
+      "ko": "숙제를 잊어버려서 선생님께 꾸중을 들었습니다.",
+      "zh_HK": "唔記得交功課，結果俾老師鬧。",
+      "fr": "J'ai oublié mes devoirs et je me suis fait gronder par le professeur."
+    },
+    "related": "叱る / 褒められる"
+  },
+  {
+    "id": "card_1511",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "叱る・叱ります",
+    "reading": "しかる・しかります",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "scold; reprimand",
+      "zh_TW": "批評；責備；訓斥",
+      "zh_CN": "批评；责备；训斥",
+      "ko": "꾸짖다; 혼내다",
+      "zh_HK": "鬧；責備",
+      "fr": "gronder ; réprimander"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>危<rt>あぶ</rt></ruby>ないことをした<ruby>子<rt>こ</rt></ruby>どもを<ruby>厳<rt>きび</rt></ruby>しく<ruby>叱<rt>しか</rt></ruby>りました。",
+      "en": "The father strictly scolded the child who did something dangerous.",
+      "zh_TW": "爸爸嚴厲地批評了做危險事情的孩子。",
+      "zh_CN": "爸爸严厉地批评了做危险事情的孩子。",
+      "ko": "아버지는 위험한 행동을 한 아이를 엄하게 꾸짖으셨습니다.",
+      "zh_HK": "爸爸好嚴厲噉鬧咗做危險嘢嘅小朋友。",
+      "fr": "Le père a grondé sévèrement l'enfant qui avait fait quelque chose de dangereux."
+    },
+    "related": "叱られる / 褒める"
+  },
+  {
+    "id": "card_1512",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "誘われる",
+    "reading": "さそわれる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be invited (casually, by a friend) (passive form)",
+      "zh_TW": "被邀請；被約（被動形）",
+      "zh_CN": "被邀请；被约（被动形）",
+      "ko": "권유받다; 초대받다",
+      "zh_HK": "俾人約；獲邀（被動形）",
+      "fr": "être invité (par un ami) (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>誘<rt>さそ</rt></ruby>われて、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "Invited by Ms. Suzuki, I went to see a movie on the weekend.",
+      "zh_TW": "受鈴木小姐之邀，週末去看了電影。",
+      "zh_CN": "受铃木小姐之邀，周末去看了电影。",
+      "ko": "스즈키 씨의 권유를 받아 주말에 영화를 보러 갔습니다.",
+      "zh_HK": "鈴木小姐約我去，我哋週末去咗睇戲。",
+      "fr": "Invité par Mme Suzuki, je suis allé voir un film ce week-end."
+    },
+    "related": "誘う / 招待される"
+  },
+  {
+    "id": "card_1513",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "誘う・誘います",
+    "reading": "さそう・さそいます",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "invite; ask out (casually)",
+      "zh_TW": "邀請；約",
+      "zh_CN": "邀请；约",
+      "ko": "권하다; 부르다; 초대하다",
+      "zh_HK": "約（人）；邀請",
+      "fr": "inviter ; proposer de sortir"
+    },
+    "example": {
+      "ja": "<ruby>今度<rt>こんど</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>を<ruby>誘<rt>さそ</rt></ruby>ってハイキングに<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "This Sunday, I will invite my friends and go hiking.",
+      "zh_TW": "這個星期天，打算約朋友一起去健行。",
+      "zh_CN": "这个星期天，打算约朋友一起去徒步。",
+      "ko": "이번 일요일에 친구를 불러서 하이킹하러 갑니다.",
+      "zh_HK": "今個禮拜日，我會約埋朋友一齊去行山。",
+      "fr": "Ce dimanche, je vais inviter des amis pour aller faire de la randonnée."
+    },
+    "related": "誘われる / 一緒"
+  },
+  {
+    "id": "card_1514",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "招待される",
+    "reading": "しょうたいされる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be invited (formally, to a party/wedding) (passive form)",
+      "zh_TW": "受招待；被正式邀請（被動形）",
+      "zh_CN": "受招待；被正式邀请（被动形）",
+      "ko": "초대받다",
+      "zh_HK": "獲邀請（正式宴會）（被動形）",
+      "fr": "être invité (officiellement) (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>されました。",
+      "en": "I was invited to Mr. Tanaka's wedding.",
+      "zh_TW": "受邀參加了田中先生的婚禮。",
+      "zh_CN": "受邀参加了田中先生的婚礼。",
+      "ko": "다나카 씨의 결혼식에 초대받았습니다.",
+      "zh_HK": "我獲邀出席田中先生嘅婚禮。",
+      "fr": "J'ai été invité au mariage de M. Tanaka."
+    },
+    "related": "招待する / 誘われる"
+  },
+  {
+    "id": "card_1515",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "招待する・招待します",
+    "reading": "しょうたいする・しょうたいします",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "invite (formally, as a host)",
+      "zh_TW": "招待；正式邀請",
+      "zh_CN": "招待；正式邀请",
+      "ko": "초대하다",
+      "zh_HK": "邀請；招待（客人）",
+      "fr": "inviter (officiellement, recevoir chez soi)"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>に<ruby>友達<rt>ともだち</rt></ruby>を<ruby>招待<rt>しょうたい</rt></ruby>して、パーティーを<ruby>開<rt>ひら</rt></ruby>きました。",
+      "en": "I invited friends to my new house and threw a party.",
+      "zh_TW": "邀請朋友來新家，舉辦了派對。",
+      "zh_CN": "邀请朋友来新家，举办了派对。",
+      "ko": "새집에 친구들을 초대해서 파티를 열었습니다.",
+      "zh_HK": "我邀請咗朋友嚟新屋，開咗個派對。",
+      "fr": "J'ai invité des amis dans ma nouvelle maison et j'ai organisé une fête."
+    },
+    "related": "招待される / 誘う"
+  },
+  {
+    "id": "card_1516",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "頼まれる",
+    "reading": "たのまれる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be asked (a favor); be requested (passive form)",
+      "zh_TW": "受拜託；被請求（被動形）",
+      "zh_CN": "受拜托；被请求（被动形）",
+      "ko": "부탁받다",
+      "zh_HK": "俾人拜託；受託（被動形）",
+      "fr": "se voir demander un service (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>まれて、<ruby>少<rt>すこ</rt></ruby>し<ruby>残業<rt>ざんぎょう</rt></ruby>しました。",
+      "en": "I was asked by my senior to do some work, so I worked a little overtime.",
+      "zh_TW": "受前輩之託幫忙工作，稍微加了一會兒班。",
+      "zh_CN": "受前辈之托帮忙工作，稍微加了一会儿班。",
+      "ko": "선배에게 일을 부탁받아서 조금 잔업했습니다.",
+      "zh_HK": "前輩拜託我幫手做嘢，所以我開咗少少OT。",
+      "fr": "Un collègue plus ancien m'a demandé un service, j'ai donc fait un peu d'heures supplémentaires."
+    },
+    "related": "頼む"
+  },
+  {
+    "id": "card_1517",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "踏まれる",
+    "reading": "ふまれる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be stepped on (passive form)",
+      "zh_TW": "被踩（被動形）",
+      "zh_CN": "被踩（被动形）",
+      "ko": "밟히다",
+      "zh_HK": "俾人踩（被動形）",
+      "fr": "se faire marcher dessus (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まれました。",
+      "en": "In the crowded train, my foot was stepped on by the person next to me.",
+      "zh_TW": "在擁擠的電車裡，被旁邊的人踩了腳。",
+      "zh_CN": "在拥挤的电车里，被旁边的人踩了脚。",
+      "ko": "만원 전철 안에서 옆 사람에게 발을 밟혔습니다.",
+      "zh_HK": "喺逼爆人嘅電車入面，我隻腳俾隔離個人踩親。",
+      "fr": "Dans le train bondé, la personne à côté de moi m'a marché sur le pied."
+    },
+    "related": "踏む"
+  },
+  {
+    "id": "card_1518",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "踏む・踏みます",
+    "reading": "ふむ・ふみます",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "step on; tread on",
+      "zh_TW": "踩；踏",
+      "zh_CN": "踩；踏",
+      "ko": "밟다",
+      "zh_HK": "踩；踏",
+      "fr": "marcher sur ; fouler"
+    },
+    "example": {
+      "ja": "<ruby>暗<rt>くら</rt></ruby>い<ruby>道<rt>みち</rt></ruby>で<ruby>誤<rt>あやま</rt></ruby>って<ruby>水<rt>みず</rt></ruby>たまりを<ruby>踏<rt>ふ</rt></ruby>んでしまいました。",
+      "en": "On a dark road, I accidentally stepped in a puddle.",
+      "zh_TW": "在黑漆漆的路上不小心踩進了水坑裡。",
+      "zh_CN": "在黑漆漆的路上不小心踩进了水坑里。",
+      "ko": "어두운 길에서 실수로 물웅덩이를 밟아 버렸습니다.",
+      "zh_HK": "喺條黑麻麻嘅路度，我唔小心踩咗落水氹。",
+      "fr": "Sur une route sombre, j'ai marché par mégarde dans une flaque d'eau."
+    },
+    "related": "踏まれる / 足"
+  },
+  {
+    "id": "card_1519",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "盗まれる",
+    "reading": "ぬすまれる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be stolen; have (something) stolen (passive form)",
+      "zh_TW": "被偷；被盜（被動形）",
+      "zh_CN": "被偷；被盗（被动形）",
+      "ko": "도둑맞다; 도난당하다",
+      "zh_HK": "俾人偷咗（被動形）",
+      "fr": "se faire voler (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>鍵<rt>かぎ</rt></ruby>をかけ<ruby>忘<rt>わす</rt></ruby>れたために、<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれてしまいました。",
+      "en": "Because I forgot to lock it, my bicycle was stolen.",
+      "zh_TW": "因為忘了上鎖，自行車被人偷走了。",
+      "zh_CN": "因为忘了上锁，自行车被人偷走了。",
+      "ko": "열쇠 잠그는 것을 잊어버려서 자전거를 도둑맞고 말았습니다.",
+      "zh_HK": "因為唔記得落鎖，架單車俾人偷咗。",
+      "fr": "Comme j'avais oublié de mettre l'antivol, je me suis fait voler mon vélo."
+    },
+    "related": "盗む / 失くす"
+  },
+  {
+    "id": "card_1520",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "盗む・盗みます",
+    "reading": "ぬすむ・ぬすみます",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "steal",
+      "zh_TW": "偷；盜竊",
+      "zh_CN": "偷；盗窃",
+      "ko": "훔치다",
+      "zh_HK": "偷",
+      "fr": "voler ; dérober"
+    },
+    "example": {
+      "ja": "<ruby>美術館<rt>びじゅつかん</rt></ruby>から<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<ruby>犯人<rt>はんにん</rt></ruby>が<ruby>捕<rt>つか</rt></ruby>まりました。",
+      "en": "The culprit who stole the famous painting from the art museum was caught.",
+      "zh_TW": "從美術館偷走名畫的犯人被抓住了。",
+      "zh_CN": "从美术馆偷走名画的犯人被抓住了。",
+      "ko": "미술관에서 유명한 그림을 훔친 범인이 잡혔습니다.",
+      "zh_HK": "喺美術館偷走名畫嗰個賊已經俾人捉到喇。",
+      "fr": "Le coupable qui avait volé le célèbre tableau au musée a été arrêté."
+    },
+    "related": "盗まれる"
+  },
+  {
+    "id": "card_1521",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "噛まれる",
+    "reading": "かまれる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be bitten (passive form)",
+      "zh_TW": "被咬（被動形）",
+      "zh_CN": "被咬（被动形）",
+      "ko": "물리다",
+      "zh_HK": "俾（狗/蚊）咬（被動形）",
+      "fr": "se faire mordre / piquer (forme passive)"
+    },
+    "example": {
+      "ja": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>していたら、<ruby>蚊<rt>か</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>噛<rt>か</rt></ruby>まれました。",
+      "en": "While taking a walk in the park, my leg was bitten by a mosquito.",
+      "zh_TW": "在公園散步時，腿被蚊子咬了。",
+      "zh_CN": "在公园散步时，腿被蚊子咬了。",
+      "ko": "공원을 산책하다가 모기에게 다리를 물렸습니다.",
+      "zh_HK": "喺公園散步嗰陣，我隻腳俾蚊咬親。",
+      "fr": "En me promenant dans le parc, je me suis fait piquer à la jambe par un moustique."
+    },
+    "related": "噛む"
+  },
+  {
+    "id": "card_1522",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "建てられる",
+    "reading": "たてられる",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "be built; be constructed (passive form)",
+      "zh_TW": "被建造；建成（被動形）",
+      "zh_CN": "被建造；建成（被动形）",
+      "ko": "세워지다; 지어지다",
+      "zh_HK": "起好；被興建（被動形）",
+      "fr": "être construit ; être bâti (forme passive)"
+    },
+    "example": {
+      "ja": "この<ruby>古<rt>ふる</rt></ruby>いお<ruby>寺<rt>てら</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>から<ruby>五<rt>ご</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられました。",
+      "en": "This old temple was built five hundred years ago.",
+      "zh_TW": "這座古老的寺廟建於五百年前。",
+      "zh_CN": "这座古老的寺庙建于五百年前。",
+      "ko": "이 오래된 절은 지금으로부터 500년 전에 지어졌습니다.",
+      "zh_HK": "呢間古老嘅寺廟係喺五百年前起好嘅。",
+      "fr": "Ce vieux temple a été construit il y a cinq cents ans."
+    },
+    "related": "建てる / 建物"
+  },
+  {
+    "id": "card_1523",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "建てる・建てます",
+    "reading": "たてる・たてます",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "build; construct",
+      "zh_TW": "建造；蓋（房子）",
+      "zh_CN": "建造；盖（房子）",
+      "ko": "세우다; 짓다",
+      "zh_HK": "起（樓/屋）；興建",
+      "fr": "construire ; bâtir"
+    },
+    "example": {
+      "ja": "<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かな<ruby>郊外<rt>こうがい</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てました。",
+      "en": "My parents built a new house in a quiet suburb.",
+      "zh_TW": "父母在安靜的郊外蓋了新房子。",
+      "zh_CN": "父母在安静的郊外盖了新房子。",
+      "ko": "부모님은 조용한 교외에 새집을 지으셨습니다.",
+      "zh_HK": "我父母喺環境清靜嘅郊外起咗間新屋。",
+      "fr": "Mes parents ont fait construire une nouvelle maison dans une banlieue calme."
+    },
+    "related": "建てられる / 建物"
+  },
+  {
+    "id": "card_1524",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "発明する",
+    "reading": "はつめいする",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "invent",
+      "zh_TW": "發明",
+      "zh_CN": "发明",
+      "ko": "발명하다",
+      "zh_HK": "發明",
+      "fr": "inventer"
+    },
+    "example": {
+      "ja": "<ruby>電話<rt>でんわ</rt></ruby>は<ruby>十<rt>じゅう</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>世紀<rt>せいき</rt></ruby>にベルによって<ruby>発明<rt>はつめい</rt></ruby>されました。",
+      "en": "The telephone was invented by Bell in the 19th century.",
+      "zh_TW": "電話是在十九世紀由貝爾發明的。",
+      "zh_CN": "电话是在十九世纪由贝尔发明的。",
+      "ko": "전화는 19세기에 벨에 의해 발명되었습니다.",
+      "zh_HK": "電話係喺十九世紀由貝爾發明嘅。",
+      "fr": "Le téléphone a été inventé par Bell au XIXe siècle."
+    },
+    "related": "作る / 発見する"
+  },
+  {
+    "id": "card_1525",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "開催する",
+    "reading": "かいさいする",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "hold (an event, conference, exhibition)",
+      "zh_TW": "舉辦；召開",
+      "zh_CN": "举办；召开",
+      "ko": "개최하다; 열다",
+      "zh_HK": "舉辦；舉行",
+      "fr": "organiser ; tenir (un événement)"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>開催<rt>かいさい</rt></ruby>されます。",
+      "en": "Next month, an international conference will be held in Tokyo.",
+      "zh_TW": "下個月將在東京舉辦國際會議。",
+      "zh_CN": "下个月将在东京举办国际会议。",
+      "ko": "다음 달 도쿄에서 국제회의가 개최됩니다.",
+      "zh_HK": "下個月將會喺東京舉辦國際會議。",
+      "fr": "Le mois prochain, une conférence internationale se tiendra à Tokyo."
+    },
+    "related": "開く / 会議"
+  },
+  {
+    "id": "card_1526",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "生産する",
+    "reading": "せいさんする",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "produce; manufacture",
+      "zh_TW": "生產；製造",
+      "zh_CN": "生产；制造",
+      "ko": "생산하다",
+      "zh_HK": "生產；製造",
+      "fr": "produire ; fabriquer"
+    },
+    "example": {
+      "ja": "この<ruby>工場<rt>こうじょう</rt></ruby>では、<ruby>毎日<rt>まいにち</rt></ruby>たくさんの<ruby>自動車<rt>じどうしゃ</rt></ruby>が<ruby>生産<rt>せいさん</rt></ruby>されています。",
+      "en": "At this factory, many automobiles are produced every day.",
+      "zh_TW": "這家工廠每天生產很多汽車。",
+      "zh_CN": "这家工厂每天生产很多汽车。",
+      "ko": "이 공장에서는 매일 많은 자동차가 생산되고 있습니다.",
+      "zh_HK": "呢間工廠每日都生產好多汽車。",
+      "fr": "Dans cette usine, de nombreuses voitures sont produites chaque jour."
+    },
+    "related": "作る / 輸出する"
+  },
+  {
+    "id": "card_1527",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "輸出する",
+    "reading": "ゆしゅつする",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "export",
+      "zh_TW": "出口（商品）",
+      "zh_CN": "出口（商品）",
+      "ko": "수출하다",
+      "zh_HK": "出口（貨物）",
+      "fr": "exporter"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>世界中<rt>せかいじゅう</rt></ruby>に<ruby>自動車<rt>じどうしゃ</rt></ruby>や<ruby>機械<rt>きかい</rt></ruby>を<ruby>輸出<rt>ゆしゅつ</rt></ruby>しています。",
+      "en": "Japan exports automobiles and machinery all over the world.",
+      "zh_TW": "日本向全世界出口汽車和機械。",
+      "zh_CN": "日本向全世界出口汽车和机械。",
+      "ko": "일본은 전 세계로 자동차나 기계를 수출하고 있습니다.",
+      "zh_HK": "日本向世界各地出口汽車同機械。",
+      "fr": "Le Japon exporte des voitures et des machines dans le monde entier."
+    },
+    "related": "輸入する / 生産する"
+  },
+  {
+    "id": "card_1528",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "輸入する",
+    "reading": "ゆにゅうする",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "import",
+      "zh_TW": "進口（商品）",
+      "zh_CN": "进口（商品）",
+      "ko": "수입하다",
+      "zh_HK": "入口；進口（貨物）",
+      "fr": "importer"
+    },
+    "example": {
+      "ja": "このスーパーでは、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>果物<rt>くだもの</rt></ruby>を<ruby>売<rt>う</rt></ruby>っています。",
+      "en": "This supermarket sells fruit imported from foreign countries.",
+      "zh_TW": "這家超市銷售從外國進口的水果。",
+      "zh_CN": "这家超市销售从外国进口的水果。",
+      "ko": "이 슈퍼마켓에서는 외국에서 수입한 과일을 팔고 있습니다.",
+      "zh_HK": "呢間超級市場有賣由外國入口嘅生果。",
+      "fr": "Ce supermarché vend des fruits importés de l'étranger."
+    },
+    "related": "輸出する / 外国"
+  },
+  {
+    "id": "card_1529",
+    "section_num": 66,
+    "section_title": "#66 Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "原料",
+    "reading": "げんりょう",
+    "category": "Stage 9 受身形（〜られる）＆ 歴史・社会の新出語",
+    "meaning": {
+      "en": "raw material; ingredient",
+      "zh_TW": "原料",
+      "zh_CN": "原料",
+      "ko": "원료",
+      "zh_HK": "原料",
+      "fr": "matière première ; ingrédient"
+    },
+    "example": {
+      "ja": "ビールは<ruby>麦<rt>むぎ</rt></ruby>を<ruby>原料<rt>げんりょう</rt></ruby>にして<ruby>作<rt>つく</rt></ruby>られます。",
+      "en": "Beer is made from barley as its raw ingredient.",
+      "zh_TW": "啤酒是以大麥為原料釀造的。",
+      "zh_CN": "啤酒是以大麦为原料酿造的。",
+      "ko": "맥주는 보리를 원료로 하여 만들어집니다.",
+      "zh_HK": "啤酒係用大麥做原料釀造出嚟嘅。",
+      "fr": "La bière est fabriquée à partir d'orge."
+    },
+    "related": "材料 / 生産する"
+  },
+  {
+    "id": "card_1530",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "びっくりする",
+    "reading": "びっくりする",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to be surprised",
+      "zh_TW": "吃驚 / 嚇一跳",
+      "zh_CN": "吃惊 / 吓一跳",
+      "ko": "깜짝 놀라다",
+      "zh_HK": "嚇親 / 驚訝",
+      "fr": "être surpris"
+    },
+    "example": {
+      "ja": "<ruby>後<rt>うし</rt></ruby>ろから<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>声<rt>こえ</rt></ruby>をかけられて、びっくりしました。",
+      "en": "I was surprised when Mr. Tanaka called out to me from behind.",
+      "zh_TW": "田中先生從後面叫我，嚇了我一跳。",
+      "zh_CN": "田中先生从后面叫我，吓了我一跳。",
+      "ko": "뒤에서 다나카 씨가 말을 걸어서 깜짝 놀랐습니다.",
+      "zh_HK": "田中先生喺後面叫我，嚇親我。",
+      "fr": "J'ai été surpris quand M. Tanaka m'a interpellé par- derrière."
+    },
+    "related": "類義語: 驚く（おどろく）"
+  },
+  {
+    "id": "card_1531",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "安心する",
+    "reading": "あんしんする",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to feel relieved",
+      "zh_TW": "放心 / 安心",
+      "zh_CN": "放心 / 安心",
+      "ko": "안심하다",
+      "zh_HK": "放心 / 安心",
+      "fr": "être soulagé / rassuré"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってきたので、<ruby>安心<rt>あんしん</rt></ruby>しました。",
+      "en": "I felt relieved because Ms. Suzuki came back safely.",
+      "zh_TW": "因為鈴木小姐平安回來了，所以我放心了。",
+      "zh_CN": "因为铃木小姐平安回来了，所以我放心了。",
+      "ko": "스즈키 씨가 무사히 돌아와서 안심했습니다.",
+      "zh_HK": "因為鈴木小姐平安返嚟，所以我好放心。",
+      "fr": "J'ai été soulagé car Mme Suzuki est rentrée saine et sauve."
+    },
+    "related": "対義語: 心配する（しんぱいする）"
+  },
+  {
+    "id": "card_1532",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "がっかりする",
+    "reading": "がっかりする",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to be disappointed",
+      "zh_TW": "失望 / 灰心",
+      "zh_CN": "失望 / 灰心",
+      "ko": "실망하다 / 낙담하다",
+      "zh_HK": "失望 / 灰心",
+      "fr": "être déçu"
+    },
+    "example": {
+      "ja": "<ruby>楽<rt>たの</rt></ruby>しみにしていた<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>中止<rt>ちゅうし</rt></ruby>になって、がっかりしました。",
+      "en": "I was disappointed that the trip I was looking forward to was canceled.",
+      "zh_TW": "一直期待的旅行取消了，我很失望。",
+      "zh_CN": "一直期待的旅行取消了，我很失望。",
+      "ko": "기대하고 있던 여행이 취소되어서 실망했습니다.",
+      "zh_HK": "一直好期待嘅旅行取消咗，我好失望。",
+      "fr": "J'ai été déçu que le voyage que j'attendais avec impatience soit annulé."
+    },
+    "related": "関連語: 残念（ざんねん）"
+  },
+  {
+    "id": "card_1533",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "喜ぶ・喜びます",
+    "reading": "よろこぶ・よろこびます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to be glad / to rejoice",
+      "zh_TW": "高興 / 歡喜",
+      "zh_CN": "高兴 / 欢喜",
+      "ko": "기뻐하다",
+      "zh_HK": "開心 / 歡喜",
+      "fr": "se réjouir / être ravi"
+    },
+    "example": {
+      "ja": "プレゼントを<ruby>渡<rt>わた</rt></ruby>したら、<ruby>佐藤<rt>さとう</rt></ruby>さんはとても<ruby>喜<rt>よろこ</rt></ruby>びました。",
+      "en": "When I gave the present, Ms. Sato was very happy.",
+      "zh_TW": "把禮物送過去後，佐藤小姐非常高興。",
+      "zh_CN": "把礼物送过去后，佐藤小姐非常高兴。",
+      "ko": "선물을 건네주니 사토 씨는 매우 기뻐했습니다.",
+      "zh_HK": "送咗份禮物過去之後，佐藤小姐好開心。",
+      "fr": "Quand je lui ai offert le cadeau, Mme Sato s'est beaucoup réjouie."
+    },
+    "related": "五段動詞 / 名詞: 喜び"
+  },
+  {
+    "id": "card_1534",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "悲しむ・悲しみます",
+    "reading": "かなしむ・かなしみます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to grieve / to be sad",
+      "zh_TW": "悲傷 / 難過",
+      "zh_CN": "悲伤 / 难过",
+      "ko": "슬퍼하다",
+      "zh_HK": "傷心 / 難過",
+      "fr": "s'attrister / pleurer"
+    },
+    "example": {
+      "ja": "<ruby>大切<rt>たいせつ</rt></ruby>なペットが<ruby>死<rt>し</rt></ruby>んでしまい、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>深<rt>ふか</rt></ruby>く<ruby>悲<rt>かな</rt></ruby>しんでいます。",
+      "en": "A precious pet passed away, and Ms. Takahashi is deeply grieving.",
+      "zh_TW": "心愛的寵物去世了，高橋小姐非常難過。",
+      "zh_CN": "心爱的宠物去世了，高桥小姐非常难过。",
+      "ko": "소중한 반려동물이 죽어서 다카하시 씨는 깊이 슬퍼하고 있습니다.",
+      "zh_HK": "心愛嘅寵物過咗身，高橋小姐非常傷心。",
+      "fr": "Son animal de compagnie adoré est mort, et Mme Takahashi est profondément attristée."
+    },
+    "related": "五段動詞 / 形容詞: 悲しい"
+  },
+  {
+    "id": "card_1535",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "怒る・怒ります",
+    "reading": "おこる・おこります",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to get angry / to scold",
+      "zh_TW": "生氣 / 發火",
+      "zh_CN": "生气 / 发火",
+      "ko": "화내다 / 꾸짖다",
+      "zh_HK": "嬲 / 發脾氣",
+      "fr": "se fâcher / se mettre en colère"
+    },
+    "example": {
+      "ja": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れて、<ruby>中村<rt>なかむら</rt></ruby>さんに<ruby>怒<rt>おこ</rt></ruby>られました。",
+      "en": "I was scolded by Mr. Nakamura for being late for the appointment.",
+      "zh_TW": "因為約會遲到了，被中村先生批評了。",
+      "zh_CN": "因为约会迟到了，被中村先生批评了。",
+      "ko": "약속 시간에 늦어서 나카무라 씨에게 혼났습니다.",
+      "zh_HK": "因為遲到，俾中村先生鬧咗。",
+      "fr": "Je me suis fait gronder par M. Nakamura parce que j'étais en retard au rendez-vous."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1536",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "泣く・泣きます",
+    "reading": "なく・なきます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to cry / to weep",
+      "zh_TW": "哭 / 哭泣",
+      "zh_CN": "哭 / 哭泣",
+      "ko": "울다",
+      "zh_HK": "喊 / 哭",
+      "fr": "pleurer"
+    },
+    "example": {
+      "ja": "<ruby>感動<rt>かんどう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>泣<rt>な</rt></ruby>いていました。",
+      "en": "Ms. Suzuki was crying after watching a moving movie.",
+      "zh_TW": "看了感人的電影，鈴木小姐哭了。",
+      "zh_CN": "看了感人的电影，铃木小姐哭了。",
+      "ko": "감동적인 영화를 보고 스즈키 씨는 울고 있었습니다.",
+      "zh_HK": "睇咗套好感動嘅戲，鈴木小姐喊咗出嚟。",
+      "fr": "Mme Suzuki pleurait en regardant un film émouvant."
+    },
+    "related": "五段動詞 / 対義語: 笑う"
+  },
+  {
+    "id": "card_1537",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "笑う・笑います",
+    "reading": "わらう・わらいます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to laugh / to smile",
+      "zh_TW": "笑 / 微笑",
+      "zh_CN": "笑 / 微笑",
+      "ko": "웃다",
+      "zh_HK": "笑",
+      "fr": "rire / sourire"
+    },
+    "example": {
+      "ja": "<ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>冗談<rt>じょうだん</rt></ruby>が<ruby>面白<rt>おもしろ</rt></ruby>くて、みんなで<ruby>笑<rt>わら</rt></ruby>いました。",
+      "en": "Mr. Ito's joke was funny, so everyone laughed.",
+      "zh_TW": "伊藤先生的笑話很有趣，大家都笑了。",
+      "zh_CN": "伊藤先生的笑话很有趣，大家都笑了。",
+      "ko": "이토 씨의 농담이 재미있어서 다 함께 웃었습니다.",
+      "zh_HK": "伊藤先生嘅笑話好好笑，大家都笑咗。",
+      "fr": "La blague de M. Ito était drôle, alors tout le monde a ri."
+    },
+    "related": "五段動詞 / 名詞: 笑顔（えがお）"
+  },
+  {
+    "id": "card_1538",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "倒れる・倒れます",
+    "reading": "たおれる・たおれます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to fall down / to collapse",
+      "zh_TW": "倒下 / 暈倒",
+      "zh_CN": "倒下 / 晕倒",
+      "ko": "쓰러지다 / 넘어지다",
+      "zh_HK": "冧 / 暈低",
+      "fr": "tomber / s'effondrer"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で、<ruby>庭<rt>にわ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れました。",
+      "en": "The big tree in the garden fell down in yesterday's strong wind.",
+      "zh_TW": "昨天刮大風，院子裡的大樹倒了。",
+      "zh_CN": "昨天刮大风，院子里的大树倒了。",
+      "ko": "어제 강한 바람에 정원의 큰 나무가 쓰러졌습니다.",
+      "zh_HK": "尋日吹大風，花園棵大樹冧咗。",
+      "fr": "Le grand arbre du jardin est tombé à cause du vent fort d'hier."
+    },
+    "related": "一段動詞（自動詞） / 他動詞: 倒す"
+  },
+  {
+    "id": "card_1539",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "混む・混みます",
+    "reading": "こむ・こみます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to be crowded / congested",
+      "zh_TW": "擁擠",
+      "zh_CN": "拥挤",
+      "ko": "붐비다 / 혼잡하다",
+      "zh_HK": "迫 / 塞",
+      "fr": "être bondé / embouteillé"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>ごろの<ruby>電車<rt>でんしゃ</rt></ruby>はとても<ruby>混<rt>こ</rt></ruby>みます。",
+      "en": "The train around 8 a.m. every morning gets very crowded.",
+      "zh_TW": "每天早上八點左右的電車非常擁擠。",
+      "zh_CN": "每天早上八点左右的电车非常拥挤。",
+      "ko": "매일 아침 8시경의 전철은 매우 붐빕니다.",
+      "zh_HK": "每日朝早八點左右嘅電車好迫人。",
+      "fr": "Le train vers 8 heures chaque matin est très bondé."
+    },
+    "related": "五段動詞 / 対義語: 空く（すく）"
+  },
+  {
+    "id": "card_1540",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "滑る・滑ります",
+    "reading": "すべる・すべります",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to slip / to slide",
+      "zh_TW": "滑 / 滑倒",
+      "zh_CN": "滑 / 滑倒",
+      "ko": "미끄러지다",
+      "zh_HK": "跣親 / 滑",
+      "fr": "glisser"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>で<ruby>階段<rt>かいだん</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていて<ruby>滑<rt>すべ</rt></ruby>りやすいですから、<ruby>気<rt>き</rt></ruby>をつけてください。",
+      "en": "The stairs are wet from the rain and slippery, so please be careful.",
+      "zh_TW": "因為下雨樓梯濕了很容易滑倒，請小心。",
+      "zh_CN": "因为下雨楼梯湿了很容易滑倒，请小心。",
+      "ko": "비 때문에 계단이 젖어 있어서 미끄러지기 쉬우니까 조심하세요.",
+      "zh_HK": "因為落雨樓梯濕咗好易跣親，請小心。",
+      "fr": "Les escaliers sont mouillés par la pluie et glissants, alors faites attention."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1541",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "揺れる・揺れます",
+    "reading": "ゆれる・ゆれます",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to shake / to sway",
+      "zh_TW": "搖晃 / 晃動",
+      "zh_CN": "摇晃 / 晃动",
+      "ko": "흔들리다",
+      "zh_HK": "搖晃 / 震",
+      "fr": "trembler / osciller"
+    },
+    "example": {
+      "ja": "<ruby>地震<rt>じしん</rt></ruby>でビルの<ruby>部屋<rt>へや</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>揺<rt>ゆ</rt></ruby>れました。",
+      "en": "The room in the building shook heavily due to the earthquake.",
+      "zh_TW": "因為地震，大樓裡的房間劇烈搖晃。",
+      "zh_CN": "因为地震，大楼里的房间剧烈摇晃。",
+      "ko": "지진으로 빌딩 방이 크게 흔들렸습니다.",
+      "zh_HK": "因為地震，大廈間房搖得好厲害。",
+      "fr": "La pièce de l'immeuble a fortement tremblé à cause du tremblement de terre."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1542",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "故障する",
+    "reading": "こしょうする",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "to break down / to be out of order",
+      "zh_TW": "發生故障 / 壞了",
+      "zh_CN": "发生故障 / 坏了",
+      "ko": "고장 나다",
+      "zh_HK": "壞咗 / 故障",
+      "fr": "tomber en panne"
+    },
+    "example": {
+      "ja": "オフィスのコピー<ruby>機<rt>き</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>して、<ruby>使<rt>つか</rt></ruby>えなくなりました。",
+      "en": "The office copy machine broke down and can no longer be used.",
+      "zh_TW": "辦公室的影印機壞了，不能用了。",
+      "zh_CN": "办公室的复印机坏了，不能用了。",
+      "ko": "사무실 복사기가 고장 나서 사용할 수 없게 되었습니다.",
+      "zh_HK": "辦公室部影印機壞咗，用唔到。",
+      "fr": "La photocopieuse du bureau est tombée en panne et est inutilisable."
+    },
+    "related": "名詞・サ変動詞 / 修理する（しゅうりする）"
+  },
+  {
+    "id": "card_1543",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "地震",
+    "reading": "じしん",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "earthquake",
+      "zh_TW": "地震",
+      "zh_CN": "地震",
+      "ko": "지진",
+      "zh_HK": "地震",
+      "fr": "tremblement de terre / séisme"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いので、いつも<ruby>準備<rt>じゅんび</rt></ruby>をしておくことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "en": "Since Japan has many earthquakes, it is important to always be prepared.",
+      "zh_TW": "日本地震很多，所以平時做好準備很重要。",
+      "zh_CN": "日本地震很多，所以平时做好准备很重要。",
+      "ko": "일본은 지진이 많아서 항상 준비해 두는 것이 중요합니다.",
+      "zh_HK": "日本好多地震，所以平時做好準備好緊要。",
+      "fr": "Comme il y a beaucoup de séismes au Japon, il est important d'être toujours préparé."
+    },
+    "related": "表現: 地震が起きる"
+  },
+  {
+    "id": "card_1544",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "事故",
+    "reading": "じこ",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "accident",
+      "zh_TW": "事故",
+      "zh_CN": "事故",
+      "ko": "사고",
+      "zh_HK": "意外 / 事故",
+      "fr": "accident"
+    },
+    "example": {
+      "ja": "<ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>でバスが30<ruby>分<rt>ふん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れました。",
+      "en": "The bus was delayed by 30 minutes due to a traffic accident.",
+      "zh_TW": "因為交通事故，公車誤點了30分鐘。",
+      "zh_CN": "因为交通事故，公交车晚点了30分钟。",
+      "ko": "교통사고로 버스가 30분 늦었습니다.",
+      "zh_HK": "因為交通意外，巴士遲咗30分鐘。",
+      "fr": "Le bus a eu 30 minutes de retard à cause d'un accident de la route."
+    },
+    "related": "関連語: 事件（じけん）"
+  },
+  {
+    "id": "card_1545",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "火事",
+    "reading": "かじ",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "fire (conflagration)",
+      "zh_TW": "火災",
+      "zh_CN": "火灾",
+      "ko": "화재 / 불",
+      "zh_HK": "火災 / 火燭",
+      "fr": "incendie"
+    },
+    "example": {
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>しているので、<ruby>火事<rt>かじ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけましょう。",
+      "en": "Since the air is dry in winter, let's be careful of fires.",
+      "zh_TW": "冬天空氣乾燥，請大家小心火災。",
+      "zh_CN": "冬天空气干燥，请大家小心火灾。",
+      "ko": "겨울에는 공기가 건조하므로 화재에 조심합시다.",
+      "zh_HK": "冬天空氣乾燥，大家要小心火燭。",
+      "fr": "Comme l'air est sec en hiver, faisons attention aux incendies."
+    },
+    "related": "関連語: 消防車（しょうぼうしゃ）"
+  },
+  {
+    "id": "card_1546",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "水道",
+    "reading": "すいどう",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "water supply / tap water",
+      "zh_TW": "自來水 / 水道",
+      "zh_CN": "自来水 / 水道",
+      "ko": "수도",
+      "zh_HK": "自來水 / 水喉",
+      "fr": "eau courante / service des eaux"
+    },
+    "example": {
+      "ja": "<ruby>工事<rt>こうじ</rt></ruby>のため、<ruby>今日<rt>きょう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>から4<ruby>時<rt>じ</rt></ruby>まで<ruby>水道<rt>すいどう</rt></ruby>が<ruby>止<rt>と</rt></ruby>まります。",
+      "en": "Due to construction, the water supply will be shut off from 2 to 4 p.m. today.",
+      "zh_TW": "因為施工，今天下午兩點到四點停水。",
+      "zh_CN": "因为施工，今天下午两点到四点停水。",
+      "ko": "공사 때문에 오늘 오후 2시부터 4시까지 수도가 단수됩니다.",
+      "zh_HK": "因為工程關係，今日下晝兩點至四點停水。",
+      "fr": "En raison de travaux, l'eau courante sera coupée aujourd'hui de 14h à 16h."
+    },
+    "related": "表現: 水道の水"
+  },
+  {
+    "id": "card_1547",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ガス",
+    "reading": "ガス",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "gas",
+      "zh_TW": "瓦斯 / 煤氣",
+      "zh_CN": "煤气 / 瓦斯",
+      "ko": "가스",
+      "zh_HK": "煤氣",
+      "fr": "gaz"
+    },
+    "example": {
+      "ja": "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、ガスの<ruby>火<rt>ひ</rt></ruby>を<ruby>消<rt>け</rt></ruby>したか<ruby>確<rt>たし</rt></ruby>かめました。",
+      "en": "Before going out, I checked whether I had turned off the gas stove.",
+      "zh_TW": "出門前，我確認了是否關好了瓦斯。",
+      "zh_CN": "出门前，我确认了是否关好了煤气。",
+      "ko": "외출하기 전에 가스 불을 껐는지 확인했습니다.",
+      "zh_HK": "出門口之前，我確認咗係咪熄咗煤氣。",
+      "fr": "Avant de sortir, j'ai vérifié si j'avais bien éteint le gaz."
+    },
+    "related": "関連語: ガス代"
+  },
+  {
+    "id": "card_1548",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "停電",
+    "reading": "ていでん",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "power outage / blackout",
+      "zh_TW": "停電",
+      "zh_CN": "停电",
+      "ko": "정전",
+      "zh_HK": "停電",
+      "fr": "coupure de courant / panne d'électricité"
+    },
+    "example": {
+      "ja": "<ruby>台風<rt>たいふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>昨夜<rt>さくや</rt></ruby>は2<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>停電<rt>ていでん</rt></ruby>しました。",
+      "en": "Due to the typhoon, there was a power outage for about two hours last night.",
+      "zh_TW": "受颱風影響，昨晚停了大約兩個小時的電。",
+      "zh_CN": "受台风影响，昨晚停了大约两个小时的电。",
+      "ko": "태풍의 영향으로 어젯밤에는 2시간 정도 정전되었습니다.",
+      "zh_HK": "受打風影響，尋晚停咗大約兩個鐘頭電。",
+      "fr": "À cause du typhon, il y a eu une coupure de courant d'environ deux heures hier soir."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1549",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "原因",
+    "reading": "げんいん",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "cause / origin",
+      "zh_TW": "原因",
+      "zh_CN": "原因",
+      "ko": "원인",
+      "zh_HK": "原因",
+      "fr": "cause"
+    },
+    "example": {
+      "ja": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>については、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べています。",
+      "en": "The police are investigating the cause of this accident.",
+      "zh_TW": "關於這次事故的原因，警方正在調查。",
+      "zh_CN": "关于这次事故的原因，警方正在调查。",
+      "ko": "이번 사고의 원인에 대해서는 경찰이 조사하고 있습니다.",
+      "zh_HK": "關於今次意外嘅原因，警察緊係度調查緊。",
+      "fr": "La police enquête sur la cause de cet accident."
+    },
+    "related": "対義語: 結果（けっか）"
+  },
+  {
+    "id": "card_1550",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "結果",
+    "reading": "けっか",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "result / outcome",
+      "zh_TW": "結果",
+      "zh_CN": "结果",
+      "ko": "결과",
+      "zh_HK": "結果",
+      "fr": "résultat"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>に<ruby>健康<rt>けんこう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。",
+      "en": "The results of the health checkup will come out next Monday.",
+      "zh_TW": "下週一出健檢結果。",
+      "zh_CN": "下周一出体检结果。",
+      "ko": "다음 주 월요일에 건강검진 결과가 나옵니다.",
+      "zh_HK": "下星期一會出身體檢查嘅結果。",
+      "fr": "Les résultats du bilan de santé seront connus lundi prochain."
+    },
+    "related": "対義語: 原因（げんいん）"
+  },
+  {
+    "id": "card_1551",
+    "section_num": 67,
+    "section_title": "#67 Stage 10 感情・トラブル・災害・原因の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "途中",
+    "reading": "とちゅう",
+    "category": "Stage 10 感情・トラブル・災害・原因の新出語",
+    "meaning": {
+      "en": "on the way / midway",
+      "zh_TW": "途中 / 半路",
+      "zh_CN": "途中 / 半路",
+      "ko": "도중",
+      "zh_HK": "中途 / 半路",
+      "fr": "en chemin / au milieu de"
+    },
+    "example": {
+      "ja": "<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>途中<rt>とちゅう</rt></ruby>で、<ruby>偶然<rt>ぐうぜん</rt></ruby><ruby>田中<rt>たなか</rt></ruby>さんに<ruby>会<rt>あ</rt></ruby>いました。",
+      "en": "On my way to the office, I ran into Mr. Tanaka by chance.",
+      "zh_TW": "在去公司的路上，我偶然遇到了田中先生。",
+      "zh_CN": "在去公司的路上，我偶然遇到了田中先生。",
+      "ko": "회사에 가는 도중에 우연히 다나카 씨를 만났습니다.",
+      "zh_HK": "喺返公司嘅中途，我撞見田中先生。",
+      "fr": "En allant au bureau, j'ai rencontré M. Tanaka par hasard."
+    },
+    "related": "表現: 〜の途中で"
+  },
+  {
+    "id": "card_1552",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "確かめる・確かめます",
+    "reading": "たしかめる・たしかめます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to confirm / to make sure",
+      "zh_TW": "確認 / 查明",
+      "zh_CN": "确认 / 查明",
+      "ko": "확인하다",
+      "zh_HK": "確認 / 核實",
+      "fr": "vérifier / s'assurer"
+    },
+    "example": {
+      "ja": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby><ruby>確<rt>たし</rt></ruby>かめておきましょう。",
+      "en": "Let's double-check the departure time of the airplane.",
+      "zh_TW": "我們再確認一下飛機的起飛時間吧。",
+      "zh_CN": "我们再确认一下飞机的起飞时间吧。",
+      "ko": "비행기 출발 시간을 다시 한번 확인해 둡시다.",
+      "zh_HK": "我哋再確認多次班機嘅起飛時間啦。",
+      "fr": "Vérifions encore une fois l'heure de départ de l'avion."
+    },
+    "related": "一段動詞 / 類義語: 確認する"
+  },
+  {
+    "id": "card_1553",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "試す・試します",
+    "reading": "ためす・ためします",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to try / to test",
+      "zh_TW": "嘗試 / 試用",
+      "zh_CN": "尝试 / 试用",
+      "ko": "시험 삼아 해 보다",
+      "zh_HK": "試下 / 測試",
+      "fr": "essayer / tester"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいやり<ruby>方<rt>かた</rt></ruby>がうまくいくか、<ruby>一度<rt>いちど</rt></ruby><ruby>試<rt>ため</rt></ruby>してみます。",
+      "en": "I will try it once to see if the new method works well.",
+      "zh_TW": "我試一次看看新的方法能不能行得通。",
+      "zh_CN": "我试一次看看新的方法能不能行得通。",
+      "ko": "새로운 방식이 잘될지 한번 시험 삼아 해 보겠습니다.",
+      "zh_HK": "我試一次睇下個新方法行唔行得通。",
+      "fr": "Je vais essayer une fois pour voir si la nouvelle méthode fonctionne bien."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1554",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "測る・測ります",
+    "reading": "はかる・はかります",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to measure / to weigh",
+      "zh_TW": "測量 / 量測",
+      "zh_CN": "测量 / 称（重量）",
+      "ko": "재다 / 측량하다",
+      "zh_HK": "度（尺寸） / 磅（重）",
+      "fr": "mesurer / peser"
+    },
+    "example": {
+      "ja": "<ruby>熱<rt>ねつ</rt></ruby>があるかもしれないので、<ruby>体温<rt>たいおん</rt></ruby>を<ruby>測<rt>はか</rt></ruby>りました。",
+      "en": "I took my temperature because I might have a fever.",
+      "zh_TW": "因為可能發燒了，我量了一下體溫。",
+      "zh_CN": "因为可能发烧了，我量了一下体温。",
+      "ko": "열이 있을지도 몰라서 체온을 쟀습니다.",
+      "zh_HK": "因為可能發燒，我探咗熱。",
+      "fr": "J'ai pris ma température car j'ai peut-être de la fièvre."
+    },
+    "related": "五段動詞（量る・計る）"
+  },
+  {
+    "id": "card_1555",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "数える・数えます",
+    "reading": "かぞえる・かぞえます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to count",
+      "zh_TW": "數 / 計算",
+      "zh_CN": "数 / 计算",
+      "ko": "세다",
+      "zh_HK": "數（數目）",
+      "fr": "compter"
+    },
+    "example": {
+      "ja": "パーティーに<ruby>参加<rt>さんか</rt></ruby>する<ruby>人数<rt>にんずう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えてください。",
+      "en": "Please count the number of people participating in the party.",
+      "zh_TW": "請數一下參加派對的人數。",
+      "zh_CN": "请数一下参加派对的人数。",
+      "ko": "파티에 참가하는 인원수를 세어 주세요.",
+      "zh_HK": "唔該數下參加派對嘅人數。",
+      "fr": "Veuillez compter le nombre de personnes participant à la fête."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1556",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "合う・合います",
+    "reading": "あう・あいます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to fit / to match / to be correct",
+      "zh_TW": "合適 / 相符",
+      "zh_CN": "合适 / 相符",
+      "ko": "맞다 / 어울리다",
+      "zh_HK": "啱（身/尺寸） / 夾",
+      "fr": "aller / convenir / correspondre"
+    },
+    "example": {
+      "ja": "この<ruby>靴<rt>くつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>足<rt>あし</rt></ruby>にぴったり<ruby>合<rt>あ</rt></ruby>います。",
+      "en": "These shoes fit my feet perfectly.",
+      "zh_TW": "這雙鞋非常合我的腳。",
+      "zh_CN": "这双鞋非常合我的脚。",
+      "ko": "이 구두는 내 발에 딱 맞습니다.",
+      "zh_HK": "呢對鞋好啱我隻腳。",
+      "fr": "Ces chaussures me vont parfaitement."
+    },
+    "related": "五段動詞 / 表現: サイズが合う"
+  },
+  {
+    "id": "card_1557",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "似合う・似合います",
+    "reading": "にあう・にあいます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to suit / to look good on",
+      "zh_TW": "適合 / 相稱",
+      "zh_CN": "适合 / 相称",
+      "ko": "어울리다",
+      "zh_HK": "襯 / 啱襯",
+      "fr": "bien aller à (quelqu'un)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんはその<ruby>青<rt>あお</rt></ruby>いワンピースがとても<ruby>似合<rt>にあ</rt></ruby>いますね。",
+      "en": "That blue dress looks very good on you, Ms. Suzuki.",
+      "zh_TW": "鈴木小姐穿那件藍色洋裝非常好看呢。",
+      "zh_CN": "铃木小姐穿那件蓝色连衣裙非常好看呢。",
+      "ko": "스즈키 씨는 그 파란색 원피스가 정말 잘 어울리네요.",
+      "zh_HK": "鈴木小姐著嗰條藍色連身裙好襯你呀。",
+      "fr": "Cette robe bleue vous va très bien, Mme Suzuki."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1558",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "試着する",
+    "reading": "しちゃくする",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to try on (clothes)",
+      "zh_TW": "試穿",
+      "zh_CN": "试穿",
+      "ko": "시착하다 / 입어 보다",
+      "zh_HK": "試身 / 試衫",
+      "fr": "essayer (un vêtement)"
+    },
+    "example": {
+      "ja": "このコートを<ruby>試着<rt>試着</rt></ruby>してもいいですか。",
+      "en": "May I try on this coat?",
+      "zh_TW": "我可以試穿一下這件大衣嗎？",
+      "zh_CN": "我可以试穿一下这件大衣吗？",
+      "ko": "이 코트를 입어 봐도 될까요?",
+      "zh_HK": "我可唔可以試下呢件大褸呀？",
+      "fr": "Puis-je essayer ce manteau ?"
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1559",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "取り替える・取り替えます",
+    "reading": "とりかえる・とりかえます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to exchange / to replace",
+      "zh_TW": "更換 / 調換",
+      "zh_CN": "更换 / 调换",
+      "ko": "교환하다 / 갈아 끼우다",
+      "zh_HK": "換 / 更換",
+      "fr": "échanger / remplacer"
+    },
+    "example": {
+      "ja": "<ruby>電球<rt>でんきゅう</rt></ruby>が<ruby>切<rt>き</rt></ruby>れたので、<ruby>新<rt>あたら</rt></ruby>しいものと<ruby>取り替<rt>とりか</rt></ruby>えました。",
+      "en": "The lightbulb burned out, so I replaced it with a new one.",
+      "zh_TW": "燈泡壞了，所以換了一個新的。",
+      "zh_CN": "灯泡坏了，所以换了一个新的。",
+      "ko": "전구가 나가서 새것으로 갈아 끼웠습니다.",
+      "zh_HK": "個燈膽燒咗，所以換咗個新嘅。",
+      "fr": "L'ampoule a grillé, je l'ai donc remplacée par une neuve."
+    },
+    "related": "一段動詞 / 類義語: 交換する"
+  },
+  {
+    "id": "card_1560",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "包む・包みます",
+    "reading": "つつむ・つつみます",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "to wrap / to pack",
+      "zh_TW": "包 / 包裝",
+      "zh_CN": "包 / 包装",
+      "ko": "싸다 / 포장하다",
+      "zh_HK": "包 / 包裝",
+      "fr": "emballer / envelopper"
+    },
+    "example": {
+      "ja": "プレゼント<ruby>用<rt>よう</rt></ruby>なので、きれいな<ruby>紙<rt>かみ</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>んでもらいました。",
+      "en": "Since it's for a gift, I had it wrapped in pretty paper.",
+      "zh_TW": "因為是送人的禮物，我請店員用漂亮的紙包了起來。",
+      "zh_CN": "因为是送人的礼物，我请店员用漂亮的纸包了起来。",
+      "ko": "선물용이라서 예쁜 종이로 포장해 달라고 했습니다.",
+      "zh_HK": "因為係送禮用，我叫店員用靚紙幫我包起佢。",
+      "fr": "Comme c'est pour un cadeau, je l'ai fait emballer dans un joli papier."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1561",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "試着室",
+    "reading": "しちゃくしつ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "fitting room",
+      "zh_TW": "試衣間",
+      "zh_CN": "试衣间",
+      "ko": "탈의실 / 피팅룸",
+      "zh_HK": "試身室",
+      "fr": "cabine d'essayage"
+    },
+    "example": {
+      "ja": "<ruby>試着室<rt>試着室</rt></ruby>はあちらの<ruby>奥<rt>おく</rt></ruby>にございます。",
+      "en": "The fitting room is over there at the back.",
+      "zh_TW": "試衣間在那邊裡面。",
+      "zh_CN": "试衣间在那边里面。",
+      "ko": "피팅룸은 저쪽 안쪽에 있습니다.",
+      "zh_HK": "試身室喺嗰邊入面。",
+      "fr": "La cabine d'essayage se trouve là-bas au fond."
+    },
+    "related": "関連語: 試着する"
+  },
+  {
+    "id": "card_1562",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "サイズ",
+    "reading": "サイズ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "size",
+      "zh_TW": "尺寸 / 尺碼",
+      "zh_CN": "尺码 / 尺寸",
+      "ko": "사이즈 / 치수",
+      "zh_HK": "尺碼 / Size",
+      "fr": "taille / pointure"
+    },
+    "example": {
+      "ja": "すみません、これのもう<ruby>一<rt>ひと</rt></ruby>つ<ruby>大<rt>おお</rt></ruby>きいサイズはありますか。",
+      "en": "Excuse me, do you have this in the next size up?",
+      "zh_TW": "不好意思，請問這件有大一號的尺寸嗎？",
+      "zh_CN": "不好意思，请问这件有大一号的尺码吗？",
+      "ko": "실례합니다, 이거 한 치수 더 큰 사이즈 있나요?",
+      "zh_HK": "唔該，請問呢件有冇大一個碼呀？",
+      "fr": "Excusez-moi, avez-vous ce modèle dans la taille au-dessus ?"
+    },
+    "related": "表現: サイズが合う"
+  },
+  {
+    "id": "card_1563",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "デザイン",
+    "reading": "デザイン",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "design",
+      "zh_TW": "設計 / 款式",
+      "zh_CN": "设计 / 款式",
+      "ko": "디자인",
+      "zh_HK": "設計 / 款式",
+      "fr": "design / modèle"
+    },
+    "example": {
+      "ja": "このバッグはシンプルでデザインがとても<ruby>素敵<rt>すてき</rt></ruby>です。",
+      "en": "This bag is simple and has a very lovely design.",
+      "zh_TW": "這個包包很簡約，設計非常漂亮。",
+      "zh_CN": "这个包很简约，款式非常漂亮。",
+      "ko": "이 가방은 심플하고 디자인이 매우 멋집니다.",
+      "zh_HK": "呢個袋好簡約，款式設計好靚。",
+      "fr": "Ce sac est simple et son design est très joli."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1564",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "傷",
+    "reading": "きず",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "scratch / flaw / wound",
+      "zh_TW": "傷口 / 瑕疵 / 刮痕",
+      "zh_CN": "伤口 / 瑕疵 / 划痕",
+      "ko": "상처 / 흠집",
+      "zh_HK": "傷口 / 花痕 / 瑕疵",
+      "fr": "blessure / rayure / défaut"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しく<ruby>買<rt>か</rt></ruby>った<ruby>机<rt>つくえ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さな<ruby>傷<rt>きず</rt></ruby>がついていたので、お<ruby>店<rt>みせ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>しました。",
+      "en": "There was a small scratch on the desk I newly bought, so I contacted the store.",
+      "zh_TW": "新買的桌子上有一點小刮痕，所以我聯繫了店家。",
+      "zh_CN": "新买的桌子上有一点小划痕，所以我联系了商店。",
+      "ko": "새로 산 책상에 작은 흠집이 있어서 가게에 연락했습니다.",
+      "zh_HK": "新買張書枱有少少花痕，所以我聯絡咗間舖頭。",
+      "fr": "Il y avait une petite rayure sur le bureau que je viens d'acheter, j'ai donc contacté le magasin."
+    },
+    "related": "表現: 傷がつく"
+  },
+  {
+    "id": "card_1565",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "高さ",
+    "reading": "たかさ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "height",
+      "zh_TW": "高度",
+      "zh_CN": "高度",
+      "ko": "높이",
+      "zh_HK": "高度",
+      "fr": "hauteur"
+    },
+    "example": {
+      "ja": "<ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さは3776メートルです。",
+      "en": "The height of Mt. Fuji is 3,776 meters.",
+      "zh_TW": "富士山的高度是3776公尺。",
+      "zh_CN": "富士山的高度是3776米。",
+      "ko": "후지산의 높이는 3776미터입니다.",
+      "zh_HK": "富士山嘅高度係3776米。",
+      "fr": "La hauteur du mont Fuji est de 3 776 mètres."
+    },
+    "related": "形容詞「高い」の名詞形"
+  },
+  {
+    "id": "card_1566",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "重さ",
+    "reading": "おもさ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "weight",
+      "zh_TW": "重量",
+      "zh_CN": "重量",
+      "ko": "무게",
+      "zh_HK": "重量",
+      "fr": "poids"
+    },
+    "example": {
+      "ja": "<ruby>飛行<rt>ひこう</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、スーツケースの<ruby>重<rt>おも</rt></ruby>さを<ruby>測<rt>はか</rt></ruby>りました。",
+      "en": "Before boarding the plane, I weighed my suitcase.",
+      "zh_TW": "上飛機前，我量了一下行李箱的重量。",
+      "zh_CN": "上飞机前，我称了一下行李箱的重量。",
+      "ko": "비행기를 타기 전에 여행 가방의 무게를 쟀습니다.",
+      "zh_HK": "上機之前，我磅咗一下個喼嘅重量。",
+      "fr": "Avant de prendre l'avion, j'ai pesé ma valise."
+    },
+    "related": "形容詞「重い」の名詞形"
+  },
+  {
+    "id": "card_1567",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "長さ",
+    "reading": "ながさ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "length",
+      "zh_TW": "長度",
+      "zh_CN": "长度",
+      "ko": "길이",
+      "zh_HK": "長度",
+      "fr": "longueur"
+    },
+    "example": {
+      "ja": "ズボンの<ruby>長<rt>なが</rt></ruby>さが<ruby>少<rt>すこ</rt></ruby>し<ruby>長<rt>なが</rt></ruby>いので、<ruby>直<rt>なお</rt></ruby>してもらえますか。",
+      "en": "The length of the pants is a bit long; could you alter them for me?",
+      "zh_TW": "褲子的長度有點長，能幫我修改一下嗎？",
+      "zh_CN": "裤子的长度有点长，能帮我改一下吗？",
+      "ko": "바지 길이가 조금 긴데, 수선해 주실 수 있나요?",
+      "zh_HK": "條褲嘅長度有啲長，可唔可以幫我改短少少？",
+      "fr": "La longueur du pantalon est un peu grande, pourriez-vous le retoucher ?"
+    },
+    "related": "形容詞「長い」の名詞形"
+  },
+  {
+    "id": "card_1568",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "広さ",
+    "reading": "ひろさ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "area / spaciousness",
+      "zh_TW": "面積 / 寬敞度",
+      "zh_CN": "面积 / 宽敞度",
+      "ko": "넓이",
+      "zh_HK": "面積 / 闊落程度",
+      "fr": "superficie / espace"
+    },
+    "example": {
+      "ja": "この<ruby>部屋<rt>へや</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>さは、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>住<rt>す</rt></ruby>むのにちょうどいいです。",
+      "en": "The size of this room is just right for living alone.",
+      "zh_TW": "這個房間的大小剛好適合一個人住。",
+      "zh_CN": "这个房间的大小正好适合一个人住。",
+      "ko": "이 방의 넓이는 혼자 살기에 딱 좋습니다.",
+      "zh_HK": "呢間房嘅大細啱啱好適合一個人住。",
+      "fr": "La superficie de cette pièce est parfaite pour vivre seul."
+    },
+    "related": "形容詞「広い」の名詞形"
+  },
+  {
+    "id": "card_1569",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "大きさ",
+    "reading": "おおきさ",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "size / dimensions",
+      "zh_TW": "大小 / 尺寸",
+      "zh_CN": "大小 / 尺寸",
+      "ko": "크기",
+      "zh_HK": "大細 / 尺寸",
+      "fr": "taille / grandeur"
+    },
+    "example": {
+      "ja": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさを<ruby>測<rt>はか</rt></ruby>ってから<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "I will measure the size of the space for the refrigerator before going to buy it.",
+      "zh_TW": "量好放冰箱的地方的大小之後再去買。",
+      "zh_CN": "量好放冰箱的地方的大小之后再去买。",
+      "ko": "냉장고를 놓을 장소의 크기를 잰 후에 사러 갈 겁니다.",
+      "zh_HK": "度好擺雪櫃個位嘅大細之後先去買。",
+      "fr": "Je vais mesurer la taille de l'emplacement du réfrigérateur avant d'aller l'acheter."
+    },
+    "related": "形容詞「大きい」の名詞形"
+  },
+  {
+    "id": "card_1570",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "贈り物",
+    "reading": "おくりもの",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "gift / present",
+      "zh_TW": "禮物 / 贈品",
+      "zh_CN": "礼物 / 赠品",
+      "ko": "선물",
+      "zh_HK": "禮物",
+      "fr": "cadeau / présent"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めて<ruby>贈り物<rt>おくりもの</rt></ruby>をしました。",
+      "en": "I gave a gift filled with gratitude on Mother's Day.",
+      "zh_TW": "在母親節那天，我懷著感謝的心情送了禮物。",
+      "zh_CN": "在母亲节那天，我怀着感谢的心情送了礼物。",
+      "ko": "어머니날에 감사의 마음을 담아 선물을 했습니다.",
+      "zh_HK": "喺母親節嗰日，我懷住感謝嘅心意送咗份禮物。",
+      "fr": "J'ai offert un cadeau plein de gratitude pour la fête des Mères."
+    },
+    "related": "類義語: プレゼント"
+  },
+  {
+    "id": "card_1571",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お祝い",
+    "reading": "おいわい",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "celebration / congratulatory gift",
+      "zh_TW": "祝賀 / 賀禮",
+      "zh_CN": "祝贺 / 贺礼",
+      "ko": "축하 / 축하 선물",
+      "zh_HK": "祝賀 / 賀禮",
+      "fr": "félicitations / cadeau de félicitations"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>結婚<rt>けっこん</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いに、みんなで<ruby>時計<rt>とけい</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>りました。",
+      "en": "We all gave a clock as a wedding gift to celebrate Ms. Sato's marriage.",
+      "zh_TW": "為了祝賀佐藤小姐結婚，大家一起送了她一個時鐘。",
+      "zh_CN": "为了祝贺佐藤小姐结婚，大家一起送了她一个钟。",
+      "ko": "사토 씨의 결혼 축하 선물로 다 같이 시계를 선물했습니다.",
+      "zh_HK": "為咗祝賀佐藤小姐結婚，大家一齊送咗個鐘畀佢。",
+      "fr": "Pour célébrer le mariage de Mme Sato, nous lui avons tous offert une horloge."
+    },
+    "related": "動詞: 祝う（いわう）"
+  },
+  {
+    "id": "card_1572",
+    "section_num": 68,
+    "section_title": "#68 Stage 10 確認・試行・サイズ・買い物の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お見舞い",
+    "reading": "おみまい",
+    "category": "Stage 10 確認・試行・サイズ・買い物の新出語",
+    "meaning": {
+      "en": "visiting a sick person / get-well gift",
+      "zh_TW": "探病 / 慰問",
+      "zh_CN": "探病 / 慰问",
+      "ko": "병문안",
+      "zh_HK": "探病 / 慰問",
+      "fr": "visite à un malade"
+    },
+    "example": {
+      "ja": "<ruby>入院<rt>にゅういん</rt></ruby>している<ruby>田中<rt>たなか</rt></ruby>さんのお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って、<ruby>花<rt>はな</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>しました。",
+      "en": "I went to visit Mr. Tanaka who is in the hospital and gave him flowers.",
+      "zh_TW": "我去探望了住院的田中先生，並送了花。",
+      "zh_CN": "我去探望了住院的田中先生，并送了花。",
+      "ko": "입원해 있는 다나카 씨의 병문안을 가서 꽃을 건넸습니다.",
+      "zh_HK": "我去探留院嘅田中先生病，仲送咗束花畀佢。",
+      "fr": "Je suis allé rendre visite à M. Tanaka à l'hôpital et je lui ai apporté des fleurs."
+    },
+    "related": "表現: お見舞いに行く"
+  },
+  {
+    "id": "card_1573",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "くださる・くださいます",
+    "reading": "くださる・くださいます",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "to give (to me - honorific)",
+      "zh_TW": "給我（敬語）",
+      "zh_CN": "给我（敬语）",
+      "ko": "주시다",
+      "zh_HK": "賜畀我 / 畀我（敬語）",
+      "fr": "me donner (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>部長<rt>ぶちょう</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>にとても<ruby>役に立<rt>やくにた</rt></ruby>つ<ruby>本<rt>ほん</rt></ruby>をくださいました。",
+      "en": "The department manager kindly gave me a very useful book.",
+      "zh_TW": "部長送給了我一本非常有用的書。",
+      "zh_CN": "部长送给了我一本非常有用的书。",
+      "ko": "부장님이 저에게 매우 도움이 되는 책을 주셨습니다.",
+      "zh_HK": "部長送咗一本好有用嘅書畀我。",
+      "fr": "Le chef de département m'a aimablement donné un livre très utile."
+    },
+    "related": "「くれる」の尊敬語（くださいます）"
+  },
+  {
+    "id": "card_1574",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "いただく・いただきます",
+    "reading": "いただく・いただきます",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "to receive (humble)",
+      "zh_TW": "得到 / 承蒙（謙讓語）",
+      "zh_CN": "得到 / 承蒙（谦让语）",
+      "ko": "받다 (겸양어)",
+      "zh_HK": "收到 / 承蒙（謙讓語）",
+      "fr": "recevoir (humble)"
+    },
+    "example": {
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>推薦<rt>すいせん</rt></ruby><ruby>状<rt>じょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていただきました。",
+      "en": "I humbly had my teacher write a letter of recommendation for me.",
+      "zh_TW": "承蒙老師幫我寫了推薦信。",
+      "zh_CN": "承蒙老师帮我写了推荐信。",
+      "ko": "선생님께 추천서를 받아(써 주셔서) 감사히 받았습니다.",
+      "zh_HK": "承蒙老師幫我寫咗封推薦信。",
+      "fr": "J'ai eu l'honneur de faire écrire une lettre de recommandation par mon professeur."
+    },
+    "related": "「もらう」の謙譲語"
+  },
+  {
+    "id": "card_1575",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "差し上げる・差し上げます",
+    "reading": "さしあげる・さしあげます",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "to give (humble)",
+      "zh_TW": "送給 / 獻給（謙讓語）",
+      "zh_CN": "送给 / 献给（谦让语）",
+      "ko": "드리다",
+      "zh_HK": "送畀 / 奉上（謙讓語）",
+      "fr": "offrir / donner (humble)"
+    },
+    "example": {
+      "ja": "お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>先生<rt>せんせい</rt></ruby>にお<ruby>礼<rt>れい</rt></ruby>のお<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>差し上<rt>さしあ</rt></ruby>げました。",
+      "en": "I humbly sent a thank-you letter to the teacher who helped me.",
+      "zh_TW": "我給照顧過我的老師送去了感謝信。",
+      "zh_CN": "我给照顾过我的老师送去了感谢信。",
+      "ko": "신세를 진 선생님께 감사 편지를 드렸습니다.",
+      "zh_HK": "我寫咗封感謝信送畀照顧過我嘅老師。",
+      "fr": "J'ai envoyé une lettre de remerciement au professeur qui s'est occupé de moi."
+    },
+    "related": "「あげる」の謙譲語"
+  },
+  {
+    "id": "card_1576",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "やる・やります",
+    "reading": "やる・やります",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "to give (to pets, plants, younger siblings)",
+      "zh_TW": "給（動植物、晚輩）",
+      "zh_CN": "给（动植物、晚辈）",
+      "ko": "(아랫사람·동식물에게) 주다",
+      "zh_HK": "畀 / 餵（動植物、後輩）",
+      "fr": "donner (aux animaux, plantes, cadets)"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>にエサをやります。",
+      "en": "Every morning before going out, I feed the dog.",
+      "zh_TW": "每天早上出門前，我都會給狗餵食。",
+      "zh_CN": "每天早上出门前，我都会给狗喂食。",
+      "ko": "매일 아침 외출하기 전에 개에게 먹이를 줍니다.",
+      "zh_HK": "每日朝早出門口之前，我都會餵狗。",
+      "fr": "Chaque matin avant de sortir, je donne à manger au chien."
+    },
+    "related": "五段動詞 / 「あげる」の下位向け表現"
+  },
+  {
+    "id": "card_1577",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "先輩",
+    "reading": "せんぱい",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "senior (at work or school)",
+      "zh_TW": "前輩 / 學長 / 學姐",
+      "zh_CN": "前辈 / 学长 / 学姐",
+      "ko": "선배",
+      "zh_HK": "前輩 / 師兄 / 師姐",
+      "fr": "aîné / senior (école, travail)"
+    },
+    "example": {
+      "ja": "わからないことがあったら、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>何<rt>なに</rt></ruby>でも<ruby>聞<rt>き</rt></ruby>いてください。",
+      "en": "If there is anything you don't understand, please ask your workplace seniors anything.",
+      "zh_TW": "如果有不明白的地方，請儘管問職場的前輩。",
+      "zh_CN": "如果有不明白的地方，请尽管问职场的前辈。",
+      "ko": "모르는 것이 있으면 직장 선배에게 무엇이든 물어보세요.",
+      "zh_HK": "如果有唔明嘅地方，隨便問公司嘅前輩啦。",
+      "fr": "S'il y a quelque chose que vous ne comprenez pas, n'hésitez pas à demander à vos aînés au travail."
+    },
+    "related": "対義語: 後輩（こうはい）"
+  },
+  {
+    "id": "card_1578",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "後輩",
+    "reading": "こうはい",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "junior (at work or school)",
+      "zh_TW": "後輩 / 學弟 / 學妹",
+      "zh_CN": "后辈 / 学弟 / 学妹",
+      "ko": "후배",
+      "zh_HK": "後輩 / 師弟 / 師妹",
+      "fr": "cadet / junior (école, travail)"
+    },
+    "example": {
+      "ja": "<ruby>春<rt>はる</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>後輩<rt>こうはい</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきたので、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えています。",
+      "en": "Since a new junior joined in the spring, I have been teaching them the job.",
+      "zh_TW": "春天來了新的後輩，我正在教他工作。",
+      "zh_CN": "春天来了新的后辈，我正在教他工作。",
+      "ko": "봄부터 새로운 후배가 들어와서 일을 가르치고 있습니다.",
+      "zh_HK": "春天嚟咗新嘅後輩，我教緊佢做嘢。",
+      "fr": "Comme un nouveau junior est arrivé au printemps, je lui apprends le métier."
+    },
+    "related": "対義語: 先輩（せんぱい）"
+  },
+  {
+    "id": "card_1579",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "上司",
+    "reading": "じょうし",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "boss / superior",
+      "zh_TW": "上司 / 上級",
+      "zh_CN": "上司 / 上级",
+      "ko": "상사",
+      "zh_HK": "上司 / 老細",
+      "fr": "supérieur hiérarchique / patron"
+    },
+    "example": {
+      "ja": "<ruby>出張<rt>しゅっちょう</rt></ruby>のスケジュールについて、<ruby>上司<rt>じょうし</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しました。",
+      "en": "I consulted my boss about the business trip schedule.",
+      "zh_TW": "關於出差的日程，我和上司商量了一下。",
+      "zh_CN": "关于出差的日程，我和上司商量了一下。",
+      "ko": "출장 스케줄에 대해 상사에게 상담했습니다.",
+      "zh_HK": "關於出差嘅行程，我同上司傾過。",
+      "fr": "J'ai consulté mon supérieur au sujet du programme du voyage d'affaires."
+    },
+    "related": "対義語: 部下（ぶか）"
+  },
+  {
+    "id": "card_1580",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "社長",
+    "reading": "しゃちょう",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "company president / CEO",
+      "zh_TW": "社長 / 總經理",
+      "zh_CN": "社长 / 总经理",
+      "ko": "사장",
+      "zh_HK": "社長 / 總裁",
+      "fr": "président d'entreprise / PDG"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>には<ruby>社長<rt>しゃちょう</rt></ruby>も<ruby>出席<rt>しゅっせき</rt></ruby>なさいます。",
+      "en": "The company president will also attend next week's meeting.",
+      "zh_TW": "下週的會議社長也會出席。",
+      "zh_CN": "下周的会议社长也会出席。",
+      "ko": "다음 주 회의에는 사장님도 참석하십니다.",
+      "zh_HK": "下星期嘅會議社長都會出席。",
+      "fr": "Le président de l'entreprise assistera également à la réunion de la semaine prochaine."
+    },
+    "related": "役職名"
+  },
+  {
+    "id": "card_1581",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "部長",
+    "reading": "ぶちょう",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "department manager / director",
+      "zh_TW": "部長 / 部門經理",
+      "zh_CN": "部长 / 部门经理",
+      "ko": "부장",
+      "zh_HK": "部長 / 部門經理",
+      "fr": "chef de département / directeur"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですので<ruby>後<rt>のち</rt></ruby>ほどお<ruby>電話<rt>でんわ</rt></ruby>いたします。",
+      "en": "Manager Tanaka is in a meeting right now, so he will call you back later.",
+      "zh_TW": "田中部長現在正在開會，稍後給您回電話。",
+      "zh_CN": "田中部长现在正在开会，稍后给您回电话。",
+      "ko": "다나카 부장님은 지금 회의 중이시므로 나중에 전화드리겠습니다.",
+      "zh_HK": "田中部長而家開緊會，遲啲再覆電話畀你。",
+      "fr": "Le directeur Tanaka est actuellement en réunion, il vous rappellera plus tard."
+    },
+    "related": "役職名"
+  },
+  {
+    "id": "card_1582",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "課長",
+    "reading": "かちょう",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "section manager",
+      "zh_TW": "課長 / 科長",
+      "zh_CN": "科长 / 课长",
+      "ko": "과장",
+      "zh_HK": "課長 / 主任",
+      "fr": "chef de section / chef de service"
+    },
+    "example": {
+      "ja": "<ruby>作成<rt>さくせい</rt></ruby>したレポートを<ruby>鈴木<rt>すずき</rt></ruby><ruby>課長<rt>かちょう</rt></ruby>にチェックしていただきました。",
+      "en": "I had Section Manager Suzuki check the report I prepared.",
+      "zh_TW": "我請鈴木課長檢查了我寫的報告。",
+      "zh_CN": "我请铃木科长检查了我写的报告。",
+      "ko": "작성한 보고서를 스즈키 과장님께 확인받았습니다.",
+      "zh_HK": "我請鈴木課長幫我檢查咗份報告。",
+      "fr": "J'ai fait vérifier le rapport que j'ai rédigé par le chef de section Suzuki."
+    },
+    "related": "役職名"
+  },
+  {
+    "id": "card_1583",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "father (someone else's / polite)",
+      "zh_TW": "父親 / 令尊",
+      "zh_CN": "父亲 / 令尊",
+      "ko": "아버지 / 아버님",
+      "zh_HK": "爸爸 / 世伯",
+      "fr": "père (poli)"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんのお<ruby>父<rt>とう</rt></ruby>さんは、<ruby>高校<rt>こうこう</rt></ruby>で<ruby>数学<rt>すうがく</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えていらっしゃいます。",
+      "en": "Ms. Sato's father teaches mathematics at a high school.",
+      "zh_TW": "佐藤小姐的父親在高中教數學。",
+      "zh_CN": "佐藤小姐的父亲在高中教数学。",
+      "ko": "사토 씨의 아버님은 고등학교에서 수학을 가르치고 계십니다.",
+      "zh_HK": "佐藤小姐嘅爸爸喺高中教數學。",
+      "fr": "Le père de Mme Sato enseigne les mathématiques au lycée."
+    },
+    "related": "自分の父（謙譲）: 父（ちち）"
+  },
+  {
+    "id": "card_1584",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "mother (someone else's / polite)",
+      "zh_TW": "母親 / 令堂",
+      "zh_CN": "母亲 / 令堂",
+      "ko": "어머니 / 어머님",
+      "zh_HK": "媽媽 / 伯母",
+      "fr": "mère (poli)"
+    },
+    "example": {
+      "ja": "<ruby>高橋<rt>たかはし</rt></ruby>さんのお<ruby>母<rt>かあ</rt></ruby>さんは<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だそうです。",
+      "en": "I hear that Ms. Takahashi's mother is very good at cooking.",
+      "zh_TW": "聽說高橋小姐的母親做菜非常好吃。",
+      "zh_CN": "听说高桥小姐的母亲做菜非常好吃。",
+      "ko": "다카하시 씨의 어머님은 요리를 매우 잘하신다고 합니다.",
+      "zh_HK": "聽講高橋小姐嘅媽媽煮嘢食好叻。",
+      "fr": "Il paraît que la mère de Mme Takahashi cuisine très bien."
+    },
+    "related": "自分の母（謙譲）: 母（はは）"
+  },
+  {
+    "id": "card_1585",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "older brother (someone else's / polite)",
+      "zh_TW": "哥哥 / 令兄",
+      "zh_CN": "哥哥 / 令兄",
+      "ko": "형 / 오빠",
+      "zh_HK": "哥哥 / 阿哥",
+      "fr": "grand frère (poli)"
+    },
+    "example": {
+      "ja": "<ruby>中村<rt>なかむら</rt></ruby>さんのお<ruby>兄<rt>にい</rt></ruby>さんは<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "en": "Mr. Nakamura's older brother works at a bank in Osaka.",
+      "zh_TW": "中村先生的哥哥在大阪的銀行工作。",
+      "zh_CN": "中村先生的哥哥在大阪的银行工作。",
+      "ko": "나카무라 씨의 형님은 오사카의 은행에서 일하고 있습니다.",
+      "zh_HK": "中村先生嘅哥哥喺大阪間銀行做嘢。",
+      "fr": "Le grand frère de M. Nakamura travaille dans une banque à Osaka."
+    },
+    "related": "自分の兄（謙譲）: 兄（あに）"
+  },
+  {
+    "id": "card_1586",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "older sister (someone else's / polite)",
+      "zh_TW": "姐姐 / 令姊",
+      "zh_CN": "姐姐 / 令姊",
+      "ko": "누나 / 언니",
+      "zh_HK": "家姐 / 姐姐",
+      "fr": "grande sœur (poli)"
+    },
+    "example": {
+      "ja": "<ruby>伊藤<rt>いとう</rt></ruby>さんのお<ruby>姉<rt>ねえ</rt></ruby>さんは<ruby>来月<rt>らいげつ</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>なさるそうです。",
+      "en": "I heard that Mr. Ito's older sister is getting married next month.",
+      "zh_TW": "聽說伊藤先生的姐姐下個月要結婚了。",
+      "zh_CN": "听说伊藤先生的姐姐下个月要结婚了。",
+      "ko": "이토 씨의 누님은 다음 달에 결혼하신다고 합니다.",
+      "zh_HK": "聽講伊藤先生嘅家姐下個月結婚。",
+      "fr": "J'ai entendu dire que la grande sœur de M. Ito se marie le mois prochain."
+    },
+    "related": "自分の姉（謙譲）: 姉（あね）"
+  },
+  {
+    "id": "card_1587",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ご主人",
+    "reading": "ごしゅじん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "husband (someone else's)",
+      "zh_TW": "（別人的）丈夫 / 先生",
+      "zh_CN": "（别人的）丈夫 / 先生",
+      "ko": "(남의) 남편",
+      "zh_HK": "（人哋嘅）先生 / 老公",
+      "fr": "mari / époux (de quelqu'un d'autre)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんのご<ruby>主人<rt>しゅじん</rt></ruby>は、<ruby>先月<rt>せんげつ</rt></ruby>からロンドンへ<ruby>出張<rt>しゅっちょう</rt></ruby>していらっしゃいます。",
+      "en": "Ms. Suzuki's husband has been on a business trip to London since last month.",
+      "zh_TW": "鈴木小姐的先生從上個月起去倫敦出差了。",
+      "zh_CN": "铃木小姐的先生从上个月起去伦敦出差了。",
+      "ko": "스즈키 씨의 남편분은 지난달부터 런던으로 출장을 가 계십니다.",
+      "zh_HK": "鈴木小姐嘅先生由上個月開始去咗倫敦出差。",
+      "fr": "Le mari de Mme Suzuki est en voyage d'affaires à Londres depuis le mois dernier."
+    },
+    "related": "自分の夫: 夫（おっと）・主人"
+  },
+  {
+    "id": "card_1588",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "奥さん",
+    "reading": "おくさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "wife (someone else's)",
+      "zh_TW": "（別人的）妻子 / 夫人",
+      "zh_CN": "（别人的）妻子 / 夫人",
+      "ko": "부인 / 아주머니",
+      "zh_HK": "（人哋嘅）太太 / 夫人",
+      "fr": "femme / épouse (de quelqu'un d'autre)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>奥<rt>おく</rt></ruby>さんが<ruby>作<rt>つく</rt></ruby>られたお<ruby>菓子<rt>かし</rt></ruby>をいただきました。",
+      "en": "I received sweets made by Mr. Tanaka's wife.",
+      "zh_TW": "我收到了田中先生的夫人做的點心。",
+      "zh_CN": "我收到了田中先生的夫人做的点心。",
+      "ko": "다나카 씨의 부인께서 만드신 과자를 받았습니다.",
+      "zh_HK": "我收到田中先生嘅太太親手整嘅甜品。",
+      "fr": "J'ai reçu des gâteaux préparés par l'épouse de M. Tanaka."
+    },
+    "related": "自分の妻: 妻（つま）・家内"
+  },
+  {
+    "id": "card_1589",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お子さん",
+    "reading": "おこさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "child (someone else's)",
+      "zh_TW": "（別人的）孩子",
+      "zh_CN": "（别人的）孩子",
+      "ko": "(남의) 자녀 / 아이",
+      "zh_HK": "（人哋嘅）小朋友 / 仔女",
+      "fr": "enfant (de quelqu'un d'autre)"
+    },
+    "example": {
+      "ja": "<ruby>課長<rt>かちょう</rt></ruby>のお<ruby>子<rt>こ</rt></ruby>さんは<ruby>今年<rt>ことし</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>されました。",
+      "en": "The section manager's child entered elementary school this year.",
+      "zh_TW": "課長的孩子今年上小學了。",
+      "zh_CN": "科长的孩子今年上小学了。",
+      "ko": "과장님의 자녀분은 올해 초등학교에 입학하셨습니다.",
+      "zh_HK": "課長嘅小朋友今年升讀小學。",
+      "fr": "L'enfant du chef de section est entré à l'école primaire cette année."
+    },
+    "related": "自分の子: 子ども"
+  },
+  {
+    "id": "card_1590",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お嬢さん",
+    "reading": "おじょうさん",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "daughter (someone else's) / young lady",
+      "zh_TW": "令嬡 / 千金",
+      "zh_CN": "令爱 / 千金",
+      "ko": "따님 / 아가씨",
+      "zh_HK": "千金 / 囡囡（敬稱）",
+      "fr": "fille (de quelqu'un d'autre) / jeune fille"
+    },
+    "example": {
+      "ja": "<ruby>部長<rt>ぶちょう</rt></ruby>のお<ruby>嬢<rt>じょう</rt></ruby>さんはピアノがとてもお<ruby>上手<rt>じょうず</rt></ruby>だそうです。",
+      "en": "I hear that the department manager's daughter is very good at playing the piano.",
+      "zh_TW": "聽說部長的千金鋼琴彈得非常好。",
+      "zh_CN": "听说部长的千金钢琴弹得非常好。",
+      "ko": "부장님의 따님은 피아노를 매우 잘 치신다고 합니다.",
+      "zh_HK": "聽講部長嘅千金彈琴好叻。",
+      "fr": "Il paraît que la fille du directeur joue très bien du piano."
+    },
+    "related": "自分の娘: 娘（むすめ）"
+  },
+  {
+    "id": "card_1591",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お宅",
+    "reading": "おたく",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "home / house (someone else's - polite)",
+      "zh_TW": "府上 / 您家",
+      "zh_CN": "府上 / 您家",
+      "ko": "댁",
+      "zh_HK": "府上 / 你屋企（敬語）",
+      "fr": "maison / domicile (poli)"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>先生<rt>せんせい</rt></ruby>のお<ruby>宅<rt>たく</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>ってお<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。",
+      "en": "On the weekend, I visited my teacher's home and listened to their stories.",
+      "zh_TW": "週末我去了老師府上拜訪，聽老師講了很多話。",
+      "zh_CN": "周末我去了老师府上拜访，听老师讲了很多话。",
+      "ko": "주말에 선생님 댁에 찾아뵙고 이야기를 들었습니다.",
+      "zh_HK": "週末我去咗老師屋企拜訪，聽佢講咗好多嘢。",
+      "fr": "Ce week-end, je me suis rendu au domicile de mon professeur pour discuter."
+    },
+    "related": "自分の家: 家（いえ・うち）"
+  },
+  {
+    "id": "card_1592",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "推薦状",
+    "reading": "すいせんじょう",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "letter of recommendation",
+      "zh_TW": "推薦信",
+      "zh_CN": "推荐信",
+      "ko": "추천서",
+      "zh_HK": "推薦信",
+      "fr": "lettre de recommandation"
+    },
+    "example": {
+      "ja": "<ruby>大学院<rt>だいがくいん</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>するため、<ruby>教授<rt>きょうじゅ</rt></ruby>に<ruby>推薦<rt>すいせん</rt></ruby><ruby>状<rt>じょう</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いしました。",
+      "en": "To go on to graduate school, I asked my professor for a letter of recommendation.",
+      "zh_TW": "為了考研究所，我拜託教授寫了推薦信。",
+      "zh_CN": "为了考研究生，我拜托教授写了推荐信。",
+      "ko": "대학원에 진학하기 위해 교수님께 추천서를 부탁드렸습니다.",
+      "zh_HK": "為咗升讀研究院，我拜託教授幫我寫推薦信。",
+      "fr": "Pour entrer à l'école doctorale, j'ai demandé une lettre de recommandation à mon professeur."
+    },
+    "related": "表現: 推薦状を書く"
+  },
+  {
+    "id": "card_1593",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お礼",
+    "reading": "おれい",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "thanks / gratitude / thank-you gift",
+      "zh_TW": "道謝 / 謝禮",
+      "zh_CN": "道谢 / 谢礼",
+      "ko": "감사의 인사 / 사례",
+      "zh_HK": "道謝 / 回禮",
+      "fr": "remerciement"
+    },
+    "example": {
+      "ja": "<ruby>手伝<rt>てつだ</rt></ruby>ってくれた<ruby>中村<rt>なかむら</rt></ruby>さんにお<ruby>礼<rt>れい</rt></ruby>を<ruby>言<rt>い</rt></ruby>いました。",
+      "en": "I said thank you to Mr. Nakamura, who helped me.",
+      "zh_TW": "我向幫了我的中村先生道了謝。",
+      "zh_CN": "我向帮了我的中村先生道了谢。",
+      "ko": "도와준 나카무라 씨에게 감사의 인사를 했습니다.",
+      "zh_HK": "我向幫咗我手嘅中村先生道謝。",
+      "fr": "J'ai remercié M. Nakamura qui m'avait aidé."
+    },
+    "related": "表現: お礼を言う"
+  },
+  {
+    "id": "card_1594",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お世話になる",
+    "reading": "おせわになる",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "to be taken care of / to be indebted to",
+      "zh_TW": "受照顧 / 承蒙關照",
+      "zh_CN": "受照顾 / 承蒙关照",
+      "ko": "신세를 지다",
+      "zh_HK": "受照顧 / 承蒙關照",
+      "fr": "être pris en charge / être redevable"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>にいる<ruby>間<rt>ま</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんご<ruby>夫妻<rt>ふさい</rt></ruby>には<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>世話<rt>せわ</rt></ruby>になりました。",
+      "en": "While I was in Japan, I was truly taken care of by Mr. and Mrs. Tanaka.",
+      "zh_TW": "在日本期間，我真的受到了田中先生夫婦的很多照顧。",
+      "zh_CN": "在日本期间，我真的受到了田中先生夫妇的很多照顾。",
+      "ko": "일본에 있는 동안 다나카 씨 부부에게 정말 신세를 많이 졌습니다.",
+      "zh_HK": "喺日本嗰陣，我真係受到田中先生同太太好多照顧。",
+      "fr": "Pendant mon séjour au Japon, M. et Mme Tanaka se sont vraiment bien occupés de moi."
+    },
+    "related": "挨拶: いつもお世話になっております"
+  },
+  {
+    "id": "card_1595",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "エサ",
+    "reading": "エサ",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "pet food / feed / bait",
+      "zh_TW": "飼料 / 食物（動物）",
+      "zh_CN": "饲料 / 食物（动物）",
+      "ko": "먹이 / 사료",
+      "zh_HK": "糧 / 飼料（動物）",
+      "fr": "nourriture (pour animaux) / appât"
+    },
+    "example": {
+      "ja": "<ruby>猫<rt>ねこ</rt></ruby>がお<ruby>腹<rt>なか</rt></ruby>を<ruby>空<rt>す</rt></ruby>かせているので、エサをやりました。",
+      "en": "Since the cat was hungry, I gave it some food.",
+      "zh_TW": "因為貓餓了，我給牠餵了飼料。",
+      "zh_CN": "因为猫饿了，我给它喂了猫粮。",
+      "ko": "고양이가 배고파해서 먹이를 주었습니다.",
+      "zh_HK": "因為隻貓肚餓，我餵咗貓糧畀佢。",
+      "fr": "Comme le chat avait faim, je lui ai donné à manger."
+    },
+    "related": "漢字表記: 餌（えさ）"
+  },
+  {
+    "id": "card_1596",
+    "section_num": 69,
+    "section_title": "#69 Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "アドバイス",
+    "reading": "アドバイス",
+    "category": "Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族",
+    "meaning": {
+      "en": "advice",
+      "zh_TW": "建議 / 忠告",
+      "zh_CN": "建议 / 忠告",
+      "ko": "조언 / 어드バイス",
+      "zh_HK": "建議 / 意見",
+      "fr": "conseil"
+    },
+    "example": {
+      "ja": "<ruby>先輩<rt>せんぱい</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>についてたくさんのアドバイスをいただきました。",
+      "en": "I received a lot of advice about work from my senior.",
+      "zh_TW": "我從前輩那裡得到了很多關於工作的建議。",
+      "zh_CN": "我从前辈那里得到了很多关于工作的建议。",
+      "ko": "선배로부터 일에 대해 많은 조언을 받았습니다.",
+      "zh_HK": "我喺前輩嗰度得到好多關於工作嘅建議。",
+      "fr": "J'ai reçu beaucoup de conseils sur le travail de la part de mon aîné."
+    },
+    "related": "類義語: 助言（じょげん）"
+  },
+  {
+    "id": "card_1597",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "役に立つ・役に立ちます",
+    "reading": "やくにたつ・やくにたちます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to be useful / to be helpful",
+      "zh_TW": "有用 / 有幫助",
+      "zh_CN": "有用 / 有帮助",
+      "ko": "도움이 되다 / 쓸모가 있다",
+      "zh_HK": "有用 / 幫到手",
+      "fr": "être utile / servir"
+    },
+    "example": {
+      "ja": "この<ruby>辞書<rt>じしょ</rt></ruby>アプリは<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>にとても<ruby>役に立<rt>やくにた</rt></ruby>ちます。",
+      "en": "This dictionary app is very useful for studying Japanese.",
+      "zh_TW": "這個字典App對學習日語非常有用。",
+      "zh_CN": "这个词典软件对学习日语非常有用。",
+      "ko": "이 사전 앱은 일본어 공부에 매우 도움이 됩니다.",
+      "zh_HK": "呢個字典App對學日文好有用。",
+      "fr": "Cette application de dictionnaire est très utile pour étudier le japonais."
+    },
+    "related": "表現: 役に立つ情報"
+  },
+  {
+    "id": "card_1598",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "要る・要ります",
+    "reading": "いる・いります",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to need / to require",
+      "zh_TW": "需要 / 要",
+      "zh_CN": "需要 / 要",
+      "ko": "필요하다",
+      "zh_HK": "需要 / 要",
+      "fr": "avoir besoin de / falloir"
+    },
+    "example": {
+      "ja": "<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くにはパスポートが<ruby>要<rt>い</rt></ruby>ります。",
+      "en": "You need a passport to go on an overseas trip.",
+      "zh_TW": "去國外旅行需要護照。",
+      "zh_CN": "去国外旅行需要护照。",
+      "ko": "해외여행을 가려면 여권이 필요합니다.",
+      "zh_HK": "去外國旅行需要護照。",
+      "fr": "Il faut un passeport pour voyager à l'étranger."
+    },
+    "related": "五段動詞（※「居る」は一段動詞）"
+  },
+  {
+    "id": "card_1599",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "かかる・かかります",
+    "reading": "かかる・かかります",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to take (time/money)",
+      "zh_TW": "花費（時間、金錢）",
+      "zh_CN": "花费（时间、金钱）",
+      "ko": "(시간·돈이) 걸리다 / 들다",
+      "zh_HK": "需要 / 晒（時間、錢）",
+      "fr": "prendre (du temps) / coûter (de l'argent)"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てるのにはたくさんのお<ruby>金<rt>かね</rt></ruby>と<ruby>時間<rt>じかん</rt></ruby>がかかります。",
+      "en": "It takes a lot of money and time to build a house.",
+      "zh_TW": "蓋房子需要花很多錢和時間。",
+      "zh_CN": "盖房子需要花很多钱和时间。",
+      "ko": "집을 짓는 데에는 많은 돈과 시간이 듭니다.",
+      "zh_HK": "起間屋需要使好多錢同時間。",
+      "fr": "Construire une maison prend beaucoup de temps et d'argent."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1600",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "沸かす・沸かします",
+    "reading": "わかす・わかします",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to boil (water) / to heat (bath)",
+      "zh_TW": "燒開（水）",
+      "zh_CN": "烧开（水）",
+      "ko": "(물을) 끓이다 / (목욕물을) 데우다",
+      "zh_HK": "煲（水）",
+      "fr": "faire bouillir (de l'eau)"
+    },
+    "example": {
+      "ja": "コーヒーを<ruby>飲<rt>の</rt></ruby>むために、やかんのお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かしました。",
+      "en": "I boiled water in the kettle to drink coffee.",
+      "zh_TW": "為了喝咖啡，我用茶壺燒開了水。",
+      "zh_CN": "为了喝咖啡，我用烧水壶烧开了水。",
+      "ko": "커피를 마시기 위해 주전자 물을 끓였습니다.",
+      "zh_HK": "為咗飲咖啡，我用煲煲滾咗啲水。",
+      "fr": "J'ai fait bouillir de l'eau dans la bouilloire pour boire du café."
+    },
+    "related": "五段動詞（他動詞） / 自動詞: 沸く"
+  },
+  {
+    "id": "card_1601",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "沸く・沸きます",
+    "reading": "わく・わきます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to boil / to get hot (water)",
+      "zh_TW": "（水）開 / 沸騰",
+      "zh_CN": "（水）开 / 沸腾",
+      "ko": "(물이) 끓다",
+      "zh_HK": "（水）滾",
+      "fr": "bouillir"
+    },
+    "example": {
+      "ja": "お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>きましたから、お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れましょう。",
+      "en": "The water has boiled, so let's make some tea.",
+      "zh_TW": "水開了，我們泡茶吧。",
+      "zh_CN": "水开了，我们泡茶吧。",
+      "ko": "물이 끓었으니 차를 우립시다.",
+      "zh_HK": "水滾喇，我哋沖茶啦。",
+      "fr": "L'eau a bouilli, préparons le thé."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 沸かす"
+  },
+  {
+    "id": "card_1602",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "温める・温めます",
+    "reading": "あたためる・あたためます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to warm up / to heat up",
+      "zh_TW": "加熱 / 熱一熱",
+      "zh_CN": "加热 / 热一热",
+      "ko": "데우다 / 따뜻하게 하다",
+      "zh_HK": "叮熱 / 整熱",
+      "fr": "réchauffer"
+    },
+    "example": {
+      "ja": "<ruby>買<rt>か</rt></ruby>ってきたお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>電子<rt>でんし</rt></ruby>レンジで<ruby>温<rt>あたた</rt></ruby>めました。",
+      "en": "I warmed up the bento I bought in the microwave.",
+      "zh_TW": "我把買來的便當放進微波爐裡熱了一下。",
+      "zh_CN": "我把买来的便当放进微波炉里热了一下。",
+      "ko": "사 온 도시락을 전자레인지로 데웠습니다.",
+      "zh_HK": "我將買返嚟嘅便當放入微波爐叮熱咗。",
+      "fr": "J'ai réchauffé le bento que j'avais acheté au micro-ondes."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 温まる"
+  },
+  {
+    "id": "card_1603",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "混ぜる・混ぜます",
+    "reading": "まぜる・まぜます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to mix / to stir",
+      "zh_TW": "混合 / 攪拌",
+      "zh_CN": "混合 / 搅拌",
+      "ko": "섞다 / 젓다",
+      "zh_HK": "撈勻 / 攪勻",
+      "fr": "mélanger / remuer"
+    },
+    "example": {
+      "ja": "ボウルに<ruby>卵<rt>たまご</rt></ruby>と<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて、よく<ruby>混<rt>ま</rt></ruby>ぜてください。",
+      "en": "Please put the eggs and milk in a bowl and mix them well.",
+      "zh_TW": "請把雞蛋和牛奶放進碗裡，攪拌均勻。",
+      "zh_CN": "请把鸡蛋和牛奶放进碗里，搅拌均匀。",
+      "ko": "볼에 달걀과 우유를 넣고 잘 섞어 주세요.",
+      "zh_HK": "請將雞蛋同牛奶放入碗入面，徹底攪勻。",
+      "fr": "Mettez les œufs et le lait dans un bol et mélangez bien."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 混ざる"
+  },
+  {
+    "id": "card_1604",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "焼く・焼きます",
+    "reading": "やく・やきます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to bake / to grill / to roast",
+      "zh_TW": "烤 / 煎 / 燒",
+      "zh_CN": "烤 / 煎 / 烧",
+      "ko": "굽다",
+      "zh_HK": "焗 / 煎 / 燒",
+      "fr": "cuire au four / griller"
+    },
+    "example": {
+      "ja": "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>でパンやクッキーを<ruby>焼<rt>や</rt></ruby>きます。",
+      "en": "On Sunday mornings, I bake bread and cookies at home.",
+      "zh_TW": "星期天早上，我在家裡烤麵包和餅乾。",
+      "zh_CN": "星期天早上，我在家里烤面包和饼干。",
+      "ko": "일요일 아침에는 집에서 빵이나 쿠키를 굽습니다.",
+      "zh_HK": "星期日朝早，我喺屋企焗麵包同曲奇。",
+      "fr": "Le dimanche matin, je fais cuire du pain et des biscuits à la maison."
+    },
+    "related": "五段動詞（他動詞） / 自動詞: 焼ける"
+  },
+  {
+    "id": "card_1605",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "焼ける・焼けます",
+    "reading": "やける・やけます",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to be baked / to be grilled",
+      "zh_TW": "烤好 / 熟了",
+      "zh_CN": "烤好 / 熟了",
+      "ko": "구워지다 / 익다",
+      "zh_HK": "焗好 / 煎熟",
+      "fr": "être cuit / être grillé"
+    },
+    "example": {
+      "ja": "おいしそうなケーキがきれいに<ruby>焼<rt>や</rt></ruby>けました。",
+      "en": "A delicious-looking cake has been baked beautifully.",
+      "zh_TW": "看起來很好吃的蛋糕漂亮地烤好了。",
+      "zh_CN": "看起来很好吃的蛋糕漂亮地烤好了。",
+      "ko": "맛있어 보이는 케이크가 예쁘게 구워졌습니다.",
+      "zh_HK": "睇落好好食嘅蛋糕焗得好靚。",
+      "fr": "Un gâteau qui a l'air délicieux a bien cuit."
+    },
+    "related": "一段動詞（自動詞） / 他動詞: 焼く"
+  },
+  {
+    "id": "card_1606",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "はさみ",
+    "reading": "はさみ",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "scissors",
+      "zh_TW": "剪刀",
+      "zh_CN": "剪刀",
+      "ko": "가위",
+      "zh_HK": "較剪",
+      "fr": "ciseaux"
+    },
+    "example": {
+      "ja": "<ruby>紙<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>るために、<ruby>引き出<rt>ひきだ</rt></ruby>しからはさみを<ruby>出<rt>だ</rt></ruby>しました。",
+      "en": "To cut the paper, I took scissors out of the drawer.",
+      "zh_TW": "為了剪紙，我從抽屜裡拿出了剪刀。",
+      "zh_CN": "为了剪纸，我从抽屉里拿出了剪刀。",
+      "ko": "종이를 자르기 위해 서랍에서 가위를 꺼냈습니다.",
+      "zh_HK": "為咗剪紙，我喺櫃桶度攞咗把較剪出嚟。",
+      "fr": "Pour couper le papier, j'ai sorti des ciseaux du tiroir."
+    },
+    "related": "道具を表す名詞"
+  },
+  {
+    "id": "card_1607",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ドライバー",
+    "reading": "ドライバー",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "screwdriver",
+      "zh_TW": "螺絲起子",
+      "zh_CN": "螺丝刀 / 改锥",
+      "ko": "드라이버",
+      "zh_HK": "螺絲批",
+      "fr": "tournevis"
+    },
+    "example": {
+      "ja": "<ruby>椅子<rt>いす</rt></ruby>のネジが<ruby>緩<rt>ゆる</rt></ruby>んでいたので、ドライバーで<ruby>締<rt>し</rt></ruby>めました。",
+      "en": "The screw on the chair was loose, so I tightened it with a screwdriver.",
+      "zh_TW": "椅子的螺絲鬆了，我用螺絲起子轉緊了。",
+      "zh_CN": "椅子的螺丝松了，我用螺丝刀拧紧了。",
+      "ko": "의자 나사가 느슨해져서 드라이버로 조였습니다.",
+      "zh_HK": "張凳粒螺絲鬆咗，我用螺絲批扭緊返佢。",
+      "fr": "La vis de la chaise était desserrée, je l'ai donc resserrée avec un tournevis."
+    },
+    "related": "道具を表す名詞"
+  },
+  {
+    "id": "card_1608",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "風呂敷",
+    "reading": "ふろしき",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "furoshiki (wrapping cloth)",
+      "zh_TW": "包袱布（日式包裹布）",
+      "zh_CN": "包袱皮（日式包裹布）",
+      "ko": "보자기",
+      "zh_HK": "風呂敷（日本包袱布）",
+      "fr": "furoshiki (tissu d'emballage japonais)"
+    },
+    "example": {
+      "ja": "<ruby>風呂敷<rt>ふろしき</rt></ruby>はいろいろな<ruby>形<rt>かたち</rt></ruby>のものを<ruby>包<rt>つつ</rt></ruby>むのに<ruby>便利<rt>べんり</rt></ruby>です。",
+      "en": "A furoshiki is convenient for wrapping things of various shapes.",
+      "zh_TW": "包袱布用來包裹各種形狀的東西非常方便。",
+      "zh_CN": "包袱皮用来包裹各种形状的东西非常方便。",
+      "ko": "보자기는 여러 가지 모양의 물건을 싸는 데 편리합니다.",
+      "zh_HK": "風呂敷用嚟包各種形狀嘅嘢好方便。",
+      "fr": "Le furoshiki est pratique pour emballer des objets de différentes formes."
+    },
+    "related": "日本の伝統文化"
+  },
+  {
+    "id": "card_1609",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "道具",
+    "reading": "どうぐ",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "tool / implement",
+      "zh_TW": "工具 / 用具",
+      "zh_CN": "工具 / 用具",
+      "ko": "도구",
+      "zh_HK": "工具 / 用具",
+      "fr": "outil / ustensile"
+    },
+    "example": {
+      "ja": "キャンプに<ruby>行<rt>い</rt></ruby>くために<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>えました。",
+      "en": "I gathered the necessary tools to go camping.",
+      "zh_TW": "我備齊了去露營所需的工具。",
+      "zh_CN": "我备齐了去露营所需的工具。",
+      "ko": "캠핑을 가기 위해 필요한 도구를 갖추었습니다.",
+      "zh_HK": "我買齊咗去露營要用嘅工具。",
+      "fr": "J'ai rassemblé le matériel nécessaire pour aller camper."
+    },
+    "related": "関連語: 料理の道具"
+  },
+  {
+    "id": "card_1610",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "費用",
+    "reading": "ひよう",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "cost / expense",
+      "zh_TW": "費用 / 開銷",
+      "zh_CN": "费用 / 开销",
+      "ko": "비용",
+      "zh_HK": "費用 / 開支",
+      "fr": "coût / frais"
+    },
+    "example": {
+      "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>にかかる<ruby>費用<rt>ひよう</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>貯<rt>た</rt></ruby>めています。",
+      "en": "I am saving up the expenses required for studying abroad by myself.",
+      "zh_TW": "我自己正在存留學所需的費用。",
+      "zh_CN": "我自己正在攒留学所需的费用。",
+      "ko": "유학에 드는 비용을 스스로 모으고 있습니다.",
+      "zh_HK": "我自己儲緊去留學要用嘅費用。",
+      "fr": "J'économise moi-même pour payer les frais de mes études à l'étranger."
+    },
+    "related": "表現: 費用がかかる"
+  },
+  {
+    "id": "card_1611",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "健康",
+    "reading": "けんこう",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "health",
+      "zh_TW": "健康",
+      "zh_CN": "健康",
+      "ko": "건강",
+      "zh_HK": "健康",
+      "fr": "santé"
+    },
+    "example": {
+      "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べるようにしています。",
+      "en": "For my health, I try to eat a lot of vegetables every day.",
+      "zh_TW": "為了健康，我盡量每天多吃蔬菜。",
+      "zh_CN": "为了健康，我尽量每天多吃蔬菜。",
+      "ko": "건강을 위해 매일 채소를 많이 먹으려고 노력하고 있습니다.",
+      "zh_HK": "為咗健康，我盡量每日食多啲菜。",
+      "fr": "Pour ma santé, j'essaie de manger beaucoup de légumes tous les jours."
+    },
+    "related": "な形容詞・名詞"
+  },
+  {
+    "id": "card_1612",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "今にも",
+    "reading": "いまにも",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "at any moment / on the verge of",
+      "zh_TW": "眼看就要 / 馬上就要",
+      "zh_CN": "眼看就要 / 马上就要",
+      "ko": "금방이라도 / 당장이라도",
+      "zh_HK": "就快 / 隨時都",
+      "fr": "d'un moment à l'autre / sur le point de"
+    },
+    "example": {
+      "ja": "<ruby>黒<rt>くろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきて、<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り出<rt>ふりだ</rt></ruby>しそうです。",
+      "en": "Dark clouds have appeared, and it looks like it's about to start raining at any moment.",
+      "zh_TW": "烏雲出來了，眼看就要下雨了。",
+      "zh_CN": "乌云出来了，眼看就要下雨了。",
+      "ko": "먹구름이 끼어서 금방이라도 비가 내리기 시작할 것 같습니다.",
+      "zh_HK": "開始有烏雲，睇落就快落雨咁。",
+      "fr": "Des nuages noirs sont apparus, il semble qu'il va pleuvoir d'un moment à l'autre."
+    },
+    "related": "表現: 今にも〜そうだ"
+  },
+  {
+    "id": "card_1613",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "降り出す",
+    "reading": "ふりだす",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to start raining/snowing",
+      "zh_TW": "開始下（雨、雪）",
+      "zh_CN": "开始下（雨、雪）",
+      "ko": "(비·눈이) 내리기 시작하다",
+      "zh_HK": "開始落（雨、雪）",
+      "fr": "commencer à pleuvoir / neiger"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたとたんに、<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り出<rt>ふりだ</rt></ruby>しました。",
+      "en": "Just as I arrived at the station, it suddenly started raining.",
+      "zh_TW": "剛到車站，突然下起雨來了。",
+      "zh_CN": "刚到车站，突然下起雨来了。",
+      "ko": "역에 도착하자마자 갑자기 비가 내리기 시작했습니다.",
+      "zh_HK": "一到車站，突然間就開始落雨。",
+      "fr": "À peine arrivé à la gare, il s'est soudainement mis à pleuvoir."
+    },
+    "related": "複合動詞（降る＋出す）"
+  },
+  {
+    "id": "card_1614",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飛び出す",
+    "reading": "とびだす",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to jump out / to rush out",
+      "zh_TW": "衝出 / 跑出去",
+      "zh_CN": "冲出 / 跑出去",
+      "ko": "뛰쳐나오다 / 갑자기 튀어나오다",
+      "zh_HK": "衝出嚟 / 跑出去",
+      "fr": "surgir / sortir en courant"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>どもが<ruby>急<rt>きゅう</rt></ruby>に<ruby>道路<rt>どうろ</rt></ruby>に<ruby>飛び出<rt>とびだ</rt></ruby>してきて、ヒヤッとしました。",
+      "en": "A child suddenly rushed out into the road, giving me a scare.",
+      "zh_TW": "小孩子突然衝到馬路上，嚇了我一跳。",
+      "zh_CN": "小孩子突然冲到马路上，吓了我一跳。",
+      "ko": "아이가 갑자기 도로로 뛰어들어 와서 아찔했습니다.",
+      "zh_HK": "個小朋友突然衝出馬路，嚇咗我一跳。",
+      "fr": "Un enfant a soudainement surgi sur la route, ce qui m'a fait très peur."
+    },
+    "related": "複合動詞（飛ぶ＋出す）"
+  },
+  {
+    "id": "card_1615",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "to remember / to recall",
+      "zh_TW": "想起 / 回想起",
+      "zh_CN": "想起 / 回想起",
+      "ko": "생각해 내다 / 떠올리다",
+      "zh_HK": "記起 / 諗返起",
+      "fr": "se souvenir de / se rappeler"
+    },
+    "example": {
+      "ja": "この<ruby>歌<rt>うた</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと、<ruby>高校<rt>こうこう</rt></ruby><ruby>時代<rt>じだい</rt></ruby>のことを<ruby>思い出<rt>おもいだ</rt></ruby>します。",
+      "en": "When I hear this song, I recall my high school days.",
+      "zh_TW": "一聽到這首歌，我就會想起高中時代的事。",
+      "zh_CN": "一听到这首歌，我就会想起高中时代的事。",
+      "ko": "이 노래를 들으면 고등학교 시절 일이 떠오릅니다.",
+      "zh_HK": "一聽到呢首歌，我就會諗返起讀中學嗰陣嘅事。",
+      "fr": "Quand j'écoute cette chanson, je me souviens de mes années de lycée."
+    },
+    "related": "複合動詞（思う＋出す）"
+  },
+  {
+    "id": "card_1616",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "よさそうな",
+    "reading": "よさそうな",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "seeming good / promising",
+      "zh_TW": "看起來不錯的",
+      "zh_CN": "看起来不错的",
+      "ko": "좋아 보이는",
+      "zh_HK": "睇落唔錯嘅",
+      "fr": "qui a l'air bien"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>雰囲気<rt>ふんいき</rt></ruby>のよさそうなカフェを<ruby>見<rt>み</rt></ruby>つけました。",
+      "en": "I found a cafe near the station that seems to have a nice atmosphere.",
+      "zh_TW": "我在車站附近發現了一家看起來氣氛很不錯的咖啡廳。",
+      "zh_CN": "我在车站附近发现了一家看起来氛围很不错的咖啡店。",
+      "ko": "역 근처에 분위기가 좋아 보이는 카페를 발견했습니다.",
+      "zh_HK": "我喺車站附近搵到間睇落氣氛唔錯嘅Cafe。",
+      "fr": "J'ai trouvé un café près de la gare qui a l'air d'avoir une bonne ambiance."
+    },
+    "related": "「いい」の様態表現（よさそうだ）"
+  },
+  {
+    "id": "card_1617",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "なさそうな",
+    "reading": "なさそうな",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "seeming not to have / unlikely",
+      "zh_TW": "看起來沒有的",
+      "zh_CN": "看起来没有的",
+      "ko": "없어 보이는",
+      "zh_HK": "睇落冇嘅",
+      "fr": "qui n'a pas l'air d'avoir"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はあまり<ruby>時間<rt>じかん</rt></ruby>がなさそうなので、タクシーで<ruby>行<rt>い</rt></ruby>きましょう。",
+      "en": "Since it looks like we don't have much time today, let's go by taxi.",
+      "zh_TW": "今天看起來沒什麼時間了，我們搭計程車去吧。",
+      "zh_CN": "今天看起来没什么时间了，我们坐出租车去吧。",
+      "ko": "오늘은 별로 시간이 없어 보이니까 택시로 갑시다.",
+      "zh_HK": "今日睇落冇乜時間，我哋搭的士去啦。",
+      "fr": "Comme nous n'avons pas l'air d'avoir beaucoup de temps aujourd'hui, allons-y en taxi."
+    },
+    "related": "「ない」の様態表現（なさそうだ）"
+  },
+  {
+    "id": "card_1618",
+    "section_num": 70,
+    "section_title": "#70 Stage 11 目的・道具・様態（〜そう）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "複雑な",
+    "reading": "ふくざつな",
+    "category": "Stage 11 目的・道具・様態（〜そう）の新出語",
+    "meaning": {
+      "en": "complicated / complex",
+      "zh_TW": "複雜的",
+      "zh_CN": "复杂的",
+      "ko": "복잡한",
+      "zh_HK": "複雜嘅",
+      "fr": "compliqué / complexe"
+    },
+    "example": {
+      "ja": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>路線<rt>ろせん</rt></ruby><ruby>図<rt>ず</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>迷<rt>まよ</rt></ruby>ってしまいました。",
+      "en": "Tokyo's subway map is complicated, so I got lost at first.",
+      "zh_TW": "東京地鐵的路線圖很複雜，一開始我迷路了。",
+      "zh_CN": "东京地铁的线路图很复杂，一开始我迷路了。",
+      "ko": "도쿄 지하철 노선도는 복잡해서 처음에는 길을 헤맸습니다.",
+      "zh_HK": "東京地鐵嘅路線圖好複雜，一開始我都盪失路。",
+      "fr": "Le plan du métro de Tokyo est complexe, je me suis donc perdu au début."
+    },
+    "related": "対義語: 簡単な・単純な"
+  },
+  {
+    "id": "card_1619",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "食べすぎる",
+    "reading": "たべすぎる",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to overeat / to eat too much",
+      "zh_TW": "吃得太多 / 吃太飽",
+      "zh_CN": "吃得太多 / 吃撑",
+      "ko": "과식하다 / 너무 많이 먹다",
+      "zh_HK": "食得太多 / 食滯",
+      "fr": "trop manger"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>焼き肉<rt>やきにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べすぎてお<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
+      "en": "I ate too much yakiniku last night, and my stomach hurts.",
+      "zh_TW": "昨天晚上烤肉吃得太多，肚子痛。",
+      "zh_CN": "昨天晚上烤肉吃得太多，肚子疼。",
+      "ko": "어젯밤에 불고기를 너무 많이 먹어서 배가 아픕니다.",
+      "zh_HK": "尋晚食得太多燒肉，而家個肚好痛。",
+      "fr": "Hier soir, j'ai trop mangé de yakiniku et j'ai mal au ventre."
+    },
+    "related": "複合動詞（食べます＋すぎる）"
+  },
+  {
+    "id": "card_1620",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲みすぎる",
+    "reading": "のみすぎる",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to drink too much",
+      "zh_TW": "喝得太多",
+      "zh_CN": "喝得太多",
+      "ko": "과음하다 / 너무 많이 마시다",
+      "zh_HK": "飲得太多",
+      "fr": "trop boire"
+    },
+    "example": {
+      "ja": "パーティーでお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みすぎて、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>かったです。",
+      "en": "I drank too much alcohol at the party, so I had a headache this morning.",
+      "zh_TW": "在派對上酒喝得太多，今天早上頭很痛。",
+      "zh_CN": "在派对上酒喝得太多，今天早上头很疼。",
+      "ko": "파티에서 술을 너무 많이 마셔서 오늘 아침에는 머리가 아팠습니다.",
+      "zh_HK": "喺派對飲得太多酒，今朝個頭好痛。",
+      "fr": "J'ai bu trop d'alcool à la fête et j'avais mal à la tête ce matin."
+    },
+    "related": "複合動詞（飲みます＋すぎる）"
+  },
+  {
+    "id": "card_1621",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "働きすぎる",
+    "reading": "はたらきすぎる",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to overwork / to work too much",
+      "zh_TW": "工作過度",
+      "zh_CN": "工作过度",
+      "ko": "과로하다 / 너무 많이 일하다",
+      "zh_HK": "做嘢做得太多 / 過勞",
+      "fr": "trop travailler"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>最近<rt>さいきん</rt></ruby><ruby>働<rt>はたら</rt></ruby>きすぎているので、<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいです。",
+      "en": "Mr. Tanaka has been working too much lately, so he should rest a little.",
+      "zh_TW": "田中先生最近工作太拼了，最好稍微休息一下。",
+      "zh_CN": "田中先生最近工作太拼了，最好稍微休息一下。",
+      "ko": "다나카 씨는 최근에 일을 너무 많이 하고 있어서 조금 쉬는 편이 좋습니다.",
+      "zh_HK": "田中先生最近做嘢太搏命，最好休息下。",
+      "fr": "M. Tanaka travaille trop ces derniers temps, il ferait mieux de se reposer un peu."
+    },
+    "related": "複合動詞（働きます＋すぎる）"
+  },
+  {
+    "id": "card_1622",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "歩きやすい",
+    "reading": "あるきやすい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "easy to walk (in/on)",
+      "zh_TW": "好走 / 穿起來好走",
+      "zh_CN": "好走 / 穿着舒服（鞋）",
+      "ko": "걷기 편하다 / 걷기 쉽다",
+      "zh_HK": "好行 / 舒服易行",
+      "fr": "facile pour marcher / confortable"
+    },
+    "example": {
+      "ja": "このスニーカーは<ruby>軽<rt>かる</rt></ruby>くてとても<ruby>歩<rt>ある</rt></ruby>きやすいです。",
+      "en": "These sneakers are light and very easy to walk in.",
+      "zh_TW": "這雙運動鞋很輕，走起路來非常好走。",
+      "zh_CN": "这双运动鞋很轻，走起路来非常舒服。",
+      "ko": "이 운동화는 가볍고 매우 걷기 편합니다.",
+      "zh_HK": "呢對波鞋好輕，著住好舒服好易行。",
+      "fr": "Ces baskets sont légères et très agréables pour marcher."
+    },
+    "related": "対義語: 歩きにくい"
+  },
+  {
+    "id": "card_1623",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "書きやすい",
+    "reading": "かきやすい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "easy to write with",
+      "zh_TW": "好寫",
+      "zh_CN": "好写",
+      "ko": "쓰기 편하다 / 쓰기 쉽다",
+      "zh_HK": "好寫 / 順手",
+      "fr": "facile pour écrire"
+    },
+    "example": {
+      "ja": "このボールペンは<ruby>滑<rt>なめ</rt></ruby>らかでとても<ruby>書<rt>か</rt></ruby>きやすいです。",
+      "en": "This ballpoint pen is smooth and very easy to write with.",
+      "zh_TW": "這支原子筆很順滑，非常好寫。",
+      "zh_CN": "这支圆珠笔很顺滑，非常好写。",
+      "ko": "이 볼펜은 부드러워서 매우 쓰기 편합니다.",
+      "zh_HK": "呢支原子筆好順滑，好好寫。",
+      "fr": "Ce stylo-bille glisse bien et est très agréable pour écrire."
+    },
+    "related": "対義語: 書きにくい"
+  },
+  {
+    "id": "card_1624",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "分かりやすい",
+    "reading": "わかりやすい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "easy to understand",
+      "zh_TW": "容易理解 / 淺顯易懂",
+      "zh_CN": "容易理解 / 浅显易懂",
+      "ko": "알기 쉽다 / 이해하기 쉽다",
+      "zh_HK": "易明 / 容易理解",
+      "fr": "facile à comprendre"
+    },
+    "example": {
+      "ja": "<ruby>高橋<rt>たかはし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>はいつも<ruby>分<rt>わ</rt></ruby>かりやすいです。",
+      "en": "Teacher Takahashi's explanations are always easy to understand.",
+      "zh_TW": "高橋老師的講解總是淺顯易懂。",
+      "zh_CN": "高桥老师的讲解总是浅显易懂。",
+      "ko": "다카하시 선생님의 설명은 언제나 알기 쉽습니다.",
+      "zh_HK": "高橋老師嘅解釋不嬲都好易明。",
+      "fr": "Les explications du professeur Takahashi sont toujours faciles à comprendre."
+    },
+    "related": "対義語: 分かりにくい"
+  },
+  {
+    "id": "card_1625",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲みにくい",
+    "reading": "のみにくい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "hard to drink / hard to swallow",
+      "zh_TW": "難喝 / 不好吞（藥）",
+      "zh_CN": "难喝 / 不好咽（药）",
+      "ko": "마시기 힘들다 / 먹기 거북하다",
+      "zh_HK": "難飲 / 難吞（藥）",
+      "fr": "difficile à boire / à avaler"
+    },
+    "example": {
+      "ja": "この<ruby>薬<rt>くすり</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>くて<ruby>少<rt>すこ</rt></ruby>し<ruby>飲<rt>の</rt></ruby>みにくいです。",
+      "en": "This medicine is bitter and a bit hard to take.",
+      "zh_TW": "這個藥很苦，有點難吞下去。",
+      "zh_CN": "这个药很苦，有点难喝下去。",
+      "ko": "이 약은 써서 조금 먹기 힘듭니다.",
+      "zh_HK": "呢隻藥好苦，有啲難吞。",
+      "fr": "Ce médicament est amer et un peu difficile à avaler."
+    },
+    "related": "対義語: 飲みやすい"
+  },
+  {
+    "id": "card_1626",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "読みにくい",
+    "reading": "よみにくい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "hard to read",
+      "zh_TW": "難讀 / 難以辨認",
+      "zh_CN": "难读 / 难以辨认",
+      "ko": "읽기 어렵다",
+      "zh_HK": "難睇 / 難讀",
+      "fr": "difficile à lire"
+    },
+    "example": {
+      "ja": "<ruby>字<rt>じ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎて、<ruby>少<rt>すこ</rt></ruby>し<ruby>読<rt>よ</rt></ruby>みにくいです。",
+      "en": "The letters are too small, making it a bit hard to read.",
+      "zh_TW": "字太小了，有點難閱讀。",
+      "zh_CN": "字太小了，有点看不清。",
+      "ko": "글자가 너무 작아서 조금 읽기 어렵습니다.",
+      "zh_HK": "啲字太細粒喇，有啲難睇。",
+      "fr": "Les caractères sont trop petits, c'est un peu difficile à lire."
+    },
+    "related": "対義語: 読みやすい"
+  },
+  {
+    "id": "card_1627",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "住みやすい",
+    "reading": "すみやすい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "easy to live in / livable",
+      "zh_TW": "宜居 / 好住",
+      "zh_CN": "宜居 / 好住",
+      "ko": "살기 좋다",
+      "zh_HK": "好住 / 適合居住",
+      "fr": "agréable à vivre"
+    },
+    "example": {
+      "ja": "この<ruby>町<rt>まち</rt></ruby>は<ruby>交通<rt>こうつう</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>で、<ruby>物価<rt>ぶっか</rt></ruby>も<ruby>安<rt>やす</rt></ruby>くて<ruby>住<rt>す</rt></ruby>みやすいです。",
+      "en": "This town has convenient transportation and low prices, making it easy to live in.",
+      "zh_TW": "這個城鎮交通方便，物價也便宜，非常適合居住。",
+      "zh_CN": "这个城镇交通方便，物价也便宜，非常适合居住。",
+      "ko": "이 동네는 교통이 편리하고 물가도 싸서 살기 좋습니다.",
+      "zh_HK": "呢個鎮交通方便，物價又平，好好住。",
+      "fr": "Cette ville est bien desservie, la vie n'y est pas chère et il est agréable d'y vivre."
+    },
+    "related": "対義語: 住みにくい"
+  },
+  {
+    "id": "card_1628",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "硬い",
+    "reading": "かたい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "hard / stiff / tough",
+      "zh_TW": "硬 / 堅硬",
+      "zh_CN": "硬 / 坚硬",
+      "ko": "딱딱하다 / 단단하다",
+      "zh_HK": "硬",
+      "fr": "dur / raide"
+    },
+    "example": {
+      "ja": "このフランスパンは<ruby>少<rt>すこ</rt></ruby>し<ruby>硬<rt>かた</rt></ruby>いですが、とてもおいしいです。",
+      "en": "This French bread is a little hard, but it is very delicious.",
+      "zh_TW": "這個法國麵包有點硬，但非常好吃。",
+      "zh_CN": "这个法棍面包有点硬，但非常好吃。",
+      "ko": "이 바게트는 조금 딱딱하지만 매우 맛있습니다.",
+      "zh_HK": "呢個法包有啲硬，但係好好食。",
+      "fr": "Cette baguette est un peu dure, mais elle est très bonne."
+    },
+    "related": "対義語: 柔らかい（やわらかい）"
+  },
+  {
+    "id": "card_1629",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "柔らかい",
+    "reading": "やわらかい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "soft / tender",
+      "zh_TW": "軟 / 柔軟 / 嫩",
+      "zh_CN": "软 / 柔软 / 嫩",
+      "ko": "부드럽다 / 말랑말랑하다",
+      "zh_HK": "軟 / 腍（肉）",
+      "fr": "doux / mou / tendre"
+    },
+    "example": {
+      "ja": "このお<ruby>店<rt>みせ</rt></ruby>のステーキはお<ruby>肉<rt>にく</rt></ruby>がとても<ruby>柔<rt>やわ</rt></ruby>らかいです。",
+      "en": "The steak at this restaurant has very tender meat.",
+      "zh_TW": "這家店的牛排肉質非常軟嫩。",
+      "zh_CN": "这家店的牛排肉质非常嫩。",
+      "ko": "이 가게의 스테이크는 고기가 매우 부드럽습니다.",
+      "zh_HK": "呢間餐廳嘅牛扒啲肉好腍。",
+      "fr": "La viande du steak de ce restaurant est très tendre."
+    },
+    "related": "対義語: 硬い（かたい）"
+  },
+  {
+    "id": "card_1630",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "深い",
+    "reading": "ふかい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "deep",
+      "zh_TW": "深",
+      "zh_CN": "深",
+      "ko": "깊다",
+      "zh_HK": "深",
+      "fr": "profond"
+    },
+    "example": {
+      "ja": "この<ruby>川<rt>かわ</rt></ruby>は<ruby>深<rt>ふか</rt></ruby>いので、ここで<ruby>泳<rt>およ</rt></ruby>ぐのは<ruby>危険<rt>きけん</rt></ruby>です。",
+      "en": "Since this river is deep, swimming here is dangerous.",
+      "zh_TW": "這條河很深，在這裡游泳很危險。",
+      "zh_CN": "这条河很深，在这里游泳很危险。",
+      "ko": "이 강은 깊어서 여기서 수영하는 것은 위험합니다.",
+      "zh_HK": "呢條河好深，喺度游水好危險。",
+      "fr": "Cette rivière est profonde, il est donc dangereux d'y nager."
+    },
+    "related": "対義語: 浅い（あさい）"
+  },
+  {
+    "id": "card_1631",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "浅い",
+    "reading": "あさい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "shallow",
+      "zh_TW": "淺",
+      "zh_CN": "浅",
+      "ko": "얕다",
+      "zh_HK": "淺",
+      "fr": "peu profond"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>ども<ruby>用<rt>よう</rt></ruby>のプールは<ruby>浅<rt>あさ</rt></ruby>いので、<ruby>安心<rt>あんしん</rt></ruby>して<ruby>遊<rt>あそ</rt></ruby>べます。",
+      "en": "The children's pool is shallow, so they can play with peace of mind.",
+      "zh_TW": "兒童泳池很淺，可以放心地玩。",
+      "zh_CN": "儿童泳池很浅，可以放心地玩。",
+      "ko": "어린이용 수영장은 얕아서 안심하고 놀 수 있습니다.",
+      "zh_HK": "兒童池好淺水，可以放心玩。",
+      "fr": "La piscine pour enfants est peu profonde, on peut donc y jouer en toute tranquillité."
+    },
+    "related": "対義語: 深い（ふかい）"
+  },
+  {
+    "id": "card_1632",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "安全な",
+    "reading": "あんぜんな",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "safe",
+      "zh_TW": "安全的",
+      "zh_CN": "安全的",
+      "ko": "안전한",
+      "zh_HK": "安全嘅",
+      "fr": "sûr / en sécurité"
+    },
+    "example": {
+      "ja": "<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたら、まず<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>避難<rt>ひなん</rt></ruby>してください。",
+      "en": "If an earthquake occurs, please evacuate to a safe place first.",
+      "zh_TW": "如果發生地震，請先避難到安全的地方。",
+      "zh_CN": "如果发生地震，请先转移到安全的地方。",
+      "ko": "지진이 일어나면 우선 안전한 장소로 대피해 주세요.",
+      "zh_HK": "如果發生地震，請先疏散去安全嘅地方。",
+      "fr": "En cas de tremblement de terre, évacuez d'abord vers un endroit sûr."
+    },
+    "related": "対義語: 危険な（きけんな）"
+  },
+  {
+    "id": "card_1633",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "危険な",
+    "reading": "きけんな",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "dangerous / risky",
+      "zh_TW": "危險的",
+      "zh_CN": "危险的",
+      "ko": "위험한",
+      "zh_HK": "危險嘅",
+      "fr": "dangereux"
+    },
+    "example": {
+      "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くに<ruby>一人<rt>ひとり</rt></ruby>で<ruby>暗<rt>くら</rt></ruby>い<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのは<ruby>危険<rt>きけん</rt></ruby>です。",
+      "en": "Walking alone on a dark road late at night is dangerous.",
+      "zh_TW": "深夜獨自走在暗巷是很危險的。",
+      "zh_CN": "深夜独自走夜路是很危险的。",
+      "ko": "밤늦게 혼자서 어두운 길을 걷는 것은 위험합니다.",
+      "zh_HK": "夜媽媽一個人行黑路好危險。",
+      "fr": "Il est dangereux de marcher seul dans une rue sombre tard le soir."
+    },
+    "related": "対義語: 安全な / 類義語: 危ない"
+  },
+  {
+    "id": "card_1634",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "丁寧な",
+    "reading": "ていねいな",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "polite / courteous / careful",
+      "zh_TW": "禮貌的 / 仔細的",
+      "zh_CN": "礼貌的 / 仔细的",
+      "ko": "정중한 / 공손한 / 꼼꼼한",
+      "zh_HK": "有禮貌嘅 / 細心嘅",
+      "fr": "poli / soigneux"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいつも<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>で<ruby>話<rt>はな</rt></ruby>します。",
+      "en": "Ms. Suzuki always speaks in polite language.",
+      "zh_TW": "鈴木小姐說話總是很有禮貌。",
+      "zh_CN": "铃木小姐说话总是很有礼貌。",
+      "ko": "스즈키 씨는 언제나 정중한 말씨로 이야기합니다.",
+      "zh_HK": "鈴木小姐講嘢不嬲都好有禮貌。",
+      "fr": "Mme Suzuki parle toujours avec politesse."
+    },
+    "related": "な形容詞"
+  },
+  {
+    "id": "card_1635",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "細かい",
+    "reading": "こまかい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "small (change) / fine / detailed",
+      "zh_TW": "細小的 / 零碎的（零錢）",
+      "zh_CN": "细小的 / 零碎的（零钱）",
+      "ko": "잔(돈) / 세밀한 / 자잘한",
+      "zh_HK": "細微嘅 / 散紙",
+      "fr": "petit / fin / détaillé / de la monnaie"
+    },
+    "example": {
+      "ja": "すみません、<ruby>今<rt>いま</rt></ruby><ruby>細<rt>こま</rt></ruby>かいお<ruby>金<rt>かね</rt></ruby>がないので、<ruby>一<rt>いち</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>でもいいですか。",
+      "en": "Excuse me, I don't have small change right now; is a 10,000-yen bill okay?",
+      "zh_TW": "不好意思，我現在沒有零錢，用一萬日圓鈔票可以嗎？",
+      "zh_CN": "不好意思，我现在没有零钱，用一万日元纸币可以吗？",
+      "ko": "죄송합니다, 지금 잔돈이 없는데 만 엔짜리 지폐도 괜찮을까요?",
+      "zh_HK": "唔好意思，我而家冇散紙，用一萬円紙幣得唔得？",
+      "fr": "Excusez-moi, je n'ai pas de monnaie sur moi, puis-je payer avec un billet de 10 000 yens ?"
+    },
+    "related": "表現: 細かいお金（小銭）"
+  },
+  {
+    "id": "card_1636",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "場合",
+    "reading": "ばあい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "case / situation",
+      "zh_TW": "情況 / 場合",
+      "zh_CN": "情况 / 场合",
+      "ko": "경우",
+      "zh_HK": "情況 / 場合",
+      "fr": "cas / situation"
+    },
+    "example": {
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れる<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+      "en": "In case you will be late for the meeting, please be sure to contact us.",
+      "zh_TW": "如果開會要遲到，請務必聯繫我們。",
+      "zh_CN": "如果开会要迟到，请务必联系我们。",
+      "ko": "회의에 늦을 경우에는 반드시 연락해 주세요.",
+      "zh_HK": "如果開會遲到嘅情況下，請一定要聯絡我哋。",
+      "fr": "Si vous êtes en retard à la réunion, veuillez impérativement nous prévenir."
+    },
+    "related": "文法: 〜場合は"
+  },
+  {
+    "id": "card_1637",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "避難する",
+    "reading": "ひなんする",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to evacuate / to take shelter",
+      "zh_TW": "避難 / 疏散",
+      "zh_CN": "避难 / 疏散",
+      "ko": "대피하다 / 피난하다",
+      "zh_HK": "避難 / 疏散",
+      "fr": "évacuer / se réfugier"
+    },
+    "example": {
+      "ja": "<ruby>火事<rt>かじ</rt></ruby>のベルが<ruby>鳴<rt>な</rt></ruby>ったので、<ruby>非常口<rt>ひじょうぐち</rt></ruby>から<ruby>外<rt>そと</rt></ruby>へ<ruby>避難<rt>ひなん</rt></ruby>しました。",
+      "en": "Since the fire alarm rang, we evacuated outside through the emergency exit.",
+      "zh_TW": "火警鈴響了，我們從逃生口避難到了外面。",
+      "zh_CN": "火警铃响了，我们从安全出口疏散到了外面。",
+      "ko": "화재 벨이 울려서 비상구로 대피했습니다.",
+      "zh_HK": "火警鐘響咗，我哋由逃生門疏散去出面。",
+      "fr": "Comme l'alarme incendie a sonné, nous avons évacué par la sortie de secours."
+    },
+    "related": "関連語: 避難場所"
+  },
+  {
+    "id": "card_1638",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "延期する",
+    "reading": "えんきする",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to postpone",
+      "zh_TW": "延期 / 推遲",
+      "zh_CN": "延期 / 推迟",
+      "ko": "연기하다",
+      "zh_HK": "延期 / 改期",
+      "fr": "reporter / ajourner"
+    },
+    "example": {
+      "ja": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>に<ruby>延期<rt>えんき</rt></ruby>されます。",
+      "en": "In case of rain, tomorrow's sports day will be postponed until next week.",
+      "zh_TW": "如果下雨，明天的運動會將延期到下週。",
+      "zh_CN": "如果下雨，明天的运动会将推迟到下周。",
+      "ko": "비가 올 경우, 내일 운동회는 다음 주로 연기됩니다.",
+      "zh_HK": "如果落雨，聽日嘅運動會會延期到下星期。",
+      "fr": "En cas de pluie, la journée sportive de demain sera reportée à la semaine prochaine."
+    },
+    "related": "類義語: 延ばす / 対義語: 中止する"
+  },
+  {
+    "id": "card_1639",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "中止する",
+    "reading": "ちゅうしする",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "to cancel / to call off",
+      "zh_TW": "中止 / 取消",
+      "zh_CN": "中止 / 取消",
+      "ko": "중지하다 / 취소하다",
+      "zh_HK": "取消 / 中止",
+      "fr": "annuler / interrompre"
+    },
+    "example": {
+      "ja": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいているため、<ruby>今日<rt>きょう</rt></ruby>のコンサートは<ruby>中止<rt>ちゅうし</rt></ruby>になりました。",
+      "en": "Because a typhoon is approaching, today's concert has been canceled.",
+      "zh_TW": "因為颱風正在靠近，今天的演唱會取消了。",
+      "zh_CN": "因为台风正在靠近，今天的演唱会取消了。",
+      "ko": "태풍이 다가오고 있기 때문에 오늘 콘서트는 취소되었습니다.",
+      "zh_HK": "因為打風關係，今日嘅演唱會取消咗。",
+      "fr": "Comme un typhon approche, le concert d'aujourd'hui a été annulé."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1640",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "領収書",
+    "reading": "りょうしゅうしょ",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "receipt (official)",
+      "zh_TW": "收據 / 發票",
+      "zh_CN": "收据 / 发票",
+      "ko": "영수증",
+      "zh_HK": "收據 / 單據",
+      "fr": "reçu / quittance"
+    },
+    "example": {
+      "ja": "タクシーを<ruby>降<rt>お</rt></ruby>りるときに、<ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>さんから<ruby>領収<rt>りょうしゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby>をもらいました。",
+      "en": "When getting out of the taxi, I got a receipt from the driver.",
+      "zh_TW": "下計程車的時候，我向司機拿了收據。",
+      "zh_CN": "下出租车的时候，我向司机要了收据。",
+      "ko": "택시에서 내릴 때 기사님께 영수증을 받았습니다.",
+      "zh_HK": "落車嗰陣，我問的士司機攞咗張收據。",
+      "fr": "En descendant du taxi, j'ai demandé un reçu au chauffeur."
+    },
+    "related": "関連語: レシート"
+  },
+  {
+    "id": "card_1641",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "with utmost effort / as hard as one can",
+      "zh_TW": "拼命 / 努力",
+      "zh_CN": "拼命 / 努力",
+      "ko": "열심히 / 최선을 다해",
+      "zh_HK": "好努力 / 搏命",
+      "fr": "de toutes ses forces / avec acharnement"
+    },
+    "example": {
+      "ja": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走<rt>はし</rt></ruby>りましたが、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間に合<rt>まにあ</rt></ruby>いませんでした。",
+      "en": "Even though I ran as hard as I could, I didn't make it in time for the train.",
+      "zh_TW": "雖然我拼命跑了，但還是沒趕上電車。",
+      "zh_CN": "虽然我拼命跑了，但还是没赶上电车。",
+      "ko": "열심히 달렸지만 전철 시간에 맞추지 못했습니다.",
+      "zh_HK": "雖然我好努力咁跑，但都係趕唔切班電車。",
+      "fr": "J'ai couru de toutes mes forces, mais j'ai raté le train."
+    },
+    "related": "副詞・な形容詞"
+  },
+  {
+    "id": "card_1642",
+    "section_num": 71,
+    "section_title": "#71 Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "せっかく",
+    "reading": "せっかく",
+    "category": "Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語",
+    "meaning": {
+      "en": "with trouble / specially / long-awaited",
+      "zh_TW": "難得 / 好不容易",
+      "zh_CN": "难得 / 好不容易",
+      "ko": "모처럼",
+      "zh_HK": "難得 / 特登",
+      "fr": "spécialement / avec tant de peine"
+    },
+    "example": {
+      "ja": "せっかく<ruby>佐藤<rt>さとう</rt></ruby>さんがケーキを<ruby>作<rt>つく</rt></ruby>ってくれたのに、<ruby>食<rt>た</rt></ruby>べられませんでした。",
+      "en": "Even though Ms. Sato specially made a cake for me, I couldn't eat it.",
+      "zh_TW": "佐藤小姐特地為我做了蛋糕，我卻沒能吃到。",
+      "zh_CN": "佐藤小姐特意为我做了蛋糕，我却没能吃到。",
+      "ko": "모처럼 사토 씨가 케이크를 만들어 주었는데 먹지 못했습니다.",
+      "zh_HK": "難得佐藤小姐特登整咗蛋糕畀我，我竟然食唔到。",
+      "fr": "Alors que Mme Sato s'était donné la peine de me faire un gâteau, je n'ai pas pu le manger."
+    },
+    "related": "表現: せっかく〜のに"
+  },
+  {
+    "id": "card_1643",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "これから",
+    "reading": "これから",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "from now on / just about to",
+      "zh_TW": "從現在起 / 接下來",
+      "zh_CN": "从现在起 / 接下来",
+      "ko": "지금부터 / 이제부터",
+      "zh_HK": "而家開始 / 準備",
+      "fr": "à partir de maintenant / sur le point de"
+    },
+    "example": {
+      "ja": "これから<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べるところですが、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+      "en": "I am just about to eat lunch now; won't you come along?",
+      "zh_TW": "我現在正要去吃午飯，一起去嗎？",
+      "zh_CN": "我现在正要去吃午饭，一起去吗？",
+      "ko": "지금부터 점심을 먹으려는 참인데 같이 가지 않을래요?",
+      "zh_HK": "我而家準備去食晏，不如一齊去吖？",
+      "fr": "Je suis sur le point d'aller déjeuner, voulez-vous venir avec moi ?"
+    },
+    "related": "表現: これから〜するところだ"
+  },
+  {
+    "id": "card_1644",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ちょうど",
+    "reading": "ちょうど",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "just / right / exactly",
+      "zh_TW": "剛好 / 恰好",
+      "zh_CN": "正好 / 恰好",
+      "ko": "마침 / 딱",
+      "zh_HK": "啱啱好 / 剛好",
+      "fr": "juste / exactement"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら、ちょうど<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>来<rt>き</rt></ruby>たところでした。",
+      "en": "When I arrived at the station, the train had just arrived.",
+      "zh_TW": "到車站的時候，電車剛好剛到。",
+      "zh_CN": "到车站的时候，电车正好刚到。",
+      "ko": "역에 도착하니 마침 전철이 막 도착한 참이었습니다.",
+      "zh_HK": "去到車站嗰陣，架電車啱啱好到站。",
+      "fr": "Quand je suis arrivé à la gare, le train venait tout juste d'arriver."
+    },
+    "related": "副詞"
+  },
+  {
+    "id": "card_1645",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "届く・届きます",
+    "reading": "とどく・とどきます",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to reach / to be delivered",
+      "zh_TW": "送到 / 寄到",
+      "zh_CN": "送到 / 寄到",
+      "ko": "도착하다 / 배달되다",
+      "zh_HK": "送到 / 寄到",
+      "fr": "arriver / être livré"
+    },
+    "example": {
+      "ja": "ネットで<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>本<rt>ほん</rt></ruby>が<ruby>今朝<rt>けさ</rt></ruby><ruby>届<rt>とど</rt></ruby>きました。",
+      "en": "The book I ordered online was delivered this morning.",
+      "zh_TW": "在網路上訂的書今天早上送到了。",
+      "zh_CN": "在网上订的书今天早上送到了。",
+      "ko": "인터넷으로 주문한 책이 오늘 아침에 도착했습니다.",
+      "zh_HK": "喺網上訂嘅書今朝送到嚟喇。",
+      "fr": "Le livre que j'ai commandé sur Internet est arrivé ce matin."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 届ける"
+  },
+  {
+    "id": "card_1646",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "届ける・届けます",
+    "reading": "とどける・とどけます",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to deliver / to report",
+      "zh_TW": "送到 / 遞交",
+      "zh_CN": "送到 / 递交",
+      "ko": "전해주다 / 배달하다 / 신고하다",
+      "zh_HK": "送交 / 交去",
+      "fr": "livrer / apporter / déclarer"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>で<ruby>拾<rt>ひろ</rt></ruby>った<ruby>財布<rt>さいふ</rt></ruby>を<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けました。",
+      "en": "I turned in the wallet I picked up on the street to a nearby police box.",
+      "zh_TW": "我把在路上撿到的錢包送到了附近的派出所。",
+      "zh_CN": "我把在路上捡到的钱包送到了附近的派出所。",
+      "ko": "길에서 주운 지갑을 근처 파출소에 갖다주었습니다.",
+      "zh_HK": "我將喺街執到嘅銀包交咗去附近嘅派出所。",
+      "fr": "J'ai rapporté le portefeuille trouvé dans la rue au poste de police voisin."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 届く"
+  },
+  {
+    "id": "card_1647",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "空く・空きます",
+    "reading": "すく・すきます",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to become less crowded / to get hungry",
+      "zh_TW": "變空 / 不擁擠",
+      "zh_CN": "变空 / 不拥挤",
+      "ko": "한산해지다 / 비다",
+      "zh_HK": "少人 / 唔迫",
+      "fr": "se vider / être moins bondé"
+    },
+    "example": {
+      "ja": "<ruby>昼休<rt>ひるやす</rt></ruby>みの<ruby>時間<rt>じかん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎると、レストランが<ruby>空<rt>あ</rt></ruby>きます。",
+      "en": "Once lunch break is over, the restaurant becomes less crowded.",
+      "zh_TW": "過了午休時間，餐廳裡的人就少了。",
+      "zh_CN": "过了午休时间，餐厅里的人就少了。",
+      "ko": "점심시간이 지나면 레스토랑이 한산해집니다.",
+      "zh_HK": "過咗食晏時間，餐廳就會少返人。",
+      "fr": "Une fois l'heure du déjeuner passée, le restaurant se vide."
+    },
+    "related": "五段動詞 / 対義語: 混む"
+  },
+  {
+    "id": "card_1648",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "保証書",
+    "reading": "ほしょうしょ",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "warranty card",
+      "zh_TW": "保證書 / 保固卡",
+      "zh_CN": "保修单 / 保修卡",
+      "ko": "보증서",
+      "zh_HK": "保養證 / 保用證",
+      "fr": "certificat de garantie"
+    },
+    "example": {
+      "ja": "パソコンが<ruby>故障<rt>こしょう</rt></ruby>したときのために、<ruby>保証書<rt>ほしょうしょ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>しています。",
+      "en": "I keep the warranty card safely in case my computer breaks down.",
+      "zh_TW": "以防電腦出故障，我把保固卡妥善保管著。",
+      "zh_CN": "以防电脑出故障，我把保修卡妥善保管着。",
+      "ko": "컴퓨터가 고장 났을 때를 대비해 보증서를 소중히 보관하고 있습니다.",
+      "zh_HK": "為免部電腦壞咗要整，我好好咁收埋張保養證。",
+      "fr": "Je garde précieusement le certificat de garantie au cas où mon ordinateur tomberait en panne."
+    },
+    "related": "複合名詞"
+  },
+  {
+    "id": "card_1649",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "天気予報",
+    "reading": "てんきよほう",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "weather forecast",
+      "zh_TW": "天氣預報",
+      "zh_CN": "天气预报",
+      "ko": "일기예보",
+      "zh_HK": "天氣預報",
+      "fr": "météo / prévisions météorologiques"
+    },
+    "example": {
+      "ja": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>晴<rt>は</rt></ruby>れるそうです。",
+      "en": "According to the weather forecast, it will be sunny all day tomorrow.",
+      "zh_TW": "據天氣預報說，明天一整天都是晴天。",
+      "zh_CN": "据天气预报说，明天一整天都是晴天。",
+      "ko": "일기예보에 의하면 내일은 하루 종일 맑을 것이라고 합니다.",
+      "zh_HK": "根據天氣預報講，聽日成日都會係好天。",
+      "fr": "D'après la météo, il fera beau toute la journée demain."
+    },
+    "related": "表現: 天気予報によると"
+  },
+  {
+    "id": "card_1650",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "うわさ",
+    "reading": "うわさ",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "rumor / gossip",
+      "zh_TW": "傳聞 / 聽說",
+      "zh_CN": "传闻 / 听说",
+      "ko": "소문",
+      "zh_HK": "傳聞 / 八卦",
+      "fr": "rumeur / bruit qui court"
+    },
+    "example": {
+      "ja": "うわさによると、<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいショッピングモールができるそうです。",
+      "en": "According to rumors, a new shopping mall will be built in front of the station.",
+      "zh_TW": "聽說車站前要蓋一個新的購物中心。",
+      "zh_CN": "听说车站前要建一个新的购物中心。",
+      "ko": "소문에 의하면 역 앞에 새로운 쇼핑몰이 생긴다고 합니다.",
+      "zh_HK": "聽聞車站前面會起一個新嘅商場。",
+      "fr": "Selon la rumeur, un nouveau centre commercial va ouvrir devant la gare."
+    },
+    "related": "漢字表記: 噂"
+  },
+  {
+    "id": "card_1651",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ニュース",
+    "reading": "ニュース",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "news",
+      "zh_TW": "新聞",
+      "zh_CN": "新闻",
+      "ko": "뉴스",
+      "zh_HK": "新聞",
+      "fr": "actualités / nouvelles"
+    },
+    "example": {
+      "ja": "<ruby>今朝<rt>けさ</rt></ruby>のニュースで、その<ruby>大<rt>おお</rt></ruby>きな<ruby>事件<rt>じけん</rt></ruby>のことを<ruby>知<rt>し</rt></ruby>りました。",
+      "en": "I learned about that major incident on this morning's news.",
+      "zh_TW": "我從今天早上的新聞裡得知了那起大事件。",
+      "zh_CN": "我从今天早上的新闻里得知了那起大事件。",
+      "ko": "오늘 아침 뉴스에서 그 큰 사건에 대해 알게 되었습니다.",
+      "zh_HK": "我喺今朝嘅新聞度知道咗嗰單大件事。",
+      "fr": "J'ai appris cet événement important aux informations de ce matin."
+    },
+    "related": "表現: ニュースを見る"
+  },
+  {
+    "id": "card_1652",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "留守",
+    "reading": "るす",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "absence from home",
+      "zh_TW": "不在家 / 看家",
+      "zh_CN": "不在家 / 看家",
+      "ko": "부재중 / 집을 비움",
+      "zh_HK": "唔喺屋企 / 留守",
+      "fr": "absence (du domicile)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましたが、<ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えていて<ruby>留守<rt>るす</rt></ruby>のようでした。",
+      "en": "I went to Mr. Tanaka's house, but the lights were off and it seemed no one was home.",
+      "zh_TW": "我去了田中先生家，但燈關著，好像不在家。",
+      "zh_CN": "我去了田中先生家，但灯关着，好像不在家。",
+      "ko": "다나카 씨 집에 갔지만 불이 꺼져 있어서 부재중인 것 같았습니다.",
+      "zh_HK": "我去咗田中先生屋企，但係熄晒燈，好似唔喺屋企。",
+      "fr": "Je suis allé chez M. Tanaka, mais les lumières étaient éteintes, il semblait absent."
+    },
+    "related": "関連語: 留守番（るすばん）"
+  },
+  {
+    "id": "card_1653",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "焦げる・焦げます",
+    "reading": "こげる・こげます",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to burn / to be scorched",
+      "zh_TW": "烤焦 / 燒焦",
+      "zh_CN": "烤焦 / 烧糊",
+      "ko": "타다 / 눌어붙다",
+      "zh_HK": "燶 / 燒燶",
+      "fr": "brûler / roussir"
+    },
+    "example": {
+      "ja": "テレビを<ruby>見<rt>み</rt></ruby>ていたら、トースターのパンが<ruby>焦<rt>こ</rt></ruby>げてしまいました。",
+      "en": "While I was watching TV, the bread in the toaster got burned.",
+      "zh_TW": "看電視的時候，烤麵包機裡的麵包烤焦了。",
+      "zh_CN": "看电视的时候，烤面包机里的面包烤焦了。",
+      "ko": "텔레비전을 보고 있었더니 토스터의 빵이 타 버렸습니다.",
+      "zh_HK": "睇緊電視嗰陣，多士爐入面塊麵包烘燶咗。",
+      "fr": "Pendant que je regardais la télévision, le pain dans le grille-pain a brûlé."
+    },
+    "related": "一段動詞（自動詞）"
+  },
+  {
+    "id": "card_1654",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "味がする",
+    "reading": "あじがする",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to taste (of)",
+      "zh_TW": "有……味道（味覺）",
+      "zh_CN": "有……味道（味觉）",
+      "ko": "맛이 나다",
+      "zh_HK": "有……味道（食落）",
+      "fr": "avoir un goût (de)"
+    },
+    "example": {
+      "ja": "このキャンディーは<ruby>爽<rt>さわ</rt></ruby>やかなレモンの<ruby>味<rt>あじ</rt></ruby>がします。",
+      "en": "This candy tastes like refreshing lemon.",
+      "zh_TW": "這顆糖有清爽的檸檬味。",
+      "zh_CN": "这颗糖有清爽的柠檬味。",
+      "ko": "이 사탕은 상쾌한 레몬 맛이 납니다.",
+      "zh_HK": "呢粒糖有好清新嘅檸檬味。",
+      "fr": "Ce bonbon a un goût rafraîchissant de citron."
+    },
+    "related": "五感表現（味覚）"
+  },
+  {
+    "id": "card_1655",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "匂いがする",
+    "reading": "においがする",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to smell (of)",
+      "zh_TW": "有……氣味 / 香味",
+      "zh_CN": "有……气味 / 香味",
+      "ko": "냄새가 나다",
+      "zh_HK": "有……氣味 / 陣味",
+      "fr": "sentir (une odeur)"
+    },
+    "example": {
+      "ja": "<ruby>台所<rt>だいどころ</rt></ruby>からカレーのいい<ruby>匂<rt>にお</rt></ruby>いがしますね。",
+      "en": "A nice smell of curry is coming from the kitchen.",
+      "zh_TW": "廚房裡飄來陣陣咖哩的香味。",
+      "zh_CN": "厨房里飘来阵阵咖喱的香味。",
+      "ko": "부엌에서 카레의 좋은 냄새가 나네요.",
+      "zh_HK": "廚房傳嚟好香嘅咖喱味呀。",
+      "fr": "Une bonne odeur de curry vient de la cuisine."
+    },
+    "related": "五感表現（嗅覚）"
+  },
+  {
+    "id": "card_1656",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "音がする",
+    "reading": "おとがする",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to make a sound / to be heard",
+      "zh_TW": "有……聲音（物體）",
+      "zh_CN": "有……声音（物体）",
+      "ko": "소리가 나다",
+      "zh_HK": "有……聲（物件）",
+      "fr": "faire du bruit / entendre un son"
+    },
+    "example": {
+      "ja": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>からピアノの<ruby>美<rt>うつく</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がします。",
+      "en": "A beautiful sound of a piano is coming from the next room.",
+      "zh_TW": "隔壁房間傳來優美的鋼琴聲。",
+      "zh_CN": "隔壁房间传来优美的钢琴声。",
+      "ko": "옆방에서 아름다운 피아노 소리가 납니다.",
+      "zh_HK": "隔離房傳嚟好動聽嘅鋼琴聲。",
+      "fr": "On entend un joli son de piano venant de la pièce voisine."
+    },
+    "related": "五感表現（聴覚：物音）"
+  },
+  {
+    "id": "card_1657",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "声がする",
+    "reading": "こえがする",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "a voice is heard",
+      "zh_TW": "有……聲音（人、動物）",
+      "zh_CN": "有……声音（人、动物）",
+      "ko": "목소리가 나다 / 들리다",
+      "zh_HK": "有……把聲（人、動物）",
+      "fr": "entendre une voix"
+    },
+    "example": {
+      "ja": "<ruby>玄関<rt>げんかん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>から<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>楽<rt>たの</rt></ruby>しそうな<ruby>声<rt>こえ</rt></ruby>がします。",
+      "en": "Ms. Sato's cheerful-sounding voice is coming from the entrance.",
+      "zh_TW": "從玄關那邊傳來佐藤小姐開心的聲音。",
+      "zh_CN": "从玄关那边传来佐藤小姐开心的声音。",
+      "ko": "현관 쪽에서 사토 씨의 즐거워 보이는 목소리가 들립니다.",
+      "zh_HK": "喺玄關嗰邊傳嚟佐藤小姐好開心嘅把聲。",
+      "fr": "On entend la voix joyeuse de Mme Sato depuis l'entrée."
+    },
+    "related": "五感表現（聴覚：人・動物の声）"
+  },
+  {
+    "id": "card_1658",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "感じがする",
+    "reading": "かんじがする",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "to have a feeling / to seem",
+      "zh_TW": "有……感覺 / 覺得",
+      "zh_CN": "有……感觉 / 觉得",
+      "ko": "느낌이 들다",
+      "zh_HK": "有……感覺 / 覺得",
+      "fr": "avoir l'impression"
+    },
+    "example": {
+      "ja": "この<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていると、<ruby>心<rt>こころ</rt></ruby>が<ruby>静<rt>しず</rt></ruby>かになる<ruby>感<rt>かん</rt></ruby>じがします。",
+      "en": "When I look at this painting, I feel as though my mind becomes calm.",
+      "zh_TW": "看著這幅畫，會有一種心情平靜下來的感覺。",
+      "zh_CN": "看着这幅画，会有一种心情平静下来的感觉。",
+      "ko": "이 그림을 보고 있으면 마음이 차분해지는 느낌이 듭니다.",
+      "zh_HK": "望住呢幅畫，有一種個心靜落嚟嘅感覺。",
+      "fr": "En regardant ce tableau, j'ai l'impression que mon esprit s'apaise."
+    },
+    "related": "感覚・直感の表現"
+  },
+  {
+    "id": "card_1659",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜によると",
+    "reading": "〜によると",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "according to ~",
+      "zh_TW": "據……所說 / 根據……",
+      "zh_CN": "据……所说 / 根据……",
+      "ko": "~에 의하면",
+      "zh_HK": "根據……所講",
+      "fr": "selon ~ / d'après ~"
+    },
+    "example": {
+      "ja": "<ruby>今朝<rt>けさ</rt></ruby>の<ruby>新聞<rt>しんぶん</rt></ruby>によると、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がるそうです。",
+      "en": "According to this morning's newspaper, electricity rates will go up starting next month.",
+      "zh_TW": "據今天早上的報紙說，下個月起電費要調漲。",
+      "zh_CN": "据今天早上的报纸说，下个月起电费要上涨。",
+      "ko": "오늘 아침 신문에 의하면 다음 달부터 전기요금이 오른다고 합니다.",
+      "zh_HK": "根據今朝份報紙講，下個月開始會加電費。",
+      "fr": "Selon le journal de ce matin, le prix de l'électricité va augmenter le mois prochain."
+    },
+    "related": "伝聞の情報源を表す文法"
+  },
+  {
+    "id": "card_1660",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜ようです",
+    "reading": "〜ようです",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "it seems that ~ / it appears that ~",
+      "zh_TW": "好像…… / 似乎……",
+      "zh_CN": "好像…… / 似乎……",
+      "ko": "~인 것 같습니다",
+      "zh_HK": "好似……咁",
+      "fr": "il semble que ~ / on dirait que ~"
+    },
+    "example": {
+      "ja": "<ruby>道路<rt>どうろ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れているので、<ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったようです。",
+      "en": "Since the road is wet, it seems that it rained during the night.",
+      "zh_TW": "路面是濕的，半夜裡好像下過雨。",
+      "zh_CN": "路面是湿的，半夜里好像下过雨。",
+      "ko": "도로가 젖어 있는 걸 보니 밤중에 비가 내린 것 같습니다.",
+      "zh_HK": "條馬路濕晒，半夜好似落過雨咁。",
+      "fr": "Comme la route est mouillée, il semble qu'il ait plu pendant la nuit."
+    },
+    "related": "客観的根拠に基づく推量"
+  },
+  {
+    "id": "card_1661",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜みたいです",
+    "reading": "〜みたいです",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "it looks like ~ / just like ~",
+      "zh_TW": "好像……（口語）",
+      "zh_CN": "好像……（口语）",
+      "ko": "~인 것 같아요",
+      "zh_HK": "好似……咁（口語）",
+      "fr": "on dirait que ~ (familier)"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて、<ruby>今日<rt>きょう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>むみたいです。",
+      "en": "It looks like Ms. Suzuki caught a cold and is taking today off.",
+      "zh_TW": "鈴木小姐好像感冒了，今天要請假。",
+      "zh_CN": "铃木小姐好像感冒了，今天要休息。",
+      "ko": "스즈키 씨는 감기에 걸려서 오늘은 쉬는 것 같아요.",
+      "zh_HK": "鈴木小姐好似傷風，今日應該會請假。",
+      "fr": "On dirait que Mme Suzuki a attrapé un rhume et qu'elle est absente aujourd'hui."
+    },
+    "related": "「〜ようです」の会話表現"
+  },
+  {
+    "id": "card_1662",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "確かな",
+    "reading": "たしかな",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "certain / sure / reliable",
+      "zh_TW": "確切的 / 可靠的",
+      "zh_CN": "确切的 / 可靠的",
+      "ko": "확실한",
+      "zh_HK": "確實嘅 / 可靠嘅",
+      "fr": "certain / sûr / fiable"
+    },
+    "example": {
+      "ja": "それは<ruby>確<rt>たし</rt></ruby>かな<ruby>情報<rt>じょうほう</rt></ruby>ですから、<ruby>安心<rt>あんしん</rt></ruby>してください。",
+      "en": "That is reliable information, so please rest assured.",
+      "zh_TW": "那是確切的消息，請放心。",
+      "zh_CN": "那是确切的消息，请放心。",
+      "ko": "그것은 확실한 정보이니 안심하세요.",
+      "zh_HK": "嗰個係好可靠嘅消息，請放心啦。",
+      "fr": "C'est une information sûre, alors soyez rassuré."
+    },
+    "related": "副詞: 確か（たしか）"
+  },
+  {
+    "id": "card_1663",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "きっと",
+    "reading": "きっと",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "surely / undoubtedly",
+      "zh_TW": "一定 / 必定",
+      "zh_CN": "一定 / 必定",
+      "ko": "틀림없이 / 꼭",
+      "zh_HK": "一定 / 肯定",
+      "fr": "sûrement / certainement"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>真面目<rt>まじめ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しているから、<ruby>佐藤<rt>さとう</rt></ruby>さんはきっと<ruby>合格<rt>ごうかく</rt></ruby>しますよ。",
+      "en": "Because Ms. Sato studies seriously every day, she will surely pass.",
+      "zh_TW": "佐藤小姐每天都認真學習，一定能考上的。",
+      "zh_CN": "佐藤小姐每天都认真学习，一定能考上的。",
+      "ko": "매일 성실하게 공부하고 있으니까 사토 씨는 틀림없이 합격할 거예요.",
+      "zh_HK": "佐藤小姐日日都咁努力讀書，一定會合格嘅。",
+      "fr": "Comme Mme Sato étudie sérieusement tous les jours, elle réussira sûrement."
+    },
+    "related": "高い確信を表す副詞"
+  },
+  {
+    "id": "card_1664",
+    "section_num": 72,
+    "section_title": "#72 Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "おそらく",
+    "reading": "おそらく",
+    "category": "Stage 12 局面・確信・伝聞・五感推量の新出語",
+    "meaning": {
+      "en": "probably / perhaps",
+      "zh_TW": "恐怕 / 大概",
+      "zh_CN": "恐怕 / 大概",
+      "ko": "아마 / 십중팔구",
+      "zh_HK": "恐怕 / 大概",
+      "fr": "probablement / sans doute"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいるので、おそらく<ruby>到着<rt>とうちゃく</rt></ruby>は6<ruby>時<rt>じ</rt></ruby>ごろになるでしょう。",
+      "en": "Since the roads are congested, we will probably arrive around 6 o'clock.",
+      "zh_TW": "因為路上塞車，恐怕要六點左右才能到。",
+      "zh_CN": "因为路上堵车，恐怕要六点左右才能到。",
+      "ko": "길이 막혀서 아마 도착은 6시경이 될 것입니다.",
+      "zh_HK": "因為塞車，恐怕要六點左右先會到。",
+      "fr": "Comme la route est embouteillée, nous arriverons probablement vers 18 heures."
+    },
+    "related": "「たぶん」より硬い表現（〜だろうと呼応）"
+  },
+  {
+    "id": "card_1665",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "食べさせる",
+    "reading": "たべさせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) eat / to feed",
+      "zh_TW": "讓……吃 / 餵",
+      "zh_CN": "让……吃 / 喂",
+      "ko": "먹게 하다 / 먹이다",
+      "zh_HK": "俾 / 逼……食",
+      "fr": "faire manger / laisser manger"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>私<rt>わたし</rt></ruby>に<ruby>毎日<rt>まいにち</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べさせます。",
+      "en": "My mother makes me eat vegetables every day for my health.",
+      "zh_TW": "為了健康，媽媽讓我每天吃蔬菜。",
+      "zh_CN": "为了健康，妈妈让我每天吃蔬菜。",
+      "ko": "어머니는 건강을 위해 나에게 매일 채소를 먹게 하십니다.",
+      "zh_HK": "為咗健康，阿媽日日都逼我食菜。",
+      "fr": "Ma mère me fait manger des légumes tous les jours pour ma santé."
+    },
+    "related": "「食べる」（一段）の使役形"
+  },
+  {
+    "id": "card_1666",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲ませる",
+    "reading": "のませる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) drink",
+      "zh_TW": "讓……喝",
+      "zh_CN": "让……喝",
+      "ko": "마시게 하다 / 먹이다(약)",
+      "zh_HK": "俾 / 逼……飲",
+      "fr": "faire boire / laisser boire"
+    },
+    "example": {
+      "ja": "<ruby>熱<rt>ねつ</rt></ruby>がある<ruby>子<rt>こ</rt></ruby>どもに<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>ませて、<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>かせました。",
+      "en": "I gave medicine to my child who had a fever and put them to bed early.",
+      "zh_TW": "我給發燒的孩子喝了藥，讓他早點睡下了。",
+      "zh_CN": "我给发烧的孩子喝了药，让他早点睡下了。",
+      "ko": "열이 있는 아이에게 약을 먹이고 일찍 재웠습니다.",
+      "zh_HK": "我餵咗發燒嘅小朋友食藥，再氹佢早啲瞓。",
+      "fr": "J'ai fait boire son médicament à mon enfant qui avait de la fièvre et je l'ai couché tôt."
+    },
+    "related": "「飲む」（五段）の使役形"
+  },
+  {
+    "id": "card_1667",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "行かせる",
+    "reading": "いかせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) go",
+      "zh_TW": "讓……去 / 派……去",
+      "zh_CN": "让……去 / 派……去",
+      "ko": "가게 하다 / 보내다",
+      "zh_HK": "俾 / 派……去",
+      "fr": "faire aller / laisser aller"
+    },
+    "example": {
+      "ja": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんを<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>支社<rt>ししゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>かせます。",
+      "en": "The department manager will send Mr. Tanaka to the Osaka branch next week.",
+      "zh_TW": "部長下週派田中先生去大阪分公司。",
+      "zh_CN": "部长下周派田中先生去大阪分公司。",
+      "ko": "부장님은 다음 주에 다나카 씨를 오사카 지사로 보냅니다.",
+      "zh_HK": "部長下星期派田中先生去大阪分社。",
+      "fr": "Le directeur enverra M. Tanaka à la succursale d'Osaka la semaine prochaine."
+    },
+    "related": "「行く」（五段）の使役形"
+  },
+  {
+    "id": "card_1668",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "来させる",
+    "reading": "こさせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) come",
+      "zh_TW": "讓……來 / 叫……來",
+      "zh_CN": "让……来 / 叫……来",
+      "ko": "오게 하다 / 부르다",
+      "zh_HK": "叫……嚟 / 俾……嚟",
+      "fr": "faire venir / laisser venir"
+    },
+    "example": {
+      "ja": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>いので、<ruby>弟<rt>おとうと</rt></ruby>を<ruby>駅<rt>えき</rt></ruby>まで<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>きた</rt></ruby>させました。",
+      "en": "Because my luggage was heavy, I had my younger brother come pick me up at the station.",
+      "zh_TW": "因為行李很重，我叫弟弟來車站接我了。",
+      "zh_CN": "因为行李很重，我叫弟弟来车站接我了。",
+      "ko": "짐이 무거워서 남동생을 역까지 마중 나오게 했습니다.",
+      "zh_HK": "因為行李太重，我叫細佬嚟車站接我。",
+      "fr": "Comme mes bagages étaient lourds, j'ai fait venir mon petit frère à la gare pour m'aider."
+    },
+    "related": "「来る」（カ変）の使役形"
+  },
+  {
+    "id": "card_1669",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "書かせる",
+    "reading": "かかせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) write",
+      "zh_TW": "讓……寫",
+      "zh_CN": "让……写",
+      "ko": "쓰게 하다",
+      "zh_HK": "叫 / 逼……寫",
+      "fr": "faire écrire / laisser écrire"
+    },
+    "example": {
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>たちに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>について<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>書<rt>か</rt></ruby>かせました。",
+      "en": "The teacher had the students write an essay about their future dreams.",
+      "zh_TW": "老師讓學生們寫了一篇關於自己未來夢想的作文。",
+      "zh_CN": "老师让学生们写了一篇关于自己未来梦想的作文。",
+      "ko": "선생님은 학생들에게 자신의 장래 희망에 대해 작문을 쓰게 했습니다.",
+      "zh_HK": "老師叫學生寫一篇關於自己將來夢想嘅作文。",
+      "fr": "Le professeur a fait écrire aux étudiants une rédaction sur leurs rêves d'avenir."
+    },
+    "related": "「書く」（五段）の使役形"
+  },
+  {
+    "id": "card_1670",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "読ませる",
+    "reading": "よませる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) read",
+      "zh_TW": "讓……讀",
+      "zh_CN": "让……读",
+      "ko": "읽게 하다",
+      "zh_HK": "叫 / 俾……讀",
+      "fr": "faire lire / laisser lire"
+    },
+    "example": {
+      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>は、<ruby>学生<rt>がくせい</rt></ruby>に<ruby>一人<rt>ひとり</rt></ruby>ずつ<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>文<rt>ぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>ませました。",
+      "en": "In class, the teacher had the students read sentences from the textbook one by one.",
+      "zh_TW": "在課堂上，老師讓學生們輪流朗讀課文。",
+      "zh_CN": "在课堂上，老师让学生们挨个朗读课文。",
+      "ko": "수업 시간에 선생님은 학생들에게 한 명씩 교과서 문장을 읽게 했습니다.",
+      "zh_HK": "上堂嗰陣，老師叫學生逐個讀課文。",
+      "fr": "En cours, le professeur a fait lire les phrases du manuel aux élèves un par un."
+    },
+    "related": "「読む」（五段）の使役形"
+  },
+  {
+    "id": "card_1671",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "手伝わせる",
+    "reading": "てつだわせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) help",
+      "zh_TW": "讓……幫忙",
+      "zh_CN": "让……帮忙",
+      "ko": "돕게 하다",
+      "zh_HK": "叫……幫手",
+      "fr": "faire aider"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をいつも<ruby>私<rt>わたし</rt></ruby>たち<ruby>姉<rt>あね</rt></ruby><ruby>弟<rt>おとうと</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>わせます。",
+      "en": "My mother always makes my brother and me help prepare dinner.",
+      "zh_TW": "媽媽總是讓我們姐弟倆幫忙準備晚飯。",
+      "zh_CN": "妈妈总是让我们姐弟俩帮忙准备晚饭。",
+      "ko": "어머니는 저녁 식사 준비를 항상 우리 남매에게 돕게 하십니다.",
+      "zh_HK": "阿媽成日都叫我哋兩姊弟幫手準備晚餐。",
+      "fr": "Ma mère nous fait toujours aider, mon frère et moi, à préparer le dîner."
+    },
+    "related": "「手伝う」（五段）の使役形"
+  },
+  {
+    "id": "card_1672",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "片付けさせる",
+    "reading": "かたづけさせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make/let (someone) tidy up",
+      "zh_TW": "讓……收拾",
+      "zh_CN": "让……收拾",
+      "ko": "치우게 하다 / 정리하게 하다",
+      "zh_HK": "叫……執拾",
+      "fr": "faire ranger"
+    },
+    "example": {
+      "ja": "<ruby>散<rt>ち</rt></ruby>らかったおもちゃを<ruby>子<rt>こ</rt></ruby>どもに<ruby>自分<rt>じぶん</rt></ruby>で<ruby>片付<rt>かたづ</rt></ruby>けさせました。",
+      "en": "I made my child tidy up the scattered toys by themselves.",
+      "zh_TW": "我讓孩子自己把亂七八糟的玩具收拾好。",
+      "zh_CN": "我让孩子自己把乱七八糟的玩具收拾好。",
+      "ko": "어질러진 장난감을 아이가 스스로 치우게 했습니다.",
+      "zh_HK": "我叫小朋友自己執返好晒啲亂七八糟嘅玩具。",
+      "fr": "J'ai fait ranger ses jouets éparpillés à mon enfant lui-même."
+    },
+    "related": "「片付ける」（一段）の使役形"
+  },
+  {
+    "id": "card_1673",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "考えさせる",
+    "reading": "かんがえさせる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to make (someone) think",
+      "zh_TW": "讓……思考 / 發人深省",
+      "zh_CN": "让……思考 / 发人深省",
+      "ko": "생각하게 하다",
+      "zh_HK": "令人反思 / 叫……諗",
+      "fr": "faire réfléchir"
+    },
+    "example": {
+      "ja": "すぐに<ruby>答<rt>こた</rt></ruby>えを<ruby>教<rt>おし</rt></ruby>えないで、まず<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えさせることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "en": "It is important to make them think for themselves first rather than telling them the answer right away.",
+      "zh_TW": "不要馬上告訴答案，先讓自己思考是很重要的。",
+      "zh_CN": "不要马上告诉答案，先让自己思考是很重要的。",
+      "ko": "바로 답을 알려주지 말고 우선 스스로 생각하게 하는 것이 중요합니다.",
+      "zh_HK": "唔好即刻講答案，最緊要係俾佢自己諗下先。",
+      "fr": "Il est important de les faire réfléchir par eux-mêmes d'abord sans donner la réponse tout de suite."
+    },
+    "related": "「考える」（一段）の使役形"
+  },
+  {
+    "id": "card_1674",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "休ませる",
+    "reading": "やすませる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to let (someone) rest / to give a day off",
+      "zh_TW": "讓……休息",
+      "zh_CN": "让……休息",
+      "ko": "쉬게 하다",
+      "zh_HK": "俾……休息",
+      "fr": "laisser se reposer"
+    },
+    "example": {
+      "ja": "<ruby>課長<rt>かちょう</rt></ruby>は<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>そうな<ruby>鈴木<rt>すずき</rt></ruby>さんを<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>らせて<ruby>休<rt>やす</rt></ruby>ませました。",
+      "en": "The section manager let Ms. Suzuki, who looked unwell, go home early and rest.",
+      "zh_TW": "課長讓看起來身體不舒服的鈴木小姐早點回家休息了。",
+      "zh_CN": "科长让看起来身体不舒服的铃木小姐早点回家休息了。",
+      "ko": "과장님은 몸 상태가 안 좋아 보이는 스즈키 씨를 일찍 퇴근시켜 쉬게 했습니다.",
+      "zh_HK": "課長見鈴木小姐好似唔係幾舒服，就俾佢早啲返屋企休息。",
+      "fr": "Le chef de section a laissé Mme Suzuki, qui semblait souffrante, rentrer tôt pour se reposer."
+    },
+    "related": "「休む」（五段）の使役形"
+  },
+  {
+    "id": "card_1675",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "待たされる",
+    "reading": "またされる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be kept waiting",
+      "zh_TW": "被迫等待 / 被人久等",
+      "zh_CN": "被迫等待 / 让人久等",
+      "ko": "기다리게 되다 (기다림을 당하다)",
+      "zh_HK": "被迫等 / 呆等",
+      "fr": "qu'on nous fasse attendre"
+    },
+    "example": {
+      "ja": "<ruby>病院<rt>びょういん</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいて、ロビーで1<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>待<rt>ま</rt></ruby>たされました。",
+      "en": "The hospital was crowded, and I was kept waiting in the lobby for over an hour.",
+      "zh_TW": "醫院人很多，我在大廳裡足足等了一個多小時。",
+      "zh_CN": "医院人很多，我在大厅里足足等了一个多小时。",
+      "ko": "병원이 붐벼서 로비에서 1시간 이상 기다려야 했습니다.",
+      "zh_HK": "醫院好多人，我喺大堂被迫等咗超過一個鐘。",
+      "fr": "L'hôpital était bondé et on m'a fait attendre plus d'une heure dans le hall."
+    },
+    "related": "「待つ」（五段）の使役受身形"
+  },
+  {
+    "id": "card_1676",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "飲まされる",
+    "reading": "のまされる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be forced to drink",
+      "zh_TW": "被灌（酒等） / 被迫喝",
+      "zh_CN": "被灌（酒等） / 被迫喝",
+      "ko": "억지로 마시게 되다",
+      "zh_HK": "被逼飲",
+      "fr": "être forcé de boire"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>歓迎<rt>かんげい</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>先輩<rt>せんぱい</rt></ruby>にたくさんお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まされました。",
+      "en": "At yesterday's welcome party, I was made to drink a lot of alcohol by my seniors.",
+      "zh_TW": "在昨天的歡迎會上，我被前輩灌了好多酒。",
+      "zh_CN": "在昨天的欢迎会上，我被前辈灌了好多酒。",
+      "ko": "어제 환영회에서 선배에게 술을 많이 마시게 되었습니다(억지로 마셨습니다).",
+      "zh_HK": "喺尋日嘅迎新會度，我俾前輩逼飲咗好多酒。",
+      "fr": "À la fête de bienvenue d'hier, mes aînés m'ont forcé à boire beaucoup d'alcool."
+    },
+    "related": "「飲む」（五段）の使役受身形"
+  },
+  {
+    "id": "card_1677",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "買わされる",
+    "reading": "かわされる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be made to buy",
+      "zh_TW": "被迫買",
+      "zh_CN": "被迫买",
+      "ko": "억지로 사게 되다",
+      "zh_HK": "被逼買",
+      "fr": "être forcé d'acheter"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>どもにおもちゃ<ruby>屋<rt>や</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>かれて、<ruby>高<rt>たか</rt></ruby>いおもちゃを<ruby>買<rt>か</rt></ruby>わされました。",
+      "en": "I was taken to a toy store by my child and made to buy an expensive toy.",
+      "zh_TW": "被孩子拉去玩具店，被迫買了個很貴的玩具。",
+      "zh_CN": "被孩子拉去玩具店，害我买了个很贵的玩具。",
+      "ko": "아이에게 이끌려 장난감 가게에 가서 비싼 장난감을 사게 되었습니다.",
+      "zh_HK": "俾阿仔拉咗去玩具舖，焗住買咗件好貴嘅玩具。",
+      "fr": "Mon enfant m'a entraîné dans un magasin de jouets et m'a obligé à acheter un jouet cher."
+    },
+    "related": "「買う」（五段・ア行）の使役受身形"
+  },
+  {
+    "id": "card_1678",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "書かされる",
+    "reading": "かかされる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be made to write",
+      "zh_TW": "被迫寫",
+      "zh_CN": "被迫写",
+      "ko": "억지로 쓰게 되다",
+      "zh_HK": "被逼寫",
+      "fr": "être obligé d'écrire"
+    },
+    "example": {
+      "ja": "<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>反省<rt>はんせい</rt></ruby><ruby>文<rt>ぶん</rt></ruby>を3<ruby>枚<rt>まい</rt></ruby>も<ruby>書<rt>か</rt></ruby>かされました。",
+      "en": "I forgot my homework and was made by the teacher to write three pages of a reflection essay.",
+      "zh_TW": "因為忘記帶作業，被老師罰寫了三頁悔過書。",
+      "zh_CN": "因为忘带作业，被老师罚写了三页检讨书。",
+      "ko": "숙제를 잊어버려서 선생님께 반성문을 3장이나 쓰게 되었습니다.",
+      "zh_HK": "因為唔記得交功課，俾老師罰寫咗三張悔過書。",
+      "fr": "Comme j'avais oublié mes devoirs, le professeur m'a obligé à écrire trois pages de réflexion."
+    },
+    "related": "「書く」（五段）の使役受身形"
+  },
+  {
+    "id": "card_1679",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "言わされる",
+    "reading": "いわされる",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be made to say",
+      "zh_TW": "被迫說",
+      "zh_CN": "被迫说",
+      "ko": "억지로 말하게 되다",
+      "zh_HK": "被逼講",
+      "fr": "être forcé de dire"
+    },
+    "example": {
+      "ja": "みんなの<ruby>前<rt>まえ</rt></ruby>でスピーチをさせられて、<ruby>恥<rt>は</rt></ruby>ずかしいことを<ruby>言<rt>い</rt></ruby>わされました。",
+      "en": "I was made to give a speech in front of everyone and forced to say embarrassing things.",
+      "zh_TW": "被迫在大家面前致詞，說了很害羞的話。",
+      "zh_CN": "被迫在大家面前发表讲话，说了很害羞的话。",
+      "ko": "모두의 앞에서 스피치를 하게 되어 부끄러운 말을 해야 했습니다.",
+      "zh_HK": "被迫喺大家面前演講，仲被逼講咗啲好尷尬嘅嘢。",
+      "fr": "On m'a fait faire un discours devant tout le monde et on m'a obligé à dire des choses gênantes."
+    },
+    "related": "「言う」（五段・ア行）の使役受身形"
+  },
+  {
+    "id": "card_1680",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "早退する",
+    "reading": "そうたいする",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to leave (work/school) early",
+      "zh_TW": "早退",
+      "zh_CN": "早退",
+      "ko": "조퇴하다",
+      "zh_HK": "早退",
+      "fr": "partir plus tôt (du travail / de l'école)"
+    },
+    "example": {
+      "ja": "<ruby>歯<rt>は</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>早退<rt>そうたい</rt></ruby>させてください。",
+      "en": "Because I have a toothache, please let me leave the office early today.",
+      "zh_TW": "因為牙痛，今天請讓我早退吧。",
+      "zh_CN": "因为牙疼，今天请让我早退吧。",
+      "ko": "이가 아파서 오늘은 회사에서 조퇴하게 해 주세요.",
+      "zh_HK": "因為牙痛，今日請批准我早退啦。",
+      "fr": "Comme j'ai mal aux dents, permettez-moi de quitter le bureau plus tôt aujourd'hui."
+    },
+    "related": "関連語: 遅刻する・欠席する"
+  },
+  {
+    "id": "card_1681",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "出席する",
+    "reading": "しゅっせきする",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to attend / to be present",
+      "zh_TW": "出席 / 參加",
+      "zh_CN": "出席 / 参加",
+      "ko": "출석하다 / 참석하다",
+      "zh_HK": "出席",
+      "fr": "assister à / être présent"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>します。",
+      "en": "Next Saturday, I will attend my friend's wedding ceremony.",
+      "zh_TW": "下週六我要去參加朋友的婚禮。",
+      "zh_CN": "下周六我要去参加朋友的婚礼。",
+      "ko": "다음 주 토요일에 친구 결혼식에 참석합니다.",
+      "zh_HK": "下星期六我會出席朋友嘅婚禮。",
+      "fr": "Samedi prochain, j'assisterai au mariage d'un ami."
+    },
+    "related": "対義語: 欠席する"
+  },
+  {
+    "id": "card_1682",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "欠席する",
+    "reading": "けっせきする",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "to be absent",
+      "zh_TW": "缺席 / 請假",
+      "zh_CN": "缺席 / 请假",
+      "ko": "결석하다 / 불참하다",
+      "zh_HK": "缺席",
+      "fr": "être absent"
+    },
+    "example": {
+      "ja": "インフルエンザにかかったため、<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>欠席<rt>けっせき</rt></ruby>させていただきます。",
+      "en": "Because I caught the flu, please allow me to be absent from tomorrow's meeting.",
+      "zh_TW": "因為得了流感，明天的會議我請假缺席。",
+      "zh_CN": "因为得了流感，明天的会议我请假不参加了。",
+      "ko": "독감에 걸렸기 때문에 내일 회의에 불참하겠습니다.",
+      "zh_HK": "因為中咗流感，聽日嘅會議請容許我缺席。",
+      "fr": "Ayant attrapé la grippe, permettez-moi d'être absent à la réunion de demain."
+    },
+    "related": "対義語: 出席する"
+  },
+  {
+    "id": "card_1683",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "強制",
+    "reading": "きょうせい",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "compulsion / forcing",
+      "zh_TW": "強制 / 強迫",
+      "zh_CN": "强制 / 强迫",
+      "ko": "강제",
+      "zh_HK": "強制 / 強迫",
+      "fr": "obligation / contrainte"
+    },
+    "example": {
+      "ja": "このイベントへの<ruby>参加<rt>さんか</rt></ruby>は<ruby>強制<rt>きょうせい</rt></ruby>ではありませんので、<ruby>自由<rt>じゆう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>してください。",
+      "en": "Participation in this event is not mandatory, so please feel free to join.",
+      "zh_TW": "參加這次活動不是強制的，請大家自由參加。",
+      "zh_CN": "参加这次活动不是强制的，请大家自由参加。",
+      "ko": "이 이벤트 참가가 강제는 아니므로 자유롭게 참가해 주세요.",
+      "zh_HK": "呢個活動唔係強制參加嘅，大家可以自由參與。",
+      "fr": "La participation à cet événement n'est pas obligatoire, chacun est libre d'y assister."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1684",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "許可",
+    "reading": "きょか",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "permission / approval",
+      "zh_TW": "許可 / 批准",
+      "zh_CN": "许可 / 批准",
+      "ko": "허가",
+      "zh_HK": "許可 / 批准",
+      "fr": "permission / autorisation"
+    },
+    "example": {
+      "ja": "<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、<ruby>許可<rt>きょか</rt></ruby>なく<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってはいけません。",
+      "en": "Inside the art museum, you must not take photos without permission.",
+      "zh_TW": "在美術館內，未經許可不得拍照。",
+      "zh_CN": "在美术馆内，未经许可不得拍照。",
+      "ko": "미술관 안에서는 허가 없이 사진을 찍어서는 안 됩니다.",
+      "zh_HK": "喺美術館入面，未經許可唔可以影相。",
+      "fr": "Dans le musée, il est interdit de prendre des photos sans autorisation."
+    },
+    "related": "表現: 許可をもらう"
+  },
+  {
+    "id": "card_1685",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜させてください",
+    "reading": "〜させてください",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "please let me (do) ~",
+      "zh_TW": "請讓我……",
+      "zh_CN": "请让我……",
+      "ko": "~하게 해 주세요",
+      "zh_HK": "請俾我……",
+      "fr": "laissez-moi (faire) ~, s'il vous plaît"
+    },
+    "example": {
+      "ja": "この<ruby>仕事<rt>しごと</rt></ruby>はぜひ<ruby>私<rt>わたし</rt></ruby>に<ruby>担当<rt>たんとう</rt></ruby>させてください。",
+      "en": "Please by all means let me be in charge of this job.",
+      "zh_TW": "這項工作請一定讓我來負責。",
+      "zh_CN": "这项工作请一定让我来负责。",
+      "ko": "이 일은 꼭 제가 담당하게 해 주세요.",
+      "zh_HK": "呢份工作請一定要交畀我負責啦。",
+      "fr": "Laissez-moi absolument m'occuper de ce travail, je vous prie."
+    },
+    "related": "許可を求める丁寧な表現"
+  },
+  {
+    "id": "card_1686",
+    "section_num": 73,
+    "section_title": "#73 Stage 12 使役形・使役受身形・許可求めの新出語",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜させていただけませんか",
+    "reading": "〜させていただけませんか",
+    "category": "Stage 12 使役形・使役受身形・許可求めの新出語",
+    "meaning": {
+      "en": "would you please allow me to (do) ~?",
+      "zh_TW": "能否讓我……呢？",
+      "zh_CN": "能否让我……呢？",
+      "ko": "~하게 해 주시지 않겠습니까?",
+      "zh_HK": "可唔可以容許我……呀？",
+      "fr": "pourriez-vous me permettre de (faire) ~ ?"
+    },
+    "example": {
+      "ja": "<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>らせていただけませんか。",
+      "en": "Since I am feeling unwell, would you please allow me to go home a little early today?",
+      "zh_TW": "因為身體不舒服，今天能讓我早點回去嗎？",
+      "zh_CN": "因为身体不舒服，今天能让我早点回去吗？",
+      "ko": "몸이 안 좋아서 오늘은 조금 일찍 돌아가게 해 주시지 않겠습니까?",
+      "zh_HK": "因為身體唔舒服，今日可唔可以俾我早少少返屋企呀？",
+      "fr": "Comme je ne me sens pas bien, pourriez-vous me permettre de rentrer un peu plus tôt aujourd'hui ?"
+    },
+    "related": "非常に丁寧な許可求め表現"
+  },
+  {
+    "id": "card_1687",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "いらっしゃる・いらっしゃいます",
+    "reading": "いらっしゃる・いらっしゃいます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to go / to come / to be (honorific)",
+      "zh_TW": "去 / 來 / 在（尊敬語）",
+      "zh_CN": "去 / 来 / 在（尊他语）",
+      "ko": "가시다 / 오시다 / 계시다",
+      "zh_HK": "去 / 嚟 / 喺度（尊敬語）",
+      "fr": "aller / venir / être (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>社長<rt>しゃちょう</rt></ruby><ruby>室<rt>しつ</rt></ruby>にいらっしゃいます。",
+      "en": "The company president is in the president's office right now.",
+      "zh_TW": "社長現在在社長室。",
+      "zh_CN": "社长现在在社长室。",
+      "ko": "사장님은 지금 사장실에 계십니다.",
+      "zh_HK": "社長而家喺社長室入面。",
+      "fr": "Le président se trouve actuellement dans son bureau."
+    },
+    "related": "「行く・来る・いる」の尊敬語"
+  },
+  {
+    "id": "card_1688",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "おっしゃる・おっしゃいます",
+    "reading": "おっしゃる・おっしゃいます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to say (honorific)",
+      "zh_TW": "說 / 講（尊敬語）",
+      "zh_CN": "说 / 讲（尊他语）",
+      "ko": "말씀하시다",
+      "zh_HK": "講 / 話（尊敬語）",
+      "fr": "dire (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>先生<rt>せんせい</rt></ruby>がおっしゃったことをノートにメモしました。",
+      "en": "I took notes in my notebook of what the teacher said.",
+      "zh_TW": "我把老師說的話記在了筆記本上。",
+      "zh_CN": "我把老师说的话记在了笔记本上。",
+      "ko": "선생님께서 말씀하신 것을 공책에 메모했습니다.",
+      "zh_HK": "我將老師講過嘅嘢記低咗喺簿入面。",
+      "fr": "J'ai noté dans mon cahier ce que le professeur a dit."
+    },
+    "related": "「言う」の尊敬語"
+  },
+  {
+    "id": "card_1689",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ご覧になる・ご覧になります",
+    "reading": "ごらんになる・ごらんになります",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to see / to look / to watch (honorific)",
+      "zh_TW": "看 / 閱覽（尊敬語）",
+      "zh_CN": "看 / 阅览（尊他语）",
+      "ko": "보시다",
+      "zh_HK": "睇 / 過目（尊敬語）",
+      "fr": "voir / regarder (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>部長<rt>ぶちょう</rt></ruby>、こちらの<ruby>新<rt>あたら</rt></ruby>しい<ruby>資料<rt>しりょう</rt></ruby>はもうご<ruby>覧<rt>らん</rt></ruby>になりましたか。",
+      "en": "Director, have you already looked at this new document?",
+      "zh_TW": "部長，這份新資料您已經看過了嗎？",
+      "zh_CN": "部长，这份新资料您已经看过了吗？",
+      "ko": "부장님, 이쪽의 새로운 자료는 벌써 보셨습니까?",
+      "zh_HK": "部長，呢份新資料你已經過目未呀？",
+      "fr": "Monsieur le directeur, avez-vous déjà consulté ce nouveau document ?"
+    },
+    "related": "「見る」の尊敬語"
+  },
+  {
+    "id": "card_1690",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "召し上がる・召し上がります",
+    "reading": "めしあがる・めしあがります",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to eat / to drink (honorific)",
+      "zh_TW": "吃 / 喝（尊敬語）",
+      "zh_CN": "吃 / 喝（尊他语）",
+      "ko": "드시다 / 잡수시다",
+      "zh_HK": "食 / 飲 / 用膳（尊敬語）",
+      "fr": "manger / boire (honorifique)"
+    },
+    "example": {
+      "ja": "どうぞ<ruby>温<rt>あたた</rt></ruby>かいうちにたくさん<ruby>召し上<rt>めしあ</rt></ruby>がってください。",
+      "en": "Please go ahead and eat plenty while it is still warm.",
+      "zh_TW": "請趁熱多吃一點。",
+      "zh_CN": "请趁热多吃一点。",
+      "ko": "아무쪼록 따뜻할 때 많이 드세요.",
+      "zh_HK": "請趁熱食多啲啦。",
+      "fr": "Je vous en prie, mangez bien pendant que c'est chaud."
+    },
+    "related": "「食べる・飲む」の尊敬語"
+  },
+  {
+    "id": "card_1691",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "なさる・なさいます",
+    "reading": "なさる・なさいます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to do (honorific)",
+      "zh_TW": "做（尊敬語）",
+      "zh_CN": "做 / 干（尊他语）",
+      "ko": "하시다",
+      "zh_HK": "做（尊敬語）",
+      "fr": "faire (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みはどちらへご<ruby>旅行<rt>りょこう</rt></ruby>なさいますか。",
+      "en": "Where will you be traveling for your summer vacation?",
+      "zh_TW": "暑假您打算去哪裡旅行呢？",
+      "zh_CN": "暑假您打算去哪里旅行呢？",
+      "ko": "여름휴가 때는 어디로 여행을 하십니까?",
+      "zh_HK": "暑假你打算去邊度旅行呀？",
+      "fr": "Où partez-vous en voyage pour les vacances d'été ?"
+    },
+    "related": "「する」の尊敬語"
+  },
+  {
+    "id": "card_1692",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ご存じです",
+    "reading": "ごぞんじです",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to know (honorific)",
+      "zh_TW": "知道（尊敬語）",
+      "zh_CN": "知道（尊他语）",
+      "ko": "아시다 / 알고 계시다",
+      "zh_HK": "知道 / 認識（尊敬語）",
+      "fr": "savoir / connaître (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+      "en": "Do you know Professor Tanaka's new contact information?",
+      "zh_TW": "請問您知道田中老師的新聯絡方式嗎？",
+      "zh_CN": "请问您知道田中老师的新联系方式吗？",
+      "ko": "다나카 선생님의 새로운 연락처를 알고 계십니까?",
+      "zh_HK": "請問你知唔知田中老師嘅新聯絡方法呀？",
+      "fr": "Connaissez-vous les nouvelles coordonnées du professeur Tanaka ?"
+    },
+    "related": "「知っている」の尊敬語"
+  },
+  {
+    "id": "card_1693",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お亡くなりになる",
+    "reading": "おなくなりになる",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to pass away (honorific)",
+      "zh_TW": "去世 / 逝世（尊敬語）",
+      "zh_CN": "去世 / 逝世（尊他语）",
+      "ko": "돌아가시다 / 별세하시다",
+      "zh_HK": "過身 / 離世（尊敬語）",
+      "fr": "décéder (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>作家<rt>さっか</rt></ruby>が<ruby>昨日<rt>きのう</rt></ruby>、90<ruby>歳<rt>さい</rt></ruby>でお<ruby>亡<rt>な</rt></ruby>くなりになりました。",
+      "en": "The famous author passed away yesterday at the age of 90.",
+      "zh_TW": "那位著名作家昨天去世了，享壽90歲。",
+      "zh_CN": "那位著名作家昨天去世了，享年90岁。",
+      "ko": "유명한 작가가 어제 90세로 별세하셨습니다.",
+      "zh_HK": "嗰位出名嘅作家尋日過咗身，享年90歲。",
+      "fr": "Le célèbre écrivain est décédé hier à l'âge de 90 ans."
+    },
+    "related": "「死ぬ・亡くなる」の尊敬語"
+  },
+  {
+    "id": "card_1694",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お帰りになる",
+    "reading": "おかえりになる",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to return / to go home (honorific)",
+      "zh_TW": "回去 / 回家（尊敬語）",
+      "zh_CN": "回去 / 回家（尊他语）",
+      "ko": "돌아가시다 / 퇴근하시다",
+      "zh_HK": "返屋企 / 離開（尊敬語）",
+      "fr": "rentrer (honorifique)"
+    },
+    "example": {
+      "ja": "<ruby>課長<rt>かちょう</rt></ruby>はさっきお<ruby>帰<rt>かえ</rt></ruby>りになりました。",
+      "en": "The section manager went home just a little while ago.",
+      "zh_TW": "課長剛才已經回去了。",
+      "zh_CN": "科长刚才已经回去了。",
+      "ko": "과장님은 아까 퇴근하셨습니다.",
+      "zh_HK": "課長頭先已經返咗屋企喇。",
+      "fr": "Le chef de section est rentré il y a un instant."
+    },
+    "related": "「お＋Vます＋になる」尊敬語公式"
+  },
+  {
+    "id": "card_1695",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お読みになる",
+    "reading": "およみになる",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to read (honorific)",
+      "zh_TW": "讀 / 閱讀（尊敬語）",
+      "zh_CN": "读 / 阅读（尊他语）",
+      "ko": "읽으시다",
+      "zh_HK": "讀 / 睇（尊敬語）",
+      "fr": "lire (honorifique)"
+    },
+    "example": {
+      "ja": "この<ruby>本<rt>ほん</rt></ruby>はもうお<ruby>読<rt>よ</rt></ruby>みになりましたか。",
+      "en": "Have you already read this book?",
+      "zh_TW": "這本書您已經讀過了嗎？",
+      "zh_CN": "这本书您已经读过了吗？",
+      "ko": "이 책은 벌써 읽으셨습니까?",
+      "zh_HK": "呢本書你已經睇過未呀？",
+      "fr": "Avez-vous déjà lu ce livre ?"
+    },
+    "related": "「お＋Vます＋になる」尊敬語公式"
+  },
+  {
+    "id": "card_1696",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "参る・参ります",
+    "reading": "まいる・まいります",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to go / to come (humble)",
+      "zh_TW": "去 / 來（謙讓語）",
+      "zh_CN": "去 / 来（谦让语）",
+      "ko": "가다 / 오다 (겸양어)",
+      "zh_HK": "去 / 嚟（謙讓語）",
+      "fr": "aller / venir (humble)"
+    },
+    "example": {
+      "ja": "ただいまそちらへ<ruby>参<rt>まい</rt></ruby>りますので、<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。",
+      "en": "I am coming over there right now, so please wait a moment.",
+      "zh_TW": "我現在馬上過去，請稍候。",
+      "zh_CN": "我现在马上过去，请稍等。",
+      "ko": "지금 거기로 가고 있으니 잠시만 기다려 주십시오.",
+      "zh_HK": "我而家即刻過嚟，請等等。",
+      "fr": "J'arrive tout de suite, veuillez patienter un instant."
+    },
+    "related": "「行く・来る」の謙譲語・丁重語"
+  },
+  {
+    "id": "card_1697",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "伺う・伺います",
+    "reading": "うかがう・うかがいます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to visit / to ask / to hear (humble)",
+      "zh_TW": "拜訪 / 請教 / 聽說（謙讓語）",
+      "zh_CN": "拜访 / 请教 / 听说（谦让语）",
+      "ko": "찾아뵙다 / 여쭙다 / 듣다",
+      "zh_HK": "拜訪 / 請教 / 聽聞（謙讓語）",
+      "fr": "rendre visite / demander / entendre (humble)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>御社<rt>おんしゃ</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか。",
+      "en": "Would it be all right if I visited your company tomorrow afternoon?",
+      "zh_TW": "明天下午我可以去貴公司拜訪嗎？",
+      "zh_CN": "明天下午我可以去贵公司拜访吗？",
+      "ko": "내일 오후에 귀사에 찾아뵈어도 괜찮겠습니까?",
+      "zh_HK": "聽日下晝我可唔可以上貴公司拜訪呀？",
+      "fr": "Puis-je me rendre dans votre entreprise demain après-midi ?"
+    },
+    "related": "「行く・聞く」の謙譲語"
+  },
+  {
+    "id": "card_1698",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "申す・申します",
+    "reading": "もうす・もうします",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to be called / to say (humble/polite)",
+      "zh_TW": "叫…… / 說（謙讓・鄭重語）",
+      "zh_CN": "叫…… / 说（自谦・郑重语）",
+      "ko": "말씀드리다 / (이름이) ~라고 합니다",
+      "zh_HK": "叫做…… / 講（謙稱）",
+      "fr": "s'appeler / dire (humble)"
+    },
+    "example": {
+      "ja": "はじめまして、さくら<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。",
+      "en": "Nice to meet you; my name is Tanaka from Sakura Trading.",
+      "zh_TW": "初次見面，敝姓田中，來自櫻花商事。",
+      "zh_CN": "初次见面，我叫田中，来自樱花商事。",
+      "ko": "처음 뵙겠습니다, 사쿠라 상사의 다나카라고 합니다.",
+      "zh_HK": "初次見面，我姓田中，係櫻花商事嘅職員。",
+      "fr": "Enchanté, je m'appelle Tanaka, de la société Sakura."
+    },
+    "related": "「言う」の謙譲語・丁重語"
+  },
+  {
+    "id": "card_1699",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "申し上げる・申し上げます",
+    "reading": "もうしあげる・もうしあげます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to tell / to state (humble)",
+      "zh_TW": "敬告 / 謹致（謙讓語）",
+      "zh_CN": "敬告 / 谨致（谦让语）",
+      "ko": "말씀드리다",
+      "zh_HK": "敬告 / 衷心表示（謙讓語）",
+      "fr": "dire / exprimer (humble)"
+    },
+    "example": {
+      "ja": "<ruby>皆様<rt>みなさま</rt></ruby>のご<ruby>健康<rt>けんこう</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>よりお<ruby>祈<rt>いの</rt></ruby>り<ruby>申し上<rt>もうしあ</rt></ruby>げます。",
+      "en": "I sincerely pray for everyone's good health.",
+      "zh_TW": "衷心祝願大家身體健康。",
+      "zh_CN": "衷心祝愿大家身体健康。",
+      "ko": "여러분의 건강을 진심으로 기원합니다.",
+      "zh_HK": "衷心祝願各位身體健康。",
+      "fr": "Je vous souhaite du fond du cœur une excellente santé à tous."
+    },
+    "related": "相手に向かう「言う」の謙譲語"
+  },
+  {
+    "id": "card_1700",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お目にかかる",
+    "reading": "おめにかかる",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to meet (humble)",
+      "zh_TW": "拜見 / 見到（謙讓語）",
+      "zh_CN": "拜见 / 见到（谦让语）",
+      "ko": "찾아뵙다 / 만나 뵙다",
+      "zh_HK": "拜見 / 見面（謙讓語）",
+      "fr": "rencontrer (humble)"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>にお<ruby>目<rt>め</rt></ruby>にかかれるのを<ruby>楽<rt>たの</rt></ruby>しみにしております。",
+      "en": "I am looking forward to meeting you in Tokyo next week, Professor.",
+      "zh_TW": "非常期待下週在東京能見到老師您。",
+      "zh_CN": "非常期待下周在东京能见到老师您。",
+      "ko": "다음 주 도쿄에서 선생님을 뵐 수 있기를 고대하고 있습니다.",
+      "zh_HK": "好期待下星期喺東京可以拜見老師你。",
+      "fr": "Je me réjouis de pouvoir vous rencontrer à Tokyo la semaine prochaine, Professeur."
+    },
+    "related": "「会う」の謙譲語"
+  },
+  {
+    "id": "card_1701",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "拝見する・拝見します",
+    "reading": "はいけんする・はいけんします",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to see / to look at (humble)",
+      "zh_TW": "拜讀 / 觀看（謙讓語）",
+      "zh_CN": "拜读 / 观看（谦让语）",
+      "ko": "배견하다 / 삼가 보다",
+      "zh_HK": "拜讀 / 睇（謙讓語）",
+      "fr": "voir / regarder / lire (humble)"
+    },
+    "example": {
+      "ja": "お<ruby>送<rt>おく</rt></ruby>りいただいたメールを<ruby>拝見<rt>はいけん</rt></ruby>いたしました。",
+      "en": "I have humbly read the email you sent me.",
+      "zh_TW": "我已經拜讀了您發來的郵件。",
+      "zh_CN": "我已经拜读了您发来的邮件。",
+      "ko": "보내주신 메일을 잘 보았습니다.",
+      "zh_HK": "我已經睇咗你寄嚟嘅電郵喇。",
+      "fr": "J'ai bien pris connaissance de l'e-mail que vous m'avez envoyé."
+    },
+    "related": "「見る・読む」の謙譲語"
+  },
+  {
+    "id": "card_1702",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "いたす・いたします",
+    "reading": "いたす・いたします",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to do (humble)",
+      "zh_TW": "做（謙讓語）",
+      "zh_CN": "做 / 干（谦让语）",
+      "ko": "하다 (겸양어)",
+      "zh_HK": "做（謙讓語）",
+      "fr": "faire (humble)"
+    },
+    "example": {
+      "ja": "<ruby>詳<rt>くわ</rt></ruby>しい<ruby>日程<rt>にってい</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりましたら、すぐにご<ruby>連絡<rt>れんらく</rt></ruby>いたします。",
+      "en": "Once the detailed schedule is decided, I will contact you immediately.",
+      "zh_TW": "詳細日程定下來後，我會馬上聯繫您。",
+      "zh_CN": "详细日程定下来后，我会马上联系您。",
+      "ko": "자세한 일정이 정해지면 바로 연락드리겠습니다.",
+      "zh_HK": "詳細行程定好之後，我會即刻聯絡你。",
+      "fr": "Dès que le programme détaillé sera fixé, je vous contacterai immédiatement."
+    },
+    "related": "「する」の謙譲語・丁重語"
+  },
+  {
+    "id": "card_1703",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "存じる・存じます",
+    "reading": "ぞんじる・ぞんじます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to know / to think (humble)",
+      "zh_TW": "知道 / 認為（謙讓語）",
+      "zh_CN": "知道 / 认为（谦让语）",
+      "ko": "알다 / 생각하다 (겸양어)",
+      "zh_HK": "知道 / 認為（謙讓語）",
+      "fr": "savoir / penser (humble)"
+    },
+    "example": {
+      "ja": "はい、その<ruby>件<rt>けん</rt></ruby>につきましてはよく<ruby>存<rt>ぞん</rt></ruby>じております。",
+      "en": "Yes, I am well aware of that matter.",
+      "zh_TW": "是的，關於那件事我很清楚。",
+      "zh_CN": "是的，关于那件事我很清楚。",
+      "ko": "네, 그 건에 대해서는 잘 알고 있습니다.",
+      "zh_HK": "係，關於嗰件事我都好清楚。",
+      "fr": "Oui, je suis tout à fait au courant de cette affaire."
+    },
+    "related": "「知る・思う」の謙譲語（否定: 存じません）"
+  },
+  {
+    "id": "card_1704",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "お持ちする",
+    "reading": "おもちする",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to carry / to bring (humble)",
+      "zh_TW": "幫您拿 / 給您拿來",
+      "zh_CN": "帮您拿 / 给您拿来",
+      "ko": "들어 드리다 / 가져다드리다",
+      "zh_HK": "幫你攞 / 攞畀你",
+      "fr": "porter / apporter (humble)"
+    },
+    "example": {
+      "ja": "お<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>そうですので、<ruby>私<rt>わたし</rt></ruby>がお<ruby>持<rt>も</rt></ruby>ちします。",
+      "en": "Your luggage looks heavy, so I will carry it for you.",
+      "zh_TW": "您的行李看起來很重，我來幫您拿吧。",
+      "zh_CN": "您的行李看起来很重，我来帮您拿吧。",
+      "ko": "짐이 무거워 보이니 제가 들어 드리겠습니다.",
+      "zh_HK": "你啲行李睇落好重，等我幫你攞啦。",
+      "fr": "Vos bagages ont l'air lourds, je vais vous les porter."
+    },
+    "related": "「お＋Vます＋する」謙譲語公式"
+  },
+  {
+    "id": "card_1705",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "ご案内する",
+    "reading": "ごあんないする",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to guide / to show around (humble)",
+      "zh_TW": "為您導覽 / 帶路（謙讓語）",
+      "zh_CN": "为您向导 / 带路（谦让语）",
+      "ko": "안내해 드리다",
+      "zh_HK": "帶路 / 為你介紹（謙讓語）",
+      "fr": "guider / accompagner (humble)"
+    },
+    "example": {
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>まで<ruby>私<rt>わたし</rt></ruby>がご<ruby>案内<rt>あんない</rt></ruby>いたします。どうぞこちらへ。",
+      "en": "I will guide you to the conference room. Right this way, please.",
+      "zh_TW": "我帶您去會議室吧，請往這邊走。",
+      "zh_CN": "我带您去会议室吧，请往这边走。",
+      "ko": "회의실까지 제가 안내해 드리겠습니다. 이쪽으로 오십시오.",
+      "zh_HK": "等我帶你去會議室啦，請行呢邊。",
+      "fr": "Je vais vous accompagner jusqu'à la salle de réunion. Par ici, je vous prie."
+    },
+    "related": "「ご＋漢語＋する」謙譲語公式"
+  },
+  {
+    "id": "card_1706",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "承知する・承知いたします",
+    "reading": "しょうちする・しょうちいたします",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to understand / to consent (humble)",
+      "zh_TW": "明白了 / 知道了（敬語）",
+      "zh_CN": "明白了 / 知道了（敬语）",
+      "ko": "알겠습니다 (정중어)",
+      "zh_HK": "明白 / 收到（敬語）",
+      "fr": "comprendre / accepter (humble)"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の10<ruby>時<rt>じ</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>ですね。<ruby>承知<rt>しょうち</rt></ruby>いたしました。",
+      "en": "Changing it to 10 o'clock tomorrow, right? Understood.",
+      "zh_TW": "改到明天十點對吧，我明白了。",
+      "zh_CN": "改到明天十点对吧，我明白了。",
+      "ko": "내일 10시로 변경이시군요. 알겠습니다.",
+      "zh_HK": "改去聽日十點係咪？明白晒。",
+      "fr": "Changement pour demain à 10 heures, c'est bien noté."
+    },
+    "related": "「分かる」の謙譲語"
+  },
+  {
+    "id": "card_1707",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "かしこまりました",
+    "reading": "かしこまりました",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "certainly / right away (very polite)",
+      "zh_TW": "好的，馬上辦 / 遵命",
+      "zh_CN": "遵命 / 好的，明白了",
+      "ko": "알겠습니다 (최상급 정중어)",
+      "zh_HK": "知道，即刻辦 / 明白晒",
+      "fr": "certainement / bien compris (très poli)"
+    },
+    "example": {
+      "ja": "ホットコーヒーを<ruby>二<rt>ふた</rt></ruby>つですね。かしこまりました。",
+      "en": "Two hot coffees, right? Certainly.",
+      "zh_TW": "兩杯熱咖啡對吧，好的，馬上為您準備。",
+      "zh_CN": "两杯热咖啡对吧，好的，马上为您准备。",
+      "ko": "따뜻한 커피 두 잔이시군요. 알겠습니다.",
+      "zh_HK": "兩杯熱咖啡係咪？知道，即刻同你準備。",
+      "fr": "Deux cafés chauds, c'est bien compris."
+    },
+    "related": "接客・ビジネスでの最上級の了承表現"
+  },
+  {
+    "id": "card_1708",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "失礼いたします",
+    "reading": "しつれいいたします",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "excuse me / goodbye (humble)",
+      "zh_TW": "告辭了 / 失禮了",
+      "zh_CN": "告辞了 / 失礼了",
+      "ko": "실례하겠습니다",
+      "zh_HK": "失禮晒 / 先走一步",
+      "fr": "excusez-moi / je prends congé"
+    },
+    "example": {
+      "ja": "それでは、お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>いたします。",
+      "en": "Well then, please excuse me for leaving before you.",
+      "zh_TW": "那麼，我先告辭了。",
+      "zh_CN": "那么，我先告辞了。",
+      "ko": "그럼 먼저 실례하겠습니다(퇴근하겠습니다).",
+      "zh_HK": "咁我走先喇，失禮晒。",
+      "fr": "Sur ce, je vous prie de m'excuser, je pars en premier."
+    },
+    "related": "入退室や退勤時の挨拶"
+  },
+  {
+    "id": "card_1709",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "遠慮する",
+    "reading": "えんりょする",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to refrain / to hold back",
+      "zh_TW": "客氣 / 婉拒 / 克制",
+      "zh_CN": "客气 / 婉拒 / 克制",
+      "ko": "사양하다 / 삼가다",
+      "zh_HK": "客氣 / 唔好意思",
+      "fr": "se retenir / faire des cérémonies"
+    },
+    "example": {
+      "ja": "どうぞ<ruby>遠慮<rt>えんりょ</rt></ruby>しないで、<ruby>好<rt>す</rt></ruby>きなだけ<ruby>食<rt>た</rt></ruby>べてくださいね。",
+      "en": "Please don't hold back and eat as much as you like.",
+      "zh_TW": "請別客氣，儘管吃吧。",
+      "zh_CN": "请别客气，尽管吃吧。",
+      "ko": "아무쪼록 사양하지 말고 좋아하는 만큼 드세요.",
+      "zh_HK": "唔使客氣，隨便食多啲啦。",
+      "fr": "Ne faites pas de manières, mangez autant que vous voulez."
+    },
+    "related": "表現: ご遠慮ください（禁止の丁寧表現）"
+  },
+  {
+    "id": "card_1710",
+    "section_num": 74,
+    "section_title": "#74 Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "folder_id": "folder_6",
+    "folder_name": "初級 59-74（Stage 7-12）",
+    "word": "〜でございます",
+    "reading": "〜でございます",
+    "category": "Stage 12 尊敬語・謙譲語・丁重語マスター",
+    "meaning": {
+      "en": "to be (very polite / formal)",
+      "zh_TW": "是……（鄭重語）",
+      "zh_CN": "是……（郑重语）",
+      "ko": "~입니다 (정중어)",
+      "zh_HK": "係……（鄭重語）",
+      "fr": "être (très poli / formel)"
+    },
+    "example": {
+      "ja": "お<ruby>手洗<rt>てあら</rt></ruby>いはあちらのエレベーターの<ruby>隣<rt>となり</rt></ruby>でございます。",
+      "en": "The restroom is next to the elevator over there.",
+      "zh_TW": "洗手間在那邊電梯的旁邊。",
+      "zh_CN": "洗手间在那边电梯的旁边。",
+      "ko": "화장실은 저쪽 엘리베이터 옆입니다.",
+      "zh_HK": "洗手間喺嗰邊𨋢嘅隔離。",
+      "fr": "Les toilettes se trouvent à côté de l'ascenseur là-bas."
+    },
+    "related": "「です」の丁重語"
+  },
+  {
+    "id": "card_1711",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "上がる・上がります",
+    "reading": "あがる・あがります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to rise / to go up / to enter (a house)",
+      "zh_TW": "上升 / 漲（價） / 進屋",
+      "zh_CN": "上升 / 涨（价） / 进屋",
+      "ko": "오르다 / 올라가다",
+      "zh_HK": "上升 / 加（價） / 入屋",
+      "fr": "monter / augmenter / entrer"
+    },
+    "example": {
+      "ja": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>や<ruby>果物<rt>くだもの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がっています。",
+      "en": "Recently, the prices of vegetables and fruits have been rising.",
+      "zh_TW": "最近蔬菜和水果的價格在上漲。",
+      "zh_CN": "最近蔬菜和水果的价格在上涨。",
+      "ko": "최근 채소나 과일 가격이 오르고 있습니다.",
+      "zh_HK": "最近菜同生果嘅價錢升緊。",
+      "fr": "Récemment, le prix des légumes et des fruits augmente."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 上げる"
+  },
+  {
+    "id": "card_1712",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "下がる・下がります",
+    "reading": "さがる・さがります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to fall / to drop / to step back",
+      "zh_TW": "下降 / 退後",
+      "zh_CN": "下降 / 退后",
+      "ko": "내려가다 / 떨어지다 / 물러서다",
+      "zh_HK": "下降 / 跌 / 退後",
+      "fr": "baisser / descendre / reculer"
+    },
+    "example": {
+      "ja": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだので、やっと<ruby>熱<rt>ねつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がりました。",
+      "en": "Since I took medicine, my fever finally went down.",
+      "zh_TW": "因為吃了藥，燒終於退了。",
+      "zh_CN": "因为吃了药，烧终于退了。",
+      "ko": "약을 먹었더니 겨우 열이 내렸습니다.",
+      "zh_HK": "因為食咗藥，終於退咗燒喇。",
+      "fr": "Comme j'ai pris un médicament, ma fièvre a enfin baissé."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 下げる"
+  },
+  {
+    "id": "card_1713",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "下げる・下げます",
+    "reading": "さげる・さげます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to lower / to hang / to clear (plates)",
+      "zh_TW": "降低 / 調低 / 掛",
+      "zh_CN": "降低 / 调低 / 挂",
+      "ko": "내리다 / 낮추다",
+      "zh_HK": "調低 / 放低",
+      "fr": "baisser / abaisser"
+    },
+    "example": {
+      "ja": "テレビの<ruby>音<rt>おと</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>大<rt>おお</rt></ruby>きいので、<ruby>音量<rt>おんりょう</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてください。",
+      "en": "The TV sound is a bit loud, so please lower the volume.",
+      "zh_TW": "電視聲音有點大，請把音量調小一點。",
+      "zh_CN": "电视声音有点大，请把音量调小一点。",
+      "ko": "텔레비전 소리가 조금 크니까 음량을 낮춰 주세요.",
+      "zh_HK": "電視聲有啲大，唔該較細聲少少。",
+      "fr": "Le son de la télévision est un peu fort, veuillez baisser le volume."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 下がる"
+  },
+  {
+    "id": "card_1714",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "集まる・集まります",
+    "reading": "あつまる・あつまります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to gather / to assemble",
+      "zh_TW": "聚集 / 集合",
+      "zh_CN": "聚集 / 集合",
+      "ko": "모이다",
+      "zh_HK": "集合 / 聚集",
+      "fr": "se rassembler / se réunir"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>9<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まってください。",
+      "en": "Please gather in front of the station ticket gate at 9 a.m. tomorrow.",
+      "zh_TW": "請明天早上九點在車站剪票口前集合。",
+      "zh_CN": "请明天早上九点在车站检票口前集合。",
+      "ko": "내일 아침 9시에 역 개찰구 앞에 모여 주세요.",
+      "zh_HK": "聽日朝早九點請喺車站入閘機前面集合。",
+      "fr": "Veuillez vous rassembler devant les portillons de la gare demain matin à 9 heures."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 集める"
+  },
+  {
+    "id": "card_1715",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "動く・動きます",
+    "reading": "うごく・うごきます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to move / to operate",
+      "zh_TW": "動 / 移動 / 運轉",
+      "zh_CN": "动 / 移动 / 运转",
+      "ko": "움직이다 / 작동하다",
+      "zh_HK": "郁 / 移動 / 運作",
+      "fr": "bouger / fonctionner"
+    },
+    "example": {
+      "ja": "<ruby>電池<rt>でんち</rt></ruby>を<ruby>入れ替<rt>いれか</rt></ruby>えたら、<ruby>時計<rt>とけい</rt></ruby>がまた<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。",
+      "en": "When I replaced the battery, the clock started working again.",
+      "zh_TW": "換了電池之後，時鐘又開始走了。",
+      "zh_CN": "换了电池之后，钟又开始走了。",
+      "ko": "건전지를 갈아 끼웠더니 시계가 다시 움직이기 시작했습니다.",
+      "zh_HK": "換咗電芯之後，個鐘又開始行返喇。",
+      "fr": "Quand j'ai changé la pile, l'horloge s'est remise à fonctionner."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 動かす"
+  },
+  {
+    "id": "card_1716",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "移る・移ります",
+    "reading": "うつる・うつります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to move (to a new place) / to shift",
+      "zh_TW": "搬遷 / 轉移",
+      "zh_CN": "搬迁 / 转移",
+      "ko": "옮기다 / 이동하다",
+      "zh_HK": "搬 / 轉移",
+      "fr": "déménager / passer à"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>たちのオフィスは<ruby>新<rt>あたら</rt></ruby>しいビルに<ruby>移<rt>うつ</rt></ruby>ります。",
+      "en": "Next month, our office will move to a new building.",
+      "zh_TW": "下個月我們的辦公室要搬到新大樓去。",
+      "zh_CN": "下个月我们的办公室要搬到新大楼去。",
+      "ko": "다음 달에 우리 사무실은 새 빌딩으로 옮깁니다.",
+      "zh_HK": "下個月我哋間辦公室會搬去新大廈。",
+      "fr": "Le mois prochain, notre bureau déménagera dans un nouvel immeuble."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 移す"
+  },
+  {
+    "id": "card_1717",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "写す・写します",
+    "reading": "うつす・うつします",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to copy / to photograph",
+      "zh_TW": "抄寫 / 拍照",
+      "zh_CN": "抄写 / 拍照",
+      "ko": "베끼다 / 찍다",
+      "zh_HK": "抄 / 影低",
+      "fr": "copier / photographier"
+    },
+    "example": {
+      "ja": "<ruby>黒板<rt>こくばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>かれた<ruby>大事<rt>だいじ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>をノートに<ruby>写<rt>うつ</rt></ruby>しました。",
+      "en": "I copied the important sentences written on the blackboard into my notebook.",
+      "zh_TW": "我把寫在黑板上的重要句子抄到了筆記本上。",
+      "zh_CN": "我把写在黑板上的重要句子抄到了笔记本上。",
+      "ko": "칠판에 적힌 중요한 문장을 공책에 베껴 썼습니다.",
+      "zh_HK": "我將黑板上面寫嘅重要句子抄落筆記簿度。",
+      "fr": "J'ai copié dans mon cahier les phrases importantes écrites au tableau."
+    },
+    "related": "五段動詞（他動詞） / 自動詞: 写る"
+  },
+  {
+    "id": "card_1718",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "打つ・打ちます",
+    "reading": "うつ・うちます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to hit / to type / to play (tennis)",
+      "zh_TW": "打 / 敲 / 打字",
+      "zh_CN": "打 / 敲 / 打字",
+      "ko": "치다 / 두드리다",
+      "zh_HK": "打 / 敲 / 打字",
+      "fr": "frapper / taper (au clavier)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんはパソコンで<ruby>文字<rt>もじ</rt></ruby>を<ruby>打<rt>う</rt></ruby>つのがとても<ruby>速<rt>はや</rt></ruby>いです。",
+      "en": "Mr. Tanaka is very fast at typing characters on a computer.",
+      "zh_TW": "田中先生用電腦打字非常快。",
+      "zh_CN": "田中先生用电脑打字非常快。",
+      "ko": "다나카 씨는 컴퓨터로 글자를 치는 것이 매우 빠릅니다.",
+      "zh_HK": "田中先生用電腦打字好快。",
+      "fr": "M. Tanaka tape très vite à l'ordinateur."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1719",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "選ぶ・選びます",
+    "reading": "えらぶ・えらびます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to choose / to select",
+      "zh_TW": "選擇 / 挑選",
+      "zh_CN": "选择 / 挑选",
+      "ko": "고르다 / 선택하다",
+      "zh_HK": "揀 / 選擇",
+      "fr": "choisir / sélectionner"
+    },
+    "example": {
+      "ja": "メニューの<ruby>中<rt>なか</rt></ruby>から、<ruby>好<rt>す</rt></ruby>きなデザートを<ruby>一<rt>ひと</rt></ruby>つ<ruby>選<rt>えら</rt></ruby>んでください。",
+      "en": "Please choose one dessert you like from the menu.",
+      "zh_TW": "請從菜單中選擇一個你喜歡的甜點。",
+      "zh_CN": "请从菜单中选择一个你喜欢的甜点。",
+      "ko": "메뉴 중에서 좋아하는 디저트를 하나 골라 주세요.",
+      "zh_HK": "請喺餐牌入面揀一款你鍾意嘅甜品。",
+      "fr": "Veuillez choisir un dessert qui vous plaît dans le menu."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1720",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "行う・行います",
+    "reading": "おこなう・おこないます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to carry out / to hold (an event)",
+      "zh_TW": "舉行 / 進行",
+      "zh_CN": "举行 / 进行",
+      "ko": "행하다 / 실시하다 / 개최하다",
+      "zh_HK": "舉行 / 進行",
+      "fr": "effectuer / organiser"
+    },
+    "example": {
+      "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>水曜日<rt>すいようび</rt></ruby>に、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>で<ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。",
+      "en": "Next Wednesday, we will hold a briefing session for the new product in the conference room.",
+      "zh_TW": "下週三將在會議室舉行新產品說明會。",
+      "zh_CN": "下周三将在会议室举行新产品说明会。",
+      "ko": "다음 주 수요일에 회의실에서 신상품 설명회를 개최합니다.",
+      "zh_HK": "下星期三會喺會議室舉行新產品簡介會。",
+      "fr": "Mercredi prochain, nous organiserons une réunion d'information sur le nouveau produit dans la salle de réunion."
+    },
+    "related": "五段動詞 / 「する」の硬い表現"
+  },
+  {
+    "id": "card_1721",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "踊る・踊ります",
+    "reading": "おどる・おどります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to dance",
+      "zh_TW": "跳舞",
+      "zh_CN": "跳舞",
+      "ko": "춤추다",
+      "zh_HK": "跳舞",
+      "fr": "danser"
+    },
+    "example": {
+      "ja": "<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りで、みんなと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>盆踊<rt>ぼんおど</rt></ruby>りを<ruby>踊<rt>おど</rt></ruby>りました。",
+      "en": "At the summer festival, I danced the Bon Odori together with everyone.",
+      "zh_TW": "在夏日祭典上，我和大家一起跳了盂蘭盆舞。",
+      "zh_CN": "在夏日祭典上，我和大家一起跳了盂兰盆舞。",
+      "ko": "여름 축제에서 모두와 함께 봉오도리(전통 춤)를 추었습니다.",
+      "zh_HK": "喺夏日祭典度，我同大家一齊跳盂蘭盆舞。",
+      "fr": "Lors du festival d'été, j'ai dansé le Bon Odori avec tout le monde."
+    },
+    "related": "五段動詞 / 名詞: 踊り"
+  },
+  {
+    "id": "card_1722",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "勝つ・勝ちます",
+    "reading": "かつ・かちます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to win",
+      "zh_TW": "贏 / 獲勝",
+      "zh_CN": "赢 / 获胜",
+      "ko": "이기다",
+      "zh_HK": "贏 / 勝出",
+      "fr": "gagner / vaincre"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>のサッカーの<ruby>試合<rt>しあい</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>たちのチームが<ruby>勝<rt>か</rt></ruby>ちました。",
+      "en": "In yesterday's soccer match, our team won.",
+      "zh_TW": "昨天的足球比賽，我們隊贏了。",
+      "zh_CN": "昨天的足球比赛，我们队赢了。",
+      "ko": "어제 축구 시합은 우리 팀이 이겼습니다.",
+      "zh_HK": "尋日場足球比賽，我哋隊波贏咗。",
+      "fr": "Lors du match de football d'hier, notre équipe a gagné."
+    },
+    "related": "五段動詞 / 対義語: 負ける"
+  },
+  {
+    "id": "card_1723",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "負ける・負けます",
+    "reading": "まける・まけます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to lose / to be defeated",
+      "zh_TW": "輸 / 敗",
+      "zh_CN": "输 / 败",
+      "ko": "지다",
+      "zh_HK": "輸",
+      "fr": "perdre / être battu"
+    },
+    "example": {
+      "ja": "<ruby>残念<rt>ざんねん</rt></ruby>ながら<ruby>試合<rt>しあい</rt></ruby>には<ruby>負<rt>ま</rt></ruby>けましたが、いい<ruby>経験<rt>けいけん</rt></ruby>になりました。",
+      "en": "Unfortunately we lost the match, but it was a good experience.",
+      "zh_TW": "雖然很遺憾比賽輸了，但成了一次很好的經驗。",
+      "zh_CN": "虽然很遗憾比赛输了，但成了一次很好的经历。",
+      "ko": "안타깝게도 시합에는 졌지만 좋은 경험이 되었습니다.",
+      "zh_HK": "雖然好可惜輸咗場比賽，但都係一次好好嘅經驗。",
+      "fr": "Malheureusement, nous avons perdu le match, mais ce fut une bonne expérience."
+    },
+    "related": "一段動詞 / 対義語: 勝つ"
+  },
+  {
+    "id": "card_1724",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "通る・通ります",
+    "reading": "とおる・とおります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to pass (by/through)",
+      "zh_TW": "通過 / 經過",
+      "zh_CN": "通过 / 经过",
+      "ko": "지나가다 / 통과하다",
+      "zh_HK": "經過 / 通過",
+      "fr": "passer (par)"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby>、この<ruby>公園<rt>こうえん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>通<rt>とお</rt></ruby>っています。",
+      "en": "Every day, I pass in front of this park to commute to school.",
+      "zh_TW": "我每天都經過這個公園前面去上學。",
+      "zh_CN": "我每天都经过这个公园前面去上学。",
+      "ko": "매일 이 공원 앞을 지나서 학교에 다닙니다.",
+      "zh_HK": "我日日都行經呢個公園前面返學。",
+      "fr": "Tous les jours, je passe devant ce parc pour aller à l'école."
+    },
+    "related": "五段動詞 / 名詞: 通り（とおり）"
+  },
+  {
+    "id": "card_1725",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "捕まえる・捕まえます",
+    "reading": "つかまえる・つかまえます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to catch / to arrest",
+      "zh_TW": "抓住 / 捕捉",
+      "zh_CN": "抓住 / 捕捉",
+      "ko": "잡다 / 붙잡다",
+      "zh_HK": "捉 / 捉住",
+      "fr": "attraper / arrêter"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>田舎<rt>いなか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>虫<rt>むし</rt></ruby>をたくさん<ruby>捕<rt>つか</rt></ruby>まえました。",
+      "en": "During summer vacation, I went to the countryside and caught a lot of insects.",
+      "zh_TW": "暑假去了鄉下，抓了很多蟲子。",
+      "zh_CN": "暑假去了乡下，抓了很多虫子。",
+      "ko": "여름방학에 시골에 가서 벌레를 많이 잡았습니다.",
+      "zh_HK": "暑假去咗鄉下，捉咗好多蟲仔。",
+      "fr": "Pendant les vacances d'été, je suis allé à la campagne et j'ai attrapé beaucoup d'insectes."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 捕まる"
+  },
+  {
+    "id": "card_1726",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "投げる・投げます",
+    "reading": "なげる・なげます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to throw",
+      "zh_TW": "扔 / 投擲",
+      "zh_CN": "扔 / 投掷",
+      "ko": "던지다",
+      "zh_HK": "掟 / 拋",
+      "fr": "jeter / lancer"
+    },
+    "example": {
+      "ja": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>犬<rt>いぬ</rt></ruby>にボールを<ruby>投<rt>な</rt></ruby>げて<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>びました。",
+      "en": "I threw a ball for my dog in the park and played together.",
+      "zh_TW": "在公園裡給狗丟球，一起玩耍。",
+      "zh_CN": "在公园里给狗扔球，一起玩耍。",
+      "ko": "공원에서 개에게 공을 던지며 함께 놀았습니다.",
+      "zh_HK": "喺公園度拋個波畀隻狗一齊玩。",
+      "fr": "Dans le parc, j'ai lancé une balle au chien et nous avons joué ensemble."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1727",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "触る・触ります",
+    "reading": "さわる・さわります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to touch / to feel",
+      "zh_TW": "摸 / 觸碰",
+      "zh_CN": "摸 / 触碰",
+      "ko": "만지다 / 손을 대다",
+      "zh_HK": "摸 / 掂",
+      "fr": "toucher"
+    },
+    "example": {
+      "ja": "<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>には、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>らないでください。",
+      "en": "Please never touch the artworks in the art museum.",
+      "zh_TW": "請絕對不要觸摸美術館裡的作品。",
+      "zh_CN": "请绝对不要触摸美术馆里的作品。",
+      "ko": "미술관 작품에는 절대 손을 대지 마세요.",
+      "zh_HK": "千祈唔好用手掂美術館入面嘅作品。",
+      "fr": "Ne touchez surtout pas aux œuvres d'art dans le musée."
+    },
+    "related": "五段動詞（助詞「に」をとる）"
+  },
+  {
+    "id": "card_1728",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "騒ぐ・騒ぎます",
+    "reading": "さわぐ・さわぎます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to make noise / to be rowdy",
+      "zh_TW": "吵鬧 / 喧嘩",
+      "zh_CN": "吵闹 / 喧哗",
+      "ko": "떠들다 / 소란을 피우다",
+      "zh_HK": "嘈 / 喧嘩",
+      "fr": "faire du bruit / chahuter"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>や<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>騒<rt>さわ</rt></ruby>いではいけません。",
+      "en": "You must not make a loud racket inside trains or libraries.",
+      "zh_TW": "在電車或圖書館裡不可以大聲喧嘩。",
+      "zh_CN": "在电车或图书馆里不可以大声喧哗。",
+      "ko": "전철이나 도서관 안에서 큰 소리로 떠들면 안 됩니다.",
+      "zh_HK": "喺電車或者圖書館入面唔可以大聲喧嘩。",
+      "fr": "Il ne faut pas faire de bruit à voix haute dans le train ou à la bibliothèque."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1729",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "進む・進みます",
+    "reading": "すすむ・すすみます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to advance / to proceed / to make progress",
+      "zh_TW": "前進 / 進展",
+      "zh_CN": "前进 / 进展",
+      "ko": "나아가다 / 진척되다",
+      "zh_HK": "前進 / 進展",
+      "fr": "avancer / progresser"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいプロジェクトの<ruby>準備<rt>じゅんび</rt></ruby>は<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>んでいます。",
+      "en": "Preparations for the new project are progressing smoothly.",
+      "zh_TW": "新專案的準備工作正在順利進行。",
+      "zh_CN": "新项目的准备工作正在顺利推进。",
+      "ko": "새로운 프로젝트 준비는 순조롭게 진행되고 있습니다.",
+      "zh_HK": "新項目嘅準備工作進展得好順利。",
+      "fr": "Les préparatifs du nouveau projet avancent bien."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 進める"
+  },
+  {
+    "id": "card_1730",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "残る・残ります",
+    "reading": "のこる・のこります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to remain / to be left over",
+      "zh_TW": "剩下 / 留下",
+      "zh_CN": "剩下 / 留下",
+      "ko": "남다",
+      "zh_HK": "剩低 / 留低",
+      "fr": "rester"
+    },
+    "example": {
+      "ja": "<ruby>料理<rt>りょうり</rt></ruby>をたくさん<ruby>作<rt>つく</rt></ruby>りすぎて、<ruby>半分<rt>はんぶん</rt></ruby>ぐらい<ruby>残<rt>のこ</rt></ruby>ってしまいました。",
+      "en": "I made too much food, and about half of it was left over.",
+      "zh_TW": "菜做得太多，剩下了大約一半。",
+      "zh_CN": "菜做得太多，剩下了大约一半。",
+      "ko": "요리를 너무 많이 만들어서 절반 정도 남아 버렸습니다.",
+      "zh_HK": "餸煮得太多，剩低咗大約一半。",
+      "fr": "J'ai préparé trop de nourriture et il en est resté environ la moitié."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 残す"
+  },
+  {
+    "id": "card_1731",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "運ぶ・運びます",
+    "reading": "はこぶ・はこびます",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to carry / to transport",
+      "zh_TW": "搬運 / 運送",
+      "zh_CN": "搬运 / 运送",
+      "ko": "운반하다 / 나르다",
+      "zh_HK": "搬 / 運送",
+      "fr": "transporter / porter"
+    },
+    "example": {
+      "ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>しの<ruby>荷物<rt>にもつ</rt></ruby>をトラックで<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>びました。",
+      "en": "We transported the moving luggage to the new house by truck.",
+      "zh_TW": "用卡車把搬家的行李運到了新家。",
+      "zh_CN": "用卡车把搬家的行李运到了新家。",
+      "ko": "이삿짐을 트럭으로 새집까지 날랐습니다.",
+      "zh_HK": "用貨車將搬屋嘅行李運咗去新屋。",
+      "fr": "Nous avons transporté les cartons de déménagement jusqu'à la nouvelle maison en camion."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1732",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "塗る・塗ります",
+    "reading": "ぬる・ぬります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to paint / to spread / to apply",
+      "zh_TW": "塗 / 抹 / 刷（漆）",
+      "zh_CN": "涂 / 抹 / 刷（漆）",
+      "ko": "바르다 / 칠하다",
+      "zh_HK": "搽 / 塗 / 髹（油）",
+      "fr": "peindre / étaler / appliquer"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>焼<rt>や</rt></ruby>いたパンにバターとジャムを<ruby>塗<rt>ぬ</rt></ruby>って<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "Every morning, I spread butter and jam on toasted bread and eat it.",
+      "zh_TW": "每天早上，我在烤好的麵包上塗奶油和果醬吃。",
+      "zh_CN": "每天早上，我在烤好的面包上涂黄油和果酱吃。",
+      "ko": "매일 아침 구운 빵에 버터와 잼을 발라 먹습니다.",
+      "zh_HK": "每日朝早，我都會喺烘好嘅麵包度搽牛油同果占食。",
+      "fr": "Chaque matin, j'étale du beurre et de la confiture sur du pain grillé."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1733",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "釣る・釣ります",
+    "reading": "つる・つります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to fish / to angle",
+      "zh_TW": "釣（魚）",
+      "zh_CN": "钓（鱼）",
+      "ko": "낚다",
+      "zh_HK": "釣（魚）",
+      "fr": "pêcher (à la ligne)"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>父<rt>ちち</rt></ruby>と<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>大<rt>おお</rt></ruby>きな<ruby>魚<rt>さかな</rt></ruby>を3<ruby>匹<rt>ひき</rt></ruby><ruby>釣<rt>つ</rt></ruby>りました。",
+      "en": "On the weekend, I went to the sea with my father and caught three big fish.",
+      "zh_TW": "週末我和爸爸去海邊，釣到了三條大魚。",
+      "zh_CN": "周末我和爸爸去海边，钓到了三条大鱼。",
+      "ko": "주말에 아버지와 바다에 가서 큰 물고기를 세 마리 낚았습니다.",
+      "zh_HK": "週末我同阿爸去海邊，釣到三條大魚。",
+      "fr": "Ce week-end, je suis allé à la mer avec mon père et nous avons pêché trois gros poissons."
+    },
+    "related": "五段動詞 / 名詞: 釣り（つり）"
+  },
+  {
+    "id": "card_1734",
+    "section_num": 75,
+    "section_title": "#75 【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "回る・回ります",
+    "reading": "まわる・まわります",
+    "category": "【N4総復習①】未習N4動詞(1)（行動・移動・日常）",
+    "meaning": {
+      "en": "to turn / to revolve / to go around",
+      "zh_TW": "轉 / 旋轉 / 繞",
+      "zh_CN": "转 / 旋转 / 巡回",
+      "ko": "돌다 / 회전하다",
+      "zh_HK": "轉 / 旋轉 / 兜",
+      "fr": "tourner / faire le tour"
+    },
+    "example": {
+      "ja": "<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いて、<ruby>丘<rt>おか</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>の<ruby>風車<rt>かざぐるま</rt></ruby>がゆっくり<ruby>回<rt>まわ</rt></ruby>っています。",
+      "en": "The wind is blowing, and the windmill on the hill is turning slowly.",
+      "zh_TW": "風吹過來，山丘上的風車正慢慢地轉動著。",
+      "zh_CN": "风吹过来，山丘上的风车正慢慢地转动着。",
+      "ko": "바람이 불어서 언덕 위의 풍차가 천천히 돌고 있습니다.",
+      "zh_HK": "吹緊風，山丘上面嘅風車慢慢咁轉緊。",
+      "fr": "Le vent souffle et le moulin sur la colline tourne lentement."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 回す"
+  },
+  {
+    "id": "card_1735",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "謝る・謝ります",
+    "reading": "あやまる・あやまります",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to apologize",
+      "zh_TW": "道歉 / 賠禮",
+      "zh_CN": "道歉 / 赔礼",
+      "ko": "사과하다",
+      "zh_HK": "道歉 / 認錯",
+      "fr": "s'excuser / demander pardon"
+    },
+    "example": {
+      "ja": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えてしまい、<ruby>鈴木<rt>すずき</rt></ruby>さんに<ruby>素直<rt>すなお</rt></ruby>に<ruby>謝<rt>あやま</rt></ruby>りました。",
+      "en": "I got the appointment time wrong and sincerely apologized to Ms. Suzuki.",
+      "zh_TW": "我搞錯了約定的時間，誠懇地向鈴木小姐道了歉。",
+      "zh_CN": "我搞错了约定的时间，诚恳地向铃木小姐道了歉。",
+      "ko": "약속 시간을 착각해서 스즈키 씨에게 솔직하게 사과했습니다.",
+      "zh_HK": "我搞錯咗約定嘅時間，好誠懇咁同鈴木小姐道歉。",
+      "fr": "Je me suis trompé d'heure de rendez-vous et je me suis sincèrement excusé auprès de Mme Suzuki."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1736",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "生きる・生きます",
+    "reading": "いきる・いきます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to live / to exist",
+      "zh_TW": "活 / 生存 / 生活",
+      "zh_CN": "活 / 生存 / 生活",
+      "ko": "살다",
+      "zh_HK": "生存 / 活著",
+      "fr": "vivre"
+    },
+    "example": {
+      "ja": "<ruby>水<rt>みず</rt></ruby>と<ruby>空気<rt>くうき</rt></ruby>がなければ、<ruby>人間<rt>にんげん</rt></ruby>は<ruby>生<rt>い</rt></ruby>きることができません。",
+      "en": "Without water and air, human beings cannot live.",
+      "zh_TW": "如果沒有水和空氣，人類就無法生存。",
+      "zh_CN": "如果没有水和空气，人类就无法生存。",
+      "ko": "물과 공기가 없으면 인간은 살 수 없습니다.",
+      "zh_HK": "如果冇水同空氣，人類係無法生存嘅。",
+      "fr": "Sans eau ni air, les êtres humains ne peuvent pas vivre."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1737",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "祈る・祈ります",
+    "reading": "いのる・いのります",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to pray / to wish",
+      "zh_TW": "祈禱 / 祝願",
+      "zh_CN": "祈祷 / 祝愿",
+      "ko": "기도하다 / 빌다",
+      "zh_HK": "祈禱 / 祝願",
+      "fr": "prier / souhaiter"
+    },
+    "example": {
+      "ja": "<ruby>正月<rt>しょうがつ</rt></ruby>には<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>と<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>祈<rt>いの</rt></ruby>ります。",
+      "en": "On New Year's, I go to a shrine and pray for my family's health and happiness.",
+      "zh_TW": "過年時我會去神社，祈求家人健康幸福。",
+      "zh_CN": "新年时我会去神社，祈求家人健康幸福。",
+      "ko": "설날에는 신사에 가서 가족의 건강과 행복을 빕니다.",
+      "zh_HK": "新年嗰陣我會去神社，祈求屋企人健康同幸福。",
+      "fr": "Au Nouvel An, je vais au sanctuaire pour prier pour la santé et le bonheur de ma famille."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1738",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "受ける・受けます",
+    "reading": "うける・うけます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to take (an exam) / to receive",
+      "zh_TW": "參加（考試） / 接受",
+      "zh_CN": "参加（考试） / 接受",
+      "ko": "(시험을) 치르다 / 받다",
+      "zh_HK": "考（試） / 接受",
+      "fr": "passer (un examen) / recevoir"
+    },
+    "example": {
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>の12<ruby>月<rt>つき</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>のN4を<ruby>受<rt>う</rt></ruby>けます。",
+      "en": "I will take the JLPT N4 exam this December.",
+      "zh_TW": "今年12月我要參加日語能力測驗N4。",
+      "zh_CN": "今年12月我要参加日语能力考试N4。",
+      "ko": "올해 12월에 일본어능력시험 N4를 치릅니다.",
+      "zh_HK": "今年12月我會考日本語能力試驗N4。",
+      "fr": "En décembre de cette année, je passerai le niveau N4 du JLPT."
+    },
+    "related": "一段動詞 / 表現: 試験を受ける"
+  },
+  {
+    "id": "card_1739",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "考える・考えます",
+    "reading": "かんがえる・かんがえます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to think / to consider",
+      "zh_TW": "思考 / 考慮",
+      "zh_CN": "思考 / 考虑",
+      "ko": "생각하다",
+      "zh_HK": "諗 / 考慮",
+      "fr": "penser / réfléchir"
+    },
+    "example": {
+      "ja": "<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について、いろいろ<ruby>考<rt>かんが</rt></ruby>えています。",
+      "en": "I am thinking about various options for my career path after graduation.",
+      "zh_TW": "我正在考慮畢業後的出路。",
+      "zh_CN": "我正在考虑毕业后的出路。",
+      "ko": "졸업한 후의 진로에 대해 여러 가지로 생각하고 있습니다.",
+      "zh_HK": "我諗緊畢業之後嘅出路。",
+      "fr": "Je réfléchis beaucoup à mon orientation après l'obtention de mon diplôme."
+    },
+    "related": "一段動詞 / 名詞: 考え"
+  },
+  {
+    "id": "card_1740",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "比べる・比べます",
+    "reading": "くらべる・くらべます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to compare",
+      "zh_TW": "比較 / 對比",
+      "zh_CN": "比较 / 对比",
+      "ko": "비교하다",
+      "zh_HK": "比較 / 對比",
+      "fr": "comparer"
+    },
+    "example": {
+      "ja": "<ruby>二<rt>ふた</rt></ruby>つのパソコンの<ruby>性能<rt>せいのう</rt></ruby>と<ruby>値段<rt>ねだん</rt></ruby>をよく<ruby>比<rt>くら</rt></ruby>べてから<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I carefully compared the performance and price of the two computers before buying.",
+      "zh_TW": "我仔細比較了兩台電腦的性能和價格後才買。",
+      "zh_CN": "我仔细比较了两台电脑的性能和价格后才买。",
+      "ko": "두 컴퓨터의 성능과 가격을 잘 비교해 본 후에 샀습니다.",
+      "zh_HK": "我仔細比較咗兩部電腦嘅性能同價錢之後先買。",
+      "fr": "J'ai bien comparé les performances et le prix des deux ordinateurs avant d'acheter."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1741",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "暮れる・暮れます",
+    "reading": "くれる・くれます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to get dark / to come to an end",
+      "zh_TW": "（天）黑 / （歲）暮",
+      "zh_CN": "（天）黑 / （年）尽",
+      "ko": "(날이) 저물다",
+      "zh_HK": "（天）黑 / 入夜",
+      "fr": "tomber (la nuit) / s'achever"
+    },
+    "example": {
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>は5<ruby>時<rt>じ</rt></ruby>ごろになると、すぐに<ruby>日<rt>ひ</rt></ruby>が<ruby>暮<rt>く</rt></ruby>れて<ruby>暗<rt>くら</rt></ruby>くなります。",
+      "en": "In winter, around 5 o'clock, the sun sets quickly and it gets dark.",
+      "zh_TW": "到了冬天，五點左右天很快就黑了。",
+      "zh_CN": "到了冬天，五点左右天很快就黑了。",
+      "ko": "겨울에는 5시경이 되면 금방 날이 저물어 어두워집니다.",
+      "zh_HK": "到咗冬天，五點左右就好快天黑。",
+      "fr": "En hiver, vers 17 heures, la nuit tombe vite et il fait sombre."
+    },
+    "related": "一段動詞 / 表現: 日が暮れる"
+  },
+  {
+    "id": "card_1742",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "探す・探します",
+    "reading": "さがす・さがします",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to look for / to search",
+      "zh_TW": "尋找 / 找",
+      "zh_CN": "寻找 / 找",
+      "ko": "찾다",
+      "zh_HK": "搵 / 尋找",
+      "fr": "chercher"
+    },
+    "example": {
+      "ja": "なくした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>探<rt>さが</rt></ruby>しましたが、<ruby>見<rt>み</rt></ruby>つかりませんでした。",
+      "en": "I looked all over the room for the key I lost, but I couldn't find it.",
+      "zh_TW": "我在房間裡到處找弄丟的鑰匙，但沒找到。",
+      "zh_CN": "我在房间里到处找丢了的钥匙，但没找到。",
+      "ko": "잃어버린 열쇠를 방 안 가득 찾았지만 찾지 못했습니다.",
+      "zh_HK": "我喺間房度周圍搵唔見咗嘅鎖匙，但係搵唔到。",
+      "fr": "J'ai cherché la clé perdue dans toute la chambre, mais je ne l'ai pas trouvée."
+    },
+    "related": "五段動詞 / 自動詞: 見つかる"
+  },
+  {
+    "id": "card_1743",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "知らせる・知らせます",
+    "reading": "しらせる・しらせます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to notify / to inform",
+      "zh_TW": "通知 / 告知",
+      "zh_CN": "通知 / 告知",
+      "ko": "알리다",
+      "zh_HK": "通知 / 話畀……知",
+      "fr": "informer / prévenir"
+    },
+    "example": {
+      "ja": "<ruby>引越<rt>ひっこ</rt></ruby>しが<ruby>終<rt>お</rt></ruby>わったら、<ruby>新<rt>あたら</rt></ruby>しい<ruby>住所<rt>じゅうしょ</rt></ruby>をみんなに<ruby>知<rt>し</rt></ruby>らせます。",
+      "en": "Once the move is finished, I will let everyone know my new address.",
+      "zh_TW": "搬完家後，我會把新地址通知大家。",
+      "zh_CN": "搬完家后，我会把新地址通知大家。",
+      "ko": "이사가 끝나면 새 주소를 모두에게 알리겠습니다.",
+      "zh_HK": "搬完屋之後，我會將新地址通知大家。",
+      "fr": "Une fois le déménagement terminé, je communiquerai ma nouvelle adresse à tout le monde."
+    },
+    "related": "一段動詞 / 名詞: お知らせ"
+  },
+  {
+    "id": "card_1744",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "尋ねる・尋ねます",
+    "reading": "たずねる・たずねます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to ask / to inquire",
+      "zh_TW": "詢問 / 打聽",
+      "zh_CN": "询问 / 打听",
+      "ko": "물어보다 / 질문하다",
+      "zh_HK": "問 / 打聽",
+      "fr": "demander / interroger"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったので、<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>で<ruby>駅<rt>えき</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>尋<rt>たず</rt></ruby>ねました。",
+      "en": "Because I got lost, I asked for directions to the station at a nearby police box.",
+      "zh_TW": "因為迷路了，我在附近的派出所詢問了去車站的路。",
+      "zh_CN": "因为迷路了，我在附近的派出所打听了去车站的路。",
+      "ko": "길을 잃어서 근처 파출소에서 역으로 가는 길을 물어보았습니다.",
+      "zh_HK": "因為盪失路，我喺附近嘅派出所問去車站嘅路。",
+      "fr": "Comme j'étais perdu, j'ai demandé le chemin de la gare au poste de police voisin."
+    },
+    "related": "一段動詞（※訪問する＝訪ねる）"
+  },
+  {
+    "id": "card_1745",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "足す・足します",
+    "reading": "たす・たします",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to add / to top up",
+      "zh_TW": "加 / 添加",
+      "zh_CN": "加 / 添加",
+      "ko": "더하다 / 보태다",
+      "zh_HK": "加 / 添",
+      "fr": "ajouter / additionner"
+    },
+    "example": {
+      "ja": "スープの<ruby>味<rt>あじ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>薄<rt>うす</rt></ruby>いので、<ruby>塩<rt>しお</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>しました。",
+      "en": "The soup tasted a little weak, so I added a pinch of salt.",
+      "zh_TW": "湯的味道有點淡，所以我加了一點鹽。",
+      "zh_CN": "汤的味道有点淡，所以我加了一点盐。",
+      "ko": "수프 맛이 조금 싱거워서 소금을 조금 더 넣었습니다.",
+      "zh_HK": "個湯有啲淡，所以我加咗少少鹽。",
+      "fr": "Comme la soupe était un peu fade, j'ai ajouté un peu de sel."
+    },
+    "related": "五段動詞"
+  },
+  {
+    "id": "card_1746",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "足りる・足ります",
+    "reading": "たりる・たります",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to be enough / to be sufficient",
+      "zh_TW": "夠 / 足夠",
+      "zh_CN": "够 / 足够",
+      "ko": "족하다 / 충분하다",
+      "zh_HK": "夠 / 足夠",
+      "fr": "suffire / être suffisant"
+    },
+    "example": {
+      "ja": "パーティーの<ruby>飲み物<rt>のみもの</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなったので、<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "We ran out of drinks for the party, so I went to buy more.",
+      "zh_TW": "派對的飲料不夠了，所以我去買了一些。",
+      "zh_CN": "派对的饮料不够了，所以我去买了一些。",
+      "ko": "파티 음료수가 모자라게 되어서 사러 갔습니다.",
+      "zh_HK": "派對嘅飲品唔夠，所以我出去買啲返嚟。",
+      "fr": "Comme il n'y avait plus assez de boissons pour la fête, je suis allé en acheter."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1747",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "伝える・伝えます",
+    "reading": "つたえる・つたえます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to convey / to tell / to report",
+      "zh_TW": "轉告 / 傳達",
+      "zh_CN": "转告 / 传达",
+      "ko": "전하다",
+      "zh_HK": "轉告 / 傳達",
+      "fr": "transmettre / communiquer"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>戻<rt>もど</rt></ruby>ったら、<ruby>電話<rt>でんわ</rt></ruby>があったことを<ruby>伝<rt>つた</rt></ruby>えてください。",
+      "en": "When Mr. Tanaka returns, please tell him that there was a phone call.",
+      "zh_TW": "田中先生回來後，請轉告他有電話找他。",
+      "zh_CN": "田中先生回来后，请转告他有电话找他。",
+      "ko": "다나카 씨가 돌아오면 전화가 왔었다고 전해 주세요.",
+      "zh_HK": "田中先生返嚟之後，唔該轉告佢頭先有人打電話搵佢。",
+      "fr": "Quand M. Tanaka reviendra, veuillez lui transmettre qu'il a eu un appel."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1748",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "続く・続きます",
+    "reading": "つづく・つづきます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to continue / to last",
+      "zh_TW": "持續 / 繼續",
+      "zh_CN": "持续 / 继续",
+      "ko": "계속되다 / 이어지다",
+      "zh_HK": "持續 / 繼續",
+      "fr": "continuer / durer"
+    },
+    "example": {
+      "ja": "<ruby>先週<rt>せんしゅう</rt></ruby>からずっと<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。",
+      "en": "Rainy days have been continuing ever since last week.",
+      "zh_TW": "從上週開始一直持續著陰雨天。",
+      "zh_CN": "从上周开始一直持续着阴雨天。",
+      "ko": "지난주부터 계속 비 오는 날이 이어지고 있습니다.",
+      "zh_HK": "由上星期開始一直都持續落雨。",
+      "fr": "Il pleut sans arrêt depuis la semaine dernière."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 続ける"
+  },
+  {
+    "id": "card_1749",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "連れる・連れます",
+    "reading": "つれる・つれます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to take / to bring (a person or pet)",
+      "zh_TW": "帶（人、動物）去",
+      "zh_CN": "带（人、动物）去",
+      "ko": "데리고 가다(오다)",
+      "zh_HK": "帶（人、動物）去",
+      "fr": "emmener / amener (quelqu'un)"
+    },
+    "example": {
+      "ja": "<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもを<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "On Sunday, I took my child to the zoo.",
+      "zh_TW": "星期天我帶孩子去了動物園。",
+      "zh_CN": "星期天我带孩子去了动物园。",
+      "ko": "일요일에 아이를 동물원에 데리고 갔습니다.",
+      "zh_HK": "星期日我帶咗小朋友去動物園。",
+      "fr": "Dimanche, j'ai emmené mon enfant au zoo."
+    },
+    "related": "一段動詞 / 表現: 連れて行く・連れて来る"
+  },
+  {
+    "id": "card_1750",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "似る・似ます",
+    "reading": "にる・にます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to resemble / to look like",
+      "zh_TW": "像 / 相似",
+      "zh_CN": "像 / 相似",
+      "ko": "닮다",
+      "zh_HK": "似 / 似樣",
+      "fr": "ressembler à"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんはお<ruby>母<rt>かあ</rt></ruby>さんに<ruby>顔<rt>かお</rt></ruby>も<ruby>声<rt>こえ</rt></ruby>もよく<ruby>似<rt>に</rt></ruby>ています。",
+      "en": "Ms. Sato looks and sounds very much like her mother.",
+      "zh_TW": "佐藤小姐的臉和聲音都很像她媽媽。",
+      "zh_CN": "佐藤小姐的脸和声音都很像她妈妈。",
+      "ko": "사토 씨는 어머니와 얼굴도 목소리도 많이 닮았습니다.",
+      "zh_HK": "佐藤小姐個樣同把聲都好似佢媽媽。",
+      "fr": "Mme Sato ressemble beaucoup à sa mère, tant par le visage que par la voix."
+    },
+    "related": "一段動詞（状態: 似ている）"
+  },
+  {
+    "id": "card_1751",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "始める・始めます",
+    "reading": "はじめる・はじめます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to begin / to start (something)",
+      "zh_TW": "開始（做某事）",
+      "zh_CN": "开始（做某事）",
+      "ko": "시작하다",
+      "zh_HK": "開始（做某事）",
+      "fr": "commencer (quelque chose)"
+    },
+    "example": {
+      "ja": "<ruby>全員<rt>ぜんいん</rt></ruby><ruby>集<rt>あつ</rt></ruby>まりましたので、これから<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。",
+      "en": "Since everyone has gathered, we will now start the meeting.",
+      "zh_TW": "大家都到齊了，現在開始開會。",
+      "zh_CN": "大家都到齐了，现在开始开会。",
+      "ko": "전원 모였으므로 지금부터 회의를 시작하겠습니다.",
+      "zh_HK": "大家到齊晒喇，而家開始開會。",
+      "fr": "Comme tout le monde est réuni, nous allons maintenant commencer la réunion."
+    },
+    "related": "一段動詞（他動詞） / 自動詞: 始まる"
+  },
+  {
+    "id": "card_1752",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "訪ねる・訪ねます",
+    "reading": "たずねる・たずねます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to visit / to call on",
+      "zh_TW": "拜訪 / 造訪",
+      "zh_CN": "拜访 / 造访",
+      "ko": "방문하다 / 찾아가다",
+      "zh_HK": "拜訪 / 探訪",
+      "fr": "rendre visite à / aller voir"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>京都<rt>きょうと</rt></ruby>にいる<ruby>先生<rt>せんせい</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。",
+      "en": "During summer vacation, I visited my teacher's house in Kyoto.",
+      "zh_TW": "暑假我去拜訪了在京都的老師家。",
+      "zh_CN": "暑假我去拜访了在京都的老师家。",
+      "ko": "여름방학에 교토에 계신 선생님 댁을 방문했습니다.",
+      "zh_HK": "暑假我去咗京都探訪老師屋企。",
+      "fr": "Pendant les vacances d'été, j'ai rendu visite à mon professeur à Kyoto."
+    },
+    "related": "一段動詞 / 同音語: 尋ねる（質問する）"
+  },
+  {
+    "id": "card_1753",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "拾う・拾います",
+    "reading": "ひろう・ひろいます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to pick up / to find",
+      "zh_TW": "撿 / 拾",
+      "zh_CN": "捡 / 拾",
+      "ko": "줍다",
+      "zh_HK": "執 / 拾",
+      "fr": "ramasser / trouver"
+    },
+    "example": {
+      "ja": "<ruby>公園<rt>こうえん</rt></ruby>のゴミを<ruby>拾<rt>ひろ</rt></ruby>って、きれいに<ruby>掃除<rt>そうじ</rt></ruby>しました。",
+      "en": "We picked up trash in the park and cleaned it nicely.",
+      "zh_TW": "我們撿起公園裡的垃圾，打掃得很乾淨。",
+      "zh_CN": "我们捡起公园里的垃圾，打扫得很干净。",
+      "ko": "공원의 쓰레기를 주워서 깨끗하게 청소했습니다.",
+      "zh_HK": "我哋執起公園入面嘅垃圾，打掃得好乾淨。",
+      "fr": "Nous avons ramassé les déchets dans le parc et l'avons bien nettoyé."
+    },
+    "related": "五段動詞 / 対義語: 捨てる"
+  },
+  {
+    "id": "card_1754",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "増える・増えます",
+    "reading": "ふえる・ふえます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to increase / to multiply",
+      "zh_TW": "增加 / 增多",
+      "zh_CN": "增加 / 增多",
+      "ko": "늘다 / 증가하다",
+      "zh_HK": "增加 / 變多",
+      "fr": "augmenter / s'accroître"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>毎年<rt>まいとし</rt></ruby><ruby>増<rt>ふ</rt></ruby>えています。",
+      "en": "The number of foreigners coming to travel to Japan is increasing every year.",
+      "zh_TW": "來日本旅遊的外國人數量每年都在增加。",
+      "zh_CN": "来日本旅游的外国人数量每年都在增加。",
+      "ko": "일본으로 여행 오는 외국인 수가 매년 늘고 있습니다.",
+      "zh_HK": "嚟日本旅行嘅外國人數量每年都增加緊。",
+      "fr": "Le nombre d'étrangers venant voyager au Japon augmente chaque année."
+    },
+    "related": "一段動詞（自動詞） / 対義語: 減る"
+  },
+  {
+    "id": "card_1755",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "減る・減ります",
+    "reading": "へる・へります",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to decrease / to diminish",
+      "zh_TW": "減少 / 縮減",
+      "zh_CN": "减少 / 缩减",
+      "ko": "줄다 / 감소하다",
+      "zh_HK": "減少 / 變少",
+      "fr": "diminuer / baisser"
+    },
+    "example": {
+      "ja": "<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買い物<rt>かいもの</rt></ruby>をやめたら、<ruby>毎月<rt>まいつき</rt></ruby>の<ruby>出費<rt>しゅっぴ</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。",
+      "en": "When I stopped making wasteful purchases, my monthly expenses decreased.",
+      "zh_TW": "停止了不必要的購物後，每月的開銷減少了。",
+      "zh_CN": "停止了不必要的购物后，每月的开销减少了。",
+      "ko": "불필요한 쇼핑을 그만두었더니 매달 지출이 줄었습니다.",
+      "zh_HK": "戒咗買無謂嘢之後，每個月嘅開支減少咗。",
+      "fr": "Quand j'ai arrêté les achats inutiles, mes dépenses mensuelles ont diminué."
+    },
+    "related": "五段動詞（自動詞） / 対義語: 増える"
+  },
+  {
+    "id": "card_1756",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "間違える・間違えます",
+    "reading": "まちがえる・まちがえます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to make a mistake",
+      "zh_TW": "弄錯 / 搞錯",
+      "zh_CN": "弄错 / 搞错",
+      "ko": "틀리다 / 실수하다",
+      "zh_HK": "搞錯 / 認錯",
+      "fr": "se tromper / faire une erreur"
+    },
+    "example": {
+      "ja": "<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えて、<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>をかけてしまいました。",
+      "en": "I dialed the wrong phone number and ended up calling a stranger.",
+      "zh_TW": "我按錯了電話號碼，打給了一個不認識的人。",
+      "zh_CN": "我按错了电话号码，打给了一个不认识的人。",
+      "ko": "전화번호를 잘못 눌러서 모르는 사람에게 전화를 걸어 버렸습니다.",
+      "zh_HK": "我撳錯咗電話號碼，打咗畀個唔識嘅人。",
+      "fr": "Je me suis trompé de numéro de téléphone et j'ai appelé un inconnu."
+    },
+    "related": "一段動詞"
+  },
+  {
+    "id": "card_1757",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "向かう・向かいます",
+    "reading": "むかう・むかいます",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to head toward / to face",
+      "zh_TW": "前往 / 朝向",
+      "zh_CN": "前往 / 朝向",
+      "ko": "향하다 / 가다",
+      "zh_HK": "前往 / 向住",
+      "fr": "se diriger vers / faire face à"
+    },
+    "example": {
+      "ja": "<ruby>今<rt>いま</rt></ruby>からタクシーで<ruby>空港<rt>くうこう</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かいます。",
+      "en": "I am heading to the airport by taxi right now.",
+      "zh_TW": "我現在搭計程車前往機場。",
+      "zh_CN": "我现在坐出租车前往机场。",
+      "ko": "지금부터 택시로 공항으로 향합니다.",
+      "zh_HK": "我而家搭的士去緊機場。",
+      "fr": "Je me dirige maintenant vers l'aéroport en taxi."
+    },
+    "related": "五段動詞（助詞「に・へ」をとる）"
+  },
+  {
+    "id": "card_1758",
+    "section_num": 76,
+    "section_title": "#76 【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "戻る・戻ります",
+    "reading": "もどる・もどります",
+    "category": "【N4総復習②】未習N4動詞(2)（思考・伝達・生活）",
+    "meaning": {
+      "en": "to return / to go back",
+      "zh_TW": "返回 / 回到",
+      "zh_CN": "返回 / 回到",
+      "ko": "돌아가다 / 되돌아오다",
+      "zh_HK": "返去 / 返轉頭",
+      "fr": "retourner / revenir"
+    },
+    "example": {
+      "ja": "<ruby>忘れ物<rt>わすれもの</rt></ruby>をしたので、<ruby>急<rt>いそ</rt></ruby>いで<ruby>家<rt>いえ</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>りました。",
+      "en": "Because I forgot something, I hurriedly went back home.",
+      "zh_TW": "因為忘記帶東西，我急忙趕回家去了。",
+      "zh_CN": "因为落了东西，我急忙赶回家去了。",
+      "ko": "두고 온 물건이 있어서 서둘러 집으로 돌아갔습니다.",
+      "zh_HK": "因為漏低咗嘢，我急忙返轉頭返屋企。",
+      "fr": "Comme j'avais oublié quelque chose, je suis vite retourné à la maison."
+    },
+    "related": "五段動詞（自動詞） / 他動詞: 戻す"
+  },
+  {
+    "id": "card_1759",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "美しい",
+    "reading": "うつくしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "beautiful",
+      "zh_TW": "美麗的 / 優美的",
+      "zh_CN": "美丽的 / 优美的",
+      "ko": "아름답다",
+      "zh_HK": "美麗嘅 / 靚嘅",
+      "fr": "beau / magnifique"
+    },
+    "example": {
+      "ja": "<ruby>京都<rt>きょうと</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しい<ruby>庭園<rt>ていえん</rt></ruby>や<ruby>古<rt>ふる</rt></ruby>いお<ruby>寺<rt>てら</rt></ruby>がたくさんあります。",
+      "en": "In Kyoto, there are many beautiful gardens and old temples.",
+      "zh_TW": "京都有很多美麗的庭園和古老的寺廟。",
+      "zh_CN": "京都有很多美丽的庭园和古老的寺庙。",
+      "ko": "교토에는 아름다운 정원이나 오래된 절이 많이 있습니다.",
+      "zh_HK": "京都有好多好靚嘅庭園同埋古老嘅寺廟。",
+      "fr": "À Kyoto, il y a beaucoup de beaux jardins et de vieux temples."
+    },
+    "related": "い形容詞 / 類義語: きれいな"
+  },
+  {
+    "id": "card_1760",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "悲しい",
+    "reading": "かなしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "sad / sorrowful",
+      "zh_TW": "悲傷的 / 難過的",
+      "zh_CN": "悲伤的 / 难过的",
+      "ko": "슬프다",
+      "zh_HK": "傷心嘅 / 難過嘅",
+      "fr": "triste"
+    },
+    "example": {
+      "ja": "<ruby>親友<rt>しんゆう</rt></ruby>が<ruby>遠<rt>とお</rt></ruby>くへ<ruby>引っ越<rt>ひっこ</rt></ruby>してしまって、とても<ruby>悲<rt>かな</rt></ruby>しいです。",
+      "en": "My best friend moved far away, and I am very sad.",
+      "zh_TW": "好朋友搬到很遠的地方去了，我非常難過。",
+      "zh_CN": "好朋友搬到很远的地方去了，我非常难过。",
+      "ko": "친한 친구가 멀리 이사를 가 버려서 매우 슬픕니다.",
+      "zh_HK": "好朋友搬咗去好遠嘅地方，我好傷心。",
+      "fr": "Mon meilleur ami a déménagé loin et je suis très triste."
+    },
+    "related": "い形容詞 / 対義語: 嬉しい"
+  },
+  {
+    "id": "card_1761",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "厳しい",
+    "reading": "きびしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "strict / severe / harsh",
+      "zh_TW": "嚴格的 / 嚴厲的",
+      "zh_CN": "严格的 / 严厉的",
+      "ko": "엄격하다 / 심하다",
+      "zh_HK": "嚴格嘅 / 嚴厲嘅",
+      "fr": "strict / sévère / rude"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は<ruby>練習<rt>れんしゅう</rt></ruby>のときは<ruby>厳<rt>きび</rt></ruby>しいですが、<ruby>普段<rt>ふだん</rt></ruby>はとても<ruby>優<rt>やさ</rt></ruby>しいです。",
+      "en": "Coach Sato is strict during practice, but is usually very kind.",
+      "zh_TW": "佐藤老師訓練時很嚴格，但平時非常溫柔。",
+      "zh_CN": "佐藤老师训练时很严格，但平时非常温柔。",
+      "ko": "사토 선생님은 연습할 때는 엄격하지만 평소에는 매우 상냥합니다.",
+      "zh_HK": "佐藤老師練習嗰陣好嚴格，但平時好溫柔。",
+      "fr": "Le professeur Sato est strict pendant l'entraînement, mais très gentil d'habitude."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1762",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "正しい",
+    "reading": "ただしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "correct / right / proper",
+      "zh_TW": "正確的 / 對的",
+      "zh_CN": "正确的 / 对的",
+      "ko": "올바르다 / 맞다",
+      "zh_HK": "正確嘅 / 啱嘅",
+      "fr": "correct / juste"
+    },
+    "example": {
+      "ja": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>正<rt>ただ</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>えを<ruby>一<rt>ひと</rt></ruby>つ<ruby>選<rt>えら</rt></ruby>んでください。",
+      "en": "Please choose one correct answer from the following.",
+      "zh_TW": "請從下列選項中選出一個正確答案。",
+      "zh_CN": "请从下列选项中选出一个正确答案。",
+      "ko": "다음 중에서 올바른 답을 하나 고르세요.",
+      "zh_HK": "請喺下面揀出一個正確嘅答案。",
+      "fr": "Veuillez choisir la bonne réponse parmi les suivantes."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1763",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "珍しい",
+    "reading": "めずらしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "rare / unusual",
+      "zh_TW": "罕見的 / 稀奇的",
+      "zh_CN": "罕见的 / 稀奇的",
+      "ko": "드물다 / 희귀하다 / 신기하다",
+      "zh_HK": "罕見嘅 / 少見嘅",
+      "fr": "rare / inhabituel"
+    },
+    "example": {
+      "ja": "<ruby>沖縄<rt>おきなわ</rt></ruby>でとても<ruby>珍<rt>めずら</rt></ruby>しい<ruby>果物<rt>くだもの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I ate a very rare fruit in Okinawa.",
+      "zh_TW": "我在沖繩吃到了一種非常罕見的水果。",
+      "zh_CN": "我在冲绳吃到了一种非常罕见的水果。",
+      "ko": "오키나와에서 매우 희귀한 과일을 먹었습니다.",
+      "zh_HK": "我喺沖繩食到一種好罕見嘅生果。",
+      "fr": "J'ai mangé un fruit très rare à Okinawa."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1764",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "embarrassed / shy",
+      "zh_TW": "害羞的 / 丟臉的",
+      "zh_CN": "害羞的 / 难为情的",
+      "ko": "부끄럽다 / 창피하다",
+      "zh_HK": "怕醜嘅 / 尷尬嘅",
+      "fr": "gêné / timide / honteux"
+    },
+    "example": {
+      "ja": "<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すのは、<ruby>少<rt>すこ</rt></ruby>し<ruby>恥<rt>は</rt></ruby>ずかしいです。",
+      "en": "Speaking in front of a large crowd is a little embarrassing.",
+      "zh_TW": "在很多人面前講話有點害羞。",
+      "zh_CN": "在很多人面前讲话有点不好意思。",
+      "ko": "많은 사람 앞에서 이야기하는 것은 조금 부끄럽습니다.",
+      "zh_HK": "喺好多人面前講嘢有啲怕醜。",
+      "fr": "Parler devant beaucoup de monde est un peu gênant."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1765",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "眠い",
+    "reading": "ねむい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "sleepy / drowsy",
+      "zh_TW": "睏 / 想睡",
+      "zh_CN": "困 / 想睡",
+      "ko": "졸리다",
+      "zh_HK": "眼瞓",
+      "fr": "avoir sommeil / somnolent"
+    },
+    "example": {
+      "ja": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>勉強<rt>べんきょう</rt></ruby>していたので、<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>眠<rt>ねむ</rt></ruby>いです。",
+      "en": "Because I studied until late last night, I am very sleepy today.",
+      "zh_TW": "因為昨晚讀書到很晚，今天非常睏。",
+      "zh_CN": "因为昨晚学习到很晚，今天非常困。",
+      "ko": "어제는 밤늦게까지 공부해서 오늘은 너무 졸립니다.",
+      "zh_HK": "因為尋晚溫書溫到好夜，今日好眼瞓。",
+      "fr": "Comme j'ai étudié tard hier soir, j'ai très sommeil aujourd'hui."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1766",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "凄い",
+    "reading": "すごい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "amazing / incredible / terrible",
+      "zh_TW": "厲害的 / 驚人的",
+      "zh_CN": "厉害的 / 惊人的",
+      "ko": "대단하다 / 굉장하다",
+      "zh_HK": "犀利嘅 / 勁嘅",
+      "fr": "incroyable / formidable / terrible"
+    },
+    "example": {
+      "ja": "<ruby>高橋<rt>たかはし</rt></ruby>さんは3か<ruby>国<rt>こく</rt></ruby><ruby>語<rt>ご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるなんて、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>凄<rt>すご</rt></ruby>いですね。",
+      "en": "It's truly amazing that Ms. Takahashi can speak three languages.",
+      "zh_TW": "高橋小姐竟然會說三國語言，真是太厲害了。",
+      "zh_CN": "高桥小姐竟然会说三国语言，真是太厉害了。",
+      "ko": "다카하시 씨는 3개 국어를 할 수 있다니 정말 대단하네요.",
+      "zh_HK": "高橋小姐識講三種語言，真係好犀利呀。",
+      "fr": "C'est vraiment incroyable que Mme Takahashi puisse parler trois langues."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1767",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "おかしい",
+    "reading": "おかしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "funny / strange / odd",
+      "zh_TW": "好笑的 / 奇怪的",
+      "zh_CN": "可笑的 / 奇怪的",
+      "ko": "우스운 / 이상하다",
+      "zh_HK": "好笑嘅 / 奇怪嘅",
+      "fr": "drôle / bizarre / étrange"
+    },
+    "example": {
+      "ja": "パソコンから<ruby>変<rt>へん</rt></ruby>な<ruby>音<rt>おと</rt></ruby>がして、なんだか<ruby>様子<rt>ようす</rt></ruby>がおかしいです。",
+      "en": "A strange sound is coming from my computer, and something seems odd.",
+      "zh_TW": "電腦發出奇怪的聲音，總覺得不太對勁。",
+      "zh_CN": "电脑发出奇怪的声音，总觉得不太对劲。",
+      "ko": "컴퓨터에서 이상한 소리가 나고 어쩐지 상태가 이상합니다.",
+      "zh_HK": "部電腦發出怪聲，總係覺得有啲唔妥。",
+      "fr": "Mon ordinateur fait un bruit bizarre, son état semble anormal."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1768",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "おとなしい",
+    "reading": "おとなしい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "quiet / gentle / well-behaved",
+      "zh_TW": "乖巧的 / 文靜的 / 溫馴的",
+      "zh_CN": "老实的 / 文静的 / 温顺的",
+      "ko": "얌전하다 / 온순하다",
+      "zh_HK": "乖巧嘅 / 文靜嘅 / 溫馴嘅",
+      "fr": "calme / sage / docile"
+    },
+    "example": {
+      "ja": "<ruby>中村<rt>なかむら</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>の<ruby>犬<rt>いぬ</rt></ruby>はとてもおとなしくて、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>吠<rt>ほ</rt></ruby>えません。",
+      "en": "Mr. Nakamura's dog is very gentle and doesn't bark at all.",
+      "zh_TW": "中村先生家的狗非常溫馴，一點也不叫。",
+      "zh_CN": "中村先生家的狗非常温顺，一点也不叫。",
+      "ko": "나카무라 씨 집 개는 매우 얌전해서 전혀 짖지 않습니다.",
+      "zh_HK": "中村先生屋企隻狗好乖巧，完全唔會吠。",
+      "fr": "Le chien de M. Nakamura est très calme et n'aboie pas du tout."
+    },
+    "related": "い形容詞"
+  },
+  {
+    "id": "card_1769",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "盛んな",
+    "reading": "さかんな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "prosperous / popular / active",
+      "zh_TW": "繁盛的 / 盛行的",
+      "zh_CN": "繁盛的 / 盛行的",
+      "ko": "성황인 / 활발한",
+      "zh_HK": "盛行嘅 / 蓬勃嘅",
+      "fr": "prospère / populaire / actif"
+    },
+    "example": {
+      "ja": "この<ruby>地域<rt>ちいき</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>から<ruby>自動車<rt>じどうしゃ</rt></ruby>の<ruby>工業<rt>こうぎょう</rt></ruby>が<ruby>盛<rt>さか</rt></ruby>んです。",
+      "en": "The automobile industry has been thriving in this region since long ago.",
+      "zh_TW": "這個地區自古以來汽車工業就很發達。",
+      "zh_CN": "这个地区自古以来汽车工业就很发达。",
+      "ko": "이 지역은 옛날부터 자동차 공업이 발달해 있습니다.",
+      "zh_HK": "呢個地區自古以嚟汽車工業都好蓬勃。",
+      "fr": "L'industrie automobile est florissante dans cette région depuis longtemps."
+    },
+    "related": "な形容詞"
+  },
+  {
+    "id": "card_1770",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "適当な",
+    "reading": "てきとうな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "suitable / appropriate / half-hearted",
+      "zh_TW": "適當的 / 合適的 / 隨便的",
+      "zh_CN": "适当的 / 合适的 / 敷衍的",
+      "ko": "적당한 / 적절한",
+      "zh_HK": "適當嘅 / 隨便嘅",
+      "fr": "approprié / convenable"
+    },
+    "example": {
+      "ja": "<ruby>大<rt>おお</rt></ruby>きすぎず<ruby>小<rt>ちい</rt></ruby>さすぎない、<ruby>適当<rt>てきとう</rt></ruby>な<ruby>大<rt>おお</rt></ruby>きさの<ruby>箱<rt>はこ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。",
+      "en": "I am looking for a box of an appropriate size, neither too big nor too small.",
+      "zh_TW": "我在找一個不大不小、大小合適的箱子。",
+      "zh_CN": "我在找一个不大不小、大小合适的箱子。",
+      "ko": "너무 크지도 작지도 않은 적당한 크기의 상자를 찾고 있습니다.",
+      "zh_HK": "我搵緊一個唔太大又唔太細、大細啱啱好嘅箱。",
+      "fr": "Je cherche une boîte d'une taille appropriée, ni trop grande ni trop petite."
+    },
+    "related": "な形容詞（文脈で「いい加減」の意味も）"
+  },
+  {
+    "id": "card_1771",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "特別な",
+    "reading": "とくべつな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "special",
+      "zh_TW": "特別的 / 特殊的",
+      "zh_CN": "特别的 / 特殊的",
+      "ko": "특별한",
+      "zh_HK": "特別嘅",
+      "fr": "spécial / particulier"
+    },
+    "example": {
+      "ja": "<ruby>結婚<rt>けっこん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>日<rt>び</rt></ruby>なので、<ruby>特別<rt>とくべつ</rt></ruby>なレストランを<ruby>予約<rt>よやく</rt></ruby>しました。",
+      "en": "Since it is our wedding anniversary, I booked a special restaurant.",
+      "zh_TW": "因為是結婚紀念日，我預訂了一家特別的餐廳。",
+      "zh_CN": "因为是结婚纪念日，我预订了一家特别的餐厅。",
+      "ko": "결혼기념일이라서 특별한 레스토랑을 예약했습니다.",
+      "zh_HK": "因為係結婚紀念日，我Book咗間特別嘅餐廳。",
+      "fr": "Comme c'est notre anniversaire de mariage, j'ai réservé un restaurant spécial."
+    },
+    "related": "な形容詞"
+  },
+  {
+    "id": "card_1772",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "変な",
+    "reading": "へんな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "strange / weird / funny",
+      "zh_TW": "奇怪的 / 古怪的",
+      "zh_CN": "奇怪的 / 古怪的",
+      "ko": "이상한",
+      "zh_HK": "奇怪嘅 / 怪異嘅",
+      "fr": "bizarre / étrange"
+    },
+    "example": {
+      "ja": "<ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>から<ruby>変<rt>へん</rt></ruby>なメールが<ruby>届<rt>とど</rt></ruby>きました。",
+      "en": "A strange message arrived from an unknown number.",
+      "zh_TW": "收到了一個陌生號碼發來的奇怪郵件。",
+      "zh_CN": "收到了一个陌生号码发来的奇怪邮件。",
+      "ko": "모르는 번호로 이상한 메일이 왔습니다.",
+      "zh_HK": "收到一個唔識嘅號碼寄嚟嘅奇怪電郵。",
+      "fr": "J'ai reçu un message étrange d'un numéro inconnu."
+    },
+    "related": "な形容詞"
+  },
+  {
+    "id": "card_1773",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "無理な",
+    "reading": "むりな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "impossible / unreasonable / overdoing",
+      "zh_TW": "勉強的 / 不可能的",
+      "zh_CN": "勉强的 / 不可能的",
+      "ko": "무리한 / 불가능한",
+      "zh_HK": "勉強嘅 / 冇可能嘅",
+      "fr": "impossible / déraisonnable"
+    },
+    "example": {
+      "ja": "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときは、<ruby>無理<rt>むり</rt></ruby>をしないで<ruby>休<rt>やす</rt></ruby>んでください。",
+      "en": "When you are not feeling well, please rest without overdoing it.",
+      "zh_TW": "身體不舒服的時候，請不要勉強，好好休息。",
+      "zh_CN": "身体不舒服的时候，请不要勉强，好好休息。",
+      "ko": "몸 상태가 안 좋을 때는 무리하지 말고 쉬세요.",
+      "zh_HK": "身體唔舒服嗰陣，唔好勉強，好好休息下。",
+      "fr": "Quand vous ne vous sentez pas bien, ne forcez pas et reposez-vous."
+    },
+    "related": "な形容詞・サ変動詞（無理をする）"
+  },
+  {
+    "id": "card_1774",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "無駄な",
+    "reading": "むだな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "wasteful / useless / futile",
+      "zh_TW": "浪費的 / 白費的",
+      "zh_CN": "浪费的 / 白费的",
+      "ko": "쓸데없는 / 헛된",
+      "zh_HK": "浪費嘅 / 無謂嘅",
+      "fr": "inutile / gaspillé"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>るときは<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>して、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>電気<rt>でんき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わないようにしましょう。",
+      "en": "When leaving the room, let's turn off the lights so as not to waste electricity.",
+      "zh_TW": "離開房間時請關燈，不要浪費電。",
+      "zh_CN": "离开房间时请关灯，不要浪费电。",
+      "ko": "방에서 나갈 때는 불을 꺼서 불필요한 전기를 쓰지 않도록 합시다.",
+      "zh_HK": "離開房間嗰陣請熄燈，唔好浪費電力。",
+      "fr": "En quittant la pièce, éteignons la lumière pour éviter de gaspiller de l'électricité."
+    },
+    "related": "な形容詞"
+  },
+  {
+    "id": "card_1775",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "不便な",
+    "reading": "ふべんな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "inconvenient",
+      "zh_TW": "不方便的",
+      "zh_CN": "不方便的",
+      "ko": "불편한",
+      "zh_HK": "唔方便嘅",
+      "fr": "peu pratique / incommode"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>くてバスも<ruby>少<rt>すく</rt></ruby>ないので、この<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>不便<rt>ふべん</rt></ruby>です。",
+      "en": "Since it is far from the station and there are few buses, this place is a bit inconvenient.",
+      "zh_TW": "這裡離車站遠，公車也少，稍微有點不方便。",
+      "zh_CN": "这里离车站远，公交车也少，稍微有点不方便。",
+      "ko": "역에서 멀고 버스도 적어서 이 장소는 조금 불편합니다.",
+      "zh_HK": "呢度離車站遠，巴士又少，有啲唔方便。",
+      "fr": "C'est loin de la gare et il y a peu de bus, cet endroit est donc un peu incommode."
+    },
+    "related": "な形容詞 / 対義語: 便利な"
+  },
+  {
+    "id": "card_1776",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "十分な",
+    "reading": "じゅうぶんな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "enough / sufficient / plenty",
+      "zh_TW": "充分的 / 足夠的",
+      "zh_CN": "充分的 / 足够的",
+      "ko": "충분한",
+      "zh_HK": "足夠嘅 / 充足嘅",
+      "fr": "suffisant"
+    },
+    "example": {
+      "ja": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>をとることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "en": "It is important to get enough sleep before an exam.",
+      "zh_TW": "考試前保持充足的睡眠很重要。",
+      "zh_CN": "考试前保持充足的睡眠很重要。",
+      "ko": "시험 전에 충분한 수면을 취하는 것이 중요합니다.",
+      "zh_HK": "考試之前有充足嘅睡眠係好緊要嘅。",
+      "fr": "Il est important de dormir suffisamment avant un examen."
+    },
+    "related": "な形容詞・副詞"
+  },
+  {
+    "id": "card_1777",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "大事な",
+    "reading": "だいじな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "important / precious / valuable",
+      "zh_TW": "重要的 / 珍貴的",
+      "zh_CN": "重要的 / 珍贵的",
+      "ko": "중요한 / 소중한",
+      "zh_HK": "重要嘅 / 珍貴嘅",
+      "fr": "important / précieux"
+    },
+    "example": {
+      "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>な<ruby>面接<rt>めんせつ</rt></ruby>があるので、<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。",
+      "en": "Because I have an important interview tomorrow, I will go to bed early.",
+      "zh_TW": "明天有重要的面試，所以我要早點睡。",
+      "zh_CN": "明天有重要的面试，所以我要早点睡。",
+      "ko": "내일은 중요한 면접이 있어서 일찍 잡니다.",
+      "zh_HK": "聽日有個好重要嘅面試，所以我要早啲瞓。",
+      "fr": "J'ai un entretien important demain, je vais donc me coucher tôt."
+    },
+    "related": "な形容詞 / 類義語: 大切な"
+  },
+  {
+    "id": "card_1778",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "自由な",
+    "reading": "じゆうな",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "free / unrestricted",
+      "zh_TW": "自由的",
+      "zh_CN": "自由的",
+      "ko": "자유로운",
+      "zh_HK": "自由嘅",
+      "fr": "libre"
+    },
+    "example": {
+      "ja": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>をゆっくり<ruby>楽<rt>たの</rt></ruby>しみます。",
+      "en": "On my days off, I take my time enjoying my free time.",
+      "zh_TW": "休假日裡，我會悠閒地享受自己的自由時間。",
+      "zh_CN": "休息日里，我会悠闲地享受自己的自由时间。",
+      "ko": "쉬는 날에는 나만의 자유로운 시간을 여유롭게 즐깁니다.",
+      "zh_HK": "放假嘅日子，我會悠閒咁享受自己嘅自由時間。",
+      "fr": "Les jours de congé, je profite tranquillement de mon temps libre."
+    },
+    "related": "な形容詞・名詞"
+  },
+  {
+    "id": "card_1779",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "国際",
+    "reading": "こくさい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "international",
+      "zh_TW": "國際",
+      "zh_CN": "国际",
+      "ko": "국제",
+      "zh_HK": "國際",
+      "fr": "international"
+    },
+    "example": {
+      "ja": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれます。",
+      "en": "Next month, a large international conference will be held in Tokyo.",
+      "zh_TW": "下個月將在東京舉行大型國際會議。",
+      "zh_CN": "下个月将在东京举行大型国际会议。",
+      "ko": "다음 달 도쿄에서 큰 국제회의가 열립니다.",
+      "zh_HK": "下個月會喺東京舉行大型嘅國際會議。",
+      "fr": "Le mois prochain, une grande conférence internationale se tiendra à Tokyo."
+    },
+    "related": "関連語: 国際交流"
+  },
+  {
+    "id": "card_1780",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "西洋",
+    "reading": "せいよう",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "the West / Western countries",
+      "zh_TW": "西洋 / 西方",
+      "zh_CN": "西洋 / 西方",
+      "ko": "서양",
+      "zh_HK": "西洋 / 西方",
+      "fr": "l'Occident"
+    },
+    "example": {
+      "ja": "<ruby>上野<rt>うえの</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>で<ruby>西洋<rt>せいよう</rt></ruby>の<ruby>絵画<rt>かいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+      "en": "I saw Western paintings at an art museum in Ueno.",
+      "zh_TW": "我在上野的美術館看了西洋畫。",
+      "zh_CN": "我在上野的美术馆看了西洋画。",
+      "ko": "우에노 미술관에서 서양 회화를 보았습니다.",
+      "zh_HK": "我喺上野嘅美術館睇咗西洋畫。",
+      "fr": "J'ai vu des peintures occidentales au musée d'Ueno."
+    },
+    "related": "対義語: 東洋（とうよう）"
+  },
+  {
+    "id": "card_1781",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "別",
+    "reading": "べつ",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "another / different / separate",
+      "zh_TW": "另外 / 別的",
+      "zh_CN": "另外 / 别的",
+      "ko": "별도 / 다른",
+      "zh_HK": "另外 / 第二啲",
+      "fr": "autre / différent / séparé"
+    },
+    "example": {
+      "ja": "この<ruby>色<rt>いろ</rt></ruby>が<ruby>気に入<rt>きにい</rt></ruby>らない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>別<rt>べつ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>も<ruby>選<rt>えら</rt></ruby>べますよ。",
+      "en": "If you don't like this color, you can also choose a different color.",
+      "zh_TW": "如果您不喜歡這個顏色，也可以選擇別的顏色。",
+      "zh_CN": "如果您不喜欢这个颜色，也可以选择别的颜色。",
+      "ko": "이 색이 마음에 들지 않는 경우에는 다른 색도 고를 수 있어요.",
+      "zh_HK": "如果你唔鍾意呢隻色，都可以揀第隻色㗎。",
+      "fr": "Si cette couleur ne vous plaît pas, vous pouvez en choisir une autre."
+    },
+    "related": "表現: 別の〜 / 別に（否定と呼応）"
+  },
+  {
+    "id": "card_1782",
+    "section_num": 77,
+    "section_title": "#77 【N4総復習③】未習N4形容詞・性質・状態",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "割合",
+    "reading": "わりあい",
+    "category": "【N4総復習③】未習N4形容詞・性質・状態",
+    "meaning": {
+      "en": "ratio / percentage / comparatively",
+      "zh_TW": "比例 / 比較（副詞）",
+      "zh_CN": "比例 / 比较（副词）",
+      "ko": "비율 / 비교적",
+      "zh_HK": "比例 / 比較（副詞）",
+      "fr": "proportion / taux / relativement"
+    },
+    "example": {
+      "ja": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>例年<rt>れいねん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて<ruby>割合<rt>わりあい</rt></ruby><ruby>暖<rt>あたた</rt></ruby>かいです。",
+      "en": "This winter is relatively warm compared to average years.",
+      "zh_TW": "今年的冬天和往年相比，算是比較暖和的。",
+      "zh_CN": "今年的冬天和往年相比，算是比较暖和的。",
+      "ko": "올해 겨울은 예년에 비해 비교적 따뜻합니다.",
+      "zh_HK": "今年冬天同往年相比，算係比較暖。",
+      "fr": "Cet hiver est relativement doux par rapport aux autres années."
+    },
+    "related": "名詞・副詞（わりあい）"
+  },
+  {
+    "id": "card_1783",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "futon closet (Japanese-style closet)",
+      "zh_TW": "壁櫥（日式）",
+      "zh_CN": "壁橱（日式）",
+      "ko": "벽장",
+      "zh_HK": "壁櫥（日式衣櫃）",
+      "fr": "placard japonais (pour futon)"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら、<ruby>布団<rt>ふとん</rt></ruby>をたたんで<ruby>押し入<rt>おしい</rt></ruby>れにしまいます。",
+      "en": "When I wake up in the morning, I fold my futon and put it away in the closet.",
+      "zh_TW": "早上起床後，把棉被摺好收進壁櫥裡。",
+      "zh_CN": "早上起床后，把被褥叠好收进壁橱里。",
+      "ko": "아침에 일어나면 이불을 개서 벽장에 넣습니다.",
+      "zh_HK": "朝早起身之後，將被鋪摺好收返入壁櫥度。",
+      "fr": "Le matin au réveil, je plie le futon et je le range dans le placard."
+    },
+    "related": "和室の収納"
+  },
+  {
+    "id": "card_1784",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "畳",
+    "reading": "たたみ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "tatami mat",
+      "zh_TW": "榻榻米",
+      "zh_CN": "榻榻米 / 草席",
+      "ko": "다다미",
+      "zh_HK": "榻榻米",
+      "fr": "tatami"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は、い<ruby>草<rt>ぐさ</rt></ruby>のいい<ruby>匂<rt>にお</rt></ruby>いがします。",
+      "en": "A room with new tatami mats has a nice smell of rush grass.",
+      "zh_TW": "鋪著新榻榻米的房間有一股好聞的藺草香。",
+      "zh_CN": "铺着新榻榻米的房间有一股好闻的蔺草香。",
+      "ko": "새 다다미방은 골풀의 좋은 냄새가 납니다.",
+      "zh_HK": "鋪咗新榻榻米嘅房間有一陣好香嘅草味。",
+      "fr": "Une pièce avec des tatamis neufs sent bon le jonc."
+    },
+    "related": "和室の床材"
+  },
+  {
+    "id": "card_1785",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "布団",
+    "reading": "ふとん",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "futon (Japanese bedding)",
+      "zh_TW": "棉被 / 被褥",
+      "zh_CN": "被褥",
+      "ko": "이불 / 침구",
+      "zh_HK": "被鋪 / 棉被",
+      "fr": "futon / literie japonaise"
+    },
+    "example": {
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、ベランダに<ruby>布団<rt>ふとん</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しました。",
+      "en": "Since the weather was nice, I aired out the futon on the balcony.",
+      "zh_TW": "因為天氣好，我在陽台上曬了棉被。",
+      "zh_CN": "因为天气好，我在阳台上晒了被子。",
+      "ko": "날씨가 좋아서 베란다에 이불을 널었습니다.",
+      "zh_HK": "因為好天，我喺露台曬棉被。",
+      "fr": "Comme il faisait beau, j'ai mis le futon à aérer sur le balcon."
+    },
+    "related": "表現: 布団を敷く（しく）"
+  },
+  {
+    "id": "card_1786",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "鏡",
+    "reading": "かがみ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "mirror",
+      "zh_TW": "鏡子",
+      "zh_CN": "镜子",
+      "ko": "거울",
+      "zh_HK": "鏡",
+      "fr": "miroir / glace"
+    },
+    "example": {
+      "ja": "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、<ruby>玄関<rt>げんかん</rt></ruby>の<ruby>鏡<rt>かがみ</rt></ruby>でネクタイを<ruby>直<rt>なお</rt></ruby>しました。",
+      "en": "Before going out, I adjusted my necktie in the entrance mirror.",
+      "zh_TW": "出門前，我對著玄關的鏡子整理了一下領帶。",
+      "zh_CN": "出门前，我对着玄关的镜子整理了一下领带。",
+      "ko": "외출하기 전에 현관 거울을 보고 넥타이를 고쳐 맸습니다.",
+      "zh_HK": "出門口之前，我照住玄關塊鏡整返好條呔。",
+      "fr": "Avant de sortir, j'ai ajusté ma cravate devant le miroir de l'entrée."
+    },
+    "related": "表現: 鏡を見る"
+  },
+  {
+    "id": "card_1787",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "屋根",
+    "reading": "やね",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "roof",
+      "zh_TW": "屋頂",
+      "zh_CN": "屋顶 / 房顶",
+      "ko": "지붕",
+      "zh_HK": "屋頂",
+      "fr": "toit"
+    },
+    "example": {
+      "ja": "<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って、<ruby>家<rt>いえ</rt></ruby>の<ruby>屋根<rt>やね</rt></ruby>が<ruby>真っ白<rt>まっしろ</rt></ruby>になりました。",
+      "en": "A lot of snow fell, and the roof of the house turned pure white.",
+      "zh_TW": "下了很大的雪，屋頂變得一片雪白。",
+      "zh_CN": "下了很大的雪，房顶变得一片雪白。",
+      "ko": "눈이 많이 내려서 집 지붕이 새하얗게 변했습니다.",
+      "zh_HK": "落咗好大雪，屋頂變到全白。",
+      "fr": "Il a beaucoup neigé et le toit de la maison est devenu tout blanc."
+    },
+    "related": "住居の部分"
+  },
+  {
+    "id": "card_1788",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "二階建て",
+    "reading": "にかいだて",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "two-story building",
+      "zh_TW": "兩層樓（建築）",
+      "zh_CN": "两层楼（建筑）",
+      "ko": "2층집 / 2층 건물",
+      "zh_HK": "兩層高（建築）",
+      "fr": "bâtiment à deux étages (R+1)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>は、<ruby>庭<rt>にわ</rt></ruby>がある<ruby>二<rt>に</rt></ruby><ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>ての<ruby>家<rt>いえ</rt></ruby>です。",
+      "en": "Mr. Tanaka's new house is a two-story house with a garden.",
+      "zh_TW": "田中先生的新家是一棟帶院子的兩層樓房。",
+      "zh_CN": "田中先生的新家是一栋带院子的两层小楼。",
+      "ko": "다나카 씨의 새집은 정원이 있는 2층집입니다.",
+      "zh_HK": "田中先生間新屋係一間有花園嘅兩層高屋宇。",
+      "fr": "La nouvelle maison de M. Tanaka est une maison à un étage avec jardin."
+    },
+    "related": "表現: 〜階建て"
+  },
+  {
+    "id": "card_1789",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "下宿",
+    "reading": "げしゅく",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "boarding house / lodging",
+      "zh_TW": "寄宿 / 租屋",
+      "zh_CN": "寄宿 / 租房住",
+      "ko": "하숙",
+      "zh_HK": "寄宿 / 租房",
+      "fr": "pension / logement étudiant"
+    },
+    "example": {
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>うため、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>下宿<rt>げしゅく</rt></ruby>しています。",
+      "en": "To commute to university, I am lodging near the school.",
+      "zh_TW": "為了上大學，我在學校附近租房寄宿。",
+      "zh_CN": "为了上大学，我在学校附近租房住。",
+      "ko": "대학교에 다니기 위해 학교 근처에서 하숙하고 있습니다.",
+      "zh_HK": "為咗返大學，我喺學校附近租房住。",
+      "fr": "Pour aller à l'université, je loge près de l'école."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1790",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "家賃",
+    "reading": "やちん",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "rent",
+      "zh_TW": "房租",
+      "zh_CN": "房租",
+      "ko": "집세 / 월세",
+      "zh_HK": "屋租 / 租金",
+      "fr": "loyer"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>いアパートは<ruby>便利<rt>べんり</rt></ruby>ですが、<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。",
+      "en": "Apartments close to the station are convenient, but the rent is high.",
+      "zh_TW": "離車站近的公寓很方便，但房租很貴。",
+      "zh_CN": "离车站近的公寓很方便，但房租很贵。",
+      "ko": "역에서 가까운 아파트는 편리하지만 월세가 비쌉니다.",
+      "zh_HK": "近車站嘅公寓好方便，但係屋租好貴。",
+      "fr": "Les appartements proches de la gare sont pratiques, mais le loyer est élevé."
+    },
+    "related": "表現: 家賃を払う"
+  },
+  {
+    "id": "card_1791",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "近所",
+    "reading": "きんじょ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "neighborhood",
+      "zh_TW": "附近 / 鄰居",
+      "zh_CN": "附近 / 街坊邻居",
+      "ko": "이웃 / 근처",
+      "zh_HK": "附近 / 街坊鄰里",
+      "fr": "voisinage / quartier"
+    },
+    "example": {
+      "ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>してきたばかりなので、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>挨拶<rt>あいさつ</rt></ruby>をしました。",
+      "en": "Since I just moved in, I greeted the people in the neighborhood.",
+      "zh_TW": "因為剛搬來，我向街坊鄰居打了招呼。",
+      "zh_CN": "因为刚搬来，我向街坊邻居打了招呼。",
+      "ko": "막 이사를 와서 이웃 사람들에게 인사를 했습니다.",
+      "zh_HK": "因為啱啱搬嚟，我同附近嘅街坊打咗招呼。",
+      "fr": "Comme je viens d'emménager, j'ai salué les voisins du quartier."
+    },
+    "related": "表現: 近所の人"
+  },
+  {
+    "id": "card_1792",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "暖房",
+    "reading": "だんぼう",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "heating",
+      "zh_TW": "暖氣",
+      "zh_CN": "暖气",
+      "ko": "난방",
+      "zh_HK": "暖氣",
+      "fr": "chauffage"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>寒<rt>さむ</rt></ruby>いので、<ruby>暖房<rt>だんぼう</rt></ruby>をつけました。",
+      "en": "Because the room was cold, I turned on the heating.",
+      "zh_TW": "房間很冷，所以我開了暖氣。",
+      "zh_CN": "房间很冷，所以我开了暖气。",
+      "ko": "방이 추워서 난방을 켰습니다.",
+      "zh_HK": "間房好凍，所以我開咗暖氣。",
+      "fr": "Comme il faisait froid dans la pièce, j'ai allumé le chauffage."
+    },
+    "related": "対義語: 冷房（れいぼう）"
+  },
+  {
+    "id": "card_1793",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "冷房",
+    "reading": "れいぼう",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "air conditioning (cooling)",
+      "zh_TW": "冷氣",
+      "zh_CN": "冷气 / 空调",
+      "ko": "냉방",
+      "zh_HK": "冷氣",
+      "fr": "climatisation"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>冷房<rt>れいぼう</rt></ruby>が<ruby>効<rt>き</rt></ruby>きすぎていて、<ruby>少<rt>すこ</rt></ruby>し<ruby>寒<rt>さむ</rt></ruby>かったです。",
+      "en": "The air conditioning on the train was too strong, so it was a bit cold.",
+      "zh_TW": "電車裡的冷氣開得太強了，有點冷。",
+      "zh_CN": "电车里的冷气开得太足了，有点冷。",
+      "ko": "전철 냉방이 너무 세서 조금 추웠습니다.",
+      "zh_HK": "電車入面嘅冷氣開得太大，有啲凍。",
+      "fr": "La climatisation dans le train était trop forte, j'ai eu un peu froid."
+    },
+    "related": "対義語: 暖房（だんぼう）"
+  },
+  {
+    "id": "card_1794",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "電灯",
+    "reading": "でんとう",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "electric light",
+      "zh_TW": "電燈",
+      "zh_CN": "电灯",
+      "ko": "전등",
+      "zh_HK": "電燈",
+      "fr": "lampe électrique / lumière"
+    },
+    "example": {
+      "ja": "<ruby>暗<rt>くら</rt></ruby>くなってきたので、<ruby>部屋<rt>へや</rt></ruby>の<ruby>電灯<rt>でんとう</rt></ruby>をつけました。",
+      "en": "Since it was getting dark, I turned on the electric light in the room.",
+      "zh_TW": "天黑下來了，我打開了房間的電燈。",
+      "zh_CN": "天黑下来了，我打开了房间的电灯。",
+      "ko": "어두워져서 방의 전등을 켰습니다.",
+      "zh_HK": "開始天黑，我開咗間房盞電燈。",
+      "fr": "Comme il commençait à faire sombre, j'ai allumé la lumière de la pièce."
+    },
+    "related": "類義語: 電気・明かり"
+  },
+  {
+    "id": "card_1795",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "手袋",
+    "reading": "てぶくろ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "gloves / mittens",
+      "zh_TW": "手套",
+      "zh_CN": "手套",
+      "ko": "장갑",
+      "zh_HK": "手套",
+      "fr": "gants"
+    },
+    "example": {
+      "ja": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は<ruby>手<rt>て</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいので、<ruby>手袋<rt>てぶくろ</rt></ruby>をして<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。",
+      "en": "On winter mornings my hands get cold, so I wear gloves when riding my bicycle.",
+      "zh_TW": "冬天的早上手很冷，所以我戴著手套騎自行車。",
+      "zh_CN": "冬天的早上手很冷，所以我戴着手套骑自行车。",
+      "ko": "겨울 아침에는 손이 시려서 장갑을 끼고 자전거를 탑니다.",
+      "zh_HK": "冬天朝早隻手好凍，所以我戴住手套踩單車。",
+      "fr": "Les matins d'hiver, j'ai froid aux mains, alors je mets des gants pour faire du vélo."
+    },
+    "related": "動詞: 手袋をする・はめる"
+  },
+  {
+    "id": "card_1796",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "下着",
+    "reading": "したぎ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "underwear",
+      "zh_TW": "內衣褲",
+      "zh_CN": "内衣",
+      "ko": "속옷 / 내의",
+      "zh_HK": "內衣 / 底衫褲",
+      "fr": "sous-vêtements"
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くので、3<ruby>日<rt>にち</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>下着<rt>したぎ</rt></ruby>と<ruby>靴下<rt>くつした</rt></ruby>をかばんに<ruby>入<rt>い</rt></ruby>れました。",
+      "en": "Since I am going on a trip, I packed three days' worth of underwear and socks in my bag.",
+      "zh_TW": "因為要去旅行，我在包包裡放了三天份的內衣褲和襪子。",
+      "zh_CN": "因为要去旅行，我在包里放了三天份的内衣和袜子。",
+      "ko": "여행을 가기 때문에 3일 치 속옷과 양말을 가방에 넣었습니다.",
+      "zh_HK": "因為去旅行，我喺袋入面擺咗三日份量嘅底衫褲同襪。",
+      "fr": "Comme je pars en voyage, j'ai mis des sous-vêtements et des chaussettes pour trois jours dans mon sac."
+    },
+    "related": "衣類の名詞"
+  },
+  {
+    "id": "card_1797",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "着物",
+    "reading": "きもの",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "kimono (traditional Japanese clothing)",
+      "zh_TW": "和服",
+      "zh_CN": "和服",
+      "ko": "기모노 (일본 전통 의상)",
+      "zh_HK": "和服",
+      "fr": "kimono"
+    },
+    "example": {
+      "ja": "お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>京都<rt>きょうと</rt></ruby>で<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りました。",
+      "en": "On New Year's, I wore a kimono and took photos in Kyoto.",
+      "zh_TW": "過年的時候，我在京都穿著和服拍了照。",
+      "zh_CN": "新年的时候，我在京都穿着和服拍了照。",
+      "ko": "설날에 교토에서 기모노를 입고 사진을 찍었습니다.",
+      "zh_HK": "新年嗰陣，我喺京都著住和服影相。",
+      "fr": "Au Nouvel An, j'ai porté un kimono et pris des photos à Kyoto."
+    },
+    "related": "日本の伝統衣装"
+  },
+  {
+    "id": "card_1798",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "指輪",
+    "reading": "ゆびわ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "ring (jewelry)",
+      "zh_TW": "戒指",
+      "zh_CN": "戒指",
+      "ko": "반지",
+      "zh_HK": "戒指",
+      "fr": "bague / anneau"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>左手<rt>ひだりて</rt></ruby>の<ruby>薬指<rt>くすりゆび</rt></ruby>にきれいな<ruby>指輪<rt>ゆびわ</rt></ruby>をしています。",
+      "en": "Ms. Sato is wearing a pretty ring on the ring finger of her left hand.",
+      "zh_TW": "佐藤小姐在左手無名指上戴著一枚漂亮的戒指。",
+      "zh_CN": "佐藤小姐在左手无名指上戴着一枚漂亮的戒指。",
+      "ko": "사토 씨는 왼손 약지에 예쁜 반지를 끼고 있습니다.",
+      "zh_HK": "佐藤小姐喺左手無名指戴住隻好靚嘅戒指。",
+      "fr": "Mme Sato porte une jolie bague à l'annulaire gauche."
+    },
+    "related": "動詞: 指輪をする・はめる"
+  },
+  {
+    "id": "card_1799",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "絹",
+    "reading": "きぬ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "silk",
+      "zh_TW": "絲綢 / 蠶絲",
+      "zh_CN": "丝绸 / 蚕丝",
+      "ko": "비단 / 실크",
+      "zh_HK": "絲綢 / 真絲",
+      "fr": "soie"
+    },
+    "example": {
+      "ja": "このスカーフは100パーセント<ruby>絹<rt>きぬ</rt></ruby>でできているので、<ruby>肌触<rt>はだざわ</rt></ruby>りがいいです。",
+      "en": "Since this scarf is made of 100% silk, it feels nice against the skin.",
+      "zh_TW": "這條絲巾是百分之百絲綢做的，觸感非常好。",
+      "zh_CN": "这条围巾是百分百真丝做的，手感非常好。",
+      "ko": "이 스카프는 100퍼센트 실크로 만들어져서 감촉이 좋습니다.",
+      "zh_HK": "呢條絲巾係百分百真絲造嘅，摸上手好滑好舒服。",
+      "fr": "Ce foulard est 100 % en soie, il est donc très doux au toucher."
+    },
+    "related": "外来語: シルク"
+  },
+  {
+    "id": "card_1800",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "木綿",
+    "reading": "もめん",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "cotton",
+      "zh_TW": "棉 / 棉布",
+      "zh_CN": "棉 / 棉布",
+      "ko": "무명 / 면",
+      "zh_HK": "棉 / 棉質",
+      "fr": "coton"
+    },
+    "example": {
+      "ja": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>汗<rt>あせ</rt></ruby>をよく<ruby>吸<rt>す</rt></ruby>う<ruby>木綿<rt>もめん</rt></ruby>のシャツが<ruby>着<rt>き</rt></ruby>やすいです。",
+      "en": "In summer, cotton shirts that absorb sweat well are comfortable to wear.",
+      "zh_TW": "夏天穿吸汗好的純棉襯衫很舒服。",
+      "zh_CN": "夏天穿吸汗好的纯棉衬衫很舒服。",
+      "ko": "여름에는 땀을 잘 흡수하는 면 셔츠가 입기 편합니다.",
+      "zh_HK": "夏天著吸汗嘅棉質恤衫好舒服。",
+      "fr": "En été, les chemises en coton qui absorbent bien la transpiration sont agréables à porter."
+    },
+    "related": "外来語: コットン"
+  },
+  {
+    "id": "card_1801",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "食料品",
+    "reading": "しょくりょうひん",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "groceries / foodstuff",
+      "zh_TW": "食品 / 食料品",
+      "zh_CN": "食品 / 副食品",
+      "ko": "식료품",
+      "zh_HK": "食品 / 糧油雜貨",
+      "fr": "produits alimentaires"
+    },
+    "example": {
+      "ja": "デパートの<ruby>地下<rt>ちか</rt></ruby>で、<ruby>夕食<rt>ゆうしょく</rt></ruby>のための<ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "In the basement of the department store, I bought groceries for dinner.",
+      "zh_TW": "我在百貨公司的地下街買了做晚飯用的食品。",
+      "zh_CN": "我在百货商店的地下一层买了做晚饭用的食品。",
+      "ko": "백화점 지하에서 저녁 식사를 위한 식료품을 샀습니다.",
+      "zh_HK": "我喺百貨公司地庫買咗煮晚餐用嘅食品。",
+      "fr": "Au sous-sol du grand magasin, j'ai acheté des produits alimentaires pour le dîner."
+    },
+    "related": "関連語: 日用品"
+  },
+  {
+    "id": "card_1802",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "味噌",
+    "reading": "みそ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "miso (fermented soybean paste)",
+      "zh_TW": "味噌",
+      "zh_CN": "味噌 / 日本大酱",
+      "ko": "된장 (미소)",
+      "zh_HK": "麵豉 / 味噌",
+      "fr": "miso (pâte de soja fermentée)"
+    },
+    "example": {
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>かいご<ruby>飯<rt>はん</rt></ruby>と<ruby>豆腐<rt>とうふ</rt></ruby>の<ruby>味噌汁<rt>みそしる</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+      "en": "Every morning, I eat warm rice and tofu miso soup.",
+      "zh_TW": "每天早上，我都吃熱騰騰的米飯和豆腐味噌湯。",
+      "zh_CN": "每天早上，我都吃热腾腾的米饭和豆腐味噌汤。",
+      "ko": "매일 아침 따뜻한 밥과 두부 된장국을 먹습니다.",
+      "zh_HK": "每日朝早，我都會食熱辣辣嘅白飯同豆腐麵豉湯。",
+      "fr": "Chaque matin, je mange du riz chaud et une soupe miso au tofu."
+    },
+    "related": "関連語: 味噌汁（みそしる）"
+  },
+  {
+    "id": "card_1803",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "湯",
+    "reading": "ゆ",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "hot water",
+      "zh_TW": "熱水 / 開水",
+      "zh_CN": "热水 / 开水",
+      "ko": "뜨거운 물 / 온수",
+      "zh_HK": "熱水 / 滾水",
+      "fr": "eau chaude"
+    },
+    "example": {
+      "ja": "カップラーメンに<ruby>熱<rt>あつ</rt></ruby>いお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて3<ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。",
+      "en": "Pour hot water into the cup ramen and wait for 3 minutes.",
+      "zh_TW": "往杯麵裡倒入熱水，等三分鐘。",
+      "zh_CN": "往杯面里倒入热水，等三分钟。",
+      "ko": "컵라면에 뜨거운 물을 붓고 3분 기다립니다.",
+      "zh_HK": "將熱水倒入杯麵度，再等三分鐘。",
+      "fr": "Versez de l'eau chaude dans les nouilles instantanées et attendez 3 minutes."
+    },
+    "related": "丁寧形: お湯（おゆ）"
+  },
+  {
+    "id": "card_1804",
+    "section_num": 78,
+    "section_title": "#78 【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "支度",
+    "reading": "したく",
+    "category": "【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）",
+    "meaning": {
+      "en": "preparation / getting ready",
+      "zh_TW": "準備 / 打點（出門、飯菜）",
+      "zh_CN": "准备 / 打点（行装、饭菜）",
+      "ko": "채비 / 준비",
+      "zh_HK": "準備 / 執拾（出門、煮飯）",
+      "fr": "préparatifs"
+    },
+    "example": {
+      "ja": "<ruby>出<rt>で</rt></ruby>かける<ruby>支度<rt>したく</rt></ruby>ができましたから、いつでも<ruby>出発<rt>しゅっぱつ</rt></ruby>できます。",
+      "en": "I have finished getting ready to go out, so we can leave anytime.",
+      "zh_TW": "出門的準備已經做好了，隨時可以出發。",
+      "zh_CN": "出门的准备已经做好了，随时可以出发。",
+      "ko": "외출할 채비가 다 되었으니 언제든지 출발할 수 있습니다.",
+      "zh_HK": "出門口嘅準備已經搞掂晒，隨時可以出發。",
+      "fr": "Je suis prêt à sortir, nous pouvons partir à tout moment."
+    },
+    "related": "表現: 支度をする"
+  },
+  {
+    "id": "card_1805",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "社会",
+    "reading": "しゃかい",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "society",
+      "zh_TW": "社會",
+      "zh_CN": "社会",
+      "ko": "사회",
+      "zh_HK": "社會",
+      "fr": "société"
+    },
+    "example": {
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して、<ruby>今年<rt>ことし</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ます。",
+      "en": "I will graduate from university and enter society this spring.",
+      "zh_TW": "大學畢業後，今年春天我就要步入社會了。",
+      "zh_CN": "大学毕业后，今年春天我就要步入社会了。",
+      "ko": "대학교를 졸업하고 올봄부터 사회에 나갑니다.",
+      "zh_HK": "大學畢業之後，今年春天我就會投身社會。",
+      "fr": "Je vais obtenir mon diplôme universitaire et entrer dans la vie active ce printemps."
+    },
+    "related": "関連語: 社会人（しゃかいじん）"
+  },
+  {
+    "id": "card_1806",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "政治",
+    "reading": "せいじ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "politics / government",
+      "zh_TW": "政治",
+      "zh_CN": "政治",
+      "ko": "정치",
+      "zh_HK": "政治",
+      "fr": "politique"
+    },
+    "example": {
+      "ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>政治<rt>せいじ</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>のニュースをチェックしています。",
+      "en": "Every morning, my father reads the newspaper to check news on politics and economics.",
+      "zh_TW": "爸爸每天早上看報紙，關心政治和經濟新聞。",
+      "zh_CN": "爸爸每天早上看报纸，了解政治和经济新闻。",
+      "ko": "아버지는 매일 아침 신문을 읽으며 정치나 경제 뉴스를 확인하십니다.",
+      "zh_HK": "阿爸每日朝早都會睇報紙，留意政治同經濟新聞。",
+      "fr": "Chaque matin, mon père lit le journal pour suivre l'actualité politique et économique."
+    },
+    "related": "関連語: 政治家"
+  },
+  {
+    "id": "card_1807",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "経済",
+    "reading": "けいざい",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "economy / economics",
+      "zh_TW": "經濟",
+      "zh_CN": "经济",
+      "ko": "경제",
+      "zh_HK": "經濟",
+      "fr": "économie"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>の<ruby>経済学部<rt>けいざいがくぶ</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>について<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+      "en": "Mr. Tanaka is studying the world economy in the Faculty of Economics at university.",
+      "zh_TW": "田中先生在大學經濟系學習世界經濟。",
+      "zh_CN": "田中先生在大学经济系学习世界经济。",
+      "ko": "다나카 씨는 대학교 경제학부에서 세계 경제에 대해 공부하고 있습니다.",
+      "zh_HK": "田中先生喺大學經濟系讀緊關於世界經濟嘅嘢。",
+      "fr": "M. Tanaka étudie l'économie mondiale à la faculté d'économie de l'université."
+    },
+    "related": "関連語: 経済学"
+  },
+  {
+    "id": "card_1808",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "法律",
+    "reading": "ほうりつ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "law",
+      "zh_TW": "法律",
+      "zh_CN": "法律",
+      "ko": "법률 / 법",
+      "zh_HK": "法律",
+      "fr": "loi / droit"
+    },
+    "example": {
+      "ja": "その<ruby>国<rt>くに</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>やルールをきちんと<ruby>守<rt>まも</rt></ruby>ることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "en": "It is important to properly obey the laws and rules of that country.",
+      "zh_TW": "確實遵守那個國家的法律和規則是很重要的。",
+      "zh_CN": "严格遵守那个国家的法律和规则是很重要的。",
+      "ko": "그 나라의 법률이나 규칙을 제대로 지키는 것이 중요합니다.",
+      "zh_HK": "好好遵守嗰個國家嘅法律同規矩係好緊要嘅。",
+      "fr": "Il est important de bien respecter les lois et les règles de ce pays."
+    },
+    "related": "表現: 法律を守る"
+  },
+  {
+    "id": "card_1809",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "工業",
+    "reading": "こうぎょう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "manufacturing industry",
+      "zh_TW": "工業",
+      "zh_CN": "工业",
+      "ko": "공업",
+      "zh_HK": "工業",
+      "fr": "industrie"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>自動車<rt>じどうしゃ</rt></ruby>や<ruby>電子<rt>でんし</rt></ruby><ruby>部品<rt>ぶひん</rt></ruby>の<ruby>工業<rt>こうぎょう</rt></ruby>がとても<ruby>発達<rt>はったつ</rt></ruby>しています。",
+      "en": "In Japan, the automobile and electronic parts industries are very developed.",
+      "zh_TW": "日本的汽車和電子零件工業非常發達。",
+      "zh_CN": "日本的汽车和电子零件工业非常发达。",
+      "ko": "일본은 자동차나 전자 부품 공업이 매우 발달해 있습니다.",
+      "zh_HK": "日本嘅汽車同電子零件工業非常發達。",
+      "fr": "Au Japon, l'industrie automobile et celle des composants électroniques sont très développées."
+    },
+    "related": "関連語: 工業地帯"
+  },
+  {
+    "id": "card_1810",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "産業",
+    "reading": "さんぎょう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "industry",
+      "zh_TW": "產業",
+      "zh_CN": "产业",
+      "ko": "산업",
+      "zh_HK": "產業",
+      "fr": "industrie / secteur d'activité"
+    },
+    "example": {
+      "ja": "この<ruby>美<rt>うつく</rt></ruby>しい<ruby>島<rt>しま</rt></ruby>では、<ruby>観光<rt>かんこう</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>産業<rt>さんぎょう</rt></ruby>になっています。",
+      "en": "On this beautiful island, tourism has become the most important industry.",
+      "zh_TW": "在這個美麗的島嶼上，觀光業成了最重要的產業。",
+      "zh_CN": "在这个美丽的岛屿上，旅游业成了最重要的产业。",
+      "ko": "이 아름다운 섬에서는 관광이 가장 중요한 산업이 되어 있습니다.",
+      "zh_HK": "喺呢個靚島上面，旅遊業已經成為最重要嘅產業。",
+      "fr": "Sur cette belle île, le tourisme est devenu l'industrie la plus importante."
+    },
+    "related": "関連語: 観光産業"
+  },
+  {
+    "id": "card_1811",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "foreign trade / commerce",
+      "zh_TW": "貿易",
+      "zh_CN": "贸易",
+      "ko": "무역",
+      "zh_HK": "貿易",
+      "fr": "commerce international"
+    },
+    "example": {
+      "ja": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>外国<rt>がいこく</rt></ruby>と<ruby>果物<rt>くだもの</rt></ruby>を<ruby>輸出入<rt>ゆしゅつにゅう</rt></ruby>する<ruby>貿易<rt>ぼうえき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
+      "en": "Ms. Suzuki works at a trading company that imports and exports fruits with foreign countries.",
+      "zh_TW": "鈴木小姐在一家與外國進出口水果的貿易公司工作。",
+      "zh_CN": "铃木小姐在一家与外国进出口水果的贸易公司工作。",
+      "ko": "스즈키 씨는 외국과 과일을 수출입하는 무역 회사에서 일하고 있습니다.",
+      "zh_HK": "鈴木小姐喺一間同外國做生果出入口嘅貿易公司做嘢。",
+      "fr": "Mme Suzuki travaille dans une société de commerce qui importe et exporte des fruits."
+    },
+    "related": "関連語: 貿易会社"
+  },
+  {
+    "id": "card_1812",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "科学",
+    "reading": "かがく",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "science",
+      "zh_TW": "科學",
+      "zh_CN": "科学",
+      "ko": "과학",
+      "zh_HK": "科學",
+      "fr": "science"
+    },
+    "example": {
+      "ja": "<ruby>子<rt>こ</rt></ruby>どもと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>科学<rt>かがく</rt></ruby><ruby>博物館<rt>はくぶつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>展示<rt>てんじ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+      "en": "I went to the science museum with my child and saw an exhibition about space.",
+      "zh_TW": "我和孩子一起去科學博物館看了宇宙展覽。",
+      "zh_CN": "我和孩子一起去科学博物馆看了宇宙展览。",
+      "ko": "아이와 함께 과학 박물관에 가서 우주 전시를 보았습니다.",
+      "zh_HK": "我同小朋友一齊去科學博物館睇咗關於宇宙嘅展覽。",
+      "fr": "Je suis allé au musée des sciences avec mon enfant pour voir l'exposition sur l'espace."
+    },
+    "related": "関連語: 科学者"
+  },
+  {
+    "id": "card_1813",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "technology / technique / skill",
+      "zh_TW": "技術",
+      "zh_CN": "技术",
+      "ko": "기술",
+      "zh_HK": "技術",
+      "fr": "technologie / technique"
+    },
+    "example": {
+      "ja": "<ruby>新<rt>あたら</rt></ruby>しいコンピューターの<ruby>技術<rt>ぎじゅつ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>どんどん<ruby>進<rt>すす</rt></ruby>んでいます。",
+      "en": "New computer technology is advancing rapidly every day.",
+      "zh_TW": "新的電腦技術每天都在飛速發展。",
+      "zh_CN": "新的计算机技术每天都在飞速发展。",
+      "ko": "새로운 컴퓨터 기술은 매일 점점 발전하고 있습니다.",
+      "zh_HK": "新嘅電腦技術日日都好快咁進步緊。",
+      "fr": "Les nouvelles technologies informatiques progressent rapidement chaque jour."
+    },
+    "related": "関連語: 技術者（エンジニア）"
+  },
+  {
+    "id": "card_1814",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "教育",
+    "reading": "きょういく",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "education",
+      "zh_TW": "教育",
+      "zh_CN": "教育",
+      "ko": "교육",
+      "zh_HK": "教育",
+      "fr": "éducation / enseignement"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもの<ruby>教育<rt>きょういく</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>仕事<rt>しごと</rt></ruby>がしたいそうです。",
+      "en": "I hear that Ms. Sato wants to do work related to children's education in the future.",
+      "zh_TW": "聽說佐藤小姐將來想從事與兒童教育相關的工作。",
+      "zh_CN": "听说佐藤小姐将来想从事与儿童教育相关的工作。",
+      "ko": "사토 씨는 장래에 아이들의 교육과 관련된 일을 하고 싶다고 합니다.",
+      "zh_HK": "聽講佐藤小姐將來想做同小朋友教育有關嘅工作。",
+      "fr": "Il paraît que Mme Sato souhaite travailler dans le domaine de l'éducation des enfants à l'avenir."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1815",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "研究",
+    "reading": "けんきゅう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "research / study",
+      "zh_TW": "研究",
+      "zh_CN": "研究",
+      "ko": "연구",
+      "zh_HK": "研究",
+      "fr": "recherche / étude"
+    },
+    "example": {
+      "ja": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>大学院<rt>だいがくいん</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しいエネルギーについての<ruby>研究<rt>けんきゅう</rt></ruby>をしています。",
+      "en": "Ms. Takahashi is conducting research on new energy at graduate school.",
+      "zh_TW": "高橋小姐正在研究所進行關於新能源的研究。",
+      "zh_CN": "高桥小姐正在研究生院进行关于新能源的研究。",
+      "ko": "다카하시 씨는 대학원에서 새로운 에너지에 대한 연구를 하고 있습니다.",
+      "zh_HK": "高橋小姐喺研究院做緊關於新能源嘅研究。",
+      "fr": "Mme Takahashi fait des recherches sur les nouvelles énergies à l'école doctorale."
+    },
+    "related": "名詞・サ変動詞 / 研究者"
+  },
+  {
+    "id": "card_1816",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "研究室",
+    "reading": "けんきゅうしつ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "laboratory / professor's office",
+      "zh_TW": "研究室 / 實驗室",
+      "zh_CN": "研究室 / 实验室",
+      "ko": "연구실",
+      "zh_HK": "研究室 / 實驗室",
+      "fr": "laboratoire / bureau de professeur"
+    },
+    "example": {
+      "ja": "レポートを<ruby>提出<rt>ていしゅつ</rt></ruby>するために、<ruby>田中<rt>たなか</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。",
+      "en": "To submit my report, I visited Professor Tanaka's office.",
+      "zh_TW": "為了交報告，我去拜訪了田中老師的研究室。",
+      "zh_CN": "为了交报告，我去拜访了田中老师的研究室。",
+      "ko": "보고서를 제출하기 위해 다나카 선생님의 연구실을 방문했습니다.",
+      "zh_HK": "為咗交報告，我去咗田中老師嘅研究室。",
+      "fr": "Pour rendre mon rapport, je me suis rendu au bureau du professeur Tanaka."
+    },
+    "related": "関連語: 研究する"
+  },
+  {
+    "id": "card_1817",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "講義",
+    "reading": "こうぎ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "university lecture",
+      "zh_TW": "講義 / （大學）講課",
+      "zh_CN": "讲义 / （大学）讲座、课程",
+      "ko": "강의",
+      "zh_HK": "（大學）講座 / 堂",
+      "fr": "cours magistral / conférence"
+    },
+    "example": {
+      "ja": "<ruby>山本<rt>やまもと</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>はとても<ruby>面白<rt>おもしろ</rt></ruby>くて<ruby>人気<rt>にんき</rt></ruby>があります。",
+      "en": "Professor Yamamoto's history lectures are very interesting and popular.",
+      "zh_TW": "山本教授的歷史課非常有趣，很受歡迎。",
+      "zh_CN": "山本教授的历史课非常有趣，很受欢迎。",
+      "ko": "야마모토 교수님의 역사 강의는 매우 재미있어서 인기가 있습니다.",
+      "zh_HK": "山本教授嘅歷史堂好有趣，好受歡迎。",
+      "fr": "Le cours d'histoire du professeur Yamamoto est très intéressant et populaire."
+    },
+    "related": "表現: 講義を受ける"
+  },
+  {
+    "id": "card_1818",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "学部",
+    "reading": "がくぶ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "faculty / undergraduate department",
+      "zh_TW": "（大學）學系 / 學院",
+      "zh_CN": "（大学）系 / 学院",
+      "ko": "학부",
+      "zh_HK": "（大學）學系 / 學院",
+      "fr": "faculté / département universitaire"
+    },
+    "example": {
+      "ja": "<ruby>中村<rt>なかむら</rt></ruby>さんはどの<ruby>学部<rt>がくぶ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>むか、まだ<ruby>迷<rt>まよ</rt></ruby>っています。",
+      "en": "Mr. Nakamura is still undecided about which faculty to enter.",
+      "zh_TW": "中村先生還在猶豫要報考哪個學系。",
+      "zh_CN": "中村先生还在犹豫要报考哪个学院。",
+      "ko": "나카무라 씨는 어느 학부로 진학할지 아직 망설이고 있습니다.",
+      "zh_HK": "中村先生仲猶豫緊要揀邊個學系。",
+      "fr": "M. Nakamura hésite encore sur la faculté qu'il va choisir."
+    },
+    "related": "例: 文学部・経済学部"
+  },
+  {
+    "id": "card_1819",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "校長",
+    "reading": "こうちょう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "school principal / headmaster",
+      "zh_TW": "校長（中小學）",
+      "zh_CN": "校长（中小学）",
+      "ko": "교장",
+      "zh_HK": "校長（中小學）",
+      "fr": "directeur d'école / proviseur"
+    },
+    "example": {
+      "ja": "<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>で<ruby>校長<rt>こうちょう</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>から<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>証書<rt>しょうしょ</rt></ruby>をいただきました。",
+      "en": "At the graduation ceremony, I received my diploma from the principal.",
+      "zh_TW": "在畢業典禮上，我從校長手中接過了畢業證書。",
+      "zh_CN": "在毕业典礼上，我从校长手中接过了毕业证书。",
+      "ko": "졸업식에서 교장 선생님께 졸업장을 받았습니다.",
+      "zh_HK": "喺畢業典禮度，我喺校長手中接過畢業證書。",
+      "fr": "Lors de la cérémonie de remise des diplômes, j'ai reçu mon diplôme des mains du proviseur."
+    },
+    "related": "（※大学は「学長」）"
+  },
+  {
+    "id": "card_1820",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "高等学校",
+    "reading": "こうとうがっこう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "senior high school (formal)",
+      "zh_TW": "高級中學 / 高中",
+      "zh_CN": "高级中学 / 高中",
+      "ko": "고등학교",
+      "zh_HK": "高級中學 / 高中",
+      "fr": "lycée (terme officiel)"
+    },
+    "example": {
+      "ja": "<ruby>履歴<rt>りれき</rt></ruby><ruby>書<rt>しょ</rt></ruby>には「<ruby>高校<rt>こうこう</rt></ruby>」ではなく「<ruby>高等<rt>こうとう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>」と<ruby>書<rt>か</rt></ruby>くのが<ruby>正式<rt>せいしき</rt></ruby>です。",
+      "en": "On a resume, it is official to write 'Koutougakkou' rather than 'Koukou'.",
+      "zh_TW": "在履歷表上，正式的寫法是「高等學校」而不是「高校」。",
+      "zh_CN": "在简历上，正式的写法是“高等学校”而不是“高校”。",
+      "ko": "이력서에는 '고교'가 아니라 '고등학교'라고 쓰는 것이 정식입니다.",
+      "zh_HK": "喺履歷表上面，正式寫法係寫「高等學校」而唔係簡寫「高校」。",
+      "fr": "Sur un CV, la forme officielle est d'écrire « Kōtōgakkō » plutôt que l'abréviation « Kōkō »."
+    },
+    "related": "略称: 高校（こうこう）"
+  },
+  {
+    "id": "card_1821",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "講堂",
+    "reading": "こうどう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "auditorium / lecture hall",
+      "zh_TW": "禮堂 / 講堂",
+      "zh_CN": "礼堂 / 讲堂",
+      "ko": "강당",
+      "zh_HK": "禮堂",
+      "fr": "auditorium / amphithéâtre"
+    },
+    "example": {
+      "ja": "<ruby>入学<rt>にゅうがく</rt></ruby><ruby>式<rt>しき</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>講堂<rt>こうどう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われます。",
+      "en": "The entrance ceremony will be held in the school's large auditorium.",
+      "zh_TW": "入學典禮將在學校的大禮堂舉行。",
+      "zh_CN": "入学典礼将在学校的大礼堂举行。",
+      "ko": "입학식은 학교의 큰 강당에서 열립니다.",
+      "zh_HK": "入學禮會喺學校嘅大禮堂舉行。",
+      "fr": "La cérémonie de rentrée aura lieu dans le grand auditorium de l'école."
+    },
+    "related": "学校の施設"
+  },
+  {
+    "id": "card_1822",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "数学",
+    "reading": "すうがく",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "mathematics",
+      "zh_TW": "數學",
+      "zh_CN": "数学",
+      "ko": "수학",
+      "zh_HK": "數學",
+      "fr": "mathématiques"
+    },
+    "example": {
+      "ja": "<ruby>伊藤<rt>いとう</rt></ruby>さんは<ruby>子供<rt>こども</rt></ruby>のころから<ruby>数学<rt>すうがく</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。",
+      "en": "Mr. Ito has been good at mathematics since he was a child.",
+      "zh_TW": "伊藤先生從小就很擅長數學。",
+      "zh_CN": "伊藤先生从小就很擅长数学。",
+      "ko": "이토 씨는 어릴 때부터 수학을 잘합니다.",
+      "zh_HK": "伊藤先生由細到大數學都好叻。",
+      "fr": "M. Ito est doué en mathématiques depuis son enfance."
+    },
+    "related": "教科名"
+  },
+  {
+    "id": "card_1823",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "地理",
+    "reading": "ちり",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "geography",
+      "zh_TW": "地理",
+      "zh_CN": "地理",
+      "ko": "지리",
+      "zh_HK": "地理",
+      "fr": "géographie"
+    },
+    "example": {
+      "ja": "<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>好<rt>す</rt></ruby>きなので、<ruby>日本<rt>にほん</rt></ruby>の<ruby>地理<rt>ちり</rt></ruby>には<ruby>詳<rt>くわ</rt></ruby>しいです。",
+      "en": "Because I love traveling, I am well-versed in Japanese geography.",
+      "zh_TW": "因為喜歡旅行，我對日本的地理很熟悉。",
+      "zh_CN": "因为喜欢旅行，我对日本的地理很熟悉。",
+      "ko": "여행을 좋아해서 일본 지리에는 밝습니다.",
+      "zh_HK": "因為鍾意去旅行，我對日本嘅地理好熟。",
+      "fr": "Comme j'aime voyager, je connais bien la géographie du Japon."
+    },
+    "related": "教科名"
+  },
+  {
+    "id": "card_1824",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "文学",
+    "reading": "ぶんがく",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "literature",
+      "zh_TW": "文學",
+      "zh_CN": "文学",
+      "ko": "문학",
+      "zh_HK": "文學",
+      "fr": "littérature"
+    },
+    "example": {
+      "ja": "<ruby>大学<rt>だいがく</rt></ruby>では<ruby>日本<rt>にほん</rt></ruby>の<ruby>現代<rt>げんだい</rt></ruby><ruby>文学<rt>ぶんがく</rt></ruby>について<ruby>研究<rt>けんきゅう</rt></ruby>したいです。",
+      "en": "At university, I want to research modern Japanese literature.",
+      "zh_TW": "在大學裡，我想研究日本現代文學。",
+      "zh_CN": "在大学里，我想研究日本现代文学。",
+      "ko": "대학교에서는 일본 현대 문학에 대해 연구하고 싶습니다.",
+      "zh_HK": "喺大學入面，我想研究日本現代文學。",
+      "fr": "À l'université, je voudrais faire des recherches sur la littérature japonaise contemporaine."
+    },
+    "related": "関連語: 文学部"
+  },
+  {
+    "id": "card_1825",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "文法",
+    "reading": "ぶんぽう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "grammar",
+      "zh_TW": "文法 / 語法",
+      "zh_CN": "语法",
+      "ko": "문법",
+      "zh_HK": "文法 / 語法",
+      "fr": "grammaire"
+    },
+    "example": {
+      "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ、N4の<ruby>単語<rt>たんご</rt></ruby>と<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>しています。",
+      "en": "Every day, little by little, I review N4 vocabulary and grammar.",
+      "zh_TW": "我每天都一點點地複習N4的單字和文法。",
+      "zh_CN": "我每天都一点点地复习N4的单词和语法。",
+      "ko": "매일 조금씩 N4 단어와 문법을 복습하고 있습니다.",
+      "zh_HK": "我每日都少少咁溫習N4嘅生字同文法。",
+      "fr": "Chaque jour, je révise petit à petit le vocabulaire et la grammaire du niveau N4."
+    },
+    "related": "関連語: 語彙（ごい）・発音"
+  },
+  {
+    "id": "card_1826",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "小説",
+    "reading": "しょうせつ",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "novel / fiction",
+      "zh_TW": "小說",
+      "zh_CN": "小说",
+      "ko": "소설",
+      "zh_HK": "小說",
+      "fr": "roman"
+    },
+    "example": {
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>作家<rt>さっか</rt></ruby>の<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいます。",
+      "en": "I am reading a novel by a famous author on the train.",
+      "zh_TW": "我正在電車上看著名作家的小說。",
+      "zh_CN": "我正在电车上看著名作家的小说。",
+      "ko": "전철 안에서 유명한 작가의 소설을 읽고 있습니다.",
+      "zh_HK": "我喺電車入面睇緊出名作家寫嘅小說。",
+      "fr": "Je lis un roman d'un écrivain célèbre dans le train."
+    },
+    "related": "関連語: 小説家"
+  },
+  {
+    "id": "card_1827",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "漫画",
+    "reading": "まんが",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "manga / comic book",
+      "zh_TW": "漫畫",
+      "zh_CN": "漫画",
+      "ko": "만화",
+      "zh_HK": "漫畫",
+      "fr": "manga / bande dessinée"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>やアニメは<ruby>世界中<rt>せかいじゅう</rt></ruby>でとても<ruby>人気<rt>にんき</rt></ruby>があります。",
+      "en": "Japanese manga and anime are very popular all over the world.",
+      "zh_TW": "日本的漫畫和動畫在全世界都非常受歡迎。",
+      "zh_CN": "日本的漫画和动画在全世界都非常受欢迎。",
+      "ko": "일본의 만화나 애니메이션은 전 세계에서 매우 인기가 있습니다.",
+      "zh_HK": "日本嘅漫畫同動漫喺全世界都好受歡迎。",
+      "fr": "Les mangas et les dessins animés japonais sont très populaires dans le monde entier."
+    },
+    "related": "関連語: 漫画家"
+  },
+  {
+    "id": "card_1828",
+    "section_num": 79,
+    "section_title": "#79 【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "放送",
+    "reading": "ほうそう",
+    "category": "【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）",
+    "meaning": {
+      "en": "broadcasting / broadcast",
+      "zh_TW": "廣播 / 播出",
+      "zh_CN": "广播 / 播放",
+      "ko": "방송",
+      "zh_HK": "廣播 / 播放",
+      "fr": "diffusion / émission"
+    },
+    "example": {
+      "ja": "このドラマは<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>から<ruby>放送<rt>ほうそう</rt></ruby>されています。",
+      "en": "This drama is broadcast every Sunday night starting at 9 p.m.",
+      "zh_TW": "這部電視劇每週日晚上九點播出。",
+      "zh_CN": "这部电视剧每周日晚上九点播出。",
+      "ko": "이 드라마는 매주 일요일 밤 9시부터 방송되고 있습니다.",
+      "zh_HK": "呢套劇集逢星期日夜晚九點播放。",
+      "fr": "Cette série est diffusée tous les dimanches soir à partir de 21 heures."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1829",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "海岸",
+    "reading": "かいがん",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "coast / beach / seashore",
+      "zh_TW": "海岸 / 海灘",
+      "zh_CN": "海岸 / 海滩",
+      "ko": "해안 / 바닷가",
+      "zh_HK": "海岸 / 海灘",
+      "fr": "côte / plage / bord de mer"
+    },
+    "example": {
+      "ja": "<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>海岸<rt>かいがん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きながら、きれいな<ruby>夕日<rt>ゆうひ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+      "en": "In the evening, I watched the beautiful sunset while walking along the beach.",
+      "zh_TW": "傍晚我在海岸邊散步，看到了美麗的夕陽。",
+      "zh_CN": "傍晚我在海滩上散步，看到了美丽的夕阳。",
+      "ko": "저녁에 해안을 걸으면서 아름다운 석양을 보았습니다.",
+      "zh_HK": "傍晚我一邊喺海灘散步，一邊睇好靚嘅日落。",
+      "fr": "Le soir, j'ai admiré le beau coucher de soleil en marchant le long de la plage."
+    },
+    "related": "自然・地理の名詞"
+  },
+  {
+    "id": "card_1830",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "湖",
+    "reading": "みずうみ",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "lake",
+      "zh_TW": "湖 / 湖泊",
+      "zh_CN": "湖 / 湖泊",
+      "ko": "호수",
+      "zh_HK": "湖",
+      "fr": "lac"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>大<rt>おお</rt></ruby>きい<ruby>湖<rt>みずうみ</rt></ruby>は<ruby>滋賀<rt>しが</rt></ruby><ruby>県<rt>けん</rt></ruby>にある<ruby>琵琶湖<rt>びわこ</rt></ruby>です。",
+      "en": "The largest lake in Japan is Lake Biwa in Shiga Prefecture.",
+      "zh_TW": "日本最大的湖是位於滋賀縣的琵琶湖。",
+      "zh_CN": "日本最大的湖是位于滋贺县的琵琶湖。",
+      "ko": "일본에서 가장 큰 호수는 시가현에 있는 비와호입니다.",
+      "zh_HK": "日本最大嘅湖係位於滋賀縣嘅琵琶湖。",
+      "fr": "Le plus grand lac du Japon est le lac Biwa, situé dans la préfecture de Shiga."
+    },
+    "related": "自然・地理の名詞"
+  },
+  {
+    "id": "card_1831",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "港",
+    "reading": "みなと",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "harbor / port",
+      "zh_TW": "港口 / 港灣",
+      "zh_CN": "港口 / 港湾",
+      "ko": "항구",
+      "zh_HK": "港口 / 碼頭",
+      "fr": "port"
+    },
+    "example": {
+      "ja": "<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>がたくさん<ruby>止<rt>と</rt></ruby>まっています。",
+      "en": "Many large ships are docked at the port of Yokohama.",
+      "zh_TW": "橫濱港停泊著許多大船。",
+      "zh_CN": "横滨港停泊着许多大船。",
+      "ko": "요코하마 항구에는 큰 배가 많이 정박해 있습니다.",
+      "zh_HK": "橫濱港口泊咗好多大船。",
+      "fr": "Beaucoup de grands bateaux sont amarrés dans le port de Yokohama."
+    },
+    "related": "自然・地理の名詞"
+  },
+  {
+    "id": "card_1832",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "島",
+    "reading": "しま",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "island",
+      "zh_TW": "島 / 島嶼",
+      "zh_CN": "岛 / 岛屿",
+      "ko": "섬",
+      "zh_HK": "島 / 島嶼",
+      "fr": "île"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>船<rt>ふね</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、<ruby>南<rt>みなみ</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>島<rt>しま</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "During summer vacation, I took a boat and went to visit a small southern island.",
+      "zh_TW": "暑假我搭船去南方的小島玩了。",
+      "zh_CN": "暑假我坐船去南方的小岛玩了。",
+      "ko": "여름휴가에 배를 타고 남쪽의 작은 섬으로 놀러 갔습니다.",
+      "zh_HK": "暑假我搭船去咗南面嘅一個小島度玩。",
+      "fr": "Pendant les vacances d'été, j'ai pris le bateau pour aller sur une petite île du sud."
+    },
+    "related": "複合語では「〜じま・〜とう」"
+  },
+  {
+    "id": "card_1833",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "森",
+    "reading": "もり",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "forest / woods (dense)",
+      "zh_TW": "森林",
+      "zh_CN": "森林",
+      "ko": "숲",
+      "zh_HK": "森林",
+      "fr": "forêt"
+    },
+    "example": {
+      "ja": "<ruby>深<rt>ふか</rt></ruby>い<ruby>森<rt>もり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くと、<ruby>鳥<rt>とり</rt></ruby>の<ruby>鳴き声<rt>なきごえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきます。",
+      "en": "When you walk through the deep forest, you can hear the chirping of birds.",
+      "zh_TW": "走在茂密的森林裡，能聽到鳥兒的叫聲。",
+      "zh_CN": "走在茂密的森林里，能听到鸟儿的叫声。",
+      "ko": "깊은 숲속을 걸으면 새 울음소리가 들려옵니다.",
+      "zh_HK": "行喺深山森林入面，會聽到雀仔嘅叫聲。",
+      "fr": "En marchant dans la forêt profonde, on entend le chant des oiseaux."
+    },
+    "related": "類義語: 林（はやし）"
+  },
+  {
+    "id": "card_1834",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "林",
+    "reading": "はやし",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "woods / grove (smaller than a forest)",
+      "zh_TW": "樹林",
+      "zh_CN": "树林 / 林子",
+      "ko": "수풀 / 작은 숲",
+      "zh_HK": "樹林",
+      "fr": "bois / bosquet"
+    },
+    "example": {
+      "ja": "<ruby>家<rt>いえ</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さな<ruby>林<rt>はやし</rt></ruby>があって、<ruby>秋<rt>あき</rt></ruby>には<ruby>紅葉<rt>こうよう</rt></ruby>がきれいです。",
+      "en": "There is a small grove behind my house, and the autumn leaves are pretty in fall.",
+      "zh_TW": "我家後面有一片小樹林，到了秋天紅葉非常漂亮。",
+      "zh_CN": "我家后面有一片小树林，到了秋天红叶非常漂亮。",
+      "ko": "집 뒤에 작은 숲이 있어서 가을에는 단풍이 예쁩니다.",
+      "zh_HK": "我屋企後面有一片小樹林，到咗秋天紅葉好靚。",
+      "fr": "Il y a un petit bois derrière la maison, et les feuilles d'automne y sont magnifiques."
+    },
+    "related": "類義語: 森（もり）"
+  },
+  {
+    "id": "card_1835",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "枝",
+    "reading": "えだ",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "branch / twig",
+      "zh_TW": "樹枝",
+      "zh_CN": "树枝",
+      "ko": "가지 (나뭇가지)",
+      "zh_HK": "樹枝",
+      "fr": "branche"
+    },
+    "example": {
+      "ja": "<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さな<ruby>鳥<rt>とり</rt></ruby>が<ruby>止<rt>と</rt></ruby>まって<ruby>歌<rt>うた</rt></ruby>っています。",
+      "en": "A small bird is perched on a tree branch singing.",
+      "zh_TW": "小鳥停在樹枝上唱歌。",
+      "zh_CN": "小鸟停在树枝上唱歌。",
+      "ko": "나뭇가지에 작은 새가 앉아 노래하고 있습니다.",
+      "zh_HK": "有隻雀仔企喺樹枝上面唱歌。",
+      "fr": "Un petit oiseau est perché sur une branche d'arbre et chante."
+    },
+    "related": "植物の名詞"
+  },
+  {
+    "id": "card_1836",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "草",
+    "reading": "くさ",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "grass / weeds",
+      "zh_TW": "草",
+      "zh_CN": "草",
+      "ko": "풀",
+      "zh_HK": "草",
+      "fr": "herbe"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>庭<rt>にわ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いて、きれいに<ruby>掃除<rt>そうじ</rt></ruby>しました。",
+      "en": "On the weekend, I pulled the weeds in the garden and cleaned it up.",
+      "zh_TW": "週末我拔掉了院子裡的雜草，打掃得很乾淨。",
+      "zh_CN": "周末我拔掉了院子里的杂草，打扫得很干净。",
+      "ko": "주말에 정원의 풀을 뽑고 깨끗하게 청소했습니다.",
+      "zh_HK": "週末我掹走晒花園啲雜草，打掃得好乾淨。",
+      "fr": "Ce week-end, j'ai arraché les mauvaises herbes du jardin et je l'ai bien nettoyé."
+    },
+    "related": "関連語: 花・木"
+  },
+  {
+    "id": "card_1837",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "石",
+    "reading": "いし",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "stone / rock",
+      "zh_TW": "石頭 / 石子",
+      "zh_CN": "石头 / 石子",
+      "ko": "돌",
+      "zh_HK": "石頭 / 石仔",
+      "fr": "pierre / caillou"
+    },
+    "example": {
+      "ja": "<ruby>道<rt>みち</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>石<rt>いし</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちていたので、<ruby>危<rt>あぶ</rt></ruby>なくないように<ruby>動<rt>うご</rt></ruby>かしました。",
+      "en": "There was a big stone lying on the road, so I moved it so it wouldn't be dangerous.",
+      "zh_TW": "路上有塊大石頭，為了安全我把它移開了。",
+      "zh_CN": "路上有块大石头，为了安全我把它挪开了。",
+      "ko": "길에 큰 돌이 떨어져 있어서 위험하지 않게 치웠습니다.",
+      "zh_HK": "路中心有嚿大石頭，為免危險我搬開咗佢。",
+      "fr": "Il y avait une grosse pierre sur le chemin, je l'ai déplacée pour éviter tout danger."
+    },
+    "related": "自然の名詞"
+  },
+  {
+    "id": "card_1838",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "砂",
+    "reading": "すな",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "sand",
+      "zh_TW": "沙 / 沙子",
+      "zh_CN": "沙 / 沙子",
+      "ko": "모래",
+      "zh_HK": "沙",
+      "fr": "sable"
+    },
+    "example": {
+      "ja": "<ruby>海<rt>うみ</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んだら、<ruby>靴<rt>くつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にたくさん<ruby>砂<rt>すな</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってしまいました。",
+      "en": "When I played at the beach, a lot of sand got inside my shoes.",
+      "zh_TW": "在海邊玩了之後，鞋子裡進了很多沙子。",
+      "zh_CN": "在海边玩了之后，鞋子里进了很多沙子。",
+      "ko": "바다에서 놀았더니 신발 안에 모래가 많이 들어가 버렸습니다.",
+      "zh_HK": "喺海灘玩完之後，對鞋入面入咗好多沙。",
+      "fr": "Après avoir joué à la plage, j'avais plein de sable dans mes chaussures."
+    },
+    "related": "関連語: 砂浜（すなはま）"
+  },
+  {
+    "id": "card_1839",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "空気",
+    "reading": "くうき",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "air / atmosphere",
+      "zh_TW": "空氣 / 氣氛",
+      "zh_CN": "空气 / 气氛",
+      "ko": "공기 / 분위기",
+      "zh_HK": "空氣 / 氣氛",
+      "fr": "air / atmosphère"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、<ruby>山<rt>やま</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しい<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いました。",
+      "en": "I opened the window early in the morning and breathed in the fresh mountain air.",
+      "zh_TW": "一大早打開窗戶，呼吸了山裡清新的空氣。",
+      "zh_CN": "一大早打开窗户，呼吸了山里清新的空气。",
+      "ko": "아침 일찍 창문을 열고 산의 상쾌한 공기를 마셨습니다.",
+      "zh_HK": "一早打開窗，吸咗啖山入面好清新嘅空氣。",
+      "fr": "J'ai ouvert la fenêtre tôt le matin pour respirer le bon air de la montagne."
+    },
+    "related": "表現: 空気がきれい"
+  },
+  {
+    "id": "card_1840",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "光",
+    "reading": "ひかり",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "light / ray",
+      "zh_TW": "光 / 光芒",
+      "zh_CN": "光 / 光芒",
+      "ko": "빛",
+      "zh_HK": "光 / 光線",
+      "fr": "lumière"
+    },
+    "example": {
+      "ja": "カーテンを<ruby>開<rt>あ</rt></ruby>けると、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>暖<rt>あたた</rt></ruby>かい<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。",
+      "en": "When I opened the curtains, warm sunlight streamed into the room.",
+      "zh_TW": "拉開窗簾，溫暖的陽光照射進房間。",
+      "zh_CN": "拉开窗帘，温暖的阳光照进了房间。",
+      "ko": "커튼을 열자 방 안으로 따뜻한 햇빛이 들어왔습니다.",
+      "zh_HK": "拉開窗簾，溫暖嘅陽光照射入間房度。",
+      "fr": "Quand j'ai ouvert les rideaux, la chaude lumière du soleil est entrée dans la pièce."
+    },
+    "related": "動詞: 光る（ひかる）"
+  },
+  {
+    "id": "card_1841",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "星",
+    "reading": "ほし",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "star",
+      "zh_TW": "星星",
+      "zh_CN": "星星",
+      "ko": "별",
+      "zh_HK": "星星 / 星",
+      "fr": "étoile"
+    },
+    "example": {
+      "ja": "<ruby>田舎<rt>いなか</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>には、<ruby>数<rt>かぞ</rt></ruby>えきれないほどたくさんの<ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。",
+      "en": "In the night sky of the countryside, you can see countless stars.",
+      "zh_TW": "在鄉下的夜空中，可以看到數不清的星星。",
+      "zh_CN": "在乡下的夜空中，可以看到数不清的星星。",
+      "ko": "시골 밤하늘에는 셀 수 없을 정도로 많은 별이 보입니다.",
+      "zh_HK": "喺鄉下嘅夜空，可以睇到數唔晒咁多粒星。",
+      "fr": "Dans le ciel nocturne de la campagne, on peut voir d'innombrables étoiles."
+    },
+    "related": "自然の名詞"
+  },
+  {
+    "id": "card_1842",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "雲",
+    "reading": "くも",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "cloud",
+      "zh_TW": "雲 / 雲朵",
+      "zh_CN": "云 / 云彩",
+      "ko": "구름",
+      "zh_HK": "雲",
+      "fr": "nuage"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>空<rt>そら</rt></ruby>に<ruby>雲<rt>くも</rt></ruby>が<ruby>一<rt>ひと</rt></ruby>つもなくて、とてもいい<ruby>天気<rt>てんき</rt></ruby>です。",
+      "en": "Today there isn't a single cloud in the sky, and the weather is great.",
+      "zh_TW": "今天天空萬里無雲，天氣非常好。",
+      "zh_CN": "今天天空万里无云，天气非常好。",
+      "ko": "오늘은 하늘에 구름이 한 점도 없어서 날씨가 매우 좋습니다.",
+      "zh_HK": "今日個天一嚿雲都冇，天氣非常好。",
+      "fr": "Aujourd'hui, il n'y a pas un seul nuage dans le ciel, il fait très beau."
+    },
+    "related": "関連語: 曇り（くもり）"
+  },
+  {
+    "id": "card_1843",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "郊外",
+    "reading": "こうがい",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "suburbs / outskirts",
+      "zh_TW": "郊外 / 郊區",
+      "zh_CN": "郊外 / 郊区",
+      "ko": "교외",
+      "zh_HK": "郊外 / 郊區",
+      "fr": "banlieue / périphérie"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>緑<rt>みどり</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>郊外<rt>こうがい</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "Mr. Tanaka bought a house in the green suburbs of Tokyo.",
+      "zh_TW": "田中先生在綠意盎然的東京郊區買了房子。",
+      "zh_CN": "田中先生在绿化很好的东京郊区买了房子。",
+      "ko": "다나카 씨는 녹지가 많은 도쿄 교외에 집을 샀습니다.",
+      "zh_HK": "田中先生喺多綠化嘅東京郊區買咗層樓。",
+      "fr": "M. Tanaka a acheté une maison dans la banlieue verdoyante de Tokyo."
+    },
+    "related": "対義語: 都心（としん）"
+  },
+  {
+    "id": "card_1844",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "田舎",
+    "reading": "いなか",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "countryside / hometown",
+      "zh_TW": "鄉下 / 老家",
+      "zh_CN": "乡下 / 老家",
+      "ko": "시골 / 고향",
+      "zh_HK": "鄉下",
+      "fr": "campagne / ville natale"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みには<ruby>田舎<rt>いなか</rt></ruby>のおじいさんの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "During summer vacation, I will go visit my grandfather's house in the countryside.",
+      "zh_TW": "暑假我要去鄉下爺爺家玩。",
+      "zh_CN": "暑假我要去乡下爷爷家玩。",
+      "ko": "여름방학에는 시골 할아버지 댁에 놀러 갑니다.",
+      "zh_HK": "暑假我會去鄉下爺爺屋企玩。",
+      "fr": "Pendant les vacances d'été, je vais rendre visite à mon grand-père à la campagne."
+    },
+    "related": "対義語: 都会（とかい）"
+  },
+  {
+    "id": "card_1845",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "都",
+    "reading": "みやこ",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "capital / metropolis (historic)",
+      "zh_TW": "都城 / 古都",
+      "zh_CN": "都城 / 古都",
+      "ko": "수도 / 도읍",
+      "zh_HK": "都城 / 古都",
+      "fr": "capitale (historique)"
+    },
+    "example": {
+      "ja": "<ruby>京都<rt>きょうと</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>都<rt>と</rt></ruby>だった<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>街<rt>まち</rt></ruby>です。",
+      "en": "Kyoto is a historic city that was the capital of Japan for a long time.",
+      "zh_TW": "京都是一座歷史悠久的城市，曾長期作為日本的都城。",
+      "zh_CN": "京都是一座历史悠久的城市，曾长期作为日本的都城。",
+      "ko": "교토는 오랜 기간 일본의 수도였던 역사 깊은 도시입니다.",
+      "zh_HK": "京都係一個歷史悠久嘅城市，曾經好長一段時間係日本嘅都城。",
+      "fr": "Kyoto est une ville historique qui a longtemps été la capitale du Japon."
+    },
+    "related": "音読み: と（東京都）"
+  },
+  {
+    "id": "card_1846",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "会場",
+    "reading": "かいじょう",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "venue / meeting place",
+      "zh_TW": "會場",
+      "zh_CN": "会场",
+      "ko": "회장 / 행사장",
+      "zh_HK": "會場 / 場地",
+      "fr": "lieu (d'un événement) / salle"
+    },
+    "example": {
+      "ja": "コンサートの<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>には、すでにたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいました。",
+      "en": "In front of the concert venue, many people were already lined up.",
+      "zh_TW": "演唱會會場前已經排起了長隊。",
+      "zh_CN": "演唱会会场前已经排起了长队。",
+      "ko": "콘서트장 앞에는 이미 많은 사람이 줄을 서 있었습니다.",
+      "zh_HK": "演唱會會場出面已經有好多人排緊隊。",
+      "fr": "Devant la salle de concert, beaucoup de gens faisaient déjà la queue."
+    },
+    "related": "場所の名詞"
+  },
+  {
+    "id": "card_1847",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "工場",
+    "reading": "こうじょう",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "factory / plant",
+      "zh_TW": "工廠",
+      "zh_CN": "工厂",
+      "ko": "공장",
+      "zh_HK": "工廠",
+      "fr": "usine"
+    },
+    "example": {
+      "ja": "<ruby>社会<rt>しゃかい</rt></ruby><ruby>科<rt>か</rt></ruby>の<ruby>見学<rt>けんがく</rt></ruby>で、パンを<ruby>作<rt>つく</rt></ruby>っている<ruby>工場<rt>こうじょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "On a social studies field trip, we went to a factory that makes bread.",
+      "zh_TW": "社會課參觀時，我們去了一家做麵包的工廠。",
+      "zh_CN": "社会课参观时，我们去了一家做面包的工厂。",
+      "ko": "사회과 견학으로 빵을 만드는 공장에 갔습니다.",
+      "zh_HK": "社會科參觀嗰陣，我哋去咗一間整麵包嘅工廠。",
+      "fr": "Lors d'une sortie scolaire, nous avons visité une usine qui fabrique du pain."
+    },
+    "related": "読み: こうば（小規模な町工場など）"
+  },
+  {
+    "id": "card_1848",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "旅館",
+    "reading": "りょかん",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "ryokan (traditional Japanese inn)",
+      "zh_TW": "日式旅館",
+      "zh_CN": "日式旅馆",
+      "ko": "료칸 (일본 전통 여관)",
+      "zh_HK": "日式旅館",
+      "fr": "ryokan (auberge traditionnelle japonaise)"
+    },
+    "example": {
+      "ja": "<ruby>箱根<rt>はこね</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まって、おいしい<ruby>和食<rt>わしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+      "en": "I stayed at a hot spring ryokan in Hakone and ate delicious Japanese food.",
+      "zh_TW": "我住在箱根的溫泉旅館，吃了美味的日本料理。",
+      "zh_CN": "我住在箱根的温泉旅馆，吃了美味的日本料理。",
+      "ko": "하코네 온천 료칸에 묵으며 맛있는 일식을 먹었습니다.",
+      "zh_HK": "我住喺箱根嘅溫泉旅館，食咗好好味嘅日本料理。",
+      "fr": "J'ai séjourné dans un ryokan avec sources chaudes à Hakone et dégusté une délicieuse cuisine japonaise."
+    },
+    "related": "関連語: ホテル"
+  },
+  {
+    "id": "card_1849",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "飛行場",
+    "reading": "ひこうじょう",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "airfield / airport",
+      "zh_TW": "飛機場 / 機場",
+      "zh_CN": "飞机场 / 机场",
+      "ko": "비행장",
+      "zh_HK": "飛機場 / 機場",
+      "fr": "aérodrome / aéroport"
+    },
+    "example": {
+      "ja": "<ruby>飛行場<rt>ひこうじょう</rt></ruby>から<ruby>飛び立<rt>とびた</rt></ruby>つ<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>近<rt>ちか</rt></ruby>くで<ruby>見<rt>み</rt></ruby>ました。",
+      "en": "I watched the airplanes taking off from the airfield up close.",
+      "zh_TW": "我近距離觀看了從機場起飛的飛機。",
+      "zh_CN": "我近距离观看了从机场起飞的飞机。",
+      "ko": "비행장에서 이륙하는 비행기를 가까이서 보았습니다.",
+      "zh_HK": "我好近距離咁睇從飛機場起飛嘅飛機。",
+      "fr": "J'ai regardé de près les avions décoller de l'aérodrome."
+    },
+    "related": "類義語: 空港（くうこう）"
+  },
+  {
+    "id": "card_1850",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "zoo",
+      "zh_TW": "動物園",
+      "zh_CN": "动物园",
+      "ko": "동물원",
+      "zh_HK": "動物園",
+      "fr": "zoo / parc zoologique"
+    },
+    "example": {
+      "ja": "<ruby>上野<rt>うえの</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>にはかわいいパンダがいます。",
+      "en": "There are cute pandas at the Ueno Zoo.",
+      "zh_TW": "上野動物園裡有可愛的貓熊。",
+      "zh_CN": "上野动物园里有可爱的大熊猫。",
+      "ko": "우에노 동물원에는 귀여운 판다가 있습니다.",
+      "zh_HK": "上野動物園入面有好得意嘅熊貓。",
+      "fr": "Au zoo d'Ueno, il y a d'adorables pandas."
+    },
+    "related": "関連語: 植物園・水族館"
+  },
+  {
+    "id": "card_1851",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "exhibition",
+      "zh_TW": "展覽會",
+      "zh_CN": "展览会",
+      "ko": "전람회 / 전시회",
+      "zh_HK": "展覽會",
+      "fr": "exposition"
+    },
+    "example": {
+      "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>展覧<rt>てんらん</rt></ruby><ruby>会<rt>かい</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+      "en": "On the weekend, I went to the art museum with Ms. Sato to see a photo exhibition.",
+      "zh_TW": "週末我和佐藤小姐去美術館看了攝影展。",
+      "zh_CN": "周末我和佐藤小姐去美术馆看了摄影展。",
+      "ko": "주말에 사토 씨와 미술관에 사진 전시회를 보러 갔습니다.",
+      "zh_HK": "週末我同佐藤小姐去美術館睇咗攝影展覽會。",
+      "fr": "Ce week-end, je suis allé voir une exposition de photos au musée avec Mme Sato."
+    },
+    "related": "表現: 展覧会を開く"
+  },
+  {
+    "id": "card_1852",
+    "section_num": 80,
+    "section_title": "#80 【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "歯医者",
+    "reading": "はいしゃ",
+    "category": "【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）",
+    "meaning": {
+      "en": "dentist / dental clinic",
+      "zh_TW": "牙醫 / 牙科",
+      "zh_CN": "牙医 / 牙科",
+      "ko": "치과 / 치과의사",
+      "zh_HK": "牙醫 / 牙科診所",
+      "fr": "dentiste"
+    },
+    "example": {
+      "ja": "<ruby>冷<rt>つめ</rt></ruby>たいものを<ruby>飲<rt>の</rt></ruby>むと<ruby>歯<rt>は</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので、<ruby>午後<rt>ごご</rt></ruby>に<ruby>歯医者<rt>はいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+      "en": "My teeth hurt when I drink cold things, so I am going to the dentist in the afternoon.",
+      "zh_TW": "喝冰的東西時牙痛，所以我下午要去趟牙醫診所。",
+      "zh_CN": "喝凉东西的时候牙疼，所以我下午要去趟牙科。",
+      "ko": "찬 것을 마시면 이가 아파서 오후에 치과에 갑니다.",
+      "zh_HK": "飲凍嘢嗰陣牙痛，所以我下晝會去睇牙醫。",
+      "fr": "J'ai mal aux dents quand je bois quelque chose de froid, je vais donc chez le dentiste cet après-midi."
+    },
+    "related": "医療の名詞"
+  },
+  {
+    "id": "card_1853",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "赤ん坊",
+    "reading": "あかんぼう",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "baby / infant",
+      "zh_TW": "嬰兒 / 寶寶",
+      "zh_CN": "婴儿 / 宝宝",
+      "ko": "아기 / 갓난아기",
+      "zh_HK": "BB / 嬰兒",
+      "fr": "bébé / nourrisson"
+    },
+    "example": {
+      "ja": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で<ruby>赤ん坊<rt>あかんぼう</rt></ruby>がすやすや<ruby>眠<rt>ねむ</rt></ruby>っています。",
+      "en": "A baby is sleeping peacefully in the next room.",
+      "zh_TW": "嬰兒正在隔壁房間香甜地睡著。",
+      "zh_CN": "婴儿正在隔壁房间香甜地睡着。",
+      "ko": "옆방에서 아기가 새근새근 자고 있습니다.",
+      "zh_HK": "BB喺隔離房好香甜咁瞓緊覺。",
+      "fr": "Un bébé dort paisiblement dans la pièce voisine."
+    },
+    "related": "類義語: 赤ちゃん"
+  },
+  {
+    "id": "card_1854",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "親",
+    "reading": "おや",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "parent / parents",
+      "zh_TW": "父母 / 雙親",
+      "zh_CN": "父母 / 双亲",
+      "ko": "부모 / 어버이",
+      "zh_HK": "父母 / 雙親",
+      "fr": "parent(s)"
+    },
+    "example": {
+      "ja": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>親<rt>おや</rt></ruby>になって<ruby>初<rt>はじ</rt></ruby>めて、<ruby>両親<rt>りょうしん</rt></ruby>のありがたみが<ruby>分<rt>わ</rt></ruby>かりました。",
+      "en": "Only after becoming a parent myself did I understand how much I owe my parents.",
+      "zh_TW": "自己當了父母之後，才第一次體會到父母的恩情。",
+      "zh_CN": "自己当了父母之后，才第一次体会到父母的恩情。",
+      "ko": "내가 직접 부모가 되고 나서야 비로소 부모님의 고마움을 알게 되었습니다.",
+      "zh_HK": "自己做咗人父母之後，先至真正明白到父母嘅恩情。",
+      "fr": "Ce n'est qu'en devenant parent moi-même que j'ai compris toute ma reconnaissance envers mes parents."
+    },
+    "related": "関連語: 親子（おやこ）・両親"
+  },
+  {
+    "id": "card_1855",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "市民",
+    "reading": "しみん",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "citizen / townspeople",
+      "zh_TW": "市民",
+      "zh_CN": "市民",
+      "ko": "시민",
+      "zh_HK": "市民",
+      "fr": "citoyen / habitant de la ville"
+    },
+    "example": {
+      "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに、<ruby>市民<rt>しみん</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>える<ruby>新<rt>あたら</rt></ruby>しい<ruby>図書館<rt>としょかん</rt></ruby>ができました。",
+      "en": "A new library that citizens can freely use was built near the station.",
+      "zh_TW": "車站附近蓋了一座供市民自由使用的新圖書館。",
+      "zh_CN": "车站附近建了一座供市民免费使用的新图书馆。",
+      "ko": "역 근처에 시민들이 자유롭게 이용할 수 있는 새 도서관이 생겼습니다.",
+      "zh_HK": "車站附近起咗一間畀市民自由使用嘅新圖書館。",
+      "fr": "Une nouvelle bibliothèque accessible librement aux citoyens a ouvert près de la gare."
+    },
+    "related": "関連語: 市民体育館"
+  },
+  {
+    "id": "card_1856",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "客",
+    "reading": "きゃく",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "guest / visitor / customer",
+      "zh_TW": "客人 / 顧客",
+      "zh_CN": "客人 / 顾客",
+      "ko": "손님 / 고객",
+      "zh_HK": "客人 / 顧客",
+      "fr": "client / invité"
+    },
+    "example": {
+      "ja": "<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>にお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来<rt>く</rt></ruby>るので、ごちそうを<ruby>作<rt>つく</rt></ruby>っています。",
+      "en": "Since guests are coming to our house tonight, I am making a feast.",
+      "zh_TW": "今晚家裡有客人要來，我正在準備豐盛的飯菜。",
+      "zh_CN": "今晚家里有客人要来，我正在准备丰盛的饭菜。",
+      "ko": "오늘 밤에는 집에 손님이 오기 때문에 맛있는 음식을 만들고 있습니다.",
+      "zh_HK": "今晚屋企有客人嚟，我煮緊大餐。",
+      "fr": "Comme nous recevons des invités ce soir, je prépare un bon repas."
+    },
+    "related": "丁寧形: お客さん・お客様"
+  },
+  {
+    "id": "card_1857",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "泥棒",
+    "reading": "どろぼう",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "thief / burglar",
+      "zh_TW": "小偷 / 強盜",
+      "zh_CN": "小偷 / 强盗",
+      "ko": "도둑",
+      "zh_HK": "賊仔 / 小偷",
+      "fr": "voleur / cambrioleur"
+    },
+    "example": {
+      "ja": "<ruby>泥棒<rt>どろぼう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>られないように、<ruby>出<rt>で</rt></ruby>かけるときは<ruby>必<rt>かなら</rt></ruby>ず<ruby>鍵<rt>かぎ</rt></ruby>をかけます。",
+      "en": "To prevent burglars from breaking in, I always lock the door when going out.",
+      "zh_TW": "為了防止小偷闖入，出門時我一定會鎖好門。",
+      "zh_CN": "为了防止进小偷，出门时我一定会锁好门。",
+      "ko": "도둑이 들지 않도록 외출할 때는 반드시 문을 잠급니다.",
+      "zh_HK": "為免入賊，出門口嗰陣我一定會鎖好門。",
+      "fr": "Pour éviter les cambriolages, je ferme toujours à clé en sortant."
+    },
+    "related": "警察（けいさつ）"
+  },
+  {
+    "id": "card_1858",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "僕",
+    "reading": "ぼく",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "I / me (used by males)",
+      "zh_TW": "我（男性自稱）",
+      "zh_CN": "我（男性自称）",
+      "ko": "나 (남성의 자칭)",
+      "zh_HK": "我（男性自稱）",
+      "fr": "je / moi (utilisé par les hommes)"
+    },
+    "example": {
+      "ja": "「<ruby>僕<rt>ぼく</rt></ruby>も<ruby>来週<rt>らいしゅう</rt></ruby>のキャンプに<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>っていいですか」と<ruby>弟<rt>おとうと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>きました。",
+      "en": "'May I also come along to next week's camp?' my younger brother asked.",
+      "zh_TW": "弟弟問道：「我也可以一起去參加下週的露營嗎？」",
+      "zh_CN": "弟弟问道：“我也可以一起去参加下周的露营吗？”",
+      "ko": "“나도 다음 주 캠핑에 같이 가도 돼요?”라고 남동생이 물었습니다.",
+      "zh_HK": "細佬問：「我下星期可唔可以一齊去露營呀？」",
+      "fr": "« Est-ce que je peux aussi venir au camp la semaine prochaine ? » a demandé mon petit frère."
+    },
+    "related": "男性の第一人称"
+  },
+  {
+    "id": "card_1859",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "君",
+    "reading": "きみ",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "you (informal / to equals or juniors)",
+      "zh_TW": "你（對平輩或晚輩）",
+      "zh_CN": "你（对平辈或晚辈）",
+      "ko": "너 / 자네",
+      "zh_HK": "你（對平輩或後輩）",
+      "fr": "tu / toi (familier)"
+    },
+    "example": {
+      "ja": "<ruby>田中<rt>たなか</rt></ruby><ruby>課長<rt>かちょう</rt></ruby>は<ruby>後輩<rt>こうはい</rt></ruby>に「<ruby>君<rt>きみ</rt></ruby>の<ruby>企画<rt>きかく</rt></ruby><ruby>書<rt>しょ</rt></ruby>はとても<ruby>良<rt>よ</rt></ruby>かったよ」と<ruby>言<rt>い</rt></ruby>いました。",
+      "en": "Section Manager Tanaka said to his junior, 'Your proposal was very good.'",
+      "zh_TW": "田中課長對後輩說：「你的企劃書非常不錯喔。」",
+      "zh_CN": "田中科长对后辈说：“你的策划书非常不错哦。”",
+      "ko": "다나카 과장님은 후배에게 “자네 기획서는 아주 좋았어”라고 말했습니다.",
+      "zh_HK": "田中課長同後輩講：「你份計劃書寫得好好喎。」",
+      "fr": "Le chef de section Tanaka a dit à son subordonné : « Ton projet était très bien. »"
+    },
+    "related": "親しい間柄・目下への第二人称"
+  },
+  {
+    "id": "card_1860",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "髪",
+    "reading": "かみ",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "hair (on the head)",
+      "zh_TW": "頭髮",
+      "zh_CN": "头发",
+      "ko": "머리카락 / 머리",
+      "zh_HK": "頭髮",
+      "fr": "cheveux"
+    },
+    "example": {
+      "ja": "<ruby>髪<rt>かみ</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びてきたので、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>美容<rt>びよう</rt></ruby><ruby>院<rt>いん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>切<rt>き</rt></ruby>ってもらいます。",
+      "en": "Since my hair has grown long, I will go to the hair salon on the weekend to get it cut.",
+      "zh_TW": "頭髮變長了，週末我要去美容院剪頭髮。",
+      "zh_CN": "头发长长了，周末我要去理发店剪头发。",
+      "ko": "머리카락이 자라서 주말에 미용실에 가서 자를 겁니다.",
+      "zh_HK": "頭髮長咗，週末我會去髮型屋剪頭髮。",
+      "fr": "Comme mes cheveux ont poussé, j'irai chez le coiffeur ce week-end pour les faire couper."
+    },
+    "related": "関連語: 髪の毛（かみのけ）"
+  },
+  {
+    "id": "card_1861",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "首",
+    "reading": "くび",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "neck",
+      "zh_TW": "脖子 / 頸部",
+      "zh_CN": "脖子 / 颈部",
+      "ko": "목",
+      "zh_HK": "頸",
+      "fr": "cou"
+    },
+    "example": {
+      "ja": "ずっとパソコンを<ruby>見<rt>み</rt></ruby>ていたので、<ruby>首<rt>くび</rt></ruby>と<ruby>肩<rt>かた</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなりました。",
+      "en": "Because I was looking at the computer the whole time, my neck and shoulders started hurting.",
+      "zh_TW": "因為一直盯著電腦看，脖子和肩膀都痠痛了。",
+      "zh_CN": "因为一直盯着电脑看，脖子和肩膀都酸痛了。",
+      "ko": "계속 컴퓨터를 보고 있었더니 목과 어깨가 아파졌습니다.",
+      "zh_HK": "因為一直望住部電腦，搞到條頸同膊頭好痛。",
+      "fr": "À force de regarder l'ordinateur, j'ai eu mal au cou et aux épaules."
+    },
+    "related": "身体の部位（※手首・足首）"
+  },
+  {
+    "id": "card_1862",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "毛",
+    "reading": "け",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "hair / fur / wool",
+      "zh_TW": "毛 / 毛髮 / 羊毛",
+      "zh_CN": "毛 / 毛发 / 羊毛",
+      "ko": "털 / 모",
+      "zh_HK": "毛 / 毛髮 / 羊毛",
+      "fr": "poil / fourrure / laine"
+    },
+    "example": {
+      "ja": "このセーターは<ruby>羊<rt>ひつじ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>でできているので、とても<ruby>暖<rt>あたた</rt></ruby>かいです。",
+      "en": "Since this sweater is made of sheep's wool, it is very warm.",
+      "zh_TW": "這件毛衣是用羊毛做的，所以非常暖和。",
+      "zh_CN": "这件毛衣是用羊毛做的，所以非常暖和。",
+      "ko": "이 스웨터는 양털로 만들어져서 매우 따뜻합니다.",
+      "zh_HK": "呢件冷衫係用羊毛造嘅，所以好暖。",
+      "fr": "Ce pull est en laine de mouton, il tient donc très chaud."
+    },
+    "related": "関連語: 毛糸（けいと）"
+  },
+  {
+    "id": "card_1863",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "心",
+    "reading": "こころ",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "heart / mind / spirit",
+      "zh_TW": "心 / 內心 / 心意",
+      "zh_CN": "心 / 内心 / 心意",
+      "ko": "마음",
+      "zh_HK": "心 / 內心 / 心意",
+      "fr": "cœur / esprit"
+    },
+    "example": {
+      "ja": "<ruby>佐藤<rt>さとう</rt></ruby>さんから<ruby>心<rt>こころ</rt></ruby>のこもった<ruby>温<rt>あたた</rt></ruby>かい<ruby>手紙<rt>てがみ</rt></ruby>をいただきました。",
+      "en": "I received a warm, heartfelt letter from Ms. Sato.",
+      "zh_TW": "我收到了佐藤小姐寫的一封充滿心意的溫暖信件。",
+      "zh_CN": "我收到了佐藤小姐写的一封充满心意的温暖信件。",
+      "ko": "사토 씨로부터 마음이 담긴 따뜻한 편지를 받았습니다.",
+      "zh_HK": "我收到佐藤小姐寫嘅一封充滿心意嘅溫暖信件。",
+      "fr": "J'ai reçu une lettre chaleureuse et sincère de la part de Mme Sato."
+    },
+    "related": "表現: 心が広い"
+  },
+  {
+    "id": "card_1864",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "気",
+    "reading": "き",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "spirit / mind / attention",
+      "zh_TW": "心 / 精神 / 注意力",
+      "zh_CN": "心 / 精神 / 注意力",
+      "ko": "기 / 마음 / 신경",
+      "zh_HK": "心 / 精神 / 注意力",
+      "fr": "esprit / attention / humeur"
+    },
+    "example": {
+      "ja": "<ruby>車<rt>くるま</rt></ruby>や<ruby>自転車<rt>じてんしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですから、<ruby>気<rt>き</rt></ruby>をつけて<ruby>帰<rt>かえ</rt></ruby>ってくださいね。",
+      "en": "There are many cars and bicycles, so please take care on your way home.",
+      "zh_TW": "路上車子和自行車很多，請小心回家喔。",
+      "zh_CN": "路上车和自行车很多，请小心回家哦。",
+      "ko": "차나 자전거가 많으니까 조심해서 돌아가세요.",
+      "zh_HK": "路上好多車同單車，請小心返屋企呀。",
+      "fr": "Il y a beaucoup de voitures et de vélos, alors faites bien attention en rentrant."
+    },
+    "related": "慣用表現: 気をつける・気になる"
+  },
+  {
+    "id": "card_1865",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "気分",
+    "reading": "きぶん",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "feeling / mood (physical or mental)",
+      "zh_TW": "心情 / 身體感覺",
+      "zh_CN": "心情 / 身体状况（舒服与否）",
+      "ko": "기분 / 몸 상태",
+      "zh_HK": "心情 / 身體感覺",
+      "fr": "humeur / état (se sentir bien ou mal)"
+    },
+    "example": {
+      "ja": "<ruby>少<rt>すこ</rt></ruby>し<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、ベンチで<ruby>休<rt>やす</rt></ruby>ませてください。",
+      "en": "I am feeling a little unwell, so please let me rest on the bench.",
+      "zh_TW": "我覺得有點不舒服，請讓我在長椅上休息一下。",
+      "zh_CN": "我感觉有点不舒服，请让我在长椅上休息一下。",
+      "ko": "조금 속이 안 좋아서(기분이 나빠서) 벤치에서 쉬게 해 주세요.",
+      "zh_HK": "我覺得有啲唔舒服，請俾我喺長凳度休息下。",
+      "fr": "Je ne me sens pas très bien, laissez-moi me reposer sur le banc."
+    },
+    "related": "表現: 気分がいい・気分が悪い"
+  },
+  {
+    "id": "card_1866",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "力",
+    "reading": "ちから",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "strength / power / ability",
+      "zh_TW": "力氣 / 力量 / 能力",
+      "zh_CN": "力气 / 力量 / 能力",
+      "ko": "힘 / 실력",
+      "zh_HK": "力氣 / 力量 / 能力",
+      "fr": "force / pouvoir / compétence"
+    },
+    "example": {
+      "ja": "みんなで<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて、<ruby>大<rt>おお</rt></ruby>きなイベントを<ruby>成功<rt>せいこう</rt></ruby>させました。",
+      "en": "Everyone joined forces and made the big event a success.",
+      "zh_TW": "大家齊心協力，讓大型活動取得了成功。",
+      "zh_CN": "大家齐心协力，让大型活动取得了成功。",
+      "ko": "다 함께 힘을 합쳐서 큰 이벤트를 성공시켰습니다.",
+      "zh_HK": "大家齊心協力，令呢個大型活動非常成功。",
+      "fr": "Nous avons uni nos forces pour faire de ce grand événement un succès."
+    },
+    "related": "表現: 力を合わせる"
+  },
+  {
+    "id": "card_1867",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "意見",
+    "reading": "いけん",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "opinion / view",
+      "zh_TW": "意見 / 看法",
+      "zh_CN": "意见 / 看法",
+      "ko": "의견",
+      "zh_HK": "意見 / 睇法",
+      "fr": "opinion / avis"
+    },
+    "example": {
+      "ja": "<ruby>会議<rt>かいぎ</rt></ruby>では<ruby>遠慮<rt>えんりょ</rt></ruby>しないで、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>ってください。",
+      "en": "In the meeting, please don't hold back and state your own opinion.",
+      "zh_TW": "在會議上請不要客氣，說出自己的意見。",
+      "zh_CN": "在会议上请不要拘束，大胆说出自己的意见。",
+      "ko": "회의에서는 사양하지 말고 자신의 의견을 말해 주세요.",
+      "zh_HK": "開會嗰陣唔使客氣，請講出自己嘅意見啦。",
+      "fr": "Pendant la réunion, n'hésitez pas à exprimer votre propre opinion."
+    },
+    "related": "表現: 意見を言う"
+  },
+  {
+    "id": "card_1868",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "興味",
+    "reading": "きょうみ",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "interest (in something)",
+      "zh_TW": "興趣",
+      "zh_CN": "兴趣",
+      "ko": "흥미 / 관심",
+      "zh_HK": "興趣",
+      "fr": "intérêt"
+    },
+    "example": {
+      "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>建築<rt>けんちく</rt></ruby>や<ruby>歴史<rt>れきし</rt></ruby>にとても<ruby>興味<rt>きょうみ</rt></ruby>があります。",
+      "en": "I am very interested in old Japanese architecture and history.",
+      "zh_TW": "我對日本的古建築和歷史非常感興趣。",
+      "zh_CN": "我对日本的古建筑和历史非常感兴趣。",
+      "ko": "저는 일본의 오래된 건축이나 역사에 매우 흥미가 있습니다.",
+      "zh_HK": "我對日本嘅古老建築同歷史好有興趣。",
+      "fr": "Je m'intéresse beaucoup à l'architecture ancienne et à l'histoire du Japon."
+    },
+    "related": "表現: 〜に興味がある・興味を持つ"
+  },
+  {
+    "id": "card_1869",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "経験",
+    "reading": "けいけん",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "experience",
+      "zh_TW": "經驗 / 經歷",
+      "zh_CN": "经验 / 经历",
+      "ko": "경험",
+      "zh_HK": "經驗 / 經歷",
+      "fr": "expérience"
+    },
+    "example": {
+      "ja": "<ruby>外国<rt>がいこく</rt></ruby>で<ruby>一人<rt>ひとり</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしたことは、<ruby>私<rt>わたし</rt></ruby>にとって<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>経験<rt>けいけん</rt></ruby>です。",
+      "en": "Living alone in a foreign country is a precious experience for me.",
+      "zh_TW": "在國外獨自生活過的經歷對我來說非常寶貴。",
+      "zh_CN": "在国外独自生活过的经历对我来说非常宝贵。",
+      "ko": "외국에서 혼자 살아 본 것은 저에게 소중한 경험입니다.",
+      "zh_HK": "喺外國一個人生活過，對我嚟講係好寶貴嘅經驗。",
+      "fr": "Avoir vécu seul à l'étranger est une expérience précieuse pour moi."
+    },
+    "related": "名詞・サ変動詞"
+  },
+  {
+    "id": "card_1870",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "計画",
+    "reading": "けいかく",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "plan / project",
+      "zh_TW": "計畫 / 計劃",
+      "zh_CN": "计划",
+      "ko": "계획",
+      "zh_HK": "計劃",
+      "fr": "plan / projet"
+    },
+    "example": {
+      "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>立<rt>た</rt></ruby>てています。",
+      "en": "I am making summer vacation travel plans together with my friends.",
+      "zh_TW": "我正在和朋友一起制定暑假的旅行計畫。",
+      "zh_CN": "我正在和朋友一起制定暑假的旅行计划。",
+      "ko": "여름휴가 여행 계획을 친구와 함께 세우고 있습니다.",
+      "zh_HK": "我同朋友一齊傾緊暑假去旅行嘅計劃。",
+      "fr": "Je prépare un projet de voyage pour les vacances d'été avec mes amis."
+    },
+    "related": "表現: 計画を立てる"
+  },
+  {
+    "id": "card_1871",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "規則",
+    "reading": "きそく",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "rule / regulation",
+      "zh_TW": "規則 / 規章",
+      "zh_CN": "规则 / 规章",
+      "ko": "규칙",
+      "zh_HK": "規則 / 規矩",
+      "fr": "règle / règlement"
+    },
+    "example": {
+      "ja": "<ruby>寮<rt>りょう</rt></ruby>には<ruby>門限<rt>もんげん</rt></ruby>などの<ruby>規則<rt>きそく</rt></ruby>がありますので、<ruby>必<rt>かなら</rt></ruby>ず<ruby>守<rt>まも</rt></ruby>ってください。",
+      "en": "The dormitory has rules such as a curfew, so please be sure to follow them.",
+      "zh_TW": "宿舍有門禁等規定，請務必遵守。",
+      "zh_CN": "宿舍有门禁等规章制度，请务必遵守。",
+      "ko": "기숙사에는 통금 시간 등의 규칙이 있으므로 반드시 지켜 주세요.",
+      "zh_HK": "宿舍有門禁等等嘅規矩，請一定要遵守。",
+      "fr": "Le dortoir a un règlement, comme un couvre-feu, veuillez donc impérativement le respecter."
+    },
+    "related": "表現: 規則を守る"
+  },
+  {
+    "id": "card_1872",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "関係",
+    "reading": "かんけい",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "relationship / connection",
+      "zh_TW": "關係",
+      "zh_CN": "关系",
+      "ko": "관계",
+      "zh_HK": "關係",
+      "fr": "relation / rapport"
+    },
+    "example": {
+      "ja": "この<ruby>二<rt>ふた</rt></ruby>つの<ruby>事件<rt>じけん</rt></ruby>には<ruby>深<rt>ふか</rt></ruby>い<ruby>関係<rt>かんけい</rt></ruby>があるようです。",
+      "en": "There seems to be a deep connection between these two incidents.",
+      "zh_TW": "這兩起事件之間似乎有密切的關係。",
+      "zh_CN": "这两起事件之间似乎有密切的关系。",
+      "ko": "이 두 사건에는 깊은 관계가 있는 것 같습니다.",
+      "zh_HK": "呢兩單案件之間好似有好深嘅關係。",
+      "fr": "Il semble y avoir un lien étroit entre ces deux affaires."
+    },
+    "related": "表現: 〜に関係がある"
+  },
+  {
+    "id": "card_1873",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "機会",
+    "reading": "きかい",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "chance / opportunity",
+      "zh_TW": "機會",
+      "zh_CN": "机会",
+      "ko": "기회",
+      "zh_HK": "機會",
+      "fr": "occasion / opportunité"
+    },
+    "example": {
+      "ja": "<ruby>機会<rt>きかい</rt></ruby>があれば、ぜひ<ruby>北海道<rt>ほっかいどう</rt></ruby>へスキーに<ruby>行<rt>い</rt></ruby>きたいです。",
+      "en": "If I have the chance, I would love to go skiing in Hokkaido.",
+      "zh_TW": "如果有幾會的話，我非常想去北海道滑雪。",
+      "zh_CN": "如果有机会的话，我非常想去北海道滑雪。",
+      "ko": "기회가 있으면 꼭 홋카이도에 스키를 타러 가고 싶습니다.",
+      "zh_HK": "如果有機會嘅話，我好想去北海道滑雪。",
+      "fr": "Si j'en ai l'occasion, j'aimerais beaucoup aller faire du ski à Hokkaido."
+    },
+    "related": "類義語: チャンス"
+  },
+  {
+    "id": "card_1874",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "責任",
+    "reading": "せきにん",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "responsibility / duty",
+      "zh_TW": "責任",
+      "zh_CN": "责任",
+      "ko": "책임",
+      "zh_HK": "責任",
+      "fr": "responsabilité"
+    },
+    "example": {
+      "ja": "<ruby>引き受<rt>ひきう</rt></ruby>けた<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってやり<ruby>遂<rt>と</rt></ruby>げます。",
+      "en": "I will carry out the work I undertook responsibly until the very end.",
+      "zh_TW": "接手的工作，我會負起責任一直做到最後。",
+      "zh_CN": "接手的工作，我会负起责任一直做到最后。",
+      "ko": "맡은 일은 끝까지 책임을 지고 해내겠습니다.",
+      "zh_HK": "接咗手嘅工作，我會負起責任一直做到最後。",
+      "fr": "Je mènerai jusqu'au bout et avec responsabilité le travail que j'ai accepté."
+    },
+    "related": "表現: 責任を持つ"
+  },
+  {
+    "id": "card_1875",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "人口",
+    "reading": "じんこう",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "population",
+      "zh_TW": "人口",
+      "zh_CN": "人口",
+      "ko": "인구",
+      "zh_HK": "人口",
+      "fr": "population"
+    },
+    "example": {
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>減<rt>へ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けています。",
+      "en": "Japan's population continues to decrease little by little.",
+      "zh_TW": "日本的人口正在一點點地持續減少。",
+      "zh_CN": "日本的人口正在一点点地持续减少。",
+      "ko": "일본의 인구는 조금씩 계속 줄어들고 있습니다.",
+      "zh_HK": "日本嘅人口正喺度一點一點咁持續減少緊。",
+      "fr": "La population du Japon continue de diminuer petit à petit."
+    },
+    "related": "表現: 人口が多い・少ない"
+  },
+  {
+    "id": "card_1876",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "時代",
+    "reading": "じだい",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "era / period / epoch",
+      "zh_TW": "時代",
+      "zh_CN": "时代",
+      "ko": "시대",
+      "zh_HK": "時代",
+      "fr": "époque / ère"
+    },
+    "example": {
+      "ja": "<ruby>今<rt>いま</rt></ruby>はインターネットで<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>とすぐに<ruby>話<rt>はな</rt></ruby>せる<ruby>時代<rt>じだい</rt></ruby>です。",
+      "en": "We now live in an era where we can talk instantly with people all over the world via the internet.",
+      "zh_TW": "現在是一個透過網路就能立刻與全世界的人交流的時代。",
+      "zh_CN": "现在是一个通过网络就能立刻与全世界的人交流的时代。",
+      "ko": "지금은 인터넷으로 전 세계 사람들과 바로 이야기할 수 있는 시대입니다.",
+      "zh_HK": "而家係一個透過互聯網就可以即刻同全世界嘅人傾偈嘅時代。",
+      "fr": "Nous vivons à une époque où l'on peut parler instantanément avec le monde entier grâce à Internet."
+    },
+    "related": "例: 江戸時代・学生時代"
+  },
+  {
+    "id": "card_1877",
+    "section_num": 81,
+    "section_title": "#81 【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "昔",
+    "reading": "むかし",
+    "category": "【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）",
+    "meaning": {
+      "en": "olden days / long ago",
+      "zh_TW": "以前 / 從前 / 過去",
+      "zh_CN": "以前 / 从前 / 过去",
+      "ko": "옛날",
+      "zh_HK": "以前 / 昔日 / 舊時",
+      "fr": "autrefois / jadis"
+    },
+    "example": {
+      "ja": "<ruby>昔<rt>むかし</rt></ruby>、ここは<ruby>静<rt>しず</rt></ruby>かな<ruby>田舎<rt>いなか</rt></ruby>でしたが、<ruby>今<rt>いま</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きなビルが<ruby>並<rt>なら</rt></ruby>んでいます。",
+      "en": "Long ago, this place was a quiet countryside, but now large buildings line the streets.",
+      "zh_TW": "以前這裡是安靜的鄉下，現在卻高樓林立。",
+      "zh_CN": "以前这里是安静的乡下，现在却高楼林立。",
+      "ko": "옛날에 이곳은 조용한 시골이었지만 지금은 큰 빌딩이 늘어서 있습니다.",
+      "zh_HK": "以前呢度係好靜嘅鄉下，但而家已經起滿晒高樓大廈。",
+      "fr": "Autrefois, c'était une campagne tranquille, mais aujourd'hui de grands immeubles s'y alignent."
+    },
+    "related": "対義語: 今・現在"
+  },
+  {
+    "id": "card_1878",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "必ず",
+    "reading": "かならず",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "without fail / always / certainly",
+      "zh_TW": "一定 / 務必",
+      "zh_CN": "一定 / 必定",
+      "ko": "반드시 / 꼭",
+      "zh_HK": "一定 / 必定",
+      "fr": "sans faute / toujours / absolument"
+    },
+    "example": {
+      "ja": "レポートは<ruby>今週<rt>こんしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>までに<ruby>必<rt>かなら</rt></ruby>ず<ruby>提出<rt>ていしゅつ</rt></ruby>してください。",
+      "en": "Please be sure to submit your report by this Friday without fail.",
+      "zh_TW": "請務必在本週五之前提交報告。",
+      "zh_CN": "请务必在本周五之前提交报告。",
+      "ko": "보고서는 이번 주 금요일까지 반드시 제출해 주세요.",
+      "zh_HK": "份報告請一定要喺今個星期五之前交。",
+      "fr": "Veuillez impérativement remettre votre rapport d'ici ce vendredi."
+    },
+    "related": "肯定文と呼応する副詞"
+  },
+  {
+    "id": "card_1879",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "決して",
+    "reading": "けっして",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "never / by no means (with negative)",
+      "zh_TW": "決（不） / 絕對（不）",
+      "zh_CN": "决（不） / 绝对（不）",
+      "ko": "결코 / 절대로",
+      "zh_HK": "決（唔） / 絕對（唔）",
+      "fr": "ne ... jamais / en aucun cas"
+    },
+    "example": {
+      "ja": "みんなが<ruby>手伝<rt>てつだ</rt></ruby>ってくれたおかげで<ruby>成功<rt>せいこう</rt></ruby>したことを、<ruby>決<rt>けっ</rt></ruby>して<ruby>忘<rt>わす</rt></ruby>れません。",
+      "en": "I will never forget that I succeeded thanks to everyone helping me.",
+      "zh_TW": "多虧了大家的幫忙才取得了成功，我決不會忘記這一點。",
+      "zh_CN": "多亏了大家的帮忙才取得了成功，我决不会忘记这一点。",
+      "ko": "모두가 도와준 덕분에 성공했다는 것을 결코 잊지 않겠습니다.",
+      "zh_HK": "多得大家幫手先可以成功，我絕對唔會忘記。",
+      "fr": "Je n'oublierai jamais que j'ai réussi grâce à l'aide de tout le monde."
+    },
+    "related": "否定文（〜ない）と呼応する副詞"
+  },
+  {
+    "id": "card_1880",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "特に",
+    "reading": "とくに",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "especially / particularly",
+      "zh_TW": "特別 / 尤其",
+      "zh_CN": "特别 / 尤其",
+      "ko": "특히 / 특별히",
+      "zh_HK": "特別 / 尤其",
+      "fr": "surtout / particulièrement"
+    },
+    "example": {
+      "ja": "<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でも<ruby>好<rt>す</rt></ruby>きですが、<ruby>特<rt>とく</rt></ruby>にいちごが<ruby>好<rt>す</rt></ruby>きです。",
+      "en": "I like all kinds of fruit, but I especially like strawberries.",
+      "zh_TW": "水果我什麼都喜歡，特別喜歡草莓。",
+      "zh_CN": "水果我什么都喜欢，尤其喜欢草莓。",
+      "ko": "과일은 뭐든지 좋아하지만 특히 딸기를 좋아합니다.",
+      "zh_HK": "生果我咩都鍾意食，特別係士多啤梨。",
+      "fr": "J'aime tous les fruits, mais particulièrement les fraises."
+    },
+    "related": "副詞"
+  },
+  {
+    "id": "card_1881",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "非常に",
+    "reading": "ひじょうに",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "extremely / very",
+      "zh_TW": "非常 / 極為",
+      "zh_CN": "非常 / 极为",
+      "ko": "매우 / 대단히",
+      "zh_HK": "非常 / 極之",
+      "fr": "extrêmement / très"
+    },
+    "example": {
+      "ja": "この<ruby>新<rt>あたら</rt></ruby>しい<ruby>辞書<rt>じしょ</rt></ruby>は<ruby>例文<rt>れいぶん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いやすいです。",
+      "en": "This new dictionary has many example sentences and is extremely easy to use.",
+      "zh_TW": "這本新字典例句很多，非常好用。",
+      "zh_CN": "这本新词典例句很多，非常好用。",
+      "ko": "이 새 사전은 예문이 많아서 매우 사용하기 편합니다.",
+      "zh_HK": "呢本新字典有好多例句，非常之好用。",
+      "fr": "Ce nouveau dictionnaire contient beaucoup d'exemples et est extrêmement facile à utiliser."
+    },
+    "related": "「とても」の硬い表現"
+  },
+  {
+    "id": "card_1882",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "だいぶ",
+    "reading": "だいぶ",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "considerably / a lot / much",
+      "zh_TW": "相當 / 很 / 改善很多",
+      "zh_CN": "相当 / 很 / 差不离",
+      "ko": "상당히 / 많이 / 제법",
+      "zh_HK": "相當 / 好多",
+      "fr": "considérablement / bien / beaucoup"
+    },
+    "example": {
+      "ja": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>休<rt>やす</rt></ruby>んだので、<ruby>風邪<rt>かぜ</rt></ruby>はだいぶ<ruby>良<rt>よ</rt></ruby>くなりました。",
+      "en": "Since I took medicine and rested, my cold has gotten much better.",
+      "zh_TW": "吃了藥休息之後，感冒好多了。",
+      "zh_CN": "吃了药休息之后，感冒好多了。",
+      "ko": "약을 먹고 쉬었더니 감기가 많이 좋아졌습니다.",
+      "zh_HK": "食咗藥休息過之後，傷風已經好返好多喇。",
+      "fr": "Après avoir pris des médicaments et m'être reposé, mon rhume va beaucoup mieux."
+    },
+    "related": "変化の程度が大きいことを表す"
+  },
+  {
+    "id": "card_1883",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "だいたい",
+    "reading": "だいたい",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "mostly / roughly / about",
+      "zh_TW": "大體上 / 大致 / 差不多",
+      "zh_CN": "大体上 / 大致 / 差不多",
+      "ko": "대체로 / 대략 / 거의",
+      "zh_HK": "大概 / 差唔多",
+      "fr": "à peu près / en général / presque"
+    },
+    "example": {
+      "ja": "N4の<ruby>文法<rt>ぶんぽう</rt></ruby>はだいたい<ruby>分<rt>わ</rt></ruby>かりましたが、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "en": "I mostly understand N4 grammar, but I need a little more practice.",
+      "zh_TW": "N4的文法我大體上都懂了，但還需要再練習一下。",
+      "zh_CN": "N4的语法我大体上都懂了，但还需要再练习一下。",
+      "ko": "N4 문법은 대체로 이해했지만 조금 더 연습이 필요합니다.",
+      "zh_HK": "N4嘅文法我大概都明晒，不過仲需要練習多啲。",
+      "fr": "J'ai à peu près compris la grammaire du N4, mais j'ai encore besoin d'un peu d'entraînement."
+    },
+    "related": "漢字表記: 大体"
+  },
+  {
+    "id": "card_1884",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "なかなか",
+    "reading": "なかなか",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "quite / very / not easily (with negative)",
+      "zh_TW": "相當 / 怎麼也（不）",
+      "zh_CN": "相当 / 怎么也（不）",
+      "ko": "꽤 / 좀처럼 (~않다)",
+      "zh_HK": "相當 / 點都（唔）",
+      "fr": "très / avoir du mal à (avec négation)"
+    },
+    "example": {
+      "ja": "<ruby>朝<rt>あさ</rt></ruby>のバスがなかなか<ruby>来<rt>こ</rt></ruby>なくて、<ruby>遅刻<rt>ちこく</rt></ruby>しそうになりました。",
+      "en": "The morning bus didn't come for a long time, and I was almost late.",
+      "zh_TW": "早上的公車怎麼也不來，差點就遲到了。",
+      "zh_CN": "早上的公交车怎么也不来，差点就迟到了。",
+      "ko": "아침 버스가 좀처럼 오지 않아서 지각할 뻔했습니다.",
+      "zh_HK": "朝早架巴士等極都唔嚟，差啲遲到。",
+      "fr": "Le bus du matin mettait du temps à arriver et j'ai failli être en retard."
+    },
+    "related": "肯定で「かなり」、否定で「簡単に〜ない」"
+  },
+  {
+    "id": "card_1885",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "そろそろ",
+    "reading": "そろそろ",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "soon / before long / it's about time",
+      "zh_TW": "快要 / 該……了",
+      "zh_CN": "快要 / 该……了",
+      "ko": "슬슬 / 이제 곧",
+      "zh_HK": "差唔多係時候 / 就快",
+      "fr": "bientôt / il est temps de"
+    },
+    "example": {
+      "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなりましたから、そろそろ<ruby>帰<rt>かえ</rt></ruby>りましょう。",
+      "en": "It has gotten late at night, so it's about time we headed home.",
+      "zh_TW": "時間很晚了，我們差不多該回去了吧。",
+      "zh_CN": "天色已晚，我们该回去了吧。",
+      "ko": "밤이 늦었으니 슬슬 돌아갑시다.",
+      "zh_HK": "夜喇，我哋差唔多係時候返屋企啦。",
+      "fr": "Il se fait tard, il est temps de rentrer."
+    },
+    "related": "行動を始めるタイミングを表す"
+  },
+  {
+    "id": "card_1886",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "とうとう",
+    "reading": "とうとう",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "finally / at last / in the end",
+      "zh_TW": "終於 / 終究",
+      "zh_CN": "终于 / 终究",
+      "ko": "드디어 / 마침내 / 결국",
+      "zh_HK": "終於 / 到頭來",
+      "fr": "finalement / enfin / au bout du compte"
+    },
+    "example": {
+      "ja": "10<ruby>年間<rt>ねんかん</rt></ruby><ruby>使<rt>つか</rt></ruby>っていた<ruby>洗濯<rt>せんたく</rt></ruby><ruby>機<rt>き</rt></ruby>が、<ruby>昨日<rt>きのう</rt></ruby>とうとう<ruby>壊<rt>こわ</rt></ruby>れてしまいました。",
+      "en": "The washing machine I had been using for 10 years finally broke down yesterday.",
+      "zh_TW": "用了十年的洗衣機昨天終於還是壞了。",
+      "zh_CN": "用了十年的洗衣机昨天终于还是坏了。",
+      "ko": "10년 동안 쓰던 세탁기가 어제 결국 고장 나 버렸습니다.",
+      "zh_HK": "用咗十年嘅洗衣機尋日終於都壞咗。",
+      "fr": "La machine à laver que j'utilisais depuis 10 ans est finalement tombée en panne hier."
+    },
+    "related": "類義語: やっと（良い結果のみ）"
+  },
+  {
+    "id": "card_1887",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "うっかり",
+    "reading": "うっかり",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "carelessly / absentmindedly",
+      "zh_TW": "不小心 / 迷迷糊糊",
+      "zh_CN": "不小心 / 一不留神",
+      "ko": "깜빡 / 무심코",
+      "zh_HK": "唔小心 / 懵盛盛",
+      "fr": "par inadvertance / étourdiment"
+    },
+    "example": {
+      "ja": "うっかりして、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまいました。",
+      "en": "I was careless and accidentally left my umbrella on the train.",
+      "zh_TW": "我一不小心，把雨傘忘在電車裡了。",
+      "zh_CN": "我一不留神，把雨伞忘在电车里了。",
+      "ko": "깜빡하고 전철 안에 우산을 두고 내렸습니다.",
+      "zh_HK": "我一時唔小心，留低咗把遮喺電車入面。",
+      "fr": "Par inadvertance, j'ai oublié mon parapluie dans le train."
+    },
+    "related": "表現: うっかり忘れる"
+  },
+  {
+    "id": "card_1888",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "しっかり",
+    "reading": "しっかり",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "firmly / steadily / properly",
+      "zh_TW": "好好地 / 紮實 / 牢牢地",
+      "zh_CN": "好好地 / 扎实 / 牢牢地",
+      "ko": "단단히 / 제대로 / 착실히",
+      "zh_HK": "好好地 / 實淨 / 認真",
+      "fr": "fermement / sérieusement / bien"
+    },
+    "example": {
+      "ja": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>かないように、<ruby>毎日<rt>まいにち</rt></ruby>しっかり<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べています。",
+      "en": "So as not to catch a cold, I eat a proper breakfast every day.",
+      "zh_TW": "為了不感冒，我每天都好好吃早餐。",
+      "zh_CN": "为了不感冒，我每天都好好吃早饭。",
+      "ko": "감기에 걸리지 않도록 매일 든든하게 아침밥을 먹고 있습니다.",
+      "zh_HK": "為咗唔好冷親，我每日都會好好地食早餐。",
+      "fr": "Pour ne pas attraper froid, je prends un bon petit-déjeuner tous les jours."
+    },
+    "related": "副詞・サ変動詞"
+  },
+  {
+    "id": "card_1889",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "すっかり",
+    "reading": "すっかり",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "completely / entirely",
+      "zh_TW": "完全 / 徹底",
+      "zh_CN": "完全 / 彻底",
+      "ko": "완전히 / 몽땅",
+      "zh_HK": "完全 / 徹底",
+      "fr": "complètement / entièrement"
+    },
+    "example": {
+      "ja": "<ruby>山の上<rt>やまのうえ</rt></ruby>は<ruby>木の葉<rt>このは</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>くなって、すっかり<ruby>秋<rt>あき</rt></ruby>らしくなりました。",
+      "en": "On top of the mountain, the leaves have turned red and it feels completely like autumn.",
+      "zh_TW": "山上的樹葉紅了，完全是一派秋天的景象。",
+      "zh_CN": "山上的树叶红了，完全是一派秋天的景象。",
+      "ko": "산 위는 나뭇잎이 붉게 물들어 완전히 가을다워졌습니다.",
+      "zh_HK": "山上面嘅樹葉紅晒，完全變成秋天嘅景象。",
+      "fr": "Au sommet de la montagne, les feuilles ont rougi et l'automne est complètement installé."
+    },
+    "related": "変化が完了したことを表す"
+  },
+  {
+    "id": "card_1890",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "すると",
+    "reading": "すると",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "thereupon / then / and just then",
+      "zh_TW": "於是 / 緊接著",
+      "zh_CN": "于是 / 紧接着",
+      "ko": "그러자 / 그랬더니",
+      "zh_HK": "跟住 / 於是",
+      "fr": "alors / sur ce / aussitôt"
+    },
+    "example": {
+      "ja": "カーテンを<ruby>開<rt>あ</rt></ruby>けました。すると、<ruby>外<rt>そと</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>真っ白<rt>まっしろ</rt></ruby>な<ruby>雪<rt>ゆき</rt></ruby>でした。",
+      "en": "I opened the curtains. Thereupon, outside was completely covered in pure white snow.",
+      "zh_TW": "我拉開窗簾。只見外面一片白雪皚皚。",
+      "zh_CN": "我拉开窗帘。只见外面一片白雪皑皑。",
+      "ko": "커튼을 열었습니다. 그러자 밖은 온통 새하얀 눈이었습니다.",
+      "zh_HK": "我拉開窗簾，就見到出面一片雪白。",
+      "fr": "J'ai ouvert les rideaux. Alors, tout était recouvert de neige blanche dehors."
+    },
+    "related": "接続詞"
+  },
+  {
+    "id": "card_1891",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "そこで",
+    "reading": "そこで",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "so / accordingly / therefore",
+      "zh_TW": "於是 / 因此（採取行動）",
+      "zh_CN": "于是 / 因此（采取行动）",
+      "ko": "그래서 / 그리하여",
+      "zh_HK": "於是 / 所以（採取行動）",
+      "fr": "alors / c'est pourquoi"
+    },
+    "example": {
+      "ja": "<ruby>漢字<rt>かんじ</rt></ruby>がなかなか<ruby>覚<rt>おぼ</rt></ruby>えられません。そこで、<ruby>毎日<rt>まいにち</rt></ruby>カードを<ruby>作<rt>つく</rt></ruby>って<ruby>練習<rt>れんしゅう</rt></ruby>することにしました。",
+      "en": "I can't memorize kanji easily. So, I decided to make cards and practice every day.",
+      "zh_TW": "漢字怎麼也記不住。於是，我決定每天做字卡來練習。",
+      "zh_CN": "汉字怎么也记不住。于是，我决定每天做卡片来练习。",
+      "ko": "한자가 좀처럼 외워지지 않습니다. 그래서 매일 카드를 만들어 연습하기로 했습니다.",
+      "zh_HK": "漢字點都記唔入腦。於是我決定每日整字卡嚟練習。",
+      "fr": "J'ai du mal à retenir les kanjis. Alors, j'ai décidé de créer des cartes pour m'entraîner chaque jour."
+    },
+    "related": "接続詞（解決策を述べる）"
+  },
+  {
+    "id": "card_1892",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "けれども",
+    "reading": "けれども",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "however / although / but",
+      "zh_TW": "但是 / 可是",
+      "zh_CN": "但是 / 可是",
+      "ko": "하지만 / 그렇지만",
+      "zh_HK": "但係 / 不過",
+      "fr": "mais / cependant / toutefois"
+    },
+    "example": {
+      "ja": "このカメラは<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>いです。けれども、<ruby>性能<rt>せいのう</rt></ruby>はとてもいいです。",
+      "en": "This camera is a bit expensive. However, its performance is very good.",
+      "zh_TW": "這台相機有點貴。不過性能非常好。",
+      "zh_CN": "这台相机有点贵。不过性能非常好。",
+      "ko": "이 카메라는 조금 비쌉니다. 하지만 성능은 매우 좋습니다.",
+      "zh_HK": "呢部相機有啲貴。不過性能就非常好。",
+      "fr": "Cet appareil photo est un peu cher. Cependant, ses performances sont excellentes."
+    },
+    "related": "「けれど・けど」の丁寧な形"
+  },
+  {
+    "id": "card_1893",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "オートバイ",
+    "reading": "オートバイ",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "motorcycle",
+      "zh_TW": "摩托車 / 機車",
+      "zh_CN": "摩托车",
+      "ko": "오토바이",
+      "zh_HK": "電單車",
+      "fr": "moto"
+    },
+    "example": {
+      "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>オートバイに<ruby>乗<rt>の</rt></ruby>って<ruby>工場<rt>こうじょう</rt></ruby>へ<ruby>通<rt>とお</rt></ruby>っています。",
+      "en": "My older brother rides a motorcycle to commute to the factory every morning.",
+      "zh_TW": "哥哥每天早上騎機車去工廠上班。",
+      "zh_CN": "哥哥每天早上骑摩托车去工厂上班。",
+      "ko": "형은 매일 아침 오토바이를 타고 공장에 다닙니다.",
+      "zh_HK": "阿哥每日朝早都會揸電單車返工廠。",
+      "fr": "Mon grand frère va à l'usine à moto tous les matins."
+    },
+    "related": "略称: バイク"
+  },
+  {
+    "id": "card_1894",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "カーテン",
+    "reading": "カーテン",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "curtain",
+      "zh_TW": "窗簾",
+      "zh_CN": "窗帘",
+      "ko": "커튼",
+      "zh_HK": "窗簾",
+      "fr": "rideau"
+    },
+    "example": {
+      "ja": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>変<rt>か</rt></ruby>えるために、<ruby>明<rt>あか</rt></ruby>るい<ruby>色<rt>いろ</rt></ruby>のカーテンを<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "To change the atmosphere of the room, I bought bright-colored curtains.",
+      "zh_TW": "為了改變房間的氣氛，我買了亮色的窗簾。",
+      "zh_CN": "为了改变房间的氛围，我买了亮色的窗帘。",
+      "ko": "방 분위기를 바꾸기 위해 밝은 색 커튼을 샀습니다.",
+      "zh_HK": "為咗改變間房嘅氣氛，我買咗淺色嘅窗簾。",
+      "fr": "Pour changer l'ambiance de la pièce, j'ai acheté des rideaux de couleur claire."
+    },
+    "related": "住居のカタカナ語"
+  },
+  {
+    "id": "card_1895",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "ガソリン",
+    "reading": "ガソリン",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "gasoline / petrol",
+      "zh_TW": "汽油",
+      "zh_CN": "汽油",
+      "ko": "휘발유 / 가솔린",
+      "zh_HK": "汽油 / 電油",
+      "fr": "essence"
+    },
+    "example": {
+      "ja": "ドライブに<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、ガソリンスタンドでガソリンを<ruby>入<rt>い</rt></ruby>れました。",
+      "en": "Before going for a drive, I put gas in the car at the gas station.",
+      "zh_TW": "去兜風之前，我在加油站加了汽油。",
+      "zh_CN": "去兜风之前，我在加油站加了汽油。",
+      "ko": "드라이브를 가기 전에 주유소에서 휘발유를 넣었습니다.",
+      "zh_HK": "去遊車河之前，我喺油站入咗油。",
+      "fr": "Avant de partir en promenade en voiture, j'ai fait le plein d'essence à la station-service."
+    },
+    "related": "関連語: ガソリンスタンド"
+  },
+  {
+    "id": "card_1896",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "クーラー",
+    "reading": "クーラー",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "air conditioner (cooler)",
+      "zh_TW": "冷氣機",
+      "zh_CN": "冷气 / 空调",
+      "ko": "에어컨 / 냉방기",
+      "zh_HK": "冷氣機",
+      "fr": "climatiseur"
+    },
+    "example": {
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>部屋<rt>へや</rt></ruby>のクーラーをつけました。",
+      "en": "Because it is very hot today, I turned on the air conditioner in the room.",
+      "zh_TW": "今天太熱了，我打開了房間的冷氣。",
+      "zh_CN": "今天太热了，我打开了房间的空调。",
+      "ko": "오늘은 너무 더워서 방의 에어컨을 켰습니다.",
+      "zh_HK": "今日好熱，我開咗間房部冷氣機。",
+      "fr": "Comme il fait très chaud aujourd'hui, j'ai allumé le climatiseur dans la pièce."
+    },
+    "related": "類義語: エアコン・冷房"
+  },
+  {
+    "id": "card_1897",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "スーツケース",
+    "reading": "スーツケース",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "suitcase",
+      "zh_TW": "行李箱",
+      "zh_CN": "行李箱 / 旅行箱",
+      "ko": "여행 가방 / 캐리어",
+      "zh_HK": "行李喼 / 喼",
+      "fr": "valise"
+    },
+    "example": {
+      "ja": "<ruby>大<rt>おお</rt></ruby>きなスーツケースにお<ruby>土産<rt>みやげ</rt></ruby>をたくさん<ruby>詰<rt>つ</rt></ruby>めました。",
+      "en": "I packed a lot of souvenirs into my large suitcase.",
+      "zh_TW": "我在大行李箱裡塞滿了伴手禮。",
+      "zh_CN": "我在大行李箱里塞满了伴手礼。",
+      "ko": "큰 여행 가방에 선물을 가득 채웠습니다.",
+      "zh_HK": "我喺個大喼入面塞滿晒手信。",
+      "fr": "J'ai rempli ma grande valise de souvenirs."
+    },
+    "related": "旅行のカタカナ語"
+  },
+  {
+    "id": "card_1898",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "ステレオ",
+    "reading": "ステレオ",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "stereo (sound system)",
+      "zh_TW": "立體聲音響",
+      "zh_CN": "立体声音响",
+      "ko": "스테레오 / 오디오",
+      "zh_HK": "音響組合",
+      "fr": "chaîne hi-fi / stéréo"
+    },
+    "example": {
+      "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>居間<rt>いま</rt></ruby>のステレオでクラシック<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きます。",
+      "en": "On holidays, I listen to classical music on the stereo in the living room.",
+      "zh_TW": "休假日我用客廳的音響聽古典音樂。",
+      "zh_CN": "休息日我用客厅的音响听古典音乐。",
+      "ko": "휴일에는 거실 오디오로 클래식 음악을 듣습니다.",
+      "zh_HK": "放假我會用客廳部音響聽古典音樂。",
+      "fr": "Les jours de congé, j'écoute de la musique classique sur la chaîne hi-fi du salon."
+    },
+    "related": "家電のカタカナ語"
+  },
+  {
+    "id": "card_1899",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "テキスト",
+    "reading": "テキスト",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "textbook / coursebook",
+      "zh_TW": "教材 / 課本",
+      "zh_CN": "教材 / 课本",
+      "ko": "교재 / 텍스트",
+      "zh_HK": "教材 / 課本",
+      "fr": "manuel / support de cours"
+    },
+    "example": {
+      "ja": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しいテキストを<ruby>買<rt>か</rt></ruby>いました。",
+      "en": "I bought a new textbook to use in my Japanese class.",
+      "zh_TW": "我買了日語課要用的新教材。",
+      "zh_CN": "我买了日语课要用的新教材。",
+      "ko": "일본어 수업에서 사용할 새 교재를 샀습니다.",
+      "zh_HK": "我買咗日文堂要用嘅新教材。",
+      "fr": "J'ai acheté un nouveau manuel pour mon cours de japonais."
+    },
+    "related": "類義語: 教科書（きょうかしょ）"
+  },
+  {
+    "id": "card_1900",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "パート",
+    "reading": "パート",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "part-time job (esp. for housewives)",
+      "zh_TW": "兼職 / 計時工作",
+      "zh_CN": "计时工 / 兼职",
+      "ko": "파트타임 (시간제 근무)",
+      "zh_HK": "兼職 / Part-time",
+      "fr": "travail à temps partiel"
+    },
+    "example": {
+      "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だけ<ruby>近<rt>ちか</rt></ruby>くのスーパーでパートをしています。",
+      "en": "My mother works part-time at a nearby supermarket only in the mornings.",
+      "zh_TW": "媽媽只在上午去附近的超市兼職工作。",
+      "zh_CN": "妈妈只在上午去附近的超市打零工。",
+      "ko": "어머니는 오전 중에만 근처 슈퍼에서 파트타임으로 일하십니다.",
+      "zh_HK": "阿媽淨係朝早喺附近間超市做兼職。",
+      "fr": "Ma mère travaille à temps partiel au supermarché voisin uniquement le matin."
+    },
+    "related": "類義語: アルバイト"
+  },
+  {
+    "id": "card_1901",
+    "section_num": 82,
+    "section_title": "#82 【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "folder_id": "folder_7",
+    "folder_name": "初級 75-82（N4総復習・完全制覇）",
+    "word": "レジ",
+    "reading": "レジ",
+    "category": "【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ",
+    "meaning": {
+      "en": "cash register / checkout counter",
+      "zh_TW": "收銀台 / 結帳櫃檯",
+      "zh_CN": "收银台",
+      "ko": "계산대",
+      "zh_HK": "收銀處 / 俾錢位",
+      "fr": "caisse"
+    },
+    "example": {
+      "ja": "<ruby>買<rt>か</rt></ruby>いたいものをかごに<ruby>入<rt>い</rt></ruby>れて、レジに<ruby>並<rt>なら</rt></ruby>びました。",
+      "en": "I put the items I wanted to buy in the basket and lined up at the checkout.",
+      "zh_TW": "我把想買的東西放進購物籃，在收銀台前排隊。",
+      "zh_CN": "我把想买的东西放进购物篮，在收银台前排队。",
+      "ko": "사고 싶은 물건을 바구니에 넣고 계산대에 줄을 섰습니다.",
+      "zh_HK": "我將想買嘅嘢放入籃度，然後喺收銀處排隊。",
+      "fr": "J'ai mis les articles que je voulais acheter dans le panier et j'ai fait la queue à la caisse."
+    },
+    "related": "買い物・店舗のカタカナ語"
   }
 ];

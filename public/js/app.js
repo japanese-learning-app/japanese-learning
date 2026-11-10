@@ -6935,7 +6935,7 @@
       title: '初級 31-51',
       desc: 'て形応用・動詞4/5・病気・ない形・可能形・た形',
       range: [31, 51],
-      badge: 'STAGE 4',
+      badge: 'STAGE 4-5',
       trans: {
         en: 'Beginner 31-51',
         zh_TW: '初級 31-51',
@@ -6943,6 +6943,51 @@
         ko: '초급 31-51',
         zh_HK: '初級 31-51',
         fr: 'Débutant 31-51'
+      }
+    },
+    {
+      id: 'folder_5',
+      title: '初級 52-58',
+      desc: '基本動詞4/5て形・街と移動・JLPT N5未習語完全網羅',
+      range: [52, 58],
+      badge: 'STAGE 6・N5完',
+      trans: {
+        en: 'Beginner 52-58 (Stage 6 & N5 Complete)',
+        zh_TW: '初級 52-58（Stage 6・N5總複習）',
+        zh_CN: '初级 52-58（Stage 6・N5总复习）',
+        ko: '초급 52-58 (Stage 6·N5 총정리)',
+        zh_HK: '初級 52-58（Stage 6・N5總複習）',
+        fr: 'Débutant 52-58 (Stage 6 & N5 Complet)'
+      }
+    },
+    {
+      id: 'folder_6',
+      title: '初級 59-74',
+      desc: '自他動詞・意向形・条件形・受身・授受・様態・使役・敬語',
+      range: [59, 74],
+      badge: 'STAGE 7-12',
+      trans: {
+        en: 'Intermediate Prep 59-74 (Stages 7-12)',
+        zh_TW: '初中級 59-74（Stage 7-12）',
+        zh_CN: '初中级 59-74（Stage 7-12）',
+        ko: '초중급 59-74 (Stage 7-12)',
+        zh_HK: '初中級 59-74（Stage 7-12）',
+        fr: 'Intermédiaire 59-74 (Stages 7-12)'
+      }
+    },
+    {
+      id: 'folder_7',
+      title: '初級 75-82',
+      desc: 'JLPT N4未習動詞・形容詞・名詞・副詞・カタカナ語 完全制覇',
+      range: [75, 82],
+      badge: 'N4総復習',
+      trans: {
+        en: 'JLPT N4 Complete Review 75-82',
+        zh_TW: 'JLPT N4總複習 75-82',
+        zh_CN: 'JLPT N4总复习 75-82',
+        ko: 'JLPT N4 총정리 75-82',
+        zh_HK: 'JLPT N4總複習 75-82',
+        fr: 'Révision Complète JLPT N4 75-82'
       }
     }
   ];
@@ -7000,7 +7045,38 @@
     { num: 48, title: '基本動詞 たform (2)', folder_id: 'folder_4' },
     { num: 49, title: '基本動詞 たform (3)', folder_id: 'folder_4' },
     { num: 50, title: '基本動詞 たform (4)', folder_id: 'folder_4' },
-    { num: 51, title: '基本動詞 たform (5)', folder_id: 'folder_4' }
+    { num: 51, title: '基本動詞 たform (5)', folder_id: 'folder_4' },
+    { num: 52, title: '基本動詞(4) てform', folder_id: 'folder_5' },
+    { num: 53, title: '基本動詞(5) てform', folder_id: 'folder_5' },
+    { num: 54, title: 'Stage 6 街・道案内・移動の未習語', folder_id: 'folder_5' },
+    { num: 55, title: '【N5総復習①】指示語（こそあど）・疑問詞・数量', folder_id: 'folder_5' },
+    { num: 56, title: '【N5総復習②】家・部屋・衣類・身の回りの未習N5名詞', folder_id: 'folder_5' },
+    { num: 57, title: '【N5総復習③】自然・趣味・学習・日常の未習N5名詞', folder_id: 'folder_5' },
+    { num: 58, title: '【N5総復習④】未習のN5動詞・形容詞・副詞', folder_id: 'folder_5' },
+    { num: 59, title: 'Stage 7 生活・送迎・継続・様子の新出語', folder_id: 'folder_6' },
+    { num: 60, title: 'Stage 7 自動詞・他動詞ペア完全攻略(1)', folder_id: 'folder_6' },
+    { num: 61, title: 'Stage 7 自動詞・他動詞ペア(2) ＆ 配置・準備', folder_id: 'folder_6' },
+    { num: 62, title: 'Stage 8 基本動詞 意向形（〜よう）＆ 将来計画', folder_id: 'folder_6' },
+    { num: 63, title: 'Stage 8 天気変化・標識・説明書・手順の新出語', folder_id: 'folder_6' },
+    { num: 64, title: 'Stage 8 基本動詞・形容詞 条件形（〜ば）＆ 条件表現', folder_id: 'folder_6' },
+    { num: 65, title: 'Stage 9 目標・習慣・生活管理の新出語', folder_id: 'folder_6' },
+    { num: 66, title: 'Stage 9 受身形（〜られる）＆ 歴史・社会の新出語', folder_id: 'folder_6' },
+    { num: 67, title: 'Stage 10 感情・トラブル・災害・原因の新出語', folder_id: 'folder_6' },
+    { num: 68, title: 'Stage 10 確認・試行・サイズ・買い物の新出語', folder_id: 'folder_6' },
+    { num: 69, title: 'Stage 10 授受表現（くださる・いただく・やる）と人間関係・相手の家族', folder_id: 'folder_6' },
+    { num: 70, title: 'Stage 11 目的・道具・様態（〜そう）の新出語', folder_id: 'folder_6' },
+    { num: 71, title: 'Stage 11 過度・難易・条件（場合）・逆接（のに）の新出語', folder_id: 'folder_6' },
+    { num: 72, title: 'Stage 12 局面・確信・伝聞・五感推量の新出語', folder_id: 'folder_6' },
+    { num: 73, title: 'Stage 12 使役形・使役受身形・許可求めの新出語', folder_id: 'folder_6' },
+    { num: 74, title: 'Stage 12 尊敬語・謙譲語・丁重語マスター', folder_id: 'folder_6' },
+    { num: 75, title: '【N4総復習①】未習N4動詞(1)（行動・移動・日常）', folder_id: 'folder_7' },
+    { num: 76, title: '【N4総復習②】未習N4動詞(2)（思考・伝達・生活）', folder_id: 'folder_7' },
+    { num: 77, title: '【N4総復習③】未習N4形容詞・性質・状態', folder_id: 'folder_7' },
+    { num: 78, title: '【N4総復習④】未習N4名詞(1)（住居・暮らし・衣食）', folder_id: 'folder_7' },
+    { num: 79, title: '【N4総復習⑤】未習N4名詞(2)（社会・経済・教育・文化）', folder_id: 'folder_7' },
+    { num: 80, title: '【N4総復習⑥】未習N4名詞(3)（自然・地理・場所・医療）', folder_id: 'folder_7' },
+    { num: 81, title: '【N4総復習⑦】未習N4名詞(4)（人間・身体・抽象概念）', folder_id: 'folder_7' },
+    { num: 82, title: '【N4総復習⑧】未習N4副詞・接続詞・カタカナ語総仕上げ', folder_id: 'folder_7' }
   ];
 
   function getCatalogSection(secNum) {
@@ -7070,7 +7146,38 @@
     48: { en: 'Basic Verbs 2 (Ta-form / Past)', zh_TW: '基本動詞 2（た形／過去式）', zh_CN: '基本动词 2（た形／过去式）', ko: '기본 동사 2 (과거/다형)', zh_HK: '基本動詞 2（た形／過去式）', fr: 'Verbes de base 2 (forme en -ta / passé)' },
     49: { en: 'Basic Verbs 3 (Ta-form / Past)', zh_TW: '基本動詞 3（た形／過去式）', zh_CN: '基本动词 3（た形／过去式）', ko: '기본 동사 3 (과거/다형)', zh_HK: '基本動詞 3（た形／過去式）', fr: 'Verbes de base 3 (forme en -ta / passé)' },
     50: { en: 'Basic Verbs 4 (Ta-form / Past)', zh_TW: '基本動詞 4（た形／過去式）', zh_CN: '基本动词 4（た形／过去式）', ko: '기본 동사 4 (과거/다형)', zh_HK: '基本動詞 4（た形／過去式）', fr: 'Verbes de base 4 (forme en -ta / passé)' },
-    51: { en: 'Basic Verbs 5 (Ta-form / Past)', zh_TW: '基本動詞 5（た形／過去式）', zh_CN: '基本动词 5（た形／过去式）', ko: '기본 동사 5 (과거/다형)', zh_HK: '基本動詞 5（た形／過去式）', fr: 'Verbes de base 5 (forme en -ta / passé)' }
+    51: { en: 'Basic Verbs 5 (Ta-form / Past)', zh_TW: '基本動詞 5（た形／過去式）', zh_CN: '基本动词 5（た形／过去式）', ko: '기본 동사 5 (과거/다형)', zh_HK: '基本動詞 5（た形／過去式）', fr: 'Verbes de base 5 (forme en -ta / passé)' },
+    52: { en: 'Basic Verbs 4 (Te-form)', zh_TW: '基本動詞 4（て形）', zh_CN: '基本动词 4（て形）', ko: '기본 동사 4 (て형)', zh_HK: '基本動詞 4（て形）', fr: 'Verbes de base 4 (forme en te)' },
+    53: { en: 'Basic Verbs 5 (Te-form)', zh_TW: '基本動詞 5（て形）', zh_CN: '基本动词 5（て形）', ko: '기본 동사 5 (て형)', zh_HK: '基本動詞 5（て形）', fr: 'Verbes de base 5 (forme en te)' },
+    54: { en: 'Stage 6: Town, Directions & Movement', zh_TW: 'Stage 6 街道、問路與移動', zh_CN: 'Stage 6 街道、问路与移动', ko: 'Stage 6 거리·길안내·이동', zh_HK: 'Stage 6 街道、問路與移動', fr: 'Stage 6 : Ville, Directions et Déplacements' },
+    55: { en: 'N5 Review 1: Demonstratives, Interrogatives & Quantities', zh_TW: '【N5總複習①】指示詞、疑問詞與數量', zh_CN: '【N5总复习①】指示词、疑问词与数量', ko: '[N5 총정리①] 지시어·의문사·수량', zh_HK: '【N5總複習①】指示詞、疑問詞與數量', fr: 'Révision N5 1 : Démonstratifs, Interrogatifs et Quantités' },
+    56: { en: 'N5 Review 2: Home, Rooms, Clothes & Everyday Items', zh_TW: '【N5總複習②】家、房間、衣物與隨身物品', zh_CN: '【N5总复习②】家、房间、衣物与随身物品', ko: '[N5 총정리②] 집·방·의류·일상용품', zh_HK: '【N5總複習②】屋企、房間、衣物與隨身物品', fr: 'Révision N5 2 : Maison, Pièces, Vêtements et Objets' },
+    57: { en: 'N5 Review 3: Nature, Hobbies, Study & Daily Life', zh_TW: '【N5總複習③】自然、興趣、學習與日常', zh_CN: '【N5总复习③】自然、兴趣、学习与日常', ko: '[N5 총정리③] 자연·취미·학습·일상', zh_HK: '【N5總複習③】自然、興趣、學習與日常', fr: 'Révision N5 3 : Nature, Loisirs, Études et Quotidien' },
+    58: { en: 'N5 Review 4: Essential N5 Verbs, Adjectives & Adverbs', zh_TW: '【N5總複習④】未習N5動詞、形容詞與副詞', zh_CN: '【N5总复习④】未习N5动词、形容词与副词', ko: '[N5 총정리④] 필수 N5 동사·형용사·부사', zh_HK: '【N5總複習④】未習N5動詞、形容詞與副詞', fr: 'Révision N5 4 : Verbes, Adjectifs et Adverbes N5' },
+    59: { en: 'Stage 7: Daily Living, Pick-up & Appearance', zh_TW: 'Stage 7 生活、接送、持續與外貌', zh_CN: 'Stage 7 生活、接送、持续与外貌', ko: 'Stage 7 생활·마중·지속·모습', zh_HK: 'Stage 7 生活、接送、持續與外貌', fr: 'Stage 7 : Vie quotidienne et Apparence' },
+    60: { en: 'Stage 7: Intransitive & Transitive Pairs (1)', zh_TW: 'Stage 7 自動詞與他動詞配對(1)', zh_CN: 'Stage 7 自动词与他动词配对(1)', ko: 'Stage 7 자동사·타동사 페어(1)', zh_HK: 'Stage 7 自動詞與他動詞配對(1)', fr: 'Stage 7 : Paires Intransitif / Transitif (1)' },
+    61: { en: 'Stage 7: Intransitive & Transitive Pairs (2) & Prep', zh_TW: 'Stage 7 自動詞與他動詞配對(2)及準備', zh_CN: 'Stage 7 自动词与他动词配对(2)及准备', ko: 'Stage 7 자동사·타동사 페어(2) 및 준비', zh_HK: 'Stage 7 自動詞與他動詞配對(2)及準備', fr: 'Stage 7 : Paires Intransitif / Transitif (2) et Préparatifs' },
+    62: { en: 'Stage 8: Volitional Form (-you) & Future Plans', zh_TW: 'Stage 8 基本動詞意向形（〜よう）與未來計畫', zh_CN: 'Stage 8 基本动词意向形（〜よう）与未来计划', ko: 'Stage 8 기본동사 의향형(~よう) 및 장래계획', zh_HK: 'Stage 8 基本動詞意向形（〜よう）與未來計畫', fr: 'Stage 8 : Forme Volitive (-you) et Projets' },
+    63: { en: 'Stage 8: Weather Changes, Signs & Instructions', zh_TW: 'Stage 8 天氣變化、標誌與說明書步驟', zh_CN: 'Stage 8 天气变化、标志与说明书步骤', ko: 'Stage 8 날씨변화·표지판·설명서·절차', zh_HK: 'Stage 8 天氣變化、標誌與說明書步驟', fr: 'Stage 8 : Météo, Panneaux et Instructions' },
+    64: { en: 'Stage 8: Conditional Form (-ba) & Conditionals', zh_TW: 'Stage 8 動詞・形容詞條件形（〜ば）', zh_CN: 'Stage 8 动词・形容词条件形（〜ば）', ko: 'Stage 8 동사·형용사 조건형(~ば)', zh_HK: 'Stage 8 動詞・形容詞條件形（〜ば）', fr: 'Stage 8 : Conditionnel (-ba)' },
+    65: { en: 'Stage 9: Goals, Habits & Lifestyle Management', zh_TW: 'Stage 9 目標、習慣與生活管理', zh_CN: 'Stage 9 目标、习惯与生活管理', ko: 'Stage 9 목표·습관·생활관리', zh_HK: 'Stage 9 目標、習慣與生活管理', fr: 'Stage 9 : Objectifs, Habitudes et Mode de vie' },
+    66: { en: 'Stage 9: Passive Form (-rareru), History & Society', zh_TW: 'Stage 9 受身形（〜られる）與歷史社會', zh_CN: 'Stage 9 被动形（〜られる）与历史社会', ko: 'Stage 9 수동형(~られる) 및 역사·사회', zh_HK: 'Stage 9 被動形（〜られる）與歷史社會', fr: 'Stage 9 : Forme Passive (-rareru), Histoire et Société' },
+    67: { en: 'Stage 10: Emotions, Trouble, Disasters & Causes', zh_TW: 'Stage 10 感情、麻煩、災害與原因', zh_CN: 'Stage 10 感情、麻烦、灾害与原因', ko: 'Stage 10 감정·트러블·재해·원인', zh_HK: 'Stage 10 感情、麻煩、災害與原因', fr: 'Stage 10 : Émotions, Problèmes, Catastrophes et Causes' },
+    68: { en: 'Stage 10: Checking, Trying Out, Sizes & Shopping', zh_TW: 'Stage 10 確認、試穿試用、尺寸與購物', zh_CN: 'Stage 10 确认、试穿试用、尺寸与购物', ko: 'Stage 10 확인·시도·사이즈·쇼핑', zh_HK: 'Stage 10 確認、試身試用、尺碼與購物', fr: 'Stage 10 : Vérification, Essai, Tailles et Achats' },
+    69: { en: 'Stage 10: Giving/Receiving & Family Terms', zh_TW: 'Stage 10 授受表現與人際關係・對方家族', zh_CN: 'Stage 10 授受表现与人际关系・对方家族', ko: 'Stage 10 수수표현 및 인간관계·상대방 가족', zh_HK: 'Stage 10 授受表現與人際關係・對方屋企人', fr: 'Stage 10 : Donner/Recevoir, Relations et Famille d’autrui' },
+    70: { en: 'Stage 11: Purpose, Tools & Appearance (-sou)', zh_TW: 'Stage 11 目的、道具與樣態（〜そう）', zh_CN: 'Stage 11 目的、道具与样态（〜そう）', ko: 'Stage 11 목적·도구·양태(~そう)', zh_HK: 'Stage 11 目的、道具與樣態（〜そう）', fr: 'Stage 11 : But, Outils et Apparence (-sou)' },
+    71: { en: 'Stage 11: Excess (-sugiru), Ease, Cases & Contrast', zh_TW: 'Stage 11 過度、難易、場合與逆接（のに）', zh_CN: 'Stage 11 过度、难易、场合与逆接（のに）', ko: 'Stage 11 과도·난이·경우(場合)·역접(のに)', zh_HK: 'Stage 11 過度、難易、場合與逆接（のに）', fr: 'Stage 11 : Excès, Facilité, Cas et Opposition' },
+    72: { en: 'Stage 12: Timing, Certainty, Hearsay & Evidentials', zh_TW: 'Stage 12 局面、確信（はず）、傳聞與五感推量', zh_CN: 'Stage 12 局面、确信（はず）、传闻与五感推量', ko: 'Stage 12 국면·확신(はず)·전문·오감추량', zh_HK: 'Stage 12 局面、確信（はず）、傳聞與五感推量', fr: 'Stage 12 : Moment, Certitude, Ouï-dire et Apparence' },
+    73: { en: 'Stage 12: Causative, Causative-Passive & Permission', zh_TW: 'Stage 12 使役形、使役受身形與請求許可', zh_CN: 'Stage 12 使役形、使役被动形与请求许可', ko: 'Stage 12 사역형·사역수동형·허가요청', zh_HK: 'Stage 12 使役形、使役被動形與請求許可', fr: 'Stage 12 : Causatif, Causatif-Passif et Permission' },
+    74: { en: 'Stage 12: Honorific, Humble & Polite Keigo Master', zh_TW: 'Stage 12 尊敬語、謙讓語與丁重語大師', zh_CN: 'Stage 12 尊敬语、谦让语与丁重语大师', ko: 'Stage 12 존경어·겸양어·정중어 마스터', zh_HK: 'Stage 12 尊敬語、謙讓語與丁重語大師', fr: 'Stage 12 : Maîtrise du Keigo (Honorifique, Humble, Poli)' },
+    75: { en: 'N4 Review 1: Action, Movement & Daily Verbs', zh_TW: '【N4總複習①】未習N4動詞(1)（行動・移動・日常）', zh_CN: '【N4总复习①】未习N4动词(1)（行动・移动・日常）', ko: '[N4 총정리①] 미습 N4 동사(1) (행동·이동·일상)', zh_HK: '【N4總複習①】未習N4動詞(1)（行動・移動・日常）', fr: 'Révision N4 1 : Verbes d’action et de déplacement' },
+    76: { en: 'N4 Review 2: Thought, Communication & Life Verbs', zh_TW: '【N4總複習②】未習N4動詞(2)（思考・傳達・生活）', zh_CN: '【N4总复习②】未习N4动词(2)（思考・传达・生活）', ko: '[N4 총정리②] 미습 N4 동사(2) (사고·전달·생활)', zh_HK: '【N4總複習②】未習N4動詞(2)（思考・傳達・生活）', fr: 'Révision N4 2 : Verbes de pensée et communication' },
+    77: { en: 'N4 Review 3: Adjectives, Qualities & States', zh_TW: '【N4總複習③】未習N4形容詞、性質與狀態', zh_CN: '【N4总复习③】未习N4形容词、性质与状态', ko: '[N4 총정리③] 미습 N4 형용사·성질·상태', zh_HK: '【N4總複習③】未習N4形容詞、性質與狀態', fr: 'Révision N4 3 : Adjectifs, Qualités et États' },
+    78: { en: 'N4 Review 4: Housing, Living, Food & Clothing Nouns', zh_TW: '【N4總複習④】未習N4名詞(1)（住居・生活・衣食）', zh_CN: '【N4总复习④】未习N4名词(1)（住居・生活・衣食）', ko: '[N4 총정리④] 미습 N4 명사(1) (주거·생활·의식)', zh_HK: '【N4總複習④】未習N4名詞(1)（住居・生活・衣食）', fr: 'Révision N4 4 : Logement, Vie, Nourriture et Vêtements' },
+    79: { en: 'N4 Review 5: Society, Economy, Education & Culture', zh_TW: '【N4總複習⑤】未習N4名詞(2)（社會・經濟・教育・文化）', zh_CN: '【N4总复习⑤】未习N4名词(2)（社会・经济・教育・文化）', ko: '[N4 총정리⑤] 미습 N4 명사(2) (사회·경제·교육·문화)', zh_HK: '【N4總複習⑤】未習N4名詞(2)（社會・經濟・教育・文化）', fr: 'Révision N4 5 : Société, Économie, Éducation et Culture' },
+    80: { en: 'N4 Review 6: Nature, Geography, Places & Medicine', zh_TW: '【N4總複習⑥】未習N4名詞(3)（自然・地理・場所・醫療）', zh_CN: '【N4总复习⑥】未习N4名词(3)（自然・地理・场所・医疗）', ko: '[N4 총정리⑥] 미습 N4 명사(3) (자연·지리·장소·의료)', zh_HK: '【N4總複習⑥】未習N4名詞(3)（自然・地理・場所・醫療）', fr: 'Révision N4 6 : Nature, Géographie, Lieux et Médecine' },
+    81: { en: 'N4 Review 7: People, Body & Abstract Concepts', zh_TW: '【N4總複習⑦】未習N4名詞(4)（人間・身體・抽象概念）', zh_CN: '【N4总复习⑦】未习N4名词(4)（人际・身体・抽象概念）', ko: '[N4 총정리⑦] 미습 N4 명사(4) (인간·신체·추상개념)', zh_HK: '【N4總複習⑦】未習N4名詞(4)（人際・身體・抽象概念）', fr: 'Révision N4 7 : Personnes, Corps et Concepts Abstraits' },
+    82: { en: 'N4 Review 8: Adverbs, Conjunctions & Katakana Words', zh_TW: '【N4總複習⑧】未習N4副詞、連接詞與片假名語', zh_CN: '【N4总复习⑧】未习N4副词、连接词与片假名语', ko: '[N4 총정리⑧] 미습 N4 부사·접속사·가타카나어', zh_HK: '【N4總複習⑧】未習N4副詞、連接詞與片假名語', fr: 'Révision N4 8 : Adverbes, Conjonctions et Mots en Katakana' }
   };
 
   // Helper to format bilingual title: 日本語 (各言語訳)

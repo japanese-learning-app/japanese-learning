@@ -1,0 +1,2207 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ビジネス敬語 実践トレーニング — 3ステップ敬語道場</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Klee+One:wght@400;600&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* ご指定の2枚の画像から抽出したカラーパレット */
+    --navy-dark: #142143;      /* #142143 ディープネイビー */
+    --navy-deep: #1A2B5D;      /* #1a2b5d */
+    --ocean-blue: #1A5D94;     /* #1a5d94 オーシャンブルー */
+    --ocean-pale: #F0F6FC;
+    --ocean-border: #C5DDF0;
+
+    --vivid-yellow: #FFAF00;   /* #ffaf00 マスタードイエロー */
+    --bright-yellow: #FFD600;
+    --yellow-pale: #FFFDF2;
+    --yellow-soft: #FFF5CC;
+    --yellow-border: #F5CE56;
+
+    --warm-orange: #F38218;    /* ウォームオレンジ */
+    --warm-orange-hover: #DC6E0B;
+    --orange-pale: #FFF6EE;
+    --orange-border: #F7CBA4;
+
+    --light-gray: #E4E4E4;     /* #e4e4e4 薄グレー */
+    --bg-page: #F4F6F9;        /* 薄グレー背景 */
+    --card-bg: #FFFFFF;
+
+    --text-main: #2A3644;      /* 総合ポータル(app.html)と完全同一 */
+    --text-sub: #5A6B7C;
+    --text-muted: #7B8C9E;
+    --border-soft: #E2E8F0;
+
+    --ok-green: #1E7E48;
+    --ok-bg: #EDF9F2;
+    --ok-border: #96DFB6;
+
+    --ng-red: #B91C1C;
+    --ng-bg: #FEF2F2;
+    --ng-border: #FECACA;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* 総合ポータル(app.html)と100%同一のフォント設定 */
+  body {
+    font-family: 'Inter', "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+    background-color: var(--bg-page);
+    color: var(--text-main);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ==================== ふりがな（ルビ）ON/OFF 完全制御 ==================== */
+  ruby {
+    ruby-position: over;
+    ruby-align: center;
+  }
+  ruby rt {
+    font-size: 0.56em;
+    color: var(--ocean-blue);
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    pointer-events: none;
+  }
+  body.hide-furigana ruby rt,
+  body.hide-furigana ruby rp,
+  body.hide-furigana .furigana-reading-row {
+    display: none !important;
+  }
+
+  /* ==================== 1. ヘッダー ==================== */
+  .site-header {
+    background: var(--navy-dark);
+    color: #FFFFFF;
+    padding: 12px 24px;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    box-shadow: 0 3px 14px rgba(20, 33, 67, 0.18);
+  }
+  .header-inner {
+    max-width: 1160px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .back-home-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(255, 255, 255, 0.12);
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 7px 15px;
+    border-radius: 999px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    white-space: nowrap;
+    transition: all 0.2s;
+  }
+  .back-home-link:hover {
+    background: var(--vivid-yellow);
+    color: var(--navy-dark);
+    border-color: var(--vivid-yellow);
+  }
+  .header-title {
+    font-size: 1.12rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    white-space: nowrap;
+  }
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .header-tool-btn {
+    background: rgba(255, 255, 255, 0.14);
+    color: #FFFFFF;
+    border: 1.5px solid rgba(255, 255, 255, 0.3);
+    padding: 7px 16px;
+    border-radius: 999px;
+    font-size: 0.83rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-family: inherit;
+    white-space: nowrap;
+    transition: all 0.18s;
+  }
+  .header-tool-btn:hover {
+    background: rgba(255, 255, 255, 0.24);
+  }
+  .header-tool-btn.furigana-active {
+    background: #FFFFFF;
+    color: var(--navy-dark);
+    border-color: var(--vivid-yellow);
+    box-shadow: 0 2px 8px rgba(255, 175, 0, 0.3);
+  }
+  .furigana-dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: #94A3B8;
+    display: inline-block;
+  }
+  .header-tool-btn.furigana-active .furigana-dot {
+    background: #16A34A;
+    box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.2);
+  }
+  .header-tool-btn.ref-highlight {
+    background: var(--vivid-yellow);
+    color: var(--navy-dark);
+    border-color: var(--vivid-yellow);
+    font-weight: 700;
+  }
+  .header-tool-btn.ref-highlight:hover {
+    background: #FFC226;
+  }
+
+  /* ==================== 2. 0.5秒で直感的にわかる「3つの練習モード」選択エリア ==================== */
+  .mode-selector-section {
+    background: linear-gradient(180deg, var(--yellow-soft) 0%, var(--bg-page) 100%);
+    border-bottom: 1px solid var(--light-gray);
+    padding: 20px 20px 22px;
+  }
+  .mode-selector-inner {
+    max-width: 1160px;
+    margin: 0 auto;
+  }
+  .mode-lead-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .mode-lead-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .mode-lead-badge {
+    background: var(--navy-dark);
+    color: var(--vivid-yellow);
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+  }
+  .book-stats-summary {
+    font-size: 0.8rem;
+    color: var(--navy-dark);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 5px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--yellow-border);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  /* 3つのモードカード（一目で違いがわかり、短い文が絶対に改行されない設計） */
+  .three-modes-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .mode-visual-card {
+    background: #FFFFFF;
+    border: 2px solid var(--light-gray);
+    border-top: 6px solid var(--light-gray);
+    border-radius: 16px;
+    padding: 15px 16px 13px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    min-width: 0;
+    box-shadow: 0 4px 12px rgba(20, 33, 67, 0.04);
+  }
+  .mode-visual-card.card-step1 { border-top-color: var(--ocean-blue); }
+  .mode-visual-card.card-step2 { border-top-color: var(--vivid-yellow); }
+  .mode-visual-card.card-step3 { border-top-color: var(--warm-orange); }
+
+  .mode-visual-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--ocean-blue);
+    box-shadow: 0 8px 20px rgba(26, 93, 148, 0.12);
+  }
+  .mode-visual-card.active {
+    border-color: var(--navy-dark);
+    border-top-width: 6px;
+    box-shadow: 0 10px 26px rgba(20, 33, 67, 0.15);
+  }
+  .mode-visual-card.active.card-step1 { border-top-color: var(--ocean-blue); }
+  .mode-visual-card.active.card-step2 { border-top-color: var(--vivid-yellow); }
+  .mode-visual-card.active.card-step3 { border-top-color: var(--warm-orange); }
+
+  .mode-card-top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .mode-step-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+  }
+  .step1-color { background: var(--ocean-pale); color: var(--ocean-blue); }
+  .step2-color { background: var(--yellow-soft); color: #7A4F00; }
+  .step3-color { background: var(--orange-pale); color: #C25100; }
+
+  .mode-status-pill {
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+    background: var(--bg-page);
+    color: var(--text-sub);
+  }
+  .mode-visual-card.active .mode-status-pill {
+    background: var(--warm-orange);
+    color: #FFFFFF;
+  }
+
+  .mode-card-heading {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    margin-bottom: 4px;
+    line-height: 1.85;
+    white-space: nowrap;
+  }
+  .mode-card-subcopy {
+    font-size: 0.78rem;
+    color: var(--text-sub);
+    margin-bottom: 10px;
+    line-height: 1.85;
+    white-space: nowrap;
+  }
+
+  /* 各モードのミニチュアUIプレビュー（改行ゼロ・一目で形式がわかる） */
+  .mode-preview-box {
+    background: var(--bg-page);
+    border: 1px solid var(--border-soft);
+    border-radius: 12px;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+  }
+
+  /* STEP 1 ミニプレビュー：表と裏の2段カード */
+  .preview-flip-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .preview-flip-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #FFFFFF;
+    border: 1px solid var(--border-soft);
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    white-space: nowrap;
+    line-height: 1.85;
+  }
+  .preview-tag-front {
+    background: var(--vivid-yellow);
+    color: var(--navy-dark);
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .preview-tag-back {
+    background: var(--ocean-blue);
+    color: #FFFFFF;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  /* STEP 2 ミニプレビュー：2×2の4択グリッド */
+  .preview-quiz-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+  .preview-quiz-cell {
+    background: #FFFFFF;
+    border: 1px solid var(--border-soft);
+    border-radius: 8px;
+    padding: 5px 8px;
+    font-size: 0.76rem;
+    font-weight: 600;
+    color: var(--text-sub);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1.85;
+  }
+  .preview-quiz-cell.correct-cell {
+    background: var(--ocean-blue);
+    border-color: var(--ocean-blue);
+    color: #FFFFFF;
+    font-weight: 700;
+  }
+  .preview-quiz-cell.correct-cell ruby rt {
+    color: var(--vivid-yellow);
+  }
+
+  /* STEP 3 ミニプレビュー：場面発話＋件名メールの2段 */
+  .preview-output-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .preview-output-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #FFFFFF;
+    border: 1px solid var(--border-soft);
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--navy-dark);
+    white-space: nowrap;
+    line-height: 1.85;
+  }
+  .preview-tag-orange {
+    background: var(--warm-orange);
+    color: #FFFFFF;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .preview-tag-navy {
+    background: var(--navy-dark);
+    color: var(--vivid-yellow);
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 5px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  /* カード下部フッター（絶対に改行しない1行構成） */
+  .mode-count-footer {
+    font-size: 0.76rem;
+    color: var(--text-sub);
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--border-soft);
+    padding-top: 8px;
+    white-space: nowrap;
+    gap: 6px;
+  }
+  .mode-cta-link {
+    font-weight: 700;
+    color: var(--ocean-blue);
+    white-space: nowrap;
+  }
+  .mode-visual-card.card-step3 .mode-cta-link {
+    color: var(--warm-orange);
+  }
+
+  /* ==================== 3. メイン練習エリア ==================== */
+  .practice-main {
+    max-width: 980px;
+    width: 100%;
+    margin: 22px auto 64px;
+    padding: 0 20px;
+    flex: 1;
+  }
+
+  .clean-toolbar {
+    background: #FFFFFF;
+    border: 1px solid var(--border-soft);
+    border-radius: 14px;
+    padding: 11px 16px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    box-shadow: 0 2px 8px rgba(20, 33, 67, 0.03);
+  }
+  .toolbar-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .toolbar-label {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    margin-right: 2px;
+    white-space: nowrap;
+  }
+  .cat-btn {
+    background: var(--bg-page);
+    color: var(--text-sub);
+    border: 1px solid var(--light-gray);
+    padding: 6px 13px;
+    border-radius: 999px;
+    font-size: 0.81rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+    white-space: nowrap;
+    transition: all 0.16s;
+  }
+  .cat-btn:hover {
+    border-color: var(--ocean-blue);
+    color: var(--ocean-blue);
+  }
+  .cat-btn.active {
+    background: var(--ocean-blue);
+    color: #FFFFFF;
+    border-color: var(--ocean-blue);
+  }
+  .cat-btn.navy-active.active {
+    background: var(--navy-dark);
+    color: var(--vivid-yellow);
+    border-color: var(--navy-dark);
+  }
+
+  /* STEP 3 の3大サブモード切替タブ（見やすい3列グリッド） */
+  .step3-submode-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .step3-submode-tab {
+    background: #FFFFFF;
+    border: 1.5px solid var(--light-gray);
+    border-radius: 12px;
+    padding: 11px 14px;
+    text-align: left;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.18s;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .step3-submode-tab:hover {
+    border-color: var(--ocean-blue);
+  }
+  .step3-submode-tab.active {
+    background: var(--navy-dark);
+    border-color: var(--navy-dark);
+    color: #FFFFFF;
+    box-shadow: 0 4px 12px rgba(20, 33, 67, 0.15);
+  }
+  .step3-submode-title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    white-space: nowrap;
+  }
+  .step3-submode-tab.active .step3-submode-title {
+    color: var(--vivid-yellow);
+  }
+  .step3-submode-sub {
+    font-size: 0.76rem;
+    color: var(--text-sub);
+    white-space: nowrap;
+  }
+  .step3-submode-tab.active .step3-submode-sub {
+    color: #E2E8F0;
+  }
+
+  /* メインの白い問題カード */
+  .workspace-card {
+    background: #FFFFFF;
+    border: 1.5px solid var(--border-soft);
+    border-radius: 20px;
+    padding: 26px 28px;
+    box-shadow: 0 8px 24px rgba(20, 33, 67, 0.05);
+  }
+
+  .card-meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border-soft);
+  }
+  .q-counter-badge {
+    background: var(--navy-dark);
+    color: #FFFFFF;
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 4px 14px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .q-category-tag {
+    background: var(--ocean-pale);
+    color: var(--ocean-blue);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--ocean-border);
+    white-space: nowrap;
+  }
+
+  /* 問題プロンプト枠（ルビが重ならないよう行間2.0） */
+  .prompt-highlight-box {
+    background: var(--yellow-pale);
+    border: 1.5px solid var(--yellow-border);
+    border-left: 6px solid var(--vivid-yellow);
+    border-radius: 14px;
+    padding: 20px 22px;
+    margin: 12px 0 18px;
+  }
+  .prompt-sub-label {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #8A5A00;
+    margin-bottom: 8px;
+  }
+  .prompt-main-phrase {
+    font-size: 1.36rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    line-height: 2.05;
+  }
+
+  /* 4択ボタン（ルビ対応のゆとりある行間） */
+  .choice-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 14px;
+  }
+  .choice-item-btn {
+    background: #FFFFFF;
+    border: 1.5px solid var(--ocean-border);
+    border-radius: 14px;
+    padding: 14px 18px;
+    text-align: left;
+    font-size: 1.02rem;
+    font-weight: 600;
+    color: var(--text-main);
+    cursor: pointer;
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    line-height: 2.0;
+    transition: all 0.16s ease;
+  }
+  .choice-item-btn:hover {
+    background: var(--ocean-pale);
+    border-color: var(--ocean-blue);
+  }
+  .choice-num {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1.5px solid var(--ocean-blue);
+    color: var(--ocean-blue);
+    font-weight: 700;
+    font-size: 0.9rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background: #FFFFFF;
+    line-height: 1;
+  }
+  .choice-item-btn.is-correct {
+    background: var(--ok-bg);
+    border-color: var(--ok-border);
+    color: var(--ok-green);
+  }
+  .choice-item-btn.is-correct .choice-num {
+    background: var(--ok-green);
+    border-color: var(--ok-green);
+    color: #FFFFFF;
+  }
+  .choice-item-btn.is-wrong {
+    background: var(--ng-bg);
+    border-color: var(--ng-border);
+    color: var(--ng-red);
+  }
+  .choice-item-btn.is-wrong .choice-num {
+    background: var(--ng-red);
+    border-color: var(--ng-red);
+    color: #FFFFFF;
+  }
+
+  /* 3段階ニュアンス比較（かっちり / 話し言葉 / 柔らかめ） */
+  .nuance-section-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--navy-dark);
+    margin: 18px 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .nuance-cards-stack {
+    display: grid;
+    gap: 12px;
+  }
+  .nuance-box {
+    background: #FFFFFF;
+    border: 1px solid var(--border-soft);
+    border-left: 5px solid var(--navy-dark);
+    border-radius: 12px;
+    padding: 14px 18px;
+  }
+  .nuance-box.type-formal {
+    border-left-color: var(--navy-dark);
+    background: #FAFBFD;
+  }
+  .nuance-box.type-spoken {
+    border-left-color: var(--ocean-blue);
+    background: var(--ocean-pale);
+  }
+  .nuance-box.type-soft {
+    border-left-color: var(--vivid-yellow);
+    background: var(--yellow-pale);
+  }
+  .nuance-box-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .nuance-badge {
+    font-size: 0.76rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+  }
+  .type-formal .nuance-badge { background: var(--navy-dark); color: #FFFFFF; }
+  .type-spoken .nuance-badge { background: var(--ocean-blue); color: #FFFFFF; }
+  .type-soft .nuance-badge { background: var(--vivid-yellow); color: var(--navy-dark); }
+
+  .nuance-sentence {
+    font-size: 1.02rem;
+    font-weight: 600;
+    color: var(--text-main);
+    white-space: pre-wrap;
+    line-height: 2.05;
+  }
+
+  .point-explanation-card {
+    margin-top: 14px;
+    background: var(--orange-pale);
+    border: 1px solid var(--orange-border);
+    border-radius: 12px;
+    padding: 14px 18px;
+    font-size: 0.92rem;
+    color: #7C2D12;
+    line-height: 2.0;
+  }
+
+  /* 共通アクションボタン */
+  .btn-primary-orange {
+    background: var(--warm-orange);
+    color: #FFFFFF;
+    border: none;
+    padding: 11px 24px;
+    border-radius: 999px;
+    font-size: 0.92rem;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(243, 130, 24, 0.25);
+    transition: all 0.2s;
+  }
+  .btn-primary-orange:hover {
+    background: var(--warm-orange-hover);
+    transform: translateY(-1px);
+  }
+  .btn-secondary-navy {
+    background: var(--navy-dark);
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 999px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+    transition: all 0.2s;
+  }
+  .btn-secondary-navy:hover {
+    background: var(--ocean-blue);
+  }
+  .btn-outline-gray {
+    background: #FFFFFF;
+    color: var(--text-sub);
+    border: 1px solid var(--light-gray);
+    padding: 9px 18px;
+    border-radius: 999px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.18s;
+  }
+  .btn-outline-gray:hover {
+    border-color: var(--ocean-blue);
+    color: var(--ocean-blue);
+  }
+  .tts-pill-btn {
+    background: #FFFFFF;
+    color: var(--ocean-blue);
+    border: 1px solid var(--ocean-border);
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    white-space: nowrap;
+    transition: all 0.18s;
+  }
+  .tts-pill-btn:hover {
+    background: var(--ocean-blue);
+    color: #FFFFFF;
+  }
+
+  /* テキスト入力欄 */
+  .clean-textarea {
+    width: 100%;
+    border: 1.5px solid var(--light-gray);
+    border-radius: 12px;
+    padding: 12px 14px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    background: #FAFBFD;
+    line-height: 1.65;
+  }
+  .clean-textarea:focus {
+    outline: none;
+    border-color: var(--ocean-blue);
+    background: #FFFFFF;
+  }
+
+  /* 別枠モーダル（早見表・検索） */
+  .modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(20, 33, 67, 0.55);
+    z-index: 500;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+  }
+  .modal-backdrop.open { display: flex; }
+  .modal-window {
+    background: #FFFFFF;
+    width: 100%;
+    max-width: 980px;
+    max-height: 86vh;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 50px rgba(20, 33, 67, 0.25);
+  }
+  .modal-top {
+    background: var(--navy-dark);
+    color: #FFFFFF;
+    padding: 15px 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .modal-content {
+    padding: 20px 24px;
+    overflow-y: auto;
+    background: var(--bg-page);
+    flex: 1;
+  }
+  .verb-ref-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #FFFFFF;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .verb-ref-table th {
+    background: var(--navy-dark);
+    color: #FFFFFF;
+    padding: 12px 14px;
+    font-size: 0.84rem;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .verb-ref-table td {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border-soft);
+    font-size: 0.9rem;
+    line-height: 2.0;
+  }
+  .masked-cell {
+    background: var(--navy-dark);
+    color: transparent !important;
+    border-radius: 6px;
+    padding: 2px 8px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .masked-cell ruby rt {
+    display: none !important;
+  }
+
+  @media (max-width: 960px) {
+    .three-modes-grid,
+    .step3-submode-grid {
+      grid-template-columns: 1fr;
+    }
+    .workspace-card {
+      padding: 20px 18px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- ==================== 1. ヘッダー ==================== -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-left">
+      <a href="app.html" class="back-home-link">← ホームへ戻る</a>
+      <h1 class="header-title">💼 ビジネス敬語 実践トレーニング</h1>
+    </div>
+    <div class="header-right">
+      <button type="button" class="header-tool-btn furigana-active" id="furigana-toggle-btn" onclick="toggleFuriganaMode()">
+        <span class="furigana-dot"></span>
+        <span id="furigana-btn-label">ふりがな: ON</span>
+      </button>
+      <button type="button" class="header-tool-btn ref-highlight" onclick="openReferenceModal()">
+        <span>📊 別枠：敬語変換早見表 ＆ 全204選検索</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ==================== 2. ぱっと見て0.5秒でわかる「3つの練習モード」選択エリア ==================== -->
+<section class="mode-selector-section">
+  <div class="mode-selector-inner">
+    <div class="mode-lead-row">
+      <div class="mode-lead-title">
+        <span class="mode-lead-badge">STEP 1 ➔ STEP 2 ➔ STEP 3</span>
+        <span>練習モードを選んでください（基礎 ➔ 4択 ➔ 実践アウトプット）</span>
+      </div>
+      <div class="book-stats-summary">
+        📚 3冊収録：①会話 <strong>127問</strong>（＋場面別 <strong>204問</strong>） ／ ②メール <strong>114問</strong> ／ ③電話・接客 <strong>110問</strong>
+      </div>
+    </div>
+
+    <div class="three-modes-grid">
+      <!-- モード1：単語カード -->
+      <div class="mode-visual-card card-step1 active" id="mode-card-1" onclick="selectPracticeMode(1)">
+        <div>
+          <div class="mode-card-top-bar">
+            <span class="mode-step-pill step1-color">STEP 1 · 基礎</span>
+            <span class="mode-status-pill" id="mode-status-1">● 選択中</span>
+          </div>
+          <div class="mode-card-heading">🎴 <ruby>単語<rt>たんご</rt></ruby>カード（<ruby>表<rt>おもて</rt></ruby>・<ruby>裏<rt>うら</rt></ruby>めくり）</div>
+          <div class="mode-card-subcopy">カジュアル<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>正<rt>ただ</rt></ruby>しい<ruby>敬語<rt>けいご</rt></ruby>をめくって<ruby>暗記<rt>あんき</rt></ruby></div>
+        </div>
+
+        <div class="mode-preview-box">
+          <div class="preview-flip-stack">
+            <div class="preview-flip-row">
+              <span class="preview-tag-front">表・日常</span>
+              <span>「もう<ruby>見<rt>み</rt></ruby>ましたか？」</span>
+            </div>
+            <div class="preview-flip-row">
+              <span class="preview-tag-back">裏・敬語</span>
+              <span style="color:var(--ocean-blue); font-weight:700;">「ご<ruby>覧<rt>らん</rt></ruby>になりましたか」</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="mode-count-footer">
+          <span><ruby>会話<rt>かいわ</rt></ruby>127・メール114・<ruby>電話<rt>でんわ</rt></ruby>110</span>
+          <span class="mode-cta-link"><ruby>全<rt>ぜん</rt></ruby>351<ruby>問<rt>もん</rt></ruby> ▸</span>
+        </div>
+      </div>
+
+      <!-- モード2：4択クイズ -->
+      <div class="mode-visual-card card-step2" id="mode-card-2" onclick="selectPracticeMode(2)">
+        <div>
+          <div class="mode-card-top-bar">
+            <span class="mode-step-pill step2-color">STEP 2 · 中級</span>
+            <span class="mode-status-pill" id="mode-status-2">全 379 問</span>
+          </div>
+          <div class="mode-card-heading">📝 4<ruby>択<rt>たく</rt></ruby>クイズ（<ruby>間違<rt>まちが</rt></ruby>い<ruby>敬語<rt>けいご</rt></ruby><ruby>判定<rt>はんてい</rt></ruby>）</div>
+          <div class="mode-card-subcopy"><ruby>二重<rt>にじゅう</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>・バイト<ruby>敬語<rt>けいご</rt></ruby>のワナを4<ruby>択<rt>たく</rt></ruby>で<ruby>見抜<rt>みぬ</rt></ruby>く</div>
+        </div>
+
+        <div class="mode-preview-box">
+          <div class="preview-quiz-grid">
+            <div class="preview-quiz-cell">
+              <span>① おっしゃられた</span>
+              <span style="color:var(--ng-red); font-weight:800;">✕</span>
+            </div>
+            <div class="preview-quiz-cell correct-cell">
+              <span>② おっしゃった</span>
+              <span style="background:var(--bright-yellow); color:var(--navy-dark); font-size:0.66rem; font-weight:800; padding:1px 5px; border-radius:4px; line-height:1.2;">正解</span>
+            </div>
+            <div class="preview-quiz-cell">
+              <span>③ <ruby>申<rt>もう</rt></ruby>された</span>
+              <span style="color:var(--ng-red); font-weight:800;">✕</span>
+            </div>
+            <div class="preview-quiz-cell">
+              <span>④ <ruby>言<rt>い</rt></ruby>われた</span>
+              <span style="color:var(--ng-red); font-weight:800;">✕</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="mode-count-footer">
+          <span><ruby>厳選<rt>げんせん</rt></ruby>28<ruby>問<rt>もん</rt></ruby>＋3<ruby>冊<rt>さつ</rt></ruby>4<ruby>択<rt>たく</rt></ruby>351<ruby>問<rt>もん</rt></ruby></span>
+          <span class="mode-cta-link"><ruby>全<rt>ぜん</rt></ruby>379<ruby>問<rt>もん</rt></ruby> ▸</span>
+        </div>
+      </div>
+
+      <!-- モード3：実践アウトプット -->
+      <div class="mode-visual-card card-step3" id="mode-card-3" onclick="selectPracticeMode(3)">
+        <div>
+          <div class="mode-card-top-bar">
+            <span class="mode-step-pill step3-color">STEP 3 · 実践</span>
+            <span class="mode-status-pill" id="mode-status-3">全 231 問</span>
+          </div>
+          <div class="mode-card-heading">🗣️ <ruby>実践<rt>じっせん</rt></ruby>ロールプレイ ＆ メール</div>
+          <div class="mode-card-subcopy"><ruby>選択肢<rt>せんたくし</rt></ruby>・ヒントなし！<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>え、<ruby>話<rt>はな</rt></ruby>し・<ruby>書<rt>か</rt></ruby>く</div>
+        </div>
+
+        <div class="mode-preview-box">
+          <div class="preview-output-stack">
+            <div class="preview-output-row">
+              <span class="preview-tag-orange">場面発話</span>
+              <span><ruby>飲食<rt>いんしょく</rt></ruby>・ホテル・<ruby>電話<rt>でんわ</rt></ruby>で<ruby>何<rt>なん</rt></ruby>て<ruby>言<rt>い</rt></ruby>う？</span>
+            </div>
+            <div class="preview-output-row">
+              <span class="preview-tag-navy">メール作成</span>
+              <span><ruby>件名<rt>けんめい</rt></ruby>と<ruby>本文<rt>ほんぶん</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>書<rt>か</rt></ruby>く</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="mode-count-footer">
+          <span><ruby>場面<rt>ばめん</rt></ruby><ruby>発話<rt>はつわ</rt></ruby>224<ruby>問<rt>もん</rt></ruby>＋メール7<ruby>課題<rt>かだい</rt></ruby></span>
+          <span class="mode-cta-link"><ruby>全<rt>ぜん</rt></ruby>231<ruby>問<rt>もん</rt></ruby> ▸</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ==================== 3. メイン練習ステージ ==================== -->
+<main class="practice-main">
+
+  <!-- =======================================================================
+       【STEP 1】単語カード練習（カジュアル ➔ 丁寧）全351問
+       ======================================================================= -->
+  <section id="view-mode-1">
+    <div class="clean-toolbar">
+      <div class="toolbar-group">
+        <span class="toolbar-label">📂 分野（3冊）：</span>
+        <button type="button" class="cat-btn active" id="s1-cat-all" onclick="changeStep1Category('all')">すべて（351問）</button>
+        <button type="button" class="cat-btn" id="s1-cat-seniors" onclick="changeStep1Category('seniors')">🗣️ 目上の人と会話（127問）</button>
+        <button type="button" class="cat-btn" id="s1-cat-mail" onclick="changeStep1Category('mail')">✉️ ビジネスメール（114問）</button>
+        <button type="button" class="cat-btn" id="s1-cat-phone" onclick="changeStep1Category('phone')">📞 電話・接客（110問）</button>
+      </div>
+      <div class="toolbar-group">
+        <button type="button" class="cat-btn" onclick="shuffleStep1Cards()">🔀 シャッフル</button>
+        <button type="button" class="cat-btn" id="s1-dir-btn" onclick="toggleStep1Direction()">🔄 表：カジュアル ➔ 裏：敬語</button>
+      </div>
+    </div>
+
+    <div id="step1-card-mount"></div>
+  </section>
+
+  <!-- =======================================================================
+       【STEP 2】JLPT風・紛らわしい4択クイズ（全379問）
+       ======================================================================= -->
+  <section id="view-mode-2" style="display:none;">
+    <div class="clean-toolbar">
+      <div class="toolbar-group">
+        <span class="toolbar-label">🎯 問題セット：</span>
+        <button type="button" class="cat-btn navy-active active" id="s2-src-curated" onclick="changeStep2Source('curated')">🔥 厳選トラップ問題（28問）</button>
+        <button type="button" class="cat-btn navy-active" id="s2-src-catalog" onclick="changeStep2Source('catalog')">📚 3冊まるごと4択（351問）</button>
+      </div>
+      <div class="toolbar-group">
+        <span class="toolbar-label">📂 分野：</span>
+        <button type="button" class="cat-btn active" id="s2-cat-all" onclick="changeStep2Cat('all')">すべて</button>
+        <button type="button" class="cat-btn" id="s2-cat-conversation" onclick="changeStep2Cat('conversation')">🗣️ 会話（127+）</button>
+        <button type="button" class="cat-btn" id="s2-cat-phone_service" onclick="changeStep2Cat('phone_service')">📞 電話・接客（110+）</button>
+        <button type="button" class="cat-btn" id="s2-cat-mail" onclick="changeStep2Cat('mail')">✉️ メール（114+）</button>
+      </div>
+    </div>
+
+    <div id="step2-quiz-mount"></div>
+  </section>
+
+  <!-- =======================================================================
+       【STEP 3】ヒント・選択肢なし！「この場合、何と言いますか？」＆「件名からメール作成」
+       ======================================================================= -->
+  <section id="view-mode-3" style="display:none;">
+    <!-- 見やすい3列サブモード切り替え -->
+    <div class="step3-submode-grid">
+      <button type="button" class="step3-submode-tab active" id="s3-sub-roleplay" onclick="changeStep3SubMode('roleplay')">
+        <span class="step3-submode-title">🗣️ ① 働く場面別「何て言う？」</span>
+        <span class="step3-submode-sub">飲食・ホテル・店舗・電話・社内（20シーン）</span>
+      </button>
+      <button type="button" class="step3-submode-tab" id="s3-sub-email" onclick="changeStep3SubMode('email')">
+        <span class="step3-submode-title">✉️ ② 件名から考えるメール道場</span>
+        <span class="step3-submode-sub">件名（Subject）＋本文を作成（7課題）</span>
+      </button>
+      <button type="button" class="step3-submode-tab" id="s3-sub-drill204" onclick="changeStep3SubMode('drill204')">
+        <span class="step3-submode-title">⚡ ③ 短文NG➔OK 瞬発言い換え</span>
+        <span class="step3-submode-sub">選択肢なしで即答トレーニング（全204問）</span>
+      </button>
+    </div>
+
+    <!-- ① 働く場面別フィルター -->
+    <div class="clean-toolbar" id="s3-toolbar-roleplay">
+      <div class="toolbar-group">
+        <span class="toolbar-label">🏢 働く場所：</span>
+        <button type="button" class="cat-btn active" id="s3-wp-all" onclick="changeStep3Workplace('all')">すべて（20）</button>
+        <button type="button" class="cat-btn" id="s3-wp-restaurant" onclick="changeStep3Workplace('restaurant')">🍽️ レストラン・飲食バイト（6）</button>
+        <button type="button" class="cat-btn" id="s3-wp-hotel" onclick="changeStep3Workplace('hotel')">🏨 ホテルのフロント（5）</button>
+        <button type="button" class="cat-btn" id="s3-wp-shop" onclick="changeStep3Workplace('shop')">🏪 ショップ・店舗接客（3）</button>
+        <button type="button" class="cat-btn" id="s3-wp-office_phone" onclick="changeStep3Workplace('office_phone')">📞 会社の電話応対（3）</button>
+        <button type="button" class="cat-btn" id="s3-wp-office_internal" onclick="changeStep3Workplace('office_internal')">🏢 社内・上司対応（3）</button>
+      </div>
+    </div>
+
+    <!-- ② メール課題フィルター -->
+    <div class="clean-toolbar" id="s3-toolbar-email" style="display:none;">
+      <div class="toolbar-group">
+        <span class="toolbar-label">✉️ メールの種類：</span>
+        <button type="button" class="cat-btn active" id="s3-em-all" onclick="changeStep3EmailCat('all')">すべて（7課題）</button>
+        <button type="button" class="cat-btn" id="s3-em-client" onclick="changeStep3EmailCat('client')">🤝 取引先・社外へ（4課題）</button>
+        <button type="button" class="cat-btn" id="s3-em-internal_work" onclick="changeStep3EmailCat('internal_work')">🏢 社内・バイト先へ（1課題）</button>
+        <button type="button" class="cat-btn" id="s3-em-service_hospitality" onclick="changeStep3EmailCat('service_hospitality')">🏨 ホテル・お店からお客様へ（2課題）</button>
+      </div>
+    </div>
+
+    <!-- ③ 204問シチュエーション別（第1章〜第7章）フィルター -->
+    <div class="clean-toolbar" id="s3-toolbar-drill204" style="display:none;">
+      <div class="toolbar-group">
+        <span class="toolbar-label">📖 章別（全204問）：</span>
+        <button type="button" class="cat-btn active" id="s3-ch-0" onclick="changeStep3DrillChapter(0)">すべて（204問）</button>
+        <button type="button" class="cat-btn" id="s3-ch-1" onclick="changeStep3DrillChapter(1)">第1章 間違い敬語</button>
+        <button type="button" class="cat-btn" id="s3-ch-2" onclick="changeStep3DrillChapter(2)">第2章 社内</button>
+        <button type="button" class="cat-btn" id="s3-ch-3" onclick="changeStep3DrillChapter(3)">第3章 社外・接客</button>
+        <button type="button" class="cat-btn" id="s3-ch-4" onclick="changeStep3DrillChapter(4)">第4章 電話応対</button>
+        <button type="button" class="cat-btn" id="s3-ch-5" onclick="changeStep3DrillChapter(5)">第5章 就活・面接</button>
+        <button type="button" class="cat-btn" id="s3-ch-6" onclick="changeStep3DrillChapter(6)">第6章 日常会話</button>
+        <button type="button" class="cat-btn" id="s3-ch-7" onclick="changeStep3DrillChapter(7)">第7章 メール・文書</button>
+      </div>
+    </div>
+
+    <div id="step3-output-mount"></div>
+  </section>
+
+</main>
+
+<!-- ==================== 別枠モーダル：敬語変換早見表 ＆ 全204選検索 ==================== -->
+<div class="modal-backdrop" id="reference-modal" onclick="if(event.target===this)closeReferenceModal()">
+  <div class="modal-window">
+    <div class="modal-top">
+      <div style="font-weight:700; font-size:1rem;">📊 【別枠リファレンス】重要14動詞の尊敬・謙譲変換表 ＆ 全204選検索</div>
+      <button type="button" onclick="closeReferenceModal()" style="background:transparent; border:none; color:#FFFFFF; font-size:1.3rem; cursor:pointer;">✕</button>
+    </div>
+    <div class="modal-content">
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:16px;">
+        <div class="toolbar-group">
+          <button type="button" class="cat-btn active" id="ref-btn-verbs" onclick="switchReferenceTab('verbs')">📊 重要14動詞の尊敬・謙譲変換表</button>
+          <button type="button" class="cat-btn" id="ref-btn-search" onclick="switchReferenceTab('search')">🔍 場面・キーワード検索（全204選）</button>
+        </div>
+        <button type="button" class="btn-primary-orange" id="btn-mask-verbs" onclick="toggleVerbTableMask()" style="padding:7px 16px; font-size:0.8rem;">
+          🔒 敬語を隠してセルフテスト
+        </button>
+      </div>
+
+      <div id="ref-view-verbs"></div>
+      <div id="ref-view-search" style="display:none;">
+        <input type="text" class="clean-textarea" style="margin-bottom:14px;" placeholder="🔍 状況や言葉で検索（例：電話、二重敬語、ご覧、了解、ご査収...）" oninput="renderReferenceSearch(this.value)">
+        <div id="ref-search-list" style="display:grid; gap:10px;"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- データ読み込み -->
+<script src="database/business_keigo_catalog.js"></script>
+<script src="database/keigo_drill_all_data.js"></script>
+<script src="database/business_keigo_practice_data.js"></script>
+<script src="database/keigo_ruby_dict.js"></script>
+
+<script>
+// ============================================================================
+// 🔤 ふりがな（ルビ）自動付与エンジン ＆ ON/OFF 切替システム
+// ============================================================================
+let isFuriganaOn = (localStorage.getItem('app_furigana_enabled') !== 'false');
+let compiledWordRubyRegex = null;
+let wordRubyLookupMap = null;
+
+function initRubyEngine() {
+  const list = window.KEIGO_WORD_RUBY_LIST || [];
+  wordRubyLookupMap = new Map();
+  const escapedKeys = [];
+  for (const [k, v] of list) {
+    if (!k) continue;
+    wordRubyLookupMap.set(k, v);
+    escapedKeys.push(k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  }
+  if (escapedKeys.length > 0) {
+    compiledWordRubyRegex = new RegExp(escapedKeys.join('|'), 'g');
+  }
+  applyFuriganaStateToDOM();
+}
+
+function rb(text) {
+  if (!text) return '';
+  const str = String(text);
+  if (str.includes('<ruby>')) return str;
+  const sentMap = window.KEIGO_SENTENCE_RUBY_MAP;
+  if (sentMap && sentMap[str]) {
+    return sentMap[str];
+  }
+  if (!compiledWordRubyRegex || !wordRubyLookupMap) return str;
+  // HTMLタグが含まれる場合はタグ外のみ置換
+  let out;
+  if (str.includes('<')) {
+    out = str.split(/(<[^>]+>)/g).map(part => {
+      if (part.startsWith('<')) return part;
+      return part.replace(compiledWordRubyRegex, m => wordRubyLookupMap.get(m) || m);
+    }).join('');
+  } else {
+    out = str.replace(compiledWordRubyRegex, m => wordRubyLookupMap.get(m) || m);
+  }
+  while (/<ruby>([^<]+)<rt>([^<]+)<\/rt><\/ruby><ruby>([^<]+)<rt>([^<]+)<\/rt><\/ruby>/.test(out)) {
+    out = out.replace(/<ruby>([^<]+)<rt>([^<]+)<\/rt><\/ruby><ruby>([^<]+)<rt>([^<]+)<\/rt><\/ruby>/g, '<ruby>$1$3<rt>$2$4</rt></ruby>');
+  }
+  return out;
+}
+
+function applyFuriganaStateToDOM() {
+  document.body.classList.toggle('hide-furigana', !isFuriganaOn);
+  const btn = document.getElementById('furigana-toggle-btn');
+  const label = document.getElementById('furigana-btn-label');
+  if (btn) btn.classList.toggle('furigana-active', isFuriganaOn);
+  if (label) label.textContent = isFuriganaOn ? 'ふりがな: ON' : 'ふりがな: OFF';
+}
+
+function toggleFuriganaMode() {
+  isFuriganaOn = !isFuriganaOn;
+  localStorage.setItem('app_furigana_enabled', isFuriganaOn ? 'true' : 'false');
+  applyFuriganaStateToDOM();
+}
+
+// ============================================================================
+// 🔊 Google TTS 音声再生エンジン（ルビ二重読み防止 ＆ 長文自動分割）
+// ============================================================================
+let currentAudioObj = null;
+let speechChunksQueue = [];
+let isPlayingChunks = false;
+
+function cleanTextForSpeech(raw) {
+  if (!raw) return '';
+  return String(raw)
+    .replace(/<rt[^>]*>[\s\S]*?<\/rt>/gi, '')
+    .replace(/<rp[^>]*>[\s\S]*?<\/rp>/gi, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/【[^】]*】/g, ' ')
+    .replace(/（※[^）]*）/g, ' ')
+    .replace(/[⭕❌✕👑💬☕📌🎯⚠️💡🔊]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function stopAudioPlayback() {
+  speechChunksQueue = [];
+  isPlayingChunks = false;
+  if (currentAudioObj) {
+    try {
+      currentAudioObj.pause();
+      currentAudioObj.currentTime = 0;
+    } catch (e) {}
+    currentAudioObj = null;
+  }
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+  }
+}
+
+function playGoogleTTS(text) {
+  stopAudioPlayback();
+  const cleaned = cleanTextForSpeech(text);
+  if (!cleaned) return;
+
+  const chunks = [];
+  const parts = cleaned.split(/(?<=[。！？\n])/);
+  let buf = '';
+  for (const p of parts) {
+    const s = p.trim();
+    if (!s) continue;
+    if ((buf + ' ' + s).length <= 170) {
+      buf = buf ? (buf + ' ' + s) : s;
+    } else {
+      if (buf) chunks.push(buf);
+      if (s.length <= 170) {
+        buf = s;
+      } else {
+        for (let i = 0; i < s.length; i += 160) {
+          chunks.push(s.slice(i, i + 160));
+        }
+        buf = '';
+      }
+    }
+  }
+  if (buf) chunks.push(buf);
+
+  speechChunksQueue = chunks;
+  isPlayingChunks = true;
+  playNextChunk();
+}
+
+function playNextChunk() {
+  if (!isPlayingChunks || speechChunksQueue.length === 0) {
+    isPlayingChunks = false;
+    return;
+  }
+  const chunk = speechChunksQueue.shift();
+  try {
+    const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(chunk)}`;
+    const audio = new Audio(url);
+    currentAudioObj = audio;
+    audio.onended = () => playNextChunk();
+    audio.onerror = () => fallbackBrowserSpeech(chunk);
+    const playPromise = audio.play();
+    if (playPromise !== undefined) {
+      playPromise.catch(() => fallbackBrowserSpeech(chunk));
+    }
+  } catch (e) {
+    fallbackBrowserSpeech(chunk);
+  }
+}
+
+function fallbackBrowserSpeech(text) {
+  if ('speechSynthesis' in window) {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'ja-JP';
+    u.rate = 0.95;
+    u.onend = () => playNextChunk();
+    window.speechSynthesis.speak(u);
+  }
+}
+
+// 配列シャッフル
+function shuffleList(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// 3つのメイン練習モード切替
+const MODE_DEFAULT_COUNTS = { 1: '全 351 問', 2: '全 379 問', 3: '全 231 問' };
+function selectPracticeMode(modeNum) {
+  stopAudioPlayback();
+  for (let i = 1; i <= 3; i++) {
+    const card = document.getElementById(`mode-card-${i}`);
+    const view = document.getElementById(`view-mode-${i}`);
+    const status = document.getElementById(`mode-status-${i}`);
+    const isAct = (i === modeNum);
+    if (card) card.classList.toggle('active', isAct);
+    if (view) view.style.display = isAct ? 'block' : 'none';
+    if (status) status.textContent = isAct ? '● 選択中' : MODE_DEFAULT_COUNTS[i];
+  }
+  if (modeNum === 1) renderStep1View();
+  if (modeNum === 2) renderStep2View();
+  if (modeNum === 3) renderStep3View();
+}
+
+// 話し言葉・柔らかめ表現ヘルパー
+function getSpokenNuanceForCard(item) {
+  const map = window.KEIGO_SPOKEN_VARIATIONS_MAP || {};
+  if (map[item.jp]) return map[item.jp];
+
+  let spoken = item.jp
+    .replace(/でしょうか[？?]?$/, 'ますか？')
+    .replace(/でございます/g, 'です')
+    .replace(/いたします/g, 'しますね')
+    .replace(/存じます/g, '思います');
+  if (spoken === item.jp) {
+    spoken = item.jp.replace(/ます。?$/, 'ますね。');
+  }
+  let soft = spoken.replace(/ますか？$/, 'てもらえますか？');
+  let tip = item.catId === 'mail'
+    ? 'メール（書き言葉）では上の表現を使い、対面や電話の話し言葉では「〜ますか？」「〜しますね」と少し柔らかく言うと自然です。'
+    : '実際の会話では、相手との親しさに合わせて語尾を「〜ございます」から「〜です／〜ますね」に調整すると親しみやすくなります。';
+  return { spoken, soft, tip };
+}
+
+// ============================================================================
+// 🎴 STEP 1: フラッシュカード練習（全351問）
+// ============================================================================
+let s1Cat = 'all';
+let s1Dir = 'casual-to-polite';
+let s1List = [];
+let s1Idx = 0;
+let s1Flipped = false;
+
+function buildStep1Pool() {
+  const catalog = window.BUSINESS_KEIGO_CATALOG || {};
+  const out = [];
+  ['seniors', 'mail', 'phone'].forEach(key => {
+    if (s1Cat !== 'all' && s1Cat !== key) return;
+    const g = catalog[key];
+    if (g && Array.isArray(g.words)) {
+      g.words.forEach((w, i) => {
+        out.push({ ...w, catId: key, catName: g.category || key, idx: i });
+      });
+    }
+  });
+  s1List = out;
+  s1Idx = 0;
+  s1Flipped = false;
+}
+
+function changeStep1Category(cat) {
+  s1Cat = cat;
+  ['all', 'seniors', 'mail', 'phone'].forEach(k => {
+    const b = document.getElementById(`s1-cat-${k}`);
+    if (b) b.classList.toggle('active', k === cat);
+  });
+  buildStep1Pool();
+  renderStep1View();
+}
+
+function shuffleStep1Cards() {
+  s1List = shuffleList(s1List);
+  s1Idx = 0;
+  s1Flipped = false;
+  renderStep1View();
+}
+
+function toggleStep1Direction() {
+  s1Dir = (s1Dir === 'casual-to-polite') ? 'polite-to-casual' : 'casual-to-polite';
+  const btn = document.getElementById('s1-dir-btn');
+  if (btn) {
+    btn.textContent = (s1Dir === 'casual-to-polite')
+      ? '🔄 表：カジュアル ➔ 裏：敬語'
+      : '🔄 表：敬語 ➔ 裏：カジュアル';
+  }
+  s1Flipped = false;
+  renderStep1View();
+}
+
+function renderStep1View() {
+  const mount = document.getElementById('step1-card-mount');
+  if (!mount) return;
+  if (s1List.length === 0) buildStep1Pool();
+  const item = s1List[s1Idx];
+  const sp = getSpokenNuanceForCard(item);
+  const frontTitle = (s1Dir === 'casual-to-polite')
+    ? '💬 表：元のカジュアル表現・NG敬語（どう言い換える？）'
+    : '👑 表：ビジネス敬語（元の意味・場面は？）';
+  const frontText = (s1Dir === 'casual-to-polite') ? item.casual : item.jp;
+
+  mount.innerHTML = `
+    <div class="workspace-card">
+      <div class="card-meta-row">
+        <span class="q-counter-badge">カード ${s1Idx + 1} / ${s1List.length}</span>
+        <span class="q-category-tag">📂 ${rb(item.catName)}</span>
+      </div>
+
+      <div class="prompt-highlight-box" onclick="s1Flipped=!s1Flipped; renderStep1View();" style="cursor:pointer; text-align:center; padding:26px 20px;">
+        <div class="prompt-sub-label">${rb(frontTitle)}</div>
+        <div class="prompt-main-phrase" style="font-size:1.52rem; margin-top:6px;">「${rb(frontText)}」</div>
+        <div style="margin-top:12px; font-size:0.84rem; font-weight:600; color:var(--ocean-blue);">
+          ${s1Flipped ? '（タップで答えを隠す 🙈）' : '👉 カードをタップして「正しいビジネス敬語」と解説をめくる 🔄'}
+        </div>
+      </div>
+
+      ${s1Flipped ? `
+        <div style="margin-top:18px;">
+          <div class="nuance-cards-stack">
+            <div class="nuance-box type-formal">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">👑 裏：正しいビジネス敬語（標準・かっちり）</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${item.jp.replace(/'/g, "\\'")}')">🔊 音声を聞く</button>
+              </div>
+              <div class="nuance-sentence" style="font-size:1.28rem; color:var(--navy-dark);">${rb(item.jp)}</div>
+              <div class="furigana-reading-row" style="font-size:0.84rem; color:var(--text-sub); margin-top:4px;">ひらがな読み：${item.reading || ''}</div>
+            </div>
+
+            <div class="nuance-box type-spoken">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">💬 話し言葉・口頭だとこう言う / 少し柔らかい表現</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${sp.spoken.replace(/'/g, "\\'")}')">🔊 音声を聞く</button>
+              </div>
+              <div class="nuance-sentence">${rb(sp.spoken)}</div>
+              <div style="font-size:0.84rem; color:var(--text-sub); margin-top:6px; line-height:1.9;">💡 ${rb(sp.tip)}</div>
+            </div>
+
+            <div class="nuance-box type-soft">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">📝 実践ビジネス例文</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${(item.exampleJp || '').replace(/'/g, "\\'")}')">🔊 例文音声</button>
+              </div>
+              <div class="nuance-sentence">${rb(item.exampleJp || '')}</div>
+              <div style="font-size:0.82rem; color:var(--text-muted); margin-top:4px;">${item.exampleEn || ''}</div>
+            </div>
+          </div>
+        </div>
+      ` : ''}
+
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; margin-top:22px; padding-top:16px; border-top:1px solid var(--border-soft);">
+        <button type="button" class="btn-outline-gray" onclick="s1Idx=(s1Idx-1+s1List.length)%s1List.length; s1Flipped=false; renderStep1View();">
+          ← 前のカード
+        </button>
+        <button type="button" class="btn-primary-orange" onclick="s1Flipped=!s1Flipped; renderStep1View();">
+          ${s1Flipped ? '🙈 答えを隠す' : '🔄 めくって答えを見る'}
+        </button>
+        <button type="button" class="btn-secondary-navy" onclick="s1Idx=(s1Idx+1)%s1List.length; s1Flipped=false; renderStep1View();">
+          次のカード →
+        </button>
+      </div>
+    </div>
+  `;
+}
+
+// ============================================================================
+// ✍️ STEP 2: JLPT風・紛らわしい4択クイズ（全379問）
+// ============================================================================
+let s2Src = 'curated';
+let s2Cat = 'all';
+let s2Pool = [];
+let s2Idx = 0;
+let s2CorrectCount = 0;
+let s2IsAnswered = false;
+
+function buildAllCatalog4Choice() {
+  const catalog = window.BUSINESS_KEIGO_CATALOG || {};
+  const raw = [];
+  ['seniors', 'mail', 'phone'].forEach(k => {
+    const g = catalog[k];
+    if (g && Array.isArray(g.words)) {
+      g.words.forEach(w => raw.push({ ...w, catKey: k, catName: g.category }));
+    }
+  });
+
+  return raw.map((w, idx) => {
+    const ok = w.jp;
+    let d1 = ok.replace(/ました/g, 'になられました').replace(/ます/g, 'になられます');
+    if (d1 === ok) d1 = ok.replace(/でしょうか/g, 'になられましたでしょうか');
+    if (d1 === ok) d1 = ok + 'になられます';
+
+    let d2 = ok.replace(/ご覧/g, 'ご拝見').replace(/おっしゃ/g, '申さ').replace(/いたします/g, 'になられます').replace(/おります/g, 'いらっしゃいます');
+    if (d2 === ok) d2 = ok.replace(/ます/g, 'させていただきます');
+
+    let d3 = ok.replace(/ございます/g, 'なります').replace(/でしょうか/g, 'よろしかったでしょうか');
+    if (d3 === ok) {
+      const others = raw.filter(x => x.catKey === w.catKey && x.jp !== ok);
+      d3 = others.length ? others[(idx * 5) % others.length].jp : (w.casual + 'でございます');
+    }
+
+    const opts = [
+      { text: ok, isCorrect: true, reason: `⭕ 正解！「${w.casual}」をビジネス敬語に言い換えた正しい表現です。` },
+      { text: d1, isCorrect: false, reason: `❌ 二重敬語・過剰敬語（「〜になられる」等）が含まれているため不自然です。` },
+      { text: d2, isCorrect: false, reason: `❌ 尊敬語と謙譲語の混同、または過剰な「〜させていただく」が含まれています。` },
+      { text: d3, isCorrect: false, reason: `❌ バイト敬語（「〜になります」「よろしかったでしょうか」）または別場面の表現です。` }
+    ];
+    const pos = idx % 4;
+    [opts[0], opts[pos]] = [opts[pos], opts[0]];
+
+    const sp = getSpokenNuanceForCard(w);
+    const mapped = w.catKey === 'seniors' ? 'conversation' : (w.catKey === 'mail' ? 'mail' : 'phone_service');
+    return {
+      id: `cat4_${idx}`,
+      category: mapped,
+      categoryLabel: w.catName,
+      scene: w.native || w.catName,
+      casualNg: `「${w.casual}」`,
+      prompt: 'この表現をビジネスシーンにふさわしい丁寧な敬語に言い換えたとき、最も適切なものはどれですか。',
+      choices: opts,
+      registers: {
+        formal: `${w.jp}（例：${w.exampleJp}）`,
+        spoken: sp.spoken,
+        soft: `少し柔らかい表現：${sp.spoken}`,
+        note: sp.tip
+      }
+    };
+  });
+}
+
+function initStep2Pool() {
+  const srcList = (s2Src === 'curated')
+    ? (window.KEIGO_STEP2_QUIZ || [])
+    : buildAllCatalog4Choice();
+  const filtered = srcList.filter(q => s2Cat === 'all' || q.category === s2Cat);
+  s2Pool = shuffleList(filtered);
+  s2Idx = 0;
+  s2CorrectCount = 0;
+  s2IsAnswered = false;
+}
+
+function changeStep2Source(src) {
+  s2Src = src;
+  document.getElementById('s2-src-curated').classList.toggle('active', src === 'curated');
+  document.getElementById('s2-src-catalog').classList.toggle('active', src === 'catalog');
+  initStep2Pool();
+  renderStep2View();
+}
+
+function changeStep2Cat(cat) {
+  s2Cat = cat;
+  ['all', 'conversation', 'phone_service', 'mail'].forEach(k => {
+    const b = document.getElementById(`s2-cat-${k}`);
+    if (b) b.classList.toggle('active', k === cat);
+  });
+  initStep2Pool();
+  renderStep2View();
+}
+
+function renderStep2View() {
+  const mount = document.getElementById('step2-quiz-mount');
+  if (!mount) return;
+  if (s2Pool.length === 0) initStep2Pool();
+  if (s2Idx >= s2Pool.length) s2Idx = 0;
+
+  const q = s2Pool[s2Idx];
+  const rightOpt = q.choices.find(c => c.isCorrect) || q.choices[0];
+
+  mount.innerHTML = `
+    <div class="workspace-card">
+      <div class="card-meta-row">
+        <div style="display:flex; align-items:center; gap:8px;">
+          <span class="q-counter-badge">問題 ${s2Idx + 1} / ${s2Pool.length}</span>
+          <span class="q-category-tag">${rb(q.categoryLabel)}</span>
+        </div>
+        <div style="font-size:0.86rem; font-weight:700; color:var(--ocean-blue);">
+          正解数：${s2CorrectCount} 問
+        </div>
+      </div>
+
+      <div style="font-size:0.9rem; font-weight:600; color:var(--text-sub); line-height:1.95;">
+        📍 ${rb('場面：' + q.scene)}
+      </div>
+
+      <div class="prompt-highlight-box">
+        <div class="prompt-sub-label">💬 ${rb('元のカジュアル表現・よくあるNG敬語')}</div>
+        <div class="prompt-main-phrase">${rb(q.casualNg)}</div>
+      </div>
+
+      <div style="font-size:1rem; font-weight:700; color:var(--navy-dark); line-height:1.95;">
+        Q. ${rb(q.prompt)}
+      </div>
+
+      <div class="choice-list">
+        ${q.choices.map((c, idx) => `
+          <button type="button" class="choice-item-btn" id="s2-opt-${idx}" onclick="answerStep2(${idx})">
+            <span class="choice-num">${idx + 1}</span>
+            <span style="flex:1;">${rb(c.text)}</span>
+          </button>
+        `).join('')}
+      </div>
+
+      <!-- 解説エリア -->
+      <div id="s2-exp-area" style="display:none; margin-top:24px; padding-top:20px; border-top:1.5px dashed var(--border-soft);">
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
+          <div id="s2-result-msg" style="font-size:1.05rem; font-weight:700;"></div>
+          <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${rightOpt.text.replace(/'/g, "\\'")}')">
+            🔊 正解文をGoogle TTSで聞く
+          </button>
+        </div>
+
+        <div style="display:grid; gap:8px; margin-bottom:18px;">
+          ${q.choices.map((c, idx) => `
+            <div style="background:${c.isCorrect ? 'var(--ok-bg)' : '#FAFBFD'}; border-left:4px solid ${c.isCorrect ? 'var(--ok-green)' : 'var(--ng-border)'}; padding:10px 14px; border-radius:8px; font-size:0.9rem; line-height:1.95;">
+              <div style="font-weight:700; color:var(--navy-dark);">${rb('選択肢')}${idx + 1}：${rb(c.text)}</div>
+              <div style="color:${c.isCorrect ? 'var(--ok-green)' : 'var(--ng-red)'}; margin-top:2px;">${rb(c.reason)}</div>
+            </div>
+          `).join('')}
+        </div>
+
+        ${q.registers ? `
+          <div class="nuance-section-title">🗣️ ${rb('書き言葉（かっちり）と話し言葉（会話・柔らかめ）の比較')}</div>
+          <div class="nuance-cards-stack">
+            <div class="nuance-box type-formal">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">👑 かっちり・格式高い表現（社外・メール）</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${q.registers.formal.replace(/'/g, "\\'")}')">🔊 音声</button>
+              </div>
+              <div class="nuance-sentence">${rb(q.registers.formal)}</div>
+            </div>
+            <div class="nuance-box type-spoken">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">💬 話し言葉・口頭で自然な表現（電話・対面の会話）</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${q.registers.spoken.replace(/'/g, "\\'")}')">🔊 音声</button>
+              </div>
+              <div class="nuance-sentence">${rb(q.registers.spoken)}</div>
+            </div>
+            <div class="nuance-box type-soft">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">☕ 少しカジュアル・柔らかい丁寧表現（ほぼ同じ意味）</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${q.registers.soft.replace(/'/g, "\\'")}')">🔊 音声</button>
+              </div>
+              <div class="nuance-sentence">${rb(q.registers.soft)}</div>
+            </div>
+          </div>
+          <div class="point-explanation-card">
+            💡 <strong>${rb('使い分けのポイント：')}</strong> ${rb(q.registers.note)}
+          </div>
+        ` : ''}
+
+        <div style="display:flex; justify-content:flex-end; margin-top:20px;">
+          <button type="button" class="btn-primary-orange" onclick="s2Idx=(s2Idx+1)%s2Pool.length; s2IsAnswered=false; renderStep2View();">
+            次の問題へ進む →
+          </button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function answerStep2(idx) {
+  if (s2IsAnswered) return;
+  s2IsAnswered = true;
+  const q = s2Pool[s2Idx];
+  const isOk = q.choices[idx].isCorrect;
+  if (isOk) s2CorrectCount++;
+
+  q.choices.forEach((c, i) => {
+    const b = document.getElementById(`s2-opt-${i}`);
+    if (!b) return;
+    b.style.pointerEvents = 'none';
+    if (c.isCorrect) b.classList.add('is-correct');
+    else if (i === idx) b.classList.add('is-wrong');
+  });
+
+  const msg = document.getElementById('s2-result-msg');
+  if (msg) {
+    msg.innerHTML = isOk
+      ? `<span style="color:var(--ok-green);">⭕ 正解です！</span>`
+      : `<span style="color:var(--ng-red);">❌ おしい！各選択肢の理由と「話し言葉との違い」を確認しましょう。</span>`;
+  }
+  const exp = document.getElementById('s2-exp-area');
+  if (exp) exp.style.display = 'block';
+}
+
+// ============================================================================
+// 🌟 STEP 3: ヒント・選択肢なし！「この場合、何と言いますか？」＆「件名からメール作成」＆「204問瞬発」
+// ============================================================================
+let s3SubMode = 'roleplay'; // 'roleplay', 'email', 'drill204'
+let s3Wp = 'all';
+let s3EmCat = 'all';
+let s3Ch = 0;
+let s3Idx = 0;
+let s3ShowAns = false;
+let s3ShowHint = false;
+
+function changeStep3SubMode(sub) {
+  stopAudioPlayback();
+  s3SubMode = sub;
+  s3Idx = 0;
+  s3ShowAns = false;
+  s3ShowHint = false;
+  ['roleplay', 'email', 'drill204'].forEach(k => {
+    const b = document.getElementById(`s3-sub-${k}`);
+    const tb = document.getElementById(`s3-toolbar-${k}`);
+    if (b) b.classList.toggle('active', k === sub);
+    if (tb) tb.style.display = (k === sub) ? 'flex' : 'none';
+  });
+  renderStep3View();
+}
+
+function changeStep3Workplace(wp) {
+  s3Wp = wp;
+  s3Idx = 0;
+  s3ShowAns = false;
+  s3ShowHint = false;
+  ['all', 'restaurant', 'hotel', 'shop', 'office_phone', 'office_internal'].forEach(k => {
+    const b = document.getElementById(`s3-wp-${k}`);
+    if (b) b.classList.toggle('active', k === wp);
+  });
+  renderStep3View();
+}
+
+function changeStep3EmailCat(cat) {
+  s3EmCat = cat;
+  s3Idx = 0;
+  s3ShowAns = false;
+  s3ShowHint = false;
+  ['all', 'client', 'internal_work', 'service_hospitality'].forEach(k => {
+    const b = document.getElementById(`s3-em-${k}`);
+    if (b) b.classList.toggle('active', k === cat);
+  });
+  renderStep3View();
+}
+
+function changeStep3DrillChapter(ch) {
+  s3Ch = ch;
+  s3Idx = 0;
+  s3ShowAns = false;
+  for (let i = 0; i <= 7; i++) {
+    const b = document.getElementById(`s3-ch-${i}`);
+    if (b) b.classList.toggle('active', i === ch);
+  }
+  renderStep3View();
+}
+
+function renderStep3View() {
+  const mount = document.getElementById('step3-output-mount');
+  if (!mount) return;
+
+  if (s3SubMode === 'roleplay') {
+    const all = window.KEIGO_STEP3_SITUATIONS || [];
+    const list = s3Wp === 'all' ? all : all.filter(x => x.workplace === s3Wp);
+    if (s3Idx >= list.length) s3Idx = 0;
+    const item = list[s3Idx];
+
+    mount.innerHTML = `
+      <div class="workspace-card">
+        <div class="card-meta-row">
+          <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+            <span class="q-counter-badge">シーン ${s3Idx + 1} / ${list.length}</span>
+            <span class="q-category-tag">${rb(item.workplaceLabel)}</span>
+            <span style="font-size:0.84rem; font-weight:700; color:var(--navy-dark);">👤 ${rb('立場：' + item.role)}</span>
+          </div>
+          <div style="display:flex; gap:6px;">
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx-1+list.length)%list.length; s3ShowAns=false; s3ShowHint=false; renderStep3View();">← 前へ</button>
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx+1)%list.length; s3ShowAns=false; s3ShowHint=false; renderStep3View();">次へ →</button>
+          </div>
+        </div>
+
+        <h2 style="font-size:1.2rem; font-weight:700; color:var(--navy-dark); margin-bottom:8px; line-height:1.95;">${rb(item.title)}</h2>
+        <p style="font-size:0.94rem; color:var(--text-sub); margin-bottom:14px; line-height:1.95;">📍 <strong>${rb('状況：')}</strong>${rb(item.scenario)}</p>
+
+        <div style="background:var(--bg-page); border-left:5px solid var(--ocean-blue); padding:14px 18px; border-radius:12px; margin-bottom:16px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+            <span style="font-size:0.82rem; font-weight:700; color:var(--ocean-blue);">🗣️ ${rb(item.partnerName + 'の発言')}</span>
+            ${!item.partnerLine.startsWith('（') ? `
+              <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${item.partnerLine.replace(/'/g, "\\'")}')">🔊 相手の声を聞く</button>
+            ` : ''}
+          </div>
+          <div style="font-size:1.08rem; font-weight:700; color:var(--navy-dark); line-height:2.0;">「${rb(item.partnerLine)}」</div>
+        </div>
+
+        <div class="prompt-highlight-box">
+          <div class="prompt-sub-label">🎯 Q. ${rb('この場合、あなたは何と言いますか？（ヒント・選択肢なし）')}</div>
+          <ul style="padding-left:20px; font-size:0.95rem; font-weight:600; color:var(--navy-dark); margin-top:6px; line-height:2.0;">
+            ${item.missions.map(m => `<li style="margin-bottom:4px;">${rb(m)}</li>`).join('')}
+          </ul>
+        </div>
+
+        <textarea class="clean-textarea" rows="3" placeholder="まずは何も見ずに声に出して言ってみるか、ここに自分のセリフを書いてみましょう！"></textarea>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-top:16px;">
+          <button type="button" class="btn-outline-gray" onclick="s3ShowHint=!s3ShowHint; renderStep3View();">
+            💡 ${s3ShowHint ? 'ヒントを隠す' : 'どうしても詰まった時だけキーワードヒントを見る'}
+          </button>
+          <button type="button" class="btn-primary-orange" onclick="s3ShowAns=!s3ShowAns; renderStep3View();">
+            👀 ${s3ShowAns ? '解答と解説を閉じる' : '解答例と「話し言葉・柔らかめ表現」を見る'}
+          </button>
+        </div>
+
+        ${s3ShowHint ? `
+          <div style="margin-top:12px; background:var(--ocean-pale); border:1px dashed var(--ocean-blue); padding:10px 14px; border-radius:10px; font-size:0.88rem; color:var(--ocean-blue); font-weight:600; line-height:1.95;">
+            🔑 <strong>${rb('キーワードヒント：')}</strong> ${rb(item.hintKeywords)}
+          </div>
+        ` : ''}
+
+        ${s3ShowAns ? `
+          <div style="margin-top:22px; padding-top:18px; border-top:1.5px dashed var(--border-soft);">
+            <div class="nuance-section-title">✨ ${rb('3つのレベル別・模範解答（すべて正解！）')}</div>
+            <div class="nuance-cards-stack">
+              <div class="nuance-box type-formal">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">👑 ① 最も丁寧・かっちりした表現（改まった接客・社外）</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${item.modelAnswers.formal.replace(/'/g, "\\'")}')">🔊 音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(item.modelAnswers.formal)}</div>
+              </div>
+              <div class="nuance-box type-spoken">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">💬 ② 話し言葉・現場で一番自然な表現（口頭で言いやすい！）</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${item.modelAnswers.spoken.replace(/'/g, "\\'")}')">🔊 音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(item.modelAnswers.spoken)}</div>
+              </div>
+              <div class="nuance-box type-soft">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">☕ ③ 少しカジュアル・柔らかい丁寧表現（ほぼ同じ意味）</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${item.modelAnswers.soft.replace(/'/g, "\\'")}')">🔊 音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(item.modelAnswers.soft)}</div>
+              </div>
+            </div>
+            <div style="margin-top:12px; background:var(--ng-bg); border:1px solid var(--ng-border); padding:12px 16px; border-radius:10px; font-size:0.9rem; color:var(--ng-red); line-height:1.95;">
+              ⚠️ <strong>${rb('やりがちなNG・バイト敬語：')}</strong> ${rb(item.ngTrap)}
+            </div>
+            <div class="point-explanation-card">
+              💡 <strong>${rb('解説：')}</strong> ${rb(item.explanation)}
+            </div>
+          </div>
+        ` : ''}
+      </div>
+    `;
+  } else if (s3SubMode === 'email') {
+    const all = window.KEIGO_STEP3_EMAILS || [];
+    const list = s3EmCat === 'all' ? all : all.filter(x => x.category === s3EmCat);
+    if (s3Idx >= list.length) s3Idx = 0;
+    const task = list[s3Idx];
+
+    mount.innerHTML = `
+      <div class="workspace-card">
+        <div class="card-meta-row">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="q-counter-badge">メール課題 ${s3Idx + 1} / ${list.length}</span>
+            <span class="q-category-tag">${rb(task.categoryLabel)}</span>
+          </div>
+          <div style="display:flex; gap:6px;">
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx-1+list.length)%list.length; s3ShowAns=false; s3ShowHint=false; renderStep3View();">← 前へ</button>
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx+1)%list.length; s3ShowAns=false; s3ShowHint=false; renderStep3View();">次へ →</button>
+          </div>
+        </div>
+
+        <h2 style="font-size:1.18rem; font-weight:700; color:var(--navy-dark); margin-bottom:10px; line-height:1.95;">✉️ ${rb(task.title)}</h2>
+        <div style="background:var(--bg-page); padding:10px 14px; border-radius:10px; font-size:0.88rem; margin-bottom:12px; display:flex; gap:20px; flex-wrap:wrap; line-height:1.95;">
+          <span>📤 <strong>${rb('差出人：')}</strong>${rb(task.sender)}</span>
+          <span>📥 <strong>${rb('宛先：')}</strong>${rb(task.recipient)}</span>
+        </div>
+        <p style="font-size:0.94rem; color:var(--text-sub); margin-bottom:14px; line-height:1.95;">📍 <strong>${rb('状況：')}</strong>${rb(task.situation)}</p>
+
+        <div class="prompt-highlight-box">
+          <div class="prompt-sub-label">📋 ${rb('盛り込む内容（件名から考えてみましょう！）')}</div>
+          <ul style="padding-left:20px; font-size:0.94rem; font-weight:600; color:var(--navy-dark); margin-top:6px; line-height:2.0;">
+            ${task.requirements.map(r => `<li style="margin-bottom:4px;">${rb(r)}</li>`).join('')}
+          </ul>
+        </div>
+
+        <div style="margin-bottom:12px;">
+          <label style="display:block; font-size:0.88rem; font-weight:700; color:var(--navy-dark); margin-bottom:4px;">
+            📌 Step 1：${rb('件名（Subject）を入力')}
+          </label>
+          <input type="text" class="clean-textarea" placeholder="例：【〇〇のご案内】ことほ商社 田中">
+        </div>
+
+        <div style="margin-bottom:16px;">
+          <label style="display:block; font-size:0.88rem; font-weight:700; color:var(--navy-dark); margin-bottom:4px;">
+            📝 Step 2：${rb('本文（宛名・挨拶・本題・結び）を入力')}
+          </label>
+          <textarea class="clean-textarea" rows="5" placeholder="宛名・挨拶から本文を書いてみましょう"></textarea>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+          <button type="button" class="btn-outline-gray" onclick="s3ShowHint=!s3ShowHint; renderStep3View();">
+            💡 ${s3ShowHint ? 'ヒントを隠す' : 'キーワードヒントを見る'}
+          </button>
+          <button type="button" class="btn-primary-orange" onclick="s3ShowAns=!s3ShowAns; renderStep3View();">
+            👀 ${s3ShowAns ? '模範メールを閉じる' : '模範的な「件名」と「メール全文・話し言葉比較」を見る'}
+          </button>
+        </div>
+
+        ${s3ShowHint ? `
+          <div style="margin-top:12px; background:var(--ocean-pale); border:1px dashed var(--ocean-blue); padding:10px 14px; border-radius:10px; font-size:0.88rem; color:var(--ocean-blue); font-weight:600; line-height:1.95;">
+            🔑 <strong>${rb('ヒント：')}</strong> ${rb(task.hintKeywords)}
+          </div>
+        ` : ''}
+
+        ${s3ShowAns ? `
+          <div style="margin-top:22px; padding-top:18px; border-top:1.5px dashed var(--border-soft);">
+            <div style="background:var(--yellow-pale); border:1.5px solid var(--yellow-border); border-radius:12px; padding:14px 18px; margin-bottom:14px; line-height:2.0;">
+              <div style="font-weight:700; color:var(--navy-dark); margin-bottom:6px;">📌 ${rb('件名（Subject）の正解例')}</div>
+              <div style="font-size:0.96rem; font-weight:700; color:var(--navy-dark);">👑 ${rb(task.subjectExamples.best)}</div>
+              <div style="font-size:0.88rem; color:var(--ocean-blue); margin-top:3px;">💬 ${rb('別案：' + task.subjectExamples.alt)}</div>
+              <div style="font-size:0.84rem; color:var(--ng-red); margin-top:6px;">${rb(task.subjectExamples.ng)}</div>
+            </div>
+
+            <div class="nuance-cards-stack">
+              <div class="nuance-box type-formal">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">👑 ① 最も丁寧な模範メール（社外・取引先・お客様向け）</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS(window.KEIGO_STEP3_EMAILS[${s3Idx}].modelEmails.formal)">🔊 全文音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(task.modelEmails.formal)}</div>
+              </div>
+              <div class="nuance-box type-soft">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">☕ ② 少し柔らかい丁寧メール・チャット（親しい相手・社内）</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS(window.KEIGO_STEP3_EMAILS[${s3Idx}].modelEmails.soft)">🔊 全文音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(task.modelEmails.soft)}</div>
+              </div>
+              <div class="nuance-box type-spoken">
+                <div class="nuance-box-header">
+                  <span class="nuance-badge">🗣️ ③ もし同じ用件を「電話・話し言葉」で伝えるなら？</span>
+                  <button type="button" class="tts-pill-btn" onclick="playGoogleTTS(window.KEIGO_STEP3_EMAILS[${s3Idx}].modelEmails.spoken)">🔊 音声</button>
+                </div>
+                <div class="nuance-sentence">${rb(task.modelEmails.spoken)}</div>
+              </div>
+            </div>
+            <div class="point-explanation-card">
+              💡 <strong>${rb('メール作成のポイント：')}</strong> ${rb(task.explanation)}
+            </div>
+          </div>
+        ` : ''}
+      </div>
+    `;
+  } else {
+    // ③ 全204問のシチュエーション別NG➔OK（選択肢なしで瞬発アウトプット！）
+    const allDrills = window.KEIGO_DRILL_DATABASE || [];
+    const list = s3Ch === 0 ? allDrills : allDrills.filter(d => d.chapterNum === s3Ch);
+    if (s3Idx >= list.length) s3Idx = 0;
+    const d = list[s3Idx];
+
+    mount.innerHTML = `
+      <div class="workspace-card">
+        <div class="card-meta-row">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="q-counter-badge">瞬発課題 ${s3Idx + 1} / ${list.length}</span>
+            <span class="q-category-tag">${rb(d.chapter || '')}</span>
+          </div>
+          <div style="display:flex; gap:6px;">
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx-1+list.length)%list.length; s3ShowAns=false; renderStep3View();">← 前へ</button>
+            <button type="button" class="btn-outline-gray" onclick="s3Idx=(s3Idx+1)%list.length; s3ShowAns=false; renderStep3View();">次へ →</button>
+          </div>
+        </div>
+
+        <div style="font-size:0.96rem; font-weight:700; color:var(--navy-dark); line-height:1.95;">
+          📍 ${rb('シチュエーション：' + d.situation)}
+        </div>
+
+        <div class="prompt-highlight-box">
+          <div class="prompt-sub-label">✕ ${rb('このNG表現・カジュアル表現を、選択肢なしで正しい敬語に言い換えてみましょう！')}</div>
+          <div class="prompt-main-phrase">「${rb(d.ng)}」</div>
+        </div>
+
+        <textarea class="clean-textarea" rows="2" placeholder="正しい敬語を声に出すか、ここに入力してみましょう（選択肢なし）"></textarea>
+
+        <div style="display:flex; justify-content:flex-end; margin-top:16px;">
+          <button type="button" class="btn-primary-orange" onclick="s3ShowAns=!s3ShowAns; renderStep3View();">
+            👀 ${s3ShowAns ? '答えを隠す' : '模範解答と解説（話し言葉の補足つき）を見る'}
+          </button>
+        </div>
+
+        ${s3ShowAns ? `
+          <div style="margin-top:20px; padding-top:18px; border-top:1.5px dashed var(--border-soft);">
+            <div class="nuance-box type-formal">
+              <div class="nuance-box-header">
+                <span class="nuance-badge">◎ 正しいビジネス敬語（OK表現）</span>
+                <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${(d.ok || '').replace(/'/g, "\\'")}')">🔊 音声</button>
+              </div>
+              <div class="nuance-sentence" style="font-size:1.22rem; color:var(--ok-green);">${rb(d.ok)}</div>
+            </div>
+            <div class="point-explanation-card">
+              💡 <strong>${rb('解説 ＆ 話し言葉の補足：')}</strong><br>${rb(d.point)}
+            </div>
+          </div>
+        ` : ''}
+      </div>
+    `;
+  }
+}
+
+// ============================================================================
+// 📊 別枠モーダル：重要14動詞の尊敬・謙譲変換表 ＆ 全204選検索
+// ============================================================================
+let isVerbMasked = false;
+function openReferenceModal() {
+  document.getElementById('reference-modal').classList.add('open');
+  renderVerbReferenceTable();
+  renderReferenceSearch('');
+}
+function closeReferenceModal() {
+  document.getElementById('reference-modal').classList.remove('open');
+}
+function switchReferenceTab(t) {
+  document.getElementById('ref-btn-verbs').classList.toggle('active', t === 'verbs');
+  document.getElementById('ref-btn-search').classList.toggle('active', t === 'search');
+  document.getElementById('ref-view-verbs').style.display = (t === 'verbs') ? 'block' : 'none';
+  document.getElementById('ref-view-search').style.display = (t === 'search') ? 'block' : 'none';
+  document.getElementById('btn-mask-verbs').style.display = (t === 'verbs') ? 'inline-flex' : 'none';
+}
+function toggleVerbTableMask() {
+  isVerbMasked = !isVerbMasked;
+  const b = document.getElementById('btn-mask-verbs');
+  if (b) b.textContent = isVerbMasked ? '👁️ すべての敬語を表示' : '🔒 敬語を隠してセルフテスト';
+  renderVerbReferenceTable();
+}
+function renderVerbReferenceTable() {
+  const box = document.getElementById('ref-view-verbs');
+  const verbs = window.KEIGO_VERB_CONVERSIONS || [];
+  if (!box) return;
+  box.innerHTML = `
+    <table class="verb-ref-table">
+      <thead>
+        <tr>
+          <th style="width:14%;">元の動詞</th>
+          <th style="width:24%;">👑 尊敬語（相手・目上）</th>
+          <th style="width:24%;">🙇 謙譲語（自分・ウチ）</th>
+          <th style="width:30%;">📝 実戦例文</th>
+          <th style="width:8%; text-align:center;">🔊</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${verbs.map(v => `
+          <tr>
+            <td style="font-weight:700; color:var(--navy-dark);">${rb(v.verb)}</td>
+            <td><span class="${isVerbMasked ? 'masked-cell' : ''}" onclick="this.classList.toggle('masked-cell')" style="font-weight:700; color:#B45309;">${rb(v.sonkeigo)}</span></td>
+            <td><span class="${isVerbMasked ? 'masked-cell' : ''}" onclick="this.classList.toggle('masked-cell')" style="font-weight:700; color:var(--ocean-blue);">${rb(v.kenjougo)}</span></td>
+            <td style="font-size:0.84rem; color:var(--text-sub);">
+              <div><strong>[尊敬]</strong> ${rb(v.exampleSonkei || '')}</div>
+              <div><strong>[謙譲]</strong> ${rb(v.exampleKenjou || '')}</div>
+            </td>
+            <td style="text-align:center;">
+              <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${(v.sonkeigo + '。' + v.kenjougo).replace(/'/g, "\\'")}')">🔊</button>
+            </td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+}
+function renderReferenceSearch(q) {
+  const box = document.getElementById('ref-search-list');
+  const drills = window.KEIGO_DRILL_DATABASE || [];
+  if (!box) return;
+  const kw = (q || '').trim().toLowerCase();
+  const matched = drills.filter(d => {
+    if (!kw) return true;
+    return (d.situation || '').toLowerCase().includes(kw)
+      || (d.ng || '').toLowerCase().includes(kw)
+      || (d.ok || '').toLowerCase().includes(kw)
+      || (d.point || '').toLowerCase().includes(kw);
+  }).slice(0, 60);
+
+  box.innerHTML = matched.map(d => `
+    <div style="background:#FFFFFF; border:1px solid var(--border-soft); border-radius:12px; padding:12px 16px; line-height:1.95;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;">
+        <span style="font-size:0.82rem; font-weight:700; color:var(--ocean-blue);">📍 ${rb(d.situation)}（${rb(d.chapter || '')}）</span>
+        <button type="button" class="tts-pill-btn" onclick="playGoogleTTS('${(d.ok || '').replace(/'/g, "\\'")}')">🔊 音声</button>
+      </div>
+      <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; font-weight:700;">
+        <span style="background:var(--ng-bg); color:var(--ng-red); padding:2px 10px; border-radius:6px; font-size:0.88rem;">✕ ${rb(d.ng)}</span>
+        <span>➔</span>
+        <span style="background:var(--ok-bg); color:var(--ok-green); padding:2px 10px; border-radius:6px; font-size:0.94rem;">◎ ${rb(d.ok)}</span>
+      </div>
+      <div style="font-size:0.84rem; color:var(--text-sub); margin-top:6px;">💡 ${rb(d.point)}</div>
+    </div>
+  `).join('');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('furigana') === 'off') isFuriganaOn = false;
+  if (params.get('furigana') === 'on') isFuriganaOn = true;
+  initRubyEngine();
+  buildStep1Pool();
+  initStep2Pool();
+  if (params.get('flip') === '1') s1Flipped = true;
+  const startMode = parseInt(params.get('mode') || '1', 10);
+  selectPracticeMode([1, 2, 3].includes(startMode) ? startMode : 1);
+  if (params.get('sub')) changeStep3SubMode(params.get('sub'));
+  if (params.get('ans') === '1') {
+    if (startMode === 2) answerStep2(0);
+    if (startMode === 3) { s3ShowAns = true; renderStep3View(); }
+  }
+});
+</script>
+</body>
+</html>
