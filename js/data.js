@@ -319,10 +319,10 @@ window.INITIAL_VOCAB_DATA = [
     "meaning": {
       "en": "student",
       "zh_TW": "學生",
-      "zh_CN": "學生",
+      "zh_CN": "学生",
       "ko": "학생",
       "zh_HK": "學生",
-      "fr": "student"
+      "fr": "étudiant(e)"
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さんは<ruby>学生<rt>がくせい</rt></ruby>ですか？<br/>B: いいえ、<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>学生<rt>がくせい</rt></ruby>です。",
@@ -345,12 +345,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せんせい",
     "category": "まずは授業で使う単語を覚えよう！",
     "meaning": {
-      "en": "teacher",
-      "zh_TW": "老師",
-      "zh_CN": "老師",
+      "en": "teacher / doctor",
+      "zh_TW": "老師 / 醫生",
+      "zh_CN": "老师 / 医生",
       "ko": "선생님",
-      "zh_HK": "老師",
-      "fr": "teacher"
+      "zh_HK": "老師 / 先生",
+      "fr": "professeur / maître"
     },
     "example": {
       "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、おはようございます！<br/>B: <ruby>田中<rt>たなか</rt></ruby>さん、おはようございます。",
@@ -1302,7 +1302,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "初次見面／很高興認識你",
       "ko": "처음 뵙겠습니다",
       "zh_HK": "初次見面／很高興認識你",
-      "fr": "Nice to meet you"
+      "fr": "Nice to meet you (forme en te)"
     },
     "example": {
       "ja": "はじめまして、<ruby>田中<rt>たなか</rt></ruby>です。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br/>はじめまして、<ruby>鈴木<rt>すずき</rt></ruby>です。こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
@@ -1442,7 +1442,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "我很好",
       "ko": "잘 지내요",
       "zh_HK": "我很好",
-      "fr": "I'm fine"
+      "fr": "I'm good / I'm fine"
     },
     "example": {
       "ja": "おかげさまで、<ruby>元気<rt>げんき</rt></ruby>です。<br/><ruby>渡辺<rt>わたなべ</rt></ruby>さんはどうですか？",
@@ -1554,7 +1554,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "我要開動了",
       "ko": "잘 먹겠습니다",
       "zh_HK": "我要開動了",
-      "fr": "Thank you for the meal (said before eating)"
+      "fr": "recevoir (humble pour もらう)"
     },
     "example": {
       "ja": "おいしそうなご<ruby>飯<rt>はん</rt></ruby>ですね。いただきます！<br/>どうぞ、<ruby>温<rt>あたた</rt></ruby>かいうちに<ruby>食<rt>た</rt></ruby>べてください。",
@@ -1638,7 +1638,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "不好意思／對不起",
       "ko": "죄송합니다 / 실례합니다",
       "zh_HK": "不好意思／對不起",
-      "fr": "Excuse me / I'm sorry"
+      "fr": "Excuse me / Sorry"
     },
     "example": {
       "ja": "すみません、<ruby>駅<rt>えき</rt></ruby>はどこですか？<br/>あそこの<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がったところです。",
@@ -1862,7 +1862,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "你還好嗎？／沒問題嗎？",
       "ko": "괜찮아요?",
       "zh_HK": "你還好嗎？／沒問題嗎？",
-      "fr": "Are you okay? / Is it okay?"
+      "fr": "Are you okay?"
     },
     "example": {
       "ja": "<ruby>顔色<rt>かおいろ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いですが、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか？<br/><ruby>少<rt>すこ</rt></ruby>し<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いですが、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。",
@@ -1942,11 +1942,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "desk",
-      "zh_TW": "desk",
-      "zh_CN": "desk",
-      "ko": "desk",
-      "zh_HK": "desk",
-      "fr": "desk"
+      "zh_TW": "書桌 / 桌子",
+      "zh_CN": "书桌 / 桌子",
+      "ko": "책상",
+      "zh_HK": "書枱 / 檯",
+      "fr": "bureau / table"
     },
     "example": {
       "ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>机<rt>つくえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ったので、<ruby>勉強<rt>べんきょう</rt></ruby>がはかどります。",
@@ -1970,11 +1970,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "chair",
-      "zh_TW": "chair",
-      "zh_CN": "chair",
-      "ko": "chair",
-      "zh_HK": "chair",
-      "fr": "chair"
+      "zh_TW": "椅子",
+      "zh_CN": "椅子",
+      "ko": "의자",
+      "zh_HK": "凳 / 椅",
+      "fr": "chaise"
     },
     "example": {
       "ja": "この<ruby>椅子<rt>いす</rt></ruby>は<ruby>背<rt>せ</rt></ruby>もたれが<ruby>柔<rt>やわ</rt></ruby>らかくて、<ruby>長時間<rt>ちょうじかん</rt></ruby><ruby>座<rt>すわ</rt></ruby>っても<ruby>疲<rt>つか</rt></ruby>れません。",
@@ -1998,11 +1998,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "book",
-      "zh_TW": "book",
-      "zh_CN": "book",
-      "ko": "book",
-      "zh_HK": "book",
-      "fr": "book"
+      "zh_TW": "書",
+      "zh_CN": "书",
+      "ko": "책",
+      "zh_HK": "書",
+      "fr": "livre"
     },
     "example": {
       "ja": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しだけ<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むのが<ruby>毎晩<rt>まいばん</rt></ruby>の<ruby>日課<rt>にっか</rt></ruby>です。",
@@ -2026,11 +2026,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "notebook",
-      "zh_TW": "notebook",
-      "zh_CN": "notebook",
-      "ko": "notebook",
-      "zh_HK": "notebook",
-      "fr": "notebook"
+      "zh_TW": "筆記本",
+      "zh_CN": "笔记本",
+      "ko": "노트 / 공책",
+      "zh_HK": "筆記簿",
+      "fr": "cahier"
     },
     "example": {
       "ja": "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>黒板<rt>こくばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>大切<rt>たいせつ</rt></ruby>なポイントをノートにまとめました。",
@@ -2054,11 +2054,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "pencil",
-      "zh_TW": "pencil",
-      "zh_CN": "pencil",
-      "ko": "pencil",
-      "zh_HK": "pencil",
-      "fr": "pencil"
+      "zh_TW": "鉛筆",
+      "zh_CN": "铅笔",
+      "ko": "연필",
+      "zh_HK": "鉛筆",
+      "fr": "crayon"
     },
     "example": {
       "ja": "<ruby>試験中<rt>しけんちゅう</rt></ruby>はシャープペンシルではなく、<ruby>濃<rt>こ</rt></ruby>い<ruby>鉛筆<rt>えんぴつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
@@ -2082,11 +2082,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "pen",
-      "zh_TW": "pen",
-      "zh_CN": "pen",
-      "ko": "pen",
-      "zh_HK": "pen",
-      "fr": "pen"
+      "zh_TW": "鋼筆 / 筆",
+      "zh_CN": "钢笔 / 笔",
+      "ko": "펜 / 볼펜",
+      "zh_HK": "筆 / 原子筆",
+      "fr": "stylo"
     },
     "example": {
       "ja": "すみません、<ruby>書類<rt>しょるい</rt></ruby>にサインしたいのでペンを<ruby>貸<rt>か</rt></ruby>していただけますか？",
@@ -2110,11 +2110,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "newspaper",
-      "zh_TW": "newspaper",
-      "zh_CN": "newspaper",
-      "ko": "newspaper",
-      "zh_HK": "newspaper",
-      "fr": "newspaper"
+      "zh_TW": "報紙",
+      "zh_CN": "报纸",
+      "ko": "신문",
+      "zh_HK": "報紙",
+      "fr": "journal"
     },
     "example": {
       "ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>、コーヒーを<ruby>飲<rt>の</rt></ruby>みながら<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
@@ -2138,10 +2138,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "smartphone",
-      "zh_TW": "smartphone",
-      "zh_CN": "smartphone",
-      "ko": "smartphone",
-      "zh_HK": "smartphone",
+      "zh_TW": "智慧型手機",
+      "zh_CN": "智能手机",
+      "ko": "스마트폰",
+      "zh_HK": "智能手機",
       "fr": "smartphone"
     },
     "example": {
@@ -2166,11 +2166,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "mobile phone",
-      "zh_TW": "mobile phone",
-      "zh_CN": "mobile phone",
-      "ko": "mobile phone",
-      "zh_HK": "mobile phone",
-      "fr": "mobile phone"
+      "zh_TW": "手機 / 行動電話",
+      "zh_CN": "手机 / 移动电话",
+      "ko": "휴대전화",
+      "zh_HK": "手提電話",
+      "fr": "téléphone portable"
     },
     "example": {
       "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>をマナーモードに<ruby>設定<rt>せってい</rt></ruby>してください。",
@@ -2194,11 +2194,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "eraser",
-      "zh_TW": "eraser",
-      "zh_CN": "eraser",
-      "ko": "eraser",
-      "zh_HK": "eraser",
-      "fr": "eraser"
+      "zh_TW": "橡皮擦",
+      "zh_CN": "橡皮",
+      "ko": "지우개",
+      "zh_HK": "擦膠",
+      "fr": "gomme"
     },
     "example": {
       "ja": "<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えたので、<ruby>消しゴム<rt>けしごむ</rt></ruby>できれいに<ruby>消<rt>け</rt></ruby>しました。",
@@ -2222,11 +2222,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "bag",
-      "zh_TW": "bag",
-      "zh_CN": "bag",
-      "ko": "bag",
-      "zh_HK": "bag",
-      "fr": "bag"
+      "zh_TW": "包包 / 提包",
+      "zh_CN": "包 / 皮包",
+      "ko": "가방",
+      "zh_HK": "袋 / 手袋",
+      "fr": "sac"
     },
     "example": {
       "ja": "この<ruby>鞄<rt>かばん</rt></ruby>はポケットが<ruby>多<rt>おお</rt></ruby>くて、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しやすいです。",
@@ -2249,12 +2249,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "とけい",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "watch, clock",
-      "zh_TW": "watch, clock",
-      "zh_CN": "watch, clock",
-      "ko": "watch, clock",
-      "zh_HK": "watch, clock",
-      "fr": "watch, clock"
+      "en": "watch / clock",
+      "zh_TW": "鐘錶 / 手錶",
+      "zh_CN": "钟表 / 手表",
+      "ko": "시계",
+      "zh_HK": "鐘 / 錶",
+      "fr": "montre / horloge"
     },
     "example": {
       "ja": "<ruby>壁<rt>かべ</rt></ruby>の<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、もう<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の5<ruby>分前<rt>ふんまえ</rt></ruby>でした。",
@@ -2278,11 +2278,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "telephone",
-      "zh_TW": "telephone",
-      "zh_CN": "telephone",
-      "ko": "telephone",
-      "zh_HK": "telephone",
-      "fr": "telephone"
+      "zh_TW": "電話",
+      "zh_CN": "电话",
+      "ko": "전화",
+      "zh_HK": "電話",
+      "fr": "téléphone"
     },
     "example": {
       "ja": "A: さっき<ruby>田中<rt>たなか</rt></ruby>さんから<ruby>電話<rt>でんわ</rt></ruby>がありましたよ。<br/>B: わかりました、すぐに<ruby>折り返<rt>おりかえ</rt></ruby>しますね。",
@@ -2305,12 +2305,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ぱそこん",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "computer",
-      "zh_TW": "computer",
-      "zh_CN": "computer",
-      "ko": "computer",
-      "zh_HK": "computer",
-      "fr": "computer"
+      "en": "personal computer / laptop",
+      "zh_TW": "個人電腦",
+      "zh_CN": "个人电脑",
+      "ko": "컴퓨터 / 노트북",
+      "zh_HK": "電腦",
+      "fr": "ordinateur"
     },
     "example": {
       "ja": "カフェでパソコンを<ruby>開<rt>ひら</rt></ruby>いて、レポートを<ruby>書<rt>か</rt></ruby>いています。",
@@ -2333,12 +2333,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "てれび",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "TV",
-      "zh_TW": "TV",
-      "zh_CN": "TV",
-      "ko": "TV",
-      "zh_HK": "TV",
-      "fr": "TV"
+      "en": "TV / television",
+      "zh_TW": "電視",
+      "zh_CN": "电视",
+      "ko": "텔레비전 / TV",
+      "zh_HK": "電視",
+      "fr": "télévision"
     },
     "example": {
       "ja": "<ruby>夜<rt>よる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>とテレビを<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
@@ -2362,11 +2362,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "window",
-      "zh_TW": "window",
-      "zh_CN": "window",
-      "ko": "window",
-      "zh_HK": "window",
-      "fr": "window"
+      "zh_TW": "窗戶",
+      "zh_CN": "窗户",
+      "ko": "창문",
+      "zh_HK": "窗",
+      "fr": "fenêtre"
     },
     "example": {
       "ja": "<ruby>空気<rt>くうき</rt></ruby>がこもっているので、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>換気<rt>かんき</rt></ruby>しましょう。",
@@ -2390,11 +2390,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "door",
-      "zh_TW": "door",
-      "zh_CN": "door",
-      "ko": "door",
-      "zh_HK": "door",
-      "fr": "door"
+      "zh_TW": "門",
+      "zh_CN": "门",
+      "ko": "문 / 도어",
+      "zh_HK": "門",
+      "fr": "porte"
     },
     "example": {
       "ja": "<ruby>出<rt>で</rt></ruby>かける<ruby>時<rt>とき</rt></ruby>は、<ruby>玄関<rt>げんかん</rt></ruby>のドアをしっかり<ruby>閉<rt>し</rt></ruby>めて<ruby>鍵<rt>かぎ</rt></ruby>をかけます。",
@@ -2417,12 +2417,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かぎ",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "key",
-      "zh_TW": "key",
-      "zh_CN": "key",
-      "ko": "key",
-      "zh_HK": "key",
-      "fr": "key"
+      "en": "key / lock",
+      "zh_TW": "鑰匙",
+      "zh_CN": "钥匙",
+      "ko": "열쇠",
+      "zh_HK": "鎖匙",
+      "fr": "clé"
     },
     "example": {
       "ja": "A: あれ、<ruby>家<rt>いえ</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>が<ruby>見当<rt>みあ</rt></ruby>たらない！<br/>B: <ruby>鞄<rt>かばん</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>に<ruby>入<rt>いっ</rt></ruby>っていませんか？<ruby>探<rt>さが</rt></ruby>してみて。",
@@ -2446,11 +2446,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "dictionary",
-      "zh_TW": "dictionary",
-      "zh_CN": "dictionary",
-      "ko": "dictionary",
-      "zh_HK": "dictionary",
-      "fr": "dictionary"
+      "zh_TW": "詞典 / 字典",
+      "zh_CN": "词典 / 字典",
+      "ko": "사전",
+      "zh_HK": "字典",
+      "fr": "dictionnaire"
     },
     "example": {
       "ja": "わからない<ruby>単語<rt>たんご</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>ったら、すぐに<ruby>辞書<rt>じしょ</rt></ruby>で<ruby>意味<rt>いみ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べます。",
@@ -2474,11 +2474,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "umbrella",
-      "zh_TW": "umbrella",
-      "zh_CN": "umbrella",
-      "ko": "umbrella",
-      "zh_HK": "umbrella",
-      "fr": "umbrella"
+      "zh_TW": "雨傘",
+      "zh_CN": "雨伞",
+      "ko": "우산",
+      "zh_HK": "遮 / 雨遮",
+      "fr": "parapluie"
     },
     "example": {
       "ja": "<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>予報<rt>よほう</rt></ruby>なので、<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていきましょう。",
@@ -2501,12 +2501,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ざっし",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "journal, magazine",
-      "zh_TW": "journal, magazine",
-      "zh_CN": "journal, magazine",
-      "ko": "journal, magazine",
-      "zh_HK": "journal, magazine",
-      "fr": "journal, magazine"
+      "en": "magazine",
+      "zh_TW": "雜誌",
+      "zh_CN": "杂志",
+      "ko": "잡지",
+      "zh_HK": "雜誌",
+      "fr": "magazine"
     },
     "example": {
       "ja": "<ruby>本屋<rt>ほんや</rt></ruby>の<ruby>店頭<rt>てんとう</rt></ruby>で、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>特集<rt>とくしゅう</rt></ruby>が<ruby>載<rt>の</rt></ruby>っている<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>立ち読<rt>たちよ</rt></ruby>みしました。",
@@ -2529,12 +2529,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "てちょう",
     "category": "身の回りのもの",
     "meaning": {
-      "en": "schedule book",
-      "zh_TW": "schedule book",
-      "zh_CN": "schedule book",
-      "ko": "schedule book",
-      "zh_HK": "schedule book",
-      "fr": "schedule book"
+      "en": "pocket notebook / planner",
+      "zh_TW": "記事本 / 手帳",
+      "zh_CN": "记事本 / 手帐",
+      "ko": "수첩",
+      "zh_HK": "記事簿",
+      "fr": "agenda / carnet"
     },
     "example": {
       "ja": "<ruby>大事<rt>だいじ</rt></ruby>なアポイントメントや<ruby>約束<rt>やくそく</rt></ruby>は<ruby>手帳<rt>てちょう</rt></ruby>にペンで<ruby>書<rt>か</rt></ruby>き<ruby>留<rt>と</rt></ruby>めます。",
@@ -2558,11 +2558,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "身の回りのもの",
     "meaning": {
       "en": "shoes",
-      "zh_TW": "shoes",
-      "zh_CN": "shoes",
-      "ko": "shoes",
-      "zh_HK": "shoes",
-      "fr": "shoes"
+      "zh_TW": "鞋子",
+      "zh_CN": "鞋子",
+      "ko": "신발 / 구두",
+      "zh_HK": "鞋",
+      "fr": "chaussures"
     },
     "example": {
       "ja": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>い</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は、<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぐルールです。",
@@ -2585,12 +2585,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "わたし",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "I, me",
-      "zh_TW": "I, me",
-      "zh_CN": "I, me",
-      "ko": "I, me",
-      "zh_HK": "I, me",
-      "fr": "I, me"
+      "en": "I / me",
+      "zh_TW": "我",
+      "zh_CN": "我",
+      "ko": "저 / 나",
+      "zh_HK": "我",
+      "fr": "je / moi"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>渡辺<rt>わたなべ</rt></ruby>です。<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。",
@@ -2614,11 +2614,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "you",
-      "zh_TW": "you",
-      "zh_CN": "you",
-      "ko": "you",
-      "zh_HK": "you",
-      "fr": "you"
+      "zh_TW": "你 / 您",
+      "zh_CN": "你",
+      "ko": "당신",
+      "zh_HK": "你",
+      "fr": "vous / tu"
     },
     "example": {
       "ja": "あなたの<ruby>名前<rt>なまえ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
@@ -2641,12 +2641,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かれ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "He",
-      "zh_TW": "He",
-      "zh_CN": "He",
-      "ko": "He",
-      "zh_HK": "He",
-      "fr": "He"
+      "en": "he / boyfriend",
+      "zh_TW": "他 / 男朋友",
+      "zh_CN": "他 / 男朋友",
+      "ko": "그 / 남자친구",
+      "zh_HK": "佢（男）/ 男朋友",
+      "fr": "il / petit ami"
     },
     "example": {
       "ja": "A: <ruby>彼<rt>かれ</rt></ruby>はどこの<ruby>国<rt>くに</rt></ruby>から<ruby>来<rt>き</rt></ruby>ましたか？<br/>B: <ruby>彼<rt>かれ</rt></ruby>はアメリカから<ruby>来<rt>き</rt></ruby>ましたよ。",
@@ -2669,12 +2669,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かのじょ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "she, girlfriend",
-      "zh_TW": "she, girlfriend",
-      "zh_CN": "she, girlfriend",
-      "ko": "she, girlfriend",
-      "zh_HK": "she, girlfriend",
-      "fr": "she, girlfriend"
+      "en": "she / girlfriend",
+      "zh_TW": "她 / 女朋友",
+      "zh_CN": "她 / 女朋友",
+      "ko": "그녀 / 여자친구",
+      "zh_HK": "佢（女）/ 女朋友",
+      "fr": "elle / petite amie"
     },
     "example": {
       "ja": "A: <ruby>彼女<rt>かのじょ</rt></ruby>はどこの<ruby>出身<rt>しゅっしん</rt></ruby>ですか？<br/>B: <ruby>彼女<rt>かのじょ</rt></ruby>はフランスのパリ<ruby>出身<rt>しゅっしん</rt></ruby>です。",
@@ -2697,12 +2697,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かれら",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "they (male/mixed)",
-      "zh_TW": "they (male/mixed)",
-      "zh_CN": "they (male/mixed)",
-      "ko": "they (male/mixed)",
-      "zh_HK": "they (male/mixed)",
-      "fr": "they (male/mixed)"
+      "en": "they",
+      "zh_TW": "他們",
+      "zh_CN": "他们",
+      "ko": "그들",
+      "zh_HK": "佢哋",
+      "fr": "ils / eux"
     },
     "example": {
       "ja": "A: <ruby>彼<rt>かれ</rt></ruby>らはもう<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きましたか？<br/>B: はい、<ruby>彼<rt>かれ</rt></ruby>らはみんな<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っています。",
@@ -2726,11 +2726,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "they (female)",
-      "zh_TW": "they (female)",
-      "zh_CN": "they (female)",
-      "ko": "they (female)",
-      "zh_HK": "they (female)",
-      "fr": "they (female)"
+      "zh_TW": "她們",
+      "zh_CN": "她们",
+      "ko": "그녀들",
+      "zh_HK": "佢哋（女性）",
+      "fr": "elles"
     },
     "example": {
       "ja": "A: こちらは<ruby>加藤<rt>かとう</rt></ruby>さんの<ruby>彼女<rt>かのじょ</rt></ruby>たちですか？<br/>B: はい、<ruby>私<rt>わたし</rt></ruby>の<ruby>彼女<rt>かのじょ</rt></ruby>たちです。",
@@ -2753,12 +2753,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "わたしたち",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "we, us",
-      "zh_TW": "we, us",
-      "zh_CN": "we, us",
-      "ko": "we, us",
-      "zh_HK": "we, us",
-      "fr": "we, us"
+      "en": "we / us",
+      "zh_TW": "我們",
+      "zh_CN": "我们",
+      "ko": "우리 / 저희",
+      "zh_HK": "我哋",
+      "fr": "nous"
     },
     "example": {
       "ja": "A: <ruby>明日<rt>あした</rt></ruby>のパーティー、みんな<ruby>行<rt>い</rt></ruby>きますか？<br/>B: はい、わたしたちも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます！",
@@ -2782,11 +2782,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "you (plural)",
-      "zh_TW": "you (plural)",
-      "zh_CN": "you (plural)",
-      "ko": "you (plural)",
-      "zh_HK": "you (plural)",
-      "fr": "you (plural)"
+      "zh_TW": "你們",
+      "zh_CN": "你们",
+      "ko": "당신들 / 여러분",
+      "zh_HK": "你哋",
+      "fr": "vous (pluriel)"
     },
     "example": {
       "ja": "A: あなたたちは<ruby>何年生<rt>なんねんせい</rt></ruby>ですか？<br/>B: わたしたちは<ruby>高校<rt>こうこう</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>です。",
@@ -2809,12 +2809,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "そぼ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "grandmother",
-      "zh_TW": "grandmother",
-      "zh_CN": "grandmother",
-      "ko": "grandmother",
-      "zh_HK": "grandmother",
-      "fr": "grandmother"
+      "en": "grandmother (own)",
+      "zh_TW": "祖母 / 奶奶 / 外婆",
+      "zh_CN": "祖母 / 奶奶 / 外婆",
+      "ko": "할머니",
+      "zh_HK": "嫲嫲 / 婆婆",
+      "fr": "grand-mère"
     },
     "example": {
       "ja": "A: おばあちゃん、お<ruby>元気<rt>げんき</rt></ruby>ですか？<br/>B: ええ、<ruby>祖母<rt>そぼ</rt></ruby>はいつも<ruby>元気<rt>げんき</rt></ruby>いっぱいに<ruby>散歩<rt>さんぽ</rt></ruby>していますよ。",
@@ -2837,12 +2837,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "そふ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "grandfather",
-      "zh_TW": "grandfather",
-      "zh_CN": "grandfather",
-      "ko": "grandfather",
-      "zh_HK": "grandfather",
-      "fr": "grandfather"
+      "en": "grandfather (own)",
+      "zh_TW": "祖父 / 爺爺 / 外公",
+      "zh_CN": "祖父 / 爷爷 / 外公",
+      "ko": "할아버지",
+      "zh_HK": "爺爺 / 公公",
+      "fr": "grand-père"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>祖父<rt>そふ</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>庭<rt>にわ</rt></ruby>の<ruby>盆栽<rt>ぼんさい</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をやっています。",
@@ -2865,12 +2865,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ちち",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "father",
-      "zh_TW": "father",
-      "zh_CN": "father",
-      "ko": "father",
-      "zh_HK": "father",
-      "fr": "father"
+      "en": "father (own)",
+      "zh_TW": "父親 / 爸爸",
+      "zh_CN": "父亲 / 爸爸",
+      "ko": "아버지",
+      "zh_HK": "爸爸 / 老豆",
+      "fr": "père"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>は<ruby>自動車<rt>じどうしゃ</rt></ruby>メーカーでエンジニアとして<ruby>働<rt>はたら</rt></ruby>いています。",
@@ -2893,12 +2893,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はは",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "mother",
-      "zh_TW": "mother",
-      "zh_CN": "mother",
-      "ko": "mother",
-      "zh_HK": "mother",
-      "fr": "mother"
+      "en": "mother (own)",
+      "zh_TW": "母親 / 媽媽",
+      "zh_CN": "母亲 / 妈妈",
+      "ko": "어머니",
+      "zh_HK": "媽媽 / 阿媽",
+      "fr": "mère"
     },
     "example": {
       "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>で、<ruby>毎日<rt>まいにち</rt></ruby><ruby>美味<rt>おい</rt></ruby>しいお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってくれます。",
@@ -2921,12 +2921,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "あに",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "older brother",
-      "zh_TW": "older brother",
-      "zh_CN": "older brother",
-      "ko": "older brother",
-      "zh_HK": "older brother",
-      "fr": "older brother"
+      "en": "older brother (own)",
+      "zh_TW": "哥哥",
+      "zh_CN": "哥哥",
+      "ko": "형 / 오빠",
+      "zh_HK": "阿哥 / 哥哥",
+      "fr": "frère aîné"
     },
     "example": {
       "ja": "<ruby>兄<rt>あに</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
@@ -2949,12 +2949,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "あね",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "older sister",
-      "zh_TW": "older sister",
-      "zh_CN": "older sister",
-      "ko": "older sister",
-      "zh_HK": "older sister",
-      "fr": "older sister"
+      "en": "older sister (own)",
+      "zh_TW": "姐姐",
+      "zh_CN": "姐姐",
+      "ko": "누나 / 언니",
+      "zh_HK": "家姐 / 姐姐",
+      "fr": "sœur aînée"
     },
     "example": {
       "ja": "<ruby>姉<rt>あね</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にデパートへ<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
@@ -2978,11 +2978,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "younger brother",
-      "zh_TW": "younger brother",
-      "zh_CN": "younger brother",
-      "ko": "younger brother",
-      "zh_HK": "younger brother",
-      "fr": "younger brother"
+      "zh_TW": "弟弟",
+      "zh_CN": "弟弟",
+      "ko": "남동생",
+      "zh_HK": "細佬",
+      "fr": "frère cadet"
     },
     "example": {
       "ja": "<ruby>弟<rt>おとうと</rt></ruby>はサッカーがとても<ruby>上手<rt>じょうず</rt></ruby>です。",
@@ -3006,11 +3006,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "younger sister",
-      "zh_TW": "younger sister",
-      "zh_CN": "younger sister",
-      "ko": "younger sister",
-      "zh_HK": "younger sister",
-      "fr": "younger sister"
+      "zh_TW": "妹妹",
+      "zh_CN": "妹妹",
+      "ko": "여동생",
+      "zh_HK": "細妹",
+      "fr": "sœur cadette"
     },
     "example": {
       "ja": "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から<ruby>中学生<rt>ちゅうがくせい</rt></ruby>になります。",
@@ -3033,12 +3033,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "むすこ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "son",
-      "zh_TW": "son",
-      "zh_CN": "son",
-      "ko": "son",
-      "zh_HK": "son",
-      "fr": "son"
+      "en": "son (own)",
+      "zh_TW": "兒子",
+      "zh_CN": "儿子",
+      "ko": "아들",
+      "zh_HK": "仔 / 兒子",
+      "fr": "fils"
     },
     "example": {
       "ja": "<ruby>息子<rt>むすこ</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>元気<rt>げんき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>っています。",
@@ -3061,12 +3061,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "むすめ",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "daughter",
-      "zh_TW": "daughter",
-      "zh_CN": "daughter",
-      "ko": "daughter",
-      "zh_HK": "daughter",
-      "fr": "daughter"
+      "en": "daughter (own)",
+      "zh_TW": "女兒",
+      "zh_CN": "女儿",
+      "ko": "딸",
+      "zh_HK": "女 / 女兒",
+      "fr": "fille"
     },
     "example": {
       "ja": "A: <ruby>娘<rt>むすめ</rt></ruby>さんは<ruby>何歳<rt>なんさい</rt></ruby>になりましたか？<br/>B: <ruby>娘<rt>むすめ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>で7<ruby>歳<rt>さい</rt></ruby>になりました。",
@@ -3090,11 +3090,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "uncle",
-      "zh_TW": "uncle",
-      "zh_CN": "uncle",
-      "ko": "uncle",
-      "zh_HK": "uncle",
-      "fr": "uncle"
+      "zh_TW": "叔叔 / 舅舅 / 伯父",
+      "zh_CN": "叔叔 / 舅舅 / 伯父",
+      "ko": "삼촌 / 아저씨",
+      "zh_HK": "叔叔 / 舅父",
+      "fr": "oncle"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>叔父<rt>おじ</rt></ruby>は<ruby>京都<rt>きょうと</rt></ruby>で<ruby>和菓子<rt>わがし</rt></ruby>の<ruby>職人<rt>しょくにん</rt></ruby>をしています。",
@@ -3118,11 +3118,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "aunt",
-      "zh_TW": "aunt",
-      "zh_CN": "aunt",
-      "ko": "aunt",
-      "zh_HK": "aunt",
-      "fr": "aunt"
+      "zh_TW": "阿姨 / 姑姑 / 舅媽",
+      "zh_CN": "阿姨 / 姑姑 / 舅妈",
+      "ko": "이모 / 고모 / 숙모",
+      "zh_HK": "姨姨 / 姑媽",
+      "fr": "tante"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>叔母<rt>おば</rt></ruby>はピアノの<ruby>先生<rt>せんせい</rt></ruby>で、とても<ruby>優<rt>やさ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>です。",
@@ -3146,11 +3146,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "cousin",
-      "zh_TW": "cousin",
-      "zh_CN": "cousin",
-      "ko": "cousin",
-      "zh_HK": "cousin",
-      "fr": "cousin"
+      "zh_TW": "堂兄弟姊妹 / 表兄弟姊妹",
+      "zh_CN": "堂兄弟姐妹 / 表兄弟姐妹",
+      "ko": "사촌",
+      "zh_HK": "堂兄弟姊妹 / 表兄弟姊妹",
+      "fr": "cousin(e)"
     },
     "example": {
       "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに、いとこと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎました。",
@@ -3174,11 +3174,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "family",
-      "zh_TW": "family",
-      "zh_CN": "family",
-      "ko": "family",
-      "zh_HK": "family",
-      "fr": "family"
+      "zh_TW": "家人 / 家庭",
+      "zh_CN": "家人 / 家庭",
+      "ko": "가족",
+      "zh_HK": "屋企人 / 家人",
+      "fr": "famille"
     },
     "example": {
       "ja": "A: <ruby>ご家族<rt>ごかぞく</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか？<br/>B: <ruby>家族<rt>かぞく</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>4人<rt>よにん</rt></ruby>です。",
@@ -3202,10 +3202,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "parents",
-      "zh_TW": "parents",
-      "zh_CN": "parents",
-      "ko": "parents",
-      "zh_HK": "parents",
+      "zh_TW": "父母 / 雙親",
+      "zh_CN": "父母 / 双亲",
+      "ko": "부모님",
+      "zh_HK": "父母 / 雙親",
       "fr": "parents"
     },
     "example": {
@@ -3229,12 +3229,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "きょうだい",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "siblings",
-      "zh_TW": "siblings",
-      "zh_CN": "siblings",
-      "ko": "siblings",
-      "zh_HK": "siblings",
-      "fr": "siblings"
+      "en": "siblings / brothers",
+      "zh_TW": "兄弟姊妹",
+      "zh_CN": "兄弟姐妹",
+      "ko": "형제 / 남매",
+      "zh_HK": "兄弟姊妹",
+      "fr": "frères et sœurs"
     },
     "example": {
       "ja": "A: ご<ruby>兄弟<rt>きょうだい</rt></ruby>はいらっしゃいますか？<br/>B: はい、<ruby>兄<rt>あに</rt></ruby>が<ruby>一人<rt>ひとり</rt></ruby>います。",
@@ -3258,11 +3258,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "代名詞/家族",
     "meaning": {
       "en": "sisters",
-      "zh_TW": "sisters",
-      "zh_CN": "sisters",
-      "ko": "sisters",
-      "zh_HK": "sisters",
-      "fr": "sisters"
+      "zh_TW": "姊妹",
+      "zh_CN": "姐妹",
+      "ko": "자매",
+      "zh_HK": "姊妹",
+      "fr": "sœurs"
     },
     "example": {
       "ja": "A: ご<ruby>姉妹<rt>しまい</rt></ruby>はいらっしゃいますか？<br/>B: はい、<ruby>妹<rt>いもうと</rt></ruby>が<ruby>二人<rt>ふたり</rt></ruby>います。",
@@ -3285,12 +3285,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "おっと",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "husband",
-      "zh_TW": "husband",
-      "zh_CN": "husband",
-      "ko": "husband",
-      "zh_HK": "husband",
-      "fr": "husband"
+      "en": "husband (own)",
+      "zh_TW": "丈夫 / 先生",
+      "zh_CN": "丈夫",
+      "ko": "남편",
+      "zh_HK": "老公 / 丈夫",
+      "fr": "mari"
     },
     "example": {
       "ja": "A: <ruby>夫<rt>おっと</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしています。<br/>B: そうですか、<ruby>毎日<rt>まいにち</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です。",
@@ -3313,12 +3313,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "つま",
     "category": "代名詞/家族",
     "meaning": {
-      "en": "wife",
-      "zh_TW": "wife",
-      "zh_CN": "wife",
-      "ko": "wife",
-      "zh_HK": "wife",
-      "fr": "wife"
+      "en": "wife (own)",
+      "zh_TW": "妻子 / 太太",
+      "zh_CN": "妻子",
+      "ko": "아내",
+      "zh_HK": "老婆 / 太太",
+      "fr": "épouse / femme"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>で、<ruby>毎晩<rt>まいばん</rt></ruby>おいしいご<ruby>飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってくれます。",
@@ -3369,12 +3369,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "いえ",
     "category": "場所",
     "meaning": {
-      "en": "home,house",
-      "zh_TW": "home,house",
-      "zh_CN": "home,house",
-      "ko": "home,house",
-      "zh_HK": "home,house",
-      "fr": "home,house"
+      "en": "house / home",
+      "zh_TW": "家 / 房子",
+      "zh_CN": "家 / 房子",
+      "ko": "집",
+      "zh_HK": "屋企 / 屋",
+      "fr": "maison"
     },
     "example": {
       "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいです。",
@@ -3398,11 +3398,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "room",
-      "zh_TW": "room",
-      "zh_CN": "room",
-      "ko": "room",
-      "zh_HK": "room",
-      "fr": "room"
+      "zh_TW": "房間",
+      "zh_CN": "房间",
+      "ko": "방",
+      "zh_HK": "房 / 房間",
+      "fr": "chambre / pièce"
     },
     "example": {
       "ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>良<rt>よ</rt></ruby>くて、とても<ruby>居心地<rt>いごこち</rt></ruby>がいいです。",
@@ -3426,11 +3426,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "school",
-      "zh_TW": "school",
-      "zh_CN": "school",
-      "ko": "school",
-      "zh_HK": "school",
-      "fr": "school"
+      "zh_TW": "學校",
+      "zh_CN": "学校",
+      "ko": "학교",
+      "zh_HK": "學校",
+      "fr": "école"
     },
     "example": {
       "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>8時<rt>はちじ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>歩<rt>ある</rt></ruby>いて<ruby>通<rt>とお</rt></ruby>っています。",
@@ -3454,11 +3454,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "elementary school",
-      "zh_TW": "elementary school",
-      "zh_CN": "elementary school",
-      "ko": "elementary school",
-      "zh_HK": "elementary school",
-      "fr": "elementary school"
+      "zh_TW": "小學",
+      "zh_CN": "小学",
+      "ko": "초등학교",
+      "zh_HK": "小學",
+      "fr": "école primaire"
     },
     "example": {
       "ja": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>から、<ruby>子供<rt>こども</rt></ruby>たちの<ruby>元気<rt>げんき</rt></ruby>な<ruby>笑<rt>わら</rt></ruby>い<ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきます。",
@@ -3481,12 +3481,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ちゅうがっこう",
     "category": "場所",
     "meaning": {
-      "en": "middle school",
-      "zh_TW": "middle school",
-      "zh_CN": "middle school",
-      "ko": "middle school",
-      "zh_HK": "middle school",
-      "fr": "middle school"
+      "en": "junior high school",
+      "zh_TW": "國中 / 中學",
+      "zh_CN": "初中 / 中学",
+      "ko": "중학교",
+      "zh_HK": "中學（初中）",
+      "fr": "collège"
     },
     "example": {
       "ja": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はテニス<ruby>部<rt>ぶ</rt></ruby>に<ruby>所属<rt>しょぞく</rt></ruby>して、<ruby>毎日<rt>まいにち</rt></ruby><ruby>汗<rt>あせ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>していました。",
@@ -3510,11 +3510,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "high school",
-      "zh_TW": "high school",
-      "zh_CN": "high school",
-      "ko": "high school",
-      "zh_HK": "high school",
-      "fr": "high school"
+      "zh_TW": "高中",
+      "zh_CN": "高中",
+      "ko": "고등학교",
+      "zh_HK": "高中",
+      "fr": "lycée"
     },
     "example": {
       "ja": "<ruby>高校時代<rt>こうこうじだい</rt></ruby>の<ruby>親友<rt>しんゆう</rt></ruby>とは、<ruby>大人<rt>おとな</rt></ruby>になった<ruby>今<rt>いま</rt></ruby>でもよく<ruby>会<rt>あ</rt></ruby>っています。",
@@ -3538,11 +3538,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "university",
-      "zh_TW": "university",
-      "zh_CN": "university",
-      "ko": "university",
-      "zh_HK": "university",
-      "fr": "university"
+      "zh_TW": "大學",
+      "zh_CN": "大学",
+      "ko": "대학교",
+      "zh_HK": "大學",
+      "fr": "université"
     },
     "example": {
       "ja": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>国際関係<rt>こくさいかんけい</rt></ruby>と<ruby>異文化<rt>いぶんか</rt></ruby>コミュニケーションを<ruby>専攻<rt>せんこう</rt></ruby>しています。",
@@ -3566,11 +3566,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "bank",
-      "zh_TW": "bank",
-      "zh_CN": "bank",
-      "ko": "bank",
-      "zh_HK": "bank",
-      "fr": "bank"
+      "zh_TW": "銀行",
+      "zh_CN": "银行",
+      "ko": "은행",
+      "zh_HK": "銀行",
+      "fr": "banque"
     },
     "example": {
       "ja": "<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>ろすために、<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のATMに<ruby>寄<rt>よ</rt></ruby>りました。",
@@ -3594,11 +3594,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "post office",
-      "zh_TW": "post office",
-      "zh_CN": "post office",
-      "ko": "post office",
-      "zh_HK": "post office",
-      "fr": "post office"
+      "zh_TW": "郵局",
+      "zh_CN": "邮局",
+      "ko": "우체국",
+      "zh_HK": "郵局",
+      "fr": "bureau de poste"
     },
     "example": {
       "ja": "<ruby>海外<rt>かいがい</rt></ruby>にいる<ruby>友達<rt>ともだち</rt></ruby>にプレゼントを<ruby>送<rt>おく</rt></ruby>るため、<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
@@ -3622,11 +3622,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "classroom",
-      "zh_TW": "classroom",
-      "zh_CN": "classroom",
-      "ko": "classroom",
-      "zh_HK": "classroom",
-      "fr": "classroom"
+      "zh_TW": "教室",
+      "zh_CN": "教室",
+      "ko": "교실",
+      "zh_HK": "課室",
+      "fr": "salle de classe"
     },
     "example": {
       "ja": "チャイムが<ruby>鳴<rt>な</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました。",
@@ -3650,11 +3650,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "hospital",
-      "zh_TW": "hospital",
-      "zh_CN": "hospital",
-      "ko": "hospital",
-      "zh_HK": "hospital",
-      "fr": "hospital"
+      "zh_TW": "醫院",
+      "zh_CN": "医院",
+      "ko": "병원",
+      "zh_HK": "醫院",
+      "fr": "hôpital"
     },
     "example": {
       "ja": "<ruby>熱<rt>ねつ</rt></ruby>が38<ruby>度<rt>ど</rt></ruby>まで<ruby>上<rt>あ</rt></ruby>がったので、<ruby>近<rt>ちか</rt></ruby>くの<ruby>病院<rt>びょういん</rt></ruby>で<ruby>診<rt>み</rt></ruby>てもらいました。",
@@ -3705,12 +3705,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しょくどう",
     "category": "場所",
     "meaning": {
-      "en": "cafeteria,dining hall",
-      "zh_TW": "cafeteria,dining hall",
-      "zh_CN": "cafeteria,dining hall",
-      "ko": "cafeteria,dining hall",
-      "zh_HK": "cafeteria,dining hall",
-      "fr": "cafeteria,dining hall"
+      "en": "cafeteria / dining hall",
+      "zh_TW": "食堂 / 餐廳",
+      "zh_CN": "食堂 / 餐厅",
+      "ko": "식당",
+      "zh_HK": "飯堂 / 餐廳",
+      "fr": "cantine / réfectoire"
     },
     "example": {
       "ja": "お<ruby>昼休<rt>ひるやす</rt></ruby>みになると、<ruby>学食<rt>がくしょく</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>学生<rt>がくせい</rt></ruby>で<ruby>食堂<rt>しょくどう</rt></ruby>がいっぱいになります。",
@@ -3734,11 +3734,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "station",
-      "zh_TW": "station",
-      "zh_CN": "station",
-      "ko": "station",
-      "zh_HK": "station",
-      "fr": "station"
+      "zh_TW": "車站",
+      "zh_CN": "车站",
+      "ko": "역",
+      "zh_HK": "車站",
+      "fr": "gare / station"
     },
     "example": {
       "ja": "A: <ruby>明日<rt>あした</rt></ruby>の<ruby>待ち合<rt>まちあ</rt></ruby>わせはどこにする？<br/>B: <ruby>新宿駅<rt>しんじゅくえき</rt></ruby>の<ruby>東口<rt>ひがしぐち</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>はどう？",
@@ -3761,12 +3761,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "みせ",
     "category": "場所",
     "meaning": {
-      "en": "shop; store",
-      "zh_TW": "shop; store",
-      "zh_CN": "shop; store",
-      "ko": "shop; store",
-      "zh_HK": "shop; store",
-      "fr": "shop; store"
+      "en": "shop / store",
+      "zh_TW": "店 / 商店",
+      "zh_CN": "店 / 商店",
+      "ko": "가게",
+      "zh_HK": "舖頭 / 商店",
+      "fr": "magasin / boutique"
     },
     "example": {
       "ja": "<ruby>商店街<rt>しょうてんがい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さなお<ruby>店<rt>みせ</rt></ruby>で、<ruby>手作<rt>てづく</rt></ruby>りの<ruby>美味<rt>おい</rt></ruby>しいお<ruby>菓子<rt>かし</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。",
@@ -3789,12 +3789,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "うりば",
     "category": "場所",
     "meaning": {
-      "en": "place where things are sold",
-      "zh_TW": "place where things are sold",
-      "zh_CN": "place where things are sold",
-      "ko": "place where things are sold",
-      "zh_HK": "place where things are sold",
-      "fr": "place where things are sold"
+      "en": "sales counter / department",
+      "zh_TW": "賣場 / 專櫃",
+      "zh_CN": "售货处 / 专柜",
+      "ko": "매장 / 파는 곳",
+      "zh_HK": "售賣處 / 專櫃",
+      "fr": "rayon / comptoir"
     },
     "example": {
       "ja": "デパートの<ruby>地下<rt>ちか</rt></ruby>の<ruby>食品売<rt>しょくひんうり</rt></ruby>り<ruby>場<rt>ば</rt></ruby>は、<ruby>美味<rt>おい</rt></ruby>しそうなお<ruby>惣菜<rt>そうざい</rt></ruby>がたくさん<ruby>並<rt>なら</rt></ruby>んでいます。",
@@ -3817,12 +3817,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "スーパー",
     "category": "場所",
     "meaning": {
-      "en": "supermarket/grocery store",
-      "zh_TW": "supermarket/grocery store",
-      "zh_CN": "supermarket/grocery store",
-      "ko": "supermarket/grocery store",
-      "zh_HK": "supermarket/grocery store",
-      "fr": "supermarket/grocery store"
+      "en": "supermarket",
+      "zh_TW": "超市",
+      "zh_CN": "超市",
+      "ko": "슈퍼마켓",
+      "zh_HK": "超級市場 / 超市",
+      "fr": "supermarché"
     },
     "example": {
       "ja": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りにスーパーへ<ruby>寄<rt>よ</rt></ruby>って、<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>材料<rt>ざいりょう</rt></ruby>と<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
@@ -3846,11 +3846,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "park",
-      "zh_TW": "park",
-      "zh_CN": "park",
-      "ko": "park",
-      "zh_HK": "park",
-      "fr": "park"
+      "zh_TW": "公園",
+      "zh_CN": "公园",
+      "ko": "공원",
+      "zh_HK": "公園",
+      "fr": "parc"
     },
     "example": {
       "ja": "<ruby>晴<rt>は</rt></ruby>れた<ruby>日曜日<rt>にちようび</rt></ruby>に、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>で<ruby>芝生<rt>しばふ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってピクニックをしました。",
@@ -3874,11 +3874,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "office",
-      "zh_TW": "office",
-      "zh_CN": "office",
-      "ko": "office",
-      "zh_HK": "office",
-      "fr": "office"
+      "zh_TW": "事務所 / 辦公室",
+      "zh_CN": "事务所 / 办公室",
+      "ko": "사무소 / 사무실",
+      "zh_HK": "寫字樓 / 辦公室",
+      "fr": "bureau"
     },
     "example": {
       "ja": "<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>受け取<rt>うけと</rt></ruby>り<ruby>確認<rt>かくにん</rt></ruby>のため、ビルの<ruby>管理事務所<rt>かんりじむしょ</rt></ruby>へ<ruby>立<rt>た</rt></ruby>ち<ruby>寄<rt>よ</rt></ruby>りました。",
@@ -3901,12 +3901,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "かいぎしつ",
     "category": "場所",
     "meaning": {
-      "en": "conference room",
-      "zh_TW": "conference room",
-      "zh_CN": "conference room",
-      "ko": "conference room",
-      "zh_HK": "conference room",
-      "fr": "conference room"
+      "en": "meeting room",
+      "zh_TW": "會議室",
+      "zh_CN": "会议室",
+      "ko": "회의실",
+      "zh_HK": "會議室",
+      "fr": "salle de réunion"
     },
     "example": {
       "ja": "<ruby>来週<rt>らいしゅう</rt></ruby>のプロジェクト<ruby>発表<rt>はっぴょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、3<ruby>階<rt>かい</rt></ruby>の<ruby>第<rt>だい</rt></ruby>2<ruby>会議室<rt>かいぎしつ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。",
@@ -3929,12 +3929,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "うけつけ",
     "category": "場所",
     "meaning": {
-      "en": "reception",
-      "zh_TW": "reception",
-      "zh_CN": "reception",
-      "ko": "reception",
-      "zh_HK": "reception",
-      "fr": "reception"
+      "en": "reception desk",
+      "zh_TW": "接待處 / 櫃檯",
+      "zh_CN": "接待处 / 前台",
+      "ko": "접수처 / 안내 데스크",
+      "zh_HK": "接待處 / 詢問處",
+      "fr": "réception / accueil"
     },
     "example": {
       "ja": "ビルに<ruby>入<rt>いっ</rt></ruby>ったら、まず<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>入館<rt>にゅうかん</rt></ruby><ruby>証<rt>しょう</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>ってください。",
@@ -3958,11 +3958,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "stairs",
-      "zh_TW": "stairs",
-      "zh_CN": "stairs",
-      "ko": "stairs",
-      "zh_HK": "stairs",
-      "fr": "stairs"
+      "zh_TW": "樓梯",
+      "zh_CN": "楼梯",
+      "ko": "계단",
+      "zh_HK": "樓梯",
+      "fr": "escalier"
     },
     "example": {
       "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、エレベーターを<ruby>使<rt>つか</rt></ruby>わずに<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>るようにしています。",
@@ -3985,12 +3985,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ちか",
     "category": "場所",
     "meaning": {
-      "en": "basement, underground",
-      "zh_TW": "basement, underground",
-      "zh_CN": "basement, underground",
-      "ko": "basement, underground",
-      "zh_HK": "basement, underground",
-      "fr": "basement, underground"
+      "en": "basement / underground",
+      "zh_TW": "地下",
+      "zh_CN": "地下",
+      "ko": "지하",
+      "zh_HK": "地庫 / 地下",
+      "fr": "sous-sol"
     },
     "example": {
       "ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>地下街<rt>ちかがい</rt></ruby>には、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>でも<ruby>濡<rt>ぬ</rt></ruby>れずに<ruby>買い物<rt>かいもの</rt></ruby>できるお<ruby>店<rt>みせ</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。",
@@ -4014,11 +4014,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "parking lot",
-      "zh_TW": "parking lot",
-      "zh_CN": "parking lot",
-      "ko": "parking lot",
-      "zh_HK": "parking lot",
-      "fr": "parking lot"
+      "zh_TW": "停車場",
+      "zh_CN": "停车场",
+      "ko": "주차장",
+      "zh_HK": "停車場",
+      "fr": "parking"
     },
     "example": {
       "ja": "<ruby>土曜日<rt>どようび</rt></ruby>のショッピングモールは<ruby>混雑<rt>こんざつ</rt></ruby>していて、<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>に<ruby>入<rt>い</rt></ruby>るまで<ruby>並<rt>なら</rt></ruby>びました。",
@@ -4042,11 +4042,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "rooftop",
-      "zh_TW": "rooftop",
-      "zh_CN": "rooftop",
-      "ko": "rooftop",
-      "zh_HK": "rooftop",
-      "fr": "rooftop"
+      "zh_TW": "屋頂 / 頂樓",
+      "zh_CN": "屋顶 / 天台",
+      "ko": "옥상",
+      "zh_HK": "天台",
+      "fr": "toit"
     },
     "example": {
       "ja": "<ruby>天気<rt>てんき</rt></ruby>のいいお<ruby>昼休<rt>ひるやす</rt></ruby>みに、オフィスの<ruby>屋上<rt>おくじょう</rt></ruby>で<ruby>街<rt>まち</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>眺<rt>なが</rt></ruby>めながらお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
@@ -4070,11 +4070,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "amusement park",
-      "zh_TW": "amusement park",
-      "zh_CN": "amusement park",
-      "ko": "amusement park",
-      "zh_HK": "amusement park",
-      "fr": "amusement park"
+      "zh_TW": "遊樂園",
+      "zh_CN": "游乐园",
+      "ko": "유원지 / 놀이공원",
+      "zh_HK": "遊樂場 / 主題公園",
+      "fr": "parc d'attractions"
     },
     "example": {
       "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>で<ruby>遊園地<rt>ゆうえんち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>大観<rt>たいかん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>車<rt>くるま</rt></ruby>やジェットコースターに<ruby>乗<rt>の</rt></ruby>りました。",
@@ -4098,11 +4098,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "library",
-      "zh_TW": "library",
-      "zh_CN": "library",
-      "ko": "library",
-      "zh_HK": "library",
-      "fr": "library"
+      "zh_TW": "圖書館",
+      "zh_CN": "图书馆",
+      "ko": "도서관",
+      "zh_HK": "圖書館",
+      "fr": "bibliothèque"
     },
     "example": {
       "ja": "<ruby>静<rt>しず</rt></ruby>かな<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>窓際<rt>まどぎわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>で、<ruby>資格<rt>しかく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>しました。",
@@ -4126,11 +4126,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "場所",
     "meaning": {
       "en": "art museum",
-      "zh_TW": "art museum",
-      "zh_CN": "art museum",
-      "ko": "art museum",
-      "zh_HK": "art museum",
-      "fr": "art museum"
+      "zh_TW": "美術館",
+      "zh_CN": "美术馆",
+      "ko": "미술관",
+      "zh_HK": "美術館",
+      "fr": "musée d'art"
     },
     "example": {
       "ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>好<rt>す</rt></ruby>きな<ruby>画家<rt>がか</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby>をゆっくり<ruby>鑑賞<rt>かんしょう</rt></ruby>しました。",
@@ -4153,12 +4153,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "えいがかん",
     "category": "場所",
     "meaning": {
-      "en": "movie theater; cinema",
-      "zh_TW": "movie theater; cinema",
-      "zh_CN": "movie theater; cinema",
-      "ko": "movie theater; cinema",
-      "zh_HK": "movie theater; cinema",
-      "fr": "movie theater; cinema"
+      "en": "movie theater",
+      "zh_TW": "電影院",
+      "zh_CN": "电影院",
+      "ko": "영화관",
+      "zh_HK": "戲院",
+      "fr": "cinéma"
     },
     "example": {
       "ja": "<ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>大画面<rt>だいがめん</rt></ruby>と<ruby>迫力<rt>はくりょく</rt></ruby>のある<ruby>音響<rt>おんきょう</rt></ruby>で<ruby>見<rt>み</rt></ruby>るアクション<ruby>映画<rt>えいが</rt></ruby>は<ruby>最高<rt>さいこう</rt></ruby>です。",
@@ -4182,10 +4182,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "animal",
-      "zh_TW": "animal",
-      "zh_CN": "animal",
-      "ko": "animal",
-      "zh_HK": "animal",
+      "zh_TW": "動物",
+      "zh_CN": "动物",
+      "ko": "동물",
+      "zh_HK": "動物",
       "fr": "animal"
     },
     "example": {
@@ -4210,11 +4210,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "dog",
-      "zh_TW": "dog",
-      "zh_CN": "dog",
-      "ko": "dog",
-      "zh_HK": "dog",
-      "fr": "dog"
+      "zh_TW": "狗",
+      "zh_CN": "狗",
+      "ko": "개 / 강아지",
+      "zh_HK": "狗",
+      "fr": "chien"
     },
     "example": {
       "ja": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>可愛<rt>かわい</rt></ruby>い<ruby>犬<rt>いぬ</rt></ruby>の<ruby>散歩<rt>さんぽ</rt></ruby>をしています。",
@@ -4238,11 +4238,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "cat",
-      "zh_TW": "cat",
-      "zh_CN": "cat",
-      "ko": "cat",
-      "zh_HK": "cat",
-      "fr": "cat"
+      "zh_TW": "貓",
+      "zh_CN": "猫",
+      "ko": "고양이",
+      "zh_HK": "貓",
+      "fr": "chat"
     },
     "example": {
       "ja": "<ruby>家<rt>いえ</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>い<ruby>猫<rt>ねこ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。とてもおとなしいです。",
@@ -4265,12 +4265,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "うし",
     "category": "動物",
     "meaning": {
-      "en": "cow",
-      "zh_TW": "cow",
-      "zh_CN": "cow",
-      "ko": "cow",
-      "zh_HK": "cow",
-      "fr": "cow"
+      "en": "cow / cattle",
+      "zh_TW": "牛",
+      "zh_CN": "牛",
+      "ko": "소",
+      "zh_HK": "牛",
+      "fr": "vache / bœuf"
     },
     "example": {
       "ja": "<ruby>牧場<rt>ぼくじょう</rt></ruby>で<ruby>牛<rt>うし</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>新鮮<rt>しんせん</rt></ruby>なミルクを<ruby>飲<rt>の</rt></ruby>みました。",
@@ -4293,12 +4293,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "ぶた",
     "category": "動物",
     "meaning": {
-      "en": "pig, pork",
-      "zh_TW": "pig, pork",
-      "zh_CN": "pig, pork",
-      "ko": "pig, pork",
-      "zh_HK": "pig, pork",
-      "fr": "pig, pork"
+      "en": "pig / pork",
+      "zh_TW": "豬",
+      "zh_CN": "猪",
+      "ko": "돼지",
+      "zh_HK": "豬",
+      "fr": "cochon / porc"
     },
     "example": {
       "ja": "<ruby>牧場<rt>ぼくじょう</rt></ruby>には<ruby>小<rt>ちい</rt></ruby>さくて<ruby>可愛<rt>かわい</rt></ruby>い<ruby>子豚<rt>こぶた</rt></ruby>がたくさんいました。",
@@ -4322,11 +4322,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "fish",
-      "zh_TW": "fish",
-      "zh_CN": "fish",
-      "ko": "fish",
-      "zh_HK": "fish",
-      "fr": "fish"
+      "zh_TW": "魚",
+      "zh_CN": "鱼",
+      "ko": "물고기 / 생선",
+      "zh_HK": "魚",
+      "fr": "poisson"
     },
     "example": {
       "ja": "<ruby>水族館<rt>すいぞくかん</rt></ruby>でいろいろな<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
@@ -4350,11 +4350,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "bird",
-      "zh_TW": "bird",
-      "zh_CN": "bird",
-      "ko": "bird",
-      "zh_HK": "bird",
-      "fr": "bird"
+      "zh_TW": "鳥",
+      "zh_CN": "鸟",
+      "ko": "새",
+      "zh_HK": "雀 / 鳥",
+      "fr": "oiseau"
     },
     "example": {
       "ja": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>木<rt>き</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>がきれいな<ruby>声<rt>こえ</rt></ruby>で<ruby>鳴<rt>な</rt></ruby>いています。",
@@ -4378,11 +4378,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "chicken",
-      "zh_TW": "chicken",
-      "zh_CN": "chicken",
-      "ko": "chicken",
-      "zh_HK": "chicken",
-      "fr": "chicken"
+      "zh_TW": "雞",
+      "zh_CN": "鸡",
+      "ko": "닭",
+      "zh_HK": "雞",
+      "fr": "poulet / poule"
     },
     "example": {
       "ja": "<ruby>祖母<rt>そぼ</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>で<ruby>鶏<rt>にわとり</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。",
@@ -4406,11 +4406,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "horse",
-      "zh_TW": "horse",
-      "zh_CN": "horse",
-      "ko": "horse",
-      "zh_HK": "horse",
-      "fr": "horse"
+      "zh_TW": "馬",
+      "zh_CN": "马",
+      "ko": "말",
+      "zh_HK": "馬",
+      "fr": "cheval"
     },
     "example": {
       "ja": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>北海道<rt>ほっかいどう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って、<ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。",
@@ -4434,11 +4434,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "monkey",
-      "zh_TW": "monkey",
-      "zh_CN": "monkey",
-      "ko": "monkey",
-      "zh_HK": "monkey",
-      "fr": "monkey"
+      "zh_TW": "猴子",
+      "zh_CN": "猴子",
+      "ko": "원숭이",
+      "zh_HK": "馬騮 / 猴子",
+      "fr": "singe"
     },
     "example": {
       "ja": "<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>猿<rt>さる</rt></ruby>をテレビで<ruby>見<rt>み</rt></ruby>ました。",
@@ -4462,11 +4462,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "elephant",
-      "zh_TW": "elephant",
-      "zh_CN": "elephant",
-      "ko": "elephant",
-      "zh_HK": "elephant",
-      "fr": "elephant"
+      "zh_TW": "大象",
+      "zh_CN": "大象",
+      "ko": "코끼리",
+      "zh_HK": "大象",
+      "fr": "éléphant"
     },
     "example": {
       "ja": "<ruby>動物園<rt>どうぶつえん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>象<rt>ぞう</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>大人気<rt>だいにんき</rt></ruby>です。",
@@ -4490,11 +4490,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "giraffe",
-      "zh_TW": "giraffe",
-      "zh_CN": "giraffe",
-      "ko": "giraffe",
-      "zh_HK": "giraffe",
-      "fr": "giraffe"
+      "zh_TW": "長頸鹿",
+      "zh_CN": "长颈鹿",
+      "ko": "기린",
+      "zh_HK": "長頸鹿",
+      "fr": "girafe"
     },
     "example": {
       "ja": "きりんは<ruby>首<rt>くび</rt></ruby>がとても<ruby>長<rt>なが</rt></ruby>くて、<ruby>高<rt>たか</rt></ruby>い<ruby>木<rt>き</rt></ruby>の<ruby>葉<rt>は</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
@@ -4518,11 +4518,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "snake",
-      "zh_TW": "snake",
-      "zh_CN": "snake",
-      "ko": "snake",
-      "zh_HK": "snake",
-      "fr": "snake"
+      "zh_TW": "蛇",
+      "zh_CN": "蛇",
+      "ko": "뱀",
+      "zh_HK": "蛇",
+      "fr": "serpent"
     },
     "example": {
       "ja": "<ruby>山<rt>やま</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くときは、<ruby>足元<rt>あしもと</rt></ruby>の<ruby>蛇<rt>へび</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください。",
@@ -4546,11 +4546,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "bear",
-      "zh_TW": "bear",
-      "zh_CN": "bear",
-      "ko": "bear",
-      "zh_HK": "bear",
-      "fr": "bear"
+      "zh_TW": "熊",
+      "zh_CN": "熊",
+      "ko": "곰",
+      "zh_HK": "熊",
+      "fr": "ours"
     },
     "example": {
       "ja": "<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るときは、<ruby>熊<rt>くま</rt></ruby>よけの<ruby>鈴<rt>すず</rt></ruby>をつけます。",
@@ -4574,10 +4574,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "panda",
-      "zh_TW": "panda",
-      "zh_CN": "panda",
-      "ko": "panda",
-      "zh_HK": "panda",
+      "zh_TW": "貓熊 / 熊貓",
+      "zh_CN": "熊猫",
+      "ko": "판다",
+      "zh_HK": "熊貓",
       "fr": "panda"
     },
     "example": {
@@ -4602,11 +4602,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "動物",
     "meaning": {
       "en": "monster",
-      "zh_TW": "monster",
-      "zh_CN": "monster",
-      "ko": "monster",
-      "zh_HK": "monster",
-      "fr": "monster"
+      "zh_TW": "怪獸",
+      "zh_CN": "怪兽",
+      "ko": "괴수 / 괴물",
+      "zh_HK": "怪獸",
+      "fr": "monstre"
     },
     "example": {
       "ja": "<ruby>子<rt>こ</rt></ruby>どもたちがテレビで<ruby>怪獣<rt>かいじゅう</rt></ruby>のアニメを<ruby>夢中<rt>むちゅう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ています。",
@@ -4630,11 +4630,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "student",
-      "zh_TW": "student",
-      "zh_CN": "student",
-      "ko": "student",
-      "zh_HK": "student",
-      "fr": "student"
+      "zh_TW": "學生",
+      "zh_CN": "学生",
+      "ko": "학생",
+      "zh_HK": "學生",
+      "fr": "étudiant(e)"
     },
     "example": {
       "ja": "A: <ruby>妹<rt>いもうと</rt></ruby>さんは<ruby>高校生<rt>こうこうせい</rt></ruby>ですか？<br/>B: はい、この<ruby>春<rt>はる</rt></ruby>から<ruby>高校<rt>こうこう</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>になりました。",
@@ -4657,12 +4657,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しょくぎょう",
     "category": "職業/身分",
     "meaning": {
-      "en": "occupation",
-      "zh_TW": "occupation",
-      "zh_CN": "occupation",
-      "ko": "occupation",
-      "zh_HK": "occupation",
-      "fr": "occupation"
+      "en": "occupation / profession",
+      "zh_TW": "職業",
+      "zh_CN": "职业",
+      "ko": "직업",
+      "zh_HK": "職業",
+      "fr": "profession / métier"
     },
     "example": {
       "ja": "A: <ruby>将来<rt>しょうらい</rt></ruby>、どんな<ruby>職業<rt>しょくぎょう</rt></ruby>に<ruby>就<rt>つ</rt></ruby>きたいですか？<br/>B: <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>になりたいです。",
@@ -4685,12 +4685,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "しごと",
     "category": "職業/身分",
     "meaning": {
-      "en": "work, job",
-      "zh_TW": "work, job",
-      "zh_CN": "work, job",
-      "ko": "work, job",
-      "zh_HK": "work, job",
-      "fr": "work, job"
+      "en": "work / job",
+      "zh_TW": "工作",
+      "zh_CN": "工作",
+      "ko": "일 / 직업",
+      "zh_HK": "工作 / 返工",
+      "fr": "travail"
     },
     "example": {
       "ja": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>大事<rt>だいじ</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>があります。<br/>しっかり<ruby>準備<rt>じゅんび</rt></ruby>しておきます。",
@@ -4714,11 +4714,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "baby",
-      "zh_TW": "baby",
-      "zh_CN": "baby",
-      "ko": "baby",
-      "zh_HK": "baby",
-      "fr": "baby"
+      "zh_TW": "嬰兒 / 寶寶",
+      "zh_CN": "婴儿 / 宝宝",
+      "ko": "아기",
+      "zh_HK": "BB / 嬰兒",
+      "fr": "bébé"
     },
     "example": {
       "ja": "A: <ruby>可愛<rt>かわい</rt></ruby>い<ruby>赤<rt>あか</rt></ruby>ちゃんですね！<ruby>今<rt>いま</rt></ruby>、<ruby>何<rt>なん</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>ですか？<br/>B: ありがとうございます。<ruby>生後<rt>せいご</rt></ruby>6か<ruby>月<rt>げつ</rt></ruby>です。",
@@ -4741,12 +4741,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "こども",
     "category": "職業/身分",
     "meaning": {
-      "en": "child, children",
-      "zh_TW": "child, children",
-      "zh_CN": "child, children",
-      "ko": "child, children",
-      "zh_HK": "child, children",
-      "fr": "child, children"
+      "en": "child / children",
+      "zh_TW": "孩子 / 兒童",
+      "zh_CN": "孩子 / 儿童",
+      "ko": "아이 / 어린이",
+      "zh_HK": "細路 / 小朋友",
+      "fr": "enfant"
     },
     "example": {
       "ja": "<ruby>公園<rt>こうえん</rt></ruby>でたくさんの<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>元気に<rt>げんきに</rt></ruby><ruby>遊<rt>あそ</rt></ruby>んでいます。",
@@ -4770,11 +4770,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "adult",
-      "zh_TW": "adult",
-      "zh_CN": "adult",
-      "ko": "adult",
-      "zh_HK": "adult",
-      "fr": "adult"
+      "zh_TW": "大人 / 成年人",
+      "zh_CN": "大人 / 成年人",
+      "ko": "어른",
+      "zh_HK": "大人 / 成人",
+      "fr": "adulte"
     },
     "example": {
       "ja": "<ruby>映画<rt>えいが</rt></ruby>のチケットは、<ruby>大人<rt>おとな</rt></ruby>が<ruby>千八百円<rt>せんはっぴゃくえん</rt></ruby>です。",
@@ -4798,11 +4798,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "elementary school student",
-      "zh_TW": "elementary school student",
-      "zh_CN": "elementary school student",
-      "ko": "elementary school student",
-      "zh_HK": "elementary school student",
-      "fr": "elementary school student"
+      "zh_TW": "小學生",
+      "zh_CN": "小学生",
+      "ko": "초등학생",
+      "zh_HK": "小學生",
+      "fr": "élève du primaire"
     },
     "example": {
       "ja": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby>たちが、<ruby>元気<rt>げんき</rt></ruby>に<ruby>登校<rt>とうこう</rt></ruby>しています。",
@@ -4826,11 +4826,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "junior high school student",
-      "zh_TW": "junior high school student",
-      "zh_CN": "junior high school student",
-      "ko": "junior high school student",
-      "zh_HK": "junior high school student",
-      "fr": "junior high school student"
+      "zh_TW": "國中生",
+      "zh_CN": "初中生",
+      "ko": "중학생",
+      "zh_HK": "中學生",
+      "fr": "collégien(ne)"
     },
     "example": {
       "ja": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から<ruby>中学生<rt>ちゅうがくせい</rt></ruby>になって、<ruby>英語<rt>えいご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。",
@@ -4854,11 +4854,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "high school student",
-      "zh_TW": "high school student",
-      "zh_CN": "high school student",
-      "ko": "high school student",
-      "zh_HK": "high school student",
-      "fr": "high school student"
+      "zh_TW": "高中生",
+      "zh_CN": "高中生",
+      "ko": "고등학생",
+      "zh_HK": "高中生",
+      "fr": "lycéen(ne)"
     },
     "example": {
       "ja": "A: <ruby>妹<rt>いもうと</rt></ruby>さんは<ruby>高校生<rt>こうこうせい</rt></ruby>ですか？<br/>B: はい、<ruby>高校<rt>こうこう</rt></ruby>2<ruby>年生<rt>ねんせい</rt></ruby>です。",
@@ -4882,11 +4882,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "university student",
-      "zh_TW": "university student",
-      "zh_CN": "university student",
-      "ko": "university student",
-      "zh_HK": "university student",
-      "fr": "university student"
+      "zh_TW": "大學生",
+      "zh_CN": "大学生",
+      "ko": "대학생",
+      "zh_HK": "大學生",
+      "fr": "étudiant(e) d'université"
     },
     "example": {
       "ja": "A: お<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をされていますか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>で、<ruby>経済<rt>けいざい</rt></ruby>を<ruby>学<rt>まな</rt></ruby>んでいます。",
@@ -4910,11 +4910,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "international student",
-      "zh_TW": "international student",
-      "zh_CN": "international student",
-      "ko": "international student",
-      "zh_HK": "international student",
-      "fr": "international student"
+      "zh_TW": "留學生",
+      "zh_CN": "留学生",
+      "ko": "유학생",
+      "zh_HK": "留學生",
+      "fr": "étudiant(e) étranger(ère)"
     },
     "example": {
       "ja": "<ruby>大学<rt>だいがく</rt></ruby>のキャンパスで、<ruby>台湾<rt>たいわん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しました。",
@@ -4994,11 +4994,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "company employee",
-      "zh_TW": "company employee",
-      "zh_CN": "company employee",
-      "ko": "company employee",
-      "zh_HK": "company employee",
-      "fr": "company employee"
+      "zh_TW": "公司職員",
+      "zh_CN": "公司职员",
+      "ko": "회사원",
+      "zh_HK": "公司職員 / 打工仔",
+      "fr": "employé(e) d'entreprise"
     },
     "example": {
       "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>をしています。",
@@ -5022,11 +5022,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "doctor",
-      "zh_TW": "doctor",
-      "zh_CN": "doctor",
-      "ko": "doctor",
-      "zh_HK": "doctor",
-      "fr": "doctor"
+      "zh_TW": "醫生",
+      "zh_CN": "医生",
+      "ko": "의사",
+      "zh_HK": "醫生",
+      "fr": "médecin"
     },
     "example": {
       "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、<ruby>病院<rt>びょういん</rt></ruby>で<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>診<rt>み</rt></ruby>てもらいました。",
@@ -5050,11 +5050,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "nurse",
-      "zh_TW": "nurse",
-      "zh_CN": "nurse",
-      "ko": "nurse",
-      "zh_HK": "nurse",
-      "fr": "nurse"
+      "zh_TW": "護理師 / 護士",
+      "zh_CN": "护士",
+      "ko": "간호사",
+      "zh_HK": "護士",
+      "fr": "infirmier(ère)"
     },
     "example": {
       "ja": "A: <ruby>小林<rt>こばやし</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>をしています。",
@@ -5078,11 +5078,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "bank employee",
-      "zh_TW": "bank employee",
-      "zh_CN": "bank employee",
-      "ko": "bank employee",
-      "zh_HK": "bank employee",
-      "fr": "bank employee"
+      "zh_TW": "銀行行員",
+      "zh_CN": "银行职员",
+      "ko": "은행원",
+      "zh_HK": "銀行職員",
+      "fr": "employé(e) de banque"
     },
     "example": {
       "ja": "A: <ruby>鈴木<rt>すずき</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>銀行員<rt>ぎんこういん</rt></ruby>をしています。",
@@ -5105,12 +5105,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "せんせい",
     "category": "職業/身分",
     "meaning": {
-      "en": "teacher",
-      "zh_TW": "teacher",
-      "zh_CN": "teacher",
-      "ko": "teacher",
-      "zh_HK": "teacher",
-      "fr": "teacher"
+      "en": "teacher / doctor",
+      "zh_TW": "老師 / 醫生",
+      "zh_CN": "老师 / 医生",
+      "ko": "선생님",
+      "zh_HK": "老師 / 先生",
+      "fr": "professeur / maître"
     },
     "example": {
       "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれた<ruby>先生<rt>せんせい</rt></ruby>にお<ruby>礼<rt>れい</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。<br/>B: きっと<ruby>先生<rt>せんせい</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>んでくれますね！",
@@ -5133,12 +5133,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "こうむいん",
     "category": "職業/身分",
     "meaning": {
-      "en": "government worker",
-      "zh_TW": "government worker",
-      "zh_CN": "government worker",
-      "ko": "government worker",
-      "zh_HK": "government worker",
-      "fr": "government worker"
+      "en": "civil servant",
+      "zh_TW": "公務員",
+      "zh_CN": "公务员",
+      "ko": "공무원",
+      "zh_HK": "公務員",
+      "fr": "fonctionnaire"
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>市役所<rt>しやくしょ</rt></ruby>で<ruby>公務員<rt>こうむいん</rt></ruby>をしています。",
@@ -5162,11 +5162,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "lawyer",
-      "zh_TW": "lawyer",
-      "zh_CN": "lawyer",
-      "ko": "lawyer",
-      "zh_HK": "lawyer",
-      "fr": "lawyer"
+      "zh_TW": "律師",
+      "zh_CN": "律师",
+      "ko": "변호사",
+      "zh_HK": "律師",
+      "fr": "avocat(e)"
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>弁護士<rt>べんごし</rt></ruby>をしています。",
@@ -5190,11 +5190,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "police officer",
-      "zh_TW": "police officer",
-      "zh_CN": "police officer",
-      "ko": "police officer",
-      "zh_HK": "police officer",
-      "fr": "police officer"
+      "zh_TW": "警察",
+      "zh_CN": "警察",
+      "ko": "경찰관",
+      "zh_HK": "警察",
+      "fr": "policier(ère)"
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さんのお<ruby>仕事<rt>しごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>は<ruby>警察官<rt>けいさつかん</rt></ruby>をしています。",
@@ -5218,11 +5218,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "driver",
-      "zh_TW": "driver",
-      "zh_CN": "driver",
-      "ko": "driver",
-      "zh_HK": "driver",
-      "fr": "driver"
+      "zh_TW": "司機",
+      "zh_CN": "司机",
+      "ko": "운전기사",
+      "zh_HK": "司機",
+      "fr": "chauffeur"
     },
     "example": {
       "ja": "バスの<ruby>運転手<rt>うんてんしゅ</rt></ruby>さんが、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>してくれました。",
@@ -5245,12 +5245,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "てんいん",
     "category": "職業/身分",
     "meaning": {
-      "en": "store clerk",
-      "zh_TW": "store clerk",
-      "zh_CN": "store clerk",
-      "ko": "store clerk",
-      "zh_HK": "store clerk",
-      "fr": "store clerk"
+      "en": "shop staff / clerk",
+      "zh_TW": "店員",
+      "zh_CN": "店员",
+      "ko": "점원",
+      "zh_HK": "店員 / 店員哥哥姐姐",
+      "fr": "vendeur(euse) / employé(e)"
     },
     "example": {
       "ja": "コンビニの<ruby>店員<rt>てんいん</rt></ruby>さんが、とても<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>してくれました。",
@@ -5274,11 +5274,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "part-time job",
-      "zh_TW": "part-time job",
-      "zh_CN": "part-time job",
-      "ko": "part-time job",
-      "zh_HK": "part-time job",
-      "fr": "part-time job"
+      "zh_TW": "打工 / 兼職",
+      "zh_CN": "兼职 / 打工",
+      "ko": "아르바이트",
+      "zh_HK": "兼職 / 散工",
+      "fr": "travail à temps partiel"
     },
     "example": {
       "ja": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で、カフェでアルバイトをしています。",
@@ -5302,11 +5302,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "singer",
-      "zh_TW": "singer",
-      "zh_CN": "singer",
-      "ko": "singer",
-      "zh_HK": "singer",
-      "fr": "singer"
+      "zh_TW": "歌手",
+      "zh_CN": "歌手",
+      "ko": "가수",
+      "zh_HK": "歌手",
+      "fr": "chanteur(euse)"
     },
     "example": {
       "ja": "A: <ruby>好<rt>す</rt></ruby>きな<ruby>歌手<rt>かしゅ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか？<br/>B: <ruby>日本<rt>にほん</rt></ruby>のポップスを<ruby>歌<rt>うた</rt></ruby>う<ruby>歌手<rt>かしゅ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
@@ -5329,12 +5329,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "はいゆう",
     "category": "職業/身分",
     "meaning": {
-      "en": "actor/actress",
-      "zh_TW": "actor/actress",
-      "zh_CN": "actor/actress",
-      "ko": "actor/actress",
-      "zh_HK": "actor/actress",
-      "fr": "actor/actress"
+      "en": "actor",
+      "zh_TW": "演員",
+      "zh_CN": "演员",
+      "ko": "배우",
+      "zh_HK": "演員",
+      "fr": "acteur"
     },
     "example": {
       "ja": "A: あのドラマの<ruby>俳優<rt>はいゆう</rt></ruby>さん、<ruby>演技<rt>えんぎ</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>ですね。<br/>B: ええ、<ruby>私<rt>わたし</rt></ruby>も<ruby>大好<rt>だいす</rt></ruby>きな<ruby>俳優<rt>はいゆう</rt></ruby>です。",
@@ -5358,11 +5358,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "職業/身分",
     "meaning": {
       "en": "actress",
-      "zh_TW": "actress",
-      "zh_CN": "actress",
-      "ko": "actress",
-      "zh_HK": "actress",
-      "fr": "actress"
+      "zh_TW": "女演員",
+      "zh_CN": "女演员",
+      "ko": "여배우",
+      "zh_HK": "女演員",
+      "fr": "actrice"
     },
     "example": {
       "ja": "A: <ruby>好<rt>す</rt></ruby>きな<ruby>女優<rt>じょゆう</rt></ruby>さんはいますか？<br/>B: あの<ruby>映画<rt>えいが</rt></ruby>に<ruby>出<rt>で</rt></ruby>ていた<ruby>女優<rt>じょゆう</rt></ruby>さんのファンです。",
@@ -5386,11 +5386,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "country",
-      "zh_TW": "country",
-      "zh_CN": "country",
-      "ko": "country",
-      "zh_HK": "country",
-      "fr": "country"
+      "zh_TW": "國家",
+      "zh_CN": "国家",
+      "ko": "나라 / 국가",
+      "zh_HK": "國家",
+      "fr": "pays"
     },
     "example": {
       "ja": "A: <ruby>日本<rt>にほん</rt></ruby>のほかに、どの<ruby>国<rt>くに</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: フランスとカナダへ<ruby>行<rt>い</rt></ruby>ったことがあります。",
@@ -5414,11 +5414,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "map",
-      "zh_TW": "map",
-      "zh_CN": "map",
-      "ko": "map",
-      "zh_HK": "map",
-      "fr": "map"
+      "zh_TW": "地圖",
+      "zh_CN": "地图",
+      "ko": "지도",
+      "zh_HK": "地圖",
+      "fr": "carte / plan"
     },
     "example": {
       "ja": "スマートフォンの<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら、レストランへ<ruby>向<rt>む</rt></ruby>かいました。",
@@ -5442,11 +5442,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "world",
-      "zh_TW": "world",
-      "zh_CN": "world",
-      "ko": "world",
-      "zh_HK": "world",
-      "fr": "world"
+      "zh_TW": "世界",
+      "zh_CN": "世界",
+      "ko": "세계",
+      "zh_HK": "世界",
+      "fr": "monde"
     },
     "example": {
       "ja": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>を<ruby>旅<rt>たび</rt></ruby>してみたいです。",
@@ -5554,10 +5554,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "village",
-      "zh_TW": "village",
-      "zh_CN": "village",
-      "ko": "village",
-      "zh_HK": "village",
+      "zh_TW": "村莊",
+      "zh_CN": "村子 / 村庄",
+      "ko": "마을 / 촌",
+      "zh_HK": "村",
       "fr": "village"
     },
     "example": {
@@ -5582,11 +5582,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Japan",
-      "zh_TW": "Japan",
-      "zh_CN": "Japan",
-      "ko": "Japan",
-      "zh_HK": "Japan",
-      "fr": "Japan"
+      "zh_TW": "日本",
+      "zh_CN": "日本",
+      "ko": "일본",
+      "zh_HK": "日本",
+      "fr": "Japon"
     },
     "example": {
       "ja": "A: <ruby>日本<rt>にほん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5610,10 +5610,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Tokyo",
-      "zh_TW": "Tokyo",
-      "zh_CN": "Tokyo",
-      "ko": "Tokyo",
-      "zh_HK": "Tokyo",
+      "zh_TW": "東京",
+      "zh_CN": "东京",
+      "ko": "도쿄",
+      "zh_HK": "東京",
       "fr": "Tokyo"
     },
     "example": {
@@ -5638,10 +5638,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Osaka",
-      "zh_TW": "Osaka",
-      "zh_CN": "Osaka",
-      "ko": "Osaka",
-      "zh_HK": "Osaka",
+      "zh_TW": "大阪",
+      "zh_CN": "大阪",
+      "ko": "오사카",
+      "zh_HK": "大阪",
       "fr": "Osaka"
     },
     "example": {
@@ -5666,10 +5666,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Nagoya",
-      "zh_TW": "Nagoya",
-      "zh_CN": "Nagoya",
-      "ko": "Nagoya",
-      "zh_HK": "Nagoya",
+      "zh_TW": "名古屋",
+      "zh_CN": "名古屋",
+      "ko": "나고야",
+      "zh_HK": "名古屋",
       "fr": "Nagoya"
     },
     "example": {
@@ -5694,10 +5694,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Vietnam",
-      "zh_TW": "Vietnam",
-      "zh_CN": "Vietnam",
-      "ko": "Vietnam",
-      "zh_HK": "Vietnam",
+      "zh_TW": "越南",
+      "zh_CN": "越南",
+      "ko": "베트남",
+      "zh_HK": "越南",
       "fr": "Vietnam"
     },
     "example": {
@@ -5722,11 +5722,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "India",
-      "zh_TW": "India",
-      "zh_CN": "India",
-      "ko": "India",
-      "zh_HK": "India",
-      "fr": "India"
+      "zh_TW": "印度",
+      "zh_CN": "印度",
+      "ko": "인도",
+      "zh_HK": "印度",
+      "fr": "Inde"
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんはインドへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>インドへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5750,11 +5750,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Mexico",
-      "zh_TW": "Mexico",
-      "zh_CN": "Mexico",
-      "ko": "Mexico",
-      "zh_HK": "Mexico",
-      "fr": "Mexico"
+      "zh_TW": "墨西哥",
+      "zh_CN": "墨西哥",
+      "ko": "멕시코",
+      "zh_HK": "墨西哥",
+      "fr": "Mexique"
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さんはメキシコへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>メキシコへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5778,11 +5778,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Indonesia",
-      "zh_TW": "Indonesia",
-      "zh_CN": "Indonesia",
-      "ko": "Indonesia",
-      "zh_HK": "Indonesia",
-      "fr": "Indonesia"
+      "zh_TW": "印尼",
+      "zh_CN": "印度尼西亚",
+      "ko": "인도네시아",
+      "zh_HK": "印尼",
+      "fr": "Indonésie"
     },
     "example": {
       "ja": "A: <ruby>山本<rt>やまもと</rt></ruby>さんはインドネシアへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>インドネシアへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5805,12 +5805,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "アメリカ",
     "category": "国/地名",
     "meaning": {
-      "en": "America",
-      "zh_TW": "America",
-      "zh_CN": "America",
-      "ko": "America",
-      "zh_HK": "America",
-      "fr": "America"
+      "en": "USA / America",
+      "zh_TW": "美國",
+      "zh_CN": "美国",
+      "ko": "미국",
+      "zh_HK": "美國",
+      "fr": "États-Unis"
     },
     "example": {
       "ja": "<ruby>親友<rt>しんゆう</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>アメリカ<rt>あめりか</rt></ruby>のニューヨークに<ruby>住<rt>す</rt></ruby>んでいて、<ruby>毎日<rt>まいにち</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>合<rt>あ</rt></ruby>っています。",
@@ -5833,12 +5833,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "イギリス",
     "category": "国/地名",
     "meaning": {
-      "en": "UK",
-      "zh_TW": "UK",
-      "zh_CN": "UK",
-      "ko": "UK",
-      "zh_HK": "UK",
-      "fr": "UK"
+      "en": "UK / Britain",
+      "zh_TW": "英國",
+      "zh_CN": "英国",
+      "ko": "영국",
+      "zh_HK": "英國",
+      "fr": "Royaume-Uni"
     },
     "example": {
       "ja": "A: <ruby>高橋<rt>たかはし</rt></ruby>さんはイギリスへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>イギリスへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5862,11 +5862,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "China",
-      "zh_TW": "China",
-      "zh_CN": "China",
-      "ko": "China",
-      "zh_HK": "China",
-      "fr": "China"
+      "zh_TW": "中國",
+      "zh_CN": "中国",
+      "ko": "중국",
+      "zh_HK": "中國",
+      "fr": "Chine"
     },
     "example": {
       "ja": "A: <ruby>渡辺<rt>わたなべ</rt></ruby>さんは<ruby>中国<rt>ちゅうごく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby><ruby>中国<rt>ちゅうごく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
@@ -5890,11 +5890,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "South Korea",
-      "zh_TW": "South Korea",
-      "zh_CN": "South Korea",
-      "ko": "South Korea",
-      "zh_HK": "South Korea",
-      "fr": "South Korea"
+      "zh_TW": "韓國",
+      "zh_CN": "韩国",
+      "ko": "한국",
+      "zh_HK": "韓國",
+      "fr": "Corée du Sud"
     },
     "example": {
       "ja": "A: <ruby>韓国<rt>かんこく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですか？<br/>B: はい、ビビンバやキムチが<ruby>大好<rt>だいす</rt></ruby>きです！",
@@ -5947,10 +5947,10 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Hong Kong",
-      "zh_TW": "Hong Kong",
-      "zh_CN": "Hong Kong",
-      "ko": "Hong Kong",
-      "zh_HK": "Hong Kong",
+      "zh_TW": "香港",
+      "zh_CN": "香港",
+      "ko": "홍콩",
+      "zh_HK": "香港",
       "fr": "Hong Kong"
     },
     "example": {
@@ -5975,11 +5975,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Thailand",
-      "zh_TW": "Thailand",
-      "zh_CN": "Thailand",
-      "ko": "Thailand",
-      "zh_HK": "Thailand",
-      "fr": "Thailand"
+      "zh_TW": "泰國",
+      "zh_CN": "泰国",
+      "ko": "태국",
+      "zh_HK": "泰國",
+      "fr": "Thaïlande"
     },
     "example": {
       "ja": "A: <ruby>中村<rt>なかむら</rt></ruby>さんはタイへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>タイへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -6003,11 +6003,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "国/地名",
     "meaning": {
       "en": "Malaysia",
-      "zh_TW": "Malaysia",
-      "zh_CN": "Malaysia",
-      "ko": "Malaysia",
-      "zh_HK": "Malaysia",
-      "fr": "Malaysia"
+      "zh_TW": "馬來西亞",
+      "zh_CN": "马来西亚",
+      "ko": "말레이시아",
+      "zh_HK": "馬來西亞",
+      "fr": "Malaisie"
     },
     "example": {
       "ja": "A: <ruby>佐藤<rt>さとう</rt></ruby>さんはマレーシアへ<ruby>行<rt>い</rt></ruby>ったことがありますか？<br/>B: はい、<ruby>去年<rt>きょねん</rt></ruby>マレーシアへ<ruby>行<rt>い</rt></ruby>きました。",
@@ -6031,11 +6031,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "体の名前",
     "meaning": {
       "en": "body",
-      "zh_TW": "body",
-      "zh_CN": "body",
-      "ko": "body",
-      "zh_HK": "body",
-      "fr": "body"
+      "zh_TW": "身體",
+      "zh_CN": "身体",
+      "ko": "몸 / 신체",
+      "zh_HK": "身體",
+      "fr": "corps"
     },
     "example": {
       "ja": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>体<rt>からだ</rt></ruby>をしっかり<ruby>動<rt>うご</rt></ruby>かして<ruby>運動<rt>うんどう</rt></ruby>しましょう。",
@@ -8103,11 +8103,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "what month",
-      "zh_TW": "what month",
-      "zh_CN": "what month",
-      "ko": "what month",
-      "zh_HK": "what month",
-      "fr": "what month"
+      "zh_TW": "幾月",
+      "zh_CN": "几月",
+      "ko": "몇 월",
+      "zh_HK": "幾月",
+      "fr": "quel mois"
     },
     "example": {
       "ja": "A: お<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby>ですか？<br/>B: <ruby>8月<rt>はちがつ</rt></ruby>です。",
@@ -8187,11 +8187,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Monday",
-      "zh_TW": "Monday",
-      "zh_CN": "Monday",
-      "ko": "Monday",
-      "zh_HK": "Monday",
-      "fr": "Monday"
+      "zh_TW": "星期一",
+      "zh_CN": "星期一",
+      "ko": "월요일",
+      "zh_HK": "星期一",
+      "fr": "lundi"
     },
     "example": {
       "ja": "<ruby>月曜日<rt>げつようび</rt></ruby>は<ruby>毎週<rt>まいしゅう</rt></ruby>ミーティングがあります。<br/><ruby>気持<rt>きも</rt></ruby>ちを<ruby>切り替<rt>きりか</rt></ruby>えてがんばりましょう。",
@@ -8215,11 +8215,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Tuesday",
-      "zh_TW": "Tuesday",
-      "zh_CN": "Tuesday",
-      "ko": "Tuesday",
-      "zh_HK": "Tuesday",
-      "fr": "Tuesday"
+      "zh_TW": "星期二",
+      "zh_CN": "星期二",
+      "ko": "화요일",
+      "zh_HK": "星期二",
+      "fr": "mardi"
     },
     "example": {
       "ja": "<ruby>火曜日<rt>かようび</rt></ruby>はゴミ<ruby>出<rt>だ</rt></ruby>しの<ruby>日<rt>ひ</rt></ruby>です。<br/><ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>までに<ruby>出<rt>だ</rt></ruby>します。",
@@ -8243,11 +8243,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Wednesday",
-      "zh_TW": "Wednesday",
-      "zh_CN": "Wednesday",
-      "ko": "Wednesday",
-      "zh_HK": "Wednesday",
-      "fr": "Wednesday"
+      "zh_TW": "星期三",
+      "zh_CN": "星期三",
+      "ko": "수요일",
+      "zh_HK": "星期三",
+      "fr": "mercredi"
     },
     "example": {
       "ja": "<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby>デーです。<br/><ruby>仕事<rt>しごと</rt></ruby><ruby>帰<rt>がえ</rt></ruby>りに<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。",
@@ -8271,11 +8271,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Thursday",
-      "zh_TW": "Thursday",
-      "zh_CN": "Thursday",
-      "ko": "Thursday",
-      "zh_HK": "Thursday",
-      "fr": "Thursday"
+      "zh_TW": "星期四",
+      "zh_CN": "星期四",
+      "ko": "목요일",
+      "zh_HK": "星期四",
+      "fr": "jeudi"
     },
     "example": {
       "ja": "<ruby>木曜日<rt>もくようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>りました。<br/><ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってきます。",
@@ -8327,11 +8327,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Saturday",
-      "zh_TW": "Saturday",
-      "zh_CN": "Saturday",
-      "ko": "Saturday",
-      "zh_HK": "Saturday",
-      "fr": "Saturday"
+      "zh_TW": "星期六",
+      "zh_CN": "星期六",
+      "ko": "토요일",
+      "zh_HK": "星期六",
+      "fr": "samedi"
     },
     "example": {
       "ja": "<ruby>土曜日<rt>どようび</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>ゆっくり<ruby>起<rt>お</rt></ruby>きます。<br/>お<ruby>気に入<rt>きにい</rt></ruby>りのカフェへ<ruby>行<rt>い</rt></ruby>きます。",
@@ -8355,11 +8355,11 @@ window.INITIAL_VOCAB_DATA = [
     "category": "時間/時間帯",
     "meaning": {
       "en": "Sunday",
-      "zh_TW": "Sunday",
-      "zh_CN": "Sunday",
-      "ko": "Sunday",
-      "zh_HK": "Sunday",
-      "fr": "Sunday"
+      "zh_TW": "星期日 / 星期天",
+      "zh_CN": "星期日 / 星期天",
+      "ko": "일요일",
+      "zh_HK": "星期日 / 禮拜日",
+      "fr": "dimanche"
     },
     "example": {
       "ja": "<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごします。<br/><ruby>公園<rt>こうえん</rt></ruby>へ<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますよ。",
@@ -9834,7 +9834,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "剛才",
       "ko": "방금 / 방금 전에",
       "zh_HK": "剛才",
-      "fr": "just now (seconds to minutes ago)"
+      "fr": "right now / this very moment"
     },
     "example": {
       "ja": "A: <ruby>田中<rt>たなか</rt></ruby>さん、もう<ruby>出<rt>で</rt></ruby>かけましたか？<br/>B: はい、たった<ruby>今<rt>いま</rt></ruby>タクシーに<ruby>乗<rt>の</rt></ruby>って<ruby>空港<rt>くうこう</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かいました。",
@@ -10814,7 +10814,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "說話",
       "ko": "말하다 / 이야기하다",
       "zh_HK": "說話",
-      "fr": "to speak / to talk"
+      "fr": "to talk / to speak"
     },
     "example": {
       "ja": "レッスンでは、たくさん<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すようにしています。",
@@ -11229,12 +11229,12 @@ window.INITIAL_VOCAB_DATA = [
     "reading": "のりもの",
     "category": "乗り物",
     "meaning": {
-      "en": "vehicle",
-      "zh_TW": "vehicle",
-      "zh_CN": "vehicle",
-      "ko": "vehicle",
-      "zh_HK": "vehicle",
-      "fr": "vehicle"
+      "en": "vehicle / transport",
+      "zh_TW": "交通工具",
+      "zh_CN": "交通工具",
+      "ko": "탈것 / 교통수단",
+      "zh_HK": "交通工具",
+      "fr": "véhicule / moyen de transport"
     },
     "example": {
       "ja": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>電車<rt>でんしゃ</rt></ruby>やバスなどの<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>が<ruby>発達<rt>はったつ</rt></ruby>していて、どこへ<ruby>行<rt>い</rt></ruby>くにも<ruby>便利<rt>べんり</rt></ruby>です。",
@@ -11822,7 +11822,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "快了",
       "ko": "이제 곧",
       "zh_HK": "快了",
-      "fr": "very soon / almost"
+      "fr": "soon"
     },
     "example": {
       "ja": "もうすぐ<ruby>待<rt>ま</rt></ruby>ちに<ruby>待<rt>ま</rt></ruby>ったゴールデンウィークですね。<ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか？",
@@ -12886,7 +12886,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "出去",
       "ko": "나가다 / 나갑니다",
       "zh_HK": "出去",
-      "fr": "to leave / to go out"
+      "fr": "to exit / to go out"
     },
     "example": {
       "ja": "<ruby>朝<rt>あさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。",
@@ -12914,7 +12914,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "進去",
       "ko": "들어가다 / 들어갑니다",
       "zh_HK": "進去",
-      "fr": "to enter"
+      "fr": "to enter / to go in"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
@@ -13250,7 +13250,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "做",
       "ko": "만들다 / 만듭니다",
       "zh_HK": "做",
-      "fr": "to make"
+      "fr": "to make / to cook"
     },
     "example": {
       "ja": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>手作<rt>てづく</rt></ruby>りのパスタを<ruby>作<rt>つく</rt></ruby>ります。",
@@ -13530,7 +13530,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "明白",
       "ko": "이해하다 / 이해합니다",
       "zh_HK": "明白",
-      "fr": "to understand"
+      "fr": "can understand / know"
     },
     "example": {
       "ja": "<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がよくわかります。",
@@ -13558,7 +13558,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "會",
       "ko": "할 수 있다 / 할 수 있습니다",
       "zh_HK": "會",
-      "fr": "to be able to / can"
+      "fr": "can do / be ready"
     },
     "example": {
       "ja": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しできるようになりました。<br/>もっと<ruby>勉強<rt>べんきょう</rt></ruby>したいです！",
@@ -13726,7 +13726,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "洗衣服",
       "ko": "빨래",
       "zh_HK": "洗衣服",
-      "fr": "laundry / washing clothes"
+      "fr": "to do laundry"
     },
     "example": {
       "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>しました。<br/>すぐ<ruby>乾<rt>かわ</rt></ruby>きそうですね。",
@@ -13754,7 +13754,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "打掃",
       "ko": "청소",
       "zh_HK": "打掃",
-      "fr": "cleaning / tidying"
+      "fr": "to clean"
     },
     "example": {
       "ja": "<ruby>部屋<rt>へや</rt></ruby>をきれいに<ruby>掃除<rt>そうじ</rt></ruby>しました。<br/><ruby>気持<rt>きも</rt></ruby>ちよく<ruby>過<rt>す</rt></ruby>ごせますね。",
@@ -13810,7 +13810,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "開車",
       "ko": "운전",
       "zh_HK": "開車",
-      "fr": "driving"
+      "fr": "to drive"
     },
     "example": {
       "ja": "<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>は<ruby>安全<rt>あんぜん</rt></ruby><ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby>ですね。<br/>シートベルトを<ruby>忘<rt>わす</rt></ruby>れずに。",
@@ -16890,7 +16890,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "嘢做",
       "ko": "要辦的事",
       "zh_HK": "嘢做",
-      "fr": "errand"
+      "fr": "affaire / course à faire"
     },
     "example": {
       "ja": "A: <ruby>今日<rt>きょう</rt></ruby>の<ruby>放課後<rt>ほうかご</rt></ruby>、<ruby>何<rt>なに</rt></ruby>か<ruby>用事<rt>ようじ</rt></ruby>がありますか？<br/>B: <ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>く<ruby>用事<rt>ようじ</rt></ruby>があります。",
@@ -17590,7 +17590,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "天氣",
       "ko": "天氣",
       "zh_HK": "天氣",
-      "fr": "weather"
+      "fr": "temps (météo)"
     },
     "example": {
       "ja": "A:<ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はいかがですか？<br/>B: ぽかぽかしてとてもいい<ruby>天気<rt>てんき</rt></ruby>ですよ。",
@@ -17730,7 +17730,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "櫻花",
       "ko": "櫻花",
       "zh_HK": "櫻花",
-      "fr": "cherry blossom"
+      "fr": "fleurs de cerisier / sakura"
     },
     "example": {
       "ja": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>川<rt>かわ</rt></ruby><ruby>沿<rt>ぞ</rt></ruby>いの<ruby>桜<rt>さくら</rt></ruby><ruby>並木<rt>なみき</rt></ruby>が<ruby>ピンク色<rt>ぴんくいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
@@ -17926,7 +17926,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "紅葉",
       "ko": "紅葉",
       "zh_HK": "紅葉",
-      "fr": "autumn leaves"
+      "fr": "feuilles d'automne / érable"
     },
     "example": {
       "ja": "1<ruby>1月<rt>いちがつ</rt></ruby>になると、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>山々<rt>やまやま</rt></ruby>が<ruby>見事<rt>みごと</rt></ruby>な<ruby>紅葉<rt>こうよう</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まります。",
@@ -21678,7 +21678,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "放入",
       "ko": "放進去",
       "zh_HK": "放入",
-      "fr": "to put in / to insert"
+      "fr": "can enter / can go in"
     },
     "example": {
       "ja": "カバンに<ruby>財布<rt>さいふ</rt></ruby>と<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。",
@@ -24394,7 +24394,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "說話／講話",
       "ko": "말하다 / 이야기하다",
       "zh_HK": "說話／講話",
-      "fr": "to speak / to talk"
+      "fr": "to talk / to speak"
     },
     "example": {
       "ja": "<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さないでください。",
@@ -24646,7 +24646,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "記住／記得",
       "ko": "외우다・기억하다",
       "zh_HK": "記住／記得",
-      "fr": "to memorize"
+      "fr": "to memorize / to remember"
     },
     "example": {
       "ja": "<ruby>使<rt>つか</rt></ruby>わない<ruby>単語<rt>たんご</rt></ruby>は、なかなか<ruby>頭<rt>あたま</rt></ruby>に<ruby>覚<rt>おぼ</rt></ruby>えない。",
@@ -25906,7 +25906,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "進去／進入",
       "ko": "들어가다",
       "zh_HK": "進去／進入",
-      "fr": "to enter / to go in"
+      "fr": "to enter"
     },
     "example": {
       "ja": "<ruby>土足<rt>どそく</rt></ruby>でこの<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないでください。",
@@ -25934,7 +25934,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "出去",
       "ko": "나가다／나오다",
       "zh_HK": "出去",
-      "fr": "to exit / to go out"
+      "fr": "to leave / to go out"
     },
     "example": {
       "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで、<ruby>教室<rt>きょうしつ</rt></ruby>から<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ない。",
@@ -26158,7 +26158,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "做／製作",
       "ko": "만들다",
       "zh_HK": "做／製作",
-      "fr": "to make / to produce"
+      "fr": "to make"
     },
     "example": {
       "ja": "<ruby>今週<rt>こんしゅう</rt></ruby>はお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>らないで、<ruby>学食<rt>がくしょく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる。",
@@ -27306,7 +27306,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能說／會講",
       "ko": "말할 수 있다",
       "zh_HK": "能說／會講",
-      "fr": "can speak"
+      "fr": "pouvoir parler"
     },
     "example": {
       "ja": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>せるようになった。",
@@ -27698,7 +27698,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能忘記",
       "ko": "잊을 수 있다",
       "zh_HK": "能忘記",
-      "fr": "can forget"
+      "fr": "pouvoir oublier"
     },
     "example": {
       "ja": "<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>いて、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れられる。",
@@ -27726,7 +27726,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能記住／背得起",
       "ko": "외울 수 있다",
       "zh_HK": "能記住／背得起",
-      "fr": "can memorize / remember"
+      "fr": "pouvoir mémoriser / retenir"
     },
     "example": {
       "ja": "カードを<ruby>使<rt>つか</rt></ruby>うと、<ruby>新<rt>あたら</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>がすぐに<ruby>覚<rt>おぼ</rt></ruby>えられる。",
@@ -28118,7 +28118,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能做／會製作",
       "ko": "만들 수 있다",
       "zh_HK": "能做／會製作",
-      "fr": "can make"
+      "fr": "pouvoir fabriquer / préparer"
     },
     "example": {
       "ja": "<ruby>母<rt>はは</rt></ruby>に<ruby>教<rt>おし</rt></ruby>わって、おいしいカレーが<ruby>作<rt>つく</rt></ruby>れるようになった。",
@@ -28202,7 +28202,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能等／等得了",
       "ko": "기다릴 수 있다",
       "zh_HK": "能等／等得了",
-      "fr": "can wait"
+      "fr": "pouvoir attendre"
     },
     "example": {
       "ja": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいるので、３０<ruby>分<rt>ぷん</rt></ruby>くらいなら<ruby>待<rt>ま</rt></ruby>てるよ。",
@@ -28286,7 +28286,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能出去／能出席",
       "ko": "나갈 수 있다",
       "zh_HK": "能出去／能出席",
-      "fr": "can go out / attend"
+      "fr": "pouvoir sortir / assister"
     },
     "example": {
       "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなったので、<ruby>明日<rt>あした</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>られる。",
@@ -28426,7 +28426,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_CN": "能教／可以告訴",
       "ko": "가르쳐 줄 수 있다",
       "zh_HK": "能教／可以告訴",
-      "fr": "can teach / tell"
+      "fr": "pouvoir enseigner / indiquer"
     },
     "example": {
       "ja": "<ruby>道<rt>みち</rt></ruby>をよく<ruby>知<rt>し</rt></ruby>っているから、<ruby>駅<rt>えき</rt></ruby>までの<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えられるよ。",
