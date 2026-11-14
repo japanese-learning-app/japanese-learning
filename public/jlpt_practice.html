@@ -1950,12 +1950,12 @@
         <div>
           <div class="card-top-row">
             <div class="card-icon-square" style="background:#EDF7F9; color:#0D9488; border-color:#A1D6E2;">📚</div>
-            <span id="card-reading-badge" class="card-badge-count" style="background:#0D9488; color:white; font-weight:800;">21 問</span>
+            <span id="card-reading-badge" class="card-badge-count" style="background:#0D9488; color:white; font-weight:800;">30 問</span>
           </div>
           <div class="card-title-main" style="color:#0F766E;">読解道場</div>
           <div id="card-reading-sub" class="card-subtitle-reading">短文・中文・長文・統合・情報検索（どっかい）</div>
           <ul class="card-feature-list">
-            <li id="card-reading-b1">全11パッセージ・全21問を完全網羅</li>
+            <li id="card-reading-b1">全18パッセージ・全30問を完全網羅</li>
             <li>本文中の根拠ハイライト（💡 根拠を見る）機能</li>
             <li>漢字の真上にルビ表示（ふりがな ON/OFF 切替）</li>
             <li>4言語（日・英・繁中・韓）詳細解説＆語彙注釈</li>
@@ -1963,7 +1963,7 @@
         </div>
         <div style="margin-top: 14px;">
           <a id="link-reading" href="jlpt_n2_reading.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #0D9488, #0F766E); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(13,148,136,0.3);">
-            📚 読解実戦演習を解く (全21問) →
+            📚 読解実戦演習を解く (全30問) →
           </a>
         </div>
       </div>
@@ -1992,26 +1992,26 @@
         </div>
       </div>
 
-      <!-- 実戦模擬試験 (全91問・本番時間・自動採点・合否判定) -->
+      <!-- 実戦模擬試験 (全10回分・本番時間・自動採点・合否判定) -->
       <div class="card-box" style="border: 2px solid #FBCFE8; position: relative; overflow: visible; background: #FFFFFF;">
-        <span id="card-mock-pill" style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, #EC4899, #DB2777); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(236,72,153,0.3);">全91問・合否判定</span>
+        <span id="card-mock-pill" style="position: absolute; top: -11px; right: 18px; background: linear-gradient(135deg, #EC4899, #DB2777); color: white; font-size: 11px; font-weight: 800; padding: 2px 10px; border-radius: 12px; letter-spacing: 0.5px; box-shadow: 0 2px 8px rgba(236,72,153,0.3);">全10回分・各106問・合否判定</span>
         <div>
           <div class="card-top-row">
             <div class="card-icon-square" style="background:#FDF2F8; color:#DB2777; border-color:#FBCFE8;">📝</div>
-            <span id="card-mock-badge" class="card-badge-count" style="background:#DB2777; color:white; font-weight:800;">91 問</span>
+            <span id="card-mock-badge" class="card-badge-count" style="background:#DB2777; color:white; font-weight:800;">全10回 (106問/回)</span>
           </div>
-          <div class="card-title-main" style="color:#BE185D;">実戦模擬試験</div>
-          <div id="card-mock-sub" class="card-subtitle-reading">本番時間・尺度得点・合格基準点シミュレーション</div>
+          <div class="card-title-main" style="color:#BE185D;">実戦模擬試験 (全10回)</div>
+          <div id="card-mock-sub" class="card-subtitle-reading">本番時間・尺度得点・合格基準点シミュレーション（第1回〜第10回）</div>
           <ul class="card-feature-list">
-            <li id="card-mock-b1">本番の試験時間＆問題構成を忠実に再現（全91問）</li>
+            <li id="card-mock-b1">本番の試験時間＆問題構成を忠実に再現（全10回分・1回106問）</li>
             <li>尺度得点算出（180点満点・得点区分基準点判定）</li>
             <li>終了後即時スコアカード＆「間違えた問題だけ」復習</li>
             <li>全問ふりがな切替＆詳細解説＆リスニング音声連動</li>
           </ul>
         </div>
         <div style="margin-top: 14px;">
-          <a id="link-mock" href="jlpt_n5_mock.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #EC4899, #BE185D); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(236,72,153,0.3);">
-            📝 N5 実戦模擬試験を解く (全91問) →
+          <a id="link-mock" href="jlpt_n2_mock.html" class="card-btn-action" style="text-decoration:none; text-align:center; display:block; background:linear-gradient(135deg, #EC4899, #BE185D); color:white; font-weight:800; box-shadow: 0 4px 16px rgba(236,72,153,0.3);">
+            📝 N2 実戦模擬試験を解く (全10回・各106問) →
           </a>
         </div>
       </div>
@@ -2586,7 +2586,7 @@
       vocabCount: 3436,
       vocabQuizCount: 896,
       readingUrl: 'jlpt_n2_reading.html',
-      readingQuestions: 21,
+      readingQuestions: 30,
       listeningUrl: 'jlpt_n2_listening.html',
       listeningQuestions: 31,
       mockUrl: 'jlpt_n2_mock.html',
@@ -2773,24 +2773,18 @@
 
     // 7. 実戦模擬試験
     const linkMock = document.getElementById('link-mock');
+    const mockQ = info.mockQuestions || 106;
     if (linkMock) {
-      if (currentLevel === 'n5') {
-        linkMock.href = 'jlpt_n5_mock.html';
-        linkMock.textContent = `📝 N5 実戦模擬試験を解く (全91問) →`;
-        linkMock.onclick = null;
-      } else {
-        linkMock.href = '#';
-        linkMock.textContent = `📝 ${lvlU} 実戦模擬試験 (N5から順次公開中) →`;
-        linkMock.onclick = (e) => {
-          e.preventDefault();
-          alert(`${lvlU}の模擬試験は現在準備中です。まずはN5の実戦模試をお試しください！`);
-        };
-      }
+      linkMock.href = info.mockUrl || `jlpt_${currentLevel}_mock.html`;
+      linkMock.textContent = `📝 ${lvlU} 実戦模擬試験を解く (全10回・各${mockQ}問) →`;
+      linkMock.onclick = null;
     }
     const mkBadge = document.getElementById('card-mock-badge');
-    if (mkBadge) mkBadge.textContent = `${info.mockQuestions || 91} 問`;
+    if (mkBadge) mkBadge.textContent = `全10回 (${mockQ}問/回)`;
     const mkPill = document.getElementById('card-mock-pill');
-    if (mkPill) mkPill.textContent = currentLevel === 'n5' ? '全91問・合否判定' : '順次配信中';
+    if (mkPill) mkPill.textContent = `全10回分・各${mockQ}問・合否判定`;
+    const mkB1 = document.getElementById('card-mock-b1');
+    if (mkB1) mkB1.textContent = `本番の試験時間＆問題構成を忠実に再現（全10回分・1回${mockQ}問）`;
   }
 
   function checkGrammarResumeButton() {
