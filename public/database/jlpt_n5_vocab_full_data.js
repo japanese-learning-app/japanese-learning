@@ -8424,7 +8424,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "ひく",
     "ruby": "<ruby>弾<rt>ひ</rt></ruby>く",
     "meaning": "to play an instrument with strings; including piano",
-    "ex_ja": "<ruby>姉<rt>あね</rt></ruby>は、<ruby>上手<rt>じょうず</rt></ruby>にピアノを<ruby>弾<rt>はじ</rt></ruby>きます。",
+    "ex_ja": "<ruby>姉<rt>あね</rt></ruby>は、<ruby>上手<rt>じょうず</rt></ruby>にピアノを<ruby>弾<rt>ひ</rt></ruby>きます。",
     "ex_en": "My older sister plays the piano well."
   },
   {
@@ -10072,7 +10072,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "いちにち",
     "ruby": "<ruby>一日<rt>いちにち</rt></ruby>",
     "meaning": "one day; the whole day (also ついたち: first of the month)",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は、<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>でした。",
+    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は、<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>でした。",
     "ex_en": "It rained all day today."
   },
   {

@@ -87,27 +87,27 @@ window.JLPT_N5_MOCK_DATA = {
           "id": "s2_m3",
           "number": "問題3",
           "name": "文章の文法",
-          "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+          "instruction": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
           "instructionEn": "Read the following passage and choose the best word for each blank [57] to [61].",
-          "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+          "desc": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、［57］から［61］の　なかに　はいる　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
           "count": 5
         },
         {
           "id": "s2_m4",
           "number": "問題4",
           "name": "内容理解（短文）",
-          "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "instruction": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "instructionEn": "Read the short passages and choose the best answer to the question.",
-          "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "desc": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "count": 3
         },
         {
           "id": "s2_m5",
           "number": "問題5",
           "name": "内容理解（中文）",
-          "instruction": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "instruction": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "instructionEn": "Read the medium-length passage and answer the questions below.",
-          "desc": "<ruby>つぎ<rt>次</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "desc": "<ruby>次<rt>つぎ</rt></ruby>の　ぶんしょうを　よんで、しつもんに　こたえて　ください。こたえは　１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "count": 2
         },
         {

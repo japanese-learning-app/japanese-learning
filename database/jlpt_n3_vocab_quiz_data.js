@@ -4246,7 +4246,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "ほした",
     "question": "洗濯物をベランダに並べてほした。",
-    "question_ruby": "<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>をベランダに<ruby>並<rt>なら</rt></ruby>べて<u>ほした</u>。",
+    "question_ruby": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>をベランダに<ruby>並<rt>なら</rt></ruby>べて<u>ほした</u>。",
     "choices": [
       "干した",
       "星した",
@@ -8242,7 +8242,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "",
     "question": "梅雨の時期は雨が多くて（　　　）が高いため、洗濯物が乾きにくい。",
-    "question_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて（　　　）が<ruby>高<rt>たか</rt></ruby>いため、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きにくい。",
+    "question_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて（　　　）が<ruby>高<rt>たか</rt></ruby>いため、<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きにくい。",
     "choices": [
       "湿度",
       "温度",
@@ -12301,7 +12301,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>んだが、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>大<rt>おお</rt></ruby>きなけがはなかった。",
-      "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がびしょびしょになった。",
+      "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>洗濯物<rt>せんたくもの</rt></ruby>がびしょびしょになった。",
       "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまい、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>中身<rt>なかみ</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby>なくなっていた。",
       "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試験<rt>しけん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。"
     ],

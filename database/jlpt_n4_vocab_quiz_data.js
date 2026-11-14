@@ -4191,7 +4191,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     "category": "漢字表記",
     "target_word": "かわきました",
     "question": "天気が いいので、洗濯物が すぐ かわきました。",
-    "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が いいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が すぐ <u>かわきました</u>。",
+    "question_ruby": "<ruby>天気<rt>てんき</rt></ruby>が いいので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>が すぐ <u>かわきました</u>。",
     "choices": [
       "渇きました",
       "焼きました",
@@ -5001,7 +5001,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "",
     "question": "洗濯物がすっかり（　　　）ので、部屋の中に入れました。",
-    "question_ruby": "<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすっかり（　　　）ので、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れました。",
+    "question_ruby": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>がすっかり（　　　）ので、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れました。",
     "choices": [
       "乾いた",
       "冷えた",
@@ -9599,7 +9599,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
       "私の机は複雑に木でできています。"
     ],
     "choices_ruby": [
-      "きのうは<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>雨<rt>あめ</rt></ruby>が<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>降<rt>お</rt></ruby>りました。",
+      "きのうは<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>雨<rt>あめ</rt></ruby>が<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>降<rt>お</rt></ruby>りました。",
       "この<ruby>駅<rt>えき</rt></ruby>の<ruby>地下道<rt>ちかどう</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>で、いつも<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ってしまいます。",
       "このスープは<ruby>複雑<rt>ふくざつ</rt></ruby>に<ruby>熱<rt>あつ</rt></ruby>いですね。",
       "<ruby>私<rt>わたし</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>に<ruby>木<rt>き</rt></ruby>でできています。"
@@ -9816,7 +9816,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "ストーブで<ruby>冷<rt>つめ</rt></ruby>たい<ruby>手<rt>て</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>きました。",
-      "<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がよく<ruby>沸<rt>わ</rt></ruby>きました。",
+      "<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>洗濯物<rt>せんたくもの</rt></ruby>がよく<ruby>沸<rt>わ</rt></ruby>きました。",
       "お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>いたので、コーヒーを<ruby>入<rt>い</rt></ruby>れましょう。",
       "フライパンで<ruby>卵<rt>たまご</rt></ruby>がきれいに<ruby>沸<rt>わ</rt></ruby>きました。"
     ],
@@ -9842,7 +9842,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
       "たくさん走ったので、のどが乾きました。"
     ],
     "choices_ruby": [
-      "<ruby>風<rt>かぜ</rt></ruby>がよく<ruby>吹<rt>ふ</rt></ruby>いているので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きました。",
+      "<ruby>風<rt>かぜ</rt></ruby>がよく<ruby>吹<rt>ふ</rt></ruby>いているので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きました。",
       "お<ruby>風呂<rt>ふろ</rt></ruby>のお<ruby>湯<rt>ゆ</rt></ruby>がちょうどよく<ruby>乾<rt>かわ</rt></ruby>きました。",
       "パンがオーブンでおいしそうに<ruby>乾<rt>かわ</rt></ruby>きました。",
       "たくさん<ruby>走<rt>はし</rt></ruby>ったので、のどが<ruby>乾<rt>かわ</rt></ruby>きました。"
@@ -9853,7 +9853,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     "explanation": "「乾く」は水分がなくなって乾燥することです。「のどがかわく」は「渇く」と書きます。",
     "target_word_reading": "かわく",
     "correct_text_reading": "かわく",
-    "correct_text_ruby": "<ruby>風<rt>かぜ</rt></ruby>がよく<ruby>吹<rt>ふ</rt></ruby>いているので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きました。"
+    "correct_text_ruby": "<ruby>風<rt>かぜ</rt></ruby>がよく<ruby>吹<rt>ふ</rt></ruby>いているので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きました。"
   }
 ];
 

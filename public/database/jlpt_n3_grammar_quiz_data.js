@@ -1400,7 +1400,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "べきではない",
-    "notes": "コミュニケーション<ruby>上<rt>じょう</rt></ruby>の<ruby>好<rt>この</rt></ruby>ましくない<ruby>態度<rt>たいど</rt></ruby>を<ruby>諫<rt>諫</rt></ruby>める<ruby>表現<rt>ひょうげん</rt></ruby>です。",
+    "notes": "コミュニケーション<ruby>上<rt>じょう</rt></ruby>の<ruby>好<rt>この</rt></ruby>ましくない<ruby>態度<rt>たいど</rt></ruby>を<ruby>諫<rt>いさ</rt></ruby>める<ruby>表現<rt>ひょうげん</rt></ruby>です。",
     "question_ruby": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>聞<rt>き</rt></ruby>かずに、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>だけを<ruby>押<rt>お</rt></ruby>し<ruby>付<rt>つ</rt></ruby>ける（　　　）。",
     "sentence_jp_ruby": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>聞<rt>き</rt></ruby>かずに、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>だけを<ruby>押<rt>お</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けるべきではない。",
     "choices_ruby": [
@@ -3861,8 +3861,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "一体",
     "notes": "<ruby>疑問<rt>ぎもん</rt></ruby><ruby>詞<rt>ことば</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>い『<ruby>一体<rt>いったい</rt></ruby><ruby>何<rt>なん</rt></ruby>／<ruby>誰<rt>だれ</rt></ruby>／どこ』と<ruby>疑問<rt>ぎもん</rt></ruby>や<ruby>不審<rt>ふしん</rt></ruby>の<ruby>念<rt>ねん</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>響<rt>ひび</rt></ruby>いたが、（　　　）<ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったのだろう。",
-    "sentence_jp_ruby": "<ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>響<rt>ひび</rt></ruby>いたが、<ruby>一体<rt>いったい</rt></ruby><ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったのだろう。",
+    "question_ruby": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>響<rt>ひび</rt></ruby>いたが、（　　　）<ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったのだろう。",
+    "sentence_jp_ruby": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>が<ruby>響<rt>ひび</rt></ruby>いたが、<ruby>一体<rt>いったい</rt></ruby><ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったのだろう。",
     "choices_ruby": [
       "<ruby>一概<rt>いちがい</rt></ruby>に",
       "<ruby>一向<rt>いっこう</rt></ruby>に",
@@ -9620,7 +9620,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "にしたがって",
-    "notes": "<ruby>一方<rt>いっぽう</rt></ruby>の<ruby>比例<rt>ひれい</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>変化<rt>へんか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って<ruby>他方<rt>たほう</rt></ruby>も<ruby>変化<rt>へんか</rt></ruby>していく<ruby>様子<rt>ようす</rt></ruby>や、<ruby>規則<rt>きそく</rt></ruby>・<ruby>指示<rt>しじ</rt></ruby>への<ruby>順<rt>じゅん</rt></ruby><ruby>従<rt>従</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
+    "notes": "<ruby>一方<rt>いっぽう</rt></ruby>の<ruby>比例<rt>ひれい</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>変化<rt>へんか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って<ruby>他方<rt>たほう</rt></ruby>も<ruby>変化<rt>へんか</rt></ruby>していく<ruby>様子<rt>ようす</rt></ruby>や、<ruby>規則<rt>きそく</rt></ruby>・<ruby>指示<rt>しじ</rt></ruby>への<ruby>順従<rt>じゅんじゅう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
     "question_ruby": "<ruby>標高<rt>ひょうこう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなる（　　　）、<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>空気<rt>くうき</rt></ruby>も<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>薄<rt>うす</rt></ruby>くなっていく。",
     "sentence_jp_ruby": "<ruby>標高<rt>ひょうこう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなるにしたがって、<ruby>気温<rt>きおん</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり<ruby>空気<rt>くうき</rt></ruby>も<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>薄<rt>うす</rt></ruby>くなっていく。",
     "choices_ruby": [
@@ -11150,9 +11150,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "をはじめ",
-    "notes": "<ruby>季節<rt>きせつ</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>花<rt>はな</rt></ruby>を<ruby>筆頭<rt>ひっとう</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げて、<ruby>他<rt>ほか</rt></ruby>の<ruby>花<rt>はな</rt></ruby><ruby>々<rt>々</rt></ruby>へと<ruby>広<rt>ひろ</rt></ruby>げる<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>（　　　）<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>花<rt>はな</rt></ruby><ruby>々<rt>々</rt></ruby>が<ruby>公園<rt>こうえん</rt></ruby>のいたるところで<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る。",
-    "sentence_jp_ruby": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>をはじめ<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>花<rt>はな</rt></ruby><ruby>々<rt>々</rt></ruby>が<ruby>公園<rt>こうえん</rt></ruby>のいたるところで<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る。",
+    "notes": "<ruby>季節<rt>きせつ</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>花<rt>はな</rt></ruby>を<ruby>筆頭<rt>ひっとう</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げて、<ruby>他<rt>ほか</rt></ruby>の<ruby>花々<rt>はなばな</rt></ruby>へと<ruby>広<rt>ひろ</rt></ruby>げる<ruby>表現<rt>ひょうげん</rt></ruby>です。",
+    "question_ruby": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>（　　　）<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>花々<rt>はなばな</rt></ruby>が<ruby>公園<rt>こうえん</rt></ruby>のいたるところで<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る。",
+    "sentence_jp_ruby": "<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>をはじめ<ruby>色<rt>いろ</rt></ruby>とりどりの<ruby>花々<rt>はなばな</rt></ruby>が<ruby>公園<rt>こうえん</rt></ruby>のいたるところで<ruby>咲<rt>さ</rt></ruby>き<ruby>誇<rt>ほこ</rt></ruby>る。",
     "choices_ruby": [
       "をはじめ",
       "にかけて",
@@ -17510,7 +17510,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "みえる",
-    "notes": "<ruby>地面<rt>じめん</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>から<ruby>夜中<rt>やちゅう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>を<ruby>推測<rt>すいそく</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
+    "notes": "<ruby>地面<rt>じめん</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>から<ruby>夜中<rt>よなか</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>を<ruby>推測<rt>すいそく</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
     "question_ruby": "<ruby>道<rt>みち</rt></ruby>がすっかり<ruby>濡<rt>ぬ</rt></ruby>れているから、<ruby>夜中<rt>よなか</rt></ruby>にかなり<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったと（　　　）。",
     "sentence_jp_ruby": "<ruby>道<rt>みち</rt></ruby>がすっかり<ruby>濡<rt>ぬ</rt></ruby>れているから、<ruby>夜中<rt>よなか</rt></ruby>にかなり<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったとみえる。",
     "choices_ruby": [
@@ -19554,7 +19554,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>上手<rt>じょうず</rt></ruby>か<ruby>下手<rt>へた</rt></ruby>かは（　　　）として、<ruby>私<rt>わたし</rt></ruby>は<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うのが<ruby>大好<rt>だいす</rt></ruby>きだ。",
     "sentence_jp_ruby": "<ruby>上手<rt>じょうず</rt></ruby>か<ruby>下手<rt>へた</rt></ruby>かは<ruby>別<rt>べつ</rt></ruby>として、<ruby>私<rt>わたし</rt></ruby>は<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うのが<ruby>大好<rt>だいす</rt></ruby>きだ。",
     "choices_ruby": [
-      "<ruby>違<rt>違</rt></ruby>",
+      "<ruby>違<rt>ちが</rt></ruby>",
       "<ruby>他<rt>ほか</rt></ruby>",
       "<ruby>外<rt>そと</rt></ruby>",
       "<ruby>別<rt>べつ</rt></ruby>"
@@ -21261,8 +21261,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "よう",
     "notes": "<ruby>意向形<rt>いこうけい</rt></ruby>＋としない（とせず）で<ruby>本人<rt>ほんにん</rt></ruby>がその<ruby>行動<rt>こうどう</rt></ruby>をする<ruby>意志<rt>いし</rt></ruby>・<ruby>意欲<rt>いよく</rt></ruby>を<ruby>全<rt>まった</rt></ruby>く<ruby>示<rt>しめ</rt></ruby>さない<ruby>様子<rt>ようす</rt></ruby>を<ruby>非難<rt>ひなん</rt></ruby>します。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>頑</rt></ruby>なに<ruby>認<rt>みと</rt></ruby>め（　　　）とせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
-    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>頑</rt></ruby>なに<ruby>認<rt>みと</rt></ruby>めようとせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>かたくな</rt></ruby>に<ruby>認<rt>みと</rt></ruby>め（　　　）とせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
+    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>非<rt>ひ</rt></ruby>を<ruby>頑<rt>かたくな</rt></ruby>に<ruby>認<rt>みと</rt></ruby>めようとせず、<ruby>他人<rt>たにん</rt></ruby>のせいばかりにしている。",
     "choices_ruby": [
       "<ruby>気<rt>き</rt></ruby>",
       "まい",

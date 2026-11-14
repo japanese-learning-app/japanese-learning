@@ -9005,7 +9005,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "語形成",
     "target_word": "未経験",
     "question": "この仕事は、（　　　）経験の方でも簡単にできる仕事です。",
-    "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、（　　　）<ruby>経験<rt>けいけん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>でも<ruby>簡単<rt>かんたん</rt></ruby>にできる<ruby>仕事<rt>しごと</rt></ruby>です。",
+    "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、（　　　）<ruby>経験<rt>けいけん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>でも<ruby>簡単<rt>かんたん</rt></ruby>にできる<ruby>仕事<rt>しごと</rt></ruby>です。",
     "choices": [
       "不",
       "未",
@@ -23919,7 +23919,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>酔っ払<rt>よっぱら</rt></ruby>っていたせいで、コップからビールが<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>湿<rt>しめ</rt></ruby>ってしまった。",
-      "<ruby>雨<rt>あめ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はいくら<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しても、<ruby>服<rt>ふく</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>かず<ruby>湿<rt>しめ</rt></ruby>ったままで<ruby>困<rt>こま</rt></ruby>る。",
+      "<ruby>雨<rt>あめ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はいくら<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しても、<ruby>服<rt>ふく</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>かず<ruby>湿<rt>しめ</rt></ruby>ったままで<ruby>困<rt>こま</rt></ruby>る。",
       "<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>湿<rt>しめ</rt></ruby>って、<ruby>疲<rt>つか</rt></ruby>れが<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>取<rt>と</rt></ruby>れた。",
       "<ruby>恋愛<rt>れんあい</rt></ruby>ドラマの<ruby>最終<rt>さいしゅう</rt></ruby><ruby>回<rt>かい</rt></ruby>で<ruby>恋人<rt>こいびと</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れるシーンを<ruby>観<rt>み</rt></ruby>て、<ruby>湿<rt>しめ</rt></ruby>った<ruby>気持<rt>きも</rt></ruby>ちになった。"
     ],
@@ -23956,7 +23956,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "english_pitfall": "英語の \"damp\", \"moist\", \"humid\" にあたります。「濡れる（wet）」が液体を直接被るのに対し、「湿る（damp）」は繊維や空気中にじっとりと水分が含まれているニュアンスです。",
     "target_word_reading": "しめる",
     "correct_text_reading": "あめのじきはいくらせんたくものをほしても、ふくがかわかずしめったままでこまる。",
-    "correct_text_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はいくら<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しても、<ruby>服<rt>ふく</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>かず<ruby>湿<rt>しめ</rt></ruby>ったままで<ruby>困<rt>こま</rt></ruby>る。"
+    "correct_text_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はいくら<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しても、<ruby>服<rt>ふく</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>かず<ruby>湿<rt>しめ</rt></ruby>ったままで<ruby>困<rt>こま</rt></ruby>る。"
   },
   {
     "id": 403,
@@ -31364,7 +31364,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "募集",
     "question": "パート【募集】。やる気のある方を求む。勤務時間は相談に応じます。",
-    "question_ruby": "パート【募集】。やる<ruby>気<rt>き</rt></ruby>のある<ruby>方<rt>ほう</rt></ruby>を<ruby>求<rt>もと</rt></ruby>む。<ruby>勤務<rt>きんむ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じます。",
+    "question_ruby": "パート【募集】。やる<ruby>気<rt>き</rt></ruby>のある<ruby>方<rt>かた</rt></ruby>を<ruby>求<rt>もと</rt></ruby>む。<ruby>勤務<rt>きんむ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じます。",
     "choices": [
       "もしゅう",
       "ぶしゅう",
@@ -33052,7 +33052,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "あらい",
     "question": "A「トイレの掃除、お願いね。洗濯物も入れておいてね。」 B「人使いが（　　　）ねえ。」",
-    "question_ruby": "A「トイレの<ruby>掃除<rt>そうじ</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>いね。<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>も<ruby>入<rt>い</rt></ruby>れておいてね。」 B「<ruby>人使<rt>ひとづか</rt></ruby>いが（　　　）ねえ。」",
+    "question_ruby": "A「トイレの<ruby>掃除<rt>そうじ</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>いね。<ruby>洗濯物<rt>せんたくもの</rt></ruby>も<ruby>入<rt>い</rt></ruby>れておいてね。」 B「<ruby>人使<rt>ひとづか</rt></ruby>いが（　　　）ねえ。」",
     "choices": [
       "くどい",
       "あらい",

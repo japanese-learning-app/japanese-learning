@@ -5571,8 +5571,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "散らかしっぱなし",
     "notes": "<ruby>後片付<rt>あとかたづ</rt></ruby>けをせずにそのまま<ruby>放<rt>はな</rt></ruby>っておく<ruby>好<rt>この</rt></ruby>ましくない<ruby>行動<rt>こうどう</rt></ruby>を<ruby>指摘<rt>してき</rt></ruby>しています。",
-    "question_ruby": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>におもちゃを（　　　）にして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。",
-    "sentence_jp_ruby": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>におもちゃを<ruby>散<rt>ち</rt></ruby>らかしっぱなしにして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。",
+    "question_ruby": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋中<rt>へやじゅう</rt></ruby>におもちゃを（　　　）にして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。",
+    "sentence_jp_ruby": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋中<rt>へやじゅう</rt></ruby>におもちゃを<ruby>散<rt>ち</rt></ruby>らかしっぱなしにして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。",
     "choices_ruby": [
       "<ruby>散<rt>ち</rt></ruby>らかしそびれ",
       "<ruby>散<rt>ち</rt></ruby>らかしかたがた",

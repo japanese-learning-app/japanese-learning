@@ -542,13 +542,13 @@ window.JLPT_N3_LISTENING_DATA = {
       "speech_audio_text": "だいじゅうごもん。講演会である作家が話しています。\n\n本を読むとき、最後までいっきに速く読もうとする人が多いですが、私は少したちどまりながら読むことをおすすめしています。心にひびいた、いちぶんがあればページをめくるてを止め、なぜその言葉が自分に刺さったのか、自分の経験とかさねあわせて考えてみるのです。速くたくさん読むことよりも、いっさつの本と深く対話することのほうが、読書から得られる心の栄養はずっと豊かなものになります。\n\n質問。作家がいちばん伝えたいことはなんですか。",
       "audio_file": "audio/listening/n3_q15.mp3",
       "choices": [
-        "1<ruby>日<rt>にち</rt></ruby>に1<ruby>冊<rt>さつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>速<rt>はや</rt></ruby><ruby>読<rt>読</rt></ruby>する<ruby>読書<rt>どくしょ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>",
+        "1<ruby>日<rt>にち</rt></ruby>に1<ruby>冊<rt>さつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>速<rt>はや</rt></ruby><ruby>読<rt>よ</rt></ruby>する<ruby>読書<rt>どくしょ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>",
         "<ruby>小説<rt>しょうせつ</rt></ruby>よりもビジネス<ruby>書<rt>しょ</rt></ruby>や<ruby>実用<rt>じつよう</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むべきだということ",
         "<ruby>読書<rt>どくしょ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く<ruby>読<rt>よ</rt></ruby>むことより、<ruby>立<rt>た</rt></ruby>ち<ruby>止<rt>ど</rt></ruby>まって<ruby>深<rt>ふか</rt></ruby>く<ruby>対話<rt>たいわ</rt></ruby>しながら<ruby>読<rt>よ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>だということ",
         "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むときはメモを<ruby>取<rt>と</rt></ruby>らずに<ruby>記憶<rt>きおく</rt></ruby>すること"
       ],
       "choices_ruby": [
-        "1<ruby>日<rt>にち</rt></ruby>に1<ruby>冊<rt>さつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>速<rt>はや</rt></ruby><ruby>読<rt>読</rt></ruby>する<ruby>読書<rt>どくしょ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>",
+        "1<ruby>日<rt>にち</rt></ruby>に1<ruby>冊<rt>さつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>速<rt>はや</rt></ruby><ruby>読<rt>よ</rt></ruby>する<ruby>読書<rt>どくしょ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>",
         "<ruby>小説<rt>しょうせつ</rt></ruby>よりもビジネス<ruby>書<rt>しょ</rt></ruby>や<ruby>実用<rt>じつよう</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むべきだということ",
         "<ruby>読書<rt>どくしょ</rt></ruby>は<ruby>速<rt>はや</rt></ruby>く<ruby>読<rt>よ</rt></ruby>むことより、<ruby>立<rt>た</rt></ruby>ち<ruby>止<rt>ど</rt></ruby>まって<ruby>深<rt>ふか</rt></ruby>く<ruby>対話<rt>たいわ</rt></ruby>しながら<ruby>読<rt>よ</rt></ruby>むことが<ruby>大切<rt>たいせつ</rt></ruby>だということ",
         "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むときはメモを<ruby>取<rt>と</rt></ruby>らずに<ruby>記憶<rt>きおく</rt></ruby>すること"

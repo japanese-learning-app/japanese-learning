@@ -1814,7 +1814,7 @@ window.JLPT_KANJI_DATA = {
         "day": 12,
         "qIndex": 2,
         "word": "何",
-        "reading": "なん/なに"
+        "reading": "なに"
       }
     },
     {

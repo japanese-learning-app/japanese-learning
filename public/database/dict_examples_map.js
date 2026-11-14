@@ -5057,11 +5057,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They cancelled the festival."
   },
   "お見舞い": {
-    "ja": "<ruby>同僚<rt>どうりょう</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>したと<ruby>聞<rt>き</rt></ruby>き、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>たちとお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>一日<rt>ついたち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>回復<rt>かいふく</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>うメッセージカードを<ruby>渡<rt>わた</rt></ruby>した。",
+    "ja": "<ruby>同僚<rt>どうりょう</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>したと<ruby>聞<rt>き</rt></ruby>き、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>たちとお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>一日<rt>いちにち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>回復<rt>かいふく</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>うメッセージカードを<ruby>渡<rt>わた</rt></ruby>した。",
     "en": "Hearing that a colleague was hospitalized, we went to visit them in the hospital over the weekend and handed them a get-well card wishing for a speedy recovery."
   },
   "おみまい": {
-    "ja": "<ruby>同僚<rt>どうりょう</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>したと<ruby>聞<rt>き</rt></ruby>き、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>たちとお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>一日<rt>ついたち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>回復<rt>かいふく</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>うメッセージカードを<ruby>渡<rt>わた</rt></ruby>した。",
+    "ja": "<ruby>同僚<rt>どうりょう</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>したと<ruby>聞<rt>き</rt></ruby>き、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>たちとお<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>一日<rt>いちにち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>回復<rt>かいふく</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>うメッセージカードを<ruby>渡<rt>わた</rt></ruby>した。",
     "en": "Hearing that a colleague was hospitalized, we went to visit them in the hospital over the weekend and handed them a get-well card wishing for a speedy recovery."
   },
   "お土産": {
@@ -5109,11 +5109,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It was only after I started living alone that I truly realized the gratitude I owed my parents, who had supported my daily life and chores."
   },
   "泳ぎ方": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泳<rt>およ</rt></ruby>ぎ<ruby>方<rt>ほう</rt></ruby>を<ruby>習<rt>なら</rt></ruby>った。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泳<rt>およ</rt></ruby>ぎ<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>った。",
     "en": "He learned how to swim."
   },
   "およぎかた": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泳<rt>およ</rt></ruby>ぎ<ruby>方<rt>ほう</rt></ruby>を<ruby>習<rt>なら</rt></ruby>った。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>泳<rt>およ</rt></ruby>ぎ<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>った。",
     "en": "He learned how to swim."
   },
   "下りる": {
@@ -6509,11 +6509,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "女性": {
-    "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>管理職<rt>かんりしょく</rt></ruby>における<ruby>女性<rt>じょせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるため、<ruby>育児<rt>いくじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>や<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>ほう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>を<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>管理職<rt>かんりしょく</rt></ruby>における<ruby>女性<rt>じょせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるため、<ruby>育児<rt>いくじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>や<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>を<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
     "en": "The government is actively promoting childcare support and work-style reform to increase the proportion of women in managerial positions."
   },
   "じょせい": {
-    "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>管理職<rt>かんりしょく</rt></ruby>における<ruby>女性<rt>じょせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるため、<ruby>育児<rt>いくじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>や<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>ほう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>を<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ja": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>管理職<rt>かんりしょく</rt></ruby>における<ruby>女性<rt>じょせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるため、<ruby>育児<rt>いくじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>や<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>を<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
     "en": "The government is actively promoting childcare support and work-style reform to increase the proportion of women in managerial positions."
   },
   "人口": {
@@ -11197,7 +11197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "寄付": {
-    "ja": "<ruby>被災地<rt>ひさいち</rt></ruby>の<ruby>一日<rt>ついたち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>復興<rt>ふっこう</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>い、<ruby>全校生徒<rt>ぜんこうせいと</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>めた<ruby>義援金<rt>ぎえんきん</rt></ruby>を<ruby>寄付<rt>きふ</rt></ruby>した。",
+    "ja": "<ruby>被災地<rt>ひさいち</rt></ruby>の<ruby>一日<rt>いちにち</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>復興<rt>ふっこう</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>い、<ruby>全校生徒<rt>ぜんこうせいと</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>めた<ruby>義援金<rt>ぎえんきん</rt></ruby>を<ruby>寄付<rt>きふ</rt></ruby>した。",
     "en": "Hoping for the swift recovery of the disaster-stricken area, we donated the relief funds collected from all the students."
   },
   "きふ": {
@@ -19285,7 +19285,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "真似": {
-    "ja": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ぶりを<ruby>真似<rt>まね</rt></ruby>することから<ruby>始<rt>はじ</rt></ruby>め、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>なりのやり<ruby>方<rt>ほう</rt></ruby>を<ruby>確立<rt>かくりつ</rt></ruby>していった。",
+    "ja": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ぶりを<ruby>真似<rt>まね</rt></ruby>することから<ruby>始<rt>はじ</rt></ruby>め、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>なりのやり<ruby>方<rt>かた</rt></ruby>を<ruby>確立<rt>かくりつ</rt></ruby>していった。",
     "en": "Starting by imitating senior colleagues' working style at first, I gradually established my own approach."
   },
   "まね": {
@@ -33621,11 +33621,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "脅す": {
-    "ja": "<ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>脅<rt>おど</rt></ruby>すという<ruby>彼<rt>かれ</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らは<ruby>気に入<rt>きにい</rt></ruby>らなかった。",
+    "ja": "<ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>脅<rt>おど</rt></ruby>すという<ruby>彼<rt>かれ</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らは<ruby>気に入<rt>きにい</rt></ruby>らなかった。",
     "en": "They did not like the way he threatened his opponents."
   },
   "おどす": {
-    "ja": "<ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>脅<rt>おど</rt></ruby>すという<ruby>彼<rt>かれ</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らは<ruby>気に入<rt>きにい</rt></ruby>らなかった。",
+    "ja": "<ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>脅<rt>おど</rt></ruby>すという<ruby>彼<rt>かれ</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らは<ruby>気に入<rt>きにい</rt></ruby>らなかった。",
     "en": "They did not like the way he threatened his opponents."
   },
   "驚き": {
@@ -34357,7 +34357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The rivers were flooded by the heavy rain."
   },
   "過多": {
-    "ja": "<ruby>胃酸<rt>いさん</rt></ruby><ruby>過多<rt>かた</rt></ruby>で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>ほう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。",
+    "ja": "<ruby>胃酸<rt>いさん</rt></ruby><ruby>過多<rt>かた</rt></ruby>で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>かた</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。",
     "en": "Tomatoes are good for people who suffer stomach pain from excess stomach acid when their stomach is empty."
   },
   "難い": {
@@ -38997,7 +38997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was told to wait for a while."
   },
   "痺れる": {
-    "ja": "このからしは<ruby>舌<rt>した</rt></ruby>が<ruby>痺<rt>しび</rt></ruby>れるほど<ruby>辛<rt>つら</rt></ruby>い。",
+    "ja": "このからしは<ruby>舌<rt>した</rt></ruby>が<ruby>痺<rt>しび</rt></ruby>れるほど<ruby>辛<rt>から</rt></ruby>い。",
     "en": "This mustard really bites the tongue."
   },
   "渋い": {
@@ -43941,12 +43941,12 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Naomi Osaka lit the Olympic flame for the 2020 Tokyo Olympics in 2021."
   },
   "転換": {
-    "ja": "<ruby>転換<rt>てんかん</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby>は<ruby>拷問<rt>ごうもん</rt></ruby>です。",
-    "en": "Conversion therapy is torture."
+    "ja": "<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>転換<rt>てんかん</rt></ruby>することにしました。",
+    "en": "We decided to change the direction of our business."
   },
   "てんかん": {
-    "ja": "<ruby>転換<rt>てんかん</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby>は<ruby>拷問<rt>ごうもん</rt></ruby>です。",
-    "en": "Conversion therapy is torture."
+    "ja": "<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>転換<rt>てんかん</rt></ruby>することにしました。",
+    "en": "We decided to change the direction of our business."
   },
   "転居": {
     "ja": "ご<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>転居<rt>てんきょ</rt></ruby>されたんですか？",
@@ -49429,16 +49429,16 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We are groping for a way out of the present situation."
   },
   "若し": {
-    "ja": "<ruby>何人<rt>なんにん</rt></ruby>も、<ruby>拷問<rt>ごうもん</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>残虐<rt>ざんぎゃく</rt></ruby>な、<ruby>非人道的<rt>ひじんどうてき</rt></ruby>な<ruby>若<rt>も</rt></ruby>しくは<ruby>屈辱的<rt>くつじょくてき</rt></ruby>な<ruby>取扱<rt>とりあつかい</rt></ruby><ruby>若<rt>も</rt></ruby>しくは<ruby>刑罰<rt>けいばつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることはない。",
-    "en": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
+    "ja": "ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>があれば、お<ruby>電話<rt>でんわ</rt></ruby><ruby>若<rt>も</rt></ruby>しくはメールにてお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせください。",
+    "en": "If you have any questions, please contact us by phone or email."
   },
   "若しくは": {
-    "ja": "<ruby>何人<rt>なんにん</rt></ruby>も、<ruby>拷問<rt>ごうもん</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>残虐<rt>ざんぎゃく</rt></ruby>な、<ruby>非人道的<rt>ひじんどうてき</rt></ruby>な<ruby>若<rt>も</rt></ruby>しくは<ruby>屈辱的<rt>くつじょくてき</rt></ruby>な<ruby>取扱<rt>とりあつかい</rt></ruby><ruby>若<rt>も</rt></ruby>しくは<ruby>刑罰<rt>けいばつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることはない。",
-    "en": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
+    "ja": "ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>があれば、お<ruby>電話<rt>でんわ</rt></ruby><ruby>若<rt>も</rt></ruby>しくはメールにてお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせください。",
+    "en": "If you have any questions, please contact us by phone or email."
   },
   "もしくは": {
-    "ja": "<ruby>何人<rt>なんにん</rt></ruby>も、<ruby>拷問<rt>ごうもん</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>残虐<rt>ざんぎゃく</rt></ruby>な、<ruby>非人道的<rt>ひじんどうてき</rt></ruby>な<ruby>若<rt>も</rt></ruby>しくは<ruby>屈辱的<rt>くつじょくてき</rt></ruby>な<ruby>取扱<rt>とりあつかい</rt></ruby><ruby>若<rt>も</rt></ruby>しくは<ruby>刑罰<rt>けいばつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることはない。",
-    "en": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
+    "ja": "ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>があれば、お<ruby>電話<rt>でんわ</rt></ruby><ruby>若<rt>も</rt></ruby>しくはメールにてお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせください。",
+    "en": "If you have any questions, please contact us by phone or email."
   },
   "持ち": {
     "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>持<rt>も</rt></ruby>ちに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",

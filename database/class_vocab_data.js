@@ -3427,7 +3427,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "voisin (à côté)"
     },
     "example": {
-      "ja": "A: お<ruby>隣<rt>となり</rt></ruby>の<ruby>隣人<rt>りんじん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>とは<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしていますか？<br/>B: ええ、<ruby>朝顔<rt>あさがお</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせた<ruby>時<rt>とき</rt></ruby>によく<ruby>挨拶<rt>あいさつ</rt></ruby>していますよ。",
+      "ja": "A: お<ruby>隣<rt>となり</rt></ruby>の<ruby>隣人<rt>りんじん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>とは<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしていますか？<br/>B: ええ、<ruby>朝顔<rt>あさがお</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせた<ruby>時<rt>とき</rt></ruby>によく<ruby>挨拶<rt>あいさつ</rt></ruby>していますよ。",
       "en": "A: Do you greet your next-door neighbor?<br/>B: Yes, we often greet each other when we run into each other in the morning.",
       "zh_TW": "A: Do you greet your next-door neighbor?<br/>B: Yes, we often greet each other when we run into each other in the morning.",
       "zh_CN": "A: Do you greet your next-door neighbor?<br/>B: Yes, we often greet each other when we run into each other in the morning.",
@@ -5415,7 +5415,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "objet perdu ; objet perdu"
     },
     "example": {
-      "ja": "A: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたのですが、なくし<ruby>物<rt>ぶつ</rt></ruby>は<ruby>届<rt>とど</rt></ruby>いていませんか？<br/>B: <ruby>駅<rt>えき</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>してみましょう。",
+      "ja": "A: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたのですが、なくし<ruby>物<rt>もの</rt></ruby>は<ruby>届<rt>とど</rt></ruby>いていませんか？<br/>B: <ruby>駅<rt>えき</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>してみましょう。",
       "en": "A: I left my wallet on the train; has any lost property been turned in?<br/>B: Let's check with the station service desk.",
       "zh_TW": "A: I left my wallet on the train; has any lost property been turned in?<br/>B: Let's check with the station service desk.",
       "zh_CN": "A: I left my wallet on the train; has any lost property been turned in?<br/>B: Let's check with the station service desk.",
@@ -13698,7 +13698,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "étudiant international"
     },
     "example": {
-      "ja": "<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>ですか？",
+      "ja": "<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>ですか？",
       "en": "Are you an exchange student?",
       "zh_TW": "Are you an exchange student?",
       "zh_CN": "Are you an exchange student?",
@@ -14987,7 +14987,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "arrière-grand-mère"
     },
     "example": {
-      "ja": "A: ご<ruby>親戚<rt>しんせき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>最<rt>さい</rt></ruby><ruby>高齢<rt>こうれい</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>はどなたですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>のひいおばあさんです。<ruby>今年<rt>ことし</rt></ruby>でなんと100<ruby>歳<rt>さい</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えました。",
+      "ja": "A: ご<ruby>親戚<rt>しんせき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>最<rt>さい</rt></ruby><ruby>高齢<rt>こうれい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>はどなたですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>のひいおばあさんです。<ruby>今年<rt>ことし</rt></ruby>でなんと100<ruby>歳<rt>さい</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えました。",
       "en": "A: Who is the oldest person among your relatives?<br/>B: My great-grandmother. She celebrated her 100th birthday this year.",
       "zh_TW": "A: 你的親戚裡面年紀最大的是哪一位？<br/>B: 是我的曾祖母。今年居然已經迎來100歲高壽了。",
       "zh_CN": "A: 你的亲戚里面年纪最大的是哪一位？<br/>B: 是我的曾祖母。今年居然已经迎来100岁高寿了。",
@@ -15538,7 +15538,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "personne importante / personne de haut statut"
     },
     "example": {
-      "ja": "A: <ruby>社長<rt>しゃちょう</rt></ruby><ruby>室<rt>しつ</rt></ruby>から<ruby>出<rt>で</rt></ruby>てきたあの<ruby>方<rt>ほう</rt></ruby>は、<ruby>本社<rt>ほんしゃ</rt></ruby>の<ruby>偉<rt>えら</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>ですか？<br/>B: はい、<ruby>専務<rt>せんむ</rt></ruby><ruby>取締役<rt>とりしまりやく</rt></ruby>の<ruby>役員<rt>やくいん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>ですよ。",
+      "ja": "A: <ruby>社長<rt>しゃちょう</rt></ruby><ruby>室<rt>しつ</rt></ruby>から<ruby>出<rt>で</rt></ruby>てきたあの<ruby>方<rt>かた</rt></ruby>は、<ruby>本社<rt>ほんしゃ</rt></ruby>の<ruby>偉<rt>えら</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>ですか？<br/>B: はい、<ruby>専務<rt>せんむ</rt></ruby><ruby>取締役<rt>とりしまりやく</rt></ruby>の<ruby>役員<rt>やくいん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>ですよ。",
       "en": "A: Is that person who came out of the president's office an important executive?<br/>B: Yes, he is a managing director of the company.",
       "zh_TW": "A: Is that person who came out of the president's office an important executive?<br/>B: Yes, he is a managing director of the company.",
       "zh_CN": "A: Is that person who came out of the president's office an important executive?<br/>B: Yes, he is a managing director of the company.",
@@ -17295,7 +17295,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "garanti / garanti / de qualité éprouvée"
     },
     "example": {
-      "ja": "A: <ruby>彼<rt>かれ</rt></ruby>の<ruby>誠実<rt>せいじつ</rt></ruby>さと<ruby>仕事<rt>しごと</rt></ruby>の<ruby>正確<rt>せいかく</rt></ruby>さは<ruby>社内<rt>しゃない</rt></ruby>でも<ruby>折り紙<rt>おりがみ</rt></ruby>つきです。<br/>B: <ruby>誰<rt>だれ</rt></ruby>もが<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>寄<rt>よ</rt></ruby>せる<ruby>確<rt>たし</rt></ruby>かな<ruby>実力<rt>じつりょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>方<rt>ほう</rt></ruby>ですね。",
+      "ja": "A: <ruby>彼<rt>かれ</rt></ruby>の<ruby>誠実<rt>せいじつ</rt></ruby>さと<ruby>仕事<rt>しごと</rt></ruby>の<ruby>正確<rt>せいかく</rt></ruby>さは<ruby>社内<rt>しゃない</rt></ruby>でも<ruby>折り紙<rt>おりがみ</rt></ruby>つきです。<br/>B: <ruby>誰<rt>だれ</rt></ruby>もが<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>寄<rt>よ</rt></ruby>せる<ruby>確<rt>たし</rt></ruby>かな<ruby>実力<rt>じつりょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>方<rt>かた</rt></ruby>ですね。",
       "en": "A: His sincerity and work accuracy are of proven, guaranteed quality within the firm.<br/>B: He possesses proven competence that everyone trusts.",
       "zh_TW": "A: His sincerity and work accuracy are of proven, guaranteed quality within the firm.<br/>B: He possesses proven competence that everyone trusts.",
       "zh_CN": "A: His sincerity and work accuracy are of proven, guaranteed quality within the firm.<br/>B: He possesses proven competence that everyone trusts.",
@@ -28795,7 +28795,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Mémoriser le tout / Mémoriser petit à petit / mémoriser par cœur / mémoriser en gros"
     },
     "example": {
-      "ja": "A: <ruby>単語<rt>たんご</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>せずに<ruby>丸<rt>まる</rt></ruby><ruby>暗記<rt>あんき</rt></ruby>するのは<ruby>効率<rt>こうりつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。<br/>B: <ruby>例文<rt>れいぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えると<ruby>記憶<rt>きおく</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>しますよ。",
+      "ja": "A: <ruby>単語<rt>たんご</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>せずに<ruby>丸<rt>まる</rt></ruby><ruby>暗記<rt>あんき</rt></ruby>するのは<ruby>効率<rt>こうりつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。<br/>B: <ruby>例文<rt>れいぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えると<ruby>記憶<rt>きおく</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>しますよ。",
       "en": "A: Memorizing by rote without grasping meanings is inefficient.<br/>B: Learning how words are used alongside example sentences anchors memory.",
       "zh_TW": "A: Memorizing by rote without grasping meanings is inefficient.<br/>B: Learning how words are used alongside example sentences anchors memory.",
       "zh_CN": "A: Memorizing by rote without grasping meanings is inefficient.<br/>B: Learning how words are used alongside example sentences anchors memory.",
@@ -30314,7 +30314,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "voisin"
     },
     "example": {
-      "ja": "A: <ruby>隣人<rt>りんじん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>から<ruby>家庭<rt>かてい</rt></ruby><ruby>菜園<rt>さいえん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をたくさんいただきました。<br/>B: <ruby>普段<rt>ふだん</rt></ruby>から<ruby>仲良<rt>なかよ</rt></ruby>くしていると<ruby>嬉<rt>うれ</rt></ruby>しいお<ruby>裾分<rt>すそわ</rt></ruby>けがありますね。",
+      "ja": "A: <ruby>隣人<rt>りんじん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>から<ruby>家庭<rt>かてい</rt></ruby><ruby>菜園<rt>さいえん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をたくさんいただきました。<br/>B: <ruby>普段<rt>ふだん</rt></ruby>から<ruby>仲良<rt>なかよ</rt></ruby>くしていると<ruby>嬉<rt>うれ</rt></ruby>しいお<ruby>裾分<rt>すそわ</rt></ruby>けがありますね。",
       "en": "A: I received plenty of home-grown vegetables from my neighbor.<br/>B: Getting along well with neighbors brings lovely treats.",
       "zh_TW": "A: I received plenty of home-grown vegetables from my neighbor.<br/>B: Getting along well with neighbors brings lovely treats.",
       "zh_CN": "A: I received plenty of home-grown vegetables from my neighbor.<br/>B: Getting along well with neighbors brings lovely treats.",
@@ -34291,7 +34291,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ail"
     },
     "example": {
-      "ja": "A: <ruby>炒<rt>いた</rt></ruby>め<ruby>物<rt>ぶつ</rt></ruby>にすりおろしたにんにくを<ruby>入<rt>い</rt></ruby>れると<ruby>香<rt>かお</rt></ruby>りが<ruby>引き立<rt>ひきた</rt></ruby>ちますね。<br/>B: にんにくの<ruby>食欲<rt>しょくよく</rt></ruby>をそそる<ruby>風味<rt>ふうみ</rt></ruby>でご<ruby>飯<rt>はん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>みます。",
+      "ja": "A: <ruby>炒め物<rt>いためもの</rt></ruby>にすりおろしたにんにくを<ruby>入<rt>い</rt></ruby>れると<ruby>香<rt>かお</rt></ruby>りが<ruby>引き立<rt>ひきた</rt></ruby>ちますね。<br/>B: にんにくの<ruby>食欲<rt>しょくよく</rt></ruby>をそそる<ruby>風味<rt>ふうみ</rt></ruby>でご<ruby>飯<rt>はん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>みます。",
       "en": "A: Adding grated garlic to stir-fry elevates the aroma.<br/>B: Garlic's appetizing aroma makes you eat plenty of rice.",
       "zh_TW": "A: Adding grated garlic to stir-fry elevates the aroma.<br/>B: Garlic's appetizing aroma makes you eat plenty of rice.",
       "zh_CN": "A: Adding grated garlic to stir-fry elevates the aroma.<br/>B: Garlic's appetizing aroma makes you eat plenty of rice.",
@@ -51575,7 +51575,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Fabric softener."
     },
     "example": {
-      "ja": "A: <ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>をふんわり<ruby>仕上<rt>しあ</rt></ruby>げるために、お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。<br/>B: <ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りが<ruby>干<rt>ほ</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>も<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がって<ruby>心地<rt>ここち</rt></ruby>いいですね。",
+      "ja": "A: <ruby>洗濯物<rt>せんたくもの</rt></ruby>をふんわり<ruby>仕上<rt>しあ</rt></ruby>げるために、お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。<br/>B: <ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>剤<rt>ざい</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りが<ruby>干<rt>ほ</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>も<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がって<ruby>心地<rt>ここち</rt></ruby>いいですね。",
       "en": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
       "zh_TW": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",
       "zh_CN": "A: I use my favorite fabric softener to give laundry a fluffy finish.<br/>B: The lovely aroma of fabric softener spreading while drying is so nice.",

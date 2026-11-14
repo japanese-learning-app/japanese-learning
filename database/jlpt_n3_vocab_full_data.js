@@ -889,7 +889,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いたずら",
     "ruby": "いたずら",
     "meaning": "tease; prank; trick; practical joke",
-    "ex_ja": "<ruby>飼<rt>か</rt></ruby>い<ruby>猫<rt>ねこ</rt></ruby>が<ruby>毛糸<rt>けいと</rt></ruby>の<ruby>玉<rt>たま</rt></ruby>でいたずらをして、<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>糸<rt>いと</rt></ruby>が<ruby>絡<rt>から</rt></ruby>まって<ruby>大変<rt>たいへん</rt></ruby>だった。",
+    "ex_ja": "<ruby>飼<rt>か</rt></ruby>い<ruby>猫<rt>ねこ</rt></ruby>が<ruby>毛糸<rt>けいと</rt></ruby>の<ruby>玉<rt>たま</rt></ruby>でいたずらをして、<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>糸<rt>いと</rt></ruby>が<ruby>絡<rt>から</rt></ruby>まって<ruby>大変<rt>たいへん</rt></ruby>だった。",
     "ex_en": "My pet cat played a prank with a ball of yarn, and the thread got tangled all over the room, which was a handful."
   },
   {
@@ -1641,7 +1641,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うち",
     "ruby": "<ruby>内<rt>うち</rt></ruby>",
     "meaning": "inside",
-    "ex_ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなってきたので、<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>していた<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>家<rt>いえ</rt></ruby>の<ruby>内<rt>うち</rt></ruby>へ<ruby>取<rt>と</rt></ruby>り<ruby>込<rt>こ</rt></ruby>んだ。",
+    "ex_ja": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなってきたので、<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>していた<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>家<rt>いえ</rt></ruby>の<ruby>内<rt>うち</rt></ruby>へ<ruby>取<rt>と</rt></ruby>り<ruby>込<rt>こ</rt></ruby>んだ。",
     "ex_en": "Because the rain grew heavier, I hurriedly brought the laundry hanging outside back inside the house."
   },
   {
@@ -2265,7 +2265,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "おだやか",
     "ruby": "<ruby>穏<rt>おだ</rt></ruby>やか",
     "meaning": "calm; gentle; quiet",
-    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>もなく<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>晴天<rt>せいてん</rt></ruby>に<ruby>恵<rt>めぐ</rt></ruby>まれたので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>乾<rt>かわ</rt></ruby>いた。",
+    "ex_ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>もなく<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>晴天<rt>せいてん</rt></ruby>に<ruby>恵<rt>めぐ</rt></ruby>まれたので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>乾<rt>かわ</rt></ruby>いた。",
     "ex_en": "Blessed with calm, clear weather without any wind today, the laundry dried pleasantly."
   },
   {
@@ -7641,7 +7641,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さっきょく",
     "ruby": "<ruby>作曲<rt>さっきょく</rt></ruby>",
     "meaning": "composition; setting (of music)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はギターを<ruby>弾<rt>はじ</rt></ruby>きながら<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>う<ruby>曲<rt>きょく</rt></ruby>の<ruby>作曲<rt>さっきょく</rt></ruby>をしています。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はギターを<ruby>弾<rt>ひ</rt></ruby>きながら<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>う<ruby>曲<rt>きょく</rt></ruby>の<ruby>作曲<rt>さっきょく</rt></ruby>をしています。",
     "ex_en": "He is composing a song to be sung at the graduation ceremony while playing the guitar."
   },
   {
@@ -7657,7 +7657,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "さつ",
     "ruby": "<ruby>札<rt>さつ</rt></ruby>",
     "meaning": "(1) token; label; (2) ticket; (3) charm",
-    "ex_ja": "<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>に<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>書<rt>か</rt></ruby>かれた<ruby>小<rt>ちい</rt></ruby>さな<ruby>札<rt>さつ</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けてある。",
+    "ex_ja": "<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>に<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>書<rt>か</rt></ruby>かれた<ruby>小<rt>ちい</rt></ruby>さな<ruby>札<rt>ふだ</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けてある。",
     "ex_en": "Small labels with the names of the plants written on them are carefully attached to the tree branches."
   },
   {
@@ -7897,7 +7897,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ざいさん",
     "ruby": "<ruby>財産<rt>ざいさん</rt></ruby>",
     "meaning": "property; fortune; assets",
-    "ex_ja": "<ruby>健康<rt>けんこう</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>と<ruby>温<rt>あたた</rt></ruby>かい<ruby>家族<rt>かぞく</rt></ruby>は<ruby>何<rt>なん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>財産<rt>ざいさん</rt></ruby>です。",
+    "ex_ja": "<ruby>健康<rt>けんこう</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>と<ruby>温<rt>あたた</rt></ruby>かい<ruby>家族<rt>かぞく</rt></ruby>は<ruby>何物<rt>なにもの</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>財産<rt>ざいさん</rt></ruby>です。",
     "ex_en": "A healthy body and a warm family are precious assets that cannot be replaced by anything."
   },
   {
@@ -9113,7 +9113,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "しょうたい",
     "ruby": "<ruby>正体<rt>しょうたい</rt></ruby>",
     "meaning": "natural shape, one's true colors, true character",
-    "ex_ja": "<ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>屋根<rt>やね</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>足音<rt>あしおと</rt></ruby>を<ruby>立<rt>た</rt></ruby>てていた<ruby>音<rt>おと</rt></ruby>の<ruby>正体<rt>しょうたい</rt></ruby>は<ruby>隣<rt>となり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>猫<rt>ねこ</rt></ruby>だった。",
+    "ex_ja": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>屋根<rt>やね</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>足音<rt>あしおと</rt></ruby>を<ruby>立<rt>た</rt></ruby>てていた<ruby>音<rt>おと</rt></ruby>の<ruby>正体<rt>しょうたい</rt></ruby>は<ruby>隣<rt>となり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>猫<rt>ねこ</rt></ruby>だった。",
     "ex_en": "The true identity of the footsteps heard on the roof in the middle of the night was the neighbor's cat."
   },
   {
@@ -10393,7 +10393,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "じゅん",
     "ruby": "<ruby>順<rt>じゅん</rt></ruby>",
     "meaning": "order; turn",
-    "ex_ja": "<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>配<rt>くば</rt></ruby>られた<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばれたら<ruby>中<rt>なか</rt></ruby>へお<ruby>入<rt>はい</rt></ruby>りください。",
+    "ex_ja": "<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>配<rt>くば</rt></ruby>られた<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>ふだ</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>に<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばれたら<ruby>中<rt>なか</rt></ruby>へお<ruby>入<rt>はい</rt></ruby>りください。",
     "ex_en": "Please enter inside when your name is called in the order of the numbered tickets handed out at reception."
   },
   {
@@ -13833,7 +13833,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "ちゃ",
     "ruby": "<ruby>茶<rt>ちゃ</rt></ruby>",
     "meaning": "tea",
-    "ex_ja": "<ruby>来客<rt>らいきゃく</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すために、<ruby>祖母<rt>そぼ</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>にしまっておいた<ruby>香<rt>かお</rt></ruby>り<ruby>高<rt>たか</rt></ruby>い<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>淹<rt>淹</rt></ruby>れた。",
+    "ex_ja": "<ruby>来客<rt>らいきゃく</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すために、<ruby>祖母<rt>そぼ</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>にしまっておいた<ruby>香<rt>かお</rt></ruby>り<ruby>高<rt>たか</rt></ruby>い<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>淹<rt>い</rt></ruby>れた。",
     "ex_en": "To serve to the guests, I brewed the fragrant tea that my grandmother had carefully stored away."
   },
   {

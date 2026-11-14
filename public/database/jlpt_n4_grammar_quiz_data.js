@@ -890,7 +890,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "乾きにくい",
-    "notes": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が『<ruby>簡単<rt>かんたん</rt></ruby>には<ruby>乾<rt>かわ</rt></ruby>かない』ので、「<ruby>乾<rt>かわ</rt></ruby>きにくい」が<ruby>正解<rt>せいかい</rt></ruby>です。「<ruby>乾<rt>かわ</rt></ruby>くにくい」「<ruby>乾<rt>かわ</rt></ruby>いてにくい」は<ruby>接続<rt>せつぞく</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りです。 / On rainy days laundry 'doesn't dry easily' (乾きにくい).",
+    "notes": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>が『<ruby>簡単<rt>かんたん</rt></ruby>には<ruby>乾<rt>かわ</rt></ruby>かない』ので、「<ruby>乾<rt>かわ</rt></ruby>きにくい」が<ruby>正解<rt>せいかい</rt></ruby>です。「<ruby>乾<rt>かわ</rt></ruby>くにくい」「<ruby>乾<rt>かわ</rt></ruby>いてにくい」は<ruby>接続<rt>せつぞく</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りです。 / On rainy days laundry 'doesn't dry easily' (乾きにくい).",
     "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>がなかなか（　　　）から、<ruby>困<rt>こま</rt></ruby>ります。",
     "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>がなかなか<ruby>乾<rt>かわ</rt></ruby>きにくいから、<ruby>困<rt>こま</rt></ruby>ります。",
     "choices_ruby": [

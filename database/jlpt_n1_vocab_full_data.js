@@ -2167,9 +2167,9 @@ window.JLPT_N1_VOCAB_DATA = [
     "page": 5,
     "word": "一人",
     "reading": "いちにん",
-    "ruby": "<ruby>一人<rt>いちにん</rt></ruby>",
+    "ruby": "<ruby>一人<rt>ひとり</rt></ruby>",
     "meaning": "one person",
-    "ex_ja": "<ruby>入場券<rt>にゅうじょうけん</rt></ruby>は<ruby>一人<rt>いちにん</rt></ruby>につき<ruby>二枚<rt>にまい</rt></ruby>まで<ruby>購入<rt>こうにゅう</rt></ruby>することができますので、<ruby>窓口<rt>まどぐち</rt></ruby>でお<ruby>申<rt>もう</rt></ruby>し<ruby>出<rt>で</rt></ruby>ください。",
+    "ex_ja": "<ruby>入場券<rt>にゅうじょうけん</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>につき<ruby>二枚<rt>にまい</rt></ruby>まで<ruby>購入<rt>こうにゅう</rt></ruby>することができますので、<ruby>窓口<rt>まどぐち</rt></ruby>でお<ruby>申<rt>もう</rt></ruby>し<ruby>出<rt>で</rt></ruby>ください。",
     "ex_en": "Up to two admission tickets can be purchased per person, so please inquire at the counter."
   },
   {
@@ -5289,7 +5289,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "か",
     "ruby": "<ruby>仮<rt>か</rt></ruby>",
     "meaning": "tentative; provisional",
-    "ex_ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>正式<rt>せいしき</rt></ruby>な<ruby>名称<rt>めい称</rt></ruby>が<ruby>決<rt>き</rt></ruby>まるまでの<ruby>間<rt>あいだ</rt></ruby>、<ruby>計画書<rt>けいかくしょ</rt></ruby>では<ruby>仮<rt>かり</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_ja": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>正式<rt>せいしき</rt></ruby>な<ruby>名称<rt>めいしょう</rt></ruby>が<ruby>決<rt>き</rt></ruby>まるまでの<ruby>間<rt>あいだ</rt></ruby>、<ruby>計画書<rt>けいかくしょ</rt></ruby>では<ruby>仮<rt>かり</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
     "ex_en": "Until the official name of the new library is decided, preparations are proceeding using a provisional name in the planning documents."
   },
   {
@@ -6521,7 +6521,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かた",
     "ruby": "<ruby>過多<rt>かた</rt></ruby>",
     "meaning": "excess; superabundance",
-    "ex_ja": "<ruby>胃酸<rt>いさん</rt></ruby><ruby>過多<rt>かた</rt></ruby>で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>ほう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。",
+    "ex_ja": "<ruby>胃酸<rt>いさん</rt></ruby><ruby>過多<rt>かた</rt></ruby>で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>かた</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。",
     "ex_en": "Tomatoes are good for people who suffer stomach pain from excess stomach acid when their stomach is empty."
   },
   {
@@ -12425,7 +12425,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "げんし",
     "ruby": "<ruby>原子<rt>げんし</rt></ruby>",
     "meaning": "atom",
-    "ex_ja": "<ruby>高校<rt>こうこう</rt></ruby>の<ruby>化学<rt>かがく</rt></ruby>の<ruby>授業<rt>じっけん</rt></ruby>で、<ruby>分子<rt>ぶんし</rt></ruby>の<ruby>立体<rt>りったい</rt></ruby><ruby>模型<rt>もけい</rt></ruby>を<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てながら<ruby>炭素<rt>たんそ</rt></ruby>や<ruby>水素<rt>すいそ</rt></ruby>の<ruby>原子<rt>げんし</rt></ruby>の<ruby>結合<rt>けつごう</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みを<ruby>学<rt>まな</rt></ruby>んだ。",
+    "ex_ja": "<ruby>高校<rt>こうこう</rt></ruby>の<ruby>化学<rt>かがく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>で、<ruby>分子<rt>ぶんし</rt></ruby>の<ruby>立体<rt>りったい</rt></ruby><ruby>模型<rt>もけい</rt></ruby>を<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てながら<ruby>炭素<rt>たんそ</rt></ruby>や<ruby>水素<rt>すいそ</rt></ruby>の<ruby>原子<rt>げんし</rt></ruby>の<ruby>結合<rt>けつごう</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みを<ruby>学<rt>まな</rt></ruby>んだ。",
     "ex_en": "In high school chemistry class, we learned how carbon and hydrogen atoms bond while assembling three-dimensional molecular models."
   },
   {
@@ -31159,9 +31159,9 @@ window.JLPT_N1_VOCAB_DATA = [
     "page": 65,
     "word": "二人",
     "reading": "ににん",
-    "ruby": "<ruby>二人<rt>ににん</rt></ruby>",
+    "ruby": "<ruby>二人<rt>ふたり</rt></ruby>",
     "meaning": "two persons; two people; pair; couple",
-    "ex_ja": "<ruby>舞台<rt>ぶたい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>二人<rt>ににん</rt></ruby>の<ruby>演者<rt>えんじゃ</rt></ruby>が<ruby>息<rt>いき</rt></ruby>の<ruby>合<rt>あ</rt></ruby>った<ruby>掛<rt>か</rt></ruby>け<ruby>合<rt>あ</rt></ruby>いを<ruby>披露<rt>ひろう</rt></ruby>し、<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>観客<rt>かんきゃく</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かせた。",
+    "ex_ja": "<ruby>舞台<rt>ぶたい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>二人<rt>ふたり</rt></ruby>の<ruby>演者<rt>えんじゃ</rt></ruby>が<ruby>息<rt>いき</rt></ruby>の<ruby>合<rt>あ</rt></ruby>った<ruby>掛<rt>か</rt></ruby>け<ruby>合<rt>あ</rt></ruby>いを<ruby>披露<rt>ひろう</rt></ruby>し、<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>観客<rt>かんきゃく</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かせた。",
     "ex_en": "On stage, the two performers put on a well-coordinated exchange and thrilled the audience in the hall."
   },
   {
@@ -39959,9 +39959,9 @@ window.JLPT_N1_VOCAB_DATA = [
     "page": 84,
     "word": "夜中",
     "reading": "やちゅう",
-    "ruby": "<ruby>夜中<rt>やちゅう</rt></ruby>",
+    "ruby": "<ruby>夜中<rt>よなか</rt></ruby>",
     "meaning": "all night; the whole night",
-    "ex_ja": "<ruby>天体<rt>てんたい</rt></ruby><ruby>観測所<rt>かんそくじょ</rt></ruby>のスタッフは、<ruby>流星群<rt>りゅうせいぐん</rt></ruby>の<ruby>記録<rt>きろく</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>するために<ruby>夜中<rt>やちゅう</rt></ruby>ずっと<ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>を<ruby>見守<rt>みまも</rt></ruby>った。",
+    "ex_ja": "<ruby>天体<rt>てんたい</rt></ruby><ruby>観測所<rt>かんそくじょ</rt></ruby>のスタッフは、<ruby>流星群<rt>りゅうせいぐん</rt></ruby>の<ruby>記録<rt>きろく</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>するために<ruby>夜中<rt>よなか</rt></ruby>ずっと<ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>を<ruby>見守<rt>みまも</rt></ruby>った。",
     "ex_en": "The staff at the astronomical observatory watched over the telescope all night long to photograph records of the meteor shower."
   },
   {
@@ -45113,7 +45113,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "くちずさむ",
     "ruby": "<ruby>口<rt>くち</rt></ruby>ずさむ",
     "meaning": "to hum something; to sing to oneself",
-    "ex_ja": "<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しながらお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>懐<rt>なつ</rt></ruby>かしいメロディーを<ruby>自然<rt>しぜん</rt></ruby>と<ruby>口<rt>くち</rt></ruby>ずさむ<ruby>習慣<rt>しゅうかん</rt></ruby>がある。",
+    "ex_ja": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しながらお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>懐<rt>なつ</rt></ruby>かしいメロディーを<ruby>自然<rt>しぜん</rt></ruby>と<ruby>口<rt>くち</rt></ruby>ずさむ<ruby>習慣<rt>しゅうかん</rt></ruby>がある。",
     "ex_en": "I have a habit of naturally humming my favorite nostalgic melodies while hanging out the laundry."
   },
   {
@@ -46105,7 +46105,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "さっする",
     "ruby": "<ruby>察<rt>さっ</rt></ruby>する",
     "meaning": "to guess; to sense; to presume; to judge; to sympathize with",
-    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>に<ruby>出<rt>だ</rt></ruby>さなくても<ruby>相手<rt>あいて</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>声<rt>こえ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>から<ruby>疲<rt>つか</rt></ruby>れを<ruby>察<rt>さっ</rt></ruby>する<ruby>配慮<rt>はいりょ</rt></ruby>が、<ruby>円滑<rt>えんかつ</rt></ruby>な<ruby>協<rt>きょう</rt></ruby><ruby>働<rt>働</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えている。",
+    "ex_ja": "<ruby>言葉<rt>ことば</rt></ruby>に<ruby>出<rt>だ</rt></ruby>さなくても<ruby>相手<rt>あいて</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>声<rt>こえ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>から<ruby>疲<rt>つか</rt></ruby>れを<ruby>察<rt>さっ</rt></ruby>する<ruby>配慮<rt>はいりょ</rt></ruby>が、<ruby>円滑<rt>えんかつ</rt></ruby>な<ruby>協働<rt>きょうどう</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えている。",
     "ex_en": "The consideration of sensing a colleague's fatigue from their expression and tone of voice without words supports smooth collaboration."
   },
   {
@@ -46473,7 +46473,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "しびれる",
     "ruby": "<ruby>痺<rt>しび</rt></ruby>れる",
     "meaning": "to become numb; to go to sleep (i.e.  a limb)",
-    "ex_ja": "このからしは<ruby>舌<rt>した</rt></ruby>が<ruby>痺<rt>しび</rt></ruby>れるほど<ruby>辛<rt>つら</rt></ruby>い。",
+    "ex_ja": "このからしは<ruby>舌<rt>した</rt></ruby>が<ruby>痺<rt>しび</rt></ruby>れるほど<ruby>辛<rt>から</rt></ruby>い。",
     "ex_en": "This mustard really bites the tongue."
   },
   {
@@ -49225,7 +49225,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "にじむ",
     "ruby": "<ruby>滲<rt>にじ</rt></ruby>む",
     "meaning": "to run; to blur; to spread; to blot; to ooze",
-    "ex_ja": "<ruby>吸水<rt>きゅうすい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>すぎる<ruby>和紙<rt>わし</rt></ruby>に<ruby>水性<rt>すいせい</rt></ruby>インクで<ruby>文字<rt>もじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くと、<ruby>輪郭<rt>りんかく</rt></ruby>がじわっと<ruby>滲<rt>にじ</rt></ruby>むことがあるため<ruby>筆<rt>ふで</rt></ruby><ruby>圧<rt>圧</rt></ruby>を<ruby>加減<rt>かげん</rt></ruby>する。",
+    "ex_ja": "<ruby>吸水<rt>きゅうすい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>すぎる<ruby>和紙<rt>わし</rt></ruby>に<ruby>水性<rt>すいせい</rt></ruby>インクで<ruby>文字<rt>もじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くと、<ruby>輪郭<rt>りんかく</rt></ruby>がじわっと<ruby>滲<rt>にじ</rt></ruby>むことがあるため<ruby>筆圧<rt>ひつあつ</rt></ruby>を<ruby>加減<rt>かげん</rt></ruby>する。",
     "ex_en": "When writing characters with water-based ink on highly absorbent Japanese paper, the outlines may blur slightly, so I adjust the brush pressure."
   },
   {
@@ -51769,7 +51769,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "やりとげる",
     "ruby": "やりとげる",
     "meaning": "to accomplish",
-    "ex_ja": "<ruby>仲間<rt>なかま</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>大<rt>おお</rt></ruby>きな<ruby>壁<rt>かべ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>え、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>舞台<rt>ぶたい</rt></ruby><ruby>公演<rt>こうえん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>までやりとげる<ruby>喜<rt>よろこ</rt></ruby>びは<ruby>何<rt>なん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい。",
+    "ex_ja": "<ruby>仲間<rt>なかま</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>大<rt>おお</rt></ruby>きな<ruby>壁<rt>かべ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>え、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>舞台<rt>ぶたい</rt></ruby><ruby>公演<rt>こうえん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>までやりとげる<ruby>喜<rt>よろこ</rt></ruby>びは<ruby>何物<rt>なにもの</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい。",
     "ex_en": "The joy of joining forces with friends to overcome major hurdles and accomplishing a stage performance to the end is irreplaceable."
   },
   {
@@ -56985,7 +56985,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "オレンジ",
     "ruby": "オレンジ",
     "meaning": "an orange",
-    "ex_ja": "<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>をたっぷり<ruby>浴<rt>あ</rt></ruby>びて<ruby>育<rt>そだ</rt></ruby>った<ruby>完熟<rt>かんじゅく</rt></ruby>のオレンジを<ruby>絞<rt>しぼ</rt></ruby>ると、<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>爽<rt>さわ</rt></ruby>やかで<ruby>甘<rt>あま</rt></ruby>い<ruby>柑橘<rt>かんきつ</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りが<ruby>広<rt>ひろ</rt></ruby>がった。",
+    "ex_ja": "<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>をたっぷり<ruby>浴<rt>あ</rt></ruby>びて<ruby>育<rt>そだ</rt></ruby>った<ruby>完熟<rt>かんじゅく</rt></ruby>のオレンジを<ruby>絞<rt>しぼ</rt></ruby>ると、<ruby>部屋中<rt>へやじゅう</rt></ruby>に<ruby>爽<rt>さわ</rt></ruby>やかで<ruby>甘<rt>あま</rt></ruby>い<ruby>柑橘<rt>かんきつ</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りが<ruby>広<rt>ひろ</rt></ruby>がった。",
     "ex_en": "When I squeezed fully ripe oranges grown in abundant sunlight, a refreshing, sweet citrus aroma filled the room."
   },
   {
@@ -59353,7 +59353,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ポット",
     "ruby": "ポット",
     "meaning": "pot",
-    "ex_ja": "<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>でもすぐにお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>淹<rt>淹</rt></ruby>れられるよう、<ruby>前日<rt>ぜんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>沸<rt>わ</rt></ruby>かしたお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>保温<rt>ほおん</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>魔法瓶<rt>まほうびん</rt></ruby>のポットに<ruby>入<rt>い</rt></ruby>れておく。",
+    "ex_ja": "<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>でもすぐにお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>淹<rt>い</rt></ruby>れられるよう、<ruby>前日<rt>ぜんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>沸<rt>わ</rt></ruby>かしたお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>保温<rt>ほおん</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>魔法瓶<rt>まほうびん</rt></ruby>のポットに<ruby>入<rt>い</rt></ruby>れておく。",
     "ex_en": "So that I can brew tea right away even on a cold winter morning, I pour hot water boiled the night before into a highly insulated thermos pot."
   },
   {

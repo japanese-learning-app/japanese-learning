@@ -8592,7 +8592,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "",
     "question": "兄は（　　　）が上手で、よく歌いながら弾きます。",
-    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>は（　　　）が<ruby>上手<rt>じょうず</rt></ruby>で、よく<ruby>歌<rt>うた</rt></ruby>いながら<ruby>弾<rt>はじ</rt></ruby>きます。",
+    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>は（　　　）が<ruby>上手<rt>じょうず</rt></ruby>で、よく<ruby>歌<rt>うた</rt></ruby>いながら<ruby>弾<rt>ひ</rt></ruby>きます。",
     "choices": [
       "カメラ",
       "ニュース",

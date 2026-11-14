@@ -10191,8 +10191,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "限り",
     "notes": "",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ない【　　】、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ない【　　】、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>変え<rt>かえ</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、<ruby>悪い<rt>わるい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>続く<rt>つづく</rt></ruby>でしょう。",
     "choices_ruby": [
       "<ruby>限<rt>かぎ</rt></ruby>り",
       "<ruby>得<rt>え</rt></ruby>る",

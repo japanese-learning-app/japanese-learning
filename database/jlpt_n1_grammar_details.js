@@ -690,7 +690,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜たるもの」は<ruby>社会<rt>しゃかい</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>責任<rt>せきにん</rt></ruby>や<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>資格<rt>しかく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ「<ruby>人間<rt>にんげん</rt></ruby>・<ruby>組織<rt>そしき</rt></ruby>」の<ruby>立場<rt>たちば</rt></ruby>につく<ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>や<ruby>道具<rt>どうぐ</rt></ruby>などの<ruby>物品<rt>ぶっぴん</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"〜たるもの\" attaches only to people or roles carrying social responsibility or professional status, never to inanimate objects like tea.",
-        "sentence": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>紅茶<rt>こうちゃ</rt></ruby>たるものは、お<ruby>湯<rt>ゆ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>と<ruby>茶<rt>ちゃ</rt></ruby><ruby>葉<rt>は</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて<ruby>淹<rt>淹</rt></ruby>れるべきだ。"
+        "sentence": "<ruby>美味<rt>おい</rt></ruby>しい<ruby>紅茶<rt>こうちゃ</rt></ruby>たるものは、お<ruby>湯<rt>ゆ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>と<ruby>茶<rt>ちゃ</rt></ruby><ruby>葉<rt>は</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて<ruby>淹<rt>い</rt></ruby>れるべきだ。"
       },
       {
         "type": "correct",
@@ -1938,7 +1938,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜んばかり」は<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>が「<ruby>今<rt>いま</rt></ruby>にも〜しそうなほど<ruby>極端<rt>きょくたん</rt></ruby>である」という<ruby>比喩<rt>ひゆ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>強調<rt>きょうちょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>のような<ruby>単<rt>たん</rt></ruby>なる<ruby>推量<rt>すいりょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"〜んばかり\" is a vivid figurative description of something visibly on the verge of happening right before one's eyes, not a simple forecast about tomorrow.",
-        "sentence": "<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らんばかりだから、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>のうちに<ruby>干<rt>ほ</rt></ruby>しておこう。"
+        "sentence": "<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らんばかりだから、<ruby>洗濯物<rt>せんたくもの</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>のうちに<ruby>干<rt>ほ</rt></ruby>しておこう。"
       },
       {
         "type": "correct",
@@ -2420,7 +2420,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with っぱなし)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using っぱなし",
-        "sentence": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>におもちゃを<ruby>散<rt>ち</rt></ruby>らかしっぱなしにして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。"
+        "sentence": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>部屋中<rt>へやじゅう</rt></ruby>におもちゃを<ruby>散<rt>ち</rt></ruby>らかしっぱなしにして、<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ってしまった。"
       }
     ],
     "comparison": [
@@ -3174,9 +3174,9 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
   },
   "62": {
     "formula": "<ruby>名詞<rt>めいし</rt></ruby> ／ <ruby>動詞<rt>どうし</rt></ruby><ruby>普通形<rt>ふつうけい</rt></ruby>＋の ／ 〜から ＋ <strong>にほかならない</strong>",
-    "notes_ja": "「にほかならない」は、まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何<rt>なん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>でもない。という<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すN1の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文型<rt>ぶんけい</rt></ruby>です。<ruby>評論<rt>ひょうろん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>・<ruby>報道<rt>ほうどう</rt></ruby>・<ruby>改<rt>あらた</rt></ruby>まった<ruby>挨拶<rt>あいさつ</rt></ruby>などで<ruby>幅広<rt>はばひろ</rt></ruby>く<ruby>用<rt>もち</rt></ruby>いられます。",
+    "notes_ja": "「にほかならない」は、まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何物<rt>なにもの</rt></ruby>でもない。という<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すN1の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文型<rt>ぶんけい</rt></ruby>です。<ruby>評論<rt>ひょうろん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>・<ruby>報道<rt>ほうどう</rt></ruby>・<ruby>改<rt>あらた</rt></ruby>まった<ruby>挨拶<rt>あいさつ</rt></ruby>などで<ruby>幅広<rt>はばひろ</rt></ruby>く<ruby>用<rt>もち</rt></ruby>いられます。",
     "notes_en": "'にほかならない' is an advanced N1 pattern meaning 'nothing other than; simply because', commonly used in formal writing, editorials, and speeches.",
-    "nuance_ja": "「にほかならない」は、<strong>『まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何<rt>なん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>でもない。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
+    "nuance_ja": "「にほかならない」は、<strong>『まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何物<rt>なにもの</rt></ruby>でもない。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
     "nuance_en": "'にほかならない' expresses <strong>nothing other than; simply because</strong>, highlighting logical relationships or strong speaker stance in formal contexts.",
     "trap_ja": "「〜にほかならない」は<ruby>物事<rt>ものごと</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>や<ruby>隠<rt>かく</rt></ruby>れた<ruby>真<rt>しん</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>断定<rt>だんてい</rt></ruby>する<ruby>硬<rt>かた</rt></ruby>い<ruby>論理<rt>ろんり</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>単純<rt>たんじゅん</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>には<ruby>不自然<rt>ふしぜん</rt></ruby>です。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
     "trap_en": "\"〜にほかならない\" is a formal logical assertion identifying the true essence or root cause of something, not a casual everyday impression. Pay close attention to required grammatical connection and register.",
@@ -3209,7 +3209,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "form_en": "nothing other than; simply because",
         "badge": "N1必須表現",
         "badge_type": "both",
-        "nuance_ja": "まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何<rt>なん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>でもない。",
+        "nuance_ja": "まさにそれ<ruby>以外<rt>いがい</rt></ruby>の<ruby>何物<rt>なにもの</rt></ruby>でもない。",
         "nuance_en": "nothing other than; simply because",
         "example": "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることは、そこに<ruby>暮<rt>く</rt></ruby>らす<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>誇<rt>ほこ</rt></ruby>りと<ruby>絆<rt>きずな</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることにほかならない。"
       },
@@ -3602,7 +3602,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜こととて」は<ruby>主<rt>おも</rt></ruby>に「<ruby>不案内<rt>ふあんない</rt></ruby>なこととて」「<ruby>突然<rt>とつぜん</rt></ruby>のこととて」など、<ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>点<rt>てん</rt></ruby>や<ruby>失敗<rt>しっぱい</rt></ruby>について<ruby>事情<rt>じじょう</rt></ruby>を<ruby>述<rt>の</rt></ruby>べて<ruby>詫<rt>わ</rt></ruby>びたり<ruby>弁解<rt>べんかい</rt></ruby>したりする<ruby>文脈<rt>ぶんみゃく</rt></ruby>で<ruby>使<rt>つか</rt></ruby>われます。",
         "reason_en": "\"〜こととて\" is a formal/humble expression used mainly to explain unavoidable circumstances when apologizing or asking for understanding, not for sunny laundry days.",
-        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がとても<ruby>良<rt>よ</rt></ruby>いこととて、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>いて<ruby>嬉<rt>うれ</rt></ruby>しかった。"
+        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がとても<ruby>良<rt>よ</rt></ruby>いこととて、<ruby>洗濯物<rt>せんたくもの</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>いて<ruby>嬉<rt>うれ</rt></ruby>しかった。"
       },
       {
         "type": "correct",
@@ -5404,7 +5404,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>肯定<rt>こうてい</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>否定<rt>ひてい</rt></ruby><ruby>的<rt>てき</rt></ruby>どちらの<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>程度<rt>ていど</rt></ruby>（「<ruby>美味<rt>おい</rt></ruby>しさといったらない」「<ruby>悔<rt>くや</rt></ruby>しさといったらない」）にも<ruby>使<rt>つか</rt></ruby>えますが、「〜といったらありはしない」は<ruby>主<rt>おも</rt></ruby>にマイナスの<ruby>呆<rt>あき</rt></ruby>れた<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われます。",
         "nuance_en": "Can express both positive and negative extremes, whereas 〜といったらありはしない is predominantly used for negative, exasperating situations.",
-        "example": "<ruby>山頂<rt>さんちょう</rt></ruby>で<ruby>飲<rt>の</rt></ruby>んだ<ruby>淹<rt>淹</rt></ruby>れたてのコーヒーの<ruby>美味<rt>おい</rt></ruby>しさといったらなかった。"
+        "example": "<ruby>山頂<rt>さんちょう</rt></ruby>で<ruby>飲<rt>の</rt></ruby>んだ<ruby>淹<rt>い</rt></ruby>れたてのコーヒーの<ruby>美味<rt>おい</rt></ruby>しさといったらなかった。"
       }
     ]
   },
@@ -5838,7 +5838,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜てはならない」は<ruby>道徳<rt>どうとく</rt></ruby>・<ruby>法律<rt>ほうりつ</rt></ruby>・<ruby>社会<rt>しゃかい</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>使命<rt>しめい</rt></ruby>など<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>規範<rt>きはん</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>禁止<rt>きんし</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>であり、<ruby>家庭<rt>かてい</rt></ruby><ruby>内<rt>ない</rt></ruby>のちょっとした<ruby>注意<rt>ちゅうい</rt></ruby>には<ruby>重<rt>おも</rt></ruby>すぎて<ruby>不自然<rt>ふしぜん</rt></ruby>です。",
         "reason_en": "\"〜てはならない\" expresses strict prohibition based on moral, legal, or social duty, making it too weighty for casual household reminders.",
-        "sentence": "<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだから、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>してはならないよ。"
+        "sentence": "<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだから、<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>してはならないよ。"
       },
       {
         "type": "correct",
@@ -6410,7 +6410,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「AからといってBない」は「Aという<ruby>理由<rt>りゆう</rt></ruby>があるからといって、<ruby>直<rt>ただ</rt></ruby>ちにBだと<ruby>考<rt>かんが</rt></ruby>えるのは<ruby>早計<rt>そうけい</rt></ruby>だ」と<ruby>部分<rt>ぶぶん</rt></ruby><ruby>否定<rt>ひてい</rt></ruby>・<ruby>戒<rt>いまし</rt></ruby>めを<ruby>述<rt>の</rt></ruby>べるため、<ruby>単純<rt>たんじゅん</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>肯定<rt>こうてい</rt></ruby><ruby>文<rt>ぶん</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"Aからといって\" is followed by a partial negation (\"just because A does not mean B\"), never a straightforward affirmative action.",
-        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいからといって、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>をたくさん<ruby>干<rt>ほ</rt></ruby>しました。"
+        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいからといって、<ruby>洗濯物<rt>せんたくもの</rt></ruby>をたくさん<ruby>干<rt>ほ</rt></ruby>しました。"
       },
       {
         "type": "correct",

@@ -10286,7 +10286,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "last year"
     },
     "example": {
-      "ja": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>しました。<br/><ruby>社会<rt>しゃかい</rt></ruby><ruby>人<rt>ひと</rt></ruby>1<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>です。",
+      "ja": "<ruby>去年<rt>きょねん</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>しました。<br/><ruby>社会人<rt>しゃかいじん</rt></ruby>1<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>です。",
       "en": "I graduated from university last year.<br>It's my first year as a working adult.",
       "zh_TW": "去年從大學畢業了。<br>是踏入職場的第一年。",
       "zh_CN": "去年從大學畢業了。<br>是踏入職場的第一年。",
@@ -11742,7 +11742,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "later (forme en te)"
     },
     "example": {
-      "ja": "A: この<ruby>書類<rt>しょるい</rt></ruby>のチェック、お<ruby>願<rt>ねが</rt></ruby>いできますか？<br/>B: <ruby>今<rt>いま</rt></ruby><ruby>手<rt>て</rt></ruby>が<ruby>離<rt>はな</rt></ruby>せないので、30<ruby>分<rt>ぷん</rt></ruby>ほどあとで<ruby>見<rt>み</rt></ruby>てもいいですか？",
+      "ja": "A: この<ruby>書類<rt>しょるい</rt></ruby>のチェック、お<ruby>願<rt>ねが</rt></ruby>いできますか？<br/>B: <ruby>今<rt>いま</rt></ruby>、<ruby>手<rt>て</rt></ruby>が<ruby>離<rt>はな</rt></ruby>せないので、30<ruby>分<rt>ぷん</rt></ruby>ほどあとで<ruby>見<rt>み</rt></ruby>てもいいですか？",
       "en": "A: Could you check these documents? B: I have my hands full right now, could I look at them in about 30 minutes?",
       "zh_TW": "A: 可以請您幫忙確認這份文件嗎？ B: 我現在走不開，可以等大約30分鐘後再看嗎？",
       "zh_CN": "A: 可以请您帮忙确认这份文件吗？ B: 我现在抽不开身，可以等大约30分钟后再看吗？",
@@ -13730,7 +13730,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "faire la lessive"
     },
     "example": {
-      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>しました。<br/>すぐ<ruby>乾<rt>かわ</rt></ruby>きそうですね。",
+      "ja": "<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ほ</rt></ruby>しました。<br/>すぐ<ruby>乾<rt>かわ</rt></ruby>きそうですね。",
       "en": "The weather is good, so I hung the laundry outside.<br>It seems like it will dry soon.",
       "zh_TW": "天氣很好，把洗好的衣服晾在外面。<br>看起來馬上就會乾呢。",
       "zh_CN": "天氣很好，把洗好的衣服晾在外面。<br>看起來馬上就會乾呢。",
@@ -41702,7 +41702,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "sécher (intransitif)"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きます。",
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>がすぐ<ruby>乾<rt>かわ</rt></ruby>きます。",
       "en": "Because the weather is nice today, the laundry dries quickly.",
       "zh_TW": "今天天氣很好，洗的衣服很快就乾了。",
       "zh_CN": "今天天气很好，洗的衣服很快就干了。",
@@ -43634,7 +43634,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "essayer (un vêtement)"
     },
     "example": {
-      "ja": "このコートを<ruby>試着<rt>試着</rt></ruby>してもいいですか。",
+      "ja": "このコートを<ruby>試着<rt>しちゃく</rt></ruby>してもいいですか。",
       "en": "May I try on this coat?",
       "zh_TW": "我可以試穿一下這件大衣嗎？",
       "zh_CN": "我可以试穿一下这件大衣吗？",
@@ -43718,7 +43718,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "cabine d'essayage"
     },
     "example": {
-      "ja": "<ruby>試着室<rt>試着室</rt></ruby>はあちらの<ruby>奥<rt>おく</rt></ruby>にございます。",
+      "ja": "<ruby>試着室<rt>しちゃくしつ</rt></ruby>はあちらの<ruby>奥<rt>おく</rt></ruby>にございます。",
       "en": "The fitting room is over there at the back.",
       "zh_TW": "試衣間在那邊裡面。",
       "zh_CN": "试衣间在那边里面。",
@@ -46490,7 +46490,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "il semble que ~ / on dirait que ~"
     },
     "example": {
-      "ja": "<ruby>道路<rt>どうろ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れているので、<ruby>夜中<rt>やちゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったようです。",
+      "ja": "<ruby>道路<rt>どうろ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れているので、<ruby>夜中<rt>よなか</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったようです。",
       "en": "Since the road is wet, it seems that it rained during the night.",
       "zh_TW": "路面是濕的，半夜裡好像下過雨。",
       "zh_CN": "路面是湿的，半夜里好像下过雨。",
@@ -48786,7 +48786,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "chercher"
     },
     "example": {
-      "ja": "なくした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>部屋<rt>へや</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>探<rt>さが</rt></ruby>しましたが、<ruby>見<rt>み</rt></ruby>つかりませんでした。",
+      "ja": "なくした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>部屋中<rt>へやじゅう</rt></ruby><ruby>探<rt>さが</rt></ruby>しましたが、<ruby>見<rt>み</rt></ruby>つかりませんでした。",
       "en": "I looked all over the room for the key I lost, but I couldn't find it.",
       "zh_TW": "我在房間裡到處找弄丟的鑰匙，但沒找到。",
       "zh_CN": "我在房间里到处找丢了的钥匙，但没找到。",

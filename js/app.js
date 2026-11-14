@@ -13929,7 +13929,7 @@
     if (btnJlptModalSpeak) {
       btnJlptModalSpeak.addEventListener('click', () => {
         if (currentJlptModalWord) {
-          speakJapanese(currentJlptModalWord.word);
+          speakJapanese(currentJlptModalWord);
         }
       });
     }
@@ -15918,7 +15918,7 @@
               <button class="jlpt-save-btn ${isSaved ? 'saved' : ''}" onclick="toggleJlptWordMylist(event, ${globalIdx})" title="${isSaved ? 'マイリストから解除' : 'マイリストに保存'}">
                 ${isSaved ? '★ 保存' : '☆ 保存'}
               </button>
-              <button class="jlpt-tts-btn" onclick="event.stopPropagation(); speakJapanese('${escapeHtml(w.word)}')" title="発音を聴く">
+              <button class="jlpt-tts-btn" onclick="event.stopPropagation(); speakJapanese('${escapeHtml((w.reading && w.reading !== w.word) ? w.reading : w.word)}')" title="発音を聴く">
                 <i data-lucide="volume-2" class="w-3.5 h-3.5"></i>
               </button>
             </div>
@@ -15952,7 +15952,7 @@
           <button class="jlpt-save-btn ${isSaved ? 'saved' : ''}" onclick="toggleJlptWordMylist(event, ${globalIdx})">
             ${isSaved ? '★ 保存' : '☆ 保存'}
           </button>
-          <button class="jlpt-tts-btn" onclick="event.stopPropagation(); speakJapanese('${escapeHtml(w.word)}')">
+          <button class="jlpt-tts-btn" onclick="event.stopPropagation(); speakJapanese('${escapeHtml((w.reading && w.reading !== w.word) ? w.reading : w.word)}')">
             <i data-lucide="volume-2" class="w-3.5 h-3.5"></i>
           </button>
         </div>

@@ -957,7 +957,7 @@ window.JLPT_N3_MOCK_DATA = {
       ],
       "optionsRuby": [
         "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>窓<rt>まど</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて、とても<ruby>余裕<rt>よゆう</rt></ruby>な<ruby>感<rt>かん</rt></ruby>じがする。",
-        "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>余裕<rt>よゆう</rt></ruby>なので、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ひ</rt></ruby>そう。",
+        "<ruby>今日<rt>きょう</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>余裕<rt>よゆう</rt></ruby>なので、<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>干<rt>ひ</rt></ruby>そう。",
         "<ruby>宿題<rt>しゅくだい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わって、<ruby>気分<rt>きぶん</rt></ruby>がすっかり<ruby>余裕<rt>よゆう</rt></ruby>した。",
         "<ruby>早<rt>はや</rt></ruby>めに<ruby>出発<rt>しゅっぱつ</rt></ruby>したので、<ruby>集合<rt>しゅうごう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>までまだ<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>余裕<rt>よゆう</rt></ruby>がある。"
       ],

@@ -1534,7 +1534,7 @@
     "reading": "to kangaerareru",
     "meaning_en": "one can",
     "similar": "と思われる、と考えられる、推測される、見なされる、予想される",
-    "sample_ruby": "これは<ruby>今年<rt>こんねん</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。",
+    "sample_ruby": "これは<ruby>今年<rt>ことし</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。",
     "sample_en": "Actually, This is thought of to be this year's best movie.",
     "reading_hiragana": "とかんがえられる"
   },
@@ -1750,7 +1750,7 @@
     "reading": "zu ni sumu",
     "meaning_en": "get by without doing~",
     "similar": "なくて済む、ないで済む、ずに済む、しなくてもよい、免れる、助かる",
-    "sample_ruby": "<ruby>今年<rt>こんねん</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。",
+    "sample_ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>涼しか<rt>すずしか</rt></ruby>ったので、エアコンを<ruby>使わ<rt>つかわ</rt></ruby>ずに<ruby>済み<rt>すみ</rt></ruby>ました。",
     "sample_en": "Actually, This year was cool and I got by without using my air conditioner.",
     "reading_hiragana": "ずにすむ"
   }

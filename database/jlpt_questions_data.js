@@ -6183,7 +6183,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Are you an exchange student?",
         "id": "n5-v-0362",
         "level": "N5",
-        "question_ruby": "<u>りゅうがくせい</u>の<ruby>方<rt>ほう</rt></ruby>ですか？"
+        "question_ruby": "<u>りゅうがくせい</u>の<ruby>方<rt>かた</rt></ruby>ですか？"
       },
       {
         "category": "vocabulary",
@@ -35642,7 +35642,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "It's time to dry the laundry.",
         "id": "n2-v-0389",
         "level": "N2",
-        "question_ruby": "<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>を<u>かわかす</u><ruby>時間<rt>じかん</rt></ruby>だ。"
+        "question_ruby": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<u>かわかす</u><ruby>時間<rt>じかん</rt></ruby>だ。"
       },
       {
         "category": "vocabulary",
@@ -46527,7 +46527,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Tomatoes are good for people who suffer stomach pain from excess stomach acid when their stomach is empty.",
         "id": "n1-v-0372",
         "level": "N1",
-        "question_ruby": "<ruby>胃酸<rt>いさん</rt></ruby>（　　）で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>ほう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。"
+        "question_ruby": "<ruby>胃酸<rt>いさん</rt></ruby>（　　）で<ruby>空腹<rt>くうふく</rt></ruby>になると<ruby>胃痛<rt>いつう</rt></ruby>に<ruby>苦<rt>くる</rt></ruby>しむ<ruby>方<rt>かた</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いのがトマトです。"
       },
       {
         "category": "kanji_reading",
@@ -47969,7 +47969,7 @@ window.JLPT_QUESTIONS_DATA = {
         ],
         "correct": 0,
         "explanation": "「若しくは」の正しい読み方は【もしくは】です。（意味：）",
-        "translationEn": "No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.",
+        "translationEn": "If you have any questions, please contact us by phone or email.",
         "id": "n1-v-0457",
         "level": "N1",
         "question_ruby": "<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>も、<ruby>拷問<rt>ごうもん</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>残虐<rt>ざんぎゃく</rt></ruby>な、<ruby>非<rt>ひ</rt></ruby><ruby>人道的<rt>じんどうてき</rt></ruby>な<u>若しくは</u><ruby>屈辱<rt>くつじょく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>取り扱<rt>とりあつか</rt></ruby>い<ruby>若<rt>も</rt></ruby>しくは<ruby>刑罰<rt>けいばつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることはない。"

@@ -2383,7 +2383,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "遂行",
     "question": "周囲の忠告に耳を貸さず、彼は自分の計画を頑なに遂行した。",
-    "question_ruby": "<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>忠告<rt>ちゅうこく</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>さず、<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>頑<rt>頑</rt></ruby>なに<u>遂行</u>した。",
+    "question_ruby": "<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>忠告<rt>ちゅうこく</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>さず、<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>頑<rt>かたくな</rt></ruby>に<u>遂行</u>した。",
     "choices": [
       "すいぎょう",
       "ついこう",
@@ -12517,7 +12517,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     ],
     "choices_ruby": [
       "<ruby>春<rt>はる</rt></ruby>になると<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がり、<ruby>庭<rt>にわ</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>が<ruby>迅速<rt>じんそく</rt></ruby>に<ruby>伸<rt>の</rt></ruby>び<ruby>始<rt>はじ</rt></ruby>める。",
-      "<ruby>彼女<rt>かのじょ</rt></ruby>はピアノの<ruby>指<rt>ゆび</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きが<ruby>迅速<rt>じんそく</rt></ruby>で、<ruby>難<rt>むずか</rt></ruby>しい<ruby>曲<rt>きょく</rt></ruby>も<ruby>弾<rt>はじ</rt></ruby>きこなす。",
+      "<ruby>彼女<rt>かのじょ</rt></ruby>はピアノの<ruby>指<rt>ゆび</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きが<ruby>迅速<rt>じんそく</rt></ruby>で、<ruby>難<rt>むずか</rt></ruby>しい<ruby>曲<rt>きょく</rt></ruby>も<ruby>弾<rt>ひ</rt></ruby>きこなす。",
       "<ruby>故障<rt>こしょう</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けると、<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>迅速<rt>じんそく</rt></ruby>に<ruby>現場<rt>げんば</rt></ruby>へ<ruby>駆<rt>か</rt></ruby>けつけて<ruby>修理<rt>しゅうり</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。",
       "この<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>時速<rt>じそく</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>百<rt>ひゃく</rt></ruby>キロという<ruby>迅速<rt>じんそく</rt></ruby>なスピードで<ruby>走<rt>はし</rt></ruby>っている。"
     ],
