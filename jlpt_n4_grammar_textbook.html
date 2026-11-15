@@ -609,9 +609,21 @@
     const userBookmarks = new Set(JSON.parse(localStorage.getItem('jlpt_n4_bookmarks') || '[]'));
     const userMastered = new Set(JSON.parse(localStorage.getItem('jlpt_n4_mastered') || '[]'));
 
-    // Audio TTS Helper with <rt> sanitization
+    // Audio TTS Helper with <rt> sanitization (Google TTS First with Web Speech fallback)
+    let globalTextbookAudioInstance = null;
     window.speakJapaneseText = function(text) {
       if (!text) return;
+      if (globalTextbookAudioInstance) {
+        try {
+          globalTextbookAudioInstance.pause();
+          globalTextbookAudioInstance.currentTime = 0;
+        } catch (e) {}
+        globalTextbookAudioInstance = null;
+      }
+      if ('speechSynthesis' in window) {
+        try { window.speechSynthesis.cancel(); } catch (e) {}
+      }
+
       const clean = text
         .replace(/<rt>[\s\S]*?<\/rt>/gi, '')
         .replace(/<[^>]+>/g, '')
@@ -619,14 +631,38 @@
         .replace(/\s+/g, ' ')
         .trim();
 
-      if ('speechSynthesis' in window) {
+      if (!clean) return;
+
+      if (clean.length <= 180) {
+        try {
+          const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
+          const audio = new Audio(url);
+          globalTextbookAudioInstance = audio;
+          const p = audio.play();
+          if (p !== undefined) {
+            p.catch(err => {
+              console.warn('Google TTS playback blocked, fallback to speech:', err);
+              fallbackTextbookSpeech(clean);
+            });
+          }
+          return;
+        } catch (e) {
+          console.warn('Google TTS error:', e);
+        }
+      }
+      fallbackTextbookSpeech(clean);
+    };
+
+    function fallbackTextbookSpeech(clean) {
+      if (!('speechSynthesis' in window)) return;
+      try {
         window.speechSynthesis.cancel();
         const u = new SpeechSynthesisUtterance(clean);
         u.lang = 'ja-JP';
         u.rate = 0.95;
         window.speechSynthesis.speak(u);
-      }
-    };
+      } catch (e) {}
+    }
 
     // Build Grammar Maps (Robust Dual Fallback)
     const grammarMap = new Map();

@@ -5620,6 +5620,9 @@
 
   let isSpeaking = false;
   let speechSequenceTimer = null;
+  let globalGoogleAudioInstance = null;
+  let googleAudioQueue = [];
+  let isGoogleTtsPlaying = false;
 
   function stopJapaneseSpeech() {
     if (speechSequenceTimer) {
@@ -5630,33 +5633,139 @@
       clearTimeout(autoAudioTimer);
       autoAudioTimer = null;
     }
+    googleAudioQueue = [];
+    isGoogleTtsPlaying = false;
+    if (globalGoogleAudioInstance) {
+      try {
+        globalGoogleAudioInstance.pause();
+        globalGoogleAudioInstance.currentTime = 0;
+      } catch (e) {}
+      globalGoogleAudioInstance = null;
+    }
     if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      if (window.speechSynthesis.paused) {
-        window.speechSynthesis.resume();
-      }
+      try {
+        window.speechSynthesis.cancel();
+        if (window.speechSynthesis.paused) {
+          window.speechSynthesis.resume();
+        }
+      } catch (e) {}
     }
     window._activeUtterance = null;
     isSpeaking = false;
   }
 
-  // Accepts either a string OR a card object { word, reading, example }
-  // When given a card, prefers card.reading (e.g. にじゅうかかく) so kanji is read 100% accurately!
-  function speakJapanese(target, onEnd = null) {
+  // Google TTS 最優先コア再生関数（長文チャンクキュー再生対応）
+  function playGoogleTTSCore(cleanText, onEnd = null) {
+    if (!cleanText) {
+      if (onEnd) onEnd();
+      return;
+    }
+
+    // 170文字以内のチャンクに分割（句読点区切り）
+    const chunks = [];
+    const parts = cleanText.split(/(?<=[。！？
+])/);
+    let buf = '';
+    for (const p of parts) {
+      const s = p.trim();
+      if (!s) continue;
+      if ((buf + ' ' + s).length <= 170) {
+        buf = buf ? (buf + ' ' + s) : s;
+      } else {
+        if (buf) chunks.push(buf);
+        if (s.length <= 170) {
+          buf = s;
+        } else {
+          for (let i = 0; i < s.length; i += 160) {
+            chunks.push(s.slice(i, i + 160));
+          }
+          buf = '';
+        }
+      }
+    }
+    if (buf) chunks.push(buf);
+    if (chunks.length === 0) chunks.push(cleanText.slice(0, 170));
+
+    googleAudioQueue = chunks;
+    isGoogleTtsPlaying = true;
+    isSpeaking = true;
+
+    function playNext() {
+      if (!isGoogleTtsPlaying || googleAudioQueue.length === 0) {
+        isGoogleTtsPlaying = false;
+        isSpeaking = false;
+        globalGoogleAudioInstance = null;
+        if (onEnd) onEnd();
+        return;
+      }
+
+      const chunk = googleAudioQueue.shift();
+      const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(chunk)}`;
+      const audio = new Audio(url);
+      globalGoogleAudioInstance = audio;
+
+      audio.onended = () => {
+        playNext();
+      };
+      audio.onerror = (err) => {
+        console.warn('Google TTS audio playback failed, falling back to Web Speech API:', err);
+        fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
+      };
+
+      const p = audio.play();
+      if (p !== undefined) {
+        p.catch(err => {
+          console.warn('Google TTS audio play catch, falling back:', err);
+          fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
+        });
+      }
+    }
+
+    playNext();
+  }
+
+  function fallbackSpeechSynthesis(cleanText, onEnd = null) {
     if (!('speechSynthesis' in window)) {
       if (onEnd) onEnd();
       return;
     }
     try {
-      if (window.speechSynthesis.paused) {
-        window.speechSynthesis.resume();
-      }
-    } catch (e) {}
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(cleanText);
+      utterance.lang = 'ja-JP';
+      utterance.rate = 0.9;
+      const voices = window.speechSynthesis.getVoices();
+      const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google')) ||
+                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && (v.name.includes('Kyoko') || v.name.includes('Otoya') || v.name.includes('Siri') || v.name.includes('Nanami') || v.name.includes('Keita'))) ||
+                      voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja_JP');
+      if (jaVoice) utterance.voice = jaVoice;
+      utterance.onend = () => {
+        isSpeaking = false;
+        window._activeUtterance = null;
+        if (onEnd) onEnd();
+      };
+      utterance.onerror = () => {
+        isSpeaking = false;
+        window._activeUtterance = null;
+        if (onEnd) onEnd();
+      };
+      isSpeaking = true;
+      window._activeUtterance = utterance;
+      window.speechSynthesis.speak(utterance);
+    } catch (e) {
+      isSpeaking = false;
+      if (onEnd) onEnd();
+    }
+  }
+
+  // Accepts either a string OR a card object { word, reading, example }
+  // When given a card, prefers card.reading (e.g. にじゅうかかく) so kanji is read 100% accurately!
+  // Powered by Google TTS First (High quality neural speech) with fallback to Web Speech API
+  function speakJapanese(target, onEnd = null) {
     stopJapaneseSpeech();
 
     let textToSpeak = '';
     if (target && typeof target === 'object') {
-      // If object has reading (hiragana), unwrap any brackets and use it
       let r = (target.reading || '').trim().replace(/^[（\(\[【](.*?)[）\)\]】]$/, '$1');
       r = r.split(/[/／・]/)[0].trim();
       textToSpeak = r || target.word || '';
@@ -5665,7 +5774,6 @@
     }
 
     let cleanText = cleanJapaneseForSpeech(textToSpeak);
-    // Safety fallback: if reading was somehow stripped to empty, fallback to word directly!
     if (!cleanText && target && typeof target === 'object' && target.word) {
       cleanText = cleanJapaneseForSpeech(target.word);
     }
@@ -5674,39 +5782,11 @@
       return;
     }
 
-    const utterance = new SpeechSynthesisUtterance(cleanText);
-    utterance.lang = 'ja-JP';
-    utterance.rate = 0.9; // natural conversational pacing for Japanese learning
-
-    // Pick Google Japanese TTS voice first if available, then Kyoko / Otoya / Siri or ja-JP voice
-    const voices = window.speechSynthesis.getVoices();
-    const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google')) ||
-                    voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && (v.name.includes('Kyoko') || v.name.includes('Otoya') || v.name.includes('Siri') || v.name.includes('Nanami') || v.name.includes('Keita'))) ||
-                    voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja_JP');
-    if (jaVoice) {
-      utterance.voice = jaVoice;
-    }
-
-    utterance.onstart = () => {
-      isSpeaking = true;
-    };
-    utterance.onend = () => {
-      isSpeaking = false;
-      window._activeUtterance = null;
-      if (onEnd) onEnd();
-    };
-    utterance.onerror = () => {
-      isSpeaking = false;
-      window._activeUtterance = null;
-      if (onEnd) onEnd();
-    };
-
-    isSpeaking = true;
-    window._activeUtterance = utterance;
-    window.speechSynthesis.speak(utterance);
+    // Google TTS 最優先で再生！
+    playGoogleTTSCore(cleanText, onEnd);
   }
 
-  // 連続再生（単語を発音後、例文を続けて再生）
+  // 連続再生（単語を発音後、例文を続けて再生）- Google TTS 最優先
   function speakJapaneseSequence(firstTarget, secondTarget) {
     if (!firstTarget && !secondTarget) return;
     if (!secondTarget) {
@@ -5720,15 +5800,11 @@
 
     stopJapaneseSpeech();
 
+    // 1. 単語を Google TTS で再生
     speakJapanese(firstTarget, () => {
-      // 単語読み上げ後に少し間を空けて例文を発話
+      // 2. 単語終了後、自然な間（380ms）を空けて例文を Google TTS で再生
       speechSequenceTimer = setTimeout(() => {
         speechSequenceTimer = null;
-        // カードが途中で閉じられたり切り替わっていないか確認しつつ発音
-        if (!('speechSynthesis' in window)) return;
-        if (window.speechSynthesis.paused) {
-          window.speechSynthesis.resume();
-        }
         let textToSpeak = '';
         if (typeof secondTarget === 'object') {
           const r = (secondTarget.reading || '').split(/[/／・]/)[0].trim();
@@ -5739,42 +5815,33 @@
         const cleanText = cleanJapaneseForSpeech(textToSpeak);
         if (!cleanText) return;
 
-        const utterance = new SpeechSynthesisUtterance(cleanText);
-        utterance.lang = 'ja-JP';
-        utterance.rate = 0.9;
-        const voices = window.speechSynthesis.getVoices();
-        const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google')) ||
-                        voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && (v.name.includes('Kyoko') || v.name.includes('Otoya') || v.name.includes('Siri') || v.name.includes('Nanami') || v.name.includes('Keita'))) ||
-                        voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja_JP');
-        if (jaVoice) utterance.voice = jaVoice;
-
-        utterance.onstart = () => {
-          isSpeaking = true;
-        };
-        utterance.onend = () => {
-          isSpeaking = false;
-          window._activeUtterance = null;
-        };
-        utterance.onerror = () => {
-          isSpeaking = false;
-          window._activeUtterance = null;
-        };
-
-        isSpeaking = true;
-        window._activeUtterance = utterance;
-        window.speechSynthesis.speak(utterance);
-      }, 350);
+        // 例文も Google TTS 最優先で再生！
+        playGoogleTTSCore(cleanText);
+      }, 380);
     });
   }
 
   // 音声ボタンクリック時に再生中なら即座に停止（トグル動作）するヘルパー
   function toggleJapaneseSpeech(target) {
-    if (isSpeaking || ('speechSynthesis' in window && window.speechSynthesis.speaking)) {
+    if (isSpeaking || isGoogleTtsPlaying || ('speechSynthesis' in window && window.speechSynthesis.speaking)) {
       stopJapaneseSpeech();
       return;
     }
     speakJapanese(target);
   }
+
+  // 互換性および将来の新規ページ・スクリプト用のグローバル公開
+  window.playGoogleTTS = function(text, onEnd) {
+    const clean = cleanJapaneseForSpeech(text);
+    playGoogleTTSCore(clean, onEnd);
+  };
+  window.speakJapanese = speakJapanese;
+  window.speakJapaneseSequence = speakJapaneseSequence;
+  window.speakJapaneseText = function(text, onEnd) {
+    const clean = cleanJapaneseForSpeech(text);
+    playGoogleTTSCore(clean, onEnd);
+  };
+  window.stopJapaneseSpeech = stopJapaneseSpeech;
 
   // Helper to find a student's native translation when card meaning is English-only
   function getFallbackMeaningForWord(word, lang) {
