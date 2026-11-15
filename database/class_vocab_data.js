@@ -17522,7 +17522,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "japonais standard"
     },
     "example": {
-      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>では<ruby>主<rt>おも</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/>B: <ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>語<rt>ご</rt></ruby>をマスターした<ruby>後<rt>のち</rt></ruby>に<ruby>各地<rt>かくち</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>を<ruby>知<rt>し</rt></ruby>るのも<ruby>面白<rt>おもしろ</rt></ruby>いですよ。",
+      "ja": "A: <ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>では<ruby>主<rt>おも</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。<br/>B: <ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>語<rt>ご</rt></ruby>をマスターした<ruby>後<rt>あと</rt></ruby>に<ruby>各地<rt>かくち</rt></ruby>の<ruby>方言<rt>ほうげん</rt></ruby>を<ruby>知<rt>し</rt></ruby>るのも<ruby>面白<rt>おもしろ</rt></ruby>いですよ。",
       "en": "A: At Japanese language schools, we primarily study Tokyo standard Japanese.<br/>B: Discovering regional dialects after mastering standard Japanese is also fun.",
       "zh_TW": "A: At Japanese language schools, we primarily study Tokyo standard Japanese.<br/>B: Discovering regional dialects after mastering standard Japanese is also fun.",
       "zh_CN": "A: At Japanese language schools, we primarily study Tokyo standard Japanese.<br/>B: Discovering regional dialects after mastering standard Japanese is also fun.",
@@ -33542,7 +33542,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "revoir"
     },
     "example": {
-      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後<rt>のち</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しく<ruby>習<rt>なら</rt></ruby>った<ruby>単語<rt>たんご</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby>をするとしっかり<ruby>覚<rt>おぼ</rt></ruby>えられます。",
+      "ja": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後<rt>あと</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しく<ruby>習<rt>なら</rt></ruby>った<ruby>単語<rt>たんご</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby>をするとしっかり<ruby>覚<rt>おぼ</rt></ruby>えられます。",
       "en": "Reviewing newly learned words after class helps you remember them firmly.",
       "zh_TW": "下課後複習剛學的新單字，能記得更牢固。",
       "zh_CN": "下课后复习刚学的新单词，能记得更牢固。",
@@ -43594,7 +43594,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Does it seem like you can do it? / Do you think you'll be able to?"
     },
     "example": {
-      "ja": "A: この<ruby>資料<rt>しりょう</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までにできそうですか？<br/>B: はい、なんとか<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせます。",
+      "ja": "A: この<ruby>資料<rt>しりょう</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までにできそうですか？<br/>B: はい、なんとか<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせます。",
       "en": "A: Do you think you can finish making this document by tomorrow?<br/>B: Yes, I'll manage to make it in time.",
       "zh_TW": "A: 這份資料的製作，明天之前有辦法完成嗎？<br/>B: 可以，我會想辦法趕上的。",
       "zh_CN": "A: 这份资料的制作，明天之前有办法完成吗？<br/>B: 可以，我会想办法赶上的。",
@@ -46896,7 +46896,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "\"In the blink of an eye\" / \"in no time\""
     },
     "example": {
-      "ja": "A: <ruby>楽<rt>たの</rt></ruby>しかった<ruby>夏休<rt>なつやす</rt></ruby>みもあっという<ruby>間<rt>ま</rt></ruby>に<ruby>終<rt>お</rt></ruby>わってしまいましたね。<br/>B: <ruby>本当<rt>ほんとう</rt></ruby>にあっという<ruby>間<rt>ま</rt></ruby>でした！また<ruby>次<rt>つぎ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みを<ruby>楽<rt>たの</rt></ruby>しみに<ruby>頑張<rt>がんば</rt></ruby>りましょう。",
+      "ja": "A: <ruby>楽<rt>たの</rt></ruby>しかった<ruby>夏休<rt>なつやす</rt></ruby>みもあっという<ruby>間<rt>ま</rt></ruby>に<ruby>終<rt>お</rt></ruby>わってしまいましたね。<br/>B: <ruby>本当<rt>ほんとう</rt></ruby>にあっという<ruby>間<rt>あいだ</rt></ruby>でした！また<ruby>次<rt>つぎ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みを<ruby>楽<rt>たの</rt></ruby>しみに<ruby>頑張<rt>がんば</rt></ruby>りましょう。",
       "en": "A: The fun summer vacation ended in the blink of an eye, didn't it?<br/>B: It was over in no time! Let's do our best looking forward to the next break.",
       "zh_TW": "A: The fun summer vacation ended in the blink of an eye, didn't it?<br/>B: It was over in no time! Let's do our best looking forward to the next break.",
       "zh_CN": "A: The fun summer vacation ended in the blink of an eye, didn't it?<br/>B: It was over in no time! Let's do our best looking forward to the next break.",

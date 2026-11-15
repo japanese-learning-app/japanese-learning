@@ -1170,7 +1170,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文法形式の判断",
       "qNum": 42,
       "title": "明日の朝、駅に着い（<span class='jlpt-underline-blank'></span>）、すぐ私に電話をかけてください。",
-      "titleRuby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>ちゃく</rt></ruby>い（<span class='jlpt-underline-blank'></span>）、すぐ<ruby>私<rt>わたし</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>をかけてください。",
+      "titleRuby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>い（<span class='jlpt-underline-blank'></span>）、すぐ<ruby>私<rt>わたし</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>をかけてください。",
       "options": [
         "ては",
         "たら",
@@ -1470,7 +1470,7 @@ window.JLPT_N4_MOCK_DATA = {
         "荷物を"
       ],
       "optionsRuby": [
-        "<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>",
+        "<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>",
         "<ruby>置<rt>お</rt></ruby>かせて",
         "いただいても",
         "<ruby>荷物<rt>にもつ</rt></ruby>を"
@@ -2494,9 +2494,9 @@ window.JLPT_N4_MOCK_DATA = {
       "illustration_url": "images/listening_n4/n4_q21.jpg",
       "audioUrl": "audio/mock_n4/n4_m01_q91.mp3",
       "title": "電車が 遅れて いて、約束の 時間に 間に合いそうに ないんです。",
-      "titleRuby": "<ruby>電車<rt>でんしゃ</rt></ruby>が <ruby>遅<rt>おく</rt></ruby>れて いて、<ruby>約束<rt>やくそく</rt></ruby>の <ruby>時間<rt>じかん</rt></ruby>に <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうに ないんです。",
+      "titleRuby": "<ruby>電車<rt>でんしゃ</rt></ruby>が <ruby>遅<rt>おく</rt></ruby>れて いて、<ruby>約束<rt>やくそく</rt></ruby>の <ruby>時間<rt>じかん</rt></ruby>に <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうに ないんです。",
       "script": "女の人：電車が 遅れて いて、約束の 時間に 間に合いそうに ないんです。\n１　それは 急がなくても いいですね。\n２　ちょうど 時間どおりですね。\n３　わかりました。気をつけて 来て くださいね。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>電車<rt>でんしゃ</rt></ruby>が <ruby>遅<rt>おく</rt></ruby>れて いて、<ruby>約束<rt>やくそく</rt></ruby>の <ruby>時間<rt>じかん</rt></ruby>に <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうに ないんです。<br>１　それは <ruby>急<rt>いそ</rt></ruby>がなくても いいですね。<br>２　ちょうど <ruby>時間<rt>じかん</rt></ruby>どおりですね。<br>３　わかりました。<ruby>気<rt>き</rt></ruby>をつけて <ruby>来<rt>き</rt></ruby>て くださいね。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>電車<rt>でんしゃ</rt></ruby>が <ruby>遅<rt>おく</rt></ruby>れて いて、<ruby>約束<rt>やくそく</rt></ruby>の <ruby>時間<rt>じかん</rt></ruby>に <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうに ないんです。<br>１　それは <ruby>急<rt>いそ</rt></ruby>がなくても いいですね。<br>２　ちょうど <ruby>時間<rt>じかん</rt></ruby>どおりですね。<br>３　わかりました。<ruby>気<rt>き</rt></ruby>をつけて <ruby>来<rt>き</rt></ruby>て くださいね。",
       "options": [
         "それは 急がなくても いいですね。",
         "ちょうど 時間どおりですね。",

@@ -620,7 +620,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "さないで",
-    "notes": "<ruby>図書館<rt>としょかん</rt></ruby>なので『<ruby>話<rt>はな</rt></ruby>さないでほしい』という<ruby>意味<rt>いみ</rt></ruby>になります。「<ruby>話<rt>はな</rt></ruby>す」のない<ruby>形<rt>けい</rt></ruby>は「<ruby>話<rt>はな</rt></ruby>さない」で、「<ruby>話<rt>はな</rt></ruby>さないでください」です。「<ruby>話<rt>はな</rt></ruby>して」は『<ruby>話<rt>はな</rt></ruby>してほしい』になってしまい、「<ruby>話<rt>はなし</rt></ruby>しないで」はない<ruby>形<rt>けい</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>いです。 / In a library the meaning is 'please don't talk': 話す → 話さない → 話さないでください. 話して means 'please talk', and 話しないで misforms the ない form.",
+    "notes": "<ruby>図書館<rt>としょかん</rt></ruby>なので『<ruby>話<rt>はな</rt></ruby>さないでほしい』という<ruby>意味<rt>いみ</rt></ruby>になります。「<ruby>話<rt>はな</rt></ruby>す」のない<ruby>形<rt>けい</rt></ruby>は「<ruby>話<rt>はな</rt></ruby>さない」で、「<ruby>話<rt>はな</rt></ruby>さないでください」です。「<ruby>話<rt>はな</rt></ruby>して」は『<ruby>話<rt>はな</rt></ruby>してほしい』になってしまい、「<ruby>話<rt>はな</rt></ruby>さないで」はない<ruby>形<rt>けい</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>いです。 / In a library the meaning is 'please don't talk': 話す → 話さない → 話さないでください. 話して means 'please talk', and 話しないで misforms the ない form.",
     "question_ruby": "ここは<ruby>図書館<rt>としょかん</rt></ruby>です。<ruby>大<rt>おお</rt></ruby>きい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>（　　　）ください。",
     "sentence_jp_ruby": "ここは<ruby>図書館<rt>としょかん</rt></ruby>です。<ruby>大<rt>おお</rt></ruby>きい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さないでください。",
     "choices_ruby": [
@@ -1820,7 +1820,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "前に",
-    "notes": "<ruby>歯<rt>は</rt></ruby>をみがくのが<ruby>先<rt>さき</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>るのが<ruby>後<rt>あと</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」です。「<ruby>後<rt>あと</rt></ruby>で」は<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>逆<rt>ぎゃく</rt></ruby>、「<ruby>間<rt>ま</rt></ruby>に」「<ruby>中<rt>なか</rt></ruby>に」はこの<ruby>文<rt>ぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。 / Brushing comes first, sleeping later: 前に. 後で reverses the order; 間に and 中に don't fit.",
+    "notes": "<ruby>歯<rt>は</rt></ruby>をみがくのが<ruby>先<rt>さき</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>るのが<ruby>後<rt>あと</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」です。「<ruby>後<rt>あと</rt></ruby>で」は<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>逆<rt>ぎゃく</rt></ruby>、「<ruby>間<rt>あいだ</rt></ruby>に」「<ruby>中<rt>なか</rt></ruby>に」はこの<ruby>文<rt>ぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。 / Brushing comes first, sleeping later: 前に. 後で reverses the order; 間に and 中に don't fit.",
     "question_ruby": "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>寝<rt>ね</rt></ruby>る（　　　）、<ruby>歯<rt>は</rt></ruby>をみがきます。",
     "sentence_jp_ruby": "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>歯<rt>は</rt></ruby>をみがきます。",
     "choices_ruby": [
@@ -1910,7 +1910,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "前に",
-    "notes": "<ruby>期間<rt>きかん</rt></ruby>のあとに「<ruby>前<rt>まえ</rt></ruby>に」を<ruby>付<rt>つ</rt></ruby>けると『〜<ruby>日前<rt>ひくま</rt></ruby>』の<ruby>意味<rt>いみ</rt></ruby>になります。「<ruby>後<rt>あと</rt></ruby>で」は<ruby>未来<rt>みらい</rt></ruby>、「<ruby>間<rt>ま</rt></ruby>に」「<ruby>中<rt>なか</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / A period + 前に means 'ago'. 後で points to later; 間に and 中で don't fit.",
+    "notes": "<ruby>期間<rt>きかん</rt></ruby>のあとに「<ruby>前<rt>まえ</rt></ruby>に」を<ruby>付<rt>つ</rt></ruby>けると『〜<ruby>日前<rt>ひくま</rt></ruby>』の<ruby>意味<rt>いみ</rt></ruby>になります。「<ruby>後<rt>あと</rt></ruby>で」は<ruby>未来<rt>みらい</rt></ruby>、「<ruby>間<rt>あいだ</rt></ruby>に」「<ruby>中<rt>なか</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / A period + 前に means 'ago'. 後で points to later; 間に and 中で don't fit.",
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>三日<rt>みっか</rt></ruby>（　　　）、この<ruby>傘<rt>かさ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>三日<rt>みっか</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、この<ruby>傘<rt>かさ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "choices_ruby": [
@@ -1970,7 +1970,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "の",
-    "notes": "<ruby>名詞<rt>めいし</rt></ruby>と「<ruby>後<rt>あと</rt></ruby>で」の<ruby>間<rt>ま</rt></ruby>には「の」を<ruby>入<rt>い</rt></ruby>れます。「を」「に」「が」は<ruby>入<rt>はい</rt></ruby>りません。 / Between a noun and 後で, put の. を, に and が don't fit.",
+    "notes": "<ruby>名詞<rt>めいし</rt></ruby>と「<ruby>後<rt>あと</rt></ruby>で」の<ruby>間<rt>あいだ</rt></ruby>には「の」を<ruby>入<rt>い</rt></ruby>れます。「を」「に」「が」は<ruby>入<rt>はい</rt></ruby>りません。 / Between a noun and 後で, put の. を, に and が don't fit.",
     "question_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>（　　　）<ruby>後<rt>あと</rt></ruby>で、<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
     "sentence_jp_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で、<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。",
     "choices_ruby": [
@@ -2030,7 +2030,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "前に",
-    "notes": "「<ruby>行<rt>い</rt></ruby>く」は<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」が<ruby>合<rt>あ</rt></ruby>います。「<ruby>後<rt>あと</rt></ruby>で」「<ruby>後<rt>あと</rt></ruby>に」は<ruby>動詞<rt>どうし</rt></ruby>が「<ruby>行<rt>い</rt></ruby>った」の<ruby>形<rt>かたち</rt></ruby>になり、「<ruby>間<rt>ま</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / 行く is in the dictionary form, so 前に fits. 後で / 後に need 行った, and 間で doesn't fit.",
+    "notes": "「<ruby>行<rt>い</rt></ruby>く」は<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」が<ruby>合<rt>あ</rt></ruby>います。「<ruby>後<rt>あと</rt></ruby>で」「<ruby>後<rt>あと</rt></ruby>に」は<ruby>動詞<rt>どうし</rt></ruby>が「<ruby>行<rt>い</rt></ruby>った」の<ruby>形<rt>かたち</rt></ruby>になり、「<ruby>間<rt>あいだ</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / 行く is in the dictionary form, so 前に fits. 後で / 後に need 行った, and 間で doesn't fit.",
     "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く（　　　）、<ruby>花<rt>はな</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、<ruby>花<rt>はな</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "choices_ruby": [

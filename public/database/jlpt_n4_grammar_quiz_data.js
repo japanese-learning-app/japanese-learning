@@ -500,7 +500,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "休んだ方がいいです",
-    "notes": "<ruby>肯定<rt>こうてい</rt></ruby>のアドバイスなので「た<ruby>形<rt>けい</rt></ruby>＋ほうがいい」＝「<ruby>休<rt>やす</rt></ruby>んだほうがいいです」にします。<ruby>動詞<rt>どうし</rt></ruby>と「<ruby>方<rt>ほう</rt></ruby>」の<ruby>間<rt>ま</rt></ruby>に「の」は<ruby>入<rt>はい</rt></ruby>りません。 / Positive advice uses た-form + ほうがいい (休んだほうがいいです). Do not insert の.",
+    "notes": "<ruby>肯定<rt>こうてい</rt></ruby>のアドバイスなので「た<ruby>形<rt>けい</rt></ruby>＋ほうがいい」＝「<ruby>休<rt>やす</rt></ruby>んだほうがいいです」にします。<ruby>動詞<rt>どうし</rt></ruby>と「<ruby>方<rt>ほう</rt></ruby>」の<ruby>間<rt>あいだ</rt></ruby>に「の」は<ruby>入<rt>はい</rt></ruby>りません。 / Positive advice uses た-form + ほうがいい (休んだほうがいいです). Do not insert の.",
     "question_ruby": "<ruby>顔色<rt>かおいろ</rt></ruby>があまりよくないですね。<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>って（　　　）よ。",
     "sentence_jp_ruby": "<ruby>顔色<rt>かおいろ</rt></ruby>があまりよくないですね。<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
@@ -980,7 +980,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "行くつもり",
-    "notes": "「つもり」の<ruby>前<rt>まえ</rt></ruby>は<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>（またはない<ruby>形<rt>けい</rt></ruby>）です。<ruby>動詞<rt>どうし</rt></ruby>と「つもり」の<ruby>間<rt>ま</rt></ruby>に「の」は<ruby>要<rt>い</rt></ruby>りません。 / つもり attaches directly to the dictionary form 行く without の.",
+    "notes": "「つもり」の<ruby>前<rt>まえ</rt></ruby>は<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>（またはない<ruby>形<rt>けい</rt></ruby>）です。<ruby>動詞<rt>どうし</rt></ruby>と「つもり」の<ruby>間<rt>あいだ</rt></ruby>に「の」は<ruby>要<rt>い</rt></ruby>りません。 / つもり attaches directly to the dictionary form 行く without の.",
     "question_ruby": "<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>家族<rt>かぞく</rt></ruby>と<ruby>海<rt>うみ</rt></ruby>へ（　　　）です。",
     "sentence_jp_ruby": "<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>家族<rt>かぞく</rt></ruby>と<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くつもりです。",
     "choices_ruby": [
@@ -5300,9 +5300,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "乗れば",
-    "notes": "「〜すれば、<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う（<ruby>可能<rt>かのう</rt></ruby>）」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>述<rt>の</rt></ruby>べる<ruby>文<rt>ぶん</rt></ruby>なので、Ⅰグループ「<ruby>乗<rt>の</rt></ruby>る（noru）」のば<ruby>形<rt>けい</rt></ruby>「<ruby>乗<rt>の</rt></ruby>れば」が<ruby>正解<rt>せいかい</rt></ruby>です。 / To state the condition for making it in time (間に合います), use the ば-form of 乗る → 乗れば.",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに（　　　）、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
+    "notes": "「〜すれば、<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う（<ruby>可能<rt>かのう</rt></ruby>）」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>述<rt>の</rt></ruby>べる<ruby>文<rt>ぶん</rt></ruby>なので、Ⅰグループ「<ruby>乗<rt>の</rt></ruby>る（noru）」のば<ruby>形<rt>けい</rt></ruby>「<ruby>乗<rt>の</rt></ruby>れば」が<ruby>正解<rt>せいかい</rt></ruby>です。 / To state the condition for making it in time (間に合います), use the ば-form of 乗る → 乗れば.",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに（　　　）、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
     "choices_ruby": [
       "<ruby>乗<rt>の</rt></ruby>りに",
       "<ruby>乗<rt>の</rt></ruby>るなら",

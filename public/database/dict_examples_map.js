@@ -13,7 +13,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "あお": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "青い": {
@@ -25,7 +25,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "赤": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>赤<rt>あか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>赤<rt>あか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あか": {
@@ -109,7 +109,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "あした": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あしたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あしたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あそこ": {
@@ -173,7 +173,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "後": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>後<rt>ご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>後<rt>ご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あと": {
@@ -281,7 +281,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "On my way home from the station, I saw many newly built houses with wonderful designs."
   },
   "いえ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いかが": {
@@ -393,7 +393,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "犬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>犬<rt>いぬ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>犬<rt>いぬ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いぬ": {
@@ -421,19 +421,19 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My younger sister has always been very good at drawing and is aiming for an art college."
   },
   "いもうと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いもうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いもうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "嫌": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嫌<rt>いや</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嫌<rt>いや</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "入口": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>入口<rt>いりぐち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>入口<rt>いりぐち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いりぐち": {
@@ -497,7 +497,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "歌": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歌<rt>うた</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歌<rt>うた</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うた": {
@@ -557,7 +557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "え": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "映画": {
@@ -565,7 +565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "えいが": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えいがの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えいがの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "映画館": {
@@ -581,11 +581,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "えいご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えいごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えいごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ええ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ええの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ええの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "駅": {
@@ -693,11 +693,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "お酒": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>酒<rt>さけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>酒<rt>さけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おさけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おさけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おさけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お皿": {
@@ -705,7 +705,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おさら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おさらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おさらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "教える": {
@@ -733,7 +733,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "お茶": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おちゃ": {
@@ -749,11 +749,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Where is the bathroom?"
   },
   "お父さん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>お父さん<rt>おとうさん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>お父さん<rt>おとうさん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おとうさん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとうさんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとうさんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "弟": {
@@ -761,7 +761,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My younger brother belongs to the soccer club in high school and devotes himself to daily practice."
   },
   "おとうと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "男": {
@@ -801,7 +801,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おとな": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おとなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おなか": {
@@ -809,11 +809,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I had an upset stomach since morning due to extreme nervousness, but by taking deep breaths and calming down, I managed to get through the interview."
   },
   "同じ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同<rt>おな</rt></ruby>じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同<rt>おな</rt></ruby>じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おなじ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おなじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おなじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お兄さん": {
@@ -837,11 +837,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The old lady got down from the bus."
   },
   "お風呂": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おふろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おふろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おふろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お弁当": {
@@ -901,7 +901,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The chairman did not rule out the possibility of a disagreement."
   },
   "音楽": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おんがく": {
@@ -921,11 +921,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おんなのこ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おんなのこの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おんなのこの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "会社": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かいしゃ": {
@@ -941,7 +941,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To relieve my daily lack of exercise, I make it a habit to take the stairs instead of using the elevator at work."
   },
   "買い物": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>買い物<rt>かいもの</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かいもの": {
@@ -993,11 +993,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "傘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>傘<rt>かさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>傘<rt>かさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かさ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "貸す": {
@@ -1009,7 +1009,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "風": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>風<rt>かぜ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>風<rt>かぜ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かぜ": {
@@ -1053,7 +1053,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "かど": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かばん": {
@@ -1081,11 +1081,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "火曜日": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火曜日<rt>かようび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火曜日<rt>かようび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かようび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かようびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かようびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "辛い": {
@@ -1101,7 +1101,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "からだ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からだの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からだの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "借りる": {
@@ -1173,7 +1173,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "木": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>木<rt>き</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>木<rt>き</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "き": {
@@ -1217,7 +1217,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "きた": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "汚い": {
@@ -1229,7 +1229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "喫茶店": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>喫茶店<rt>きっさてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>喫茶店<rt>きっさてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きっさてん": {
@@ -1297,7 +1297,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "きょねん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きょねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きょねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "嫌い": {
@@ -1337,7 +1337,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "牛肉": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎゅうにく": {
@@ -1353,7 +1353,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "銀行": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎんこう": {
@@ -1361,7 +1361,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "薬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>薬<rt>くすり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>薬<rt>くすり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くすり": {
@@ -1385,11 +1385,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "くち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "靴": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>靴<rt>くつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>靴<rt>くつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くつ": {
@@ -1453,7 +1453,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "くるま": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くるまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くるまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "黒": {
@@ -1461,7 +1461,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "くろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "黒い": {
@@ -1545,7 +1545,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "こうえん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうえんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうえんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "交差点": {
@@ -1569,11 +1569,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "こうばん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうばんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうばんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "声": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>声<rt>こえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>声<rt>こえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こえ": {
@@ -1673,7 +1673,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "こんな": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こんなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こんなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "今晩": {
@@ -1697,15 +1697,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This project team is composed of five specialist staff members."
   },
   "ご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "午後": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>午後<rt>ごご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>午後<rt>ごご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "午前": {
@@ -1745,7 +1745,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "先": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>先<rt>さき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>先<rt>さき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さき": {
@@ -1777,7 +1777,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "His behavior makes me sick."
   },
   "砂糖": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>砂糖<rt>さとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>砂糖<rt>さとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さとう": {
@@ -1797,11 +1797,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "During next month's consecutive holidays, I plan to travel to Kyoto with three university friends."
   },
   "さん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "散歩": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さんぽする": {
@@ -1837,7 +1837,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "仕事": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しごと": {
@@ -1845,11 +1845,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "静か": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>静<rt>しず</rt></ruby>かの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>静<rt>しず</rt></ruby>かの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しずか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しずかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しずかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "下": {
@@ -1873,7 +1873,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "しつもん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しつもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しつもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "死ぬ": {
@@ -1905,11 +1905,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When leaving the meeting room, please make sure to turn off the projector and firmly close the door to prevent leaks of confidential information."
   },
   "写真": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゃしん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゃしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゃしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "シャツ": {
@@ -2009,7 +2009,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She is, so to speak, a walking dictionary."
   },
   "自分": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じぶん": {
@@ -2065,7 +2065,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "スカート": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、スカートの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、スカートの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "好き": {
@@ -2085,11 +2085,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "すぐに": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、すぐにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、すぐにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "少し": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>少<rt>すこ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>少<rt>すこ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すこし": {
@@ -2145,7 +2145,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "背": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>背<rt>せ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>背<rt>せ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せ": {
@@ -2189,7 +2189,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "先月": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>先月<rt>せんげつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>先月<rt>せんげつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せんげつ": {
@@ -2229,7 +2229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "全部": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぜんぶ": {
@@ -2369,7 +2369,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "たぶん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "食べ物": {
@@ -2377,7 +2377,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "たべもの": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たべものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たべものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "食べる": {
@@ -2429,7 +2429,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "台所": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台所<rt>だいどころ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台所<rt>だいどころ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だいどころ": {
@@ -2445,7 +2445,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "誰": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>誰<rt>だれ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>誰<rt>だれ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だれ": {
@@ -2469,7 +2469,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ちいさな": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちいさなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちいさなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "近い": {
@@ -2513,7 +2513,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "茶色": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>茶色<rt>ちゃいろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>茶色<rt>ちゃいろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちゃいろ": {
@@ -2617,7 +2617,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "手紙": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手紙<rt>てがみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手紙<rt>てがみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てがみ": {
@@ -2633,7 +2633,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "天気": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>天気<rt>てんき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>天気<rt>てんき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てんき": {
@@ -2669,7 +2669,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "でぐち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でぐちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でぐちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "では": {
@@ -2677,7 +2677,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "デパート": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、デパートの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、デパートの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "でも": {
@@ -2705,11 +2705,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "でんしゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "電話": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>電話<rt>でんわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>電話<rt>でんわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "でんわ": {
@@ -2717,15 +2717,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "戸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>戸<rt>と</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>戸<rt>と</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "と": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、との<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、との<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "トイレ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、トイレの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、トイレの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "遠い": {
@@ -2761,15 +2761,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "所": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>所<rt>ところ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>所<rt>ところ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ところ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ところの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ところの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "年": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年<rt>とし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年<rt>とし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とし": {
@@ -2781,11 +2781,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "としょかん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、としょかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、としょかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とても": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とてもの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とてもの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "隣": {
@@ -2793,7 +2793,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "となり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、となりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、となりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "飛ぶ": {
@@ -2889,7 +2889,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "土曜日": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "どようび": {
@@ -2969,7 +2969,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "One, two, three, four, five, six, seven, eight, nine, ten."
   },
   "七日": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>七<rt>なな</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>七<rt>なな</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なのか": {
@@ -2981,7 +2981,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "なまえ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なまえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なまえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "習う": {
@@ -3105,7 +3105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ねこ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ねこの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ねこの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "寝る": {
@@ -3185,7 +3185,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "はがき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はがきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はがきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はく": {
@@ -3225,7 +3225,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "初めて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>初<rt>はじ</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>初<rt>はじ</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はじめて": {
@@ -3281,7 +3281,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "はなし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "話す": {
@@ -3317,7 +3317,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Don't forget to put a stamp on your letter."
   },
   "晴れ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>晴<rt>は</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>晴<rt>は</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はれ": {
@@ -3345,7 +3345,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He took out his handkerchief."
   },
   "半分": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>半分<rt>はんぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>半分<rt>はんぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はんぶん": {
@@ -3385,7 +3385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Mother is busy cooking the dinner."
   },
   "パン": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "パーティー": {
@@ -3425,7 +3425,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ひこうき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひこうきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひこうきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "左": {
@@ -3433,7 +3433,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ひだり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひだりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひだりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "人": {
@@ -3465,7 +3465,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ひとり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "暇": {
@@ -3473,7 +3473,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ひま": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "百": {
@@ -3485,7 +3485,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "昼": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昼<rt>ひる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昼<rt>ひる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひる": {
@@ -3509,7 +3509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "病気": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>病気<rt>びょうき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>病気<rt>びょうき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "びょうき": {
@@ -3565,7 +3565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ふつか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふつかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふつかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "太い": {
@@ -3577,7 +3577,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tom has a thick neck."
   },
   "冬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふゆ": {
@@ -3637,7 +3637,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "へや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、へやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、へやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "辺": {
@@ -3653,7 +3653,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "勉強": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんきょうする": {
@@ -3661,7 +3661,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "便利": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>便利<rt>べんり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>便利<rt>べんり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんり": {
@@ -3701,11 +3701,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "ホテル": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ホテルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ホテルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "本": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>本<rt>ほん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>本<rt>ほん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほん": {
@@ -3889,7 +3889,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "水": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>水<rt>みず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>水<rt>みず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みず": {
@@ -3917,7 +3917,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "みち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "三日": {
@@ -3957,7 +3957,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "みなみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みなみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みなみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "耳": {
@@ -3969,7 +3969,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "みんな": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みんなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みんなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "六日": {
@@ -4069,11 +4069,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "もの": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "門": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>門<rt>もん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>門<rt>もん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "もん": {
@@ -4121,11 +4121,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "休み": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>休<rt>やす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>休<rt>やす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "やすみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やすみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やすみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "休む": {
@@ -4165,7 +4165,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "夕飯": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夕飯<rt>ゆうはん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夕飯<rt>ゆうはん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆうはん": {
@@ -4173,7 +4173,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "郵便局": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆうびんきょく": {
@@ -4269,7 +4269,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "夜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夜<rt>よる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夜<rt>よる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よる": {
@@ -4297,7 +4297,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "らいしゅう": {
-    "ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘<rt>ねば</rt></ruby>り<ruby>強<rt>きょう</rt></ruby>くらいしゅう<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘<rt>ねば</rt></ruby>り<ruby>強<rt>つよ</rt></ruby>くらいしゅう<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "来年": {
@@ -4429,7 +4429,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "わたくし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わたくしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わたくしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "渡す": {
@@ -4461,11 +4461,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ああ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ああの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ああの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "間": {
-    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>間<rt>ま</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>間<rt>あいだ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "あいだ": {
@@ -4549,11 +4549,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The announcer can talk rapidly."
   },
   "アフリカ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アフリカの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アフリカの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "アメリカ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アメリカの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アメリカの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "謝る": {
@@ -4573,7 +4573,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I want to have a part-time job, too."
   },
   "安心": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>安心<rt>あんしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>安心<rt>あんしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あんしん": {
@@ -4585,7 +4585,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "あんぜん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あんぜんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あんぜんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あんな": {
@@ -4637,7 +4637,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "いけん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "石": {
@@ -4685,7 +4685,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "一生懸命": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いっしょうけんめい": {
@@ -4697,11 +4697,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "糸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>糸<rt>いと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>糸<rt>いと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "以内": {
@@ -4857,7 +4857,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "運動": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>運動<rt>うんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>運動<rt>うんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うんどうする": {
@@ -4909,7 +4909,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "億": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>億<rt>おく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>億<rt>おく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "屋上": {
@@ -5005,7 +5005,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おつり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おつりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おつりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "音": {
@@ -5025,7 +5025,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Don't drop that cup."
   },
   "踊り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>踊<rt>おど</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>踊<rt>おど</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おどり": {
@@ -5089,11 +5089,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "おもちゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おもちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おもちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "表": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>表<rt>ひょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>表<rt>ひょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おもて": {
@@ -5297,7 +5297,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "かならず": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かならずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かならずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お金持ち": {
@@ -5313,7 +5313,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "かのじょ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かのじょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かのじょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "壁": {
@@ -5345,7 +5345,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I go to school on foot."
   },
   "彼": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>彼<rt>かれ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>彼<rt>かれ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かれ": {
@@ -5357,7 +5357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "かれら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かれらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かれらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "乾く": {
@@ -5393,7 +5393,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "関係": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>関係<rt>かんけい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>関係<rt>かんけい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんけい": {
@@ -5401,7 +5401,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "看護婦": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>看護<rt>かんご</rt></ruby><ruby>婦<rt>ふ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>看護<rt>かんご</rt></ruby><ruby>婦<rt>ふ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんごふ": {
@@ -5413,11 +5413,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "かんたん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんたんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんたんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "カーテン": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、カーテンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、カーテンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ガス": {
@@ -5489,7 +5489,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To maintain workplace safety and order, all employees need to strictly adhere to the rules established within the company."
   },
   "きっと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きっとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きっとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "絹": {
@@ -5529,7 +5529,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "きみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "決める": {
@@ -5545,7 +5545,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "きもち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きもちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きもちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "着物": {
@@ -5649,7 +5649,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "くさ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くださる": {
@@ -5749,7 +5749,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "けしゴム": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けしゴムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けしゴムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "決して": {
@@ -5805,7 +5805,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "げんいん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、げんいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、げんいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "子": {
@@ -5829,7 +5829,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My house is in the suburbs."
   },
   "講義": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>講義<rt>こうぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>講義<rt>こうぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こうぎ": {
@@ -5853,7 +5853,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "高校生": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こうこうせい": {
@@ -5869,7 +5869,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They labored in the factories."
   },
   "校長": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>校長<rt>こうちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>校長<rt>こうちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こうちょう": {
@@ -5905,7 +5905,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "こうむいん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうむいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうむいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "国際": {
@@ -5933,7 +5933,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "答": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答<rt>こたえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答<rt>こたえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こたえ": {
@@ -5945,7 +5945,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "小鳥": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小鳥<rt>ことり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小鳥<rt>ことり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ことり": {
@@ -5977,7 +5977,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "こめ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "これから": {
@@ -6013,7 +6013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Did you have a good concert?"
   },
   "今度": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>今度<rt>こんど</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>今度<rt>こんど</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こんど": {
@@ -6029,7 +6029,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ご存じ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ご<ruby>存<rt>ぞん</rt></ruby>じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ご<ruby>存<rt>ぞん</rt></ruby>じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごぞんじ": {
@@ -6053,7 +6053,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "最後": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最後<rt>さいご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最後<rt>さいご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さいご": {
@@ -6073,7 +6073,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "さか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "盛ん": {
@@ -6165,7 +6165,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "How about a sandwich?"
   },
   "残念": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>残念<rt>ざんねん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>残念<rt>ざんねん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ざんねん": {
@@ -6281,7 +6281,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "しゅうかん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅうかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅうかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "出席": {
@@ -6293,7 +6293,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "出発": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅっぱつする": {
@@ -6417,11 +6417,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "じ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "事故": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>事故<rt>じこ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>事故<rt>じこ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じこ": {
@@ -6489,7 +6489,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "じゅうぶん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅうぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅうぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "準備": {
@@ -6601,11 +6601,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "No dumping rubbish here!"
   },
   "ステレオ": {
-    "ja": "ステレオの<ruby>音<rt>おと</rt></ruby>、<ruby>小<rt>ちー</rt></ruby>さくしてよ。",
+    "ja": "ステレオの<ruby>音<rt>おと</rt></ruby>、<ruby>小<rt>ちい</rt></ruby>さくしてよ。",
     "en": "Turn down the stereo."
   },
   "ステーキ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ステーキの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ステーキの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "砂": {
@@ -6721,7 +6721,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "せなか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せなかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せなかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "世話": {
@@ -6789,7 +6789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "祖父": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>祖父<rt>そふ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>祖父<rt>そふ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そふ": {
@@ -6809,11 +6809,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My grandmother speaks slowly."
   },
   "それで": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、それでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、それでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "それに": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、それにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、それにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "それほど": {
@@ -6821,7 +6821,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It's not quite as simple as that."
   },
   "そろそろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そろそろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そろそろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そんな": {
@@ -6841,7 +6841,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "台風": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいふう": {
@@ -6941,7 +6941,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "たまに": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たまにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たまにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "為": {
@@ -6949,7 +6949,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ため": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ための<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ための<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "足りる": {
@@ -6961,7 +6961,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "大学生": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だいがくせい": {
@@ -6973,7 +6973,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "だいじ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、だいじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、だいじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大体": {
@@ -6993,7 +6993,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It's fairly warm today."
   },
   "だから": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、だからの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、だからの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だめ": {
@@ -7017,7 +7017,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Did you turn off the heater?"
   },
   "血": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>血<rt>ち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>血<rt>ち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ち": {
@@ -7061,7 +7061,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He entered junior high school."
   },
   "注射": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>注射<rt>ちゅうしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>注射<rt>ちゅうしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちゅうしゃ": {
@@ -7153,7 +7153,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I intend to have a thorough discussion with my wife over the weekend regarding whether to purchase a new house."
   },
   "つもり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つもりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つもりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "釣る": {
@@ -7165,7 +7165,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "丁寧": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丁寧<rt>ていねい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丁寧<rt>ていねい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ていねい": {
@@ -7177,7 +7177,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Which textbook are you using?"
   },
   "適当": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>適当<rt>てきとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>適当<rt>てきとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てきとう": {
@@ -7245,7 +7245,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The exhibition is now open."
   },
   "できるだけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、できるだけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、できるだけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "電灯": {
@@ -7257,7 +7257,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "電報": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>電報<rt>でんぽう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>電報<rt>でんぽう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "でんぽう": {
@@ -7289,7 +7289,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "特に": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>特<rt>とく</rt></ruby>にの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>特<rt>とく</rt></ruby>にの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とくに": {
@@ -7357,11 +7357,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Don't handle these tools roughly."
   },
   "動物園": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "どうぶつえん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうぶつえんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうぶつえんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "泥棒": {
@@ -7497,7 +7497,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "人形": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>人形<rt>にんぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>人形<rt>にんぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "にんぎょう": {
@@ -7641,15 +7641,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In mastering a foreign language, it is important not only to learn vocabulary but also to imitate native pronunciation through repeated practice."
   },
   "はつおん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はつおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はつおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "花見": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>花見<rt>はなみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>花見<rt>はなみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はなみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "林": {
@@ -7697,7 +7697,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "場所": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ばしょ": {
@@ -7713,7 +7713,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "パソコン": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パソコンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パソコンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "パート": {
@@ -7773,7 +7773,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We derive further pleasure from our study."
   },
   "ひげ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひげの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひげの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "飛行場": {
@@ -7785,7 +7785,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Can I pick my ticket up at the airport?"
   },
   "久しぶり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>久<rt>ひさ</rt></ruby>しぶりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>久<rt>ひさ</rt></ruby>しぶりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひさしぶり": {
@@ -7833,7 +7833,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "昼休み": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昼休<rt>ひるやす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昼休<rt>ひるやす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひるやすみ": {
@@ -7865,7 +7865,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ピアノ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ピアノの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ピアノの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ファックス": {
@@ -7889,7 +7889,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "複雑": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>複雑<rt>ふくざつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>複雑<rt>ふくざつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふくざつ": {
@@ -7905,7 +7905,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Let's review Lesson 5."
   },
   "普通": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふつう": {
@@ -7925,7 +7925,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ふとん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふとんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふとんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "舟": {
@@ -7977,7 +7977,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ぶんか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶんかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶんかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "文学": {
@@ -7989,7 +7989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "文法": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぶんぽう": {
@@ -8021,7 +8021,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "ベル": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ベルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ベルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "放送": {
@@ -8053,7 +8053,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ほど": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほめる": {
@@ -8105,7 +8105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is an earnest young man."
   },
   "まず": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "間違える": {
@@ -8177,7 +8177,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "みそ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みその<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みその<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "見つかる": {
@@ -8229,7 +8229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "As our company reaches the milestone of its 50th anniversary next month, we plan to hold a commemorative ceremony."
   },
   "昔": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昔<rt>むかし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昔<rt>むかし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "むかし": {
@@ -8333,7 +8333,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "もり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "焼く": {
@@ -8437,7 +8437,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ゆびわ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゆびわの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゆびわの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "夢": {
@@ -8457,7 +8457,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I felt the house shake."
   },
   "用": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>用<rt>よう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>用<rt>よう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よう": {
@@ -8505,7 +8505,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "予約": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>予約<rt>よやく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>予約<rt>よやく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よやく": {
@@ -8581,15 +8581,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "れきし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、れきしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、れきしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "レジ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、レジの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、レジの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "連絡": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連絡<rt>れんらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連絡<rt>れんらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れんらく": {
@@ -8605,11 +8605,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "沸く": {
-    "ja": "<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転<rt>ぎゃくてん</rt></ruby>ホームランが<ruby>放<rt>ほうっ</rt></ruby>たれた<ruby>瞬間<rt>しゅんかん</rt></ruby>、スタジアム<ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>大歓声<rt>だいかんせい</rt></ruby>に<ruby>沸<rt>ふつ</rt></ruby>いた。",
+    "ja": "<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転<rt>ぎゃくてん</rt></ruby>ホームランが<ruby>放<rt>はな</rt></ruby>たれた<ruby>瞬間<rt>しゅんかん</rt></ruby>、スタジアム<ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>大歓声<rt>だいかんせい</rt></ruby>に<ruby>沸<rt>ふつ</rt></ruby>いた。",
     "en": "The moment the dramatic come-from-behind home run was hit, the entire stadium erupted in loud cheers."
   },
   "わく": {
-    "ja": "<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転<rt>ぎゃくてん</rt></ruby>ホームランが<ruby>放<rt>ほうっ</rt></ruby>たれた<ruby>瞬間<rt>しゅんかん</rt></ruby>、スタジアム<ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>大歓声<rt>だいかんせい</rt></ruby>に<ruby>沸<rt>ふつ</rt></ruby>いた。",
+    "ja": "<ruby>劇的<rt>げきてき</rt></ruby>な<ruby>逆転<rt>ぎゃくてん</rt></ruby>ホームランが<ruby>放<rt>はな</rt></ruby>たれた<ruby>瞬間<rt>しゅんかん</rt></ruby>、スタジアム<ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>大歓声<rt>だいかんせい</rt></ruby>に<ruby>沸<rt>ふつ</rt></ruby>いた。",
     "en": "The moment the dramatic come-from-behind home run was hit, the entire stadium erupted in loud cheers."
   },
   "訳": {
@@ -8617,7 +8617,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "わけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "忘れ物": {
@@ -8625,7 +8625,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "わすれもの": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わすれものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わすれものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "笑う": {
@@ -8701,7 +8701,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When the referee blew the whistle signaling the start of the match, players from both teams ran out all at once."
   },
   "あいず": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あいずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あいずの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "相手": {
@@ -8709,7 +8709,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In order to conduct negotiations smoothly, an attitude of respecting the other party's opinion and position is above all important."
   },
   "あいて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あいての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あいての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あいにく": {
@@ -8761,7 +8761,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "If you eat it every day like this, then you become tired even of sashimi."
   },
   "握手": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>握手<rt>あくしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>握手<rt>あくしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あくしゅ": {
@@ -8805,7 +8805,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "あたたか(い)": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あたたか(い)の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あたたか(い)の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "辺り": {
@@ -8905,7 +8905,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "嵐": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嵐<rt>あらし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嵐<rt>あらし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あらし": {
@@ -8985,7 +8985,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I have no face to turn to."
   },
   "哀れ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>哀<rt>あわ</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>哀<rt>あわ</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あわれ": {
@@ -8993,7 +8993,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "案": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>案<rt>あん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>案<rt>あん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あん": {
@@ -9105,7 +9105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "いしき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いしきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いしきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "維持": {
@@ -9249,7 +9249,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This is a condition caused by aging."
   },
   "一瞬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一瞬<rt>いっしゅん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一瞬<rt>いっしゅん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いっしゅん": {
@@ -9281,15 +9281,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Due to a sudden system outage, all operations ground to a halt, and confusion spread across the workplace over what on earth had happened."
   },
   "一致": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一致<rt>いっち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一致<rt>いっち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いっち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "一般": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いっぱん": {
@@ -9497,7 +9497,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "How do you like this whisky?"
   },
   "うお": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "伺う": {
@@ -9553,7 +9553,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "嘘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嘘<rt>うそ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>嘘<rt>うそ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "疑う": {
@@ -9569,7 +9569,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "宇宙": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うちゅう": {
@@ -9605,11 +9605,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Machinery robs work of creative interest."
   },
   "馬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>馬<rt>うま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>馬<rt>うま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うま": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うまの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "生まれ": {
@@ -9617,7 +9617,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "うまれ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うまれの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うまれの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "梅": {
@@ -9673,7 +9673,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "柄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>柄<rt>え</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>柄<rt>え</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "永遠": {
@@ -9773,7 +9773,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "えんき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "演技": {
@@ -9813,7 +9813,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I'm all in a dither about the concert."
   },
   "えんりょ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんりょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんりょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "御": {
@@ -9913,11 +9913,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おおや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "丘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丘<rt>おか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丘<rt>おか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おか": {
@@ -10033,7 +10033,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I had an upset stomach since morning due to extreme nervousness, but by taking deep breaths and calming down, I managed to get through the interview."
   },
   "鬼": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鬼<rt>おに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鬼<rt>おに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おに": {
@@ -10069,7 +10069,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "おまえ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おまえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おまえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おめでとう": {
@@ -10105,7 +10105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "およぎ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、およぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、およぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "およそ": {
@@ -10261,7 +10261,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The situation is still capable of improvement."
   },
   "快適": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>快適<rt>かいてき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>快適<rt>かいてき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かいてき": {
@@ -10317,7 +10317,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "かかり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かかりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かかりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "掛かる": {
@@ -10325,7 +10325,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "化学": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>化学<rt>かがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>化学<rt>かがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "輝く": {
@@ -10385,7 +10385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Before sending the important document to the business partner, I checked again to confirm there were no mistakes in the attached files or recipient information."
   },
   "かくにん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かくにんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かくにんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "隠れる": {
@@ -10417,7 +10417,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "陰": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陰<rt>かげ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陰<rt>かげ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "加減": {
@@ -10425,7 +10425,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To finish a traditional hot pot dish deliciously, subtle adjustment of the heat simmering on low to bring out the umami of ingredients is essential."
   },
   "かげん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "過去": {
@@ -10453,7 +10453,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "There's nothing in the basket."
   },
   "火災": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火災<rt>かさい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火災<rt>かさい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かさい": {
@@ -10541,11 +10541,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was able to reach a lot of people."
   },
   "刀": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>刀<rt>かたな</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>刀<rt>かたな</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かたな": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かたなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かたなの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "語る": {
@@ -10585,7 +10585,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Going to an interview in a neat, clean appearance is a fundamental standard for a working adult."
   },
   "活動": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>活動<rt>かつどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>活動<rt>かつどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かつどう": {
@@ -10625,7 +10625,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "かね": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かねの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かねの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "金持ち": {
@@ -10637,7 +10637,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "可能": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>可能<rt>かのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>可能<rt>かのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かのう": {
@@ -10705,7 +10705,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "から": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "刈る": {
@@ -10749,7 +10749,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "What a lovely doll!"
   },
   "勘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勘<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勘<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かん": {
@@ -10801,7 +10801,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "観光": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>観光<rt>かんこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>観光<rt>かんこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんこう": {
@@ -10817,11 +10817,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "感謝": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんしゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "感心": {
@@ -10841,7 +10841,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "患者": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>患者<rt>かんじゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんじゃ": {
@@ -10857,7 +10857,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "感情": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "感じる": {
@@ -10877,7 +10877,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is an authority on China."
   },
   "完成": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>完成<rt>かんせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>完成<rt>かんせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんせい": {
@@ -10885,7 +10885,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "完全": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>完全<rt>かんぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>完全<rt>かんぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんぜん": {
@@ -10901,7 +10901,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This movie is well worth watching, as expected of a work that a famous director spent years producing."
   },
   "感動": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感動<rt>かんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>感動<rt>かんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんどう": {
@@ -10913,7 +10913,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "かんり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "完了": {
@@ -10937,7 +10937,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "カード": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、カードの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、カードの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "害": {
@@ -11005,11 +11005,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "がくもん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がくもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がくもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "がっかり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がっかりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がっかりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "学期": {
@@ -11081,7 +11081,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The boss seemed to be in a bad mood since morning, so I decided to postpone our important consultation until the afternoon."
   },
   "気候": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気候<rt>きこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気候<rt>きこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きこう": {
@@ -11089,11 +11089,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "岸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>岸<rt>きし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>岸<rt>きし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "記者": {
@@ -11233,7 +11233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "奇妙": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>奇妙<rt>きみょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>奇妙<rt>きみょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きみょう": {
@@ -11341,7 +11341,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They participated in the team games."
   },
   "教師": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>教師<rt>きょうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>教師<rt>きょうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょうし": {
@@ -11401,7 +11401,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They made more powerful arms."
   },
   "許可": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>許可<rt>きょか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>許可<rt>きょか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょか": {
@@ -11409,11 +11409,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "局": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>局<rt>つぼね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>局<rt>つぼね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょく": {
-    "ja": "<ruby>街<rt>まち</rt></ruby>のカフェで<ruby>流<rt>なが</rt></ruby>れていた<ruby>曲<rt>ま</rt></ruby>がとても<ruby>気に入<rt>きにい</rt></ruby>ったので、<ruby>後<rt>のち</rt></ruby>からスマートフォンで<ruby>曲名<rt>きょくめい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べた。",
+    "ja": "<ruby>街<rt>まち</rt></ruby>のカフェで<ruby>流<rt>なが</rt></ruby>れていた<ruby>曲<rt>ま</rt></ruby>がとても<ruby>気に入<rt>きにい</rt></ruby>ったので、<ruby>後<rt>あと</rt></ruby>からスマートフォンで<ruby>曲名<rt>きょくめい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べた。",
     "en": "I really liked the song playing in the town cafe, so I looked up the title on my smartphone afterwards."
   },
   "巨大": {
@@ -11425,7 +11425,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "器用": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>器用<rt>きよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>器用<rt>きよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きよう": {
@@ -11541,7 +11541,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "筋肉": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きんにく": {
@@ -11621,7 +11621,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "行儀": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>行儀<rt>ぎょうぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>行儀<rt>ぎょうぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎょうぎ": {
@@ -11637,7 +11637,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "銀": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>銀<rt>ぎん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>銀<rt>ぎん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎん": {
@@ -11729,7 +11729,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He cannot tell right from wrong."
   },
   "組": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>組<rt>くみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>組<rt>くみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くみ": {
@@ -11925,7 +11925,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "計": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>計<rt>けい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>計<rt>けい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けい": {
@@ -11989,7 +11989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "刑事": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>刑事<rt>けいじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>刑事<rt>けいじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けいじ": {
@@ -12037,7 +12037,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "結果": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>結果<rt>けっか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>結果<rt>けっか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けっか": {
@@ -12053,7 +12053,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This phone is defective."
   },
   "結局": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>結局<rt>けっきょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>結局<rt>けっきょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けっきょく": {
@@ -12073,11 +12073,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "けっせき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けっせきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けっせきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "決定": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>決定<rt>けってい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>決定<rt>けってい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けってい": {
@@ -12109,7 +12109,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even from a distance, white smoke could be seen billowing up from the factory chimney."
   },
   "券": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>券<rt>けん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>券<rt>けん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けん": {
@@ -12125,7 +12125,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He lives two doors off."
   },
   "喧嘩": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>喧嘩<rt>けんか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>喧嘩<rt>けんか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けんか": {
@@ -12233,7 +12233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "月曜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "げつよう": {
@@ -12357,7 +12357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Following the doctor's instructions and taking the prescribed medicine regularly, the therapeutic effect clearly manifested within a few days."
   },
   "硬貨": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>硬貨<rt>こうか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>硬貨<rt>こうか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "高価": {
@@ -12389,7 +12389,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It was a moving sight."
   },
   "貢献": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>貢献<rt>こうけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>貢献<rt>こうけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こうけん": {
@@ -12401,7 +12401,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tenaciously defending against the opposing team's fierce attacks, they seized victory with a decisive point right before the end."
   },
   "こうげき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうげきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうげきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "広告": {
@@ -12473,7 +12473,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "こうほ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうほの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こうほの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "考慮": {
@@ -12517,7 +12517,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "故郷": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こきょう": {
@@ -12565,7 +12565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He deals in grain."
   },
   "腰": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>腰<rt>こし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>腰<rt>こし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こし": {
@@ -12609,7 +12609,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "国境": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>国境<rt>こっきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>国境<rt>こっきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こっきょう": {
@@ -12625,7 +12625,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "小包": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小包<rt>こづつみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小包<rt>こづつみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こづつみ": {
@@ -12669,11 +12669,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "好み": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好<rt>この</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好<rt>この</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "このみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、このみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、このみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "好む": {
@@ -12705,7 +12705,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "これら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、これらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、これらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "頃": {
@@ -12733,7 +12733,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "今回": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こんかい": {
@@ -12789,7 +12789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "混乱": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こんらん": {
@@ -12817,7 +12817,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "合格": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごうかく": {
@@ -12849,7 +12849,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "語学": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>語学<rt>ごがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>語学<rt>ごがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごがく": {
@@ -12893,7 +12893,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "最高": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最高<rt>さいこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さいこう": {
@@ -12937,7 +12937,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "さいばん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さいばんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さいばんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "幸い": {
@@ -12949,7 +12949,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Fortunately, the weather was good."
   },
   "サイン": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、サインの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、サインの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "境": {
@@ -12985,7 +12985,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They were through with work."
   },
   "昨": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昨<rt>さく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>昨<rt>さく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "作品": {
@@ -13005,7 +13005,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "桜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>桜<rt>さくら</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>桜<rt>さくら</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さくら": {
@@ -13173,7 +13173,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "騒ぎ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>騒<rt>さわ</rt></ruby>ぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>騒<rt>さわ</rt></ruby>ぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さわぎ": {
@@ -13197,7 +13197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "酸素": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>酸素<rt>さんそ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>酸素<rt>さんそ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さんそ": {
@@ -13213,7 +13213,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That store gives good service."
   },
   "財産": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ざいさん": {
@@ -13269,7 +13269,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "しき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "支給": {
@@ -13325,7 +13325,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The sight of the evening sun sinking slowly into the horizon as seen from the observatory was breathtakingly beautiful, mesmerizing visiting tourists."
   },
   "自然": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自然<rt>しぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自然<rt>しぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しぜん": {
@@ -13333,7 +13333,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "思想": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>思想<rt>しそう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>思想<rt>しそう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しそう": {
@@ -13341,7 +13341,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "舌": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>舌<rt>した</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>舌<rt>した</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "従う": {
@@ -13373,7 +13373,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "しち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "質": {
@@ -13433,7 +13433,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The manager stood at the door."
   },
   "支払": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>支払<rt>しはらい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>支払<rt>しはらい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しはらい": {
@@ -13505,7 +13505,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "霜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>霜<rt>しも</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>霜<rt>しも</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しも": {
@@ -13513,7 +13513,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "借金": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>借金<rt>しゃっきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>借金<rt>しゃっきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゃっきん": {
@@ -13553,11 +13553,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The wheat is ready for harvest."
   },
   "週間": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "宗教": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>宗教<rt>しゅうきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>宗教<rt>しゅうきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅうきょう": {
@@ -13565,7 +13565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "就職": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>就職<rt>しゅうしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>就職<rt>しゅうしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅうしょく": {
@@ -13605,15 +13605,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Taxation is based on income."
   },
   "修理": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>修理<rt>しゅうり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>修理<rt>しゅうり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅうり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅうりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅうりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "主義": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主義<rt>しゅぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主義<rt>しゅぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅぎ": {
@@ -13653,7 +13653,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "English is a means of communication."
   },
   "主張": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅちょう": {
@@ -13725,7 +13725,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I want to enjoy this moment."
   },
   "章": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>章<rt>あきら</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>章<rt>あきら</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょう": {
@@ -13757,7 +13757,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "しょうご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "少々": {
@@ -13817,7 +13817,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "商人": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>商人<rt>しょうにん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>商人<rt>しょうにん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょうにん": {
@@ -13825,7 +13825,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "承認": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>承認<rt>しょうにん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>承認<rt>しょうにん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "少年": {
@@ -13833,11 +13833,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "しょうねん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "商売": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>商売<rt>しょうばい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>商売<rt>しょうばい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょうばい": {
@@ -13885,7 +13885,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "職業": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>職業<rt>しょくぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>職業<rt>しょくぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょくぎょう": {
@@ -13921,7 +13921,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "食物": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>食物<rt>しょくもつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>食物<rt>しょくもつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょくもつ": {
@@ -13977,7 +13977,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The skill to quickly process large volumes of incoming emails and documents every day is extremely important for working professionals."
   },
   "しょり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "書類": {
@@ -14013,7 +14013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "印": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>印<rt>しるし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>印<rt>しるし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しるし": {
@@ -14025,7 +14025,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The ancient castle towering atop the mountain is a precious cultural property that conveys the history of the Sengoku period to this day."
   },
   "進学": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>研究職<rt>けんきゅうしょく</rt></ruby>に<ruby>就<rt>つ</rt></ruby>きたいと<ruby>考<rt>かんが</rt></ruby>え、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>して<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>める<ruby>道<rt>みち</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>研究職<rt>けんきゅうしょく</rt></ruby>に<ruby>就<rt>つ</rt></ruby>きたいと<ruby>考<rt>かんが</rt></ruby>え、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>して<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>める<ruby>道<rt>みち</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
     "en": "Wishing to work in research in the future, after graduating from university, I chose the path of advancing to graduate school to deepen my studies."
   },
   "しんがく": {
@@ -14057,7 +14057,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Faith can move mountains."
   },
   "深刻": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>深刻<rt>しんこく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>深刻<rt>しんこく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんこく": {
@@ -14065,7 +14065,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "信号": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>信号<rt>しんごう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>信号<rt>しんごう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんごう": {
@@ -14101,7 +14101,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "しんせん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "心臓": {
@@ -14209,7 +14209,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The time for skiing has gone by."
   },
   "直": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>直<rt>じか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>直<rt>じか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "事件": {
@@ -14217,7 +14217,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "じけん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "時刻": {
@@ -14229,7 +14229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "自殺": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自殺<rt>じさつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自殺<rt>じさつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じさつ": {
@@ -14333,7 +14333,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "自慢": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自慢<rt>じまん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自慢<rt>じまん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じまん": {
@@ -14381,7 +14381,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "住宅": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>住宅<rt>じゅうたく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>住宅<rt>じゅうたく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じゅうたく": {
@@ -14425,7 +14425,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "じゅん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "順調": {
@@ -14437,7 +14437,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "順番": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>順番<rt>じゅんばん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>順番<rt>じゅんばん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じゅんばん": {
@@ -14481,7 +14481,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Because I was not satisfied with the proposed employment terms, I negotiated the compensation once more before accepting the job offer."
   },
   "常識": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じょうしき": {
@@ -14801,7 +14801,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "頭痛": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頭痛<rt>ずつう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頭痛<rt>ずつう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ずつう": {
@@ -14869,7 +14869,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In order to prevent excessive load on the server, a limit has been placed on the number of files that can be downloaded at one time."
   },
   "せいげん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "成功": {
@@ -14965,7 +14965,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In response to rising commodity prices, the government announced additional support measures for low-income households."
   },
   "生物": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せいぶつ": {
@@ -14973,7 +14973,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "生命": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生命<rt>せいめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生命<rt>せいめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せいめい": {
@@ -14993,7 +14993,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Since catching a cold, I've had a severe persistent cough for days and cannot get a good night's sleep."
   },
   "石炭": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>石炭<rt>せきたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>石炭<rt>せきたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せきたん": {
@@ -15129,7 +15129,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "絶対": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>絶対<rt>ぜったい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>絶対<rt>ぜったい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぜったい": {
@@ -15149,7 +15149,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "全": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>全<rt>ちょん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>全<rt>ちょん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぜん": {
@@ -15157,7 +15157,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "善": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>善<rt>ぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>善<rt>ぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "全員": {
@@ -15209,7 +15209,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "そうおん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そうおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そうおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "操作": {
@@ -15317,7 +15317,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "そで": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "備える": {
@@ -15337,7 +15337,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "側": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>側<rt>がわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>側<rt>がわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ソファー": {
@@ -15373,7 +15373,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "If you are misled only by immediate cheapness and buy poor-quality goods, repair costs will mount up and you will ultimately take a loss."
   },
   "損害": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>損害<rt>そんがい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>損害<rt>そんがい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そんがい": {
@@ -15429,7 +15429,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "田": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>田<rt>た</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>田<rt>た</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "対": {
@@ -15449,11 +15449,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tom is a gym teacher."
   },
   "体温": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>体温<rt>たいおん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>体温<rt>たいおん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいおん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいおんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大会": {
@@ -15469,11 +15469,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "たいき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "退屈": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>退屈<rt>たいくつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>退屈<rt>たいくつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいくつ": {
@@ -15541,7 +15541,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "たいど": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大半": {
@@ -15557,7 +15557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Do you have an electronic typewriter?"
   },
   "大変": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大変<rt>たいへん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大変<rt>たいへん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "逮捕": {
@@ -15577,11 +15577,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "平ら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平<rt>たい</rt></ruby>らの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平<rt>たい</rt></ruby>らの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たいらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大陸": {
@@ -15601,7 +15601,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "タオル": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、タオルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、タオルの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "宝": {
@@ -15781,7 +15781,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I often call on him."
   },
   "多分": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>多分<rt>たぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>多分<rt>たぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "偶": {
@@ -15789,7 +15789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "たま": {
-    "ja": "<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかなガラスの<ruby>玉<rt>たま</rt></ruby>を<ruby>専用<rt>せんよう</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>で<ruby>繋<rt>つな</rt></ruby>ぎ<ruby>合<rt>あ</rt></ruby>わせて、<ruby>自分<rt>じぶん</rt></ruby>だけのオリジナルブレスレットを<ruby>制作<rt>せいさく</rt></ruby>した。",
+    "ja": "<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかなガラスの<ruby>玉<rt>たま</rt></ruby>を<ruby>専用<rt>せんよう</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>で<ruby>繋<rt>つな</rt></ruby>ぎ<ruby>合<rt>あ</rt></ruby>わせて、<ruby>自分<rt>じぶん</rt></ruby>だけのオリジナルブレスレットを<ruby>制作<rt>せいさく</rt></ruby>した。",
     "en": "I strung together colorful glass beads with specialized thread to create my own original bracelet."
   },
   "弾": {
@@ -15797,7 +15797,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "玉": {
-    "ja": "<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかなガラスの<ruby>玉<rt>たま</rt></ruby>を<ruby>専用<rt>せんよう</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>で<ruby>繋<rt>つな</rt></ruby>ぎ<ruby>合<rt>あ</rt></ruby>わせて、<ruby>自分<rt>じぶん</rt></ruby>だけのオリジナルブレスレットを<ruby>制作<rt>せいさく</rt></ruby>した。",
+    "ja": "<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかなガラスの<ruby>玉<rt>たま</rt></ruby>を<ruby>専用<rt>せんよう</rt></ruby>の<ruby>糸<rt>いと</rt></ruby>で<ruby>繋<rt>つな</rt></ruby>ぎ<ruby>合<rt>あ</rt></ruby>わせて、<ruby>自分<rt>じぶん</rt></ruby>だけのオリジナルブレスレットを<ruby>制作<rt>せいさく</rt></ruby>した。",
     "en": "I strung together colorful glass beads with specialized thread to create my own original bracelet."
   },
   "たまらない": {
@@ -15869,7 +15869,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "担当": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>担当<rt>たんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>担当<rt>たんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たんとう": {
@@ -15893,7 +15893,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "台": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台<rt>たい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>台<rt>たい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だい": {
@@ -15901,7 +15901,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "題": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>題<rt>だい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>題<rt>だい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "代金": {
@@ -16001,7 +16001,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The men's room is on the second floor."
   },
   "ダンス": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ダンスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ダンスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "団体": {
@@ -16013,7 +16013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They participated in the team games."
   },
   "地": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>地<rt>ち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>地<rt>ち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "地位": {
@@ -16049,7 +16049,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This skyscraper is directly connected underground to major subway lines, allowing commuters to get to work without getting wet on rainy days."
   },
   "近頃": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>近頃<rt>ちかごろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>近頃<rt>ちかごろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちかごろ": {
@@ -16113,11 +16113,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I ran for the governor."
   },
   "父親": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちちおや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちちおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちちおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "知能": {
@@ -16149,11 +16149,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ちゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "チャンス": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、チャンスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、チャンスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちゃんと": {
@@ -16165,7 +16165,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "注": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>注<rt>ちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>注<rt>ちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "中央": {
@@ -16213,7 +16213,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "中心": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中心<rt>ちゅうしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中心<rt>ちゅうしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちゅうしん": {
@@ -16261,7 +16261,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Lately my computer hasn't been working well and frequently freezes in the middle of tasks, so I am considering replacing it."
   },
   "頂上": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頂上<rt>ちょうじょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頂上<rt>ちょうじょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちょうじょう": {
@@ -16273,11 +16273,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "貯金": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>貯金<rt>ちょきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>貯金<rt>ちょきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちょきん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちょきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちょきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "直接": {
@@ -16313,7 +16313,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He reached his goal at last."
   },
   "通過": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通過<rt>つうか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通過<rt>つうか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "つうか": {
@@ -16321,7 +16321,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "通学": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通学<rt>つうがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通学<rt>つうがく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "つうがく": {
@@ -16377,7 +16377,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "月": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>月<rt>つき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>月<rt>つき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "付き合い": {
@@ -16393,7 +16393,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "つぎつぎ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つぎつぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つぎつぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "就く": {
@@ -16453,7 +16453,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "つねに": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つねにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つねにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "翼": {
@@ -16509,7 +16509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "つれ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つれの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つれの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "提案": {
@@ -16609,7 +16609,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I sterilize with utmost care."
   },
   "鉄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鉄<rt>てつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鉄<rt>てつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てつ": {
@@ -16717,7 +16717,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "You should try to make the most of your opportunities."
   },
   "ですから": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ですからの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ですからの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "デモ": {
@@ -16757,11 +16757,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "塔": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>塔<rt>とう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>塔<rt>とう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "答案": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答案<rt>とうあん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答案<rt>とうあん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうあん": {
@@ -16777,7 +16777,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was a student at that time."
   },
   "到着": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>到着<rt>とうちゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>到着<rt>とうちゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうちゃく": {
@@ -16801,11 +16801,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Copper conducts electricity well."
   },
   "通り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通<rt>とお</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>通<rt>とお</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とおり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とおりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とおりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "通り過ぎる": {
@@ -16885,11 +16885,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "年月": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年月<rt>としつき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年月<rt>としつき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "としつき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、としつきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、としつきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "図書": {
@@ -16901,7 +16901,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "年寄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年寄<rt>としより</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>年寄<rt>としより</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "としより": {
@@ -16985,7 +16985,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "共に": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>共<rt>とも</rt></ruby>にの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>共<rt>とも</rt></ruby>にの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ともに": {
@@ -17093,7 +17093,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "どうろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "毒": {
@@ -17149,11 +17149,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "ドライブ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ドライブの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ドライブの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ドラマ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ドラマの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ドラマの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "努力": {
@@ -17201,7 +17201,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "There is no substance in his speech."
   },
   "なお": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "仲": {
@@ -17269,7 +17269,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "無し": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>無<rt>な</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>無<rt>な</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なし": {
@@ -17305,11 +17305,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "何か": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なに</rt></ruby>かの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なに</rt></ruby>かの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なにか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なにかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なにかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なにも": {
@@ -17361,7 +17361,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "縄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>縄<rt>なわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>縄<rt>なわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なわ": {
@@ -17369,11 +17369,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "何で": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>での<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>での<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なんで": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何でも": {
@@ -17385,7 +17385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "何とか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>とかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>とかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なんとか": {
@@ -17421,7 +17421,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That was an exciting game."
   },
   "にち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "日常": {
@@ -17529,7 +17529,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Cats dislike being wet."
   },
   "値": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>値<rt>ね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>値<rt>ね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ね": {
@@ -17557,7 +17557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "鼠": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鼠<rt>ねずみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鼠<rt>ねずみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ねずみ": {
@@ -17573,7 +17573,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Although organic vegetables have a slightly higher price compared to regular produce, they are supported by many consumers for their safety and great taste."
   },
   "熱心": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>熱心<rt>ねっしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>熱心<rt>ねっしん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ねっしん": {
@@ -17725,7 +17725,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "ノック": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ノックの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ノックの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "喉": {
@@ -17765,7 +17765,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Leaving the hustle and bustle of the city to go to a hot spring resort on weekends and spending time leisurely, forgetting everyday busyness, is the best relaxation."
   },
   "灰": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>灰<rt>はい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>灰<rt>はい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ハイキング": {
@@ -17821,7 +17821,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I like to wear clogs."
   },
   "拍手": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>拍手<rt>はくしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>拍手<rt>はくしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はくしゅ": {
@@ -17901,11 +17901,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "はたらき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はたらきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はたらきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "肌": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肌<rt>はだ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肌<rt>はだ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はだ": {
@@ -17913,7 +17913,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "裸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>裸<rt>はだか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>裸<rt>はだか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はだか": {
@@ -17969,7 +17969,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They have announced their engagement."
   },
   "発明": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>発明<rt>はつめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>発明<rt>はつめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はつめい": {
@@ -18013,7 +18013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ははおや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ははおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ははおやの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "幅": {
@@ -18037,7 +18037,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "はら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "腹": {
@@ -18097,7 +18097,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "はんにん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はんにんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はんにんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "販売": {
@@ -18109,11 +18109,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "場": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>場<rt>ば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>場<rt>ば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ば": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ばの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ばの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "バイオリン": {
@@ -18245,11 +18245,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "必死": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>必死<rt>ひっし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>必死<rt>ひっし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひっし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひっしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひっしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "引っ張る": {
@@ -18361,7 +18361,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When learning a foreign language, I want to acquire not only grammar but also diverse expressive abilities to richly convey emotions and nuances."
   },
   "ひょうげん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひょうげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひょうげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "表情": {
@@ -18405,7 +18405,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My dreams just get larger!"
   },
   "美人": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>美人<rt>びじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>美人<rt>びじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "びじん": {
@@ -18437,7 +18437,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "平等": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平等<rt>びょうどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平等<rt>びょうどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "びょうどう": {
@@ -18513,11 +18513,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "不可": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不可<rt>ふか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不可<rt>ふか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "服装": {
@@ -18553,11 +18553,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "節": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>節<rt>ふし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>節<rt>ふし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "不思議": {
@@ -18585,7 +18585,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "His wife had him wrapped around her little finger."
   },
   "婦人": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>婦人<rt>ふじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>婦人<rt>ふじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "不正": {
@@ -18605,7 +18605,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Salt preserves fish from spoilage."
   },
   "不足": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不足<rt>ふそく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不足<rt>ふそく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふそく": {
@@ -18613,15 +18613,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "双子": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>双子<rt>ふたご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>双子<rt>ふたご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふたご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふたごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふたごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "再び": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>再<rt>ふたた</rt></ruby>びの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>再<rt>ふたた</rt></ruby>びの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふたたび": {
@@ -18633,7 +18633,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ふだん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふだんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふだんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "縁": {
@@ -18649,7 +18649,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ふで": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふでの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "船": {
@@ -18753,7 +18753,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ぶっか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶっかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶっかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "物質": {
@@ -18773,7 +18773,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ぶつり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶつりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぶつりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "部分": {
@@ -18833,7 +18833,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I want to buy a word processor."
   },
   "塀": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>塀<rt>へい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>塀<rt>へい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "へい": {
@@ -18909,7 +18909,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "During the lunch break, one often sees office workers quietly enjoying reading on benches in the shade of trees in a small park in the business district."
   },
   "弁当": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんとう": {
@@ -18993,7 +18993,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ほこり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほこりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほこりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "誇り": {
@@ -19021,7 +19021,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ほとけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほとけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほとけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "程": {
@@ -19029,7 +19029,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "歩道": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歩道<rt>ほどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歩道<rt>ほどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほどう": {
@@ -19053,7 +19053,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "頬": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頬<rt>ほお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頬<rt>ほお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほほ": {
@@ -19113,7 +19113,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The children picked up a long stick in the park and were playing happily while drawing a large picture on the ground."
   },
   "冒険": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冒険<rt>ぼうけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冒険<rt>ぼうけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぼうけん": {
@@ -19141,7 +19141,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "まあ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まあの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まあの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "マイク": {
@@ -19301,7 +19301,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "ママ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ママの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ママの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "豆": {
@@ -19321,7 +19321,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "丸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丸<rt>まる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丸<rt>まる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "まる": {
@@ -19349,7 +19349,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "回り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>回<rt>まわ</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>回<rt>まわ</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "万一": {
@@ -19393,7 +19393,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "味方": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>味方<rt>みかた</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>味方<rt>みかた</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みかた": {
@@ -19409,7 +19409,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ミス": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ミスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ミスの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "認める": {
@@ -19453,7 +19453,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "みょうごにち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みょうごにちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みょうごにちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "未来": {
@@ -19465,7 +19465,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "魅力": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>魅力<rt>みりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>魅力<rt>みりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みりょく": {
@@ -19541,7 +19541,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "むだ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むだの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むだの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "夢中": {
@@ -19617,7 +19617,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "めし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "滅多に": {
@@ -19637,7 +19637,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "めん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "面": {
@@ -19653,7 +19653,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I have a driver's license."
   },
   "面倒": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面倒<rt>めんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面倒<rt>めんどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "めんどう": {
@@ -19701,7 +19701,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "もくてき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もくてきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もくてきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "目標": {
@@ -19713,7 +19713,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "木曜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>木曜<rt>もくよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>木曜<rt>もくよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "もくよう": {
@@ -19725,11 +19725,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Hello. This is Ogawa speaking."
   },
   "文字": {
-    "ja": "<ruby>配布<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎて<ruby>読<rt>よ</rt></ruby>みにくかったため、フォントサイズを<ruby>大<rt>おお</rt></ruby>きくしてレイアウトを<ruby>修正<rt>しゅうせい</rt></ruby>した。",
+    "ja": "<ruby>配布<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎて<ruby>読<rt>よ</rt></ruby>みにくかったため、フォントサイズを<ruby>大<rt>おお</rt></ruby>きくしてレイアウトを<ruby>修正<rt>しゅうせい</rt></ruby>した。",
     "en": "Because the text in the handout was too small and difficult to read, I increased the font size and adjusted the layout."
   },
   "もじ": {
-    "ja": "<ruby>配布<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎて<ruby>読<rt>よ</rt></ruby>みにくかったため、フォントサイズを<ruby>大<rt>おお</rt></ruby>きくしてレイアウトを<ruby>修正<rt>しゅうせい</rt></ruby>した。",
+    "ja": "<ruby>配布<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎて<ruby>読<rt>よ</rt></ruby>みにくかったため、フォントサイズを<ruby>大<rt>おお</rt></ruby>きくしてレイアウトを<ruby>修正<rt>しゅうせい</rt></ruby>した。",
     "en": "Because the text in the handout was too small and difficult to read, I increased the font size and adjusted the layout."
   },
   "持ち上げる": {
@@ -19757,11 +19757,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Cleanliness is next to godliness."
   },
   "元": {
-    "ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験器具<rt>じっけんきぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
+    "ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験器具<rt>じっけんきぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
     "en": "After using shared experimental equipment, please be sure to wash it cleanly and return it to its original position for other researchers."
   },
   "もと": {
-    "ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験器具<rt>じっけんきぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
+    "ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験器具<rt>じっけんきぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
     "en": "After using shared experimental equipment, please be sure to wash it cleanly and return it to its original position for other researchers."
   },
   "基": {
@@ -19769,7 +19769,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "素": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>素<rt>もと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>素<rt>もと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "基づく": {
@@ -19801,7 +19801,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "物音": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>物音<rt>ものおと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>物音<rt>ものおと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ものおと": {
@@ -19925,7 +19925,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I decided to quit the company I had worked at for many years to pursue my dream of opening my own shop."
   },
   "やや": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ややの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ややの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "唯一": {
@@ -19997,7 +19997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is a capable lawyer."
   },
   "郵便": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>郵便<rt>ゆうびん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>郵便<rt>ゆうびん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆうびん": {
@@ -20025,7 +20025,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Having accidentally spilled my coffee, I quickly wiped it up with a cloth before the floor got stained."
   },
   "愉快": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>愉快<rt>ゆかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>愉快<rt>ゆかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆかい": {
@@ -20073,7 +20073,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is devoid of humor."
   },
   "よ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、よの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、よの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "夜明け": {
@@ -20089,7 +20089,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "様": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>様<rt>さま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>様<rt>さま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "酔う": {
@@ -20097,11 +20097,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is out of control when drunk."
   },
   "容易": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>容易<rt>ようい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>容易<rt>ようい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "陽気": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陽気<rt>ようき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陽気<rt>ようき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ようき": {
@@ -20125,7 +20125,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "様子": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>様子<rt>ようす</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>様子<rt>ようす</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ようす": {
@@ -20249,7 +20249,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "読み": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>読<rt>よ</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>読<rt>よ</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よみ": {
@@ -20301,7 +20301,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "ライター": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ライターの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ライターの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "楽": {
@@ -20333,7 +20333,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "陸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陸<rt>りく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>陸<rt>りく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りく": {
@@ -20341,7 +20341,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "利口": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>利口<rt>りこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>利口<rt>りこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りこう": {
@@ -20349,11 +20349,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "離婚": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>離婚<rt>りこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>離婚<rt>りこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りこん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、りこんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、りこんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "理想": {
@@ -20421,11 +20421,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "礼": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>礼<rt>れい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>礼<rt>れい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "礼儀": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>礼儀<rt>れいぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>礼儀<rt>れいぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れいぎ": {
@@ -20433,7 +20433,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "冷静": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷静<rt>れいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷静<rt>れいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れいせい": {
@@ -20553,7 +20553,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "わき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "分ける": {
@@ -20645,7 +20645,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "（感）": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、（<ruby>感<rt>かん</rt></ruby>）の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、（<ruby>感<rt>かん</rt></ruby>）の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しまった": {
@@ -20653,7 +20653,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "すみません": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、すみませんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、すみませんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よろしく": {
@@ -20669,7 +20669,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "（終わり）": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、（<ruby>終<rt>お</rt></ruby>わり）の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、（<ruby>終<rt>お</rt></ruby>わり）の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しまう": {
@@ -20709,7 +20709,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "How is the word accented?"
   },
   "あくび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あくびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あくびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "飽くまで": {
@@ -20729,7 +20729,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The accident occurred at dawn."
   },
   "挙げる": {
-    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>一ヶ月<rt>いっかげつ</rt></ruby><ruby>後<rt>のち</rt></ruby>に<ruby>結婚式<rt>けっこんしき</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げる。",
+    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>一ヶ月<rt>いっかげつ</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>結婚式<rt>けっこんしき</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げる。",
     "en": "I'm having a wedding in a month."
   },
   "揚げる": {
@@ -20745,7 +20745,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "All art constantly aspires towards the condition of music."
   },
   "足跡": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>足跡<rt>あしあと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>足跡<rt>あしあと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あしあと": {
@@ -20905,7 +20905,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Don't haggle over a small sum of money."
   },
   "改めて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>改<rt>あらた</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>改<rt>あらた</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あらためて": {
@@ -21269,7 +21269,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "うらぐち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うらぐちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うらぐちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "恨み": {
@@ -21369,7 +21369,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Is there an English-Japanese dictionary on the bookshelf?"
   },
   "ええと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ええとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ええとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "液体": {
@@ -21465,7 +21465,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Add some olive oil."
   },
   "応援": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>応援<rt>おうえん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>応援<rt>おうえん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おうえん": {
@@ -21533,7 +21533,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That is the main street of this city."
   },
   "お帰り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>帰<rt>かえ</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、お<ruby>帰<rt>かえ</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おかえり": {
@@ -21837,7 +21837,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "改正": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>改正<rt>かいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>改正<rt>かいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "解説": {
@@ -21945,7 +21945,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He has the habit of scratching his head."
   },
   "架空": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>架空<rt>かくう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>架空<rt>かくう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かくう": {
@@ -21985,11 +21985,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The school gymnasium was enlarged."
   },
   "角度": {
-    "ja": "それでは<ruby>角度<rt>かくど</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎよう。",
+    "ja": "それでは<ruby>角度<rt>かくど</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎよう。",
     "en": "The angle would be too narrow."
   },
   "かくど": {
-    "ja": "それでは<ruby>角度<rt>かくど</rt></ruby>が<ruby>小<rt>ちー</rt></ruby>さすぎよう。",
+    "ja": "それでは<ruby>角度<rt>かくど</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎよう。",
     "en": "The angle would be too narrow."
   },
   "格別": {
@@ -22061,11 +22061,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is a plain, modest person."
   },
   "火山": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火山<rt>かざん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>火山<rt>かざん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かざん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かざんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かざんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かしこまりました": {
@@ -22273,7 +22273,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My grandfather sometimes writes in the old kana orthography."
   },
   "鐘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鐘<rt>かね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鐘<rt>かね</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "加熱": {
@@ -22357,7 +22357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "からっぽ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からっぽの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、からっぽの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "カラー": {
@@ -22453,11 +22453,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I have dry skin."
   },
   "かんそう": {
-    "ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>のち</rt></ruby>、<ruby>参加者全員<rt>さんかしゃぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
+    "ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>あと</rt></ruby>、<ruby>参加者全員<rt>さんかしゃぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
     "en": "After attending the in-house training lecture, all participants submitted their key takeaways and candid impressions."
   },
   "感想": {
-    "ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>のち</rt></ruby>、<ruby>参加者全員<rt>さんかしゃぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
+    "ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>あと</rt></ruby>、<ruby>参加者全員<rt>さんかしゃぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
     "en": "After attending the in-house training lecture, all participants submitted their key takeaways and candid impressions."
   },
   "観測": {
@@ -22541,11 +22541,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He watched with the patient."
   },
   "冠": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冠<rt>かんむり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冠<rt>かんむり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんむり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんむりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かんむりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "漢和": {
@@ -22629,7 +22629,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is in charge of the class."
   },
   "ガム": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ガムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ガムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "気圧": {
@@ -22933,7 +22933,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The smoke ascended into the air."
   },
   "釘": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>釘<rt>くぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>釘<rt>くぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くぎ": {
@@ -23025,11 +23025,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "口紅": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>口紅<rt>くちべに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>口紅<rt>くちべに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くちべに": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くちべにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くちべにの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くっつく": {
@@ -23105,7 +23105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Please take good care of yourself."
   },
   "クーラー": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、クーラーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、クーラーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "偶数": {
@@ -23197,7 +23197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "With the holding of the international conference, strict security is being conducted around the venue by police and security guards."
   },
   "けいび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けいびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けいびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "形容詞": {
@@ -23229,7 +23229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "けた": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "傑作": {
@@ -23257,7 +23257,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "気配": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気配<rt>けはい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気配<rt>けはい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けはい": {
@@ -23301,7 +23301,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "けんきょ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けんきょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けんきょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "研修": {
@@ -23565,7 +23565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Where is a public telephone?"
   },
   "工事": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>工事<rt>こうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>工事<rt>こうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こうじ": {
@@ -23841,7 +23841,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is a fine classical scholar."
   },
   "琴": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>琴<rt>きん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>琴<rt>きん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "言葉遣い": {
@@ -23865,7 +23865,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "こゆび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こゆびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こゆびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "コレクション": {
@@ -23917,7 +23917,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It is difficult planning meals for so many people."
   },
   "こんばんは": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こんばんはの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こんばんはの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "コース": {
@@ -23953,7 +23953,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ごうり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごうりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごうりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "合流": {
@@ -23989,7 +23989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I have been out of touch with you for a long time."
   },
   "ゴム": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゴムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゴムの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "御免": {
@@ -23997,7 +23997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ごめん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごめんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごめんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごめんください": {
@@ -24005,7 +24005,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Excuse me. Is anyone home?"
   },
   "娯楽": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>娯楽<rt>ごらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>娯楽<rt>ごらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ごらく": {
@@ -24069,7 +24069,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She can sew very well."
   },
   "サイレン": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、サイレンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、サイレンの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "逆さ": {
@@ -24233,7 +24233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "さび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "錆びる": {
@@ -24425,7 +24425,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The school grounds extend as far as this fence."
   },
   "至急": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>至急<rt>しきゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>至急<rt>しきゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "敷く": {
@@ -24545,11 +24545,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "しつど": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しつどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しつどの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "失恋": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>失恋<rt>しつれん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>失恋<rt>しつれん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しつれん": {
@@ -24673,7 +24673,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I like to suck on frozen ice cream bars in the summer."
   },
   "車輪": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>車輪<rt>しゃりん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>車輪<rt>しゃりん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゃりん": {
@@ -24857,11 +24857,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I work for a trading company."
   },
   "障子": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>障子<rt>しょうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>障子<rt>しょうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょうじ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "小数": {
@@ -24949,7 +24949,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "しょうめん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうめんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょうめんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "消耗": {
@@ -25049,7 +25049,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "しらが": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しらがの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しらがの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "私立": {
@@ -25197,7 +25197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The sheets feel damp."
   },
   "寺院": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>寺院<rt>じいん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>寺院<rt>じいん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じいん": {
@@ -25421,7 +25421,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "'Verb' refers to the predicate verb. Predicate verbs change their form depending on the subject and the time expressed."
   },
   "寿命": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>寿命<rt>じゅみょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>寿命<rt>じゅみょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じゅみょう": {
@@ -25429,7 +25429,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "受話器": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>受話器<rt>じゅわき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>受話器<rt>じゅわき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じゅわき": {
@@ -25657,7 +25657,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The moon rose above the horizon."
   },
   "水曜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>水曜<rt>すいよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>水曜<rt>すいよう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すいよう": {
@@ -25685,7 +25685,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "For children's healthy growth, it is desirable to eliminate food pickiness and eat everything in a balanced manner."
   },
   "好き好き": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好<rt>す</rt></ruby>き<ruby>好<rt>す</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好<rt>す</rt></ruby>き<ruby>好<rt>す</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すきずき": {
@@ -25717,7 +25717,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I rescheduled."
   },
   "鈴": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鈴<rt>すず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鈴<rt>すず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すず": {
@@ -25757,7 +25757,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Say when."
   },
   "素直": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>素直<rt>すなお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>素直<rt>すなお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すなお": {
@@ -25781,7 +25781,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Let's buy him a smart watch."
   },
   "墨": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>墨<rt>すみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>墨<rt>すみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "相撲": {
@@ -25833,7 +25833,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Please take this line as the axis and rotate the figure around it."
   },
   "頭脳": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頭脳<rt>ずのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>頭脳<rt>ずのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ずのう": {
@@ -25893,11 +25893,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I can not understand the psychology of adolescents."
   },
   "清掃": {
-    "ja": "<ruby>洗面所<rt>せんめんじょ</rt></ruby>をつかった<ruby>後<rt>のち</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
+    "ja": "<ruby>洗面所<rt>せんめんじょ</rt></ruby>をつかった<ruby>後<rt>あと</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
     "en": "Clean up after you have finished using the bathroom."
   },
   "せいそう": {
-    "ja": "<ruby>洗面所<rt>せんめんじょ</rt></ruby>をつかった<ruby>後<rt>のち</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
+    "ja": "<ruby>洗面所<rt>せんめんじょ</rt></ruby>をつかった<ruby>後<rt>あと</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
     "en": "Clean up after you have finished using the bathroom."
   },
   "生存": {
@@ -25905,7 +25905,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "せいぞん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいぞんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいぞんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "生長": {
@@ -25921,7 +25921,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They organized a political party."
   },
   "生年月日": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せいねんがっぴ": {
@@ -25973,7 +25973,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "せいもん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいもんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "成立": {
@@ -26077,11 +26077,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "扇子": {
-    "ja": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>腕時計<rt>うでどけい</rt></ruby>と<ruby>扇子<rt>せんす</rt></ruby>を<ruby>食<rt>くっ</rt></ruby>った。",
+    "ja": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>腕時計<rt>うでどけい</rt></ruby>と<ruby>扇子<rt>せんす</rt></ruby>を<ruby>食<rt>く</rt></ruby>った。",
     "en": "The dog ate a watch and a Japanese fan."
   },
   "せんす": {
-    "ja": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>腕時計<rt>うでどけい</rt></ruby>と<ruby>扇子<rt>せんす</rt></ruby>を<ruby>食<rt>くっ</rt></ruby>った。",
+    "ja": "<ruby>犬<rt>いぬ</rt></ruby>が<ruby>腕時計<rt>うでどけい</rt></ruby>と<ruby>扇子<rt>せんす</rt></ruby>を<ruby>食<rt>く</rt></ruby>った。",
     "en": "The dog ate a watch and a Japanese fan."
   },
   "専制": {
@@ -26113,7 +26113,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To make the appeal of the new product widely known, they are conducting effective promotional campaigns utilizing social media and video streaming services."
   },
   "せんでん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せんでんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せんでんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "先頭": {
@@ -26129,7 +26129,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "せんぷうき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せんぷうきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せんぷうきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "線路": {
@@ -26141,7 +26141,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "税関": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>税関<rt>ぜいかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>税関<rt>ぜいかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぜいかん": {
@@ -26181,11 +26181,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That can be said of mankind at large."
   },
   "相違": {
-    "ja": "それらの<ruby>間<rt>ま</rt></ruby>には<ruby>表面的<rt>ひょうめんてき</rt></ruby>な<ruby>相違<rt>そうい</rt></ruby>はない。",
+    "ja": "それらの<ruby>間<rt>あいだ</rt></ruby>には<ruby>表面的<rt>ひょうめんてき</rt></ruby>な<ruby>相違<rt>そうい</rt></ruby>はない。",
     "en": "There is no surface difference between them."
   },
   "そうい": {
-    "ja": "それらの<ruby>間<rt>ま</rt></ruby>には<ruby>表面的<rt>ひょうめんてき</rt></ruby>な<ruby>相違<rt>そうい</rt></ruby>はない。",
+    "ja": "それらの<ruby>間<rt>あいだ</rt></ruby>には<ruby>表面的<rt>ひょうめんてき</rt></ruby>な<ruby>相違<rt>そうい</rt></ruby>はない。",
     "en": "There is no surface difference between them."
   },
   "そういえば": {
@@ -26193,7 +26193,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By the way, what time will you go there?"
   },
   "倉庫": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そうこ": {
@@ -26225,7 +26225,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I didn't attend his funeral."
   },
   "そうして": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そうしての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、そうしての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "騒々しい": {
@@ -26361,7 +26361,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "A \"soroban\" is a type of Japanese abacus."
   },
   "損得": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>損得<rt>そんとく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>損得<rt>そんとく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そんとく": {
@@ -26481,7 +26481,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To calculate the volume, multiply the length by the width by the depth."
   },
   "体操": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>体操<rt>たいそう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>体操<rt>たいそう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいそう": {
@@ -26561,7 +26561,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "たけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "助かる": {
@@ -26701,11 +26701,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She is a short story writer."
   },
   "大学院": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
     "en": "After graduating from university, he advanced to graduate school and is now devoting himself to cutting-edge research on renewable energy."
   },
   "だいがくいん": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生可能<rt>さいせいかのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
     "en": "After graduating from university, he advanced to graduate school and is now devoting himself to cutting-edge research on renewable energy."
   },
   "大工": {
@@ -26769,7 +26769,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "妥当": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>妥当<rt>だとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>妥当<rt>だとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だとう": {
@@ -26861,11 +26861,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "力強い": {
-    "ja": "なるほどこの<ruby>車<rt>くるま</rt></ruby>は<ruby>小<rt>ちー</rt></ruby>さいが<ruby>力強<rt>ちからづよ</rt></ruby>い。",
+    "ja": "なるほどこの<ruby>車<rt>くるま</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さいが<ruby>力強<rt>ちからづよ</rt></ruby>い。",
     "en": "Indeed this car is small, but it is powerful."
   },
   "ちからづよい": {
-    "ja": "なるほどこの<ruby>車<rt>くるま</rt></ruby>は<ruby>小<rt>ちー</rt></ruby>さいが<ruby>力強<rt>ちからづよ</rt></ruby>い。",
+    "ja": "なるほどこの<ruby>車<rt>くるま</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さいが<ruby>力強<rt>ちからづよ</rt></ruby>い。",
     "en": "Indeed this car is small, but it is powerful."
   },
   "地質": {
@@ -26985,7 +26985,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ちゅうと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゅうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゅうとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "中年": {
@@ -26993,7 +26993,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ちゅうねん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゅうねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちゅうねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "超過": {
@@ -27409,7 +27409,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Do you have a bus pass?"
   },
   "定休日": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ていきゅうび": {
@@ -27429,7 +27429,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ていしゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ていしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ていしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "停電": {
@@ -27437,7 +27437,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Due to strong winds from last night's powerful typhoon, power lines were severed, causing a prolonged blackout across wide areas of the city."
   },
   "ていでん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ていでんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ていでんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "手入れ": {
@@ -27557,7 +27557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The pond was dotted with fallen leaves."
   },
   "天皇": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>天皇<rt>てんのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>天皇<rt>てんのう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てんのう": {
@@ -27641,11 +27641,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "With the goal of saving energy and reducing electricity costs, all office lighting was replaced from conventional incandescent bulbs to long-lasting LED bulbs."
   },
   "伝染": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>伝染<rt>でんせん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>伝染<rt>でんせん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "でんせん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、でんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "電池": {
@@ -27989,7 +27989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "どうさ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、どうさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "どうせ": {
@@ -28057,7 +28057,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "No medicine can cure a man of discontent."
   },
   "仲直り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仲直<rt>なかなお</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仲直<rt>なかなお</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なかなおり": {
@@ -28065,11 +28065,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "中身": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中身<rt>なかみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>中身<rt>なかみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なかみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なかみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なかみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "中指": {
@@ -28081,11 +28081,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The middle finger is the longest."
   },
   "仲良し": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仲良<rt>なかよ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>仲良<rt>なかよ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なかよし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なかよしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なかよしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "永い": {
@@ -28305,7 +28305,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "にゅうしゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にゅうしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にゅうしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "女房": {
@@ -28509,7 +28509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "はいいろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はいいろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はいいろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "俳句": {
@@ -28557,7 +28557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I have decided to weigh myself every day starting today."
   },
   "吐き気": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>吐き気<rt>はきけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>吐き気<rt>はきけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はきけ": {
@@ -28697,11 +28697,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It's quite absurd of you to tell her that sort of thing."
   },
   "花火": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>花火<rt>はなび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>花火<rt>はなび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はなび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "花嫁": {
@@ -28733,7 +28733,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Fragments of the mirror were scattered on the floor."
   },
   "歯磨き": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歯磨<rt>はみが</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歯磨<rt>はみが</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はみがき": {
@@ -28869,7 +28869,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I live at 337 Augusta Street."
   },
   "バンド": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、バンドの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、バンドの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "パターン": {
@@ -28877,7 +28877,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "There should be a pattern."
   },
   "パンツ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パンツの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、パンツの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "日当たり": {
@@ -28909,7 +28909,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ひがえり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひがえりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひがえりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "引き止める": {
@@ -28921,7 +28921,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She holds the boy back."
   },
   "卑怯": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>卑怯<rt>ひきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>卑怯<rt>ひきょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひきょう": {
@@ -29009,7 +29009,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "一休み": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一休<rt>ひとやす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一休<rt>ひとやす</rt></ruby>みの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひとやすみ": {
@@ -29021,7 +29021,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ひとりごと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとりごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとりごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひとりでに": {
@@ -29217,7 +29217,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "びんせん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、びんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、びんせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "瓶詰": {
@@ -29397,7 +29397,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ふぶき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふぶきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふぶきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "父母": {
@@ -29669,7 +29669,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The soldiers were guarding the bridge."
   },
   "平凡": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平凡<rt>へいぼん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>平凡<rt>へいぼん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "へいぼん": {
@@ -29753,11 +29753,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Which way is Central Park?"
   },
   "箒": {
-    "ja": "<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>はら</rt></ruby>っておそく<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったかどで、<ruby>怒<rt>いか</rt></ruby>った<ruby>女房<rt>にょうぼう</rt></ruby>は<ruby>亭主<rt>ていしゅ</rt></ruby>に<ruby>食<rt>くっ</rt></ruby>ってかかり、<ruby>箒<rt>そう</rt></ruby>で<ruby>亭主<rt>ていしゅ</rt></ruby>をひっぱたいた。",
+    "ja": "<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>はら</rt></ruby>っておそく<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったかどで、<ruby>怒<rt>いか</rt></ruby>った<ruby>女房<rt>にょうぼう</rt></ruby>は<ruby>亭主<rt>ていしゅ</rt></ruby>に<ruby>食<rt>く</rt></ruby>ってかかり、<ruby>箒<rt>そう</rt></ruby>で<ruby>亭主<rt>ていしゅ</rt></ruby>をひっぱたいた。",
     "en": "The angry wife was on the warpath; she hit her husband with a broom for coming home late and drunk."
   },
   "ほうき": {
-    "ja": "<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>はら</rt></ruby>っておそく<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったかどで、<ruby>怒<rt>いか</rt></ruby>った<ruby>女房<rt>にょうぼう</rt></ruby>は<ruby>亭主<rt>ていしゅ</rt></ruby>に<ruby>食<rt>くっ</rt></ruby>ってかかり、<ruby>箒<rt>そう</rt></ruby>で<ruby>亭主<rt>ていしゅ</rt></ruby>をひっぱたいた。",
+    "ja": "<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>はら</rt></ruby>っておそく<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったかどで、<ruby>怒<rt>いか</rt></ruby>った<ruby>女房<rt>にょうぼう</rt></ruby>は<ruby>亭主<rt>ていしゅ</rt></ruby>に<ruby>食<rt>く</rt></ruby>ってかかり、<ruby>箒<rt>そう</rt></ruby>で<ruby>亭主<rt>ていしゅ</rt></ruby>をひっぱたいた。",
     "en": "The angry wife was on the warpath; she hit her husband with a broom for coming home late and drunk."
   },
   "方言": {
@@ -29789,7 +29789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "You can't go against the laws of nature."
   },
   "包帯": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>包帯<rt>ほうたい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>包帯<rt>ほうたい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほうたい": {
@@ -29845,7 +29845,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This is perfect weather for drying clothes."
   },
   "北極": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>北極<rt>ほっきょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>北極<rt>ほっきょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほっきょく": {
@@ -30089,11 +30089,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The fish is burnt black."
   },
   "真っ青": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>真っ青<rt>まっさお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>真っ青<rt>まっさお</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "まっさお": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まっさおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、まっさおの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "真っ先": {
@@ -30297,7 +30297,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "みぶん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "見本": {
@@ -30325,11 +30325,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Cookie is under 5 years old."
   },
   "名字": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>名字<rt>みょうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>名字<rt>みょうじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みょうじ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みょうじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、みょうじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "民間": {
@@ -30385,7 +30385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "むじゅん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むじゅんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むじゅんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "無数": {
@@ -30521,7 +30521,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "めちゃくちゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めちゃくちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、めちゃくちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "めっきり": {
@@ -30877,7 +30877,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "夕立": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夕立<rt>ゆうだち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>夕立<rt>ゆうだち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆうだち": {
@@ -30913,11 +30913,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ゆかた": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゆかたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ゆかたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "輸血": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>輸血<rt>ゆけつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>輸血<rt>ゆけつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆけつ": {
@@ -30997,7 +30997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The following is a summary of the President's speech."
   },
   "幼児": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>幼児<rt>ようじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>幼児<rt>ようじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "容積": {
@@ -31149,11 +31149,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was caught in the rush hour."
   },
   "欄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>欄<rt>らん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>欄<rt>らん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "らん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、らんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、らんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ランチ": {
@@ -31233,7 +31233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "On both sides of the road there are cherry trees."
   },
   "漁師": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>漁師<rt>りょうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>漁師<rt>りょうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りょうし": {
@@ -31289,7 +31289,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This means nil."
   },
   "冷凍": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れいとう": {
@@ -31357,7 +31357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "My books are in my locker."
   },
   "ロビー": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ロビーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ロビーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "和英": {
@@ -31501,7 +31501,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The meaning of this sentence is ambiguous."
   },
   "敢えて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>敢<rt>あ</rt></ruby>えての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>敢<rt>あ</rt></ruby>えての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あえて": {
@@ -31525,11 +31525,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The bronze statue was broken into pieces."
   },
   "証": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>証<rt>あかし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>証<rt>あかし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あかし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あかしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あかしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "赤字": {
@@ -31565,11 +31565,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Sunlight pours in through the south-facing window, making the room very bright."
   },
   "上がり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>上<rt>あ</rt></ruby>がりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>上<rt>あ</rt></ruby>がりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あがり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あがりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あがりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "上がる": {
@@ -31641,7 +31641,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "朝寝坊": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>朝寝坊<rt>あさねぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>朝寝坊<rt>あさねぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あさねぼう": {
@@ -31649,7 +31649,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "あざ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あざの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あざの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "欺く": {
@@ -31661,11 +31661,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Stop deluding yourself."
   },
   "鮮やか": {
-    "ja": "<ruby>庭<rt>にわ</rt></ruby>は<ruby>花<rt>はな</rt></ruby>で<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかである。",
+    "ja": "<ruby>庭<rt>にわ</rt></ruby>は<ruby>花<rt>はな</rt></ruby>で<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかである。",
     "en": "The garden is bright with flowers."
   },
   "あざやか": {
-    "ja": "<ruby>庭<rt>にわ</rt></ruby>は<ruby>花<rt>はな</rt></ruby>で<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかである。",
+    "ja": "<ruby>庭<rt>にわ</rt></ruby>は<ruby>花<rt>はな</rt></ruby>で<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかである。",
     "en": "The garden is bright with flowers."
   },
   "あざ笑う": {
@@ -31709,11 +31709,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He deserves the prize."
   },
   "あたし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あたしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あたしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "当たり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>当<rt>あ</rt></ruby>たりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>当<rt>あ</rt></ruby>たりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "当たり前": {
@@ -31737,7 +31737,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "As a result of leaving it untreated without proper care at an early stage, the medical condition worsened further, forcing a prolonged hospitalization."
   },
   "あっか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あっかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あっかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "あっこう": {
@@ -31789,7 +31789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "あて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "当て": {
@@ -32013,7 +32013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Alkalis neutralize acids."
   },
   "アルミ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アルミの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、アルミの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "合わす": {
@@ -32029,7 +32029,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "あわせ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あわせの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、あわせの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "慌ただしい": {
@@ -32129,7 +32129,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Jesus' mother was there."
   },
   "家出": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>家出<rt>いえで</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>家出<rt>いえで</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いえで": {
@@ -32165,7 +32165,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Whether you will succeed or not depends upon your own exertions."
   },
   "怒り": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>怒<rt>いか</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>怒<rt>いか</rt></ruby>りの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いかり": {
@@ -32221,7 +32221,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "いくさ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いくさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いくさの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "育成": {
@@ -32261,7 +32261,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The monument was set up in the park."
   },
   "衣装": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>衣装<rt>いしょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>衣装<rt>いしょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いしょう": {
@@ -32329,7 +32329,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "いただき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いただきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いただきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "至って": {
@@ -32385,15 +32385,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He rode his bicycle at a uniform speed."
   },
   "著しい": {
-    "ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
+    "ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
     "en": "There are noticeable differences between the two."
   },
   "いちじるしい": {
-    "ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
+    "ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
     "en": "There are noticeable differences between the two."
   },
   "一同": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一同<rt>いちどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一同<rt>いちどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いちどう": {
@@ -32457,7 +32457,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "いっき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "一切": {
@@ -32477,7 +32477,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She was rapt in prayer."
   },
   "いっそ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっその<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いっその<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "一帯": {
@@ -32505,11 +32505,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "何時の間にか": {
-    "ja": "<ruby>何時<rt>なんじ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか<ruby>暗<rt>くら</rt></ruby>くなった。",
+    "ja": "<ruby>何時<rt>なんじ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にか<ruby>暗<rt>くら</rt></ruby>くなった。",
     "en": "It became dark before I knew it."
   },
   "いつのまにか": {
-    "ja": "<ruby>何時<rt>なんじ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか<ruby>暗<rt>くら</rt></ruby>くなった。",
+    "ja": "<ruby>何時<rt>なんじ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にか<ruby>暗<rt>くら</rt></ruby>くなった。",
     "en": "It became dark before I knew it."
   },
   "何時も": {
@@ -32553,7 +32553,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I saw flashes of lightning in the distance."
   },
   "古": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>古<rt>いにしえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>古<rt>いにしえ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "いにしえ": {
@@ -32565,7 +32565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "いのり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いのりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いのりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "今更": {
@@ -32637,11 +32637,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "いろん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いろんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、いろんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "所謂": {
-    "ja": "この<ruby>天地<rt>てんち</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはな、<ruby>所謂<rt>いわゆる</rt></ruby><ruby>哲学<rt>てつがく</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いも<ruby>及<rt>およ</rt></ruby>ばぬ<ruby>大事<rt>だいじ</rt></ruby>があるわい。",
+    "ja": "この<ruby>天地<rt>てんち</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にはな、<ruby>所謂<rt>いわゆる</rt></ruby><ruby>哲学<rt>てつがく</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いも<ruby>及<rt>およ</rt></ruby>ばぬ<ruby>大事<rt>だいじ</rt></ruby>があるわい。",
     "en": "There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy."
   },
   "いん": {
@@ -32681,7 +32681,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Prices are high."
   },
   "うえした": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うえしたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うえしたの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "浮かぶ": {
@@ -32769,7 +32769,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "うそつき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うそつきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うそつきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "打ち合わせ": {
@@ -32797,7 +32797,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It is foolish of you to build a castle in the air while forgetting to drive in pilings for its foundation."
   },
   "内訳": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>内訳<rt>うちわけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>内訳<rt>うちわけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うちわけ": {
@@ -32805,11 +32805,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "訴え": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>訴<rt>うった</rt></ruby>えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>訴<rt>うった</rt></ruby>えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うったえ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うったえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、うったえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "鬱陶しい": {
@@ -32821,7 +32821,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "写し": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>写<rt>うつ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>写<rt>うつ</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うつし": {
@@ -32829,7 +32829,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "器": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>器<rt>うつわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>器<rt>うつわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うつわ": {
@@ -32989,7 +32989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The man is loading the moving truck on his own."
   },
   "運命": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>運命<rt>うんめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>運命<rt>うんめい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "うんめい": {
@@ -33077,7 +33077,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "えもの": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えものの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "襟": {
@@ -33181,7 +33181,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "えんまん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんまんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、えんまんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "尾": {
@@ -33249,7 +33249,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "おうぼ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おうぼの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おうぼの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大方": {
@@ -33277,7 +33277,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "おおごと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おおごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おおごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大ざっぱ": {
@@ -33293,7 +33293,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "大幅": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大幅<rt>おおはば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大幅<rt>おおはば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おおはば": {
@@ -33309,7 +33309,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The bridge was carried away by the flood."
   },
   "公": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>公<rt>おおやけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>公<rt>おおやけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おおやけ": {
@@ -33469,7 +33469,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "雄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>雄<rt>ゆう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>雄<rt>ゆう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お世辞": {
@@ -33501,7 +33501,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "恐れ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>恐<rt>おそ</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>恐<rt>おそ</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おそれ": {
@@ -33573,7 +33573,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おてあげ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おてあげの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おてあげの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "落とす": {
@@ -33581,11 +33581,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I'm going to lose weight."
   },
   "訪れる": {
-    "ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
     "en": "Spring comes between winter and summer."
   },
   "おとずれる": {
-    "ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
     "en": "Spring comes between winter and summer."
   },
   "おとめ": {
@@ -33597,7 +33597,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "おとも": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おともの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おともの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "衰える": {
@@ -33637,11 +33637,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "同い年": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同い年<rt>おないどし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同い年<rt>おないどし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おないどし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おないどしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おないどしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おなご": {
@@ -33653,11 +33653,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "各": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>各<rt>かく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>各<rt>かく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "お早う": {
-    "ja": "なぜ、<ruby>早<rt>はや</rt></ruby>くないのに、「お<ruby>早<rt>そう</rt></ruby>う」というのでしょう？",
+    "ja": "なぜ、<ruby>早<rt>はや</rt></ruby>くないのに、「お<ruby>早<rt>はよ</rt></ruby>う」というのでしょう？",
     "en": "Why does one say \"Good day\" when the day is not good?"
   },
   "お祖母さん": {
@@ -33701,7 +33701,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "There used to be a small shrine around here."
   },
   "おも": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おもの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、おもの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "思い付き": {
@@ -33717,7 +33717,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "玩具": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>玩具<rt>おもちゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>玩具<rt>おもちゃ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "おもなる": {
@@ -34129,7 +34129,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "People are protesting against nuclear weapons."
   },
   "格": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>格<rt>かく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>格<rt>かく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "欠く": {
@@ -34177,7 +34177,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "かくしん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かくしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かくしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "革新": {
@@ -34225,11 +34225,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The sheriff established order in the town."
   },
   "掛け": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>掛<rt>か</rt></ruby>けの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>掛<rt>か</rt></ruby>けの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "賭け": {
@@ -34393,11 +34393,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tom can speak only a little French."
   },
   "片付け": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>片付<rt>かたづ</rt></ruby>けの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>片付<rt>かたづ</rt></ruby>けの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かたづけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かたづけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かたづけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "傾ける": {
@@ -34549,11 +34549,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Shut your filthy mouth."
   },
   "華美": {
-    "ja": "<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>後<rt>のち</rt></ruby>、アランは<ruby>黴<rt>ばい</rt></ruby>だらけの<ruby>小<rt>ちー</rt></ruby>さいアパートを<ruby>出<rt>で</rt></ruby>て、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>華美<rt>かび</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れた。",
+    "ja": "<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、アランは<ruby>黴<rt>かび</rt></ruby>だらけの<ruby>小<rt>ちい</rt></ruby>さいアパートを<ruby>出<rt>で</rt></ruby>て、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>華美<rt>かび</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れた。",
     "en": "After his wedding, Alain left his small, moldy apartment and led an extravagant life."
   },
   "かび": {
-    "ja": "<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>後<rt>のち</rt></ruby>、アランは<ruby>黴<rt>ばい</rt></ruby>だらけの<ruby>小<rt>ちー</rt></ruby>さいアパートを<ruby>出<rt>で</rt></ruby>て、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>華美<rt>かび</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れた。",
+    "ja": "<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、アランは<ruby>黴<rt>かび</rt></ruby>だらけの<ruby>小<rt>ちい</rt></ruby>さいアパートを<ruby>出<rt>で</rt></ruby>て、<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>華美<rt>かび</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れた。",
     "en": "After his wedding, Alain left his small, moldy apartment and led an extravagant life."
   },
   "花粉": {
@@ -34605,7 +34605,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He organized his overcrowded schedule and managed to come to see my performance."
   },
   "かめ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、かめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "カメラマン": {
@@ -34709,7 +34709,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "館": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>館<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>館<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "簡易": {
@@ -34817,7 +34817,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "肝心": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肝心<rt>かんじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肝心<rt>かんじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "かんじん": {
@@ -35029,7 +35029,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "がいねん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がいねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がいねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "外来": {
@@ -35097,7 +35097,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "His son fell over the cliff."
   },
   "がっくり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がっくりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、がっくりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "合唱": {
@@ -35137,7 +35137,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The garage has rusted."
   },
   "癌": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>癌<rt>がん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>癌<rt>がん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "がん": {
@@ -35197,7 +35197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We call these slabs of the solid-rock layer 'plates'."
   },
   "贋物": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>贋物<rt>にせもの</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>贋物<rt>にせもの</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "がんぶつ": {
@@ -35253,7 +35253,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Feel free to share your thoughts."
   },
   "気軽": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気軽<rt>きがる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気軽<rt>きがる</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きがる": {
@@ -35261,7 +35261,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "危機": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>危機<rt>きき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>危機<rt>きき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きき": {
@@ -35309,7 +35309,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Something must be wrong with the machinery."
   },
   "既婚": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>既婚<rt>きこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>既婚<rt>きこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きこん": {
@@ -35433,7 +35433,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "きっかり": {
-    "ja": "１０<ruby>時<rt>とき</rt></ruby>きっかりです。",
+    "ja": "１０<ruby>時<rt>じ</rt></ruby>きっかりです。",
     "en": "It's ten o'clock sharp."
   },
   "喫茶": {
@@ -35777,7 +35777,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The orchestra struck up nostalgic music."
   },
   "教職": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>教職<rt>きょうしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>教職<rt>きょうしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょうしょく": {
@@ -35809,7 +35809,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He often offends against our agreement."
   },
   "脅迫": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>脅迫<rt>きょうはく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>脅迫<rt>きょうはく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょうはく": {
@@ -35849,11 +35849,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The United States is a republic."
   },
   "曲": {
-    "ja": "<ruby>街<rt>まち</rt></ruby>のカフェで<ruby>流<rt>なが</rt></ruby>れていた<ruby>曲<rt>ま</rt></ruby>がとても<ruby>気に入<rt>きにい</rt></ruby>ったので、<ruby>後<rt>のち</rt></ruby>からスマートフォンで<ruby>曲名<rt>きょくめい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べた。",
+    "ja": "<ruby>街<rt>まち</rt></ruby>のカフェで<ruby>流<rt>なが</rt></ruby>れていた<ruby>曲<rt>ま</rt></ruby>がとても<ruby>気に入<rt>きにい</rt></ruby>ったので、<ruby>後<rt>あと</rt></ruby>からスマートフォンで<ruby>曲名<rt>きょくめい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べた。",
     "en": "I really liked the song playing in the town cafe, so I looked up the title on my smartphone afterwards."
   },
   "極端": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>極端<rt>きょくたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>極端<rt>きょくたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょくたん": {
@@ -35877,7 +35877,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I deny his request."
   },
   "拒否": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>拒否<rt>きょひ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>拒否<rt>きょひ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きょひ": {
@@ -35909,7 +35909,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That will contribute to society."
   },
   "気楽": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気楽<rt>きらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>気楽<rt>きらく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きらく": {
@@ -35941,7 +35941,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The end of money is the end of love."
   },
   "きわ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きわの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きわの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きわた": {
@@ -35949,7 +35949,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This blouse is cotton."
   },
   "極めて": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>極<rt>きわ</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>極<rt>きわ</rt></ruby>めての<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "きわめて": {
@@ -35981,7 +35981,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "きんきん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きんきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きんきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "均衡": {
@@ -36021,7 +36021,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "きんべん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きんべんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、きんべんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "勤務": {
@@ -36049,7 +36049,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Hard work has made Japan what it is today."
   },
   "議案": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>議案<rt>ぎあん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>議案<rt>ぎあん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎあん": {
@@ -36105,7 +36105,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Students should develop their reading skills."
   },
   "逆転": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>逆転<rt>ぎゃくてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>逆転<rt>ぎゃくてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎゃくてん": {
@@ -36113,7 +36113,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "行": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>行<rt>くだり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>行<rt>くだり</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぎょう": {
@@ -36285,7 +36285,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She is wearing an expensive necklace."
   },
   "首輪": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>首輪<rt>くびわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>首輪<rt>くびわ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "くびわ": {
@@ -36313,7 +36313,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "くら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "クラブ": {
@@ -36349,7 +36349,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "くろじ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くろじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、くろじの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "君主": {
@@ -36385,7 +36385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tom has a gray car."
   },
   "群": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>群<rt>ぐん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>群<rt>ぐん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "軍艦": {
@@ -36441,7 +36441,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is sensitive to criticism."
   },
   "警戒": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>警戒<rt>けいかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>警戒<rt>けいかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けいかい": {
@@ -36485,7 +36485,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The roof slopes sharply."
   },
   "形勢": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>形勢<rt>けいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>形勢<rt>けいせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けいせい": {
@@ -36497,7 +36497,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The men form a society."
   },
   "軽率": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>軽率<rt>けいそつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>軽率<rt>けいそつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けいそつ": {
@@ -36677,7 +36677,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "けつだん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けつだんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、けつだんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "欠乏": {
@@ -36797,7 +36797,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I also use this study for receiving guests."
   },
   "権力": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>権力<rt>けんりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>権力<rt>けんりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "けんりょく": {
@@ -36833,7 +36833,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Could I have money for my piano lesson?"
   },
   "げっそり": {
-    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>、しばらく<ruby>見<rt>み</rt></ruby>ない<ruby>間<rt>ま</rt></ruby>にげっそりと<ruby>痩<rt>や</rt></ruby>せちゃったけど、<ruby>何<rt>なに</rt></ruby>か<ruby>大<rt>おお</rt></ruby>きな<ruby>病気<rt>びょうき</rt></ruby>でもしたのかな。",
+    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>、しばらく<ruby>見<rt>み</rt></ruby>ない<ruby>間<rt>あいだ</rt></ruby>にげっそりと<ruby>痩<rt>や</rt></ruby>せちゃったけど、<ruby>何<rt>なに</rt></ruby>か<ruby>大<rt>おお</rt></ruby>きな<ruby>病気<rt>びょうき</rt></ruby>でもしたのかな。",
     "en": "She's become very thin in the long time since I last saw her. I wonder if she's fallen seriously ill or something."
   },
   "月賦": {
@@ -36849,7 +36849,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "げり": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、げりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、げりの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "げん": {
@@ -36993,11 +36993,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I stand for freedom of speech for everyone."
   },
   "児": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>児<rt>こ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>児<rt>こ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "巨": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>巨<rt>きょ</rt></ruby>大の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>巨<rt>きょ</rt></ruby>大の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "故": {
@@ -37057,7 +37057,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This area isn't open to the public."
   },
   "後悔": {
-    "ja": "<ruby>後<rt>のち</rt></ruby>になって<ruby>挑戦<rt>ちょうせん</rt></ruby>しなかったことを<ruby>後悔<rt>こうかい</rt></ruby>するくらいなら、<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れずに<ruby>行動<rt>こうどう</rt></ruby>したい。",
+    "ja": "<ruby>後<rt>あと</rt></ruby>になって<ruby>挑戦<rt>ちょうせん</rt></ruby>しなかったことを<ruby>後悔<rt>こうかい</rt></ruby>するくらいなら、<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れずに<ruby>行動<rt>こうどう</rt></ruby>したい。",
     "en": "Rather than regretting not trying later on, I would rather take action without fearing failure."
   },
   "航海": {
@@ -37217,7 +37217,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He insulted me in public."
   },
   "抗争": {
-    "ja": "<ruby>新聞<rt>しんぶん</rt></ruby>は２<ruby>党<rt>とう</rt></ruby><ruby>間<rt>ま</rt></ruby>の<ruby>抗争<rt>こうそう</rt></ruby>を<ruby>報<rt>ほう</rt></ruby>じた。",
+    "ja": "<ruby>新聞<rt>しんぶん</rt></ruby>は２<ruby>党<rt>とう</rt></ruby><ruby>間<rt>あいだ</rt></ruby>の<ruby>抗争<rt>こうそう</rt></ruby>を<ruby>報<rt>ほう</rt></ruby>じた。",
     "en": "The newspaper reported friction between the two parties."
   },
   "構想": {
@@ -37249,7 +37249,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The corporation invited bids for the construction project."
   },
   "好調": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好調<rt>こうちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>好調<rt>こうちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "口頭": {
@@ -37353,7 +37353,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "こがら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こがらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こがらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "小切手": {
@@ -37445,7 +37445,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "こころざし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こころざしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、こころざしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "志す": {
@@ -37513,7 +37513,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This cook cooks different meals every day."
   },
   "孤児": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>孤児<rt>こじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>孤児<rt>こじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こじ": {
@@ -37541,7 +37541,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She has not yet had her name entered in her husband's family."
   },
   "小銭": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小銭<rt>こぜに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>小銭<rt>こぜに</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こぜに": {
@@ -37553,7 +37553,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Water becomes solid when it freezes."
   },
   "答え": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答<rt>こた</rt></ruby>えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>答<rt>こた</rt></ruby>えの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "堪える": {
@@ -37641,7 +37641,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Rock music is especially popular among young people."
   },
   "孤独": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>孤独<rt>こどく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>孤独<rt>こどく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "こどく": {
@@ -37661,7 +37661,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We have to take advantage of this situation."
   },
   "この間": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、この<ruby>間<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、この<ruby>間<rt>かん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "このあいだ": {
@@ -37881,7 +37881,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They came to terms with their enemy."
   },
   "ごうぎ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごうぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごうぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "合成": {
@@ -37949,7 +37949,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ごと": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ごとの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ご無沙汰": {
@@ -38077,11 +38077,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Try to reproduce the music in your mind."
   },
   "最善": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さいぜん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さいぜんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さいぜんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "採択": {
@@ -38197,7 +38197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "作": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>作<rt>さく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>作<rt>さく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "柵": {
@@ -38221,7 +38221,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "さくご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さくごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さくごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "作戦": {
@@ -38337,11 +38337,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "殺人": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>殺人<rt>さつじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>殺人<rt>さつじん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さつじん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さつじんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、さつじんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "悟る": {
@@ -38417,7 +38417,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Sakura's way of speaking gets on my nerves."
   },
   "酸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>酸<rt>さん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>酸<rt>さん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "酸化": {
@@ -38509,7 +38509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Recently, shortages of obstetrics and gynecology specialists have become a problem."
   },
   "産物": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>産物<rt>さんぶつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>産物<rt>さんぶつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "さんぶつ": {
@@ -38665,7 +38665,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I don't know if you'd call it a hobby, but to stretch it a little, you could say music appreciation is my hobby."
   },
   "歯科": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歯科<rt>しか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>歯科<rt>しか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しか": {
@@ -38721,7 +38721,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The male peacock has colorful tail feathers."
   },
   "資金": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>資金<rt>しきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>資金<rt>しきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しきん": {
@@ -38749,7 +38749,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Can you explain how this machine works?"
   },
   "死刑": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>死刑<rt>しけい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>死刑<rt>しけい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しけい": {
@@ -38805,7 +38805,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He was explicit in his instruction."
   },
   "支持": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>支持<rt>しじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>支持<rt>しじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "システム": {
@@ -38945,7 +38945,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "室": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>室<rt>しつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>室<rt>しつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "躾": {
@@ -39109,11 +39109,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Travel broadens one's horizons."
   },
   "しゅ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "周": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>周<rt>しゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>周<rt>しゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "衆": {
@@ -39277,11 +39277,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It seems to be my lot to be an odd man out."
   },
   "主権": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主権<rt>しゅけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>主権<rt>しゅけん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅけん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しゅけんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "手芸": {
@@ -39381,7 +39381,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is what is called a self-made man."
   },
   "出世": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>出世<rt>しゅっせ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>出世<rt>しゅっせ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しゅっせ": {
@@ -39477,7 +39477,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He is trespassing on our private property."
   },
   "諸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>諸<rt>もろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>諸<rt>もろ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょ": {
@@ -39509,7 +39509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The whole Earth was shocked."
   },
   "証言": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>証言<rt>しょうげん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>証言<rt>しょうげん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょうげん": {
@@ -39621,11 +39621,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The government is promoting the use of home products."
   },
   "職員": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>職員<rt>しょくいん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>職員<rt>しょくいん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょくいん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょくいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょくいんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "植民地": {
@@ -39649,7 +39649,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "しょくん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょくんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、しょくんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "所在": {
@@ -39737,7 +39737,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The reviewer is sharply critical of the novel."
   },
   "処分": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>処分<rt>しょぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>処分<rt>しょぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しょぶん": {
@@ -39781,7 +39781,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I discharged one of my servants."
   },
   "調べ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>調<rt>しら</rt></ruby>べの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>調<rt>しら</rt></ruby>べの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しらべ": {
@@ -39829,11 +39829,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She wrinkled her brows."
   },
   "新": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>新<rt>しん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>新<rt>しん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "進化": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>進化<rt>しんか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>進化<rt>しんか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんか": {
@@ -39881,7 +39881,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We're on our honeymoon."
   },
   "審査": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>審査<rt>しんさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>審査<rt>しんさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんさ": {
@@ -39997,7 +39997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This smart pillow vibrates when you snore."
   },
   "新入生": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>新入生<rt>しんにゅうせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>新入生<rt>しんにゅうせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんにゅうせい": {
@@ -40017,7 +40017,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It was so mystical."
   },
   "辛抱": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>辛抱<rt>しんぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>辛抱<rt>しんぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "しんぼう": {
@@ -40085,7 +40085,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Magnetic force drives the mechanism."
   },
   "事業": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じぎょう": {
@@ -40125,7 +40125,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The timetable has been revised."
   },
   "地獄": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>地獄<rt>じごく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>地獄<rt>じごく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じごく": {
@@ -40133,7 +40133,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "時差": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>時差<rt>じさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>時差<rt>じさ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "じさ": {
@@ -40253,7 +40253,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I will tell you exactly how the matter stands."
   },
   "自転": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自転<rt>じてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>自転<rt>じてん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "自動詞": {
@@ -40377,7 +40377,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "じゅうなん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅうなんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じゅうなんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "重複": {
@@ -40513,7 +40513,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "じょうし": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じょうしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じょうしの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "情緒": {
@@ -40597,7 +40597,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "じょげん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じょげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、じょげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "徐行": {
@@ -40725,7 +40725,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He belongs to the brass band."
   },
   "推測": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>推測<rt>すいそく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>推測<rt>すいそく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すいそく": {
@@ -40765,7 +40765,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Nobody argued against choosing him as chairman."
   },
   "過ぎ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>過<rt>す</rt></ruby>ぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>過<rt>す</rt></ruby>ぎの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "救い": {
@@ -40809,7 +40809,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Move forward one step."
   },
   "勧め": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勧<rt>すす</rt></ruby>めの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>勧<rt>すす</rt></ruby>めの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "すすめ": {
@@ -40957,7 +40957,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "You're soaking wet."
   },
   "ずるずる": {
-    "ja": "<ruby>私<rt>わたし</rt></ruby>はぬかるんだ<ruby>斜面<rt>しゃめん</rt></ruby>をずるずると<ruby>滑<rt>すべ</rt></ruby>り<ruby>下<rt>くだ</rt></ruby>りた。",
+    "ja": "<ruby>私<rt>わたし</rt></ruby>はぬかるんだ<ruby>斜面<rt>しゃめん</rt></ruby>をずるずると<ruby>滑<rt>すべ</rt></ruby>り<ruby>下<rt>お</rt></ruby>りた。",
     "en": "I slithered down the muddy slope."
   },
   "ずれ": {
@@ -41005,7 +41005,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "How is Null expressed as a regular expression?"
   },
   "正義": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>正義<rt>せいぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>正義<rt>せいぎ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せいぎ": {
@@ -41169,7 +41169,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "せいてん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいてんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、せいてんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "正当": {
@@ -41177,7 +41177,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The end justifies the means."
   },
   "成年": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>成年<rt>せいねん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>成年<rt>せいねん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "制服": {
@@ -41265,7 +41265,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In the first section of this review I raise the question of how brain processes cause our conscious experiences."
   },
   "世辞": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>世辞<rt>せじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>世辞<rt>せじ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せじ": {
@@ -41385,7 +41385,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I couldn't attend the ceremony."
   },
   "世論": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>世論<rt>せろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>世論<rt>せろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "せろん": {
@@ -41665,7 +41665,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "相応": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>相応<rt>そうおう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>相応<rt>そうおう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そうおう": {
@@ -41765,7 +41765,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "They lost their way in the mountain."
   },
   "相場": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>相場<rt>そうば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>相場<rt>そうば</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "そうば": {
@@ -41917,7 +41917,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "その内": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、その<ruby>内<rt>うち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、その<ruby>内<rt>うち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "その外": {
@@ -42069,7 +42069,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I got expelled from school."
   },
   "大金": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大金<rt>たいきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>大金<rt>たいきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいきん": {
@@ -42129,7 +42129,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He can cope with the problems."
   },
   "退職": {
-    "ja": "<ruby>長年<rt>ながねん</rt></ruby><ruby>勤<rt>つと</rt></ruby>めた<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>定年退職<rt>ていねんたいしょく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は、<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>日本各地<rt>にほんかくち</rt></ruby>をのんびり<ruby>旅<rt>たび</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えている。",
+    "ja": "<ruby>長年<rt>ながねん</rt></ruby><ruby>勤<rt>つと</rt></ruby>めた<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>定年退職<rt>ていねんたいしょく</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>日本各地<rt>にほんかくち</rt></ruby>をのんびり<ruby>旅<rt>たび</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えている。",
     "en": "After retiring from the company where I worked for many years, I would like to travel leisurely around Japan with my spouse."
   },
   "たいしょく": {
@@ -42233,7 +42233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "If it had not been for his timely hit, our team would have lost the game."
   },
   "対面": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>対面<rt>たいめん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>対面<rt>たいめん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たいめん": {
@@ -42285,7 +42285,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "You have to endure a lot of hardships in life."
   },
   "高": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>高<rt>こう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>高<rt>こう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "たか": {
@@ -42329,7 +42329,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "丈": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丈<rt>たけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>丈<rt>たけ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "足し算": {
@@ -42489,7 +42489,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "たのみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たのみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、たのみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "煙草": {
@@ -42609,7 +42609,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Shika are verses and 31-syllable poems."
   },
   "短気": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>短気<rt>たんき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>短気<rt>たんき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "探検": {
@@ -42661,11 +42661,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Misfortune never come single."
   },
   "第": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>第<rt>だい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>第<rt>だい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "第一": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "だいいち": {
@@ -42889,7 +42889,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He tried to accumulate wealth."
   },
   "知性": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>知性<rt>ちせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>知性<rt>ちせい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちせい": {
@@ -42929,7 +42929,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ちてき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちてきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちてきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "チャイム": {
@@ -42937,7 +42937,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The door bell has rung."
   },
   "着": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>着<rt>ちゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>着<rt>ちゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ちゃく": {
@@ -43077,11 +43077,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That couple is our go-between."
   },
   "昼飯": {
-    "ja": "あいつなら<ruby>昼飯<rt>ひるめし</rt></ruby><ruby>食<rt>くっ</rt></ruby>ってるよ。",
+    "ja": "あいつなら<ruby>昼飯<rt>ひるめし</rt></ruby><ruby>食<rt>く</rt></ruby>ってるよ。",
     "en": "He is having lunch."
   },
   "ちゅうはん": {
-    "ja": "あいつなら<ruby>昼飯<rt>ひるめし</rt></ruby><ruby>食<rt>くっ</rt></ruby>ってるよ。",
+    "ja": "あいつなら<ruby>昼飯<rt>ひるめし</rt></ruby><ruby>食<rt>く</rt></ruby>ってるよ。",
     "en": "He is having lunch."
   },
   "中立": {
@@ -43105,15 +43105,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The mayor's office is in the city hall."
   },
   "ちょう": {
-    "ja": "<ruby>暖<rt>あたた</rt></ruby>かな<ruby>春<rt>はる</rt></ruby>の<ruby>陽射<rt>ひざ</rt></ruby>しが<ruby>降<rt>お</rt></ruby>り<ruby>注<rt>そそ</rt></ruby>ぐ<ruby>野原<rt>のはら</rt></ruby>で、<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかな<ruby>羽<rt>はね</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>蝶<rt>ちょう</rt></ruby>がひらひらと<ruby>優雅<rt>ゆうが</rt></ruby>に<ruby>舞<rt>ま</rt></ruby>っていた。",
+    "ja": "<ruby>暖<rt>あたた</rt></ruby>かな<ruby>春<rt>はる</rt></ruby>の<ruby>陽射<rt>ひざ</rt></ruby>しが<ruby>降<rt>お</rt></ruby>り<ruby>注<rt>そそ</rt></ruby>ぐ<ruby>野原<rt>のはら</rt></ruby>で、<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかな<ruby>羽<rt>はね</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>蝶<rt>ちょう</rt></ruby>がひらひらと<ruby>優雅<rt>ゆうが</rt></ruby>に<ruby>舞<rt>ま</rt></ruby>っていた。",
     "en": "In a field bathed in warm spring sunshine, a butterfly with colorful wings danced around fluttering gracefully."
   },
   "腸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>腸<rt>ちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>腸<rt>ちょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "蝶": {
-    "ja": "<ruby>暖<rt>あたた</rt></ruby>かな<ruby>春<rt>はる</rt></ruby>の<ruby>陽射<rt>ひざ</rt></ruby>しが<ruby>降<rt>お</rt></ruby>り<ruby>注<rt>そそ</rt></ruby>ぐ<ruby>野原<rt>のはら</rt></ruby>で、<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>せん</rt></ruby>やかな<ruby>羽<rt>はね</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>蝶<rt>ちょう</rt></ruby>がひらひらと<ruby>優雅<rt>ゆうが</rt></ruby>に<ruby>舞<rt>ま</rt></ruby>っていた。",
+    "ja": "<ruby>暖<rt>あたた</rt></ruby>かな<ruby>春<rt>はる</rt></ruby>の<ruby>陽射<rt>ひざ</rt></ruby>しが<ruby>降<rt>お</rt></ruby>り<ruby>注<rt>そそ</rt></ruby>ぐ<ruby>野原<rt>のはら</rt></ruby>で、<ruby>色<rt>いろ</rt></ruby><ruby>鮮<rt>あざ</rt></ruby>やかな<ruby>羽<rt>はね</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>蝶<rt>ちょう</rt></ruby>がひらひらと<ruby>優雅<rt>ゆうが</rt></ruby>に<ruby>舞<rt>ま</rt></ruby>っていた。",
     "en": "In a field bathed in warm spring sunshine, a butterfly with colorful wings danced around fluttering gracefully."
   },
   "超": {
@@ -43173,7 +43173,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ちょうせん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちょうせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ちょうせんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "調停": {
@@ -43253,7 +43253,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Hunches are important, isn't that right?"
   },
   "一寸": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一寸<rt>いっすん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>一寸<rt>いっすん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "著名": {
@@ -43325,7 +43325,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ついせき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ついせきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ついせきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "次いで": {
@@ -43393,7 +43393,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "つえ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つえの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "遣い": {
@@ -43605,7 +43605,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "つば": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つばの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、つばの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "呟く": {
@@ -43789,7 +43789,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "手遅れ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手遅<rt>ておく</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手遅<rt>ておく</rt></ruby>れの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ておくれ": {
@@ -43821,7 +43821,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The selling point of cup ramen is its convenience."
   },
   "的": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>的<rt>てき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>的<rt>てき</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "適応": {
@@ -43897,7 +43897,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The train was derailed by a piece of iron on the track."
   },
   "手配": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手配<rt>てはい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>手配<rt>てはい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "てはい": {
@@ -44073,7 +44073,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He designed the car."
   },
   "デザート": {
-    "ja": "コース<ruby>料理<rt>りょうり</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>には、<ruby>旬<rt>じゅん</rt></ruby>のフルーツをふんだんに<ruby>使<rt>つか</rt></ruby>った<ruby>特製<rt>とくせい</rt></ruby>デザートが<ruby>彩<rt>いろど</rt></ruby>り<ruby>鮮<rt>せん</rt></ruby>やかに<ruby>提供<rt>ていきょう</rt></ruby>された。",
+    "ja": "コース<ruby>料理<rt>りょうり</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>には、<ruby>旬<rt>じゅん</rt></ruby>のフルーツをふんだんに<ruby>使<rt>つか</rt></ruby>った<ruby>特製<rt>とくせい</rt></ruby>デザートが<ruby>彩<rt>いろど</rt></ruby>り<ruby>鮮<rt>あざ</rt></ruby>やかに<ruby>提供<rt>ていきょう</rt></ruby>された。",
     "en": "At the end of the multi-course meal, a colorful specialty dessert made lavishly with seasonal fruits was served."
   },
   "デッサン": {
@@ -44197,7 +44197,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The company went bankrupt."
   },
   "投資": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>投資<rt>とうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>投資<rt>とうし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうし": {
@@ -44273,7 +44273,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "You shouldn't speak ill of a man behind his back."
   },
   "逃亡": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>逃亡<rt>とうぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>逃亡<rt>とうぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうぼう": {
@@ -44281,11 +44281,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "冬眠": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冬眠<rt>とうみん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冬眠<rt>とうみん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうみん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とうみんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、とうみんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "登録": {
@@ -44297,7 +44297,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "討論": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>討論<rt>とうろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>討論<rt>とうろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とうろん": {
@@ -44409,7 +44409,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "所が": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>所<rt>ところ</rt></ruby>がの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>所<rt>ところ</rt></ruby>がの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "所で": {
@@ -44557,7 +44557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He has no small talk."
   },
   "富": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>富<rt>とみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>富<rt>とみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "とみ": {
@@ -44581,7 +44581,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Many families now have two breadwinners with both husbands and wives working."
   },
   "ともしび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ともしびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ともしびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "伴う": {
@@ -44733,7 +44733,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "同": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同<rt>どう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>同<rt>どう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "胴": {
@@ -44877,7 +44877,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Though momentarily shaken by the sudden occurrence of unexpected trouble, I took a deep breath and regained my composure."
   },
   "動力": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>動力<rt>どうりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>動力<rt>どうりょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "どうりょく": {
@@ -44989,7 +44989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "For a moment I forgot what her name was."
   },
   "鈍感": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鈍感<rt>どんかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>鈍感<rt>どんかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "どんかん": {
@@ -44997,7 +44997,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "内閣": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>内閣<rt>ないかく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>内閣<rt>ないかく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ないかく": {
@@ -45061,7 +45061,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was all the more disappointed because of my expectations."
   },
   "流し": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>流<rt>なが</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>流<rt>なが</rt></ruby>しの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ながし": {
@@ -45121,7 +45121,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "なさけ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なさけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なさけの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何故": {
@@ -45277,7 +45277,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "なんか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ナンセンス": {
@@ -45285,11 +45285,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "This makes no sense to me."
   },
   "何だか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>だかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>何<rt>なん</rt></ruby>だかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "なんだか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんだかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、なんだかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何て": {
@@ -45345,7 +45345,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She lost one of her flesh and blood."
   },
   "肉体": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肉体<rt>にくたい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>肉体<rt>にくたい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "にくたい": {
@@ -45441,7 +45441,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "ニュー": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ニューの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ニューの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "尿": {
@@ -45465,7 +45465,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "にんしん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にんしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、にんしんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "人情": {
@@ -45477,7 +45477,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Tom has a deep sense of duty and humanity."
   },
   "任務": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>任務<rt>にんむ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>任務<rt>にんむ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "にんむ": {
@@ -45513,7 +45513,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ぬすみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぬすみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぬすみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "沼": {
@@ -45557,7 +45557,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Hot water burst out."
   },
   "熱意": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>熱意<rt>ねつい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>熱意<rt>ねつい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ねつい": {
@@ -45613,7 +45613,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ねん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ねんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "年鑑": {
@@ -45653,7 +45653,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I made a long journey last year."
   },
   "燃料": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>燃料<rt>ねんりょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>燃料<rt>ねんりょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ねんりょう": {
@@ -45861,7 +45861,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "はいち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はいちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はいちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "配布": {
@@ -45981,11 +45981,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "始め": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>始<rt>はじ</rt></ruby>めの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>始<rt>はじ</rt></ruby>めの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はじめ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はじめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はじめの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "恥じらう": {
@@ -46013,7 +46013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The lotus blossoms diffused an inexpressibly pleasant scent."
   },
   "筈": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>筈<rt>はず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>筈<rt>はず</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "弾む": {
@@ -46117,11 +46117,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "はつげん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はつげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はつげんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "初耳": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>初耳<rt>はつみみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>初耳<rt>はつみみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はつみみ": {
@@ -46173,11 +46173,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "はなやか": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなやかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はなやかの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "浜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>浜<rt>はま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>浜<rt>はま</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はま": {
@@ -46217,11 +46217,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She broke off her engagement in a fit of anger."
   },
   "張り紙": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>張り紙<rt>はりがみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>張り紙<rt>はりがみ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "はりがみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はりがみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はりがみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "遥か": {
@@ -46249,7 +46249,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "After reviewing all clauses of the contract documents and confirming there were no issues, I stamped my seal in the designated column."
   },
   "版": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>版<rt>ばん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>版<rt>ばん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "班": {
@@ -46301,7 +46301,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "はんしゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、はんしゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "繁殖": {
@@ -46337,7 +46337,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The judge's decision is final."
   },
   "反応": {
-    "ja": "<ruby>新機能<rt>しんきのう</rt></ruby>をリリースした<ruby>後<rt>のち</rt></ruby>のユーザーの<ruby>反応<rt>はんのう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しながら、<ruby>次<rt>つぎ</rt></ruby>のアップデートの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる。",
+    "ja": "<ruby>新機能<rt>しんきのう</rt></ruby>をリリースした<ruby>後<rt>あと</rt></ruby>のユーザーの<ruby>反応<rt>はんのう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しながら、<ruby>次<rt>つぎ</rt></ruby>のアップデートの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる。",
     "en": "While monitoring user reactions after releasing the new feature, we plan the next update."
   },
   "はんのう": {
@@ -46405,7 +46405,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She got rattled by the stupid question."
   },
   "爆弾": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>爆弾<rt>ばくだん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>爆弾<rt>ばくだん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ばくだん": {
@@ -46485,7 +46485,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Who is the fifteenth?"
   },
   "バー": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、バーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、バーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "パジャマ": {
@@ -46525,7 +46525,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ひかん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "匹": {
@@ -46621,11 +46621,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "秘書": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>秘書<rt>ひしょ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>秘書<rt>ひしょ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひしょ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひしょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひしょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "密か": {
@@ -46645,7 +46645,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "That's just fine with me."
   },
   "左利き": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>左利<rt>ひだりき</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>左利<rt>ひだりき</rt></ruby>きの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひだりきき": {
@@ -46693,7 +46693,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "単": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>単<rt>たん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>単<rt>たん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ひとえ": {
@@ -46721,7 +46721,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ひとすき": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとすきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ひとすきの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "酷い": {
@@ -46821,7 +46821,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "票": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>票<rt>ひょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>票<rt>ひょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "標語": {
@@ -46961,11 +46961,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He was covered with sweat."
   },
   "描写": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>のち</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく<ruby>描写<rt>びょうしゃ</rt></ruby>した。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく<ruby>描写<rt>びょうしゃ</rt></ruby>した。",
     "en": "He vividly depicted the confusion following the earthquake."
   },
   "びょうしゃ": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>のち</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく<ruby>描写<rt>びょうしゃ</rt></ruby>した。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく<ruby>描写<rt>びょうしゃ</rt></ruby>した。",
     "en": "He vividly depicted the confusion following the earthquake."
   },
   "びり": {
@@ -46977,7 +46977,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "びんかん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、びんかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、びんかんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "貧乏": {
@@ -47065,7 +47065,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I spent a lot of money remodeling my house."
   },
   "不可欠": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不可欠<rt>ふかけつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不可欠<rt>ふかけつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふかけつ": {
@@ -47233,7 +47233,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Business was a little slow last month."
   },
   "復活": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>復活<rt>ふっかつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>復活<rt>ふっかつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふっかつ": {
@@ -47321,7 +47321,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It has no absolute and universal significance."
   },
   "ふみ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふみの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "不明": {
@@ -47353,7 +47353,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "We were back to square one."
   },
   "不良": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不良<rt>ふりょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>不良<rt>ふりょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ふりょう": {
@@ -47381,7 +47381,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The number of the front desk is No 1."
   },
   "ふん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ふんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "憤慨": {
@@ -47433,7 +47433,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Powders of aluminium, magnesium, silicon, etc. explode."
   },
   "部": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>部<rt>ぶ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>部<rt>ぶ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "部下": {
@@ -47449,7 +47449,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "These trousers are too large."
   },
   "ブザー": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ブザーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ブザーの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "侮辱": {
@@ -47641,7 +47641,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "兵士": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>兵士<rt>へいし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>兵士<rt>へいし</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "へいし": {
@@ -47717,7 +47717,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "On the surface the book consists mostly of a series of case histories."
   },
   "返答": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>返答<rt>へんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>返答<rt>へんとう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "へんとう": {
@@ -47741,7 +47741,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The famous author created another best-selling book."
   },
   "弁解": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁解<rt>べんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁解<rt>べんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんかい": {
@@ -47757,15 +47757,15 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The public convenience should be respected."
   },
   "弁護": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁護<rt>べんご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁護<rt>べんご</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんご": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、べんごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、べんごの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "弁償": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁償<rt>べんしょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>弁償<rt>べんしょう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "べんしょう": {
@@ -47921,7 +47921,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The court will sit next week."
   },
   "報道": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>報道<rt>ほうどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>報道<rt>ほうどう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほうどう": {
@@ -47929,11 +47929,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "褒美": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>褒美<rt>ほうび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>褒美<rt>ほうび</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ほうび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほうびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほうびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "放り出す": {
@@ -48077,7 +48077,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He died of a heart attack."
   },
   "ほっと": {
-    "ja": "<ruby>大型<rt>おおがた</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>の<ruby>交渉<rt>こうしょう</rt></ruby>が<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>妥結<rt>だけつ</rt></ruby>したという<ruby>報告<rt>ほうこく</rt></ruby>を<ruby>受<rt>う</rt></ruby>け、プロジェクト<ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>一同<rt>いちどう</rt></ruby>はようやくほっと<ruby>胸<rt>むね</rt></ruby>をなで<ruby>下<rt>くだ</rt></ruby>ろした。",
+    "ja": "<ruby>大型<rt>おおがた</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>の<ruby>交渉<rt>こうしょう</rt></ruby>が<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>妥結<rt>だけつ</rt></ruby>したという<ruby>報告<rt>ほうこく</rt></ruby>を<ruby>受<rt>う</rt></ruby>け、プロジェクト<ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>一同<rt>いちどう</rt></ruby>はようやくほっと<ruby>胸<rt>むね</rt></ruby>をなで<ruby>下<rt>お</rt></ruby>ろした。",
     "en": "Upon receiving the report that negotiations for the major contract had successfully concluded, all the project members finally breathed a sigh of relief."
   },
   "ほとり": {
@@ -48113,7 +48113,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "ほりょ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほりょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほりょの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "滅びる": {
@@ -48185,7 +48185,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "ほんの": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほんのの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ほんのの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "本能": {
@@ -48301,11 +48301,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Violence is the cancer of our society."
   },
   "募金": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>募金<rt>ぼきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>募金<rt>ぼきん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ぼきん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぼきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ぼきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "牧師": {
@@ -48477,7 +48477,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She thanked him with all her heart."
   },
   "誠": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>誠<rt>まこと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>誠<rt>まこと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "まこと": {
@@ -48573,7 +48573,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "On average, how many times per minute does a person blink?"
   },
   "待ち合わせ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>待ち合<rt>まちあ</rt></ruby>わせの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>待ち合<rt>まちあ</rt></ruby>わせの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "まちあわせ": {
@@ -48665,7 +48665,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Dim sunbeams on my eyelids, a faint tinge dyes the room."
   },
   "間もなく": {
-    "ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>間<rt>ま</rt></ruby>もなく<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ja": "<ruby>様々<rt>さまざま</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>しても<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>間<rt>あいだ</rt></ruby>もなく<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "まもなく": {
@@ -48709,7 +48709,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "満月": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>満月<rt>まんげつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>満月<rt>まんげつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "まんげつ": {
@@ -48813,7 +48813,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "未婚": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>未婚<rt>みこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>未婚<rt>みこん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みこん": {
@@ -48897,7 +48897,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The two countries are closely related to each other."
   },
   "蜜": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>蜜<rt>みつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>蜜<rt>みつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みつ": {
@@ -48937,7 +48937,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The outlook was negative."
   },
   "源": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>源<rt>みなもと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>源<rt>みなもと</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みなもと": {
@@ -48989,7 +48989,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "脈": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>脈<rt>みゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>脈<rt>みゃく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みゃく": {
@@ -49017,7 +49017,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "There was nothing but the ocean as far as the eye could see."
   },
   "民主": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>民主<rt>みんしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>民主<rt>みんしゅ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "みんしゅ": {
@@ -49061,11 +49061,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "無口": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>無口<rt>むくち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>無口<rt>むくち</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "むくち": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むくちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むくちの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "向け": {
@@ -49109,7 +49109,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "むすび": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むすびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むすびの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "結び付ける": {
@@ -49157,7 +49157,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "むちゃ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、むちゃの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "無茶苦茶": {
@@ -49333,7 +49333,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "He began to whistle a tune."
   },
   "面会": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面会<rt>めんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面会<rt>めんかい</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "めんかい": {
@@ -49357,7 +49357,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I am ashamed of your conduct."
   },
   "面目": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面目<rt>めんぼく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>面目<rt>めんぼく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "めんぼく": {
@@ -49381,11 +49381,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Apply in writing."
   },
   "申し分": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>申し分<rt>もうしぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>申し分<rt>もうしぶん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "もうしぶん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もうしぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もうしぶんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "猛烈": {
@@ -49505,7 +49505,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "もはん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もはんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、もはんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "模倣": {
@@ -49577,7 +49577,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "や": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "野外": {
@@ -49597,7 +49597,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Cats are active at night."
   },
   "役職": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>役職<rt>やくしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>役職<rt>やくしょく</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "やくしょく": {
@@ -49657,7 +49657,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "やしろ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やしろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、やしろの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "野心": {
@@ -49861,7 +49861,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "All her motions were graceful."
   },
   "有望": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>有望<rt>ゆうぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>有望<rt>ゆうぼう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ゆうぼう": {
@@ -50081,7 +50081,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "よきん": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、よきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、よきんの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "抑圧": {
@@ -50093,7 +50093,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The king oppressed his people."
   },
   "浴室": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>浴室<rt>よくしつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>浴室<rt>よくしつ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "よくしつ": {
@@ -50229,7 +50229,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I ate an Omurice."
   },
   "落下": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>落下<rt>らっか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>落下<rt>らっか</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "らっか": {
@@ -50237,7 +50237,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "楽観": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>楽観<rt>らっかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>楽観<rt>らっかん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "らっかん": {
@@ -50389,7 +50389,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "良好": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>良好<rt>りょうこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>良好<rt>りょうこう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りょうこう": {
@@ -50465,7 +50465,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The police looked into the records of the man."
   },
   "理論": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>理論<rt>りろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>理論<rt>りろん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "りろん": {
@@ -50501,7 +50501,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "It was cruel of him to beat his dog."
   },
   "冷蔵": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷蔵<rt>れいぞう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷蔵<rt>れいぞう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れいぞう": {
@@ -50509,7 +50509,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "冷淡": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷淡<rt>れいたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>冷淡<rt>れいたん</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れいたん": {
@@ -50545,7 +50545,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "連休": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連休<rt>れんきゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連休<rt>れんきゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れんきゅう": {
@@ -50565,7 +50565,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Traffic accidents happen daily."
   },
   "連中": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連中<rt>れんちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>連中<rt>れんちゅう</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "れんじゅう": {
@@ -50669,7 +50669,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "To deliver a persuasive presentation that convinces others, clear logic is needed in addition to appealing to emotion."
   },
   "ロープ": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ロープの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、ロープの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "ローマ字": {
@@ -50681,7 +50681,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When you type in Japanese, are you using hiragana input, or romaji input?"
   },
   "和": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>和<rt>わ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>和<rt>わ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "枠": {
@@ -50697,7 +50697,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The earth is a beautiful planet."
   },
   "技": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>技<rt>わざ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、<ruby>技<rt>わざ</rt></ruby>の<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "わざ": {
@@ -50745,11 +50745,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Please translate this Japanese text into French."
   },
   "藁": {
-    "ja": "<ruby>田<rt>た</rt></ruby>んぼで<ruby>収穫<rt>しゅうかく</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>の<ruby>藁<rt>わら</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>正月<rt>しょうがつ</rt></ruby><ruby>飾<rt>かざ</rt></ruby>りを<ruby>作<rt>つく</rt></ruby>った。",
+    "ja": "<ruby>田<rt>た</rt></ruby>んぼで<ruby>収穫<rt>しゅうかく</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>の<ruby>藁<rt>わら</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>正月<rt>しょうがつ</rt></ruby><ruby>飾<rt>かざ</rt></ruby>りを<ruby>作<rt>つく</rt></ruby>った。",
     "en": "Using the straw left after harvesting the rice paddies, we made traditional New Year decorations."
   },
   "わら": {
-    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
+    "ja": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>発展<rt>はってん</rt></ruby>を<ruby>見据<rt>みす</rt></ruby>え、わらの<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>活用<rt>かつよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>について<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>活発<rt>かっぱつ</rt></ruby>な<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>交<rt>か</rt></ruby>わされた。",
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "割合に": {

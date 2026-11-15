@@ -86,7 +86,7 @@ window.JLPT_N4_READING_DATA = {
           "answer": 3,
           "evidence_id": "ev-p2-q2",
           "explanation": {
-            "ja": "<ruby>正解<rt>せいかい</rt></ruby>は4<ruby>番<rt>ばん</rt></ruby>です。<ruby>本文<rt>ほんぶん</rt></ruby>に「<ruby>前<rt>まえ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>にゴミを<ruby>出<rt>だ</rt></ruby>すと…<ruby>必<rt>かなら</rt></ruby>ず<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>から8<ruby>時<rt>じ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>出<rt>だ</rt></ruby>してください」と<ruby>書<rt>か</rt></ruby>かれているため、4<ruby>番<rt>ばん</rt></ruby>が<ruby>正解<rt>せいかい</rt></ruby>です。",
+            "ja": "<ruby>正解<rt>せいかい</rt></ruby>は4<ruby>番<rt>ばん</rt></ruby>です。<ruby>本文<rt>ほんぶん</rt></ruby>に「<ruby>前<rt>まえ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>にゴミを<ruby>出<rt>だ</rt></ruby>すと…<ruby>必<rt>かなら</rt></ruby>ず<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>6<ruby>時<rt>じ</rt></ruby>から8<ruby>時<rt>じ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>してください」と<ruby>書<rt>か</rt></ruby>かれているため、4<ruby>番<rt>ばん</rt></ruby>が<ruby>正解<rt>せいかい</rt></ruby>です。",
             "en": "The correct answer is Choice 4. The notice instructs residents not to put out burnable trash the night before, but between 6:00 and 8:00 a.m. on Tuesday and Friday mornings.",
             "zh": "正確答案是選項4。內文寫道「若前一天晚上丟垃圾…請務必在當天早上6點到8點之間丟出」，因此選項4正確。",
             "ko": "정답은 4번입니다. 본문에 \"전날 밤에 쓰레기를 내놓으면… 반드시 당일 아침 6시부터 8시 사이에 내놓아 주세요\"라고 적혀 있으므로 4번이 정답입니다."
@@ -386,7 +386,7 @@ window.JLPT_N4_READING_DATA = {
           "answer": 1,
           "evidence_id": "ev-p8-q10",
           "explanation": {
-            "ja": "<ruby>正解<rt>せいかい</rt></ruby>は2<ruby>番<rt>ばん</rt></ruby>です。<ruby>第<rt>だい</rt></ruby>2<ruby>段落<rt>だんらく</rt></ruby>に「お<ruby>風呂<rt>ふろ</rt></ruby>には<ruby>寝<rt>ね</rt></ruby>る1<ruby>時<rt>じ</rt></ruby><ruby>間<rt>ま</rt></ruby>から2<ruby>時<rt>じ</rt></ruby><ruby>間<rt>ま</rt></ruby>くらい<ruby>前<rt>まえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのが<ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>です。ぬるめのお<ruby>湯<rt>ゆ</rt></ruby>にゆっくりつかって<ruby>体<rt>からだ</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>めると…<ruby>自然<rt>しぜん</rt></ruby>に<ruby>眠気<rt>ねむけ</rt></ruby>がやってきます」と<ruby>書<rt>か</rt></ruby>かれています。",
+            "ja": "<ruby>正解<rt>せいかい</rt></ruby>は2<ruby>番<rt>ばん</rt></ruby>です。<ruby>第<rt>だい</rt></ruby>2<ruby>段落<rt>だんらく</rt></ruby>に「お<ruby>風呂<rt>ふろ</rt></ruby>には<ruby>寝<rt>ね</rt></ruby>る1<ruby>時<rt>じ</rt></ruby><ruby>間<rt>あいだ</rt></ruby>から2<ruby>時<rt>じ</rt></ruby><ruby>間<rt>あいだ</rt></ruby>くらい<ruby>前<rt>まえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのが<ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>です。ぬるめのお<ruby>湯<rt>ゆ</rt></ruby>にゆっくりつかって<ruby>体<rt>からだ</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>めると…<ruby>自然<rt>しぜん</rt></ruby>に<ruby>眠気<rt>ねむけ</rt></ruby>がやってきます」と<ruby>書<rt>か</rt></ruby>かれています。",
             "en": "The correct answer is Choice 2. The second paragraph states that it is effective to take a warm (not hot) bath about 1 to 2 hours before going to bed.",
             "zh": "正確答案是選項2。第二段寫道「在睡前1到2小時左右泡澡最有效。慢慢泡在溫水中讓身體暖和，出浴後體溫逐漸下降就會自然產生睡意」，故選項2正確。",
             "ko": "정답은 2번입니다. 둘째 문단에 \"목욕은 자기 1시간에서 2시간 정도 전에 하는 것이 효과적입니다. 미지근한 물에 천천히 몸을 담가 따뜻하게 하면… 자연스럽게 졸음이 찾아옵니다\"라고 적혀 있습니다."

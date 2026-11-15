@@ -2342,7 +2342,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "télévision"
     },
     "example": {
-      "ja": "<ruby>夜<rt>よる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>とテレビを<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "ja": "<ruby>夜<rt>よる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>とテレビを<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
       "en": "After eating dinner, I drink tea while watching TV with my family.",
       "zh_TW": "吃完晚餐後，我和家人一邊看電視一邊喝茶。",
       "zh_CN": "吃完晚饭后，我和家人一边看电视一边喝茶。",
@@ -3574,7 +3574,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "banque"
     },
     "example": {
-      "ja": "<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>ろすために、<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のATMに<ruby>寄<rt>よ</rt></ruby>りました。",
+      "ja": "<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろすために、<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のATMに<ruby>寄<rt>よ</rt></ruby>りました。",
       "en": "To withdraw living expenses, I stopped by the ATM at the bank in front of the station.",
       "zh_TW": "為了提領生活費，我順路去了車站前銀行的ATM。",
       "zh_CN": "为了提取生活费，我顺路去了车站前银行的ATM。",
@@ -7663,7 +7663,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "December"
     },
     "example": {
-      "ja": "1<ruby>2月<rt>にがつ</rt></ruby>はクリスマスや<ruby>大晦日<rt>おおみそか</rt></ruby>があります。<br/><ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>があっという<ruby>間<rt>ま</rt></ruby>ですね。",
+      "ja": "1<ruby>2月<rt>にがつ</rt></ruby>はクリスマスや<ruby>大晦日<rt>おおみそか</rt></ruby>があります。<br/><ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>があっという<ruby>間<rt>あいだ</rt></ruby>ですね。",
       "en": "December has Christmas and New Year's Eve.<br>A year passed by in a flash.",
       "zh_TW": "十二月有聖誕節和除夕夜。<br>一年過得真快呢。",
       "zh_CN": "十二月有聖誕節和除夕夜。<br>一年過得真快呢。",
@@ -24146,7 +24146,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to return / to go home"
     },
     "example": {
-      "ja": "<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>らない。",
+      "ja": "<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>らない。",
       "en": "I missed the last train, so I won't return home tonight.",
       "zh_TW": "趕不上末班車，所以今晚不回家。",
       "zh_CN": "趕不上末班車，所以今晚不回家。",
@@ -31762,7 +31762,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "s'est dépêché"
     },
     "example": {
-      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>早足<rt>はやあし</rt></ruby>で<ruby>急<rt>いそ</rt></ruby>いだ。",
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>早足<rt>はやあし</rt></ruby>で<ruby>急<rt>いそ</rt></ruby>いだ。",
       "en": "To make it in time for the train, I hurried briskly.",
       "zh_TW": "為了趕上電車，快步趕路。",
       "zh_CN": "为了赶上电车，快步赶路。",
@@ -36046,7 +36046,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "assiette ; plat"
     },
     "example": {
-      "ja": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>後<rt>のち</rt></ruby>で、<ruby>白<rt>しろ</rt></ruby>いお<ruby>皿<rt>さら</rt></ruby>を<ruby>五<rt>ご</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>洗<rt>あら</rt></ruby>いました。",
+      "ja": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で、<ruby>白<rt>しろ</rt></ruby>いお<ruby>皿<rt>さら</rt></ruby>を<ruby>五<rt>ご</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>洗<rt>あら</rt></ruby>いました。",
       "en": "After the meal, I washed five white plates.",
       "zh_TW": "飯後洗了五個白盤子。",
       "zh_CN": "饭后洗了五个白盘子。",
@@ -37390,7 +37390,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "se brosser (les dents) ; polir"
     },
     "example": {
-      "ja": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>で、<ruby>必<rt>かなら</rt></ruby>ず<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
+      "ja": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で、<ruby>必<rt>かなら</rt></ruby>ず<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。",
       "en": "After eating a meal, I always brush my teeth.",
       "zh_TW": "吃完飯後一定會刷牙。",
       "zh_CN": "吃完饭后一定会刷牙。",
@@ -44642,7 +44642,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "être pris en charge / être redevable"
     },
     "example": {
-      "ja": "<ruby>日本<rt>にほん</rt></ruby>にいる<ruby>間<rt>ま</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんご<ruby>夫妻<rt>ふさい</rt></ruby>には<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>世話<rt>せわ</rt></ruby>になりました。",
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>にいる<ruby>間<rt>あいだ</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんご<ruby>夫妻<rt>ふさい</rt></ruby>には<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>世話<rt>せわ</rt></ruby>になりました。",
       "en": "While I was in Japan, I was truly taken care of by Mr. and Mrs. Tanaka.",
       "zh_TW": "在日本期間，我真的受到了田中先生夫婦的很多照顧。",
       "zh_CN": "在日本期间，我真的受到了田中先生夫妇的很多照顾。",
@@ -48702,7 +48702,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "penser / réfléchir"
     },
     "example": {
-      "ja": "<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について、いろいろ<ruby>考<rt>かんが</rt></ruby>えています。",
+      "ja": "<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について、いろいろ<ruby>考<rt>かんが</rt></ruby>えています。",
       "en": "I am thinking about various options for my career path after graduation.",
       "zh_TW": "我正在考慮畢業後的出路。",
       "zh_CN": "我正在考虑毕业后的出路。",
@@ -51670,7 +51670,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "capitale (historique)"
     },
     "example": {
-      "ja": "<ruby>京都<rt>きょうと</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>都<rt>と</rt></ruby>だった<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>街<rt>まち</rt></ruby>です。",
+      "ja": "<ruby>京都<rt>きょうと</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>都<rt>と</rt></ruby>だった<ruby>歴史<rt>れきし</rt></ruby>ある<ruby>街<rt>まち</rt></ruby>です。",
       "en": "Kyoto is a historic city that was the capital of Japan for a long time.",
       "zh_TW": "京都是一座歷史悠久的城市，曾長期作為日本的都城。",
       "zh_CN": "京都是一座历史悠久的城市，曾长期作为日本的都城。",

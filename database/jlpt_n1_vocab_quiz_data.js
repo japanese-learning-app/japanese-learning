@@ -1087,7 +1087,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "隔たり",
     "question": "理想と現実の間には、まだ大きな隔たりがあると言わざるを得ない。",
-    "question_ruby": "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>には、まだ<ruby>大<rt>おお</rt></ruby>きな<u>隔たり</u>があると<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ない。",
+    "question_ruby": "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>には、まだ<ruby>大<rt>おお</rt></ruby>きな<u>隔たり</u>があると<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ない。",
     "choices": [
       "へだり",
       "かくたり",
@@ -1411,7 +1411,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "合意",
     "question": "長時間の議論の末、ついに双方の間で合意が形成された。",
-    "question_ruby": "<ruby>長時間<rt>ちょうじかん</rt></ruby>の<ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>、ついに<ruby>双<rt>そう</rt></ruby><ruby>方<rt>ほう</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<u>合意</u>が<ruby>形成<rt>けいせい</rt></ruby>された。",
+    "question_ruby": "<ruby>長時間<rt>ちょうじかん</rt></ruby>の<ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>、ついに<ruby>双<rt>そう</rt></ruby><ruby>方<rt>ほう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<u>合意</u>が<ruby>形成<rt>けいせい</rt></ruby>された。",
     "choices": [
       "あいい",
       "ごうい",
@@ -6568,7 +6568,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "ふきゅう",
     "question": "大雨の警報が出ている間は、不要ふきゅうの外出を控えるよう呼びかけられた。",
-    "question_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>警報<rt>けいほう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ている<ruby>間<rt>ま</rt></ruby>は、<ruby>不要<rt>ふよう</rt></ruby><u>ふきゅう</u>の<ruby>外出<rt>がいしゅつ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるよう<ruby>呼<rt>よ</rt></ruby>びかけられた。",
+    "question_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>の<ruby>警報<rt>けいほう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>は、<ruby>不要<rt>ふよう</rt></ruby><u>ふきゅう</u>の<ruby>外出<rt>がいしゅつ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるよう<ruby>呼<rt>よ</rt></ruby>びかけられた。",
     "choices": [
       "不休",
       "不急",
@@ -8593,7 +8593,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "",
     "question": "プロジェクトを始める前に、関係部署の間でスケジュールの詳細を（　　　）おいた。",
-    "question_ruby": "プロジェクトを<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に、<ruby>関係<rt>かんけい</rt></ruby><ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>でスケジュールの<ruby>詳細<rt>しょうさい</rt></ruby>を（　　　）おいた。",
+    "question_ruby": "プロジェクトを<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に、<ruby>関係<rt>かんけい</rt></ruby><ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でスケジュールの<ruby>詳細<rt>しょうさい</rt></ruby>を（　　　）おいた。",
     "choices": [
       "張り合わせて",
       "詰め合わせて",
@@ -9241,7 +9241,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "",
     "question": "誰に言われるでもなく、地域住民の間から（　　　）に清掃活動の輪が広がった。",
-    "question_ruby": "<ruby>誰<rt>だれ</rt></ruby>に<ruby>言<rt>い</rt></ruby>われるでもなく、<ruby>地域<rt>ちいき</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>から（　　　）に<ruby>清掃<rt>せいそう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>輪<rt>わ</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がった。",
+    "question_ruby": "<ruby>誰<rt>だれ</rt></ruby>に<ruby>言<rt>い</rt></ruby>われるでもなく、<ruby>地域<rt>ちいき</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>から（　　　）に<ruby>清掃<rt>せいそう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>輪<rt>わ</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がった。",
     "choices": [
       "自発的",
       "受動的",
@@ -9673,7 +9673,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "語彙・文脈規定",
     "target_word": "",
     "question": "新しい事業を始める前に、まずは地域の住民との間で十分な（　　　）を得る必要がある。",
-    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に、まずは<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>との<ruby>間<rt>ま</rt></ruby>で<ruby>十分<rt>じゅうぶん</rt></ruby>な（　　　）を<ruby>得<rt>え</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に、まずは<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>で<ruby>十分<rt>じゅうぶん</rt></ruby>な（　　　）を<ruby>得<rt>え</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>がある。",
     "choices": [
       "ボトルネック",
       "オルタナティブ",
@@ -11455,7 +11455,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "category": "類義語",
     "target_word": "簡潔に",
     "question": "長い論文の内容を、冒頭の五分間で簡潔に紹介した。",
-    "question_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>を、<ruby>冒頭<rt>ぼうとう</rt></ruby>の<ruby>五分<rt>ごふん</rt></ruby><ruby>間<rt>ま</rt></ruby>で<u><ruby>簡潔<rt>かんけつ</rt></ruby>に</u><ruby>紹介<rt>しょうかい</rt></ruby>した。",
+    "question_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>を、<ruby>冒頭<rt>ぼうとう</rt></ruby>の<ruby>五分<rt>ごふん</rt></ruby><ruby>間<rt>かん</rt></ruby>で<u><ruby>簡潔<rt>かんけつ</rt></ruby>に</u><ruby>紹介<rt>しょうかい</rt></ruby>した。",
     "choices": [
       "時間をかけて詳しく",
       "具体例をたくさん挙げて",
@@ -12330,7 +12330,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
       "テストで<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、<ruby>両親<rt>りょうしん</rt></ruby>から<ruby>堪能<rt>たんのう</rt></ruby>してもらった。",
       "のどが<ruby>渇<rt>かわ</rt></ruby>いていたので、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>をコップ<ruby>一杯<rt>いっぱい</rt></ruby><ruby>堪能<rt>たんのう</rt></ruby>した。",
       "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>に<ruby>滞在<rt>たいざい</rt></ruby>し、<ruby>旬<rt>しゅん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>幸<rt>こう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>ゆくまで<ruby>堪能<rt>たんのう</rt></ruby>した。",
-      "<ruby>彼<rt>かれ</rt></ruby>は<ruby>三日<rt>みっか</rt></ruby><ruby>間<rt>ま</rt></ruby>の<ruby>研修<rt>けんしゅう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>にすっかり<ruby>堪能<rt>たんのう</rt></ruby>した。"
+      "<ruby>彼<rt>かれ</rt></ruby>は<ruby>三日<rt>みっか</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>研修<rt>けんしゅう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>にすっかり<ruby>堪能<rt>たんのう</rt></ruby>した。"
     ],
     "answer": 2,
     "correct_text": "週末は温泉旅館に滞在し、旬の海の幸を使った料理を心ゆくまで堪能した。",
@@ -12651,10 +12651,10 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
       "理想と現実の間にはまだ大きな隔たりがあり、さらなる工夫が必要だ。"
     ],
     "choices_ruby": [
-      "<ruby>二つ<rt>ふたつ</rt></ruby>のビルの<ruby>間<rt>ま</rt></ruby>には<ruby>狭<rt>せま</rt></ruby>い<ruby>隔<rt>へだ</rt></ruby>たりがあって、<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>く<ruby>吹<rt>ふ</rt></ruby>き<ruby>抜<rt>ぬ</rt></ruby>ける。",
+      "<ruby>二つ<rt>ふたつ</rt></ruby>のビルの<ruby>間<rt>あいだ</rt></ruby>には<ruby>狭<rt>せま</rt></ruby>い<ruby>隔<rt>へだ</rt></ruby>たりがあって、<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>く<ruby>吹<rt>ふ</rt></ruby>き<ruby>抜<rt>ぬ</rt></ruby>ける。",
       "<ruby>部屋<rt>へや</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にカーテンで<ruby>隔<rt>へだ</rt></ruby>たりを<ruby>作<rt>つく</rt></ruby>って、<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けた。",
       "<ruby>今回<rt>こんかい</rt></ruby>のアンケート<ruby>結果<rt>けっか</rt></ruby>には、<ruby>年齢<rt>ねんれい</rt></ruby>による<ruby>隔<rt>へだ</rt></ruby>たりが<ruby>強<rt>つよ</rt></ruby>く<ruby>見<rt>み</rt></ruby>られた。",
-      "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはまだ<ruby>大<rt>おお</rt></ruby>きな<ruby>隔<rt>へだ</rt></ruby>たりがあり、さらなる<ruby>工夫<rt>くふう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。"
+      "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にはまだ<ruby>大<rt>おお</rt></ruby>きな<ruby>隔<rt>へだ</rt></ruby>たりがあり、さらなる<ruby>工夫<rt>くふう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。"
     ],
     "answer": 3,
     "correct_text": "理想と現実の間にはまだ大きな隔たりがあり、さらなる工夫が必要だ。",
@@ -12662,7 +12662,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "explanation": "「隔たり（へだたり）」は、考え方・立場・時代・距離などの差や違いが大きいことに使います。ビルの隙間や部屋の仕切り、データの偏り（かたより）には使いません。",
     "target_word_reading": "へだたり",
     "correct_text_reading": "へだたり",
-    "correct_text_ruby": "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはまだ<ruby>大<rt>おお</rt></ruby>きな<ruby>隔<rt>へだ</rt></ruby>たりがあり、さらなる<ruby>工夫<rt>くふう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。"
+    "correct_text_ruby": "<ruby>理想<rt>りそう</rt></ruby>と<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にはまだ<ruby>大<rt>おお</rt></ruby>きな<ruby>隔<rt>へだ</rt></ruby>たりがあり、さらなる<ruby>工夫<rt>くふう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。"
   },
   {
     "id": 470,
@@ -12869,7 +12869,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>を<ruby>昔<rt>むかし</rt></ruby>からよく<ruby>周知<rt>しゅうち</rt></ruby>している。",
       "<ruby>彼<rt>かれ</rt></ruby>はテレビの<ruby>番組<rt>ばんぐみ</rt></ruby>によく<ruby>出演<rt>しゅつえん</rt></ruby>しており、<ruby>全国<rt>ぜんこく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>周知<rt>しゅうち</rt></ruby>な<ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だ。",
-      "この<ruby>喫茶店<rt>きっさてん</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>周知<rt>しゅうち</rt></ruby>になっていて、いつも<ruby>満席<rt>まんせき</rt></ruby>だ。",
+      "この<ruby>喫茶店<rt>きっさてん</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>周知<rt>しゅうち</rt></ruby>になっていて、いつも<ruby>満席<rt>まんせき</rt></ruby>だ。",
       "<ruby>来月<rt>らいげつ</rt></ruby>からごみの<ruby>分別<rt>ふんべつ</rt></ruby>ルールが<ruby>変<rt>か</rt></ruby>わるため、<ruby>回覧<rt>かいらん</rt></ruby><ruby>板<rt>ばん</rt></ruby>で<ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>周知<rt>しゅうち</rt></ruby>を<ruby>図<rt>はか</rt></ruby>った。"
     ],
     "answer": 3,

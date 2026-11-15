@@ -3887,7 +3887,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>意識<rt>いしき</rt></ruby>せずにぼんやりと。",
         "nuance_en": "unconsciously; without clear aim",
-        "example": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>休憩<rt>きゅうけい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>になると、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちの<ruby>間<rt>ま</rt></ruby>で<ruby>誰<rt>だれ</rt></ruby>からともなしに<ruby>次回<rt>じかい</rt></ruby>の<ruby>共同<rt>きょうどう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>話題<rt>わだい</rt></ruby>が<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がった。"
+        "example": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>休憩<rt>きゅうけい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>になると、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちの<ruby>間<rt>あいだ</rt></ruby>で<ruby>誰<rt>だれ</rt></ruby>からともなしに<ruby>次回<rt>じかい</rt></ruby>の<ruby>共同<rt>きょうどう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>話題<rt>わだい</rt></ruby>が<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がった。"
       },
       {
         "form": "〜ともなく",
@@ -6254,7 +6254,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜としたところで」は「たとえそう<ruby>仮定<rt>かてい</rt></ruby>してみたところで、<ruby>結局<rt>けっきょく</rt></ruby><ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>たない・<ruby>無理<rt>むり</rt></ruby>だ」という<ruby>消極<rt>しょうきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>が<ruby>後<rt>うし</rt></ruby>ろに<ruby>来<rt>く</rt></ruby>るため、<ruby>肯定<rt>こうてい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"〜としたところで\" introduces a hypothetical assumption followed by a futile or negative conclusion, never a successful past result.",
-        "sentence": "<ruby>今<rt>いま</rt></ruby>からタクシーに<ruby>乗<rt>の</rt></ruby>ったとしたところで、<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ってよかった。"
+        "sentence": "<ruby>今<rt>いま</rt></ruby>からタクシーに<ruby>乗<rt>の</rt></ruby>ったとしたところで、<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>かん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ってよかった。"
       },
       {
         "type": "correct",
@@ -6288,7 +6288,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>動詞<rt>どうし</rt></ruby>た<ruby>形<rt>けい</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>ついて「いくら〜しても<ruby>無駄<rt>むだ</rt></ruby>だ」と<ruby>述<rt>の</rt></ruby>べます。「〜としたところで」は<ruby>名詞<rt>めいし</rt></ruby>や<ruby>普通形<rt>ふつうけい</rt></ruby>にもつき、「<ruby>仮<rt>かり</rt></ruby>にそうだと<ruby>仮定<rt>かてい</rt></ruby>しても」と<ruby>推論<rt>すいろん</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>を<ruby>明示<rt>めいじ</rt></ruby>します。",
         "nuance_en": "Attaches directly to past-form verbs, whereas 〜としたところで can follow nouns or plain forms to explicitly frame a hypothetical assumption.",
-        "example": "<ruby>今<rt>いま</rt></ruby>さら<ruby>急<rt>いそ</rt></ruby>いだところで、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。"
+        "example": "<ruby>今<rt>いま</rt></ruby>さら<ruby>急<rt>いそ</rt></ruby>いだところで、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。"
       }
     ]
   },

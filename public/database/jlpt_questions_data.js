@@ -1661,7 +1661,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Tom only looked after the stray for 6 days.",
         "id": "n5-v-0096",
         "level": "N5",
-        "question_ruby": "トムは、（　　）<ruby>間<rt>ま</rt></ruby>だけ<ruby>迷子<rt>まいご</rt></ruby>の<ruby>犬<rt>いぬ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かることにしました。"
+        "question_ruby": "トムは、（　　）<ruby>間<rt>あいだ</rt></ruby>だけ<ruby>迷子<rt>まいご</rt></ruby>の<ruby>犬<rt>いぬ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かることにしました。"
       },
       {
         "category": "kanji_reading",
@@ -3446,7 +3446,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "The ticket holds good for three days.",
         "id": "n5-v-0201",
         "level": "N5",
-        "question_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>は（　　）<ruby>間<rt>ま</rt></ruby><ruby>有効<rt>ゆうこう</rt></ruby>だ。"
+        "question_ruby": "<ruby>切符<rt>きっぷ</rt></ruby>は（　　）<ruby>間<rt>あいだ</rt></ruby><ruby>有効<rt>ゆうこう</rt></ruby>だ。"
       },
       {
         "category": "kanji_reading",
@@ -5724,7 +5724,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "The rain lasted four days.",
         "id": "n5-v-0335",
         "level": "N5",
-        "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>は<u>よっか</u><ruby>間<rt>ま</rt></ruby><ruby>降り続<rt>ふりつづ</rt></ruby>いた。"
+        "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>は<u>よっか</u><ruby>間<rt>あいだ</rt></ruby><ruby>降り続<rt>ふりつづ</rt></ruby>いた。"
       },
       {
         "category": "vocabulary",
@@ -40832,7 +40832,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I often make mistakes.",
         "id": "n1-v-0037",
         "level": "N1",
-        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>、よく<ruby>間<rt>ま</rt></ruby><u>違える</u>の。"
+        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>、よく<ruby>間<rt>あいだ</rt></ruby><u>違える</u>の。"
       },
       {
         "category": "kanji_writing",
@@ -45150,7 +45150,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "He vividly depicted the confusion following the earthquake.",
         "id": "n1-v-0291",
         "level": "N1",
-        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>のち</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく（　　）した。"
+        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>地震<rt>じしん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>の<ruby>混乱<rt>こんらん</rt></ruby>を<ruby>生々<rt>なまなま</rt></ruby>しく（　　）した。"
       },
       {
         "category": "kanji_reading",

@@ -321,8 +321,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あまり",
     "notes": "「<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>＋あまり」で、ひとつのことに<ruby>集中<rt>しゅうちゅう</rt></ruby>しすぎて<ruby>良<rt>よ</rt></ruby>くない<ruby>結果<rt>けっか</rt></ruby>が<ruby>起<rt>お</rt></ruby>きることを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐ（　　　）、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
-    "sentence_jp_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
+    "question_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐ（　　　）、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
+    "sentence_jp_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
     "choices_ruby": [
       "あまり",
       "どころか",
@@ -1010,9 +1010,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ば",
-    "notes": "「<ruby>着<rt>つ</rt></ruby>いていれば〜<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに」で、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかったことへの<ruby>悔<rt>くや</rt></ruby>しさを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれ（　　　）、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
-    "sentence_jp_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
+    "notes": "「<ruby>着<rt>つ</rt></ruby>いていれば〜<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに」で、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかったことへの<ruby>悔<rt>くや</rt></ruby>しさを<ruby>表<rt>あらわ</rt></ruby>します。",
+    "question_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれ（　　　）、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
+    "sentence_jp_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
     "choices_ruby": [
       "たら",
       "なら",
@@ -1705,7 +1705,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>課長<rt>かちょう</rt></ruby>はただいま<ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですので、<ruby>終<rt>お</rt></ruby>わり<ruby>次第<rt>しだい</rt></ruby>こちらから<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。",
     "choices_ruby": [
       "<ruby>中旬<rt>ちゅうじゅん</rt></ruby>",
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "<ruby>以内<rt>いない</rt></ruby>",
       "<ruby>中<rt>なか</rt></ruby>"
     ],
@@ -1734,7 +1734,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>はすべて<ruby>貸出<rt>かしだし</rt></ruby>（　　　）で、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>棚<rt>たな</rt></ruby>に<ruby>一冊<rt>いっさつ</rt></ruby>も<ruby>残<rt>のこ</rt></ruby>っていない。",
     "sentence_jp_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>はすべて<ruby>貸出<rt>かしだし</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>棚<rt>たな</rt></ruby>に<ruby>一冊<rt>いっさつ</rt></ruby>も<ruby>残<rt>のこ</rt></ruby>っていない。",
     "choices_ruby": [
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "<ruby>中<rt>なか</rt></ruby>",
       "<ruby>内<rt>うち</rt></ruby>",
       "<ruby>上<rt>うえ</rt></ruby>"
@@ -1765,7 +1765,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏休<rt>なつやす</rt></ruby>みは、<ruby>日本<rt>にほん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>名所<rt>めいしょ</rt></ruby>を<ruby>列車<rt>れっしゃ</rt></ruby>で<ruby>旅<rt>たび</rt></ruby>して<ruby>回<rt>まわ</rt></ruby>りたい。",
     "choices_ruby": [
       "<ruby>中<rt>なか</rt></ruby>",
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "っぱなし",
       "<ruby>最中<rt>さいちゅう</rt></ruby>"
     ],
@@ -1794,7 +1794,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>申込<rt>もうしこみ</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>（　　　）に、<ruby>郵便<rt>ゆうびん</rt></ruby>または<ruby>窓口<rt>まどぐち</rt></ruby>にてご<ruby>提出<rt>ていしゅつ</rt></ruby>ください。",
     "sentence_jp_ruby": "<ruby>申込<rt>もうしこみ</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に、<ruby>郵便<rt>ゆうびん</rt></ruby>または<ruby>窓口<rt>まどぐち</rt></ruby>にてご<ruby>提出<rt>ていしゅつ</rt></ruby>ください。",
     "choices_ruby": [
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "<ruby>度<rt>ど</rt></ruby>",
       "<ruby>中<rt>なか</rt></ruby>",
       "<ruby>頃<rt>ころ</rt></ruby>"
@@ -2241,8 +2241,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "だらけ",
     "notes": "<ruby>名詞<rt>めいし</rt></ruby>「ほこり」＋「だらけ」で、<ruby>一<rt>いち</rt></ruby><ruby>面<rt>めん</rt></ruby>がほこりで<ruby>汚<rt>よご</rt></ruby>れている<ruby>様子<rt>ようす</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこり（　　　）だった。",
-    "sentence_jp_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこりだらけだった。",
+    "question_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこり（　　　）だった。",
+    "sentence_jp_ruby": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこりだらけだった。",
     "choices_ruby": [
       "きり",
       "ずくめ",
@@ -3681,8 +3681,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "いくら",
     "notes": "「いくら〜ても」で、どれだけ<ruby>急<rt>いそ</rt></ruby>いでも<ruby>結果<rt>けっか</rt></ruby>が<ruby>変<rt>か</rt></ruby>わらないことを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "（　　　）<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
-    "sentence_jp_ruby": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
+    "question_ruby": "（　　　）<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
+    "sentence_jp_ruby": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
     "choices_ruby": [
       "せっかく",
       "たいてい",
@@ -12740,9 +12740,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "しばらく",
-    "notes": "ある<ruby>程度<rt>ていど</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さの<ruby>時間<rt>じかん</rt></ruby>（<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>）を<ruby>表<rt>あらわ</rt></ruby>す<ruby>副詞<rt>ふくし</rt></ruby>です。",
-    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>は（　　　）の<ruby>間<rt>ま</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。",
-    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>はしばらくの<ruby>間<rt>ま</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。",
+    "notes": "ある<ruby>程度<rt>ていど</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さの<ruby>時間<rt>じかん</rt></ruby>（<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>）を<ruby>表<rt>あらわ</rt></ruby>す<ruby>副詞<rt>ふくし</rt></ruby>です。",
+    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>は（　　　）の<ruby>間<rt>あいだ</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。",
+    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>はしばらくの<ruby>間<rt>あいだ</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。",
     "choices_ruby": [
       "めったに",
       "<ruby>決<rt>けっ</rt></ruby>して",
@@ -12770,7 +12770,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "しばらく",
-    "notes": "<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>の「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>用法<rt>ようほう</rt></ruby>です。",
+    "notes": "<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>の「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>用法<rt>ようほう</rt></ruby>です。",
     "question_ruby": "<ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたので、（　　　）<ruby>冷<rt>さ</rt></ruby>ましてから<ruby>飲<rt>の</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "sentence_jp_ruby": "<ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたので、しばらく<ruby>冷<rt>さ</rt></ruby>ましてから<ruby>飲<rt>の</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
@@ -12800,7 +12800,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "しばらく",
-    "notes": "「<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>」というやや<ruby>長<rt>なが</rt></ruby>い<ruby>期間<rt>きかん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>用法<rt>ようほう</rt></ruby>です。",
+    "notes": "「<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>」というやや<ruby>長<rt>なが</rt></ruby>い<ruby>期間<rt>きかん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>用法<rt>ようほう</rt></ruby>です。",
     "question_ruby": "<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>遠<rt>とお</rt></ruby>くの<ruby>街<rt>まち</rt></ruby>へ<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことになったので、<ruby>地元<rt>じもと</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>たちとは（　　　）<ruby>会<rt>あ</rt></ruby>えなくなる。",
     "sentence_jp_ruby": "<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>遠<rt>とお</rt></ruby>くの<ruby>街<rt>まち</rt></ruby>へ<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことになったので、<ruby>地元<rt>じもと</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>たちとはしばらく<ruby>会<rt>あ</rt></ruby>えなくなる。",
     "choices_ruby": [
@@ -12921,8 +12921,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しかない",
     "notes": "「<ruby>名詞<rt>めいし</rt></ruby>・<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>＋しかない」で、<ruby>覚悟<rt>かくご</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶニュアンスも<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>める（　　　）だろう。",
-    "sentence_jp_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。",
+    "question_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>める（　　　）だろう。",
+    "sentence_jp_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。",
     "choices_ruby": [
       "<ruby>恐<rt>おそ</rt></ruby>れがある",
       "べきではない",
@@ -13251,8 +13251,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "そうもない",
     "notes": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>見<rt>み</rt></ruby>て「とても〜できそうにない」と<ruby>判断<rt>はんだん</rt></ruby>する<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い（　　　）。",
-    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。",
+    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い（　　　）。",
+    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。",
     "choices_ruby": [
       "ものか",
       "そうもない",
@@ -13881,8 +13881,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ために",
     "notes": "「<ruby>名詞<rt>めいし</rt></ruby>＋のために」で、その<ruby>利益<rt>りえき</rt></ruby>や<ruby>目的<rt>もくてき</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>して<ruby>行動<rt>こうどう</rt></ruby>することを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>の（　　　）、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>ま</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。",
-    "sentence_jp_ruby": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>ま</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。",
+    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>の（　　　）、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>かん</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。",
+    "sentence_jp_ruby": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>かん</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。",
     "choices_ruby": [
       "ために",
       "どころか",
@@ -14691,8 +14691,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "たって",
     "notes": "「<ruby>走<rt>はし</rt></ruby>ったって」は「<ruby>走<rt>はし</rt></ruby>っても」の<ruby>口語<rt>こうご</rt></ruby><ruby>形<rt>がた</rt></ruby>で、<ruby>仮定<rt>かてい</rt></ruby>の<ruby>逆接<rt>ぎゃくせつ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>っ（　　　）、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>っ（　　　）、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
     "choices_ruby": [
       "とたん",
       "たって",
@@ -17961,8 +17961,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "とすれば",
     "notes": "<ruby>前提<rt>ぜんてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>を<ruby>設定<rt>せってい</rt></ruby>して<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>行動<rt>こうどう</rt></ruby>を<ruby>逆算<rt>ぎゃくさん</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る（　　　）、<ruby>遅<rt>おく</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。",
-    "sentence_jp_ruby": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとすれば、<ruby>遅<rt>おく</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。",
+    "question_ruby": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る（　　　）、<ruby>遅<rt>おそ</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。",
+    "sentence_jp_ruby": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとすれば、<ruby>遅<rt>おそ</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。",
     "choices_ruby": [
       "といっても",
       "とすれば",
@@ -19160,7 +19160,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "うち",
-    "notes": "<ruby>継続<rt>けいぞく</rt></ruby>している<ruby>間<rt>ま</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>と<ruby>変化<rt>へんか</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたことを<ruby>表<rt>あらわ</rt></ruby>す「〜ているうちに」です。",
+    "notes": "<ruby>継続<rt>けいぞく</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>と<ruby>変化<rt>へんか</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたことを<ruby>表<rt>あらわ</rt></ruby>す「〜ているうちに」です。",
     "question_ruby": "<ruby>何度も<rt>なんども</rt></ruby><ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>練習<rt>れんしゅう</rt></ruby>している（　　　）に、<ruby>難<rt>むずか</rt></ruby>しい<ruby>曲<rt>きょく</rt></ruby>もスムーズに<ruby>弾<rt>ひ</rt></ruby>けるようになった。",
     "sentence_jp_ruby": "<ruby>何度も<rt>なんども</rt></ruby><ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>練習<rt>れんしゅう</rt></ruby>しているうちに、<ruby>難<rt>むずか</rt></ruby>しい<ruby>曲<rt>きょく</rt></ruby>もスムーズに<ruby>弾<rt>ひ</rt></ruby>けるようになった。",
     "choices_ruby": [
@@ -19314,7 +19314,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "お<ruby>互<rt>たが</rt></ruby>いの<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>納得<rt>なっとく</rt></ruby>した（　　　）で、<ruby>共同<rt>きょうどう</rt></ruby>プロジェクトを<ruby>始<rt>はじ</rt></ruby>めた。",
     "sentence_jp_ruby": "お<ruby>互<rt>たが</rt></ruby>いの<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>納得<rt>なっとく</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で、<ruby>共同<rt>きょうどう</rt></ruby>プロジェクトを<ruby>始<rt>はじ</rt></ruby>めた。",
     "choices_ruby": [
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "<ruby>内<rt>うち</rt></ruby>",
       "<ruby>上<rt>うえ</rt></ruby>",
       "<ruby>中<rt>なか</rt></ruby>"
@@ -19405,7 +19405,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>な<ruby>上<rt>うえ</rt></ruby>に、ピアノやギターの<ruby>演奏<rt>えんそう</rt></ruby>もプロ<ruby>並<rt>な</rt></ruby>みだ。",
     "choices_ruby": [
       "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>間<rt>ま</rt></ruby>",
+      "<ruby>間<rt>あいだ</rt></ruby>",
       "<ruby>内<rt>うち</rt></ruby>",
       "<ruby>上<rt>うえ</rt></ruby>"
     ],

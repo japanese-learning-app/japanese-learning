@@ -1978,7 +1978,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かんそう",
     "ruby": "<ruby>感想<rt>かんそう</rt></ruby>",
     "meaning": "impressions, thoughts",
-    "ex_ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>のち</rt></ruby>、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
+    "ex_ja": "<ruby>社内<rt>しゃない</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>後<rt>あと</rt></ruby>、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>受講<rt>じゅこう</rt></ruby>して<ruby>気<rt>き</rt></ruby>づいたことや<ruby>率直<rt>そっちょく</rt></ruby>な<ruby>感想<rt>かんそう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した。",
     "ex_en": "After attending the in-house training lecture, all participants submitted their key takeaways and candid impressions."
   },
   {
@@ -4794,7 +4794,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せいそう",
     "ruby": "<ruby>清掃<rt>せいそう</rt></ruby>",
     "meaning": "cleaning",
-    "ex_ja": "<ruby>洗面<rt>せんめん</rt></ruby><ruby>所<rt>しょ</rt></ruby>をつかった<ruby>後<rt>のち</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
+    "ex_ja": "<ruby>洗面<rt>せんめん</rt></ruby><ruby>所<rt>しょ</rt></ruby>をつかった<ruby>後<rt>あと</rt></ruby>には、<ruby>清掃<rt>せいそう</rt></ruby>すること。",
     "ex_en": "Clean up after you have finished using the bathroom."
   },
   {
@@ -7418,7 +7418,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りゅうこう",
     "ruby": "<ruby>流行<rt>りゅうこう</rt></ruby>",
     "meaning": "fashionable, fad, in vogue",
-    "ex_ja": "<ruby>若者<rt>わかもの</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>流行<rt>りゅうこう</rt></ruby>を<ruby>見<rt>み</rt></ruby>せているこのアプリは、<ruby>短時間<rt>たんじかん</rt></ruby>で<ruby>手軽<rt>てがる</rt></ruby>に<ruby>動画<rt>どうが</rt></ruby>を<ruby>編集<rt>へんしゅう</rt></ruby>・<ruby>共有<rt>きょうゆう</rt></ruby>できる<ruby>点<rt>てん</rt></ruby>が<ruby>魅力<rt>みりょく</rt></ruby>だ。",
+    "ex_ja": "<ruby>若者<rt>わかもの</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>流行<rt>りゅうこう</rt></ruby>を<ruby>見<rt>み</rt></ruby>せているこのアプリは、<ruby>短時間<rt>たんじかん</rt></ruby>で<ruby>手軽<rt>てがる</rt></ruby>に<ruby>動画<rt>どうが</rt></ruby>を<ruby>編集<rt>へんしゅう</rt></ruby>・<ruby>共有<rt>きょうゆう</rt></ruby>できる<ruby>点<rt>てん</rt></ruby>が<ruby>魅力<rt>みりょく</rt></ruby>だ。",
     "ex_en": "This app, which has become explosively trendy among young people, is appealing for allowing quick and easy video editing and sharing."
   },
   {
@@ -7514,7 +7514,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "るす",
     "ruby": "<ruby>留守<rt>るす</rt></ruby>",
     "meaning": "absence",
-    "ex_ja": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>数<rt>すう</rt></ruby><ruby>日間<rt>にちかん</rt></ruby><ruby>家<rt>か</rt></ruby>を<ruby>留守<rt>るす</rt></ruby>にする<ruby>間<rt>ま</rt></ruby>、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>溜<rt>た</rt></ruby>まらないよう<ruby>隣人<rt>りんじん</rt></ruby>に<ruby>受け取<rt>うけと</rt></ruby>りを<ruby>頼<rt>たの</rt></ruby>んだ。",
+    "ex_ja": "<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>数<rt>すう</rt></ruby><ruby>日間<rt>にちかん</rt></ruby><ruby>家<rt>か</rt></ruby>を<ruby>留守<rt>るす</rt></ruby>にする<ruby>間<rt>あいだ</rt></ruby>、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>溜<rt>た</rt></ruby>まらないよう<ruby>隣人<rt>りんじん</rt></ruby>に<ruby>受け取<rt>うけと</rt></ruby>りを<ruby>頼<rt>たの</rt></ruby>んだ。",
     "ex_en": "While away from home for a few days on a trip, I asked my neighbor to collect my mail so it wouldn't pile up."
   },
   {
@@ -8218,7 +8218,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だいがくいん",
     "ruby": "<ruby>大学院<rt>だいがくいん</rt></ruby>",
     "meaning": "graduate school",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生<rt>さいせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>に<ruby>大学院<rt>だいがくいん</rt></ruby>へ<ruby>進学<rt>しんがく</rt></ruby>し、<ruby>再生<rt>さいせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>エネルギーに<ruby>関<rt>かん</rt></ruby>する<ruby>最先端<rt>さいせんたん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいる。",
     "ex_en": "After graduating from university, he advanced to graduate school and is now devoting himself to cutting-edge research on renewable energy."
   },
   {
@@ -15402,7 +15402,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "せつ",
     "ruby": "<ruby>説<rt>せつ</rt></ruby>",
     "meaning": "theory",
-    "ex_ja": "その<ruby>古代<rt>こだい</rt></ruby><ruby>文明<rt>ぶんめい</rt></ruby>が<ruby>突然<rt>とつぜん</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>した<ruby>原因<rt>げんいん</rt></ruby>については<ruby>諸説<rt>しょせつ</rt></ruby>あり、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>でも<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
+    "ex_ja": "その<ruby>古代<rt>こだい</rt></ruby><ruby>文明<rt>ぶんめい</rt></ruby>が<ruby>突然<rt>とつぜん</rt></ruby><ruby>滅亡<rt>めつぼう</rt></ruby>した<ruby>原因<rt>げんいん</rt></ruby>については<ruby>諸説<rt>しょせつ</rt></ruby>あり、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でも<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
     "ex_en": "There are various theories regarding the cause of that ancient civilization's sudden collapse, and debate continues among modern historians."
   },
   {
@@ -15562,7 +15562,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もと",
     "ruby": "<ruby>元<rt>もと</rt></ruby>",
     "meaning": "origin, original, former",
-    "ex_ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby><ruby>器具<rt>きぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は、<ruby>他<rt>た</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
+    "ex_ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby><ruby>器具<rt>きぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>他<rt>た</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
     "ex_en": "After using shared experimental equipment, please be sure to wash it cleanly and return it to its original position for other researchers."
   },
   {
@@ -24298,7 +24298,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "たいしょく",
     "ruby": "<ruby>退職<rt>たいしょく</rt></ruby>",
     "meaning": "retirement (from office)",
-    "ex_ja": "<ruby>長年<rt>ながねん</rt></ruby><ruby>勤<rt>つと</rt></ruby>めた<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>定年<rt>ていねん</rt></ruby><ruby>退職<rt>たいしょく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は、<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby><ruby>各地<rt>かくち</rt></ruby>をのんびり<ruby>旅<rt>たび</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えている。",
+    "ex_ja": "<ruby>長年<rt>ながねん</rt></ruby><ruby>勤<rt>つと</rt></ruby>めた<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>定年<rt>ていねん</rt></ruby><ruby>退職<rt>たいしょく</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>夫婦<rt>ふうふ</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby><ruby>各地<rt>かくち</rt></ruby>をのんびり<ruby>旅<rt>たび</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えている。",
     "ex_en": "After retiring from the company where I worked for many years, I would like to travel leisurely around Japan with my spouse."
   },
   {
@@ -24378,7 +24378,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だんさ",
     "ruby": "<ruby>段差<rt>だんさ</rt></ruby>",
     "meaning": "step, bump, level difference",
-    "ex_ja": "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>車椅子<rt>くるまいす</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かつスムーズに<ruby>移動<rt>いどう</rt></ruby>できるよう、<ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>の<ruby>歩道<rt>ほどう</rt></ruby>と<ruby>車道<rt>しゃどう</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にあった<ruby>段差<rt>だんさ</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>するスロープ<ruby>工事<rt>こうじ</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。",
+    "ex_ja": "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>車椅子<rt>くるまいす</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かつスムーズに<ruby>移動<rt>いどう</rt></ruby>できるよう、<ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>の<ruby>歩道<rt>ほどう</rt></ruby>と<ruby>車道<rt>しゃどう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にあった<ruby>段差<rt>だんさ</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>するスロープ<ruby>工事<rt>こうじ</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。",
     "ex_en": "To enable elderly wheelchair users to move safely and smoothly, slope construction was carried out to eliminate the step between the sidewalk and roadway in the station plaza."
   },
   {
@@ -25482,7 +25482,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ていねん",
     "ruby": "<ruby>定年<rt>ていねん</rt></ruby>",
     "meaning": "retirement age",
-    "ex_ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>六<rt>ろく</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>歳<rt>さい</rt></ruby>の<ruby>定年<rt>ていねん</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えて<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>退職<rt>たいしょく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>、<ruby>長年の夢<rt>ながねんのゆめ</rt></ruby>だった<ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めた。",
+    "ex_ja": "<ruby>父<rt>ちち</rt></ruby>は<ruby>六<rt>ろく</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>歳<rt>さい</rt></ruby>の<ruby>定年<rt>ていねん</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えて<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>退職<rt>たいしょく</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、<ruby>長年の夢<rt>ながねんのゆめ</rt></ruby>だった<ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めた。",
     "ex_en": "After reaching the retirement age of sixty and leaving his company, my father started attending a pottery class, which had been his dream for many years."
   },
   {
@@ -26314,7 +26314,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "どくしょ",
     "ruby": "<ruby>読書<rt>どくしょ</rt></ruby>",
     "meaning": "reading",
-    "ex_ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かなカフェで<ruby>読書<rt>どくしょ</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>するのが、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れて<ruby>心<rt>こころ</rt></ruby>を<ruby>癒<rt>いや</rt></ruby>やす<ruby>最高<rt>さいこう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>だ。",
+    "ex_ja": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かなカフェで<ruby>読書<rt>どくしょ</rt></ruby>に<ruby>没頭<rt>ぼっとう</rt></ruby>するのが、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れて<ruby>心<rt>こころ</rt></ruby>を<ruby>癒<rt>い</rt></ruby>やす<ruby>最高<rt>さいこう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>だ。",
     "ex_en": "Immersing myself in reading books at a quiet cafe on weekends is the best time to step away from busy daily life and heal my mind."
   },
   {
@@ -26586,7 +26586,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "はんのう",
     "ruby": "<ruby>反応<rt>はんのう</rt></ruby>",
     "meaning": "reaction, response",
-    "ex_ja": "<ruby>新<rt>しん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>をリリースした<ruby>後<rt>のち</rt></ruby>のユーザーの<ruby>反応<rt>はんのう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しながら、<ruby>次<rt>つぎ</rt></ruby>のアップデートの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる。",
+    "ex_ja": "<ruby>新<rt>しん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>をリリースした<ruby>後<rt>あと</rt></ruby>のユーザーの<ruby>反応<rt>はんのう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しながら、<ruby>次<rt>つぎ</rt></ruby>のアップデートの<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる。",
     "ex_en": "While monitoring user reactions after releasing the new feature, we plan the next update."
   },
   {
@@ -28170,7 +28170,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ほんしゃ",
     "ruby": "<ruby>本社<rt>ほんしゃ</rt></ruby>",
     "meaning": "head office, main office, headquarters",
-    "ex_ja": "<ruby>地方<rt>ちほう</rt></ruby>の<ruby>支社<rt>ししゃ</rt></ruby>で５<ruby>年間<rt>ねんかん</rt></ruby><ruby>実績<rt>じっせき</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んだ<ruby>後<rt>のち</rt></ruby>、<ruby>念願<rt>ねんがん</rt></ruby>だった<ruby>東京<rt>とうきょう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby>への<ruby>異動<rt>いどう</rt></ruby>が<ruby>決<rt>き</rt></ruby>まった。",
+    "ex_ja": "<ruby>地方<rt>ちほう</rt></ruby>の<ruby>支社<rt>ししゃ</rt></ruby>で５<ruby>年間<rt>ねんかん</rt></ruby><ruby>実績<rt>じっせき</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んだ<ruby>後<rt>あと</rt></ruby>、<ruby>念願<rt>ねんがん</rt></ruby>だった<ruby>東京<rt>とうきょう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby>への<ruby>異動<rt>いどう</rt></ruby>が<ruby>決<rt>き</rt></ruby>まった。",
     "ex_en": "After building a track record of five years at a regional branch, my transfer to the Tokyo headquarters was finally decided."
   },
   {
@@ -28794,7 +28794,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よぼう",
     "ruby": "<ruby>予防<rt>よぼう</rt></ruby>",
     "meaning": "prevention, precaution, protection against",
-    "ex_ja": "<ruby>冬場<rt>ふゆば</rt></ruby>に<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するためには、<ruby>外<rt>そと</rt></ruby>から<ruby>帰<rt>かえ</rt></ruby>った<ruby>後<rt>のち</rt></ruby>の<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>手洗<rt>てあらい</rt></ruby>いとうがいが<ruby>一番<rt>いちばん</rt></ruby><ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。",
+    "ex_ja": "<ruby>冬場<rt>ふゆば</rt></ruby>に<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するためには、<ruby>外<rt>そと</rt></ruby>から<ruby>帰<rt>かえ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>の<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>手洗<rt>てあらい</rt></ruby>いとうがいが<ruby>一番<rt>いちばん</rt></ruby><ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。",
     "ex_en": "To prevent colds in winter, thorough handwashing and gargling after returning from outside are most effective."
   },
   {
@@ -29258,7 +29258,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "りょくちゃ",
     "ruby": "<ruby>緑茶<rt>りょくちゃ</rt></ruby>",
     "meaning": "green tea, Japanese tea",
-    "ex_ja": "<ruby>脂<rt>やに</rt></ruby>っこい<ruby>食事<rt>しょくじ</rt></ruby>をとった<ruby>後<rt>のち</rt></ruby>は、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>がさっぱりする<ruby>温<rt>あたた</rt></ruby>かい<ruby>緑茶<rt>りょくちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのが<ruby>好<rt>す</rt></ruby>きだ。",
+    "ex_ja": "<ruby>脂<rt>やに</rt></ruby>っこい<ruby>食事<rt>しょくじ</rt></ruby>をとった<ruby>後<rt>あと</rt></ruby>は、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>がさっぱりする<ruby>温<rt>あたた</rt></ruby>かい<ruby>緑茶<rt>りょくちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのが<ruby>好<rt>す</rt></ruby>きだ。",
     "ex_en": "After eating greasy food, I like to drink hot green tea to refresh my palate."
   },
   {
@@ -30346,7 +30346,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きねんしゃしん",
     "ruby": "<ruby>記念写真<rt>きねんしゃしん</rt></ruby>",
     "meaning": "commemorative photo",
-    "ex_ja": "<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>後<rt>のち</rt></ruby>、<ruby>満開<rt>まんかい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>木の下<rt>このした</rt></ruby>で<ruby>恩師<rt>おんし</rt></ruby>やクラスメイトと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>記念<rt>きねん</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った。",
+    "ex_ja": "<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>満開<rt>まんかい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>木の下<rt>このした</rt></ruby>で<ruby>恩師<rt>おんし</rt></ruby>やクラスメイトと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>記念<rt>きねん</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った。",
     "ex_en": "After the graduation ceremony, we smiled and took a commemorative photo with our teacher and classmates under the blooming cherry trees."
   },
   {
@@ -30714,7 +30714,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けっかはっぴょう",
     "ruby": "<ruby>結果発表<rt>けっかはっぴょう</rt></ruby>",
     "meaning": "announcement of results",
-    "ex_ja": "オーディションの<ruby>結果<rt>けっか</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ<ruby>間<rt>ま</rt></ruby>、<ruby>控室<rt>ひかえしつ</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちの<ruby>間<rt>ま</rt></ruby>には<ruby>張り詰<rt>はりつ</rt></ruby>めた<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>が<ruby>漂<rt>ただよ</rt></ruby>っていた。",
+    "ex_ja": "オーディションの<ruby>結果<rt>けっか</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ<ruby>間<rt>あいだ</rt></ruby>、<ruby>控室<rt>ひかえしつ</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちの<ruby>間<rt>あいだ</rt></ruby>には<ruby>張り詰<rt>はりつ</rt></ruby>めた<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>が<ruby>漂<rt>ただよ</rt></ruby>っていた。",
     "ex_en": "While waiting for the announcement of the audition results, a tense silence hung among the participants in the waiting room."
   },
   {
@@ -32170,7 +32170,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てさぎょう",
     "ruby": "<ruby>手作業<rt>てさぎょう</rt></ruby>",
     "meaning": "manual labor, manual work",
-    "ex_ja": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>機械<rt>きかい</rt></ruby>を<ruby>導入<rt>どうにゅう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>も、<ruby>繊細<rt>せんさい</rt></ruby>な<ruby>仕上<rt>しあ</rt></ruby>げの<ruby>工程<rt>こうてい</rt></ruby>だけは<ruby>熟練<rt>じゅくれん</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>の<ruby>手作業<rt>てさぎょう</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>っている。",
+    "ex_ja": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>機械<rt>きかい</rt></ruby>を<ruby>導入<rt>どうにゅう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>も、<ruby>繊細<rt>せんさい</rt></ruby>な<ruby>仕上<rt>しあ</rt></ruby>げの<ruby>工程<rt>こうてい</rt></ruby>だけは<ruby>熟練<rt>じゅくれん</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>の<ruby>手作業<rt>てさぎょう</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>っている。",
     "ex_en": "Even after introducing cutting-edge automated machinery, the delicate finishing process alone relies on the manual craftsmanship of skilled artisans."
   },
   {
@@ -32730,7 +32730,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ながいあいだ",
     "ruby": "<ruby>長い間<rt>ながいあいだ</rt></ruby>",
     "meaning": "long time, long interval, for quite some time",
-    "ex_ja": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>っていなかった<ruby>恩師<rt>おんし</rt></ruby>から<ruby>突然<rt>とつぜん</rt></ruby><ruby>手紙<rt>てがみ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>き、<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>思い出<rt>おもいで</rt></ruby>が<ruby>胸<rt>むね</rt></ruby>に<ruby>込み上<rt>こみあ</rt></ruby>げてきた。",
+    "ex_ja": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>っていなかった<ruby>恩師<rt>おんし</rt></ruby>から<ruby>突然<rt>とつぜん</rt></ruby><ruby>手紙<rt>てがみ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>き、<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>思い出<rt>おもいで</rt></ruby>が<ruby>胸<rt>むね</rt></ruby>に<ruby>込み上<rt>こみあ</rt></ruby>げてきた。",
     "ex_en": "A letter suddenly arrived from a mentor with whom I had been out of touch for a long time, filling my heart with fond memories."
   },
   {
@@ -32762,7 +32762,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なまくりーむ",
     "ruby": "<ruby>生クリーム<rt>なまくりーむ</rt></ruby>",
     "meaning": "fresh cream, whipped cream",
-    "ex_ja": "<ruby>絞<rt>しぼ</rt></ruby>り<ruby>立<rt>だ</rt></ruby>ての<ruby>濃厚<rt>のうこう</rt></ruby>な<ruby>生クリーム<rt>なまくりーむ</rt></ruby>と<ruby>甘酸<rt>あまず</rt></ruby>っぱいイチゴがふんだんに<ruby>乗<rt>の</rt></ruby>ったショートケーキは、<ruby>甘党<rt>あまとう</rt></ruby>にはたまらない。",
+    "ex_ja": "<ruby>絞<rt>しぼ</rt></ruby>り<ruby>立<rt>た</rt></ruby>ての<ruby>濃厚<rt>のうこう</rt></ruby>な<ruby>生クリーム<rt>なまくりーむ</rt></ruby>と<ruby>甘酸<rt>あまず</rt></ruby>っぱいイチゴがふんだんに<ruby>乗<rt>の</rt></ruby>ったショートケーキは、<ruby>甘党<rt>あまとう</rt></ruby>にはたまらない。",
     "ex_en": "Shortcake lavishly topped with freshly whipped rich fresh cream and sweet-and-sour strawberries is irresistible to anyone with a sweet tooth."
   },
   {
@@ -33706,7 +33706,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "るすばん",
     "ruby": "<ruby>留守番<rt>るすばん</rt></ruby>",
     "meaning": "care-taking, caretaker, house-watching",
-    "ex_ja": "<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>留守<rt>るす</rt></ruby>にしている<ruby>間<rt>ま</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>弟<rt>おとうと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>で<ruby>留守番<rt>るすばん</rt></ruby>を<ruby>引き受<rt>ひきう</rt></ruby>けることになった。",
+    "ex_ja": "<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>留守<rt>るす</rt></ruby>にしている<ruby>間<rt>あいだ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>弟<rt>おとうと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>で<ruby>留守番<rt>るすばん</rt></ruby>を<ruby>引き受<rt>ひきう</rt></ruby>けることになった。",
     "ex_en": "While our parents were away on a trip, I took on the responsibility of staying home and looking after the house with my younger brother."
   },
   {
@@ -34810,7 +34810,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おとずれる",
     "ruby": "<ruby>訪<rt>おとず</rt></ruby>れる",
     "meaning": "to visit",
-    "ex_ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "ex_ja": "<ruby>春<rt>はる</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>と<ruby>夏<rt>なつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる。",
     "ex_en": "Spring comes between winter and summer."
   },
   {
@@ -37866,7 +37866,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うけわたす",
     "ruby": "<ruby>受け渡<rt>うけわた</rt></ruby>す",
     "meaning": "to hand over, to transfer (goods)",
-    "ex_ja": "<ruby>契約<rt>けいやく</rt></ruby><ruby>書<rt>しょ</rt></ruby>にサインを<ruby>交<rt>か</rt></ruby>わした<ruby>後<rt>のち</rt></ruby>、<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>新居<rt>しんきょ</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>正式<rt>せいしき</rt></ruby>に<ruby>受け渡<rt>うけわた</rt></ruby>した。",
+    "ex_ja": "<ruby>契約<rt>けいやく</rt></ruby><ruby>書<rt>しょ</rt></ruby>にサインを<ruby>交<rt>か</rt></ruby>わした<ruby>後<rt>あと</rt></ruby>、<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>新居<rt>しんきょ</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>正式<rt>せいしき</rt></ruby>に<ruby>受け渡<rt>うけわた</rt></ruby>した。",
     "ex_en": "After signing the contracts, the real estate agent formally handed over the keys to the new house."
   },
   {
@@ -39626,7 +39626,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いちじるしい",
     "ruby": "<ruby>著<rt>いちじる</rt></ruby>しい",
     "meaning": "remarkable, considerable",
-    "ex_ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
+    "ex_ja": "<ruby>両者<rt>りょうしゃ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>には<ruby>著<rt>いちじる</rt></ruby>しい<ruby>違<rt>ちが</rt></ruby>いがある。",
     "ex_en": "There are noticeable differences between the two."
   },
   {
@@ -40170,7 +40170,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "あっとうてきな",
     "ruby": "<ruby>圧倒的<rt>あっとうてき</rt></ruby>な",
     "meaning": "overwhelming",
-    "ex_ja": "その<ruby>新鋭<rt>しんえい</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>は<ruby>画期的<rt>かっきてき</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>圧倒的<rt>あっとうてき</rt></ruby>なスピード<ruby>感<rt>かん</rt></ruby>で、<ruby>従来<rt>じゅうらい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>シェアを<ruby>瞬<rt>まばた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に<ruby>奪い取<rt>うばいと</rt></ruby>った。",
+    "ex_ja": "その<ruby>新鋭<rt>しんえい</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>は<ruby>画期的<rt>かっきてき</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>圧倒的<rt>あっとうてき</rt></ruby>なスピード<ruby>感<rt>かん</rt></ruby>で、<ruby>従来<rt>じゅうらい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>シェアを<ruby>瞬<rt>まばた</rt></ruby>く<ruby>間<rt>あいだ</rt></ruby>に<ruby>奪い取<rt>うばいと</rt></ruby>った。",
     "ex_en": "With groundbreaking technical capabilities and an overwhelming sense of speed, the emerging startup quickly seized conventional market share."
   },
   {
@@ -40186,7 +40186,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かくべつな",
     "ruby": "<ruby>格別<rt>かくべつ</rt></ruby>な",
     "meaning": "exceptional",
-    "ex_ja": "<ruby>炎天下<rt>えんてんか</rt></ruby>での<ruby>厳<rt>きび</rt></ruby>しい<ruby>農作業<rt>のうさぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた<ruby>後<rt>のち</rt></ruby>に<ruby>木陰<rt>こかげ</rt></ruby>でいただく<ruby>冷<rt>つめ</rt></ruby>たい<ruby>麦茶<rt>むぎちゃ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>ものにも<ruby>代<rt>か</rt></ruby>えがたい<ruby>格別<rt>かくべつ</rt></ruby>な<ruby>美味<rt>おい</rt></ruby>しさだった。",
+    "ex_ja": "<ruby>炎天下<rt>えんてんか</rt></ruby>での<ruby>厳<rt>きび</rt></ruby>しい<ruby>農作業<rt>のうさぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた<ruby>後<rt>あと</rt></ruby>に<ruby>木陰<rt>こかげ</rt></ruby>でいただく<ruby>冷<rt>つめ</rt></ruby>たい<ruby>麦茶<rt>むぎちゃ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>ものにも<ruby>代<rt>か</rt></ruby>えがたい<ruby>格別<rt>かくべつ</rt></ruby>な<ruby>美味<rt>おい</rt></ruby>しさだった。",
     "ex_en": "The cold barley tea enjoyed in the shade of a tree after arduous farm work under the scorching sun tasted exceptionally delicious beyond compare."
   },
   {
@@ -40746,7 +40746,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんきょな",
     "ruby": "<ruby>謙虚<rt>けんきょ</rt></ruby>な",
     "meaning": "modesty, humility",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きなコンテストで<ruby>最優秀<rt>さいゆうしゅう</rt></ruby><ruby>賞<rt>しょう</rt></ruby>を<ruby>獲得<rt>かくとく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>も<ruby>少<rt>すこ</rt></ruby>しも<ruby>威張<rt>いば</rt></ruby>ることなく、<ruby>周囲<rt>しゅうい</rt></ruby>のアドバイスに<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>ける<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>っている。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きなコンテストで<ruby>最優秀<rt>さいゆうしゅう</rt></ruby><ruby>賞<rt>しょう</rt></ruby>を<ruby>獲得<rt>かくとく</rt></ruby>した<ruby>後<rt>あと</rt></ruby>も<ruby>少<rt>すこ</rt></ruby>しも<ruby>威張<rt>いば</rt></ruby>ることなく、<ruby>周囲<rt>しゅうい</rt></ruby>のアドバイスに<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>ける<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>っている。",
     "ex_en": "Even after winning the top award in a major competition, he does not act boastful in the least and maintains a humble attitude of listening to feedback from those around him."
   },
   {
@@ -43210,7 +43210,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぞんぶんに",
     "ruby": "<ruby>存分<rt>ぞんぶん</rt></ruby>に",
     "meaning": "to one's heart's content, fully",
-    "ex_ja": "<ruby>長<rt>なが</rt></ruby>かった<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>を<ruby>乗り越<rt>のりこ</rt></ruby>えたので、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>で<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>存分<rt>ぞんぶん</rt></ruby>に<ruby>癒<rt>いや</rt></ruby>やしたい。",
+    "ex_ja": "<ruby>長<rt>なが</rt></ruby>かった<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>を<ruby>乗り越<rt>のりこ</rt></ruby>えたので、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>で<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>存分<rt>ぞんぶん</rt></ruby>に<ruby>癒<rt>い</rt></ruby>やしたい。",
     "ex_en": "Having gotten through the long busy season, I want to fully soothe my daily fatigue on a hot spring trip this weekend."
   },
   {
@@ -43226,7 +43226,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふたたび",
     "ruby": "<ruby>再<rt>ふたた</rt></ruby>び",
     "meaning": "again, once more, a second time",
-    "ex_ja": "<ruby>渡り鳥<rt>わたりどり</rt></ruby>たちは<ruby>北<rt>きた</rt></ruby>の<ruby>湖<rt>みずうみ</rt></ruby>で<ruby>冬<rt>ふゆ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごした<ruby>後<rt>のち</rt></ruby>、<ruby>春<rt>はる</rt></ruby>になると<ruby>再<rt>ふたた</rt></ruby>び<ruby>遠<rt>とお</rt></ruby>い<ruby>北<rt>きた</rt></ruby>の<ruby>大地<rt>だいち</rt></ruby>へと<ruby>飛び立<rt>とびた</rt></ruby>っていく。",
+    "ex_ja": "<ruby>渡り鳥<rt>わたりどり</rt></ruby>たちは<ruby>北<rt>きた</rt></ruby>の<ruby>湖<rt>みずうみ</rt></ruby>で<ruby>冬<rt>ふゆ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごした<ruby>後<rt>あと</rt></ruby>、<ruby>春<rt>はる</rt></ruby>になると<ruby>再<rt>ふたた</rt></ruby>び<ruby>遠<rt>とお</rt></ruby>い<ruby>北<rt>きた</rt></ruby>の<ruby>大地<rt>だいち</rt></ruby>へと<ruby>飛び立<rt>とびた</rt></ruby>っていく。",
     "ex_en": "After spending the winter at the lake, migratory birds take flight once again for the distant northern lands when spring arrives."
   },
   {
@@ -43674,7 +43674,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うとうと",
     "ruby": "うとうと",
     "meaning": "drowsily",
-    "ex_ja": "<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>の<ruby>暖<rt>あたた</rt></ruby>かい<ruby>午後<rt>ごご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<ruby>心地<rt>ここち</rt></ruby>よい<ruby>日差<rt>ひざ</rt></ruby>しに<ruby>誘<rt>さそ</rt></ruby>われてついうとうとしてしまった。",
+    "ex_ja": "<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>の<ruby>暖<rt>あたた</rt></ruby>かい<ruby>午後<rt>ごご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<ruby>心地<rt>ここち</rt></ruby>よい<ruby>日差<rt>ひざ</rt></ruby>しに<ruby>誘<rt>さそ</rt></ruby>われてついうとうとしてしまった。",
     "ex_en": "During a warm afternoon class after lunch, lulled by the pleasant sunshine, I unintentionally nodded off."
   },
   {
@@ -44122,7 +44122,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ばりばり",
     "ruby": "ばりばり",
     "meaning": "vigorously",
-    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>留学<rt>りゅうがく</rt></ruby>から<ruby>帰国<rt>きこく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>、<ruby>大手<rt>おおて</rt></ruby><ruby>商社<rt>しょうしゃ</rt></ruby>の<ruby>第一線<rt>だいいっせん</rt></ruby>でばりばり<ruby>活躍<rt>かつやく</rt></ruby>している。",
+    "ex_ja": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>留学<rt>りゅうがく</rt></ruby>から<ruby>帰国<rt>きこく</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、<ruby>大手<rt>おおて</rt></ruby><ruby>商社<rt>しょうしゃ</rt></ruby>の<ruby>第一線<rt>だいいっせん</rt></ruby>でばりばり<ruby>活躍<rt>かつやく</rt></ruby>している。",
     "ex_en": "After returning from studying abroad, she has been vigorously working on the front lines of a major trading firm."
   },
   {
@@ -45066,7 +45066,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "スター",
     "ruby": "スター",
     "meaning": "star",
-    "ex_ja": "デビュー<ruby>作<rt>さく</rt></ruby>で<ruby>一躍<rt>いちやく</rt></ruby><ruby>脚光<rt>きゃっこう</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びた<ruby>彼女<rt>かのじょ</rt></ruby>は、<ruby>瞬<rt>まばた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>愛<rt>あい</rt></ruby>される<ruby>映画<rt>えいが</rt></ruby>スターとしての<ruby>地位<rt>ちい</rt></ruby>を<ruby>確立<rt>かくりつ</rt></ruby>した。",
+    "ex_ja": "デビュー<ruby>作<rt>さく</rt></ruby>で<ruby>一躍<rt>いちやく</rt></ruby><ruby>脚光<rt>きゃっこう</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びた<ruby>彼女<rt>かのじょ</rt></ruby>は、<ruby>瞬<rt>まばた</rt></ruby>く<ruby>間<rt>あいだ</rt></ruby>に<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>愛<rt>あい</rt></ruby>される<ruby>映画<rt>えいが</rt></ruby>スターとしての<ruby>地位<rt>ちい</rt></ruby>を<ruby>確立<rt>かくりつ</rt></ruby>した。",
     "ex_en": "Propelled into the limelight by her debut work, she quickly established her status as a globally beloved movie star."
   },
   {
@@ -46762,7 +46762,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "レシート",
     "ruby": "レシート",
     "meaning": "receipt",
-    "ex_ja": "<ruby>家計<rt>かけい</rt></ruby><ruby>簿<rt>ぼ</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>につけるため、スーパーやコンビニで<ruby>買い物<rt>かいもの</rt></ruby>をした<ruby>後<rt>のち</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ずレシートを<ruby>受け取<rt>うけと</rt></ruby>って<ruby>保管<rt>ほかん</rt></ruby>している。",
+    "ex_ja": "<ruby>家計<rt>かけい</rt></ruby><ruby>簿<rt>ぼ</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>につけるため、スーパーやコンビニで<ruby>買い物<rt>かいもの</rt></ruby>をした<ruby>後<rt>あと</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ずレシートを<ruby>受け取<rt>うけと</rt></ruby>って<ruby>保管<rt>ほかん</rt></ruby>している。",
     "ex_en": "In order to keep an accurate household ledger, I always keep the receipts after shopping at supermarkets or convenience stores."
   },
   {
@@ -47498,7 +47498,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "げんじゅうしょ",
     "ruby": "<ruby>現住所<rt>げんじゅうしょ</rt></ruby>",
     "meaning": "(present) address",
-    "ex_ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>しを<ruby>済<rt>す</rt></ruby>ませた<ruby>後<rt>のち</rt></ruby>は、<ruby>速<rt>すみ</rt></ruby>やかに<ruby>区役所<rt>くやくしょ</rt></ruby>で<ruby>現住<rt>げんじゅう</rt></ruby><ruby>所<rt>しょ</rt></ruby>の<ruby>変更<rt>へんこう</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>わなければならない。",
+    "ex_ja": "<ruby>引っ越<rt>ひっこ</rt></ruby>しを<ruby>済<rt>す</rt></ruby>ませた<ruby>後<rt>あと</rt></ruby>は、<ruby>速<rt>すみ</rt></ruby>やかに<ruby>区役所<rt>くやくしょ</rt></ruby>で<ruby>現住<rt>げんじゅう</rt></ruby><ruby>所<rt>しょ</rt></ruby>の<ruby>変更<rt>へんこう</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>わなければならない。",
     "ex_en": "After moving, you must promptly update your current address at the ward office."
   },
   {
@@ -47658,7 +47658,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "さいしゅうしょく",
     "ruby": "<ruby>再就職<rt>さいしゅうしょく</rt></ruby>",
     "meaning": "re-employment, finding a new job",
-    "ex_ja": "<ruby>定年<rt>ていねん</rt></ruby><ruby>退職<rt>たいしょく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた<ruby>後<rt>のち</rt></ruby>も、<ruby>培<rt>つちか</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして<ruby>別<rt>べつ</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby>へ<ruby>再<rt>さい</rt></ruby><ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
+    "ex_ja": "<ruby>定年<rt>ていねん</rt></ruby><ruby>退職<rt>たいしょく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた<ruby>後<rt>あと</rt></ruby>も、<ruby>培<rt>つちか</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして<ruby>別<rt>べつ</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby>へ<ruby>再<rt>さい</rt></ruby><ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
     "ex_en": "Even after reaching retirement age, more and more people are finding new employment at other companies by leveraging their accumulated experience."
   },
   {
@@ -49738,7 +49738,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうふくかん",
     "ruby": "<ruby>幸福感<rt>こうふくかん</rt></ruby>",
     "meaning": "feeling of happiness, sense of well-being",
-    "ex_ja": "<ruby>温<rt>あたた</rt></ruby>かい<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>かって<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>癒<rt>いや</rt></ruby>やすとき、<ruby>何物<rt>なにもの</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい<ruby>幸福<rt>こうふく</rt></ruby><ruby>感<rt>かん</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれる。",
+    "ex_ja": "<ruby>温<rt>あたた</rt></ruby>かい<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>かって<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>癒<rt>い</rt></ruby>やすとき、<ruby>何物<rt>なにもの</rt></ruby>にも<ruby>代<rt>か</rt></ruby>えがたい<ruby>幸福<rt>こうふく</rt></ruby><ruby>感<rt>かん</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれる。",
     "ex_en": "Soaking in a warm bath to relieve the fatigue of the day envelops me in an irreplaceable sense of happiness."
   },
   {
@@ -51098,7 +51098,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんきゅうじょ",
     "ruby": "<ruby>研究所<rt>けんきゅうじょ</rt></ruby>",
     "meaning": "research institute, (research) laboratory",
-    "ex_ja": "<ruby>最先端<rt>さいせんたん</rt></ruby>のバイオテクノロジーを<ruby>研究<rt>けんきゅう</rt></ruby>するため、<ruby>大学院<rt>だいがくいん</rt></ruby>を<ruby>修了<rt>しゅうりょう</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に<ruby>民間<rt>みんかん</rt></ruby>の<ruby>製薬<rt>せいやく</rt></ruby><ruby>研究所<rt>けんきゅうじょ</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>した。",
+    "ex_ja": "<ruby>最先端<rt>さいせんたん</rt></ruby>のバイオテクノロジーを<ruby>研究<rt>けんきゅう</rt></ruby>するため、<ruby>大学院<rt>だいがくいん</rt></ruby>を<ruby>修了<rt>しゅうりょう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>に<ruby>民間<rt>みんかん</rt></ruby>の<ruby>製薬<rt>せいやく</rt></ruby><ruby>研究所<rt>けんきゅうじょ</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>した。",
     "ex_en": "To conduct cutting-edge biotechnology research, I joined a private pharmaceutical research institute after completing graduate school."
   },
   {
@@ -52906,7 +52906,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けんちくぶつ",
     "ruby": "<ruby>建築物<rt>けんちくぶつ</rt></ruby>",
     "meaning": "building, structure",
-    "ex_ja": "<ruby>地震<rt>じしん</rt></ruby><ruby>大国<rt>たいこく</rt></ruby>である<ruby>日本<rt>にほん</rt></ruby>には、<ruby>五重塔<rt>ごじゅうのとう</rt></ruby>のように<ruby>何<rt>なん</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>年<rt>ねん</rt></ruby>もの<ruby>間<rt>ま</rt></ruby><ruby>倒壊<rt>とうかい</rt></ruby>せずに<ruby>耐<rt>た</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けてきた<ruby>木造<rt>もくぞう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>建築<rt>けんちく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>数多<rt>かずおお</rt></ruby>くある。",
+    "ex_ja": "<ruby>地震<rt>じしん</rt></ruby><ruby>大国<rt>たいこく</rt></ruby>である<ruby>日本<rt>にほん</rt></ruby>には、<ruby>五重塔<rt>ごじゅうのとう</rt></ruby>のように<ruby>何<rt>なん</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>年<rt>ねん</rt></ruby>もの<ruby>間<rt>あいだ</rt></ruby><ruby>倒壊<rt>とうかい</rt></ruby>せずに<ruby>耐<rt>た</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けてきた<ruby>木造<rt>もくぞう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>建築<rt>けんちく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>数多<rt>かずおお</rt></ruby>くある。",
     "ex_en": "In earthquake-prone Japan, there are numerous traditional wooden structures, such as five-story pagodas, that have stood resilient without collapsing for hundreds of years."
   },
   {
@@ -54618,7 +54618,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ひとだんらくする",
     "ruby": "<ruby>一段落<rt>いちだんらく</rt></ruby>する",
     "meaning": "to reach a stopping point, to settle down",
-    "ex_ja": "<ruby>年度<rt>ねんど</rt></ruby><ruby>末<rt>まつ</rt></ruby>の<ruby>決算<rt>けっさん</rt></ruby><ruby>業務<rt>ぎょうむ</rt></ruby>がようやく<ruby>一段落<rt>ひとだんらく</rt></ruby>したので、<ruby>今週<rt>こんしゅう</rt></ruby><ruby>末<rt>まつ</rt></ruby>は<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>にでも<ruby>行<rt>い</rt></ruby>って<ruby>心身<rt>しんしん</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>癒<rt>いや</rt></ruby>やすつもりだ。",
+    "ex_ja": "<ruby>年度<rt>ねんど</rt></ruby><ruby>末<rt>まつ</rt></ruby>の<ruby>決算<rt>けっさん</rt></ruby><ruby>業務<rt>ぎょうむ</rt></ruby>がようやく<ruby>一段落<rt>ひとだんらく</rt></ruby>したので、<ruby>今週<rt>こんしゅう</rt></ruby><ruby>末<rt>まつ</rt></ruby>は<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>にでも<ruby>行<rt>い</rt></ruby>って<ruby>心身<rt>しんしん</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れを<ruby>癒<rt>い</rt></ruby>やすつもりだ。",
     "ex_en": "With year-end accounting tasks finally settling down, I intend to go on a hot spring trip this weekend to heal my body and mind."
   },
   {
@@ -54682,7 +54682,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めのつけどころ",
     "ruby": "<ruby>目の付け所<rt>めのつけどころ</rt></ruby>",
     "meaning": "viewpoint, perspective, angle of observation",
-    "ex_ja": "<ruby>若者<rt>わかもの</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>流行<rt>りゅうこう</rt></ruby>していた<ruby>古着<rt>ふるぎ</rt></ruby>のリメイクに<ruby>着目<rt>ちゃくもく</rt></ruby>し、ネット<ruby>通販<rt>つうはん</rt></ruby>で<ruby>大<rt>だい</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>を<ruby>収<rt>おさ</rt></ruby>めた<ruby>彼<rt>かれ</rt></ruby>の<ruby>目<rt>め</rt></ruby>の<ruby>付け所<rt>つけどころ</rt></ruby>は<ruby>見事<rt>みごと</rt></ruby>と<ruby>言<rt>い</rt></ruby>うほかない。",
+    "ex_ja": "<ruby>若者<rt>わかもの</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>流行<rt>りゅうこう</rt></ruby>していた<ruby>古着<rt>ふるぎ</rt></ruby>のリメイクに<ruby>着目<rt>ちゃくもく</rt></ruby>し、ネット<ruby>通販<rt>つうはん</rt></ruby>で<ruby>大<rt>だい</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>を<ruby>収<rt>おさ</rt></ruby>めた<ruby>彼<rt>かれ</rt></ruby>の<ruby>目<rt>め</rt></ruby>の<ruby>付け所<rt>つけどころ</rt></ruby>は<ruby>見事<rt>みごと</rt></ruby>と<ruby>言<rt>い</rt></ruby>うほかない。",
     "ex_en": "Focusing on vintage clothing remakes trending among young people and achieving great success via e-commerce, his keen eye for opportunity was nothing short of remarkable."
   },
   {

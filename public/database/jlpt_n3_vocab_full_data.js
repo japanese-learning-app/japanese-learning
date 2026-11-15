@@ -633,7 +633,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "いき",
     "ruby": "<ruby>息<rt>いき</rt></ruby>",
     "meaning": "breath; tone",
-    "ex_ja": "<ruby>階段<rt>かいだん</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>駆<rt>か</rt></ruby>け<ruby>上<rt>あ</rt></ruby>がったせいで、しばらくの<ruby>間<rt>ま</rt></ruby>は<ruby>息<rt>いき</rt></ruby>が<ruby>切<rt>き</rt></ruby>れて<ruby>話<rt>はな</rt></ruby>せなかった。",
+    "ex_ja": "<ruby>階段<rt>かいだん</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>駆<rt>か</rt></ruby>け<ruby>上<rt>あ</rt></ruby>がったせいで、しばらくの<ruby>間<rt>あいだ</rt></ruby>は<ruby>息<rt>いき</rt></ruby>が<ruby>切<rt>き</rt></ruby>れて<ruby>話<rt>はな</rt></ruby>せなかった。",
     "ex_en": "Because I ran up the stairs in a hurry, I was out of breath and could not speak for a while."
   },
   {
@@ -3097,7 +3097,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かせぐ",
     "ruby": "<ruby>稼<rt>かせ</rt></ruby>ぐ",
     "meaning": "to earn income; to labor",
-    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>ま</rt></ruby>に<ruby>書店<rt>しょてん</rt></ruby>でアルバイトをして、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くための<ruby>費用<rt>ひよう</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>ぐつもりだ。",
+    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>に<ruby>書店<rt>しょてん</rt></ruby>でアルバイトをして、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くための<ruby>費用<rt>ひよう</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>ぐつもりだ。",
     "ex_en": "During summer vacation, I plan to work part-time at a bookstore and earn money to go on a trip by myself."
   },
   {
@@ -3833,7 +3833,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんどう",
     "ruby": "<ruby>感動<rt>かんどう</rt></ruby>",
     "meaning": "being deeply moved; excitement; impression; deep emotion",
-    "ex_ja": "<ruby>山頂<rt>さんちょう</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めた<ruby>朝日<rt>あさひ</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさに<ruby>深<rt>ふか</rt></ruby>く<ruby>感動<rt>かんどう</rt></ruby>して、しばらくの<ruby>間<rt>ま</rt></ruby>その<ruby>場<rt>ば</rt></ruby>を<ruby>動<rt>うご</rt></ruby>けなかった。",
+    "ex_ja": "<ruby>山頂<rt>さんちょう</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めた<ruby>朝日<rt>あさひ</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさに<ruby>深<rt>ふか</rt></ruby>く<ruby>感動<rt>かんどう</rt></ruby>して、しばらくの<ruby>間<rt>あいだ</rt></ruby>その<ruby>場<rt>ば</rt></ruby>を<ruby>動<rt>うご</rt></ruby>けなかった。",
     "ex_en": "Deeply moved by the beauty of the sunrise viewed from the summit, I could not move from that spot for a while."
   },
   {
@@ -3865,7 +3865,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "かんれん",
     "ruby": "<ruby>関連<rt>かんれん</rt></ruby>",
     "meaning": "relation; connection; relevance",
-    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>集<rt>あつ</rt></ruby>めたデータの<ruby>間<rt>ま</rt></ruby>にどのような<ruby>関連<rt>かんれん</rt></ruby>があるのか、<ruby>詳<rt>くわ</rt></ruby>しく<ruby>分析<rt>ぶんせき</rt></ruby>している。",
+    "ex_ja": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>集<rt>あつ</rt></ruby>めたデータの<ruby>間<rt>あいだ</rt></ruby>にどのような<ruby>関連<rt>かんれん</rt></ruby>があるのか、<ruby>詳<rt>くわ</rt></ruby>しく<ruby>分析<rt>ぶんせき</rt></ruby>している。",
     "ex_en": "We are analyzing in detail what kind of connection exists among the data collected in this survey."
   },
   {
@@ -5001,7 +5001,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "きんせん",
     "ruby": "<ruby>金銭<rt>きんせん</rt></ruby>",
     "meaning": "money; cash",
-    "ex_ja": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>であっても、<ruby>金銭<rt>きんせん</rt></ruby>の<ruby>貸<rt>か</rt></ruby>し<ruby>借<rt>か</rt></ruby>りはトラブルの<ruby>原因<rt>げんいん</rt></ruby>になるので<ruby>絶対<rt>ぜったい</rt></ruby>にしない。",
+    "ex_ja": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>であっても、<ruby>金銭<rt>きんせん</rt></ruby>の<ruby>貸<rt>か</rt></ruby>し<ruby>借<rt>か</rt></ruby>りはトラブルの<ruby>原因<rt>げんいん</rt></ruby>になるので<ruby>絶対<rt>ぜったい</rt></ruby>にしない。",
     "ex_en": "Even among close friends, lending and borrowing money causes trouble, so I never do it."
   },
   {
@@ -6265,7 +6265,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "げんざい",
     "ruby": "<ruby>現在<rt>げんざい</rt></ruby>",
     "meaning": "present; up to now; nowadays; modern times; current",
-    "ex_ja": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>時刻<rt>じこく</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>ちょうどですので、これから<ruby>十分<rt>じゅっぷん</rt></ruby><ruby>間<rt>ま</rt></ruby>の<ruby>休憩<rt>きゅうけい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
+    "ex_ja": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>時刻<rt>じこく</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>ちょうどですので、これから<ruby>十分<rt>じゅっぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>休憩<rt>きゅうけい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
     "ex_en": "Since the current time is three o'clock sharp in the afternoon, we will now take a ten-minute break."
   },
   {
@@ -8169,7 +8169,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "した",
     "ruby": "<ruby>舌<rt>した</rt></ruby>",
     "meaning": "tongue",
-    "ex_ja": "<ruby>出来<rt>でき</rt></ruby><ruby>立<rt>だ</rt></ruby>ての<ruby>熱<rt>あつ</rt></ruby>いスープを<ruby>急<rt>いそ</rt></ruby>いで<ruby>飲<rt>の</rt></ruby>んだら<ruby>舌<rt>した</rt></ruby>をやけどしてしまった。",
+    "ex_ja": "<ruby>出来<rt>でき</rt></ruby><ruby>立<rt>た</rt></ruby>ての<ruby>熱<rt>あつ</rt></ruby>いスープを<ruby>急<rt>いそ</rt></ruby>いで<ruby>飲<rt>の</rt></ruby>んだら<ruby>舌<rt>した</rt></ruby>をやけどしてしまった。",
     "ex_en": "When I drank the piping hot soup in a hurry, I burned my tongue."
   },
   {
@@ -18823,7 +18823,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "page": 40,
     "word": "間",
     "reading": "ま",
-    "ruby": "<ruby>間<rt>ま</rt></ruby>",
+    "ruby": "<ruby>間<rt>あいだ</rt></ruby>",
     "meaning": "space; room; time; pause",
     "ex_ja": "<ruby>話<rt>はな</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>でちょうどよい<ruby>間<rt>ま</rt></ruby>をおくことで、<ruby>聞<rt>き</rt></ruby>き<ruby>手<rt>て</rt></ruby>に<ruby>内容<rt>ないよう</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>わりやすくなる。",
     "ex_en": "By leaving a well-timed pause in the middle of a speech, the content becomes easier for listeners to follow."
@@ -19961,7 +19961,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やっかい",
     "ruby": "<ruby>厄介<rt>やっかい</rt></ruby>",
     "meaning": "trouble; burden; care; bother",
-    "ex_ja": "この<ruby>書類<rt>しょるい</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きは<ruby>少<rt>すこ</rt></ruby>し<ruby>厄介<rt>やっかい</rt></ruby>だが、<ruby>説明<rt>せつめい</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>めれば<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。",
+    "ex_ja": "この<ruby>書類<rt>しょるい</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きは<ruby>少<rt>すこ</rt></ruby>し<ruby>厄介<rt>やっかい</rt></ruby>だが、<ruby>説明<rt>せつめい</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>めれば<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。",
     "ex_en": "The procedure for this document is a bit troublesome, but if we follow the instructions we will make it in time."
   },
   {
@@ -22841,7 +22841,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くるう",
     "ruby": "<ruby>狂<rt>くる</rt></ruby>う",
     "meaning": "to go mad; to get out of order",
-    "ex_ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたせいで<ruby>一日<rt>いちにち</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がすっかり<ruby>狂<rt>くる</rt></ruby>い、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
+    "ex_ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたせいで<ruby>一日<rt>いちにち</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がすっかり<ruby>狂<rt>くる</rt></ruby>い、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
     "ex_en": "Because the train was delayed, my schedule for the day went completely awry and I could not make the appointment on time."
   },
   {
@@ -23417,7 +23417,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すすめる",
     "ruby": "<ruby>進<rt>すす</rt></ruby>める",
     "meaning": "to advance; to promote; to hasten",
-    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
     "ex_en": "So that we will be in time for next month's presentation, we are advancing preparations little by little every day."
   },
   {

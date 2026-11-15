@@ -2991,8 +2991,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "だけは",
     "notes": "",
-    "question_ruby": "<ruby>覚え<rt>おぼえ</rt></ruby>る【　　】<ruby>覚え<rt>おぼえ</rt></ruby>たのだから、<ruby>後<rt>のち</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。",
-    "sentence_jp_ruby": "<ruby>覚え<rt>おぼえ</rt></ruby>るだけは<ruby>覚え<rt>おぼえ</rt></ruby>たのだから、<ruby>後<rt>のち</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。",
+    "question_ruby": "<ruby>覚え<rt>おぼえ</rt></ruby>る【　　】<ruby>覚え<rt>おぼえ</rt></ruby>たのだから、<ruby>後<rt>あと</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。",
+    "sentence_jp_ruby": "<ruby>覚え<rt>おぼえ</rt></ruby>るだけは<ruby>覚え<rt>おぼえ</rt></ruby>たのだから、<ruby>後<rt>あと</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>の<ruby>日<rt>にち</rt></ruby>を<ruby>待つ<rt>まつ</rt></ruby>だけだ。",
     "choices_ruby": [
       "に<ruby>限<rt>かぎ</rt></ruby>らず",
       "だけのことはある",
@@ -13461,8 +13461,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ことか",
     "notes": "",
-    "question_ruby": "<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>のち</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどい【　　】。",
-    "sentence_jp_ruby": "<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>のち</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどいことか。",
+    "question_ruby": "<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>ご</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどい【　　】。",
+    "sentence_jp_ruby": "<ruby>出産<rt>しゅっさん</rt></ruby><ruby>後<rt>ご</rt></ruby>、また<ruby>働け<rt>はたらけ</rt></ruby>る<ruby>職場<rt>しょくば</rt></ruby>がないと<ruby>言う<rt>いう</rt></ruby><ruby>事<rt>こと</rt></ruby>がどんなにひどいことか。",
     "choices_ruby": [
       "てこそ",
       "にすぎない",

@@ -223,7 +223,7 @@ window.JLPT_N2_MOCK_DATA = {
       "category": "漢字読み",
       "qNum": 1,
       "title": "双方が少しずつ歩み寄り、ようやく<u>妥協</u>点を見つけた。",
-      "titleRuby": "<ruby>双<rt>そう</rt></ruby><ruby>方<rt>かた</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>歩<rt>あゆ</rt></ruby>み<ruby>寄<rt>よ</rt></ruby>り、ようやく<u><ruby>妥協<rt>だきょう</rt></ruby></u><ruby>点<rt>てん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけた。",
+      "titleRuby": "<ruby>双方<rt>そうほう</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>歩<rt>あゆ</rt></ruby>み<ruby>寄<rt>よ</rt></ruby>り、ようやく<u><ruby>妥協<rt>だきょう</rt></ruby></u><ruby>点<rt>てん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけた。",
       "options": [
         "だきょう",
         "たきょう",
@@ -927,7 +927,7 @@ window.JLPT_N2_MOCK_DATA = {
         "スマートフォンの充電を最後まで費やしてしまった。"
       ],
       "optionsRuby": [
-        "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>ま</rt></ruby>に、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>麦茶<rt>むぎちゃ</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>費<rt>つい</rt></ruby>やした。",
+        "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>に、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>麦茶<rt>むぎちゃ</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>費<rt>つい</rt></ruby>やした。",
         "<ruby>彼<rt>かれ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>完成<rt>かんせい</rt></ruby>させるために、<ruby>十年<rt>じゅうねん</rt></ruby>の<ruby>歳月<rt>さいげつ</rt></ruby>を<ruby>費<rt>つい</rt></ruby>やした。",
         "<ruby>運動<rt>うんどう</rt></ruby>してたくさん<ruby>汗<rt>あせ</rt></ruby>を<ruby>費<rt>つい</rt></ruby>やしたので、<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだ。",
         "スマートフォンの<ruby>充電<rt>じゅうでん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>費<rt>つい</rt></ruby>やしてしまった。"
@@ -1207,7 +1207,7 @@ window.JLPT_N2_MOCK_DATA = {
       "category": "文法形式の判断",
       "qNum": 42,
       "title": "駅前の再開発計画（<span class='jlpt-underline-blank'></span>）、住民と自治体の間で何度も話し合いが続けられている。",
-      "titleRuby": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>（<span class='jlpt-underline-blank'></span>）、<ruby>住民<rt>じゅうみん</rt></ruby>と<ruby>自治体<rt>じちたい</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>何度<rt>なんど</rt></ruby>も<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>けられている。",
+      "titleRuby": "<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>（<span class='jlpt-underline-blank'></span>）、<ruby>住民<rt>じゅうみん</rt></ruby>と<ruby>自治体<rt>じちたい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>何度<rt>なんど</rt></ruby>も<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>けられている。",
       "options": [
         "を通じて",
         "を込めて",
@@ -1390,7 +1390,7 @@ window.JLPT_N2_MOCK_DATA = {
       "optionsRuby": [
         "<ruby>読書<rt>どくしょ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を",
         "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>の",
-        "<ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>ま</rt></ruby>だけは",
+        "<ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>かん</rt></ruby>だけは",
         "<ruby>毎日<rt>まいにち</rt></ruby>"
       ],
       "correctIndex": 0,
@@ -1938,7 +1938,7 @@ window.JLPT_N2_MOCK_DATA = {
         "AもBも、報酬の高さよりも労働時間を短縮することが最も効果的だと主張している"
       ],
       "optionsRuby": [
-        "AもBも<ruby>報酬<rt>ほうしゅう</rt></ruby>と<ruby>職場<rt>しょくば</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>の<ruby>両<rt>りょう</rt></ruby><ruby>方<rt>かた</rt></ruby>の<ruby>必要<rt>ひつよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めているが、Aは<ruby>成果<rt>せいか</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じた<ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>を、Bは<ruby>職場<rt>しょくば</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>承認<rt>しょうにん</rt></ruby>を<ruby>特<rt>とく</rt></ruby>に<ruby>重視<rt>じゅうし</rt></ruby>している",
+        "AもBも<ruby>報酬<rt>ほうしゅう</rt></ruby>と<ruby>職場<rt>しょくば</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>必要<rt>ひつよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めているが、Aは<ruby>成果<rt>せいか</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じた<ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>を、Bは<ruby>職場<rt>しょくば</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>承認<rt>しょうにん</rt></ruby>を<ruby>特<rt>とく</rt></ruby>に<ruby>重視<rt>じゅうし</rt></ruby>している",
         "Aは<ruby>報酬<rt>ほうしゅう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>だけで<ruby>十分<rt>じゅうぶん</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えており、Bは<ruby>報酬<rt>ほうしゅう</rt></ruby>はまったく<ruby>必要<rt>ひつよう</rt></ruby>ないと<ruby>考<rt>かんが</rt></ruby>えている",
         "Aは<ruby>職場<rt>しょくば</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>最<rt>もっと</rt></ruby>も<ruby>重視<rt>じゅうし</rt></ruby>しており、Bは<ruby>成果<rt>せいか</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じた<ruby>昇進<rt>しょうしん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>を<ruby>最<rt>もっと</rt></ruby>も<ruby>重視<rt>じゅうし</rt></ruby>している",
         "AもBも、<ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さよりも<ruby>労働<rt>ろうどう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>短縮<rt>たんしゅく</rt></ruby>することが<ruby>最<rt>もっと</rt></ruby>も<ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>だと<ruby>主張<rt>しゅちょう</rt></ruby>している"
@@ -2359,7 +2359,7 @@ window.JLPT_N2_MOCK_DATA = {
       "title": "男の人が 陶芸教室に 通い 続けている 理由は なにですか。",
       "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に <ruby>通<rt>かよ</rt></ruby>い <ruby>続<rt>つづ</rt></ruby>けている <ruby>理由<rt>りゆう</rt></ruby>は なにですか。",
       "script": "女の人：林さん、週末の陶芸教室、もう３年も通っているんですね。お皿やカップがたくさん作れて実用的だからですか。\n男の人：最初は自分で使う食器を作りたくて始めたんだけど、もう食器棚がいっぱいでね。今はそれよりも、土に触れて形を作っている間だけは、仕事の忙しさを忘れて無心になれるのが心地よくて続けているんだ。\n女の人：そうなんですね。いい気分転換になりますね。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>林<rt>はやし</rt></ruby>さん、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>、もう３<ruby>年<rt>ねん</rt></ruby>も<ruby>通<rt>とお</rt></ruby>っているんですね。お<ruby>皿<rt>さら</rt></ruby>やカップがたくさん<ruby>作<rt>つく</rt></ruby>れて<ruby>実用<rt>じつよう</rt></ruby><ruby>的<rt>てき</rt></ruby>だからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>食器<rt>しょっき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたくて<ruby>始<rt>はじ</rt></ruby>めたんだけど、もう<ruby>食器<rt>しょっき</rt></ruby><ruby>棚<rt>たな</rt></ruby>がいっぱいでね。<ruby>今<rt>いま</rt></ruby>はそれよりも、<ruby>土<rt>ど</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れて<ruby>形<rt>かたち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>間<rt>ま</rt></ruby>だけは、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさを<ruby>忘<rt>わす</rt></ruby>れて<ruby>無心<rt>むしん</rt></ruby>になれるのが<ruby>心地<rt>ここち</rt></ruby>よくて<ruby>続<rt>つづ</rt></ruby>けているんだ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですね。いい<ruby>気分<rt>きぶん</rt></ruby><ruby>転換<rt>てんかん</rt></ruby>になりますね。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>林<rt>はやし</rt></ruby>さん、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>、もう３<ruby>年<rt>ねん</rt></ruby>も<ruby>通<rt>とお</rt></ruby>っているんですね。お<ruby>皿<rt>さら</rt></ruby>やカップがたくさん<ruby>作<rt>つく</rt></ruby>れて<ruby>実用<rt>じつよう</rt></ruby><ruby>的<rt>てき</rt></ruby>だからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>食器<rt>しょっき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたくて<ruby>始<rt>はじ</rt></ruby>めたんだけど、もう<ruby>食器<rt>しょっき</rt></ruby><ruby>棚<rt>たな</rt></ruby>がいっぱいでね。<ruby>今<rt>いま</rt></ruby>はそれよりも、<ruby>土<rt>ど</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れて<ruby>形<rt>かたち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>間<rt>あいだ</rt></ruby>だけは、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさを<ruby>忘<rt>わす</rt></ruby>れて<ruby>無心<rt>むしん</rt></ruby>になれるのが<ruby>心地<rt>ここち</rt></ruby>よくて<ruby>続<rt>つづ</rt></ruby>けているんだ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですね。いい<ruby>気分<rt>きぶん</rt></ruby><ruby>転換<rt>てんかん</rt></ruby>になりますね。",
       "options": [
         "自分で 使う 食器を もっと 増やしたいから",
         "作った 作品を インターネットで 販売して いるから",
@@ -2475,7 +2475,7 @@ window.JLPT_N2_MOCK_DATA = {
       "title": "男の人は なにに ついて 話して いますか。",
       "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は なにに ついて <ruby>話<rt>はな</rt></ruby>して いますか。",
       "script": "男の人：近年、地方の古い民家を改修してオフィスとして使うIT企業が増えています。インターネット環境さえ整っていれば都会と同じように仕事ができますし、自然豊かな環境で働くことで社員のストレスが減り、新しい発想が生まれやすくなるというメリットがあります。また、地域にとっても若い世代が移り住むことで商店街が活気づくなど、双方にとって良い効果が生まれています。",
-      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>近年<rt>きんねん</rt></ruby>、<ruby>地<rt>ち</rt></ruby><ruby>方<rt>かた</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>民家<rt>みんか</rt></ruby>を<ruby>改修<rt>かいしゅう</rt></ruby>してオフィスとして<ruby>使<rt>つか</rt></ruby>うIT<ruby>企業<rt>きぎょう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。インターネット<ruby>環境<rt>かんきょう</rt></ruby>さえ<ruby>整<rt>ととの</rt></ruby>っていれば<ruby>都会<rt>とかい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>仕事<rt>しごと</rt></ruby>ができますし、<ruby>自然<rt>しぜん</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>環境<rt>かんきょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くことで<ruby>社員<rt>しゃいん</rt></ruby>のストレスが<ruby>減<rt>へ</rt></ruby>り、<ruby>新<rt>あたら</rt></ruby>しい<ruby>発想<rt>はっそう</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれやすくなるというメリットがあります。また、<ruby>地域<rt>ちいき</rt></ruby>にとっても<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>が<ruby>移<rt>うつ</rt></ruby>り<ruby>住<rt>す</rt></ruby>むことで<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>が<ruby>活気<rt>かっき</rt></ruby>づくなど、<ruby>双<rt>そう</rt></ruby><ruby>方<rt>かた</rt></ruby>にとって<ruby>良<rt>よ</rt></ruby>い<ruby>効果<rt>こうか</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれています。",
+      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>近年<rt>きんねん</rt></ruby>、<ruby>地方<rt>ちほう</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>民家<rt>みんか</rt></ruby>を<ruby>改修<rt>かいしゅう</rt></ruby>してオフィスとして<ruby>使<rt>つか</rt></ruby>うIT<ruby>企業<rt>きぎょう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。インターネット<ruby>環境<rt>かんきょう</rt></ruby>さえ<ruby>整<rt>ととの</rt></ruby>っていれば<ruby>都会<rt>とかい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>仕事<rt>しごと</rt></ruby>ができますし、<ruby>自然<rt>しぜん</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かな<ruby>環境<rt>かんきょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くことで<ruby>社員<rt>しゃいん</rt></ruby>のストレスが<ruby>減<rt>へ</rt></ruby>り、<ruby>新<rt>あたら</rt></ruby>しい<ruby>発想<rt>はっそう</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれやすくなるというメリットがあります。また、<ruby>地域<rt>ちいき</rt></ruby>にとっても<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>が<ruby>移<rt>うつ</rt></ruby>り<ruby>住<rt>す</rt></ruby>むことで<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>が<ruby>活気<rt>かっき</rt></ruby>づくなど、<ruby>双方<rt>そうほう</rt></ruby>にとって<ruby>良<rt>よ</rt></ruby>い<ruby>効果<rt>こうか</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれています。",
       "options": [
         "地方の 古民家を オフィスと して 活用する メリット",
         "都会の オフィスビルの 建設費用の 高騰",
@@ -2483,7 +2483,7 @@ window.JLPT_N2_MOCK_DATA = {
         "インターネット回線の 工事の 難しさ"
       ],
       "optionsRuby": [
-        "<ruby>地<rt>ち</rt></ruby><ruby>方<rt>かた</rt></ruby>の <ruby>古<rt>こ</rt></ruby><ruby>民家<rt>みんか</rt></ruby>を オフィスと して <ruby>活用<rt>かつよう</rt></ruby>する メリット",
+        "<ruby>地方<rt>ちほう</rt></ruby>の <ruby>古<rt>こ</rt></ruby><ruby>民家<rt>みんか</rt></ruby>を オフィスと して <ruby>活用<rt>かつよう</rt></ruby>する メリット",
         "<ruby>都会<rt>とかい</rt></ruby>の オフィスビルの <ruby>建設<rt>けんせつ</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>の <ruby>高騰<rt>こうとう</rt></ruby>",
         "<ruby>古<rt>ふる</rt></ruby>い <ruby>民家<rt>みんか</rt></ruby>を <ruby>壊<rt>こわ</rt></ruby>して マンションを <ruby>建<rt>た</rt></ruby>てる <ruby>計画<rt>けいかく</rt></ruby>",
         "インターネット<ruby>回線<rt>かいせん</rt></ruby>の <ruby>工事<rt>こうじ</rt></ruby>の <ruby>難<rt>むずか</rt></ruby>しさ"
@@ -2888,7 +2888,7 @@ window.JLPT_N2_MOCK_DATA = {
       "title": "２人は どの 研修コースを 申し込みますか。",
       "titleRuby": "<ruby>２人<rt>ふたり</rt></ruby>は どの <ruby>研修<rt>けんしゅう</rt></ruby>コースを <ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みますか。",
       "script": "女の人：来月の社員スキルアップ研修、４つのコースの中から１つ選んで一緒に申し込まない？\n男の人：うん。まず、平日の夜に３日間通うコースは残業が入ると出られないから、土曜日の１日集中コースがいいな。\n女の人：私も土曜日のほうがいいわ。土曜日のコースは「ビジネス文書作成」と「プレゼン実践」の２つがあるわよ。\n男の人：僕は来月、新商品の発表を担当することになったから、話し方や資料の見せ方を学べるほうを受けたいな。\n女の人：私も発表が苦手だから、ぜひ一緒にそれを受けましょう。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>スキルアップ<ruby>研修<rt>けんしゅう</rt></ruby>、４つのコースの<ruby>中<rt>なか</rt></ruby>から１つ<ruby>選<rt>えら</rt></ruby>んで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まない？<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：うん。まず、<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>間<rt>ま</rt></ruby><ruby>通<rt>かよ</rt></ruby>うコースは<ruby>残業<rt>ざんぎょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ると<ruby>出<rt>で</rt></ruby>られないから、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>１日<rt>いちにち</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby>コースがいいな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>も<ruby>土曜日<rt>どようび</rt></ruby>のほうがいいわ。<ruby>土曜日<rt>どようび</rt></ruby>のコースは「ビジネス<ruby>文書<rt>ぶんしょ</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>」と「プレゼン<ruby>実践<rt>じっせん</rt></ruby>」の２つがあるわよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>僕<rt>ぼく</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発表<rt>はっぴょう</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>することになったから、<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby>や<ruby>資料<rt>しりょう</rt></ruby>の<ruby>見<rt>み</rt></ruby>せ<ruby>方<rt>かた</rt></ruby>を<ruby>学<rt>まな</rt></ruby>べるほうを<ruby>受<rt>う</rt></ruby>けたいな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>も<ruby>発表<rt>はっぴょう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>だから、ぜひ<ruby>一緒<rt>いっしょ</rt></ruby>にそれを<ruby>受<rt>う</rt></ruby>けましょう。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>スキルアップ<ruby>研修<rt>けんしゅう</rt></ruby>、４つのコースの<ruby>中<rt>なか</rt></ruby>から１つ<ruby>選<rt>えら</rt></ruby>んで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まない？<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：うん。まず、<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>通<rt>かよ</rt></ruby>うコースは<ruby>残業<rt>ざんぎょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ると<ruby>出<rt>で</rt></ruby>られないから、<ruby>土曜日<rt>どようび</rt></ruby>の<ruby>１日<rt>いちにち</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby>コースがいいな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>も<ruby>土曜日<rt>どようび</rt></ruby>のほうがいいわ。<ruby>土曜日<rt>どようび</rt></ruby>のコースは「ビジネス<ruby>文書<rt>ぶんしょ</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>」と「プレゼン<ruby>実践<rt>じっせん</rt></ruby>」の２つがあるわよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>僕<rt>ぼく</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発表<rt>はっぴょう</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>することになったから、<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby>や<ruby>資料<rt>しりょう</rt></ruby>の<ruby>見<rt>み</rt></ruby>せ<ruby>方<rt>かた</rt></ruby>を<ruby>学<rt>まな</rt></ruby>べるほうを<ruby>受<rt>う</rt></ruby>けたいな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>も<ruby>発表<rt>はっぴょう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>だから、ぜひ<ruby>一緒<rt>いっしょ</rt></ruby>にそれを<ruby>受<rt>う</rt></ruby>けましょう。",
       "options": [
         "平日夜間の ビジネス文書作成コース",
         "平日夜間の プレゼン実践コース",

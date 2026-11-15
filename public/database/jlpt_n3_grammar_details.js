@@ -161,7 +161,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: so much... that (resulting in negative/unusual state).",
-        "example": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。"
+        "example": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。"
       },
       {
         "form": "〜ばかりに",
@@ -516,7 +516,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ば〜のに)",
         "reason_ja": "<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>自然<rt>しぜん</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic practical example using ば〜のに",
-        "sentence": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。"
+        "sentence": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。"
       }
     ],
     "comparison": [
@@ -900,9 +900,9 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "form_en": "similar intermediate pattern",
         "badge": "類義文法",
         "badge_type": "neutral",
-        "nuance_ja": "「<ruby>間<rt>ま</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
+        "nuance_ja": "「<ruby>間<rt>あいだ</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>ま</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>近所<rt>きんじょ</rt></ruby>のプールへ<ruby>泳<rt>およ</rt></ruby>ぎに<ruby>行<rt>い</rt></ruby>った。"
+        "example": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>近所<rt>きんじょ</rt></ruby>のプールへ<ruby>泳<rt>およ</rt></ruby>ぎに<ruby>行<rt>い</rt></ruby>った。"
       },
       {
         "form": "〜<ruby>最中<rt>さいちゅう</rt></ruby>",
@@ -1137,7 +1137,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: full of, covered with (undesirable things).",
-        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこりだらけだった。"
+        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>使<rt>つか</rt></ruby>っていなかった<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は、<ruby>棚<rt>たな</rt></ruby>も<ruby>床<rt>ゆか</rt></ruby>もほこりだらけだった。"
       },
       {
         "form": "〜まみれ",
@@ -1171,9 +1171,9 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「どんなに〜ても」は<ruby>逆接<rt>ぎゃくせつ</rt></ruby>の<ruby>仮定<rt>かてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>なので、「どんなに<ruby>急<rt>いそ</rt></ruby>いでも<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった」のように<ruby>期待<rt>きたい</rt></ruby>に<ruby>反<rt>はん</rt></ruby>する<ruby>結果<rt>けっか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きます。",
+        "reason_ja": "「どんなに〜ても」は<ruby>逆接<rt>ぎゃくせつ</rt></ruby>の<ruby>仮定<rt>かてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>なので、「どんなに<ruby>急<rt>いそ</rt></ruby>いでも<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった」のように<ruby>期待<rt>きたい</rt></ruby>に<ruby>反<rt>はん</rt></ruby>する<ruby>結果<rt>けっか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きます。",
         "reason_en": "どんなに〜ても forms a concessive clause (\"no matter how much...\"), so the main clause must contrast with the effort.",
-        "sentence": "どんなに<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>っても、<ruby>始発<rt>しはつ</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>余裕<rt>よゆう</rt></ruby>で<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。"
+        "sentence": "どんなに<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>っても、<ruby>始発<rt>しはつ</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>余裕<rt>よゆう</rt></ruby>で<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。"
       },
       {
         "type": "correct",
@@ -1573,7 +1573,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「<ruby>傾向<rt>けいこう</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で、<ruby>静<rt>しず</rt></ruby>かな<ruby>田舎<rt>いなか</rt></ruby><ruby>暮<rt>く</rt></ruby>らしに<ruby>関心<rt>かんしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>傾向<rt>けいこう</rt></ruby>が<ruby>見<rt>み</rt></ruby>られる。"
+        "example": "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で、<ruby>静<rt>しず</rt></ruby>かな<ruby>田舎<rt>いなか</rt></ruby><ruby>暮<rt>く</rt></ruby>らしに<ruby>関心<rt>かんしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>傾向<rt>けいこう</rt></ruby>が<ruby>見<rt>み</rt></ruby>られる。"
       },
       {
         "form": "〜<ruby>少<rt>すこ</rt></ruby>し〜の<ruby>感<rt>かん</rt></ruby>じ",
@@ -1869,7 +1869,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: no matter how (much).",
-        "example": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。"
+        "example": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。"
       },
       {
         "form": "〜どんなに〜ても",
@@ -2418,7 +2418,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「とうとう」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>修理<rt>しゅうり</rt></ruby>しながら<ruby>使<rt>つか</rt></ruby>っていた<ruby>時計<rt>とけい</rt></ruby>が、とうとう<ruby>動<rt>うご</rt></ruby>かなくなってしまった。"
+        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>修理<rt>しゅうり</rt></ruby>しながら<ruby>使<rt>つか</rt></ruby>っていた<ruby>時計<rt>とけい</rt></ruby>が、とうとう<ruby>動<rt>うご</rt></ruby>かなくなってしまった。"
       },
       {
         "form": "〜ついに",
@@ -3943,7 +3943,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「できないわけではない」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>今<rt>いま</rt></ruby>から<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>始発<rt>しはつ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わ<strong>ないわけではない</strong>。"
+        "example": "<ruby>今<rt>いま</rt></ruby>から<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>始発<rt>しはつ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わ<strong>ないわけではない</strong>。"
       },
       {
         "form": "〜<ruby>一応<rt>いちおう</rt></ruby>〜できる",
@@ -4334,7 +4334,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「〜んだって」は<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>非常<rt>ひじょう</rt></ruby>にカジュアルな<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>うのは<ruby>不適切<rt>ふてきせつ</rt></ruby>です。",
+        "reason_ja": "「〜んだって」は<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>非常<rt>ひじょう</rt></ruby>にカジュアルな<ruby>伝聞<rt>でんぶん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>うのは<ruby>不適切<rt>ふてきせつ</rt></ruby>です。",
         "reason_en": "〜んだって is a very casual hearsay ending used among close friends or family; it should not be used when speaking to superiors.",
         "sentence": "× <ruby>社長<rt>しゃちょう</rt></ruby>、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>体制<rt>たいせい</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しく<ruby>変<rt>か</rt></ruby>わる<u>んだって</u>。"
       },
@@ -5852,7 +5852,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「っぱなし」は<ruby>名詞<rt>めいし</rt></ruby><ruby>扱<rt>あつか</rt></ruby>いの<ruby>形<rt>かたち</rt></ruby>（「<ruby>走<rt>はし</rt></ruby>りっぱなしだ」「<ruby>開<rt>あ</rt></ruby>けっぱなしにする」）で<ruby>使<rt>つか</rt></ruby>い、また<ruby>本来<rt>ほんらい</rt></ruby>すべき<ruby>後始末<rt>あとしまつ</rt></ruby>をせず<ruby>放置<rt>ほうち</rt></ruby>するマイナスの<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>います。",
         "reason_en": "っぱなし behaves like a noun (〜っぱなしだ / 〜っぱなしにする) and carries a negative nuance of leaving something unattended or continuing excessively.",
-        "sentence": "× <ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby><ruby>間<rt>ま</rt></ruby><ruby>走<rt>はし</rt></ruby>り<u>っぱなし</u>ている。"
+        "sentence": "× <ruby>彼<rt>かれ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>走<rt>はし</rt></ruby>り<u>っぱなし</u>ている。"
       },
       {
         "type": "correct",
@@ -6452,7 +6452,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
     "formula": "<ruby>動詞<rt>どうし</rt></ruby>［ば<ruby>形<rt>がた</rt></ruby>／たら<ruby>形<rt>かたち</rt></ruby>］・<ruby>名詞<rt>めいし</rt></ruby>／な<ruby>形<rt>かたち</rt></ruby>［なら］ ＋ <strong>しばらく</strong>",
     "notes_ja": "<ruby>仮定<rt>かてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>・<ruby>確定<rt>かくてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>活用<rt>かつよう</rt></ruby><ruby>形<rt>がた</rt></ruby>に<ruby>接続<rt>せつぞく</rt></ruby>します。<ruby>前件<rt>ぜんけん</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby><ruby>成立<rt>せいりつ</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>う<ruby>後件<rt>こうけん</rt></ruby>の<ruby>展開<rt>てんかい</rt></ruby>を<ruby>述<rt>の</rt></ruby>べます。",
     "notes_en": "* Connects to conditional forms (Ba, Tara, Nara). Sets up a condition leading to the main clause.",
-    "nuance_ja": "「しばらく」は、<strong>『for a while; for the time being』</strong>を<ruby>表<rt>あらわ</rt></ruby>すN3（<ruby>中級<rt>ちゅうきゅう</rt></ruby>）の<ruby>極<rt>きわ</rt></ruby>めて<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。 ある<ruby>程度<rt>ていど</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さの<ruby>時間<rt>じかん</rt></ruby>（<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>）を<ruby>表<rt>あらわ</rt></ruby>す<ruby>副詞<rt>ふくし</rt></ruby>です。 <ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>心情<rt>しんじょう</rt></ruby>、<ruby>事態<rt>じたい</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>、ニュアンスのトーン（<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>事実<rt>じじつ</rt></ruby>・<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>・<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>強調<rt>きょうちょう</rt></ruby>など）を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>して<ruby>自然<rt>しぜん</rt></ruby>な<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けることが<ruby>求<rt>もと</rt></ruby>められます。",
+    "nuance_ja": "「しばらく」は、<strong>『for a while; for the time being』</strong>を<ruby>表<rt>あらわ</rt></ruby>すN3（<ruby>中級<rt>ちゅうきゅう</rt></ruby>）の<ruby>極<rt>きわ</rt></ruby>めて<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。 ある<ruby>程度<rt>ていど</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さの<ruby>時間<rt>じかん</rt></ruby>（<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>）を<ruby>表<rt>あらわ</rt></ruby>す<ruby>副詞<rt>ふくし</rt></ruby>です。 <ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>心情<rt>しんじょう</rt></ruby>、<ruby>事態<rt>じたい</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>、ニュアンスのトーン（<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>事実<rt>じじつ</rt></ruby>・<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>・<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>強調<rt>きょうちょう</rt></ruby>など）を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>して<ruby>自然<rt>しぜん</rt></ruby>な<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けることが<ruby>求<rt>もと</rt></ruby>められます。",
     "nuance_en": "'しばらく' represents: <strong>for a while; for the time being</strong>. It is an essential JLPT N3 intermediate pattern used to express specific speaker stances, modal judgments, and emotional colorings with natural fluency.",
     "trap_ja": "<ruby>英語<rt>えいご</rt></ruby>の<ruby>語義<rt>ごぎ</rt></ruby> <strong>\"for a while; for the time being\"</strong> を<ruby>表層<rt>ひょうそう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>直訳<rt>ちょくやく</rt></ruby>してそのまま<ruby>日本語<rt>にほんご</rt></ruby>に<ruby>当<rt>あ</rt></ruby>てはめると、<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>敬意<rt>けいい</rt></ruby>や<ruby>制限<rt>せいげん</rt></ruby>（ポジティブ／ネガティブ<ruby>限定<rt>げんてい</rt></ruby>、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>への<ruby>使用<rt>しよう</rt></ruby><ruby>可否<rt>かひ</rt></ruby>など）を<ruby>無視<rt>むし</rt></ruby>した<ruby>不自然<rt>ふしぜん</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>になりがちです。<ruby>助詞<rt>じょし</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>修飾<rt>しゅうしょく</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ず<ruby>確認<rt>かくにん</rt></ruby>しましょう。",
     "trap_en": "Literal translation of \"for a while; for the time being\" without considering Japanese grammatical constraints frequently leads to awkward phrasing. Be mindful of polarity (positive vs negative constraints) and formal register.",
@@ -6460,7 +6460,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「しばらく」は<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>長<rt>なが</rt></ruby>い<ruby>年数<rt>ねんすう</rt></ruby>（「30<ruby>年間<rt>ねんかん</rt></ruby>」）を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>修飾<rt>しゅうしょく</rt></ruby>することはできず、<ruby>漠然<rt>ばくぜん</rt></ruby>とした「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>」を<ruby>表<rt>あらわ</rt></ruby>します。",
+        "reason_ja": "「しばらく」は<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>長<rt>なが</rt></ruby>い<ruby>年数<rt>ねんすう</rt></ruby>（「30<ruby>年間<rt>ねんかん</rt></ruby>」）を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>修飾<rt>しゅうしょく</rt></ruby>することはできず、<ruby>漠然<rt>ばくぜん</rt></ruby>とした「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>〜<ruby>当面<rt>とうめん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>」を<ruby>表<rt>あらわ</rt></ruby>します。",
         "reason_en": "しばらく refers to an indefinite period (\"for a while\") and cannot directly modify a specific long number of years like 30年間.",
         "sentence": "× <ruby>彼<rt>かれ</rt></ruby>とは<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>してから、<u>しばらく</u>30<ruby>年間<rt>ねんかん</rt></ruby><ruby>一度<rt>いちど</rt></ruby>も<ruby>会<rt>あ</rt></ruby>っていない。"
       },
@@ -6469,7 +6469,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with しばらく)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural intermediate usage and collocation for しばらく",
-        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>はしばらくの<ruby>間<rt>ま</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。"
+        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>補修<rt>ほしゅう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため、こちらの<ruby>歩道<rt>ほどう</rt></ruby>はしばらくの<ruby>間<rt>あいだ</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>めとなります。"
       },
       {
         "type": "correct",
@@ -6490,22 +6490,22 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "example": "<ruby>転勤<rt>てんきん</rt></ruby>で<ruby>遠<rt>とお</rt></ruby>くの<ruby>街<rt>まち</rt></ruby>へ<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことになったので、<ruby>地元<rt>じもと</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>たちとはしばらく<ruby>会<rt>あ</rt></ruby>えなくなる。"
       },
       {
-        "form": "〜<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>",
+        "form": "〜<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>",
         "form_en": "similar intermediate pattern",
         "badge": "類義文法",
         "badge_type": "neutral",
-        "nuance_ja": "「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
+        "nuance_ja": "「<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>小降<rt>こぶ</rt></ruby>りになるまで、<ruby>駅<rt>えき</rt></ruby>の<ruby>屋根<rt>やね</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<strong><ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>ま</rt></ruby></strong><ruby>雨宿<rt>あまやど</rt></ruby>りをすることにした。"
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>小降<rt>こぶ</rt></ruby>りになるまで、<ruby>駅<rt>えき</rt></ruby>の<ruby>屋根<rt>やね</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<strong><ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby></strong><ruby>雨宿<rt>あまやど</rt></ruby>りをすることにした。"
       },
       {
-        "form": "〜<ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>",
+        "form": "〜<ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>",
         "form_en": "similar intermediate pattern",
         "badge": "類義文法",
         "badge_type": "neutral",
-        "nuance_ja": "「<ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
+        "nuance_ja": "「<ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>足<rt>あし</rt></ruby>のけがが<ruby>完<rt>かん</rt></ruby><ruby>治<rt>ち</rt></ruby>するまでは、<strong><ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>ま</rt></ruby></strong><ruby>激<rt>はげ</rt></ruby>しい<ruby>運動<rt>うんどう</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるように<ruby>言<rt>い</rt></ruby>われた。"
+        "example": "<ruby>足<rt>あし</rt></ruby>のけがが<ruby>完<rt>かん</rt></ruby><ruby>治<rt>ち</rt></ruby>するまでは、<strong><ruby>当分<rt>とうぶん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby></strong><ruby>激<rt>はげ</rt></ruby>しい<ruby>運動<rt>うんどう</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるように<ruby>言<rt>い</rt></ruby>われた。"
       }
     ]
   },
@@ -6548,7 +6548,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: have no choice but to; can only.",
-        "example": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。"
+        "example": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。"
       },
       {
         "form": "〜よりほかない",
@@ -6720,7 +6720,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with そうもない)",
         "reason_ja": "<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>自然<rt>しぜん</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic practical example using そうもない",
-        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。"
+        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。"
       }
     ],
     "comparison": [
@@ -7036,7 +7036,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: in order to; for the purpose of; because of.",
-        "example": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>ま</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に15<ruby>分<rt>ふん</rt></ruby><ruby>間<rt>かん</rt></ruby>のストレッチを<ruby>欠<rt>か</rt></ruby>かさず<ruby>続<rt>つづ</rt></ruby>けている。"
       },
       {
         "form": "〜ように",
@@ -7452,7 +7452,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with たって)",
         "reason_ja": "<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>自然<rt>しぜん</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic practical example using たって",
-        "sentence": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。"
+        "sentence": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。"
       }
     ],
     "comparison": [
@@ -9110,7 +9110,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>本<rt>ほん</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンス。<ruby>文脈<rt>ぶんみゃく</rt></ruby>における<ruby>話者<rt>わしゃ</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。",
         "nuance_en": "Core pattern of this lesson: in the case of; assuming that; if A then B.",
-        "example": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとすれば、<ruby>遅<rt>おく</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。"
+        "example": "<ruby>十時<rt>じゅうじ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るとすれば、<ruby>遅<rt>おそ</rt></ruby>くとも<ruby>九時<rt>くじ</rt></ruby>には<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>なければならない。"
       },
       {
         "form": "〜としたら",
