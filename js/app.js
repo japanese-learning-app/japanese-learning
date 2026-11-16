@@ -6319,7 +6319,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261116_2103';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261116_2207';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
@@ -10382,8 +10382,10 @@
     const targetExTrans = getBilingualExampleTrans(exampleObj, currentLang);
 
     // Reverse Mode handling: 日本語 ⇄ 母国語
+    const backMeaningLabel = document.getElementById('backMeaningLabel');
     if (!isReverseMode) {
       // Normal: Front is Japanese, Back is Native & English Meaning
+      if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '意味・翻訳' : 'Meaning / Translation';
       document.getElementById('frontWord').textContent = jpWord;
       document.getElementById('frontWord').className = 'text-3xl sm:text-4xl font-extrabold text-darkNavyText tracking-tight leading-snug';
       const hasKanji = /[\u4e00-\u9faf]/.test(jpWord);
@@ -10394,6 +10396,7 @@
       document.getElementById('backMeaning').textContent = targetMeaning;
     } else {
       // Reverse: Front is Native & English Meaning, Back is Japanese
+      if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '読み方' : '読み方 (Reading)';
       const targetLang = currentLang;
       let nativeMeaning = meaningObj ? (meaningObj[targetLang] || '') : '';
       let enMeaning = meaningObj ? (meaningObj.en || '') : '';
@@ -10446,7 +10449,8 @@
         }
       }
 
-      document.getElementById('backMeaning').textContent = `${jpWord}${romajiText ? ` （${romajiText}）` : ''}`;
+      const displayKana = readingText || jpWord;
+      document.getElementById('backMeaning').textContent = `${displayKana}${romajiText ? ` （${romajiText}）` : ''}`;
     }
 
     let currentCardCategory = card.category || '一般';
