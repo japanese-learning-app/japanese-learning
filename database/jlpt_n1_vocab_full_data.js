@@ -137,7 +137,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "あいだがら",
     "ruby": "<ruby>間柄<rt>あいだがら</rt></ruby>",
     "meaning": "relation(ship)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らとは<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>からの<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>でも<ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>には<ruby>何<rt>なに</rt></ruby>でも<ruby>相談<rt>そうだん</rt></ruby>し<ruby>合<rt>あ</rt></ruby>える。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>らとは<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>からの<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>でも<ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>には<ruby>何<rt>なん</rt></ruby>でも<ruby>相談<rt>そうだん</rt></ruby>し<ruby>合<rt>あ</rt></ruby>える。",
     "ex_en": "I have been on close terms with them since childhood, and we can still consult each other about anything when in trouble."
   },
   {
@@ -7497,7 +7497,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かんさん",
     "ruby": "<ruby>換算<rt>かんさん</rt></ruby>",
     "meaning": "conversion; change; exchange",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
     "ex_en": "He thinks of everything in terms of money."
   },
   {
@@ -7705,7 +7705,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かんてん",
     "ruby": "<ruby>観点<rt>かんてん</rt></ruby>",
     "meaning": "point of view",
-    "ex_ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
+    "ex_ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
     "ex_en": "My mother thinks of everything in terms of money."
   },
   {
@@ -18521,7 +18521,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "しょうきょ",
     "ruby": "<ruby>消去<rt>しょうきょ</rt></ruby>",
     "meaning": "elimination; erasing; dying out; melting away",
-    "ex_ja": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>か</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを<ruby>消去<rt>しょうきょ</rt></ruby>します。",
+    "ex_ja": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>した</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを<ruby>消去<rt>しょうきょ</rt></ruby>します。",
     "ex_en": "Remove the lower-most background layer."
   },
   {
@@ -45417,7 +45417,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "こころざす",
     "ruby": "<ruby>志<rt>こころざ</rt></ruby>す",
     "meaning": "to plan; to intend; to aspire to; to set aims (sights on)",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はやろうと<ruby>志<rt>こころざ</rt></ruby>すものは、<ruby>何<rt>なに</rt></ruby>でもやり<ruby>遂<rt>と</rt></ruby>げる。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>はやろうと<ruby>志<rt>こころざ</rt></ruby>すものは、<ruby>何<rt>なん</rt></ruby>でもやり<ruby>遂<rt>と</rt></ruby>げる。",
     "ex_en": "He accomplishes whatever he sets out to do."
   },
   {

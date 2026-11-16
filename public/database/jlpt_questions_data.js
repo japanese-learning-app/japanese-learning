@@ -47955,7 +47955,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Remove the lower-most background layer.",
         "id": "n1-v-0456",
         "level": "N1",
-        "question_ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>か</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを（　　）します。"
+        "question_ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>した</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを（　　）します。"
       },
       {
         "category": "kanji_reading",

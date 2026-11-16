@@ -1162,7 +1162,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いがい",
     "ruby": "<ruby>以外<rt>いがい</rt></ruby>",
     "meaning": "with the exception of",
-    "ex_ja": "<ruby>日曜<rt>にちよう</rt></ruby>と<ruby>祝日<rt>しゅくじつ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby><ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>図書館<rt>としょかん</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いています。",
+    "ex_ja": "<ruby>日曜<rt>にちよう</rt></ruby>と<ruby>祝日<rt>しゅくじつ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby><ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>図書館<rt>としょかん</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いています。",
     "ex_en": "Except on Sundays and public holidays, the library is open every day from 9 a.m. to 6 p.m."
   },
   {
@@ -1738,7 +1738,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えいぎょう",
     "ruby": "<ruby>営業<rt>えいぎょう</rt></ruby>",
     "meaning": "business, trade, management",
-    "ex_ja": "その<ruby>老舗<rt>しにせ</rt></ruby>の<ruby>喫茶店<rt>きっさてん</rt></ruby>は、<ruby>年中<rt>ねんじゅう</rt></ruby><ruby>無休<rt>むきゅう</rt></ruby>で<ruby>朝<rt>あさ</rt></ruby><ruby>七<rt>なな</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>営業<rt>えいぎょう</rt></ruby>している。",
+    "ex_ja": "その<ruby>老舗<rt>しにせ</rt></ruby>の<ruby>喫茶店<rt>きっさてん</rt></ruby>は、<ruby>年中<rt>ねんじゅう</rt></ruby><ruby>無休<rt>むきゅう</rt></ruby>で<ruby>朝<rt>あさ</rt></ruby><ruby>七<rt>しち</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>夜<rt>よる</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>営業<rt>えいぎょう</rt></ruby>している。",
     "ex_en": "That long-established coffee shop is open for business from 7 a.m. to 9 p.m. every day of the year."
   },
   {
@@ -6282,7 +6282,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "なかま",
     "ruby": "<ruby>仲間<rt>なかま</rt></ruby>",
     "meaning": "company, fellow, colleague",
-    "ex_ja": "<ruby>創業<rt>そうぎょう</rt></ruby><ruby>当初<rt>とうしょ</rt></ruby>の<ruby>苦<rt>くる</rt></ruby>しい<ruby>時期<rt>じき</rt></ruby>を<ruby>共<rt>とも</rt></ruby>に<ruby>乗り越<rt>のりこ</rt></ruby>えてきた<ruby>仲間<rt>なかま</rt></ruby>だからこそ、<ruby>何<rt>なに</rt></ruby>でも<ruby>率直<rt>そっちょく</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>い<ruby>合<rt>あ</rt></ruby>える<ruby>強<rt>つよ</rt></ruby>い<ruby>絆<rt>きずな</rt></ruby>がある。",
+    "ex_ja": "<ruby>創業<rt>そうぎょう</rt></ruby><ruby>当初<rt>とうしょ</rt></ruby>の<ruby>苦<rt>くる</rt></ruby>しい<ruby>時期<rt>じき</rt></ruby>を<ruby>共<rt>とも</rt></ruby>に<ruby>乗り越<rt>のりこ</rt></ruby>えてきた<ruby>仲間<rt>なかま</rt></ruby>だからこそ、<ruby>何<rt>なん</rt></ruby>でも<ruby>率直<rt>そっちょく</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>い<ruby>合<rt>あ</rt></ruby>える<ruby>強<rt>つよ</rt></ruby>い<ruby>絆<rt>きずな</rt></ruby>がある。",
     "ex_en": "Precisely because they are comrades who overcame difficult times together since the company's founding, they share a strong bond allowing them to exchange opinions candidly."
   },
   {
@@ -15994,7 +15994,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "いっか",
     "ruby": "<ruby>一家<rt>いっか</rt></ruby>",
     "meaning": "a house, a home, a family",
-    "ex_ja": "<ruby>隣<rt>となり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>引っ越<rt>ひっこ</rt></ruby>してきた<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>一家<rt>いっか</rt></ruby>は、ご<ruby>夫婦<rt>ふうふ</rt></ruby>と<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>双子<rt>ふたご</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>四<rt>よん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>だ。",
+    "ex_ja": "<ruby>隣<rt>となり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>引っ越<rt>ひっこ</rt></ruby>してきた<ruby>鈴木<rt>すずき</rt></ruby>さん<ruby>一家<rt>いっか</rt></ruby>は、ご<ruby>夫婦<rt>ふうふ</rt></ruby>と<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>双子<rt>ふたご</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby>の<ruby>四<rt>よ</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>だ。",
     "ex_en": "The Suzuki family who moved into the house next door is a family of four: a married couple and twin elementary-school boys."
   },
   {
@@ -31690,7 +31690,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すききらい",
     "ruby": "<ruby>好き嫌<rt>すききら</rt></ruby>い",
     "meaning": "likes and dislikes, taste",
-    "ex_ja": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>健<rt>すこ</rt></ruby>やかな<ruby>成長<rt>せいちょう</rt></ruby>のためには、<ruby>食べ物<rt>たべもの</rt></ruby>の<ruby>好き嫌<rt>すききら</rt></ruby>いをなくして<ruby>何<rt>なに</rt></ruby>でもバランスよく<ruby>食<rt>た</rt></ruby>べることが<ruby>望<rt>のぞ</rt></ruby>ましい。",
+    "ex_ja": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>健<rt>すこ</rt></ruby>やかな<ruby>成長<rt>せいちょう</rt></ruby>のためには、<ruby>食べ物<rt>たべもの</rt></ruby>の<ruby>好き嫌<rt>すききら</rt></ruby>いをなくして<ruby>何<rt>なん</rt></ruby>でもバランスよく<ruby>食<rt>た</rt></ruby>べることが<ruby>望<rt>のぞ</rt></ruby>ましい。",
     "ex_en": "For children's healthy growth, it is desirable to eliminate food pickiness and eat everything in a balanced manner."
   },
   {
@@ -36282,7 +36282,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つぶれる",
     "ruby": "<ruby>潰<rt>つぶ</rt></ruby>れる",
     "meaning": "to be smashed, to go bankrupt",
-    "ex_ja": "<ruby>買い物<rt>かいもの</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>か</rt></ruby>に<ruby>柔<rt>やわ</rt></ruby>らかいイチゴのパックを<ruby>入<rt>い</rt></ruby>れてしまい、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったら<ruby>少<rt>すこ</rt></ruby>し<ruby>潰<rt>つぶ</rt></ruby>れていた。",
+    "ex_ja": "<ruby>買い物<rt>かいもの</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>した</rt></ruby>に<ruby>柔<rt>やわ</rt></ruby>らかいイチゴのパックを<ruby>入<rt>い</rt></ruby>れてしまい、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったら<ruby>少<rt>すこ</rt></ruby>し<ruby>潰<rt>つぶ</rt></ruby>れていた。",
     "ex_en": "I accidentally put the pack of soft strawberries at the very bottom of my shopping bag, and when I got home, they were slightly squashed."
   },
   {
@@ -36362,7 +36362,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "のぞく",
     "ruby": "<ruby>除<rt>のぞ</rt></ruby>く",
     "meaning": "to remove, to exclude, to except",
-    "ex_ja": "<ruby>休館<rt>きゅうかん</rt></ruby><ruby>日<rt>び</rt></ruby>である<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>を<ruby>除<rt>のぞ</rt></ruby>き、<ruby>市立<rt>しりつ</rt></ruby><ruby>植物<rt>しょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby><ruby>五<rt>ご</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>毎日<rt>まいにち</rt></ruby><ruby>開園<rt>かいえん</rt></ruby>しています。",
+    "ex_ja": "<ruby>休館<rt>きゅうかん</rt></ruby><ruby>日<rt>び</rt></ruby>である<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>を<ruby>除<rt>のぞ</rt></ruby>き、<ruby>市立<rt>しりつ</rt></ruby><ruby>植物<rt>しょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby><ruby>五<rt>ご</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>毎日<rt>まいにち</rt></ruby><ruby>開園<rt>かいえん</rt></ruby>しています。",
     "ex_en": "Except on Mondays, which are regular closing days, the municipal botanical garden is open every day from 9 a.m. to 5 p.m."
   },
   {
@@ -37834,7 +37834,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "うけつける",
     "ruby": "<ruby>受け付<rt>うけつ</rt></ruby>ける",
     "meaning": "to be accepted, to receive (an application)",
-    "ex_ja": "<ruby>市民<rt>しみん</rt></ruby>マラソンの<ruby>参加<rt>さんか</rt></ruby><ruby>申し込<rt>もうしこ</rt></ruby>みは、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>からインターネットで<ruby>受け付<rt>うけつ</rt></ruby>けます。",
+    "ex_ja": "<ruby>市民<rt>しみん</rt></ruby>マラソンの<ruby>参加<rt>さんか</rt></ruby><ruby>申し込<rt>もうしこ</rt></ruby>みは、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>からインターネットで<ruby>受け付<rt>うけつ</rt></ruby>けます。",
     "ex_en": "Registration applications for the citizens' marathon will be accepted online starting at 9 a.m. next Monday."
   },
   {
@@ -40714,7 +40714,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "きらくな",
     "ruby": "<ruby>気楽<rt>きらく</rt></ruby>な",
     "meaning": "at ease, comfortable",
-    "ex_ja": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>肩書<rt>かたが</rt></ruby>きを<ruby>忘<rt>わす</rt></ruby>れて<ruby>本音<rt>ほんね</rt></ruby>で<ruby>語り合<rt>かたりあ</rt></ruby>える<ruby>昔<rt>むかし</rt></ruby>からの<ruby>親友<rt>しんゆう</rt></ruby>とは、<ruby>何<rt>なに</rt></ruby>でも<ruby>相談<rt>そうだん</rt></ruby>できる<ruby>気楽<rt>きらく</rt></ruby>な<ruby>関係<rt>かんけい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
+    "ex_ja": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>肩書<rt>かたが</rt></ruby>きを<ruby>忘<rt>わす</rt></ruby>れて<ruby>本音<rt>ほんね</rt></ruby>で<ruby>語り合<rt>かたりあ</rt></ruby>える<ruby>昔<rt>むかし</rt></ruby>からの<ruby>親友<rt>しんゆう</rt></ruby>とは、<ruby>何<rt>なん</rt></ruby>でも<ruby>相談<rt>そうだん</rt></ruby>できる<ruby>気楽<rt>きらく</rt></ruby>な<ruby>関係<rt>かんけい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。",
     "ex_en": "With my old friend with whom I can speak candidly without corporate titles, I have maintained an easygoing relationship where we can consult each other about anything."
   },
   {
@@ -45274,7 +45274,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ディスカッション",
     "ruby": "ディスカッション",
     "meaning": "discussion",
-    "ex_ja": "<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>では、<ruby>環境<rt>かんきょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>をテーマに<ruby>四<rt>よん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>小<rt>しょう</rt></ruby>グループに<ruby>分<rt>わ</rt></ruby>かれて<ruby>活発<rt>かっぱつ</rt></ruby>なディスカッションを<ruby>行<rt>おこな</rt></ruby>った。",
+    "ex_ja": "<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>では、<ruby>環境<rt>かんきょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>をテーマに<ruby>四<rt>よ</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>小<rt>しょう</rt></ruby>グループに<ruby>分<rt>わ</rt></ruby>かれて<ruby>活発<rt>かっぱつ</rt></ruby>なディスカッションを<ruby>行<rt>おこな</rt></ruby>った。",
     "ex_en": "In English class, we divided into small groups of four and held a lively discussion on the theme of environmental protection."
   },
   {

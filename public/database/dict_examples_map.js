@@ -1861,7 +1861,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "七": {
-    "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>七<rt>なな</rt></ruby><ruby>時<rt>じ</rt></ruby>からのディナーの<ruby>予約<rt>よやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってありますので、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
+    "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>七<rt>しち</rt></ruby><ruby>時<rt>じ</rt></ruby>からのディナーの<ruby>予約<rt>よやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってありますので、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
     "en": "I have made a reservation for dinner from seven in the evening, so let's go together."
   },
   "しち / なな": {
@@ -17377,7 +17377,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何でも": {
-    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>何<rt>なに</rt></ruby>でもに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>何<rt>なん</rt></ruby>でもに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "なんでも": {
@@ -27657,11 +27657,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "電柱": {
-    "ja": "<ruby>技師<rt>ぎし</rt></ruby>が<ruby>電柱<rt>でんちゅう</rt></ruby>を<ruby>上<rt>あ</rt></ruby>った。",
+    "ja": "<ruby>技師<rt>ぎし</rt></ruby>が<ruby>電柱<rt>でんちゅう</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>った。",
     "en": "The engineer climbed the telephone pole."
   },
   "でんちゅう": {
-    "ja": "<ruby>技師<rt>ぎし</rt></ruby>が<ruby>電柱<rt>でんちゅう</rt></ruby>を<ruby>上<rt>あ</rt></ruby>った。",
+    "ja": "<ruby>技師<rt>ぎし</rt></ruby>が<ruby>電柱<rt>でんちゅう</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>った。",
     "en": "The engineer climbed the telephone pole."
   },
   "電波": {

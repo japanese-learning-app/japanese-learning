@@ -33422,7 +33422,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "こめて",
     "question": "心を（　　　）作った料理は何でもおいしいものだ。",
-    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でもおいしいものだ。",
+    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもおいしいものだ。",
     "choices": [
       "こめて",
       "とわず",

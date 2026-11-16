@@ -8457,7 +8457,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "what day of the week"
     },
     "example": {
-      "ja": "A: <ruby>今日<rt>きょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby><ruby>曜日<rt>ようび</rt></ruby>ですか？<br/>B: <ruby>水曜日<rt>すいようび</rt></ruby>ですよ。",
+      "ja": "A: <ruby>今日<rt>きょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby><ruby>曜日<rt>ようび</rt></ruby>ですか？<br/>B: <ruby>水曜日<rt>すいようび</rt></ruby>ですよ。",
       "en": "A: What day of the week is it today?<br>B: It's Wednesday.",
       "zh_TW": "A: 今天是星期幾？<br>B: 是星期三喔。",
       "zh_CN": "A: 今天是星期幾？<br>B: 是星期三喔。",
@@ -9240,7 +9240,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "one (general counter)"
     },
     "example": {
-      "ja": "テーブルの<ruby>上<rt>あ</rt></ruby>にみかんがひとつあります。<br/>どうぞ<ruby>食<rt>た</rt></ruby>べてください。",
+      "ja": "テーブルの<ruby>上<rt>うえ</rt></ruby>にみかんがひとつあります。<br/>どうぞ<ruby>食<rt>た</rt></ruby>べてください。",
       "en": "There is one mandarin orange on the table.<br>Please go ahead and eat it.",
       "zh_TW": "桌上有一顆橘子。<br>請用不用客氣。",
       "zh_CN": "桌上有一顆橘子。<br>請用不用客氣。",
@@ -9356,7 +9356,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "five"
     },
     "example": {
-      "ja": "お<ruby>皿<rt>さら</rt></ruby>の<ruby>上<rt>あ</rt></ruby>にクッキーがいつつ<ruby>残<rt>のこ</rt></ruby>っています。<br/><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>食<rt>た</rt></ruby>べてもいいですか？",
+      "ja": "お<ruby>皿<rt>さら</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にクッキーがいつつ<ruby>残<rt>のこ</rt></ruby>っています。<br/><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>食<rt>た</rt></ruby>べてもいいですか？",
       "en": "There are five cookies left on the plate.<br>May I eat them all?",
       "zh_TW": "盤子裡還剩下五片餅乾。<br>可以全部吃掉嗎？",
       "zh_CN": "盤子裡還剩下五片餅乾。<br>可以全部吃掉嗎？",
@@ -9472,7 +9472,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "nine"
     },
     "example": {
-      "ja": "<ruby>引き出<rt>ひきだ</rt></ruby>しの<ruby>中<rt>ちゅう</rt></ruby>にペンがここのつ<ruby>入<rt>はい</rt></ruby>っています。<br/><ruby>好<rt>す</rt></ruby>きな<ruby>色<rt>いろ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでください。",
+      "ja": "<ruby>引き出<rt>ひきだ</rt></ruby>しの<ruby>中<rt>なか</rt></ruby>にペンがここのつ<ruby>入<rt>はい</rt></ruby>っています。<br/><ruby>好<rt>す</rt></ruby>きな<ruby>色<rt>いろ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでください。",
       "en": "There are nine pens in the drawer.<br>Please pick your favorite color.",
       "zh_TW": "抽屜裡放了九支筆。<br>請選你喜歡的顏色。",
       "zh_CN": "抽屜裡放了九支筆。<br>請選你喜歡的顏色。",
@@ -22106,7 +22106,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to take / to get (forme en te)"
     },
     "example": {
-      "ja": "テーブルの<ruby>上<rt>あ</rt></ruby>にあるメニューを<ruby>取<rt>と</rt></ruby>ってください。<br/><ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようかな。",
+      "ja": "テーブルの<ruby>上<rt>うえ</rt></ruby>にあるメニューを<ruby>取<rt>と</rt></ruby>ってください。<br/><ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようかな。",
       "en": "Please pass me the menu on the table.<br>I wonder what to eat.",
       "zh_TW": "請幫我拿一下桌上的菜單。<br>要吃什麼好呢。",
       "zh_CN": "請幫我拿一下桌上的菜單。<br>要吃什麼好呢。",
@@ -38317,7 +38317,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "tout le monde ; mesdames et messieurs"
     },
     "example": {
-      "ja": "<ruby>皆<rt>みな</rt></ruby>さん、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>にここへ<ruby>集<rt>あつ</rt></ruby>まってください。",
+      "ja": "<ruby>皆<rt>みな</rt></ruby>さん、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>にここへ<ruby>集<rt>あつ</rt></ruby>まってください。",
       "en": "Everyone, please gather here at nine o'clock tomorrow morning.",
       "zh_TW": "各位，請明天早上九點在這裡集合。",
       "zh_CN": "各位，请明天早上九点在这里集合。",
@@ -39825,7 +39825,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "se fermer (intransitif)"
     },
     "example": {
-      "ja": "<ruby>午後<rt>ごご</rt></ruby><ruby>九<rt>きゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>にスーパーのドアが<ruby>閉<rt>し</rt></ruby>まります。",
+      "ja": "<ruby>午後<rt>ごご</rt></ruby><ruby>九<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>にスーパーのドアが<ruby>閉<rt>し</rt></ruby>まります。",
       "en": "The supermarket doors close at nine o'clock in the evening.",
       "zh_TW": "超市的門晚上九點關。",
       "zh_CN": "超市的门晚上九点关。",
@@ -40811,7 +40811,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "tiroir"
     },
     "example": {
-      "ja": "パスポートは<ruby>机<rt>つくえ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>入<rt>はい</rt></ruby>っています。",
+      "ja": "パスポートは<ruby>机<rt>つくえ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>上<rt>うえ</rt></ruby>の<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>入<rt>はい</rt></ruby>っています。",
       "en": "My passport is in the top drawer of the desk.",
       "zh_TW": "護照在桌子最上面的抽屜裡。",
       "zh_CN": "护照在桌子最上面的抽屉里。",
@@ -45741,7 +45741,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "aîné / senior (école, travail)"
     },
     "example": {
-      "ja": "わからないことがあったら、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>何<rt>なに</rt></ruby>でも<ruby>聞<rt>き</rt></ruby>いてください。",
+      "ja": "わからないことがあったら、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>何<rt>なん</rt></ruby>でも<ruby>聞<rt>き</rt></ruby>いてください。",
       "en": "If there is anything you don't understand, please ask your workplace seniors anything.",
       "zh_TW": "如果有不明白的地方，請儘管問職場的前輩。",
       "zh_CN": "如果有不明白的地方，请尽管问职场的前辈。",
@@ -54528,7 +54528,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "surtout / particulièrement"
     },
     "example": {
-      "ja": "<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でも<ruby>好<rt>す</rt></ruby>きですが、<ruby>特<rt>とく</rt></ruby>にいちごが<ruby>好<rt>す</rt></ruby>きです。",
+      "ja": "<ruby>果物<rt>くだもの</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でも<ruby>好<rt>す</rt></ruby>きですが、<ruby>特<rt>とく</rt></ruby>にいちごが<ruby>好<rt>す</rt></ruby>きです。",
       "en": "I like all kinds of fruit, but I especially like strawberries.",
       "zh_TW": "水果我什麼都喜歡，特別喜歡草莓。",
       "zh_CN": "水果我什么都喜欢，尤其喜欢草莓。",
