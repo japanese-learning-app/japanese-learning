@@ -896,6 +896,162 @@
     }
 
     // Render current flashcard
+
+  // --- Kana to Hepburn Romaji Conversion Engine ---
+  const KANA_ROMAJI_MULTI = {
+    'きゃ': 'kya', 'きゅ': 'kyu', 'きょ': 'kyo',
+    'しゃ': 'sha', 'しゅ': 'shu', 'しょ': 'sho', 'しぇ': 'she',
+    'ちゃ': 'cha', 'ちゅ': 'chu', 'ちょ': 'cho', 'ちぇ': 'che',
+    'にゃ': 'nya', 'にゅ': 'nyu', 'にょ': 'nyo',
+    'ひゃ': 'hya', 'ひゅ': 'hyu', 'ひょ': 'hyo',
+    'みゃ': 'mya', 'みゅ': 'myu', 'みょ': 'myo',
+    'りゃ': 'rya', 'りゅ': 'ryu', 'りょ': 'ryo',
+    'ぎゃ': 'gya', 'ぎゅ': 'gyu', 'ぎょ': 'gyo',
+    'じゃ': 'ja', 'じゅ': 'ju', 'じょ': 'jo', 'じぇ': 'je',
+    'ぢゃ': 'ja', 'ぢゅ': 'ju', 'ぢょ': 'jo',
+    'びゃ': 'bya', 'びゅ': 'byu', 'びょ': 'byo',
+    'ぴゃ': 'pya', 'ぴゅ': 'pyu', 'ぴょ': 'pyo',
+    'ふぁ': 'fa', 'ふぃ': 'fi', 'ふぇ': 'fe', 'ふぉ': 'fo', 'ふゅ': 'fyu',
+    'てぃ': 'ti', 'でぃ': 'di', 'とぅ': 'tu', 'どぅ': 'du',
+    'うぃ': 'wi', 'うぇ': 'we', 'うぉ': 'wo',
+    'ゔぁ': 'va', 'ゔぃ': 'vi', 'ゔ': 'vu', 'ゔぇ': 've', 'ゔぉ': 'vo',
+    'つぁ': 'tsa', 'つぃ': 'tsi', 'つぇ': 'tse', 'つぉ': 'tso'
+  };
+
+  const KANA_ROMAJI_SINGLE = {
+    'あ': 'a', 'い': 'i', 'う': 'u', 'え': 'e', 'お': 'o',
+    'か': 'ka', 'き': 'ki', 'く': 'ku', 'け': 'ke', 'こ': 'ko',
+    'さ': 'sa', 'し': 'shi', 'す': 'su', 'せ': 'se', 'そ': 'so',
+    'た': 'ta', 'ち': 'chi', 'つ': 'tsu', 'て': 'te', 'と': 'to',
+    'な': 'na', 'に': 'ni', 'ぬ': 'nu', 'ね': 'ne', 'の': 'no',
+    'は': 'ha', 'ひ': 'hi', 'ふ': 'fu', 'へ': 'he', 'ほ': 'ho',
+    'ま': 'ma', 'み': 'mi', 'む': 'mu', 'め': 'me', 'も': 'mo',
+    'や': 'ya', 'ゆ': 'yu', 'よ': 'yo',
+    'ら': 'ra', 'り': 'ri', 'る': 'ru', 'れ': 're', 'ろ': 'ro',
+    'わ': 'wa', 'を': 'o', 'ん': 'n',
+    'が': 'ga', 'ぎ': 'gi', 'ぐ': 'gu', 'げ': 'ge', 'ご': 'go',
+    'ざ': 'za', 'じ': 'ji', 'ず': 'zu', 'ぜ': 'ze', 'ぞ': 'zo',
+    'だ': 'da', 'ぢ': 'ji', 'づ': 'zu', 'で': 'de', 'ど': 'do',
+    'ば': 'ba', 'び': 'bi', 'ぶ': 'bu', 'べ': 'be', 'ぼ': 'bo',
+    'ぱ': 'pa', 'ぴ': 'pi', 'ぷ': 'pu', 'ぺ': 'pe', 'ぽ': 'po',
+    'ぁ': 'a', 'ぃ': 'i', 'ぅ': 'u', 'ぇ': 'e', 'ぉ': 'o',
+    'ゔ': 'vu'
+  };
+
+  const ROMAJI_EXACT_PHRASES = {
+    'どうぞ': 'douzo', 'はい': 'hai', 'いいえ': 'iie', 'こんにちは': 'konnichiwa', 'こんばんは': 'konbanwa',
+    'では': 'dewa', 'それでは': 'soredewa', 'おはようございます': 'ohayou gozaimasu', 'ありがとうございます': 'arigatou gozaimasu',
+    'ちがいます': 'chigaimasu', 'またあした': 'mata ashita', 'そうです': 'sou desu', 'そうですね': 'sou desu ne', 'そうですか': 'sou desu ka'
+  };
+
+  function toRomaji(rawText) {
+    if (!rawText) return '';
+    const text = String(rawText).trim();
+    if (!text) return '';
+    if (ROMAJI_EXACT_PHRASES[text]) return ROMAJI_EXACT_PHRASES[text];
+
+    for (const sep of ['・', ' / ', '/', '／']) {
+      if (text.includes(sep)) {
+        return text.split(sep).map(p => toRomaji(p)).filter(Boolean).join(' / ');
+      }
+    }
+
+    let clause = text;
+    clause = clause.replace(/([てで])ください/g, '$1 kudasai');
+    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])ですか/g, '$1 desu ka');
+    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])です/g, '$1 desu');
+    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])でした/g, '$1 deshita');
+    clause = clause.replace(/([^a-zA-Z\s])を/g, '$1 o ');
+    clause = clause.replace(/([きぎちりしびみい])すぎる/g, '$1 sugiru');
+
+    let hira = '';
+    for (let idx = 0; idx < clause.length; idx++) {
+      const code = clause.charCodeAt(idx);
+      if (code >= 0x30A1 && code <= 0x30F6) {
+        hira += String.fromCharCode(code - 0x60);
+      } else {
+        hira += clause[idx];
+      }
+    }
+
+    const result = [];
+    let i = 0;
+    const n = hira.length;
+
+    while (i < n) {
+      const ch = hira[i];
+
+      if (ch === ' ' || ch === '\t' || ch === '　') { result.push(' '); i++; continue; }
+      if (ch === '?' || ch === '？') { result.push('?'); i++; continue; }
+      if (ch === '!' || ch === '！') { result.push('!'); i++; continue; }
+      if (ch === '~' || ch === '〜' || ch === '-' || ch === '—') { result.push('~'); i++; continue; }
+      if (ch === '(' || ch === '（') { result.push('('); i++; continue; }
+      if (ch === ')' || ch === '）') { result.push(')'); i++; continue; }
+
+      if (ch === 'ー') {
+        let prevVowel = 'a';
+        for (let j = result.length - 1; j >= 0; j--) {
+          const token = result[j];
+          for (let k = token.length - 1; k >= 0; k--) {
+            if ('aiueo'.includes(token[k])) { prevVowel = token[k]; break; }
+          }
+          if (prevVowel !== 'a') break;
+        }
+        result.push(prevVowel);
+        i++;
+        continue;
+      }
+
+      if (ch === 'っ') {
+        if (i + 1 < n) {
+          const nextTwo = hira.slice(i + 1, i + 3);
+          const nextRomaji = KANA_ROMAJI_MULTI[nextTwo] || KANA_ROMAJI_SINGLE[hira[i + 1]];
+          if (nextRomaji) {
+            if (nextRomaji.startsWith('ch')) { result.push('t'); } else { result.push(nextRomaji[0]); }
+            i++;
+            continue;
+          }
+        }
+        result.push('tsu');
+        i++;
+        continue;
+      }
+
+      if (ch === 'ん') {
+        if (i + 1 < n) {
+          const nextTwo = hira.slice(i + 1, i + 3);
+          const nextRomaji = KANA_ROMAJI_MULTI[nextTwo] || KANA_ROMAJI_SINGLE[hira[i + 1]];
+          if (nextRomaji && ('aiueoy'.includes(nextRomaji[0]))) {
+            result.push("n'");
+            i++;
+            continue;
+          }
+        }
+        result.push('n');
+        i++;
+        continue;
+      }
+
+      if (i + 1 < n) {
+        const two = hira.slice(i, i + 2);
+        if (KANA_ROMAJI_MULTI[two]) { result.push(KANA_ROMAJI_MULTI[two]); i += 2; continue; }
+      }
+
+      if (KANA_ROMAJI_SINGLE[ch]) { result.push(KANA_ROMAJI_SINGLE[ch]); i++; continue; }
+
+      result.push(ch);
+      i++;
+    }
+
+    return result.join('').replace(/\s+/g, ' ').trim();
+  }
+
+  function getCardRomaji(card, jpWord, readingText) {
+    if (card && card.romaji) return card.romaji;
+    const baseText = readingText || (card && card.reading) || jpWord || '';
+    return toRomaji(baseText);
+  }
+
     function renderCard() {
       if (cardEl.classList.contains('rotate-y-180')) {
         cardEl.classList.remove('rotate-y-180');
@@ -929,14 +1085,15 @@
 
         // BACK: Japanese Answer
         backCatBadge.textContent = item.cat_short || item.cat_name;
-        backWordHeader.textContent = '';
-        backReadingHeader.textContent = '';
-        if (backMeaningLabel) backMeaningLabel.textContent = '日本語の正解 (Japanese Answer)';
+        backWordHeader.textContent = item.word;
         const cleanReadingEn = (item.reading || '').replace(/（する）|\(する\)/g, '').trim();
+        const romajiText = getCardRomaji(item, item.word, cleanReadingEn);
+        backReadingHeader.textContent = romajiText ? `（${romajiText}）` : '';
+        if (backMeaningLabel) backMeaningLabel.textContent = '読み方 (Reading)';
+        const displayKana = cleanReadingEn || item.word;
         backMeaning.innerHTML = `
           <div class="py-1">
-            <div class="text-3xl sm:text-4xl font-black text-darkNavyText font-jp mb-1">${item.ruby || item.word}</div>
-            ${(cleanReadingEn && cleanReadingEn !== item.word) ? `<div class="text-sm font-bold text-deepNavy font-jp">読み：${cleanReadingEn}</div>` : ''}
+            <div class="text-2xl sm:text-3xl font-extrabold text-darkNavyText font-jp mb-1">${displayKana}${romajiText ? ` （${romajiText}）` : ''}</div>
           </div>
         `;
       } else {
@@ -953,7 +1110,8 @@
         backCatBadge.textContent = item.cat_short || item.cat_name;
         backWordHeader.textContent = item.word;
         const cleanReading = (item.reading || '').replace(/（する）|\(する\)/g, '').trim();
-        backReadingHeader.textContent = (cleanReading && cleanReading !== item.word) ? `（${cleanReading}）` : '';
+        const romajiText = getCardRomaji(item, item.word, cleanReading);
+        backReadingHeader.textContent = romajiText ? `（${romajiText}）` : '';
         if (backMeaningLabel) backMeaningLabel.textContent = '意味・解説 (Meaning)';
         backMeaning.textContent = item.meaning || '';
       }
