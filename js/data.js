@@ -1,4 +1,3 @@
-// Auto-generated Full Curriculum Dataset (#00 - #82)
 window.INITIAL_VOCAB_DATA = [
   {
     "id": "card_0001",
@@ -26,7 +25,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "是",
       "fr": "Yes, I understand."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "hai"
   },
   {
     "id": "card_0002",
@@ -54,7 +54,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不是",
       "fr": "No, that is not correct."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "iie"
   },
   {
     "id": "card_0003",
@@ -82,7 +83,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "初次見面，我係高橋。請多多指教。<br/>初次見面，我係田中。大家咁話，請多多指教。",
       "fr": "Enchanté, je suis Takahashi. Ravi de faire votre connaissance.<br/>Enchanté, je suis Tanaka. Tout le plaisir est pour moi."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "hajimemashite"
   },
   {
     "id": "card_0004",
@@ -110,7 +112,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "你好嗎？",
       "fr": "Long time no see, how are you?"
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "genki desu ka"
   },
   {
     "id": "card_0005",
@@ -138,7 +141,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我很好",
       "fr": "Yes, thanks to you, I am doing well."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "genki desu"
   },
   {
     "id": "card_0006",
@@ -166,7 +170,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "初次見面，我係田中。請多多指教。<br/>初次見面，我係鈴木。我都係，請多多指教。",
       "fr": "Enchanté, je suis Tanaka. Ravi de vous rencontrer.<br/>Enchanté, je suis Suzuki. De même, ravi de vous rencontrer."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "yoroshiku onegaishimasu"
   },
   {
     "id": "card_0007",
@@ -194,7 +199,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 明天有日語考試嗎？<br>B: 是的，沒錯。好好複習吧。",
       "fr": "A: Is there a Japanese test tomorrow?<br>B: Yes, that's right. Let's review thoroughly."
     },
-    "related": "【相槌・返答】その通りであることを肯定する表現"
+    "related": "【相槌・返答】その通りであることを肯定する表現",
+    "romaji": "sou desu"
   },
   {
     "id": "card_0008",
@@ -222,7 +228,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生，今日辛苦晒。<br/>B: 鈴木先生都辛苦晒。聽日見！",
       "fr": "A: Tanaka-san, merci pour vos efforts aujourd'hui.\nB: Vous aussi, Suzuki-san. À demain !"
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "mata ashita"
   },
   {
     "id": "card_0009",
@@ -250,7 +257,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請問點樣稱呼？<br/>B: 我叫田中健太。",
       "fr": "A: Comment vous appelez-vous ?\nB: Je m'appelle Kenta Tanaka."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "namae"
   },
   {
     "id": "card_0010",
@@ -278,7 +286,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 老師，我有個問題。<br/>B: 好呀，係咩問題？儘管問啦。",
       "fr": "A: Professeur, j'ai une question.\nB: Oui, qu'est-ce que c'est ? N'hésitez pas à demander."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "shitsumon"
   },
   {
     "id": "card_0011",
@@ -306,7 +315,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你知唔知呢條題目的答案？<br/>B: 知，答案係第3個。",
       "fr": "A: Connaissez-vous la réponse à cette question ?\nB: Oui, la réponse est le numéro 3."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "kotae"
   },
   {
     "id": "card_0012",
@@ -334,7 +344,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生係學生嗎？<br/>B: 唔係，我係返工嘅。鈴木先生先係學生。",
       "fr": "A: Tanaka-san, êtes-vous étudiant ?\nB: Non, je suis employé de bureau. C'est Suzuki-san qui est étudiant."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "gakusei"
   },
   {
     "id": "card_0013",
@@ -362,7 +373,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 高橋老師，早晨！<br/>B: 田中同學，早晨。",
       "fr": "A: Bonjour, Takahashi-sensei !\nB: Bonjour, Tanaka-san."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "sensei"
   },
   {
     "id": "card_0014",
@@ -390,7 +402,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今日嘅日文功課係第幾頁？<br/>B: 係書本嘅第15頁同16頁呀。",
       "fr": "A: Quelles sont les pages de devoirs de japonais pour aujourd'hui ?\nB: Ce sont les pages 15 et 16 du manuel."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "shukudai"
   },
   {
     "id": "card_0015",
@@ -418,7 +431,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我每日背10個新單字。<br/>B: 好犀利呀！我都要加油。",
       "fr": "A: J'apprends 10 nouveaux mots de vocabulaire chaque jour.\nB: C'est formidable ! Je vais faire de mon mieux aussi."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "tango"
   },
   {
     "id": "card_0016",
@@ -446,7 +460,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你明唔明呢句句子的意思？<br/>B: 明，呢句好易明。",
       "fr": "A: Comprenez-vous le sens de cette phrase ?\nB: Oui, c'est une phrase très facile à comprendre."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "bunshou / bun"
   },
   {
     "id": "card_0017",
@@ -474,7 +489,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生嘅發音好標準好聽呀。<br/>B: 多謝，我每日都有練習。",
       "fr": "A: Votre prononciation est très belle, Tanaka-san.\nB: Merci. Je m'entraîne tous les jours."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "hatsuon"
   },
   {
     "id": "card_0018",
@@ -502,7 +518,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 一齊練下會話好唔好呀？<br/>B: 好呀，一齊練啦！",
       "fr": "A: Voulez-vous qu'on s'entraîne à la conversation ensemble ?\nB: Bonne idée, entraînons-nous !"
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "renshuu"
   },
   {
     "id": "card_0019",
@@ -530,7 +547,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我想學識用日文講日常對話。<br/>B: 只要每日講，好快就會進步㗎喇。",
       "fr": "A: Je veux être capable de tenir une conversation quotidienne en japonais.\nB: Si vous parlez tous les jours, vous progresserez rapidement."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "kaiwa"
   },
   {
     "id": "card_0020",
@@ -558,7 +576,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你鍾意食咩日本嘢？<br/>B: 例如壽司同天婦羅，我都好鍾意。",
       "fr": "A: Quel plat japonais aimez-vous ?\nB: Par exemple, j'adore les sushis et les tempuras."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "tatoeba"
   },
   {
     "id": "card_0021",
@@ -586,7 +605,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 日文堂幾點開始？<br/>B: 早上9點開始，千祈唔好遲到呀。",
       "fr": "A: À quelle heure commence le cours de japonais ?\nB: Il commence à 9h00. Ne soyons pas en retard."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "jugyou"
   },
   {
     "id": "card_0022",
@@ -614,7 +634,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下課後複習學過的單字。<br>會記得更快喔。",
       "fr": "After class, I review the learned words.<br>It helps me memorize faster."
     },
-    "related": "【学習】習ったことをもう一度勉強すること"
+    "related": "【学習】習ったことをもう一度勉強すること",
+    "romaji": "fukushuu o suru"
   },
   {
     "id": "card_0023",
@@ -642,7 +663,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 學日文開唔開心呀？<br/>B: 係呀，好得意，我好鍾意！",
       "fr": "A: Est-ce amusant d'apprendre le japonais ?<br/>B: Oui, c'est très intéressant et j'adore ça !"
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "nihongo"
   },
   {
     "id": "card_0024",
@@ -670,7 +692,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 鈴木先生識唔識講英文？<br/>B: 識，識講少少。",
       "fr": "A: Suzuki-san, parlez-vous anglais ?\nB: Oui, un peu."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "eigo"
   },
   {
     "id": "card_0025",
@@ -698,7 +721,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 老師，這樣發音正確嗎？<br>B: 是的，非常標準正確喔！",
       "fr": "A: Teacher, is this pronunciation correct?<br>B: Yes, it is very well correct!"
     },
-    "related": "【確認】正解・一致していることを伝える表現"
+    "related": "【確認】正解・一致していることを伝える表現",
+    "romaji": "attemasu"
   },
   {
     "id": "card_0026",
@@ -726,7 +750,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 這是佐藤先生的雨傘嗎？<br>B: 不是，不是我的。我的是藍色雨傘。",
       "fr": "A: Is this Sato-san's umbrella?<br>B: No, it's different. Mine is a blue umbrella."
     },
-    "related": "【否定】合っていない・異なることを伝える表現"
+    "related": "【否定】合っていない・異なることを伝える表現",
+    "romaji": "chigaimasu"
   },
   {
     "id": "card_0027",
@@ -754,7 +779,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 答案係咪「狗」呀？<br/>B: 差少少！正確答案係「貓」。",
       "fr": "A: La réponse est 'chien' ?\nB: Presque ! La bonne réponse était 'chat'."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "oshii"
   },
   {
     "id": "card_0028",
@@ -782,7 +808,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔該話我知呢個詞嘅意思。<br/>B: 好呀，即係「唔該／多謝」嘅意思。",
       "fr": "A: S'il vous plaît, dites-moi le sens de ce mot.\nB: Bien sûr, cela signifie 'merci'."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "imi"
   },
   {
     "id": "card_0029",
@@ -810,7 +837,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我測驗攞咗100分！<br/>B: 好犀利！完美無瑕，恭喜晒！",
       "fr": "A: J'ai eu 100 au test !\nB: Incroyable ! C'est parfait, félicitations."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "kanpeki"
   },
   {
     "id": "card_0030",
@@ -838,7 +866,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "漢字的筆畫順序稍微有點難。<br>多寫幾次來練習。",
       "fr": "Kanji stroke order is a little difficult.<br>I practice by writing many times."
     },
-    "related": "【感想】困難であることを伝える表現"
+    "related": "【感想】困難であることを伝える表現",
+    "romaji": "muzukashii desu"
   },
   {
     "id": "card_0031",
@@ -866,7 +895,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請讀下一頁。<br/>B: 好，收到。",
       "fr": "A: Veuillez lire la page suivante.\nB: Oui, compris."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "tsugi"
   },
   {
     "id": "card_0032",
@@ -894,7 +924,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 講到呢度你明唔明？<br/>B: 明，好清楚。",
       "fr": "A: Avez-vous compris l'explication jusqu'ici ?\nB: Oui, j'ai très bien compris."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "wakarimasu ka?"
   },
   {
     "id": "card_0033",
@@ -922,7 +953,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 明白這個句子的意思嗎？<br>B: 是的，我查了字典所以很明白！",
       "fr": "A: Do you understand the meaning of this sentence?<br>B: Yes, I looked it up in the dictionary so I understand well!"
     },
-    "related": "【理解】理解できたことを伝える表現"
+    "related": "【理解】理解できたことを伝える表現",
+    "romaji": "wakarimasu"
   },
   {
     "id": "card_0034",
@@ -950,7 +982,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你知唔知呢個漢字點讀？<br/>B: 唔好意思，我唔知呀，請教下我。",
       "fr": "A: Savez-vous comment se lit ce kanji ?\nB: Désolé, je ne sais pas. Pouvez-vous me l'apprendre ?"
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "wakarimasen"
   },
   {
     "id": "card_0035",
@@ -978,7 +1011,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 聽日下午可唔可以一齊做功課？<br/>B: 可以呀！圖書館見啦。",
       "fr": "A: Pouvez-vous faire les devoirs ensemble demain après-midi ?\nB: Oui, je peux ! Retrouvons-nous à la bibliothèque."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "dekimasu ka?"
   },
   {
     "id": "card_0036",
@@ -1006,7 +1040,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 可以一個人去車站嗎？<br>B: 可以，我有地圖所以一個人沒問題！",
       "fr": "A: Can you go to the station alone?<br>B: Yes, I have a map so I can do it alone!"
     },
-    "related": "【可能】実行可能であることを伝える表現"
+    "related": "【可能】実行可能であることを伝える表現",
+    "romaji": "dekimasu"
   },
   {
     "id": "card_0037",
@@ -1034,7 +1069,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 可唔可以幫我設定部電腦呀？<br/>B: 唔好意思，我都唔係好熟，所以搞唔掂。",
       "fr": "A: Pourriez-vous m'aider à configurer mon ordinateur ?<br/>B: Désolé, je ne m'y connais pas beaucoup non plus, je ne peux pas bien le faire."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "dekimasen"
   },
   {
     "id": "card_0038",
@@ -1062,7 +1098,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有無帶功課嚟？<br/>B: 唔好意思，我漏咗喺屋企。",
       "fr": "A: As-tu apporté tes devoirs ?\nB: Désolé, je les ai oubliés à la maison."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "wasuremashita"
   },
   {
     "id": "card_0039",
@@ -1090,7 +1127,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你面色好似好差，無事嘛？<br/>B: 無事，休息一陣就得㗎喇。",
       "fr": "A: Vous êtes pâle, est-ce que ça va ?\nB: Tout va bien, je me sentirai mieux après m'être un peu reposé."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "daijoubudesuka"
   },
   {
     "id": "card_0040",
@@ -1118,7 +1156,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 行李看起來很重呢。要幫忙嗎？<br>B: 謝謝您，我一個人沒問題！",
       "fr": "A: Your luggage looks heavy. Shall I help?<br>B: Thank you, but I'm fine on my own!"
     },
-    "related": "【気遣いへの返答】問題ないことを伝える表現"
+    "related": "【気遣いへの返答】問題ないことを伝える表現",
+    "romaji": "daijoubudesu"
   },
   {
     "id": "card_0041",
@@ -1146,7 +1185,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請用日文回答。<br/>B: 好呀，明白！我會努力㗎。",
       "fr": "A: Veuillez répondre en japonais.<br/>B: Oui, compris ! Je vais faire de mon mieux."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "nihongo de kotaete kudasai"
   },
   {
     "id": "card_0042",
@@ -1174,7 +1214,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢個用日文點講呀？<br/>B: 嗰個叫「kasa（遮）」呀。",
       "fr": "A: Comment dit-on ceci en japonais ?<br/>B: Cela s'appelle « kasa »."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "nihongodenantoiimasuka?"
   },
   {
     "id": "card_0043",
@@ -1202,7 +1243,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我確認下，請等一等等。<br/>B: 好呀，請便，慢慢嚟都得。",
       "fr": "A: Excusez-moi, attendez un instant s'il vous plaît pendant que je vérifie.<br/>B: Oui, prenez votre temps."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "chotto matte kudasai"
   },
   {
     "id": "card_0044",
@@ -1230,7 +1272,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 邊件衫襯我多啲？<br/>B: 呢件點睇？好襯你呀。",
       "fr": "A: Quel vêtement me va bien ?\nB: Que pensez-vous de celui-ci ? Il vous va très bien."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "kore wa dou desu ka?"
   },
   {
     "id": "card_0045",
@@ -1258,7 +1301,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我聽唔清楚，可唔可以請你講多次呀？<br/>B: 好呀，我再講多次啦。",
       "fr": "A: Excusez-moi, je n'ai pas bien entendu, pourriez-vous répéter une fois s'il vous plaît ?<br/>B: Oui, je vais le répéter."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "mou ichido itte kudasai"
   },
   {
     "id": "card_0046",
@@ -1286,7 +1330,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我先啱啱開始學日文，請講得慢少少。<br/>B: 明白，我會講慢啲㗎啦。",
       "fr": "A: Excusez-moi, je viens de commencer à apprendre le japonais, pourriez-vous parler lentement s'il vous plaît ?<br/>B: Compris. Je vais parler lentement."
     },
-    "related": "授業で先生と生徒がよく使う必須表現です。"
+    "related": "授業で先生と生徒がよく使う必須表現です。",
+    "romaji": "yukkuri itte kudasai"
   },
   {
     "id": "card_0047",
@@ -1314,7 +1359,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "初次見面，我是田中。請多指教。<br>初次見面，我是鈴木。我也請您多指教。",
       "fr": "Nice to meet you, I'm Tanaka. Best regards.<br>Nice to meet you, I'm Suzuki. Nice to meet you too."
     },
-    "related": "【ローマ字】hajimemashite\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】hajimemashite\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "hajimemashite"
   },
   {
     "id": "card_0048",
@@ -1342,7 +1388,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師，早安。<br>田中同學，早安。",
       "fr": "Teacher, good morning.<br>Good morning, Tanaka-san."
     },
-    "related": "【ローマ字】Ohayō gozaimasu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】Ohayō gozaimasu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "ohayou gozaimasu"
   },
   {
     "id": "card_0049",
@@ -1370,7 +1417,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤先生，你好。<br>你好，天氣真好呢。",
       "fr": "Hello, Sato-san.<br>Hello, nice weather isn't it?"
     },
-    "related": "【ローマ字】konnichiwa\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】konnichiwa\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "konnichiwa"
   },
   {
     "id": "card_0050",
@@ -1398,7 +1446,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "高橋先生，晚上好。<br>晚上好，辛苦了。",
       "fr": "Good evening, Takahashi-san.<br>Good evening, good work today."
     },
-    "related": "【ローマ字】konbanwa\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】konbanwa\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "konbanwa"
   },
   {
     "id": "card_0051",
@@ -1426,7 +1475,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "伊藤先生，你好嗎？<br>是的，我很好！",
       "fr": "Ito-san, how are you?<br>Yes, I'm very well!"
     },
-    "related": "【ローマ字】genkidesuka?\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】genkidesuka?\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "genki desu ka?"
   },
   {
     "id": "card_0052",
@@ -1454,7 +1504,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "托您的福，我很好。<br>渡邊先生呢？",
       "fr": "Thanks to you, I'm fine.<br>How about you, Watanabe-san?"
     },
-    "related": "【ローマ字】genkidesu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】genkidesu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "genki desu"
   },
   {
     "id": "card_0053",
@@ -1482,7 +1533,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "已經晚上11點了呢。晚安。<br>晚安，明天見！",
       "fr": "It's already 11 PM. Good night.<br>Good night, see you tomorrow!"
     },
-    "related": "【ローマ字】oyasuminasai\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】oyasuminasai\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "oyasuminasai"
   },
   {
     "id": "card_0054",
@@ -1510,7 +1562,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師，再見。<br>再見，路上小心回家喔。",
       "fr": "Teacher, goodbye.<br>Goodbye, please get home safely."
     },
-    "related": "【ローマ字】sayōnara\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】sayōnara\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "sayounara"
   },
   {
     "id": "card_0055",
@@ -1538,7 +1591,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天非常感謝。下次見！<br>好的，下週見。",
       "fr": "Thank you for today. See you again!<br>Yes, see you next week."
     },
-    "related": "【ローマ字】mata aimashō\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】mata aimashō\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "mataaimashou"
   },
   {
     "id": "card_0056",
@@ -1566,7 +1620,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "看起來好好吃的飯呢。我要開動了！<br>請用，趁熱吃喔。",
       "fr": "The food looks delicious. Thank you for the meal!<br>Go ahead, please eat while it's warm."
     },
-    "related": "【ローマ字】itadakimasu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】itadakimasu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "itadakimasu"
   },
   {
     "id": "card_0057",
@@ -1594,7 +1649,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "非常好吃。謝謝款待。<br>合您口味真是太好了。",
       "fr": "It was very delicious. Thank you for the meal.<br>I'm glad you liked it."
     },
-    "related": "【ローマ字】gochisou samadeshita\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】gochisou samadeshita\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "gochisousama deshita"
   },
   {
     "id": "card_0058",
@@ -1622,7 +1678,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "謝謝你借我筆。<br>不客氣。",
       "fr": "Thank you for lending me the pen.<br>No, you're welcome."
     },
-    "related": "【ローマ字】arigatou gozaimasu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】arigatou gozaimasu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "arigatou gozaimasu"
   },
   {
     "id": "card_0059",
@@ -1650,7 +1707,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不好意思，請問車站站在哪裡？<br>在那個轉角右轉的地方。",
       "fr": "Excuse me, where is the station?<br>It's right around that corner to the right."
     },
-    "related": "【ローマ字】sumimasen\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】sumimasen\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "sumimasen"
   },
   {
     "id": "card_0060",
@@ -1678,7 +1736,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "遲到了，真的很對不起。<br>沒關係的，請別介意。",
       "fr": "I'm so sorry for being late.<br>It's okay, please don't worry about it."
     },
-    "related": "【ローマ字】gomennasai\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】gomennasai\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "gomennasai"
   },
   {
     "id": "card_0061",
@@ -1706,7 +1765,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "麻煩請幫我影印這份。<br>好的，明白了。馬上為您處理。",
       "fr": "Please make a copy of this.<br>Yes, understood. I'll do it right away."
     },
-    "related": "【ローマ字】onegaishimasu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】onegaishimasu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "onegaishimasu"
   },
   {
     "id": "card_0062",
@@ -1734,7 +1794,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請給我一杯水。<br>好的，請稍候。",
       "fr": "Please give me a glass of water.<br>Yes, please wait a moment."
     },
-    "related": "【ローマ字】kudasai\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】kudasai\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "kudasai"
   },
   {
     "id": "card_0063",
@@ -1762,7 +1823,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去上學了！<br>慢走，路上小心車子喔。",
       "fr": "I'm off to school!<br>Take care, be careful of cars."
     },
-    "related": "【ローマ字】ittekimasu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】ittekimasu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "ittekimasu"
   },
   {
     "id": "card_0064",
@@ -1790,7 +1852,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去上班了。<br>路上小心，工作加油喔。",
       "fr": "I'm off to work.<br>Take care, have a good day at work."
     },
-    "related": "【ローマ字】itterasshai\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】itterasshai\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "itterasshai"
   },
   {
     "id": "card_0065",
@@ -1818,7 +1881,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我回來了！<br>歡迎回來，今天一天也辛苦了。",
       "fr": "I'm home!<br>Welcome back, good job today."
     },
-    "related": "【ローマ字】tadaima\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】tadaima\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "tadaima"
   },
   {
     "id": "card_0066",
@@ -1846,7 +1910,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我回來了！<br>歡迎回來，飯已經煮好了喔。",
       "fr": "I'm home!<br>Welcome back, dinner is ready."
     },
-    "related": "【ローマ字】okaerinasai\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】okaerinasai\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "okaerinasai"
   },
   {
     "id": "card_0067",
@@ -1874,7 +1939,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "臉色看起來不太好，你還好嗎？<br>頭稍微有點痛，不過沒事。",
       "fr": "You look pale, are you okay?<br>I have a slight headache, but I'm fine."
     },
-    "related": "【ローマ字】daijōbudesuka?\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】daijōbudesuka?\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "daijoubudesuka?"
   },
   {
     "id": "card_0068",
@@ -1902,7 +1968,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你好似有啲發燒噉喎，身體頂唔頂得順呀？ B: 多謝你關心。我食咗藥喇，冇事嘅。",
       "fr": "A: Vous semblez avoir un peu de fièvre, ça va ? B: Merci de vous inquiéter. J'ai pris des médicaments, donc tout va bien."
     },
-    "related": "【気遣いへの返答】問題ないことを伝える表現"
+    "related": "【気遣いへの返答】問題ないことを伝える表現",
+    "romaji": "daijoubudesu"
   },
   {
     "id": "card_0069",
@@ -1930,7 +1997,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天的課就到這裡結束。<br>老師，今天也辛苦您了！",
       "fr": "That's all for today's lesson.<br>Teacher, thank you for your hard work today!"
     },
-    "related": "【ローマ字】otsukaresamadesu\n日常会話の必須基本フレーズ（simple phrase）です。"
+    "related": "【ローマ字】otsukaresamadesu\n日常会話の必須基本フレーズ（simple phrase）です。",
+    "romaji": "otsukaresama desu"
   },
   {
     "id": "card_0070",
@@ -1958,7 +2026,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買咗張新書枱之後，溫書效率高咗好多。",
       "fr": "Depuis que j'ai acheté un nouveau bureau, mes études avancent bien."
     },
-    "related": "【名詞】机（家具・勉強や仕事の机）"
+    "related": "【名詞】机（家具・勉強や仕事の机）",
+    "romaji": "tsukue"
   },
   {
     "id": "card_0071",
@@ -1986,7 +2055,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢張櫈個椅背好軟，坐好耐都唔會攰。",
       "fr": "Cette chaise a un dossier moelleux, on ne se fatigue pas même assis longtemps."
     },
-    "related": "【名詞】椅子（家具・座る道具）"
+    "related": "【名詞】椅子（家具・座る道具）",
+    "romaji": "isu"
   },
   {
     "id": "card_0072",
@@ -2014,7 +2084,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "瞓覺前睇陣書係我每晚嘅生活習慣。",
       "fr": "Lire un livre un petit moment avant de dormir est ma routine nocturne."
     },
-    "related": "【名詞】本（書籍・読書）"
+    "related": "【名詞】本（書籍・読書）",
+    "romaji": "hon"
   },
   {
     "id": "card_0073",
@@ -2042,7 +2113,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將老師寫喺黑板嘅重點抄晒入筆記簿度。",
       "fr": "J'ai résumé dans mon cahier les points importants écrits par le professeur."
     },
-    "related": "【名詞】ノート (日常の生活用品・筆記用具)"
+    "related": "【名詞】ノート (日常の生活用品・筆記用具)",
+    "romaji": "nooto"
   },
   {
     "id": "card_0074",
@@ -2070,7 +2142,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試嗰陣我唔用芯筆，改用深色鉛筆。",
       "fr": "Pendant l'examen, j'utilise un crayon à papier gras plutôt qu'un porte-mine."
     },
-    "related": "【名詞】鉛筆 (日常の生活用品・筆記用具)"
+    "related": "【名詞】鉛筆 (日常の生活用品・筆記用具)",
+    "romaji": "enpitsu"
   },
   {
     "id": "card_0075",
@@ -2098,7 +2171,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好意思，我簽份文件想借支筆用下得唔得？",
       "fr": "Excusez-moi, pourriez-vous me prêter un stylo pour signer ce document ?"
     },
-    "related": "【名詞】ペン (日常の生活用品・筆記用具)"
+    "related": "【名詞】ペン (日常の生活用品・筆記用具)",
+    "romaji": "pen"
   },
   {
     "id": "card_0076",
@@ -2126,7 +2200,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿爸每日朝早邊飲咖啡邊睇報紙。",
       "fr": "Mon père lit le journal tous les matins en buvant son café."
     },
-    "related": "【名詞】新聞（日刊紙・情報メディア）"
+    "related": "【名詞】新聞（日刊紙・情報メディア）",
+    "romaji": "shinbun"
   },
   {
     "id": "card_0077",
@@ -2154,7 +2229,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我部手機就嚟冇電喇，你有冇尿袋借嚟叉下？",
       "fr": "La batterie de mon smartphone est presque vide, as-tu une batterie externe ?"
     },
-    "related": "【名詞】スマートフォン（携帯情報端末・スマホ）"
+    "related": "【名詞】スマートフォン（携帯情報端末・スマホ）",
+    "romaji": "sumaatofon / sumaho"
   },
   {
     "id": "card_0078",
@@ -2182,7 +2258,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭緊火車嗰陣請將手機較做靜音模式。",
       "fr": "Veuillez mettre votre téléphone en mode silencieux dans le train."
     },
-    "related": "【名詞】携帯電話（ガラケー・通話機器）"
+    "related": "【名詞】携帯電話（ガラケー・通話機器）",
+    "romaji": "keitaidenwa"
   },
   {
     "id": "card_0079",
@@ -2210,7 +2287,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "寫錯咗字，我用擦紙膠擦返乾淨。",
       "fr": "Comme je m'étais trompé, j'ai tout effacé proprement avec une gomme."
     },
-    "related": "【名詞】消しゴム (日常の生活用品・筆記用具)"
+    "related": "【名詞】消しゴム (日常の生活用品・筆記用具)",
+    "romaji": "keshigomu"
   },
   {
     "id": "card_0080",
@@ -2238,7 +2316,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個袋有好多暗格，裝嘢執嘢好方便。",
       "fr": "Ce sac a beaucoup de poches, c'est très pratique pour ranger ses affaires."
     },
-    "related": "【名詞】鞄（身の回りの手荷物・バッグ）"
+    "related": "【名詞】鞄（身の回りの手荷物・バッグ）",
+    "romaji": "kaban"
   },
   {
     "id": "card_0081",
@@ -2266,7 +2345,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "望下牆上個鐘，已經係約定時間前5分鐘喇。",
       "fr": "En regardant l'horloge au mur, j'ai vu qu'il ne restait que 5 minutes avant le rendez-vous."
     },
-    "related": "【名詞】時計（腕時計・置時計など時間を知る道具）"
+    "related": "【名詞】時計（腕時計・置時計など時間を知る道具）",
+    "romaji": "tokei"
   },
   {
     "id": "card_0082",
@@ -2294,7 +2374,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 頭先田中先生打過電話嚟搵你啊。<br>B: 收到，我即刻覆返佢電話。",
       "fr": "A: Tanaka-san a téléphoné tout à l'heure.<br>B: Bien reçu, je le rappelle tout de suite."
     },
-    "related": "【名詞】電話（固定電話・通話機器）"
+    "related": "【名詞】電話（固定電話・通話機器）",
+    "romaji": "denwa"
   },
   {
     "id": "card_0083",
@@ -2322,7 +2403,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺Cafe開部電腦打緊份報告。",
       "fr": "J'ai ouvert mon ordinateur au café et je rédige un rapport."
     },
-    "related": "【名詞】パソコン（パーソナルコンピュータ・PC）"
+    "related": "【名詞】パソコン（パーソナルコンピュータ・PC）",
+    "romaji": "pasokon"
   },
   {
     "id": "card_0084",
@@ -2350,7 +2432,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食完晚飯之後，同屋企人一齊睇電視飲杯茶。",
       "fr": "Après le dîner, je bois du thé en regardant la télévision en famille."
     },
-    "related": "【名詞】テレビ（家庭用電化製品・映像機器）"
+    "related": "【名詞】テレビ（家庭用電化製品・映像機器）",
+    "romaji": "terebi"
   },
   {
     "id": "card_0085",
@@ -2378,7 +2461,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間屋好焗，開開隻窗吹下風通通氣啦。",
       "fr": "L'air est étouffant, ouvrons la fenêtre pour aérer."
     },
-    "related": "【名詞】窓（部屋や建物の採光・換気用の窓）"
+    "related": "【名詞】窓（部屋や建物の採光・換気用の窓）",
+    "romaji": "mado"
   },
   {
     "id": "card_0086",
@@ -2406,7 +2490,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口嗰陣，我會順手閂好大門兼鎖鎖匙。",
       "fr": "Quand je sors, je ferme bien la porte d'entrée et je ferme à clé."
     },
-    "related": "【名詞】ドア（部屋や玄関の出入り口・扉）"
+    "related": "【名詞】ドア（部屋や玄関の出入り口・扉）",
+    "romaji": "doa"
   },
   {
     "id": "card_0087",
@@ -2434,7 +2519,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 慘喇，我唔見咗條屋企門匙啊！<br>B: 會唔會喺個袋底？你搵清楚下先啦。",
       "fr": "A: Mince, je ne trouve plus la clé de ma maison !<br>B: N'est-elle pas au fond de ton sac ? Regarde bien."
     },
-    "related": "【名詞】鍵（錠前を開閉する道具・キー）"
+    "related": "【名詞】鍵（錠前を開閉する道具・キー）",
+    "romaji": "kagi"
   },
   {
     "id": "card_0088",
@@ -2462,7 +2548,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "見到唔識嘅生字，我會即刻查字典睇下點解。",
       "fr": "Quand je tombe sur un mot inconnu, je cherche immédiatement sa signification dans le dictionnaire."
     },
-    "related": "【名詞】辞書（言葉の意味を調べる辞典・ディクショナリー）"
+    "related": "【名詞】辞書（言葉の意味を調べる辞典・ディクショナリー）",
+    "romaji": "jisho"
   },
   {
     "id": "card_0089",
@@ -2490,7 +2577,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天文台話下晝會落雨，帶把縮骨遮出街穩陣啲。",
       "fr": "De la pluie est prévue cet après-midi, prenons un parapluie pliable."
     },
-    "related": "【名詞】傘（雨や日差しを防ぐ雨具）"
+    "related": "【名詞】傘（雨や日差しを防ぐ雨具）",
+    "romaji": "kasa"
   },
   {
     "id": "card_0090",
@@ -2518,7 +2606,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺書店門口翻咗幾頁介紹旅行嘅雜誌。",
       "fr": "Devant la librairie, j'ai feuilleté un magazine avec un dossier spécial sur les voyages."
     },
-    "related": "【名詞】雑誌（週刊誌・月刊誌などの定期刊行物）"
+    "related": "【名詞】雑誌（週刊誌・月刊誌などの定期刊行物）",
+    "romaji": "zasshi"
   },
   {
     "id": "card_0091",
@@ -2546,7 +2635,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "重要約會同事項，我習慣用筆記落記事簿度。",
       "fr": "Je note mes rendez-vous importants dans mon agenda avec un stylo."
     },
-    "related": "【名詞】手帳（スケジュール帳・メモ帳）"
+    "related": "【名詞】手帳（スケジュール帳・メモ帳）",
+    "romaji": "techou"
   },
   {
     "id": "card_0092",
@@ -2574,7 +2664,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入日本人家屋企嗰陣，規矩係要喺玄關除鞋。",
       "fr": "En entrant dans une maison japonaise, la règle est d'enlever ses chaussures dans l'entrée."
     },
-    "related": "【名詞】靴（足に履く履物・シューズ）"
+    "related": "【名詞】靴（足に履く履物・シューズ）",
+    "romaji": "kutsu"
   },
   {
     "id": "card_0093",
@@ -2602,7 +2693,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我係渡邊。我係學日文嘅學生。",
       "fr": "Je m'appelle Watanabe. Je suis étudiant en japonais."
     },
-    "related": "【代名詞・家族】私 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】私 (人称代名詞・親族の呼称)",
+    "romaji": "watashi"
   },
   {
     "id": "card_0094",
@@ -2630,7 +2722,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "你的名字是什麼？",
       "fr": "What is your name?"
     },
-    "related": "【代名詞・家族】あなた (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】あなた (人称代名詞・親族の呼称)",
+    "romaji": "anata"
   },
   {
     "id": "card_0095",
@@ -2658,7 +2751,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佢嚟自邊個國家㗎？<br/>B: 佢嚟自美國㗎。",
       "fr": "A: De quel pays vient-il ?<br/>B: Il vient des États-Unis."
     },
-    "related": "【代名詞・家族】彼 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】彼 (人称代名詞・親族の呼称)",
+    "romaji": "kare"
   },
   {
     "id": "card_0096",
@@ -2686,7 +2780,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佢喺邊度嚟㗎？<br/>B: 佢嚟自法國巴黎。",
       "fr": "A: D'où vient-elle ?<br/>B: Elle est originaire de Paris, en France."
     },
-    "related": "【代名詞・家族】彼女 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】彼女 (人称代名詞・親族の呼称)",
+    "romaji": "kanojo"
   },
   {
     "id": "card_0097",
@@ -2714,7 +2809,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佢哋到咗課室未呀？<br/>B: 係呀，佢哋大家都坐低咗喺位度啦。",
       "fr": "A: Sont-ils déjà arrivés dans la salle de classe ?<br/>B: Oui, ils sont tous assis à leur place."
     },
-    "related": "【代名詞・家族】彼ら (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】彼ら (人称代名詞・親族の呼称)",
+    "romaji": "karera"
   },
   {
     "id": "card_0098",
@@ -2742,7 +2838,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 喺嗰邊嗰班人係邊個嚟㗎？<br/>B: 佢哋（嗰班女仔）係我嘅大學朋友。",
       "fr": "A : Qui sont les personnes là-bas ?<br/>B : Elles sont mes amies d'université."
     },
-    "related": "【代名詞・家族】彼女たち (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】彼女たち (人称代名詞・親族の呼称)",
+    "romaji": "kanojotachi"
   },
   {
     "id": "card_0099",
@@ -2770,7 +2867,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 明日個派對大家去唔去呀？<br/>B: 去呀，我哋都會一齊去！",
       "fr": "A: Est-ce que tout le monde va à la fête de demain ?<br/>B: Oui, nous y allons ensemble aussi !"
     },
-    "related": "【代名詞・家族】わたしたち (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】わたしたち (人称代名詞・親族の呼称)",
+    "romaji": "watashitachi"
   },
   {
     "id": "card_0100",
@@ -2798,7 +2896,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你哋讀緊幾年級呀？<br/>B: 我哋係中四（高中一年級）學生。",
       "fr": "A: En quelle classe êtes-vous ?<br/>B: Nous sommes en première année de lycée."
     },
-    "related": "【代名詞・家族】あなたたち (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】あなたたち (人称代名詞・親族の呼称)",
+    "romaji": "anatatachi"
   },
   {
     "id": "card_0101",
@@ -2826,7 +2925,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 嫲嫲/婆婆身體好嗎？<br/>B: 係呀，我阿婆成日都好精神咁去散步㗎。",
       "fr": "A: Comment va votre grand-mère ?<br/>B: Oui, ma grand-mère se promène toujours pleine d'énergie."
     },
-    "related": "【代名詞・家族】祖母 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】祖母 (人称代名詞・親族の呼称)",
+    "romaji": "sobo"
   },
   {
     "id": "card_0102",
@@ -2854,7 +2954,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我爺爺/公公每日朝早都會幫花園啲盆栽淋水。",
       "fr": "Mon grand-père arrose les bonsaïs du jardin tous les matins."
     },
-    "related": "【代名詞・家族】祖父 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】祖父 (人称代名詞・親族の呼称)",
+    "romaji": "sofu"
   },
   {
     "id": "card_0103",
@@ -2882,7 +2983,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我爸爸喺一間汽車製造廠做工程師。",
       "fr": "Mon père travaille comme ingénieur chez un constructeur automobile."
     },
-    "related": "【代名詞・家族】父 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】父 (人称代名詞・親族の呼称)",
+    "romaji": "chichi"
   },
   {
     "id": "card_0104",
@@ -2910,7 +3012,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我媽媽煮嘢食好叻，每日都會幫我整好味嘅便當。",
       "fr": "Ma mère est très douée en cuisine et me prépare de délicieux bentos tous les jours."
     },
-    "related": "【代名詞・家族】母 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】母 (人称代名詞・親族の呼称)",
+    "romaji": "haha"
   },
   {
     "id": "card_0105",
@@ -2938,7 +3041,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哥哥喺東京嘅一間公司度做嘢。",
       "fr": "Mon grand frère travaille dans une entreprise à Tokyo."
     },
-    "related": "【代名詞・家族】兄 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】兄 (人称代名詞・親族の呼称)",
+    "romaji": "ani"
   },
   {
     "id": "card_0106",
@@ -2966,7 +3070,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同家姐一齊去百貨公司買嘢。",
       "fr": "Je suis allé faire du shopping au grand magasin avec ma grande sœur."
     },
-    "related": "【代名詞・家族】姉 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】姉 (人称代名詞・親族の呼称)",
+    "romaji": "ane"
   },
   {
     "id": "card_0107",
@@ -2994,7 +3099,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我細佬踢足球踢得好叻。",
       "fr": "Mon petit frère est très fort au football."
     },
-    "related": "【代名詞・家族】弟 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】弟 (人称代名詞・親族の呼称)",
+    "romaji": "otouto"
   },
   {
     "id": "card_0108",
@@ -3022,7 +3128,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我個妹今年升中學喇。",
       "fr": "Ma petite sœur entre au collège cette année."
     },
-    "related": "【代名詞・家族】妹 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】妹 (人称代名詞・親族の呼称)",
+    "romaji": "imouto"
   },
   {
     "id": "card_0109",
@@ -3050,7 +3157,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我個仔每日朝早都好精靈咁返學。",
       "fr": "Mon fils va joyeusement à l'école tous les matins."
     },
-    "related": "【代名詞・家族】息子 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】息子 (人称代名詞・親族の呼称)",
+    "romaji": "musuko"
   },
   {
     "id": "card_0110",
@@ -3078,7 +3186,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你個女今年幾多歲啦？<br/>B: 我個女今年7歲啦。",
       "fr": "A: Quel âge a votre fille maintenant ?<br/>B: Ma fille a eu 7 ans cette année."
     },
-    "related": "【代名詞・家族】娘 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】娘 (人称代名詞・親族の呼称)",
+    "romaji": "musume"
   },
   {
     "id": "card_0111",
@@ -3106,7 +3215,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我阿叔（舅父）喺京都做和菓子師傅。",
       "fr": "Mon oncle travaille comme artisan de pâtisseries traditionnelles à Kyoto."
     },
-    "related": "【代名詞・家族】叔父 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】叔父 (人称代名詞・親族の呼称)",
+    "romaji": "oji"
   },
   {
     "id": "card_0112",
@@ -3134,7 +3244,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我姑姐（阿姨）係鋼琴老師，個人好溫柔。",
       "fr": "Ma tante est professeur de piano et c'est une personne très gentille."
     },
-    "related": "【代名詞・家族】叔母 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】叔母 (人称代名詞・親族の呼称)",
+    "romaji": "oba"
   },
   {
     "id": "card_0113",
@@ -3162,7 +3273,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假嗰陣，我同堂表兄弟姊妹一齊去海灘游水。",
       "fr": "Pendant les vacances d'été, j'ai nagé dans la mer avec mon cousin."
     },
-    "related": "【代名詞・家族】いとこ (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】いとこ (人称代名詞・親族の呼称)",
+    "romaji": "itoko"
   },
   {
     "id": "card_0114",
@@ -3190,7 +3302,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請問你屋企有幾多個屋企人呀？<br/>B: 我屋企總共有四個人。",
       "fr": "A: Combien de personnes y a-t-il dans votre famille ?<br/>B: Il y a quatre personnes dans ma famille au total."
     },
-    "related": "【代名詞・家族】家族 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】家族 (人称代名詞・親族の呼称)",
+    "romaji": "kazoku"
   },
   {
     "id": "card_0115",
@@ -3218,7 +3331,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我會返屋企，同爸爸媽媽一齊食飯。",
       "fr": "Le week-end, je rentre chez mes parents et je mange avec eux."
     },
-    "related": "【代名詞・家族】両親 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】両親 (人称代名詞・親族の呼称)",
+    "romaji": "ryoushin"
   },
   {
     "id": "card_0116",
@@ -3246,7 +3360,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有冇兄弟姊妹呀？<br/>B: 有呀，我有一個哥哥。",
       "fr": "A: Avez-vous des frères et sœurs ?<br/>B: Oui, j'ai un grand frère."
     },
-    "related": "【代名詞・家族】兄弟 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】兄弟 (人称代名詞・親族の呼称)",
+    "romaji": "kyoudai"
   },
   {
     "id": "card_0117",
@@ -3274,7 +3389,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有冇姊妹呀？<br/>B: 有呀，我有兩個妹。",
       "fr": "A: Avez-vous des sœurs ?<br/>B: Oui, j'ai deux petites sœurs."
     },
-    "related": "【代名詞・家族】姉妹 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】姉妹 (人称代名詞・親族の呼称)",
+    "romaji": "shimai"
   },
   {
     "id": "card_0118",
@@ -3302,7 +3418,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我先生依家喺公司做緊嘢。<br/>B: 係呀，每日都辛苦晒啦。",
       "fr": "A: Mon mari travaille à son entreprise en ce moment.<br/>B: Je vois, bon courage à lui tous les jours."
     },
-    "related": "【代名詞・家族】夫 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】夫 (人称代名詞・親族の呼称)",
+    "romaji": "otto"
   },
   {
     "id": "card_0119",
@@ -3330,7 +3447,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我太太好叻煮嘢食，每晚都煮好餸畀我食。",
       "fr": "Ma femme cuisine très bien et me prépare de délicieux repas tous les soirs."
     },
-    "related": "【代名詞・家族】妻 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】妻 (人称代名詞・親族の呼称)",
+    "romaji": "tsuma"
   },
   {
     "id": "card_0120",
@@ -3358,7 +3476,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中夫婦感情好融洽，成日都一齊去散步。",
       "fr": "Le couple Tanaka s'entend très bien et se promène toujours ensemble."
     },
-    "related": "【代名詞・家族】夫婦 (人称代名詞・親族の呼称)"
+    "related": "【代名詞・家族】夫婦 (人称代名詞・親族の呼称)",
+    "romaji": "fuufu"
   },
   {
     "id": "card_0121",
@@ -3386,7 +3505,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好攰，想早啲返屋企沖個熱水涼。",
       "fr": "Je suis fatigué aujourd'hui, je veux rentrer tôt à la maison pour prendre un bain."
     },
-    "related": "【場所・施設】家 (街の施設・建物・移動先)"
+    "related": "【場所・施設】家 (街の施設・建物・移動先)",
+    "romaji": "ie"
   },
   {
     "id": "card_0122",
@@ -3414,7 +3534,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我間房好通風陽光好足，住落好舒服。",
       "fr": "Ma chambre est bien ensoleillée et très agréable à vivre."
     },
-    "related": "【場所・施設】部屋 (街の施設・建物・移動先)"
+    "related": "【場所・施設】部屋 (街の施設・建物・移動先)",
+    "romaji": "heya"
   },
   {
     "id": "card_0123",
@@ -3442,7 +3563,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早八點出門口，同朋友一齊行路返學。",
       "fr": "Chaque matin à 8h, je pars de chez moi et je marche jusqu'à l'école avec mon ami."
     },
-    "related": "【場所・施設】学校 (街の施設・建物・移動先)"
+    "related": "【場所・施設】学校 (街の施設・建物・移動先)",
+    "romaji": "gakkou"
   },
   {
     "id": "card_0124",
@@ -3470,7 +3592,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "附近間小學成日傳出班細路好有活力嘅笑聲。",
       "fr": "Depuis l'école primaire voisine, on entend les rires joyeux des enfants."
     },
-    "related": "【場所・施設】小学校 (街の施設・建物・移動先)"
+    "related": "【場所・施設】小学校 (街の施設・建物・移動先)",
+    "romaji": "shougakkou"
   },
   {
     "id": "card_0125",
@@ -3498,7 +3621,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中學嗰陣我入咗網球學會，日日都練到成身汗。",
       "fr": "Au collège, j'étais dans le club de tennis et je m'entraînais dur tous les jours."
     },
-    "related": "【場所・施設】中学校 (街の施設・建物・移動先)"
+    "related": "【場所・施設】中学校 (街の施設・建物・移動先)",
+    "romaji": "chuugakkou"
   },
   {
     "id": "card_0126",
@@ -3526,7 +3650,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同我中學高年級最老友嗰個死黨，到而家出咗身都成日出嚟聚。",
       "fr": "Même aujourd'hui à l'âge adulte, je vois encore souvent mon meilleur ami du lycée."
     },
-    "related": "【場所・施設】高校 (街の施設・建物・移動先)"
+    "related": "【場所・施設】高校 (街の施設・建物・移動先)",
+    "romaji": "koukou"
   },
   {
     "id": "card_0127",
@@ -3554,7 +3679,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我讀緊大學，主修國際關係同跨文化傳播。",
       "fr": "À l'université, je me spécialise en relations internationales et communication interculturelle."
     },
-    "related": "【場所・施設】大学 (街の施設・建物・移動先)"
+    "related": "【場所・施設】大学 (街の施設・建物・移動先)",
+    "romaji": "daigaku"
   },
   {
     "id": "card_0128",
@@ -3582,7 +3708,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗撳啲生活費，我去咗站前銀行嘅櫃員機撳錢。",
       "fr": "Pour retirer de l'argent de poche, je suis passé au distributeur de la banque devant la gare."
     },
-    "related": "【場所・施設】銀行 (街の施設・建物・移動先)"
+    "related": "【場所・施設】銀行 (街の施設・建物・移動先)",
+    "romaji": "ginkou"
   },
   {
     "id": "card_0129",
@@ -3610,7 +3737,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去郵局寄份禮物畀外國嘅好朋友。",
       "fr": "Je suis allé à la poste pour envoyer un cadeau à un ami qui vit à l'étranger."
     },
-    "related": "【場所・施設】郵便局 (街の施設・建物・移動先)"
+    "related": "【場所・施設】郵便局 (街の施設・建物・移動先)",
+    "romaji": "yuubinkyoku"
   },
   {
     "id": "card_0130",
@@ -3638,7 +3766,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "打鐘之前，我拎住本書走入課室坐好。",
       "fr": "Avant que la sonnerie ne retentisse, je suis entré dans la salle de classe avec mon manuel."
     },
-    "related": "【場所・施設】教室 (街の施設・建物・移動先)"
+    "related": "【場所・施設】教室 (街の施設・建物・移動先)",
+    "romaji": "kyoushitsu"
   },
   {
     "id": "card_0131",
@@ -3666,7 +3795,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "燒到三十八度咁高，即刻去咗附近間診所睇醫生。",
       "fr": "Comme ma fièvre est montée à 38 degrés, je me suis fait examiner à l'hôpital voisin."
     },
-    "related": "【場所・施設】病院 (街の施設・建物・移動先)"
+    "related": "【場所・施設】病院 (街の施設・建物・移動先)",
+    "romaji": "byouin"
   },
   {
     "id": "card_0132",
@@ -3694,7 +3824,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔該，請問廁所喺邊度呀？<br/>B: 喺嗰邊樓梯附近呀。",
       "fr": "A: Excusez-moi, où sont les toilettes ?<br/>B: Elles se trouvent près de ces escaliers là-bas."
     },
-    "related": "【場所・施設】トイレ (街の施設・建物・移動先)"
+    "related": "【場所・施設】トイレ (街の施設・建物・移動先)",
+    "romaji": "toire"
   },
   {
     "id": "card_0133",
@@ -3722,7 +3853,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到咗食晏時間，間飯堂迫滿晒排隊食學生餐嘅同學。",
       "fr": "Pendant la pause déjeuner, la cantine est comble d'étudiants qui mangent leur menu du jour."
     },
-    "related": "【場所・施設】食堂 (街の施設・建物・移動先)"
+    "related": "【場所・施設】食堂 (街の施設・建物・移動先)",
+    "romaji": "shokudou"
   },
   {
     "id": "card_0134",
@@ -3750,7 +3882,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 聽日約喺邊度等好啊？<br>B: 新宿站東口出閘位前面好唔好？",
       "fr": "A: Où se donne-t-on rendez-vous demain ?<br>B: Que dis-tu de devant les portillons de la sortie Est de la gare de Shinjuku ?"
     },
-    "related": "【場所・施設】駅 (街の施設・建物・移動先)"
+    "related": "【場所・施設】駅 (街の施設・建物・移動先)",
+    "romaji": "eki"
   },
   {
     "id": "card_0135",
@@ -3778,7 +3911,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺商店街間小店度，畀我搵到好好食嘅自家手製甜品。",
       "fr": "Dans une petite boutique de la rue commerçante, j'ai déniché de délicieuses pâtisseries artisanales."
     },
-    "related": "【場所・施設】店 (街の施設・建物・移動先)"
+    "related": "【場所・施設】店 (街の施設・建物・移動先)",
+    "romaji": "mise"
   },
   {
     "id": "card_0136",
@@ -3806,7 +3940,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "百貨公司地庫個美食專區，擺滿晒香噴噴嘅熟食同便當。",
       "fr": "Le rayon traiteur au sous-sol du grand magasin regorge de délicieux plats cuisinés."
     },
-    "related": "【場所・施設】売り場 (街の施設・建物・移動先)"
+    "related": "【場所・施設】売り場 (街の施設・建物・移動先)",
+    "romaji": "uriba"
   },
   {
     "id": "card_0137",
@@ -3834,7 +3969,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放工順便去超級市場買咗啲餸同鮮奶煮晚飯。",
       "fr": "En rentrant du travail, je suis passé au supermarché acheter de quoi dîner et du lait."
     },
-    "related": "【場所・施設】スーパー (街の施設・建物・移動先)"
+    "related": "【場所・施設】スーパー (街の施設・建物・移動先)",
+    "romaji": "suupaa"
   },
   {
     "id": "card_0138",
@@ -3862,7 +3998,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期日好天，去咗附近公園塊草地坐低野餐吹風。",
       "fr": "Par un dimanche ensoleillé, nous nous sommes assis sur la pelouse du parc voisin pour pique-niquer."
     },
-    "related": "【場所・施設】公園 (街の施設・建物・移動先)"
+    "related": "【場所・施設】公園 (街の施設・建物・移動先)",
+    "romaji": "kouen"
   },
   {
     "id": "card_0139",
@@ -3890,7 +4027,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗簽收件包裹，我去咗大廈管理處問下。",
       "fr": "Pour confirmer la réception d'un colis, je suis passé au bureau de gestion de l'immeuble."
     },
-    "related": "【場所・施設】事務所 (街の施設・建物・移動先)"
+    "related": "【場所・施設】事務所 (街の施設・建物・移動先)",
+    "romaji": "jimusho"
   },
   {
     "id": "card_0140",
@@ -3918,7 +4056,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗下星期報告個項目，我預約咗3樓第二會議室。",
       "fr": "Pour la présentation de projet de la semaine prochaine, j'ai réservé la salle de réunion 2 au 3e étage."
     },
-    "related": "【場所・施設】会議室 (街の施設・建物・移動先)"
+    "related": "【場所・施設】会議室 (街の施設・建物・移動先)",
+    "romaji": "kaigishitsu"
   },
   {
     "id": "card_0141",
@@ -3946,7 +4085,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入到大廈之後，記得先去接待處登記拎張訪客證。",
       "fr": "En entrant dans l'immeuble, veuillez d'abord récupérer votre badge visiteur à l'accueil."
     },
-    "related": "【場所・施設】受付 (街の施設・建物・移動先)"
+    "related": "【場所・施設】受付 (街の施設・建物・移動先)",
+    "romaji": "uketsuke"
   },
   {
     "id": "card_0142",
@@ -3974,7 +4114,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康著想，我平時盡量唔搭升降機改行樓梯。",
       "fr": "Pour ma santé, j'essaie de monter par les escaliers plutôt que de prendre l'ascenseur."
     },
-    "related": "【場所・施設】階段 (街の施設・建物・移動先)"
+    "related": "【場所・施設】階段 (街の施設・建物・移動先)",
+    "romaji": "kaidan"
   },
   {
     "id": "card_0143",
@@ -4002,7 +4143,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "車站個地下街有好多舖頭，落雨天都唔使遮就可以慢慢行街買嘢。",
       "fr": "Dans la galerie souterraine de la gare, des boutiques permettent de faire du shopping à l'abri de la pluie."
     },
-    "related": "【場所・施設】地下 (街の施設・建物・移動先)"
+    "related": "【場所・施設】地下 (街の施設・建物・移動先)",
+    "romaji": "chika"
   },
   {
     "id": "card_0144",
@@ -4030,7 +4172,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期六個商場迫到爆，架車排咗好耐隊先入到停車場。",
       "fr": "Le centre commercial était bondé samedi, nous avons fait la queue pour entrer dans le parking."
     },
-    "related": "【場所・施設】駐車場 (街の施設・建物・移動先)"
+    "related": "【場所・施設】駐車場 (街の施設・建物・移動先)",
+    "romaji": "chuushajou"
   },
   {
     "id": "card_0145",
@@ -4058,7 +4201,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好天嗰陣放晏，上咗公司天台邊睇風景邊食便當好舒服。",
       "fr": "Pendant la pause déjeuner par beau temps, j'ai mangé mon bento sur le toit de l'immeuble avec vue sur la ville."
     },
-    "related": "【場所・施設】屋上 (街の施設・建物・移動先)"
+    "related": "【場所・施設】屋上 (街の施設・建物・移動先)",
+    "romaji": "okujou"
   },
   {
     "id": "card_0146",
@@ -4086,7 +4230,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假同屋企人去主題樂園玩，坐咗摩天輪同過山車好刺激。",
       "fr": "Ce week-end, je suis allé au parc d'attractions en famille et nous sommes montés sur la grande roue et les montagnes russes."
     },
-    "related": "【場所・施設】遊園地 (街の施設・建物・移動先)"
+    "related": "【場所・施設】遊園地 (街の施設・建物・移動先)",
+    "romaji": "yuuenchi"
   },
   {
     "id": "card_0147",
@@ -4114,7 +4259,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺圖書館好靜嘅窗邊位，專心溫緊證書專業試。",
       "fr": "Assis à une table tranquille près de la fenêtre à la bibliothèque, je me suis concentré sur mes révisions d'examen."
     },
-    "related": "【場所・施設】図書館 (街の施設・建物・移動先)"
+    "related": "【場所・施設】図書館 (街の施設・建物・移動先)",
+    "romaji": "toshokan"
   },
   {
     "id": "card_0148",
@@ -4142,7 +4288,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末去咗藝術館，好仔細咁欣賞咗自己最鍾意嗰位畫家嘅特展。",
       "fr": "Le week-end, je suis allé au musée des beaux-arts pour apprécier l'exposition temporaire de mon peintre préféré."
     },
-    "related": "【場所・施設】美術館 (街の施設・建物・移動先)"
+    "related": "【場所・施設】美術館 (街の施設・建物・移動先)",
+    "romaji": "bijutsukan"
   },
   {
     "id": "card_0149",
@@ -4170,7 +4317,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去戲院用大銀幕同環迴立體聲睇動作片，真係爽到爆。",
       "fr": "Regarder un film d'action sur grand écran avec un son puissant au cinéma, c'est ce qu'il y a de mieux."
     },
-    "related": "【場所・施設】映画館 (街の施設・建物・移動先)"
+    "related": "【場所・施設】映画館 (街の施設・建物・移動先)",
+    "romaji": "eigakan"
   },
   {
     "id": "card_0150",
@@ -4198,7 +4346,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺動物園睇咗好多動物。",
       "fr": "J'ai vu beaucoup d'animaux au zoo."
     },
-    "related": "【生き物】動物 (動物・存在には「います」を使用)"
+    "related": "【生き物】動物 (動物・存在には「います」を使用)",
+    "romaji": "doubutsu"
   },
   {
     "id": "card_0151",
@@ -4226,7 +4375,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺公園度散步放緊隻好得意嘅狗仔。",
       "fr": "Je promène un chien mignon dans le parc."
     },
-    "related": "【生き物】犬 (動物・存在には「います」を使用)"
+    "related": "【生き物】犬 (動物・存在には「います」を使用)",
+    "romaji": "inu"
   },
   {
     "id": "card_0152",
@@ -4254,7 +4404,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我屋企養咗隻白貓，好乖好聽話。",
       "fr": "J'ai un chat blanc à la maison. Il est très calme."
     },
-    "related": "【生き物】猫 (動物・存在には「います」を使用)"
+    "related": "【生き物】猫 (動物・存在には「います」を使用)",
+    "romaji": "neko"
   },
   {
     "id": "card_0153",
@@ -4282,7 +4433,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺牧場睇咗牛牛，仲飲咗新鮮牛奶。",
       "fr": "J'ai vu des vaches à la ferme et bu du lait frais."
     },
-    "related": "【生き物】牛 (動物・存在には「います」を使用)"
+    "related": "【生き物】牛 (動物・存在には「います」を使用)",
+    "romaji": "ushi"
   },
   {
     "id": "card_0154",
@@ -4310,7 +4462,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "牧場度有好多又細又得意嘅小豬。",
       "fr": "Il y avait beaucoup de petits porcelets mignons à la ferme."
     },
-    "related": "【生き物】豚 (動物・存在には「います」を使用)"
+    "related": "【生き物】豚 (動物・存在には「います」を使用)",
+    "romaji": "buta"
   },
   {
     "id": "card_0155",
@@ -4338,7 +4491,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺水族館睇到好多唔同種類嘅魚。",
       "fr": "J'ai vu différentes sortes de poissons à l'aquarium."
     },
-    "related": "【生き物】魚 (動物・存在には「います」を使用)"
+    "related": "【生き物】魚 (動物・存在には「います」を使用)",
+    "romaji": "sakana"
   },
   {
     "id": "card_0156",
@@ -4366,7 +4520,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早，啲雀仔喺樹上叫得好悅耳。",
       "fr": "Le matin, les oiseaux chantent agréablement dans les arbres."
     },
-    "related": "【生き物】鳥 (動物・存在には「います」を使用)"
+    "related": "【生き物】鳥 (動物・存在には「います」を使用)",
+    "romaji": "tori"
   },
   {
     "id": "card_0157",
@@ -4394,7 +4549,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "婆婆喺後花園度養咗幾隻雞。",
       "fr": "Ma grand-mère élève des poules dans son jardin."
     },
-    "related": "【生き物】鶏 (動物・存在には「います」を使用)"
+    "related": "【生き物】鶏 (動物・存在には「います」を使用)",
+    "romaji": "niwatori"
   },
   {
     "id": "card_0158",
@@ -4422,7 +4578,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去北海道旅行嗰陣，我騎咗馬。",
       "fr": "Je suis allé en voyage à Hokkaido et j'ai fait du cheval."
     },
-    "related": "【生き物】馬 (動物・存在には「います」を使用)"
+    "related": "【生き物】馬 (動物・存在には「います」を使用)",
+    "romaji": "uma"
   },
   {
     "id": "card_0159",
@@ -4450,7 +4607,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺電視度睇到浸緊溫泉嘅猴子。",
       "fr": "J'ai vu des singes qui se baignaient dans des sources chaudes à la télévision."
     },
-    "related": "【生き物】猿 (動物・存在には「います」を使用)"
+    "related": "【生き物】猿 (動物・存在には「います」を使用)",
+    "romaji": "saru"
   },
   {
     "id": "card_0160",
@@ -4478,7 +4636,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "動物園隻大笨象喺小朋友當中好受歡迎。",
       "fr": "Le grand éléphant du zoo est très populaire auprès des enfants."
     },
-    "related": "【生き物】象 (動物・存在には「います」を使用)"
+    "related": "【生き物】象 (動物・存在には「います」を使用)",
+    "romaji": "zou"
   },
   {
     "id": "card_0161",
@@ -4506,7 +4665,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "長頸鹿條頸好長，會食高樹上面嘅樹葉。",
       "fr": "Les girafes ont un très long cou et mangent les feuilles des grands arbres."
     },
-    "related": "【生き物】きりん (動物・存在には「います」を使用)"
+    "related": "【生き物】きりん (動物・存在には「います」を使用)",
+    "romaji": "kirin"
   },
   {
     "id": "card_0162",
@@ -4534,7 +4694,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行山嗰陣，請小心腳底下嘅蛇。",
       "fr": "Lorsque vous marchez en montagne, faites attention aux serpents sous vos pieds."
     },
-    "related": "【生き物】蛇 (動物・存在には「います」を使用)"
+    "related": "【生き物】蛇 (動物・存在には「います」を使用)",
+    "romaji": "hebi"
   },
   {
     "id": "card_0163",
@@ -4562,7 +4723,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去行山嗰陣，會帶個防熊鈴鐺。",
       "fr": "En faisant de la randonnée en montagne, on porte une cloche anti-ours."
     },
-    "related": "【生き物】熊 (動物・存在には「います」を使用)"
+    "related": "【生き物】熊 (動物・存在には「います」を使用)",
+    "romaji": "kuma"
   },
   {
     "id": "card_0164",
@@ -4590,7 +4752,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺上野動物園睇咗熊貓。佢食緊竹葉，真係好得意。",
       "fr": "J'ai vu des pandas au zoo d'Ueno. C'était adorable de les voir manger du bambou."
     },
-    "related": "【生き物】パンダ (動物・存在には「います」を使用)"
+    "related": "【生き物】パンダ (動物・存在には「います」を使用)",
+    "romaji": "panda"
   },
   {
     "id": "card_0165",
@@ -4618,7 +4781,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "小朋友好入神咁睇緊電視上面嘅怪獸動畫。",
       "fr": "Les enfants sont captivés par un anime de monstres à la télévision."
     },
-    "related": "【生き物】怪獣 (動物・存在には「います」を使用)"
+    "related": "【生き物】怪獣 (動物・存在には「います」を使用)",
+    "romaji": "kaijuu"
   },
   {
     "id": "card_0166",
@@ -4646,7 +4810,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你妹妹係高中生嚟㗎？ B: 係呀，佢今年春天升咗上高中做學生啦。",
       "fr": "A: Votre petite sœur est-elle lycéenne ? B: Oui, elle est devenue lycéenne ce printemps."
     },
-    "related": "【職業・身分】学生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】学生 (仕事や社会的立場を表す語彙)",
+    "romaji": "gakusei"
   },
   {
     "id": "card_0167",
@@ -4674,7 +4839,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你將來想做邊行／咩職業呀？<br/>B: 我想做日語老師。",
       "fr": "A: Quelle profession aimeriez-vous exercer à l'avenir ?<br/>B: J'aimerais devenir professeur de japonais."
     },
-    "related": "【職業・身分】職業 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】職業 (仕事や社会的立場を表す語彙)",
+    "romaji": "shokugyou"
   },
   {
     "id": "card_0168",
@@ -4702,7 +4868,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天一早有重要的工作。<br>我會好好準備。",
       "fr": "I have important work tomorrow morning.<br>I will prepare thoroughly."
     },
-    "related": "【名詞・する動詞】働くこと・職業"
+    "related": "【名詞・する動詞】働くこと・職業",
+    "romaji": "shigoto"
   },
   {
     "id": "card_0169",
@@ -4730,7 +4897,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 個BB好得意呀！幾多個月大呀？<br/>B: 多謝，啱啱六個月大。",
       "fr": "A: Quel adorable bébé ! Il a combien de mois ?<br/>B: Merci, il a 6 mois."
     },
-    "related": "【職業・身分】赤ちゃん (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】赤ちゃん (仕事や社会的立場を表す語彙)",
+    "romaji": "akachan"
   },
   {
     "id": "card_0170",
@@ -4758,7 +4926,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "公園入面有好多小朋友好有活力咁玩緊。",
       "fr": "Beaucoup d'enfants jouent joyeusement dans le parc."
     },
-    "related": "【職業・身分】子ども (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】子ども (仕事や社会的立場を表す語彙)",
+    "romaji": "kodomo"
   },
   {
     "id": "card_0171",
@@ -4786,7 +4955,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "戲飛成人票係一千八百日圓。",
       "fr": "Le billet de cinéma coûte 1 800 yens pour les adultes."
     },
-    "related": "【職業・身分】大人 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】大人 (仕事や社会的立場を表す語彙)",
+    "romaji": "otona"
   },
   {
     "id": "card_0172",
@@ -4814,7 +4984,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "附近嘅小學生好有精神咁返學。",
       "fr": "Les écoliers du quartier vont joyeusement à l'école."
     },
-    "related": "【職業・身分】小学生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】小学生 (仕事や社会的立場を表す語彙)",
+    "romaji": "shougakusei"
   },
   {
     "id": "card_0173",
@@ -4842,7 +5013,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我細佬今年升咗中學，開始學英文。",
       "fr": "Mon petit frère est entré au collège cette année et a commencé à étudier l'anglais."
     },
-    "related": "【職業・身分】中学生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】中学生 (仕事や社会的立場を表す語彙)",
+    "romaji": "chuugakusei"
   },
   {
     "id": "card_0174",
@@ -4870,7 +5042,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你個妹係咪高中生嚟㗎？<br/>B: 係呀，佢讀緊中五。",
       "fr": "A: Votre petite sœur est-elle lycéenne ?<br/>B: Oui, elle est en deuxième année de lycée."
     },
-    "related": "【職業・身分】高校生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】高校生 (仕事や社会的立場を表す語彙)",
+    "romaji": "koukousei"
   },
   {
     "id": "card_0175",
@@ -4898,7 +5071,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請問你平時做咩工作㗎？<br/>B: 我係大學生，讀緊經濟學。",
       "fr": "A: Quelle est votre profession ?<br/>B: Je suis étudiant à l'université, j'étudie l'économie."
     },
-    "related": "【職業・身分】大学生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】大学生 (仕事や社会的立場を表す語彙)",
+    "romaji": "daigakusei"
   },
   {
     "id": "card_0176",
@@ -4926,7 +5100,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺大學校園入面，我負責帶領嚟自台灣嘅留學生。",
       "fr": "Sur le campus universitaire, j'ai été chargé de guider un étudiant étranger venu de Taïwan."
     },
-    "related": "【職業・身分】留学生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】留学生 (仕事や社会的立場を表す語彙)",
+    "romaji": "ryuugakusei"
   },
   {
     "id": "card_0177",
@@ -4954,7 +5129,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "接待處有位好親切嘅女職員為我帶路。",
       "fr": "Il y avait une hôtesse d'accueil très gentille à la réception qui m'a guidé."
     },
-    "related": "【職業・身分】女性 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】女性 (仕事や社会的立場を表す語彙)",
+    "romaji": "josei / onna"
   },
   {
     "id": "card_0178",
@@ -4982,7 +5158,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "詢問處有位好有禮貌嘅男職員。",
       "fr": "Au point d'information, il y avait un employé masculin très poli."
     },
-    "related": "【職業・身分】男性 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】男性 (仕事や社会的立場を表す語彙)",
+    "romaji": "dansei / otoko"
   },
   {
     "id": "card_0179",
@@ -5010,7 +5187,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 高橋小姐你做盛行㗎？<br/>B: 我係公司職員。",
       "fr": "A : Quel est votre métier, Mme Takahashi ?<br/>B : Je suis employée de bureau."
     },
-    "related": "【職業・身分】会社員 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】会社員 (仕事や社会的立場を表す語彙)",
+    "romaji": "kaishain"
   },
   {
     "id": "card_0180",
@@ -5038,7 +5216,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為唔多舒服，所以去咗醫院睇醫生。",
       "fr": "Comme je ne me sentais pas bien, je me suis fait examiner par un médecin à l'hôpital."
     },
-    "related": "【職業・身分】医者 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】医者 (仕事や社会的立場を表す語彙)",
+    "romaji": "isha"
   },
   {
     "id": "card_0181",
@@ -5066,7 +5245,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 小林小姐你做咩工作㗎？<br/>B: 我喺醫院做護士。",
       "fr": "A : Quel est votre métier, Mme Kobayashi ?<br/>B : Je travaille comme infirmière à l'hôpital."
     },
-    "related": "【職業・身分】看護師 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】看護師 (仕事や社会的立場を表す語彙)",
+    "romaji": "kangoshi"
   },
   {
     "id": "card_0182",
@@ -5094,7 +5274,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 鈴木小姐你做咩工作㗎？<br/>B: 我係銀行職員。",
       "fr": "A : Quel est votre métier, Mme Suzuki ?<br/>B : Je suis employée de banque."
     },
-    "related": "【職業・身分】銀行員 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】銀行員 (仕事や社会的立場を表す語彙)",
+    "romaji": "ginkouin"
   },
   {
     "id": "card_0183",
@@ -5122,7 +5303,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我寫咗封感謝信俾教我日文嘅老師呀。 B: 老師睇到一定會好開心！",
       "fr": "A: J'ai écrit une lettre de remerciement au professeur qui m'a enseigné le japonais. B: Je suis sûr que le professeur sera ravi !"
     },
-    "related": "【職業・身分】先生 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】先生 (仕事や社会的立場を表す語彙)",
+    "romaji": "sensei"
   },
   {
     "id": "card_0184",
@@ -5150,7 +5332,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佐藤先生你做邊行㗎？<br/>B: 我喺市役所（市政府）做公務員。",
       "fr": "A: Quel est votre métier, M. Sato ?<br/>B: Je suis fonctionnaire à la mairie."
     },
-    "related": "【職業・身分】公務員 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】公務員 (仕事や社会的立場を表す語彙)",
+    "romaji": "koumuin"
   },
   {
     "id": "card_0185",
@@ -5178,7 +5361,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佐藤小姐你做咩工作㗎？<br/>B: 我係做律師嘅。",
       "fr": "A : Quel est votre métier, Mme Sato ?<br/>B : Je travaille comme avocate."
     },
-    "related": "【職業・身分】弁護士 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】弁護士 (仕事や社会的立場を表す語彙)",
+    "romaji": "bengoshi"
   },
   {
     "id": "card_0186",
@@ -5206,7 +5390,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生你做咩工作㗎？<br/>B: 我係做警察嘅。",
       "fr": "A : Quel est votre métier, M. Tanaka ?<br/>B : Je suis policier."
     },
-    "related": "【職業・身分】警察官 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】警察官 (仕事や社会的立場を表す語彙)",
+    "romaji": "keisatsukan"
   },
   {
     "id": "card_0187",
@@ -5234,7 +5419,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "巴士司機笑面迎人咁同我打招呼。",
       "fr": "Le chauffeur de bus m'a salué avec le sourire."
     },
-    "related": "【職業・身分】運転手 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】運転手 (仕事や社会的立場を表す語彙)",
+    "romaji": "untenshu"
   },
   {
     "id": "card_0188",
@@ -5262,7 +5448,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "便利店個店員態度好好、好有禮貌咁幫我。",
       "fr": "L'employé de la supérette s'est occupé de moi très poliment."
     },
-    "related": "【職業・身分】店員 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】店員 (仕事や社会的立場を表す語彙)",
+    "romaji": "ten'in"
   },
   {
     "id": "card_0189",
@@ -5290,7 +5477,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大學放學之後，我喺一間Cafe度做兼職。",
       "fr": "Après mes cours à l'université, je fais un travail à temps partiel dans un café."
     },
-    "related": "【職業・身分】アルバイト (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】アルバイト (仕事や社会的立場を表す語彙)",
+    "romaji": "arubaito / baito"
   },
   {
     "id": "card_0190",
@@ -5318,7 +5506,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你鍾意邊個歌手呀？<br/>B: 我鍾意唱J-POP日本流行歌嘅歌手。",
       "fr": "A: Qui est votre chanteur préféré ?<br/>B: J'aime les chanteurs de pop japonaise."
     },
-    "related": "【職業・身分】歌手 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】歌手 (仕事や社会的立場を表す語彙)",
+    "romaji": "kashu"
   },
   {
     "id": "card_0191",
@@ -5346,7 +5535,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 嗰套劇個男主角演技真係好叻喎。<br/>B: 係呀，佢都係我好鍾意嘅演員嚟㗎。",
       "fr": "A: L'acteur de cette série joue vraiment très bien, n'est-ce pas ?<br/>B: Oui, c'est aussi un acteur que j'adore."
     },
-    "related": "【職業・身分】俳優 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】俳優 (仕事や社会的立場を表す語彙)",
+    "romaji": "haiyuu"
   },
   {
     "id": "card_0192",
@@ -5374,7 +5564,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有冇好鍾意嘅女演員呀？<br/>B: 我係嗰套戲個女主角嘅Fans。",
       "fr": "A: Avez-vous une actrice préférée ?<br/>B: Je suis fan de l'actrice qui a joué dans ce film."
     },
-    "related": "【職業・身分】女優 (仕事や社会的立場を表す語彙)"
+    "related": "【職業・身分】女優 (仕事や社会的立場を表す語彙)",
+    "romaji": "joyuu"
   },
   {
     "id": "card_0193",
@@ -5402,7 +5593,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 除咗日本之外，你仲去過邊啲國家呀？<br/>B: 我去過法國同加拿大。",
       "fr": "A: En plus du Japon, quels pays avez-vous visités ?<br/>B: J'ai visité la France et le Canada."
     },
-    "related": "【地理・地名】国 (国名・地域・行政区画)"
+    "related": "【地理・地名】国 (国名・地域・行政区画)",
+    "romaji": "kuni"
   },
   {
     "id": "card_0194",
@@ -5430,7 +5622,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一路睇住手機個地圖，一路行去間餐廳度。",
       "fr": "Je me suis dirigé vers le restaurant en regardant la carte sur mon smartphone."
     },
-    "related": "【地理・地名】地図 (国名・地域・行政区画)"
+    "related": "【地理・地名】地図 (国名・地域・行政区画)",
+    "romaji": "chizu"
   },
   {
     "id": "card_0195",
@@ -5458,7 +5651,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將來我想環遊世界去旅行。",
       "fr": "À l'avenir, j'aimerais voyager tout autour du monde."
     },
-    "related": "【地理・地名】世界 (国名・地域・行政区画)"
+    "related": "【地理・地名】世界 (国名・地域・行政区画)",
+    "romaji": "sekai"
   },
   {
     "id": "card_0196",
@@ -5486,7 +5680,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去咗沖繩縣旅行。個海好靚，玩得好開心。",
       "fr": "Je suis allé en voyage dans la préfecture d'Okinawa. La mer était magnifique et je me suis beaucoup amusé."
     },
-    "related": "【地理・地名】県 (国名・地域・行政区画)"
+    "related": "【地理・地名】県 (国名・地域・行政区画)",
+    "romaji": "ken"
   },
   {
     "id": "card_0197",
@@ -5514,7 +5709,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個小鎮好安靜，好舒服好住。",
       "fr": "Cette ville est calme et très agréable à vivre."
     },
-    "related": "【地理・地名】町 (国名・地域・行政区画)"
+    "related": "【地理・地名】町 (国名・地域・行政区画)",
+    "romaji": "machi"
   },
   {
     "id": "card_0198",
@@ -5542,7 +5738,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我住喺橫濱市。",
       "fr": "J'habite dans la ville de Yokohama."
     },
-    "related": "【地理・地名】市 (国名・地域・行政区画)"
+    "related": "【地理・地名】市 (国名・地域・行政区画)",
+    "romaji": "shi"
   },
   {
     "id": "card_0199",
@@ -5570,7 +5767,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去咗一個大自然好豐富、空氣好清新嘅村莊旅行。",
       "fr": "Je suis allé en voyage dans un village entouré d'une nature généreuse où l'air est pur."
     },
-    "related": "【地理・地名】村 (国名・地域・行政区画)"
+    "related": "【地理・地名】村 (国名・地域・行政区画)",
+    "romaji": "mura"
   },
   {
     "id": "card_0200",
@@ -5598,7 +5796,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有冇去過日本旅行呀？<br/>B: 有呀，我舊年秋天去過日本。",
       "fr": "A: Êtes-vous déjà allé au Japon en voyage ?<br/>B: Oui, je suis allé au Japon l'automne dernier."
     },
-    "related": "【地理・地名】日本 (国名・地域・行政区画)"
+    "related": "【地理・地名】日本 (国名・地域・行政区画)",
+    "romaji": "nihon"
   },
   {
     "id": "card_0201",
@@ -5626,7 +5825,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 小林小姐你有冇去過東京呀？<br/>B: 有呀，我舊年去咗東京。",
       "fr": "A : Êtes-vous déjà allée à Tokyo, Mme Kobayashi ?<br/>B : Oui, je suis allée à Tokyo l'année dernière."
     },
-    "related": "【地理・地名】東京 (国名・地域・行政区画)"
+    "related": "【地理・地名】東京 (国名・地域・行政区画)",
+    "romaji": "toukyou"
   },
   {
     "id": "card_0202",
@@ -5654,7 +5854,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 鈴木小姐你有冇去過大阪呀？<br/>B: 有呀，我舊年去咗大阪。",
       "fr": "A : Êtes-vous déjà allée à Osaka, Mme Suzuki ?<br/>B : Oui, je suis allée à Osaka l'année dernière."
     },
-    "related": "【地理・地名】大阪 (国名・地域・行政区画)"
+    "related": "【地理・地名】大阪 (国名・地域・行政区画)",
+    "romaji": "oosaka"
   },
   {
     "id": "card_0203",
@@ -5682,7 +5883,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 伊藤先生你有冇去過名古屋呀？<br/>B: 有呀，我舊年去咗名古屋。",
       "fr": "A : Êtes-vous déjà allé à Nagoya, M. Ito ?<br/>B : Oui, je suis allé à Nagoya l'année dernière."
     },
-    "related": "【地理・地名】名古屋 (国名・地域・行政区画)"
+    "related": "【地理・地名】名古屋 (国名・地域・行政区画)",
+    "romaji": "nagoya"
   },
   {
     "id": "card_0204",
@@ -5710,7 +5912,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 中村先生你有冇去過越南呀？<br/>B: 有呀，我舊年去咗越南。",
       "fr": "A : Êtes-vous déjà allé au Vietnam, M. Nakamura ?<br/>B : Oui, je suis allé au Vietnam l'année dernière."
     },
-    "related": "【地理・地名】ベトナム (国名・地域・行政区画)"
+    "related": "【地理・地名】ベトナム (国名・地域・行政区画)",
+    "romaji": "betonamu"
   },
   {
     "id": "card_0205",
@@ -5738,7 +5941,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佐藤小姐你有冇去過印度呀？<br/>B: 有呀，我舊年去咗印度。",
       "fr": "A : Êtes-vous déjà allée en Inde, Mme Sato ?<br/>B : Oui, je suis allée en Inde l'année dernière."
     },
-    "related": "【地理・地名】インド (国名・地域・行政区画)"
+    "related": "【地理・地名】インド (国名・地域・行政区画)",
+    "romaji": "indo"
   },
   {
     "id": "card_0206",
@@ -5766,7 +5970,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生你有冇去過墨西哥呀？<br/>B: 有呀，我舊年去咗墨西哥。",
       "fr": "A : Êtes-vous déjà allé au Mexique, M. Tanaka ?<br/>B : Oui, je suis allé au Mexique l'année dernière."
     },
-    "related": "【地理・地名】メキシコ (国名・地域・行政区画)"
+    "related": "【地理・地名】メキシコ (国名・地域・行政区画)",
+    "romaji": "mekishiko"
   },
   {
     "id": "card_0207",
@@ -5794,7 +5999,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 山本先生你有冇去過印尼呀？<br/>B: 有呀，我舊年去咗印尼。",
       "fr": "A : Êtes-vous déjà allé en Indonésie, M. Yamamoto ?<br/>B : Oui, je suis allé en Indonésie l'année dernière."
     },
-    "related": "【地理・地名】インドネシア (国名・地域・行政区画)"
+    "related": "【地理・地名】インドネシア (国名・地域・行政区画)",
+    "romaji": "indoneshia"
   },
   {
     "id": "card_0208",
@@ -5822,7 +6028,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我最好嘅朋友依家喺美國紐約住，我哋每日都會傾計。",
       "fr": "Mon meilleur ami vit actuellement à New York aux États-Unis, et nous restons en contact tous les jours."
     },
-    "related": "【地理・地名】アメリカ (国名・地域・行政区画)"
+    "related": "【地理・地名】アメリカ (国名・地域・行政区画)",
+    "romaji": "amerika"
   },
   {
     "id": "card_0209",
@@ -5850,7 +6057,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 高橋小姐你有冇去過英國呀？<br/>B: 有呀，我舊年去咗英國。",
       "fr": "A : Êtes-vous déjà allée au Royaume-Uni, Mme Takahashi ?<br/>B : Oui, je suis allée au Royaume-Uni l'année dernière."
     },
-    "related": "【地理・地名】イギリス (国名・地域・行政区画)"
+    "related": "【地理・地名】イギリス (国名・地域・行政区画)",
+    "romaji": "igirisu"
   },
   {
     "id": "card_0210",
@@ -5878,7 +6086,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 渡邊先生你有冇去過中國呀？<br/>B: 有呀，我舊年去咗中國。",
       "fr": "A : Êtes-vous déjà allé en Chine, M. Watanabe ?<br/>B : Oui, je suis allé en Chine l'année dernière."
     },
-    "related": "【地理・地名】中国 (国名・地域・行政区画)"
+    "related": "【地理・地名】中国 (国名・地域・行政区画)",
+    "romaji": "chuugoku"
   },
   {
     "id": "card_0211",
@@ -5906,7 +6115,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你鍾唔鍾意食韓國菜呀？<br/>B: 鍾意呀，我好鍾意食拌飯同泡菜！",
       "fr": "A: Aimez-vous la cuisine coréenne ?<br/>B: Oui, j'adore le bibimbap et le kimchi !"
     },
-    "related": "【地理・地名】韓国 (国名・地域・行政区画)"
+    "related": "【地理・地名】韓国 (国名・地域・行政区画)",
+    "romaji": "kankoku"
   },
   {
     "id": "card_0212",
@@ -5935,7 +6145,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你去過台灣未呀？<br/>B: 去過呀，夜市啲小食真係超級好食！",
       "fr": "A: Êtes-vous déjà allé à Taïwan ?<br/>B: Oui, la street food des marchés de nuit était délicieuse !"
     },
-    "related": "アジアの島・地域を指す名詞です。"
+    "related": "アジアの島・地域を指す名詞です。",
+    "romaji": "taiwan"
   },
   {
     "id": "card_0213",
@@ -5963,7 +6174,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 伊藤先生你有冇去過香港呀？<br/>B: 有呀，我舊年去咗香港。",
       "fr": "A : Êtes-vous déjà allé à Hong Kong, M. Ito ?<br/>B : Oui, je suis allé à Hong Kong l'année dernière."
     },
-    "related": "【地理・地名】香港 (国名・地域・行政区画)"
+    "related": "【地理・地名】香港 (国名・地域・行政区画)",
+    "romaji": "honkon"
   },
   {
     "id": "card_0214",
@@ -5991,7 +6203,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 中村先生你有冇去過泰國呀？<br/>B: 有呀，我舊年去咗泰國。",
       "fr": "A : Êtes-vous déjà allé en Thaïlande, M. Nakamura ?<br/>B : Oui, je suis allé en Thaïlande l'année dernière."
     },
-    "related": "【地理・地名】タイ (国名・地域・行政区画)"
+    "related": "【地理・地名】タイ (国名・地域・行政区画)",
+    "romaji": "tai"
   },
   {
     "id": "card_0215",
@@ -6019,7 +6232,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 佐藤小姐你有冇去過馬來西亞呀？<br/>B: 有呀，我舊年去咗馬來西亞。",
       "fr": "A : Êtes-vous déjà allée en Malaisie, Mme Sato ?<br/>B : Oui, je suis allée en Malaisie l'année dernière."
     },
-    "related": "【地理・地名】マレーシア (国名・地域・行政区画)"
+    "related": "【地理・地名】マレーシア (国名・地域・行政区画)",
+    "romaji": "mareeshia"
   },
   {
     "id": "card_0216",
@@ -6047,7 +6261,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗身體健康，大家要多啲郁動身體做運動啦。",
       "fr": "Pour être en bonne santé, bougeons bien le corps et faisons du sport."
     },
-    "related": "【身体部位】体 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】体 (人体の名称・健康や症状の表現)",
+    "romaji": "karada"
   },
   {
     "id": "card_0217",
@@ -6075,7 +6290,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 點樣呀，唔舒服？<br/>B: 琴日開始個頭就痛，我要食啲藥先。",
       "fr": "A: Qu'avez-vous ?<br/>B: J'ai mal à la tête depuis hier, alors je vais prendre un médicament."
     },
-    "related": "【身体部位】頭 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】頭 (人体の名称・健康や症状の表現)",
+    "romaji": "atama"
   },
   {
     "id": "card_0218",
@@ -6103,7 +6319,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早起身用凍水洗乾淨塊面，等自己精神啲。",
       "fr": "Le matin en me levant, je me lave bien le visage à l'eau froide pour me réveiller."
     },
-    "related": "【身体部位】顔 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】顔 (人体の名称・健康や症状の表現)",
+    "romaji": "kao"
   },
   {
     "id": "card_0219",
@@ -6131,7 +6348,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用咗好耐電腦，對眼有少少攰。",
       "fr": "Comme j'ai utilisé l'ordinateur pendant longtemps, j'ai les yeux un peu fatigués."
     },
-    "related": "【身体部位】目 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】目 (人体の名称・健康や症状の表現)",
+    "romaji": "me"
   },
   {
     "id": "card_0220",
@@ -6159,7 +6377,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為係鼻敏感花粉症季節，個鼻痕痕地。",
       "fr": "C'est la saison des allergies au pollen, donc j'ai le nez qui chatouille."
     },
-    "related": "【身体部位】鼻 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】鼻 (人体の名称・健康や症状の表現)",
+    "romaji": "hana"
   },
   {
     "id": "card_0221",
@@ -6187,7 +6406,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食嘢嗰陣要合埋個口，靜靜地咬啦。",
       "fr": "En mangeant, fermez la bouche et mâchez doucement."
     },
-    "related": "【身体部位】口 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】口 (人体の名称・健康や症状の表現)",
+    "romaji": "kuchi"
   },
   {
     "id": "card_0222",
@@ -6215,7 +6435,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我隻耳聽得唔係好清。<br/>B: 不如去睇下耳鼻喉科啦。",
       "fr": "A: Je n'entends pas bien des oreilles.<br/>B: Allons consulter chez un ORL à l'hôpital."
     },
-    "related": "【身体部位】耳 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】耳 (人体の名称・健康や症状の表現)",
+    "romaji": "mimi"
   },
   {
     "id": "card_0223",
@@ -6243,7 +6464,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每次食完飯之後都會認真刷牙。",
       "fr": "Je prends soin de bien me brosser les dents après chaque repas."
     },
-    "related": "【身体部位】歯 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】歯 (人体の名称・健康や症状の表現)",
+    "romaji": "ha"
   },
   {
     "id": "card_0224",
@@ -6271,7 +6493,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行咗好多路，個肚好肚餓添。",
       "fr": "Comme j'ai beaucoup marché, j'ai le ventre vide et très faim."
     },
-    "related": "【身体部位】お腹 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】お腹 (人体の名称・健康や症状の表現)",
+    "romaji": "onaka"
   },
   {
     "id": "card_0225",
@@ -6299,7 +6522,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺Gym房做運動，練緊手臂肌肉。",
       "fr": "Je m'entraîne à la salle de sport pour muscler mes bras."
     },
-    "related": "【身体部位】腕 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】腕 (人体の名称・健康や症状の表現)",
+    "romaji": "ude"
   },
   {
     "id": "card_0226",
@@ -6327,7 +6551,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行咗好多路，對腳攰到不得了。",
       "fr": "J'ai tellement marché que j'ai les pieds complètement épuisés."
     },
-    "related": "【身体部位】足 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】足 (人体の名称・健康や症状の表現)",
+    "romaji": "ashi"
   },
   {
     "id": "card_0227",
@@ -6355,7 +6580,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佢好高大，係一個對腳好長嘅模特兒。",
       "fr": "Il est grand et c'est un mannequin aux jambes très longues."
     },
-    "related": "【身体部位】脚 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】脚 (人体の名称・健康や症状の表現)",
+    "romaji": "ashi"
   },
   {
     "id": "card_0228",
@@ -6383,7 +6609,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食飯之前，用番梘洗乾淨對手啦。",
       "fr": "Lavons-nous bien les mains avec du savon avant le repas."
     },
-    "related": "【身体部位】手 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】手 (人体の名称・健康や症状の表現)",
+    "romaji": "te"
   },
   {
     "id": "card_0229",
@@ -6411,7 +6638,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗坐姿好啲，將個背脊挺直。",
       "fr": "Pour avoir une bonne posture, tenez votre dos bien droit."
     },
-    "related": "【身体部位】背中 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】背中 (人体の名称・健康や症状の表現)",
+    "romaji": "senaka"
   },
   {
     "id": "card_0230",
@@ -6439,7 +6667,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為成日坐喺位做嘢，個菠蘿蓋同膊頭成日好攰好痛。",
       "fr": "Comme je travaille beaucoup assis à un bureau, j'ai souvent les épaules raides."
     },
-    "related": "【身体部位】肩 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】肩 (人体の名称・健康や症状の表現)",
+    "romaji": "kata"
   },
   {
     "id": "card_0231",
@@ -6467,7 +6696,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去美容院叫髮型師幫我修整好對眉。",
       "fr": "Je me suis fait épiler et dessiner les sourcils au salon de beauté."
     },
-    "related": "【身体部位】眉毛 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】眉毛 (人体の名称・健康や症状の表現)",
+    "romaji": "mayuge"
   },
   {
     "id": "card_0232",
@@ -6495,7 +6725,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "彈鋼琴嗰陣，手指要放鬆唔好太用力。",
       "fr": "En jouant du piano, détendez vos doigts sans forcer."
     },
-    "related": "【身体部位】指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】指 (人体の名称・健康や症状の表現)",
+    "romaji": "yubi"
   },
   {
     "id": "card_0233",
@@ -6523,7 +6754,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "單手用電話嗰陣，主要都係用大拇指。",
       "fr": "Quand j'utilise mon smartphone d'une seule main, je me sers principalement de mon pouce."
     },
-    "related": "【身体部位】親指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】親指 (人体の名称・健康や症状の表現)",
+    "romaji": "oyayubi"
   },
   {
     "id": "card_0234",
@@ -6551,7 +6783,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 咩事呀？<br/>B: 隻食指有少少痛。",
       "fr": "A : Qu'est-ce qui ne va pas ?<br/>B : J'ai un peu mal à l'index."
     },
-    "related": "【身体部位】人差し指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】人差し指 (人体の名称・健康や症状の表現)",
+    "romaji": "hitosashiyubi"
   },
   {
     "id": "card_0235",
@@ -6579,7 +6812,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "擘開隻手比對下，五隻手指入面中指係最長嘅。",
       "fr": "Quand on regarde sa main ouverte, le majeur est le plus long des cinq doigts."
     },
-    "related": "【身体部位】中指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】中指 (人体の名称・健康や症状の表現)",
+    "romaji": "nakayubi"
   },
   {
     "id": "card_0236",
@@ -6607,7 +6841,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺左手無名指上面，好珍惜咁戴住隻結婚戒指。",
       "fr": "Je porte précieusement mon alliance à l'annulaire de la main gauche."
     },
-    "related": "【身体部位】薬指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】薬指 (人体の名称・健康や症状の表現)",
+    "romaji": "kusuriyubi"
   },
   {
     "id": "card_0237",
@@ -6635,7 +6870,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隻腳尾指撞到傢俬角位，痛到入心入肺。",
       "fr": "Je me suis cogné le petit orteil contre le coin d'un meuble, ça faisait extrêmement mal."
     },
-    "related": "【身体部位】小指 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】小指 (人体の名称・健康や症状の表現)",
+    "romaji": "koyubi"
   },
   {
     "id": "card_0238",
@@ -6663,7 +6899,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "爸爸每日朝早上班之前，都會用電鬚刨好仔細咁剃鬚。",
       "fr": "Mon père se rase soigneusement la barbe avec un rasoir électrique chaque matin avant d'aller au travail."
     },
-    "related": "【身体部位】髭 (人体の名称・健康や症状の表現)"
+    "related": "【身体部位】髭 (人体の名称・健康や症状の表現)",
+    "romaji": "hige"
   },
   {
     "id": "card_0239",
@@ -6691,7 +6928,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "枱上面放咗本書同支筆。",
       "fr": "Un livre et un stylo sont posés sur la table."
     },
-    "related": "【語彙】うえ (位置に関する基本語彙)"
+    "related": "【語彙】うえ (位置に関する基本語彙)",
+    "romaji": "ue"
   },
   {
     "id": "card_0240",
@@ -6719,7 +6957,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "張枱下面有隻好可愛嘅貓瞓緊覺。",
       "fr": "Un chat mignon dort sous le bureau."
     },
-    "related": "【語彙】した (位置に関する基本語彙)"
+    "related": "【語彙】した (位置に関する基本語彙)",
+    "romaji": "shita"
   },
   {
     "id": "card_0241",
@@ -6747,7 +6986,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺嗰個轉角位向右轉，就會見到報案中心/交番。",
       "fr": "Si vous tournez à droite à ce carrefour, il y a le commissariat."
     },
-    "related": "【語彙】みぎ (位置に関する基本語彙)"
+    "related": "【語彙】みぎ (位置に関する基本語彙)",
+    "romaji": "migi"
   },
   {
     "id": "card_0242",
@@ -6775,7 +7015,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出咗閘機之後，請向左邊行。",
       "fr": "Sortez des portillons de la gare et avancez vers la gauche."
     },
-    "related": "【語彙】ひだり (位置に関する基本語彙)"
+    "related": "【語彙】ひだり (位置に関する基本語彙)",
+    "romaji": "hidari"
   },
   {
     "id": "card_0243",
@@ -6803,7 +7044,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺車站前面同緊朋友等緊見面。",
       "fr": "J'attends mon ami devant la gare."
     },
-    "related": "【語彙】まえ (位置に関する基本語彙)"
+    "related": "【語彙】まえ (位置に関する基本語彙)",
+    "romaji": "mae"
   },
   {
     "id": "card_0244",
@@ -6831,7 +7073,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺戲院入面，後面嘅位會容易睇到個熒幕啲。",
       "fr": "Au cinéma, les sièges du fond permettent de mieux voir l'écran."
     },
-    "related": "【語彙】うしろ (位置に関する基本語彙)"
+    "related": "【語彙】うしろ (位置に関する基本語彙)",
+    "romaji": "ushiro"
   },
   {
     "id": "card_0245",
@@ -6859,7 +7102,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個手袋入面放咗個銀包同條鎖匙。",
       "fr": "Il y a un portefeuille et des clés dans le sac."
     },
-    "related": "【語彙】なか (位置に関する基本語彙)"
+    "related": "【語彙】なか (位置に関する基本語彙)",
+    "romaji": "naka"
   },
   {
     "id": "card_0246",
@@ -6887,7 +7131,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日出面超級凍，著件大褸先好出去啦。",
       "fr": "Il fait très froid dehors aujourd'hui, mettons un manteau."
     },
-    "related": "【語彙】そと (位置に関する基本語彙)"
+    "related": "【語彙】そと (位置に関する基本語彙)",
+    "romaji": "soto"
   },
   {
     "id": "card_0247",
@@ -6915,7 +7160,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我可唔可以坐喺鈴木先生隔離個位呀？",
       "fr": "Puis-je m'asseoir sur le siège à côté de M. Suzuki ?"
     },
-    "related": "【語彙】となり (位置に関する基本語彙)"
+    "related": "【語彙】となり (位置に関する基本語彙)",
+    "romaji": "tonari"
   },
   {
     "id": "card_0248",
@@ -6943,7 +7189,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺書店同麵包舖中間有間咖啡店。",
       "fr": "Il y a un café entre la librairie et la boulangerie."
     },
-    "related": "【語彙】あいだ (位置に関する基本語彙)"
+    "related": "【語彙】あいだ (位置に関する基本語彙)",
+    "romaji": "aida"
   },
   {
     "id": "card_0249",
@@ -6971,7 +7218,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在便條紙上寫了電話號碼的數字。<br>請確認一下。",
       "fr": "I wrote the numbers of the phone number on a memo.<br>Please check."
     },
-    "related": "【基本語彙】かず・番号"
+    "related": "【基本語彙】かず・番号",
+    "romaji": "suuji"
   },
   {
     "id": "card_0250",
@@ -6999,7 +7247,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭乘一號月台的電車。<br>我們走到最前面的車廂吧。",
       "fr": "I take the train on platform 1.<br>Let's go to the front-most car."
     },
-    "related": "【数字】1"
+    "related": "【数字】1",
+    "romaji": "ichi"
   },
   {
     "id": "card_0251",
@@ -7027,7 +7276,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢啲筆記簿兩本五百日圓。",
       "fr": "Ces carnets coûtent 500 yens pour deux."
     },
-    "related": "【語彙】に (基本の数字に関する基本語彙)"
+    "related": "【語彙】に (基本の数字に関する基本語彙)",
+    "romaji": "ni"
   },
   {
     "id": "card_0252",
@@ -7055,7 +7305,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "三樓有會議室。<br>搭電梯上去吧。",
       "fr": "There is a meeting room on the 3rd floor.<br>Let's take the elevator."
     },
-    "related": "【数字】3"
+    "related": "【数字】3",
+    "romaji": "san"
   },
   {
     "id": "card_0253",
@@ -7083,7 +7334,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買了四顆蘋果。<br>大家分著吃吧。",
       "fr": "I bought 4 apples.<br>Let's share and eat together."
     },
-    "related": "【数字】4 (よん／し)"
+    "related": "【数字】4 (よん／し)",
+    "romaji": "shi / yon"
   },
   {
     "id": "card_0254",
@@ -7111,7 +7363,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "傍晚五點喺車站前面見面啦。",
       "fr": "Retrouvons-nous devant la gare à 17 heures."
     },
-    "related": "【語彙】ご (基本の数字に関する基本語彙)"
+    "related": "【語彙】ご (基本の数字に関する基本語彙)",
+    "romaji": "go"
   },
   {
     "id": "card_0255",
@@ -7139,7 +7392,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "預訂了傍晚六點的餐廳。<br>注意不要遲到喔。",
       "fr": "I reserved a restaurant for 6 PM.<br>Let's go so we won't be late."
     },
-    "related": "【数字】6"
+    "related": "【数字】6",
+    "romaji": "roku"
   },
   {
     "id": "card_0256",
@@ -7167,7 +7421,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "是幸運七的七呢！<br>感覺會有好事發生。",
       "fr": "It's lucky seven 7, isn't it!<br>Looks like something good will happen."
     },
-    "related": "【数字】7 (なな／しち)"
+    "related": "【数字】7 (なな／しち)",
+    "romaji": "shichi / nana"
   },
   {
     "id": "card_0257",
@@ -7195,7 +7450,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早八點到咗學校。<br/>今日一整日都要加油！",
       "fr": "Je suis arrivé à l'école à 8 heures du matin.<br/>Je vais faire de mon mieux toute la journée aujourd'hui aussi !"
     },
-    "related": "【数字】8"
+    "related": "【数字】8",
+    "romaji": "hachi"
   },
   {
     "id": "card_0258",
@@ -7223,7 +7479,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭九號公車就能到醫院喔。<br>請在那邊稍等。",
       "fr": "If you take bus number 9, you can go to the hospital.<br>Please wait over there."
     },
-    "related": "【数字】9 (きゅう／く)"
+    "related": "【数字】9 (きゅう／く)",
+    "romaji": "kyuu / ku"
   },
   {
     "id": "card_0259",
@@ -7251,7 +7508,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "小考拿到滿分十分！<br>做得真棒呢。",
       "fr": "I got a perfect 10 on the quiz!<br>You did great."
     },
-    "related": "【数字】10"
+    "related": "【数字】10",
+    "romaji": "juu"
   },
   {
     "id": "card_0260",
@@ -7279,7 +7537,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在百圓商店買了實用的小物品。<br>便宜又幫大忙呢。",
       "fr": "I bought useful gadgets at the 100-yen shop.<br>It's cheap and helpful."
     },
-    "related": "【数字】100 (ひゃく)"
+    "related": "【数字】100 (ひゃく)",
+    "romaji": "hyaku"
   },
   {
     "id": "card_0261",
@@ -7307,7 +7566,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本書啱啱好一千日圓。",
       "fr": "Ce livre coûtait exactement 1 000 yens."
     },
-    "related": "【語彙】せん (基本の数字に関する基本語彙)"
+    "related": "【語彙】せん (基本の数字に関する基本語彙)",
+    "romaji": "sen"
   },
   {
     "id": "card_0262",
@@ -7335,7 +7595,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "把一萬日圓鈔票放進了皮夾。<br>小心不要弄丟了。",
       "fr": "I put a 10,000-yen bill into my wallet.<br>I'll be careful not to drop it."
     },
-    "related": "【数字】10,000 (まん)"
+    "related": "【数字】10,000 (まん)",
+    "romaji": "man"
   },
   {
     "id": "card_0263",
@@ -7363,7 +7624,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一月有新年假期。<br>天氣會變得非常冷。",
       "fr": "January has New Year holidays.<br>It gets very cold."
     },
-    "related": "【読み方】いちがつ\n一年の最初の月です。"
+    "related": "【読み方】いちがつ\n一年の最初の月です。",
+    "romaji": "ichigatsu"
   },
   {
     "id": "card_0264",
@@ -7391,7 +7653,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "二月打算去滑雪。<br>會下很多雪喔。",
       "fr": "I plan to go skiing in February.<br>A lot of snow falls."
     },
-    "related": "【読み方】にがつ\n立春や節分の月です。"
+    "related": "【読み方】にがつ\n立春や節分の月です。",
+    "romaji": "nigatsu"
   },
   {
     "id": "card_0265",
@@ -7419,7 +7682,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "三月是畢業的季節呢。<br>櫻花開始盛開了。",
       "fr": "March is the graduation season.<br>Cherry blossoms start blooming."
     },
-    "related": "【読み方】さんがつ\n春の訪れの月です。"
+    "related": "【読み方】さんがつ\n春の訪れの月です。",
+    "romaji": "sangatsu"
   },
   {
     "id": "card_0266",
@@ -7447,7 +7711,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "四月開始新生活。<br>有入學典禮喔。",
       "fr": "A new life begins in April.<br>There is an entrance ceremony."
     },
-    "related": "【読み方】しがつ (※「よんがつ」とは言いません)\n新学期・新年度の月です。"
+    "related": "【読み方】しがつ (※「よんがつ」とは言いません)\n新学期・新年度の月です。",
+    "romaji": "shigatsu"
   },
   {
     "id": "card_0267",
@@ -7475,7 +7740,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "五月的黃金週要去旅行。<br>氣候非常舒服呢。",
       "fr": "I travel during Golden Week in May.<br>The weather is very pleasant."
     },
-    "related": "【読み方】ごがつ\n過ごしやすい初夏の月です。"
+    "related": "【読み方】ごがつ\n過ごしやすい初夏の月です。",
+    "romaji": "gogatsu"
   },
   {
     "id": "card_0268",
@@ -7503,7 +7769,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "六月會下很多雨。<br>是梅雨季節呢。",
       "fr": "It rains a lot in June.<br>It's the rainy season (Tsuyu)."
     },
-    "related": "【読み方】ろくがつ\n梅雨（つゆ）の月です。"
+    "related": "【読み方】ろくがつ\n梅雨（つゆ）の月です。",
+    "romaji": "rokugatsu"
   },
   {
     "id": "card_0269",
@@ -7531,7 +7798,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "七月一起去海邊游泳吧。<br>暑假要開始了呢！",
       "fr": "Let's go swimming in the sea in July.<br>Summer vacation begins!"
     },
-    "related": "【読み方】しちがつ (※「なながつ」とも言いますが「しちがつ」が一般的)\n七夕や夏休みの月です。"
+    "related": "【読み方】しちがつ (※「なながつ」とも言いますが「しちがつ」が一般的)\n七夕や夏休みの月です。",
+    "romaji": "shichigatsu"
   },
   {
     "id": "card_0270",
@@ -7559,7 +7827,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "八月有煙火大會和夏日祭典。<br>是一年中最熱的月份呢。",
       "fr": "In August there are fireworks festivals and summer festivals.<br>It's the hottest month."
     },
-    "related": "【読み方】はちがつ\nお盆休みの月です。"
+    "related": "【読み方】はちがつ\nお盆休みの月です。",
+    "romaji": "hachigatsu"
   },
   {
     "id": "card_0271",
@@ -7587,7 +7856,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到了九月，稍微變涼爽了。<br>秋天的風吹拂著。",
       "fr": "It has become a little cooler in September.<br>Autumn breeze is blowing."
     },
-    "related": "【読み方】くがつ (※「きゅうがつ」とは言いません)\n秋の始まりの月です。"
+    "related": "【読み方】くがつ (※「きゅうがつ」とは言いません)\n秋の始まりの月です。",
+    "romaji": "kugatsu"
   },
   {
     "id": "card_0272",
@@ -7615,7 +7885,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "十月的楓葉非常美麗。<br>一起去山上健行吧。",
       "fr": "The autumn leaves are very beautiful in October.<br>Let's go hiking in the mountains."
     },
-    "related": "【読み方】じゅうがつ\n行楽の秋、紅葉の月です。"
+    "related": "【読み方】じゅうがつ\n行楽の秋、紅葉の月です。",
+    "romaji": "juugatsu"
   },
   {
     "id": "card_0273",
@@ -7643,7 +7914,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "十一月早晚變得很冷呢。<br>想吃熱騰騰的火鍋。",
       "fr": "It gets chilly mornings and evenings in November.<br>I want to eat hot pot."
     },
-    "related": "【読み方】じゅういちがつ\n冬支度を始める月です。"
+    "related": "【読み方】じゅういちがつ\n冬支度を始める月です。",
+    "romaji": "juuichigatsu"
   },
   {
     "id": "card_0274",
@@ -7671,7 +7943,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "十二月有聖誕節和除夕夜。<br>一年過得真快呢。",
       "fr": "December has Christmas and New Year's Eve.<br>A year passed by in a flash."
     },
-    "related": "【読み方】じゅうにがつ\n師走（年末）の月です。"
+    "related": "【読み方】じゅうにがつ\n師走（年末）の月です。",
+    "romaji": "juunigatsu"
   },
   {
     "id": "card_0275",
@@ -7699,7 +7972,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一月一日是元旦。<br>要去神社新年參拜。",
       "fr": "January 1st is New Year's Day.<br>We visit a shrine for Hatsumode."
     },
-    "related": "【読み方】ついたち (※「いちにち」は期間を表します)"
+    "related": "【読み方】ついたち (※「いちにち」は期間を表します)",
+    "romaji": "tsuitachi"
   },
   {
     "id": "card_0276",
@@ -7727,7 +8001,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "二號開始百貨公司的新春首賣。<br>一起去購物吧。",
       "fr": "New Year's first sale starts on the 2nd at department stores.<br>Let's go shopping."
     },
-    "related": "【読み方】ふつか"
+    "related": "【読み方】ふつか",
+    "romaji": "futsuka"
   },
   {
     "id": "card_0277",
@@ -7755,7 +8030,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到三號為止都在家裡悠閒地度過。<br>好好享受新年假期吧。",
       "fr": "I will relax at home until the 3rd.<br>Let's enjoy the New Year holidays."
     },
-    "related": "【読み方】みっか"
+    "related": "【読み方】みっか",
+    "romaji": "mikka"
   },
   {
     "id": "card_0278",
@@ -7783,7 +8059,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "四號開始上班。<br>今年也一起加油吧！",
       "fr": "Work starts from the 4th.<br>Let's do our best this year too!"
     },
-    "related": "【読み方】よっか (促音に注意)"
+    "related": "【読み方】よっか (促音に注意)",
+    "romaji": "yokka"
   },
   {
     "id": "card_0279",
@@ -7811,7 +8088,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "五號跟朋友有約。<br>要去咖啡廳喝茶。",
       "fr": "I promised to meet a friend on the 5th.<br>We will have tea at a cafe."
     },
-    "related": "【読み方】いつか"
+    "related": "【読み方】いつか",
+    "romaji": "itsuka"
   },
   {
     "id": "card_0280",
@@ -7839,7 +8117,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "預計六號包裹會送到。<br>我會待在家裡簽收。",
       "fr": "The package is scheduled to arrive on the 6th.<br>I'll be home to receive it."
     },
-    "related": "【読み方】むいか"
+    "related": "【読み方】むいか",
+    "romaji": "muika"
   },
   {
     "id": "card_0281",
@@ -7867,7 +8146,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "七號早晨吃七草粥。<br>對胃很溫和的料理。",
       "fr": "We eat seven-herb rice porridge on the morning of the 7th.<br>It's gentle on the stomach."
     },
-    "related": "【読み方】なのか"
+    "related": "【読み方】なのか",
+    "romaji": "nanoka"
   },
   {
     "id": "card_0282",
@@ -7895,7 +8175,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "八號是田中先生的生日。<br>要去買禮物。",
       "fr": "The 8th is Tanaka-san's birthday.<br>I'll go buy a present."
     },
-    "related": "【読み方】ようか (長音に注意)"
+    "related": "【読み方】ようか (長音に注意)",
+    "romaji": "youka"
   },
   {
     "id": "card_0283",
@@ -7923,7 +8204,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "九號公佈考試結果。<br>真讓人緊張呢。",
       "fr": "The exam results will be announced on the 9th.<br>I'm nervous."
     },
-    "related": "【読み方】ここのか"
+    "related": "【読み方】ここのか",
+    "romaji": "kokonoka"
   },
   {
     "id": "card_0284",
@@ -7951,7 +8233,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請在十號之前交作業。<br>好的，明白了。",
       "fr": "Please submit your homework by the 10th.<br>Yes, understood."
     },
-    "related": "【読み方】とおか"
+    "related": "【読み方】とおか",
+    "romaji": "tooka"
   },
   {
     "id": "card_0285",
@@ -7979,7 +8262,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "二月十四號是情人節。<br>要送巧克力。",
       "fr": "February 14th is Valentine's Day.<br>I give chocolate."
     },
-    "related": "【読み方】じゅうよっか (※「じゅうよんにち」とも言いますが「じゅうよっか」が伝統的)"
+    "related": "【読み方】じゅうよっか (※「じゅうよんにち」とも言いますが「じゅうよっか」が伝統的)",
+    "romaji": "juuyokka"
   },
   {
     "id": "card_0286",
@@ -8007,7 +8291,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "二十號是發薪日。<br>一起去吃好吃的吧！",
       "fr": "The 20th is payday.<br>Let's go eat something delicious!"
     },
-    "related": "【読み方】はつか (特別読み)"
+    "related": "【読み方】はつか (特別読み)",
+    "romaji": "hatsuka"
   },
   {
     "id": "card_0287",
@@ -8035,7 +8320,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "十二月二十四號是聖誕夜呢。<br>我訂了蛋糕。",
       "fr": "December 24th is Christmas Eve.<br>I reserved a cake."
     },
-    "related": "【読み方】にじゅうよっか"
+    "related": "【読み方】にじゅうよっか",
+    "romaji": "nijuuyokka"
   },
   {
     "id": "card_0288",
@@ -8063,7 +8349,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今天是幾號？<br>B: 是十月十五號喔。",
       "fr": "A: What day of the month is it today?<br>B: It's October 15th."
     },
-    "related": "【尋ね方】日付を聞く表現"
+    "related": "【尋ね方】日付を聞く表現",
+    "romaji": "nannichi"
   },
   {
     "id": "card_0289",
@@ -8091,7 +8378,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 不好意思，請問現在幾點？<br>B: 剛好三點喔。",
       "fr": "A: Excuse me, what time is it now?<br>B: It's exactly 3 o'clock."
     },
-    "related": "【尋ね方】時刻を聞く基本表現"
+    "related": "【尋ね方】時刻を聞く基本表現",
+    "romaji": "nanji"
   },
   {
     "id": "card_0290",
@@ -8119,7 +8407,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你的生日是幾月？<br>B: 是八月。",
       "fr": "A: What month is your birthday?<br>B: It's in August."
     },
-    "related": "【尋ね方】月を聞く表現"
+    "related": "【尋ね方】月を聞く表現",
+    "romaji": "nangatsu"
   },
   {
     "id": "card_0291",
@@ -8147,7 +8436,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 從這裡到車站要幾分鐘？<br>B: 走路大約五分鐘。",
       "fr": "A: How many minutes does it take from here to the station?<br>B: About 5 minutes on foot."
     },
-    "related": "【尋ね方】所要時間・分を聞く表現"
+    "related": "【尋ね方】所要時間・分を聞く表現",
+    "romaji": "nanpun / nanfun"
   },
   {
     "id": "card_0292",
@@ -8175,7 +8465,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今天是星期幾？<br>B: 是星期三喔。",
       "fr": "A: What day of the week is it today?<br>B: It's Wednesday."
     },
-    "related": "【尋ね方】曜日を聞く表現"
+    "related": "【尋ね方】曜日を聞く表現",
+    "romaji": "nan'youbi"
   },
   {
     "id": "card_0293",
@@ -8203,7 +8494,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每個星期一都有會議。<br>轉換心情一起加油吧。",
       "fr": "Every Monday we have a meeting.<br>Let's switch gears and do our best."
     },
-    "related": "週の始まりの曜日です。"
+    "related": "週の始まりの曜日です。",
+    "romaji": "getsuyoubi"
   },
   {
     "id": "card_0294",
@@ -8231,7 +8523,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期二是倒垃圾的日子。<br>要在早上八點前拿出去。",
       "fr": "Tuesday is garbage collection day.<br>I put it out by 8 AM."
     },
-    "related": "【曜日】かようび"
+    "related": "【曜日】かようび",
+    "romaji": "kayoubi"
   },
   {
     "id": "card_0295",
@@ -8259,7 +8552,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期三是電影院優惠日。<br>下班後去看電影。",
       "fr": "Wednesday is movie discount day.<br>I go see a movie after work."
     },
-    "related": "【曜日】すいようび (週の折り返し)"
+    "related": "【曜日】すいようび (週の折り返し)",
+    "romaji": "suiyoubi"
   },
   {
     "id": "card_0296",
@@ -8287,7 +8581,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我預約了星期四下午。<br>要去牙醫診所。",
       "fr": "I made an appointment for Thursday afternoon.<br>I'm going to the dentist."
     },
-    "related": "【曜日】もくようび"
+    "related": "【曜日】もくようび",
+    "romaji": "mokuyoubi"
   },
   {
     "id": "card_0297",
@@ -8315,7 +8610,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期五晚我同朋友一齊去食飯。",
       "fr": "Le vendredi soir, je vais manger avec des amis."
     },
-    "related": "【曜日】きんようび (週末前の人気曜日)"
+    "related": "【曜日】きんようび (週末前の人気曜日)",
+    "romaji": "kin'youbi"
   },
   {
     "id": "card_0298",
@@ -8343,7 +8639,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期六早上慢慢起床。<br>去心儀的咖啡廳。",
       "fr": "On Saturdays I wake up slowly in the morning.<br>I go to my favorite cafe."
     },
-    "related": "【曜日】どようび (休日の始まり)"
+    "related": "【曜日】どようび (休日の始まり)",
+    "romaji": "doyoubi"
   },
   {
     "id": "card_0299",
@@ -8371,7 +8668,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期天跟家人一起度過。<br>會去公園散步喔。",
       "fr": "I spend Sundays with my family.<br>We go for a walk in the park."
     },
-    "related": "【曜日】にちようび"
+    "related": "【曜日】にちようび",
+    "romaji": "nichiyoubi"
   },
   {
     "id": "card_0300",
@@ -8399,7 +8697,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "預計上午包裹會送到。<br>會在家裡等。",
       "fr": "The package is scheduled to arrive in the morning.<br>I'll wait at home."
     },
-    "related": "【時間帯】夜中12時から昼12時まで"
+    "related": "【時間帯】夜中12時から昼12時まで",
+    "romaji": "gozen"
   },
   {
     "id": "card_0301",
@@ -8427,7 +8726,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下午有兩場會議。<br>看起來會有點忙。",
       "fr": "I have two meetings in the afternoon.<br>It looks like it will be a bit busy."
     },
-    "related": "【時間帯】昼12時から夜12時まで"
+    "related": "【時間帯】昼12時から夜12時まで",
+    "romaji": "gogo"
   },
   {
     "id": "card_0302",
@@ -8455,7 +8755,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "整個上午都在打掃和洗衣服。<br>房間變得好清爽。",
       "fr": "I do cleaning and laundry during the morning.<br>The room is refreshed."
     },
-    "related": "【時間帯】午前の間の時間"
+    "related": "【時間帯】午前の間の時間",
+    "romaji": "gozenchuu"
   },
   {
     "id": "card_0303",
@@ -8483,7 +8784,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好好吃了早餐。<br>今天也充滿精神！",
       "fr": "I ate a hearty breakfast.<br>I feel energized today too!"
     },
-    "related": "【時間帯】一日の始まりの時間"
+    "related": "【時間帯】一日の始まりの時間",
+    "romaji": "asa"
   },
   {
     "id": "card_0304",
@@ -8511,7 +8813,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "已經中午了呢。要不要一起去吃午餐？<br>好啊，一起去吃拉麵吧！",
       "fr": "It's already noon. Shall we go to lunch together?<br>Yes, let's go eat ramen!"
     },
-    "related": "【時間帯】正午・昼ご飯の時間"
+    "related": "【時間帯】正午・昼ご飯の時間",
+    "romaji": "shougo / ohiru"
   },
   {
     "id": "card_0305",
@@ -8539,7 +8842,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到了傍晚風就變涼爽了呢。<br>天空是一片美麗的橘色。",
       "fr": "When evening comes, the wind gets cool.<br>The sky is orange and beautiful."
     },
-    "related": "【時間帯】日が沈む頃の時間"
+    "related": "【時間帯】日が沈む頃の時間",
+    "romaji": "yuugata"
   },
   {
     "id": "card_0306",
@@ -8567,7 +8871,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜晚安靜地看書度過。<br>令人平靜的時光呢。",
       "fr": "At night I spend time quietly reading books.<br>It's relaxing time."
     },
-    "related": "【時間帯】日没後の暗い時間"
+    "related": "【時間帯】日没後の暗い時間",
+    "romaji": "yoru"
   },
   {
     "id": "card_0307",
@@ -8595,7 +8900,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "半夜電話突然響起嚇了一跳。<br>還以為發生了什麼事呢。",
       "fr": "The phone rang suddenly in the middle of the night and startled me.<br>I wondered what happened."
     },
-    "related": "【時間帯】夜深い時間（深夜0時〜2時頃）"
+    "related": "【時間帯】夜深い時間（深夜0時〜2時頃）",
+    "romaji": "yonaka / mayonaka"
   },
   {
     "id": "card_0308",
@@ -8623,7 +8929,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每天學習三十分鐘日語。<br>持續就是力量呢！",
       "fr": "I study Japanese for 30 minutes every day.<br>Continuity is power!"
     },
-    "related": "【頻度】一日も欠かさず行うこと"
+    "related": "【頻度】一日も欠かさず行うこと",
+    "romaji": "mainichi"
   },
   {
     "id": "card_0309",
@@ -8651,7 +8958,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日朝早都會沖咖啡飲。個人會精神返㗎。",
       "fr": "Je prépare et bois du café tous les matins. Ça me réveille bien."
     },
-    "related": "【頻度】毎日の朝"
+    "related": "【頻度】毎日の朝",
+    "romaji": "maiasa"
   },
   {
     "id": "card_0310",
@@ -8679,7 +8987,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每天晚上泡個舒服的澡。<br>能消除一整天的疲勞呢。",
       "fr": "Every night I take a long bath.<br>It takes away the fatigue of the day."
     },
-    "related": "【頻度】毎日の夜"
+    "related": "【頻度】毎日の夜",
+    "romaji": "maiban"
   },
   {
     "id": "card_0311",
@@ -8707,7 +9016,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天早晨稍微睡過頭了。<br>急急忙忙跑到車站。",
       "fr": "I overslept a little this morning.<br>I ran to the station in a hurry."
     },
-    "related": "【読み方】けさ (今日の朝)"
+    "related": "【読み方】けさ (今日の朝)",
+    "romaji": "kesa"
   },
   {
     "id": "card_0312",
@@ -8735,7 +9045,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚跟朋友一起開火鍋派對。<br>非常期待！",
       "fr": "Tonight I'm having a hot pot party with friends.<br>I'm really looking forward to it!"
     },
-    "related": "【読み方】こんや (今日の夜)"
+    "related": "【読み方】こんや (今日の夜)",
+    "romaji": "konban / kon'ya"
   },
   {
     "id": "card_0313",
@@ -8763,7 +9074,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "昨晚很晚才睡。<br>稍微有點睏。",
       "fr": "I was up late last night.<br>I'm a little sleepy."
     },
-    "related": "【読み方】ゆうべ／さくや (昨日の夜)"
+    "related": "【読み方】ゆうべ／さくや (昨日の夜)",
+    "romaji": "sakuban / sakuya"
   },
   {
     "id": "card_0314",
@@ -8791,7 +9103,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "最近開始了新的興趣。<br>就是用相機拍照。",
       "fr": "Recently, I started a new hobby.<br>It's taking photos with a camera."
     },
-    "related": "【時期】現在に近い過去から現在まで"
+    "related": "【時期】現在に近い過去から現在まで",
+    "romaji": "saikin"
   },
   {
     "id": "card_0315",
@@ -8819,7 +9132,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天不用上班放假。<br>要整天悠悠閒閒的。",
       "fr": "Tomorrow is my day off from work.<br>I'll relax all day."
     },
-    "related": "【休日・休暇】仕事を休む日"
+    "related": "【休日・休暇】仕事を休む日",
+    "romaji": "yasumi"
   },
   {
     "id": "card_0316",
@@ -8847,7 +9161,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "休假時喜歡開車兜風。<br>會去風景美麗的地方。",
       "fr": "I like going for a drive on days off.<br>I go to places with beautiful scenery."
     },
-    "related": "【休日】仕事や学校が休みの公休日"
+    "related": "【休日】仕事や学校が休みの公休日",
+    "romaji": "kyuujitsu"
   },
   {
     "id": "card_0317",
@@ -8875,7 +9190,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "午休時跟同事一起吃了午餐。<br>聊了好多很有趣。",
       "fr": "I had lunch with a colleague during lunch break.<br>It was fun to talk about various things."
     },
-    "related": "【時間帯】お昼の休憩時間"
+    "related": "【時間帯】お昼の休憩時間",
+    "romaji": "hiruyasumi"
   },
   {
     "id": "card_0318",
@@ -8903,7 +9219,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有點累了，休息一下吧。<br>要不要喝杯茶？",
       "fr": "I'm a bit tired, so let's take a break.<br>Shall we drink some tea?"
     },
-    "related": "【行動】仕事や作業の途中で休むこと"
+    "related": "【行動】仕事や作業の途中で休むこと",
+    "romaji": "kyuukei"
   },
   {
     "id": "card_0319",
@@ -8931,7 +9248,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "桌上有一顆橘子。<br>請用不用客氣。",
       "fr": "There is one mandarin orange on the table.<br>Please go ahead and eat it."
     },
-    "related": "【和語数え方】ひとつ (1個)"
+    "related": "【和語数え方】ひとつ (1個)",
+    "romaji": "hitotsu"
   },
   {
     "id": "card_0320",
@@ -8959,7 +9277,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買了兩個蛋糕。<br>要跟家人一起吃。",
       "fr": "I bought two cakes.<br>I'll eat them with my family."
     },
-    "related": "【和語数え方】ふたつ (2個)"
+    "related": "【和語数え方】ふたつ (2個)",
+    "romaji": "futatsu"
   },
   {
     "id": "card_0321",
@@ -8987,7 +9306,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "窗邊並排著三個盆栽植物。<br>綠意盎然很美呢。",
       "fr": "There are three houseplants lined up by the window.<br>The greenery is pretty."
     },
-    "related": "【和語数え方】みっつ (3個)"
+    "related": "【和語数え方】みっつ (3個)",
+    "romaji": "mittsu"
   },
   {
     "id": "card_0322",
@@ -9015,7 +9335,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買了四個麵包回來喔。<br>當早餐吃吧。",
       "fr": "I bought four pieces of bread.<br>Let's eat them for breakfast."
     },
-    "related": "【和語数え方】よっつ (4個)"
+    "related": "【和語数え方】よっつ (4個)",
+    "romaji": "yottsu"
   },
   {
     "id": "card_0323",
@@ -9043,7 +9364,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "盤子裡還剩下五片餅乾。<br>可以全部吃掉嗎？",
       "fr": "There are five cookies left on the plate.<br>May I eat them all?"
     },
-    "related": "【和語数え方】いつつ (5個)"
+    "related": "【和語数え方】いつつ (5個)",
+    "romaji": "itsutsu"
   },
   {
     "id": "card_0324",
@@ -9071,7 +9393,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買了一盒六顆裝的雞蛋。<br>來做歐姆蛋吧。",
       "fr": "I bought a pack of six eggs.<br>Let's make an omelet."
     },
-    "related": "【和語数え方】むっつ (6個)"
+    "related": "【和語数え方】むっつ (6個)",
+    "romaji": "muttsu"
   },
   {
     "id": "card_0325",
@@ -9099,7 +9422,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜空中閃爍著七顆星星。<br>看得見北斗七星呢。",
       "fr": "Seven stars are shining in the night sky.<br>You can see the Big Dipper."
     },
-    "related": "【和語数え方】ななつ (7個)"
+    "related": "【和語数え方】ななつ (7個)",
+    "romaji": "nanatsu"
   },
   {
     "id": "card_0326",
@@ -9127,7 +9451,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "點了八顆章魚燒。<br>熱騰騰的真好吃！",
       "fr": "I ordered eight takoyaki.<br>They are piping hot and delicious!"
     },
-    "related": "【和語数え方】やっつ (8個)"
+    "related": "【和語数え方】やっつ (8個)",
+    "romaji": "yattsu"
   },
   {
     "id": "card_0327",
@@ -9155,7 +9480,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "抽屜裡放了九支筆。<br>請選你喜歡的顏色。",
       "fr": "There are nine pens in the drawer.<br>Please pick your favorite color."
     },
-    "related": "【和語数え方】ここのつ (9個)"
+    "related": "【和語数え方】ここのつ (9個)",
+    "romaji": "kokonotsu"
   },
   {
     "id": "card_0328",
@@ -9184,7 +9510,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "盒子入便有十個冬甩。大家一齊分開食啦。",
       "fr": "Il y a dix beignets dans la boîte. Partageons-les et mangeons-les ensemble."
     },
-    "related": "【数詞】とお（10個のものを数える和語の数え方）"
+    "related": "【数詞】とお（10個のものを数える和語の数え方）",
+    "romaji": "too"
   },
   {
     "id": "card_0329",
@@ -9213,7 +9540,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早餐食咗一個飯糰之後就出咗門。",
       "fr": "J’ai mangé une boule de riz au petit-déjeuner avant de partir."
     },
-    "related": "【助数詞】いっこ（立体的な物・果物・おにぎりなどを数える）"
+    "related": "【助数詞】いっこ（立体的な物・果物・おにぎりなどを数える）",
+    "romaji": "ikko"
   },
   {
     "id": "card_0330",
@@ -9242,7 +9570,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺麵包店買咗兩個蜜瓜包。一個留畀我妹。",
       "fr": "J’ai acheté deux pains melon à la boulangerie. J’en donnerai un à ma petite sœur."
     },
-    "related": "【助数詞】にこ（小さな物や丸い物などを数える）"
+    "related": "【助数詞】にこ（小さな物や丸い物などを数える）",
+    "romaji": "niko"
   },
   {
     "id": "card_0331",
@@ -9271,7 +9600,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢啲蘋果三個500円，好抵買㗎。",
       "fr": "Ces pommes coûtent 500 yens les trois, c’est donc une très bonne affaire."
     },
-    "related": "【助数詞】さんこ（身の回りの小物・果物・卵などを数える）"
+    "related": "【助数詞】さんこ（身の回りの小物・果物・卵などを数える）",
+    "romaji": "sanko"
   },
   {
     "id": "card_0332",
@@ -9300,7 +9630,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有四個布甸，成家人啱啱好一人食一個。",
       "fr": "Il y a quatre flans, donc chacun dans la famille peut en manger un."
     },
-    "related": "【助数詞】よんこ（個数の単位。4個は「よんこ」と読む）"
+    "related": "【助数詞】よんこ（個数の単位。4個は「よんこ」と読む）",
+    "romaji": "yonko"
   },
   {
     "id": "card_0333",
@@ -9329,7 +9660,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我買咗五個匙扣當旅行手信。",
       "fr": "J’ai acheté cinq porte-clés en souvenir de mon voyage."
     },
-    "related": "【助数詞】ごこ（5個の物を数える表現）"
+    "related": "【助数詞】ごこ（5個の物を数える表現）",
+    "romaji": "goko"
   },
   {
     "id": "card_0334",
@@ -9358,7 +9690,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗌咗一份餃子，碟上面有六隻。",
       "fr": "Quand j’ai commandé une portion de gyoza, il y en avait six dans l’assiette."
     },
-    "related": "【助数詞】ろっこ（促音便「ろっこ」となる数え方）"
+    "related": "【助数詞】ろっこ（促音便「ろっこ」となる数え方）",
+    "romaji": "rokko"
   },
   {
     "id": "card_0335",
@@ -9387,7 +9720,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "書枱上面有成七舊擦膠，都唔知用邊個好。",
       "fr": "Il y a sept gommes sur le bureau, j’hésite sur laquelle utiliser."
     },
-    "related": "【助数詞】ななこ（7個の物を数える表現）"
+    "related": "【助数詞】ななこ（7個の物を数える表現）",
+    "romaji": "nanako"
   },
   {
     "id": "card_0336",
@@ -9416,7 +9750,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "洗咗一盒士多啤梨，喺碟上面排咗八粒。",
       "fr": "J’ai lavé les fraises de la barquette et j’en ai disposé huit sur une assiette."
     },
-    "related": "【助数詞】はっこ（促音便「はっこ」となる数え方）"
+    "related": "【助数詞】はっこ（促音便「はっこ」となる数え方）",
+    "romaji": "hakko"
   },
   {
     "id": "card_0337",
@@ -9445,7 +9780,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "打開朱古力盒，入面整整齊齊排咗九粒好靚嘅朱古力。",
       "fr": "Quand j’ai ouvert la boîte de chocolats, neuf beaux chocolats étaient soigneusement alignés."
     },
-    "related": "【助数詞】きゅうこ（9個の物を数える表現）"
+    "related": "【助数詞】きゅうこ（9個の物を数える表現）",
+    "romaji": "kyuuko"
   },
   {
     "id": "card_0338",
@@ -9474,7 +9810,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺超級市場買咗一盒十隻裝嘅雞蛋。",
       "fr": "J’ai acheté une boîte de dix œufs au supermarché."
     },
-    "related": "【助数詞】じゅっこ／じっこ（10個の物を数える表現）"
+    "related": "【助数詞】じゅっこ／じっこ（10個の物を数える表現）",
+    "romaji": "jukko"
   },
   {
     "id": "card_0339",
@@ -9502,7 +9839,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣，我鍾意一個人喺Cafe悠閒咁睇書。",
       "fr": "Pendant mes jours de repos, j'aime lire tranquillement tout seul dans un café."
     },
-    "related": "【助数詞】ひとり（1人の人物を表す特別な読み方）"
+    "related": "【助数詞】ひとり（1人の人物を表す特別な読み方）",
+    "romaji": "hitori"
   },
   {
     "id": "card_0340",
@@ -9530,7 +9868,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋約好咗週末兩個人一齊去睇戲。",
       "fr": "Nous avons convenu d'aller voir un film à deux ce week-end."
     },
-    "related": "【助数詞】ふたり（2人の人物を表す特別な読み方）"
+    "related": "【助数詞】ふたり（2人の人物を表す特別な読み方）",
+    "romaji": "futari"
   },
   {
     "id": "card_0341",
@@ -9559,7 +9898,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日同兩位好朋友三個人去咗好出名嘅Cafe。",
       "fr": "Aujourd’hui, nous sommes allés tous les trois avec de bons amis dans un café branché."
     },
-    "related": "【助数詞】さんにん（3人の人物・人間を数える表現）"
+    "related": "【助数詞】さんにん（3人の人物・人間を数える表現）",
+    "romaji": "sannin"
   },
   {
     "id": "card_0342",
@@ -9588,7 +9928,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋係四人家庭，有爸爸媽媽、家姐同埋我。",
       "fr": "Ma famille compte quatre personnes : mes parents, ma sœur aînée et moi."
     },
-    "related": "【助数詞】よにん（4人は「よにん」と読む。「よんにん」とは言わない）"
+    "related": "【助数詞】よにん（4人は「よにん」と読む。「よんにん」とは言わない）",
+    "romaji": "yonin"
   },
   {
     "id": "card_0343",
@@ -9617,7 +9958,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今次個Project會由公司入面五位成員組隊一齊做。",
       "fr": "Pour ce projet, nous allons former une équipe de cinq personnes de l’entreprise pour le mener à bien."
     },
-    "related": "【助数詞】ごにん（5人の人物を数える表現）"
+    "related": "【助数詞】ごにん（5人の人物を数える表現）",
+    "romaji": "gonin"
   },
   {
     "id": "card_0344",
@@ -9646,7 +9988,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A：餐廳訂位幾多位呀？<br/>B：包埋同事總共係六位。",
       "fr": "A : La réservation au restaurant est pour combien de personnes ?<br/>B : Six personnes au total, collègues compris."
     },
-    "related": "【助数詞】ろくにん（6人の人物を数える表現）"
+    "related": "【助数詞】ろくにん（6人の人物を数える表現）",
+    "romaji": "rokunin"
   },
   {
     "id": "card_0345",
@@ -9675,7 +10018,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "Seminar個小組發表，我哋七個人合力整好咗啲Slides。",
       "fr": "Dans notre groupe de présentation de séminaire, nous avons collaboré à sept pour préparer les diapositives."
     },
-    "related": "【助数詞】しちにん／ななにん（7人の人物を数える表現）"
+    "related": "【助数詞】しちにん／ななにん（7人の人物を数える表現）",
+    "romaji": "shichinin"
   },
   {
     "id": "card_0346",
@@ -9704,7 +10048,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大學Soc嘅朋友一行八個人，趁住暑假一齊去咗Camping。",
       "fr": "Nous sommes allés faire du camping à huit avec des amis du club universitaire pendant les vacances d’été."
     },
-    "related": "【助数詞】はちにん（8人の人物を数える表現）"
+    "related": "【助数詞】はちにん（8人の人物を数える表現）",
+    "romaji": "hachinin"
   },
   {
     "id": "card_0347",
@@ -9733,7 +10078,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "棒球隊喺球場上面會有九位球員同時落場。",
       "fr": "Dans une équipe de baseball, neuf joueurs entrent sur le terrain."
     },
-    "related": "【助数詞】きゅうにん／くにん（9人の人物を数える表現）"
+    "related": "【助数詞】きゅうにん／くにん（9人の人物を数える表現）",
+    "romaji": "kyuunin"
   },
   {
     "id": "card_0348",
@@ -9762,7 +10108,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開會嗰陣聚集咗十位成員，大家互相提出新嘅諗法。",
       "fr": "Dix membres se sont réunis pour la réunion et ont échangé de nouvelles idées."
     },
-    "related": "【助数詞】じゅうにん（10人の人物を数える表現）"
+    "related": "【助数詞】じゅうにん（10人の人物を数える表現）",
+    "romaji": "juunin"
   },
   {
     "id": "card_0349",
@@ -9790,7 +10137,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 現在幾點？<br>B: 剛好下午兩點。",
       "fr": "A: What time is it now?<br>B: It's exactly 2 PM."
     },
-    "related": "【時制】現在の時点"
+    "related": "【時制】現在の時点",
+    "romaji": "ima"
   },
   {
     "id": "card_0350",
@@ -9818,7 +10166,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我剛剛才剛到達車站。<br>會在剪票口等你喔。",
       "fr": "I've just arrived at the station right now.<br>I'll wait at the ticket gate."
     },
-    "related": "【時制】ほんの少し前の直前の瞬間"
+    "related": "【時制】ほんの少し前の直前の瞬間",
+    "romaji": "imasugu / tattaima"
   },
   {
     "id": "card_0351",
@@ -9846,7 +10195,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中生已經出發咗喇？ B: 係呀，佢啱啱搭的士出發去機場喇。",
       "fr": "A: M. Tanaka est-il déjà parti ? B: Oui, il vient tout juste de prendre un taxi pour l'aéroport."
     },
-    "related": "【時制】ほんの少し前の直前の瞬間"
+    "related": "【時制】ほんの少し前の直前の瞬間",
+    "romaji": "sakki / tattaima"
   },
   {
     "id": "card_0352",
@@ -9874,7 +10224,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "前幾天謝謝您的款待。<br>非常好吃！",
       "fr": "Thank you for the meal the other day.<br>It was very delicious!"
     },
-    "related": "【時制】数日前・この前の日"
+    "related": "【時制】数日前・この前の日",
+    "romaji": "konomae / senjitsu"
   },
   {
     "id": "card_0353",
@@ -9902,7 +10253,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我馬上就回來，請稍候片刻。",
       "fr": "I will be back right away, so please wait a moment."
     },
-    "related": "【時間】時間を置かず直ちに"
+    "related": "【時間】時間を置かず直ちに",
+    "romaji": "suguni"
   },
   {
     "id": "card_0354",
@@ -9930,7 +10282,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "現在有點忙，稍後再聽你說喔。<br>明白了，稍後再跟您聯絡。",
       "fr": "I'm busy now, so please tell me about it later.<br>Understood, I will contact you later."
     },
-    "related": "【時間】今すぐではなく少し経った後"
+    "related": "【時間】今すぐではなく少し経った後",
+    "romaji": "atode"
   },
   {
     "id": "card_0355",
@@ -9958,7 +10311,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "櫻花馬上就要滿開盛開了呢。<br>真期待賞櫻。",
       "fr": "The cherry blossoms will be in full bloom very soon.<br>I'm looking forward to cherry blossom viewing."
     },
-    "related": "【間近】時間的にあと少しで訪れること"
+    "related": "【間近】時間的にあと少しで訪れること",
+    "romaji": "mousugu"
   },
   {
     "id": "card_0356",
@@ -9986,7 +10340,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天天氣真好呢。<br>要不要去哪裡走走？",
       "fr": "It's nice weather today.<br>Shall we go out somewhere?"
     },
-    "related": "【日付】きょう・本日"
+    "related": "【日付】きょう・本日",
+    "romaji": "kyou"
   },
   {
     "id": "card_0357",
@@ -10014,7 +10369,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "昨天在家看了電影。<br>非常感動喔。",
       "fr": "I watched a movie at home yesterday.<br>I was very touched."
     },
-    "related": "【日付】きのう・前日"
+    "related": "【日付】きのう・前日",
+    "romaji": "kinou"
   },
   {
     "id": "card_0358",
@@ -10042,7 +10398,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "前天下了一場大雨呢。<br>風也很大。",
       "fr": "It rained heavily the day before yesterday.<br>The wind was strong too."
     },
-    "related": "【日付】おととい (昨日の前の日)"
+    "related": "【日付】おととい (昨日の前の日)",
+    "romaji": "ototoi"
   },
   {
     "id": "card_0359",
@@ -10070,7 +10427,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天有考試。<br>今晚要好好念書！",
       "fr": "I have a test tomorrow.<br>I will study hard tonight!"
     },
-    "related": "【日付】あした・次の日"
+    "related": "【日付】あした・次の日",
+    "romaji": "ashita"
   },
   {
     "id": "card_0360",
@@ -10098,7 +10456,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "後天開始連假。<br>打算去溫泉旅行。",
       "fr": "A consecutive holiday starts the day after tomorrow.<br>I plan to go to a hot spring."
     },
-    "related": "【日付】あさって (明日の次の日)"
+    "related": "【日付】あさって (明日の次の日)",
+    "romaji": "asatte"
   },
   {
     "id": "card_0361",
@@ -10126,7 +10485,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上週去了京都旅行。<br>寺廟非常棒。",
       "fr": "I traveled to Kyoto last week.<br>The temples were wonderful."
     },
-    "related": "【期間】前の週"
+    "related": "【期間】前の週",
+    "romaji": "senshuu"
   },
   {
     "id": "card_0362",
@@ -10154,7 +10514,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這週工作非常忙碌。<br>會努力堅持到週末的。",
       "fr": "I am very busy with work this week.<br>I'll do my best until the weekend."
     },
-    "related": "【期間】現在の週"
+    "related": "【期間】現在の週",
+    "romaji": "konshuu"
   },
   {
     "id": "card_0363",
@@ -10182,7 +10543,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下週二碰面吧。<br>真令人期待！",
       "fr": "Let's meet next Tuesday.<br>I'm looking forward to it!"
     },
-    "related": "【期間】次の週"
+    "related": "【期間】次の週",
+    "romaji": "raishuu"
   },
   {
     "id": "card_0364",
@@ -10210,7 +10572,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上個月買了一輛新車。<br>開車真開心。",
       "fr": "I bought a new car last month.<br>Driving is fun."
     },
-    "related": "【期間】前の月"
+    "related": "【期間】前の月",
+    "romaji": "sengetsu"
   },
   {
     "id": "card_0365",
@@ -10238,7 +10601,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這個月有很多出差。<br>想多注意身體健康。",
       "fr": "I have a lot of business trips this month.<br>I want to take care of my health."
     },
-    "related": "【期間】現在の月"
+    "related": "【期間】現在の月",
+    "romaji": "kongetsu"
   },
   {
     "id": "card_0366",
@@ -10266,7 +10630,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月有朋友的婚禮。<br>西裝送去乾洗了。",
       "fr": "Next month my friend has a wedding.<br>I took my suit to the dry cleaners."
     },
-    "related": "【期間】次の月"
+    "related": "【期間】次の月",
+    "romaji": "raigetsu"
   },
   {
     "id": "card_0367",
@@ -10294,7 +10659,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去年從大學畢業了。<br>是踏入職場的第一年。",
       "fr": "I graduated from university last year.<br>It's my first year as a working adult."
     },
-    "related": "【年】前の年 (きょねん)"
+    "related": "【年】前の年 (きょねん)",
+    "romaji": "kyonen"
   },
   {
     "id": "card_0368",
@@ -10322,7 +10688,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今年想通過日本語能力試驗。<br>每天都在努力。",
       "fr": "I want to pass the JLPT this year.<br>I'm doing my best every day."
     },
-    "related": "【年】現在の年 (ことし)"
+    "related": "【年】現在の年 (ことし)",
+    "romaji": "kotoshi"
   },
   {
     "id": "card_0369",
@@ -10350,7 +10717,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明年打算去日本留學。<br>現在就開始準備了。",
       "fr": "I plan to study abroad in Japan next year.<br>I'm preparing starting now."
     },
-    "related": "【年】次の年 (らいねん)"
+    "related": "【年】次の年 (らいねん)",
+    "romaji": "rainen"
   },
   {
     "id": "card_0370",
@@ -10378,7 +10746,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "前年搬來了東京。<br>已經習慣了喔。",
       "fr": "I moved to Tokyo the year before last.<br>I'm already used to it."
     },
-    "related": "【年】おととし (去年の前の年)"
+    "related": "【年】おととし (去年の前の年)",
+    "romaji": "ototoshi"
   },
   {
     "id": "card_0371",
@@ -10406,7 +10775,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "預計後年要蓋新房子。<br>全家人都非常期待。",
       "fr": "We plan to build a new house the year after next.<br>All of the family is looking forward to it."
     },
-    "related": "【年】さらいねん (来年の次の年)"
+    "related": "【年】さらいねん (来年の次の年)",
+    "romaji": "sarainen"
   },
   {
     "id": "card_0372",
@@ -10434,7 +10804,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期天整天在家悠閒地看書。<br>身心都得到了放鬆。",
       "fr": "I relaxed and read books at home all day on Sunday.<br>I was able to refresh."
     },
-    "related": "【期間】朝から晩までの一日全体"
+    "related": "【期間】朝から晩までの一日全体",
+    "romaji": "ichinichijuu"
   },
   {
     "id": "card_0373",
@@ -10462,7 +10833,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這座島一年四季都很溫暖舒適。<br>有許多觀光客造訪。",
       "fr": "This island is warm and comfortable all year round.<br>Many tourists visit."
     },
-    "related": "【期間】春夏秋冬の一年間ずっと"
+    "related": "【期間】春夏秋冬の一年間ずっと",
+    "romaji": "ichinenjuu"
   },
   {
     "id": "card_0374",
@@ -10490,7 +10862,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日朝早六點起身。",
       "fr": "Je me lève à 6 heures tous les matins."
     },
-    "related": "【原型（辞書形）】起きる（おきる）\n【ます形】起きます\n【て形】起きて\n【ない形】起きない\n【た形】起きた\n【グループ・連語】2グループ (一段) / 「朝早く起きる」"
+    "related": "【原型（辞書形）】起きる（おきる）\n【ます形】起きます\n【て形】起きて\n【ない形】起きない\n【た形】起きた\n【グループ・連語】2グループ (一段) / 「朝早く起きる」",
+    "romaji": "okiru / okimasu"
   },
   {
     "id": "card_0375",
@@ -10518,7 +10891,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日讀兩個鐘頭日文。",
       "fr": "J'étudie le japonais pendant deux heures tous les jours."
     },
-    "related": "【原型（辞書形）】勉強をする（べんきょうをする）\n【ます形】勉強をします\n【て形】勉強をして\n【ない形】勉強をしない\n【た形】勉強をした\n【グループ・連語】3グループ (サ変) / 「図書館で勉強をする」"
+    "related": "【原型（辞書形）】勉強をする（べんきょうをする）\n【ます形】勉強をします\n【て形】勉強をして\n【ない形】勉強をしない\n【た形】勉強をした\n【グループ・連語】3グループ (サ変) / 「図書館で勉強をする」",
+    "romaji": "benkyou o suru / benkyou o shimasu"
   },
   {
     "id": "card_0376",
@@ -10546,7 +10920,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明日我會同朋友一齊去京都。",
       "fr": "Demain, j'irai à Kyoto avec des amis."
     },
-    "related": "【原型（辞書形）】行く（いく）\n【ます形】行きます\n【て形】行って\n【ない形】行かない\n【た形】行った\n【グループ・連語】1グループ (五段・促音便例外) / 「学校へ行く」"
+    "related": "【原型（辞書形）】行く（いく）\n【ます形】行きます\n【て形】行って\n【ない形】行かない\n【た形】行った\n【グループ・連語】1グループ (五段・促音便例外) / 「学校へ行く」",
+    "romaji": "iku / ikimasu"
   },
   {
     "id": "card_0377",
@@ -10574,7 +10949,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "做完嘢之後，我直接返屋企。",
       "fr": "Une fois le travail terminé, je rentre directement chez moi."
     },
-    "related": "【原型（辞書形）】帰る（かえる）\n【ます形】帰ります\n【て形】帰って\n【ない形】帰らない\n【た形】帰った\n【グループ・連語】1グループ (五段・ら行注意) / 「家へ帰る」"
+    "related": "【原型（辞書形）】帰る（かえる）\n【ます形】帰ります\n【て形】帰って\n【ない形】帰らない\n【た形】帰った\n【グループ・連語】1グループ (五段・ら行注意) / 「家へ帰る」",
+    "romaji": "kaeru / kaerimasu"
   },
   {
     "id": "card_0378",
@@ -10602,7 +10978,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今個禮拜日，朋友打算嚟我屋企玩。",
       "fr": "Dimanche prochain, un ami doit venir me rendre visite à la maison."
     },
-    "related": "【原型（辞書形）】来る（くる）\n【ます形】来ます\n【て形】来て\n【ない形】来ない\n【た形】来た\n【グループ・連語】3グループ (カ変) / 「友達が家に来る」"
+    "related": "【原型（辞書形）】来る（くる）\n【ます形】来ます\n【て形】来て\n【ない形】来ない\n【た形】来た\n【グループ・連語】3グループ (カ変) / 「友達が家に来る」",
+    "romaji": "kuru / kimasu"
   },
   {
     "id": "card_0379",
@@ -10630,7 +11007,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我早餐食多士同生果。",
       "fr": "Pour le petit-déjeuner, je mange du pain grillé et des fruits."
     },
-    "related": "【原型（辞書形）】食べる（たべる）\n【ます形】食べます\n【て形】食べて\n【ない形】食べない\n【た形】食べた\n【グループ・連語】2グループ (一段) / 「朝ご飯を食べる」"
+    "related": "【原型（辞書形）】食べる（たべる）\n【ます形】食べます\n【て形】食べて\n【ない形】食べない\n【た形】食べた\n【グループ・連語】2グループ (一段) / 「朝ご飯を食べる」",
+    "romaji": "taberu / tabemasu"
   },
   {
     "id": "card_0380",
@@ -10658,7 +11036,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食完飯之後飲熱茶。",
       "fr": "Je bois du thé chaud après le repas."
     },
-    "related": "【原型（辞書形）】飲む（のむ）\n【ます形】飲みます\n【て形】飲んで\n【ない形】飲まない\n【た形】飲んだ\n【グループ・連語】1グループ (五段) / 「お茶を飲む」"
+    "related": "【原型（辞書形）】飲む（のむ）\n【ます形】飲みます\n【て形】飲んで\n【ない形】飲まない\n【た形】飲んだ\n【グループ・連語】1グループ (五段) / 「お茶を飲む」",
+    "romaji": "nomu / nomimasu"
   },
   {
     "id": "card_0381",
@@ -10686,7 +11065,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我夜晚盡量十一點左右瞓覺。",
       "fr": "J'essaie de me coucher vers 23 heures le soir."
     },
-    "related": "【原型（辞書形）】寝る（ねる）\n【ます形】寝ます\n【て形】寝て\n【ない形】寝ない\n【た形】寝た\n【グループ・連語】2グループ (一段) / 「夜11時に寝る」"
+    "related": "【原型（辞書形）】寝る（ねる）\n【ます形】寝ます\n【て形】寝て\n【ない形】寝ない\n【た形】寝た\n【グループ・連語】2グループ (一段) / 「夜11時に寝る」",
+    "romaji": "neru / nemasu"
   },
   {
     "id": "card_0382",
@@ -10714,7 +11094,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣，我會喺屋企睇自己鍾意嘅戲。",
       "fr": "Pendant mes jours de repos, je regarde des films que j'aime à la maison."
     },
-    "related": "【原型（辞書形）】見る（みる）\n【ます形】見ます\n【て形】見て\n【ない形】見ない\n【た形】見た\n【グループ・連語】2グループ (一段) / 「映画を見る」"
+    "related": "【原型（辞書形）】見る（みる）\n【ます形】見ます\n【て形】見て\n【ない形】見ない\n【た形】見た\n【グループ・連語】2グループ (一段) / 「映画を見る」",
+    "romaji": "miru / mimasu"
   },
   {
     "id": "card_0383",
@@ -10742,7 +11123,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "問老師日文發音。",
       "fr": "Je demande au professeur la prononciation du japonais."
     },
-    "related": "【原型（辞書形）】聞く（きく）\n【ます形】聞きます\n【て形】聞いて\n【ない形】聞かない\n【た形】聞いた\n【グループ・連語】1グループ (五段) / 「音楽を聞く / 先生に聞く」"
+    "related": "【原型（辞書形）】聞く（きく）\n【ます形】聞きます\n【て形】聞いて\n【ない形】聞かない\n【た形】聞いた\n【グループ・連語】1グループ (五段) / 「音楽を聞く / 先生に聞く」",
+    "romaji": "kiku / kikimasu"
   },
   {
     "id": "card_0384",
@@ -10770,7 +11152,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假時在房間裡聽喜歡的音樂。<br>心情平靜了下來呢。",
       "fr": "I listen to my favorite music in my room on weekends.<br>My mind calms down."
     },
-    "related": "【動詞】聴く (熱心に耳を傾けること)"
+    "related": "【動詞】聴く (熱心に耳を傾けること)",
+    "romaji": "kiku / kikimasu"
   },
   {
     "id": "card_0385",
@@ -10798,7 +11181,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "瞓覺之前喺張床度睇書係我每日嘅習慣。",
       "fr": "Lire au lit avant de dormir est ma routine quotidienne."
     },
-    "related": "【原型（辞書形）】読む（よむ）\n【ます形】読みます\n【て形】読んで\n【ない形】読まない\n【た形】読んだ\n【グループ・連語】1グループ (五段) / 「本を読む」"
+    "related": "【原型（辞書形）】読む（よむ）\n【ます形】読みます\n【て形】読んで\n【ない形】読まない\n【た形】読んだ\n【グループ・連語】1グループ (五段) / 「本を読む」",
+    "romaji": "yomu / yomimasu"
   },
   {
     "id": "card_0386",
@@ -10826,7 +11210,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上堂嗰陣，我盡量多啲用日語講嘢。",
       "fr": "Pendant les cours, j'essaie de parler le plus possible en japonais."
     },
-    "related": "【原型（辞書形）】話す（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「日本語で話す」"
+    "related": "【原型（辞書形）】話す（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「日本語で話す」",
+    "romaji": "hanasu / hanashimasu"
   },
   {
     "id": "card_0387",
@@ -10854,7 +11239,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在車站前的鐘塔跟朋友見面。<br>真令人期待。",
       "fr": "I meet my friend at the clock tower in front of the station.<br>I'm looking forward to it."
     },
-    "related": "【動詞】会う (対面すること)"
+    "related": "【動詞】会う (対面すること)",
+    "romaji": "au / aimasu"
   },
   {
     "id": "card_0388",
@@ -10882,7 +11268,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺便利店買晏晝便當。",
       "fr": "J'achète un bento pour le déjeuner au kombini."
     },
-    "related": "【原型（辞書形）】買う（かう）\n【ます形】買います\n【て形】買って\n【ない形】買わない\n【た形】買った\n【グループ・連語】1グループ (五段) / 「パンを買う」"
+    "related": "【原型（辞書形）】買う（かう）\n【ます形】買います\n【て形】買って\n【ない形】買わない\n【た形】買った\n【グループ・連語】1グループ (五段) / 「パンを買う」",
+    "romaji": "kau / kaimasu"
   },
   {
     "id": "card_0389",
@@ -10910,7 +11297,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期六打網球。<br>痛快地流一身汗吧。",
       "fr": "I play tennis on Saturday.<br>Let's work up a good sweat."
     },
-    "related": "【動詞】する (動作・行動)"
+    "related": "【動詞】する (動作・行動)",
+    "romaji": "suru / shimasu"
   },
   {
     "id": "card_0390",
@@ -10938,7 +11326,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早上九點開始開會。<br>發放資料吧。",
       "fr": "The meeting starts from 9 AM.<br>Let's distribute the materials."
     },
-    "related": "【動詞】始まる (自動詞)"
+    "related": "【動詞】始まる (自動詞)",
+    "romaji": "hajimaru / hajimarimasu"
   },
   {
     "id": "card_0391",
@@ -10966,7 +11355,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "傍晚五點今天的課就結束了。<br>順路去一趟圖書館吧。",
       "fr": "Today's class ends at 5 PM.<br>Let's drop by the library."
     },
-    "related": "【動詞】終わる (自動詞)"
+    "related": "【動詞】終わる (自動詞)",
+    "romaji": "owaru / owarimasu"
   },
   {
     "id": "card_0392",
@@ -10994,7 +11384,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由禮拜一到禮拜五喺公司返工。",
       "fr": "Je travaille à l'entreprise du lundi au vendredi."
     },
-    "related": "【原型（辞書形）】働く（はたらく）\n【ます形】働きます\n【て形】働いて\n【ない形】働かない\n【た形】働いた\n【グループ・連語】1グループ (五段) / 「会社で働く」"
+    "related": "【原型（辞書形）】働く（はたらく）\n【ます形】働きます\n【て形】働いて\n【ない形】働かない\n【た形】働いた\n【グループ・連語】1グループ (五段) / 「会社で働く」",
+    "romaji": "hataraku / hatarakimasu"
   },
   {
     "id": "card_0393",
@@ -11022,7 +11413,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇到魔術表演好驚訝。",
       "fr": "Je suis très surpris en voyant des tours de magie."
     },
-    "related": "【動詞】驚く (びっくりすること)"
+    "related": "【動詞】驚く (びっくりすること)",
+    "romaji": "odoroku / odorokimasu"
   },
   {
     "id": "card_0394",
@@ -11050,7 +11442,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我有時會唔記得約好嘅時間。",
       "fr": "J'oublie parfois l'heure du rendez-vous."
     },
-    "related": "【原型（辞書形）】忘れる（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「宿題を忘れる」"
+    "related": "【原型（辞書形）】忘れる（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「宿題を忘れる」",
+    "romaji": "wasureru / wasuremasu"
   },
   {
     "id": "card_0395",
@@ -11078,7 +11471,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我努力做到每日背熟五個新字。",
       "fr": "Je m'efforce de mémoriser 5 nouveaux mots chaque jour."
     },
-    "related": "【原型（辞書形）】覚える（おぼえる）\n【ます形】覚えます\n【て形】覚えて\n【ない形】覚えない\n【た形】覚えた\n【グループ・連語】2グループ (一段) / 「単語を覚える」"
+    "related": "【原型（辞書形）】覚える（おぼえる）\n【ます形】覚えます\n【て形】覚えて\n【ない形】覚えない\n【た形】覚えた\n【グループ・連語】2グループ (一段) / 「単語を覚える」",
+    "romaji": "oboeru / oboemasu"
   },
   {
     "id": "card_0396",
@@ -11106,7 +11500,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在車站搭乘電車。<br>我們去位子上坐吧。",
       "fr": "I get on the train at the station.<br>Let's sit in a seat."
     },
-    "related": "【動詞】乗る (ます形: 乗ります / て形: 乗って)"
+    "related": "【動詞】乗る (ます形: 乗ります / て形: 乗って)",
+    "romaji": "noru / norimasu"
   },
   {
     "id": "card_0397",
@@ -11134,7 +11529,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺下一個站落電車。",
       "fr": "Je descends du train à la prochaine gare."
     },
-    "related": "【原型（辞書形）】降りる（おりる）\n【ます形】降ります\n【て形】降りて\n【ない形】降りない\n【た形】降りた\n【グループ・連語】2グループ (一段) / 「駅で降りる」"
+    "related": "【原型（辞書形）】降りる（おりる）\n【ます形】降ります\n【て形】降りて\n【ない形】降りない\n【た形】降りた\n【グループ・連語】2グループ (一段) / 「駅で降りる」",
+    "romaji": "oriru / orimasu"
   },
   {
     "id": "card_0398",
@@ -11162,7 +11558,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為傷風感冒，所以向公司請假休息。",
       "fr": "Comme j'ai attrapé un rhume, je prends un jour de congé."
     },
-    "related": "【原型（辞書形）】休む（やすむ）\n【ます形】休みます\n【て形】休んで\n【ない形】休まない\n【た形】休んだ\n【グループ・連語】1グループ (五段) / 「学校を休む」"
+    "related": "【原型（辞書形）】休む（やすむ）\n【ます形】休みます\n【て形】休んで\n【ない形】休まない\n【た形】休んだ\n【グループ・連語】1グループ (五段) / 「学校を休む」",
+    "romaji": "yasumu / yasumimasu"
   },
   {
     "id": "card_0399",
@@ -11190,7 +11587,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假時很期待跟孩子們在公園玩耍。<br>一起傳接球。",
       "fr": "On days off I look forward to playing with the kids in the park.<br>We play catch."
     },
-    "related": "【動詞】遊ぶ (楽しむこと)"
+    "related": "【動詞】遊ぶ (楽しむこと)",
+    "romaji": "asobu / asobimasu"
   },
   {
     "id": "card_0400",
@@ -11218,7 +11616,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每天早上我都搭乘滿載的電車去上班。",
       "fr": "Chaque matin, je prends un train bondé pour aller au travail."
     },
-    "related": "【乗り物の助詞】電車「に」乗る ／ 電車「で」行く"
+    "related": "【乗り物の助詞】電車「に」乗る ／ 電車「で」行く",
+    "romaji": "densha"
   },
   {
     "id": "card_0401",
@@ -11246,7 +11645,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "東京嘅火車同巴士等交通工具好發達，去邊度都咁方便。",
       "fr": "Tokyo dispose de transports très développés comme les trains et les bus, ce qui rend les déplacements très pratiques."
     },
-    "related": "【交通・鉄道】乗り物 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】乗り物 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "norimono"
   },
   {
     "id": "card_0402",
@@ -11274,7 +11674,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下雨天從車站搭巴士去好方便。",
       "fr": "Les jours de pluie, il est pratique de prendre le bus depuis la gare."
     },
-    "related": "【乗り物の助詞】バス「に」乗る ／ バス「で」行く"
+    "related": "【乗り物の助詞】バス「に」乗る ／ バス「で」行く",
+    "romaji": "basu"
   },
   {
     "id": "card_0403",
@@ -11302,7 +11703,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為冇尾班車，所以叫咗的士返屋企。",
       "fr": "Comme il n'y avait plus de dernier train, j'ai appelé un taxi pour rentrer chez moi."
     },
-    "related": "【関連表現】タクシーを呼ぶ（拾う） ／ タクシー乗り場"
+    "related": "【関連表現】タクシーを呼ぶ（拾う） ／ タクシー乗り場",
+    "romaji": "takushii"
   },
   {
     "id": "card_0404",
@@ -11330,7 +11732,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣好，踩單車去附近嘅公園啦。",
       "fr": "Comme il fait beau, allons au parc voisin à vélo."
     },
-    "related": "【乗り物の助詞】自転車「に」乗る ／ 自転車「を」こぐ"
+    "related": "【乗り物の助詞】自転車「に」乗る ／ 自転車「を」こぐ",
+    "romaji": "jitensha"
   },
   {
     "id": "card_0405",
@@ -11358,7 +11761,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由東京搭飛機去沖繩大約要3個鐘。",
       "fr": "Il faut environ 3 heures en avion de Tokyo à Okinawa."
     },
-    "related": "【関連表現】飛行機に乗る ／ 空港（くうこう）"
+    "related": "【関連表現】飛行機に乗る ／ 空港（くうこう）",
+    "romaji": "hikouki"
   },
   {
     "id": "card_0406",
@@ -11386,7 +11790,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺碼頭搭渡輪（船），去咗一個好寧靜嘅島。",
       "fr": "J'ai pris un ferry (bateau) depuis le port pour rejoindre une île paisible."
     },
-    "related": "【関連表現】船に乗る ／ 船が港に着く"
+    "related": "【関連表現】船に乗る ／ 船が港に着く",
+    "romaji": "fune"
   },
   {
     "id": "card_0407",
@@ -11414,7 +11819,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我會揸自己部車，同屋企人去遊車河。",
       "fr": "Le week-end, je conduis ma propre voiture et pars en promenade avec ma famille."
     },
-    "related": "【関連表現】車を運転する ／ 車に乗る"
+    "related": "【関連表現】車を運転する ／ 車に乗る",
+    "romaji": "kuruma"
   },
   {
     "id": "card_0408",
@@ -11442,7 +11848,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭新幹線嘅話，由東京去大阪只需兩個半鐘就到。",
       "fr": "En prenant le Shinkansen, on peut aller de Tokyo à Osaka en seulement deux heures et demie."
     },
-    "related": "【関連表現】新幹線に乗る ／ 日本の高速鉄道"
+    "related": "【関連表現】新幹線に乗る ／ 日本の高速鉄道",
+    "romaji": "shinkansen"
   },
   {
     "id": "card_0409",
@@ -11470,7 +11877,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "東京嘅地鐵路線好多，但慣咗就非常方便。",
       "fr": "Le métro de Tokyo compte de nombreuses lignes, mais une fois habitué, c'est très pratique."
     },
-    "related": "【関連表現】地下鉄に乗る ／ 地下鉄の駅"
+    "related": "【関連表現】地下鉄に乗る ／ 地下鉄の駅",
+    "romaji": "chikatetsu"
   },
   {
     "id": "card_0410",
@@ -11498,7 +11906,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣很好，從車站走回家。<br>感覺好舒服。",
       "fr": "The weather was nice, so I walked home from the station.<br>It felt pleasant."
     },
-    "related": "【動詞て形】歩いて (歩く)"
+    "related": "【動詞て形】歩いて (歩く)",
+    "romaji": "aruite"
   },
   {
     "id": "card_0411",
@@ -11526,7 +11935,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "關於咖哩的做法，首先把蔬菜和肉切塊。<br>之後再放進鍋子裡炒。",
       "fr": "As for making curry, first cut the vegetables and meat.<br>After that, fry them in a pot."
     },
-    "related": "【順序】物事の一番初めの行動を表します。"
+    "related": "【順序】物事の一番初めの行動を表します。",
+    "romaji": "mazu"
   },
   {
     "id": "card_0412",
@@ -11554,7 +11964,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "首先把蔬菜炒熟，接下來加水。<br>把火調小慢慢燉煮吧。",
       "fr": "First fry the vegetables, next add water.<br>Turn down the heat and simmer."
     },
-    "related": "【順序】「まず」の次の段階を表します。"
+    "related": "【順序】「まず」の次の段階を表します。",
+    "romaji": "tsugini"
   },
   {
     "id": "card_0413",
@@ -11582,7 +11993,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食材變軟之後，最後放入咖哩塊。<br>這樣就大功告成了！",
       "fr": "Once the ingredients are tender, finally add the curry roux.<br>Now it's complete!"
     },
-    "related": "【順序】一連の流れの最後の仕上げです。"
+    "related": "【順序】一連の流れの最後の仕上げです。",
+    "romaji": "saigoni"
   },
   {
     "id": "card_0414",
@@ -11610,7 +12022,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "來到日本，一開始去了淺草的淺草寺。<br>非常熱鬧。",
       "fr": "Coming to Japan, I went to Sensoji Temple in Asakusa first.<br>It was very lively."
     },
-    "related": "【順序】時間や順番の一番最初です。"
+    "related": "【順序】時間や順番の一番最初です。",
+    "romaji": "saishoni"
   },
   {
     "id": "card_0415",
@@ -11638,7 +12051,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "作業已經寫完了嗎？<br>是的，已經寫完了喔。",
       "fr": "Have you finished your homework already?<br>Yes, I've finished it already."
     },
-    "related": "【完了】すでに動作が済んでいることを表します。"
+    "related": "【完了】すでに動作が済んでいることを表します。",
+    "romaji": "mou~sudeni"
   },
   {
     "id": "card_0416",
@@ -11666,7 +12080,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我還在工作中，稍後再回電給您喔。<br>好的，工作請加油。",
       "fr": "I am still working, so I will call you back later.<br>Yes, please do your best at work."
     },
-    "related": "【状態の継続】動作や状態が続いていること"
+    "related": "【状態の継続】動作や状態が続いていること",
+    "romaji": "mada~shiteiru"
   },
   {
     "id": "card_0417",
@@ -11694,7 +12109,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "午餐已經吃了嗎？<br>還沒，我還沒吃。",
       "fr": "Have you had lunch already?<br>No, I haven't eaten yet."
     },
-    "related": "【未完了】「まだ〜ていません」の形で使います。"
+    "related": "【未完了】「まだ〜ていません」の形で使います。",
+    "romaji": "mada"
   },
   {
     "id": "card_0418",
@@ -11722,7 +12138,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天玩得很開心。下次再一起玩喔！<br>好的，一定還要再碰面喔。",
       "fr": "It was fun today. Let's hang out again!<br>Yes, let's definitely meet again."
     },
-    "related": "【反復・再会】再び・もう一度"
+    "related": "【反復・再会】再び・もう一度",
+    "romaji": "mata"
   },
   {
     "id": "card_0419",
@@ -11750,7 +12167,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔該可唔可以幫手check下呢份文件呀？ B: 我而家做緊嘢走唔開，等半個鐘後先睇得唔得？",
       "fr": "A: Pourriez-vous vérifier ces documents ? B: Je suis occupé pour l'instant, puis-je les regarder dans environ 30 minutes ?"
     },
-    "related": "【時間】今すぐではなく少し経った後"
+    "related": "【時間】今すぐではなく少し経った後",
+    "romaji": "atode"
   },
   {
     "id": "card_0420",
@@ -11778,7 +12196,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大學畢業後，之後進了一家日本公司工作。<br>每天都很充實。",
       "fr": "I graduated from college, and after that I got a job at a Japanese company.<br>Every day is fulfilling."
     },
-    "related": "【推移】ある出来事のあとの展開"
+    "related": "【推移】ある出来事のあとの展開",
+    "romaji": "sonoato"
   },
   {
     "id": "card_0421",
@@ -11806,7 +12225,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電話一響我立刻就接了起來。<br>是很重要的要事喔。",
       "fr": "The phone rang and I answered right away.<br>It was important business."
     },
-    "related": "【即時】間を置かずすぐに行うこと"
+    "related": "【即時】間を置かずすぐに行うこと",
+    "romaji": "sugu"
   },
   {
     "id": "card_0422",
@@ -11834,7 +12254,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "期待已久嘅黃金週就快到喇。你會去旅行嗎？",
       "fr": "La Golden Week tant attendue arrive bientôt. Allez-vous partir en voyage ?"
     },
-    "related": "【間近】時間的にあと少しで訪れること"
+    "related": "【間近】時間的にあと少しで訪れること",
+    "romaji": "mousugu"
   },
   {
     "id": "card_0423",
@@ -11862,7 +12283,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從車站走路到家裡大約需要十五分鐘左右。<br>剛好當作適度的運動呢。",
       "fr": "It takes about 15 minutes to walk from the station to home.<br>It's just the right exercise."
     },
-    "related": "【概数】数量や時間の「およそ・約」を表します。"
+    "related": "【概数】数量や時間の「およそ・約」を表します。",
+    "romaji": "~kurai"
   },
   {
     "id": "card_0424",
@@ -11890,7 +12312,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早晨我總是喝黑咖啡。<br>這是我的習慣。",
       "fr": "In the morning I always drink black coffee.<br>This is my habit."
     },
-    "related": "【頻度】常に・毎回変わらず"
+    "related": "【頻度】常に・毎回変わらず",
+    "romaji": "itsumo"
   },
   {
     "id": "card_0425",
@@ -11918,7 +12341,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假時我常去圖書館念書。<br>很安靜能集中精神呢。",
       "fr": "On days off I often go to the library to study.<br>It's quiet and I can concentrate."
     },
-    "related": "【頻度】しばしば・高い頻度で行うこと"
+    "related": "【頻度】しばしば・高い頻度で行うこと",
+    "romaji": "yoku"
   },
   {
     "id": "card_0426",
@@ -11946,7 +12370,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好久不見！你好嗎？<br>托您的福，我過得很好喔！",
       "fr": "Long time no see! Have you been well?<br>Yes, thanks to you I've been doing well!"
     },
-    "related": "【再会】長い時間が経ってから再会した挨拶"
+    "related": "【再会】長い時間が経ってから再会した挨拶",
+    "romaji": "hisashiburi"
   },
   {
     "id": "card_0427",
@@ -11974,7 +12399,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "平常都自己煮，但有時會去外面吃。<br>是很棒的放鬆呢。",
       "fr": "I usually cook for myself, but sometimes I eat out.<br>It's a nice breath of fresh air."
     },
-    "related": "【頻度】たまに・時々"
+    "related": "【頻度】たまに・時々",
+    "romaji": "tokidoki / tamani"
   },
   {
     "id": "card_0428",
@@ -12002,7 +12428,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "太辣的料理我不太能吃。<br>我喜歡甜味咖哩。",
       "fr": "I can't eat spicy food very much.<br>I like mild curry."
     },
-    "related": "【頻度・程度】「あまり〜ない」で否定と呼応します。"
+    "related": "【頻度・程度】「あまり〜ない」で否定と呼応します。",
+    "romaji": "amari"
   },
   {
     "id": "card_0429",
@@ -12030,7 +12457,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "納豆我完全不能吃。<br>味道有點不習慣。",
       "fr": "I cannot eat natto at all.<br>I'm a bit uncomfortable with the smell."
     },
-    "related": "【全否定】「ぜんぜん〜ない」で全く〜ないことを強調します。"
+    "related": "【全否定】「ぜんぜん〜ない」で全く〜ないことを強調します。",
+    "romaji": "zenzen"
   },
   {
     "id": "card_0430",
@@ -12058,7 +12486,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我食咗啱啱煮好熱辣辣嘅白飯同配菜。",
       "fr": "J'ai mangé du riz chaud fraîchement cuit et des plats d'accompagnement."
     },
-    "related": "【ニュアンス】「ごはん」は白米とお食事全般の両方を意味します。"
+    "related": "【ニュアンス】「ごはん」は白米とお食事全般の両方を意味します。",
+    "romaji": "gohan"
   },
   {
     "id": "card_0431",
@@ -12086,7 +12515,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本有好多好味嘅嘢食，例如壽司同拉麵。",
       "fr": "Le Japon compte de nombreux plats délicieux, comme les sushis et les ramens."
     },
-    "related": "【対義語】食べ物 ⇄ 飲み物"
+    "related": "【対義語】食べ物 ⇄ 飲み物",
+    "romaji": "tabemono"
   },
   {
     "id": "card_0432",
@@ -12114,7 +12544,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日朝早都堅持食早餐。",
       "fr": "Pour ma santé, je m'assure de prendre un petit-déjeuner tous les matins sans exception."
     },
-    "related": "【類語】朝ごはん ＝ 朝食（ちょうしょく）"
+    "related": "【類語】朝ごはん ＝ 朝食（ちょうしょく）",
+    "romaji": "asagohan"
   },
   {
     "id": "card_0433",
@@ -12142,7 +12573,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日嘅午餐我同同事一齊去咗附近嘅Cafe。",
       "fr": "Pour le déjeuner d'aujourd'hui, je suis allé dans un café voisin avec mon collègue."
     },
-    "related": "【類語】昼ごはん ＝ 昼食（ちゅうしょく）／ ランチ"
+    "related": "【類語】昼ごはん ＝ 昼食（ちゅうしょく）／ ランチ",
+    "romaji": "hirugohan"
   },
   {
     "id": "card_0434",
@@ -12170,7 +12602,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚嘅晚飯，成家人一齊食自製嘅咖喱飯。",
       "fr": "Pour le dîner de ce soir, nous mangeons en famille du riz au curry fait maison."
     },
-    "related": "【類語】夜ごはん ＝ 夕食（ゆうしょく）／ 晩ご飯（ばんごはん）"
+    "related": "【類語】夜ごはん ＝ 夕食（ゆうしょく）／ 晩ご飯（ばんごはん）",
+    "romaji": "yorugohan"
   },
   {
     "id": "card_0435",
@@ -12198,7 +12631,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我好鍾意每日朝早喺多士上面搽牛油食。",
       "fr": "J'aime tartiner du beurre sur du pain grillé et le manger chaque matin."
     },
-    "related": "【助数詞】食パンは「1斤（きん）」「1枚（まい）」と数えます。"
+    "related": "【助数詞】食パンは「1斤（きん）」「1枚（まい）」と数えます。",
+    "romaji": "pan"
   },
   {
     "id": "card_0436",
@@ -12226,7 +12660,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺學校嘅午休時間，我食咗阿媽幫我整嘅便當。",
       "fr": "J'ai mangé le bento que ma mère m'avait préparé pendant la pause déjeuner de l'école."
     },
-    "related": "【関連】お弁当を作る ／ お弁当箱（おべんとうばこ）"
+    "related": "【関連】お弁当を作る ／ お弁当箱（おべんとうばこ）",
+    "romaji": "obentou"
   },
   {
     "id": "card_0437",
@@ -12254,7 +12689,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為好口渴，我飲咗一杯凍水。",
       "fr": "Comme j'avais soif, j'ai bu un verre d'eau fraîche."
     },
-    "related": "【飲み物】水は「飲む」。飲食店では無料の水を「お冷（おひや）」とも呼びます。"
+    "related": "【飲み物】水は「飲む」。飲食店では無料の水を「お冷（おひや）」とも呼びます。",
+    "romaji": "omizu"
   },
   {
     "id": "card_0438",
@@ -12282,7 +12718,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食完飯飲杯熱茶，舒舒服服放鬆一下。",
       "fr": "Après le repas, je bois du thé chaud et je me détends paisiblement."
     },
-    "related": "【文化・補足】「お茶する」は「カフェなどでおしゃべりする」という意味でも使われます。"
+    "related": "【文化・補足】「お茶する」は「カフェなどでおしゃべりする」という意味でも使われます。",
+    "romaji": "ocha"
   },
   {
     "id": "card_0439",
@@ -12310,7 +12747,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食早餐嗰陣，我會同麵包一齊飲凍鮮奶。",
       "fr": "Au petit-déjeuner, je bois du lait frais avec du pain."
     },
-    "related": "【類語】牛乳 ＝ ミルク"
+    "related": "【類語】牛乳 ＝ ミルク",
+    "romaji": "gyuunyuu"
   },
   {
     "id": "card_0440",
@@ -12338,7 +12776,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺好熱嘅夏天飲橙汁真係好好味。",
       "fr": "Boire du jus d'orange par une chaude journée d'été est très agréable."
     },
-    "related": "【ニュアンス】日本では果汁100%以外の果実飲料も日常会話で「ジュース」と呼ばれます。"
+    "related": "【ニュアンス】日本では果汁100%以外の果実飲料も日常会話で「ジュース」と呼ばれます。",
+    "romaji": "juusu"
   },
   {
     "id": "card_0441",
@@ -12366,7 +12805,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺二十歲生日嗰日，我同屋企人第一次飲酒乾杯。",
       "fr": "Pour mon 20e anniversaire, j'ai trinqué pour la première fois avec de l'alcool en famille."
     },
-    "related": "【法律・文化】日本では飲酒は20歳から。「お酒を飲む」。"
+    "related": "【法律・文化】日本では飲酒は20歳から。「お酒を飲む」。",
+    "romaji": "osake"
   },
   {
     "id": "card_0442",
@@ -12394,7 +12834,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早餐我用新鮮雞蛋煎咗隻荷包蛋食。",
       "fr": "Pour le petit-déjeuner, j'ai préparé et mangé un œuf au plat avec un œuf frais."
     },
-    "related": "【料理】卵焼き（たまごやき） ／ 卵かけご飯（TKG）"
+    "related": "【料理】卵焼き（たまごやき） ／ 卵かけご飯（TKG）",
+    "romaji": "tamago"
   },
   {
     "id": "card_0443",
@@ -12422,7 +12863,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗補充體力，晚餐煎咗好惹味嘅肉食。",
       "fr": "Pour faire le plein d'énergie, j'ai grillé de la viande juteuse pour le dîner."
     },
-    "related": "【丁寧表現】日常会話では美化語の「お肉」が親しみやすく広く使われます。"
+    "related": "【丁寧表現】日常会話では美化語の「お肉」が親しみやすく広く使われます。",
+    "romaji": "oniku"
   },
   {
     "id": "card_0444",
@@ -12450,7 +12892,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將街市買嘅新鮮魚整成刺身食。",
       "fr": "J'ai mangé du poisson frais acheté au marché préparé en sashimi."
     },
-    "related": "【丁寧表現】「魚」に「お」を付けた丁寧・親しみのある表現です。"
+    "related": "【丁寧表現】「魚」に「お」を付けた丁寧・親しみのある表現です。",
+    "romaji": "osakana"
   },
   {
     "id": "card_0445",
@@ -12478,7 +12921,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日都會食唔同種類嘅蔬菜。",
       "fr": "Pour ma santé, je mange chaque jour différentes sortes de légumes."
     },
-    "related": "【関連】生野菜（サラダ） ／ 温野菜 ／ 野菜炒め"
+    "related": "【関連】生野菜（サラダ） ／ 温野菜 ／ 野菜炒め",
+    "romaji": "yasai"
   },
   {
     "id": "card_0446",
@@ -12506,7 +12950,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "飯後甜品我切咗啲好甜嘅時令水果食。",
       "fr": "Comme dessert après le repas, j'ai coupé et mangé des fruits de saison bien sucrés."
     },
-    "related": "【類語】果物 ＝ フルーツ"
+    "related": "【類語】果物 ＝ フルーツ",
+    "romaji": "kudamono"
   },
   {
     "id": "card_0447",
@@ -12534,7 +12979,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本嘅米飯粒粒飽滿鬆軟，真係好好味。",
       "fr": "Le riz japonais est moelleux et très savoureux."
     },
-    "related": "【使い分け】炊く前の粒は「お米（こめ）」、炊いて食べる状態は「ご飯（ごはん）」と言います。"
+    "related": "【使い分け】炊く前の粒は「お米（こめ）」、炊いて食べる状態は「ご飯（ごはん）」と言います。",
+    "romaji": "okome"
   },
   {
     "id": "card_0448",
@@ -12562,7 +13008,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將洋蔥慢慢炒透，可以帶出成味餸嘅鮮甜。",
       "fr": "Faire revenir lentement les oignons fait ressortir la douceur du plat."
     },
-    "related": "【数え方】玉ねぎは「1個（いっこ）」「2個（にこ）」と数えます。"
+    "related": "【数え方】玉ねぎは「1個（いっこ）」「2個（にこ）」と数えます。",
+    "romaji": "tamanegi"
   },
   {
     "id": "card_0449",
@@ -12590,7 +13037,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗今晚嘅咖喱飯，我預先切定咗紅蘿蔔。",
       "fr": "J'ai coupé des carottes à l'avance pour le curry de ce soir."
     },
-    "related": "【数え方】細長い野菜は「1本（いっぽん）」「2本（にほん）」と数えます。"
+    "related": "【数え方】細長い野菜は「1本（いっぽん）」「2本（にほん）」と数えます。",
+    "romaji": "ninjin"
   },
   {
     "id": "card_0450",
@@ -12618,7 +13066,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夏天嗰陣，將雪凍嘅青瓜點住味噌成條咁咬嚟食。",
       "fr": "En été, j'ai croqué dans un concombre frais trempé dans de la pâte miso."
     },
-    "related": "【数え方】きゅうりは「1本（いっぽん）」「2本（にほん）」と数えます。"
+    "related": "【数え方】きゅうりは「1本（いっぽん）」「2本（にほん）」と数えます。",
+    "romaji": "kyuuri"
   },
   {
     "id": "card_0451",
@@ -12646,7 +13095,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早餐我食咗煎得好香嘅鹽燒三文魚。",
       "fr": "Pour le petit-déjeuner, j'ai mangé du saumon grillé au sel bien parfumé."
     },
-    "related": "【読み分け】魚としては「さけ」「しゃけ」どちらも日常会話で使われます。"
+    "related": "【読み分け】魚としては「さけ」「しゃけ」どちらも日常会話で使われます。",
+    "romaji": "sake"
   },
   {
     "id": "card_0452",
@@ -12674,7 +13124,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺天婦羅舖，我食咗啱啱炸出嚟、肉質好彈牙嘅炸蝦天婦羅。",
       "fr": "Au restaurant de tempura, j'ai mangé des beignets de crevettes fraîchement frits et bien charnus."
     },
-    "related": "【数え方】生きている海老は「匹（ひき）」、料理用の尾は「尾（び）」とも数えます。"
+    "related": "【数え方】生きている海老は「匹（ひき）」、料理用の尾は「尾（び）」とも数えます。",
+    "romaji": "ebi"
   },
   {
     "id": "card_0453",
@@ -12702,7 +13153,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺特別嘅慶祝活動入面，我食咗好淋好優質嘅牛扒。",
       "fr": "Pour une célébration spéciale, j'ai mangé un steak de bœuf tendre et de grande qualité."
     },
-    "related": "【料理】すき焼き、牛丼、焼肉などで親しまれる代表的なお肉です。"
+    "related": "【料理】すき焼き、牛丼、焼肉などで親しまれる代表的なお肉です。",
+    "romaji": "gyuuniku"
   },
   {
     "id": "card_0454",
@@ -12730,7 +13182,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚嘅配菜，我炒咗豬肉炒椰菜。",
       "fr": "Comme plat pour ce soir, j'ai préparé un sauté de porc et de chou."
     },
-    "related": "【料理】とんかつ（豚カツ）、豚汁（ぶたじる・とんじる）、生姜焼きなど。"
+    "related": "【料理】とんかつ（豚カツ）、豚汁（ぶたじる・とんじる）、生姜焼きなど。",
+    "romaji": "butaniku"
   },
   {
     "id": "card_0455",
@@ -12758,7 +13211,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我炸咗小朋友最鍾意食嘅多汁日式炸雞。",
       "fr": "J'ai fait frire du karaage de poulet juteux que les enfants adorent."
     },
-    "related": "【料理】焼き鳥、唐揚げ、親子丼などで親しまれる人気のお肉です。"
+    "related": "【料理】焼き鳥、唐揚げ、親子丼などで親しまれる人気のお肉です。",
+    "romaji": "toriniku"
   },
   {
     "id": "card_0456",
@@ -12786,7 +13240,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由冬天到春天，正係又甜又紅嘅士多啤梨時令季節。",
       "fr": "De l'hiver au printemps, c'est la saison des fraises douces et bien rouges."
     },
-    "related": "【関連】ショートケーキ、いちご狩り（いちごがり）"
+    "related": "【関連】ショートケーキ、いちご狩り（いちごがり）",
+    "romaji": "ichigo"
   },
   {
     "id": "card_0457",
@@ -12814,7 +13269,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到了秋天會結出香甜可口的葡萄。<br>冰鎮後再來吃吧。",
       "fr": "In autumn, sweet and delicious grapes ripen.<br>Let's chill and eat them."
     },
-    "related": "【名詞】果物・秋の味覚"
+    "related": "【名詞】果物・秋の味覚",
+    "romaji": "budou"
   },
   {
     "id": "card_0458",
@@ -12842,7 +13298,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夏天喺山梨縣嘅農場，食咗好甜好多汁嘅水蜜桃。",
       "fr": "En été, j'ai mangé des pêches juteuses et sucrées dans un verger de la préfecture de Yamanashi."
     },
-    "related": "【数え方】桃は「1個（いっこ）」と数えます。白桃（はくとう）が有名です。"
+    "related": "【数え方】桃は「1個（いっこ）」と数えます。白桃（はくとう）が有名です。",
+    "romaji": "momo"
   },
   {
     "id": "card_0459",
@@ -12870,7 +13327,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天捐入暖桌食甜甜地嘅蜜柑真係頂級享受。",
       "fr": "En hiver, s'installer sous un kotatsu et manger de douces mandarines mikan est ce qu'il y a de mieux."
     },
-    "related": "【文化・風物詩】日本の冬の定番といえば「こたつにみかん」です。"
+    "related": "【文化・風物詩】日本の冬の定番といえば「こたつにみかん」です。",
+    "romaji": "mikan"
   },
   {
     "id": "card_0460",
@@ -12898,7 +13356,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早七點出門口。",
       "fr": "Je quitte la maison à 7 heures du matin."
     },
-    "related": "【動詞】出る (ます形: でます)"
+    "related": "【動詞】出る (ます形: でます)",
+    "romaji": "deru / demasu"
   },
   {
     "id": "card_0461",
@@ -12926,7 +13385,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入房。",
       "fr": "J'entre dans la pièce."
     },
-    "related": "【原型（辞書形）】はいります（はいる）\n【ます形】入ります\n【て形】入って\n【ない形】入らない\n【た形】入った\n【グループ・連語】1グループ (五段) / 「お風呂に入ります」"
+    "related": "【原型（辞書形）】はいります（はいる）\n【ます形】入ります\n【て形】入って\n【ない形】入らない\n【た形】入った\n【グループ・連語】1グループ (五段) / 「お風呂に入ります」",
+    "romaji": "hairu / hairimasu"
   },
   {
     "id": "card_0462",
@@ -12954,7 +13414,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好快就到東京站喇。",
       "fr": "Nous arriverons bientôt à la gare de Tokyo."
     },
-    "related": "【動詞】着く (ます形: つきます)"
+    "related": "【動詞】着く (ます形: つきます)",
+    "romaji": "tsuku / tsukimasu"
   },
   {
     "id": "card_0463",
@@ -12982,7 +13443,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "綠燈嗰陣過斑馬線。",
       "fr": "Je traverse le passage piéton au feu vert."
     },
-    "related": "【動詞】渡る (ます形: わたります)"
+    "related": "【動詞】渡る (ます形: わたります)",
+    "romaji": "wataru / watarimasu"
   },
   {
     "id": "card_0464",
@@ -13010,7 +13472,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日行路30分鐘。",
       "fr": "Je marche 30 minutes tous les jours pour la santé."
     },
-    "related": "【動詞】歩く (ます形: あるきます)"
+    "related": "【動詞】歩く (ます形: あるきます)",
+    "romaji": "aruku / arukimasu"
   },
   {
     "id": "card_0465",
@@ -13038,7 +13501,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺公園嘅緩跑徑跑步。",
       "fr": "Je cours sur la piste du parc."
     },
-    "related": "【動詞】走る (ます形: はしります)"
+    "related": "【動詞】走る (ます形: はしります)",
+    "romaji": "hashiru / hashirimasu"
   },
   {
     "id": "card_0466",
@@ -13066,7 +13530,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日朝早七點叫細佬起身。",
       "fr": "Je réveille mon petit frère à 7 heures tous les matins."
     },
-    "related": "【動詞】起こす (ます形: おこします)"
+    "related": "【動詞】起こす (ます形: おこします)",
+    "romaji": "okosu / okoshimasu"
   },
   {
     "id": "card_0467",
@@ -13094,7 +13559,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食飯之前會洗乾淨手。",
       "fr": "Je me lave bien les mains avant de manger."
     },
-    "related": "【動詞】洗う (ます形: あらいます)"
+    "related": "【動詞】洗う (ます形: あらいます)",
+    "romaji": "arau / araimasu"
   },
   {
     "id": "card_0468",
@@ -13122,7 +13588,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "凍嗰陣我會著暖笠笠嘅褸。",
       "fr": "Je porte un manteau chaud les jours de froid."
     },
-    "related": "【語彙】きます (基本動詞(2)に関する基本語彙)"
+    "related": "【語彙】きます (基本動詞(2)に関する基本語彙)",
+    "romaji": "kiru / kimasu"
   },
   {
     "id": "card_0469",
@@ -13150,7 +13617,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺玄關除鞋。",
       "fr": "J'enlève mes chaussures à l'entrée."
     },
-    "related": "【動詞】脱ぐ (ます形: ぬぎます)"
+    "related": "【動詞】脱ぐ (ます形: ぬぎます)",
+    "romaji": "nugu / nugimasu"
   },
   {
     "id": "card_0470",
@@ -13178,7 +13646,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開房嘅窗。",
       "fr": "J'ouvre la fenêtre de la pièce."
     },
-    "related": "【動詞】開ける (ます形: あけます)"
+    "related": "【動詞】開ける (ます形: あけます)",
+    "romaji": "akeru / akemasu"
   },
   {
     "id": "card_0471",
@@ -13206,7 +13675,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口之前閂好門。",
       "fr": "Je ferme la porte avant de sortir."
     },
-    "related": "【動詞】閉める (ます形: しめます)"
+    "related": "【動詞】閉める (ます形: しめます)",
+    "romaji": "shimeru / shimemasu"
   },
   {
     "id": "card_0472",
@@ -13234,7 +13704,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上堂嗰陣用字典。",
       "fr": "J'utilise un dictionnaire pendant le cours."
     },
-    "related": "【動詞】使う (ます形: つかいます)"
+    "related": "【動詞】使う (ます形: つかいます)",
+    "romaji": "tsukau / tsukaimasu"
   },
   {
     "id": "card_0473",
@@ -13262,7 +13733,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣我會自己煮意粉。",
       "fr": "Je fais des pâtes maison les jours de repos."
     },
-    "related": "【動詞】作る (ます形: つくります)"
+    "related": "【動詞】作る (ます形: つくります)",
+    "romaji": "tsukuru / tsukurimasu"
   },
   {
     "id": "card_0474",
@@ -13290,7 +13762,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用菜刀切菜。",
       "fr": "Je coupe des légumes avec un couteau de cuisine."
     },
-    "related": "【動詞】切る (ます形: きります)"
+    "related": "【動詞】切る (ます形: きります)",
+    "romaji": "kiru / kirimasu"
   },
   {
     "id": "card_0475",
@@ -13318,7 +13791,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "寫信畀朋友。",
       "fr": "J'écris une lettre à un ami."
     },
-    "related": "【動詞】書く (ます形: かきます)"
+    "related": "【動詞】書く (ます形: かきます)",
+    "romaji": "kaku / kakimasu"
   },
   {
     "id": "card_0476",
@@ -13346,7 +13820,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用日文答老師嘅問題。",
       "fr": "Je réponds à la question du professeur en japonais."
     },
-    "related": "【動詞】答える (ます形: こたえます)"
+    "related": "【動詞】答える (ます形: こたえます)",
+    "romaji": "kotaeru / kotaemasu"
   },
   {
     "id": "card_0477",
@@ -13374,7 +13849,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好熱心咁教去車站嘅路。",
       "fr": "J'indique gentiment le chemin de la gare."
     },
-    "related": "【動詞】教える (ます形: おしえます)"
+    "related": "【動詞】教える (ます形: おしえます)",
+    "romaji": "oshieru / oshiemasu"
   },
   {
     "id": "card_0478",
@@ -13402,7 +13878,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隔離房傳嚟好開心嘅聲。",
       "fr": "J'entends des voix joyeuses venant de la pièce voisine."
     },
-    "related": "【動詞】聞こえる (自然に耳に入ること)"
+    "related": "【動詞】聞こえる (自然に耳に入ること)",
+    "romaji": "kikoeru / kikoemasu"
   },
   {
     "id": "card_0479",
@@ -13430,7 +13907,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺呢度好清楚睇到富士山。",
       "fr": "On voit très bien le mont Fuji d'ici."
     },
-    "related": "【動詞】見える (自然に目に入ること)"
+    "related": "【動詞】見える (自然に目に入ること)",
+    "romaji": "mieru / miemasu"
   },
   {
     "id": "card_0480",
@@ -13458,7 +13936,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺車站間cafe等朋友。",
       "fr": "J'attends mon ami au café de la gare."
     },
-    "related": "【動詞】待つ (ます形: まちます)"
+    "related": "【動詞】待つ (ます形: まちます)",
+    "romaji": "matsu / machimasu"
   },
   {
     "id": "card_0481",
@@ -13486,7 +13965,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你覺得聽日會唔會放晴呀？<br/>B: 係呀，我覺得天氣會幾好㗎。",
       "fr": "A: Pensez-vous qu'il fera beau demain ?<br/>B: Oui, je pense qu'il fera beau temps."
     },
-    "related": "【動詞】思う (ます形: おもいます)"
+    "related": "【動詞】思う (ます形: おもいます)",
+    "romaji": "omou / omoimasu"
   },
   {
     "id": "card_0482",
@@ -13514,7 +13994,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇新聞知道咗呢件事。",
       "fr": "J'apprends cette nouvelle en regardant les informations."
     },
-    "related": "【動詞】知る (て形+いる: 知っています)"
+    "related": "【動詞】知る (て形+いる: 知っています)",
+    "romaji": "shiru / shirimasu"
   },
   {
     "id": "card_0483",
@@ -13542,7 +14023,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽完解釋之後，好明白點樣用。",
       "fr": "Après avoir écouté l'explication, je comprends bien comment l'utiliser."
     },
-    "related": "【動詞】わかる (理解できること)"
+    "related": "【動詞】わかる (理解できること)",
+    "romaji": "wakaru / wakarimasu"
   },
   {
     "id": "card_0484",
@@ -13570,7 +14052,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "變得稍微可以用日語進行日常對話了。<br>想學更多！",
       "fr": "I have become able to do a little daily conversation in Japanese.<br>I want to study more!"
     },
-    "related": "【動詞】できる (可能・能力)"
+    "related": "【動詞】できる (可能・能力)",
+    "romaji": "dekiru / dekimasu"
   },
   {
     "id": "card_0485",
@@ -13598,7 +14081,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗將來可以喺日本做嘢，我每晚收工之後都會溫日文。",
       "fr": "Pour travailler au Japon à l'avenir, j'étudie le japonais chaque soir après le travail."
     },
-    "related": "【原型（辞書形）】勉強する\n【ます形】勉強します\n【名詞形】勉強\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】勉強する\n【ます形】勉強します\n【名詞形】勉強\n【グループ】3グループ (サ変)",
+    "romaji": "benkyousuru / benkyoushimasu"
   },
   {
     "id": "card_0486",
@@ -13626,7 +14110,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我漸漸適應咗新嘅工作，每日都過得好充實。",
       "fr": "Je m'habitue peu à peu à mon nouveau travail et chaque jour est très épanouissant."
     },
-    "related": "【原型（辞書形）】仕事する\n【ます形】仕事します\n【名詞形】仕事\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】仕事する\n【ます形】仕事します\n【名詞形】仕事\n【グループ】3グループ (サ変)",
+    "romaji": "shigotosuru / shigotoshimasu"
   },
   {
     "id": "card_0487",
@@ -13654,7 +14139,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末去百貨公司購物買東西。<br>正在找新鞋子。",
       "fr": "I'm going shopping at the department store on the weekend.<br>I'm looking for new shoes."
     },
-    "related": "【原型（辞書形）】買い物する\n【ます形】買い物します\n【名詞形】買い物\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】買い物する\n【ます形】買い物します\n【名詞形】買い物\n【グループ】3グループ (サ変)",
+    "romaji": "kaimonosuru / kaimonoshimasu"
   },
   {
     "id": "card_0488",
@@ -13682,7 +14168,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月要去北海道旅行。<br>想吃美味的海鮮！",
       "fr": "I'm going on a trip to Hokkaido next month.<br>I want to eat delicious seafood!"
     },
-    "related": "【原型（辞書形）】旅行する\n【ます形】旅行します\n【名詞形】旅行\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】旅行する\n【ます形】旅行します\n【名詞形】旅行\n【グループ】3グループ (サ変)",
+    "romaji": "ryokousuru / ryokoushimasu"
   },
   {
     "id": "card_0489",
@@ -13710,7 +14197,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚晚餐我來親手料理。<br>你想吃什麼？",
       "fr": "I will cook dinner tonight.<br>What do you want to eat?"
     },
-    "related": "【原型（辞書形）】料理する\n【ます形】料理します\n【名詞形】料理\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】料理する\n【ます形】料理します\n【名詞形】料理\n【グループ】3グループ (サ変)",
+    "romaji": "ryourisuru / ryourishimasu"
   },
   {
     "id": "card_0490",
@@ -13738,7 +14226,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣很好，把洗好的衣服晾在外面。<br>看起來馬上就會乾呢。",
       "fr": "The weather is good, so I hung the laundry outside.<br>It seems like it will dry soon."
     },
-    "related": "【原型（辞書形）】洗濯する\n【ます形】洗濯します\n【名詞形】洗濯\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】洗濯する\n【ます形】洗濯します\n【名詞形】洗濯\n【グループ】3グループ (サ変)",
+    "romaji": "sentakusuru / sentakushimasu"
   },
   {
     "id": "card_0491",
@@ -13766,7 +14255,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "把房間打掃得乾乾淨淨。<br>待著真舒服呢。",
       "fr": "I cleaned the room cleanly.<br>I can spend time comfortably."
     },
-    "related": "【原型（辞書形）】掃除する\n【ます形】掃除します\n【名詞形】掃除\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】掃除する\n【ます形】掃除します\n【名詞形】掃除\n【グループ】3グループ (サ変)",
+    "romaji": "soujisuru / soujishimasu"
   },
   {
     "id": "card_0492",
@@ -13794,7 +14284,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "傍晚跟愛犬一起散步。<br>涼涼的很舒服的時光。",
       "fr": "I take a walk with my dog in the evening.<br>It's cool and pleasant time."
     },
-    "related": "【原型（辞書形）】散歩する\n【ます形】散歩します\n【名詞形】散歩\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】散歩する\n【ます形】散歩します\n【名詞形】散歩\n【グループ】3グループ (サ変)",
+    "romaji": "sanposuru / sanposhimasu"
   },
   {
     "id": "card_0493",
@@ -13822,7 +14313,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開車最注重的就是安全第一呢。<br>別忘了繫安全帶。",
       "fr": "Safe driving is number one for cars.<br>Don't forget your seatbelt."
     },
-    "related": "【原型（辞書形）】運転する\n【ます形】運転します\n【名詞形】運転\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】運転する\n【ます形】運転します\n【名詞形】運転\n【グループ】3グループ (サ変)",
+    "romaji": "untensuru / untenshimasu"
   },
   {
     "id": "card_0494",
@@ -13850,7 +14342,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了健康開始去健身房運動。<br>流流汗整個人都神清氣爽。",
       "fr": "I started exercising at the gym for health.<br>Sweating feels refreshing."
     },
-    "related": "【原型（辞書形）】運動する\n【ます形】運動します\n【名詞形】運動\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】運動する\n【ます形】運動します\n【名詞形】運動\n【グループ】3グループ (サ変)",
+    "romaji": "undousuru / undoushimasu"
   },
   {
     "id": "card_0495",
@@ -13878,7 +14371,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "全家人聚在一起開心地用餐。<br>聊得好盡興喔。",
       "fr": "The whole family enjoyed a meal together.<br>The conversation was lively."
     },
-    "related": "【原型（辞書形）】食事する\n【ます形】食事します\n【名詞形】食事\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】食事する\n【ます形】食事します\n【名詞形】食事\n【グループ】3グループ (サ変)",
+    "romaji": "shokujisuru / shokujishimasu"
   },
   {
     "id": "card_0496",
@@ -13906,7 +14400,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭火車之前，我打咗個緊急電話。",
       "fr": "Avant de monter dans le train, j'ai passé un coup de fil urgent."
     },
-    "related": "【原型（辞書形）】電話する\n【ます形】電話します\n【名詞形】電話\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】電話する\n【ます形】電話します\n【名詞形】電話\n【グループ】3グループ (サ変)",
+    "romaji": "denwasuru / denwashimasu"
   },
   {
     "id": "card_0497",
@@ -13934,7 +14429,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗演講嘅正式發表，我每日喺屋企都好大聲噉練習。",
       "fr": "Pour préparer mon discours officiel, je m'entraîne à voix haute chaque jour chez moi."
     },
-    "related": "【原型（辞書形）】練習する\n【ます形】練習します\n【名詞形】練習\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】練習する\n【ます形】練習します\n【名詞形】練習\n【グループ】3グループ (サ変)",
+    "romaji": "renshuusuru / renshuushimasu"
   },
   {
     "id": "card_0498",
@@ -13962,7 +14458,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "旅行的準備已經做好了嗎？<br>別忘了帶護照喔。",
       "fr": "Have you finished preparing for the trip?<br>Don't forget to take your passport."
     },
-    "related": "【原型（辞書形）】準備する\n【ます形】準備します\n【名詞形】準備\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】準備する\n【ます形】準備します\n【名詞形】準備\n【グループ】3グループ (サ変)",
+    "romaji": "junbisuru / junbishimasu"
   },
   {
     "id": "card_0499",
@@ -13990,7 +14487,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "跟朋友約了今晚看電影。<br>不能遲到要準時去！",
       "fr": "I made an appointment with a friend to watch a movie tonight.<br>I'll go without being late!"
     },
-    "related": "【原型（辞書形）】約束する\n【ます形】約束します\n【名詞形】約束\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】約束する\n【ます形】約束します\n【名詞形】約束\n【グループ】3グループ (サ変)",
+    "romaji": "yakusokusuru / yakusokushimasu"
   },
   {
     "id": "card_0500",
@@ -14018,7 +14516,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "向大家介紹新同事田中先生。<br>請多指教。",
       "fr": "Let me introduce our new colleague, Tanaka-san.<br>Please treat him well."
     },
-    "related": "【原型（辞書形）】紹介する\n【ます形】紹介します\n【名詞形】紹介\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】紹介する\n【ます形】紹介します\n【名詞形】紹介\n【グループ】3グループ (サ変)",
+    "romaji": "shoukaisuru / shoukaishimasu"
   },
   {
     "id": "card_0501",
@@ -14046,7 +14545,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "他帶我導覽了東京的觀光景點。<br>非常開心！",
       "fr": "They guided me around Tokyo's sightseeing spots.<br>It was very fun!"
     },
-    "related": "【原型（辞書形）】案内する\n【ます形】案内します\n【名詞形】案内\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】案内する\n【ます形】案内します\n【名詞形】案内\n【グループ】3グループ (サ変)",
+    "romaji": "annaisuru / annaishimasu"
   },
   {
     "id": "card_0502",
@@ -14074,7 +14574,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "向老師諮詢了升學就業方向。<br>得到了很好的建議喔。",
       "fr": "I consulted with the teacher about my future path.<br>I got good advice."
     },
-    "related": "【原型（辞書形）】相談する\n【ます形】相談します\n【名詞形】相談\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】相談する\n【ます形】相談します\n【名詞形】相談\n【グループ】3グループ (サ変)",
+    "romaji": "soudansuru / soudanshimasu"
   },
   {
     "id": "card_0503",
@@ -14102,7 +14603,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請注意不要在樓梯上滑倒。<br>要看清腳下喔。",
       "fr": "Be careful not to slip on the stairs.<br>Watch your step."
     },
-    "related": "【原型（辞書形）】注意する\n【ます形】注意します\n【名詞形】注意\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】注意する\n【ます形】注意します\n【名詞形】注意\n【グループ】3グループ (サ変)",
+    "romaji": "chuuisuru / chuuishimasu"
   },
   {
     "id": "card_0504",
@@ -14130,7 +14632,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為電車停駛，我稍微遲到了。<br>真的很不好意思。",
       "fr": "The train stopped, so I was a little late.<br>I am really sorry."
     },
-    "related": "【原型（辞書形）】遅刻する\n【ます形】遅刻します\n【名詞形】遅刻\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】遅刻する\n【ます形】遅刻します\n【名詞形】遅刻\n【グループ】3グループ (サ変)",
+    "romaji": "chikokusuru / chikokushimasu"
   },
   {
     "id": "card_0505",
@@ -14158,7 +14661,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在網路上預約了熱門餐廳。<br>真令人期待呢。",
       "fr": "I made a reservation for a popular restaurant online.<br>I'm looking forward to it."
     },
-    "related": "【原型（辞書形）】予約する\n【ます形】予約します\n【名詞形】予約\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】予約する\n【ます形】予約します\n【名詞形】予約\n【グループ】3グループ (サ変)",
+    "romaji": "yoyakusuru / yoyakushimasu"
   },
   {
     "id": "card_0506",
@@ -14186,7 +14690,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "兩個人決定在下個月結婚。<br>由衷地為你們祝福！",
       "fr": "The two decided to get married next month.<br>Heartfelt congratulations!"
     },
-    "related": "【原型（辞書形）】結婚する\n【ます形】結婚します\n【名詞形】結婚\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】結婚する\n【ます形】結婚します\n【名詞形】結婚\n【グループ】3グループ (サ変)",
+    "romaji": "kekkonsuru / kekkonshimasu"
   },
   {
     "id": "card_0507",
@@ -14214,7 +14719,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為微不足道的小事跟朋友吵架了。<br>想快點和好。",
       "fr": "I had a quarrel with my friend over a trivial thing.<br>I want to make up quickly."
     },
-    "related": "【原型（辞書形）】喧嘩する\n【ます形】喧嘩します\n【名詞形】喧嘩\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】喧嘩する\n【ます形】喧嘩します\n【名詞形】喧嘩\n【グループ】3グループ (サ変)",
+    "romaji": "kenkasuru / kenkashimasu"
   },
   {
     "id": "card_0508",
@@ -14242,7 +14748,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "弟弟今年春天進了高中就讀。<br>新制服很適合他呢。",
       "fr": "My younger brother entered high school this spring.<br>The new uniform suits him."
     },
-    "related": "【原型（辞書形）】入学する\n【ます形】入学します\n【名詞形】入学\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】入学する\n【ます形】入学します\n【名詞形】入学\n【グループ】3グループ (サ変)",
+    "romaji": "nyuugakusuru / nyuugakushimasu"
   },
   {
     "id": "card_0509",
@@ -14270,7 +14777,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "三月要從大學畢業了。<br>留下了滿滿的回憶。",
       "fr": "I will graduate from college in March.<br>I made so many memories."
     },
-    "related": "【原型（辞書形）】卒業する\n【ます形】卒業します\n【名詞形】卒業\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】卒業する\n【ます形】卒業します\n【名詞形】卒業\n【グループ】3グループ (サ変)",
+    "romaji": "sotsugyousuru / sotsugyoushimasu"
   },
   {
     "id": "card_0510",
@@ -14298,7 +14806,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從下週開始去大阪出差。<br>會搭新幹線去喔。",
       "fr": "I'm going on a business trip to Osaka next week.<br>I'll take the Shinkansen."
     },
-    "related": "【原型（辞書形）】出張する\n【ます形】出張します\n【名詞形】出張\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】出張する\n【ます形】出張します\n【名詞形】出張\n【グループ】3グループ (サ変)",
+    "romaji": "shutchousuru / shutchoushimasu"
   },
   {
     "id": "card_0511",
@@ -14326,7 +14835,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師淺顯易懂地解說了文法規則。<br>完全聽懂了。",
       "fr": "The teacher explained the grammar rules clearly.<br>I was able to understand completely."
     },
-    "related": "【原型（辞書形）】説明する\n【ます形】説明します\n【名詞形】説明\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】説明する\n【ます形】説明します\n【名詞形】説明\n【グループ】3グループ (サ変)",
+    "romaji": "setsumeisuru / setsumeishimasu"
   },
   {
     "id": "card_0512",
@@ -14354,7 +14864,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "再確認一次旅行行程吧。<br>時間都沒問題嗎？",
       "fr": "Let's check the travel schedule one more time.<br>Is the time okay?"
     },
-    "related": "【原型（辞書形）】確認する\n【ます形】確認します\n【名詞形】確認\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】確認する\n【ます形】確認します\n【名詞形】確認\n【グループ】3グループ (サ変)",
+    "romaji": "kakuninsuru / kakuninshimasu"
   },
   {
     "id": "card_0513",
@@ -14382,7 +14893,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 請問可唔可以問關於日文文法嘅問題呀？ B: 當然得啦！有唔明嘅隨時問啦。",
       "fr": "A: Puis-je poser une question sur la grammaire japonaise ? B: Bien sûr ! N'hésitez pas à poser toutes vos questions."
     },
-    "related": "【原型（辞書形）】質問する\n【ます形】質問します\n【名詞形】質問\n【グループ】3グループ (サ変)"
+    "related": "【原型（辞書形）】質問する\n【ます形】質問します\n【名詞形】質問\n【グループ】3グループ (サ変)",
+    "romaji": "shitsumonsuru / shitsumonshimasu"
   },
   {
     "id": "card_0514",
@@ -14410,7 +14922,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 下次放假大家一齊去BBQ好唔好？<br/>B: 好呀！我好想參加。",
       "fr": "A: Si on faisait un barbecue tous ensemble pendant le prochain congé ?<br/>B: Excellente idée ! J'aimerais beaucoup participer."
     },
-    "related": "【相槌・談話標識】いいですね (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】いいですね (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "ii desu ne"
   },
   {
     "id": "card_0515",
@@ -14438,7 +14951,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 希望聽日天氣好啦。<br>B: 係啊！好想去野餐添。",
       "fr": "A: J'espère qu'il fera beau demain.<br>B: C'est vrai ! J'aimerais bien faire un pique-nique."
     },
-    "related": "【相槌・談話標識】そうですね (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】そうですね (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "sou desu ne"
   },
   {
     "id": "card_0516",
@@ -14466,7 +14980,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我下個禮拜去京都旅行㗎。<br>B: 係呀？真好，祝你玩得開心啲！",
       "fr": "A: Je pars en voyage à Kyoto la semaine prochaine.<br>B: Ah bon ! C'est super, amusez-vous bien !"
     },
-    "related": "【相槌・談話標識】そうですか (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】そうですか (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "sou desu ka"
   },
   {
     "id": "card_0517",
@@ -14494,7 +15009,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢個App仲可以聽埋讀音語音㗎。<br/>B: 原來係咁，真係好方便！",
       "fr": "A: On peut aussi écouter l'audio sur cette application.<br/>B: Je vois, c'est très pratique !"
     },
-    "related": "【相槌・談話標識】なるほど (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】なるほど (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "naruhodo"
   },
   {
     "id": "card_0518",
@@ -14522,7 +15038,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 田中先生下個月調去東京總部喇。<br>B: 吓，真係㗎！？會好唔捨得㗎喎。",
       "fr": "A: Tanaka-san est transféré au siège de Tokyo le mois prochain.<br>B: Vraiment !? Il va nous manquer."
     },
-    "related": "【相槌・談話標識】ほんとうですか (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ほんとうですか (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "hontou desu ka"
   },
   {
     "id": "card_0519",
@@ -14550,7 +15067,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 下次的派對你會參加嗎？<br>B: 當然！我非常期待喔。",
       "fr": "A: Will you attend the next party?<br>B: Of course! I'm looking forward to it."
     },
-    "related": "【相槌】当然・確信を表す肯定表現"
+    "related": "【相槌】当然・確信を表す肯定表現",
+    "romaji": "mochiron desu"
   },
   {
     "id": "card_0520",
@@ -14578,7 +15096,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢部手提電腦好輕，帶出街好方便喎。<br>B: 確實係！喺Cafe做嘢一流。",
       "fr": "A: Cet ordinateur est léger et pratique à transporter.<br>B: En effet ! Il est parfait pour travailler dans un café."
     },
-    "related": "【相槌・談話標識】たしかに (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】たしかに (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "tashikani"
   },
   {
     "id": "card_0521",
@@ -14606,7 +15125,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 嚟日本嘅話，一定要去浸下溫泉呀。<br/>B: 好呀，我一定會去試下！",
       "fr": "A: Si vous venez au Japon, essayez absolument d'aller dans un onsen.<br/>B: Oui, j'aimerais vraiment y aller !"
     },
-    "related": "【相槌・談話標識】ぜひ (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ぜひ (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "zehi"
   },
   {
     "id": "card_0522",
@@ -14634,7 +15154,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我可唔可以借呢支筆呀？<br/>B: 可以，無問題，請用。",
       "fr": "A: Excusez-moi, puis-je vous emprunter ce stylo ?<br/>B: Oui, bien sûr. Servez-vous."
     },
-    "related": "【相槌・談話標識】いいですよ (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】いいですよ (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "ii desu yo"
   },
   {
     "id": "card_0523",
@@ -14662,7 +15183,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "那個，不好意思。這附近有便利商店嗎？<br>轉過那個轉角的地方有一間喔。",
       "fr": "Um, excuse me. Is there a convenience store near here?<br>There is one around that corner."
     },
-    "related": "【呼びかけ】控えめに話しかける言葉"
+    "related": "【呼びかけ】控えめに話しかける言葉",
+    "romaji": "anou"
   },
   {
     "id": "card_0524",
@@ -14690,7 +15212,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 下次上堂嘅時間點安排好呀？<br/>B: 嗯……下個禮拜二下晝3點點睇？",
       "fr": "A: Que fait-on pour l'horaire du prochain cours ?<br/>B: Eh bien, que diriez-vous de mardi prochain à 15 heures ?"
     },
-    "related": "【相槌・談話標識】ええと (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ええと (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "eeto"
   },
   {
     "id": "card_0525",
@@ -14718,7 +15241,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問車站喺邊度呀？",
       "fr": "Excusez-moi, où se trouve la gare ?"
     },
-    "related": "【相槌・談話標識】すみません (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】すみません (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "sumimasen"
   },
   {
     "id": "card_0526",
@@ -14746,7 +15270,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔好意思，我可唔可以問少少嘢呀？<br/>B: 可以，有咩事呀？請講！",
       "fr": "A: Excusez-moi, puis-je vous poser une question un instant ?<br/>B: Oui, de quoi s'agit-il ? Je vous en prie !"
     },
-    "related": "【相槌・談話標識】ちょっと (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ちょっと (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "chotto"
   },
   {
     "id": "card_0527",
@@ -14774,7 +15299,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 日文嘅漢字雖然好難，但係好有趣㗎。<br/>B: 係呀，明咗個意思之後就會覺得好得意。",
       "fr": "A: Les kanjis japonais sont difficiles, mais très intéressants.<br/>B: C'est vrai, une fois qu'on comprend le sens, c'est passionnant."
     },
-    "related": "【相槌・談話標識】でも (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】でも (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "demo"
   },
   {
     "id": "card_0528",
@@ -14802,7 +15328,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我哋好努力練習咗。但係，場波最後都係輸咗。<br/>B: 下次一定可以贏㗎！",
       "fr": "A: Nous nous sommes entraînés très dur. Cependant, nous avons perdu le match.<br/>B: Vous gagnerez sûrement la prochaine fois !"
     },
-    "related": "【相槌・談話標識】しかし (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】しかし (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "shikashi"
   },
   {
     "id": "card_0529",
@@ -14830,7 +15357,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 出面落緊好大雨。所以，今日不如留喺屋企啦。<br/>B: 好呀，一齊沖杯熱茶飲啦。",
       "fr": "A: Il pleut des cordes dehors. C'est pourquoi restons à la maison aujourd'hui.<br/>B: Bonne idée, buvons un thé chaud."
     },
-    "related": "【相槌・談話標識】だから (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】だから (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "dakara"
   },
   {
     "id": "card_0530",
@@ -14858,7 +15386,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早起身洗咗個面。然後，食咗餐好好味嘅早餐。",
       "fr": "Je me suis réveillé le matin et me suis lavé le visage. Et ensuite, j'ai pris un délicieux petit-déjeuner."
     },
-    "related": "【相槌・談話標識】そして (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】そして (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "soshite"
   },
   {
     "id": "card_0531",
@@ -14886,7 +15415,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 琴日我同朋友去咗唱K呀。<br/>B: 係呀！噉，開唔開心呀？",
       "fr": "A: Hier, je suis allé au karaoké avec un ami.<br/>B: Vraiment ! Et alors, c'était amusant ?"
     },
-    "related": "【相槌・談話標識】それで (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】それで (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "sorede"
   },
   {
     "id": "card_0532",
@@ -14914,7 +15444,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢個蛋糕真係超級好食！<br/>B: 真係呀，唔會太甜好正。",
       "fr": "A: Ce gâteau est très délicieux, n'est-ce pas !<br/>B: C'est vrai, pas trop sucré, c'est parfait."
     },
-    "related": "【相槌・談話標識】とても (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】とても (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "totemo"
   },
   {
     "id": "card_0533",
@@ -14942,7 +15473,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今日個音樂會真係好感動啊！<br>B: 係啊，唱歌同演奏都好出色。",
       "fr": "A: Le concert d'aujourd'hui était vraiment émouvant !<br>B: Oui, le chant comme la musique étaient superbes."
     },
-    "related": "【相槌・談話標識】ほんとうに (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ほんとうに (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "hontouni"
   },
   {
     "id": "card_0534",
@@ -14970,7 +15502,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這碗拉麵的湯頭超級好喝呢！<br>全部喝得一滴不剩。",
       "fr": "The soup of this ramen is extremely delicious!<br>I drank it all up."
     },
-    "related": "【強調副詞】非常に・たいへん"
+    "related": "【強調副詞】非常に・たいへん",
+    "romaji": "sugoku"
   },
   {
     "id": "card_0535",
@@ -14998,7 +15531,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今個禮拜尾一齊去睇戲好唔好？<br>B: 好啊！一齊去啦。",
       "fr": "A: Ça vous dirait d'aller voir un film ensemble ce week-end ?<br>B: Avec plaisir ! Allons-y."
     },
-    "related": "【相槌・談話標識】いっしょに (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】いっしょに (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "isshoni"
   },
   {
     "id": "card_0536",
@@ -15026,7 +15560,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 放假嗰陣我鍾意一個人靜靜地行美術館。<br>B: 可以靜靜睇展覽，幾好啊。",
       "fr": "A: Pendant les jours de repos, j'aime visiter les musées d'art seul et à mon rythme.<br>B: C'est agréable, on peut contempler calmement."
     },
-    "related": "【相槌・談話標識】ひとりで (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】ひとりで (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "hitoride"
   },
   {
     "id": "card_0537",
@@ -15054,7 +15589,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 收工之後，大家一齊去食燒肉啦！<br>B: 贊成！我留肚等陣食大餐。",
       "fr": "A: Quand le travail sera fini, allons tous manger du yakiniku ensemble !<br>B: D'accord ! Je vais me garder de l'appétit."
     },
-    "related": "【相槌・談話標識】みんなで (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】みんなで (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "minnade"
   },
   {
     "id": "card_0538",
@@ -15082,7 +15618,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今日辛苦晒啦。<br/>B: 辛苦晒。噉樣，下個禮拜見啦！",
       "fr": "A: Merci pour votre travail aujourd'hui.<br/>B: Bon travail ! Eh bien, à la semaine prochaine !"
     },
-    "related": "【相槌・談話標識】じゃあ (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】じゃあ (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "jaa"
   },
   {
     "id": "card_0539",
@@ -15110,7 +15647,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 噉樣，我哋開始今日嘅課堂啦。<br/>B: 好呀，請多多指教！",
       "fr": "A: Eh bien, commençons la leçon d'aujourd'hui.<br/>B: Oui, ravi de travailler avec vous !"
     },
-    "related": "【相槌・談話標識】では (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】では (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "dewa"
   },
   {
     "id": "card_0540",
@@ -15138,7 +15676,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢個位有冇人坐㗎？<br/>B: 無呀，請坐啦。",
       "fr": "A: Cette place est-elle libre ?<br/>B: Oui, je vous en prie, asseyez-vous."
     },
-    "related": "【相槌・談話標識】どうぞ (会話を円滑につなぐ自然な応答表現)"
+    "related": "【相槌・談話標識】どうぞ (会話を円滑につなぐ自然な応答表現)",
+    "romaji": "douzo"
   },
   {
     "id": "card_0541",
@@ -15166,7 +15705,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "東京巨蛋非常大。",
       "fr": "Le Tokyo Dome est très grand."
     },
-    "related": "【い形容詞】大きい (否定: 大きくない / 過去: 大きかった)"
+    "related": "【い形容詞】大きい (否定: 大きくない / 過去: 大きかった)",
+    "romaji": "ookii"
   },
   {
     "id": "card_0542",
@@ -15194,7 +15734,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢隻狗仔細到可以擺喺手掌心度，好得意。",
       "fr": "Ce chiot est si petit qu'il tient dans la paume de la main, et très mignon."
     },
-    "related": "【い形容詞】小さい (否定: 小さくない / 過去: 小さかった)"
+    "related": "【い形容詞】小さい (否定: 小さくない / 過去: 小さかった)",
+    "romaji": "chiisai"
   },
   {
     "id": "card_0543",
@@ -15222,7 +15763,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買咗部新電腦。",
       "fr": "J'ai acheté un nouvel ordinateur."
     },
-    "related": "【い形容詞】新しい (否定: 新しくない / 過去: 新しかった)"
+    "related": "【い形容詞】新しい (否定: 新しくない / 過去: 新しかった)",
+    "romaji": "atarashii"
   },
   {
     "id": "card_0544",
@@ -15250,7 +15792,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "京都有好多古老嘅寺廟。",
       "fr": "Il y a beaucoup de vieux temples à Kyoto."
     },
-    "related": "【い形容詞】古い (否定: 古くない / 過去: 古かった)"
+    "related": "【い形容詞】古い (否定: 古くない / 過去: 古かった)",
+    "romaji": "furui"
   },
   {
     "id": "card_0545",
@@ -15278,7 +15821,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日天朗氣清，天氣真係超級好。",
       "fr": "Il fait un très beau temps sans aucun nuage aujourd'hui."
     },
-    "related": "【い形容詞】いい (否定: いくない / 過去: いかった)"
+    "related": "【い形容詞】いい (否定: いくない / 過去: いかった)",
+    "romaji": "ii"
   },
   {
     "id": "card_0546",
@@ -15306,7 +15850,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺暗嘅地方成日望住部手機，好傷對眼㗎。",
       "fr": "Regarder son smartphone dans le noir pendant longtemps est mauvais pour les yeux."
     },
-    "related": "【い形容詞】悪い (否定: 悪くない / 過去: 悪かった)"
+    "related": "【い形容詞】悪い (否定: 悪くない / 過去: 悪かった)",
+    "romaji": "warui"
   },
   {
     "id": "card_0547",
@@ -15334,7 +15879,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本嘅夏天非常熱。",
       "fr": "L'été au Japon est très chaud."
     },
-    "related": "【い形容詞】暑い (否定: 暑くない / 過去: 暑かった)"
+    "related": "【い形容詞】暑い (否定: 暑くない / 過去: 暑かった)",
+    "romaji": "atsui"
   },
   {
     "id": "card_0548",
@@ -15362,7 +15908,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢碗湯好熱，請小心飲。",
       "fr": "Faites attention car cette soupe est très chaude."
     },
-    "related": "【い形容詞】熱い (否定: 熱くない / 過去: 熱かった)"
+    "related": "【い形容詞】熱い (否定: 熱くない / 過去: 熱かった)",
+    "romaji": "atsui"
   },
   {
     "id": "card_0549",
@@ -15390,7 +15937,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天嘅北海道非常凍。",
       "fr": "Hokkaido en hiver est très froid."
     },
-    "related": "【い形容詞】寒い (否定: 寒くない / 過去: 寒かった)"
+    "related": "【い形容詞】寒い (否定: 寒くない / 過去: 寒かった)",
+    "romaji": "samui"
   },
   {
     "id": "card_0550",
@@ -15418,7 +15966,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "飲杯凍茶啦。",
       "fr": "Buvons du thé froid."
     },
-    "related": "【い形容詞】冷たい (否定: 冷たくない / 過去: 冷たかった)"
+    "related": "【い形容詞】冷たい (否定: 冷たくない / 過去: 冷たかった)",
+    "romaji": "tsumetai"
   },
   {
     "id": "card_0551",
@@ -15446,7 +15995,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "語法雖然有少少難，但練習講嘢好得意好開心。",
       "fr": "La grammaire est un peu difficile, mais la pratique de la conversation est très agréable."
     },
-    "related": "【い形容詞】難しい (否定: 難しくない / 過去: 難しかった)"
+    "related": "【い形容詞】難しい (否定: 難しくない / 過去: 難しかった)",
+    "romaji": "muzukashii"
   },
   {
     "id": "card_0552",
@@ -15474,7 +16024,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本係初級書，所以用好簡單嘅日文詳細解釋晒。",
       "fr": "Comme c'est un manuel pour débutants, tout est expliqué avec bienveillance en japonais simple."
     },
-    "related": "【い形容詞】易しい (否定: 易しくない / 過去: 易しかった)"
+    "related": "【い形容詞】易しい (否定: 易しくない / 過去: 易しかった)",
+    "romaji": "yasashii"
   },
   {
     "id": "card_0553",
@@ -15502,7 +16053,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生好好人，每次見到遊客蕩失路都會主動親切關心問候。",
       "fr": "Tanaka-san s'adresse toujours gentiment aux étrangers qui ont l'air perdus."
     },
-    "related": "【い形容詞】優しい (否定: 優しくない / 過去: 優しかった)"
+    "related": "【い形容詞】優しい (否定: 優しくない / 過去: 優しかった)",
+    "romaji": "yasashii"
   },
   {
     "id": "card_0554",
@@ -15530,7 +16082,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢部相機性能好好，但係有少少貴。",
       "fr": "Cet appareil photo est très performant, mais il est un peu cher."
     },
-    "related": "【い形容詞】高い (否定: 高くない / 過去: 高かった)"
+    "related": "【い形容詞】高い (否定: 高くない / 過去: 高かった)",
+    "romaji": "takai"
   },
   {
     "id": "card_0555",
@@ -15558,7 +16111,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺超市買咗啲平菜。",
       "fr": "J'ai acheté des légumes bon marché au supermarché."
     },
-    "related": "【い形容詞】安い (否定: 安くない / 過去: 安かった)"
+    "related": "【い形容詞】安い (否定: 安くない / 過去: 安かった)",
+    "romaji": "yasui"
   },
   {
     "id": "card_0556",
@@ -15586,7 +16140,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天嘅北海道氣溫會跌到零度以下好低好凍。",
       "fr": "En hiver à Hokkaido, la température descend bien en dessous de zéro degré."
     },
-    "related": "【い形容詞】低い (否定: 低くない / 過去: 低かった)"
+    "related": "【い形容詞】低い (否定: 低くない / 過去: 低かった)",
+    "romaji": "hikui"
   },
   {
     "id": "card_0557",
@@ -15614,7 +16169,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "琴日朋友介紹我睇套劇，估唔到個發展真係好好睇好吸引！",
       "fr": "La série que mon ami m'a recommandée hier est captivante, on ne devine jamais la suite !"
     },
-    "related": "【い形容詞】面白い (否定: 面白くない / 過去: 面白かった)"
+    "related": "【い形容詞】面白い (否定: 面白くない / 過去: 面白かった)",
+    "romaji": "omoshiroi"
   },
   {
     "id": "card_0558",
@@ -15642,7 +16198,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "年尾有好多Deadline要交差，日日都忙到七彩。",
       "fr": "En fin d'année, il y a beaucoup d'échéances au travail, les journées sont très chargées."
     },
-    "related": "【い形容詞】忙しい (否定: 忙しくない / 過去: 忙しかった)"
+    "related": "【い形容詞】忙しい (否定: 忙しくない / 過去: 忙しかった)",
+    "romaji": "isogashii"
   },
   {
     "id": "card_0559",
@@ -15670,7 +16227,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同班同學一齊用日文吹水傾偈真係好開心。",
       "fr": "Bavarder en japonais avec mes camarades de classe est vraiment amusant."
     },
-    "related": "【い形容詞】楽しい (否定: 楽しくない / 過去: 楽しかった)"
+    "related": "【い形容詞】楽しい (否定: 楽しくない / 過去: 楽しかった)",
+    "romaji": "tanoshii"
   },
   {
     "id": "card_0560",
@@ -15698,7 +16256,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試合格咗咁難嘅日語試，開心到直情想跳起！",
       "fr": "Avoir réussi ce difficile examen de japonais me rend tellement heureux que j'en sauterais de joie !"
     },
-    "related": "【い形容詞】嬉しい (否定: 嬉しくない / 過去: 嬉しかった)"
+    "related": "【い形容詞】嬉しい (否定: 嬉しくない / 過去: 嬉しかった)",
+    "romaji": "ureshii"
   },
   {
     "id": "card_0561",
@@ -15726,7 +16285,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "公園入面開咗好靚嘅花。",
       "fr": "De belles fleurs s'épanouissent dans le parc."
     },
-    "related": "【な形容詞】綺麗な (否定: 綺麗なではない・じゃありません / 過去: 綺麗なでした)"
+    "related": "【な形容詞】綺麗な (否定: 綺麗なではない・じゃありません / 過去: 綺麗なでした)",
+    "romaji": "kireina"
   },
   {
     "id": "card_0562",
@@ -15754,7 +16314,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜晚嘅圖書館非常靜。",
       "fr": "La bibliothèque est très calme le soir."
     },
-    "related": "【な形容詞】静かな (否定: 静かなではない・じゃありません / 過去: 静かなでした)"
+    "related": "【な形容詞】静かな (否定: 静かなではない・じゃありません / 過去: 静かなでした)",
+    "romaji": "shizukana"
   },
   {
     "id": "card_0563",
@@ -15782,7 +16343,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "澀谷十字路口非常熱鬧。",
       "fr": "Le carrefour de Shibuya est très animé."
     },
-    "related": "【な形容詞】賑やかな (否定: 賑やかなではない・じゃありません / 過去: 賑やかなでした)"
+    "related": "【な形容詞】賑やかな (否定: 賑やかなではない・じゃありません / 過去: 賑やかなでした)",
+    "romaji": "nigiyakana"
   },
   {
     "id": "card_0564",
@@ -15810,7 +16372,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "京都嘅金閣寺係全世界都好出名嘅寺院。",
       "fr": "Le Kinkakuji de Kyoto est un temple très célèbre dans le monde entier."
     },
-    "related": "【な形容詞】有名な (否定: 有名なではない・じゃありません / 過去: 有名なでした)"
+    "related": "【な形容詞】有名な (否定: 有名なではない・じゃありません / 過去: 有名なでした)",
+    "romaji": "yuumeina"
   },
   {
     "id": "card_0565",
@@ -15838,7 +16401,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "迷路嗰陣，有好親切嘅警察叔叔教我點行。",
       "fr": "Quand je me suis perdu, un policier aimable m'a indiqué le chemin."
     },
-    "related": "【な形容詞】親切な (否定: 親切なではない・じゃありません / 過去: 親切なでした)"
+    "related": "【な形容詞】親切な (否定: 親切なではない・じゃありません / 過去: 親切なでした)",
+    "romaji": "shinsetsuna"
   },
   {
     "id": "card_0566",
@@ -15866,7 +16430,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 婆婆，身體好嗎？<br/>B: 係呀，多得你問候，每日都好精靈呀！",
       "fr": "A: Grand-mère, vas-tu bien ?<br/>B: Oui, grâce à toi, je suis en pleine forme tous les jours !"
     },
-    "related": "【な形容詞】元気な (否定: 元気なではない・じゃありません / 過去: 元気なでした)"
+    "related": "【な形容詞】元気な (否定: 元気なではない・じゃありません / 過去: 元気なでした)",
+    "romaji": "genkina"
   },
   {
     "id": "card_0567",
@@ -15894,7 +16459,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今個禮拜尾你有冇得閒呀？<br/>B: 有呀，冇咩特別嘢做，好得閒呀。",
       "fr": "A: Êtes-vous libre ce week-end ?<br/>B: Oui, je n'ai rien de spécial de prévu, je suis libre."
     },
-    "related": "【な形容詞】暇な (否定: 暇なではない・じゃありません / 過去: 暇なでした)"
+    "related": "【な形容詞】暇な (否定: 暇なではない・じゃありません / 過去: 暇なでした)",
+    "romaji": "himana"
   },
   {
     "id": "card_0568",
@@ -15922,7 +16488,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生成日都笑面迎人，真係一個好好嘅人。",
       "fr": "M. Tanaka sourit toujours et est une personne tout à fait charmante."
     },
-    "related": "【な形容詞】素敵な (否定: 素敵なではない・じゃありません / 過去: 素敵なでした)"
+    "related": "【な形容詞】素敵な (否定: 素敵なではない・じゃありません / 過去: 素敵なでした)",
+    "romaji": "sutekina"
   },
   {
     "id": "card_0569",
@@ -15950,7 +16517,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我好鍾意食日本菜。",
       "fr": "J'adore la cuisine japonaise."
     },
-    "related": "【な形容詞】好きな (否定: 好きなではない・じゃありません / 過去: 好きなでした)"
+    "related": "【な形容詞】好きな (否定: 好きなではない・じゃありません / 過去: 好きなでした)",
+    "romaji": "sukina"
   },
   {
     "id": "card_0570",
@@ -15978,7 +16546,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "細個嗰陣我好憎食青椒，但大個咗之後就食到啦。",
       "fr": "Enfant, je détestais les poivrons, mais adulte, je peux en manger."
     },
-    "related": "【な形容詞】嫌いな (否定: 嫌いなではない・じゃありません / 過去: 嫌いなでした)"
+    "related": "【な形容詞】嫌いな (否定: 嫌いなではない・じゃありません / 過去: 嫌いなでした)",
+    "romaji": "kiraina"
   },
   {
     "id": "card_0571",
@@ -16006,7 +16575,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落雨天仲要搭迫爆嘅電車，真係好令人討厭。",
       "fr": "Prendre un train bondé un jour de pluie est une chose très désagréable."
     },
-    "related": "【な形容詞】嫌な (否定: 嫌なではない・じゃありません / 過去: 嫌なでした)"
+    "related": "【な形容詞】嫌な (否定: 嫌なではない・じゃありません / 過去: 嫌なでした)",
+    "romaji": "iyana"
   },
   {
     "id": "card_0572",
@@ -16034,7 +16604,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "便利店開廿四小時，非常方便。",
       "fr": "Les supérettes sont ouvertes 24h/24 et sont très pratiques."
     },
-    "related": "【な形容詞】便利な (否定: 便利なではない・じゃありません / 過去: 便利なでした)"
+    "related": "【な形容詞】便利な (否定: 便利なではない・じゃありません / 過去: 便利なでした)",
+    "romaji": "benrina"
   },
   {
     "id": "card_0573",
@@ -16062,7 +16633,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "Maria用筷子真係好叻好熟手！",
       "fr": "Maria manie très bien les baguettes !"
     },
-    "related": "【な形容詞】上手な (否定: 上手なではない・じゃありません / 過去: 上手なでした)"
+    "related": "【な形容詞】上手な (否定: 上手なではない・じゃありません / 過去: 上手なでした)",
+    "romaji": "jouzuna"
   },
   {
     "id": "card_0574",
@@ -16090,7 +16662,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "雖然我畫畫唔係好叻，不過我都好鍾意畫。",
       "fr": "Je ne suis pas doué pour dessiner, mais j'aime ça."
     },
-    "related": "【な形容詞】下手な (否定: 下手なではない・じゃありません / 過去: 下手なでした)"
+    "related": "【な形容詞】下手な (否定: 下手なではない・じゃありません / 過去: 下手なでした)",
+    "romaji": "hetana"
   },
   {
     "id": "card_0575",
@@ -16118,7 +16691,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "超級市場入面擺咗好多唔同款嘅新鮮生果。",
       "fr": "Diverses sortes de fruits frais sont présentées au supermarché."
     },
-    "related": "【な形容詞】色々な (否定: 色々なではない・じゃありません / 過去: 色々なでした)"
+    "related": "【な形容詞】色々な (否定: 色々なではない・じゃありません / 過去: 色々なでした)",
+    "romaji": "iroirona"
   },
   {
     "id": "card_0576",
@@ -16146,7 +16720,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個文法嘅規則好簡單。",
       "fr": "Les règles de cette grammaire sont simples."
     },
-    "related": "【な形容詞】簡単な (否定: 簡単なではない・じゃありません / 過去: 簡単なでした)"
+    "related": "【な形容詞】簡単な (否定: 簡単なではない・じゃありません / 過去: 簡単なでした)",
+    "romaji": "kantanna"
   },
   {
     "id": "card_0577",
@@ -16174,7 +16749,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搬屋嘅準備工夫真係好辛苦。",
       "fr": "Les préparatifs du déménagement ont été très difficiles."
     },
-    "related": "【な形容詞】大変な (否定: 大変なではない・じゃありません / 過去: 大変なでした)"
+    "related": "【な形容詞】大変な (否定: 大変なではない・じゃありません / 過去: 大変なでした)",
+    "romaji": "taihenna"
   },
   {
     "id": "card_0578",
@@ -16202,7 +16778,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同屋企人一齊嘅時間，對我嚟講比任何嘢都珍貴緊要。",
       "fr": "Le temps passé avec ma famille est plus précieux que tout pour moi."
     },
-    "related": "【な形容詞】大切な (否定: 大切なではない・じゃありません / 過去: 大切なでした)"
+    "related": "【な形容詞】大切な (否定: 大切なではない・じゃありません / 過去: 大切なでした)",
+    "romaji": "taisetsuna"
   },
   {
     "id": "card_0579",
@@ -16230,7 +16807,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去外國旅行嘅話，特區護照係絕對必需嘅。",
       "fr": "Un passeport est absolument nécessaire pour voyager à l'étranger."
     },
-    "related": "【な形容詞】必要な (否定: 必要なではない・じゃありません / 過去: 必要なでした)"
+    "related": "【な形容詞】必要な (否定: 必要なではない・じゃありません / 過去: 必要なでした)",
+    "romaji": "hitsuyouna"
   },
   {
     "id": "card_0580",
@@ -16258,7 +16836,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "成家人一齊齊整整食餐好餸嗰陣，就係最幸福嘅事。",
       "fr": "Je suis le plus heureux lorsque je mange un délicieux repas avec toute ma famille."
     },
-    "related": "【な形容詞】幸せな (否定: 幸せなではない・じゃありません / 過去: 幸せなでした)"
+    "related": "【な形容詞】幸せな (否定: 幸せなではない・じゃありません / 過去: 幸せなでした)",
+    "romaji": "shiawasena"
   },
   {
     "id": "card_0581",
@@ -16286,7 +16865,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你鍾意咩顏色呀？<br/>B: 我鍾意沉實嘅藍色。",
       "fr": "A: Quelle couleur aimez-vous ?<br/>B: J'aime le bleu apaisant."
     },
-    "related": "【性状・感覚】色 (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】色 (色合いや味覚を表す表現)",
+    "romaji": "iro"
   },
   {
     "id": "card_0582",
@@ -16314,7 +16894,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個湯重視食材嘅原味，味道非常清甜溫和。",
       "fr": "Cette soupe respecte la saveur des ingrédients et a un goût très doux."
     },
-    "related": "【性状・感覚】味 (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】味 (色合いや味覚を表す表現)",
+    "romaji": "aji"
   },
   {
     "id": "card_0583",
@@ -16342,7 +16923,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天嘅富士山頂被白雪鋪滿晒，真係好靚。",
       "fr": "En hiver, le mont Fuji est recouvert de neige blanche à son sommet et est magnifique."
     },
-    "related": "【性状・感覚】白い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】白い (色合いや味覚を表す表現)",
+    "romaji": "shiro / shiroi"
   },
   {
     "id": "card_0584",
@@ -16370,7 +16952,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗去面試，我準備咗套黑色西裝同黑皮鞋。",
       "fr": "J'ai préparé un costume noir et des chaussures pour l'entretien."
     },
-    "related": "【性状・感覚】黒い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】黒い (色合いや味覚を表す表現)",
+    "romaji": "kuro / kuroi"
   },
   {
     "id": "card_0585",
@@ -16398,7 +16981,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到秋天，樹葉染到好紅，啲紅葉風景好靚。",
       "fr": "Quand l'automne arrive, les feuilles des arbres virent au rouge et les couleurs sont splendides."
     },
-    "related": "【性状・感覚】赤い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】赤い (色合いや味覚を表す表現)",
+    "romaji": "aka / akai"
   },
   {
     "id": "card_0586",
@@ -16426,7 +17010,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晴天嗰陣個海好藍好清澈。",
       "fr": "Par une journée ensoleillée, la mer est bleue et très limpide."
     },
-    "related": "【性状・感覚】青い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】青い (色合いや味覚を表す表現)",
+    "romaji": "ao / aoi"
   },
   {
     "id": "card_0587",
@@ -16454,7 +17039,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到春天，公園就會開滿好多黃色嘅蒲公英。",
       "fr": "Au printemps, beaucoup de pissenlits jaunes fleurissent dans le parc."
     },
-    "related": "【性状・感覚】黄色い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】黄色い (色合いや味覚を表す表現)",
+    "romaji": "kiiro / kiiroi"
   },
   {
     "id": "card_0588",
@@ -16482,7 +17068,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋屋企養咗隻啡色嘅貴婦狗，好黐人好得意。",
       "fr": "Nous avons un caniche toy marron à la maison. Il est très affectueux."
     },
-    "related": "【性状・感覚】茶色い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】茶色い (色合いや味覚を表す表現)",
+    "romaji": "chairo / chairoi"
   },
   {
     "id": "card_0589",
@@ -16510,7 +17097,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早我飲咗杯新鮮即榨嘅鮮橙汁。",
       "fr": "J'ai bu un jus d'orange fraîchement pressé au petit-déjeuner."
     },
-    "related": "【性状・感覚】オレンジ (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】オレンジ (色合いや味覚を表す表現)",
+    "romaji": "orenji"
   },
   {
     "id": "card_0590",
@@ -16538,7 +17126,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "春天嘅櫻花有著好溫柔嘅粉紅色花瓣，好靚。",
       "fr": "Les cerisiers de printemps ont des pétales d'un rose délicat qui sont très beaux."
     },
-    "related": "【性状・感覚】ピンク (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】ピンク (色合いや味覚を表す表現)",
+    "romaji": "pinku"
   },
   {
     "id": "card_0591",
@@ -16566,7 +17155,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "買咗件好斯文嘅灰色羊毛大褸，冬天非常之好襯衫。",
       "fr": "J'ai acheté un élégant manteau en laine gris, très facile à assortir en hiver."
     },
-    "related": "【性状・感覚】グレー (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】グレー (色合いや味覚を表す表現)",
+    "romaji": "guree"
   },
   {
     "id": "card_0592",
@@ -16594,7 +17184,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將客廳窗簾換咗做光猛嘅米黃色之後，成間房好似大咗咁。",
       "fr": "Depuis qu'on a mis des rideaux beige clair dans le salon, la pièce paraît plus grande."
     },
-    "related": "【性状・感覚】ベージュ (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】ベージュ (色合いや味覚を表す表現)",
+    "romaji": "beeju"
   },
   {
     "id": "card_0593",
@@ -16622,7 +17213,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢粒士多啤梨好甜好厚多汁。",
       "fr": "Cette fraise est très sucrée et juteuse."
     },
-    "related": "【性状・感覚】甘い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】甘い (色合いや味覚を表す表現)",
+    "romaji": "amai"
   },
   {
     "id": "card_0594",
@@ -16650,7 +17242,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A：呢個咖喱辣唔辣呀？<br/>B：有少少辣，不過好濃郁好好味。",
       "fr": "A : Ce curry est-il épicé ?<br/>B : Il est un peu piquant, mais très riche et savoureux."
     },
-    "related": "【性状・感覚】辛い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】辛い (色合いや味覚を表す表現)",
+    "romaji": "karai"
   },
   {
     "id": "card_0595",
@@ -16678,7 +17271,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "齋啡雖然苦，但飲慣咗之後就會好享受嗰種香氣。",
       "fr": "Le café noir est amer, mais une fois habitué, on apprécie son arôme."
     },
-    "related": "【性状・感覚】苦い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】苦い (色合いや味覚を表す表現)",
+    "romaji": "nigai"
   },
   {
     "id": "card_0596",
@@ -16706,7 +17300,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出完汗之後，食少少帶鹹味嘅話梅或者飲運動飲品特別好味。",
       "fr": "Après avoir transpiré, les prunes salées ou les boissons énergétiques sont particulièrement savoureuses."
     },
-    "related": "【性状・感覚】しょっぱい (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】しょっぱい (色合いや味覚を表す表現)",
+    "romaji": "shiokarai / shoppai"
   },
   {
     "id": "card_0597",
@@ -16734,7 +17329,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "加咗新鮮檸檬汁嘅紅茶，酸酸地好清爽。",
       "fr": "Le thé noir avec du citron fraîchement pressé a une saveur agréablement acidulée et rafraîchissante."
     },
-    "related": "【性状・感覚】酸っぱい (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】酸っぱい (色合いや味覚を表す表現)",
+    "romaji": "suppai"
   },
   {
     "id": "card_0598",
@@ -16762,7 +17358,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢碗拉麵嘅湯底好濃郁，味道好濃好夠味。",
       "fr": "Le bouillon de ces ramen est riche et a un goût corsé."
     },
-    "related": "【性状・感覚】濃い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】濃い (色合いや味覚を表す表現)",
+    "romaji": "koi"
   },
   {
     "id": "card_0599",
@@ -16790,7 +17387,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "杯茶嘅味淡咗少少，浸耐少少先飲啦。",
       "fr": "Le goût du thé est un peu léger, laissons-le infuser encore un peu."
     },
-    "related": "【性状・感覚】薄い (色合いや味覚を表す表現)"
+    "related": "【性状・感覚】薄い (色合いや味覚を表す表現)",
+    "romaji": "usui"
   },
   {
     "id": "card_0600",
@@ -16818,7 +17416,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 仲有冇時間呀？<br/>B: 有呀，仲有半個鐘。慢慢嚟啦。",
       "fr": "A: Avons-nous encore du temps ?<br/>B: Oui, nous avons encore 30 minutes. Prenez votre temps."
     },
-    "related": "【文化・余暇】時間 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】時間 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "jikan"
   },
   {
     "id": "card_0601",
@@ -16846,7 +17445,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你仲記唔記得聽日下晝3點喺cafe見面嘅約定呀？ B: 當然記得啦！好期待呢。",
       "fr": "A: Tu te souviens de notre rendez-vous au café demain à 15 heures ? B: Bien sûr ! J'ai hâte d'y être."
     },
-    "related": "【名詞・する動詞】取り決め・アポイント"
+    "related": "【名詞・する動詞】取り決め・アポイント",
+    "romaji": "yakusoku"
   },
   {
     "id": "card_0602",
@@ -16874,7 +17474,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同朋友約好喺澀谷站八公像前面個廣場等。",
       "fr": "J'ai rendez-vous avec un ami sur la place devant la statue d'Hachiko à la gare de Shibuya."
     },
-    "related": "【文化・余暇】待ち合わせ (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】待ち合わせ (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "machiawase"
   },
   {
     "id": "card_0603",
@@ -16902,7 +17503,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今日放學之後有冇嘢要做呀？<br/>B: 我要去圖書館還書呀。",
       "fr": "A: Avez-vous quelque chose à faire après les cours aujourd'hui ?<br/>B: Je dois aller rendre des livres à la bibliothèque."
     },
-    "related": "【文化・余暇】用事 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】用事 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "youji"
   },
   {
     "id": "card_0604",
@@ -16930,7 +17532,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今個週末有咩計劃呀？<br/>B: 我打算同朋友一齊去睇戲。",
       "fr": "A: Avez-vous déjà des projets pour ce week-end ?<br/>B: Je prévois d'aller voir un film avec un ami."
     },
-    "related": "【文化・余暇】予定 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】予定 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "yotei"
   },
   {
     "id": "card_0605",
@@ -16958,7 +17561,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今年暑假，我打算同朋友一齊去沖繩玩四日三夜嘅旅行。",
       "fr": "Pour les vacances d'été de cette année, je prévois de faire un voyage de quatre jours et trois nuits à Okinawa avec un ami."
     },
-    "related": "【名詞・する動詞】旅行をする"
+    "related": "【名詞・する動詞】旅行をする",
+    "romaji": "ryokou"
   },
   {
     "id": "card_0606",
@@ -16986,7 +17590,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你平時聽開咩日本歌？<br>B: 我成日聽最近好紅嘅J-POP流行曲㗎。",
       "fr": "A: Quel genre de musique japonaise écoutez-vous souvent ?<br>B: J'écoute souvent les récents hits de J-POP."
     },
-    "related": "【文化・余暇】J-POP (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】J-POP (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "jeepoppu"
   },
   {
     "id": "card_0607",
@@ -17014,7 +17619,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 爺爺沖涼嗰陣好鍾意唱演歌。<br>B: 好有感情，好有味道啊。",
       "fr": "A: Mon grand-père chante souvent de l'enka dans son bain.<br>B: C'est plein d'émotion et très authentique."
     },
-    "related": "【文化・余暇】演歌 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】演歌 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "enka"
   },
   {
     "id": "card_0608",
@@ -17042,7 +17648,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 琴晚我睇咗嗰套好出名嘅恐怖片。<br>B: 驚唔驚到瞓唔著覺啊？",
       "fr": "A: Hier soir, j'ai regardé ce film d'horreur dont tout le monde parle.<br>B: Tu n'as pas eu trop peur pour dormir ?"
     },
-    "related": "【文化・余暇】ホラー (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】ホラー (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "horaa"
   },
   {
     "id": "card_0609",
@@ -17070,7 +17677,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "以年輕人拍拖戀愛為主題嘅劇集，依家好受歡迎。",
       "fr": "Un feuilleton sur le thème des amours de jeunesse connaît actuellement un énorme succès."
     },
-    "related": "【文化・余暇】恋愛 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】恋愛 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "ren'ai"
   },
   {
     "id": "card_0610",
@@ -17098,7 +17706,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 呢本懸疑小說個結局我完全估唔到！<br>B: 聽落好吸引喎，我都想睇下。",
       "fr": "A: Je n'ai pas du tout pu deviner la fin de ce roman policier !<br>B: Ça a l'air passionnant, j'aimerais le lire aussi."
     },
-    "related": "【文化・余暇】ミステリー (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】ミステリー (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "misuterii"
   },
   {
     "id": "card_0611",
@@ -17126,7 +17735,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你平時鍾意睇咩類型嘅戲呀？<br/>B: 我會睇傳達和平重要性嘅作品。",
       "fr": "A: Quel genre de films regardez-vous souvent ?<br/>B: Je regarde des œuvres qui transmettent l'importance de la paix."
     },
-    "related": "【文化・余暇】戦争 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】戦争 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "sensou"
   },
   {
     "id": "card_0612",
@@ -17154,7 +17764,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 琴日場足球比賽點樣呀？<br/>B: 係一場好精彩嘅對決嚟㗎！緊張到最後一刻。",
       "fr": "A: Comment était le match de football d'hier ?<br/>B: C'était une magnifique bataille ! J'ai vibré jusqu'au bout."
     },
-    "related": "【文化・余暇】戦い (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】戦い (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "tatakai"
   },
   {
     "id": "card_0613",
@@ -17182,7 +17793,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今晚有世界盃足球賽事播啊。<br>B: 一定要坐喺電視前面大力打氣！",
       "fr": "A: Il y a un match de football de la Coupe du Monde ce soir.<br>B: On doit absolument encourager l'équipe devant la télé !"
     },
-    "related": "【文化・余暇】サッカー (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】サッカー (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "sakkaa"
   },
   {
     "id": "card_0614",
@@ -17210,7 +17822,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我中學嗰陣入過排球隊㗎。<br>B: 你咁高，嗰陣係咪做扣殺員？",
       "fr": "A: Au collège, je faisais partie du club de volley-ball.<br>B: Comme vous êtes grand, vous étiez attaquant ?"
     },
-    "related": "【文化・余暇】バレーボール／バレー (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】バレーボール／バレー (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "bareebooru / baree"
   },
   {
     "id": "card_0615",
@@ -17238,7 +17851,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 放學之後體育館有場籃球波賽啊。<br>B: 入去睇啦！一齊去打氣。",
       "fr": "A: Après les cours, il y a un match de basket au gymnase.<br>B: Allons regarder et les encourager !"
     },
-    "related": "【文化・余暇】バスケットボール／バスケ (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】バスケットボール／バスケ (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "basukettobooru / basuke"
   },
   {
     "id": "card_0616",
@@ -17266,7 +17880,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 週末成日打網球㗎？<br/>B: 係呀，我同朋友喺網球場度做運動打波好開心。",
       "fr": "A: Jouez-vous souvent au tennis le week-end ?<br/>B: Oui, j'aime faire du sport avec des amis sur le court de tennis."
     },
-    "related": "【文化・余暇】テニス (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】テニス (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "tenisu"
   },
   {
     "id": "card_0617",
@@ -17294,7 +17909,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 琴日場職業棒球直播你有冇睇？<br>B: 逆轉全壘打嗰一吓，真係激動到跳起！",
       "fr": "A: Avez-vous regardé le match de baseball professionnel hier ?<br>B: Au moment du home run de la victoire, c'était incroyable !"
     },
-    "related": "【文化・余暇】野球 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】野球 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "yakyuu"
   },
   {
     "id": "card_0618",
@@ -17322,7 +17938,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 去溫泉旅館過夜，著住浴衣打乒乓波係必玩項目。<br>B: 一個殺波入分真係好爽！",
       "fr": "A: Jouer au ping-pong en yukata est un grand classique des auberges thermales onsen.<br>B: Réussir un smash est tellement satisfaisant !"
     },
-    "related": "【文化・余暇】卓球 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】卓球 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "takkyuu"
   },
   {
     "id": "card_0619",
@@ -17350,7 +17967,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 你有冇睇過日本嘅大相撲比賽呀？<br/>B: 睇過呀，喺電視度睇真係好有氣勢好有震撼力！",
       "fr": "A: Avez-vous déjà regardé un tournoi de sumo japonais ?<br/>B: Oui, j'ai suivi un combat à la télévision, c'était très impressionnant !"
     },
-    "related": "【文化・余暇】相撲 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】相撲 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "sumou"
   },
   {
     "id": "card_0620",
@@ -17378,7 +17996,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我阿哥細細個就去館度學柔道，好勤力練習。",
       "fr": "Mon frère aîné fréquente un dojo depuis son enfance et s'entraîne assidûment au judo."
     },
-    "related": "【文化・余暇】柔道 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】柔道 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "juudou"
   },
   {
     "id": "card_0621",
@@ -17406,7 +18025,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 為咗健康，你有冇做咩運動呀？<br/>B: 我個個禮拜都去游水㗎。",
       "fr": "A: Pratiquez-vous un sport pour votre santé ?<br/>B: Je vais à la piscine chaque semaine pour nager."
     },
-    "related": "【文化・余暇】水泳 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】水泳 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "suiei"
   },
   {
     "id": "card_0622",
@@ -17434,7 +18054,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 喺劍道道場傳出好有氣魄嘅大聲喝彩。<br>B: 規矩嚴肅，成個人都精神晒。",
       "fr": "A: De puissants cris martiaux résonnent depuis le dojo de kendo.<br>B: C'est très discipliné et respectueux."
     },
-    "related": "【文化・余暇】剣道 (趣味・スポーツ・娯楽・スケジュール)"
+    "related": "【文化・余暇】剣道 (趣味・スポーツ・娯楽・スケジュール)",
+    "romaji": "kendou"
   },
   {
     "id": "card_0623",
@@ -17462,7 +18083,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本四季分明，無論咩季節都可以欣賞到好靚嘅風景同當造嘅美食。",
       "fr": "Le Japon a quatre saisons bien marquées, et l'on peut profiter de magnifiques paysages et de mets de saison en toute période."
     },
-    "related": "【気象・四季】季節 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】季節 (日本の気候・季節の風物詩)",
+    "romaji": "kisetsu"
   },
   {
     "id": "card_0624",
@@ -17490,7 +18112,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到春天櫻花開，周圍都係賞櫻嘅人好熱鬧。",
       "fr": "Au printemps, les cerisiers fleurissent et s'animent avec les gens qui admirent les fleurs."
     },
-    "related": "【気象・四季】春 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】春 (日本の気候・季節の風物詩)",
+    "romaji": "haru"
   },
   {
     "id": "card_0625",
@@ -17518,7 +18141,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夏天真係好熱，好想去游水或者去沙灘浸下水。",
       "fr": "L'été est très chaud, j'aimerais aller nager à la piscine ou à la mer."
     },
-    "related": "【気象・四季】夏 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】夏 (日本の気候・季節の風物詩)",
+    "romaji": "natsu"
   },
   {
     "id": "card_0626",
@@ -17546,7 +18170,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "秋天天氣好涼爽好舒服，啲紅葉好靚好啱賞楓。",
       "fr": "L'automne est frais et agréable, une magnifique saison aux couleurs chatoyantes."
     },
-    "related": "【気象・四季】秋 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】秋 (日本の気候・季節の風物詩)",
+    "romaji": "aki"
   },
   {
     "id": "card_0627",
@@ -17574,7 +18199,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天想去滑雪場，一邊睇雪景一邊浸溫泉。",
       "fr": "En hiver, j'aimerais aller dans une station de ski et profiter d'un onsen en admirant la neige."
     },
-    "related": "【気象・四季】冬 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】冬 (日本の気候・季節の風物詩)",
+    "romaji": "fuyu"
   },
   {
     "id": "card_0628",
@@ -17602,7 +18228,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 今日天氣點呀？<br/>B: 暖笠笠，天氣好正呀。",
       "fr": "A: Quel temps fait-il aujourd'hui ?<br/>B: Il fait doux et le temps est superbe."
     },
-    "related": "【気象・四季】天気 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】天気 (日本の気候・季節の風物詩)",
+    "romaji": "tenki"
   },
   {
     "id": "card_0629",
@@ -17630,7 +18257,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下晝開始落雨，所以我開咗把縮骨遮。",
       "fr": "Il a commencé à pleuvoir l'après-midi, j'ai donc utilisé un parapluie pliant."
     },
-    "related": "【気象・四季】雨 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】雨 (日本の気候・季節の風物詩)",
+    "romaji": "ame"
   },
   {
     "id": "card_0630",
@@ -17658,7 +18286,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 聽日天氣點呀？<br/>B: 天氣預報話聽日成日都係晴天。",
       "fr": "A: Quel temps fera-t-il demain ?<br/>B: Il est prévu qu'il fasse un grand soleil toute la journée."
     },
-    "related": "【気象・四季】晴れ (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】晴れ (日本の気候・季節の風物詩)",
+    "romaji": "hare"
   },
   {
     "id": "card_0631",
@@ -17686,7 +18315,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日天陰陰，冇咁曬幾舒服。",
       "fr": "Le ciel est nuageux aujourd'hui, le soleil n'est pas trop fort, c'est agréable."
     },
-    "related": "【気象・四季】曇り (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】曇り (日本の気候・季節の風物詩)",
+    "romaji": "kumori"
   },
   {
     "id": "card_0632",
@@ -17714,7 +18344,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好大風，頂帽爭啲畀風吹走。",
       "fr": "Le vent souffle fort aujourd'hui, mon chapeau a failli s'envoler."
     },
-    "related": "【気象・四季】風 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】風 (日本の気候・季節の風物詩)",
+    "romaji": "kaze"
   },
   {
     "id": "card_0633",
@@ -17742,7 +18373,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到春天，河邊成排櫻花樹就會變晒粉紅色好靚。",
       "fr": "Au printemps, l'allée de cerisiers le long de la rivière se teinte de rose."
     },
-    "related": "【気象・四季】桜 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】桜 (日本の気候・季節の風物詩)",
+    "romaji": "sakura"
   },
   {
     "id": "card_0634",
@@ -17770,7 +18402,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一路賞櫻花，一路食甜甜地好香嘅日式醬油糰子。",
       "fr": "En admirant les fleurs, nous avons dégusté de savoureux mitarashi dango sucrés."
     },
-    "related": "【気象・四季】団子 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】団子 (日本の気候・季節の風物詩)",
+    "romaji": "dango"
   },
   {
     "id": "card_0635",
@@ -17798,7 +18431,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同屋企人一齊去睇夏天夜空綻放嘅好大個煙花。",
       "fr": "Je suis allé voir en famille le grand feu d'artifice qui illuminait le ciel d'été."
     },
-    "related": "【気象・四季】花火 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】花火 (日本の気候・季節の風物詩)",
+    "romaji": "hanabi"
   },
   {
     "id": "card_0636",
@@ -17826,7 +18460,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺地方夏祭著住浴衣，食街邊檔嘅章魚燒。",
       "fr": "Au festival d'été local, j'ai porté un yukata et mangé des takoyaki aux stands."
     },
-    "related": "【気象・四季】祭り (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】祭り (日本の気候・季節の風物詩)",
+    "romaji": "matsuri"
   },
   {
     "id": "card_0637",
@@ -17854,7 +18489,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假去咗沖繩好靚嘅海度玩浮潛。",
       "fr": "Pendant les vacances d'été, j'ai fait de la plongée avec tuba dans la belle mer d'Okinawa."
     },
-    "related": "【気象・四季】海 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】海 (日本の気候・季節の風物詩)",
+    "romaji": "umi"
   },
   {
     "id": "card_0638",
@@ -17882,7 +18518,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "趁著好天嘅放休日，我同朋友一齊去富士山附近行山。",
       "fr": "Par une belle journée de congé, je suis allé faire de la randonnée près du mont Fuji avec des amis."
     },
-    "related": "【気象・四季】山 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】山 (日本の気候・季節の風物詩)",
+    "romaji": "yama"
   },
   {
     "id": "card_0639",
@@ -17910,7 +18547,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺京都鴨川河邊散步，啲微風吹埋嚟好舒服。",
       "fr": "En se promenant au bord de la rivière Kamo à Kyoto, la brise est très agréable."
     },
-    "related": "【気象・四季】川 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】川 (日本の気候・季節の風物詩)",
+    "romaji": "kawa"
   },
   {
     "id": "card_0640",
@@ -17938,7 +18576,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到11月，京都啲山頭就會染成一片好壯觀嘅紅葉黃葉。",
       "fr": "En novembre, les montagnes de Kyoto se teintent de rouge et de jaune avec de superbes feuillages d'automne."
     },
-    "related": "【気象・四季】紅葉 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】紅葉 (日本の気候・季節の風物詩)",
+    "romaji": "kouyou"
   },
   {
     "id": "card_0641",
@@ -17966,7 +18605,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺秋天嘅煨蕃薯檔買咗件熱辣辣又香甜軟熟嘅蕃薯。",
       "fr": "Chez le marchand de patates douces d'automne, j'ai acheté une patate douce chaude et sucrée."
     },
-    "related": "【気象・四季】さつまいも (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】さつまいも (日本の気候・季節の風物詩)",
+    "romaji": "satsumaimo"
   },
   {
     "id": "card_0642",
@@ -17994,7 +18634,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天鑽進暖桌裡吃橘子最棒了呢。<br>整個人暖洋洋的。",
       "fr": "In winter, sitting under the kotatsu and eating tangerines is the best.<br>It warms you up cosily."
     },
-    "related": "【生活家具】日本の伝統的な暖房器具"
+    "related": "【生活家具】日本の伝統的な暖房器具",
+    "romaji": "kotatsu"
   },
   {
     "id": "card_0643",
@@ -18022,7 +18663,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺凍冰冰嘅冬夜，成家人圍埋一齊打邊爐食熱辣辣嘅鍋物就最正。",
       "fr": "Par une froide nuit d'hiver, se réunir en famille autour d'une fondue japonaise bien chaude est le meilleur."
     },
-    "related": "【気象・四季】鍋 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】鍋 (日本の気候・季節の風物詩)",
+    "romaji": "nabe"
   },
   {
     "id": "card_0644",
@@ -18050,7 +18692,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到12月成個市區都著晒燈飾，充滿住浪漫嘅聖誕氣氛。",
       "fr": "En décembre, la ville scintille d'illuminations et s'enveloppe d'une ambiance de Noël."
     },
-    "related": "【気象・四季】クリスマス (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】クリスマス (日本の気候・季節の風物詩)",
+    "romaji": "kurisumasu"
   },
   {
     "id": "card_0645",
@@ -18078,7 +18721,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺日本過年嗰陣，大家會食年菜御節料理同去神社作新年參拜。",
       "fr": "Au Nouvel An japonais, on mange la cuisine traditionnelle osechi et on fait la première visite au sanctuaire."
     },
-    "related": "【気象・四季】お正月 (日本の気候・季節の風物詩)"
+    "related": "【気象・四季】お正月 (日本の気候・季節の風物詩)",
+    "romaji": "oshougatsu"
   },
   {
     "id": "card_0646",
@@ -18106,7 +18750,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假喺海入面游好多水。",
       "fr": "Je nage beaucoup dans la mer pendant les vacances d'été."
     },
-    "related": "【原型（辞書形）】泳ぐ（およぐ）\n【ます形】泳ぎます\n【て形】泳いで\n【ない形】泳がない\n【た形】泳いだ\n【グループ・連語】1グループ (五段) / 「プールで泳ぐ」"
+    "related": "【原型（辞書形）】泳ぐ（およぐ）\n【ます形】泳ぎます\n【て形】泳いで\n【ない形】泳がない\n【た形】泳いだ\n【グループ・連語】1グループ (五段) / 「プールで泳ぐ」",
+    "romaji": "oyogu / oyogimasu"
   },
   {
     "id": "card_0647",
@@ -18134,7 +18779,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行好多路隻腳會攰。",
       "fr": "Mes jambes se fatiguent quand je marche beaucoup."
     },
-    "related": "【原型（辞書形）】疲れる（つかれる）\n【ます形】疲れます\n【て形】疲れて\n【ない形】疲れない\n【た形】疲れた\n【グループ・連語】2グループ (一段) / 「仕事で疲れる」"
+    "related": "【原型（辞書形）】疲れる（つかれる）\n【ます形】疲れます\n【て形】疲れて\n【ない形】疲れない\n【た形】疲れた\n【グループ・連語】2グループ (一段) / 「仕事で疲れる」",
+    "romaji": "tsukareru / tsukaremasu"
   },
   {
     "id": "card_0648",
@@ -18162,7 +18808,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣咁好，我下晝打算出去公園行下。",
       "fr": "Le temps est magnifique, je vais donc sortir au parc cet après-midi."
     },
-    "related": "【原型（辞書形）】でかける\n【ます形】出掛けます\n【て形】出掛けて\n【ない形】出掛けない\n【た形】出掛けた\n【グループ・連語】2グループ (一段) / 「週末に出掛ける」"
+    "related": "【原型（辞書形）】でかける\n【ます形】出掛けます\n【て形】出掛けて\n【ない形】出掛けない\n【た形】出掛けた\n【グループ・連語】2グループ (一段) / 「週末に出掛ける」",
+    "romaji": "dekakeru / dekakemasu"
   },
   {
     "id": "card_0649",
@@ -18190,7 +18837,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間房好黑，所以開燈。",
       "fr": "La pièce est sombre, alors j'allume la lumière."
     },
-    "related": "【動詞】点ける (スイッチを入れて明かりや家電を起動すること)"
+    "related": "【動詞】点ける (スイッチを入れて明かりや家電を起動すること)",
+    "romaji": "tsukeru / tsukemasu"
   },
   {
     "id": "card_0650",
@@ -18218,7 +18866,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睡前把電視關掉。<br>變安靜了。",
       "fr": "I turn off the TV power before sleeping.<br>It has become quiet."
     },
-    "related": "【動詞】消す (電気や火を止めること)"
+    "related": "【動詞】消す (電気や火を止めること)",
+    "romaji": "kesu / keshimasu"
   },
   {
     "id": "card_0651",
@@ -18246,7 +18895,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "差唔多趕唔切搭火車，所以行快啲。",
       "fr": "Je me dépêche parce que je risque de rater le train."
     },
-    "related": "【動詞】急ぐ (スピードを上げること)"
+    "related": "【動詞】急ぐ (スピードを上げること)",
+    "romaji": "isogu / isogimasu"
   },
   {
     "id": "card_0652",
@@ -18274,7 +18924,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺車站入閘機前面等朋友。",
       "fr": "J'attends mon ami devant les portillons de la gare."
     },
-    "related": "【原型（辞書形）】待つ（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「駅で友達を待つ」"
+    "related": "【原型（辞書形）】待つ（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「駅で友達を待つ」",
+    "romaji": "matsu / machimasu"
   },
   {
     "id": "card_0653",
@@ -18302,7 +18953,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "重嘅行李等我拎啦。",
       "fr": "Je porte les bagages lourds."
     },
-    "related": "【原型（辞書形）】持つ（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「荷物を持つ」"
+    "related": "【原型（辞書形）】持つ（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「荷物を持つ」",
+    "romaji": "motsu / mochimasu"
   },
   {
     "id": "card_0654",
@@ -18330,7 +18982,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "拎枱上面嘅鹽。",
       "fr": "Je prends le sel sur la table."
     },
-    "related": "【動詞】取る (手に取って渡すこと)"
+    "related": "【動詞】取る (手に取って渡すこと)",
+    "romaji": "toru / torimasu"
   },
   {
     "id": "card_0655",
@@ -18358,7 +19011,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一齊幫手準備煮飯。",
       "fr": "J'aide à préparer le repas ensemble."
     },
-    "related": "【原型（辞書形）】手伝う（てつだう）\n【ます形】手伝います\n【て形】手伝って\n【ない形】手伝わない\n【た形】手伝った\n【グループ・連語】1グループ (五段) / 「仕事を手伝う」"
+    "related": "【原型（辞書形）】手伝う（てつだう）\n【ます形】手伝います\n【て形】手伝って\n【ない形】手伝わない\n【た形】手伝った\n【グループ・連語】1グループ (五段) / 「仕事を手伝う」",
+    "romaji": "tetsudau / tetsudaimasu"
   },
   {
     "id": "card_0656",
@@ -18386,7 +19040,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好心幫有需要嘅人。",
       "fr": "J'aide gentiment les personnes en difficulté."
     },
-    "related": "【動詞】助ける (救助・手助けすること)"
+    "related": "【動詞】助ける (救助・手助けすること)",
+    "romaji": "tasukeru / tasukemasu"
   },
   {
     "id": "card_0657",
@@ -18414,7 +19069,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同老師用日文傾偈傾得好開心。",
       "fr": "J'ai pu avoir une conversation agréable en japonais avec mon professeur."
     },
-    "related": "【原型（辞書形）】話す（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「日本語で話す」"
+    "related": "【原型（辞書形）】話す（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「日本語で話す」",
+    "romaji": "hanasu / hanashimasu"
   },
   {
     "id": "card_0658",
@@ -18442,7 +19098,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "打電話叫一架的士。",
       "fr": "J'appelle un taxi par téléphone."
     },
-    "related": "【動詞】呼ぶ (声をかけて招くこと)"
+    "related": "【動詞】呼ぶ (声をかけて招くこと)",
+    "romaji": "yobu / yobimasu"
   },
   {
     "id": "card_0659",
@@ -18470,7 +19127,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺閘口向車站職員出示車飛。",
       "fr": "Je montre mon billet à l'employé de la gare au portillon."
     },
-    "related": "【原型（辞書形）】見せる（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「写真を見せる」"
+    "related": "【原型（辞書形）】見せる（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「写真を見せる」",
+    "romaji": "miseru / misemasu"
   },
   {
     "id": "card_0660",
@@ -18498,7 +19156,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師好溫柔咁教日文。",
       "fr": "Le professeur enseigne gentiment le japonais."
     },
-    "related": "【原型（辞書形）】教える（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「日本語を教える」"
+    "related": "【原型（辞書形）】教える（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「日本語を教える」",
+    "romaji": "oshieru / oshiemasu"
   },
   {
     "id": "card_0661",
@@ -18526,7 +19185,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晏晝入咗一間好靜嘅cafe。",
       "zh_TW": "下午走進一家安靜的咖啡館。"
     },
-    "related": "【動詞】入る (中へ進むこと)"
+    "related": "【動詞】入る (中へ進むこと)",
+    "romaji": "hairu / hairimasu"
   },
   {
     "id": "card_0662",
@@ -18554,7 +19214,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開完會走出會議室。",
       "fr": "La réunion se termine et je sors de la pièce."
     },
-    "related": "【動詞】出る (外へ向かうこと)"
+    "related": "【動詞】出る (外へ向かうこと)",
+    "romaji": "deru / demasu"
   },
   {
     "id": "card_0663",
@@ -18582,7 +19243,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晏晝開始落雨。",
       "fr": "Il pleut à partir de l'après-midi."
     },
-    "related": "【動詞】降る (雨や雪が空から落ちること)"
+    "related": "【動詞】降る (雨や雪が空から落ちること)",
+    "romaji": "furu / furimasu"
   },
   {
     "id": "card_0664",
@@ -18610,7 +19272,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 週末你都怎麼過呢？<br>B: 在家看看電影、出門買買東西。",
       "fr": "A: What did you do over the weekend?<br>B: I watched movies at home and went shopping."
     },
-    "related": "【時間】土曜日と日曜日"
+    "related": "【時間】土曜日と日曜日",
+    "romaji": "shuumatsu"
   },
   {
     "id": "card_0665",
@@ -18638,7 +19301,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個禮拜撞正公眾假期有三日連假，打算去浸溫泉旅行。",
       "fr": "La semaine prochaine, il y a un jour férié et un week-end de trois jours, je prévois donc d'aller aux sources chaudes."
     },
-    "related": "【語彙】連休 (お出掛けに関する基本語彙)"
+    "related": "【語彙】連休 (お出掛けに関する基本語彙)",
+    "romaji": "renkyuu"
   },
   {
     "id": "card_0666",
@@ -18666,7 +19330,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣去咗美術館，欣賞咗好靚嘅現代藝術作品。",
       "fr": "Pendant mon jour de congé, je suis allé au musée des beaux-arts et j'ai admiré de magnifiques œuvres d'art moderne."
     },
-    "related": "【語彙】美術 (お出掛けに関する基本語彙)"
+    "related": "【語彙】美術 (お出掛けに関する基本語彙)",
+    "romaji": "bijutsu"
   },
   {
     "id": "card_0667",
@@ -18694,7 +19359,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣我同爸爸一齊去河邊釣魚。",
       "fr": "Pendant mon jour de repos, je suis allé pêcher à la rivière avec mon père."
     },
-    "related": "【語彙】釣り (お出掛けに関する基本語彙)"
+    "related": "【語彙】釣り (お出掛けに関する基本語彙)",
+    "romaji": "tsuri"
   },
   {
     "id": "card_0668",
@@ -18722,7 +19388,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺國立科學博物館參觀咗好大件嘅恐龍化石。",
       "fr": "Au musée national des sciences, nous avons admiré de grands fossiles de dinosaures."
     },
-    "related": "【語彙】博物館 (お出掛けに関する基本語彙)"
+    "related": "【語彙】博物館 (お出掛けに関する基本語彙)",
+    "romaji": "hakubutsukan"
   },
   {
     "id": "card_0669",
@@ -18750,7 +19417,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行過京都一間古老又靚嘅寺廟，成個人心情平靜晒。",
       "fr": "Se promener dans un vieux temple magnifique de Kyoto m'a apaisé l'esprit."
     },
-    "related": "【語彙】お寺 (お出掛けに関する基本語彙)"
+    "related": "【語彙】お寺 (お出掛けに関する基本語彙)",
+    "romaji": "otera"
   },
   {
     "id": "card_0670",
@@ -18778,7 +19446,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新年嗰陣去咗附近好出名嘅神社新年參拜，祈求身體健康。",
       "fr": "Pour le Nouvel An, je suis allé faire la première visite de l'année dans un sanctuaire réputé des environs et j'ai prié pour la santé."
     },
-    "related": "【語彙】神社 (お出掛けに関する基本語彙)"
+    "related": "【語彙】神社 (お出掛けに関する基本語彙)",
+    "romaji": "jinja"
   },
   {
     "id": "card_0671",
@@ -18806,7 +19475,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我參觀咗街角一座好有歷史嘅教堂。",
       "fr": "J'ai visité une église historique située au coin de la rue."
     },
-    "related": "【語彙】教会 (お出掛けに関する基本語彙)"
+    "related": "【語彙】教会 (お出掛けに関する基本語彙)",
+    "romaji": "kyoukai"
   },
   {
     "id": "card_0672",
@@ -18834,7 +19504,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落雨嗰陣都可以去體育館痛痛快快咁打場羽毛球。",
       "fr": "Même par temps de pluie, on peut profiter du badminton au gymnase."
     },
-    "related": "【語彙】体育館 (お出掛けに関する基本語彙)"
+    "related": "【語彙】体育館 (お出掛けに関する基本語彙)",
+    "romaji": "taiikukan"
   },
   {
     "id": "card_0673",
@@ -18862,7 +19533,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗申請Working Holiday簽證，我下個禮拜要去一趟大使館。",
       "fr": "J'irai à l'ambassade la semaine prochaine pour demander un visa vacances-travail."
     },
-    "related": "【語彙】大使館 (お出掛けに関する基本語彙)"
+    "related": "【語彙】大使館 (お出掛けに関する基本語彙)",
+    "romaji": "taishikan"
   },
   {
     "id": "card_0674",
@@ -18890,7 +19562,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "熱辣辣嘅暑假，我會同朋友去公眾泳池游水游到夠。",
       "fr": "Pendant les chaudes vacances d'été, je vais à la piscine municipale nager avec des amis."
     },
-    "related": "【語彙】プール (お出掛けに関する基本語彙)"
+    "related": "【語彙】プール (お出掛けに関する基本語彙)",
+    "romaji": "puuru"
   },
   {
     "id": "card_0675",
@@ -18918,7 +19591,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搬咗屋改咗地址，要去市政廳櫃檯更新返居民登記證。",
       "fr": "Comme j'ai déménagé, je suis allé au guichet de la mairie pour mettre à jour mon certificat de résidence."
     },
-    "related": "【語彙】市役所 (お出掛けに関する基本語彙)"
+    "related": "【語彙】市役所 (お出掛けに関する基本語彙)",
+    "romaji": "shiyakusho"
   },
   {
     "id": "card_0676",
@@ -18946,7 +19620,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺車站前面執到個銀包，即刻拎咗去附近嘅差館。",
       "fr": "J'ai trouvé un portefeuille devant la gare et je l'ai immédiatement apporté au poste de police voisin."
     },
-    "related": "【語彙】交番 (お出掛けに関する基本語彙)"
+    "related": "【語彙】交番 (お出掛けに関する基本語彙)",
+    "romaji": "kouban"
   },
   {
     "id": "card_0677",
@@ -18974,7 +19649,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "附近發生火警嗰陣，記得要冷靜並且即刻打去消防局報案。",
       "fr": "Si un incendie se déclare dans le quartier, gardez votre calme et appelez immédiatement les pompiers."
     },
-    "related": "【語彙】消防署 (お出掛けに関する基本語彙)"
+    "related": "【語彙】消防署 (お出掛けに関する基本語彙)",
+    "romaji": "shoubousho"
   },
   {
     "id": "card_0678",
@@ -19002,7 +19678,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "半夜肚餓，落咗樓下便利店買咗個飯糰食。",
       "fr": "Comme j'avais faim tard le soir, j'ai acheté des onigiri au combini."
     },
-    "related": "【語彙】コンビニ (お出掛けに関する基本語彙)"
+    "related": "【語彙】コンビニ (お出掛けに関する基本語彙)",
+    "romaji": "konbini"
   },
   {
     "id": "card_0679",
@@ -19030,7 +19707,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺一間充滿懷舊復古Feel嘅日式喫茶店，試咗佢哋招牌布甸同咖啡。",
       "fr": "Dans un café rétro traditionnel, j'ai dégusté leur fameux flan avec un café mélangé maison."
     },
-    "related": "【語彙】喫茶店 (お出掛けに関する基本語彙)"
+    "related": "【語彙】喫茶店 (お出掛けに関する基本語彙)",
+    "romaji": "kissaten"
   },
   {
     "id": "card_0680",
@@ -19058,7 +19736,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "站前嗰間麵包小店傳出啱啱出爐牛角包嘅撲鼻香味。",
       "fr": "Une bonne odeur de croissants chauds s'échappe de la petite boulangerie devant la gare."
     },
-    "related": "【語彙】パン屋 (お出掛けに関する基本語彙)"
+    "related": "【語彙】パン屋 (お出掛けに関する基本語彙)",
+    "romaji": "pan'ya"
   },
   {
     "id": "card_0681",
@@ -19086,7 +19765,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺間賣各地地道清酒嘅酒莊，揀咗支好酒送畀阿爸做生日禮物。",
       "fr": "Dans une boutique de vins et spiritueux avec de grands sakés régionaux, j'ai choisi un cadeau d'anniversaire pour mon père."
     },
-    "related": "【語彙】酒屋 (お出掛けに関する基本語彙)"
+    "related": "【語彙】酒屋 (お出掛けに関する基本語彙)",
+    "romaji": "sakaya"
   },
   {
     "id": "card_0682",
@@ -19114,7 +19794,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺商店街嘅菜檔買咗新鮮摘落嚟嘅蕃茄同青瓜。",
       "fr": "Chez le primeur de la rue commerçante, j'ai acheté des tomates et des concombres fraîchement cueillis."
     },
-    "related": "【語彙】八百屋 (お出掛けに関する基本語彙)"
+    "related": "【語彙】八百屋 (お出掛けに関する基本語彙)",
+    "romaji": "yaoya"
   },
   {
     "id": "card_0683",
@@ -19142,7 +19823,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗買新幹線劃位車飛，我喺售票處櫃位排隊。",
       "fr": "J'ai fait la queue au guichet pour acheter des billets réservés pour le Shinkansen."
     },
-    "related": "【交通・鉄道】切符売り場 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】切符売り場 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "kippuuriba"
   },
   {
     "id": "card_0684",
@@ -19170,7 +19852,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "張交通IC卡唔夠錢扣，我去自動售票機增值咗五百円。",
       "fr": "Comme le solde de ma carte de transport était insuffisant, je l'ai rechargée à la borne automatique."
     },
-    "related": "【交通・鉄道】券売機 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】券売機 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "kenbaiki"
   },
   {
     "id": "card_0685",
@@ -19198,7 +19881,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "拍一拍張IC卡行過出入閘機，跟住行落月台搭車。",
       "fr": "Je passe ma carte IC sur la borne pour franchir le portillon et me diriger vers le quai."
     },
-    "related": "【交通・鉄道】改札口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】改札口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "kaisatsuguchi"
   },
   {
     "id": "card_0686",
@@ -19226,7 +19910,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺音樂廳門口前面同朋友等緊集合。",
       "fr": "J'ai rendez-vous avec mon ami devant l'entrée de la salle de concert."
     },
-    "related": "【交通・鉄道】入口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】入口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "iriguchi"
   },
   {
     "id": "card_0687",
@@ -19254,7 +19939,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 唔該，請問東邊出口喺邊度呀？<br/>B: 行上嗰邊樓梯右轉就係喇。",
       "fr": "A: Excusez-moi, par où se trouve la sortie Est ?<br/>B: Montez ces escaliers et ce sera sur la droite."
     },
-    "related": "【交通・鉄道】出口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】出口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "deguchi"
   },
   {
     "id": "card_0688",
@@ -19282,7 +19968,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 約喺邊度見面啊？<br>B: 我喺東口個大鐘樓廣場下面等你啦。",
       "fr": "A: Où se retrouve-t-on ?<br>B: Je t'attendrai sous la grande horloge de la place de la sortie Est."
     },
-    "related": "【交通・鉄道】東口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】東口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "higashiguchi"
   },
   {
     "id": "card_0689",
@@ -19310,7 +19997,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺西口行出嚟，就係直達機場嘅客運巴士站。",
       "fr": "En sortant par la sortie Ouest, vous trouverez l'arrêt de bus limousine direct pour l'aéroport."
     },
-    "related": "【交通・鉄道】西口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】西口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "nishiguchi"
   },
   {
     "id": "card_0690",
@@ -19338,7 +20026,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "南口嗰條行人專用區一到週末就有好多人出嚟行街，好熱鬧。",
       "fr": "La zone piétonne de la sortie Sud s'anime avec beaucoup de monde le week-end."
     },
-    "related": "【交通・鉄道】南口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】南口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "minamiguchi"
   },
   {
     "id": "card_0691",
@@ -19366,7 +20055,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "北口個巴士迴旋處有去市政廳嘅循環巴士開出。",
       "fr": "Du rond-point de la sortie Nord partent les bus de ligne pour la mairie."
     },
-    "related": "【交通・鉄道】北口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】北口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "kitaguchi"
   },
   {
     "id": "card_0692",
@@ -19394,7 +20084,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "車站個中央出口係約人嘅大熱門位，幾時都咁好氣氛。",
       "fr": "La sortie centrale de la gare est un point de rendez-vous classique, toujours très vivant."
     },
-    "related": "【交通・鉄道】中央口 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】中央口 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "chuuouguchi"
   },
   {
     "id": "card_0693",
@@ -19422,7 +20113,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗去成田機場，我喺日暮里站搭咗Skyliner特急列車。",
       "fr": "Pour aller à l'aéroport de Narita, j'ai pris le train express limité Skyliner depuis la gare de Nippori."
     },
-    "related": "【交通・鉄道】特急 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】特急 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "tokkyuu"
   },
   {
     "id": "card_0694",
@@ -19450,7 +20142,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢班車係急行火車，所以會快過架架停嘅普通車到目的地㗎。",
       "fr": "Ce train est un express, il arrive donc plus vite à destination que l'omnibus."
     },
-    "related": "【交通・鉄道】急行 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】急行 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "kyuukou"
   },
   {
     "id": "card_0695",
@@ -19478,7 +20171,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這班車是快速電車，途中不停靠小站。<br>會很快到達目的地喔。",
       "fr": "This train is a Rapid, so it skips small stations along the way.<br>You'll arrive at your destination quickly."
     },
-    "related": "【鉄道】急行・快速列車"
+    "related": "【鉄道】急行・快速列車",
+    "romaji": "kaisoku"
   },
   {
     "id": "card_0696",
@@ -19506,7 +20200,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢班係普通火車，所以每個站都會停。",
       "fr": "Ce train est un omnibus, il s'arrête donc à toutes les gares."
     },
-    "related": "【交通・鉄道】普通 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】普通 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "futsuu"
   },
   {
     "id": "card_0697",
@@ -19534,7 +20229,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇咗巴士站嘅時間表，查下下一班巴士幾點到。",
       "fr": "J'ai vérifié les horaires à l'arrêt de bus pour savoir quand arrivait le prochain bus."
     },
-    "related": "【交通・鉄道】時刻表 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】時刻表 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "jikokuhyou"
   },
   {
     "id": "card_0698",
@@ -19562,7 +20258,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這班車是十點從東京車站出發的希望號。<br>坐在指定席上吧。",
       "fr": "This train is the Nozomi departing from Tokyo Station at 10:00.<br>Let's sit in reserved seats."
     },
-    "related": "【交通】出発地・出発時刻を表す接尾辞"
+    "related": "【交通】出発地・出発時刻を表す接尾辞",
+    "romaji": "~hatsu"
   },
   {
     "id": "card_0699",
@@ -19590,7 +20287,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新幹線預計下午兩點抵達京都。<br>正如期行駛中呢。",
       "fr": "The Shinkansen is scheduled to arrive in Kyoto at 2 PM.<br>It's running on schedule."
     },
-    "related": "【交通】到着地・到着時刻を表す接尾辞"
+    "related": "【交通】到着地・到着時刻を表す接尾辞",
+    "romaji": "~chaku"
   },
   {
     "id": "card_0700",
@@ -19618,7 +20316,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這輛公車是開往澀谷車站的。<br>請從前門上車。",
       "fr": "This bus is bound for Shibuya Station.<br>Please board from the front door."
     },
-    "related": "【交通】目的地・行き先を表す接尾辞"
+    "related": "【交通】目的地・行き先を表す接尾辞",
+    "romaji": "~yuki"
   },
   {
     "id": "card_0701",
@@ -19646,7 +20345,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為回程嘅日子仲未定好，所以我剩係買咗新幹線嘅單程飛。",
       "fr": "Comme ma date de retour n'est pas encore fixée, je n'ai acheté qu'un aller simple pour le Shinkansen."
     },
-    "related": "【交通・鉄道】片道 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】片道 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "katamichi"
   },
   {
     "id": "card_0702",
@@ -19674,7 +20374,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去京都嘅新幹線，買來回往返車飛會有折抵好多。",
       "fr": "Pour le Shinkansen jusqu'à Kyoto, il est plus avantageux de réserver un billet aller-retour avec une réduction."
     },
-    "related": "【交通・鉄道】往復 (駅施設・乗り物・移動に関する語彙)"
+    "related": "【交通・鉄道】往復 (駅施設・乗り物・移動に関する語彙)",
+    "romaji": "oufuku"
   },
   {
     "id": "card_0703",
@@ -19702,7 +20403,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日請喺朝早六點起身。",
       "fr": "Veuillez vous lever demain matin à six heures."
     },
-    "related": "【原型（辞書形）】起きて（おきる）\n【ます形】起きます\n【て形】起きて\n【ない形】起きない\n【た形】起きた\n【グループ・連語】2グループ (一段) / 「早く起きてください」"
+    "related": "【原型（辞書形）】起きて（おきる）\n【ます形】起きます\n【て形】起きて\n【ない形】起きない\n【た形】起きた\n【グループ・連語】2グループ (一段) / 「早く起きてください」",
+    "romaji": "okite"
   },
   {
     "id": "card_0704",
@@ -19730,7 +20432,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺圖書館專心讀完書之後，我同朋友去咗飲茶傾計。",
       "fr": "Après avoir étudié intensément à la bibliothèque, je suis allé prendre un thé avec un ami."
     },
-    "related": "【原型（辞書形）】勉強をして（べんきょうをする）\n【ます形】勉強をします\n【て形】勉強をして\n【ない形】勉強をしない\n【た形】勉強をした\n【グループ・連語】3グループ (サ変) / 「しっかり勉強をしてください」"
+    "related": "【原型（辞書形）】勉強をして（べんきょうをする）\n【ます形】勉強をします\n【て形】勉強をして\n【ない形】勉強をしない\n【た形】勉強をした\n【グループ・連語】3グループ (サ変) / 「しっかり勉強をしてください」",
+    "romaji": "benkyou o shite"
   },
   {
     "id": "card_0705",
@@ -19758,7 +20461,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去車站買新幹線嘅車飛。",
       "fr": "Je vais à la gare et j'achète un billet de Shinkansen."
     },
-    "related": "【原型（辞書形）】行って（いく）\n【ます形】行きます\n【て形】行って\n【ない形】行かない\n【た形】行った\n【グループ・連語】1グループ (五段・促音便例外) / 「駅へ行って切符を買う」"
+    "related": "【原型（辞書形）】行って（いく）\n【ます形】行きます\n【て形】行って\n【ない形】行かない\n【た形】行った\n【グループ・連語】1グループ (五段・促音便例外) / 「駅へ行って切符を買う」",
+    "romaji": "itte"
   },
   {
     "id": "card_0706",
@@ -19786,7 +20490,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "返屋企食晚飯。",
       "fr": "Je rentre à la maison et je prends le dîner."
     },
-    "related": "【原型（辞書形）】帰って（かえる）\n【ます形】帰ります\n【て形】帰って\n【ない形】帰らない\n【た形】帰った\n【グループ・連語】1グループ (五段・ら行注意) / 「家へ帰ってご飯を食べる」"
+    "related": "【原型（辞書形）】帰って（かえる）\n【ます形】帰ります\n【て形】帰って\n【ない形】帰らない\n【た形】帰った\n【グループ・連語】1グループ (五段・ら行注意) / 「家へ帰ってご飯を食べる」",
+    "romaji": "kaette"
   },
   {
     "id": "card_0707",
@@ -19814,7 +20519,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請過一過嚟呢邊。",
       "fr": "Excusez-moi, veuillez venir ici un instant."
     },
-    "related": "【原型（辞書形）】来て（くる）\n【ます形】来ます\n【て形】来て\n【ない形】来ない\n【た形】来た\n【グループ・連語】3グループ (カ変) / 「こちらへ来てください」"
+    "related": "【原型（辞書形）】来て（くる）\n【ます形】来ます\n【て形】来て\n【ない形】来ない\n【た形】来た\n【グループ・連語】3グループ (カ変) / 「こちらへ来てください」",
+    "romaji": "kite"
   },
   {
     "id": "card_0708",
@@ -19842,7 +20548,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔使客氣，食多啲啦。",
       "fr": "Je vous en prie, mangez bien."
     },
-    "related": "【原型（辞書形）】食べて（たべる）\n【ます形】食べます\n【て形】食べて\n【ない形】食べない\n【た形】食べた\n【グループ・連語】2グループ (一段) / 「たくさん食べてください」"
+    "related": "【原型（辞書形）】食べて（たべる）\n【ます形】食べます\n【て形】食べて\n【ない形】食べない\n【た形】食べた\n【グループ・連語】2グループ (一段) / 「たくさん食べてください」",
+    "romaji": "tabete"
   },
   {
     "id": "card_0709",
@@ -19870,7 +20577,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺食完飯之後食呢隻藥，然後早啲瞓。",
       "fr": "Veuillez prendre ce médicament après le repas et vous coucher tôt."
     },
-    "related": "【原型（辞書形）】飲んで（のむ）\n【ます形】飲みます\n【て形】飲んで\n【ない形】飲まない\n【た形】飲んだ\n【グループ・連語】1グループ (五段) / 「薬を飲んで寝てください」"
+    "related": "【原型（辞書形）】飲んで（のむ）\n【ます形】飲みます\n【て形】飲んで\n【ない形】飲まない\n【た形】飲んだ\n【グループ・連語】1グループ (五段) / 「薬を飲んで寝てください」",
+    "romaji": "nonde"
   },
   {
     "id": "card_0710",
@@ -19898,7 +20606,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日要早起，今晚請早啲瞓啦。",
       "fr": "Demain on se lève tôt, alors couchez-vous tôt ce soir."
     },
-    "related": "【原型（辞書形）】寝て（ねる）\n【ます形】寝ます\n【て形】寝て\n【ない形】寝ない\n【た形】寝た\n【グループ・連語】2グループ (一段) / 「ゆっくり寝てください」"
+    "related": "【原型（辞書形）】寝て（ねる）\n【ます形】寝ます\n【て形】寝て\n【ない形】寝ない\n【た形】寝た\n【グループ・連語】2グループ (一段) / 「ゆっくり寝てください」",
+    "romaji": "nete"
   },
   {
     "id": "card_0711",
@@ -19926,7 +20635,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請睇下呢張靚相。",
       "fr": "Veuillez regarder cette belle photo."
     },
-    "related": "【原型（辞書形）】見て（みる）\n【ます形】見ます\n【て形】見て\n【ない形】見ない\n【た形】見た\n【グループ・連語】2グループ (一段) / 「これを見てください」"
+    "related": "【原型（辞書形）】見て（みる）\n【ます形】見ます\n【て形】見て\n【ない形】見ない\n【た形】見た\n【グループ・連語】2グループ (一段) / 「これを見てください」",
+    "romaji": "mite"
   },
   {
     "id": "card_0712",
@@ -19954,7 +20664,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請先留心聽下呢隻CD入面嘅對話。",
       "fr": "Tout d'abord, veuillez écouter attentivement la conversation de ce CD."
     },
-    "related": "【原型（辞書形）】聞いて（きく）\n【ます形】聞きます\n【て形】聞いて\n【ない形】聞かない\n【た形】聞いた\n【グループ・連語】1グループ (五段) / 「ラジオを聞いて勉強する」"
+    "related": "【原型（辞書形）】聞いて（きく）\n【ます形】聞きます\n【て形】聞いて\n【ない形】聞かない\n【た形】聞いた\n【グループ・連語】1グループ (五段) / 「ラジオを聞いて勉強する」",
+    "romaji": "kiite"
   },
   {
     "id": "card_0713",
@@ -19982,7 +20693,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "戴耳機聽喜歡的歌曲放鬆身心。<br>真好聽的歌呢。",
       "fr": "I am listening to my favorite song with earphones and relaxing.<br>It's a nice song."
     },
-    "related": "【動詞て形】聴いて (聴く)"
+    "related": "【動詞て形】聴いて (聴く)",
+    "romaji": "kiite"
   },
   {
     "id": "card_0714",
@@ -20010,7 +20722,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請大聲讀出下一頁嘅句子。",
       "fr": "Veuillez lire à haute voix le texte de la page suivante."
     },
-    "related": "【原型（辞書形）】読んで（よむ）\n【ます形】読みます\n【て形】読んで\n【ない形】読まない\n【た形】読んだ\n【グループ・連語】1グループ (五段) / 「新聞を読んでください」"
+    "related": "【原型（辞書形）】読んで（よむ）\n【ます形】読みます\n【て形】読んで\n【ない形】読まない\n【た形】読んだ\n【グループ・連語】1グループ (五段) / 「新聞を読んでください」",
+    "romaji": "yonde"
   },
   {
     "id": "card_0715",
@@ -20038,7 +20751,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請講慢少少。",
       "fr": "Excusez-moi, veuillez parler un peu plus lentement."
     },
-    "related": "【原型（辞書形）】話して（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「ゆっくり話してください」"
+    "related": "【原型（辞書形）】話して（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「ゆっくり話してください」",
+    "romaji": "hanashite"
   },
   {
     "id": "card_0716",
@@ -20066,7 +20780,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末久違地跟朋友見面聊了好多。<br>好開心！",
       "fr": "I met my friend after a long time on the weekend and talked a lot.<br>It was fun!"
     },
-    "related": "【動詞て形】会って (会う)"
+    "related": "【動詞て形】会って (会う)",
+    "romaji": "atte"
   },
   {
     "id": "card_0717",
@@ -20094,7 +20809,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "返嚟嗰陣請喺超市買牛奶同麵包。",
       "fr": "Veuillez acheter du lait et du pain au supermarché sur le chemin du retour."
     },
-    "related": "【原型（辞書形）】買って（かう）\n【ます形】買います\n【て形】買って\n【ない形】買わない\n【た形】買った\n【グループ・連語】1グループ (五段) / 「お土産を買って帰る」"
+    "related": "【原型（辞書形）】買って（かう）\n【ます形】買います\n【て形】買って\n【ない形】買わない\n【た形】買った\n【グループ・連語】1グループ (五段) / 「お土産を買って帰る」",
+    "romaji": "katte"
   },
   {
     "id": "card_0718",
@@ -20122,7 +20838,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請每日溫習日文。",
       "fr": "Veuillez réviser votre japonais tous les jours."
     },
-    "related": "【原型（辞書形）】して（する）\n【ます形】します\n【て形】して\n【ない形】しない\n【た形】した\n【グループ・連語】3グループ (サ変動詞) / 「早く宿題をしてください」"
+    "related": "【原型（辞書形）】して（する）\n【ます形】します\n【て形】して\n【ない形】しない\n【た形】した\n【グループ・連語】3グループ (サ変動詞) / 「早く宿題をしてください」",
+    "romaji": "shite"
   },
   {
     "id": "card_0719",
@@ -20150,7 +20867,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電影已經開始了，安靜地坐在位子上吧。<br>趕緊進去。",
       "fr": "The movie has started, so let's quietly sit in our seats.<br>Let's enter quickly."
     },
-    "related": "【動詞て形】始まって (始まる)"
+    "related": "【動詞て形】始まって (始まる)",
+    "romaji": "hajimatte"
   },
   {
     "id": "card_0720",
@@ -20178,7 +20896,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試結束了整個人如釋重負。<br>大家一起去玩吧！",
       "fr": "The test ended and a weight was lifted from my shoulders.<br>Let's go hang out!"
     },
-    "related": "【動詞て形】終わって (終わる)"
+    "related": "【動詞て形】終わって (終わる)",
+    "romaji": "owatte"
   },
   {
     "id": "card_0721",
@@ -20206,7 +20925,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在日本努力工作寄錢回家。<br>很有成就感喔。",
       "fr": "I work hard in Japan and send money to my family.<br>It is rewarding."
     },
-    "related": "【動詞て形】働いて (働く)"
+    "related": "【動詞て形】働いて (働く)",
+    "romaji": "hataraite"
   },
   {
     "id": "card_0722",
@@ -20234,7 +20954,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "被驚喜派對嚇了一大跳，非常開心！<br>謝謝大家！",
       "fr": "I was so surprised by the surprise party and very happy!<br>Thank you!"
     },
-    "related": "【動詞て形】驚いて (驚く)"
+    "related": "【動詞て形】驚いて (驚く)",
+    "romaji": "odoroite"
   },
   {
     "id": "card_0723",
@@ -20262,7 +20983,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔記得拎把遮留咗喺電車入面，真係頭痕。",
       "fr": "J'ai oublié mon parapluie dans le train et j'étais bien ennuyé."
     },
-    "related": "【原型（辞書形）】忘れて（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「傘を忘れて困った」"
+    "related": "【原型（辞書形）】忘れて（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「傘を忘れて困った」",
+    "romaji": "wasurete"
   },
   {
     "id": "card_0724",
@@ -20290,7 +21012,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為免唔記得密碼，請好好記住佢喇。",
       "fr": "Veuillez bien mémoriser votre mot de passe pour ne pas l'oublier."
     },
-    "related": "【動詞て形】覚えて (原型: 覚える・2グループ)"
+    "related": "【動詞て形】覚えて (原型: 覚える・2グループ)",
+    "romaji": "oboete"
   },
   {
     "id": "card_0725",
@@ -20318,7 +21041,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭乘公車去美術館。<br>非常開心！",
       "fr": "I rode the bus and went to the art museum.<br>It was fun!"
     },
-    "related": "【動詞て形】乗って (乗る)"
+    "related": "【動詞て形】乗って (乗る)",
+    "romaji": "notte"
   },
   {
     "id": "card_0726",
@@ -20346,7 +21070,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在下一站公車站下車，走路五分鐘就到了喔。<br>請按下車鈴。",
       "fr": "Get off at the next bus stop and you'll arrive in 5 minutes on foot.<br>Please press the bell."
     },
-    "related": "【動詞て形】降りて (降りる)"
+    "related": "【動詞て形】降りて (降りる)",
+    "romaji": "orite"
   },
   {
     "id": "card_0727",
@@ -20374,7 +21099,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "身體不舒服時千萬不要勉強，好好休息喔。<br>祝早日康復。",
       "fr": "When you feel unwell, please don't push yourself and rest well.<br>Take care."
     },
-    "related": "【動詞て形】休んで (休む)"
+    "related": "【動詞て形】休んで (休む)",
+    "romaji": "yasunde"
   },
   {
     "id": "card_0728",
@@ -20402,7 +21128,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假跟朋友盡情暢玩痛快放鬆。<br>明天開始又能繼續加油了。",
       "fr": "On weekends I hung out to my heart's content with friends and refreshed.<br>I can do my best starting tomorrow."
     },
-    "related": "【動詞て形】遊んで (遊ぶ)"
+    "related": "【動詞て形】遊んで (遊ぶ)",
+    "romaji": "asonde"
   },
   {
     "id": "card_0729",
@@ -20430,7 +21157,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出剪票口往右轉就有一個廣場喔。<br>我們在那裡碰面吧。",
       "fr": "Exit the ticket gate and turn right, you'll find a plaza.<br>Let's meet there."
     },
-    "related": "【動詞て形】出て (出る)"
+    "related": "【動詞て形】出て (出る)",
+    "romaji": "dete"
   },
   {
     "id": "card_0730",
@@ -20458,7 +21186,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請入房坐喺梳化度先啦。我沖杯茶俾你飲。",
       "fr": "Entrez dans la pièce et asseyez-vous sur le canapé. Je vais préparer du thé."
     },
-    "related": "【動詞て形】入って (入る)"
+    "related": "【動詞て形】入って (入る)",
+    "romaji": "haitte"
   },
   {
     "id": "card_0731",
@@ -20486,7 +21215,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到達飯店後立刻把行李放進房間。<br>出發去觀光吧！",
       "fr": "I arrived at the hotel and immediately put my luggage in the room.<br>Let's go sightseeing!"
     },
-    "related": "【動詞て形】着いて (着く)"
+    "related": "【動詞て形】着いて (着く)",
+    "romaji": "tsuite"
   },
   {
     "id": "card_0732",
@@ -20514,7 +21244,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "過馬路後直直走就是郵局喔。<br>是條很好認的路。",
       "fr": "Cross the crosswalk and go straight, there is a post office.<br>It's an easy path to follow."
     },
-    "related": "【動詞て形】渡って (渡る)"
+    "related": "【動詞て形】渡って (渡る)",
+    "romaji": "watatte"
   },
   {
     "id": "card_0733",
@@ -20542,7 +21273,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日朝早都提早一個站落車，行路去返工。",
       "fr": "Pour ma santé, je descends une station plus tôt chaque matin et vais au travail à pied."
     },
-    "related": "【動詞て形】歩いて (歩く)"
+    "related": "【動詞て形】歩いて (歩く)",
+    "romaji": "aruite"
   },
   {
     "id": "card_0734",
@@ -20570,7 +21302,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "急忙飛奔過去，剛好及時跳上電車！<br>好險安全趕上呢。",
       "fr": "I ran hurriedly and jumped right onto the train in time!<br>Safe!"
     },
-    "related": "【動詞て形】走って (走る)"
+    "related": "【動詞て形】走って (走る)",
+    "romaji": "hashitte"
   },
   {
     "id": "card_0735",
@@ -20598,7 +21331,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天早上請叫我起床不要讓我遲到喔。<br>好的，包在我身上。",
       "fr": "Please wake me up tomorrow morning so I won't be late.<br>Yes, leave it to me."
     },
-    "related": "【動詞て形】起こして (起こす)"
+    "related": "【動詞て形】起こして (起こす)",
+    "romaji": "okoshite"
   },
   {
     "id": "card_0736",
@@ -20626,7 +21360,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "把髒手洗乾淨，用毛巾擦乾吧。<br>清爽又乾淨。",
       "fr": "Wash your dirty hands cleanly and wipe with a towel.<br>Clean and refreshed."
     },
-    "related": "【動詞て形】洗って (洗う)"
+    "related": "【動詞て形】洗って (洗う)",
+    "romaji": "aratte"
   },
   {
     "id": "card_0737",
@@ -20654,7 +21389,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "穿上暖和的大衣一起出門吧。<br>小心別感冒喔。",
       "fr": "Put on a warm coat and let's go outside.<br>So you won't catch a cold."
     },
-    "related": "【動詞て形】着て (着る)"
+    "related": "【動詞て形】着て (着る)",
+    "romaji": "kite"
   },
   {
     "id": "card_0738",
@@ -20682,7 +21418,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "進房間後脫下外套掛在衣架上。<br>請放輕鬆自在一點喔。",
       "fr": "Take off your jacket upon entering the room and hang it on a hanger.<br>Make yourself comfortable."
     },
-    "related": "【動詞て形】脱いで (脱ぐ)"
+    "related": "【動詞て形】脱いで (脱ぐ)",
+    "romaji": "nuide"
   },
   {
     "id": "card_0739",
@@ -20710,7 +21447,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "房間好熱，開窗通通風吧。<br>變涼快了呢。",
       "fr": "The room is hot, so let's open the window to let the breeze through.<br>It got cooler."
     },
-    "related": "【動詞て形】開けて (開ける)"
+    "related": "【動詞て形】開けて (開ける)",
+    "romaji": "akete"
   },
   {
     "id": "card_0740",
@@ -20738,7 +21476,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冷氣開著請把門關好。<br>別讓冷氣跑掉囉。",
       "fr": "Because the AC is on, please close the door firmly.<br>So cold air won't escape."
     },
-    "related": "【動詞て形】閉めて (閉める)"
+    "related": "【動詞て形】閉めて (閉める)",
+    "romaji": "shimete"
   },
   {
     "id": "card_0741",
@@ -20766,7 +21505,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用這台電腦製作了簡報資料。<br>工作進度很順利。",
       "fr": "I used this PC to create the presentation materials.<br>Work goes smoothly."
     },
-    "related": "【動詞て形】使って (使う)"
+    "related": "【動詞て形】使って (使う)",
+    "romaji": "tsukatte"
   },
   {
     "id": "card_0742",
@@ -20794,7 +21534,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晚餐煮了美味的咖哩大家一起吃。<br>大受好評！",
       "fr": "I made delicious curry for dinner and we all ate it.<br>It was very popular!"
     },
-    "related": "【動詞て形】作って (作る)"
+    "related": "【動詞て形】作って (作る)",
+    "romaji": "tsukutte"
   },
   {
     "id": "card_0743",
@@ -20822,7 +21563,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用剪刀整齊剪下紙張貼在筆記本上。<br>剪得真好呢。",
       "fr": "I cut the paper cleanly with scissors and pasted it on the notebook.<br>You cut it nicely."
     },
-    "related": "【動詞て形】切って (切る)"
+    "related": "【動詞て形】切って (切る)",
+    "romaji": "kitte"
   },
   {
     "id": "card_0744",
@@ -20850,7 +21592,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在申請書上寫上姓名與地址後提交。<br>請用原子筆填寫。",
       "fr": "Write your name and address on the application and submit it.<br>Write with a ballpoint pen."
     },
-    "related": "【動詞て形】書いて (書く)"
+    "related": "【動詞て形】書いて (書く)",
+    "romaji": "kaite"
   },
   {
     "id": "card_0745",
@@ -20878,7 +21621,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用自己的話自信滿滿地回答問題，順利通過面試！<br>好棒！",
       "fr": "I answered the questions proudly in my own words and got through the interview!<br>Good job."
     },
-    "related": "【動詞て形】答えて (答える)"
+    "related": "【動詞て形】答えて (答える)",
+    "romaji": "kotaete"
   },
   {
     "id": "card_0746",
@@ -20906,7 +21650,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請話俾我知田中先生嘅電話號碼。",
       "fr": "Excusez-moi, veuillez me donner le numéro de téléphone de M. Tanaka."
     },
-    "related": "【原型（辞書形）】教えて（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「電話番号を教えてください」"
+    "related": "【原型（辞書形）】教えて（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「電話番号を教えてください」",
+    "romaji": "oshiete"
   },
   {
     "id": "card_0747",
@@ -20934,7 +21679,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從遠方傳來電車行駛的聲音。<br>真是安靜的夜晚呢。",
       "fr": "The sound of a train running can be heard from far away.<br>It's a quiet night."
     },
-    "related": "【動詞て形】聞こえて (聞こえる)"
+    "related": "【動詞て形】聞こえて (聞こえる)",
+    "romaji": "kikoete"
   },
   {
     "id": "card_0748",
@@ -20962,7 +21708,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從窗戶能看到遠處的富士山非常感動。<br>絕景呢。",
       "fr": "Mt. Fuji could be seen far from the window and I was very touched.<br>Wonderful view."
     },
-    "related": "【動詞て形】見えて (見える)"
+    "related": "【動詞て形】見えて (見える)",
+    "romaji": "miete"
   },
   {
     "id": "card_0749",
@@ -20990,7 +21737,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我即刻過嚟，請喺嗰度等一陣。",
       "fr": "J'arrive tout de suite, veuillez attendre un instant là-bas."
     },
-    "related": "【原型（辞書形）】待って（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「ちょっと待ってください」"
+    "related": "【原型（辞書形）】待って（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「ちょっと待ってください」",
+    "romaji": "matte"
   },
   {
     "id": "card_0750",
@@ -21018,7 +21766,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "心裡一直想著很想見你，所以寫了這封信。<br>希望心意能傳達過去。",
       "fr": "I wrote a letter thinking I wanted to see you all along.<br>Hope my feelings reach you."
     },
-    "related": "【動詞て形】思って (思う)"
+    "related": "【動詞て形】思って (思う)",
+    "romaji": "omotte"
   },
   {
     "id": "card_0751",
@@ -21046,7 +21795,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "深入了解那個故事後深受感動。<br>學到了很多。",
       "fr": "Learning that story in detail, I was deeply impressed.<br>I learned a lot."
     },
-    "related": "【動詞て形】知って (知る)"
+    "related": "【動詞て形】知って (知る)",
+    "romaji": "shitte"
   },
   {
     "id": "card_0752",
@@ -21074,7 +21824,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽了老師親切的解說後完全搞懂了，放下了心。<br>解開了疑惑。",
       "fr": "I understood well thanks to the teacher's gentle explanation and was relieved.<br>Questions resolved."
     },
-    "related": "【動詞て形】わかって (わかる)"
+    "related": "【動詞て形】わかって (わかる)",
+    "romaji": "wakatte"
   },
   {
     "id": "card_0753",
@@ -21102,7 +21853,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "能夠通過困難的考試，真的很開心！<br>恭喜恭喜！",
       "fr": "I was able to pass the difficult exam and was truly happy!<br>Congratulations!"
     },
-    "related": "【動詞て形】できて (できる)"
+    "related": "【動詞て形】できて (できる)",
+    "romaji": "dekite"
   },
   {
     "id": "card_0754",
@@ -21130,7 +21882,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺酒店泳池游咗陣水，個人即刻精靈晒。",
       "fr": "J'ai nagé dans la piscine de l'hôtel et je me suis senti complètement revigoré."
     },
-    "related": "【原型（辞書形）】泳いで（およぐ）\n【ます形】泳ぎます\n【て形】泳いで\n【ない形】泳がない\n【た形】泳いだ\n【グループ・連語】1グループ (五段) / 「海で泳いで気持ちがいい」"
+    "related": "【原型（辞書形）】泳いで（およぐ）\n【ます形】泳ぎます\n【て形】泳いで\n【ない形】泳がない\n【た形】泳いだ\n【グループ・連語】1グループ (五段) / 「海で泳いで気持ちがいい」",
+    "romaji": "oyoide"
   },
   {
     "id": "card_0755",
@@ -21158,7 +21911,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日行咗好多路好攰，所以早啲休息。",
       "fr": "J'ai beaucoup marché aujourd'hui et je suis fatigué, alors je vais me reposer tôt."
     },
-    "related": "【原型（辞書形）】疲れて（つかれる）\n【ます形】疲れます\n【て形】疲れて\n【ない形】疲れない\n【た形】疲れた\n【グループ・連語】2グループ (一段) / 「今日はとても疲れて早く寝た」"
+    "related": "【原型（辞書形）】疲れて（つかれる）\n【ます形】疲れます\n【て形】疲れて\n【ない形】疲れない\n【た形】疲れた\n【グループ・連語】2グループ (一段) / 「今日はとても疲れて早く寝た」",
+    "romaji": "tsukarete"
   },
   {
     "id": "card_0756",
@@ -21186,7 +21940,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 「我出門口喇！」<br/>B: 「出去小心啲睇路呀。」",
       "fr": "A: « J'y vais ! »<br/>B: « Fais attention à toi ! »"
     },
-    "related": "【原型（辞書形）】でかける\n【ます形】出掛けます\n【て形】出掛けて\n【ない形】出掛けない\n【た形】出掛けた\n【グループ・連語】2グループ (一段) / 「買い物に出掛けてきます」"
+    "related": "【原型（辞書形）】でかける\n【ます形】出掛けます\n【て形】出掛けて\n【ない形】出掛けない\n【た形】出掛けた\n【グループ・連語】2グループ (一段) / 「買い物に出掛けてきます」",
+    "romaji": "dekakete"
   },
   {
     "id": "card_0757",
@@ -21214,7 +21969,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開冷氣讓房間變涼快吧。<br>變得好舒服呢。",
       "fr": "Let's turn on the air conditioner and cool the room.<br>It's comfortable now."
     },
-    "related": "【動詞て形】つけて (点ける)"
+    "related": "【動詞て形】つけて (点ける)",
+    "romaji": "tsukete"
   },
   {
     "id": "card_0758",
@@ -21242,7 +21998,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門前請把房間的燈關掉。<br>可以省電喔。",
       "fr": "Please turn off the room lights before going out.<br>It saves electricity."
     },
-    "related": "【動詞て形】消して (消す)"
+    "related": "【動詞て形】消して (消す)",
+    "romaji": "keshite"
   },
   {
     "id": "card_0759",
@@ -21270,7 +22027,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "急忙跑向車站，總算趕上了電車！<br>太好了。",
       "fr": "I hurried and ran to the station, and barely caught the train!<br>I'm glad."
     },
-    "related": "【動詞て形】急いで (急ぐ)"
+    "related": "【動詞て形】急いで (急ぐ)",
+    "romaji": "isoide"
   },
   {
     "id": "card_0760",
@@ -21298,7 +22056,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我好快返嚟㗎，請坐喺呢邊張長凳度等一陣啦。",
       "fr": "Je reviens tout de suite, alors veuillez vous asseoir sur ce banc et m'attendre un instant."
     },
-    "related": "【原型（辞書形）】待って（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「ちょっと待ってください」"
+    "related": "【原型（辞書形）】待って（まつ）\n【ます形】待ちます\n【て形】待って\n【ない形】待たない\n【た形】待った\n【グループ・連語】1グループ (五段) / 「ちょっと待ってください」",
+    "romaji": "matte"
   },
   {
     "id": "card_0761",
@@ -21326,7 +22085,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好似就快落雨喇，帶把遮出門口啦。",
       "fr": "Il a l'air de vouloir pleuvoir, sortons avec un parapluie."
     },
-    "related": "【原型（辞書形）】持って（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「傘を持って出かけます」"
+    "related": "【原型（辞書形）】持って（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「傘を持って出かけます」",
+    "romaji": "motte"
   },
   {
     "id": "card_0762",
@@ -21354,7 +22114,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請幫我拿一下桌上的菜單。<br>要吃什麼好呢。",
       "fr": "Please pass me the menu on the table.<br>I wonder what to eat."
     },
-    "related": "【動詞て形】取って (取る)"
+    "related": "【動詞て形】取って (取る)",
+    "romaji": "totte"
   },
   {
     "id": "card_0763",
@@ -21382,7 +22143,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "啲行李好重，請幫一幫手。",
       "fr": "Les bagages sont lourds, veuillez m'aider un peu."
     },
-    "related": "【原型（辞書形）】手伝って（てつだう）\n【ます形】手伝います\n【て形】手伝って\n【ない形】手伝わない\n【た形】手伝った\n【グループ・連語】1グループ (五段) / 「少し手伝ってください」"
+    "related": "【原型（辞書形）】手伝って（てつだう）\n【ます形】手伝います\n【て形】手伝って\n【ない形】手伝わない\n【た形】手伝った\n【グループ・連語】1グループ (五段) / 「少し手伝ってください」",
+    "romaji": "tetsudatte"
   },
   {
     "id": "card_0764",
@@ -21410,7 +22172,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行李太重拿不動，請幫忙救救我！<br>好的，我來幫你拿。",
       "fr": "The luggage is too heavy to hold, so please help me!<br>Yes, I'll carry it."
     },
-    "related": "【動詞て形】助けて (助ける)"
+    "related": "【動詞て形】助けて (助ける)",
+    "romaji": "tasukete"
   },
   {
     "id": "card_0765",
@@ -21438,7 +22201,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我聽日文仲係麻麻哋，唔該可唔可以講慢啲同清楚啲呀？",
       "fr": "Je ne suis pas encore très bon en compréhension orale du japonais, pourriez-vous parler un peu plus lentement et clairement s'il vous plaît ?"
     },
-    "related": "【原型（辞書形）】話して（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「ゆっくり話してください」"
+    "related": "【原型（辞書形）】話して（はなす）\n【ます形】話します\n【て形】話して\n【ない形】話さない\n【た形】話した\n【グループ・連語】1グループ (五段) / 「ゆっくり話してください」",
+    "romaji": "hanashite"
   },
   {
     "id": "card_0766",
@@ -21466,7 +22230,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去叫老師過來，請在這邊等一下喔。<br>明白了。",
       "fr": "I'll go call the teacher, so please wait here.<br>Understood."
     },
-    "related": "【動詞て形】呼んで (呼ぶ)"
+    "related": "【動詞て形】呼んで (呼ぶ)",
+    "romaji": "yonde"
   },
   {
     "id": "card_0767",
@@ -21494,7 +22259,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請俾我睇下嗰個黑色袋。",
       "fr": "Excusez-moi, veuillez me montrer ce sac noir."
     },
-    "related": "【原型（辞書形）】見せて（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「パスポートを見せてください」"
+    "related": "【原型（辞書形）】見せて（みせる）\n【ます形】見せます\n【て形】見せて\n【ない形】見せない\n【た形】見せた\n【グループ・連語】2グループ (一段) / 「パスポートを見せてください」",
+    "romaji": "misete"
   },
   {
     "id": "card_0768",
@@ -21522,7 +22288,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好意思，可唔可以教我呢個漢字點讀同點解呀？",
       "fr": "Excusez-moi, pourriez-vous m'apprendre la prononciation et le sens de ce kanji ?"
     },
-    "related": "【原型（辞書形）】教えて（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「電話番号を教えてください」"
+    "related": "【原型（辞書形）】教えて（おしえる）\n【ます形】教えます\n【て形】教えて\n【ない形】教えない\n【た形】教えた\n【グループ・連語】2グループ (一段) / 「電話番号を教えてください」",
+    "romaji": "oshiete"
   },
   {
     "id": "card_0769",
@@ -21550,7 +22317,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出面好凍，請入暖笠笠嘅房入面等啦。",
       "fr": "Il fait très froid dehors, entrez donc dans la pièce chauffée pour attendre."
     },
-    "related": "【動詞て形】入って (入る)"
+    "related": "【動詞て形】入って (入る)",
+    "romaji": "haitte"
   },
   {
     "id": "card_0770",
@@ -21578,7 +22346,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請出行間房，去車站。",
       "fr": "Veuillez sortir de la pièce et vous diriger vers la gare."
     },
-    "related": "【動詞て形】出て (出る)"
+    "related": "【動詞て形】出て (出る)",
+    "romaji": "dete"
   },
   {
     "id": "card_0771",
@@ -21606,7 +22375,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落緊雨，條路濕晒。",
       "fr": "Il pleut et la route est mouillée."
     },
-    "related": "【動詞て形】降って (降る)"
+    "related": "【動詞て形】降って (降る)",
+    "romaji": "futte"
   },
   {
     "id": "card_0772",
@@ -21634,7 +22404,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早一起身就沖涼。",
       "fr": "Je prends une douche tous les matins au réveil."
     },
-    "related": "【原型（辞書形）】浴びる（あびる）\n【ます形】浴びます\n【て形】浴びて\n【ない形】浴びない\n【た形】浴びた\n【グループ・連語】2グループ (一段) / 「シャワーを浴びる」"
+    "related": "【原型（辞書形）】浴びる（あびる）\n【ます形】浴びます\n【て形】浴びて\n【ない形】浴びない\n【た形】浴びた\n【グループ・連語】2グループ (一段) / 「シャワーを浴びる」",
+    "romaji": "abiru / abimasu"
   },
   {
     "id": "card_0773",
@@ -21662,7 +22433,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺新宿站轉山手線。",
       "fr": "Je change pour la ligne Yamanote à la gare de Shinjuku."
     },
-    "related": "【原型（辞書形）】乗り換える（のりかえる）\n【ます形】乗り換えます\n【て形】乗り換えて\n【ない形】乗り換えない\n【た形】乗り換えた\n【グループ・連語】2グループ (一段) / 「新宿で乗り換える」"
+    "related": "【原型（辞書形）】乗り換える（のりかえる）\n【ます形】乗り換えます\n【て形】乗り換えて\n【ない形】乗り換えない\n【た形】乗り換えた\n【グループ・連語】2グループ (一段) / 「新宿で乗り換える」",
+    "romaji": "norikaeru / norikaemasu"
   },
   {
     "id": "card_0774",
@@ -21690,7 +22462,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將銀包同鎖匙擺入個袋度。",
       "fr": "Je mets mon portefeuille et mes clés dans mon sac."
     },
-    "related": "【原型（辞書形）】入れる（いれる）\n【ます形】入れます\n【て形】入れて\n【ない形】入れない\n【た形】入れた\n【グループ・連語】2グループ (一段) / 「カバンに入れる」"
+    "related": "【原型（辞書形）】入れる（いれる）\n【ます形】入れます\n【て形】入れて\n【ない形】入れない\n【た形】入れた\n【グループ・連語】2グループ (一段) / 「カバンに入れる」",
+    "romaji": "ireru / iremasu"
   },
   {
     "id": "card_0775",
@@ -21718,7 +22491,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "交功課簿畀老師。",
       "fr": "Je remets mon cahier de devoirs au professeur."
     },
-    "related": "【原型（辞書形）】出す（だす）\n【ます形】出します\n【て形】出して\n【ない形】出さない\n【た形】出した\n【グループ・連語】1グループ (五段) / 「宿題を出す」"
+    "related": "【原型（辞書形）】出す（だす）\n【ます形】出します\n【て形】出して\n【ない形】出さない\n【た形】出した\n【グループ・連語】1グループ (五段) / 「宿題を出す」",
+    "romaji": "dasu / dashimasu"
   },
   {
     "id": "card_0776",
@@ -21746,7 +22520,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "撳升降機掣。",
       "fr": "J'appuie sur le bouton de l'ascenseur."
     },
-    "related": "【原型（辞書形）】押す（おす）\n【ます形】押します\n【て形】押して\n【ない形】押さない\n【た形】押した\n【グループ・連語】1グループ (五段) / 「ボタンを押す」"
+    "related": "【原型（辞書形）】押す（おす）\n【ます形】押します\n【て形】押して\n【ない形】押さない\n【た形】押した\n【グループ・連語】1グループ (五段) / 「ボタンを押す」",
+    "romaji": "osu / oshimasu"
   },
   {
     "id": "card_0777",
@@ -21774,7 +22549,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "擺本書喺張枱上面。",
       "fr": "Je pose le livre sur le bureau."
     },
-    "related": "【原型（辞書形）】置く（おく）\n【ます形】置きます\n【て形】置いて\n【ない形】置かない\n【た形】置いた\n【グループ・連語】1グループ (五段) / 「机の上に置く」"
+    "related": "【原型（辞書形）】置く（おく）\n【ます形】置きます\n【て形】置いて\n【ない形】置かない\n【た形】置いた\n【グループ・連語】1グループ (五段) / 「机の上に置く」",
+    "romaji": "oku / okimasu"
   },
   {
     "id": "card_0778",
@@ -21802,7 +22578,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在朋友生日時親手做生日蛋糕。<br>希望他會開心。",
       "fr": "I make a handmade birthday cake for my friend's birthday.<br>Hope they like it."
     },
-    "related": "【動詞】作る (製作・調理すること)"
+    "related": "【動詞】作る (製作・調理すること)",
+    "romaji": "tsukuru / tsukurimasu"
   },
   {
     "id": "card_0779",
@@ -21830,7 +22607,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在跳蚤市場販賣手工飾品。<br>希望可以大賣。",
       "fr": "I sell handmade accessories at the flea market.<br>Hope they sell a lot."
     },
-    "related": "【動詞】売る (販売すること)"
+    "related": "【動詞】売る (販売すること)",
+    "romaji": "uru / urimasu"
   },
   {
     "id": "card_0780",
@@ -21858,7 +22636,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將架車泊喺停車場。",
       "fr": "Je gare la voiture sur le parking."
     },
-    "related": "【動詞】止める (停止・駐車させること)"
+    "related": "【動詞】止める (停止・駐車させること)",
+    "romaji": "tomeru / tomemasu"
   },
   {
     "id": "card_0781",
@@ -21886,7 +22665,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "坐喺呢張梳化度。",
       "fr": "Je m'assois sur ce canapé."
     },
-    "related": "【原型（辞書形）】座る（すわる）\n【ます形】座ります\n【て形】座って\n【ない形】座らない\n【た形】座った\n【グループ・連語】1グループ (五段) / 「椅子に座る」"
+    "related": "【原型（辞書形）】座る（すわる）\n【ます形】座ります\n【て形】座って\n【ない形】座らない\n【た形】座った\n【グループ・連語】1グループ (五段) / 「椅子に座る」",
+    "romaji": "suwaru / suwarimasu"
   },
   {
     "id": "card_0782",
@@ -21914,7 +22694,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺火車上為咗讓座畀長者而企起身。",
       "fr": "Je me lève pour céder ma place à une personne âgée dans le train."
     },
-    "related": "【原型（辞書形）】立つ（たつ）\n【ます形】立ちます\n【て形】立って\n【ない形】立たない\n【た形】立った\n【グループ・連語】1グループ (五段) / 「席を立つ」"
+    "related": "【原型（辞書形）】立つ（たつ）\n【ます形】立ちます\n【て形】立って\n【ない形】立たない\n【た形】立った\n【グループ・連語】1グループ (五段) / 「席を立つ」",
+    "romaji": "tatsu / tachimasu"
   },
   {
     "id": "card_0783",
@@ -21942,7 +22723,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "住喺好多綠化又好靜嘅市鎮度。",
       "fr": "J'habite dans une ville calme et verdoyante."
     },
-    "related": "【原型（辞書形）】住む（すむ）\n【ます形】住みます\n【て形】住んで\n【ない形】住まない\n【た形】住んだ\n【グループ・連語】1グループ (五段) / 「東京に住む」"
+    "related": "【原型（辞書形）】住む（すむ）\n【ます形】住みます\n【て形】住んで\n【ない形】住まない\n【た形】住んだ\n【グループ・連語】1グループ (五段) / 「東京に住む」",
+    "romaji": "sumu / sumimasu"
   },
   {
     "id": "card_0784",
@@ -21970,7 +22752,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺公園吸新鮮空氣。",
       "fr": "Je respire de l'air frais dans le parc."
     },
-    "related": "【原型（辞書形）】吸う（すう）\n【ます形】吸います\n【て形】吸って\n【ない形】吸わない\n【た形】吸った\n【グループ・連語】1グループ (五段) / 「タバコを吸う / 息を吸う」"
+    "related": "【原型（辞書形）】吸う（すう）\n【ます形】吸います\n【て形】吸って\n【ない形】吸わない\n【た形】吸った\n【グループ・連語】1グループ (五段) / 「タバコを吸う / 息を吸う」",
+    "romaji": "suu / suimasu"
   },
   {
     "id": "card_0785",
@@ -21998,7 +22781,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我努力每日記五個新單字。",
       "fr": "Je m'efforce d'apprendre par cœur cinq nouveaux mots chaque jour."
     },
-    "related": "【原型（辞書形）】覚える（おぼえる）\n【ます形】覚えます\n【て形】覚えて\n【ない形】覚えない\n【た形】覚えた\n【グループ・連語】2グループ (一段) / 「漢字を覚える」"
+    "related": "【原型（辞書形）】覚える（おぼえる）\n【ます形】覚えます\n【て形】覚えて\n【ない形】覚えない\n【た形】覚えた\n【グループ・連語】2グループ (一段) / 「漢字を覚える」",
+    "romaji": "oboeru / oboemasu"
   },
   {
     "id": "card_0786",
@@ -22026,7 +22810,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我有時會唔記得把遮擺咗喺火車入面。",
       "fr": "J'oublie parfois mon parapluie dans le train."
     },
-    "related": "【原型（辞書形）】忘れる（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「宿題を忘れる」"
+    "related": "【原型（辞書形）】忘れる（わすれる）\n【ます形】忘れます\n【て形】忘れて\n【ない形】忘れない\n【た形】忘れた\n【グループ・連語】2グループ (一段) / 「宿題を忘れる」",
+    "romaji": "wasureru / wasuremasu"
   },
   {
     "id": "card_0787",
@@ -22054,7 +22839,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔小心整唔見咗條鎖匙。",
       "fr": "Je perds mes clés par inadvertance."
     },
-    "related": "【原型（辞書形）】失くす（なくす）\n【ます形】失くします\n【て形】失くして\n【ない形】失くさない\n【た形】失くした\n【グループ・連語】1グループ (五段) / 「鍵を失くす」"
+    "related": "【原型（辞書形）】失くす（なくす）\n【ます形】失くします\n【て形】失くして\n【ない形】失くさない\n【た形】失くした\n【グループ・連語】1グループ (五段) / 「鍵を失くす」",
+    "romaji": "nakusu / nakushimasu"
   },
   {
     "id": "card_0788",
@@ -22082,7 +22868,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該用信用卡找數。",
       "fr": "Je vais payer l'addition par carte bancaire."
     },
-    "related": "【原型（辞書形）】払う（はらう）\n【ます形】払います\n【て形】払って\n【ない形】払わない\n【た形】払った\n【グループ・連語】1グループ (五段) / 「お金を払う」"
+    "related": "【原型（辞書形）】払う（はらう）\n【ます形】払います\n【て形】払って\n【ない形】払わない\n【た形】払った\n【グループ・連語】1グループ (五段) / 「お金を払う」",
+    "romaji": "harau / haraimasu"
   },
   {
     "id": "card_0789",
@@ -22110,7 +22897,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日去圖書館還書。",
       "fr": "Je rends le livre à la bibliothèque demain."
     },
-    "related": "【原型（辞書形）】かえす\n【ます形】返します\n【て形】返して\n【ない形】返さない\n【た形】返した\n【グループ・連語】1グループ (五段) / 「本を返す」"
+    "related": "【原型（辞書形）】かえす\n【ます形】返します\n【て形】返して\n【ない形】返さない\n【た形】返した\n【グループ・連語】1グループ (五段) / 「本を返す」",
+    "romaji": "kaesu / kaeshimasu"
   },
   {
     "id": "card_0790",
@@ -22138,7 +22926,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗去留學而辭咗而家份工。",
       "fr": "Je quitte mon travail actuel pour partir étudier à l'étranger."
     },
-    "related": "【原型（辞書形）】辞める（やめる）\n【ます形】辞めます\n【て形】辞めて\n【ない形】辞めない\n【た形】辞めた\n【グループ・連語】2グループ (一段) / 「会社を辞める」"
+    "related": "【原型（辞書形）】辞める（やめる）\n【ます形】辞めます\n【て形】辞めて\n【ない形】辞めない\n【た形】辞めた\n【グループ・連語】2グループ (一段) / 「会社を辞める」",
+    "romaji": "yameru / yamemasu"
   },
   {
     "id": "card_0791",
@@ -22166,7 +22955,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不懂的單字查字典確認意思。<br>馬上筆記在筆記本上喔。",
       "fr": "I look up the meanings of words I don't know in a dictionary.<br>I write them down in my notebook immediately."
     },
-    "related": "【動詞】調べる (調査・確認すること)"
+    "related": "【動詞】調べる (調査・確認すること)",
+    "romaji": "shiraberu / shirabemasu"
   },
   {
     "id": "card_0792",
@@ -22194,7 +22984,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺單車舖整迫力（剎車）。",
       "fr": "Je fais réparer les freins au magasin de vélos."
     },
-    "related": "【動詞】修理する (直すこと)"
+    "related": "【動詞】修理する (直すこと)",
+    "romaji": "shuurisuru / shuurishimasu"
   },
   {
     "id": "card_0793",
@@ -22222,7 +23013,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到達車站後會打電話聯絡你喔。<br>請在剪票口等我。",
       "fr": "I will contact you by phone when I arrive at the station.<br>Please wait at the gate."
     },
-    "related": "【動詞】連絡する (知らせを伝えること)"
+    "related": "【動詞】連絡する (知らせを伝えること)",
+    "romaji": "renrakusuru / renrakushimasu"
   },
   {
     "id": "card_0794",
@@ -22250,7 +23042,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "住喺京都嘅溫泉旅館。",
       "fr": "Je séjourne dans un ryokan avec onsen à Kyoto."
     },
-    "related": "【動詞】泊まる (宿泊すること)"
+    "related": "【動詞】泊まる (宿泊すること)",
+    "romaji": "tomaru / tomarimasu"
   },
   {
     "id": "card_0795",
@@ -22278,7 +23071,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嘅朝早將間房打掃得乾乾淨淨。",
       "fr": "Je nettoie la chambre de fond en comble le matin du week-end."
     },
-    "related": "【動詞】掃除する (きれいにすること)"
+    "related": "【動詞】掃除する (きれいにすること)",
+    "romaji": "soujisuru / soujishimasu"
   },
   {
     "id": "card_0796",
@@ -22306,7 +23100,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末一次過洗衫。",
       "fr": "Je lave tous mes vêtements ensemble le week-end."
     },
-    "related": "【動詞】洗濯する (服を洗うこと)"
+    "related": "【動詞】洗濯する (服を洗うこと)",
+    "romaji": "sentakusuru / sentakushimasu"
   },
   {
     "id": "card_0797",
@@ -22334,7 +23129,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從小就很喜歡彈鋼琴。<br>每天都有練習。",
       "fr": "I've loved playing the piano since I was little.<br>I practice every day."
     },
-    "related": "【動詞】弾く (弦楽器や鍵盤楽器を演奏すること)"
+    "related": "【動詞】弾く (弦楽器や鍵盤楽器を演奏すること)",
+    "romaji": "hiku / hikimasu"
   },
   {
     "id": "card_0798",
@@ -22362,7 +23158,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺卡拉OK同朋友一齊唱歌。",
       "fr": "Je chante des chansons avec mes amis au karaoké."
     },
-    "related": "【動詞】歌う (歌唱すること)"
+    "related": "【動詞】歌う (歌唱すること)",
+    "romaji": "utau / utaimasu"
   },
   {
     "id": "card_0799",
@@ -22390,7 +23187,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "旅行時收集可愛的當地限定磁鐵是我的興趣。<br>並排陳列了好多。",
       "fr": "My hobby is collecting cute local magnets from my travels.<br>Many are lined up."
     },
-    "related": "【動詞】集める (収集すること)"
+    "related": "【動詞】集める (収集すること)",
+    "romaji": "atsumeru / atsumemasu"
   },
   {
     "id": "card_0800",
@@ -22418,7 +23216,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不要的紙箱在資源回收日丟棄。<br>做好資源回收吧。",
       "fr": "I throw away unwanted cardboard on recyclable waste day.<br>Let's recycle."
     },
-    "related": "【動詞】捨てる (不要なものを手放すこと)"
+    "related": "【動詞】捨てる (不要なものを手放すこと)",
+    "romaji": "suteru / sutemasu"
   },
   {
     "id": "card_0801",
@@ -22446,7 +23245,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗轉下心情而換窗簾嘅顏色。",
       "fr": "Je change la couleur des rideaux pour changer d'ambiance."
     },
-    "related": "【動詞】変える (他動詞: 変更すること)"
+    "related": "【動詞】変える (他動詞: 変更すること)",
+    "romaji": "kaeru / kaemasu"
   },
   {
     "id": "card_0802",
@@ -22474,7 +23274,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "季節一轉換，吹來的風的味道也變了呢。<br>感受到了秋意。",
       "fr": "When seasons change, the scent of the breeze changes too.<br>I feel autumn."
     },
-    "related": "【動詞】変わる (自動詞: 変化すること)"
+    "related": "【動詞】変わる (自動詞: 変化すること)",
+    "romaji": "kawaru / kawarimasu"
   },
   {
     "id": "card_0803",
@@ -22502,7 +23303,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣好安全咁揸車。",
       "fr": "Je conduis prudemment pendant les vacances."
     },
-    "related": "【動詞】運転をする (車を操作すること)"
+    "related": "【動詞】運転をする (車を操作すること)",
+    "romaji": "untensuru / untenshimasu"
   },
   {
     "id": "card_0804",
@@ -22530,7 +23332,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "拎書架上面本書。",
       "fr": "Je prends un livre sur l'étagère."
     },
-    "related": "【動詞】取る (手に取って渡すこと)"
+    "related": "【動詞】取る (手に取って渡すこと)",
+    "romaji": "toru / torimasu"
   },
   {
     "id": "card_0805",
@@ -22558,7 +23361,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同老師講「多謝」。",
       "fr": "Je dis « merci beaucoup » au professeur."
     },
-    "related": "【動詞】言う (言葉を発すること)"
+    "related": "【動詞】言う (言葉を発すること)",
+    "romaji": "iu / iimasu"
   },
   {
     "id": "card_0806",
@@ -22586,7 +23390,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行夜路嗰陣會睇清楚腳下。",
       "fr": "Je fais attention où je mets les pieds sur les routes de nuit."
     },
-    "related": "【動詞】気を付ける (注意を払うこと)"
+    "related": "【動詞】気を付ける (注意を払うこと)",
+    "romaji": "ki o tsukeru / ki o tsukemasu"
   },
   {
     "id": "card_0807",
@@ -22614,7 +23419,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出年開始去日本嘅大學留學。",
       "fr": "J'étudierai à l'université japonaise à partir de l'année prochaine."
     },
-    "related": "【動詞】留学をする (海外で学ぶこと)"
+    "related": "【動詞】留学をする (海外で学ぶこと)",
+    "romaji": "ryuugakusuru / ryuugakushimasu"
   },
   {
     "id": "card_0808",
@@ -22642,7 +23448,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "太晚回家會令人擔心，一定要傳個訊息聯絡喔。<br>好，我馬上打電話。",
       "fr": "Because I worry when you are late, be sure to send a message.<br>Yes, I'll call right away."
     },
-    "related": "【動詞】心配する (案じること)"
+    "related": "【動詞】心配する (案じること)",
+    "romaji": "shinpaisuru / shinpaishimasu"
   },
   {
     "id": "card_0809",
@@ -22670,7 +23477,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日好似會落雨，出街記得帶把遮啊。",
       "fr": "Il risque de pleuvoir demain, n'oublie pas d'emporter un parapluie."
     },
-    "related": "【原型（辞書形）】持って（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「傘を持って出かけます」"
+    "related": "【原型（辞書形）】持って（もつ）\n【ます形】持ちます\n【て形】持って\n【ない形】持たない\n【た形】持った\n【グループ・連語】1グループ (五段) / 「傘を持って出かけます」",
+    "romaji": "motteiku / motteikimasu"
   },
   {
     "id": "card_0810",
@@ -22698,7 +23506,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日上堂我會帶教科書嚟。",
       "fr": "J'apporterai le manuel scolaire au cours de demain."
     },
-    "related": "【動詞】持ってくる (携帯して目的地へ来ること)"
+    "related": "【動詞】持ってくる (携帯して目的地へ来ること)",
+    "romaji": "mottekuru / mottekimasu"
   },
   {
     "id": "card_0811",
@@ -22726,7 +23535,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我應承咗下個禮拜日帶班小朋友去動物園睇動物。",
       "fr": "J'ai promis d'emmener les enfants au zoo dimanche prochain."
     },
-    "related": "【原型（辞書形）】連れて行く（つれていく）\n【ます形】連れて行きます\n【て形】連れて行って\n【ない形】連れて行かない\n【た形】連れて行った\n【グループ・連語】1グループ (五段複合) / 「子供を公園へ連れて行く」"
+    "related": "【原型（辞書形）】連れて行く（つれていく）\n【ます形】連れて行きます\n【て形】連れて行って\n【ない形】連れて行かない\n【た形】連れて行った\n【グループ・連語】1グループ (五段複合) / 「子供を公園へ連れて行く」",
+    "romaji": "tsureteiku / tsureteikimasu"
   },
   {
     "id": "card_0812",
@@ -22754,7 +23564,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣帶隻寵物狗嚟公園。",
       "fr": "J'amène mon chien au parc pendant les vacances."
     },
-    "related": "【動詞】連れてくる (人を伴って来ること)"
+    "related": "【動詞】連れてくる (人を伴って来ること)",
+    "romaji": "tsuretekuru / tsuretekimasu"
   },
   {
     "id": "card_0813",
@@ -22782,7 +23593,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間舖頭嘅拉麵好好食。",
       "fr": "Les ramens de ce restaurant sont très délicieux."
     },
-    "related": "【い形容詞】美味しい (否定: 美味しくない / 過去: 美味しかった)"
+    "related": "【い形容詞】美味しい (否定: 美味しくない / 過去: 美味しかった)",
+    "romaji": "oishii"
   },
   {
     "id": "card_0814",
@@ -22810,7 +23622,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭早一班新幹線出發，中午前就到京都喇。",
       "fr": "Si vous prenez un Shinkansen tôt le matin, vous arriverez à Kyoto avant midi."
     },
-    "related": "【い形容詞】早い (否定: 早くない / 過去: 早かった)"
+    "related": "【い形容詞】早い (否定: 早くない / 過去: 早かった)",
+    "romaji": "hayai"
   },
   {
     "id": "card_0815",
@@ -22838,7 +23651,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "受打風影響火車延誤，遲咗成個鐘先到站。",
       "fr": "En raison du typhon, les trains ont été retardés et nous sommes arrivés avec une heure de retard."
     },
-    "related": "【い形容詞】遅い (否定: 遅くない / 過去: 遅かった)"
+    "related": "【い形容詞】遅い (否定: 遅くない / 過去: 遅かった)",
+    "romaji": "osoi"
   },
   {
     "id": "card_0816",
@@ -22866,7 +23680,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個喼好重啊，搭升降機啦唔好行樓梯喇。",
       "fr": "La valise est lourde, prenons l'ascenseur plutôt que les escaliers."
     },
-    "related": "【い形容詞】重い (否定: 重くない / 過去: 重かった)"
+    "related": "【い形容詞】重い (否定: 重くない / 過去: 重かった)",
+    "romaji": "omoi"
   },
   {
     "id": "card_0817",
@@ -22894,7 +23709,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢把最新嘅縮骨遮好輕，擺入袋都唔覺重。",
       "fr": "Ce tout dernier parapluie pliable est si léger qu'on ne le sent presque pas dans le sac."
     },
-    "related": "【い形容詞】軽い (否定: 軽くない / 過去: 軽かった)"
+    "related": "【い形容詞】軽い (否定: 軽くない / 過去: 軽かった)",
+    "romaji": "karui"
   },
   {
     "id": "card_0818",
@@ -22922,7 +23738,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隻大窗好猛太陽，日光日白直情唔使開燈都夠光。",
       "fr": "La grande fenêtre laisse entrer beaucoup de lumière, il fait si clair qu'on n'a pas besoin d'allumer le jour."
     },
-    "related": "【い形容詞】明るい (否定: 明るくない / 過去: 明るかった)"
+    "related": "【い形容詞】明るい (否定: 明るくない / 過去: 明るかった)",
+    "romaji": "akarui"
   },
   {
     "id": "card_0819",
@@ -22950,7 +23767,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜晚條路黑鼆鼆好易kick親，開著部手機支燈照住行啦。",
       "fr": "Le chemin est sombre la nuit, allumons la lampe torche du smartphone pour marcher en sécurité."
     },
-    "related": "【い形容詞】暗い (否定: 暗くない / 過去: 暗かった)"
+    "related": "【い形容詞】暗い (否定: 暗くない / 過去: 暗かった)",
+    "romaji": "kurai"
   },
   {
     "id": "card_0820",
@@ -22978,7 +23796,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假有一個幾月咁長，我計劃緊去個長途旅行。",
       "fr": "Les vacances d'été durant plus d'un mois, je prépare un long voyage."
     },
-    "related": "【い形容詞】長い (否定: 長くない / 過去: 長かった)"
+    "related": "【い形容詞】長い (否定: 長くない / 過去: 長かった)",
+    "romaji": "nagai"
   },
   {
     "id": "card_0821",
@@ -23006,7 +23825,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "玩得開心嗰陣時間過得好快，一日好似好快過完咁。",
       "fr": "Les moments agréables passent en un éclair, la journée semble si courte."
     },
-    "related": "【い形容詞】短い (否定: 短くない / 過去: 短かった)"
+    "related": "【い形容詞】短い (否定: 短くない / 過去: 短かった)",
+    "romaji": "mijikai"
   },
   {
     "id": "card_0822",
@@ -23034,7 +23854,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搬咗去間新屋個客廳好闊落，坐喺度好開揚好舒服。",
       "fr": "Mon nouvel appartement a un grand salon spacieux et très aéré."
     },
-    "related": "【い形容詞】広い (否定: 広くない / 過去: 広かった)"
+    "related": "【い形容詞】広い (否定: 広くない / 過去: 広かった)",
+    "romaji": "hiroi"
   },
   {
     "id": "card_0823",
@@ -23062,7 +23883,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "條路好窄，對頭車迎面過嗰陣要收慢速度慢慢行。",
       "fr": "Comme la route est étroite, les voitures ralentissent pour se croiser."
     },
-    "related": "【い形容詞】狭い (否定: 狭くない / 過去: 狭かった)"
+    "related": "【い形容詞】狭い (否定: 狭くない / 過去: 狭かった)",
+    "romaji": "semai"
   },
   {
     "id": "card_0824",
@@ -23090,7 +23912,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間酒店離最近嘅車站行路3分鐘就到，去邊度觀光都咁方便。",
       "fr": "Cet hôtel est proche, à seulement 3 minutes à pied de la gare, ce qui est très pratique pour visiter."
     },
-    "related": "【い形容詞】近い (否定: 近くない / 過去: 近かった)"
+    "related": "【い形容詞】近い (否定: 近くない / 過去: 近かった)",
+    "romaji": "chikai"
   },
   {
     "id": "card_0825",
@@ -23118,7 +23941,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我屋企鄉下離呢度好遠，多數等過年同放暑假搭新幹線返去探親。",
       "fr": "La maison de mes parents est loin d'ici, je rentre en Shinkansen au Nouvel An et en été."
     },
-    "related": "【い形容詞】遠い (否定: 遠くない / 過去: 遠かった)"
+    "related": "【い形容詞】遠い (否定: 遠くない / 過去: 遠かった)",
+    "romaji": "tooi"
   },
   {
     "id": "card_0826",
@@ -23146,7 +23970,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "對新鞋刮腳後爭好痛，貼咗塊膠布先好啲。",
       "fr": "Mes talons me font mal à cause des frottements de chaussures, j'ai mis un pansement."
     },
-    "related": "【い形容詞】痛い (否定: 痛くない / 過去: 痛かった)"
+    "related": "【い形容詞】痛い (否定: 痛くない / 過去: 痛かった)",
+    "romaji": "itai"
   },
   {
     "id": "card_0827",
@@ -23174,7 +23999,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嚟日本留學頭嗰個月，見唔到屋企人有少少寂寞心酸。",
       "fr": "Pendant mon premier mois d'études au Japon, je me sentais un peu seul loin de ma famille."
     },
-    "related": "【い形容詞】寂しい (否定: 寂しくない / 過去: 寂しかった)"
+    "related": "【い形容詞】寂しい (否定: 寂しくない / 過去: 寂しかった)",
+    "romaji": "sabishii"
   },
   {
     "id": "card_0828",
@@ -23202,7 +24028,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿爺雖然八十歲，但日朝跑開步，個人同心境都仲好後生健康。",
       "fr": "Mon grand-père a 80 ans, mais il fait du jogging tous les matins et reste jeune de corps et d'esprit."
     },
-    "related": "【い形容詞】若い (否定: 若くない / 過去: 若かった)"
+    "related": "【い形容詞】若い (否定: 若くない / 過去: 若かった)",
+    "romaji": "wakai"
   },
   {
     "id": "card_0829",
@@ -23230,7 +24057,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一路行路一路撳手機睇唔到周圍，好危險㗎。",
       "fr": "Regarder son smartphone en marchant est très dangereux car on ne voit pas ce qui nous entoure."
     },
-    "related": "【い形容詞】危ない (否定: 危なくない / 過去: 危なかった)"
+    "related": "【い形容詞】危ない (否定: 危なくない / 過去: 危なかった)",
+    "romaji": "abunai"
   },
   {
     "id": "card_0830",
@@ -23258,7 +24086,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 下個月我去夏威夷歎世界放假啊。<br>B: 正喎，真係羨慕死人！",
       "fr": "A: Le mois prochain, je passe mes vacances à Hawaï.<br>B: La chance, je t'envie vraiment !"
     },
-    "related": "【い形容詞】羨ましい (否定: 羨ましくない / 過去: 羨ましかった)"
+    "related": "【い形容詞】羨ましい (否定: 羨ましくない / 過去: 羨ましかった)",
+    "romaji": "urayamashii"
   },
   {
     "id": "card_0831",
@@ -23286,7 +24115,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我本身有畏高，上親高樓嗰啲全玻璃觀景台就腳軟好驚。",
       "fr": "Comme j'ai le vertige, me tenir sur le pont d'observation vitré d'un gratte-ciel m'effraie."
     },
-    "related": "【い形容詞】怖い (否定: 怖くない / 過去: 怖かった)"
+    "related": "【い形容詞】怖い (否定: 怖くない / 過去: 怖かった)",
+    "romaji": "kowai"
   },
   {
     "id": "card_0832",
@@ -23314,7 +24144,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗唔好病唔好傷風，我成日洗手同漱口。",
       "fr": "Pour éviter les maladies comme le rhume, je veille à bien me laver les mains et me gargariser."
     },
-    "related": "【医療・健康】病気 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】病気 (体調不良・病院受診時の症状表現)",
+    "romaji": "byouki"
   },
   {
     "id": "card_0833",
@@ -23342,7 +24173,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為早啲食咗藥，所以症狀好輕微。",
       "fr": "Comme j'ai pris des médicaments tôt, mes symptômes sont légers."
     },
-    "related": "【医療・健康】症状 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】症状 (体調不良・病院受診時の症状表現)",
+    "romaji": "shoujou"
   },
   {
     "id": "card_0834",
@@ -23370,7 +24202,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由今朝開始個頭就冤冤痛，我食粒藥休息下先。",
       "fr": "J'ai un mal de tête lancinant depuis ce matin, je vais prendre un médicament et me reposer."
     },
-    "related": "【医療・健康】頭が痛い (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】頭が痛い (体調不良・病院受診時の症状表現)",
+    "romaji": "atama ga itai"
   },
   {
     "id": "card_0835",
@@ -23398,7 +24231,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食咗太多凍嘢搞到肚痛，所以飲咗杯熱茶。",
       "fr": "J'ai mangé trop de choses froides et j'ai eu mal au ventre, alors j'ai bu du thé chaud."
     },
-    "related": "【医療・健康】おなかが痛い (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】おなかが痛い (体調不良・病院受診時の症状表現)",
+    "romaji": "onaka ga itai"
   },
   {
     "id": "card_0836",
@@ -23426,7 +24260,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為有蛀牙搞到牙痛，我約咗今日下晝去睇牙醫。",
       "fr": "J'ai mal aux dents à cause d'une carie, alors j'ai pris rendez-vous chez le dentiste cet après-midi."
     },
-    "related": "【医療・健康】歯が痛い (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】歯が痛い (体調不良・病院受診時の症状表現)",
+    "romaji": "ha ga itai"
   },
   {
     "id": "card_0837",
@@ -23454,7 +24289,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好像有點發燒，用體溫計量一下看看。<br>別勉強好好休息喔。",
       "fr": "It seems I have a bit of a fever, so I'll check with a thermometer.<br>Rest without pushing yourself."
     },
-    "related": "【症状】体温が高くなること"
+    "related": "【症状】体温が高くなること",
+    "romaji": "netsu ga aru"
   },
   {
     "id": "card_0838",
@@ -23482,7 +24318,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喉嚨痛一直在咳嗽所以戴上口罩。<br>吃顆喉糖吧。",
       "fr": "My throat hurts and I have a cough, so I put on a mask.<br>Let's have a cough drop."
     },
-    "related": "【症状】気管から激しく息が出ること"
+    "related": "【症状】気管から激しく息が出ること",
+    "romaji": "seki ga deru"
   },
   {
     "id": "card_0839",
@@ -23510,7 +24347,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "花粉症季節到了，噴嚏和鼻水流個不停。<br>衛生紙隨身不離手呢。",
       "fr": "It's allergy season and I can't stop sneezing and having a runny nose.<br>Can't let go of tissues."
     },
-    "related": "【症状】鼻の粘膜から分泌液が出ること"
+    "related": "【症状】鼻の粘膜から分泌液が出ること",
+    "romaji": "hanamizu ga deru"
   },
   {
     "id": "card_0840",
@@ -23538,7 +24376,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "做飯時稍微切到手指流血，貼上了OK繃。<br>沒問題的。",
       "fr": "I cut my finger a little while cooking and bled, so I applied a band-aid.<br>I'm okay."
     },
-    "related": "【症状】出血すること"
+    "related": "【症状】出血すること",
+    "romaji": "chi ga deru"
   },
   {
     "id": "card_0841",
@@ -23566,7 +24405,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暈車稍微有點想吐，開車窗深呼吸一下。<br>休息一下就會好了喔。",
       "fr": "I feel carsick and nauseous, so I'll open the window and take a deep breath.<br>You'll recover if you rest."
     },
-    "related": "【症状】胃が気持ち悪く吐きそうな感じ"
+    "related": "【症状】胃が気持ち悪く吐きそうな感じ",
+    "romaji": "hakike ga suru"
   },
   {
     "id": "card_0842",
@@ -23594,7 +24434,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "感冒前兆感到陣陣發冷打寒顫，喝包感冒藥去睡覺。<br>保暖一點喔。",
       "fr": "It's the onset of a cold and I feel chills, so I'll take cold medicine and sleep.<br>Keep warm."
     },
-    "related": "【症状】熱が出る前触れの寒さ"
+    "related": "【症状】熱が出る前触れの寒さ",
+    "romaji": "samuke ga suru"
   },
   {
     "id": "card_0843",
@@ -23622,7 +24463,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "突然站起身感到一陣頭暈目眩，趕緊坐回椅子上。<br>補充一下水分吧。",
       "fr": "When I suddenly stood up, I felt dizzy and dizzy, so I sat on a chair.<br>Let's take fluids."
     },
-    "related": "【症状】目が回るような感覚"
+    "related": "【症状】目が回るような感覚",
+    "romaji": "memai ga suru"
   },
   {
     "id": "card_0844",
@@ -23650,7 +24492,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "肚子著涼拉肚子，吃點溫熱的清粥。<br>讓腸胃好好休息吧。",
       "fr": "My stomach got chilled and I have diarrhea, so I eat warm porridge.<br>Rest your stomach."
     },
-    "related": "【症状】お腹を下すこと"
+    "related": "【症状】お腹を下すこと",
+    "romaji": "geri o suru"
   },
   {
     "id": "card_0845",
@@ -23678,7 +24521,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "旅行期間因為環境改變很多人會便秘呢。<br>多吃點優格吧。",
       "fr": "Many people suffer from constipation due to changes in environment while traveling.<br>Let's eat yogurt."
     },
-    "related": "【症状】お通じが出にくくなること"
+    "related": "【症状】お通じが出にくくなること",
+    "romaji": "benpi o suru"
   },
   {
     "id": "card_0846",
@@ -23706,7 +24550,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "踢足球比賽時摔倒膝蓋受了傷，不過沒什麼大礙。<br>已經消毒好囉。",
       "fr": "I fell in the soccer match and injured my knee, but it's nothing serious.<br>I disinfected it."
     },
-    "related": "【症状】体に傷を負うこと"
+    "related": "【症状】体に傷を負うこと",
+    "romaji": "kega o suru"
   },
   {
     "id": "card_0847",
@@ -23734,7 +24579,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "摸到熱水壺稍微燙到了，趕緊用冷水沖涼降溫。<br>用流動清水降溫很重要喔。",
       "fr": "I touched the hot kettle and got a slight burn, so I cooled it with cold water.<br>Cooling under water is key."
     },
-    "related": "【症状】熱による皮膚の損傷"
+    "related": "【症状】熱による皮膚の損傷",
+    "romaji": "yakedo o suru"
   },
   {
     "id": "card_0848",
@@ -23762,7 +24608,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有啲熱氣同中暑冇乜胃口，但為咗有體力都食咗少少素麵。",
       "fr": "Je n'ai pas d'appétit à cause de la chaleur estivale, mais j'ai mangé des somen pour reprendre des forces."
     },
-    "related": "【医療・健康】食欲がない (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】食欲がない (体調不良・病院受診時の症状表現)",
+    "romaji": "shokuyoku ga nai"
   },
   {
     "id": "card_0849",
@@ -23790,7 +24637,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "整天用電腦肩頸好僵硬痠痛，做做伸展操拉拉筋。<br>舒服放鬆多了呢。",
       "fr": "Working on the PC all day stiffens my shoulders, so I stretch.<br>It loosens up."
     },
-    "related": "【症状】筋肉の緊張による張り"
+    "related": "【症状】筋肉の緊張による張り",
+    "romaji": "kata ga koru"
   },
   {
     "id": "card_0850",
@@ -23818,7 +24666,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好似就嚟感冒咁個人好攰好倦，今日打算早啲沖涼瞓覺。",
       "fr": "Je me sens fébrile au début d'un rhume, alors je vais prendre un bain tôt et me coucher aujourd'hui."
     },
-    "related": "【医療・健康】体がだるい (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】体がだるい (体調不良・病院受診時の症状表現)",
+    "romaji": "karada ga darui"
   },
   {
     "id": "card_0851",
@@ -23846,7 +24695,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "俾蚊咬到隻手好痕，所以搽咗藥膏。",
       "fr": "Comme un moustique m'a piqué au bras et que ça me démangeait, j'ai appliqué une pommade."
     },
-    "related": "【医療・健康】かゆい (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】かゆい (体調不良・病院受診時の症状表現)",
+    "romaji": "kayui"
   },
   {
     "id": "card_0852",
@@ -23874,7 +24724,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "A: 我喉嚨痛又發燒。<br/>B: 係傷風感冒呀。著多件衫早啲瞓啦。",
       "fr": "A: J'ai mal à la gorge et de la fièvre.<br/>B: C'est un rhume. Restez bien au chaud et couchez-vous tôt."
     },
-    "related": "【医療・健康】風邪 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】風邪 (体調不良・病院受診時の症状表現)",
+    "romaji": "kaze"
   },
   {
     "id": "card_0853",
@@ -23902,7 +24753,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "發高燒去醫院驗，結果證實中咗流感。",
       "fr": "Quand j'ai eu une forte fièvre et que j'ai fait un test à l'hôpital, on m'a diagnostiqué la grippe."
     },
-    "related": "【医療・健康】インフルエンザ (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】インフルエンザ (体調不良・病院受診時の症状表現)",
+    "romaji": "infuruenza"
   },
   {
     "id": "card_0854",
@@ -23930,7 +24782,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "右邊下腹突然痛得好犀利，好驚係盲腸炎。",
       "fr": "Le bas-ventre droit me fait soudain très mal, je crains que ce ne soit une appendicite."
     },
-    "related": "【医療・健康】盲腸 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】盲腸 (体調不良・病院受診時の症状表現)",
+    "romaji": "mouchou"
   },
   {
     "id": "card_0855",
@@ -23958,7 +24811,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搬起個重紙箱嗰一下即刻閃親條腰，痛到郁唔到。",
       "fr": "Au moment où j'ai soulevé le carton lourd, je me suis fait un tour de reins et je ne pouvais plus bouger."
     },
-    "related": "【医療・健康】ぎっくり腰 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】ぎっくり腰 (体調不良・病院受診時の症状表現)",
+    "romaji": "gikkurigoshi"
   },
   {
     "id": "card_0856",
@@ -23986,7 +24840,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺樓梯拗柴扭親個腳眼，即刻敷冰再貼膏藥。",
       "fr": "Je me suis foulé la cheville dans les escaliers, alors j'ai mis de la glace et un patch analgésique."
     },
-    "related": "【医療・健康】ねんざ (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】ねんざ (体調不良・病院受診時の症状表現)",
+    "romaji": "nenza"
   },
   {
     "id": "card_0857",
@@ -24014,7 +24869,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我跌親，好彩check完之後冇骨折，鬆咗口氣。",
       "fr": "Je suis tombé, mais après examen, j'ai été soulagé d'apprendre qu'il n'y avait aucune fracture."
     },
-    "related": "【医療・健康】骨折 (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】骨折 (体調不良・病院受診時の症状表現)",
+    "romaji": "kossetsu"
   },
   {
     "id": "card_0858",
@@ -24042,7 +24898,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "琴晚飲得太多酒，宿醉得好辛苦，個頭痛到就爆。",
       "fr": "J'ai trop bu hier et j'ai une terrible gueule de bois avec la tête qui martèle."
     },
-    "related": "【医療・健康】二日酔い (体調不良・病院受診時の症状表現)"
+    "related": "【医療・健康】二日酔い (体調不良・病院受診時の症状表現)",
+    "romaji": "futsukayoi"
   },
   {
     "id": "card_0859",
@@ -24070,7 +24927,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天放假，所以早上不起得早。",
       "fr": "Tomorrow is a holiday, so I won't wake up early in the morning."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "okinai"
   },
   {
     "id": "card_0860",
@@ -24098,7 +24956,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天考試結束了，所以不再讀書了。",
       "fr": "The exam is over today, so I won't study anymore."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "benkyou o shinai"
   },
   {
     "id": "card_0861",
@@ -24126,7 +24985,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我發燒了，所以不去今天的派對。",
       "fr": "I have a fever, so I won't go to today's party."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "ikanai"
   },
   {
     "id": "card_0862",
@@ -24154,7 +25014,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "趕不上末班車，所以今晚不回家。",
       "fr": "I missed the last train, so I won't return home tonight."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kaeranai"
   },
   {
     "id": "card_0863",
@@ -24182,7 +25043,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為下雨，田中先生可能不會來。",
       "fr": "Because it's raining, Tanaka might not come."
     },
-    "related": "【文法】3グループ (カ変)"
+    "related": "【文法】3グループ (カ変)",
+    "romaji": "konai"
   },
   {
     "id": "card_0864",
@@ -24210,7 +25072,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我在節食，所以晚上不吃甜食。",
       "fr": "I am on a diet, so I don't eat sweet snacks at night."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tabenai"
   },
   {
     "id": "card_0865",
@@ -24238,7 +25101,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我要開車，所以不喝酒。",
       "fr": "I will drive a car, so I don't drink alcohol."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "nomanai"
   },
   {
     "id": "card_0866",
@@ -24266,7 +25130,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "看著有趣的電視劇，很晚都還沒睡。",
       "fr": "I am watching an interesting drama and don't go to bed until late."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "nenai"
   },
   {
     "id": "card_0867",
@@ -24294,7 +25159,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "最近很忙，完全不看電視。",
       "fr": "I am busy, so lately I don't watch TV at all."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "minai"
   },
   {
     "id": "card_0868",
@@ -24322,7 +25188,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "他的私事，我特意不去多問。",
       "fr": "I make a point of not asking about his private life."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kikanai"
   },
   {
     "id": "card_0869",
@@ -24350,7 +25217,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "平時不太聽搖滾樂。",
       "fr": "I usually don't listen to rock music much."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kikanai"
   },
   {
     "id": "card_0870",
@@ -24378,7 +25246,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我只看電子書，幾乎不讀紙本書。",
       "fr": "I only read e-books and hardly read paper books."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "yomanai"
   },
   {
     "id": "card_0871",
@@ -24406,7 +25275,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在圖書館裡請不要大聲說話。",
       "fr": "Please don't speak in a loud voice inside the library."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hanasanai"
   },
   {
     "id": "card_0872",
@@ -24434,7 +25304,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "畢業之後，很少和老朋友見面。",
       "fr": "Since graduating, I don't see my old friends very often."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "awanai"
   },
   {
     "id": "card_0873",
@@ -24462,7 +25333,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "太貴了，所以我不會買這件大衣。",
       "fr": "It's too expensive, so I won't buy this coat."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kawanai"
   },
   {
     "id": "card_0874",
@@ -24490,7 +25362,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天什麼都不想做，只想好好放鬆。",
       "fr": "I don't want to do anything today, just relax."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "shinai"
   },
   {
     "id": "card_0875",
@@ -24518,7 +25391,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師還沒來，所以課程還沒開始。",
       "fr": "The teacher hasn't come yet, so the lesson doesn't start."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hajimaranai"
   },
   {
     "id": "card_0876",
@@ -24546,7 +25420,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日嘅工作點都做唔完。",
       "fr": "Le travail d'aujourd'hui ne semble pas vouloir se terminer."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "owaranai"
   },
   {
     "id": "card_0877",
@@ -24574,7 +25449,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期天不在公司上班。",
       "fr": "I do not work at the company on Sundays."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hatarakanai"
   },
   {
     "id": "card_0878",
@@ -24602,7 +25478,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為之前就知道了，所以聽到那個消息也不吃驚。",
       "fr": "I knew it beforehand, so even hearing the news I am not surprised."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "odorokanai"
   },
   {
     "id": "card_0879",
@@ -24630,7 +25507,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "永遠不會忘記在日本度過的美好回憶。",
       "fr": "I will never forget the pleasant memories spent in Japan."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "wasurenai"
   },
   {
     "id": "card_0880",
@@ -24658,7 +25536,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不常用的單字，很難記在腦子裡。",
       "fr": "Words I don't use are hard to memorize in my head."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oboenai"
   },
   {
     "id": "card_0881",
@@ -24686,7 +25565,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "路上塞車，所以不坐公車改為步行。",
       "fr": "The roads are congested, so I won't ride the bus and will walk."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "noranai"
   },
   {
     "id": "card_0882",
@@ -24714,7 +25594,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不在這一站下車，坐到下一站。",
       "fr": "I won't get off at this station, but continue to the next one."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "orinai"
   },
   {
     "id": "card_0883",
@@ -24742,7 +25623,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "即使感冒了，他也不請假缺課。",
       "fr": "Even if he catches a cold, he doesn't take time off from school."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "yasumanai"
   },
   {
     "id": "card_0884",
@@ -24770,7 +25652,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試前不和朋友在外面玩。",
       "fr": "Before the exam, I don't hang out outside with friends."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "asobanai"
   },
   {
     "id": "card_0885",
@@ -24798,7 +25681,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣很冷，今天一步也不踏出房間。",
       "fr": "It's cold, so today I won't step out of the room at all."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "denai"
   },
   {
     "id": "card_0886",
@@ -24826,7 +25710,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "除相關人員外，請勿進入此房間。",
       "fr": "Except for authorized personnel, please do not enter this room."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hairanai"
   },
   {
     "id": "card_0887",
@@ -24854,7 +25739,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電車延誤了，可能無法在約定時間到達。",
       "fr": "The train is delayed, so I might not arrive at the agreed time."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tsukanai"
   },
   {
     "id": "card_0888",
@@ -24882,7 +25768,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "紅燈的時候，不要過斑馬線。",
       "fr": "When the traffic light is red, do not cross the crosswalk."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "wataranai"
   },
   {
     "id": "card_0889",
@@ -24910,7 +25797,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "腳很痛，所以今天不太走路。",
       "fr": "My foot hurts, so I won't walk much today."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "arukanai"
   },
   {
     "id": "card_0890",
@@ -24938,7 +25826,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "走廊很危險，請不要奔跑。",
       "fr": "The hallway is dangerous, so please do not run."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hashiranai"
   },
   {
     "id": "card_0891",
@@ -24966,7 +25855,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "寶寶睡得很香，所以我盡量不去吵醒他。",
       "fr": "The baby is sleeping soundly, so I try not to wake him up."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "okosanai"
   },
   {
     "id": "card_0892",
@@ -24994,7 +25884,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這件毛衣很細緻，所以不用洗衣機洗。",
       "fr": "This sweater is delicate, so I don't wash it in the washing machine."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "arawanai"
   },
   {
     "id": "card_0893",
@@ -25022,7 +25913,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣轉暖入春了，不再穿厚重的大衣。",
       "fr": "Spring has warmed up, so I no longer wear heavy coats."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kinai"
   },
   {
     "id": "card_0894",
@@ -25050,7 +25942,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "房間裡還有點涼，所以不脫針織衫。",
       "fr": "The room is still chilly, so I don't take off my cardigan."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "nuganai"
   },
   {
     "id": "card_0895",
@@ -25078,7 +25971,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "外面很吵，所以先不開窗。",
       "fr": "It's noisy outside, so I keep the windows unopened."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "akenai"
   },
   {
     "id": "card_0896",
@@ -25106,7 +26000,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了通風換氣，我不關門。",
       "fr": "To let fresh air circulate, I don't close the door."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "shimenai"
   },
   {
     "id": "card_0897",
@@ -25134,7 +26029,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "做菜時盡量不使用化學調味料。",
       "fr": "I make sure not to use chemical seasonings in cooking."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tsukawanai"
   },
   {
     "id": "card_0898",
@@ -25162,7 +26058,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天累了，不煮晚餐改在外面吃。",
       "fr": "I'm tired today, so I won't make dinner and will eat out."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tsukuranai"
   },
   {
     "id": "card_0899",
@@ -25190,7 +26087,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我想留長頭髮，所以暫時不剪。",
       "fr": "I want to grow my hair long, so I won't cut it for a while."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kiranai"
   },
   {
     "id": "card_0900",
@@ -25218,7 +26116,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "都用電腦了，變得不再親手寫信。",
       "fr": "I only use computers now and have stopped writing letters by hand."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kakanai"
   },
   {
     "id": "card_0901",
@@ -25246,7 +26145,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可疑的問卷調查最好不要回答。",
       "fr": "It's better not to answer suspicious surveys."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kotaenai"
   },
   {
     "id": "card_0902",
@@ -25274,7 +26174,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為是驚喜，所以秘密地點暫時還不告訴你。",
       "fr": "It's a surprise, so I won't tell you the secret place yet."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oshienai"
   },
   {
     "id": "card_0903",
@@ -25302,7 +26203,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聲音太小了，聽不太清楚。",
       "fr": "Your voice is small, so I can't hear well."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kikoenai"
   },
   {
     "id": "card_0904",
@@ -25330,7 +26232,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "霧很濃，前方看不太清楚。",
       "fr": "The fog is thick, so I cannot see ahead clearly."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "mienai"
   },
   {
     "id": "card_0905",
@@ -25358,7 +26261,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "沒有時間了，不能再等下去了，我先走。",
       "fr": "I don't have time, so I won't wait any longer and will go."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "matanai"
   },
   {
     "id": "card_0906",
@@ -25386,7 +26290,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "無論如何我都覺得他的意見並不正確。",
       "fr": "I really don't think his opinion is correct."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "omowanai"
   },
   {
     "id": "card_0907",
@@ -25414,7 +26319,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我仲未知嗰件事嘅詳細內容。",
       "fr": "Je ne connais pas encore les détails de cette histoire."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "shiranai"
   },
   {
     "id": "card_0908",
@@ -25442,7 +26348,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "怎麼想都不明白這道題目的答案。",
       "fr": "No matter how much I think, I don't understand the answer to this question."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "wakaranai"
   },
   {
     "id": "card_0909",
@@ -25470,7 +26377,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為受傷了，今天無法做激烈的運動。",
       "fr": "Because I am injured, I cannot do strenuous sports today."
     },
-    "related": "【文法】3グループ (サ変可能)"
+    "related": "【文法】3グループ (サ変可能)",
+    "romaji": "dekinai"
   },
   {
     "id": "card_0910",
@@ -25498,7 +26406,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "水還很涼，所以不在游泳池游泳。",
       "fr": "The water is still cold, so I don't swim in the pool."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "oyoganai"
   },
   {
     "id": "card_0911",
@@ -25526,7 +26435,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這個坐墊很舒服，坐久了也不覺得累。",
       "fr": "This cushion is very comfortable and I don't get tired even sitting long."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tsukarenai"
   },
   {
     "id": "card_0912",
@@ -25554,7 +26464,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "颱風正在接近，所以今天不出門。",
       "fr": "A typhoon is approaching, so I won't go out today."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "dekakenai"
   },
   {
     "id": "card_0913",
@@ -25582,7 +26493,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了省電，白天不開燈。",
       "fr": "To save electricity, I don't turn on lights in the daytime."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tsukenai"
   },
   {
     "id": "card_0914",
@@ -25610,7 +26522,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為害怕黑暗，所以不關夜燈睡覺。",
       "fr": "I am afraid of darkness, so I sleep without turning off the nightlight."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kesanai"
   },
   {
     "id": "card_0915",
@@ -25638,7 +26551,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "時間很充裕，不著急，慢慢走吧。",
       "fr": "We have plenty of time, so let's not hurry and walk slowly."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "isoganai"
   },
   {
     "id": "card_0916",
@@ -25666,7 +26580,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好再等喇，我哋出發先啦。",
       "fr": "N'attendons pas plus longtemps, partons devant."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "matanai"
   },
   {
     "id": "card_0917",
@@ -25694,7 +26609,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不帶太多行李，輕裝出門。",
       "fr": "I go out light without holding lots of baggage."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "motanai"
   },
   {
     "id": "card_0918",
@@ -25722,7 +26638,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請不要擅自拿別人的東西。",
       "fr": "Please do not take other people's belongings without permission."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "toranai"
   },
   {
     "id": "card_0919",
@@ -25750,7 +26667,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽說他想靠自己的力量完成，所以我特意不去幫忙。",
       "fr": "He wants to do it on his own, so I intentionally don't help."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tetsudawanai"
   },
   {
     "id": "card_0920",
@@ -25778,7 +26696,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不救助做壞事的人是理所當然的。",
       "fr": "It is natural not to help someone who committed wrongdoings."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tasukenai"
   },
   {
     "id": "card_0921",
@@ -25806,7 +26725,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開會時不和身旁的人閒聊。",
       "fr": "I don't chat with the person next to me during the meeting."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hanasanai"
   },
   {
     "id": "card_0922",
@@ -25834,7 +26754,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "會打擾鄰居，深夜請不要大聲呼叫。",
       "fr": "It bothers the neighbors, so please don't shout to call out late at night."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "yobanai"
   },
   {
     "id": "card_0923",
@@ -25862,7 +26783,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "還沒畫完，所以畫作不給任何人看。",
       "fr": "It's still work in progress, so I won't show the painting to anyone."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "misenai"
   },
   {
     "id": "card_0924",
@@ -25890,7 +26812,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "密碼是重要資訊，所以絕不告訴別人。",
       "fr": "The password is vital information, so I don't tell it to others."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oshienai"
   },
   {
     "id": "card_0925",
@@ -25918,7 +26841,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請不要穿鞋走進這間榻榻米房間。",
       "fr": "Please do not enter this tatami room with shoes on."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hairanai"
   },
   {
     "id": "card_0926",
@@ -25946,7 +26870,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下課之前，不走出教室。",
       "fr": "Until class ends, I will not step outside the classroom."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "denai"
   },
   {
     "id": "card_0927",
@@ -25974,7 +26899,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "根據氣象預報，明天好像不會下雨。",
       "fr": "According to the weather forecast, it won't rain tomorrow."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "furanai"
   },
   {
     "id": "card_0928",
@@ -26002,7 +26928,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "早上沒時間，所以不沖涼。",
       "fr": "I don't have time in the morning, so I don't take a shower."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "abinai"
   },
   {
     "id": "card_0929",
@@ -26030,7 +26957,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這班車是直達車，途中不用轉車就能抵達。",
       "fr": "This train runs direct, so it arrives without transferring on the way."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "norikaenai"
   },
   {
     "id": "card_0930",
@@ -26058,7 +26986,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喜歡黑咖啡，所以不加糖。",
       "fr": "I like black coffee, so I don't put sugar in it."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "irenai"
   },
   {
     "id": "card_0931",
@@ -26086,7 +27015,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔係倒垃圾嘅日子就唔會拎垃圾出去。",
       "fr": "Les jours où ce n'est pas le ramassage, je ne sors pas les poubelles."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "dasanai"
   },
   {
     "id": "card_0932",
@@ -26114,7 +27044,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請勿隨意按緊急按鈕。",
       "fr": "Please do not press the emergency button thoughtlessly."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "osanai"
   },
   {
     "id": "card_0933",
@@ -26142,7 +27073,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請不要把行李放在走道上。",
       "fr": "Please do not place your baggage in the aisle."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "okanai"
   },
   {
     "id": "card_0934",
@@ -26170,7 +27102,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這星期不做便當，在學生餐廳吃。",
       "fr": "This week I won't make a bento, but will eat at the cafeteria."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tsukuranai"
   },
   {
     "id": "card_0935",
@@ -26198,7 +27131,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這隻古董手錶很珍貴，所以我不會賣給任何人。",
       "fr": "This antique watch is precious, so I will not sell it to anyone."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "uranai"
   },
   {
     "id": "card_0936",
@@ -26226,7 +27160,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請不要把車停在這裡，這是禁止停車區。",
       "fr": "Please do not park your car here. Parking is prohibited."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tomenai"
   },
   {
     "id": "card_0937",
@@ -26254,7 +27189,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "地板濕濕的，所以不坐在這裡。",
       "fr": "The floor is wet, so I will not sit here."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "suwaranai"
   },
   {
     "id": "card_0938",
@@ -26282,7 +27218,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "飛機滑行期間，請勿離開座位站立。",
       "fr": "While the airplane is moving, please do not stand up from your seat."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tatanai"
   },
   {
     "id": "card_0939",
@@ -26310,7 +27247,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大城市太吵雜，我將來不打算住在市區。",
       "fr": "Cities are noisy, so I plan not to live there in the future."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "sumanai"
   },
   {
     "id": "card_0940",
@@ -26338,7 +27276,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了健康，完全不抽菸。",
       "fr": "For my health, I do not smoke cigarettes at all."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "suwanai"
   },
   {
     "id": "card_0941",
@@ -26366,7 +27305,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "沒興趣的事情，總是很難記住。",
       "fr": "Things I have no interest in are hard to memorize."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oboenai"
   },
   {
     "id": "card_0942",
@@ -26394,7 +27334,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "小心不要把雨傘忘在電車上。",
       "fr": "I take care not to forget my umbrella on the train."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "wasurenai"
   },
   {
     "id": "card_0943",
@@ -26422,7 +27363,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為了不弄丟鑰匙，把口袋拉鍊拉上。",
       "fr": "So that I don't lose my keys, I zip up my pocket."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "nakusanai"
   },
   {
     "id": "card_0944",
@@ -26450,7 +27392,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不用現金付款，改用手機行動支付。",
       "fr": "I don't pay with cash, but use smartphone payments."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "harawanai"
   },
   {
     "id": "card_0945",
@@ -26478,7 +27421,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "借來的書不在期限前歸還是不好的。",
       "fr": "It is not good not to return borrowed books by the due date."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kaesanai"
   },
   {
     "id": "card_0946",
@@ -26506,7 +27450,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "雖然辛苦，但因為有夢想，所以我不會辭掉這份工作。",
       "fr": "It's tough, but I have a dream so I will not quit this job."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "yamanai"
   },
   {
     "id": "card_0947",
@@ -26534,7 +27479,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不在網路上搜尋，先試著自己動腦思考。",
       "fr": "Without looking it up on the internet, I first try thinking with my own head."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "shirabenai"
   },
   {
     "id": "card_0948",
@@ -26562,7 +27508,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "舊電腦不修理了，直接買新的。",
       "fr": "Instead of repairing the old computer, I will buy a new one."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "shuurishinai"
   },
   {
     "id": "card_0949",
@@ -26590,7 +27537,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "什麼都沒聯絡就遲到是很不好的。",
       "fr": "Being late without contacting at all is bad manners."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "renrakushinai"
   },
   {
     "id": "card_0950",
@@ -26618,7 +27566,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為是當天來回的旅行，所以不住飯店。",
       "fr": "It's a day trip, so I will not stay overnight at a hotel."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "tomaranai"
   },
   {
     "id": "card_0951",
@@ -26646,7 +27595,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到週末都不打掃房間的話，垃圾會積很多。",
       "fr": "If I don't clean the room until the weekend, trash piles up."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "soujishinai"
   },
   {
     "id": "card_0952",
@@ -26674,7 +27624,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下雨天衣服曬不乾，所以不洗衣服。",
       "fr": "Clothes don't dry on rainy days, so I don't do laundry."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "sentakushinai"
   },
   {
     "id": "card_0953",
@@ -26702,7 +27653,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "深夜盡量不彈鋼琴。",
       "fr": "I make sure not to play the piano late at night."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hikanai"
   },
   {
     "id": "card_0954",
@@ -26730,7 +27682,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喉嚨痛，所以在卡拉OK不唱歌只聽大家唱。",
       "fr": "My throat hurts, so at karaoke I won't sing and will just listen."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "utawanai"
   },
   {
     "id": "card_0955",
@@ -26758,7 +27711,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不再收集公仔了，把房間整理乾淨。",
       "fr": "I won't collect figures any more, and will tidy up my room."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "atsumenai"
   },
   {
     "id": "card_0956",
@@ -26786,7 +27740,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "還能用的東西不要輕易扔掉，拿去回收。",
       "fr": "Things that can still be used are not thrown away easily, but recycled."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "sutenai"
   },
   {
     "id": "card_0957",
@@ -26814,7 +27769,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "無論發生什麼事，我都不會改變自己的目標。",
       "fr": "Whatever happens, I will not change my goal."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kaenai"
   },
   {
     "id": "card_0958",
@@ -26842,7 +27798,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "故鄉的風景和從前相比一點都沒有改變。",
       "fr": "The scenery of my hometown has not changed at all from the past."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kawaranai"
   },
   {
     "id": "card_0959",
@@ -26870,7 +27827,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下雪的日子不開車。",
       "fr": "On snowy days, I do not drive a car."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "untenshinai"
   },
   {
     "id": "card_0960",
@@ -26898,7 +27856,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為太忙，今年沒怎麼休特休假。",
       "fr": "I'm busy, so I won't take much paid leave this year."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "toranai"
   },
   {
     "id": "card_0961",
@@ -26926,7 +27885,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "別發牢騷，積極努力吧。",
       "fr": "Let's not complain and do our best positively."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "iwanai"
   },
   {
     "id": "card_0962",
@@ -26954,7 +27914,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不注意腳下的話，會跌倒喔。",
       "fr": "If you don't watch your step, you will trip and fall."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "ki o tsukenai"
   },
   {
     "id": "card_0963",
@@ -26982,7 +27943,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "學費不夠，所以決定今年不去留學。",
       "fr": "Since tuition is insufficient, I decided not to study abroad this year."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "ryuugakushinai"
   },
   {
     "id": "card_0964",
@@ -27010,7 +27972,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "沒問題的，請什麼都不用擔心。",
       "fr": "It's all right, so please don't worry about anything."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "shinpaishinai"
   },
   {
     "id": "card_0965",
@@ -27038,7 +28001,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "雨停了，所以不把傘帶出門。",
       "fr": "The rain stopped, so I won't take the umbrella with me."
     },
-    "related": "【文法】1グループ (五段複合)"
+    "related": "【文法】1グループ (五段複合)",
+    "romaji": "motteikanai"
   },
   {
     "id": "card_0966",
@@ -27066,7 +28030,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今天沒帶教科書來，只帶了平板。",
       "fr": "Today I didn't bring textbooks, only brought my tablet."
     },
-    "related": "【文法】3グループ (カ変複合)"
+    "related": "【文法】3グループ (カ変複合)",
+    "romaji": "mottekonai"
   },
   {
     "id": "card_0967",
@@ -27094,7 +28059,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "深夜的電影院，不帶小孩一起去。",
       "fr": "I won't take small children along to the movie theater at night."
     },
-    "related": "【文法】1グループ (五段複合)"
+    "related": "【文法】1グループ (五段複合)",
+    "romaji": "tsureteikanai"
   },
   {
     "id": "card_0968",
@@ -27122,7 +28088,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請勿攜帶寵物進入店內。",
       "fr": "Please do not bring pets inside the store."
     },
-    "related": "【文法】3グループ (カ変複合)"
+    "related": "【文法】3グループ (カ変複合)",
+    "romaji": "tsuretekonai"
   },
   {
     "id": "card_0969",
@@ -27150,7 +28117,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為啲嘢好快做完，所以可以去演唱會喇。",
       "zh_TW": "因為事情辦完得早，所以能去演唱會了。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "ikeru / ikemasu"
   },
   {
     "id": "card_0970",
@@ -27178,7 +28146,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "工作處理完了，可以準時回家。",
       "fr": "My work is finished, so I can go home on time."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kaereru"
   },
   {
     "id": "card_0971",
@@ -27206,7 +28175,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "滿二十歲了，可以喝酒了。",
       "fr": "I turned twenty, so I can drink alcohol."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "nomeru"
   },
   {
     "id": "card_0972",
@@ -27234,7 +28204,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師在辦公室，所以可以直接詢問問題。",
       "fr": "The teacher is in the staff room, so I can ask questions directly."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kikeru"
   },
   {
     "id": "card_0973",
@@ -27262,7 +28233,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "透過串流音樂隨時都能收聽全世界的音樂。",
       "fr": "With streaming, you can listen to music worldwide anytime."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kikeru"
   },
   {
     "id": "card_0974",
@@ -27290,7 +28262,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有標假名，所以即使是難漢字也讀得懂。",
       "fr": "There is furigana, so I can read even difficult kanji."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "yomeru"
   },
   {
     "id": "card_0975",
@@ -27318,7 +28291,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每天練習，變得能說一點日語了。",
       "fr": "Practicing every day, I became able to speak a little Japanese."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "hanaseru"
   },
   {
     "id": "card_0976",
@@ -27346,7 +28320,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "期待明天時隔很久能和朋友見面。",
       "fr": "I am looking forward to being able to meet my friend tomorrow for the first time in ages."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "aeru"
   },
   {
     "id": "card_0977",
@@ -27374,7 +28349,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可以喺網上買到限定門票。",
       "fr": "On peut acheter des billets limités sur Internet."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kaeru"
   },
   {
     "id": "card_0978",
@@ -27402,7 +28378,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大家齊心協力，應該能在上午結束。",
       "fr": "If everyone cooperates, we should be able to finish in the morning."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "owareru"
   },
   {
     "id": "card_0979",
@@ -27430,7 +28407,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "簽證續簽成功了，還可以繼續在日本工作。",
       "fr": "My visa was renewed, so I can still work in Japan."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "hatarakeru"
   },
   {
     "id": "card_0980",
@@ -27458,7 +28436,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "即使長大成人，也希望保有純真驚喜的心。",
       "fr": "Even as an adult, I want to keep a heart that can be purely surprised."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "odorokeru"
   },
   {
     "id": "card_0981",
@@ -27486,7 +28465,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多虧了練習，變得會騎腳踏車了。",
       "fr": "Thanks to practice, I became able to ride a bicycle."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "noreru"
   },
   {
     "id": "card_0982",
@@ -27514,7 +28494,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下週五可以請有薪假休息了。",
       "fr": "It was decided that I can take paid leave to rest next Friday."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "yasumeru"
   },
   {
     "id": "card_0983",
@@ -27542,7 +28523,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "作業全部做完了，可以無拘無束地玩了。",
       "fr": "I finished all my homework, so I can play without worries."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "asoberu"
   },
   {
     "id": "card_0984",
@@ -27570,7 +28552,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "設兩個鬧鐘的話，早上六點起得來。",
       "fr": "If I set two alarm clocks, I can wake up at 6 a.m."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "okirareru"
   },
   {
     "id": "card_0985",
@@ -27598,7 +28581,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喜歡吃辣，所以芥末也能吃很多。",
       "fr": "I like spicy food, so I can eat a lot of wasabi too."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "taberareru"
   },
   {
     "id": "card_0986",
@@ -27626,7 +28610,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "換了枕頭之後，能熟睡了。",
       "fr": "After changing pillows, I can now sleep soundly."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "nerareru"
   },
   {
     "id": "card_0987",
@@ -27654,7 +28639,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放晴的日子裡，從這裡能看到富士山。",
       "fr": "On clear days, Mt. Fuji can be seen from here."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "mirareru"
   },
   {
     "id": "card_0988",
@@ -27682,7 +28668,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "工具齊全後，就能馬上開始作業。",
       "fr": "Once all tools are ready, we can start work immediately."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "hajimerareru"
   },
   {
     "id": "card_0989",
@@ -27710,7 +28697,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽住音樂，可以忘記忙碌嘅日常生活。",
       "fr": "Écouter de la musique permet d'oublier le quotidien trépidant."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "wasurerareru"
   },
   {
     "id": "card_0990",
@@ -27738,7 +28726,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "使用字卡的話，新單字很快就能記住。",
       "fr": "Using cards, I can memorize new words quickly."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "oboerareru"
   },
   {
     "id": "card_0991",
@@ -27766,7 +28755,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可以喺下一個站落火車。",
       "fr": "On peut descendre du train à la prochaine gare."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "orirareru"
   },
   {
     "id": "card_0992",
@@ -27794,7 +28784,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "得閒嘅話，聽日個party可以嚟到。",
       "zh_TW": "方便的話，可以來參加明天的派對。"
     },
-    "related": "【文法】可能動詞 (カ変派生)"
+    "related": "【文法】可能動詞 (カ変派生)",
+    "romaji": "korareru"
   },
   {
     "id": "card_0993",
@@ -27822,7 +28813,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多得努力，連咁難嘅菜式都整到。",
       "zh_TW": "多虧努力，連難做的料理也會做了。"
     },
-    "related": "【文法】可能動詞 (する可能形)"
+    "related": "【文法】可能動詞 (する可能形)",
+    "romaji": "dekiru / dekimasu"
   },
   {
     "id": "card_0994",
@@ -27850,7 +28842,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "在安靜的咖啡廳裡，可以專心讀書。",
       "fr": "At a quiet cafe, I can study with focus."
     },
-    "related": "【文法】可能動詞 (サ変可能形)"
+    "related": "【文法】可能動詞 (サ変可能形)",
+    "romaji": "benkyoudekiru"
   },
   {
     "id": "card_0995",
@@ -27878,7 +28871,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冇訂位嘅話，入唔入到呢間餐廳食飯？",
       "zh_TW": "即使沒有預約，也能進這家餐廳嗎？"
     },
-    "related": "【文法】可能動詞 (1グループ「入る」の可能形：入れる・入れます)"
+    "related": "【文法】可能動詞 (1グループ「入る」の可能形：入れる・入れます)",
+    "romaji": "haireru / hairemasu"
   },
   {
     "id": "card_0996",
@@ -27906,7 +28900,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果不塞車的話，應該能按預定時間到達。",
       "fr": "If there is no traffic jam, we should be able to arrive as scheduled."
     },
-    "related": "【文法】可能動詞 (1グループ着くの可能形)"
+    "related": "【文法】可能動詞 (1グループ着くの可能形)",
+    "romaji": "tsukeru"
   },
   {
     "id": "card_0997",
@@ -27934,7 +28929,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "信號燈變綠燈了，可以安全地過馬路。",
       "fr": "The light turned green, so we can cross the street safely."
     },
-    "related": "【文法】可能動詞 (1グループ渡るの可能形)"
+    "related": "【文法】可能動詞 (1グループ渡るの可能形)",
+    "romaji": "watareru"
   },
   {
     "id": "card_0998",
@@ -27962,7 +28958,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "腳傷痊癒了，又能夠像平時一樣行走了。",
       "fr": "My foot injury healed, so I can walk normally again."
     },
-    "related": "【文法】可能動詞 (1グループ歩くの可能形)"
+    "related": "【文法】可能動詞 (1グループ歩くの可能形)",
+    "romaji": "arukeru"
   },
   {
     "id": "card_0999",
@@ -27990,7 +28987,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "體力變好了，不休息也能跑完五公里。",
       "fr": "My stamina increased, and I can run 5 kilometers without resting."
     },
-    "related": "【文法】可能動詞 (1グループ走るの可能形)"
+    "related": "【文法】可能動詞 (1グループ走るの可能形)",
+    "romaji": "hashireru"
   },
   {
     "id": "card_1000",
@@ -28018,7 +29016,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "明天早上我會早起，可以叫你起床喔。",
       "fr": "Tomorrow morning I will get up early and can wake you up."
     },
-    "related": "【文法】可能動詞 (1グループ起こすの可能形)"
+    "related": "【文法】可能動詞 (1グループ起こすの可能形)",
+    "romaji": "okoseru"
   },
   {
     "id": "card_1001",
@@ -28046,7 +29045,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢套西裝可以用屋企部洗衣機洗。",
       "fr": "Ce costume peut être lavé dans la machine à laver de la maison."
     },
-    "related": "【文法】可能動詞 (1グループ洗うの可能形)"
+    "related": "【文法】可能動詞 (1グループ洗うの可能形)",
+    "romaji": "araeru"
   },
   {
     "id": "card_1002",
@@ -28074,7 +29074,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "要是變熱了，隨時可以把外套脫下來。",
       "fr": "If it gets hot, I can immediately take off my jacket."
     },
-    "related": "【文法】可能動詞 (1グループ脱ぐの可能形)"
+    "related": "【文法】可能動詞 (1グループ脱ぐの可能形)",
+    "romaji": "nugeru"
   },
   {
     "id": "card_1003",
@@ -28102,7 +29103,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這張卡在世界各地都能使用。",
       "fr": "This card can be used anywhere around the world."
     },
-    "related": "【文法】可能動詞 (1グループ使うの可能形)"
+    "related": "【文法】可能動詞 (1グループ使うの可能形)",
+    "romaji": "tsukaeru"
   },
   {
     "id": "card_1004",
@@ -28130,7 +29132,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "跟媽媽學過之後，變得能做出美味的咖哩了。",
       "fr": "Taught by my mother, I became able to make delicious curry."
     },
-    "related": "【文法】可能動詞 (1グループ作るの可能形)"
+    "related": "【文法】可能動詞 (1グループ作るの可能形)",
+    "romaji": "tsukureru"
   },
   {
     "id": "card_1005",
@@ -28158,7 +29161,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "這把菜刀切得很俐落，做菜真開心。",
       "fr": "This kitchen knife cuts very well, so cooking is fun."
     },
-    "related": "【文法】可能動詞 (1グループ切るの可能形)"
+    "related": "【文法】可能動詞 (1グループ切るの可能形)",
+    "romaji": "kireru"
   },
   {
     "id": "card_1006",
@@ -28186,7 +29190,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "練習之後，變得能用漢字寫自己的名字了。",
       "fr": "After practicing, I became able to write my name in kanji."
     },
-    "related": "【文法】可能動詞 (1グループ書くの可能形)"
+    "related": "【文法】可能動詞 (1グループ書くの可能形)",
+    "romaji": "kakeru"
   },
   {
     "id": "card_1007",
@@ -28214,7 +29219,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我正在看書，三十分鐘左右的話我能等喔。",
       "fr": "I am reading a book, so I can wait about 30 minutes."
     },
-    "related": "【文法】可能動詞 (1グループ待つの可能形)"
+    "related": "【文法】可能動詞 (1グループ待つの可能形)",
+    "romaji": "materu"
   },
   {
     "id": "card_1008",
@@ -28242,7 +29248,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "他的提案讓人覺得非常切合實際。",
       "fr": "His proposal seems very realistic to me."
     },
-    "related": "【文法】可能動詞 (1グループ思うの可能形)"
+    "related": "【文法】可能動詞 (1グループ思うの可能形)",
+    "romaji": "omoeru"
   },
   {
     "id": "card_1009",
@@ -28270,7 +29277,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多虧了網路，能立刻得知最新的資訊。",
       "fr": "Thanks to the internet, the latest information can be known right away."
     },
-    "related": "【文法】可能動詞 (1グループ知るの可能形)"
+    "related": "【文法】可能動詞 (1グループ知るの可能形)",
+    "romaji": "shireru"
   },
   {
     "id": "card_1010",
@@ -28298,7 +29306,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "身體恢復了，所以能參加明天的比賽。",
       "fr": "My physical condition improved, so I can participate in tomorrow's match."
     },
-    "related": "【文法】可能動詞 (2グループ出るの可能形)"
+    "related": "【文法】可能動詞 (2グループ出るの可能形)",
+    "romaji": "derareru"
   },
   {
     "id": "card_1011",
@@ -28326,7 +29335,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "瘦下來了，又穿得下心愛的洋裝了。",
       "fr": "I lost weight, so I can wear my favorite dress again."
     },
-    "related": "【文法】可能動詞 (2グループ着るの可能形)"
+    "related": "【文法】可能動詞 (2グループ着るの可能形)",
+    "romaji": "kirareru"
   },
   {
     "id": "card_1012",
@@ -28354,7 +29364,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用毛巾嘅話，就算好實嘅蓋都可以開到。",
       "fr": "En utilisant une serviette, on peut ouvrir même un couvercle coincé."
     },
-    "related": "【文法】可能動詞 (2グループ開けるの可能形)"
+    "related": "【文法】可能動詞 (2グループ開けるの可能形)",
+    "romaji": "akerareru"
   },
   {
     "id": "card_1013",
@@ -28382,7 +29393,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可以拉上窗簾，所以就算陽光強烈也沒關係。",
       "fr": "I can close the curtain, so even if the sunlight is strong it's fine."
     },
-    "related": "【文法】可能動詞 (2グループ閉めるの可能形)"
+    "related": "【文法】可能動詞 (2グループ閉めるの可能形)",
+    "romaji": "shimerareru"
   },
   {
     "id": "card_1014",
@@ -28410,7 +29422,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為溫習過，所以可以好好答老師嘅問題。",
       "fr": "Comme j'ai révisé, je peux bien répondre aux questions du professeur."
     },
-    "related": "【文法】可能動詞 (2グループ答えるの可能形)"
+    "related": "【文法】可能動詞 (2グループ答えるの可能形)",
+    "romaji": "kotaerareru"
   },
   {
     "id": "card_1015",
@@ -28438,7 +29451,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我很熟悉這條路，所以可以告訴你怎麼走到車站喔。",
       "fr": "I know the way well, so I can tell you how to get to the station."
     },
-    "related": "【文法】可能動詞 (2グループ教えるの可能形)"
+    "related": "【文法】可能動詞 (2グループ教えるの可能形)",
+    "romaji": "oshierareru"
   },
   {
     "id": "card_1016",
@@ -28466,7 +29480,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "窗外傳來了小鳥的鳴叫聲。",
       "fr": "I can hear birds chirping from outside the window."
     },
-    "related": "【文法】可能・自発動詞"
+    "related": "【文法】可能・自発動詞",
+    "romaji": "kikoeru"
   },
   {
     "id": "card_1017",
@@ -28494,7 +29509,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "從頂樓可以美麗地看見大海。",
       "fr": "From the rooftop, the sea can be seen beautifully."
     },
-    "related": "【文法】可能・自発動詞"
+    "related": "【文法】可能・自発動詞",
+    "romaji": "mieru"
   },
   {
     "id": "card_1018",
@@ -28522,7 +29538,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽完解釋之後，好明白點樣用。",
       "fr": "Après avoir écouté l'explication, je comprends bien l'utilisation."
     },
-    "related": "【文法】状態動詞 (わかる自体に可能の意味)"
+    "related": "【文法】状態動詞 (わかる自体に可能の意味)",
+    "romaji": "wakaru / wakarimasu"
   },
   {
     "id": "card_1019",
@@ -28550,7 +29567,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為細個就學，所以游到一公里。",
       "zh_TW": "因為從小就學，所以能遊一公里。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "oyogeru"
   },
   {
     "id": "card_1020",
@@ -28578,7 +29596,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "正因為全力以赴，先至可以感受到舒暢嘅疲累。",
       "fr": "C'est justement parce que j'ai fait de mon mieux que je peux ressentir une fatigue agréable."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "tsukarerareru"
   },
   {
     "id": "card_1021",
@@ -28606,7 +29625,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落完雨，終於可以出街喇。",
       "zh_TW": "雨停了，終於可以出門了。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "dekakerareru"
   },
   {
     "id": "card_1022",
@@ -28634,7 +29654,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "換咗遙控嘅電，所以開到冷氣喇。",
       "zh_TW": "換了遙控器的電池，所以能開空調了。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "tsukerareru"
   },
   {
     "id": "card_1023",
@@ -28662,7 +29683,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用擦得甩嘅原子筆，寫錯字都可以即刻擦得甩。",
       "zh_TW": "如果是可擦筆的話，即使寫錯也能馬上擦掉。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "keseru"
   },
   {
     "id": "card_1024",
@@ -28690,7 +29712,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "叫架的士嘅話，仲可以趕得切新幹線班車。",
       "zh_TW": "叫計程車的話，還能趕得上新幹線的時間。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "isogeru"
   },
   {
     "id": "card_1025",
@@ -28718,7 +29741,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺cafe睇住書嘅話，仲可以等多30分鐘左右。",
       "zh_TW": "在咖啡館看書的話，還能再等大約30分鐘。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "materu"
   },
   {
     "id": "card_1026",
@@ -28746,7 +29770,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個行李喼好輕，單手都拎得起。",
       "zh_TW": "這個行李箱非常輕，單手也能拿得動。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "moteru"
   },
   {
     "id": "card_1027",
@@ -28774,7 +29799,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可以買到熱門演唱會嘅飛。",
       "fr": "On peut obtenir des billets pour le concert populaire."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "toreru"
   },
   {
     "id": "card_1028",
@@ -28802,7 +29828,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晏晝冇嘢做，所以幫手搬屋。",
       "zh_TW": "下午沒有安排，所以能幫忙搬家。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "tetsudaeru"
   },
   {
     "id": "card_1029",
@@ -28830,7 +29857,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多得救援隊，可以好快獲救。",
       "fr": "Grâce aux sauveteurs, ils peuvent être secourus rapidement."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "tasukerareru"
   },
   {
     "id": "card_1030",
@@ -28858,7 +29886,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多得每日練習，而家用日文講到日常對話喇。",
       "zh_TW": "多虧每天練習，現在能用日語進行日常對話了。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "hanaseru"
   },
   {
     "id": "card_1031",
@@ -28886,7 +29915,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用手機App嘅話，即刻可以叫到架的士。",
       "zh_TW": "用手機App的話，馬上就能叫到計程車。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "yoberu"
   },
   {
     "id": "card_1032",
@@ -28914,7 +29944,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果係護照相嗰一頁，而家即刻可以畀你睇。",
       "zh_TW": "如果是護照的照片頁，現在就能給你看。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "miserareru"
   },
   {
     "id": "card_1033",
@@ -28942,7 +29973,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去車站嘅行法，我可以畫張地圖教你。",
       "zh_TW": "去車站的路線，我可以畫地圖告訴你。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "oshierareru"
   },
   {
     "id": "card_1034",
@@ -28970,7 +30002,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "除咗鞋嘅話，就可以入呢間和室。",
       "zh_TW": "脫了鞋就能進這間日式房間。"
     },
-    "related": "【文法】可能動詞 (1グループ「入る」の可能形：入れる[はいれる])"
+    "related": "【文法】可能動詞 (1グループ「入る」の可能形：入れる[はいれる])",
+    "romaji": "haireru"
   },
   {
     "id": "card_1035",
@@ -28998,7 +30031,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開完會，終於聽得電話喇。",
       "zh_TW": "會議結束了，終於能接電話了。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "derareru"
   },
   {
     "id": "card_1036",
@@ -29026,7 +30060,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "氣溫跌到咁低，今晚可能真係會落雪。",
       "fr": "Si la température descend aussi bas, il se pourrait qu'il neige ce soir."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "fureru"
   },
   {
     "id": "card_1037",
@@ -29054,7 +30089,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺gym做完運動之後可以沖個熱水涼。",
       "zh_TW": "在健身房運動後可以洗個溫水澡。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "abirareru"
   },
   {
     "id": "card_1038",
@@ -29082,7 +30118,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺呢個月台可以直接轉搭地下鐵。",
       "zh_TW": "從這個月台可以直接轉乘地下鐵。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "norikaerareru"
   },
   {
     "id": "card_1039",
@@ -29110,7 +30147,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個背囊好大，連部手提電腦都擺得落。",
       "zh_TW": "這個背包裡連筆記型電腦也能輕鬆裝下。"
     },
-    "related": "【文法】可能動詞 (2グループ「入れる[いれる]」の可能形)"
+    "related": "【文法】可能動詞 (2グループ「入れる[いれる]」の可能形)",
+    "romaji": "irerareru"
   },
   {
     "id": "card_1040",
@@ -29138,7 +30176,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為功課好快做完，可以在截止日期前交report報告。",
       "zh_TW": "因為作業早早做完了，可以在截止日期前交報告。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "daseru"
   },
   {
     "id": "card_1041",
@@ -29166,7 +30205,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "高咗之後，升降機較高嘅掣都撳得到了。",
       "zh_TW": "長高了之後，電梯較高的按鈕也按得到了。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "oseru"
   },
   {
     "id": "card_1042",
@@ -29194,7 +30234,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "張枱好大，可以擺到兩部mon電腦螢幕。",
       "zh_TW": "書桌很寬敞，可以放兩台螢幕。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "okeru"
   },
   {
     "id": "card_1043",
@@ -29222,7 +30263,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "跟住食譜嘅話，就可以整到好味嘅蛋糕。",
       "fr": "En suivant la recette, on peut faire un délicieux gâteau."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "tsukureru"
   },
   {
     "id": "card_1044",
@@ -29250,7 +30292,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用二手買賣App嘅話，啲書好快賣得出。",
       "fr": "En utilisant une application de vente d'occasion, les livres se vendent vite."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "ureru"
   },
   {
     "id": "card_1045",
@@ -29278,7 +30321,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺呢座大廈前面嘅話可以泊車。",
       "zh_TW": "在這棟公寓前面的話可以停車。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "tomerareru"
   },
   {
     "id": "card_1046",
@@ -29306,7 +30350,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭頭班車嘅話，就可以舒舒服服咁坐。",
       "fr": "Si vous prenez le premier train, vous pouvez vous asseoir confortablement."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "suwareru"
   },
   {
     "id": "card_1047",
@@ -29334,7 +30379,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好返晒之後，可以用自己對腳企穩喇。",
       "fr": "La blessure a guéri et je peux me tenir fermement sur mes pieds."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "tateru"
   },
   {
     "id": "card_1048",
@@ -29362,7 +30408,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢區治安好，可以好安心咁住。",
       "zh_TW": "這個小鎮治安良好，能非常安心地居住。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "sumeru"
   },
   {
     "id": "card_1049",
@@ -29390,7 +30437,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺山頂可以吸好多新鮮空氣。",
       "fr": "Au sommet de la montagne, on peut respirer beaucoup d'air frais."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "sueru"
   },
   {
     "id": "card_1050",
@@ -29418,7 +30466,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多得flashcard，好快就記到新單字。",
       "zh_TW": "多虧字卡，能很快記住新單詞。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "oboerareru"
   },
   {
     "id": "card_1051",
@@ -29446,7 +30495,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺度假勝地好好休息，可以忘記晒所有疲勞。",
       "zh_TW": "在度假勝地悠閒度過，能把疲勞完全忘掉。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "wasurerareru"
   },
   {
     "id": "card_1052",
@@ -29474,7 +30524,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "整返張checklist，就可以減少出錯。",
       "zh_TW": "製作核對清單的話，就能消除失誤。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "nakuseru"
   },
   {
     "id": "card_1053",
@@ -29502,7 +30553,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺呢度除咗可以用信用卡，仲可以用手機支付俾錢。",
       "zh_TW": "在這裡不僅能用信用卡，還能用行動支付付款。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "haraeru"
   },
   {
     "id": "card_1054",
@@ -29530,7 +30582,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用圖書館個還書箱嘅話，24小時幾時都可以還書。",
       "zh_TW": "如果是圖書館的還書箱，24小時隨時都能還書。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kaeseru"
   },
   {
     "id": "card_1055",
@@ -29558,7 +30611,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "只要有堅定嘅意志，食太甜嘅習慣都可以戒得到。",
       "zh_TW": "只要有堅強的意志，連吃太多甜食的習慣也能戒掉。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "yamerareru"
   },
   {
     "id": "card_1056",
@@ -29586,7 +30640,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用上網嘅話，咩都可以即刻查得到。",
       "zh_TW": "使用網路的話，什麼都可以馬上查到。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "shiraberareru"
   },
   {
     "id": "card_1057",
@@ -29614,7 +30669,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "攞去專門舖頭整嘅話，呢部電腦可以整得返好。",
       "zh_TW": "委託專門店的話，這台電腦可以修好。"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "shuuridekiru"
   },
   {
     "id": "card_1058",
@@ -29642,7 +30698,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用App隨時都可以聯絡到屋企人。",
       "zh_TW": "用應用程式隨時都能聯繫家人。"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "renrakudekiru"
   },
   {
     "id": "card_1059",
@@ -29670,7 +30727,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間酒店有溫泉，住得好舒服。",
       "zh_TW": "這家飯店有溫泉，能住得非常舒服。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "tomareru"
   },
   {
     "id": "card_1060",
@@ -29698,7 +30756,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用掃地機械人，出咗去不在家嗰陣都打掃得到。",
       "zh_TW": "用掃地機器人，外出不在家時也能打掃。"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "soujidekiru"
   },
   {
     "id": "card_1061",
@@ -29726,7 +30785,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢件毛衣用屋企部洗衣機都洗得。",
       "zh_TW": "這件毛衣在家裡的洗衣機裡也能清洗。"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "sentakudekiru"
   },
   {
     "id": "card_1062",
@@ -29754,7 +30814,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日練琴之後，而家彈到鋼琴名曲喇。",
       "fr": "Grâce à une pratique quotidienne, je suis maintenant capable de jouer des chefs-d'œuvre au piano."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "hikeru"
   },
   {
     "id": "card_1063",
@@ -29782,7 +30843,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "背熟咗歌詞，所以唱到日文動漫歌喇。",
       "zh_TW": "因為記住了歌詞，能唱日語動漫歌曲了。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "utaeru"
   },
   {
     "id": "card_1064",
@@ -29810,7 +30872,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺蓋印活動入面可以吸齊所有印仔。",
       "fr": "On peut collecter tous les tampons lors du rallye de tampons."
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "atsumerareru"
   },
   {
     "id": "card_1065",
@@ -29838,7 +30901,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "膠樽撕咗張包裝紙，就可以拎去回收站抌。",
       "zh_TW": "寶特瓶只要撕掉標籤，就能扔到回收站。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "suterareru"
   },
   {
     "id": "card_1066",
@@ -29866,7 +30930,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺網上可以好容易改到酒店嘅訂房日子。",
       "zh_TW": "在網上可以輕鬆更改飯店的預約日期。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "kaerareru"
   },
   {
     "id": "card_1067",
@@ -29894,7 +30959,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "只要努力，人就可以向好嘅方向改變。",
       "fr": "Avec des efforts, tout le monde peut changer en mieux."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "kawareru"
   },
   {
     "id": "card_1068",
@@ -29922,7 +30988,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考到車牌之後，就可以揸租返嚟嘅車喇。",
       "zh_TW": "因為拿到了駕照，所以能開租來的車了。"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "untendekiru"
   },
   {
     "id": "card_1069",
@@ -29950,7 +31017,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "畀心機溫書嘅話，一定考到JLPT證書。",
       "zh_TW": "好好學習的話，一定能考取JLPT資格證書。"
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "toreru"
   },
   {
     "id": "card_1070",
@@ -29978,7 +31046,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "可以用言語好好講出「多謝」嘅心意。",
       "fr": "Je peux exprimer correctement mes sentiments de remerciement avec des mots."
     },
-    "related": "【文法】可能動詞 (1グループ派生)"
+    "related": "【文法】可能動詞 (1グループ派生)",
+    "romaji": "ieru"
   },
   {
     "id": "card_1071",
@@ -30006,7 +31075,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果一早知嘅話，就可以留意腳下安全。",
       "zh_TW": "如果事先知道的話，就能注意腳下了。"
     },
-    "related": "【文法】可能動詞 (2グループ派生)"
+    "related": "【文法】可能動詞 (2グループ派生)",
+    "romaji": "ki o tsukerareru"
   },
   {
     "id": "card_1072",
@@ -30034,7 +31104,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "攞到獎學金，出年開始就可以去日本留學喇！",
       "zh_TW": "獎學金定下來了，明年開始就能去日本留學了！"
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "ryuugakudekiru"
   },
   {
     "id": "card_1073",
@@ -30062,7 +31133,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "希望成為一個識得為人著想、懂得關心人嘅溫柔之人。",
       "fr": "Je veux devenir une personne bienveillante qui pense aux sentiments des autres et sait se soucier d'eux."
     },
-    "related": "【文法】可能動詞 (3グループ「する」→「できる」)"
+    "related": "【文法】可能動詞 (3グループ「する」→「できる」)",
+    "romaji": "shinpaidekiru"
   },
   {
     "id": "card_1074",
@@ -30090,7 +31162,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "縮骨遮嘅話，擺入個袋度幾時都可以帶去。",
       "zh_TW": "如果是折疊傘的話，放進包裡隨時都能帶去。"
     },
-    "related": "【文法】可能動詞 (1グループ「行く」の可能形：行ける)"
+    "related": "【文法】可能動詞 (1グループ「行く」の可能形：行ける)",
+    "romaji": "motteikeru"
   },
   {
     "id": "card_1075",
@@ -30118,7 +31191,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日上堂可以帶自己鍾意本notebook嚟。",
       "zh_TW": "可以把喜歡的筆記本帶到明天的課堂來。"
     },
-    "related": "【文法】可能動詞 (3グループ「来る」の可能形：来[こ]られる)"
+    "related": "【文法】可能動詞 (3グループ「来る」の可能形：来[こ]られる)",
+    "romaji": "mottekorareru"
   },
   {
     "id": "card_1076",
@@ -30146,7 +31220,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "坐露天位嘅話，都可以帶埋隻狗去。",
       "zh_TW": "露天座位的話，也能帶寵物狗去。"
     },
-    "related": "【文法】可能動詞 (1グループ「行く」の可能形：行ける)"
+    "related": "【文法】可能動詞 (1グループ「行く」の可能形：行ける)",
+    "romaji": "tsureteikeru"
   },
   {
     "id": "card_1077",
@@ -30174,7 +31249,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末個party，都可以帶埋朋友一齊嚟。",
       "zh_TW": "週末的派對上，也可以把朋友一起帶過來。"
     },
-    "related": "【文法】可能動詞 (3グループ「来る」の可能形：来[こ]られる)"
+    "related": "【文法】可能動詞 (3グループ「来る」の可能形：来[こ]られる)",
+    "romaji": "tsuretekorareru"
   },
   {
     "id": "card_1078",
@@ -30202,7 +31278,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今朝鬧鐘響之前，六點就起咗身。",
       "fr": "Ce matin, je me suis réveillé à 6 heures avant que le réveil ne sonne."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "okita"
   },
   {
     "id": "card_1079",
@@ -30230,7 +31307,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "琴晚喺圖書館讀咗日文。",
       "fr": "Hier soir, j'ai étudié le japonais à la bibliothèque."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "benkyou o shita"
   },
   {
     "id": "card_1080",
@@ -30258,7 +31336,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上個禮拜日同朋友去咗京都。",
       "fr": "Dimanche dernier, je suis allé à Kyoto avec un ami."
     },
-    "related": "【文法】1グループ (五段・促音便例外)"
+    "related": "【文法】1グループ (五段・促音便例外)",
+    "romaji": "itta"
   },
   {
     "id": "card_1081",
@@ -30286,7 +31365,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "收工之後即刻返咗屋企。",
       "fr": "Après le travail, je suis rentré tout de suite chez moi."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "kaetta"
   },
   {
     "id": "card_1082",
@@ -30314,7 +31394,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朋友準時嚟咗我屋企。",
       "fr": "Mon ami est venu chez moi à l'heure convenue."
     },
-    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)"
+    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)",
+    "romaji": "kita"
   },
   {
     "id": "card_1083",
@@ -30342,7 +31423,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晏晝食咗好多好味嘅壽司。",
       "fr": "Pour le déjeuner, j'ai mangé beaucoup de délicieux sushis."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tabeta"
   },
   {
     "id": "card_1084",
@@ -30370,7 +31452,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "做完運動之後，大啖大啖飲咗杯凍茶。",
       "fr": "Après le sport, j'ai bu du thé frais d'un trait."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "nonda"
   },
   {
     "id": "card_1085",
@@ -30398,7 +31481,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "琴晚好攰，所以九點就瞓咗。",
       "fr": "Hier soir, j'étais très fatigué, alors je me suis couché à 9 heures."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "neta"
   },
   {
     "id": "card_1086",
@@ -30426,7 +31510,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺戲院睇咗套好hit嘅新動畫。",
       "fr": "J'ai regardé le nouvel anime dont tout le monde parle au cinéma."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "mita"
   },
   {
     "id": "card_1087",
@@ -30454,7 +31539,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為唔識路，所以喺差館問咗路。",
       "fr": "Je ne connaissais pas le chemin, alors j'ai demandé au poste de police."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "kiita"
   },
   {
     "id": "card_1088",
@@ -30482,7 +31568,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺房度舒舒服服聽咗古典音樂。",
       "fr": "J'ai écouté tranquillement de la musique classique dans ma chambre."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "kiita"
   },
   {
     "id": "card_1089",
@@ -30510,7 +31597,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺火車入面睇咗本好得意嘅小說。",
       "fr": "Dans le train, j'ai lu un roman très intéressant."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "yonda"
   },
   {
     "id": "card_1090",
@@ -30538,7 +31626,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好耐冇同屋企人通電話，傾得好開心。",
       "fr": "J'ai parlé agréablement au téléphone avec mes parents restés au pays après une longue période."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hanashita"
   },
   {
     "id": "card_1091",
@@ -30566,7 +31655,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺站前嘅cafe見返中學最好嘅朋友。",
       "fr": "J'ai rencontré mon meilleur ami du lycée dans un café devant la gare."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "atta"
   },
   {
     "id": "card_1092",
@@ -30594,7 +31684,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺百貨公司大減價買咗件心水大褸。",
       "fr": "Pendant les soldes au grand magasin, j'ai acheté mon manteau préféré."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "katta"
   },
   {
     "id": "card_1093",
@@ -30622,7 +31713,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上晝將間房完全執乾淨晒。",
       "fr": "Dans la matinée, j'ai entièrement rangé la pièce."
     },
-    "related": "【文法】3グループ (サ変「する」→「した」)"
+    "related": "【文法】3グループ (サ変「する」→「した」)",
+    "romaji": "shita"
   },
   {
     "id": "card_1094",
@@ -30650,7 +31742,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鐘聲響起，日文考試開始咗。",
       "fr": "La sonnerie a retenti et le test de japonais a commencé."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "hajimatta"
   },
   {
     "id": "card_1095",
@@ -30678,7 +31771,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "漫長嘅會議終於完咗。",
       "fr": "La longue réunion s'est enfin terminée."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "owatta"
   },
   {
     "id": "card_1096",
@@ -30706,7 +31800,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "讀書嗰陣喺cafe做過兼職返工。",
       "fr": "Quand j'étais étudiant, j'ai travaillé à temps partiel dans un café."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "hataraita"
   },
   {
     "id": "card_1097",
@@ -30734,7 +31829,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "收到朋友嘅禮物，非常之驚喜！",
       "fr": "J'ai été très surpris par le cadeau de mon ami !"
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "odoroita"
   },
   {
     "id": "card_1098",
@@ -30762,7 +31858,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "擺低咗把遮喺火車度唔記得拎。",
       "fr": "J'ai oublié mon parapluie dans le train."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "wasureta"
   },
   {
     "id": "card_1099",
@@ -30790,7 +31887,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺今日堂上，記咗10個新漢字。",
       "fr": "Pendant le cours d'aujourd'hui, j'ai mémorisé 10 nouveaux kanji."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oboeta"
   },
   {
     "id": "card_1100",
@@ -30818,7 +31916,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "第一次搭新幹線。",
       "fr": "J'ai pris le Shinkansen pour la première fois."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "notta"
   },
   {
     "id": "card_1101",
@@ -30846,7 +31945,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去到目的地車站，就落咗火車。",
       "fr": "Arrivé à la gare de destination, je suis descendu du train."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "orita"
   },
   {
     "id": "card_1102",
@@ -30874,7 +31974,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為親咗，琴日請假冇返學。",
       "fr": "Comme j'avais attrapé un rhume, je n'ai pas été à l'école hier."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "yasunda"
   },
   {
     "id": "card_1103",
@@ -30902,7 +32003,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嗰陣去主題樂園玩咗成日。",
       "fr": "J'ai passé toute la journée à m'amuser au parc à thème pendant mon jour de congé."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "asonda"
   },
   {
     "id": "card_1104",
@@ -30930,7 +32032,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早七點出咗門口。",
       "fr": "Je suis sorti de chez moi à 7 heures du matin."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "deta"
   },
   {
     "id": "card_1105",
@@ -30958,7 +32061,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為開始落雨，就入咗附近間cafe。",
       "fr": "Comme il s'est mis à pleuvoir, je suis entré dans un café à proximité."
     },
-    "related": "【文法】1グループ (五段・促音便「入る」→「入った[はいった]」)"
+    "related": "【文法】1グループ (五段・促音便「入る」→「入った[はいった]」)",
+    "romaji": "haitta"
   },
   {
     "id": "card_1106",
@@ -30986,7 +32090,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新幹線準時去到東京站。",
       "fr": "Le Shinkansen est arrivé à la gare de Tokyo à l'heure prévue."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "tsuita"
   },
   {
     "id": "card_1107",
@@ -31014,7 +32119,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇清楚係綠燈之後，先至行過斑馬線。",
       "fr": "J'ai vérifié le feu vert et j'ai traversé le passage piéton."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "watatta"
   },
   {
     "id": "card_1108",
@@ -31042,7 +32148,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，琴日行咗一萬步。",
       "fr": "Pour ma santé, j'ai marché 10 000 pas hier."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "aruita"
   },
   {
     "id": "card_1109",
@@ -31070,7 +32177,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "就嚟遲到，所以博命跑去車站。",
       "fr": "Comme je risquais d'être en retard, j'ai couru de toutes mes forces jusqu'à la gare."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "hashitta"
   },
   {
     "id": "card_1110",
@@ -31098,7 +32206,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早七點叫醒咗仲瞓緊嘅細佬。",
       "fr": "À 7 heures du matin, j'ai réveillé mon petit frère qui dormait encore."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "okoshita"
   },
   {
     "id": "card_1111",
@@ -31126,7 +32235,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一返到屋企即刻用番梘洗乾淨隻手。",
       "fr": "Dès que je suis rentré chez moi, je me suis bien lavé les mains avec du savon."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "aratta"
   },
   {
     "id": "card_1112",
@@ -31154,7 +32264,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好凍，所以著咗件厚毛衣。",
       "fr": "Comme il faisait froid aujourd'hui, j'ai mis un pull épais."
     },
-    "related": "【文法】2グループ (一段「着る」→「着た[きた]」)"
+    "related": "【文法】2グループ (一段「着る」→「着た[きた]」)",
+    "romaji": "kita"
   },
   {
     "id": "card_1113",
@@ -31182,7 +32293,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺玄關除咗鞋。",
       "fr": "J'ai enlevé mes chaussures à l'entrée."
     },
-    "related": "【文法】1グループ (五段・イ音便濁音)"
+    "related": "【文法】1グループ (五段・イ音便濁音)",
+    "romaji": "nuida"
   },
   {
     "id": "card_1114",
@@ -31210,7 +32322,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗換氣透氣，開咗隻窗。",
       "fr": "Pour aérer la pièce, j'ai ouvert la fenêtre."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "aketa"
   },
   {
     "id": "card_1115",
@@ -31238,7 +32351,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口之前，閂好咗道門。",
       "fr": "Avant de sortir, j'ai bien fermé la porte."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "shimeta"
   },
   {
     "id": "card_1116",
@@ -31266,7 +32380,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗搵食譜，用咗部智能手機。",
       "fr": "Pour chercher une recette, j'ai utilisé mon smartphone."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tsukatta"
   },
   {
     "id": "card_1117",
@@ -31294,7 +32409,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "晚餐煮咗好多菜嘅咖喱。",
       "fr": "Pour le dîner, j'ai préparé un curry avec plein de légumes."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tsukutta"
   },
   {
     "id": "card_1118",
@@ -31322,7 +32438,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "煮飯之前用菜刀將番茄切薄片。",
       "fr": "Avant de cuisiner, j'ai tranché finement les tomates avec un couteau."
     },
-    "related": "【文法】1グループ (五段・促音便「切る」→「切った[きった]」)"
+    "related": "【文法】1グループ (五段・促音便「切る」→「切った[きった]」)",
+    "romaji": "kitta"
   },
   {
     "id": "card_1119",
@@ -31350,7 +32467,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺旅行嘅地方寄明信片畀朋友。",
       "fr": "J'ai écrit une carte postale à un ami depuis mon lieu de voyage."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "kaita"
   },
   {
     "id": "card_1120",
@@ -31378,7 +32496,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好清楚咁答咗老師嘅問題。",
       "fr": "J'ai répondu clairement à la question du professeur."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kotaeta"
   },
   {
     "id": "card_1121",
@@ -31406,7 +32525,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "教迷路嘅遊客點樣去車站。",
       "fr": "J'ai indiqué le chemin de la gare aux touristes perdus."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oshieta"
   },
   {
     "id": "card_1122",
@@ -31434,7 +32554,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "遠處傳嚟好聽嘅雀仔叫聲。",
       "fr": "De loin, j'ai entendu le chant harmonieux des oiseaux."
     },
-    "related": "【文法】2グループ (一段・自然自発動詞)"
+    "related": "【文法】2グループ (一段・自然自発動詞)",
+    "romaji": "kikoeta"
   },
   {
     "id": "card_1123",
@@ -31462,7 +32583,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺酒店隻窗望出去見到好靚嘅富士山。",
       "fr": "De la fenêtre de l'hôtel, j'ai vu le magnifique mont Fuji."
     },
-    "related": "【文法】2グループ (一段・自然自発動詞)"
+    "related": "【文法】2グループ (一段・自然自発動詞)",
+    "romaji": "mieta"
   },
   {
     "id": "card_1124",
@@ -31490,7 +32612,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "架巴士等極都唔嚟，足足等咗30分鐘。",
       "fr": "Comme le bus n'arrivait pas, j'ai attendu 30 minutes entières."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "matta"
   },
   {
     "id": "card_1125",
@@ -31518,7 +32641,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "覺得呢套戲嘅故事好有深度。",
       "fr": "J'ai pensé que ce film avait une histoire très profonde."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "omotta"
   },
   {
     "id": "card_1126",
@@ -31546,7 +32670,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇咗新聞，先第一次知道呢件事。",
       "fr": "En regardant les nouvelles, j'ai appris ce fait pour la première fois."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "shitta"
   },
   {
     "id": "card_1127",
@@ -31574,7 +32699,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽完老師嘅解釋之後，好清楚文法點樣用。",
       "fr": "Après les explications du professeur, j'ai bien compris l'usage de la grammaire."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "wakatta"
   },
   {
     "id": "card_1128",
@@ -31602,7 +32728,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "經過反覆練習，順利完成咗個難題！",
       "fr": "À force d'entraînement, j'ai réussi sans problème cette tâche difficile !"
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "dekita"
   },
   {
     "id": "card_1129",
@@ -31630,7 +32757,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假喺酒店個泳池游咗好多水。",
       "fr": "Pendant les vacances d'été, j'ai bien nagé dans la piscine de l'hôtel."
     },
-    "related": "【文法】1グループ (五段・イ音便濁音)"
+    "related": "【文法】1グループ (五段・イ音便濁音)",
+    "romaji": "oyoida"
   },
   {
     "id": "card_1130",
@@ -31658,7 +32786,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行咗成日，隻腳好攰。",
       "fr": "Comme j'ai marché toute la journée, mes jambes étaient très fatiguées."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tsukareta"
   },
   {
     "id": "card_1131",
@@ -31686,7 +32815,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣好好，所以晏晝出咗去公園。",
       "fr": "Comme il faisait beau, je suis sorti au parc dans l'après-midi."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "dekaketa"
   },
   {
     "id": "card_1132",
@@ -31714,7 +32844,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間房黑咗，所以開咗燈。",
       "fr": "Comme la pièce s'assombrissait, j'ai allumé la lumière."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tsuketa"
   },
   {
     "id": "card_1133",
@@ -31742,7 +32873,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "瞓覺之前熄好咗電視嘅電源。",
       "fr": "Avant de me coucher, j'ai bien éteint la télévision."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "keshita"
   },
   {
     "id": "card_1134",
@@ -31770,7 +32902,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗趕火車，行得好快咁趕路。",
       "fr": "Pour arriver à l'heure pour le train, je me suis dépêché au pas de course."
     },
-    "related": "【文法】1グループ (五段・イ音便濁音)"
+    "related": "【文法】1グループ (五段・イ音便濁音)",
+    "romaji": "isoida"
   },
   {
     "id": "card_1135",
@@ -31798,7 +32931,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺車站入閘機前面等朋友嚟。",
       "fr": "Devant les portillons de la gare, j'ai attendu l'arrivée de mon ami."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "matta"
   },
   {
     "id": "card_1136",
@@ -31826,7 +32960,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用雙手緊緊拎住好重嘅行李。",
       "fr": "J'ai tenu fermement les bagages lourds à deux mains."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "motta"
   },
   {
     "id": "card_1137",
@@ -31854,7 +32989,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試攞咗100分。",
       "fr": "J'ai obtenu 100 points au test."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "totta"
   },
   {
     "id": "card_1138",
@@ -31882,7 +33018,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好開心咁幫媽咪煮飯。",
       "fr": "J'ai pris plaisir à aider ma mère à cuisiner."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tetsudatta"
   },
   {
     "id": "card_1139",
@@ -31910,7 +33047,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好心幫咗個迷路嘅人。",
       "fr": "J'ai gentiment aidé une personne qui s'était égarée."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tasuketa"
   },
   {
     "id": "card_1140",
@@ -31938,7 +33076,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同老師好好傾咗下將來嘅夢想。",
       "fr": "J'ai discuté en profondeur de mes rêves d'avenir avec mon professeur."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "hanashita"
   },
   {
     "id": "card_1141",
@@ -31966,7 +33105,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大聲叫朋友個名。",
       "fr": "J'ai crié le nom de mon ami à haute voix."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "yonda"
   },
   {
     "id": "card_1142",
@@ -31994,7 +33134,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "畀朋友睇咗好多好靚嘅旅行相。",
       "fr": "J'ai montré beaucoup de belles photos de voyage à mon ami."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "miseta"
   },
   {
     "id": "card_1143",
@@ -32022,7 +33163,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "教咗同事一啲好實用嘅電腦shortcut快捷掣。",
       "fr": "J'ai appris des raccourcis clavier utiles à mon collègue."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oshieta"
   },
   {
     "id": "card_1144",
@@ -32050,7 +33192,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺好凍嘅冬天浸咗個好舒服嘅熱水涼。",
       "fr": "Par une froide journée d'hiver, j'ai pris un bon bain chaud."
     },
-    "related": "【文法】1グループ (五段・促音便「入る」→「入った[はいった]」)"
+    "related": "【文法】1グループ (五段・促音便「入る」→「入った[はいった]」)",
+    "romaji": "haitta"
   },
   {
     "id": "card_1145",
@@ -32078,7 +33221,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落完雨嘅天空出咗條好靚嘅彩虹。",
       "fr": "Un bel arc-en-ciel est apparu dans le ciel après la pluie."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "deta"
   },
   {
     "id": "card_1146",
@@ -32106,7 +33250,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "琴晚成晚落咗好大雪。",
       "fr": "Il a beaucoup neigé pendant la nuit."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "futta"
   },
   {
     "id": "card_1147",
@@ -32134,7 +33279,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "跑完步之後沖咗個好舒服嘅涼。",
       "fr": "Après le jogging, j'ai pris une douche rafraîchissante."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "abita"
   },
   {
     "id": "card_1148",
@@ -32162,7 +33308,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺新宿站由JR轉搭地下鐵。",
       "fr": "À la gare de Shinjuku, j'ai changé de la ligne JR au métro."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "norikaeta"
   },
   {
     "id": "card_1149",
@@ -32190,7 +33337,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將銀包妥妥帖帖咁擺咗入個袋入面。",
       "fr": "J'ai bien rangé mon portefeuille dans mon sac."
     },
-    "related": "【文法】2グループ (一段「入れる」→「入れた[いれた]」)"
+    "related": "【文法】2グループ (一段「入れる」→「入れた[いれた]」)",
+    "romaji": "ireta"
   },
   {
     "id": "card_1150",
@@ -32218,7 +33366,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺郵局個郵筒度寄咗封信畀朋友。",
       "fr": "J'ai posté la lettre pour mon ami dans la boîte aux lettres de la poste."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "dashita"
   },
   {
     "id": "card_1151",
@@ -32246,7 +33395,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "叮咚一聲撳咗門鐘對講機掣。",
       "fr": "J'ai appuyé sur le bouton de l'interphone."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "oshita"
   },
   {
     "id": "card_1152",
@@ -32274,7 +33424,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將買返嚟嘅花擺咗喺張枱上面。",
       "fr": "J'ai posé sur la table les fleurs que je venais d'acheter."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "oita"
   },
   {
     "id": "card_1153",
@@ -32302,7 +33453,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為朋友親手整咗張生日卡。",
       "fr": "J'ai fabriqué une carte d'anniversaire pour mon ami."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tsukutta"
   },
   {
     "id": "card_1154",
@@ -32330,7 +33482,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺二手舖賣咗以前玩過嘅遊戲機。",
       "fr": "J'ai vendu mon ancienne console de jeux dans un magasin d'occasion."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "utta"
   },
   {
     "id": "card_1155",
@@ -32358,7 +33511,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將架車泊好喺計時停車場。",
       "fr": "J'ai bien garé la voiture dans le parking payant."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "tometa"
   },
   {
     "id": "card_1156",
@@ -32386,7 +33540,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為好攰，喺公園張長凳度坐咗陣。",
       "fr": "Comme j'étais fatigué, je me suis assis tranquillement sur un banc du parc."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "suwatta"
   },
   {
     "id": "card_1157",
@@ -32414,7 +33569,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗讓座畀長者，好快咁企咗起身。",
       "fr": "Je me suis levé aussitôt pour céder ma place à une personne âgée."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tatta"
   },
   {
     "id": "card_1158",
@@ -32442,7 +33598,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "讀大學嗰陣喺京都住咗四年。",
       "fr": "Pendant mes années universitaires, j'ai vécu quatre ans à Kyoto."
     },
-    "related": "【文法】1グループ (五段・撥音便)"
+    "related": "【文法】1グループ (五段・撥音便)",
+    "romaji": "sunda"
   },
   {
     "id": "card_1159",
@@ -32470,7 +33627,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "深呼吸吸咗一啖朝早嘅新鮮空氣。",
       "fr": "J'ai inspiré profondément l'air frais du matin."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "sutta"
   },
   {
     "id": "card_1160",
@@ -32498,7 +33656,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇片記熟咗去車站嘅行法。",
       "fr": "J'ai regardé la vidéo et j'ai bien mémorisé l'itinéraire jusqu'à la gare."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "oboeta"
   },
   {
     "id": "card_1161",
@@ -32526,7 +33685,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為趕時間，擺低咗部手機喺屋企唔記得拎。",
       "fr": "Comme j'étais pressé, j'ai oublié mon smartphone à la maison."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "wasureta"
   },
   {
     "id": "card_1162",
@@ -32554,7 +33714,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "整唔見咗屋企條鎖匙。",
       "fr": "J'ai perdu la clé de ma maison."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "nakushita"
   },
   {
     "id": "card_1163",
@@ -32582,7 +33743,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺便利店交妥咗水電煤等雜費。",
       "fr": "J'ai bien payé mes factures d'eau et d'électricité au kombini."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "haratta"
   },
   {
     "id": "card_1164",
@@ -32610,7 +33772,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "同朋友講多謝之後還返本書畀佢。",
       "fr": "J'ai rendu le livre que j'avais emprunté à mon ami en le remerciant."
     },
-    "related": "【文法】1グループ (五段)"
+    "related": "【文法】1グループ (五段)",
+    "romaji": "kaeshita"
   },
   {
     "id": "card_1165",
@@ -32638,7 +33801,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好順利咁辭咗做咗好多年嘅公司。",
       "fr": "J'ai quitté en bons termes l'entreprise où j'avais travaillé de longues années."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "yameta"
   },
   {
     "id": "card_1166",
@@ -32666,7 +33830,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用字典好詳細咁查咗新生字嘅意思。",
       "fr": "En utilisant un dictionnaire, j'ai cherché en détail la signification du nouveau mot."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "shirabeta"
   },
   {
     "id": "card_1167",
@@ -32694,7 +33859,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "自己親手整返好爆咗胎嘅單車。",
       "fr": "J'ai réparé moi-même le pneu crevé de mon vélo avec succès."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "shuurishita"
   },
   {
     "id": "card_1168",
@@ -32722,7 +33888,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺group入面通知大家改咗集合地點。",
       "fr": "J'ai contacté le groupe pour le changement du lieu de rendez-vous."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "renrakushita"
   },
   {
     "id": "card_1169",
@@ -32750,7 +33917,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "住咗喺箱根嘅溫泉旅館。",
       "fr": "J'ai logé dans un ryokan avec onsen à Hakone."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "tomatta"
   },
   {
     "id": "card_1170",
@@ -32778,7 +33946,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末將間房同廚房打掃得乾淨到發令。",
       "fr": "Ce week-end, j'ai nettoyé ma chambre et ma cuisine pour qu'elles brillent comme un sou neuf."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "soujishita"
   },
   {
     "id": "card_1171",
@@ -32806,7 +33975,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "見好天，一次過洗晒被同床單。",
       "fr": "Comme il faisait beau, j'ai lavé les futons et les draps en même temps."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "sentakushita"
   },
   {
     "id": "card_1172",
@@ -32834,7 +34004,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺發表會上好用心咁彈鋼琴。",
       "fr": "Lors du récital, j'ai joué du piano de tout mon cœur."
     },
-    "related": "【文法】1グループ (五段・イ音便)"
+    "related": "【文法】1グループ (五段・イ音便)",
+    "romaji": "hiita"
   },
   {
     "id": "card_1173",
@@ -32862,7 +34033,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺卡拉OK同朋友一齊唱咗好多歌。",
       "fr": "J'ai beaucoup chanté avec mes amis au karaoké."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "utatta"
   },
   {
     "id": "card_1174",
@@ -32890,7 +34062,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗紀念日本旅行，收集咗唔同地方嘅御朱印。",
       "fr": "En souvenir de mon voyage au Japon, j'ai collectionné les goshuin de divers endroits."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "atsumeta"
   },
   {
     "id": "card_1175",
@@ -32918,7 +34091,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺大掃除度，決心抌咗啲冇用嘅舊嘢。",
       "fr": "Pendant le grand nettoyage, j'ai résolument jeté les vieux objets dont je ne me servais plus."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "suteta"
   },
   {
     "id": "card_1176",
@@ -32946,7 +34120,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗轉下心情，換咗個新嘅電話殼。",
       "fr": "Pour changer d'air, j'ai remplacé ma coque de smartphone par une neuve."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "kaeta"
   },
   {
     "id": "card_1177",
@@ -32974,7 +34149,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "見到交通燈轉咗綠燈，就開始行過去。",
       "fr": "Voyant que le feu passait au vert, j'ai commencé à marcher."
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "kawatta"
   },
   {
     "id": "card_1178",
@@ -33002,7 +34178,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗同屋企人去兜風，好安全咁揸車。",
       "fr": "Pour aller faire une promenade en voiture en famille, j'ai conduit prudemment."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "untenshita"
   },
   {
     "id": "card_1179",
@@ -33030,7 +34207,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去駕駛學院學車，順利考到車牌！",
       "fr": "Je suis allé à l'auto-école et j'ai obtenu mon permis de conduire avec succès !"
     },
-    "related": "【文法】1グループ (五段・促音便)"
+    "related": "【文法】1グループ (五段・促音便)",
+    "romaji": "totta"
   },
   {
     "id": "card_1180",
@@ -33058,7 +34236,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "笑笑口咁同老師講咗句「多謝你」。",
       "fr": "J'ai dit « merci beaucoup » au professeur avec un sourire."
     },
-    "related": "【文法】1グループ (五段・促音便「言う」→「言った[いった]」)"
+    "related": "【文法】1グループ (五段・促音便「言う」→「言った[いった]」)",
+    "romaji": "itta"
   },
   {
     "id": "card_1181",
@@ -33086,7 +34265,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗唔喺雪地上跌親，好小心睇住腳下。",
       "fr": "Pour ne pas glisser sur la route enneigée, j'ai fait bien attention où je mettais les pieds."
     },
-    "related": "【文法】2グループ (一段)"
+    "related": "【文法】2グループ (一段)",
+    "romaji": "ki o tsuketa"
   },
   {
     "id": "card_1182",
@@ -33114,7 +34294,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "舊年整整一年，喺東京嘅大學留學。",
       "fr": "Pendant un an l'année dernière, j'ai fait mes études dans une université à Tokyo."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "ryuugakushita"
   },
   {
     "id": "card_1183",
@@ -33142,7 +34323,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為朋友遲遲未覆，所以好擔心。",
       "fr": "Comme la réponse de mon ami tardait, je me suis beaucoup inquiété."
     },
-    "related": "【文法】3グループ (サ変)"
+    "related": "【文法】3グループ (サ変)",
+    "romaji": "shinpaishita"
   },
   {
     "id": "card_1184",
@@ -33170,7 +34352,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去野餐嗰陣帶咗自己整嘅便當去。",
       "fr": "Pour le pique-nique, j'ai apporté un bento fait maison."
     },
-    "related": "【文法】1グループ (五段・促音便「行く」→「行った[いった]」)"
+    "related": "【文法】1グループ (五段・促音便「行く」→「行った[いった]」)",
+    "romaji": "motteitta"
   },
   {
     "id": "card_1185",
@@ -33198,7 +34381,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "帶咗旅行買嘅手信返嚟畀大家。",
       "fr": "J'ai apporté des souvenirs de voyage pour tout le monde."
     },
-    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)"
+    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)",
+    "romaji": "mottekita"
   },
   {
     "id": "card_1186",
@@ -33226,7 +34410,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺好天嘅晏晝，帶咗隻狗去公園散步。",
       "fr": "Par un après-midi ensoleillé, j'ai emmené mon chien au parc."
     },
-    "related": "【文法】1グループ (五段・促音便「行く」→「行った[いった]」)"
+    "related": "【文法】1グループ (五段・促音便「行く」→「行った[いった]」)",
+    "romaji": "tsureteitta"
   },
   {
     "id": "card_1187",
@@ -33254,7 +34439,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日個party我帶咗中學最好嘅朋友嚟。",
       "fr": "J'ai amené mon meilleur ami du lycée à la fête d'aujourd'hui."
     },
-    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)"
+    "related": "【文法】3グループ (カ変「来る」→「来た[きた]」)",
+    "romaji": "tsuretekita"
   },
   {
     "id": "card_1188",
@@ -33282,7 +34468,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早沖完涼之後返公司。",
       "fr": "Chaque matin, je prends une douche avant d'aller au bureau."
     },
-    "related": "浴びます（ます形） / 浴びる（辞書形）"
+    "related": "浴びます（ます形） / 浴びる（辞書形）",
+    "romaji": "abite"
   },
   {
     "id": "card_1189",
@@ -33310,7 +34497,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺東京站轉電車。",
       "fr": "Veuillez changer de train à la gare de Tokyo."
     },
-    "related": "乗り換えます（ます形） / 乗り換える（辞書形）"
+    "related": "乗り換えます（ます形） / 乗り換える（辞書形）",
+    "romaji": "norikaete"
   },
   {
     "id": "card_1190",
@@ -33338,7 +34526,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺咖啡度落糖飲。",
       "fr": "Je mets du sucre dans mon café avant de le boire."
     },
-    "related": "入れます（ます形） / 入れる（辞書形）"
+    "related": "入れます（ます形） / 入れる（辞書形）",
+    "romaji": "irete"
   },
   {
     "id": "card_1191",
@@ -33366,7 +34555,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺袋度攞本簿出嚟擺喺張枱度。",
       "fr": "J'ai sorti le cahier de mon sac et l'ai posé sur le bureau."
     },
-    "related": "出します（ます形） / 出す（辞書形）"
+    "related": "出します（ます形） / 出す（辞書形）",
+    "romaji": "dashite"
   },
   {
     "id": "card_1192",
@@ -33394,7 +34584,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請撳呢個掣買飛。",
       "fr": "Veuillez appuyer sur ce bouton pour acheter un billet."
     },
-    "related": "押します（ます形） / 押す（辞書形）"
+    "related": "押します（ます形） / 押す（辞書形）",
+    "romaji": "oshite"
   },
   {
     "id": "card_1193",
@@ -33422,7 +34613,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請將行李擺喺嗰邊張凳上面。",
       "fr": "Veuillez poser vos bagages sur cette chaise là-bas."
     },
-    "related": "置きます（ます形） / 置く（辞書形）"
+    "related": "置きます（ます形） / 置く（辞書形）",
+    "romaji": "oite"
   },
   {
     "id": "card_1194",
@@ -33450,7 +34642,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請借支原子筆畀我用一陣。",
       "fr": "Excusez-moi, pourriez-vous me prêter un stylo à bille un instant ?"
     },
-    "related": "貸します（ます形） / 貸す（辞書形）"
+    "related": "貸します（ます形） / 貸す（辞書形）",
+    "romaji": "kashite"
   },
   {
     "id": "card_1195",
@@ -33478,7 +34671,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰間麵包舖每日都賣好食嘅麵包。",
       "fr": "Cette boulangerie vend du pain délicieux tous les jours."
     },
-    "related": "売ります（ます形） / 売る（辞書形）"
+    "related": "売ります（ます形） / 売る（辞書形）",
+    "romaji": "utte"
   },
   {
     "id": "card_1196",
@@ -33506,7 +34700,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔可以喺呢度泊單車。",
       "fr": "Vous ne devez pas garer votre vélo ici."
     },
-    "related": "止めます（ます形） / 止める（辞書形）"
+    "related": "止めます（ます形） / 止める（辞書形）",
+    "romaji": "tomete"
   },
   {
     "id": "card_1197",
@@ -33534,7 +34729,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請坐呢邊張凳啦。",
       "fr": "Veuillez vous asseoir sur cette chaise, je vous en prie."
     },
-    "related": "座ります（ます形） / 座る（辞書形）"
+    "related": "座ります（ます形） / 座る（辞書形）",
+    "romaji": "suwatte"
   },
   {
     "id": "card_1198",
@@ -33562,7 +34758,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "叫到名嘅人請喺個位度企起身。",
       "fr": "Les personnes dont le nom est appelé sont priées de se lever."
     },
-    "related": "立ちます（ます形） / 立つ（辞書形）"
+    "related": "立ちます（ます形） / 立つ（辞書形）",
+    "romaji": "tatte"
   },
   {
     "id": "card_1199",
@@ -33590,7 +34787,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生同屋企人一齊住喺東京。",
       "fr": "M. Tanaka habite à Tokyo avec sa famille."
     },
-    "related": "住みます（ます形） / 住む（辞書形）"
+    "related": "住みます（ます形） / 住む（辞書形）",
+    "romaji": "sunde"
   },
   {
     "id": "card_1200",
@@ -33618,7 +34816,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔可以喺餐廳入面食煙。",
       "fr": "Il est interdit de fumer à l'intérieur du restaurant."
     },
-    "related": "吸います（ます形） / 吸う（辞書形）"
+    "related": "吸います（ます形） / 吸う（辞書形）",
+    "romaji": "sutte"
   },
   {
     "id": "card_1201",
@@ -33646,7 +34845,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺圖書館借咗本書返屋企睇。",
       "fr": "J'ai emprunté un livre à la bibliothèque et je l'ai lu à la maison."
     },
-    "related": "借ります（ます形） / 借りる（辞書形）"
+    "related": "借ります（ます形） / 借りる（辞書形）",
+    "romaji": "karite"
   },
   {
     "id": "card_1202",
@@ -33674,7 +34874,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我跟緊日本老師學日文。",
       "fr": "J'apprends le japonais avec un professeur japonais."
     },
-    "related": "習います（ます形） / 習う（辞書形）"
+    "related": "習います（ます形） / 習う（辞書形）",
+    "romaji": "naratte"
   },
   {
     "id": "card_1203",
@@ -33702,7 +34903,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺車站附近唔見咗條好緊要嘅鎖匙。",
       "fr": "J'ai perdu ma clé importante près de la gare."
     },
-    "related": "失くします（ます形） / 失くす（辞書形）"
+    "related": "失くします（ます形） / 失くす（辞書形）",
+    "romaji": "nakushite"
   },
   {
     "id": "card_1204",
@@ -33730,7 +34932,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺收銀處畀咗錢之後離開間舖頭。",
       "fr": "J'ai payé à la caisse avant de sortir du magasin."
     },
-    "related": "払います（ます形） / 払う（辞書形）"
+    "related": "払います（ます形） / 払う（辞書形）",
+    "romaji": "haratte"
   },
   {
     "id": "card_1205",
@@ -33758,7 +34961,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺下個禮拜五之前還返圖書館本書。",
       "fr": "Veuillez rendre le livre de la bibliothèque d'ici vendredi prochain."
     },
-    "related": "返します（ます形） / 返す（辞書形）"
+    "related": "返します（ます形） / 返す（辞書形）",
+    "romaji": "kaeshite"
   },
   {
     "id": "card_1206",
@@ -33786,7 +34990,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐上個月辭咗份工，開咗間屬於自己嘅舖頭。",
       "fr": "Mme Sato a quitté son entreprise le mois dernier et a ouvert sa propre boutique."
     },
-    "related": "辞めます（ます形） / 辞める（辞書形）"
+    "related": "辞めます（ます形） / 辞める（辞書形）",
+    "romaji": "yamete"
   },
   {
     "id": "card_1207",
@@ -33814,7 +35019,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔識嘅字請查字典。",
       "fr": "Veuillez chercher dans le dictionnaire les mots que vous ne comprenez pas."
     },
-    "related": "調べます（ます形） / 調べる（辞書形）"
+    "related": "調べます（ます形） / 調べる（辞書形）",
+    "romaji": "shirabete"
   },
   {
     "id": "card_1208",
@@ -33842,7 +35048,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "整返好隻爛咗嘅錶再戴。",
       "fr": "Je vais faire réparer la montre cassée et l'utiliser à nouveau."
     },
-    "related": "修理します（ます形） / 修理する（辞書形）"
+    "related": "修理します（ます形） / 修理する（辞書形）",
+    "romaji": "shuurishite"
   },
   {
     "id": "card_1209",
@@ -33870,7 +35077,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到咗車站之後請即刻聯絡我。",
       "fr": "Veuillez me contacter dès que vous arrivez à la gare."
     },
-    "related": "連絡します（ます形） / 連絡する（辞書形）"
+    "related": "連絡します（ます形） / 連絡する（辞書形）",
+    "romaji": "renrakushite"
   },
   {
     "id": "card_1210",
@@ -33898,7 +35106,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺京都嘅旅館住咗一晚，仲食咗好味嘅料理。",
       "fr": "J'ai séjourné dans une auberge traditionnelle à Kyoto et mangé de délicieux plats."
     },
-    "related": "泊まります（ます形） / 泊まる（辞書形）"
+    "related": "泊まります（ます形） / 泊まる（辞書形）",
+    "romaji": "tomatte"
   },
   {
     "id": "card_1211",
@@ -33926,7 +35135,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末執好間房之後睇書。",
       "fr": "Le week-end, je nettoie ma chambre et je lis des livres."
     },
-    "related": "掃除します（ます形） / 掃除する（辞書形）"
+    "related": "掃除します（ます形） / 掃除する（辞書形）",
+    "romaji": "soujishite"
   },
   {
     "id": "card_1212",
@@ -33954,7 +35164,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好天，洗咗啲衫之後晾喺出面啦。",
       "fr": "Comme il fait beau, faisons la lessive et étendons le linge dehors."
     },
-    "related": "洗濯します（ます形） / 洗濯する（辞書形）"
+    "related": "洗濯します（ます形） / 洗濯する（辞書形）",
+    "romaji": "sentakushite"
   },
   {
     "id": "card_1213",
@@ -33982,7 +35193,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐彈琴畀大家聽。",
       "fr": "Mme Suzuki a joué du piano pour tout le monde."
     },
-    "related": "弾きます（ます形） / 弾く（辞書形）"
+    "related": "弾きます（ます形） / 弾く（辞書形）",
+    "romaji": "hiite"
   },
   {
     "id": "card_1214",
@@ -34010,7 +35222,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺派對度唱日本歌，真係好開心。",
       "fr": "J'ai chanté des chansons japonaises à la fête et je me suis beaucoup amusé."
     },
-    "related": "歌います（ます形） / 歌う（辞書形）"
+    "related": "歌います（ます形） / 歌う（辞書形）",
+    "romaji": "utatte"
   },
   {
     "id": "card_1215",
@@ -34038,7 +35251,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我儲緊世界各地特別嘅郵票。",
       "fr": "Je collectionne des timbres rares du monde entier."
     },
-    "related": "集めます（ます形） / 集める（辞書形）"
+    "related": "集めます（ます形） / 集める（辞書形）",
+    "romaji": "atsumete"
   },
   {
     "id": "card_1216",
@@ -34066,7 +35280,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔要嘅紙請掉入嗰個垃圾桶度。",
       "fr": "Veuillez jeter les papiers inutiles dans cette poubelle là-bas."
     },
-    "related": "捨てます（ます形） / 捨てる（辞書形）"
+    "related": "捨てます（ます形） / 捨てる（辞書形）",
+    "romaji": "sutete"
   },
   {
     "id": "card_1217",
@@ -34094,7 +35309,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "試下將間房嘅窗簾換過副新嘅。",
       "fr": "J'ai essayé de remplacer les rideaux de la chambre par des neufs."
     },
-    "related": "変えます（ます形） / 変える（辞書形）"
+    "related": "変えます（ます形） / 変える（辞書形）",
+    "romaji": "kaete"
   },
   {
     "id": "card_1218",
@@ -34122,7 +35338,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "轉咗季，天氣開始越嚟越涼爽。",
       "fr": "La saison a changé et il fait de plus en plus frais."
     },
-    "related": "変わります（ます形） / 変わる（辞書形）"
+    "related": "変わります（ます形） / 変わる（辞書形）",
+    "romaji": "kawatte"
   },
   {
     "id": "card_1219",
@@ -34150,7 +35367,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "爸爸每日揸車返公司。",
       "fr": "Mon père conduit sa voiture tous les jours pour aller au travail."
     },
-    "related": "運転します（ます形） / 運転する（辞書形）"
+    "related": "運転します（ます形） / 運転する（辞書形）",
+    "romaji": "untenshite"
   },
   {
     "id": "card_1220",
@@ -34178,7 +35396,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺接待處交呢份文件。",
       "fr": "Veuillez remettre ce document à la réception."
     },
-    "related": "渡します（ます形） / 渡す（辞書形）"
+    "related": "渡します（ます形） / 渡す（辞書形）",
+    "romaji": "watashite"
   },
   {
     "id": "card_1221",
@@ -34206,7 +35425,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請再慢慢講多次。",
       "fr": "Veuillez le redire lentement, s'il vous plaît."
     },
-    "related": "言います（ます形） / 言う（辞書形）"
+    "related": "言います（ます形） / 言う（辞書形）",
+    "romaji": "itte"
   },
   {
     "id": "card_1222",
@@ -34234,7 +35454,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜晚條路好黑，返屋企嗰陣小心睇車呀。",
       "fr": "Comme la route est sombre la nuit, faites attention aux voitures en rentrant."
     },
-    "related": "気を付けます（ます形） / 気を付ける（辞書形）"
+    "related": "気を付けます（ます形） / 気を付ける（辞書形）",
+    "romaji": "ki o tsukete"
   },
   {
     "id": "card_1223",
@@ -34262,7 +35483,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我想去日本留學，學下日本文化。",
       "fr": "Je veux étudier au Japon pour apprendre la culture japonaise."
     },
-    "related": "留学します（ます形） / 留学する（辞書形）"
+    "related": "留学します（ます形） / 留学する（辞書形）",
+    "romaji": "ryuugakushite"
   },
   {
     "id": "card_1224",
@@ -34290,7 +35512,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "媽咪成日都好擔心我嘅健康。",
       "fr": "Ma mère s'inquiète toujours pour ma santé."
     },
-    "related": "心配します（ます形） / 心配する（辞書形）"
+    "related": "心配します（ます形） / 心配する（辞書形）",
+    "romaji": "shinpaishite"
   },
   {
     "id": "card_1225",
@@ -34318,7 +35541,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下晝會落雨，請帶埋把遮出門口啦。",
       "fr": "Il va pleuvoir cet après-midi, alors emportez un parapluie."
     },
-    "related": "持って行きます（ます形） / 持って行く（辞書形）"
+    "related": "持って行きます（ます形） / 持って行く（辞書形）",
+    "romaji": "motteitte"
   },
   {
     "id": "card_1226",
@@ -34346,7 +35570,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日上堂請帶呢本字典嚟。",
       "fr": "Veuillez apporter ce dictionnaire au cours de demain."
     },
-    "related": "持ってきます（ます形） / 持ってくる（辞書形）"
+    "related": "持ってきます（ます形） / 持ってくる（辞書形）",
+    "romaji": "mottekite"
   },
   {
     "id": "card_1227",
@@ -34374,7 +35599,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今個禮拜日，我會帶小朋友去動物園玩。",
       "fr": "Ce dimanche, j'emmènerai mon enfant au zoo."
     },
-    "related": "連れて行きます（ます形） / 連れて行く（辞書形）"
+    "related": "連れて行きます（ます形） / 連れて行く（辞書形）",
+    "romaji": "tsureteitte"
   },
   {
     "id": "card_1228",
@@ -34402,7 +35628,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下次開派對，請一定要帶埋你屋企人嚟呀。",
       "fr": "À la prochaine fête, n'hésitez surtout pas à amener votre famille."
     },
-    "related": "連れてきます（ます形） / 連れてくる（辞書形）"
+    "related": "連れてきます（ます形） / 連れてくる（辞書形）",
+    "romaji": "tsuretekite"
   },
   {
     "id": "card_1229",
@@ -34430,7 +35657,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺嗰個十字路口轉右，就會見到郵局。",
       "fr": "Si vous tournez à droite à ce carrefour, vous trouverez un bureau de poste."
     },
-    "related": "角 / 信号"
+    "related": "角 / 信号",
+    "romaji": "kousaten"
   },
   {
     "id": "card_1230",
@@ -34458,7 +35686,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請等交通燈轉綠燈之後先好過馬路。",
       "fr": "Veuillez traverser la rue après que le feu est passé au vert."
     },
-    "related": "交差点 / 道"
+    "related": "交差点 / 道",
+    "romaji": "shingou"
   },
   {
     "id": "card_1231",
@@ -34486,7 +35715,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺第二個街角轉左。",
       "fr": "Veuillez tourner à gauche au deuxième coin de rue."
     },
-    "related": "交差点 / 曲がる"
+    "related": "交差点 / 曲がる",
+    "romaji": "kado"
   },
   {
     "id": "card_1232",
@@ -34514,7 +35744,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請過咗嗰條白色橋之後直行。",
       "fr": "Traversez ce pont blanc et allez tout droit."
     },
-    "related": "川 / 渡る"
+    "related": "川 / 渡る",
+    "romaji": "hashi"
   },
   {
     "id": "card_1233",
@@ -34542,7 +35773,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問去車站條路點行呀？",
       "fr": "Excusez-moi, pourriez-vous m'indiquer le chemin pour aller à la gare ?"
     },
-    "related": "道路 / 交差点"
+    "related": "道路 / 交差点",
+    "romaji": "michi"
   },
   {
     "id": "card_1234",
@@ -34570,7 +35802,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰棟又高又白嘅建築物就係我哋學校。",
       "fr": "Ce grand bâtiment blanc est notre école."
     },
-    "related": "ビル / 家"
+    "related": "ビル / 家",
+    "romaji": "tatemono"
   },
   {
     "id": "card_1235",
@@ -34598,7 +35831,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺條河嘅對面可以見到一個好靚嘅公園。",
       "fr": "On peut voir un joli parc de l'autre côté de la rivière."
     },
-    "related": "近く / 横"
+    "related": "近く / 横",
+    "romaji": "mukou"
   },
   {
     "id": "card_1236",
@@ -34626,7 +35860,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺電視機側邊擺咗個書櫃。",
       "fr": "J'ai placé une bibliothèque à côté de la télévision."
     },
-    "related": "隣 / 近く"
+    "related": "隣 / 近く",
+    "romaji": "yoko"
   },
   {
     "id": "card_1237",
@@ -34654,7 +35889,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "車站附近新開咗一間超級市場。",
       "fr": "Un nouveau supermarché a ouvert près de la gare."
     },
-    "related": "遠い / 辺"
+    "related": "遠い / 辺",
+    "romaji": "chikaku"
   },
   {
     "id": "card_1238",
@@ -34682,7 +35918,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢頭有冇啲靜少少嘅咖啡店呀？",
       "fr": "Y a-t-il un café tranquille dans les environs ?"
     },
-    "related": "近く / 所"
+    "related": "近く / 所",
+    "romaji": "hen"
   },
   {
     "id": "card_1239",
@@ -34710,7 +35947,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢度係一個就算夏天都好涼爽嘅地方。",
       "fr": "C'est un endroit très frais même en été."
     },
-    "related": "場所 / 辺"
+    "related": "場所 / 辺",
+    "romaji": "tokoro"
   },
   {
     "id": "card_1240",
@@ -34738,7 +35976,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "太陽由東面升起。",
       "fr": "Le soleil se lève à l'est."
     },
-    "related": "西 / 南 / 北"
+    "related": "西 / 南 / 北",
+    "romaji": "higashi"
   },
   {
     "id": "card_1241",
@@ -34766,7 +36005,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "車站西面有一間大百貨公司。",
       "fr": "Il y a un grand magasin à l'ouest de la gare."
     },
-    "related": "東 / 南 / 北"
+    "related": "東 / 南 / 北",
+    "romaji": "nishi"
   },
   {
     "id": "card_1242",
@@ -34794,7 +36034,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我間房隻窗向南。",
       "fr": "La fenêtre de ma chambre donne sur le sud."
     },
-    "related": "北 / 東 / 西"
+    "related": "北 / 東 / 西",
+    "romaji": "minami"
   },
   {
     "id": "card_1243",
@@ -34822,7 +36063,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到冬天，北面就會吹凍風過嚟。",
       "fr": "Quand l'hiver arrive, un vent froid souffle du nord."
     },
-    "related": "南 / 東 / 西"
+    "related": "南 / 東 / 西",
+    "romaji": "kita"
   },
   {
     "id": "card_1244",
@@ -34850,7 +36092,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "畀咗一千円，找返二百円。",
       "fr": "J'ai donné mille yens et on m'a rendu deux cents yens de monnaie."
     },
-    "related": "お金 / 財布"
+    "related": "お金 / 財布",
+    "romaji": "otsuri"
   },
   {
     "id": "card_1245",
@@ -34878,7 +36121,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口之前，我會確認下有冇帶銀包同鎖匙。",
       "fr": "Avant de sortir, je vérifie que j'ai bien mon portefeuille et mes clés."
     },
-    "related": "お金 / 鞄"
+    "related": "お金 / 鞄",
+    "romaji": "saifu"
   },
   {
     "id": "card_1246",
@@ -34906,7 +36150,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去銀行撳啲錢先。",
       "fr": "Je vais à la banque pour retirer de l'argent."
     },
-    "related": "財布 / お釣り"
+    "related": "財布 / お釣り",
+    "romaji": "okane"
   },
   {
     "id": "card_1247",
@@ -34934,7 +36179,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入閘之前請買車飛先。",
       "fr": "Veuillez acheter un billet avant de passer le portillon."
     },
-    "related": "電車 / 駅"
+    "related": "電車 / 駅",
+    "romaji": "kippu"
   },
   {
     "id": "card_1248",
@@ -34962,7 +36208,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "不如等我幫你拎啲重行李啦？",
       "fr": "Voulez-vous que je porte vos bagages lourds ?"
     },
-    "related": "鞄 / 運ぶ"
+    "related": "鞄 / 運ぶ",
+    "romaji": "nimotsu"
   },
   {
     "id": "card_1249",
@@ -34990,7 +36237,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我搭𨋢上咗五樓。",
       "fr": "J'ai pris l'ascenseur pour monter au cinquième étage."
     },
-    "related": "エスカレーター / 階段"
+    "related": "エスカレーター / 階段",
+    "romaji": "erebeetaa"
   },
   {
     "id": "card_1250",
@@ -35018,7 +36266,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺扶手電梯上面請唔好行。",
       "fr": "Veuillez ne pas marcher dans l'escalator."
     },
-    "related": "エレベーター / 階段"
+    "related": "エレベーター / 階段",
+    "romaji": "esukareetaa"
   },
   {
     "id": "card_1251",
@@ -35046,7 +36295,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本係我尋日買嘅新字典。",
       "fr": "Ceci est le nouveau dictionnaire que j'ai acheté hier."
     },
-    "related": "それ / あれ / どれ"
+    "related": "それ / あれ / どれ",
+    "romaji": "kore"
   },
   {
     "id": "card_1252",
@@ -35074,7 +36324,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰支係邊個國家嘅紅酒嚟㗎？",
       "fr": "De quel pays vient ce vin-là ?"
     },
-    "related": "これ / あれ / どれ"
+    "related": "これ / あれ / どれ",
+    "romaji": "sore"
   },
   {
     "id": "card_1253",
@@ -35102,7 +36353,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰棟係東京最高嘅建築物。",
       "fr": "Cela là-bas est le plus haut bâtiment de Tokyo."
     },
-    "related": "これ / それ / どれ"
+    "related": "これ / それ / どれ",
+    "romaji": "are"
   },
   {
     "id": "card_1254",
@@ -35130,7 +36382,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "邊把先係佐藤小姐嘅遮呀？",
       "fr": "Lequel est le parapluie de Mme Sato ?"
     },
-    "related": "これ / それ / あれ"
+    "related": "これ / それ / あれ",
+    "romaji": "dore"
   },
   {
     "id": "card_1255",
@@ -35158,7 +36411,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本書好有趣㗎，你試下睇吖。",
       "fr": "Ce livre est très intéressant, essayez donc de le lire."
     },
-    "related": "その / あの / どの"
+    "related": "その / あの / どの",
+    "romaji": "kono"
   },
   {
     "id": "card_1256",
@@ -35186,7 +36440,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，可唔可以借你嗰支筆用一陣？",
       "fr": "Excusez-moi, pourriez-vous me prêter ce stylo-là un instant ?"
     },
-    "related": "この / あの / どの"
+    "related": "この / あの / どの",
+    "romaji": "sono"
   },
   {
     "id": "card_1257",
@@ -35214,7 +36469,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰個戴住眼鏡嘅人係田中老師。",
       "fr": "Cette personne là-bas qui porte des lunettes est le professeur Tanaka."
     },
-    "related": "この / その / どの"
+    "related": "この / その / どの",
+    "romaji": "ano"
   },
   {
     "id": "card_1258",
@@ -35242,7 +36498,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搭邊班電車可以去到京都呀？",
       "fr": "Quel train dois-je prendre pour aller à Kyoto ?"
     },
-    "related": "この / その / あの"
+    "related": "この / その / あの",
+    "romaji": "dono"
   },
   {
     "id": "card_1259",
@@ -35270,7 +36527,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺呢度寫低你個名同電話號碼。",
       "fr": "Veuillez écrire votre nom et votre numéro de téléphone ici."
     },
-    "related": "そこ / あそこ / どこ"
+    "related": "そこ / あそこ / どこ",
+    "romaji": "koko"
   },
   {
     "id": "card_1260",
@@ -35298,7 +36556,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我可唔可以打開擺喺嗰度個箱呀？",
       "fr": "Puis-je ouvrir la boîte qui est posée là ?"
     },
-    "related": "ここ / あそこ / どこ"
+    "related": "ここ / あそこ / どこ",
+    "romaji": "soko"
   },
   {
     "id": "card_1261",
@@ -35326,7 +36585,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰邊有隻白色狗仔坐喺度。",
       "fr": "Un chien blanc est assis là-bas."
     },
-    "related": "ここ / そこ / どこ"
+    "related": "ここ / そこ / どこ",
+    "romaji": "asoko"
   },
   {
     "id": "card_1262",
@@ -35354,7 +36614,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請問洗手間喺邊度呀？",
       "fr": "Où se trouvent les toilettes ?"
     },
-    "related": "ここ / そこ / あそこ"
+    "related": "ここ / そこ / あそこ",
+    "romaji": "doko"
   },
   {
     "id": "card_1263",
@@ -35382,7 +36643,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢位係新嚟嘅鈴木小姐。",
       "fr": "Voici Mme Suzuki, qui vient de nous rejoindre."
     },
-    "related": "そちら / あちら / どちら"
+    "related": "そちら / あちら / どちら",
+    "romaji": "kochira"
   },
   {
     "id": "card_1264",
@@ -35410,7 +36672,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "你嗰邊天氣點呀？",
       "fr": "Comment est le temps de votre côté ?"
     },
-    "related": "こちら / あちら / どちら"
+    "related": "こちら / あちら / どちら",
+    "romaji": "sochira"
   },
   {
     "id": "card_1265",
@@ -35438,7 +36701,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "升降機喺嗰邊。",
       "fr": "L'ascenseur se trouve par là-bas."
     },
-    "related": "こちら / そちら / どちら"
+    "related": "こちら / そちら / どちら",
+    "romaji": "achira"
   },
   {
     "id": "card_1266",
@@ -35466,7 +36730,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "咖啡同紅茶，你想要邊樣呀？",
       "fr": "Lequel préférez-vous entre le café et le thé noir ?"
     },
-    "related": "こちら / そちら / あちら"
+    "related": "こちら / そちら / あちら",
+    "romaji": "dochira"
   },
   {
     "id": "card_1267",
@@ -35494,7 +36759,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺嗰邊同老師講緊嘢嘅人係邊個嚟㗎？",
       "fr": "Qui est la personne qui parle avec le professeur là-bas ?"
     },
-    "related": "どなた"
+    "related": "どなた",
+    "romaji": "dare"
   },
   {
     "id": "card_1268",
@@ -35522,7 +36788,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個箱入面裝住啲咩呀？",
       "fr": "Qu'y a-t-il à l'intérieur de la boîte ?"
     },
-    "related": "どれ / どこ"
+    "related": "どれ / どこ",
+    "romaji": "nani / nan"
   },
   {
     "id": "card_1269",
@@ -35550,7 +36817,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問呢隻錶幾多錢呀？",
       "fr": "Excusez-moi, combien coûte cette montre ?"
     },
-    "related": "〜円 / お金"
+    "related": "〜円 / お金",
+    "romaji": "ikura"
   },
   {
     "id": "card_1270",
@@ -35578,7 +36846,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本簿一百五十円一本。",
       "fr": "Ce cahier coûte cent cinquante yens l'unité."
     },
-    "related": "いくら / お金"
+    "related": "いくら / お金",
+    "romaji": "~en"
   },
   {
     "id": "card_1271",
@@ -35606,7 +36875,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "會議室喺呢棟大廈嘅三樓。",
       "fr": "La salle de réunion se trouve au troisième étage de ce bâtiment."
     },
-    "related": "建物 / エレベーター"
+    "related": "建物 / エレベーター",
+    "romaji": "~kai / ~gai"
   },
   {
     "id": "card_1272",
@@ -35634,7 +36904,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將個大蘋果切開一半畀阿妹食。",
       "fr": "J'ai coupé une grosse pomme en deux et j'en ai donné la moitié à ma petite sœur."
     },
-    "related": "全部"
+    "related": "全部",
+    "romaji": "hanbun"
   },
   {
     "id": "card_1273",
@@ -35662,7 +36933,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "功課已經全部做晒喇。",
       "fr": "J'ai déjà terminé tous mes devoirs."
     },
-    "related": "半分"
+    "related": "半分",
+    "romaji": "zenbu"
   },
   {
     "id": "card_1274",
@@ -35690,7 +36962,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同高橋小姐同一日生日。",
       "fr": "Mme Takahashi et moi avons la même date d'anniversaire."
     },
-    "related": "違う"
+    "related": "違う",
+    "romaji": "onaji"
   },
   {
     "id": "card_1275",
@@ -35718,7 +36991,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入屋嗰陣要喺玄關除鞋。",
       "fr": "Quand on entre dans une maison, on enlève ses chaussures dans l'entrée."
     },
-    "related": "門 / 戸"
+    "related": "門 / 戸",
+    "romaji": "genkan"
   },
   {
     "id": "card_1276",
@@ -35746,7 +37020,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "媽咪而家喺廚房煮緊晚飯。",
       "fr": "Ma mère prépare actuellement le dîner dans la cuisine."
     },
-    "related": "冷蔵庫 / お皿"
+    "related": "冷蔵庫 / お皿",
+    "romaji": "daidokoro"
   },
   {
     "id": "card_1277",
@@ -35774,7 +37049,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜晚浸返個熱水浴，好好休息下。",
       "fr": "Le soir, je prends un bain chaud et je me repose tranquillement."
     },
-    "related": "シャワー / 浴びる"
+    "related": "シャワー / 浴びる",
+    "romaji": "ofuro"
   },
   {
     "id": "card_1278",
@@ -35802,7 +37078,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問洗手間喺邊度呀？",
       "fr": "Excusez-moi, où sont les toilettes ?"
     },
-    "related": "トイレ / 洗面所"
+    "related": "トイレ / 洗面所",
+    "romaji": "otearai"
   },
   {
     "id": "card_1279",
@@ -35830,7 +37107,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔可以喺學校走廊度跑。",
       "fr": "Il ne faut pas courir dans les couloirs de l'école."
     },
-    "related": "階段 / 教室"
+    "related": "階段 / 教室",
+    "romaji": "rouka"
   },
   {
     "id": "card_1280",
@@ -35858,7 +37136,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "爺爺每日都喺花園度種靚花。",
       "fr": "Mon grand-père cultive de belles fleurs dans le jardin tous les jours."
     },
-    "related": "花 / 木"
+    "related": "花 / 木",
+    "romaji": "niwa"
   },
   {
     "id": "card_1281",
@@ -35886,7 +37165,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "學校大閘下晝六點鐘會閂。",
       "fr": "Le portail de l'école ferme à dix-huit heures."
     },
-    "related": "玄関 / 戸"
+    "related": "玄関 / 戸",
+    "romaji": "mon"
   },
   {
     "id": "card_1282",
@@ -35914,7 +37194,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "啲風好凍，請閂埋度門啦。",
       "fr": "Le vent est froid, veuillez donc fermer la porte."
     },
-    "related": "ドア / 窓"
+    "related": "ドア / 窓",
+    "romaji": "to"
   },
   {
     "id": "card_1283",
@@ -35942,7 +37223,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇完嘅書請放返去原本個書櫃度。",
       "fr": "Veuillez remettre les livres que vous avez lus sur leur étagère d'origine."
     },
-    "related": "本 / 棚"
+    "related": "本 / 棚",
+    "romaji": "hondana"
   },
   {
     "id": "card_1284",
@@ -35970,7 +37252,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將買返嚟嘅牛奶放咗入雪櫃。",
       "fr": "J'ai mis le lait que j'ai acheté dans le réfrigérateur."
     },
-    "related": "台所 / 冷たい"
+    "related": "台所 / 冷たい",
+    "romaji": "reizouko"
   },
   {
     "id": "card_1285",
@@ -35998,7 +37281,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "張枱上面個花樽插住紅玫瑰。",
       "fr": "Des roses rouges sont disposées dans le vase sur le bureau."
     },
-    "related": "花 / コップ"
+    "related": "花 / コップ",
+    "romaji": "kabin"
   },
   {
     "id": "card_1286",
@@ -36026,7 +37310,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問呢度有冇煙灰缸呀？",
       "fr": "Excusez-moi, y a-t-il un cendrier ici ?"
     },
-    "related": "たばこ / お皿"
+    "related": "たばこ / お皿",
+    "romaji": "haizara"
   },
   {
     "id": "card_1287",
@@ -36054,7 +37339,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食完飯之後，我洗咗五隻白碟。",
       "fr": "Après le repas, j'ai lavé cinq assiettes blanches."
     },
-    "related": "コップ / 茶碗"
+    "related": "コップ / 茶碗",
+    "romaji": "osara"
   },
   {
     "id": "card_1288",
@@ -36082,7 +37368,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個大箱入面裝住啲舊相。",
       "fr": "De vieilles photos se trouvent dans cette grande boîte."
     },
-    "related": "荷物 / 入れる"
+    "related": "荷物 / 入れる",
+    "romaji": "hako"
   },
   {
     "id": "card_1289",
@@ -36110,7 +37397,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺張白紙上面大隻字寫低你個名。",
       "fr": "Veuillez écrire votre nom en grand sur la feuille de papier blanc."
     },
-    "related": "手紙 / ノート"
+    "related": "手紙 / ノート",
+    "romaji": "kami"
   },
   {
     "id": "card_1290",
@@ -36138,7 +37426,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我用日文寫咗封信畀喺鄉下嘅媽咪。",
       "fr": "J'ai écrit une lettre en japonais à ma mère qui est dans mon pays."
     },
-    "related": "葉書 / 封筒 / 切手"
+    "related": "葉書 / 封筒 / 切手",
+    "romaji": "tegami"
   },
   {
     "id": "card_1291",
@@ -36166,7 +37455,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺去旅行嘅地方寄咗張好靚嘅明信片畀朋友。",
       "fr": "J'ai envoyé une jolie carte postale à mon ami depuis mon lieu de voyage."
     },
-    "related": "手紙 / 切手"
+    "related": "手紙 / 切手",
+    "romaji": "hagaki"
   },
   {
     "id": "card_1292",
@@ -36194,7 +37484,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將封信放入信封度，然後貼上郵票。",
       "fr": "J'ai mis la lettre dans une enveloppe et j'ai collé un timbre."
     },
-    "related": "手紙 / 切手"
+    "related": "手紙 / 切手",
+    "romaji": "fuutou"
   },
   {
     "id": "card_1293",
@@ -36222,7 +37513,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "生日嗰陣收到爸爸送畀我嘅黑色墨水筆。",
       "fr": "J'ai reçu un stylo-plume noir de mon père pour mon anniversaire."
     },
-    "related": "ボールペン / 鉛筆"
+    "related": "ボールペン / 鉛筆",
+    "romaji": "mannenhitsu"
   },
   {
     "id": "card_1294",
@@ -36250,7 +37542,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去咗百貨公司買春天着嘅衫。",
       "fr": "Je suis allé au grand magasin et j'ai acheté des vêtements pour le printemps."
     },
-    "related": "服 / 着物"
+    "related": "服 / 着物",
+    "romaji": "youfuku"
   },
   {
     "id": "card_1295",
@@ -36278,7 +37571,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出面好凍，着件厚外套先出門口啦。",
       "fr": "Il fait froid dehors, mettons une veste épaisse avant de sortir."
     },
-    "related": "コート / 洋服"
+    "related": "コート / 洋服",
+    "romaji": "uwagi"
   },
   {
     "id": "card_1296",
@@ -36306,7 +37600,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生每日都着住整齊嘅西裝返公司。",
       "fr": "M. Tanaka porte un costume soigné tous les jours pour aller au bureau."
     },
-    "related": "ネクタイ / 上着"
+    "related": "ネクタイ / 上着",
+    "romaji": "sebiro"
   },
   {
     "id": "card_1297",
@@ -36334,7 +37629,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我買咗三對白襪。",
       "fr": "J'ai acheté trois paires de chaussettes blanches."
     },
-    "related": "靴 / 履く"
+    "related": "靴 / 履く",
+    "romaji": "kutsushita"
   },
   {
     "id": "card_1298",
@@ -36362,7 +37658,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夏天太陽好猛，出街請戴帽啦。",
       "fr": "Comme le soleil tape fort en été, veuillez porter un chapeau."
     },
-    "related": "かぶる / 眼鏡"
+    "related": "かぶる / 眼鏡",
+    "romaji": "boushi"
   },
   {
     "id": "card_1299",
@@ -36390,7 +37687,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇唔清楚黑板上面啲字嗰陣，我會戴眼鏡。",
       "fr": "Quand je ne vois pas ce qui est écrit au tableau, je mets mes lunettes."
     },
-    "related": "かける / 目"
+    "related": "かける / 目",
+    "romaji": "megane"
   },
   {
     "id": "card_1300",
@@ -36418,7 +37716,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日一嚿雲都冇，個天好藍。",
       "fr": "Aujourd'hui, il n'y a pas un seul nuage et le ciel est très bleu."
     },
-    "related": "天気 / 雲"
+    "related": "天気 / 雲",
+    "romaji": "sora"
   },
   {
     "id": "card_1301",
@@ -36446,7 +37745,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "北海道喺冬天會落好多雪。",
       "fr": "À Hokkaido, il tombe beaucoup de neige en hiver."
     },
-    "related": "雨 / 冬"
+    "related": "雨 / 冬",
+    "romaji": "yuki"
   },
   {
     "id": "card_1302",
@@ -36474,7 +37774,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "公園個池塘入面有好多靚魚游緊水。",
       "fr": "Beaucoup de jolis poissons nagent dans l'étang du parc."
     },
-    "related": "川 / 湖"
+    "related": "川 / 湖",
+    "romaji": "ike"
   },
   {
     "id": "card_1303",
@@ -36502,7 +37803,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到春天，呢棵樹就會開粉紅色嘅花。",
       "fr": "Quand le printemps arrive, des fleurs roses éclosent sur cet arbre."
     },
-    "related": "花 / 庭"
+    "related": "花 / 庭",
+    "romaji": "ki"
   },
   {
     "id": "card_1304",
@@ -36530,7 +37832,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺去旅行嗰陣影咗好多相。",
       "fr": "J'ai pris beaucoup de photos pendant mon voyage."
     },
-    "related": "カメラ / 撮る"
+    "related": "カメラ / 撮る",
+    "romaji": "shashin"
   },
   {
     "id": "card_1305",
@@ -36558,7 +37861,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中村先生畫畫好叻。",
       "fr": "M. Nakamura est très doué pour dessiner."
     },
-    "related": "写真 / 美術館"
+    "related": "写真 / 美術館",
+    "romaji": "e"
   },
   {
     "id": "card_1306",
@@ -36586,7 +37890,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "瞓覺之前我會聽啲靜態嘅音樂。",
       "fr": "J'écoute de la musique douce avant d'aller dormir."
     },
-    "related": "歌 / 聞く"
+    "related": "歌 / 聞く",
+    "romaji": "ongaku"
   },
   {
     "id": "card_1307",
@@ -36614,7 +37919,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我用日文寫咗一篇叫做《我嘅夢想》嘅作文。",
       "fr": "J'ai écrit une rédaction en japonais intitulée « Mon rêve »."
     },
-    "related": "宿題 / 書く"
+    "related": "宿題 / 書く",
+    "romaji": "sakubun"
   },
   {
     "id": "card_1308",
@@ -36642,7 +37948,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日都逐少逐少噉練習新漢字。",
       "fr": "J'apprends de nouveaux kanjis petit à petit chaque jour."
     },
-    "related": "ひらがな / カタカナ"
+    "related": "ひらがな / カタカナ",
+    "romaji": "kanji"
   },
   {
     "id": "card_1309",
@@ -36670,7 +37977,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我透過日本歌記識咗好多新詞語。",
       "fr": "J'ai appris beaucoup de nouveaux mots grâce aux chansons japonaises."
     },
-    "related": "日本語 / 辞書"
+    "related": "日本語 / 辞書",
+    "romaji": "kotoba"
   },
   {
     "id": "card_1310",
@@ -36698,7 +38006,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "測驗題目總共有二十題。",
       "fr": "Il y avait vingt questions en tout dans l'examen."
     },
-    "related": "質問 / 答え"
+    "related": "質問 / 答え",
+    "romaji": "mondai"
   },
   {
     "id": "card_1311",
@@ -36726,7 +38035,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "酒店房號係三零五號房。",
       "fr": "Le numéro de la chambre d'hôtel est la 305."
     },
-    "related": "電話番号"
+    "related": "電話番号",
+    "romaji": "bangou"
   },
   {
     "id": "card_1312",
@@ -36754,7 +38064,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個禮拜三係媽咪嘅生日。",
       "fr": "Mercredi prochain, c'est l'anniversaire de ma mère."
     },
-    "related": "プレゼント / お祝い"
+    "related": "プレゼント / お祝い",
+    "romaji": "tanjoubi"
   },
   {
     "id": "card_1313",
@@ -36782,7 +38093,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今年暑假我想同屋企人一齊去沖繩。",
       "fr": "Cet été, pendant les vacances, je voudrais aller à Okinawa en famille."
     },
-    "related": "休み / 旅行"
+    "related": "休み / 旅行",
+    "romaji": "natsuyasumi"
   },
   {
     "id": "card_1314",
@@ -36810,7 +38122,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "希望將來有機會去外國做下嘢。",
       "fr": "Un jour, j'aimerais essayer de travailler à l'étranger."
     },
-    "related": "外国人 / 留学"
+    "related": "外国人 / 留学",
+    "romaji": "gaikoku"
   },
   {
     "id": "card_1315",
@@ -36838,7 +38151,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個小鎮有好多外國人住。",
       "fr": "Beaucoup d'étrangers habitent dans cette ville."
     },
-    "related": "外国"
+    "related": "外国",
+    "romaji": "gaikokujin"
   },
   {
     "id": "card_1316",
@@ -36866,7 +38180,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "伊藤先生間公司喺新宿站附近。",
       "fr": "L'entreprise de M. Ito se trouve près de la gare de Shinjuku."
     },
-    "related": "仕事 / 会社員"
+    "related": "仕事 / 会社員",
+    "romaji": "kaisha"
   },
   {
     "id": "card_1317",
@@ -36894,7 +38209,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢班有二十個學生。",
       "fr": "Il y a vingt élèves dans cette classe."
     },
-    "related": "学生 / 先生"
+    "related": "学生 / 先生",
+    "romaji": "seito"
   },
   {
     "id": "card_1318",
@@ -36922,7 +38238,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "禮拜六我會同中學朋友去睇戲。",
       "fr": "Samedi, je vais voir un film avec un ami du lycée."
     },
-    "related": "一緒 / 会う"
+    "related": "一緒 / 会う",
+    "romaji": "tomodachi"
   },
   {
     "id": "card_1319",
@@ -36950,7 +38267,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺嗰邊踢緊波嘅男仔係我細佬。",
       "fr": "Le garçon qui joue au football là-bas est mon petit frère."
     },
-    "related": "女の子 / 子ども"
+    "related": "女の子 / 子ども",
+    "romaji": "otokonoko"
   },
   {
     "id": "card_1320",
@@ -36978,7 +38296,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "戴住紅帽嗰個女仔係邊個呀？",
       "fr": "Qui est la petite fille qui porte un chapeau rouge ?"
     },
-    "related": "男の子 / 子ども"
+    "related": "男の子 / 子ども",
+    "romaji": "onnanoko"
   },
   {
     "id": "card_1321",
@@ -37006,7 +38325,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "各位，請喺聽朝九點鐘嚟呢度集合。",
       "fr": "Tout le monde, veuillez vous rassembler ici demain matin à neuf heures."
     },
-    "related": "みんな"
+    "related": "みんな",
+    "romaji": "minasan"
   },
   {
     "id": "card_1322",
@@ -37034,7 +38354,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺紅茶度落咗少少糖飲。",
       "fr": "J'ai mis un peu de sucre dans mon thé noir avant de le boire."
     },
-    "related": "塩 / 甘い"
+    "related": "塩 / 甘い",
+    "romaji": "satou"
   },
   {
     "id": "card_1323",
@@ -37062,7 +38383,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺沙律度落少少鹽食啦。",
       "fr": "Mettez un peu de sel sur la salade avant de la manger."
     },
-    "related": "砂糖 / 辛い"
+    "related": "砂糖 / 辛い",
+    "romaji": "shio"
   },
   {
     "id": "card_1324",
@@ -37090,7 +38412,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為開始落雨，我借咗把遮畀朋友。",
       "fr": "Comme il commençait à pleuvoir, j'ai prêté mon parapluie à mon ami."
     },
-    "related": "借りる / 返す"
+    "related": "借りる / 返す",
+    "romaji": "kasu / kashimasu"
   },
   {
     "id": "card_1325",
@@ -37118,7 +38441,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺圖書館借咗三本日本歷史書。",
       "fr": "J'ai emprunté trois livres sur l'histoire du Japon à la bibliothèque."
     },
-    "related": "貸す / 返す"
+    "related": "貸す / 返す",
+    "romaji": "kariru / karimasu"
   },
   {
     "id": "card_1326",
@@ -37146,7 +38470,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請幫我將呢封信交畀田中先生。",
       "fr": "Veuillez remettre cette lettre à M. Tanaka."
     },
-    "related": "あげる / 届ける"
+    "related": "あげる / 届ける",
+    "romaji": "watasu / watashimasu"
   },
   {
     "id": "card_1327",
@@ -37174,7 +38499,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為太忙，我拜託咗鈴木小姐幫手做嘢。",
       "fr": "Comme j'étais occupé, j'ai demandé à Mme Suzuki de s'occuper du travail."
     },
-    "related": "お願いする"
+    "related": "お願いする",
+    "romaji": "tanomu / tanomimasu"
   },
   {
     "id": "card_1328",
@@ -37202,7 +38528,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我逢禮拜六都會跟老師學彈琴。",
       "fr": "Chaque samedi, je prends des cours de piano avec un professeur."
     },
-    "related": "教える / 勉強する"
+    "related": "教える / 勉強する",
+    "romaji": "narau / naraimasu"
   },
   {
     "id": "card_1329",
@@ -37230,7 +38557,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿哥喺東京一間銀行返工。",
       "fr": "Mon grand frère travaille dans une banque à Tokyo."
     },
-    "related": "働く / 会社"
+    "related": "働く / 会社",
+    "romaji": "tsutomeru / tsutomemasu"
   },
   {
     "id": "card_1330",
@@ -37258,7 +38586,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為唔識路，搞到我好頭痕。",
       "fr": "Je ne connaissais pas le chemin et j'étais bien embêté."
     },
-    "related": "大変 / 問題"
+    "related": "大変 / 問題",
+    "romaji": "komaru / komarimasu"
   },
   {
     "id": "card_1331",
@@ -37286,7 +38615,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月放假我會同朋友去行富士山。",
       "fr": "Le mois prochain, pendant les vacances, je vais gravir le mont Fuji avec mes amis."
     },
-    "related": "山 / 上がる"
+    "related": "山 / 上がる",
+    "romaji": "noboru / noborimasu"
   },
   {
     "id": "card_1332",
@@ -37314,7 +38644,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日出面吹緊好大風。",
       "fr": "Un vent fort souffle dehors aujourd'hui."
     },
-    "related": "風 / 天気"
+    "related": "風 / 天気",
+    "romaji": "fuku / fukimasu"
   },
   {
     "id": "card_1333",
@@ -37342,7 +38673,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落緊雨呀，我哋擔住遮行啦。",
       "fr": "Comme il pleut, marchons avec notre parapluie ouvert."
     },
-    "related": "傘 / 雨"
+    "related": "傘 / 雨",
+    "romaji": "sasu / sashimasu"
   },
   {
     "id": "card_1334",
@@ -37370,7 +38702,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋大家喺呢度一齊影張紀念相啦。",
       "fr": "Prenons une photo souvenir tous ensemble ici."
     },
-    "related": "写真 / カメラ"
+    "related": "写真 / カメラ",
+    "romaji": "toru / torimasu"
   },
   {
     "id": "card_1335",
@@ -37398,7 +38731,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食完飯之後我一定會刷牙。",
       "fr": "Après avoir mangé, je me brosse toujours les dents."
     },
-    "related": "歯 / 洗う"
+    "related": "歯 / 洗う",
+    "romaji": "migaku / migakimasu"
   },
   {
     "id": "card_1336",
@@ -37426,7 +38760,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺嗰個街角轉右，就會見到車站。",
       "fr": "Si vous tournez à droite à ce coin de rue, vous verrez la gare."
     },
-    "related": "角 / まっすぐ"
+    "related": "角 / まっすぐ",
+    "romaji": "magaru / magarimasu"
   },
   {
     "id": "card_1337",
@@ -37454,7 +38789,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到咗春天，天氣日日都變得好暖和。",
       "fr": "Le printemps est arrivé et il fait doux tous les jours."
     },
-    "related": "涼しい / 温かい"
+    "related": "涼しい / 温かい",
+    "romaji": "atatakai"
   },
   {
     "id": "card_1338",
@@ -37482,7 +38818,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早同夜晚有涼風吹過，真係好舒服。",
       "fr": "Le matin et le soir, une brise fraîche souffle et c'est très agréable."
     },
-    "related": "暖かい / 寒い"
+    "related": "暖かい / 寒い",
+    "romaji": "suzushii"
   },
   {
     "id": "card_1339",
@@ -37510,7 +38847,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢杯茶已經攤到唔夠熱喇。",
       "fr": "Ce thé est déjà devenu tiède, n'est-ce pas ?"
     },
-    "related": "熱い / 冷たい"
+    "related": "熱い / 冷たい",
+    "romaji": "nurui"
   },
   {
     "id": "card_1340",
@@ -37538,7 +38876,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隻手好污糟，請用番梘洗乾淨啦。",
       "fr": "Vos mains sont sales, veuillez les laver soigneusement avec du savon."
     },
-    "related": "きれい / 洗う"
+    "related": "きれい / 洗う",
+    "romaji": "kitanai"
   },
   {
     "id": "card_1341",
@@ -37566,7 +38905,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出面地盤啲聲太嘈，搞到我溫唔到書。",
       "fr": "Le bruit des travaux dehors est si fort que je ne peux pas étudier."
     },
-    "related": "静か / 音"
+    "related": "静か / 音",
+    "romaji": "urusai"
   },
   {
     "id": "card_1342",
@@ -37594,7 +38934,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日因為太大風，電車停駛咗。",
       "fr": "Comme le vent est fort aujourd'hui, les trains sont arrêtés."
     },
-    "related": "弱い"
+    "related": "弱い",
+    "romaji": "tsuyoi"
   },
   {
     "id": "card_1343",
@@ -37622,7 +38963,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我唔係幾飲得酒，所以我飲果汁。",
       "fr": "Comme je supporte mal l'alcool, je vais boire du jus de fruits."
     },
-    "related": "強い"
+    "related": "強い",
+    "romaji": "yowai"
   },
   {
     "id": "card_1344",
@@ -37650,7 +38992,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請用呢支粗筆喺張紙度大隻字寫低。",
       "fr": "Veuillez écrire en grand sur le papier avec ce gros feutre."
     },
-    "related": "細い"
+    "related": "細い",
+    "romaji": "futoi"
   },
   {
     "id": "card_1345",
@@ -37678,7 +39021,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "前面條路好窄，請小心啲行。",
       "fr": "La route devient étroite plus loin, alors faites attention."
     },
-    "related": "太い"
+    "related": "太い",
+    "romaji": "hosoi"
   },
   {
     "id": "card_1346",
@@ -37706,7 +39050,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我買咗一張圓枱擺喺客廳。",
       "fr": "J'ai acheté une table ronde pour le salon."
     },
-    "related": "四角い"
+    "related": "四角い",
+    "romaji": "marui"
   },
   {
     "id": "card_1347",
@@ -37734,7 +39079,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "東京係一個人同車都好多嘅城市。",
       "fr": "Tokyo est une ville où il y a énormément de gens et de voitures."
     },
-    "related": "少ない / たくさん"
+    "related": "少ない / たくさん",
+    "romaji": "ooi"
   },
   {
     "id": "card_1348",
@@ -37762,7 +39108,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝頭早搭電車嘅人好少。",
       "fr": "Tôt le matin, il y a peu de gens qui prennent le train."
     },
-    "related": "多い"
+    "related": "多い",
+    "romaji": "sukunai"
   },
   {
     "id": "card_1349",
@@ -37790,7 +39137,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我想要一部又新又輕嘅手提電腦。",
       "fr": "Je voudrais un nouvel ordinateur portable et léger."
     },
-    "related": "〜たい"
+    "related": "〜たい",
+    "romaji": "hoshii"
   },
   {
     "id": "card_1350",
@@ -37818,7 +39166,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個袋好實淨，可以用好耐。",
       "fr": "Ce sac est très solide, vous pourrez donc l'utiliser longtemps."
     },
-    "related": "強い / 元気"
+    "related": "強い / 元気",
+    "romaji": "joubuna"
   },
   {
     "id": "card_1351",
@@ -37846,7 +39195,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "舊年冬天，我第一次去滑雪。",
       "fr": "L'hiver dernier, j'ai fait du ski pour la première fois."
     },
-    "related": "最初"
+    "related": "最初",
+    "romaji": "hajimete"
   },
   {
     "id": "card_1352",
@@ -37874,7 +39224,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我用紅筆改返好篇作文入面錯咗嘅地方。",
       "fr": "J'ai corrigé les fautes de ma rédaction avec un stylo rouge."
     },
-    "related": "修理する / 治る"
+    "related": "修理する / 治る",
+    "romaji": "naosu / naoshimasu"
   },
   {
     "id": "card_1353",
@@ -37902,7 +39253,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺媽咪生日嗰日，我寄咗束靚花畀佢。",
       "fr": "J'ai envoyé de belles fleurs pour l'anniversaire de ma mère."
     },
-    "related": "届ける / 迎えに行く"
+    "related": "届ける / 迎えに行く",
+    "romaji": "okuru / okurimasu"
   },
   {
     "id": "card_1354",
@@ -37930,7 +39282,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去機場接日本朋友。",
       "fr": "Je vais à l'aéroport pour chercher mon ami japonais."
     },
-    "related": "迎えに来る / 送る"
+    "related": "迎えに来る / 送る",
+    "romaji": "mukae ni iku"
   },
   {
     "id": "card_1355",
@@ -37958,7 +39311,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為落雨，爸爸揸車嚟到車站接我。",
       "fr": "Comme il pleuvait, mon père est venu me chercher en voiture à la gare."
     },
-    "related": "迎えに行く / 送る"
+    "related": "迎えに行く / 送る",
+    "romaji": "mukae ni kuru"
   },
   {
     "id": "card_1356",
@@ -37986,7 +39340,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日出糧呀，晏晝飯等我請啦。",
       "fr": "Comme c'est jour de paie aujourd'hui, je vous invite à déjeuner."
     },
-    "related": "ごちそうさまでした"
+    "related": "ごちそうさまでした",
+    "romaji": "gochisousuru"
   },
   {
     "id": "card_1357",
@@ -38014,7 +39369,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日搭一個鐘頭電車返大學。",
       "fr": "Je mets une heure en train tous les jours pour aller à l'université."
     },
-    "related": "行く / 勤める"
+    "related": "行く / 勤める",
+    "romaji": "kayou / kayoimasu"
   },
   {
     "id": "card_1358",
@@ -38042,7 +39398,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我每日朝早都堅持慢跑。",
       "fr": "Pour ma santé, je continue à faire du jogging chaque matin."
     },
-    "related": "始める / 終わる"
+    "related": "始める / 終わる",
+    "romaji": "tsuzukeru / tsuzukemasu"
   },
   {
     "id": "card_1359",
@@ -38070,7 +39427,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食飯請𡁻爛啲先好吞呀。",
       "fr": "Veuillez bien mâcher votre nourriture en mangeant."
     },
-    "related": "食べる / 歯"
+    "related": "食べる / 歯",
+    "romaji": "kamu / kamimasu"
   },
   {
     "id": "card_1360",
@@ -38098,7 +39456,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐唱歌把聲好靚。",
       "fr": "Mme Suzuki chante avec une très belle voix."
     },
-    "related": "音 / 話す"
+    "related": "音 / 話す",
+    "romaji": "koe"
   },
   {
     "id": "card_1361",
@@ -38126,7 +39485,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隔離房傳嚟彈鋼琴嘅聲。",
       "fr": "On entend le son d'un piano depuis la pièce voisine."
     },
-    "related": "声 / 音楽"
+    "related": "声 / 音楽",
+    "romaji": "oto"
   },
   {
     "id": "card_1362",
@@ -38154,7 +39514,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺山頂望落去嘅秋天景色真係好靚。",
       "fr": "Le paysage d'automne vu du sommet de la montagne est vraiment magnifique."
     },
-    "related": "眺め / 自然"
+    "related": "眺め / 自然",
+    "romaji": "keshiki"
   },
   {
     "id": "card_1363",
@@ -38182,7 +39543,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間酒店嘅餐廳望到海，個景觀好靚。",
       "fr": "Le restaurant de cet hôtel donne sur la mer et offre une belle vue."
     },
-    "related": "景色"
+    "related": "景色",
+    "romaji": "nagame"
   },
   {
     "id": "card_1364",
@@ -38210,7 +39572,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好大風，海面啲浪好大。",
       "fr": "Aujourd'hui, le vent est fort et les vagues de la mer sont hautes."
     },
-    "related": "海 / 風"
+    "related": "海 / 風",
+    "romaji": "nami"
   },
   {
     "id": "card_1365",
@@ -38238,7 +39601,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間舖頭有好多又平又靚嘅貨品。",
       "fr": "Ce magasin propose beaucoup d'articles de bonne qualité et pas chers."
     },
-    "related": "荷物 / 店"
+    "related": "荷物 / 店",
+    "romaji": "shinamono"
   },
   {
     "id": "card_1366",
@@ -38266,7 +39630,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢套動畫喺外國都好受歡迎。",
       "fr": "Cet anime est également très populaire à l'étranger."
     },
-    "related": "有名"
+    "related": "有名",
+    "romaji": "ninki ga aru"
   },
   {
     "id": "card_1367",
@@ -38294,7 +39659,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日朝早都喺公園慢跑三十分鐘。",
       "fr": "Chaque matin, je fais trente minutes de jogging dans le parc."
     },
-    "related": "走る / 運動"
+    "related": "走る / 運動",
+    "romaji": "jogingu"
   },
   {
     "id": "card_1368",
@@ -38322,7 +39688,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日天氣好好，遠處嘅山都睇得好清楚。",
       "fr": "Il fait beau aujourd'hui et on voit clairement les montagnes au loin."
     },
-    "related": "よく / ぜんぜん"
+    "related": "よく / ぜんぜん",
+    "romaji": "hakkiri"
   },
   {
     "id": "card_1369",
@@ -38350,7 +39717,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我個銀包入面得返五百円咋。",
       "fr": "Il n'y a que cinq cents yens dans mon portefeuille."
     },
-    "related": "〜だけ"
+    "related": "〜だけ",
+    "romaji": "~shika"
   },
   {
     "id": "card_1370",
@@ -38378,7 +39746,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我成日都一邊聽音樂，一邊執屋。",
       "fr": "Je nettoie toujours ma chambre tout en écoutant de la musique."
     },
-    "related": "〜て"
+    "related": "〜て",
+    "romaji": "~nagara"
   },
   {
     "id": "card_1371",
@@ -38406,7 +39775,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間餐廳啲嘢食又好味，價錢又平。",
       "fr": "Dans ce restaurant, non seulement la cuisine est délicieuse, mais les prix sont aussi bas."
     },
-    "related": "〜から"
+    "related": "〜から",
+    "romaji": "~shi"
   },
   {
     "id": "card_1372",
@@ -38434,7 +39804,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電車嘅門會自動打開。",
       "fr": "Les portes du train s'ouvrent automatiquement."
     },
-    "related": "開ける（他動詞） / 閉まる"
+    "related": "開ける（他動詞） / 閉まる",
+    "romaji": "aku / akimasu"
   },
   {
     "id": "card_1373",
@@ -38462,7 +39833,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "超級市場嘅門夜晚九點鐘會閂。",
       "fr": "Les portes du supermarché ferment à vingt et une heures."
     },
-    "related": "閉める（他動詞） / 開く"
+    "related": "閉める（他動詞） / 開く",
+    "romaji": "shimaru / shimarimasu"
   },
   {
     "id": "card_1374",
@@ -38490,7 +39862,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一入間房，盞燈就會自動着。",
       "fr": "Quand on entre dans la pièce, la lumière s'allume automatiquement."
     },
-    "related": "つける（他動詞） / 消える"
+    "related": "つける（他動詞） / 消える",
+    "romaji": "tsuku / tsukimasu"
   },
   {
     "id": "card_1375",
@@ -38518,7 +39891,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "吹咗一陣大風，蠟燭啲火熄咗。",
       "fr": "Un vent fort a soufflé et la flamme de la bougie s'est éteinte."
     },
-    "related": "消す（他動詞） / つく"
+    "related": "消す（他動詞） / つく",
+    "romaji": "kieru / kiemasu"
   },
   {
     "id": "card_1376",
@@ -38546,7 +39920,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢班電車站站停。",
       "fr": "Ce train s'arrête à toutes les gares."
     },
-    "related": "止める（他動詞）"
+    "related": "止める（他動詞）",
+    "romaji": "tomaru / tomarimasu"
   },
   {
     "id": "card_1377",
@@ -38574,7 +39949,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "尋晚部冷氣突然間壞咗。",
       "fr": "Hier soir, le climatiseur est soudainement tombé en panne."
     },
-    "related": "壊す（他動詞） / 直す"
+    "related": "壊す（他動詞） / 直す",
+    "romaji": "kowareru / kowaremasu"
   },
   {
     "id": "card_1378",
@@ -38602,7 +39978,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "細佬唔小心整爛咗件玩具。",
       "fr": "Mon petit frère a cassé le jouet par mégarde."
     },
-    "related": "壊れる（自動詞） / 直す"
+    "related": "壊れる（自動詞） / 直す",
+    "romaji": "kowasu / kowashimasu"
   },
   {
     "id": "card_1379",
@@ -38630,7 +40007,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為落雨天行路，對白鞋污糟咗。",
       "fr": "Comme j'ai marché sous la pluie, mes chaussures blanches se sont salies."
     },
-    "related": "汚す（他動詞） / 汚い"
+    "related": "汚す（他動詞） / 汚い",
+    "romaji": "yogoreru / yogoremasu"
   },
   {
     "id": "card_1380",
@@ -38658,7 +40036,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我倒瀉咗咖啡，整污糟咗件新恤衫。",
       "fr": "J'ai renversé du café et j'ai sali ma chemise neuve."
     },
-    "related": "汚れる（自動詞） / 洗う"
+    "related": "汚れる（自動詞） / 洗う",
+    "romaji": "yogosu / yogoshimasu"
   },
   {
     "id": "card_1381",
@@ -38686,7 +40065,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為地震，隻碟由個架度跌落嚟跌爛咗。",
       "fr": "À cause du tremblement de terre, des assiettes sont tombées de l'étagère et se sont brisées."
     },
-    "related": "割る（他動詞）"
+    "related": "割る（他動詞）",
+    "romaji": "wareru / waremasu"
   },
   {
     "id": "card_1382",
@@ -38714,7 +40094,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "洗緊碗嗰陣，我唔小心打爛咗一隻杯。",
       "fr": "En faisant la vaisselle, j'ai malheureusement cassé un verre."
     },
-    "related": "割れる（自動詞）"
+    "related": "割れる（自動詞）",
+    "romaji": "waru / warimasu"
   },
   {
     "id": "card_1383",
@@ -38742,7 +40123,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "花園棵樹嘅樹枝畀大風吹斷咗。",
       "fr": "Une branche de l'arbre du jardin s'est cassée à cause du vent fort."
     },
-    "related": "折る（他動詞）"
+    "related": "折る（他動詞）",
+    "romaji": "oreru / oremasu"
   },
   {
     "id": "card_1384",
@@ -38770,7 +40152,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我摺咗張顏色紙，整咗隻好靚嘅紙鶴。",
       "fr": "J'ai plié du papier coloré pour faire une jolie grue en origami."
     },
-    "related": "折れる（自動詞）"
+    "related": "折れる（自動詞）",
+    "romaji": "oru / orimasu"
   },
   {
     "id": "card_1385",
@@ -38798,7 +40181,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為啲嘢太重，個紙袋穿咗。",
       "fr": "Comme le contenu était trop lourd, le sac en papier s'est déchiré."
     },
-    "related": "破る（他動詞）"
+    "related": "破る（他動詞）",
+    "romaji": "yabureru / yaburemasu"
   },
   {
     "id": "card_1386",
@@ -38826,7 +40210,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將封舊信搣碎掉入垃圾桶。",
       "fr": "J'ai déchiré la vieille lettre en petits morceaux et je l'ai jetée à la poubelle."
     },
-    "related": "破れる（自動詞）"
+    "related": "破れる（自動詞）",
+    "romaji": "yaburu / yaburimasu"
   },
   {
     "id": "card_1387",
@@ -38854,7 +40239,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到秋天，好多樹葉就會跌落嚟。",
       "fr": "Quand l'automne arrive, beaucoup de feuilles tombent des arbres."
     },
-    "related": "落とす（他動詞）"
+    "related": "落とす（他動詞）",
+    "romaji": "ochiru / ochimasu"
   },
   {
     "id": "card_1388",
@@ -38882,7 +40268,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺樓梯唔小心跌咗部電話落地。",
       "fr": "J'ai malencontreusement fait tomber mon smartphone dans les escaliers."
     },
-    "related": "落ちる（自動詞） / 拾う"
+    "related": "落ちる（自動詞） / 拾う",
+    "romaji": "otosu / otoshimasu"
   },
   {
     "id": "card_1389",
@@ -38910,7 +40297,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰間出名嘅拉麵舖出面有好多人排緊隊。",
       "fr": "Beaucoup de gens font la queue devant ce célèbre restaurant de ramen."
     },
-    "related": "並べる（他動詞）"
+    "related": "並べる（他動詞）",
+    "romaji": "narabu / narabimasu"
   },
   {
     "id": "card_1390",
@@ -38938,7 +40326,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺張枱上面整齊噉擺好晒啲碟同杯。",
       "fr": "J'ai soigneusement disposé les assiettes et les verres sur la table."
     },
-    "related": "並ぶ（自動詞）"
+    "related": "並ぶ（自動詞）",
+    "romaji": "naraberu / narabemasu"
   },
   {
     "id": "card_1391",
@@ -38966,7 +40355,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間房嘅牆上面掛住一幅好靚嘅畫。",
       "fr": "Un joli tableau est accroché au mur de la chambre."
     },
-    "related": "掛ける（他動詞）"
+    "related": "掛ける（他動詞）",
+    "romaji": "kakaru / kakarimasu"
   },
   {
     "id": "card_1392",
@@ -38994,7 +40384,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將除落嚟嘅大褸掛喺衣架度。",
       "fr": "J'ai accroché mon manteau sur un cintre après l'avoir enlevé."
     },
-    "related": "掛かる（自動詞）"
+    "related": "掛かる（自動詞）",
+    "romaji": "kakeru / kakemasu"
   },
   {
     "id": "card_1393",
@@ -39022,7 +40413,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺信封上面貼咗張八十四円嘅郵票然後寄出。",
       "fr": "J'ai collé un timbre à quatre-vingt-quatre yens sur l'enveloppe avant de l'envoyer."
     },
-    "related": "ポスター / 切手"
+    "related": "ポスター / 切手",
+    "romaji": "haru / harimasu"
   },
   {
     "id": "card_1394",
@@ -39050,7 +40442,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺玄關度擺咗啲春天嘅花做裝飾。",
       "fr": "J'ai décoré l'entrée avec des fleurs de printemps."
     },
-    "related": "花瓶 / 並べる"
+    "related": "花瓶 / 並べる",
+    "romaji": "kazaru / kazarimasu"
   },
   {
     "id": "card_1395",
@@ -39078,7 +40471,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺客人嚟之前，我將間房執得好乾淨。",
       "fr": "Avant l'arrivée des invités, j'ai bien rangé la pièce."
     },
-    "related": "掃除する / 戻す"
+    "related": "掃除する / 戻す",
+    "romaji": "katazukeru / katazukemasu"
   },
   {
     "id": "card_1396",
@@ -39106,7 +40500,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用完嘅較剪請放返入原本個櫃桶度。",
       "fr": "Veuillez remettre les ciseaux que vous avez utilisés dans leur tiroir d'origine."
     },
-    "related": "片付ける / 返す"
+    "related": "片付ける / 返す",
+    "romaji": "modosu / modoshimasu"
   },
   {
     "id": "card_1397",
@@ -39134,7 +40529,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我喺花園度種咗啲番茄苗。",
       "fr": "Ce week-end, j'ai planté des pieds de tomates dans le jardin."
     },
-    "related": "庭 / 育てる"
+    "related": "庭 / 育てる",
+    "romaji": "ueru / uemasu"
   },
   {
     "id": "card_1398",
@@ -39162,7 +40558,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月出差嘅行程已經定好咗。",
       "fr": "Le programme du voyage d'affaires du mois prochain a été fixé."
     },
-    "related": "決める（他動詞）"
+    "related": "決める（他動詞）",
+    "romaji": "kimaru / kimarimasu"
   },
   {
     "id": "card_1399",
@@ -39190,7 +40587,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我仲未決定好嗌咩嘢食。",
       "fr": "Je n'ai pas encore décidé quel plat commander."
     },
-    "related": "決まる（自動詞）"
+    "related": "決まる（自動詞）",
+    "romaji": "kimeru / kimemasu"
   },
   {
     "id": "card_1400",
@@ -39218,7 +40616,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "以為唔見咗嗰條鎖匙，喺個袋入面搵返喇。",
       "fr": "La clé que je croyais perdue a été retrouvée dans mon sac."
     },
-    "related": "見つける（他動詞） / 探す"
+    "related": "見つける（他動詞） / 探す",
+    "romaji": "mitsukaru / mitsukarimasu"
   },
   {
     "id": "card_1401",
@@ -39246,7 +40645,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺車站附近搵到一間好食嘅麵包舖。",
       "fr": "J'ai trouvé une délicieuse boulangerie près de la gare."
     },
-    "related": "見つかる（自動詞） / 探す"
+    "related": "見つかる（自動詞） / 探す",
+    "romaji": "mitsukeru / mitsukemasu"
   },
   {
     "id": "card_1402",
@@ -39274,7 +40674,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上堂之前我一定會預習新詞語。",
       "fr": "Avant le cours, je prépare toujours le nouveau vocabulaire à l'avance."
     },
-    "related": "復習する / 勉強する"
+    "related": "復習する / 勉強する",
+    "romaji": "yoshuusuru / yoshuushimasu"
   },
   {
     "id": "card_1403",
@@ -39302,7 +40703,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "返到屋企之後，我溫習返今日學過嘅文法。",
       "fr": "Après être rentré à la maison, j'ai révisé la grammaire apprise aujourd'hui."
     },
-    "related": "予習する / 練習する"
+    "related": "予習する / 練習する",
+    "romaji": "fukushuusuru / fukushuushimasu"
   },
   {
     "id": "card_1404",
@@ -39330,7 +40732,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺牆上面個月曆度寫低咗同朋友嘅約會。",
       "fr": "J'ai noté mon rendez-vous avec mon ami sur le calendrier mural."
     },
-    "related": "予定表 / ポスター"
+    "related": "予定表 / ポスター",
+    "romaji": "karendaa"
   },
   {
     "id": "card_1405",
@@ -39358,7 +40761,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "課室嘅牆上面貼住張旅行海報。",
       "fr": "Une affiche de voyage est collée sur le mur de la salle de classe."
     },
-    "related": "貼る / 壁"
+    "related": "貼る / 壁",
+    "romaji": "posutaa"
   },
   {
     "id": "card_1406",
@@ -39386,7 +40790,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請用電郵將下個禮拜嘅行程表傳畀我。",
       "fr": "Veuillez m'envoyer le planning de la semaine prochaine par e-mail."
     },
-    "related": "カレンダー / 約束"
+    "related": "カレンダー / 約束",
+    "romaji": "yoteihyou"
   },
   {
     "id": "card_1407",
@@ -39414,7 +40819,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "護照放咗喺張枱最上面嗰格櫃桶入面。",
       "fr": "Mon passeport se trouve dans le tiroir du haut du bureau."
     },
-    "related": "机 / 棚"
+    "related": "机 / 棚",
+    "romaji": "hikidashi"
   },
   {
     "id": "card_1408",
@@ -39442,7 +40848,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "廚房個層架上面整齊噉擺住啲白碟。",
       "fr": "Des assiettes blanches sont alignées sur l'étagère de la cuisine."
     },
-    "related": "本棚 / 引き出し"
+    "related": "本棚 / 引き出し",
+    "romaji": "tana"
   },
   {
     "id": "card_1409",
@@ -39470,7 +40877,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺幅白牆上面掛咗個大鐘。",
       "fr": "J'ai accroché une grande horloge sur le mur blanc."
     },
-    "related": "隅 / 部屋"
+    "related": "隅 / 部屋",
+    "romaji": "kabe"
   },
   {
     "id": "card_1410",
@@ -39498,7 +40906,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間房嘅角落頭擺住一部舊吸塵機。",
       "fr": "Un vieil aspirateur est posé dans le coin de la pièce."
     },
-    "related": "角 / 真ん中"
+    "related": "角 / 真ん中",
+    "romaji": "sumi"
   },
   {
     "id": "card_1411",
@@ -39526,7 +40935,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺間房正中間擺咗張圓枱。",
       "fr": "J'ai placé une table ronde au milieu de la pièce."
     },
-    "related": "隅 / 横"
+    "related": "隅 / 横",
+    "romaji": "mannaka"
   },
   {
     "id": "card_1412",
@@ -39554,7 +40964,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我仲要用㗎，盞燈就噉開住先啦。",
       "fr": "Je m'en sers encore, alors laissez la lumière telle quelle."
     },
-    "related": "〜ておく"
+    "related": "〜ておく",
+    "romaji": "sonomama"
   },
   {
     "id": "card_1413",
@@ -39582,7 +40993,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去旅行之前，我會預先訂好酒店。",
       "fr": "Avant de partir en voyage, je réserve l'hôtel à l'avance."
     },
-    "related": "準備 / 予習する"
+    "related": "準備 / 予習する",
+    "romaji": "~teoku"
   },
   {
     "id": "card_1414",
@@ -39610,7 +41022,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日天氣咁好，我哋大家一齊去海邊啦。",
       "fr": "Comme il fait beau, allons tous à la mer."
     },
-    "related": "行きます（ます形） / 行く（辞書形）"
+    "related": "行きます（ます形） / 行く（辞書形）",
+    "romaji": "ikou"
   },
   {
     "id": "card_1415",
@@ -39638,7 +41051,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "已經好夜喇，我哋差唔多返屋企啦。",
       "fr": "Il est déjà tard, rentrons bientôt à la maison."
     },
-    "related": "帰ります（ます形） / 帰る（辞書形）"
+    "related": "帰ります（ます形） / 帰る（辞書形）",
+    "romaji": "kaerou"
   },
   {
     "id": "card_1416",
@@ -39666,7 +41080,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好頸渴呀，飲啲凍水啦。",
       "fr": "J'ai soif, buvons de l'eau fraîche."
     },
-    "related": "飲みます（ます形） / 飲む（辞書形）"
+    "related": "飲みます（ます形） / 飲む（辞書形）",
+    "romaji": "nomou"
   },
   {
     "id": "card_1417",
@@ -39694,7 +41109,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔識路呀，不如問下車站職員啦。",
       "fr": "Comme nous ne connaissons pas le chemin, demandons à l'employé de la gare."
     },
-    "related": "聞きます（ます形） / 聞く（辞書形）"
+    "related": "聞きます（ます形） / 聞く（辞書形）",
+    "romaji": "kikou"
   },
   {
     "id": "card_1418",
@@ -39722,7 +41138,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "得閒嗰陣，我哋慢慢傾下將來嘅事啦。",
       "fr": "Quand nous aurons le temps, discutons tranquillement de l'avenir."
     },
-    "related": "話します（ます形） / 話す（辞書形）"
+    "related": "話します（ます形） / 話す（辞書形）",
+    "romaji": "hanasou"
   },
   {
     "id": "card_1419",
@@ -39750,7 +41167,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我打算喺媽咪生日嗰陣買束靚花畀佢。",
       "fr": "Je pense acheter un joli bouquet de fleurs pour l'anniversaire de ma mère."
     },
-    "related": "買います（ます形） / 買う（辞書形）"
+    "related": "買います（ます形） / 買う（辞書形）",
+    "romaji": "kaou"
   },
   {
     "id": "card_1420",
@@ -39778,7 +41196,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐好快就到，我哋喺呢度再等一陣啦。",
       "fr": "Mme Suzuki va bientôt arriver, attendons encore un peu ici."
     },
-    "related": "待ちます（ます形） / 待つ（辞書形）"
+    "related": "待ちます（ます形） / 待つ（辞書形）",
+    "romaji": "matou"
   },
   {
     "id": "card_1421",
@@ -39806,7 +41225,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假一齊去沖繩個靚海度游水啦。",
       "fr": "Pendant les vacances d'été, allons nager dans la belle mer d'Okinawa."
     },
-    "related": "泳ぎます（ます形） / 泳ぐ（辞書形）"
+    "related": "泳ぎます（ます形） / 泳ぐ（辞書形）",
+    "romaji": "oyogou"
   },
   {
     "id": "card_1422",
@@ -39834,7 +41254,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夠鐘搭電車喇，我哋行快少少啦。",
       "fr": "C'est l'heure du train, dépêchons-nous un peu."
     },
-    "related": "急ぎます（ます形） / 急ぐ（辞書形）"
+    "related": "急ぎます（ます形） / 急ぐ（辞書形）",
+    "romaji": "isogou"
   },
   {
     "id": "card_1423",
@@ -39862,7 +41283,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "媽咪睇落好忙，我去幫手準備晚飯先。",
       "fr": "Maman a l'air occupée, je vais l'aider à préparer le dîner."
     },
-    "related": "手伝います（ます形） / 手伝う（辞書形）"
+    "related": "手伝います（ます形） / 手伝う（辞書形）",
+    "romaji": "tetsudaou"
   },
   {
     "id": "card_1424",
@@ -39890,7 +41312,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "肚餓喇，我哋去嗰間舖頭食晏晝飯啦。",
       "fr": "J'ai faim, allons déjeuner dans ce restaurant-là."
     },
-    "related": "食べます（ます形） / 食べる（辞書形）"
+    "related": "食べます（ます形） / 食べる（辞書形）",
+    "romaji": "tabeyou"
   },
   {
     "id": "card_1425",
@@ -39918,7 +41341,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚我打算喺屋企舒舒服服噉睇返套戲。",
       "fr": "Ce soir, je pense regarder tranquillement un film à la maison."
     },
-    "related": "見ます（ます形） / 見る（辞書形）"
+    "related": "見ます（ます形） / 見る（辞書形）",
+    "romaji": "miyou"
   },
   {
     "id": "card_1426",
@@ -39946,7 +41370,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日要早出門口，朝早六點鐘起身啦。",
       "fr": "Demain nous partons tôt, levons-nous à six heures du matin."
     },
-    "related": "起きます（ます形） /起きる（辞書形）"
+    "related": "起きます（ます形） /起きる（辞書形）",
+    "romaji": "okiyou"
   },
   {
     "id": "card_1427",
@@ -39974,7 +41399,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日行咗好多路好攰，早啲瞓覺啦。",
       "fr": "J'ai beaucoup marché aujourd'hui et je suis fatigué, allons dormir tôt."
     },
-    "related": "寝ます（ます形） / 寝る（辞書形）"
+    "related": "寝ます（ます形） / 寝る（辞書形）",
+    "romaji": "neyou"
   },
   {
     "id": "card_1428",
@@ -40002,7 +41428,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上網查下班電車嘅時間啦。",
       "fr": "Vérifions les horaires de train sur Internet."
     },
-    "related": "調べます（ます形） / 調べる（辞書形）"
+    "related": "調べます（ます形） / 調べる（辞書形）",
+    "romaji": "shirabeyou"
   },
   {
     "id": "card_1429",
@@ -40030,7 +41457,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "就嚟測驗喇，我哋一齊溫書啦。",
       "fr": "Comme l'examen approche, étudions ensemble."
     },
-    "related": "します（ます形） / する（辞書形）"
+    "related": "します（ます形） / する（辞書形）",
+    "romaji": "shiyou"
   },
   {
     "id": "card_1430",
@@ -40058,7 +41486,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個公園真係好靚，春天嗰陣再嚟過啦。",
       "fr": "Ce parc est très joli, revenons-y au printemps."
     },
-    "related": "来ます（ます形） / 来る（辞書形）"
+    "related": "来ます（ます形） / 来る（辞書形）",
+    "romaji": "koyou"
   },
   {
     "id": "card_1431",
@@ -40086,7 +41515,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將來想開一間屬於自己嘅餐廳。",
       "fr": "À l'avenir, j'aimerais ouvrir mon propre restaurant."
     },
-    "related": "夢 / 計画"
+    "related": "夢 / 計画",
+    "romaji": "shourai"
   },
   {
     "id": "card_1432",
@@ -40114,7 +41544,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中學畢業之後，我打算升讀東京嘅大學。",
       "fr": "Après le lycée, j'ai l'intention de poursuivre mes études dans une université à Tokyo."
     },
-    "related": "大学 / 就職する"
+    "related": "大学 / 就職する",
+    "romaji": "shingakusuru"
   },
   {
     "id": "card_1433",
@@ -40142,7 +41573,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗入日本嘅貿易公司做嘢，我而家學緊日文。",
       "fr": "J'étudie le japonais afin de trouver un emploi dans une société de commerce japonaise."
     },
-    "related": "会社 / 進学する"
+    "related": "会社 / 進学する",
+    "romaji": "shuushokusuru"
   },
   {
     "id": "card_1434",
@@ -40170,7 +41602,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗出年去外國旅行，我每個月都有儲錢。",
       "fr": "J'économise de l'argent chaque mois pour partir en voyage à l'étranger l'année prochaine."
     },
-    "related": "お金 / 銀行"
+    "related": "お金 / 銀行",
+    "romaji": "chokinsuru"
   },
   {
     "id": "card_1435",
@@ -40198,7 +41631,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "架飛機預計下晝三點鐘到達成田機場。",
       "fr": "L'avion doit arriver à l'aéroport de Narita à quinze heures."
     },
-    "related": "着く / 出発する"
+    "related": "着く / 出発する",
+    "romaji": "touchakusuru"
   },
   {
     "id": "card_1436",
@@ -40226,7 +41660,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "旅遊巴朝早八點鐘喺車站出面出發。",
       "fr": "Le bus part de devant la gare à huit heures du matin."
     },
-    "related": "出る / 到着する"
+    "related": "出る / 到着する",
+    "romaji": "shuppatsusuru"
   },
   {
     "id": "card_1437",
@@ -40254,7 +41689,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗令新計劃成功，我哋一齊努力啦。",
       "fr": "Faisons de notre mieux pour que le nouveau projet réussisse."
     },
-    "related": "頑張る / 合格する"
+    "related": "頑張る / 合格する",
+    "romaji": "seikousuru"
   },
   {
     "id": "card_1438",
@@ -40282,7 +41718,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日由朝早開始應該會好好天。",
       "fr": "Demain, le temps sera probablement bien dégagé dès le matin."
     },
-    "related": "晴れ / 曇る"
+    "related": "晴れ / 曇る",
+    "romaji": "hareru / haremasu"
   },
   {
     "id": "card_1439",
@@ -40310,7 +41747,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下晝開始個天轉陰，仲凍咗少少。",
       "fr": "Le ciel s'est couvert dans l'après-midi et il s'est mis à faire un peu froid."
     },
-    "related": "曇り / 晴れる"
+    "related": "曇り / 晴れる",
+    "romaji": "kumoru / kumorimasu"
   },
   {
     "id": "card_1440",
@@ -40338,7 +41776,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為停咗雨，我出去公園散步。",
       "fr": "Comme la pluie s'est arrêtée, je suis allé me promener au parc."
     },
-    "related": "雨 / 晴れる"
+    "related": "雨 / 晴れる",
+    "romaji": "yamu / yamimasu"
   },
   {
     "id": "card_1441",
@@ -40366,7 +41805,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有個好勁嘅颱風吹緊埋嚟，我哋早啲返屋企啦。",
       "fr": "Comme un puissant typhon approche, rentrons tôt à la maison."
     },
-    "related": "風 / 大雨"
+    "related": "風 / 大雨",
+    "romaji": "taifuu"
   },
   {
     "id": "card_1442",
@@ -40394,7 +41834,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "發緊燒嗰陣唔好勉強自己，要好好休息下。",
       "fr": "Quand vous avez de la fièvre, ne forcez pas et reposez-vous bien."
     },
-    "related": "休む / 体"
+    "related": "休む / 体",
+    "romaji": "muri o suru"
   },
   {
     "id": "card_1443",
@@ -40422,7 +41863,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我好努力溫書，終於考到日文試合格喇。",
       "fr": "J'ai étudié dur et j'ai réussi l'examen de japonais."
     },
-    "related": "試験 / 成功する"
+    "related": "試験 / 成功する",
+    "romaji": "goukakusuru"
   },
   {
     "id": "card_1444",
@@ -40450,7 +41892,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生仲未嚟，不過佢大概好快就會到。",
       "fr": "M. Tanaka n'est pas encore là, mais il arrivera probablement bientôt."
     },
-    "related": "〜でしょう / もしかしたら"
+    "related": "〜でしょう / もしかしたら",
+    "romaji": "tabun"
   },
   {
     "id": "card_1445",
@@ -40478,7 +41921,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個天開始黑齊，話唔定陣間會落雨。",
       "fr": "Le ciel s'est assombri, il se pourrait bien qu'il pleuve."
     },
-    "related": "〜かもしれない / たぶん"
+    "related": "〜かもしれない / たぶん",
+    "romaji": "moshikashitara"
   },
   {
     "id": "card_1446",
@@ -40506,7 +41950,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰邊好危險，所以寫住「不准內進」。",
       "fr": "Comme c'est dangereux là-bas, il est écrit « Entrée interdite »."
     },
-    "related": "駐車禁止 / 使用禁止"
+    "related": "駐車禁止 / 使用禁止",
+    "romaji": "tachiirikinshi"
   },
   {
     "id": "card_1447",
@@ -40534,7 +41979,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢度係不准泊車區，唔可以喺度泊車。",
       "fr": "Le stationnement est interdit ici, vous ne devez pas garer votre voiture."
     },
-    "related": "立入禁止 / 止める"
+    "related": "立入禁止 / 止める",
+    "romaji": "chuushakinshi"
   },
   {
     "id": "card_1448",
@@ -40562,7 +42008,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢部𨋢壞咗，而家暫停使用。",
       "fr": "Cet ascenseur étant en panne, il est interdit de l'utiliser."
     },
-    "related": "使用中 / 立入禁止"
+    "related": "使用中 / 立入禁止",
+    "romaji": "shiyoukinshi"
   },
   {
     "id": "card_1449",
@@ -40590,7 +42037,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "住酒店嗰陣，我會先確認緊急出口喺邊度。",
       "fr": "Quand je séjourne à l'hôtel, je vérifie d'abord où se trouve la sortie de secours."
     },
-    "related": "入口 / 出口"
+    "related": "入口 / 出口",
+    "romaji": "hijouguchi"
   },
   {
     "id": "card_1450",
@@ -40618,7 +42066,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間美術館小學生或以下係免費入場嘅。",
       "fr": "Ce musée d'art est gratuit pour les élèves du primaire et les plus jeunes."
     },
-    "related": "有料 / お金"
+    "related": "有料 / お金",
+    "romaji": "muryou"
   },
   {
     "id": "card_1451",
@@ -40646,7 +42095,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由呢度開始前面係收費道路。",
       "fr": "À partir d'ici, la route devient payante."
     },
-    "related": "無料 / 払う"
+    "related": "無料 / 払う",
+    "romaji": "yuuryou"
   },
   {
     "id": "card_1452",
@@ -40674,7 +42124,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "會議室而家有人用緊，唔入得去。",
       "fr": "La salle de réunion est actuellement occupée, on ne peut pas y entrer."
     },
-    "related": "使用禁止"
+    "related": "使用禁止",
+    "romaji": "shiyouchuu"
   },
   {
     "id": "card_1453",
@@ -40702,7 +42153,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰間黃色招牌嘅舖頭就係車站最受歡迎嘅麵包舖。",
       "fr": "Ce magasin avec l'enseigne jaune est la boulangerie la plus populaire de la gare."
     },
-    "related": "マーク / 店"
+    "related": "マーク / 店",
+    "romaji": "kanban"
   },
   {
     "id": "card_1454",
@@ -40730,7 +42182,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個綠色標誌代表緊急出口。",
       "fr": "Ce symbole vert indique la sortie de secours."
     },
-    "related": "看板 / 矢印"
+    "related": "看板 / 矢印",
+    "romaji": "maaku"
   },
   {
     "id": "card_1455",
@@ -40758,7 +42211,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "火警嗰陣，請唔好搭𨋢，要即刻走出去出面逃生。",
       "fr": "En cas d'incendie, évacuez vers l'extérieur sans utiliser l'ascenseur."
     },
-    "related": "非常口 / 急ぐ"
+    "related": "非常口 / 急ぐ",
+    "romaji": "nigeru / nigemasu"
   },
   {
     "id": "card_1456",
@@ -40786,7 +42240,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日嘅演講，請努力加油到最後呀。",
       "fr": "Pour votre discours de demain, faites de votre mieux jusqu'au bout !"
     },
-    "related": "成功する / 合格する"
+    "related": "成功する / 合格する",
+    "romaji": "ganbaru / ganbarimasu"
   },
   {
     "id": "card_1457",
@@ -40814,7 +42269,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐行開咗，請問可唔可以幫我留個口訊呀？",
       "fr": "Mme Sato n'est pas à son bureau, puis-je lui laisser un message ?"
     },
-    "related": "連絡する / 電話"
+    "related": "連絡する / 電話",
+    "romaji": "dengon"
   },
   {
     "id": "card_1458",
@@ -40842,7 +42298,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用新相機之前，我會詳細睇一次說明書先。",
       "fr": "Avant d'utiliser mon nouvel appareil photo, je lis attentivement le mode d'emploi."
     },
-    "related": "読む / 組み立てる"
+    "related": "読む / 組み立てる",
+    "romaji": "setsumeisho"
   },
   {
     "id": "card_1459",
@@ -40870,7 +42327,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我一邊睇住說明書，一邊自己一個砌好咗個新書櫃。",
       "fr": "En suivant la notice, j'ai monté la nouvelle bibliothèque tout seul."
     },
-    "related": "説明書 / 作る"
+    "related": "説明書 / 作る",
+    "romaji": "kumitateru / kumitatemasu"
   },
   {
     "id": "card_1460",
@@ -40898,7 +42356,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請跟住地下嘅藍色箭嘴指示向前行。",
       "fr": "Veuillez avancer en suivant les flèches bleues au sol."
     },
-    "related": "マーク / 線"
+    "related": "マーク / 線",
+    "romaji": "yajirushi"
   },
   {
     "id": "card_1461",
@@ -40926,7 +42385,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺重要嘅詞語下面畫條紅線。",
       "fr": "Veuillez tirer un trait rouge sous les mots importants."
     },
-    "related": "矢印 / 順番"
+    "related": "矢印 / 順番",
+    "romaji": "sen"
   },
   {
     "id": "card_1462",
@@ -40954,7 +42414,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋會按號碼順序叫名，請坐低等一陣。",
       "fr": "Nous allons appeler les noms dans l'ordre des numéros, veuillez patienter assis."
     },
-    "related": "並ぶ / 番号"
+    "related": "並ぶ / 番号",
+    "romaji": "junban"
   },
   {
     "id": "card_1463",
@@ -40982,7 +42443,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果而家即刻去車站嘅話，就趕得切搭八點鐘班電車。",
       "fr": "Si vous allez à la gare tout de suite, vous aurez le train de huit heures."
     },
-    "related": "行きます（ます形） / 行く（辞書形）"
+    "related": "行きます（ます形） / 行く（辞書形）",
+    "romaji": "ikeba"
   },
   {
     "id": "card_1464",
@@ -41010,7 +42472,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "只要喺呢度寫低名同地址，手續就搞掂㗎喇。",
       "fr": "Si vous écrivez votre nom et votre adresse ici, la procédure sera terminée."
     },
-    "related": "書きます（ます形） / 書く（辞書形）"
+    "related": "書きます（ます形） / 書く（辞書形）",
+    "romaji": "kakeba"
   },
   {
     "id": "card_1465",
@@ -41038,7 +42501,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食咗呢隻藥嘅話，好快就會退燒㗎喇。",
       "fr": "Si vous prenez ce médicament, votre fièvre baissera tout de suite."
     },
-    "related": "飲みます（ます形） / 飲む（辞書形）"
+    "related": "飲みます（ます形） / 飲む（辞書形）",
+    "romaji": "nomeba"
   },
   {
     "id": "card_1466",
@@ -41066,7 +42530,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "只要詳細睇下說明書，就會明白點樣用。",
       "fr": "Si vous lisez attentivement le mode d'emploi, vous comprendrez comment l'utiliser."
     },
-    "related": "読みます（ます形） / 読む（辞書形）"
+    "related": "読みます（ます形） / 読む（辞書形）",
+    "romaji": "yomeba"
   },
   {
     "id": "card_1467",
@@ -41094,7 +42559,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果同田中先生慢慢傾嘅話，佢一定會明白嘅。",
       "fr": "Si vous en parlez calmement à M. Tanaka, il vous comprendra sûrement."
     },
-    "related": "話します（ます形） / 話す（辞書形）"
+    "related": "話します（ます形） / 話す（辞書形）",
+    "romaji": "hanaseba"
   },
   {
     "id": "card_1468",
@@ -41122,7 +42588,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "再等多五分鐘嘅話，下一班巴士就會到。",
       "fr": "Si nous attendons encore cinq minutes, le prochain bus arrivera."
     },
-    "related": "待ちます（ます形） / 待つ（辞書形）"
+    "related": "待ちます（ます形） / 待つ（辞書形）",
+    "romaji": "mateba"
   },
   {
     "id": "card_1469",
@@ -41150,7 +42617,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果喺網上買嘅話，會比喺舖頭買平少少。",
       "fr": "Si vous l'achetez sur Internet, ce sera un peu moins cher qu'en magasin."
     },
-    "related": "買います（ます形） / 買う（辞書形）"
+    "related": "買います（ます形） / 買う（辞書形）",
+    "romaji": "kaeba"
   },
   {
     "id": "card_1470",
@@ -41178,7 +42646,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "飲碗熱湯嘅話，成個人都會暖返晒㗎。",
       "fr": "Si vous mangez une soupe chaude, cela vous réchauffera."
     },
-    "related": "食べます（ます形） / 食べる（辞書形）"
+    "related": "食べます（ます形） / 食べる（辞書形）",
+    "romaji": "tabereba"
   },
   {
     "id": "card_1471",
@@ -41206,7 +42675,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇下呢張地圖嘅話，即刻就會知道車站喺邊度。",
       "fr": "Si vous regardez cette carte, vous trouverez tout de suite où est la gare."
     },
-    "related": "見ます（ます形） / 見る（辞書形）"
+    "related": "見ます（ます形） / 見る（辞書形）",
+    "romaji": "mireba"
   },
   {
     "id": "card_1472",
@@ -41234,7 +42704,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "查下字典嘅話，就會知道個漢字點讀。",
       "fr": "Si vous cherchez dans le dictionnaire, vous trouverez comment lire ce kanji."
     },
-    "related": "調べます（ます形） / 調べる（辞書形）"
+    "related": "調べます（ます形） / 調べる（辞書形）",
+    "romaji": "shirabereba"
   },
   {
     "id": "card_1473",
@@ -41262,7 +42733,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果每日逐少逐少噉練習，一定會變得好叻。",
       "fr": "Si vous vous entraînez un peu chaque jour, vous progresserez à coup sûr."
     },
-    "related": "します（ます形） / する（辞書形）"
+    "related": "します（ます形） / する（辞書形）",
+    "romaji": "sureba"
   },
   {
     "id": "card_1474",
@@ -41290,7 +42762,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果春天嚟嘅話，喺呢度可以睇到好多櫻花㗎。",
       "fr": "Si vous venez au printemps, vous pourrez voir beaucoup de cerisiers en fleurs ici."
     },
-    "related": "来ます（ます形） / 来る（辞書形）"
+    "related": "来ます（ます形） / 来る（辞書形）",
+    "romaji": "kureba"
   },
   {
     "id": "card_1475",
@@ -41318,7 +42791,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果平多少少嘅話，我想買呢部電腦。",
       "fr": "S'il était un peu moins cher, j'aimerais acheter cet ordinateur."
     },
-    "related": "安い / 高ければ"
+    "related": "安い / 高ければ",
+    "romaji": "yasukereba"
   },
   {
     "id": "card_1476",
@@ -41346,7 +42820,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果價錢太貴嘅話，唔使勉強買㗎。",
       "fr": "Si le prix est trop élevé, vous n'êtes pas obligé de l'acheter."
     },
-    "related": "高い / 安ければ"
+    "related": "高い / 安ければ",
+    "romaji": "takakereba"
   },
   {
     "id": "card_1477",
@@ -41374,7 +42849,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日下晝如果好天嘅話，我哋去公園打網球啦。",
       "fr": "Demain après-midi, s'il fait beau, jouons au tennis dans le parc."
     },
-    "related": "いい（よい） / 悪ければ"
+    "related": "いい（よい） / 悪ければ",
+    "romaji": "yokereba"
   },
   {
     "id": "card_1478",
@@ -41402,7 +42878,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果身體唔舒服嘅話，今日請早啲返屋企休息啦。",
       "fr": "Si vous ne vous sentez pas bien, rentrez tôt et reposez-vous aujourd'hui."
     },
-    "related": "悪い / よければ"
+    "related": "悪い / よければ",
+    "romaji": "warukereba"
   },
   {
     "id": "card_1479",
@@ -41430,7 +42907,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果冇問題嘅話，今日堂課就上到呢度。",
       "fr": "S'il n'y a pas de questions, nous terminons le cours d'aujourd'hui ici."
     },
-    "related": "ない"
+    "related": "ない",
+    "romaji": "nakereba"
   },
   {
     "id": "card_1480",
@@ -41458,7 +42936,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "天氣變暖嘅話，公園啲櫻花就會開得好靚。",
       "fr": "Dès qu'il fait doux, les cerisiers du parc fleurissent magnifiquement."
     },
-    "related": "花 / 春"
+    "related": "花 / 春",
+    "romaji": "saku / sakimasu"
   },
   {
     "id": "card_1481",
@@ -41486,7 +42965,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嚟咗日本三個月，我終於習慣咗日本嘅生活喇。",
       "fr": "Cela fait trois mois que je suis arrivé au Japon et je me suis enfin habitué à la vie ici."
     },
-    "related": "習慣 / 生活"
+    "related": "習慣 / 生活",
+    "romaji": "nareru / naremasu"
   },
   {
     "id": "card_1482",
@@ -41514,7 +42994,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "近車站係我搵屋嗰陣好重要嘅條件。",
       "fr": "La proximité de la gare est une condition importante pour chercher un appartement."
     },
-    "related": "決める / 選ぶ"
+    "related": "決める / 選ぶ",
+    "romaji": "jouken"
   },
   {
     "id": "card_1483",
@@ -41542,7 +43023,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果係下個禮拜二嘅話，我幾時都方便。",
       "fr": "Si c'est mardi prochain, n'importe quelle heure me convient."
     },
-    "related": "都合が悪い / 予定"
+    "related": "都合が悪い / 予定",
+    "romaji": "tsugou ga ii"
   },
   {
     "id": "card_1484",
@@ -41570,7 +43052,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好意思，聽日我時間唔係幾方便，去唔到呀。",
       "fr": "Désolé, demain cela ne m'arrange pas trop, je ne pourrai pas venir."
     },
-    "related": "都合がいい / 用事"
+    "related": "都合がいい / 用事",
+    "romaji": "tsugou ga warui"
   },
   {
     "id": "card_1485",
@@ -41598,7 +43081,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日文越學就越覺得有趣。",
       "fr": "Plus on étudie le japonais, plus cela devient intéressant."
     },
-    "related": "もっと / だんだん"
+    "related": "もっと / だんだん",
+    "romaji": "~ba~hodo"
   },
   {
     "id": "card_1486",
@@ -41626,7 +43110,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為搭咗的士，所以趕得切開會時間。",
       "fr": "Comme j'ai pris un taxi, je suis arrivé à temps pour la réunion."
     },
-    "related": "遅れる / 急ぐ"
+    "related": "遅れる / 急ぐ",
+    "romaji": "maniau / maniaimasu"
   },
   {
     "id": "card_1487",
@@ -41654,7 +43139,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "受到落雪影響，電車延誤咗大約十分鐘。",
       "fr": "À cause de la neige, le train a environ dix minutes de retard."
     },
-    "related": "間に合う / 時間"
+    "related": "間に合う / 時間",
+    "romaji": "okureru / okuremasu"
   },
   {
     "id": "card_1488",
@@ -41682,7 +43168,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食咗藥再好好瞓一覺之後，感冒已經完全好返晒。",
       "fr": "Après avoir pris des médicaments et bien dormi, mon rhume est complètement guéri."
     },
-    "related": "病気 / 直す"
+    "related": "病気 / 直す",
+    "romaji": "naoru / naorimasu"
   },
   {
     "id": "card_1489",
@@ -41710,7 +43197,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日天氣好好，洗好嘅衫好快就乾。",
       "fr": "Comme il fait beau aujourd'hui, le linge sèche vite."
     },
-    "related": "洗濯する / 干す"
+    "related": "洗濯する / 干す",
+    "romaji": "kawaku / kawakimasu"
   },
   {
     "id": "card_1490",
@@ -41738,7 +43226,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放咗入雪櫃嘅西瓜已經雪得好凍喇。",
       "fr": "La pastèque mise au réfrigérateur est bien fraîche."
     },
-    "related": "冷たい / 冷蔵庫"
+    "related": "冷たい / 冷蔵庫",
+    "romaji": "hieru / hiemasu"
   },
   {
     "id": "card_1491",
@@ -41766,7 +43255,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新年食咗好多好嘢，結果肥咗兩公斤。",
       "fr": "J'ai mangé beaucoup de bonnes choses au Nouvel An et j'ai pris deux kilos."
     },
-    "related": "痩せる / 体重"
+    "related": "痩せる / 体重",
+    "romaji": "futoru / futorimasu"
   },
   {
     "id": "card_1492",
@@ -41794,7 +43284,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "堅持每日做運動之後，我瘦咗三公斤。",
       "fr": "En continuant à faire du sport tous les jours, j'ai perdu trois kilos."
     },
-    "related": "太る / 運動"
+    "related": "太る / 運動",
+    "romaji": "yaseru / yasemasu"
   },
   {
     "id": "card_1493",
@@ -41822,7 +43313,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康同儲錢，我每日都盡量自己煮飯食。",
       "fr": "Pour ma santé et mes économies, je cuisine moi-même autant que possible chaque jour."
     },
-    "related": "料理 / 作る"
+    "related": "料理 / 作る",
+    "romaji": "jisuisuru / jisuishimasu"
   },
   {
     "id": "card_1494",
@@ -41850,7 +43342,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嘅日子我都會早起身去公園散步。",
       "fr": "Même pendant les jours de congé, je me lève tôt pour me promener au parc."
     },
-    "related": "寝坊する / 起きる"
+    "related": "寝坊する / 起きる",
+    "romaji": "hayaokisuru"
   },
   {
     "id": "card_1495",
@@ -41878,7 +43371,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為尋晚好夜先瞓，搞到今朝瞓晏咗。",
       "fr": "Comme j'ai veillé tard hier soir, j'ai eu une panne d'oreiller ce matin."
     },
-    "related": "早起きする / 遅れる"
+    "related": "早起きする / 遅れる",
+    "romaji": "nebousuru"
   },
   {
     "id": "card_1496",
@@ -41906,7 +43400,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗唔好瞓晏咗，我將個鬧鐘校咗喺六點。",
       "fr": "Pour ne pas me réveiller en retard, j'ai réglé mon réveil sur six heures."
     },
-    "related": "早起きする / 時計"
+    "related": "早起きする / 時計",
+    "romaji": "mezamashidokei"
   },
   {
     "id": "card_1497",
@@ -41934,7 +43429,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早飲一杯水係我嘅習慣。",
       "fr": "Boire un verre d'eau chaque matin est mon habitude."
     },
-    "related": "慣れる / 毎日"
+    "related": "慣れる / 毎日",
+    "romaji": "shuukan"
   },
   {
     "id": "card_1498",
@@ -41962,7 +43458,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺露台度好用心噉種緊車厘茄。",
       "fr": "Je cultive avec soin des tomates cerises sur mon balcon."
     },
-    "related": "植える / 花"
+    "related": "植える / 花",
+    "romaji": "sodateru / sodatemasu"
   },
   {
     "id": "card_1499",
@@ -41990,7 +43487,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將書枱櫃桶入面執得好整齊。",
       "fr": "J'ai bien trié et rangé l'intérieur du tiroir de mon bureau."
     },
-    "related": "片付ける / 並べる"
+    "related": "片付ける / 並べる",
+    "romaji": "seirisuru / seirishimasu"
   },
   {
     "id": "card_1500",
@@ -42018,7 +43516,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我報咗名參加下個月嘅日文演講比賽。",
       "fr": "Je me suis inscrit au concours d'éloquence en japonais du mois prochain."
     },
-    "related": "予約する / 参加する"
+    "related": "予約する / 参加する",
+    "romaji": "moushikomu / moushikomimasu"
   },
   {
     "id": "card_1501",
@@ -42046,7 +43545,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月我會搬去車站附近嘅新公寓。",
       "fr": "Le mois prochain, je déménage dans un nouvel appartement près de la gare."
     },
-    "related": "住む / 部屋"
+    "related": "住む / 部屋",
+    "romaji": "hikkosu / hikkoshimasu"
   },
   {
     "id": "card_1502",
@@ -42074,7 +43574,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上個禮拜我家姐生咗個肥肥白白嘅BB。",
       "fr": "La semaine dernière, ma grande sœur a donné naissance à un bébé en pleine santé."
     },
-    "related": "誕生日 / 赤ちゃん"
+    "related": "誕生日 / 赤ちゃん",
+    "romaji": "umareru / umaremasu"
   },
   {
     "id": "card_1503",
@@ -42102,7 +43603,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口嗰陣，請一定要鎖好門。",
       "fr": "Quand vous sortez, n'oubliez surtout pas de fermer la porte à clé."
     },
-    "related": "鍵 / 閉める"
+    "related": "鍵 / 閉める",
+    "romaji": "kakeru (kagi o)"
   },
   {
     "id": "card_1504",
@@ -42130,7 +43632,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝頭早打開窗，有陣涼風吹入嚟真係好舒服。",
       "fr": "Quand j'ouvre la fenêtre tôt le matin, une brise fraîche entre et c'est très agréable."
     },
-    "related": "涼しい / 晴れ"
+    "related": "涼しい / 晴れ",
+    "romaji": "kimochi ga ii"
   },
   {
     "id": "card_1505",
@@ -42158,7 +43661,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我最怕早起身，所以日日朝早都好辛苦。",
       "fr": "Comme j'ai du mal à me lever tôt, chaque matin est difficile."
     },
-    "related": "得意 / 下手"
+    "related": "得意 / 下手",
+    "romaji": "nigatena"
   },
   {
     "id": "card_1506",
@@ -42186,7 +43690,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇日本動畫係我開始學日文嘅契機。",
       "fr": "C'est le fait d'avoir regardé des animes japonais qui m'a donné envie d'apprendre le japonais."
     },
-    "related": "始める / 理由"
+    "related": "始める / 理由",
+    "romaji": "kikkake"
   },
   {
     "id": "card_1507",
@@ -42214,7 +43719,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行咗三個鐘頭，終於去到山頂喇。",
       "fr": "Au bout de trois heures, nous sommes enfin arrivés au sommet de la montagne."
     },
-    "related": "とうとう"
+    "related": "とうとう",
+    "romaji": "yatto"
   },
   {
     "id": "card_1508",
@@ -42242,7 +43748,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "測驗攞到一百分，我俾老師讚呀。",
       "fr": "J'ai eu cent sur cent à l'examen et j'ai été félicité par le professeur."
     },
-    "related": "褒める / 叱られる"
+    "related": "褒める / 叱られる",
+    "romaji": "homerareru"
   },
   {
     "id": "card_1509",
@@ -42270,7 +43777,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "媽咪成日都讚我煮嘅嘢食。",
       "fr": "Ma mère me complimente toujours sur les plats que je prépare."
     },
-    "related": "褒められる / 叱る"
+    "related": "褒められる / 叱る",
+    "romaji": "homeru / homemasu"
   },
   {
     "id": "card_1510",
@@ -42298,7 +43806,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔記得交功課，結果俾老師鬧。",
       "fr": "J'ai oublié mes devoirs et je me suis fait gronder par le professeur."
     },
-    "related": "叱る / 褒められる"
+    "related": "叱る / 褒められる",
+    "romaji": "shikarareru"
   },
   {
     "id": "card_1511",
@@ -42326,7 +43835,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "爸爸好嚴厲噉鬧咗做危險嘢嘅小朋友。",
       "fr": "Le père a grondé sévèrement l'enfant qui avait fait quelque chose de dangereux."
     },
-    "related": "叱られる / 褒める"
+    "related": "叱られる / 褒める",
+    "romaji": "shikaru / shikarimasu"
   },
   {
     "id": "card_1512",
@@ -42354,7 +43864,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐約我去，我哋週末去咗睇戲。",
       "fr": "Invité par Mme Suzuki, je suis allé voir un film ce week-end."
     },
-    "related": "誘う / 招待される"
+    "related": "誘う / 招待される",
+    "romaji": "sasowareru"
   },
   {
     "id": "card_1513",
@@ -42382,7 +43893,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今個禮拜日，我會約埋朋友一齊去行山。",
       "fr": "Ce dimanche, je vais inviter des amis pour aller faire de la randonnée."
     },
-    "related": "誘われる / 一緒"
+    "related": "誘われる / 一緒",
+    "romaji": "sasou / sasoimasu"
   },
   {
     "id": "card_1514",
@@ -42410,7 +43922,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我獲邀出席田中先生嘅婚禮。",
       "fr": "J'ai été invité au mariage de M. Tanaka."
     },
-    "related": "招待する / 誘われる"
+    "related": "招待する / 誘われる",
+    "romaji": "shoutaisareru"
   },
   {
     "id": "card_1515",
@@ -42438,7 +43951,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我邀請咗朋友嚟新屋，開咗個派對。",
       "fr": "J'ai invité des amis dans ma nouvelle maison et j'ai organisé une fête."
     },
-    "related": "招待される / 誘う"
+    "related": "招待される / 誘う",
+    "romaji": "shoutaisuru / shoutaishimasu"
   },
   {
     "id": "card_1516",
@@ -42466,7 +43980,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "前輩拜託我幫手做嘢，所以我開咗少少OT。",
       "fr": "Un collègue plus ancien m'a demandé un service, j'ai donc fait un peu d'heures supplémentaires."
     },
-    "related": "頼む"
+    "related": "頼む",
+    "romaji": "tanomareru"
   },
   {
     "id": "card_1517",
@@ -42494,7 +44009,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺逼爆人嘅電車入面，我隻腳俾隔離個人踩親。",
       "fr": "Dans le train bondé, la personne à côté de moi m'a marché sur le pied."
     },
-    "related": "踏む"
+    "related": "踏む",
+    "romaji": "fumareru"
   },
   {
     "id": "card_1518",
@@ -42522,7 +44038,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺條黑麻麻嘅路度，我唔小心踩咗落水氹。",
       "fr": "Sur une route sombre, j'ai marché par mégarde dans une flaque d'eau."
     },
-    "related": "踏まれる / 足"
+    "related": "踏まれる / 足",
+    "romaji": "fumu / fumimasu"
   },
   {
     "id": "card_1519",
@@ -42550,7 +44067,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為唔記得落鎖，架單車俾人偷咗。",
       "fr": "Comme j'avais oublié de mettre l'antivol, je me suis fait voler mon vélo."
     },
-    "related": "盗む / 失くす"
+    "related": "盗む / 失くす",
+    "romaji": "nusumareru"
   },
   {
     "id": "card_1520",
@@ -42578,7 +44096,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺美術館偷走名畫嗰個賊已經俾人捉到喇。",
       "fr": "Le coupable qui avait volé le célèbre tableau au musée a été arrêté."
     },
-    "related": "盗まれる"
+    "related": "盗まれる",
+    "romaji": "nusumu / nusumimasu"
   },
   {
     "id": "card_1521",
@@ -42606,7 +44125,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺公園散步嗰陣，我隻腳俾蚊咬親。",
       "fr": "En me promenant dans le parc, je me suis fait piquer à la jambe par un moustique."
     },
-    "related": "噛む"
+    "related": "噛む",
+    "romaji": "kamareru"
   },
   {
     "id": "card_1522",
@@ -42634,7 +44154,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間古老嘅寺廟係喺五百年前起好嘅。",
       "fr": "Ce vieux temple a été construit il y a cinq cents ans."
     },
-    "related": "建てる / 建物"
+    "related": "建てる / 建物",
+    "romaji": "taterareru"
   },
   {
     "id": "card_1523",
@@ -42662,7 +44183,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我父母喺環境清靜嘅郊外起咗間新屋。",
       "fr": "Mes parents ont fait construire une nouvelle maison dans une banlieue calme."
     },
-    "related": "建てられる / 建物"
+    "related": "建てられる / 建物",
+    "romaji": "tateru / tatemasu"
   },
   {
     "id": "card_1524",
@@ -42690,7 +44212,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電話係喺十九世紀由貝爾發明嘅。",
       "fr": "Le téléphone a été inventé par Bell au XIXe siècle."
     },
-    "related": "作る / 発見する"
+    "related": "作る / 発見する",
+    "romaji": "hatsumeisuru"
   },
   {
     "id": "card_1525",
@@ -42718,7 +44241,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月將會喺東京舉辦國際會議。",
       "fr": "Le mois prochain, une conférence internationale se tiendra à Tokyo."
     },
-    "related": "開く / 会議"
+    "related": "開く / 会議",
+    "romaji": "kaisaisuru"
   },
   {
     "id": "card_1526",
@@ -42746,7 +44270,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間工廠每日都生產好多汽車。",
       "fr": "Dans cette usine, de nombreuses voitures sont produites chaque jour."
     },
-    "related": "作る / 輸出する"
+    "related": "作る / 輸出する",
+    "romaji": "seisansuru"
   },
   {
     "id": "card_1527",
@@ -42774,7 +44299,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本向世界各地出口汽車同機械。",
       "fr": "Le Japon exporte des voitures et des machines dans le monde entier."
     },
-    "related": "輸入する / 生産する"
+    "related": "輸入する / 生産する",
+    "romaji": "yushutsusuru"
   },
   {
     "id": "card_1528",
@@ -42802,7 +44328,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間超級市場有賣由外國入口嘅生果。",
       "fr": "Ce supermarché vend des fruits importés de l'étranger."
     },
-    "related": "輸出する / 外国"
+    "related": "輸出する / 外国",
+    "romaji": "yunyuusuru"
   },
   {
     "id": "card_1529",
@@ -42830,7 +44357,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "啤酒係用大麥做原料釀造出嚟嘅。",
       "fr": "La bière est fabriquée à partir d'orge."
     },
-    "related": "材料 / 生産する"
+    "related": "材料 / 生産する",
+    "romaji": "genryou"
   },
   {
     "id": "card_1530",
@@ -42858,7 +44386,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生喺後面叫我，嚇親我。",
       "fr": "J'ai été surpris quand M. Tanaka m'a interpellé par- derrière."
     },
-    "related": "類義語: 驚く（おどろく）"
+    "related": "類義語: 驚く（おどろく）",
+    "romaji": "bikkurisuru"
   },
   {
     "id": "card_1531",
@@ -42886,7 +44415,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為鈴木小姐平安返嚟，所以我好放心。",
       "fr": "J'ai été soulagé car Mme Suzuki est rentrée saine et sauve."
     },
-    "related": "対義語: 心配する（しんぱいする）"
+    "related": "対義語: 心配する（しんぱいする）",
+    "romaji": "anshinsuru"
   },
   {
     "id": "card_1532",
@@ -42914,7 +44444,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一直好期待嘅旅行取消咗，我好失望。",
       "fr": "J'ai été déçu que le voyage que j'attendais avec impatience soit annulé."
     },
-    "related": "関連語: 残念（ざんねん）"
+    "related": "関連語: 残念（ざんねん）",
+    "romaji": "gakkarisuru"
   },
   {
     "id": "card_1533",
@@ -42942,7 +44473,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "送咗份禮物過去之後，佐藤小姐好開心。",
       "fr": "Quand je lui ai offert le cadeau, Mme Sato s'est beaucoup réjouie."
     },
-    "related": "五段動詞 / 名詞: 喜び"
+    "related": "五段動詞 / 名詞: 喜び",
+    "romaji": "yorokobu / yorokobimasu"
   },
   {
     "id": "card_1534",
@@ -42970,7 +44502,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "心愛嘅寵物過咗身，高橋小姐非常傷心。",
       "fr": "Son animal de compagnie adoré est mort, et Mme Takahashi est profondément attristée."
     },
-    "related": "五段動詞 / 形容詞: 悲しい"
+    "related": "五段動詞 / 形容詞: 悲しい",
+    "romaji": "kanashimu / kanashimimasu"
   },
   {
     "id": "card_1535",
@@ -42998,7 +44531,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為遲到，俾中村先生鬧咗。",
       "fr": "Je me suis fait gronder par M. Nakamura parce que j'étais en retard au rendez-vous."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "okoru / okorimasu"
   },
   {
     "id": "card_1536",
@@ -43026,7 +44560,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇咗套好感動嘅戲，鈴木小姐喊咗出嚟。",
       "fr": "Mme Suzuki pleurait en regardant un film émouvant."
     },
-    "related": "五段動詞 / 対義語: 笑う"
+    "related": "五段動詞 / 対義語: 笑う",
+    "romaji": "naku / nakimasu"
   },
   {
     "id": "card_1537",
@@ -43054,7 +44589,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "伊藤先生嘅笑話好好笑，大家都笑咗。",
       "fr": "La blague de M. Ito était drôle, alors tout le monde a ri."
     },
-    "related": "五段動詞 / 名詞: 笑顔（えがお）"
+    "related": "五段動詞 / 名詞: 笑顔（えがお）",
+    "romaji": "warau / waraimasu"
   },
   {
     "id": "card_1538",
@@ -43082,7 +44618,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "尋日吹大風，花園棵大樹冧咗。",
       "fr": "Le grand arbre du jardin est tombé à cause du vent fort d'hier."
     },
-    "related": "一段動詞（自動詞） / 他動詞: 倒す"
+    "related": "一段動詞（自動詞） / 他動詞: 倒す",
+    "romaji": "taoreru / taoremasu"
   },
   {
     "id": "card_1539",
@@ -43110,7 +44647,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早八點左右嘅電車好迫人。",
       "fr": "Le train vers 8 heures chaque matin est très bondé."
     },
-    "related": "五段動詞 / 対義語: 空く（すく）"
+    "related": "五段動詞 / 対義語: 空く（すく）",
+    "romaji": "komu / komimasu"
   },
   {
     "id": "card_1540",
@@ -43138,7 +44676,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為落雨樓梯濕咗好易跣親，請小心。",
       "fr": "Les escaliers sont mouillés par la pluie et glissants, alors faites attention."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "suberu / suberimasu"
   },
   {
     "id": "card_1541",
@@ -43166,7 +44705,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為地震，大廈間房搖得好厲害。",
       "fr": "La pièce de l'immeuble a fortement tremblé à cause du tremblement de terre."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "yureru / yuremasu"
   },
   {
     "id": "card_1542",
@@ -43194,7 +44734,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "辦公室部影印機壞咗，用唔到。",
       "fr": "La photocopieuse du bureau est tombée en panne et est inutilisable."
     },
-    "related": "名詞・サ変動詞 / 修理する（しゅうりする）"
+    "related": "名詞・サ変動詞 / 修理する（しゅうりする）",
+    "romaji": "koshousuru"
   },
   {
     "id": "card_1543",
@@ -43222,7 +44763,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本好多地震，所以平時做好準備好緊要。",
       "fr": "Comme il y a beaucoup de séismes au Japon, il est important d'être toujours préparé."
     },
-    "related": "表現: 地震が起きる"
+    "related": "表現: 地震が起きる",
+    "romaji": "jishin"
   },
   {
     "id": "card_1544",
@@ -43250,7 +44792,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為交通意外，巴士遲咗30分鐘。",
       "fr": "Le bus a eu 30 minutes de retard à cause d'un accident de la route."
     },
-    "related": "関連語: 事件（じけん）"
+    "related": "関連語: 事件（じけん）",
+    "romaji": "jiko"
   },
   {
     "id": "card_1545",
@@ -43278,7 +44821,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天空氣乾燥，大家要小心火燭。",
       "fr": "Comme l'air est sec en hiver, faisons attention aux incendies."
     },
-    "related": "関連語: 消防車（しょうぼうしゃ）"
+    "related": "関連語: 消防車（しょうぼうしゃ）",
+    "romaji": "kaji"
   },
   {
     "id": "card_1546",
@@ -43306,7 +44850,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為工程關係，今日下晝兩點至四點停水。",
       "fr": "En raison de travaux, l'eau courante sera coupée aujourd'hui de 14h à 16h."
     },
-    "related": "表現: 水道の水"
+    "related": "表現: 水道の水",
+    "romaji": "suidou"
   },
   {
     "id": "card_1547",
@@ -43334,7 +44879,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口之前，我確認咗係咪熄咗煤氣。",
       "fr": "Avant de sortir, j'ai vérifié si j'avais bien éteint le gaz."
     },
-    "related": "関連語: ガス代"
+    "related": "関連語: ガス代",
+    "romaji": "gasu"
   },
   {
     "id": "card_1548",
@@ -43362,7 +44908,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "受打風影響，尋晚停咗大約兩個鐘頭電。",
       "fr": "À cause du typhon, il y a eu une coupure de courant d'environ deux heures hier soir."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "teiden"
   },
   {
     "id": "card_1549",
@@ -43390,7 +44937,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "關於今次意外嘅原因，警察緊係度調查緊。",
       "fr": "La police enquête sur la cause de cet accident."
     },
-    "related": "対義語: 結果（けっか）"
+    "related": "対義語: 結果（けっか）",
+    "romaji": "gen'in"
   },
   {
     "id": "card_1550",
@@ -43418,7 +44966,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下星期一會出身體檢查嘅結果。",
       "fr": "Les résultats du bilan de santé seront connus lundi prochain."
     },
-    "related": "対義語: 原因（げんいん）"
+    "related": "対義語: 原因（げんいん）",
+    "romaji": "kekka"
   },
   {
     "id": "card_1551",
@@ -43446,7 +44995,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺返公司嘅中途，我撞見田中先生。",
       "fr": "En allant au bureau, j'ai rencontré M. Tanaka par hasard."
     },
-    "related": "表現: 〜の途中で"
+    "related": "表現: 〜の途中で",
+    "romaji": "tochuu"
   },
   {
     "id": "card_1552",
@@ -43474,7 +45024,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋再確認多次班機嘅起飛時間啦。",
       "fr": "Vérifions encore une fois l'heure de départ de l'avion."
     },
-    "related": "一段動詞 / 類義語: 確認する"
+    "related": "一段動詞 / 類義語: 確認する",
+    "romaji": "tashikameru / tashikamemasu"
   },
   {
     "id": "card_1553",
@@ -43502,7 +45053,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我試一次睇下個新方法行唔行得通。",
       "fr": "Je vais essayer une fois pour voir si la nouvelle méthode fonctionne bien."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "tamesu / tameshimasu"
   },
   {
     "id": "card_1554",
@@ -43530,7 +45082,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為可能發燒，我探咗熱。",
       "fr": "J'ai pris ma température car j'ai peut-être de la fièvre."
     },
-    "related": "五段動詞（量る・計る）"
+    "related": "五段動詞（量る・計る）",
+    "romaji": "hakaru / hakarimasu"
   },
   {
     "id": "card_1555",
@@ -43558,7 +45111,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該數下參加派對嘅人數。",
       "fr": "Veuillez compter le nombre de personnes participant à la fête."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "kazoeru / kazoemasu"
   },
   {
     "id": "card_1556",
@@ -43586,7 +45140,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢對鞋好啱我隻腳。",
       "fr": "Ces chaussures me vont parfaitement."
     },
-    "related": "五段動詞 / 表現: サイズが合う"
+    "related": "五段動詞 / 表現: サイズが合う",
+    "romaji": "au / aimasu"
   },
   {
     "id": "card_1557",
@@ -43614,7 +45169,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐著嗰條藍色連身裙好襯你呀。",
       "fr": "Cette robe bleue vous va très bien, Mme Suzuki."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "niau / niaimasu"
   },
   {
     "id": "card_1558",
@@ -43642,7 +45198,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我可唔可以試下呢件大褸呀？",
       "fr": "Puis-je essayer ce manteau ?"
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "shichakusuru"
   },
   {
     "id": "card_1559",
@@ -43670,7 +45227,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個燈膽燒咗，所以換咗個新嘅。",
       "fr": "L'ampoule a grillé, je l'ai donc remplacée par une neuve."
     },
-    "related": "一段動詞 / 類義語: 交換する"
+    "related": "一段動詞 / 類義語: 交換する",
+    "romaji": "torikaeru / torikaemasu"
   },
   {
     "id": "card_1560",
@@ -43698,7 +45256,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為係送禮用，我叫店員用靚紙幫我包起佢。",
       "fr": "Comme c'est pour un cadeau, je l'ai fait emballer dans un joli papier."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "tsutsumu / tsutsumimasu"
   },
   {
     "id": "card_1561",
@@ -43726,7 +45285,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "試身室喺嗰邊入面。",
       "fr": "La cabine d'essayage se trouve là-bas au fond."
     },
-    "related": "関連語: 試着する"
+    "related": "関連語: 試着する",
+    "romaji": "shichakushitsu"
   },
   {
     "id": "card_1562",
@@ -43754,7 +45314,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔該，請問呢件有冇大一個碼呀？",
       "fr": "Excusez-moi, avez-vous ce modèle dans la taille au-dessus ?"
     },
-    "related": "表現: サイズが合う"
+    "related": "表現: サイズが合う",
+    "romaji": "saizu"
   },
   {
     "id": "card_1563",
@@ -43782,7 +45343,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個袋好簡約，款式設計好靚。",
       "fr": "Ce sac est simple et son design est très joli."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "dezain"
   },
   {
     "id": "card_1564",
@@ -43810,7 +45372,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新買張書枱有少少花痕，所以我聯絡咗間舖頭。",
       "fr": "Il y avait une petite rayure sur le bureau que je viens d'acheter, j'ai donc contacté le magasin."
     },
-    "related": "表現: 傷がつく"
+    "related": "表現: 傷がつく",
+    "romaji": "kizu"
   },
   {
     "id": "card_1565",
@@ -43838,7 +45401,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "富士山嘅高度係3776米。",
       "fr": "La hauteur du mont Fuji est de 3 776 mètres."
     },
-    "related": "形容詞「高い」の名詞形"
+    "related": "形容詞「高い」の名詞形",
+    "romaji": "takasa"
   },
   {
     "id": "card_1566",
@@ -43866,7 +45430,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上機之前，我磅咗一下個喼嘅重量。",
       "fr": "Avant de prendre l'avion, j'ai pesé ma valise."
     },
-    "related": "形容詞「重い」の名詞形"
+    "related": "形容詞「重い」の名詞形",
+    "romaji": "omosa"
   },
   {
     "id": "card_1567",
@@ -43894,7 +45459,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "條褲嘅長度有啲長，可唔可以幫我改短少少？",
       "fr": "La longueur du pantalon est un peu grande, pourriez-vous le retoucher ?"
     },
-    "related": "形容詞「長い」の名詞形"
+    "related": "形容詞「長い」の名詞形",
+    "romaji": "nagasa"
   },
   {
     "id": "card_1568",
@@ -43922,7 +45488,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間房嘅大細啱啱好適合一個人住。",
       "fr": "La superficie de cette pièce est parfaite pour vivre seul."
     },
-    "related": "形容詞「広い」の名詞形"
+    "related": "形容詞「広い」の名詞形",
+    "romaji": "hirosa"
   },
   {
     "id": "card_1569",
@@ -43950,7 +45517,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "度好擺雪櫃個位嘅大細之後先去買。",
       "fr": "Je vais mesurer la taille de l'emplacement du réfrigérateur avant d'aller l'acheter."
     },
-    "related": "形容詞「大きい」の名詞形"
+    "related": "形容詞「大きい」の名詞形",
+    "romaji": "ookisa"
   },
   {
     "id": "card_1570",
@@ -43978,7 +45546,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺母親節嗰日，我懷住感謝嘅心意送咗份禮物。",
       "fr": "J'ai offert un cadeau plein de gratitude pour la fête des Mères."
     },
-    "related": "類義語: プレゼント"
+    "related": "類義語: プレゼント",
+    "romaji": "okurimono"
   },
   {
     "id": "card_1571",
@@ -44006,7 +45575,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗祝賀佐藤小姐結婚，大家一齊送咗個鐘畀佢。",
       "fr": "Pour célébrer le mariage de Mme Sato, nous lui avons tous offert une horloge."
     },
-    "related": "動詞: 祝う（いわう）"
+    "related": "動詞: 祝う（いわう）",
+    "romaji": "oiwai"
   },
   {
     "id": "card_1572",
@@ -44034,7 +45604,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去探留院嘅田中先生病，仲送咗束花畀佢。",
       "fr": "Je suis allé rendre visite à M. Tanaka à l'hôpital et je lui ai apporté des fleurs."
     },
-    "related": "表現: お見舞いに行く"
+    "related": "表現: お見舞いに行く",
+    "romaji": "omimai"
   },
   {
     "id": "card_1573",
@@ -44062,7 +45633,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "部長送咗一本好有用嘅書畀我。",
       "fr": "Le chef de département m'a aimablement donné un livre très utile."
     },
-    "related": "「くれる」の尊敬語（くださいます）"
+    "related": "「くれる」の尊敬語（くださいます）",
+    "romaji": "kudasaru / kudasaimasu"
   },
   {
     "id": "card_1574",
@@ -44090,7 +45662,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "承蒙老師幫我寫咗封推薦信。",
       "fr": "J'ai eu l'honneur de faire écrire une lettre de recommandation par mon professeur."
     },
-    "related": "「もらう」の謙譲語"
+    "related": "「もらう」の謙譲語",
+    "romaji": "itadaku / itadakimasu"
   },
   {
     "id": "card_1575",
@@ -44118,7 +45691,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我寫咗封感謝信送畀照顧過我嘅老師。",
       "fr": "J'ai envoyé une lettre de remerciement au professeur qui s'est occupé de moi."
     },
-    "related": "「あげる」の謙譲語"
+    "related": "「あげる」の謙譲語",
+    "romaji": "sashiageru / sashiagemasu"
   },
   {
     "id": "card_1576",
@@ -44146,7 +45720,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早出門口之前，我都會餵狗。",
       "fr": "Chaque matin avant de sortir, je donne à manger au chien."
     },
-    "related": "五段動詞 / 「あげる」の下位向け表現"
+    "related": "五段動詞 / 「あげる」の下位向け表現",
+    "romaji": "yaru / yarimasu"
   },
   {
     "id": "card_1577",
@@ -44174,7 +45749,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果有唔明嘅地方，隨便問公司嘅前輩啦。",
       "fr": "S'il y a quelque chose que vous ne comprenez pas, n'hésitez pas à demander à vos aînés au travail."
     },
-    "related": "対義語: 後輩（こうはい）"
+    "related": "対義語: 後輩（こうはい）",
+    "romaji": "senpai"
   },
   {
     "id": "card_1578",
@@ -44202,7 +45778,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "春天嚟咗新嘅後輩，我教緊佢做嘢。",
       "fr": "Comme un nouveau junior est arrivé au printemps, je lui apprends le métier."
     },
-    "related": "対義語: 先輩（せんぱい）"
+    "related": "対義語: 先輩（せんぱい）",
+    "romaji": "kouhai"
   },
   {
     "id": "card_1579",
@@ -44230,7 +45807,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "關於出差嘅行程，我同上司傾過。",
       "fr": "J'ai consulté mon supérieur au sujet du programme du voyage d'affaires."
     },
-    "related": "対義語: 部下（ぶか）"
+    "related": "対義語: 部下（ぶか）",
+    "romaji": "joushi"
   },
   {
     "id": "card_1580",
@@ -44258,7 +45836,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下星期嘅會議社長都會出席。",
       "fr": "Le président de l'entreprise assistera également à la réunion de la semaine prochaine."
     },
-    "related": "役職名"
+    "related": "役職名",
+    "romaji": "shachou"
   },
   {
     "id": "card_1581",
@@ -44286,7 +45865,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中部長而家開緊會，遲啲再覆電話畀你。",
       "fr": "Le directeur Tanaka est actuellement en réunion, il vous rappellera plus tard."
     },
-    "related": "役職名"
+    "related": "役職名",
+    "romaji": "buchou"
   },
   {
     "id": "card_1582",
@@ -44314,7 +45894,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我請鈴木課長幫我檢查咗份報告。",
       "fr": "J'ai fait vérifier le rapport que j'ai rédigé par le chef de section Suzuki."
     },
-    "related": "役職名"
+    "related": "役職名",
+    "romaji": "kachou"
   },
   {
     "id": "card_1583",
@@ -44342,7 +45923,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐嘅爸爸喺高中教數學。",
       "fr": "Le père de Mme Sato enseigne les mathématiques au lycée."
     },
-    "related": "自分の父（謙譲）: 父（ちち）"
+    "related": "自分の父（謙譲）: 父（ちち）",
+    "romaji": "otousan"
   },
   {
     "id": "card_1584",
@@ -44370,7 +45952,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽講高橋小姐嘅媽媽煮嘢食好叻。",
       "fr": "Il paraît que la mère de Mme Takahashi cuisine très bien."
     },
-    "related": "自分の母（謙譲）: 母（はは）"
+    "related": "自分の母（謙譲）: 母（はは）",
+    "romaji": "okaasan"
   },
   {
     "id": "card_1585",
@@ -44398,7 +45981,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中村先生嘅哥哥喺大阪間銀行做嘢。",
       "fr": "Le grand frère de M. Nakamura travaille dans une banque à Osaka."
     },
-    "related": "自分の兄（謙譲）: 兄（あに）"
+    "related": "自分の兄（謙譲）: 兄（あに）",
+    "romaji": "oniisan"
   },
   {
     "id": "card_1586",
@@ -44426,7 +46010,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽講伊藤先生嘅家姐下個月結婚。",
       "fr": "J'ai entendu dire que la grande sœur de M. Ito se marie le mois prochain."
     },
-    "related": "自分の姉（謙譲）: 姉（あね）"
+    "related": "自分の姉（謙譲）: 姉（あね）",
+    "romaji": "oneesan"
   },
   {
     "id": "card_1587",
@@ -44454,7 +46039,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐嘅先生由上個月開始去咗倫敦出差。",
       "fr": "Le mari de Mme Suzuki est en voyage d'affaires à Londres depuis le mois dernier."
     },
-    "related": "自分の夫: 夫（おっと）・主人"
+    "related": "自分の夫: 夫（おっと）・主人",
+    "romaji": "goshujin"
   },
   {
     "id": "card_1588",
@@ -44482,7 +46068,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我收到田中先生嘅太太親手整嘅甜品。",
       "fr": "J'ai reçu des gâteaux préparés par l'épouse de M. Tanaka."
     },
-    "related": "自分の妻: 妻（つま）・家内"
+    "related": "自分の妻: 妻（つま）・家内",
+    "romaji": "okusan"
   },
   {
     "id": "card_1589",
@@ -44510,7 +46097,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "課長嘅小朋友今年升讀小學。",
       "fr": "L'enfant du chef de section est entré à l'école primaire cette année."
     },
-    "related": "自分の子: 子ども"
+    "related": "自分の子: 子ども",
+    "romaji": "okosan"
   },
   {
     "id": "card_1590",
@@ -44538,7 +46126,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽講部長嘅千金彈琴好叻。",
       "fr": "Il paraît que la fille du directeur joue très bien du piano."
     },
-    "related": "自分の娘: 娘（むすめ）"
+    "related": "自分の娘: 娘（むすめ）",
+    "romaji": "ojousan"
   },
   {
     "id": "card_1591",
@@ -44566,7 +46155,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我去咗老師屋企拜訪，聽佢講咗好多嘢。",
       "fr": "Ce week-end, je me suis rendu au domicile de mon professeur pour discuter."
     },
-    "related": "自分の家: 家（いえ・うち）"
+    "related": "自分の家: 家（いえ・うち）",
+    "romaji": "otaku"
   },
   {
     "id": "card_1592",
@@ -44594,7 +46184,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗升讀研究院，我拜託教授幫我寫推薦信。",
       "fr": "Pour entrer à l'école doctorale, j'ai demandé une lettre de recommandation à mon professeur."
     },
-    "related": "表現: 推薦状を書く"
+    "related": "表現: 推薦状を書く",
+    "romaji": "suisenjou"
   },
   {
     "id": "card_1593",
@@ -44622,7 +46213,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我向幫咗我手嘅中村先生道謝。",
       "fr": "J'ai remercié M. Nakamura qui m'avait aidé."
     },
-    "related": "表現: お礼を言う"
+    "related": "表現: お礼を言う",
+    "romaji": "orei"
   },
   {
     "id": "card_1594",
@@ -44650,7 +46242,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺日本嗰陣，我真係受到田中先生同太太好多照顧。",
       "fr": "Pendant mon séjour au Japon, M. et Mme Tanaka se sont vraiment bien occupés de moi."
     },
-    "related": "挨拶: いつもお世話になっております"
+    "related": "挨拶: いつもお世話になっております",
+    "romaji": "osewa ni naru"
   },
   {
     "id": "card_1595",
@@ -44678,7 +46271,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為隻貓肚餓，我餵咗貓糧畀佢。",
       "fr": "Comme le chat avait faim, je lui ai donné à manger."
     },
-    "related": "漢字表記: 餌（えさ）"
+    "related": "漢字表記: 餌（えさ）",
+    "romaji": "esa"
   },
   {
     "id": "card_1596",
@@ -44706,7 +46300,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺前輩嗰度得到好多關於工作嘅建議。",
       "fr": "J'ai reçu beaucoup de conseils sur le travail de la part de mon aîné."
     },
-    "related": "類義語: 助言（じょげん）"
+    "related": "類義語: 助言（じょげん）",
+    "romaji": "adobaisu"
   },
   {
     "id": "card_1597",
@@ -44734,7 +46329,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個字典App對學日文好有用。",
       "fr": "Cette application de dictionnaire est très utile pour étudier le japonais."
     },
-    "related": "表現: 役に立つ情報"
+    "related": "表現: 役に立つ情報",
+    "romaji": "yakunitatsu / yakunitachimasu"
   },
   {
     "id": "card_1598",
@@ -44762,7 +46358,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去外國旅行需要護照。",
       "fr": "Il faut un passeport pour voyager à l'étranger."
     },
-    "related": "五段動詞（※「居る」は一段動詞）"
+    "related": "五段動詞（※「居る」は一段動詞）",
+    "romaji": "iru / irimasu"
   },
   {
     "id": "card_1599",
@@ -44790,7 +46387,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "起間屋需要使好多錢同時間。",
       "fr": "Construire une maison prend beaucoup de temps et d'argent."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "kakaru / kakarimasu"
   },
   {
     "id": "card_1600",
@@ -44818,7 +46416,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗飲咖啡，我用煲煲滾咗啲水。",
       "fr": "J'ai fait bouillir de l'eau dans la bouilloire pour boire du café."
     },
-    "related": "五段動詞（他動詞） / 自動詞: 沸く"
+    "related": "五段動詞（他動詞） / 自動詞: 沸く",
+    "romaji": "wakasu / wakashimasu"
   },
   {
     "id": "card_1601",
@@ -44846,7 +46445,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "水滾喇，我哋沖茶啦。",
       "fr": "L'eau a bouilli, préparons le thé."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 沸かす"
+    "related": "五段動詞（自動詞） / 他動詞: 沸かす",
+    "romaji": "waku / wakimasu"
   },
   {
     "id": "card_1602",
@@ -44874,7 +46474,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將買返嚟嘅便當放入微波爐叮熱咗。",
       "fr": "J'ai réchauffé le bento que j'avais acheté au micro-ondes."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 温まる"
+    "related": "一段動詞（他動詞） / 自動詞: 温まる",
+    "romaji": "atatameru / atatamemasu"
   },
   {
     "id": "card_1603",
@@ -44902,7 +46503,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請將雞蛋同牛奶放入碗入面，徹底攪勻。",
       "fr": "Mettez les œufs et le lait dans un bol et mélangez bien."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 混ざる"
+    "related": "一段動詞（他動詞） / 自動詞: 混ざる",
+    "romaji": "mazeru / mazemasu"
   },
   {
     "id": "card_1604",
@@ -44930,7 +46532,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期日朝早，我喺屋企焗麵包同曲奇。",
       "fr": "Le dimanche matin, je fais cuire du pain et des biscuits à la maison."
     },
-    "related": "五段動詞（他動詞） / 自動詞: 焼ける"
+    "related": "五段動詞（他動詞） / 自動詞: 焼ける",
+    "romaji": "yaku / yakimasu"
   },
   {
     "id": "card_1605",
@@ -44958,7 +46561,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇落好好食嘅蛋糕焗得好靚。",
       "fr": "Un gâteau qui a l'air délicieux a bien cuit."
     },
-    "related": "一段動詞（自動詞） / 他動詞: 焼く"
+    "related": "一段動詞（自動詞） / 他動詞: 焼く",
+    "romaji": "yakeru / yakemasu"
   },
   {
     "id": "card_1606",
@@ -44986,7 +46590,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗剪紙，我喺櫃桶度攞咗把較剪出嚟。",
       "fr": "Pour couper le papier, j'ai sorti des ciseaux du tiroir."
     },
-    "related": "道具を表す名詞"
+    "related": "道具を表す名詞",
+    "romaji": "hasami"
   },
   {
     "id": "card_1607",
@@ -45014,7 +46619,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "張凳粒螺絲鬆咗，我用螺絲批扭緊返佢。",
       "fr": "La vis de la chaise était desserrée, je l'ai donc resserrée avec un tournevis."
     },
-    "related": "道具を表す名詞"
+    "related": "道具を表す名詞",
+    "romaji": "doraibaa"
   },
   {
     "id": "card_1608",
@@ -45042,7 +46648,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "風呂敷用嚟包各種形狀嘅嘢好方便。",
       "fr": "Le furoshiki est pratique pour emballer des objets de différentes formes."
     },
-    "related": "日本の伝統文化"
+    "related": "日本の伝統文化",
+    "romaji": "furoshiki"
   },
   {
     "id": "card_1609",
@@ -45070,7 +46677,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我買齊咗去露營要用嘅工具。",
       "fr": "J'ai rassemblé le matériel nécessaire pour aller camper."
     },
-    "related": "関連語: 料理の道具"
+    "related": "関連語: 料理の道具",
+    "romaji": "dougu"
   },
   {
     "id": "card_1610",
@@ -45098,7 +46706,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我自己儲緊去留學要用嘅費用。",
       "fr": "J'économise moi-même pour payer les frais de mes études à l'étranger."
     },
-    "related": "表現: 費用がかかる"
+    "related": "表現: 費用がかかる",
+    "romaji": "hiyou"
   },
   {
     "id": "card_1611",
@@ -45126,7 +46735,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，我盡量每日食多啲菜。",
       "fr": "Pour ma santé, j'essaie de manger beaucoup de légumes tous les jours."
     },
-    "related": "な形容詞・名詞"
+    "related": "な形容詞・名詞",
+    "romaji": "kenkou"
   },
   {
     "id": "card_1612",
@@ -45154,7 +46764,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開始有烏雲，睇落就快落雨咁。",
       "fr": "Des nuages noirs sont apparus, il semble qu'il va pleuvoir d'un moment à l'autre."
     },
-    "related": "表現: 今にも〜そうだ"
+    "related": "表現: 今にも〜そうだ",
+    "romaji": "imanimo"
   },
   {
     "id": "card_1613",
@@ -45182,7 +46793,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一到車站，突然間就開始落雨。",
       "fr": "À peine arrivé à la gare, il s'est soudainement mis à pleuvoir."
     },
-    "related": "複合動詞（降る＋出す）"
+    "related": "複合動詞（降る＋出す）",
+    "romaji": "furidasu"
   },
   {
     "id": "card_1614",
@@ -45210,7 +46822,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個小朋友突然衝出馬路，嚇咗我一跳。",
       "fr": "Un enfant a soudainement surgi sur la route, ce qui m'a fait très peur."
     },
-    "related": "複合動詞（飛ぶ＋出す）"
+    "related": "複合動詞（飛ぶ＋出す）",
+    "romaji": "tobidasu"
   },
   {
     "id": "card_1615",
@@ -45238,7 +46851,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一聽到呢首歌，我就會諗返起讀中學嗰陣嘅事。",
       "fr": "Quand j'écoute cette chanson, je me souviens de mes années de lycée."
     },
-    "related": "複合動詞（思う＋出す）"
+    "related": "複合動詞（思う＋出す）",
+    "romaji": "omoidasu"
   },
   {
     "id": "card_1616",
@@ -45266,7 +46880,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺車站附近搵到間睇落氣氛唔錯嘅Cafe。",
       "fr": "J'ai trouvé un café près de la gare qui a l'air d'avoir une bonne ambiance."
     },
-    "related": "「いい」の様態表現（よさそうだ）"
+    "related": "「いい」の様態表現（よさそうだ）",
+    "romaji": "yosasouna"
   },
   {
     "id": "card_1617",
@@ -45294,7 +46909,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日睇落冇乜時間，我哋搭的士去啦。",
       "fr": "Comme nous n'avons pas l'air d'avoir beaucoup de temps aujourd'hui, allons-y en taxi."
     },
-    "related": "「ない」の様態表現（なさそうだ）"
+    "related": "「ない」の様態表現（なさそうだ）",
+    "romaji": "nasasouna"
   },
   {
     "id": "card_1618",
@@ -45322,7 +46938,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "東京地鐵嘅路線圖好複雜，一開始我都盪失路。",
       "fr": "Le plan du métro de Tokyo est complexe, je me suis donc perdu au début."
     },
-    "related": "対義語: 簡単な・単純な"
+    "related": "対義語: 簡単な・単純な",
+    "romaji": "fukuzatsuna"
   },
   {
     "id": "card_1619",
@@ -45350,7 +46967,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "尋晚食得太多燒肉，而家個肚好痛。",
       "fr": "Hier soir, j'ai trop mangé de yakiniku et j'ai mal au ventre."
     },
-    "related": "複合動詞（食べます＋すぎる）"
+    "related": "複合動詞（食べます＋すぎる）",
+    "romaji": "tabesugiru"
   },
   {
     "id": "card_1620",
@@ -45378,7 +46996,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺派對飲得太多酒，今朝個頭好痛。",
       "fr": "J'ai bu trop d'alcool à la fête et j'avais mal à la tête ce matin."
     },
-    "related": "複合動詞（飲みます＋すぎる）"
+    "related": "複合動詞（飲みます＋すぎる）",
+    "romaji": "nomi sugiru"
   },
   {
     "id": "card_1621",
@@ -45406,7 +47025,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生最近做嘢太搏命，最好休息下。",
       "fr": "M. Tanaka travaille trop ces derniers temps, il ferait mieux de se reposer un peu."
     },
-    "related": "複合動詞（働きます＋すぎる）"
+    "related": "複合動詞（働きます＋すぎる）",
+    "romaji": "hataraki sugiru"
   },
   {
     "id": "card_1622",
@@ -45434,7 +47054,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢對波鞋好輕，著住好舒服好易行。",
       "fr": "Ces baskets sont légères et très agréables pour marcher."
     },
-    "related": "対義語: 歩きにくい"
+    "related": "対義語: 歩きにくい",
+    "romaji": "arukiyasui"
   },
   {
     "id": "card_1623",
@@ -45462,7 +47083,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢支原子筆好順滑，好好寫。",
       "fr": "Ce stylo-bille glisse bien et est très agréable pour écrire."
     },
-    "related": "対義語: 書きにくい"
+    "related": "対義語: 書きにくい",
+    "romaji": "kakiyasui"
   },
   {
     "id": "card_1624",
@@ -45490,7 +47112,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "高橋老師嘅解釋不嬲都好易明。",
       "fr": "Les explications du professeur Takahashi sont toujours faciles à comprendre."
     },
-    "related": "対義語: 分かりにくい"
+    "related": "対義語: 分かりにくい",
+    "romaji": "wakariyasui"
   },
   {
     "id": "card_1625",
@@ -45518,7 +47141,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢隻藥好苦，有啲難吞。",
       "fr": "Ce médicament est amer et un peu difficile à avaler."
     },
-    "related": "対義語: 飲みやすい"
+    "related": "対義語: 飲みやすい",
+    "romaji": "nominikui"
   },
   {
     "id": "card_1626",
@@ -45546,7 +47170,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "啲字太細粒喇，有啲難睇。",
       "fr": "Les caractères sont trop petits, c'est un peu difficile à lire."
     },
-    "related": "対義語: 読みやすい"
+    "related": "対義語: 読みやすい",
+    "romaji": "yominikui"
   },
   {
     "id": "card_1627",
@@ -45574,7 +47199,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個鎮交通方便，物價又平，好好住。",
       "fr": "Cette ville est bien desservie, la vie n'y est pas chère et il est agréable d'y vivre."
     },
-    "related": "対義語: 住みにくい"
+    "related": "対義語: 住みにくい",
+    "romaji": "sumiyasui"
   },
   {
     "id": "card_1628",
@@ -45602,7 +47228,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個法包有啲硬，但係好好食。",
       "fr": "Cette baguette est un peu dure, mais elle est très bonne."
     },
-    "related": "対義語: 柔らかい（やわらかい）"
+    "related": "対義語: 柔らかい（やわらかい）",
+    "romaji": "katai"
   },
   {
     "id": "card_1629",
@@ -45630,7 +47257,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢間餐廳嘅牛扒啲肉好腍。",
       "fr": "La viande du steak de ce restaurant est très tendre."
     },
-    "related": "対義語: 硬い（かたい）"
+    "related": "対義語: 硬い（かたい）",
+    "romaji": "yawarakai"
   },
   {
     "id": "card_1630",
@@ -45658,7 +47286,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢條河好深，喺度游水好危險。",
       "fr": "Cette rivière est profonde, il est donc dangereux d'y nager."
     },
-    "related": "対義語: 浅い（あさい）"
+    "related": "対義語: 浅い（あさい）",
+    "romaji": "fukai"
   },
   {
     "id": "card_1631",
@@ -45686,7 +47315,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "兒童池好淺水，可以放心玩。",
       "fr": "La piscine pour enfants est peu profonde, on peut donc y jouer en toute tranquillité."
     },
-    "related": "対義語: 深い（ふかい）"
+    "related": "対義語: 深い（ふかい）",
+    "romaji": "asai"
   },
   {
     "id": "card_1632",
@@ -45714,7 +47344,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果發生地震，請先疏散去安全嘅地方。",
       "fr": "En cas de tremblement de terre, évacuez d'abord vers un endroit sûr."
     },
-    "related": "対義語: 危険な（きけんな）"
+    "related": "対義語: 危険な（きけんな）",
+    "romaji": "anzenna"
   },
   {
     "id": "card_1633",
@@ -45742,7 +47373,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜媽媽一個人行黑路好危險。",
       "fr": "Il est dangereux de marcher seul dans une rue sombre tard le soir."
     },
-    "related": "対義語: 安全な / 類義語: 危ない"
+    "related": "対義語: 安全な / 類義語: 危ない",
+    "romaji": "kikenna"
   },
   {
     "id": "card_1634",
@@ -45770,7 +47402,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐講嘢不嬲都好有禮貌。",
       "fr": "Mme Suzuki parle toujours avec politesse."
     },
-    "related": "な形容詞"
+    "related": "な形容詞",
+    "romaji": "teineina"
   },
   {
     "id": "card_1635",
@@ -45798,7 +47431,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好意思，我而家冇散紙，用一萬円紙幣得唔得？",
       "fr": "Excusez-moi, je n'ai pas de monnaie sur moi, puis-je payer avec un billet de 10 000 yens ?"
     },
-    "related": "表現: 細かいお金（小銭）"
+    "related": "表現: 細かいお金（小銭）",
+    "romaji": "komakai"
   },
   {
     "id": "card_1636",
@@ -45826,7 +47460,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果開會遲到嘅情況下，請一定要聯絡我哋。",
       "fr": "Si vous êtes en retard à la réunion, veuillez impérativement nous prévenir."
     },
-    "related": "文法: 〜場合は"
+    "related": "文法: 〜場合は",
+    "romaji": "baai"
   },
   {
     "id": "card_1637",
@@ -45854,7 +47489,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "火警鐘響咗，我哋由逃生門疏散去出面。",
       "fr": "Comme l'alarme incendie a sonné, nous avons évacué par la sortie de secours."
     },
-    "related": "関連語: 避難場所"
+    "related": "関連語: 避難場所",
+    "romaji": "hinansuru"
   },
   {
     "id": "card_1638",
@@ -45882,7 +47518,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果落雨，聽日嘅運動會會延期到下星期。",
       "fr": "En cas de pluie, la journée sportive de demain sera reportée à la semaine prochaine."
     },
-    "related": "類義語: 延ばす / 対義語: 中止する"
+    "related": "類義語: 延ばす / 対義語: 中止する",
+    "romaji": "enkisuru"
   },
   {
     "id": "card_1639",
@@ -45910,7 +47547,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為打風關係，今日嘅演唱會取消咗。",
       "fr": "Comme un typhon approche, le concert d'aujourd'hui a été annulé."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "chuushisuru"
   },
   {
     "id": "card_1640",
@@ -45938,7 +47576,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落車嗰陣，我問的士司機攞咗張收據。",
       "fr": "En descendant du taxi, j'ai demandé un reçu au chauffeur."
     },
-    "related": "関連語: レシート"
+    "related": "関連語: レシート",
+    "romaji": "ryoushuusho"
   },
   {
     "id": "card_1641",
@@ -45966,7 +47605,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "雖然我好努力咁跑，但都係趕唔切班電車。",
       "fr": "J'ai couru de toutes mes forces, mais j'ai raté le train."
     },
-    "related": "副詞・な形容詞"
+    "related": "副詞・な形容詞",
+    "romaji": "isshoukenmei"
   },
   {
     "id": "card_1642",
@@ -45994,7 +47634,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "難得佐藤小姐特登整咗蛋糕畀我，我竟然食唔到。",
       "fr": "Alors que Mme Sato s'était donné la peine de me faire un gâteau, je n'ai pas pu le manger."
     },
-    "related": "表現: せっかく〜のに"
+    "related": "表現: せっかく〜のに",
+    "romaji": "sekkaku"
   },
   {
     "id": "card_1643",
@@ -46022,7 +47663,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我而家準備去食晏，不如一齊去吖？",
       "fr": "Je suis sur le point d'aller déjeuner, voulez-vous venir avec moi ?"
     },
-    "related": "表現: これから〜するところだ"
+    "related": "表現: これから〜するところだ",
+    "romaji": "korekara"
   },
   {
     "id": "card_1644",
@@ -46050,7 +47692,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去到車站嗰陣，架電車啱啱好到站。",
       "fr": "Quand je suis arrivé à la gare, le train venait tout juste d'arriver."
     },
-    "related": "副詞"
+    "related": "副詞",
+    "romaji": "choudo"
   },
   {
     "id": "card_1645",
@@ -46078,7 +47721,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺網上訂嘅書今朝送到嚟喇。",
       "fr": "Le livre que j'ai commandé sur Internet est arrivé ce matin."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 届ける"
+    "related": "五段動詞（自動詞） / 他動詞: 届ける",
+    "romaji": "todoku / todokimasu"
   },
   {
     "id": "card_1646",
@@ -46106,7 +47750,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將喺街執到嘅銀包交咗去附近嘅派出所。",
       "fr": "J'ai rapporté le portefeuille trouvé dans la rue au poste de police voisin."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 届く"
+    "related": "一段動詞（他動詞） / 自動詞: 届く",
+    "romaji": "todokeru / todokemasu"
   },
   {
     "id": "card_1647",
@@ -46134,7 +47779,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "過咗食晏時間，餐廳就會少返人。",
       "fr": "Une fois l'heure du déjeuner passée, le restaurant se vide."
     },
-    "related": "五段動詞 / 対義語: 混む"
+    "related": "五段動詞 / 対義語: 混む",
+    "romaji": "suku / sukimasu"
   },
   {
     "id": "card_1648",
@@ -46162,7 +47808,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為免部電腦壞咗要整，我好好咁收埋張保養證。",
       "fr": "Je garde précieusement le certificat de garantie au cas où mon ordinateur tomberait en panne."
     },
-    "related": "複合名詞"
+    "related": "複合名詞",
+    "romaji": "hoshousho"
   },
   {
     "id": "card_1649",
@@ -46190,7 +47837,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "根據天氣預報講，聽日成日都會係好天。",
       "fr": "D'après la météo, il fera beau toute la journée demain."
     },
-    "related": "表現: 天気予報によると"
+    "related": "表現: 天気予報によると",
+    "romaji": "tenkiyohou"
   },
   {
     "id": "card_1650",
@@ -46218,7 +47866,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽聞車站前面會起一個新嘅商場。",
       "fr": "Selon la rumeur, un nouveau centre commercial va ouvrir devant la gare."
     },
-    "related": "漢字表記: 噂"
+    "related": "漢字表記: 噂",
+    "romaji": "uwasa"
   },
   {
     "id": "card_1651",
@@ -46246,7 +47895,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺今朝嘅新聞度知道咗嗰單大件事。",
       "fr": "J'ai appris cet événement important aux informations de ce matin."
     },
-    "related": "表現: ニュースを見る"
+    "related": "表現: ニュースを見る",
+    "romaji": "nyuusu"
   },
   {
     "id": "card_1652",
@@ -46274,7 +47924,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我去咗田中先生屋企，但係熄晒燈，好似唔喺屋企。",
       "fr": "Je suis allé chez M. Tanaka, mais les lumières étaient éteintes, il semblait absent."
     },
-    "related": "関連語: 留守番（るすばん）"
+    "related": "関連語: 留守番（るすばん）",
+    "romaji": "rusu"
   },
   {
     "id": "card_1653",
@@ -46302,7 +47953,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "睇緊電視嗰陣，多士爐入面塊麵包烘燶咗。",
       "fr": "Pendant que je regardais la télévision, le pain dans le grille-pain a brûlé."
     },
-    "related": "一段動詞（自動詞）"
+    "related": "一段動詞（自動詞）",
+    "romaji": "kogeru / kogemasu"
   },
   {
     "id": "card_1654",
@@ -46330,7 +47982,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢粒糖有好清新嘅檸檬味。",
       "fr": "Ce bonbon a un goût rafraîchissant de citron."
     },
-    "related": "五感表現（味覚）"
+    "related": "五感表現（味覚）",
+    "romaji": "aji ga suru"
   },
   {
     "id": "card_1655",
@@ -46358,7 +48011,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "廚房傳嚟好香嘅咖喱味呀。",
       "fr": "Une bonne odeur de curry vient de la cuisine."
     },
-    "related": "五感表現（嗅覚）"
+    "related": "五感表現（嗅覚）",
+    "romaji": "nioi ga suru"
   },
   {
     "id": "card_1656",
@@ -46386,7 +48040,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "隔離房傳嚟好動聽嘅鋼琴聲。",
       "fr": "On entend un joli son de piano venant de la pièce voisine."
     },
-    "related": "五感表現（聴覚：物音）"
+    "related": "五感表現（聴覚：物音）",
+    "romaji": "oto ga suru"
   },
   {
     "id": "card_1657",
@@ -46414,7 +48069,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺玄關嗰邊傳嚟佐藤小姐好開心嘅把聲。",
       "fr": "On entend la voix joyeuse de Mme Sato depuis l'entrée."
     },
-    "related": "五感表現（聴覚：人・動物の声）"
+    "related": "五感表現（聴覚：人・動物の声）",
+    "romaji": "koe ga suru"
   },
   {
     "id": "card_1658",
@@ -46442,7 +48098,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "望住呢幅畫，有一種個心靜落嚟嘅感覺。",
       "fr": "En regardant ce tableau, j'ai l'impression que mon esprit s'apaise."
     },
-    "related": "感覚・直感の表現"
+    "related": "感覚・直感の表現",
+    "romaji": "kanji ga suru"
   },
   {
     "id": "card_1659",
@@ -46470,7 +48127,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "根據今朝份報紙講，下個月開始會加電費。",
       "fr": "Selon le journal de ce matin, le prix de l'électricité va augmenter le mois prochain."
     },
-    "related": "伝聞の情報源を表す文法"
+    "related": "伝聞の情報源を表す文法",
+    "romaji": "~ni yoru to"
   },
   {
     "id": "card_1660",
@@ -46498,7 +48156,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "條馬路濕晒，半夜好似落過雨咁。",
       "fr": "Comme la route est mouillée, il semble qu'il ait plu pendant la nuit."
     },
-    "related": "客観的根拠に基づく推量"
+    "related": "客観的根拠に基づく推量",
+    "romaji": "~you desu"
   },
   {
     "id": "card_1661",
@@ -46526,7 +48185,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐好似傷風，今日應該會請假。",
       "fr": "On dirait que Mme Suzuki a attrapé un rhume et qu'elle est absente aujourd'hui."
     },
-    "related": "「〜ようです」の会話表現"
+    "related": "「〜ようです」の会話表現",
+    "romaji": "~mitai desu"
   },
   {
     "id": "card_1662",
@@ -46554,7 +48214,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰個係好可靠嘅消息，請放心啦。",
       "fr": "C'est une information sûre, alors soyez rassuré."
     },
-    "related": "副詞: 確か（たしか）"
+    "related": "副詞: 確か（たしか）",
+    "romaji": "tashikana"
   },
   {
     "id": "card_1663",
@@ -46582,7 +48243,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐日日都咁努力讀書，一定會合格嘅。",
       "fr": "Comme Mme Sato étudie sérieusement tous les jours, elle réussira sûrement."
     },
-    "related": "高い確信を表す副詞"
+    "related": "高い確信を表す副詞",
+    "romaji": "kitto"
   },
   {
     "id": "card_1664",
@@ -46610,7 +48272,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為塞車，恐怕要六點左右先會到。",
       "fr": "Comme la route est embouteillée, nous arriverons probablement vers 18 heures."
     },
-    "related": "「たぶん」より硬い表現（〜だろうと呼応）"
+    "related": "「たぶん」より硬い表現（〜だろうと呼応）",
+    "romaji": "osoraku"
   },
   {
     "id": "card_1665",
@@ -46638,7 +48301,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗健康，阿媽日日都逼我食菜。",
       "fr": "Ma mère me fait manger des légumes tous les jours pour ma santé."
     },
-    "related": "「食べる」（一段）の使役形"
+    "related": "「食べる」（一段）の使役形",
+    "romaji": "tabesaseru"
   },
   {
     "id": "card_1666",
@@ -46666,7 +48330,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我餵咗發燒嘅小朋友食藥，再氹佢早啲瞓。",
       "fr": "J'ai fait boire son médicament à mon enfant qui avait de la fièvre et je l'ai couché tôt."
     },
-    "related": "「飲む」（五段）の使役形"
+    "related": "「飲む」（五段）の使役形",
+    "romaji": "nomaseru"
   },
   {
     "id": "card_1667",
@@ -46694,7 +48359,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "部長下星期派田中先生去大阪分社。",
       "fr": "Le directeur enverra M. Tanaka à la succursale d'Osaka la semaine prochaine."
     },
-    "related": "「行く」（五段）の使役形"
+    "related": "「行く」（五段）の使役形",
+    "romaji": "ikaseru"
   },
   {
     "id": "card_1668",
@@ -46722,7 +48388,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為行李太重，我叫細佬嚟車站接我。",
       "fr": "Comme mes bagages étaient lourds, j'ai fait venir mon petit frère à la gare pour m'aider."
     },
-    "related": "「来る」（カ変）の使役形"
+    "related": "「来る」（カ変）の使役形",
+    "romaji": "kosaseru"
   },
   {
     "id": "card_1669",
@@ -46750,7 +48417,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "老師叫學生寫一篇關於自己將來夢想嘅作文。",
       "fr": "Le professeur a fait écrire aux étudiants une rédaction sur leurs rêves d'avenir."
     },
-    "related": "「書く」（五段）の使役形"
+    "related": "「書く」（五段）の使役形",
+    "romaji": "kakaseru"
   },
   {
     "id": "card_1670",
@@ -46778,7 +48446,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上堂嗰陣，老師叫學生逐個讀課文。",
       "fr": "En cours, le professeur a fait lire les phrases du manuel aux élèves un par un."
     },
-    "related": "「読む」（五段）の使役形"
+    "related": "「読む」（五段）の使役形",
+    "romaji": "yomaseru"
   },
   {
     "id": "card_1671",
@@ -46806,7 +48475,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿媽成日都叫我哋兩姊弟幫手準備晚餐。",
       "fr": "Ma mère nous fait toujours aider, mon frère et moi, à préparer le dîner."
     },
-    "related": "「手伝う」（五段）の使役形"
+    "related": "「手伝う」（五段）の使役形",
+    "romaji": "tetsudawaseru"
   },
   {
     "id": "card_1672",
@@ -46834,7 +48504,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我叫小朋友自己執返好晒啲亂七八糟嘅玩具。",
       "fr": "J'ai fait ranger ses jouets éparpillés à mon enfant lui-même."
     },
-    "related": "「片付ける」（一段）の使役形"
+    "related": "「片付ける」（一段）の使役形",
+    "romaji": "katazukesaseru"
   },
   {
     "id": "card_1673",
@@ -46862,7 +48533,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔好即刻講答案，最緊要係俾佢自己諗下先。",
       "fr": "Il est important de les faire réfléchir par eux-mêmes d'abord sans donner la réponse tout de suite."
     },
-    "related": "「考える」（一段）の使役形"
+    "related": "「考える」（一段）の使役形",
+    "romaji": "kangaesaseru"
   },
   {
     "id": "card_1674",
@@ -46890,7 +48562,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "課長見鈴木小姐好似唔係幾舒服，就俾佢早啲返屋企休息。",
       "fr": "Le chef de section a laissé Mme Suzuki, qui semblait souffrante, rentrer tôt pour se reposer."
     },
-    "related": "「休む」（五段）の使役形"
+    "related": "「休む」（五段）の使役形",
+    "romaji": "yasumaseru"
   },
   {
     "id": "card_1675",
@@ -46918,7 +48591,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "醫院好多人，我喺大堂被迫等咗超過一個鐘。",
       "fr": "L'hôpital était bondé et on m'a fait attendre plus d'une heure dans le hall."
     },
-    "related": "「待つ」（五段）の使役受身形"
+    "related": "「待つ」（五段）の使役受身形",
+    "romaji": "matasareru"
   },
   {
     "id": "card_1676",
@@ -46946,7 +48620,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺尋日嘅迎新會度，我俾前輩逼飲咗好多酒。",
       "fr": "À la fête de bienvenue d'hier, mes aînés m'ont forcé à boire beaucoup d'alcool."
     },
-    "related": "「飲む」（五段）の使役受身形"
+    "related": "「飲む」（五段）の使役受身形",
+    "romaji": "nomasareru"
   },
   {
     "id": "card_1677",
@@ -46974,7 +48649,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "俾阿仔拉咗去玩具舖，焗住買咗件好貴嘅玩具。",
       "fr": "Mon enfant m'a entraîné dans un magasin de jouets et m'a obligé à acheter un jouet cher."
     },
-    "related": "「買う」（五段・ア行）の使役受身形"
+    "related": "「買う」（五段・ア行）の使役受身形",
+    "romaji": "kawasareru"
   },
   {
     "id": "card_1678",
@@ -47002,7 +48678,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為唔記得交功課，俾老師罰寫咗三張悔過書。",
       "fr": "Comme j'avais oublié mes devoirs, le professeur m'a obligé à écrire trois pages de réflexion."
     },
-    "related": "「書く」（五段）の使役受身形"
+    "related": "「書く」（五段）の使役受身形",
+    "romaji": "kakasareru"
   },
   {
     "id": "card_1679",
@@ -47030,7 +48707,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "被迫喺大家面前演講，仲被逼講咗啲好尷尬嘅嘢。",
       "fr": "On m'a fait faire un discours devant tout le monde et on m'a obligé à dire des choses gênantes."
     },
-    "related": "「言う」（五段・ア行）の使役受身形"
+    "related": "「言う」（五段・ア行）の使役受身形",
+    "romaji": "iwasareru"
   },
   {
     "id": "card_1680",
@@ -47058,7 +48736,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為牙痛，今日請批准我早退啦。",
       "fr": "Comme j'ai mal aux dents, permettez-moi de quitter le bureau plus tôt aujourd'hui."
     },
-    "related": "関連語: 遅刻する・欠席する"
+    "related": "関連語: 遅刻する・欠席する",
+    "romaji": "soutaisuru"
   },
   {
     "id": "card_1681",
@@ -47086,7 +48765,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下星期六我會出席朋友嘅婚禮。",
       "fr": "Samedi prochain, j'assisterai au mariage d'un ami."
     },
-    "related": "対義語: 欠席する"
+    "related": "対義語: 欠席する",
+    "romaji": "shussekisuru"
   },
   {
     "id": "card_1682",
@@ -47114,7 +48794,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為中咗流感，聽日嘅會議請容許我缺席。",
       "fr": "Ayant attrapé la grippe, permettez-moi d'être absent à la réunion de demain."
     },
-    "related": "対義語: 出席する"
+    "related": "対義語: 出席する",
+    "romaji": "kessekisuru"
   },
   {
     "id": "card_1683",
@@ -47142,7 +48823,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個活動唔係強制參加嘅，大家可以自由參與。",
       "fr": "La participation à cet événement n'est pas obligatoire, chacun est libre d'y assister."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "kyousei"
   },
   {
     "id": "card_1684",
@@ -47170,7 +48852,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺美術館入面，未經許可唔可以影相。",
       "fr": "Dans le musée, il est interdit de prendre des photos sans autorisation."
     },
-    "related": "表現: 許可をもらう"
+    "related": "表現: 許可をもらう",
+    "romaji": "kyoka"
   },
   {
     "id": "card_1685",
@@ -47198,7 +48881,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢份工作請一定要交畀我負責啦。",
       "fr": "Laissez-moi absolument m'occuper de ce travail, je vous prie."
     },
-    "related": "許可を求める丁寧な表現"
+    "related": "許可を求める丁寧な表現",
+    "romaji": "~sasete kudasai"
   },
   {
     "id": "card_1686",
@@ -47226,7 +48910,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為身體唔舒服，今日可唔可以俾我早少少返屋企呀？",
       "fr": "Comme je ne me sens pas bien, pourriez-vous me permettre de rentrer un peu plus tôt aujourd'hui ?"
     },
-    "related": "非常に丁寧な許可求め表現"
+    "related": "非常に丁寧な許可求め表現",
+    "romaji": "~saseteitadakemasenka"
   },
   {
     "id": "card_1687",
@@ -47254,7 +48939,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "社長而家喺社長室入面。",
       "fr": "Le président se trouve actuellement dans son bureau."
     },
-    "related": "「行く・来る・いる」の尊敬語"
+    "related": "「行く・来る・いる」の尊敬語",
+    "romaji": "irassharu / irasshaimasu"
   },
   {
     "id": "card_1688",
@@ -47282,7 +48968,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將老師講過嘅嘢記低咗喺簿入面。",
       "fr": "J'ai noté dans mon cahier ce que le professeur a dit."
     },
-    "related": "「言う」の尊敬語"
+    "related": "「言う」の尊敬語",
+    "romaji": "ossharu / osshaimasu"
   },
   {
     "id": "card_1689",
@@ -47310,7 +48997,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "部長，呢份新資料你已經過目未呀？",
       "fr": "Monsieur le directeur, avez-vous déjà consulté ce nouveau document ?"
     },
-    "related": "「見る」の尊敬語"
+    "related": "「見る」の尊敬語",
+    "romaji": "goranninaru / goranninarimasu"
   },
   {
     "id": "card_1690",
@@ -47338,7 +49026,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請趁熱食多啲啦。",
       "fr": "Je vous en prie, mangez bien pendant que c'est chaud."
     },
-    "related": "「食べる・飲む」の尊敬語"
+    "related": "「食べる・飲む」の尊敬語",
+    "romaji": "meshiagaru / meshiagarimasu"
   },
   {
     "id": "card_1691",
@@ -47366,7 +49055,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假你打算去邊度旅行呀？",
       "fr": "Où partez-vous en voyage pour les vacances d'été ?"
     },
-    "related": "「する」の尊敬語"
+    "related": "「する」の尊敬語",
+    "romaji": "nasaru / nasaimasu"
   },
   {
     "id": "card_1692",
@@ -47394,7 +49084,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請問你知唔知田中老師嘅新聯絡方法呀？",
       "fr": "Connaissez-vous les nouvelles coordonnées du professeur Tanaka ?"
     },
-    "related": "「知っている」の尊敬語"
+    "related": "「知っている」の尊敬語",
+    "romaji": "gozonji desu"
   },
   {
     "id": "card_1693",
@@ -47422,7 +49113,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嗰位出名嘅作家尋日過咗身，享年90歲。",
       "fr": "Le célèbre écrivain est décédé hier à l'âge de 90 ans."
     },
-    "related": "「死ぬ・亡くなる」の尊敬語"
+    "related": "「死ぬ・亡くなる」の尊敬語",
+    "romaji": "onakunari ni naru"
   },
   {
     "id": "card_1694",
@@ -47450,7 +49142,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "課長頭先已經返咗屋企喇。",
       "fr": "Le chef de section est rentré il y a un instant."
     },
-    "related": "「お＋Vます＋になる」尊敬語公式"
+    "related": "「お＋Vます＋になる」尊敬語公式",
+    "romaji": "okaeri ni naru"
   },
   {
     "id": "card_1695",
@@ -47478,7 +49171,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本書你已經睇過未呀？",
       "fr": "Avez-vous déjà lu ce livre ?"
     },
-    "related": "「お＋Vます＋になる」尊敬語公式"
+    "related": "「お＋Vます＋になる」尊敬語公式",
+    "romaji": "oyomi ni naru"
   },
   {
     "id": "card_1696",
@@ -47506,7 +49200,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我而家即刻過嚟，請等等。",
       "fr": "J'arrive tout de suite, veuillez patienter un instant."
     },
-    "related": "「行く・来る」の謙譲語・丁重語"
+    "related": "「行く・来る」の謙譲語・丁重語",
+    "romaji": "mairu / mairimasu"
   },
   {
     "id": "card_1697",
@@ -47534,7 +49229,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日下晝我可唔可以上貴公司拜訪呀？",
       "fr": "Puis-je me rendre dans votre entreprise demain après-midi ?"
     },
-    "related": "「行く・聞く」の謙譲語"
+    "related": "「行く・聞く」の謙譲語",
+    "romaji": "ukagau / ukagaimasu"
   },
   {
     "id": "card_1698",
@@ -47562,7 +49258,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "初次見面，我姓田中，係櫻花商事嘅職員。",
       "fr": "Enchanté, je m'appelle Tanaka, de la société Sakura."
     },
-    "related": "「言う」の謙譲語・丁重語"
+    "related": "「言う」の謙譲語・丁重語",
+    "romaji": "mousu / moushimasu"
   },
   {
     "id": "card_1699",
@@ -47590,7 +49287,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "衷心祝願各位身體健康。",
       "fr": "Je vous souhaite du fond du cœur une excellente santé à tous."
     },
-    "related": "相手に向かう「言う」の謙譲語"
+    "related": "相手に向かう「言う」の謙譲語",
+    "romaji": "moushiageru / moushiagemasu"
   },
   {
     "id": "card_1700",
@@ -47618,7 +49316,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好期待下星期喺東京可以拜見老師你。",
       "fr": "Je me réjouis de pouvoir vous rencontrer à Tokyo la semaine prochaine, Professeur."
     },
-    "related": "「会う」の謙譲語"
+    "related": "「会う」の謙譲語",
+    "romaji": "ome ni kakaru"
   },
   {
     "id": "card_1701",
@@ -47646,7 +49345,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我已經睇咗你寄嚟嘅電郵喇。",
       "fr": "J'ai bien pris connaissance de l'e-mail que vous m'avez envoyé."
     },
-    "related": "「見る・読む」の謙譲語"
+    "related": "「見る・読む」の謙譲語",
+    "romaji": "haikensuru / haikenshimasu"
   },
   {
     "id": "card_1702",
@@ -47674,7 +49374,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "詳細行程定好之後，我會即刻聯絡你。",
       "fr": "Dès que le programme détaillé sera fixé, je vous contacterai immédiatement."
     },
-    "related": "「する」の謙譲語・丁重語"
+    "related": "「する」の謙譲語・丁重語",
+    "romaji": "itasu / itashimasu"
   },
   {
     "id": "card_1703",
@@ -47702,7 +49403,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "係，關於嗰件事我都好清楚。",
       "fr": "Oui, je suis tout à fait au courant de cette affaire."
     },
-    "related": "「知る・思う」の謙譲語（否定: 存じません）"
+    "related": "「知る・思う」の謙譲語（否定: 存じません）",
+    "romaji": "zonjiru / zonjimasu"
   },
   {
     "id": "card_1704",
@@ -47730,7 +49432,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "你啲行李睇落好重，等我幫你攞啦。",
       "fr": "Vos bagages ont l'air lourds, je vais vous les porter."
     },
-    "related": "「お＋Vます＋する」謙譲語公式"
+    "related": "「お＋Vます＋する」謙譲語公式",
+    "romaji": "omochisuru"
   },
   {
     "id": "card_1705",
@@ -47758,7 +49461,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "等我帶你去會議室啦，請行呢邊。",
       "fr": "Je vais vous accompagner jusqu'à la salle de réunion. Par ici, je vous prie."
     },
-    "related": "「ご＋漢語＋する」謙譲語公式"
+    "related": "「ご＋漢語＋する」謙譲語公式",
+    "romaji": "goannaisuru"
   },
   {
     "id": "card_1706",
@@ -47786,7 +49490,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "改去聽日十點係咪？明白晒。",
       "fr": "Changement pour demain à 10 heures, c'est bien noté."
     },
-    "related": "「分かる」の謙譲語"
+    "related": "「分かる」の謙譲語",
+    "romaji": "shouchisuru / shouchiitashimasu"
   },
   {
     "id": "card_1707",
@@ -47814,7 +49519,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "兩杯熱咖啡係咪？知道，即刻同你準備。",
       "fr": "Deux cafés chauds, c'est bien compris."
     },
-    "related": "接客・ビジネスでの最上級の了承表現"
+    "related": "接客・ビジネスでの最上級の了承表現",
+    "romaji": "kashikomarimashita"
   },
   {
     "id": "card_1708",
@@ -47842,7 +49548,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "咁我走先喇，失禮晒。",
       "fr": "Sur ce, je vous prie de m'excuser, je pars en premier."
     },
-    "related": "入退室や退勤時の挨拶"
+    "related": "入退室や退勤時の挨拶",
+    "romaji": "shitsureiitashimasu"
   },
   {
     "id": "card_1709",
@@ -47870,7 +49577,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "唔使客氣，隨便食多啲啦。",
       "fr": "Ne faites pas de manières, mangez autant que vous voulez."
     },
-    "related": "表現: ご遠慮ください（禁止の丁寧表現）"
+    "related": "表現: ご遠慮ください（禁止の丁寧表現）",
+    "romaji": "enryosuru"
   },
   {
     "id": "card_1710",
@@ -47898,7 +49606,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "洗手間喺嗰邊𨋢嘅隔離。",
       "fr": "Les toilettes se trouvent à côté de l'ascenseur là-bas."
     },
-    "related": "「です」の丁重語"
+    "related": "「です」の丁重語",
+    "romaji": "~de gozaimasu"
   },
   {
     "id": "card_1711",
@@ -47926,7 +49635,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "最近菜同生果嘅價錢升緊。",
       "fr": "Récemment, le prix des légumes et des fruits augmente."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 上げる"
+    "related": "五段動詞（自動詞） / 他動詞: 上げる",
+    "romaji": "agaru / agarimasu"
   },
   {
     "id": "card_1712",
@@ -47954,7 +49664,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為食咗藥，終於退咗燒喇。",
       "fr": "Comme j'ai pris un médicament, ma fièvre a enfin baissé."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 下げる"
+    "related": "五段動詞（自動詞） / 他動詞: 下げる",
+    "romaji": "sagaru / sagarimasu"
   },
   {
     "id": "card_1713",
@@ -47982,7 +49693,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電視聲有啲大，唔該較細聲少少。",
       "fr": "Le son de la télévision est un peu fort, veuillez baisser le volume."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 下がる"
+    "related": "一段動詞（他動詞） / 自動詞: 下がる",
+    "romaji": "sageru / sagemasu"
   },
   {
     "id": "card_1714",
@@ -48010,7 +49722,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日朝早九點請喺車站入閘機前面集合。",
       "fr": "Veuillez vous rassembler devant les portillons de la gare demain matin à 9 heures."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 集める"
+    "related": "五段動詞（自動詞） / 他動詞: 集める",
+    "romaji": "atsumaru / atsumarimasu"
   },
   {
     "id": "card_1715",
@@ -48038,7 +49751,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "換咗電芯之後，個鐘又開始行返喇。",
       "fr": "Quand j'ai changé la pile, l'horloge s'est remise à fonctionner."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 動かす"
+    "related": "五段動詞（自動詞） / 他動詞: 動かす",
+    "romaji": "ugoku / ugokimasu"
   },
   {
     "id": "card_1716",
@@ -48066,7 +49780,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月我哋間辦公室會搬去新大廈。",
       "fr": "Le mois prochain, notre bureau déménagera dans un nouvel immeuble."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 移す"
+    "related": "五段動詞（自動詞） / 他動詞: 移す",
+    "romaji": "utsuru / utsurimasu"
   },
   {
     "id": "card_1717",
@@ -48094,7 +49809,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將黑板上面寫嘅重要句子抄落筆記簿度。",
       "fr": "J'ai copié dans mon cahier les phrases importantes écrites au tableau."
     },
-    "related": "五段動詞（他動詞） / 自動詞: 写る"
+    "related": "五段動詞（他動詞） / 自動詞: 写る",
+    "romaji": "utsusu / utsushimasu"
   },
   {
     "id": "card_1718",
@@ -48122,7 +49838,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生用電腦打字好快。",
       "fr": "M. Tanaka tape très vite à l'ordinateur."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "utsu / uchimasu"
   },
   {
     "id": "card_1719",
@@ -48150,7 +49867,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺餐牌入面揀一款你鍾意嘅甜品。",
       "fr": "Veuillez choisir un dessert qui vous plaît dans le menu."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "erabu / erabimasu"
   },
   {
     "id": "card_1720",
@@ -48178,7 +49896,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下星期三會喺會議室舉行新產品簡介會。",
       "fr": "Mercredi prochain, nous organiserons une réunion d'information sur le nouveau produit dans la salle de réunion."
     },
-    "related": "五段動詞 / 「する」の硬い表現"
+    "related": "五段動詞 / 「する」の硬い表現",
+    "romaji": "okonau / okonaimasu"
   },
   {
     "id": "card_1721",
@@ -48206,7 +49925,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺夏日祭典度，我同大家一齊跳盂蘭盆舞。",
       "fr": "Lors du festival d'été, j'ai dansé le Bon Odori avec tout le monde."
     },
-    "related": "五段動詞 / 名詞: 踊り"
+    "related": "五段動詞 / 名詞: 踊り",
+    "romaji": "odoru / odorimasu"
   },
   {
     "id": "card_1722",
@@ -48234,7 +49954,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "尋日場足球比賽，我哋隊波贏咗。",
       "fr": "Lors du match de football d'hier, notre équipe a gagné."
     },
-    "related": "五段動詞 / 対義語: 負ける"
+    "related": "五段動詞 / 対義語: 負ける",
+    "romaji": "katsu / kachimasu"
   },
   {
     "id": "card_1723",
@@ -48262,7 +49983,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "雖然好可惜輸咗場比賽，但都係一次好好嘅經驗。",
       "fr": "Malheureusement, nous avons perdu le match, mais ce fut une bonne expérience."
     },
-    "related": "一段動詞 / 対義語: 勝つ"
+    "related": "一段動詞 / 対義語: 勝つ",
+    "romaji": "makeru / makemasu"
   },
   {
     "id": "card_1724",
@@ -48290,7 +50012,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我日日都行經呢個公園前面返學。",
       "fr": "Tous les jours, je passe devant ce parc pour aller à l'école."
     },
-    "related": "五段動詞 / 名詞: 通り（とおり）"
+    "related": "五段動詞 / 名詞: 通り（とおり）",
+    "romaji": "tooru / toorimasu"
   },
   {
     "id": "card_1725",
@@ -48318,7 +50041,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假去咗鄉下，捉咗好多蟲仔。",
       "fr": "Pendant les vacances d'été, je suis allé à la campagne et j'ai attrapé beaucoup d'insectes."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 捕まる"
+    "related": "一段動詞（他動詞） / 自動詞: 捕まる",
+    "romaji": "tsukamaeru / tsukamaemasu"
   },
   {
     "id": "card_1726",
@@ -48346,7 +50070,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺公園度拋個波畀隻狗一齊玩。",
       "fr": "Dans le parc, j'ai lancé une balle au chien et nous avons joué ensemble."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "nageru / nagemasu"
   },
   {
     "id": "card_1727",
@@ -48374,7 +50099,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "千祈唔好用手掂美術館入面嘅作品。",
       "fr": "Ne touchez surtout pas aux œuvres d'art dans le musée."
     },
-    "related": "五段動詞（助詞「に」をとる）"
+    "related": "五段動詞（助詞「に」をとる）",
+    "romaji": "sawaru / sawarimasu"
   },
   {
     "id": "card_1728",
@@ -48402,7 +50128,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺電車或者圖書館入面唔可以大聲喧嘩。",
       "fr": "Il ne faut pas faire de bruit à voix haute dans le train ou à la bibliothèque."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "sawagu / sawagimasu"
   },
   {
     "id": "card_1729",
@@ -48430,7 +50157,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新項目嘅準備工作進展得好順利。",
       "fr": "Les préparatifs du nouveau projet avancent bien."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 進める"
+    "related": "五段動詞（自動詞） / 他動詞: 進める",
+    "romaji": "susumu / susumimasu"
   },
   {
     "id": "card_1730",
@@ -48458,7 +50186,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "餸煮得太多，剩低咗大約一半。",
       "fr": "J'ai préparé trop de nourriture et il en est resté environ la moitié."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 残す"
+    "related": "五段動詞（自動詞） / 他動詞: 残す",
+    "romaji": "nokoru / nokorimasu"
   },
   {
     "id": "card_1731",
@@ -48486,7 +50215,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用貨車將搬屋嘅行李運咗去新屋。",
       "fr": "Nous avons transporté les cartons de déménagement jusqu'à la nouvelle maison en camion."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "hakobu / hakobimasu"
   },
   {
     "id": "card_1732",
@@ -48514,7 +50244,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早，我都會喺烘好嘅麵包度搽牛油同果占食。",
       "fr": "Chaque matin, j'étale du beurre et de la confiture sur du pain grillé."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "nuru / nurimasu"
   },
   {
     "id": "card_1733",
@@ -48542,7 +50273,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我同阿爸去海邊，釣到三條大魚。",
       "fr": "Ce week-end, je suis allé à la mer avec mon père et nous avons pêché trois gros poissons."
     },
-    "related": "五段動詞 / 名詞: 釣り（つり）"
+    "related": "五段動詞 / 名詞: 釣り（つり）",
+    "romaji": "tsuru / tsurimasu"
   },
   {
     "id": "card_1734",
@@ -48570,7 +50302,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "吹緊風，山丘上面嘅風車慢慢咁轉緊。",
       "fr": "Le vent souffle et le moulin sur la colline tourne lentement."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 回す"
+    "related": "五段動詞（自動詞） / 他動詞: 回す",
+    "romaji": "mawaru / mawarimasu"
   },
   {
     "id": "card_1735",
@@ -48598,7 +50331,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我搞錯咗約定嘅時間，好誠懇咁同鈴木小姐道歉。",
       "fr": "Je me suis trompé d'heure de rendez-vous et je me suis sincèrement excusé auprès de Mme Suzuki."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "ayamaru / ayamarimasu"
   },
   {
     "id": "card_1736",
@@ -48626,7 +50360,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果冇水同空氣，人類係無法生存嘅。",
       "fr": "Sans eau ni air, les êtres humains ne peuvent pas vivre."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "ikiru / ikimasu"
   },
   {
     "id": "card_1737",
@@ -48654,7 +50389,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新年嗰陣我會去神社，祈求屋企人健康同幸福。",
       "fr": "Au Nouvel An, je vais au sanctuaire pour prier pour la santé et le bonheur de ma famille."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "inoru / inorimasu"
   },
   {
     "id": "card_1738",
@@ -48682,7 +50418,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今年12月我會考日本語能力試驗N4。",
       "fr": "En décembre de cette année, je passerai le niveau N4 du JLPT."
     },
-    "related": "一段動詞 / 表現: 試験を受ける"
+    "related": "一段動詞 / 表現: 試験を受ける",
+    "romaji": "ukeru / ukemasu"
   },
   {
     "id": "card_1739",
@@ -48710,7 +50447,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我諗緊畢業之後嘅出路。",
       "fr": "Je réfléchis beaucoup à mon orientation après l'obtention de mon diplôme."
     },
-    "related": "一段動詞 / 名詞: 考え"
+    "related": "一段動詞 / 名詞: 考え",
+    "romaji": "kangaeru / kangaemasu"
   },
   {
     "id": "card_1740",
@@ -48738,7 +50476,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我仔細比較咗兩部電腦嘅性能同價錢之後先買。",
       "fr": "J'ai bien comparé les performances et le prix des deux ordinateurs avant d'acheter."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "kuraberu / kurabemasu"
   },
   {
     "id": "card_1741",
@@ -48766,7 +50505,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "到咗冬天，五點左右就好快天黑。",
       "fr": "En hiver, vers 17 heures, la nuit tombe vite et il fait sombre."
     },
-    "related": "一段動詞 / 表現: 日が暮れる"
+    "related": "一段動詞 / 表現: 日が暮れる",
+    "romaji": "kureru / kuremasu"
   },
   {
     "id": "card_1742",
@@ -48794,7 +50534,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺間房度周圍搵唔見咗嘅鎖匙，但係搵唔到。",
       "fr": "J'ai cherché la clé perdue dans toute la chambre, mais je ne l'ai pas trouvée."
     },
-    "related": "五段動詞 / 自動詞: 見つかる"
+    "related": "五段動詞 / 自動詞: 見つかる",
+    "romaji": "sagasu / sagashimasu"
   },
   {
     "id": "card_1743",
@@ -48822,7 +50563,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "搬完屋之後，我會將新地址通知大家。",
       "fr": "Une fois le déménagement terminé, je communiquerai ma nouvelle adresse à tout le monde."
     },
-    "related": "一段動詞 / 名詞: お知らせ"
+    "related": "一段動詞 / 名詞: お知らせ",
+    "romaji": "shiraseru / shirasemasu"
   },
   {
     "id": "card_1744",
@@ -48850,7 +50592,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為盪失路，我喺附近嘅派出所問去車站嘅路。",
       "fr": "Comme j'étais perdu, j'ai demandé le chemin de la gare au poste de police voisin."
     },
-    "related": "一段動詞（※訪問する＝訪ねる）"
+    "related": "一段動詞（※訪問する＝訪ねる）",
+    "romaji": "tazuneru / tazunemasu"
   },
   {
     "id": "card_1745",
@@ -48878,7 +50621,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "個湯有啲淡，所以我加咗少少鹽。",
       "fr": "Comme la soupe était un peu fade, j'ai ajouté un peu de sel."
     },
-    "related": "五段動詞"
+    "related": "五段動詞",
+    "romaji": "tasu / tashimasu"
   },
   {
     "id": "card_1746",
@@ -48906,7 +50650,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "派對嘅飲品唔夠，所以我出去買啲返嚟。",
       "fr": "Comme il n'y avait plus assez de boissons pour la fête, je suis allé en acheter."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "tariru / tarimasu"
   },
   {
     "id": "card_1747",
@@ -48934,7 +50679,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生返嚟之後，唔該轉告佢頭先有人打電話搵佢。",
       "fr": "Quand M. Tanaka reviendra, veuillez lui transmettre qu'il a eu un appel."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "tsutaeru / tsutaemasu"
   },
   {
     "id": "card_1748",
@@ -48962,7 +50708,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "由上星期開始一直都持續落雨。",
       "fr": "Il pleut sans arrêt depuis la semaine dernière."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 続ける"
+    "related": "五段動詞（自動詞） / 他動詞: 続ける",
+    "romaji": "tsuzuku / tsuzukimasu"
   },
   {
     "id": "card_1749",
@@ -48990,7 +50737,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "星期日我帶咗小朋友去動物園。",
       "fr": "Dimanche, j'ai emmené mon enfant au zoo."
     },
-    "related": "一段動詞 / 表現: 連れて行く・連れて来る"
+    "related": "一段動詞 / 表現: 連れて行く・連れて来る",
+    "romaji": "tsureru / tsuremasu"
   },
   {
     "id": "card_1750",
@@ -49018,7 +50766,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐個樣同把聲都好似佢媽媽。",
       "fr": "Mme Sato ressemble beaucoup à sa mère, tant par le visage que par la voix."
     },
-    "related": "一段動詞（状態: 似ている）"
+    "related": "一段動詞（状態: 似ている）",
+    "romaji": "niru / nimasu"
   },
   {
     "id": "card_1751",
@@ -49046,7 +50795,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大家到齊晒喇，而家開始開會。",
       "fr": "Comme tout le monde est réuni, nous allons maintenant commencer la réunion."
     },
-    "related": "一段動詞（他動詞） / 自動詞: 始まる"
+    "related": "一段動詞（他動詞） / 自動詞: 始まる",
+    "romaji": "hajimeru / hajimemasu"
   },
   {
     "id": "card_1752",
@@ -49074,7 +50824,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假我去咗京都探訪老師屋企。",
       "fr": "Pendant les vacances d'été, j'ai rendu visite à mon professeur à Kyoto."
     },
-    "related": "一段動詞 / 同音語: 尋ねる（質問する）"
+    "related": "一段動詞 / 同音語: 尋ねる（質問する）",
+    "romaji": "tazuneru / tazunemasu"
   },
   {
     "id": "card_1753",
@@ -49102,7 +50853,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我哋執起公園入面嘅垃圾，打掃得好乾淨。",
       "fr": "Nous avons ramassé les déchets dans le parc et l'avons bien nettoyé."
     },
-    "related": "五段動詞 / 対義語: 捨てる"
+    "related": "五段動詞 / 対義語: 捨てる",
+    "romaji": "hirou / hiroimasu"
   },
   {
     "id": "card_1754",
@@ -49130,7 +50882,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "嚟日本旅行嘅外國人數量每年都增加緊。",
       "fr": "Le nombre d'étrangers venant voyager au Japon augmente chaque année."
     },
-    "related": "一段動詞（自動詞） / 対義語: 減る"
+    "related": "一段動詞（自動詞） / 対義語: 減る",
+    "romaji": "fueru / fuemasu"
   },
   {
     "id": "card_1755",
@@ -49158,7 +50911,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "戒咗買無謂嘢之後，每個月嘅開支減少咗。",
       "fr": "Quand j'ai arrêté les achats inutiles, mes dépenses mensuelles ont diminué."
     },
-    "related": "五段動詞（自動詞） / 対義語: 増える"
+    "related": "五段動詞（自動詞） / 対義語: 増える",
+    "romaji": "heru / herimasu"
   },
   {
     "id": "card_1756",
@@ -49186,7 +50940,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我撳錯咗電話號碼，打咗畀個唔識嘅人。",
       "fr": "Je me suis trompé de numéro de téléphone et j'ai appelé un inconnu."
     },
-    "related": "一段動詞"
+    "related": "一段動詞",
+    "romaji": "machigaeru / machigaemasu"
   },
   {
     "id": "card_1757",
@@ -49214,7 +50969,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我而家搭的士去緊機場。",
       "fr": "Je me dirige maintenant vers l'aéroport en taxi."
     },
-    "related": "五段動詞（助詞「に・へ」をとる）"
+    "related": "五段動詞（助詞「に・へ」をとる）",
+    "romaji": "mukau / mukaimasu"
   },
   {
     "id": "card_1758",
@@ -49242,7 +50998,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為漏低咗嘢，我急忙返轉頭返屋企。",
       "fr": "Comme j'avais oublié quelque chose, je suis vite retourné à la maison."
     },
-    "related": "五段動詞（自動詞） / 他動詞: 戻す"
+    "related": "五段動詞（自動詞） / 他動詞: 戻す",
+    "romaji": "modoru / modorimasu"
   },
   {
     "id": "card_1759",
@@ -49270,7 +51027,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "京都有好多好靚嘅庭園同埋古老嘅寺廟。",
       "fr": "À Kyoto, il y a beaucoup de beaux jardins et de vieux temples."
     },
-    "related": "い形容詞 / 類義語: きれいな"
+    "related": "い形容詞 / 類義語: きれいな",
+    "romaji": "utsukushii"
   },
   {
     "id": "card_1760",
@@ -49298,7 +51056,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好朋友搬咗去好遠嘅地方，我好傷心。",
       "fr": "Mon meilleur ami a déménagé loin et je suis très triste."
     },
-    "related": "い形容詞 / 対義語: 嬉しい"
+    "related": "い形容詞 / 対義語: 嬉しい",
+    "romaji": "kanashii"
   },
   {
     "id": "card_1761",
@@ -49326,7 +51085,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤老師練習嗰陣好嚴格，但平時好溫柔。",
       "fr": "Le professeur Sato est strict pendant l'entraînement, mais très gentil d'habitude."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "kibishii"
   },
   {
     "id": "card_1762",
@@ -49354,7 +51114,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "請喺下面揀出一個正確嘅答案。",
       "fr": "Veuillez choisir la bonne réponse parmi les suivantes."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "tadashii"
   },
   {
     "id": "card_1763",
@@ -49382,7 +51143,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺沖繩食到一種好罕見嘅生果。",
       "fr": "J'ai mangé un fruit très rare à Okinawa."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "mezurashii"
   },
   {
     "id": "card_1764",
@@ -49410,7 +51172,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺好多人面前講嘢有啲怕醜。",
       "fr": "Parler devant beaucoup de monde est un peu gênant."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "hazukashii"
   },
   {
     "id": "card_1765",
@@ -49438,7 +51201,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為尋晚溫書溫到好夜，今日好眼瞓。",
       "fr": "Comme j'ai étudié tard hier soir, j'ai très sommeil aujourd'hui."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "nemui"
   },
   {
     "id": "card_1766",
@@ -49466,7 +51230,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "高橋小姐識講三種語言，真係好犀利呀。",
       "fr": "C'est vraiment incroyable que Mme Takahashi puisse parler trois langues."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "sugoi"
   },
   {
     "id": "card_1767",
@@ -49494,7 +51259,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "部電腦發出怪聲，總係覺得有啲唔妥。",
       "fr": "Mon ordinateur fait un bruit bizarre, son état semble anormal."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "okashii"
   },
   {
     "id": "card_1768",
@@ -49522,7 +51288,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中村先生屋企隻狗好乖巧，完全唔會吠。",
       "fr": "Le chien de M. Nakamura est très calme et n'aboie pas du tout."
     },
-    "related": "い形容詞"
+    "related": "い形容詞",
+    "romaji": "otonashii"
   },
   {
     "id": "card_1769",
@@ -49550,7 +51317,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢個地區自古以嚟汽車工業都好蓬勃。",
       "fr": "L'industrie automobile est florissante dans cette région depuis longtemps."
     },
-    "related": "な形容詞"
+    "related": "な形容詞",
+    "romaji": "sakanna"
   },
   {
     "id": "card_1770",
@@ -49578,7 +51346,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我搵緊一個唔太大又唔太細、大細啱啱好嘅箱。",
       "fr": "Je cherche une boîte d'une taille appropriée, ni trop grande ni trop petite."
     },
-    "related": "な形容詞（文脈で「いい加減」の意味も）"
+    "related": "な形容詞（文脈で「いい加減」の意味も）",
+    "romaji": "tekitouna"
   },
   {
     "id": "card_1771",
@@ -49606,7 +51375,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為係結婚紀念日，我Book咗間特別嘅餐廳。",
       "fr": "Comme c'est notre anniversaire de mariage, j'ai réservé un restaurant spécial."
     },
-    "related": "な形容詞"
+    "related": "な形容詞",
+    "romaji": "tokubetsuna"
   },
   {
     "id": "card_1772",
@@ -49634,7 +51404,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "收到一個唔識嘅號碼寄嚟嘅奇怪電郵。",
       "fr": "J'ai reçu un message étrange d'un numéro inconnu."
     },
-    "related": "な形容詞"
+    "related": "な形容詞",
+    "romaji": "henna"
   },
   {
     "id": "card_1773",
@@ -49662,7 +51433,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "身體唔舒服嗰陣，唔好勉強，好好休息下。",
       "fr": "Quand vous ne vous sentez pas bien, ne forcez pas et reposez-vous."
     },
-    "related": "な形容詞・サ変動詞（無理をする）"
+    "related": "な形容詞・サ変動詞（無理をする）",
+    "romaji": "murina"
   },
   {
     "id": "card_1774",
@@ -49690,7 +51462,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "離開房間嗰陣請熄燈，唔好浪費電力。",
       "fr": "En quittant la pièce, éteignons la lumière pour éviter de gaspiller de l'électricité."
     },
-    "related": "な形容詞"
+    "related": "な形容詞",
+    "romaji": "mudana"
   },
   {
     "id": "card_1775",
@@ -49718,7 +51491,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢度離車站遠，巴士又少，有啲唔方便。",
       "fr": "C'est loin de la gare et il y a peu de bus, cet endroit est donc un peu incommode."
     },
-    "related": "な形容詞 / 対義語: 便利な"
+    "related": "な形容詞 / 対義語: 便利な",
+    "romaji": "fubenna"
   },
   {
     "id": "card_1776",
@@ -49746,7 +51520,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "考試之前有充足嘅睡眠係好緊要嘅。",
       "fr": "Il est important de dormir suffisamment avant un examen."
     },
-    "related": "な形容詞・副詞"
+    "related": "な形容詞・副詞",
+    "romaji": "juubunna"
   },
   {
     "id": "card_1777",
@@ -49774,7 +51549,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽日有個好重要嘅面試，所以我要早啲瞓。",
       "fr": "J'ai un entretien important demain, je vais donc me coucher tôt."
     },
-    "related": "な形容詞 / 類義語: 大切な"
+    "related": "な形容詞 / 類義語: 大切な",
+    "romaji": "daijina"
   },
   {
     "id": "card_1778",
@@ -49802,7 +51578,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假嘅日子，我會悠閒咁享受自己嘅自由時間。",
       "fr": "Les jours de congé, je profite tranquillement de mon temps libre."
     },
-    "related": "な形容詞・名詞"
+    "related": "な形容詞・名詞",
+    "romaji": "jiyuuna"
   },
   {
     "id": "card_1779",
@@ -49830,7 +51607,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "下個月會喺東京舉行大型嘅國際會議。",
       "fr": "Le mois prochain, une grande conférence internationale se tiendra à Tokyo."
     },
-    "related": "関連語: 国際交流"
+    "related": "関連語: 国際交流",
+    "romaji": "kokusai"
   },
   {
     "id": "card_1780",
@@ -49858,7 +51636,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺上野嘅美術館睇咗西洋畫。",
       "fr": "J'ai vu des peintures occidentales au musée d'Ueno."
     },
-    "related": "対義語: 東洋（とうよう）"
+    "related": "対義語: 東洋（とうよう）",
+    "romaji": "seiyou"
   },
   {
     "id": "card_1781",
@@ -49886,7 +51665,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果你唔鍾意呢隻色，都可以揀第隻色㗎。",
       "fr": "Si cette couleur ne vous plaît pas, vous pouvez en choisir une autre."
     },
-    "related": "表現: 別の〜 / 別に（否定と呼応）"
+    "related": "表現: 別の〜 / 別に（否定と呼応）",
+    "romaji": "betsu"
   },
   {
     "id": "card_1782",
@@ -49914,7 +51694,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今年冬天同往年相比，算係比較暖。",
       "fr": "Cet hiver est relativement doux par rapport aux autres années."
     },
-    "related": "名詞・副詞（わりあい）"
+    "related": "名詞・副詞（わりあい）",
+    "romaji": "wariai"
   },
   {
     "id": "card_1783",
@@ -49942,7 +51723,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早起身之後，將被鋪摺好收返入壁櫥度。",
       "fr": "Le matin au réveil, je plie le futon et je le range dans le placard."
     },
-    "related": "和室の収納"
+    "related": "和室の収納",
+    "romaji": "oshiire"
   },
   {
     "id": "card_1784",
@@ -49970,7 +51752,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鋪咗新榻榻米嘅房間有一陣好香嘅草味。",
       "fr": "Une pièce avec des tatamis neufs sent bon le jonc."
     },
-    "related": "和室の床材"
+    "related": "和室の床材",
+    "romaji": "tatami"
   },
   {
     "id": "card_1785",
@@ -49998,7 +51781,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為好天，我喺露台曬棉被。",
       "fr": "Comme il faisait beau, j'ai mis le futon à aérer sur le balcon."
     },
-    "related": "表現: 布団を敷く（しく）"
+    "related": "表現: 布団を敷く（しく）",
+    "romaji": "futon"
   },
   {
     "id": "card_1786",
@@ -50026,7 +51810,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口之前，我照住玄關塊鏡整返好條呔。",
       "fr": "Avant de sortir, j'ai ajusté ma cravate devant le miroir de l'entrée."
     },
-    "related": "表現: 鏡を見る"
+    "related": "表現: 鏡を見る",
+    "romaji": "kagami"
   },
   {
     "id": "card_1787",
@@ -50054,7 +51839,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "落咗好大雪，屋頂變到全白。",
       "fr": "Il a beaucoup neigé et le toit de la maison est devenu tout blanc."
     },
-    "related": "住居の部分"
+    "related": "住居の部分",
+    "romaji": "yane"
   },
   {
     "id": "card_1788",
@@ -50082,7 +51868,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生間新屋係一間有花園嘅兩層高屋宇。",
       "fr": "La nouvelle maison de M. Tanaka est une maison à un étage avec jardin."
     },
-    "related": "表現: 〜階建て"
+    "related": "表現: 〜階建て",
+    "romaji": "nikaidate"
   },
   {
     "id": "card_1789",
@@ -50110,7 +51897,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗返大學，我喺學校附近租房住。",
       "fr": "Pour aller à l'université, je loge près de l'école."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "geshuku"
   },
   {
     "id": "card_1790",
@@ -50138,7 +51926,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "近車站嘅公寓好方便，但係屋租好貴。",
       "fr": "Les appartements proches de la gare sont pratiques, mais le loyer est élevé."
     },
-    "related": "表現: 家賃を払う"
+    "related": "表現: 家賃を払う",
+    "romaji": "yachin"
   },
   {
     "id": "card_1791",
@@ -50166,7 +51955,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為啱啱搬嚟，我同附近嘅街坊打咗招呼。",
       "fr": "Comme je viens d'emménager, j'ai salué les voisins du quartier."
     },
-    "related": "表現: 近所の人"
+    "related": "表現: 近所の人",
+    "romaji": "kinjo"
   },
   {
     "id": "card_1792",
@@ -50194,7 +51984,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "間房好凍，所以我開咗暖氣。",
       "fr": "Comme il faisait froid dans la pièce, j'ai allumé le chauffage."
     },
-    "related": "対義語: 冷房（れいぼう）"
+    "related": "対義語: 冷房（れいぼう）",
+    "romaji": "danbou"
   },
   {
     "id": "card_1793",
@@ -50222,7 +52013,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "電車入面嘅冷氣開得太大，有啲凍。",
       "fr": "La climatisation dans le train était trop forte, j'ai eu un peu froid."
     },
-    "related": "対義語: 暖房（だんぼう）"
+    "related": "対義語: 暖房（だんぼう）",
+    "romaji": "reibou"
   },
   {
     "id": "card_1794",
@@ -50250,7 +52042,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開始天黑，我開咗間房盞電燈。",
       "fr": "Comme il commençait à faire sombre, j'ai allumé la lumière de la pièce."
     },
-    "related": "類義語: 電気・明かり"
+    "related": "類義語: 電気・明かり",
+    "romaji": "dentou"
   },
   {
     "id": "card_1795",
@@ -50278,7 +52071,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "冬天朝早隻手好凍，所以我戴住手套踩單車。",
       "fr": "Les matins d'hiver, j'ai froid aux mains, alors je mets des gants pour faire du vélo."
     },
-    "related": "動詞: 手袋をする・はめる"
+    "related": "動詞: 手袋をする・はめる",
+    "romaji": "tebukuro"
   },
   {
     "id": "card_1796",
@@ -50306,7 +52100,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為去旅行，我喺袋入面擺咗三日份量嘅底衫褲同襪。",
       "fr": "Comme je pars en voyage, j'ai mis des sous-vêtements et des chaussettes pour trois jours dans mon sac."
     },
-    "related": "衣類の名詞"
+    "related": "衣類の名詞",
+    "romaji": "shitagi"
   },
   {
     "id": "card_1797",
@@ -50334,7 +52129,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新年嗰陣，我喺京都著住和服影相。",
       "fr": "Au Nouvel An, j'ai porté un kimono et pris des photos à Kyoto."
     },
-    "related": "日本の伝統衣装"
+    "related": "日本の伝統衣装",
+    "romaji": "kimono"
   },
   {
     "id": "card_1798",
@@ -50362,7 +52158,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "佐藤小姐喺左手無名指戴住隻好靚嘅戒指。",
       "fr": "Mme Sato porte une jolie bague à l'annulaire gauche."
     },
-    "related": "動詞: 指輪をする・はめる"
+    "related": "動詞: 指輪をする・はめる",
+    "romaji": "yubiwa"
   },
   {
     "id": "card_1799",
@@ -50390,7 +52187,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢條絲巾係百分百真絲造嘅，摸上手好滑好舒服。",
       "fr": "Ce foulard est 100 % en soie, il est donc très doux au toucher."
     },
-    "related": "外来語: シルク"
+    "related": "外来語: シルク",
+    "romaji": "kinu"
   },
   {
     "id": "card_1800",
@@ -50418,7 +52216,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夏天著吸汗嘅棉質恤衫好舒服。",
       "fr": "En été, les chemises en coton qui absorbent bien la transpiration sont agréables à porter."
     },
-    "related": "外来語: コットン"
+    "related": "外来語: コットン",
+    "romaji": "momen"
   },
   {
     "id": "card_1801",
@@ -50446,7 +52245,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺百貨公司地庫買咗煮晚餐用嘅食品。",
       "fr": "Au sous-sol du grand magasin, j'ai acheté des produits alimentaires pour le dîner."
     },
-    "related": "関連語: 日用品"
+    "related": "関連語: 日用品",
+    "romaji": "shokuryouhin"
   },
   {
     "id": "card_1802",
@@ -50474,7 +52274,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "每日朝早，我都會食熱辣辣嘅白飯同豆腐麵豉湯。",
       "fr": "Chaque matin, je mange du riz chaud et une soupe miso au tofu."
     },
-    "related": "関連語: 味噌汁（みそしる）"
+    "related": "関連語: 味噌汁（みそしる）",
+    "romaji": "miso"
   },
   {
     "id": "card_1803",
@@ -50502,7 +52303,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "將熱水倒入杯麵度，再等三分鐘。",
       "fr": "Versez de l'eau chaude dans les nouilles instantanées et attendez 3 minutes."
     },
-    "related": "丁寧形: お湯（おゆ）"
+    "related": "丁寧形: お湯（おゆ）",
+    "romaji": "yu"
   },
   {
     "id": "card_1804",
@@ -50530,7 +52332,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "出門口嘅準備已經搞掂晒，隨時可以出發。",
       "fr": "Je suis prêt à sortir, nous pouvons partir à tout moment."
     },
-    "related": "表現: 支度をする"
+    "related": "表現: 支度をする",
+    "romaji": "shitaku"
   },
   {
     "id": "card_1805",
@@ -50558,7 +52361,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大學畢業之後，今年春天我就會投身社會。",
       "fr": "Je vais obtenir mon diplôme universitaire et entrer dans la vie active ce printemps."
     },
-    "related": "関連語: 社会人（しゃかいじん）"
+    "related": "関連語: 社会人（しゃかいじん）",
+    "romaji": "shakai"
   },
   {
     "id": "card_1806",
@@ -50586,7 +52390,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿爸每日朝早都會睇報紙，留意政治同經濟新聞。",
       "fr": "Chaque matin, mon père lit le journal pour suivre l'actualité politique et économique."
     },
-    "related": "関連語: 政治家"
+    "related": "関連語: 政治家",
+    "romaji": "seiji"
   },
   {
     "id": "card_1807",
@@ -50614,7 +52419,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生喺大學經濟系讀緊關於世界經濟嘅嘢。",
       "fr": "M. Tanaka étudie l'économie mondiale à la faculté d'économie de l'université."
     },
-    "related": "関連語: 経済学"
+    "related": "関連語: 経済学",
+    "romaji": "keizai"
   },
   {
     "id": "card_1808",
@@ -50642,7 +52448,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "好好遵守嗰個國家嘅法律同規矩係好緊要嘅。",
       "fr": "Il est important de bien respecter les lois et les règles de ce pays."
     },
-    "related": "表現: 法律を守る"
+    "related": "表現: 法律を守る",
+    "romaji": "houritsu"
   },
   {
     "id": "card_1809",
@@ -50670,7 +52477,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本嘅汽車同電子零件工業非常發達。",
       "fr": "Au Japon, l'industrie automobile et celle des composants électroniques sont très développées."
     },
-    "related": "関連語: 工業地帯"
+    "related": "関連語: 工業地帯",
+    "romaji": "kougyou"
   },
   {
     "id": "card_1810",
@@ -50698,7 +52506,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺呢個靚島上面，旅遊業已經成為最重要嘅產業。",
       "fr": "Sur cette belle île, le tourisme est devenu l'industrie la plus importante."
     },
-    "related": "関連語: 観光産業"
+    "related": "関連語: 観光産業",
+    "romaji": "sangyou"
   },
   {
     "id": "card_1811",
@@ -50726,7 +52535,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "鈴木小姐喺一間同外國做生果出入口嘅貿易公司做嘢。",
       "fr": "Mme Suzuki travaille dans une société de commerce qui importe et exporte des fruits."
     },
-    "related": "関連語: 貿易会社"
+    "related": "関連語: 貿易会社",
+    "romaji": "boueki"
   },
   {
     "id": "card_1812",
@@ -50754,7 +52564,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同小朋友一齊去科學博物館睇咗關於宇宙嘅展覽。",
       "fr": "Je suis allé au musée des sciences avec mon enfant pour voir l'exposition sur l'espace."
     },
-    "related": "関連語: 科学者"
+    "related": "関連語: 科学者",
+    "romaji": "kagaku"
   },
   {
     "id": "card_1813",
@@ -50782,7 +52593,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "新嘅電腦技術日日都好快咁進步緊。",
       "fr": "Les nouvelles technologies informatiques progressent rapidement chaque jour."
     },
-    "related": "関連語: 技術者（エンジニア）"
+    "related": "関連語: 技術者（エンジニア）",
+    "romaji": "gijutsu"
   },
   {
     "id": "card_1814",
@@ -50810,7 +52622,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "聽講佐藤小姐將來想做同小朋友教育有關嘅工作。",
       "fr": "Il paraît que Mme Sato souhaite travailler dans le domaine de l'éducation des enfants à l'avenir."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "kyouiku"
   },
   {
     "id": "card_1815",
@@ -50838,7 +52651,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "高橋小姐喺研究院做緊關於新能源嘅研究。",
       "fr": "Mme Takahashi fait des recherches sur les nouvelles énergies à l'école doctorale."
     },
-    "related": "名詞・サ変動詞 / 研究者"
+    "related": "名詞・サ変動詞 / 研究者",
+    "romaji": "kenkyuu"
   },
   {
     "id": "card_1816",
@@ -50866,7 +52680,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗交報告，我去咗田中老師嘅研究室。",
       "fr": "Pour rendre mon rapport, je me suis rendu au bureau du professeur Tanaka."
     },
-    "related": "関連語: 研究する"
+    "related": "関連語: 研究する",
+    "romaji": "kenkyuushitsu"
   },
   {
     "id": "card_1817",
@@ -50894,7 +52709,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "山本教授嘅歷史堂好有趣，好受歡迎。",
       "fr": "Le cours d'histoire du professeur Yamamoto est très intéressant et populaire."
     },
-    "related": "表現: 講義を受ける"
+    "related": "表現: 講義を受ける",
+    "romaji": "kougi"
   },
   {
     "id": "card_1818",
@@ -50922,7 +52738,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "中村先生仲猶豫緊要揀邊個學系。",
       "fr": "M. Nakamura hésite encore sur la faculté qu'il va choisir."
     },
-    "related": "例: 文学部・経済学部"
+    "related": "例: 文学部・経済学部",
+    "romaji": "gakubu"
   },
   {
     "id": "card_1819",
@@ -50950,7 +52767,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺畢業典禮度，我喺校長手中接過畢業證書。",
       "fr": "Lors de la cérémonie de remise des diplômes, j'ai reçu mon diplôme des mains du proviseur."
     },
-    "related": "（※大学は「学長」）"
+    "related": "（※大学は「学長」）",
+    "romaji": "kouchou"
   },
   {
     "id": "card_1820",
@@ -50978,7 +52796,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺履歷表上面，正式寫法係寫「高等學校」而唔係簡寫「高校」。",
       "fr": "Sur un CV, la forme officielle est d'écrire « Kōtōgakkō » plutôt que l'abréviation « Kōkō »."
     },
-    "related": "略称: 高校（こうこう）"
+    "related": "略称: 高校（こうこう）",
+    "romaji": "koutougakkou"
   },
   {
     "id": "card_1821",
@@ -51006,7 +52825,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "入學禮會喺學校嘅大禮堂舉行。",
       "fr": "La cérémonie de rentrée aura lieu dans le grand auditorium de l'école."
     },
-    "related": "学校の施設"
+    "related": "学校の施設",
+    "romaji": "koudou"
   },
   {
     "id": "card_1822",
@@ -51034,7 +52854,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "伊藤先生由細到大數學都好叻。",
       "fr": "M. Ito est doué en mathématiques depuis son enfance."
     },
-    "related": "教科名"
+    "related": "教科名",
+    "romaji": "suugaku"
   },
   {
     "id": "card_1823",
@@ -51062,7 +52883,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為鍾意去旅行，我對日本嘅地理好熟。",
       "fr": "Comme j'aime voyager, je connais bien la géographie du Japon."
     },
-    "related": "教科名"
+    "related": "教科名",
+    "romaji": "chiri"
   },
   {
     "id": "card_1824",
@@ -51090,7 +52912,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺大學入面，我想研究日本現代文學。",
       "fr": "À l'université, je voudrais faire des recherches sur la littérature japonaise contemporaine."
     },
-    "related": "関連語: 文学部"
+    "related": "関連語: 文学部",
+    "romaji": "bungaku"
   },
   {
     "id": "card_1825",
@@ -51118,7 +52941,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我每日都少少咁溫習N4嘅生字同文法。",
       "fr": "Chaque jour, je révise petit à petit le vocabulaire et la grammaire du niveau N4."
     },
-    "related": "関連語: 語彙（ごい）・発音"
+    "related": "関連語: 語彙（ごい）・発音",
+    "romaji": "bunpou"
   },
   {
     "id": "card_1826",
@@ -51146,7 +52970,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺電車入面睇緊出名作家寫嘅小說。",
       "fr": "Je lis un roman d'un écrivain célèbre dans le train."
     },
-    "related": "関連語: 小説家"
+    "related": "関連語: 小説家",
+    "romaji": "shousetsu"
   },
   {
     "id": "card_1827",
@@ -51174,7 +52999,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本嘅漫畫同動漫喺全世界都好受歡迎。",
       "fr": "Les mangas et les dessins animés japonais sont très populaires dans le monde entier."
     },
-    "related": "関連語: 漫画家"
+    "related": "関連語: 漫画家",
+    "romaji": "manga"
   },
   {
     "id": "card_1828",
@@ -51202,7 +53028,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢套劇集逢星期日夜晚九點播放。",
       "fr": "Cette série est diffusée tous les dimanches soir à partir de 21 heures."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "housou"
   },
   {
     "id": "card_1829",
@@ -51230,7 +53057,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "傍晚我一邊喺海灘散步，一邊睇好靚嘅日落。",
       "fr": "Le soir, j'ai admiré le beau coucher de soleil en marchant le long de la plage."
     },
-    "related": "自然・地理の名詞"
+    "related": "自然・地理の名詞",
+    "romaji": "kaigan"
   },
   {
     "id": "card_1830",
@@ -51258,7 +53086,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本最大嘅湖係位於滋賀縣嘅琵琶湖。",
       "fr": "Le plus grand lac du Japon est le lac Biwa, situé dans la préfecture de Shiga."
     },
-    "related": "自然・地理の名詞"
+    "related": "自然・地理の名詞",
+    "romaji": "mizuumi"
   },
   {
     "id": "card_1831",
@@ -51286,7 +53115,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "橫濱港口泊咗好多大船。",
       "fr": "Beaucoup de grands bateaux sont amarrés dans le port de Yokohama."
     },
-    "related": "自然・地理の名詞"
+    "related": "自然・地理の名詞",
+    "romaji": "minato"
   },
   {
     "id": "card_1832",
@@ -51314,7 +53144,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假我搭船去咗南面嘅一個小島度玩。",
       "fr": "Pendant les vacances d'été, j'ai pris le bateau pour aller sur une petite île du sud."
     },
-    "related": "複合語では「〜じま・〜とう」"
+    "related": "複合語では「〜じま・〜とう」",
+    "romaji": "shima"
   },
   {
     "id": "card_1833",
@@ -51342,7 +53173,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "行喺深山森林入面，會聽到雀仔嘅叫聲。",
       "fr": "En marchant dans la forêt profonde, on entend le chant des oiseaux."
     },
-    "related": "類義語: 林（はやし）"
+    "related": "類義語: 林（はやし）",
+    "romaji": "mori"
   },
   {
     "id": "card_1834",
@@ -51370,7 +53202,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我屋企後面有一片小樹林，到咗秋天紅葉好靚。",
       "fr": "Il y a un petit bois derrière la maison, et les feuilles d'automne y sont magnifiques."
     },
-    "related": "類義語: 森（もり）"
+    "related": "類義語: 森（もり）",
+    "romaji": "hayashi"
   },
   {
     "id": "card_1835",
@@ -51398,7 +53231,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "有隻雀仔企喺樹枝上面唱歌。",
       "fr": "Un petit oiseau est perché sur une branche d'arbre et chante."
     },
-    "related": "植物の名詞"
+    "related": "植物の名詞",
+    "romaji": "eda"
   },
   {
     "id": "card_1836",
@@ -51426,7 +53260,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我掹走晒花園啲雜草，打掃得好乾淨。",
       "fr": "Ce week-end, j'ai arraché les mauvaises herbes du jardin et je l'ai bien nettoyé."
     },
-    "related": "関連語: 花・木"
+    "related": "関連語: 花・木",
+    "romaji": "kusa"
   },
   {
     "id": "card_1837",
@@ -51454,7 +53289,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "路中心有嚿大石頭，為免危險我搬開咗佢。",
       "fr": "Il y avait une grosse pierre sur le chemin, je l'ai déplacée pour éviter tout danger."
     },
-    "related": "自然の名詞"
+    "related": "自然の名詞",
+    "romaji": "ishi"
   },
   {
     "id": "card_1838",
@@ -51482,7 +53318,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺海灘玩完之後，對鞋入面入咗好多沙。",
       "fr": "Après avoir joué à la plage, j'avais plein de sable dans mes chaussures."
     },
-    "related": "関連語: 砂浜（すなはま）"
+    "related": "関連語: 砂浜（すなはま）",
+    "romaji": "suna"
   },
   {
     "id": "card_1839",
@@ -51510,7 +53347,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "一早打開窗，吸咗啖山入面好清新嘅空氣。",
       "fr": "J'ai ouvert la fenêtre tôt le matin pour respirer le bon air de la montagne."
     },
-    "related": "表現: 空気がきれい"
+    "related": "表現: 空気がきれい",
+    "romaji": "kuuki"
   },
   {
     "id": "card_1840",
@@ -51538,7 +53376,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "拉開窗簾，溫暖嘅陽光照射入間房度。",
       "fr": "Quand j'ai ouvert les rideaux, la chaude lumière du soleil est entrée dans la pièce."
     },
-    "related": "動詞: 光る（ひかる）"
+    "related": "動詞: 光る（ひかる）",
+    "romaji": "hikari"
   },
   {
     "id": "card_1841",
@@ -51566,7 +53405,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺鄉下嘅夜空，可以睇到數唔晒咁多粒星。",
       "fr": "Dans le ciel nocturne de la campagne, on peut voir d'innombrables étoiles."
     },
-    "related": "自然の名詞"
+    "related": "自然の名詞",
+    "romaji": "hoshi"
   },
   {
     "id": "card_1842",
@@ -51594,7 +53434,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日個天一嚿雲都冇，天氣非常好。",
       "fr": "Aujourd'hui, il n'y a pas un seul nuage dans le ciel, il fait très beau."
     },
-    "related": "関連語: 曇り（くもり）"
+    "related": "関連語: 曇り（くもり）",
+    "romaji": "kumo"
   },
   {
     "id": "card_1843",
@@ -51622,7 +53463,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中先生喺多綠化嘅東京郊區買咗層樓。",
       "fr": "M. Tanaka a acheté une maison dans la banlieue verdoyante de Tokyo."
     },
-    "related": "対義語: 都心（としん）"
+    "related": "対義語: 都心（としん）",
+    "romaji": "kougai"
   },
   {
     "id": "card_1844",
@@ -51650,7 +53492,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "暑假我會去鄉下爺爺屋企玩。",
       "fr": "Pendant les vacances d'été, je vais rendre visite à mon grand-père à la campagne."
     },
-    "related": "対義語: 都会（とかい）"
+    "related": "対義語: 都会（とかい）",
+    "romaji": "inaka"
   },
   {
     "id": "card_1845",
@@ -51678,7 +53521,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "京都係一個歷史悠久嘅城市，曾經好長一段時間係日本嘅都城。",
       "fr": "Kyoto est une ville historique qui a longtemps été la capitale du Japon."
     },
-    "related": "音読み: と（東京都）"
+    "related": "音読み: と（東京都）",
+    "romaji": "miyako"
   },
   {
     "id": "card_1846",
@@ -51706,7 +53550,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "演唱會會場出面已經有好多人排緊隊。",
       "fr": "Devant la salle de concert, beaucoup de gens faisaient déjà la queue."
     },
-    "related": "場所の名詞"
+    "related": "場所の名詞",
+    "romaji": "kaijou"
   },
   {
     "id": "card_1847",
@@ -51734,7 +53579,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "社會科參觀嗰陣，我哋去咗一間整麵包嘅工廠。",
       "fr": "Lors d'une sortie scolaire, nous avons visité une usine qui fabrique du pain."
     },
-    "related": "読み: こうば（小規模な町工場など）"
+    "related": "読み: こうば（小規模な町工場など）",
+    "romaji": "koujou"
   },
   {
     "id": "card_1848",
@@ -51762,7 +53608,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我住喺箱根嘅溫泉旅館，食咗好好味嘅日本料理。",
       "fr": "J'ai séjourné dans un ryokan avec sources chaudes à Hakone et dégusté une délicieuse cuisine japonaise."
     },
-    "related": "関連語: ホテル"
+    "related": "関連語: ホテル",
+    "romaji": "ryokan"
   },
   {
     "id": "card_1849",
@@ -51790,7 +53637,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我好近距離咁睇從飛機場起飛嘅飛機。",
       "fr": "J'ai regardé de près les avions décoller de l'aérodrome."
     },
-    "related": "類義語: 空港（くうこう）"
+    "related": "類義語: 空港（くうこう）",
+    "romaji": "hikoujou"
   },
   {
     "id": "card_1850",
@@ -51818,7 +53666,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "上野動物園入面有好得意嘅熊貓。",
       "fr": "Au zoo d'Ueno, il y a d'adorables pandas."
     },
-    "related": "関連語: 植物園・水族館"
+    "related": "関連語: 植物園・水族館",
+    "romaji": "doubutsuen"
   },
   {
     "id": "card_1851",
@@ -51846,7 +53695,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "週末我同佐藤小姐去美術館睇咗攝影展覽會。",
       "fr": "Ce week-end, je suis allé voir une exposition de photos au musée avec Mme Sato."
     },
-    "related": "表現: 展覧会を開く"
+    "related": "表現: 展覧会を開く",
+    "romaji": "tenrankai"
   },
   {
     "id": "card_1852",
@@ -51874,7 +53724,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "飲凍嘢嗰陣牙痛，所以我下晝會去睇牙醫。",
       "fr": "J'ai mal aux dents quand je bois quelque chose de froid, je vais donc chez le dentiste cet après-midi."
     },
-    "related": "医療の名詞"
+    "related": "医療の名詞",
+    "romaji": "haisha"
   },
   {
     "id": "card_1853",
@@ -51902,7 +53753,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "BB喺隔離房好香甜咁瞓緊覺。",
       "fr": "Un bébé dort paisiblement dans la pièce voisine."
     },
-    "related": "類義語: 赤ちゃん"
+    "related": "類義語: 赤ちゃん",
+    "romaji": "akanbou"
   },
   {
     "id": "card_1854",
@@ -51930,7 +53782,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "自己做咗人父母之後，先至真正明白到父母嘅恩情。",
       "fr": "Ce n'est qu'en devenant parent moi-même que j'ai compris toute ma reconnaissance envers mes parents."
     },
-    "related": "関連語: 親子（おやこ）・両親"
+    "related": "関連語: 親子（おやこ）・両親",
+    "romaji": "oya"
   },
   {
     "id": "card_1855",
@@ -51958,7 +53811,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "車站附近起咗一間畀市民自由使用嘅新圖書館。",
       "fr": "Une nouvelle bibliothèque accessible librement aux citoyens a ouvert près de la gare."
     },
-    "related": "関連語: 市民体育館"
+    "related": "関連語: 市民体育館",
+    "romaji": "shimin"
   },
   {
     "id": "card_1856",
@@ -51986,7 +53840,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今晚屋企有客人嚟，我煮緊大餐。",
       "fr": "Comme nous recevons des invités ce soir, je prépare un bon repas."
     },
-    "related": "丁寧形: お客さん・お客様"
+    "related": "丁寧形: お客さん・お客様",
+    "romaji": "kyaku"
   },
   {
     "id": "card_1857",
@@ -52014,7 +53869,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為免入賊，出門口嗰陣我一定會鎖好門。",
       "fr": "Pour éviter les cambriolages, je ferme toujours à clé en sortant."
     },
-    "related": "警察（けいさつ）"
+    "related": "警察（けいさつ）",
+    "romaji": "dorobou"
   },
   {
     "id": "card_1858",
@@ -52042,7 +53898,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "細佬問：「我下星期可唔可以一齊去露營呀？」",
       "fr": "« Est-ce que je peux aussi venir au camp la semaine prochaine ? » a demandé mon petit frère."
     },
-    "related": "男性の第一人称"
+    "related": "男性の第一人称",
+    "romaji": "boku"
   },
   {
     "id": "card_1859",
@@ -52070,7 +53927,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "田中課長同後輩講：「你份計劃書寫得好好喎。」",
       "fr": "Le chef de section Tanaka a dit à son subordonné : « Ton projet était très bien. »"
     },
-    "related": "親しい間柄・目下への第二人称"
+    "related": "親しい間柄・目下への第二人称",
+    "romaji": "kimi"
   },
   {
     "id": "card_1860",
@@ -52098,7 +53956,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "頭髮長咗，週末我會去髮型屋剪頭髮。",
       "fr": "Comme mes cheveux ont poussé, j'irai chez le coiffeur ce week-end pour les faire couper."
     },
-    "related": "関連語: 髪の毛（かみのけ）"
+    "related": "関連語: 髪の毛（かみのけ）",
+    "romaji": "kami"
   },
   {
     "id": "card_1861",
@@ -52126,7 +53985,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "因為一直望住部電腦，搞到條頸同膊頭好痛。",
       "fr": "À force de regarder l'ordinateur, j'ai eu mal au cou et aux épaules."
     },
-    "related": "身体の部位（※手首・足首）"
+    "related": "身体の部位（※手首・足首）",
+    "romaji": "kubi"
   },
   {
     "id": "card_1862",
@@ -52154,7 +54014,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢件冷衫係用羊毛造嘅，所以好暖。",
       "fr": "Ce pull est en laine de mouton, il tient donc très chaud."
     },
-    "related": "関連語: 毛糸（けいと）"
+    "related": "関連語: 毛糸（けいと）",
+    "romaji": "ke"
   },
   {
     "id": "card_1863",
@@ -52182,7 +54043,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我收到佐藤小姐寫嘅一封充滿心意嘅溫暖信件。",
       "fr": "J'ai reçu une lettre chaleureuse et sincère de la part de Mme Sato."
     },
-    "related": "表現: 心が広い"
+    "related": "表現: 心が広い",
+    "romaji": "kokoro"
   },
   {
     "id": "card_1864",
@@ -52210,7 +54072,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "路上好多車同單車，請小心返屋企呀。",
       "fr": "Il y a beaucoup de voitures et de vélos, alors faites bien attention en rentrant."
     },
-    "related": "慣用表現: 気をつける・気になる"
+    "related": "慣用表現: 気をつける・気になる",
+    "romaji": "ki"
   },
   {
     "id": "card_1865",
@@ -52238,7 +54101,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我覺得有啲唔舒服，請俾我喺長凳度休息下。",
       "fr": "Je ne me sens pas très bien, laissez-moi me reposer sur le banc."
     },
-    "related": "表現: 気分がいい・気分が悪い"
+    "related": "表現: 気分がいい・気分が悪い",
+    "romaji": "kibun"
   },
   {
     "id": "card_1866",
@@ -52266,7 +54130,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "大家齊心協力，令呢個大型活動非常成功。",
       "fr": "Nous avons uni nos forces pour faire de ce grand événement un succès."
     },
-    "related": "表現: 力を合わせる"
+    "related": "表現: 力を合わせる",
+    "romaji": "chikara"
   },
   {
     "id": "card_1867",
@@ -52294,7 +54159,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "開會嗰陣唔使客氣，請講出自己嘅意見啦。",
       "fr": "Pendant la réunion, n'hésitez pas à exprimer votre propre opinion."
     },
-    "related": "表現: 意見を言う"
+    "related": "表現: 意見を言う",
+    "romaji": "iken"
   },
   {
     "id": "card_1868",
@@ -52322,7 +54188,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我對日本嘅古老建築同歷史好有興趣。",
       "fr": "Je m'intéresse beaucoup à l'architecture ancienne et à l'histoire du Japon."
     },
-    "related": "表現: 〜に興味がある・興味を持つ"
+    "related": "表現: 〜に興味がある・興味を持つ",
+    "romaji": "kyoumi"
   },
   {
     "id": "card_1869",
@@ -52350,7 +54217,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "喺外國一個人生活過，對我嚟講係好寶貴嘅經驗。",
       "fr": "Avoir vécu seul à l'étranger est une expérience précieuse pour moi."
     },
-    "related": "名詞・サ変動詞"
+    "related": "名詞・サ変動詞",
+    "romaji": "keiken"
   },
   {
     "id": "card_1870",
@@ -52378,7 +54246,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我同朋友一齊傾緊暑假去旅行嘅計劃。",
       "fr": "Je prépare un projet de voyage pour les vacances d'été avec mes amis."
     },
-    "related": "表現: 計画を立てる"
+    "related": "表現: 計画を立てる",
+    "romaji": "keikaku"
   },
   {
     "id": "card_1871",
@@ -52406,7 +54275,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "宿舍有門禁等等嘅規矩，請一定要遵守。",
       "fr": "Le dortoir a un règlement, comme un couvre-feu, veuillez donc impérativement le respecter."
     },
-    "related": "表現: 規則を守る"
+    "related": "表現: 規則を守る",
+    "romaji": "kisoku"
   },
   {
     "id": "card_1872",
@@ -52434,7 +54304,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢兩單案件之間好似有好深嘅關係。",
       "fr": "Il semble y avoir un lien étroit entre ces deux affaires."
     },
-    "related": "表現: 〜に関係がある"
+    "related": "表現: 〜に関係がある",
+    "romaji": "kankei"
   },
   {
     "id": "card_1873",
@@ -52462,7 +54333,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "如果有機會嘅話，我好想去北海道滑雪。",
       "fr": "Si j'en ai l'occasion, j'aimerais beaucoup aller faire du ski à Hokkaido."
     },
-    "related": "類義語: チャンス"
+    "related": "類義語: チャンス",
+    "romaji": "kikai"
   },
   {
     "id": "card_1874",
@@ -52490,7 +54362,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "接咗手嘅工作，我會負起責任一直做到最後。",
       "fr": "Je mènerai jusqu'au bout et avec responsabilité le travail que j'ai accepté."
     },
-    "related": "表現: 責任を持つ"
+    "related": "表現: 責任を持つ",
+    "romaji": "sekinin"
   },
   {
     "id": "card_1875",
@@ -52518,7 +54391,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "日本嘅人口正喺度一點一點咁持續減少緊。",
       "fr": "La population du Japon continue de diminuer petit à petit."
     },
-    "related": "表現: 人口が多い・少ない"
+    "related": "表現: 人口が多い・少ない",
+    "romaji": "jinkou"
   },
   {
     "id": "card_1876",
@@ -52546,7 +54420,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "而家係一個透過互聯網就可以即刻同全世界嘅人傾偈嘅時代。",
       "fr": "Nous vivons à une époque où l'on peut parler instantanément avec le monde entier grâce à Internet."
     },
-    "related": "例: 江戸時代・学生時代"
+    "related": "例: 江戸時代・学生時代",
+    "romaji": "jidai"
   },
   {
     "id": "card_1877",
@@ -52574,7 +54449,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "以前呢度係好靜嘅鄉下，但而家已經起滿晒高樓大廈。",
       "fr": "Autrefois, c'était une campagne tranquille, mais aujourd'hui de grands immeubles s'y alignent."
     },
-    "related": "対義語: 今・現在"
+    "related": "対義語: 今・現在",
+    "romaji": "mukashi"
   },
   {
     "id": "card_1878",
@@ -52602,7 +54478,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "份報告請一定要喺今個星期五之前交。",
       "fr": "Veuillez impérativement remettre votre rapport d'ici ce vendredi."
     },
-    "related": "肯定文と呼応する副詞"
+    "related": "肯定文と呼応する副詞",
+    "romaji": "kanarazu"
   },
   {
     "id": "card_1879",
@@ -52630,7 +54507,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "多得大家幫手先可以成功，我絕對唔會忘記。",
       "fr": "Je n'oublierai jamais que j'ai réussi grâce à l'aide de tout le monde."
     },
-    "related": "否定文（〜ない）と呼応する副詞"
+    "related": "否定文（〜ない）と呼応する副詞",
+    "romaji": "kesshite"
   },
   {
     "id": "card_1880",
@@ -52658,7 +54536,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "生果我咩都鍾意食，特別係士多啤梨。",
       "fr": "J'aime tous les fruits, mais particulièrement les fraises."
     },
-    "related": "副詞"
+    "related": "副詞",
+    "romaji": "tokuni"
   },
   {
     "id": "card_1881",
@@ -52686,7 +54565,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢本新字典有好多例句，非常之好用。",
       "fr": "Ce nouveau dictionnaire contient beaucoup d'exemples et est extrêmement facile à utiliser."
     },
-    "related": "「とても」の硬い表現"
+    "related": "「とても」の硬い表現",
+    "romaji": "hijouni"
   },
   {
     "id": "card_1882",
@@ -52714,7 +54594,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "食咗藥休息過之後，傷風已經好返好多喇。",
       "fr": "Après avoir pris des médicaments et m'être reposé, mon rhume va beaucoup mieux."
     },
-    "related": "変化の程度が大きいことを表す"
+    "related": "変化の程度が大きいことを表す",
+    "romaji": "daibu"
   },
   {
     "id": "card_1883",
@@ -52742,7 +54623,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "N4嘅文法我大概都明晒，不過仲需要練習多啲。",
       "fr": "J'ai à peu près compris la grammaire du N4, mais j'ai encore besoin d'un peu d'entraînement."
     },
-    "related": "漢字表記: 大体"
+    "related": "漢字表記: 大体",
+    "romaji": "daitai"
   },
   {
     "id": "card_1884",
@@ -52770,7 +54652,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "朝早架巴士等極都唔嚟，差啲遲到。",
       "fr": "Le bus du matin mettait du temps à arriver et j'ai failli être en retard."
     },
-    "related": "肯定で「かなり」、否定で「簡単に〜ない」"
+    "related": "肯定で「かなり」、否定で「簡単に〜ない」",
+    "romaji": "nakanaka"
   },
   {
     "id": "card_1885",
@@ -52798,7 +54681,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "夜喇，我哋差唔多係時候返屋企啦。",
       "fr": "Il se fait tard, il est temps de rentrer."
     },
-    "related": "行動を始めるタイミングを表す"
+    "related": "行動を始めるタイミングを表す",
+    "romaji": "sorosoro"
   },
   {
     "id": "card_1886",
@@ -52826,7 +54710,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "用咗十年嘅洗衣機尋日終於都壞咗。",
       "fr": "La machine à laver que j'utilisais depuis 10 ans est finalement tombée en panne hier."
     },
-    "related": "類義語: やっと（良い結果のみ）"
+    "related": "類義語: やっと（良い結果のみ）",
+    "romaji": "toutou"
   },
   {
     "id": "card_1887",
@@ -52854,7 +54739,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我一時唔小心，留低咗把遮喺電車入面。",
       "fr": "Par inadvertance, j'ai oublié mon parapluie dans le train."
     },
-    "related": "表現: うっかり忘れる"
+    "related": "表現: うっかり忘れる",
+    "romaji": "ukkari"
   },
   {
     "id": "card_1888",
@@ -52882,7 +54768,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗唔好冷親，我每日都會好好地食早餐。",
       "fr": "Pour ne pas attraper froid, je prends un bon petit-déjeuner tous les jours."
     },
-    "related": "副詞・サ変動詞"
+    "related": "副詞・サ変動詞",
+    "romaji": "shikkari"
   },
   {
     "id": "card_1889",
@@ -52910,7 +54797,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "山上面嘅樹葉紅晒，完全變成秋天嘅景象。",
       "fr": "Au sommet de la montagne, les feuilles ont rougi et l'automne est complètement installé."
     },
-    "related": "変化が完了したことを表す"
+    "related": "変化が完了したことを表す",
+    "romaji": "sukkari"
   },
   {
     "id": "card_1890",
@@ -52938,7 +54826,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我拉開窗簾，就見到出面一片雪白。",
       "fr": "J'ai ouvert les rideaux. Alors, tout était recouvert de neige blanche dehors."
     },
-    "related": "接続詞"
+    "related": "接続詞",
+    "romaji": "suruto"
   },
   {
     "id": "card_1891",
@@ -52966,7 +54855,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "漢字點都記唔入腦。於是我決定每日整字卡嚟練習。",
       "fr": "J'ai du mal à retenir les kanjis. Alors, j'ai décidé de créer des cartes pour m'entraîner chaque jour."
     },
-    "related": "接続詞（解決策を述べる）"
+    "related": "接続詞（解決策を述べる）",
+    "romaji": "sokode"
   },
   {
     "id": "card_1892",
@@ -52994,7 +54884,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "呢部相機有啲貴。不過性能就非常好。",
       "fr": "Cet appareil photo est un peu cher. Cependant, ses performances sont excellentes."
     },
-    "related": "「けれど・けど」の丁寧な形"
+    "related": "「けれど・けど」の丁寧な形",
+    "romaji": "keredomo"
   },
   {
     "id": "card_1893",
@@ -53022,7 +54913,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿哥每日朝早都會揸電單車返工廠。",
       "fr": "Mon grand frère va à l'usine à moto tous les matins."
     },
-    "related": "略称: バイク"
+    "related": "略称: バイク",
+    "romaji": "ootobai"
   },
   {
     "id": "card_1894",
@@ -53050,7 +54942,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "為咗改變間房嘅氣氛，我買咗淺色嘅窗簾。",
       "fr": "Pour changer l'ambiance de la pièce, j'ai acheté des rideaux de couleur claire."
     },
-    "related": "住居のカタカナ語"
+    "related": "住居のカタカナ語",
+    "romaji": "kaaten"
   },
   {
     "id": "card_1895",
@@ -53078,7 +54971,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "去遊車河之前，我喺油站入咗油。",
       "fr": "Avant de partir en promenade en voiture, j'ai fait le plein d'essence à la station-service."
     },
-    "related": "関連語: ガソリンスタンド"
+    "related": "関連語: ガソリンスタンド",
+    "romaji": "gasorin"
   },
   {
     "id": "card_1896",
@@ -53106,7 +55000,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "今日好熱，我開咗間房部冷氣機。",
       "fr": "Comme il fait très chaud aujourd'hui, j'ai allumé le climatiseur dans la pièce."
     },
-    "related": "類義語: エアコン・冷房"
+    "related": "類義語: エアコン・冷房",
+    "romaji": "kuuraa"
   },
   {
     "id": "card_1897",
@@ -53134,7 +55029,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我喺個大喼入面塞滿晒手信。",
       "fr": "J'ai rempli ma grande valise de souvenirs."
     },
-    "related": "旅行のカタカナ語"
+    "related": "旅行のカタカナ語",
+    "romaji": "suutsukeesu"
   },
   {
     "id": "card_1898",
@@ -53162,7 +55058,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "放假我會用客廳部音響聽古典音樂。",
       "fr": "Les jours de congé, j'écoute de la musique classique sur la chaîne hi-fi du salon."
     },
-    "related": "家電のカタカナ語"
+    "related": "家電のカタカナ語",
+    "romaji": "sutereo"
   },
   {
     "id": "card_1899",
@@ -53190,7 +55087,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我買咗日文堂要用嘅新教材。",
       "fr": "J'ai acheté un nouveau manuel pour mon cours de japonais."
     },
-    "related": "類義語: 教科書（きょうかしょ）"
+    "related": "類義語: 教科書（きょうかしょ）",
+    "romaji": "tekisuto"
   },
   {
     "id": "card_1900",
@@ -53218,7 +55116,8 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "阿媽淨係朝早喺附近間超市做兼職。",
       "fr": "Ma mère travaille à temps partiel au supermarché voisin uniquement le matin."
     },
-    "related": "類義語: アルバイト"
+    "related": "類義語: アルバイト",
+    "romaji": "paato"
   },
   {
     "id": "card_1901",
@@ -53246,6 +55145,7 @@ window.INITIAL_VOCAB_DATA = [
       "zh_HK": "我將想買嘅嘢放入籃度，然後喺收銀處排隊。",
       "fr": "J'ai mis les articles que je voulais acheter dans le panier et j'ai fait la queue à la caisse."
     },
-    "related": "買い物・店舗のカタカナ語"
+    "related": "買い物・店舗のカタカナ語",
+    "romaji": "reji"
   }
 ];
