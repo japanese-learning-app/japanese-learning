@@ -876,16 +876,59 @@
     });
   }
 
+  let _currentMypageAudio = null;
   function playMypageAudio(text) {
     if (!text) return;
+    let clean = String(text).replace(/<rt[^>]*>[\s\S]*?<\/rt>/gi, '').replace(/<rp[^>]*>[\s\S]*?<\/rp>/gi, '').replace(/<[^>]+>/g, '').trim();
+    if (!clean) return;
+
     try {
-      const u = new SpeechSynthesisUtterance(text);
-      u.lang = 'ja-JP';
-      u.rate = 0.9;
-      window.speechSynthesis.cancel();
-      window.speechSynthesis.speak(u);
+      if (_currentMypageAudio) {
+        _currentMypageAudio.pause();
+        _currentMypageAudio.currentTime = 0;
+        _currentMypageAudio = null;
+      }
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+    } catch(e) {}
+
+    try {
+      if (window.parent && window.parent !== window && typeof window.parent.playAppAudio === 'function') {
+        window.parent.playAppAudio(clean);
+        return;
+      }
+    } catch(e) {}
+
+    try {
+      const encoded = encodeURIComponent(clean.slice(0, 190));
+      const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
+      const audio = new Audio(url);
+      _currentMypageAudio = audio;
+      audio.onerror = () => {
+        try {
+          const u = new SpeechSynthesisUtterance(clean);
+          u.lang = 'ja-JP';
+          u.rate = 0.9;
+          window.speechSynthesis.speak(u);
+        } catch(err) {}
+      };
+      const p = audio.play();
+      if (p !== undefined) {
+        p.catch(() => {
+          try {
+            const u = new SpeechSynthesisUtterance(clean);
+            u.lang = 'ja-JP';
+            u.rate = 0.9;
+            window.speechSynthesis.speak(u);
+          } catch(err) {}
+        });
+      }
     } catch(e) {
-      console.warn('Audio notice:', e);
+      try {
+        const u = new SpeechSynthesisUtterance(clean);
+        u.lang = 'ja-JP';
+        u.rate = 0.9;
+        window.speechSynthesis.speak(u);
+      } catch(err) {}
     }
   }
 

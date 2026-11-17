@@ -12,6 +12,7 @@
   <script src="auth.js?v=20261021_0110"></script>
   <script src="user_progress.js?v=20261021_0110"></script>
   <script src="database/dictionary_data.js" defer></script>
+  <script src="js/google_tts_engine.js"></script>
   <script src="database/jlpt_n3_listening_data.js"></script>
   <style>
     :root {
@@ -772,7 +773,13 @@
           activeListeningAudio.currentTime = 0;
           activeListeningAudio = null;
         }
-        if ('speechSynthesis' in window) {
+        if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if ('speechSynthesis' in window) {
           window.speechSynthesis.cancel();
         }
         activePlayingQNum = null;
@@ -791,7 +798,13 @@
           activeListeningAudio.currentTime = 0;
           activeListeningAudio = null;
         }
-        if ('speechSynthesis' in window) {
+        if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if (typeof window.stopGoogleTTS === "function") {
+          window.stopGoogleTTS();
+        } else if ('speechSynthesis' in window) {
           window.speechSynthesis.cancel();
         }
         const prevBtn = document.getElementById(`play-btn-${prevQ}`);
@@ -826,22 +839,24 @@
       };
 
       audio.onerror = (e) => {
-        console.warn(`Local audio for Q${qNum} failed, falling back to online Google TTS / WebSpeech:`, e);
-        // Fallback: Web Speech API
-        if ('speechSynthesis' in window) {
+        console.warn(`Local audio for Q${qNum} failed, falling back to online Google TTS:`, e);
+        const text = q.speech_audio_text || q.speech_dialogue || q.prompt;
+        const onFinish = () => {
+          status.textContent = '再生完了';
+          status.className = 'text-xs font-bold text-emerald-600';
+          btn.innerHTML = '<i data-lucide="rotate-ccw" class="w-5 h-5 fill-white"></i>';
+          lucide.createIcons();
+          activePlayingQNum = null;
+          activeListeningAudio = null;
+        };
+        if (typeof window.playGoogleTTS === 'function') {
+          window.playGoogleTTS(text, onFinish);
+        } else if ('speechSynthesis' in window) {
           window.speechSynthesis.cancel();
-          const text = q.speech_audio_text || q.speech_dialogue || q.prompt;
-          const utterance = new SpeechSynthesisUtterance(text);
+          const utterance = new SpeechSynthesisUtterance(text.replace(/<[^>]+>/g, ''));
           utterance.lang = 'ja-JP';
           utterance.rate = 0.95;
-          utterance.onend = () => {
-            status.textContent = '再生完了';
-            status.className = 'text-xs font-bold text-emerald-600';
-            btn.innerHTML = '<i data-lucide="rotate-ccw" class="w-5 h-5 fill-white"></i>';
-            lucide.createIcons();
-            activePlayingQNum = null;
-            activeListeningAudio = null;
-          };
+          utterance.onend = onFinish;
           window.speechSynthesis.speak(utterance);
         } else {
           status.textContent = '再生エラー';
