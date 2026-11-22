@@ -1,5 +1,3 @@
-// JLPT N3 Grammar Practice Questions (728 Questions)
-// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -1124,8 +1122,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question": "限定品のパンが売り切れていた。もっと早い時間に買いに行け（　　　）。",
     "choices": [
       "ばいい",
-      "るべきだ",
-      "るはずだ",
+      "ば間に合う",
+      "ば助かった",
       "ばよかった"
     ],
     "answer": 3,
@@ -1135,8 +1133,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>限定<rt>げんてい</rt></ruby><ruby>品<rt>ひん</rt></ruby>のパンが<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れていた。もっと<ruby>早<rt>はや</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>けばよかった。",
     "choices_ruby": [
       "ばいい",
-      "るべきだ",
-      "るはずだ",
+      "ば<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う",
+      "ば<ruby>助<rt>たす</rt></ruby>かった",
       "ばよかった"
     ],
     "correct_text_ruby": "ばよかった"
@@ -1154,9 +1152,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question": "旅行先でこんなに冷え込むなら、厚手のセーターを持ってくれ（　　　）。",
     "choices": [
       "ばいい",
-      "るものだ",
+      "ば十分だ",
       "ばよかった",
-      "るわけだ"
+      "ば助かる"
     ],
     "answer": 2,
     "correct_text": "ばよかった",
@@ -1165,9 +1163,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>旅行<rt>りょこう</rt></ruby><ruby>先<rt>さき</rt></ruby>でこんなに<ruby>冷<rt>ひ</rt></ruby>え<ruby>込<rt>こ</rt></ruby>むなら、<ruby>厚手<rt>あつで</rt></ruby>のセーターを<ruby>持<rt>も</rt></ruby>ってくればよかった。",
     "choices_ruby": [
       "ばいい",
-      "るものだ",
+      "ば<ruby>十分<rt>じゅうぶん</rt></ruby>だ",
       "ばよかった",
-      "るわけだ"
+      "ば<ruby>助<rt>たす</rt></ruby>かる"
     ],
     "correct_text_ruby": "ばよかった"
   },
@@ -1183,10 +1181,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I reflected afterwards that I should have sent a thank-you email right at that time.",
     "question": "あの時すぐにお礼のメールを送っておけ（　　　）と、後から反省した。",
     "choices": [
-      "るばかりだ",
+      "ばいいのに",
       "ばよかった",
-      "るに違いない",
-      "ばいい"
+      "ば済んだのに",
+      "ば大丈夫だ"
     ],
     "answer": 1,
     "correct_text": "ばよかった",
@@ -1194,10 +1192,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "あの<ruby>時<rt>とき</rt></ruby>すぐにお<ruby>礼<rt>れい</rt></ruby>のメールを<ruby>送<rt>おく</rt></ruby>っておけ（　　　）と、<ruby>後<rt>あと</rt></ruby>から<ruby>反省<rt>はんせい</rt></ruby>した。",
     "sentence_jp_ruby": "あの<ruby>時<rt>とき</rt></ruby>すぐにお<ruby>礼<rt>れい</rt></ruby>のメールを<ruby>送<rt>おく</rt></ruby>っておけばよかったと、<ruby>後<rt>あと</rt></ruby>から<ruby>反省<rt>はんせい</rt></ruby>した。",
     "choices_ruby": [
-      "るばかりだ",
+      "ばいいのに",
       "ばよかった",
-      "るに<ruby>違<rt>ちが</rt></ruby>いない",
-      "ばいい"
+      "ば<ruby>済<rt>す</rt></ruby>んだのに",
+      "ば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だ"
     ],
     "correct_text_ruby": "ばよかった"
   },
@@ -2893,7 +2891,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "That he, who is usually very sincere, told a lie is a fact that remains hard to believe even now.",
     "question": "普段とても誠実な彼が嘘をついたなんて、今でも信じ（　　　）事実だ。",
     "choices": [
-      "づらい",
+      "っこない",
       "がたい",
       "きれない",
       "かねない"
@@ -2904,7 +2902,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>普段<rt>ふだん</rt></ruby>とても<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が<ruby>嘘<rt>うそ</rt></ruby>をついたなんて、<ruby>今<rt>いま</rt></ruby>でも<ruby>信<rt>しん</rt></ruby>じ（　　　）<ruby>事実<rt>じじつ</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>普段<rt>ふだん</rt></ruby>とても<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が<ruby>嘘<rt>うそ</rt></ruby>をついたなんて、<ruby>今<rt>いま</rt></ruby>でも<ruby>信<rt>しん</rt></ruby>じがたい<ruby>事実<rt>じじつ</rt></ruby>だ。",
     "choices_ruby": [
-      "づらい",
+      "っこない",
       "がたい",
       "きれない",
       "かねない"
@@ -7723,10 +7721,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "It is not impossible to walk there from the station, but since there are many slopes, taking the bus is easier.",
     "question": "駅から歩いて行け（　　　）が、坂道が多いのでバスを利用した方が楽ですよ。",
     "choices": [
-      "ないはずがない",
-      "るどころではない",
+      "ないはずだ",
+      "ないかもしれない",
       "ないことはない",
-      "るに違いない"
+      "ない方がいい"
     ],
     "answer": 2,
     "correct_text": "ないことはない",
@@ -7734,10 +7732,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>け（　　　）が、<ruby>坂道<rt>さかみち</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いのでバスを<ruby>利用<rt>りよう</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>ですよ。",
     "sentence_jp_ruby": "<ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>けないことはないが、<ruby>坂道<rt>さかみち</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いのでバスを<ruby>利用<rt>りよう</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>ですよ。",
     "choices_ruby": [
-      "ないはずがない",
-      "るどころではない",
+      "ないはずだ",
+      "ないかもしれない",
       "ないことはない",
-      "るに<ruby>違<rt>ちが</rt></ruby>いない"
+      "ない<ruby>方<rt>ほう</rt></ruby>がいい"
     ],
     "correct_text_ruby": "ないことはない"
   },
@@ -7753,10 +7751,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "It is not that I do not understand his point, but I think he could have shown a little more consideration for the people around him.",
     "question": "彼の言い分も分から（　　　）けれど、もう少し周りの人への配慮があってもよかったと思う。",
     "choices": [
-      "ないわけがない",
+      "ないはずだ",
       "ないことはない",
-      "るにすぎない",
-      "ないものか"
+      "ないままだ",
+      "ないようだ"
     ],
     "answer": 1,
     "correct_text": "ないことはない",
@@ -7764,10 +7762,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>言<rt>い</rt></ruby>い<ruby>分<rt>ぶん</rt></ruby>も<ruby>分<rt>わ</rt></ruby>から（　　　）けれど、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>があってもよかったと<ruby>思<rt>おも</rt></ruby>う。",
     "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>言<rt>い</rt></ruby>い<ruby>分<rt>ぶん</rt></ruby>も<ruby>分<rt>わ</rt></ruby>からないことはないけれど、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>があってもよかったと<ruby>思<rt>おも</rt></ruby>う。",
     "choices_ruby": [
-      "ないわけがない",
+      "ないはずだ",
       "ないことはない",
-      "るにすぎない",
-      "ないものか"
+      "ないままだ",
+      "ないようだ"
     ],
     "correct_text_ruby": "ないことはない"
   },
@@ -7785,8 +7783,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ないことはない",
       "ない恐れがある",
-      "っこない",
-      "るはずがない"
+      "ないはずがない",
+      "ないかもしれない"
     ],
     "answer": 0,
     "correct_text": "ないことはない",
@@ -7796,8 +7794,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "ないことはない",
       "ない<ruby>恐<rt>おそ</rt></ruby>れがある",
-      "っこない",
-      "るはずがない"
+      "ないはずがない",
+      "ないかもしれない"
     ],
     "correct_text_ruby": "ないことはない"
   },
@@ -13271,25 +13269,25 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp": "今日中に終わらせるべき書類が山のように残っていて、とても定時には帰れそうもない。",
     "sentence_furigana": "今日中に終わらせるべき書類が山のように残っていて、とても定時には帰れそうもない。",
     "sentence_en": "There is a mountain of documents left that must be finished today, so there is no way I look likely to go home on time.",
-    "question": "今日中に終わらせるべき書類が山のように残っていて、とても定時には帰れ（　　　）。",
+    "question": "今日中に終わらせるべき書類が山のように残っていて、とても定時には（　　　）。",
     "choices": [
-      "そうもない",
-      "るはずだ",
-      "るわけだ",
-      "るにすぎない"
+      "帰れそうもない",
+      "帰るに違いない",
+      "帰りそうもない",
+      "帰る一方だ"
     ],
     "answer": 0,
-    "correct_text": "そうもない",
+    "correct_text": "帰れそうもない",
     "notes": "<ruby>動詞<rt>どうし</rt></ruby>の<ruby>可能形<rt>かのうけい</rt></ruby>（<ruby>帰<rt>かえ</rt></ruby>れる）のます<ruby>形<rt>けい</rt></ruby>に<ruby>接続<rt>せつぞく</rt></ruby>して、<ruby>実現<rt>じつげん</rt></ruby>の<ruby>難<rt>むずか</rt></ruby>しさを<ruby>強調<rt>きょうちょう</rt></ruby>しています。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>終<rt>お</rt></ruby>わらせるべき<ruby>書類<rt>しょるい</rt></ruby>が<ruby>山<rt>やま</rt></ruby>のように<ruby>残<rt>のこ</rt></ruby>っていて、とても<ruby>定時<rt>ていじ</rt></ruby>には<ruby>帰<rt>かえ</rt></ruby>れ（　　　）。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に<ruby>終<rt>お</rt></ruby>わらせるべき<ruby>書類<rt>しょるい</rt></ruby>が<ruby>山<rt>やま</rt></ruby>のように<ruby>残<rt>のこ</rt></ruby>っていて、とても<ruby>定時<rt>ていじ</rt></ruby>には（　　　）。",
     "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>終<rt>お</rt></ruby>わらせるべき<ruby>書類<rt>しょるい</rt></ruby>が<ruby>山<rt>やま</rt></ruby>のように<ruby>残<rt>のこ</rt></ruby>っていて、とても<ruby>定時<rt>ていじ</rt></ruby>には<ruby>帰<rt>かえ</rt></ruby>れそうもない。",
     "choices_ruby": [
-      "そうもない",
-      "るはずだ",
-      "るわけだ",
-      "るにすぎない"
+      "<ruby>帰<rt>かえ</rt></ruby>れそうもない",
+      "<ruby>帰<rt>かえ</rt></ruby>るに<ruby>違<rt>ちが</rt></ruby>いない",
+      "<ruby>帰<rt>かえ</rt></ruby>りそうもない",
+      "<ruby>帰<rt>かえ</rt></ruby>る<ruby>一方<rt>いっぽう</rt></ruby>だ"
     ],
-    "correct_text_ruby": "そうもない"
+    "correct_text_ruby": "<ruby>帰<rt>かえ</rt></ruby>れそうもない"
   },
   {
     "id": 444,
@@ -13301,25 +13299,25 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_jp": "専門用語ばかりで書かれたこの論文は、予備知識のない私には理解できそうもない。",
     "sentence_furigana": "専門用語ばかりで書かれたこの論文は、予備知識のない私には理解できそうもない。",
     "sentence_en": "This paper written entirely in technical terms seems impossible for someone without prior knowledge like me to understand.",
-    "question": "専門用語ばかりで書かれたこの論文は、予備知識のない私には理解でき（　　　）。",
+    "question": "専門用語ばかりで書かれたこの論文は、予備知識のない私には（　　　）。",
     "choices": [
-      "るに違いない",
-      "ないことはない",
-      "るばかりだ",
-      "そうもない"
+      "理解できそうもない",
+      "理解するに違いない",
+      "理解できるはずだ",
+      "理解する一方だ"
     ],
-    "answer": 3,
-    "correct_text": "そうもない",
+    "answer": 0,
+    "correct_text": "理解できそうもない",
     "notes": "「できそうもない」の<ruby>形<rt>かたち</rt></ruby>で、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>見<rt>み</rt></ruby>て<ruby>無理<rt>むり</rt></ruby>だと<ruby>推測<rt>すいそく</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>ばかりで<ruby>書<rt>か</rt></ruby>かれたこの<ruby>論文<rt>ろんぶん</rt></ruby>は、<ruby>予備<rt>よび</rt></ruby><ruby>知識<rt>ちしき</rt></ruby>のない<ruby>私<rt>わたし</rt></ruby>には<ruby>理解<rt>りかい</rt></ruby>でき（　　　）。",
+    "question_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>ばかりで<ruby>書<rt>か</rt></ruby>かれたこの<ruby>論文<rt>ろんぶん</rt></ruby>は、<ruby>予備<rt>よび</rt></ruby><ruby>知識<rt>ちしき</rt></ruby>のない<ruby>私<rt>わたし</rt></ruby>には（　　　）。",
     "sentence_jp_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>ばかりで<ruby>書<rt>か</rt></ruby>かれたこの<ruby>論文<rt>ろんぶん</rt></ruby>は、<ruby>予備<rt>よび</rt></ruby><ruby>知識<rt>ちしき</rt></ruby>のない<ruby>私<rt>わたし</rt></ruby>には<ruby>理解<rt>りかい</rt></ruby>できそうもない。",
     "choices_ruby": [
-      "るに<ruby>違<rt>ちが</rt></ruby>いない",
-      "ないことはない",
-      "るばかりだ",
-      "そうもない"
+      "<ruby>理解<rt>りかい</rt></ruby>できそうもない",
+      "<ruby>理解<rt>りかい</rt></ruby>するに<ruby>違<rt>ちが</rt></ruby>いない",
+      "<ruby>理解<rt>りかい</rt></ruby>できるはずだ",
+      "<ruby>理解<rt>りかい</rt></ruby>する<ruby>一方<rt>いっぽう</rt></ruby>だ"
     ],
-    "correct_text_ruby": "そうもない"
+    "correct_text_ruby": "<ruby>理解<rt>りかい</rt></ruby>できそうもない"
   },
   {
     "id": 445,
@@ -21842,6 +21840,3 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "correct_text_ruby": "ずつ"
   }
 ];
-
-// Dual alias for backwards compatibility
-window.JLPT_N3_QUIZ_DATA = window.JLPT_N3_GRAMMAR_QUIZ_DATA;

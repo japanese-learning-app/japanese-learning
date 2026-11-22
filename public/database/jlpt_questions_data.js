@@ -6183,7 +6183,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Are you an exchange student?",
         "id": "n5-v-0362",
         "level": "N5",
-        "question_ruby": "<u>りゅうがくせい</u>の<ruby>方<rt>ほう</rt></ruby>ですか？"
+        "question_ruby": "<u>りゅうがくせい</u>の<ruby>方<rt>かた</rt></ruby>ですか？"
       },
       {
         "category": "vocabulary",
@@ -47955,7 +47955,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Remove the lower-most background layer.",
         "id": "n1-v-0456",
         "level": "N1",
-        "question_ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>した</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを（　　）します。"
+        "question_ruby": "<ruby>一番<rt>いちばん</rt></ruby><ruby>下<rt>か</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>レイヤーを（　　）します。"
       },
       {
         "category": "kanji_reading",

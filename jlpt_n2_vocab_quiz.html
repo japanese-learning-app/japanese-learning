@@ -2029,9 +2029,9 @@
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
           <span>間違えた問題だけを復習 (<span id="resultWrongCount">0</span>問)</span>
         </button>
-        <button class="btn-retry-all" id="btnRetryAll">
+        <button class="btn-retry-all" id="btnRetryAll" title="問題を新しくシャッフルして別の問題に挑戦します">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path><path d="M3 3v5h5"></path></svg>
-          <span>もう一度解く</span>
+          <span>🔄 新しくシャッフルしてもう一度解く</span>
         </button>
         <a href="jlpt_practice.html" class="btn-return-portal">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path></svg>
@@ -2625,7 +2625,7 @@
     choicesGrid.innerHTML = '';
 
     // 漢字表記問題（ひらがなから正しい漢字を選ぶ問題）は、選択肢にふりがなを振るとネタバレになるため、プレーンな漢字（q.choices）を使用する
-    const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+    const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き') || q.category.includes('語形成') || q.category.includes('接頭') || q.category.includes('接尾'))) ||
       (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
     const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
 
@@ -3554,13 +3554,15 @@
   });
 
   btnRetryAll.addEventListener('click', () => {
+    // 10問、30問、50問（または全問）で、毎回語彙を新たにシャッフル・厳選して再生成！
+    activeIndices = buildBalancedIndices(selectedLimit, categoryFilter ? categoryFilter.value : 'all');
     currentIndex = 0;
     correctCount = 0;
     answeredCount = 0;
     userAnswersMap = {};
     hideResultView();
     renderQuestion();
-    showToast('最初から解き直します！');
+    showToast(selectedLimit > 0 ? `新しい問題セット（${selectedLimit}問）をシャッフル生成しました！` : '全問題を新しくシャッフルして最初から解き直します！');
   });
 
   document.querySelectorAll('.rev-filter-btn').forEach(btn => {
@@ -3601,7 +3603,7 @@
       const card = document.createElement('div');
       card.className = `rev-card ${isCorrect ? 'is-correct' : 'is-wrong'}`;
 
-      const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き'))) ||
+      const isKanjiWriting = (q.category && (q.category.includes('表記') || q.category.includes('書き') || q.category.includes('語形成') || q.category.includes('接頭') || q.category.includes('接尾'))) ||
         (!q.category.includes('読み') && /^[ぁ-んー\s]+$/.test(q.target_word || ''));
       const choices = (!isKanjiWriting && q.choices_ruby && q.choices_ruby.length === 4) ? q.choices_ruby : q.choices;
       const userSelectedText = (ans && ans.selectedIndex !== undefined && choices[ans.selectedIndex]) ? choices[ans.selectedIndex] : '未回答';

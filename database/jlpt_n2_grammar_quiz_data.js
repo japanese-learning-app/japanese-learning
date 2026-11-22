@@ -1,5 +1,3 @@
-// JLPT N2 Grammar Practice Questions (1507 Questions)
-// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -46,7 +44,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "だけのことはある",
       "あげく",
       "の下で",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "あげく",
@@ -56,8 +54,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "だけのことはある",
       "あげく",
-      "の<ruby>下<rt>した</rt></ruby>で",
-      "にすぎない"
+      "の下で",
+      "に沿って"
     ],
     "correct_text_ruby": "あげく"
   },
@@ -104,7 +102,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "どの大学を受験しようかと、さんざん悩んだ【　　】、出願の締め切りを過ぎてしまった。",
     "choices": [
       "に限らず",
-      "ないではいられない",
+      "途端に",
       "かねる",
       "あげく"
     ],
@@ -115,7 +113,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "どの<ruby>大学<rt>だいがく</rt></ruby>を<ruby>受験<rt>じゅけん</rt></ruby>しようかと、さんざん<ruby>悩んだ<rt>なやんだ</rt></ruby>あげく、<ruby>出願<rt>しゅつがん</rt></ruby>の<ruby>締め切り<rt>しめきり</rt></ruby>を<ruby>過ぎて<rt>すぎて</rt></ruby>しまった。",
     "choices_ruby": [
       "に<ruby>限<rt>かぎ</rt></ruby>らず",
-      "ないではいられない",
+      "<ruby>途端<rt>とたん</rt></ruby>に",
       "かねる",
       "あげく"
     ],
@@ -128,26 +126,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ageku",
     "meaning_en": "to end up; in the end; finally; after all~",
     "similar": "末に、結果、とうとう、ついに、～たところ、挙句の果てに",
-    "sentence_jp": "あの夫婦は度重なる喧嘩のあげく、とうとう離婚してしまった。",
-    "sentence_furigana": "あのふうふはたびかさなるけんかのあげく、とうとうりこんしてしまった。",
-    "sentence_en": "After repeatedly fighting, that couple finally ended up getting a divorce.",
-    "question": "あの夫婦は度重なる喧嘩の【　　】、とうとう離婚してしまった。",
+    "sentence_jp": "あの二人は激しい議論を重ねたあげく、結局結論が出ないまま会議を終えた。",
+    "sentence_furigana": "あのふたりははげしいぎろんをかさねたあげく、けっきょくけつろんがでないままかいぎをおえた。",
+    "sentence_en": "After repeated heated debates, the two ended the meeting without reaching a conclusion in the end.",
+    "question": "あの二人は激しい議論を重ねた【　　】、結局結論が出ないまま会議を終えた。",
     "choices": [
       "あげく",
       "だけは",
       "得る",
-      "てならない"
+      "反面"
     ],
     "answer": 0,
     "correct_text": "あげく",
     "notes": "",
-    "question_ruby": "あの<ruby>夫婦<rt>ふうふ</rt></ruby>は<ruby>度重な<rt>たびかさな</rt></ruby>る<ruby>喧嘩<rt>けんか</rt></ruby>の【　　】、とうとう<ruby>離婚<rt>りこん</rt></ruby>してしまった。",
-    "sentence_jp_ruby": "あの<ruby>夫婦<rt>ふうふ</rt></ruby>は<ruby>度重な<rt>たびかさな</rt></ruby>る<ruby>喧嘩<rt>けんか</rt></ruby>のあげく、とうとう<ruby>離婚<rt>りこん</rt></ruby>してしまった。",
+    "question_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>激<rt>はげ</rt></ruby>しい<ruby>議論<rt>ぎろん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねた【　　】、<ruby>結局<rt>けっきょく</rt></ruby><ruby>結論<rt>けつろん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないまま<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた。",
+    "sentence_jp_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>は<ruby>激<rt>はげ</rt></ruby>しい<ruby>議論<rt>ぎろん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねたあげく、<ruby>結局<rt>けっきょく</rt></ruby><ruby>結論<rt>けつろん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないまま<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた。",
     "choices_ruby": [
       "あげく",
       "だけは",
       "<ruby>得<rt>え</rt></ruby>る",
-      "てならない"
+      "<ruby>反面<rt>はんめん</rt></ruby>"
     ],
     "correct_text_ruby": "あげく"
   },
@@ -225,7 +223,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "てでも",
       "次第に",
-      "にすぎない",
+      "うえに",
       "あげく"
     ],
     "answer": 3,
@@ -236,7 +234,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "てでも",
       "<ruby>次第<rt>しだい</rt></ruby>に",
-      "にすぎない",
+      "うえに",
       "あげく"
     ],
     "correct_text_ruby": "あげく"
@@ -698,10 +696,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "bakari",
     "meaning_en": "about, approximately~",
     "similar": "くらい／ぐらい、ほど、およそ、約、ばかり、程度",
-    "sentence_jp": "留学のことで彼女は両親と喧嘩して、三日ばかり部屋にいって、何も食べなかった。",
-    "sentence_furigana": "りゅうがくのことでかのじょはりょうしんとけんかして、みっかばかりへやにいって、なにもたべなかった。",
-    "sentence_en": "After arguing with her parents about studying abroad, she stayed in her room for about 3 days without eating anything.",
-    "question": "留学のことで彼女は両親と喧嘩して、三日【　　】部屋にいって、何も食べなかった。",
+    "sentence_jp": "将来の進路について真剣に悩んだ彼女は、三日ばかり部屋にこもって考え続けた。",
+    "sentence_furigana": "しょうらいのしんろについてしんけんにやあんだかのじょは、みっかばかりへやにこもってかんがえつづけた。",
+    "sentence_en": "Deeply troubled about her future, she shut herself in her room for about three days and kept thinking.",
+    "question": "将来の進路について真剣に悩んだ彼女は、三日【　　】部屋にこもって考え続けた。",
     "choices": [
       "つつ",
       "あげく",
@@ -711,8 +709,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ばかり",
     "notes": "",
-    "question_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>のことで<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して、<ruby>三日<rt>みっか</rt></ruby>【　　】<ruby>部屋<rt>へや</rt></ruby>にいって、<ruby>何<rt>なに</rt></ruby>も<ruby>食べ<rt>たべ</rt></ruby>なかった。",
-    "sentence_jp_ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>のことで<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>して、<ruby>三日<rt>みっか</rt></ruby>ばかり<ruby>部屋<rt>へや</rt></ruby>にいって、<ruby>何<rt>なに</rt></ruby>も<ruby>食べ<rt>たべ</rt></ruby>なかった。",
+    "question_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>悩<rt>なや</rt></ruby>んだ<ruby>彼女<rt>かのじょ</rt></ruby>は、<ruby>三日<rt>みっか</rt></ruby>【　　】<ruby>部屋<rt>へや</rt></ruby>にこもって<ruby>考<rt>かんが</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けた。",
+    "sentence_jp_ruby": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>進路<rt>しんろ</rt></ruby>について<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>悩<rt>なや</rt></ruby>んだ<ruby>彼女<rt>かのじょ</rt></ruby>は、<ruby>三日<rt>みっか</rt></ruby>ばかり<ruby>部屋<rt>へや</rt></ruby>にこもって<ruby>考<rt>かんが</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けた。",
     "choices_ruby": [
       "つつ",
       "あげく",
@@ -1184,7 +1182,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "困っている後輩に生活費を貸してくれた【　　】、新しい就職先まで紹介してくれた。",
     "choices": [
       "ては",
-      "ないではいられない",
+      "あげく",
       "つつ",
       "ばかりか"
     ],
@@ -1195,7 +1193,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>困っ<rt>こまっ</rt></ruby>ている<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>貸し<rt>かし</rt></ruby>てくれたばかりか、<ruby>新しい<rt>あたらしい</rt></ruby><ruby>就職先<rt>しゅうしょくさき</rt></ruby>まで<ruby>紹介<rt>しょうかい</rt></ruby>してくれた。",
     "choices_ruby": [
       "ては",
-      "ないではいられない",
+      "あげく",
       "つつ",
       "ばかりか"
     ],
@@ -1221,8 +1219,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ばかりに",
     "notes": "",
-    "question_ruby": "お<ruby>金<rt>きん</rt></ruby>がない【　　】、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
-    "sentence_jp_ruby": "お<ruby>金<rt>きん</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
+    "question_ruby": "お<ruby>金<rt>かね</rt></ruby>がない【　　】、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
+    "sentence_jp_ruby": "お<ruby>金<rt>かね</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。",
     "choices_ruby": [
       "<ruby>一気<rt>いっき</rt></ruby>に",
       "あげく",
@@ -1245,7 +1243,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "かねる",
       "ところに",
-      "にすぎない",
+      "あげく",
       "ばかりに"
     ],
     "answer": 3,
@@ -1256,7 +1254,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "かねる",
       "ところに",
-      "にすぎない",
+      "あげく",
       "ばかりに"
     ],
     "correct_text_ruby": "ばかりに"
@@ -1516,7 +1514,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "を問わず",
       "恐れがある",
       "ちなみに",
-      "にすぎない"
+      "それにしても"
     ],
     "answer": 2,
     "correct_text": "ちなみに",
@@ -1524,10 +1522,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>生魚<rt>なまざかな</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>で<ruby>刺身<rt>さしみ</rt></ruby>は<ruby>食べ<rt>たべ</rt></ruby>られないそうだ。",
     "sentence_jp_ruby": "ちなみに、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>生魚<rt>なまざかな</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>で<ruby>刺身<rt>さしみ</rt></ruby>は<ruby>食べ<rt>たべ</rt></ruby>られないそうだ。",
     "choices_ruby": [
-      "を<ruby>問<rt>と</rt></ruby>わず",
-      "<ruby>恐<rt>おそ</rt></ruby>れがある",
+      "を問わず",
+      "恐れがある",
       "ちなみに",
-      "にすぎない"
+      "それにしても"
     ],
     "correct_text_ruby": "ちなみに"
   },
@@ -2055,8 +2053,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "だけあって",
       "抜く",
-      "ないではいられない",
-      "てたまらない"
+      "に沿って",
+      "に基づいて"
     ],
     "answer": 0,
     "correct_text": "だけあって",
@@ -2065,9 +2063,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "その<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>なだけあって、たくさんの<ruby>観光客<rt>かんこうきゃく</rt></ruby>がいる。",
     "choices_ruby": [
       "だけあって",
-      "<ruby>抜<rt>ぬ</rt></ruby>く",
-      "ないではいられない",
-      "てたまらない"
+      "抜く",
+      "に沿って",
+      "に基づいて"
     ],
     "correct_text_ruby": "だけあって"
   },
@@ -2145,7 +2143,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "得ない",
       "にしたら",
-      "てならない",
+      "あげく",
       "だけあって"
     ],
     "answer": 3,
@@ -2154,9 +2152,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は5<ruby>年<rt>ねん</rt></ruby>カナダに<ruby>住ん<rt>すん</rt></ruby>でいた【　　】、<ruby>英語<rt>えいご</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は5<ruby>年<rt>ねん</rt></ruby>カナダに<ruby>住ん<rt>すん</rt></ruby>でいただけあって、<ruby>英語<rt>えいご</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
     "choices_ruby": [
-      "<ruby>得<rt>え</rt></ruby>ない",
+      "得ない",
       "にしたら",
-      "てならない",
+      "あげく",
       "だけあって"
     ],
     "correct_text_ruby": "だけあって"
@@ -2211,8 +2209,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "だけましだ",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>がある【　　】よ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>があるだけましだよ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
+    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>がある【　　】よ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
+    "sentence_jp_ruby": "<ruby>君<rt>きみ</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>があるだけましだよ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
     "choices_ruby": [
       "て<ruby>以来<rt>いらい</rt></ruby>",
       "<ruby>抜<rt>ぬ</rt></ruby>きにして",
@@ -2473,7 +2471,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "As expected of someone who has taught Japanese for 15 years, her teaching style is very good.",
     "question": "彼女は日本語を15年教えている【　　】、教え方がとても上手だ。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "ものか",
       "だけに",
       "てはならない"
@@ -2484,7 +2482,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を15<ruby>年<rt>ねん</rt></ruby><ruby>教え<rt>おしえ</rt></ruby>ている【　　】、<ruby>教え方<rt>おしえかた</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を15<ruby>年<rt>ねん</rt></ruby><ruby>教え<rt>おしえ</rt></ruby>ているだけに、<ruby>教え方<rt>おしえかた</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>だ。",
     "choices_ruby": [
-      "にすぎない",
+      "に沿って",
       "ものか",
       "だけに",
       "てはならない"
@@ -2565,7 +2563,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "いよいよ",
       "だけに",
-      "てたまらない",
+      "に沿って",
       "っこない"
     ],
     "answer": 1,
@@ -2576,7 +2574,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "いよいよ",
       "だけに",
-      "てたまらない",
+      "に沿って",
       "っこない"
     ],
     "correct_text_ruby": "だけに"
@@ -2593,7 +2591,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "My brand new cellphone was stolen! I just bought it the day before yesterday so this is a pretty big shock..",
     "question": "新しい携帯電話が盗まれてしまいました。一昨日買ったばかりな【　　】、本当にショックだ。",
     "choices": [
-      "ないではいられない",
+      "に沿って",
       "に越したことはない",
       "だけに",
       "かねる"
@@ -2604,8 +2602,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいました。<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たばかりな【　　】、<ruby>本当<rt>ほんとう</rt></ruby>にショックだ。",
     "sentence_jp_ruby": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>盗ま<rt>ぬすま</rt></ruby>れてしまいました。<ruby>一昨日<rt>いっさくじつ</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たばかりなだけに、<ruby>本当<rt>ほんとう</rt></ruby>にショックだ。",
     "choices_ruby": [
-      "ないではいられない",
-      "に<ruby>越<rt>こ</rt></ruby>したことはない",
+      "に沿って",
+      "に越したことはない",
       "だけに",
       "かねる"
     ],
@@ -2925,7 +2923,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ずに済む",
       "だけ",
-      "にほかならない",
+      "に沿って",
       "てこそ"
     ],
     "answer": 1,
@@ -2934,9 +2932,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>私<rt>わたし</rt></ruby>に<ruby>手伝え<rt>てつだえ</rt></ruby>る【　　】の<ruby>手伝い<rt>てつだい</rt></ruby>はしたので、あとは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>でやり<ruby>遂げ<rt>とげ</rt></ruby>てください。",
     "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>に<ruby>手伝え<rt>てつだえ</rt></ruby>るだけの<ruby>手伝い<rt>てつだい</rt></ruby>はしたので、あとは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>でやり<ruby>遂げ<rt>とげ</rt></ruby>てください。",
     "choices_ruby": [
-      "ずに<ruby>済<rt>す</rt></ruby>む",
+      "ずに済む",
       "だけ",
-      "にほかならない",
+      "に沿って",
       "てこそ"
     ],
     "correct_text_ruby": "だけ"
@@ -3253,7 +3251,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "'Why are you angry?' 'Because you broke your promise!'",
     "question": "「どうして怒っているの？」「【　　】、約束を破ったじゃないか。」",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "ものだ",
       "だって",
       "その上"
@@ -3264,10 +3262,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "「どうして<ruby>怒っ<rt>いかっ</rt></ruby>ているの？」「【　　】、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たじゃないか。」",
     "sentence_jp_ruby": "「どうして<ruby>怒っ<rt>いかっ</rt></ruby>ているの？」「だって、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破っ<rt>やぶっ</rt></ruby>たじゃないか。」",
     "choices_ruby": [
-      "にすぎない",
+      "に沿って",
       "ものだ",
       "だって",
-      "その<ruby>上<rt>うえ</rt></ruby>"
+      "その上"
     ],
     "correct_text_ruby": "だって"
   },
@@ -3314,7 +3312,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "「いつまで寝ているの。早く起きなさい。」「【　　】、まだ眠いんだもん。」",
     "choices": [
       "だって",
-      "てばかりはいられない",
+      "に沿って",
       "よりほかない",
       "ずに済む"
     ],
@@ -3325,9 +3323,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "「いつまで<ruby>寝て<rt>ねて</rt></ruby>いるの。<ruby>早く<rt>はやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>なさい。」「だって、まだ<ruby>眠い<rt>ねむい</rt></ruby>んだもん。」",
     "choices_ruby": [
       "だって",
-      "てばかりはいられない",
+      "に沿って",
       "よりほかない",
-      "ずに<ruby>済<rt>す</rt></ruby>む"
+      "ずに済む"
     ],
     "correct_text_ruby": "だって"
   },
@@ -3801,8 +3799,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "どころではない",
     "notes": "",
-    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>きん</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>【　　】。",
-    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>きん</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>どころではない。",
+    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>かね</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たばかりでお<ruby>金<rt>かね</rt></ruby>がないので、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>どころではない。",
     "choices_ruby": [
       "<ruby>次第<rt>しだい</rt></ruby>で",
       "どころではない",
@@ -4093,7 +4091,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "It seems Suzuki-san doesn’t know.",
     "question": "【　　】、鈴木さんは知らないらしい。",
     "choices": [
-      "てたまらない",
+      "それにしても",
       "だけのことはある",
       "どころか",
       "どうやら"
@@ -4104,7 +4102,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>知ら<rt>しら</rt></ruby>ないらしい。",
     "sentence_jp_ruby": "どうやら、<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>知ら<rt>しら</rt></ruby>ないらしい。",
     "choices_ruby": [
-      "てたまらない",
+      "それにしても",
       "だけのことはある",
       "どころか",
       "どうやら"
@@ -4125,7 +4123,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "どうやら",
       "だけは",
-      "てばかりはいられない",
+      "それにしても",
       "にわたって"
     ],
     "answer": 0,
@@ -4136,7 +4134,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "どうやら",
       "だけは",
-      "てばかりはいられない",
+      "それにしても",
       "にわたって"
     ],
     "correct_text_ruby": "どうやら"
@@ -4184,7 +4182,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "【　　】日本の生活になれてきた。",
     "choices": [
       "に応えて",
-      "にすぎない",
+      "それにしても",
       "どうやら",
       "ところに"
     ],
@@ -4194,8 +4192,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】<ruby>日本<rt>にほん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>になれてきた。",
     "sentence_jp_ruby": "どうやら<ruby>日本<rt>にほん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>になれてきた。",
     "choices_ruby": [
-      "に<ruby>応<rt>こた</rt></ruby>えて",
-      "にすぎない",
+      "に応えて",
+      "それにしても",
       "どうやら",
       "ところに"
     ],
@@ -4268,10 +4266,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "dou yara",
     "meaning_en": "possibly; apparently; seems like; somehow;",
     "similar": "どうも、どうやら～らしい、なんとなく、おそらく、見たところ、察するに",
-    "sentence_jp": "どうやら君は佐藤さんと一緒になる運命のようだ。",
+    "sentence_jp": "西の空が急に暗くなってきた。どうやら今夜は雨が降りそうだ。",
     "sentence_furigana": "どうやらくんはさとうさんといっしょになるうんめいのようだ。",
-    "sentence_en": "It seems like you and her are meant to be together.",
-    "question": "【　　】君は佐藤さんと一緒になる運命のようだ。",
+    "sentence_en": "The western sky suddenly turned dark. It looks like it might rain tonight.",
+    "question": "西の空が急に暗くなってきた。【　　】今夜は雨が降りそうだ。",
     "choices": [
       "にて",
       "どうやら",
@@ -4281,8 +4279,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "どうやら",
     "notes": "",
-    "question_ruby": "【　　】<ruby>君<rt>くん</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>になる<ruby>運命<rt>うんめい</rt></ruby>のようだ。",
-    "sentence_jp_ruby": "どうやら<ruby>君<rt>くん</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>になる<ruby>運命<rt>うんめい</rt></ruby>のようだ。",
+    "question_ruby": "<ruby>西<rt>にし</rt></ruby>の<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗<rt>くら</rt></ruby>くなってきた。【　　】<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそうだ。",
+    "sentence_jp_ruby": "<ruby>西<rt>にし</rt></ruby>の<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗<rt>くら</rt></ruby>くなってきた。どうやら<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそうだ。",
     "choices_ruby": [
       "にて",
       "どうやら",
@@ -4364,7 +4362,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "【　　】参加しないのなら、早めに伝えたほうがいい。",
     "choices": [
       "かと思ったら",
-      "ないではいられない",
+      "それにしても",
       "どうせ",
       "得る"
     ],
@@ -4374,10 +4372,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】<ruby>参加<rt>さんか</rt></ruby>しないのなら、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>たほうがいい。",
     "sentence_jp_ruby": "どうせ<ruby>参加<rt>さんか</rt></ruby>しないのなら、<ruby>早め<rt>はやめ</rt></ruby>に<ruby>伝え<rt>つたえ</rt></ruby>たほうがいい。",
     "choices_ruby": [
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
-      "ないではいられない",
+      "かと思ったら",
+      "それにしても",
       "どうせ",
-      "<ruby>得<rt>え</rt></ruby>る"
+      "得る"
     ],
     "correct_text_ruby": "どうせ"
   },
@@ -4461,8 +4459,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "どうせ",
     "notes": "",
-    "question_ruby": "【　　】<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくださいませんか？",
-    "sentence_jp_ruby": "どうせ<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくださいませんか？",
+    "question_ruby": "【　　】<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってくださいませんか？",
+    "sentence_jp_ruby": "どうせ<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>のなら、<ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってくださいませんか？",
     "choices_ruby": [
       "<ruby>得<rt>え</rt></ruby>ない",
       "どうせ",
@@ -4791,8 +4789,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "得る",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り【　　】から。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。",
+    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り【　　】から。",
+    "sentence_jp_ruby": "<ruby>君<rt>きみ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。",
     "choices_ruby": [
       "<ruby>得<rt>え</rt></ruby>る",
       "<ruby>恐<rt>おそ</rt></ruby>らく",
@@ -5564,7 +5562,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "子供が生まれたの【　　】、タバコを辞めた。",
     "choices": [
       "をきっかけとして",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには",
       "っこない"
     ],
@@ -5575,7 +5573,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのをきっかけとして、タバコを<ruby>辞め<rt>やめ</rt></ruby>た。",
     "choices_ruby": [
       "をきっかけとして",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには",
       "っこない"
     ],
@@ -5596,18 +5594,18 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ことなく",
       "がきっかけで",
       "ないことには",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "がきっかけで",
     "notes": "",
-    "question_ruby": "パソコンを<ruby>買っ<rt>かっ</rt></ruby>てもらったこと【　　】、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。",
-    "sentence_jp_ruby": "パソコンを<ruby>買っ<rt>かっ</rt></ruby>てもらったことがきっかけで、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。",
+    "question_ruby": "パソコンを<ruby>買<rt>か</rt></ruby>ってもらったこと【　　】、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。",
+    "sentence_jp_ruby": "パソコンを<ruby>買<rt>か</rt></ruby>ってもらったことがきっかけで、プログラミングの<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ました。",
     "choices_ruby": [
       "ことなく",
       "がきっかけで",
       "ないことには",
-      "にすぎない"
+      "に沿って"
     ],
     "correct_text_ruby": "がきっかけで"
   },
@@ -6014,8 +6012,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "天気予報と【　　】、雨が降り続いている。",
     "choices": [
       "つつある",
-      "にほかならない",
-      "ないではいられない",
+      "に沿って",
+      "に基づいて",
       "逆に"
     ],
     "answer": 3,
@@ -6025,9 +6023,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>天気予報<rt>てんきよほう</rt></ruby>と<ruby>逆<rt>ぎゃく</rt></ruby>に、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>続い<rt>つづい</rt></ruby>ている。",
     "choices_ruby": [
       "つつある",
-      "にほかならない",
-      "ないではいられない",
-      "<ruby>逆<rt>ぎゃく</rt></ruby>に"
+      "に沿って",
+      "に基づいて",
+      "逆に"
     ],
     "correct_text_ruby": "<ruby>逆<rt>ぎゃく</rt></ruby>に"
   },
@@ -6103,8 +6101,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Contrary to our expectations, sales did not increase this year.",
     "question": "高橋さん達の期待とは【　　】、今年の売り上げは増えなかった。",
     "choices": [
-      "にすぎない",
-      "ないではいられない",
+      "に沿って",
+      "に基づいて",
       "逆に",
       "につけ"
     ],
@@ -6114,9 +6112,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>とは【　　】、<ruby>今年<rt>ことし</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>なかった。",
     "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>の<ruby>期待<rt>きたい</rt></ruby>とは<ruby>逆<rt>ぎゃく</rt></ruby>に、<ruby>今年<rt>ことし</rt></ruby>の<ruby>売り上げ<rt>うりあげ</rt></ruby>は<ruby>増え<rt>ふえ</rt></ruby>なかった。",
     "choices_ruby": [
-      "にすぎない",
-      "ないではいられない",
-      "<ruby>逆<rt>ぎゃく</rt></ruby>に",
+      "に沿って",
+      "に基づいて",
+      "逆に",
       "につけ"
     ],
     "correct_text_ruby": "<ruby>逆<rt>ぎゃく</rt></ruby>に"
@@ -6463,10 +6461,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Can it really be so?",
     "question": "【　　】そうだろうか。",
     "choices": [
-      "ないではいられない",
+      "それにしても",
       "っこない",
       "果たして",
-      "にほかならない"
+      "それどころか"
     ],
     "answer": 2,
     "correct_text": "果たして",
@@ -6474,10 +6472,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】そうだろうか。",
     "sentence_jp_ruby": "<ruby>果た<rt>はた</rt></ruby>してそうだろうか。",
     "choices_ruby": [
-      "ないではいられない",
+      "それにしても",
       "っこない",
-      "<ruby>果<rt>は</rt></ruby>たして",
-      "にほかならない"
+      "果たして",
+      "それどころか"
     ],
     "correct_text_ruby": "<ruby>果<rt>は</rt></ruby>たして"
   },
@@ -6736,7 +6734,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "一応",
       "に関わらず",
       "てでも",
-      "にすぎない"
+      "それにしても"
     ],
     "answer": 0,
     "correct_text": "一応",
@@ -6744,10 +6742,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】やりました。",
     "sentence_jp_ruby": "<ruby>一応<rt>いちおう</rt></ruby>やりました。",
     "choices_ruby": [
-      "<ruby>一応<rt>いちおう</rt></ruby>",
-      "に<ruby>関<rt>かか</rt></ruby>わらず",
+      "一応",
+      "に関わらず",
       "てでも",
-      "にすぎない"
+      "それにしても"
     ],
     "correct_text_ruby": "<ruby>一応<rt>いちおう</rt></ruby>"
   },
@@ -7124,8 +7122,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "仕事【　　】のことも話せてよかったです。",
     "choices": [
       "もう少しで",
-      "てたまらない",
-      "にすぎない",
+      "に沿って",
+      "に基づいて",
       "以外"
     ],
     "answer": 3,
@@ -7134,10 +7132,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>【　　】のことも<ruby>話せ<rt>はなせ</rt></ruby>てよかったです。",
     "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>のことも<ruby>話せ<rt>はなせ</rt></ruby>てよかったです。",
     "choices_ruby": [
-      "もう<ruby>少<rt>すこ</rt></ruby>しで",
-      "てたまらない",
-      "にすぎない",
-      "<ruby>以外<rt>いがい</rt></ruby>"
+      "もう少しで",
+      "に沿って",
+      "に基づいて",
+      "以外"
     ],
     "correct_text_ruby": "<ruby>以外<rt>いがい</rt></ruby>"
   },
@@ -7186,7 +7184,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ねばならない",
       "以外",
       "にせよ",
-      "てたまらない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "以外",
@@ -7195,9 +7193,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>中国語<rt>ちゅうごくご</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>言語<rt>げんご</rt></ruby>だと、<ruby>英語<rt>えいご</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話せ<rt>はなせ</rt></ruby>ます。",
     "choices_ruby": [
       "ねばならない",
-      "<ruby>以外<rt>いがい</rt></ruby>",
+      "以外",
       "にせよ",
-      "てたまらない"
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>以外<rt>いがい</rt></ruby>"
   },
@@ -7251,8 +7249,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "以上に",
     "notes": "",
-    "question_ruby": "<ruby>必要<rt>ひつよう</rt></ruby>【　　】たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
-    "sentence_jp_ruby": "<ruby>必要以上<rt>ひつよういじょう</rt></ruby>にたくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
+    "question_ruby": "<ruby>必要<rt>ひつよう</rt></ruby>【　　】たくさんのお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
+    "sentence_jp_ruby": "<ruby>必要以上<rt>ひつよういじょう</rt></ruby>にたくさんのお<ruby>金<rt>かね</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ないでください。",
     "choices_ruby": [
       "ないではいられない",
       "<ruby>以上<rt>いじょう</rt></ruby>に",
@@ -7484,8 +7482,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "学生である【　　】、アルバイトではなく勉強が大事ですよ。",
     "choices": [
       "恐らく",
-      "抜く",
-      "に相違ない",
+      "からには",
+      "次第で",
       "以上"
     ],
     "answer": 3,
@@ -7495,8 +7493,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>学生<rt>がくせい</rt></ruby>である<ruby>以上<rt>いじょう</rt></ruby>、アルバイトではなく<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>ですよ。",
     "choices_ruby": [
       "<ruby>恐<rt>おそ</rt></ruby>らく",
-      "<ruby>抜<rt>ぬ</rt></ruby>く",
-      "に<ruby>相違<rt>そうい</rt></ruby>ない",
+      "からには",
+      "<ruby>次第<rt>しだい</rt></ruby>で",
       "<ruby>以上<rt>いじょう</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>以上<rt>いじょう</rt></ruby>"
@@ -7516,7 +7514,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "以上は",
       "つつある",
       "に応えて",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "以上は",
@@ -7524,10 +7522,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>安い<rt>やすい</rt></ruby>【　　】、<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がいるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>がこんなに<ruby>安い<rt>やすい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は、<ruby>転職<rt>てんしょく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がいるのも<ruby>当然<rt>とうぜん</rt></ruby>だ。",
     "choices_ruby": [
-      "<ruby>以上<rt>いじょう</rt></ruby>は",
+      "以上は",
       "つつある",
-      "に<ruby>応<rt>こた</rt></ruby>えて",
-      "ないではいられない"
+      "に応えて",
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>以上<rt>いじょう</rt></ruby>は"
   },
@@ -7551,8 +7549,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "以上は",
     "notes": "",
-    "question_ruby": "お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>する【　　】、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。",
-    "sentence_jp_ruby": "お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>以上<rt>いじょう</rt></ruby>は、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。",
+    "question_ruby": "お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>勉強<rt>べんきょう</rt></ruby>する【　　】、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。",
+    "sentence_jp_ruby": "お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>以上<rt>いじょう</rt></ruby>は、しっかり<ruby>身に<rt>みに</rt></ruby>つけたい。",
     "choices_ruby": [
       "あげく",
       "<ruby>以上<rt>いじょう</rt></ruby>は",
@@ -8091,8 +8089,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "一気に",
     "notes": "",
-    "question_ruby": "<ruby>買っ<rt>かっ</rt></ruby>てきたお<ruby>菓子<rt>かし</rt></ruby>は【　　】<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。",
-    "sentence_jp_ruby": "<ruby>買っ<rt>かっ</rt></ruby>てきたお<ruby>菓子<rt>かし</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。",
+    "question_ruby": "<ruby>買<rt>か</rt></ruby>ってきたお<ruby>菓子<rt>かし</rt></ruby>は【　　】<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。",
+    "sentence_jp_ruby": "<ruby>買<rt>か</rt></ruby>ってきたお<ruby>菓子<rt>かし</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>ないで、<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>食べ<rt>たべ</rt></ruby>ましょうね。",
     "choices_ruby": [
       "ことだから",
       "ないことには",
@@ -8204,8 +8202,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "お母さんは優しい【　　】、お父さんはこわい。",
     "choices": [
       "一方で",
-      "ねばならない",
-      "っこない",
+      "反面",
+      "どころか",
       "からすると"
     ],
     "answer": 0,
@@ -8215,8 +8213,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、お<ruby>父さん<rt>とうさん</rt></ruby>はこわい。",
     "choices_ruby": [
       "<ruby>一方<rt>いっぽう</rt></ruby>で",
-      "ねばならない",
-      "っこない",
+      "<ruby>反面<rt>はんめん</rt></ruby>",
+      "どころか",
       "からすると"
     ],
     "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で"
@@ -8383,7 +8381,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "While the number of old people is increasing, the young labor force is decreasing.",
     "question": "老人の人口が増えている【　　】、若年労働力の数がどんどん減っています。",
     "choices": [
-      "ないではいられない",
+      "に沿って",
       "抜きにして",
       "一方で",
       "て当然だ"
@@ -8394,10 +8392,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>老人<rt>ろうじん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている【　　】、<ruby>若年<rt>じゃくねん</rt></ruby><ruby>労働力<rt>ろうどうりょく</rt></ruby>の<ruby>数<rt>かず</rt></ruby>がどんどん<ruby>減っ<rt>へっ</rt></ruby>ています。",
     "sentence_jp_ruby": "<ruby>老人<rt>ろうじん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ている<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>若年<rt>じゃくねん</rt></ruby><ruby>労働力<rt>ろうどうりょく</rt></ruby>の<ruby>数<rt>かず</rt></ruby>がどんどん<ruby>減っ<rt>へっ</rt></ruby>ています。",
     "choices_ruby": [
-      "ないではいられない",
-      "<ruby>抜<rt>ぬ</rt></ruby>きにして",
-      "<ruby>一方<rt>いっぽう</rt></ruby>で",
-      "て<ruby>当然<rt>とうぜん</rt></ruby>だ"
+      "に沿って",
+      "抜きにして",
+      "一方で",
+      "て当然だ"
     ],
     "correct_text_ruby": "<ruby>一方<rt>いっぽう</rt></ruby>で"
   },
@@ -8655,7 +8653,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "いよいよ",
       "なくて済む",
-      "にすぎない",
+      "それにしても",
       "だけあって"
     ],
     "answer": 0,
@@ -8665,8 +8663,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "いよいよ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。",
     "choices_ruby": [
       "いよいよ",
-      "なくて<ruby>済<rt>す</rt></ruby>む",
-      "にすぎない",
+      "なくて済む",
+      "それにしても",
       "だけあって"
     ],
     "correct_text_ruby": "いよいよ"
@@ -8691,8 +8689,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "いよいよ",
     "notes": "",
-    "question_ruby": "【　　】<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。",
-    "sentence_jp_ruby": "いよいよ<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。",
+    "question_ruby": "【　　】<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>って<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。",
+    "sentence_jp_ruby": "いよいよ<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>が<ruby>母の日<rt>ははのひ</rt></ruby>だ。<ruby>母<rt>はは</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>って<ruby>上げ<rt>あげ</rt></ruby>たほうがいいかな。",
     "choices_ruby": [
       "からと<ruby>言<rt>い</rt></ruby>って",
       "いよいよ",
@@ -8716,7 +8714,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "かと思ったら",
       "ては",
       "いよいよ",
-      "にすぎない"
+      "それにしても"
     ],
     "answer": 2,
     "correct_text": "いよいよ",
@@ -8724,10 +8722,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】スピーチが<ruby>始ま<rt>はじま</rt></ruby>る。どうしよう！めちゃ<ruby>緊張し<rt>きんちょうし</rt></ruby>ているよ。",
     "sentence_jp_ruby": "いよいよスピーチが<ruby>始ま<rt>はじま</rt></ruby>る。どうしよう！めちゃ<ruby>緊張し<rt>きんちょうし</rt></ruby>ているよ。",
     "choices_ruby": [
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
+      "かと思ったら",
       "ては",
       "いよいよ",
-      "にすぎない"
+      "それにしても"
     ],
     "correct_text_ruby": "いよいよ"
   },
@@ -9074,9 +9072,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "怖いものを見た【　　】、佐藤さんは震えた。",
     "choices": [
       "かのように",
-      "てたまらない",
-      "にすぎない",
-      "末に"
+      "ようにして",
+      "そうに",
+      "くらいに"
     ],
     "answer": 0,
     "correct_text": "かのように",
@@ -9085,9 +9083,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>怖い<rt>こわい</rt></ruby>ものを<ruby>見た<rt>みた</rt></ruby>かのように、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>震え<rt>ふるえ</rt></ruby>た。",
     "choices_ruby": [
       "かのように",
-      "てたまらない",
-      "にすぎない",
-      "<ruby>末<rt>すえ</rt></ruby>に"
+      "ようにして",
+      "そうに",
+      "くらいに"
     ],
     "correct_text_ruby": "かのように"
   },
@@ -9343,10 +9341,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "It started raining no sooner than when the sky suddenly turned dark.",
     "question": "空が急に暗くなってきた【　　】、雨が降ってきた。",
     "choices": [
-      "にすぎない",
+      "あげく",
       "ばかりか",
       "かと思うと",
-      "ないではいられない"
+      "末に"
     ],
     "answer": 2,
     "correct_text": "かと思うと",
@@ -9354,10 +9352,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗く<rt>くらく</rt></ruby>なってきた【　　】、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。",
     "sentence_jp_ruby": "<ruby>空<rt>そら</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>暗く<rt>くらく</rt></ruby>なってきたかと<ruby>思う<rt>おもう</rt></ruby>と、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てきた。",
     "choices_ruby": [
-      "にすぎない",
+      "あげく",
       "ばかりか",
-      "かと<ruby>思<rt>おも</rt></ruby>うと",
-      "ないではいられない"
+      "かと思うと",
+      "末に"
     ],
     "correct_text_ruby": "かと<ruby>思<rt>おも</rt></ruby>うと"
   },
@@ -9526,7 +9524,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "かと思ったら",
       "だけに",
       "もっとも",
-      "にすぎない"
+      "あげく"
     ],
     "answer": 0,
     "correct_text": "かと思ったら",
@@ -9534,10 +9532,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "さっきまで<ruby>笑っ<rt>わらっ</rt></ruby>ていた【　　】、<ruby>急<rt>きゅう</rt></ruby>に<ruby>泣き出し<rt>なきだし</rt></ruby>てしまった。",
     "sentence_jp_ruby": "さっきまで<ruby>笑っ<rt>わらっ</rt></ruby>ていたかと<ruby>思った<rt>おもった</rt></ruby>ら、<ruby>急<rt>きゅう</rt></ruby>に<ruby>泣き出し<rt>なきだし</rt></ruby>てしまった。",
     "choices_ruby": [
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
+      "かと思ったら",
       "だけに",
       "もっとも",
-      "にすぎない"
+      "あげく"
     ],
     "correct_text_ruby": "かと<ruby>思<rt>おも</rt></ruby>ったら"
   },
@@ -9556,7 +9554,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ていては",
       "かと思うと",
       "に限る",
-      "にすぎない"
+      "あげく"
     ],
     "answer": 1,
     "correct_text": "かと思うと",
@@ -9565,9 +9563,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "その<ruby>時期<rt>じき</rt></ruby>は、<ruby>晴れ<rt>はれ</rt></ruby>ていたかと<ruby>思う<rt>おもう</rt></ruby>と、<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出す<rt>だす</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>から、<ruby>傘<rt>かさ</rt></ruby>をもっていったほうがいい。",
     "choices_ruby": [
       "ていては",
-      "かと<ruby>思<rt>おも</rt></ruby>うと",
-      "に<ruby>限<rt>かぎ</rt></ruby>る",
-      "にすぎない"
+      "かと思うと",
+      "に限る",
+      "あげく"
     ],
     "correct_text_ruby": "かと<ruby>思<rt>おも</rt></ruby>うと"
   },
@@ -9616,7 +9614,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ところだった",
       "止まるか止まらないかのうちに",
       "次第に",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "止まるか止まらないかのうちに",
@@ -9625,9 +9623,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>止ま<rt>とま</rt></ruby>るか<ruby>止ま<rt>とま</rt></ruby>らないかのうちに、<ruby>彼<rt>かれ</rt></ruby>は<ruby>急い<rt>いそい</rt></ruby>でホームに<ruby>降り<rt>おり</rt></ruby><ruby>立っ<rt>たっ</rt></ruby>た。",
     "choices_ruby": [
       "ところだった",
-      "<ruby>止<rt>と</rt></ruby>まるか<ruby>止<rt>と</rt></ruby>まらないかのうちに",
-      "<ruby>次第<rt>しだい</rt></ruby>に",
-      "にすぎない"
+      "止まるか止まらないかのうちに",
+      "次第に",
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>止<rt>と</rt></ruby>まるか<ruby>止<rt>と</rt></ruby>まらないかのうちに"
   },
@@ -9651,7 +9649,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "かないかのうちに",
     "notes": "",
-    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>か<ruby>着<rt>ちゃく</rt></ruby>【　　】<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>ました。",
+    "question_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>か着【　　】<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>ました。",
     "sentence_jp_ruby": "<ruby>職場<rt>しょくば</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>か<ruby>着か<rt>つか</rt></ruby>ないかのうちに<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>出し<rt>だし</rt></ruby>ました。",
     "choices_ruby": [
       "それなら",
@@ -10096,7 +10094,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "の下で",
       "限り",
       "てでも",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "限り",
@@ -10104,10 +10102,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>生き<rt>いき</rt></ruby>ている【　　】、ずっと<ruby>続け<rt>つづけ</rt></ruby>ていきたい。",
     "sentence_jp_ruby": "この<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>生き<rt>いき</rt></ruby>ている<ruby>限り<rt>かぎり</rt></ruby>、ずっと<ruby>続け<rt>つづけ</rt></ruby>ていきたい。",
     "choices_ruby": [
-      "の<ruby>下<rt>した</rt></ruby>で",
-      "<ruby>限<rt>かぎ</rt></ruby>り",
+      "の下で",
+      "限り",
       "てでも",
-      "にすぎない"
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>り"
   },
@@ -10213,7 +10211,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "While there are still customers inside, this shop will not close.",
     "question": "お店の中にお客様がいる【　　】、お店は閉めません。",
     "choices": [
-      "てたまらない",
+      "に沿って",
       "限り",
       "つつ",
       "末に"
@@ -10224,10 +10222,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "お<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にお<ruby>客様<rt>きゃくさま</rt></ruby>がいる【　　】、お<ruby>店<rt>みせ</rt></ruby>は<ruby>閉め<rt>しめ</rt></ruby>ません。",
     "sentence_jp_ruby": "お<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にお<ruby>客様<rt>きゃくさま</rt></ruby>がいる<ruby>限り<rt>かぎり</rt></ruby>、お<ruby>店<rt>みせ</rt></ruby>は<ruby>閉め<rt>しめ</rt></ruby>ません。",
     "choices_ruby": [
-      "てたまらない",
-      "<ruby>限<rt>かぎ</rt></ruby>り",
+      "に沿って",
+      "限り",
       "つつ",
-      "<ruby>末<rt>すえ</rt></ruby>に"
+      "末に"
     ],
     "correct_text_ruby": "<ruby>限<rt>かぎ</rt></ruby>り"
   },
@@ -10904,8 +10902,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "ご要望には応じ【　　】ので、ご了承ください。",
     "choices": [
       "かねます",
-      "にすぎない",
-      "てたまらない",
+      "に沿って",
+      "に基づいて",
       "抜きにして"
     ],
     "answer": 0,
@@ -10915,9 +10913,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "ご<ruby>要望<rt>ようぼう</rt></ruby>には<ruby>応じ<rt>おうじ</rt></ruby>かねますので、ご<ruby>了承<rt>りょうしょう</rt></ruby>ください。",
     "choices_ruby": [
       "かねます",
-      "にすぎない",
-      "てたまらない",
-      "<ruby>抜<rt>ぬ</rt></ruby>きにして"
+      "に沿って",
+      "に基づいて",
+      "抜きにして"
     ],
     "correct_text_ruby": "かねます"
   },
@@ -10994,8 +10992,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "僕の成績【　　】、国立大学は無理だと思う。",
     "choices": [
       "から言えば",
-      "てばかりはいられない",
-      "ないではいられない",
+      "に沿って",
+      "に基づいて",
       "得る"
     ],
     "answer": 0,
@@ -11004,10 +11002,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>【　　】、<ruby>国立大学<rt>こくりつだいがく</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
     "sentence_jp_ruby": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば、<ruby>国立大学<rt>こくりつだいがく</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。",
     "choices_ruby": [
-      "から<ruby>言<rt>い</rt></ruby>えば",
-      "てばかりはいられない",
-      "ないではいられない",
-      "<ruby>得<rt>え</rt></ruby>る"
+      "から言えば",
+      "に沿って",
+      "に基づいて",
+      "得る"
     ],
     "correct_text_ruby": "から<ruby>言<rt>い</rt></ruby>えば"
   },
@@ -11023,7 +11021,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "In terms of ability, I think Suzuki-san’s the best candidate for the job.",
     "question": "能力【　　】、鈴木さんがこの仕事に一番適切だと思います。",
     "choices": [
-      "てならない",
+      "に沿って",
       "から言って",
       "あげく",
       "ものなら"
@@ -11034,8 +11032,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>能力<rt>のうりょく</rt></ruby>【　　】、<ruby>鈴木<rt>すずき</rt></ruby>さんがこの<ruby>仕事<rt>しごと</rt></ruby>に<ruby>一番<rt>いちばん</rt></ruby><ruby>適切<rt>てきせつ</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
     "sentence_jp_ruby": "<ruby>能力<rt>のうりょく</rt></ruby>から<ruby>言って<rt>いって</rt></ruby>、<ruby>鈴木<rt>すずき</rt></ruby>さんがこの<ruby>仕事<rt>しごと</rt></ruby>に<ruby>一番<rt>いちばん</rt></ruby><ruby>適切<rt>てきせつ</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
     "choices_ruby": [
-      "てならない",
-      "から<ruby>言<rt>い</rt></ruby>って",
+      "に沿って",
+      "から言って",
       "あげく",
       "ものなら"
     ],
@@ -11145,7 +11143,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "てはならない",
       "から言うと",
-      "ないではいられない",
+      "に沿って",
       "ばかりだ"
     ],
     "answer": 1,
@@ -11155,8 +11153,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>利用客<rt>りようきゃく</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>から<ruby>言う<rt>いう</rt></ruby>と、この<ruby>駅<rt>えき</rt></ruby>は<ruby>階段<rt>かいだん</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<ruby>不便<rt>ふべん</rt></ruby>だが、<ruby>安全<rt>あんぜん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>面<rt>めん</rt></ruby>から<ruby>言え<rt>いえ</rt></ruby>ば<ruby>安心<rt>あんしん</rt></ruby>だ。",
     "choices_ruby": [
       "てはならない",
-      "から<ruby>言<rt>い</rt></ruby>うと",
-      "ないではいられない",
+      "から言うと",
+      "に沿って",
       "ばかりだ"
     ],
     "correct_text_ruby": "から<ruby>言<rt>い</rt></ruby>うと"
@@ -11174,7 +11172,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "佐藤さんの性格【　　】、無断で欠席するはずがないですが。何かあったのだろうか。",
     "choices": [
       "だけのことはある",
-      "てならない",
+      "に沿って",
       "から言うと",
       "かと思ったら"
     ],
@@ -11185,9 +11183,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんの<ruby>性格<rt>せいかく</rt></ruby>から<ruby>言う<rt>いう</rt></ruby>と、<ruby>無断<rt>むだん</rt></ruby>で<ruby>欠席<rt>けっせき</rt></ruby>するはずがないですが。<ruby>何<rt>なに</rt></ruby>かあったのだろうか。",
     "choices_ruby": [
       "だけのことはある",
-      "てならない",
-      "から<ruby>言<rt>い</rt></ruby>うと",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら"
+      "に沿って",
+      "から言うと",
+      "かと思ったら"
     ],
     "correct_text_ruby": "から<ruby>言<rt>い</rt></ruby>うと"
   },
@@ -11204,7 +11202,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "朝早く起きた【　　】、通勤ラッシュの混雑に巻き込まれずに済んだのだ。",
     "choices": [
       "につき",
-      "にすぎない",
+      "あげく",
       "からこそ",
       "恐らく"
     ],
@@ -11215,9 +11213,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>朝早く<rt>あさはやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>たからこそ、<ruby>通勤<rt>つうきん</rt></ruby>ラッシュの<ruby>混雑<rt>こんざつ</rt></ruby>に<ruby>巻き込ま<rt>まきこま</rt></ruby>れずに<ruby>済ん<rt>すん</rt></ruby>だのだ。",
     "choices_ruby": [
       "につき",
-      "にすぎない",
+      "あげく",
       "からこそ",
-      "<ruby>恐<rt>おそ</rt></ruby>らく"
+      "恐らく"
     ],
     "correct_text_ruby": "からこそ"
   },
@@ -11416,7 +11414,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "から見ると",
       "に決まっている",
       "せめて",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "から見ると",
@@ -11424,10 +11422,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さん【　　】、この<ruby>歴史的<rt>れきしてき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>は<ruby>一目<rt>ひとめ</rt></ruby>でわかるはずだ。",
     "sentence_jp_ruby": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見ると<rt>みると</rt></ruby>、この<ruby>歴史的<rt>れきしてき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>は<ruby>一目<rt>ひとめ</rt></ruby>でわかるはずだ。",
     "choices_ruby": [
-      "から<ruby>見<rt>み</rt></ruby>ると",
-      "に<ruby>決<rt>き</rt></ruby>まっている",
+      "から見ると",
+      "に決まっている",
       "せめて",
-      "ないではいられない"
+      "に沿って"
     ],
     "correct_text_ruby": "から<ruby>見<rt>み</rt></ruby>ると"
   },
@@ -11473,10 +11471,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "From the point of view of a specialist, many people have a flawed diet.",
     "question": "専門家【　　】、間違ったダイエットをしている人が多いようだ。",
     "choices": [
-      "だけましだ",
-      "全く",
+      "だけあって",
+      "として",
       "から見れば",
-      "ねばならない"
+      "にかかわらず"
     ],
     "answer": 2,
     "correct_text": "から見れば",
@@ -11484,10 +11482,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>【　　】、<ruby>間違っ<rt>まちがっ</rt></ruby>たダイエットをしている<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ようだ。",
     "sentence_jp_ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>から<ruby>見れ<rt>みれ</rt></ruby>ば、<ruby>間違っ<rt>まちがっ</rt></ruby>たダイエットをしている<ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ようだ。",
     "choices_ruby": [
-      "だけましだ",
-      "<ruby>全<rt>まった</rt></ruby>く",
+      "だけあって",
+      "として",
       "から<ruby>見<rt>み</rt></ruby>れば",
-      "ねばならない"
+      "にかかわらず"
     ],
     "correct_text_ruby": "から<ruby>見<rt>み</rt></ruby>れば"
   },
@@ -11744,7 +11742,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "大学に行く【　　】、毎日まじめに勉強するつもりだ。",
     "choices": [
       "以外",
-      "ないではいられない",
+      "に沿って",
       "からには",
       "あげく"
     ],
@@ -11754,8 +11752,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>【　　】、<ruby>毎日<rt>まいにち</rt></ruby>まじめに<ruby>勉強<rt>べんきょう</rt></ruby>するつもりだ。",
     "sentence_jp_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>からには、<ruby>毎日<rt>まいにち</rt></ruby>まじめに<ruby>勉強<rt>べんきょう</rt></ruby>するつもりだ。",
     "choices_ruby": [
-      "<ruby>以外<rt>いがい</rt></ruby>",
-      "ないではいられない",
+      "以外",
+      "に沿って",
       "からには",
       "あげく"
     ],
@@ -11773,8 +11771,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "When living abroad, it is inevitable that various problems will occur.",
     "question": "海外で生活する【　　】、色々と困ることが起こるのはしかたがない。",
     "choices": [
-      "てばかりはいられない",
-      "にすぎない",
+      "に沿って",
+      "に基づいて",
       "ところに",
       "からには"
     ],
@@ -11784,8 +11782,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>海外<rt>かいがい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>する【　　】、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>困る<rt>こまる</rt></ruby>ことが<ruby>起こ<rt>おこ</rt></ruby>るのはしかたがない。",
     "sentence_jp_ruby": "<ruby>海外<rt>かいがい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>するからには、<ruby>色々<rt>いろいろ</rt></ruby>と<ruby>困る<rt>こまる</rt></ruby>ことが<ruby>起こ<rt>おこ</rt></ruby>るのはしかたがない。",
     "choices_ruby": [
-      "てばかりはいられない",
-      "にすぎない",
+      "に沿って",
+      "に基づいて",
       "ところに",
       "からには"
     ],
@@ -11865,7 +11863,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "からして",
       "あるいは",
-      "にすぎない",
+      "に沿って",
       "たまえ"
     ],
     "answer": 0,
@@ -11876,7 +11874,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "からして",
       "あるいは",
-      "にすぎない",
+      "に沿って",
       "たまえ"
     ],
     "correct_text_ruby": "からして"
@@ -12074,7 +12072,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "子供たちに夢を与えるという点【　　】もそのイベントは続けていきたい。",
     "choices": [
       "っこない",
-      "てたまらない",
+      "に沿って",
       "ことだから",
       "からして"
     ],
@@ -12085,7 +12083,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>子供<rt>こども</rt></ruby>たちに<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>与え<rt>あたえ</rt></ruby>るという<ruby>点か<rt>つか</rt></ruby>らしてもそのイベントは<ruby>続け<rt>つづけ</rt></ruby>ていきたい。",
     "choices_ruby": [
       "っこない",
-      "てたまらない",
+      "に沿って",
       "ことだから",
       "からして"
     ],
@@ -12164,7 +12162,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "うどんを食べる時に音を出す習慣は外国人【　　】、考えられないことだそうです。",
     "choices": [
       "からすると",
-      "にすぎない",
+      "に沿って",
       "よりほかない",
       "恐らく"
     ],
@@ -12175,9 +12173,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "うどんを<ruby>食べ<rt>たべ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>に<ruby>音<rt>おと</rt></ruby>を<ruby>出す<rt>だす</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>からすると、<ruby>考え<rt>かんがえ</rt></ruby>られないことだそうです。",
     "choices_ruby": [
       "からすると",
-      "にすぎない",
+      "に沿って",
       "よりほかない",
-      "<ruby>恐<rt>おそ</rt></ruby>らく"
+      "恐らく"
     ],
     "correct_text_ruby": "からすると"
   },
@@ -12254,7 +12252,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "周りの態度【　　】、あの人が有名人ではないでしょうか。",
     "choices": [
       "あげく",
-      "にすぎない",
+      "に沿って",
       "あるいは",
       "からすると"
     ],
@@ -12265,7 +12263,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>周り<rt>まわり</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>からすると、あの<ruby>人<rt>ひと</rt></ruby>が<ruby>有名人<rt>ゆうめいじん</rt></ruby>ではないでしょうか。",
     "choices_ruby": [
       "あげく",
-      "にすぎない",
+      "に沿って",
       "あるいは",
       "からすると"
     ],
@@ -12284,9 +12282,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "親【　　】、子供はいくつになっても子供で心配なものだ。",
     "choices": [
       "からすると",
-      "に相違ない",
-      "何も",
-      "つつある"
+      "にとって",
+      "として",
+      "につれて"
     ],
     "answer": 0,
     "correct_text": "からすると",
@@ -12295,9 +12293,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>親か<rt>したしか</rt></ruby>らすると、<ruby>子供<rt>こども</rt></ruby>はいくつになっても<ruby>子供<rt>こども</rt></ruby>で<ruby>心配<rt>しんぱい</rt></ruby>なものだ。",
     "choices_ruby": [
       "からすると",
-      "に<ruby>相違<rt>そうい</rt></ruby>ない",
-      "<ruby>何<rt>なに</rt></ruby>も",
-      "つつある"
+      "にとって",
+      "として",
+      "につれて"
     ],
     "correct_text_ruby": "からすると"
   },
@@ -12321,8 +12319,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "からといって",
     "notes": "",
-    "question_ruby": "お<ruby>金<rt>きん</rt></ruby>がたくさんある【　　】<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
-    "sentence_jp_ruby": "お<ruby>金<rt>きん</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
+    "question_ruby": "お<ruby>金<rt>かね</rt></ruby>がたくさんある【　　】<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
+    "sentence_jp_ruby": "お<ruby>金<rt>かね</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。",
     "choices_ruby": [
       "からといって",
       "ては",
@@ -12561,8 +12559,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "っこない",
     "notes": "",
-    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>【　　】よ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。",
-    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。",
+    "question_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>【　　】よ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>もないんだから。",
+    "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>もないんだから。",
     "choices_ruby": [
       "なお",
       "かと<ruby>思<rt>おも</rt></ruby>ったら",
@@ -13208,10 +13206,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "koto dakara",
     "meaning_en": "because; since~",
     "similar": "のことだから、だから、ので、いつものことだから、～の性格上、当然～だろう",
-    "sentence_jp": "君は遅刻したが、 先日の夜の後でのことだから無理はない。",
+    "sentence_jp": "いつも時間を守る田中さんのことだから、遅刻するなんて何か事情があったに違いない。",
     "sentence_furigana": "くんはちこくしたが、 せんじつのよるのあとでのことだからむりはない。",
-    "sentence_en": "You were late, but no wonder after the other night.",
-    "question": "君は遅刻したが、 先日の夜の後での【　　】無理はない。",
+    "sentence_en": "Knowing Tanaka-san, who is always punctual, there must be a good reason for being late.",
+    "question": "いつも時間を守る田中さんの【　　】、遅刻するなんて何か事情があったに違いない。",
     "choices": [
       "ことだから",
       "に限る",
@@ -13221,8 +13219,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ことだから",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>遅刻<rt>ちこく</rt></ruby>したが、 <ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>後<rt>あと</rt></ruby>での【　　】<ruby>無理<rt>むり</rt></ruby>はない。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>遅刻<rt>ちこく</rt></ruby>したが、 <ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>後<rt>あと</rt></ruby>でのことだから<ruby>無理<rt>むり</rt></ruby>はない。",
+    "question_ruby": "いつも<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>田中<rt>たなか</rt></ruby>さんの【　　】、<ruby>遅刻<rt>ちこく</rt></ruby>するなんて<ruby>何<rt>なに</rt></ruby>か<ruby>事情<rt>じじょう</rt></ruby>があったに<ruby>違<rt>ちが</rt></ruby>いない。",
+    "sentence_jp_ruby": "いつも<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>田中<rt>たなか</rt></ruby>さんのことだから、<ruby>遅刻<rt>ちこく</rt></ruby>するなんて<ruby>何<rt>なに</rt></ruby>か<ruby>事情<rt>じじょう</rt></ruby>があったに<ruby>違<rt>ちが</rt></ruby>いない。",
     "choices_ruby": [
       "ことだから",
       "に<ruby>限<rt>かぎ</rt></ruby>る",
@@ -13544,7 +13542,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "鈴木さんは緊張する【　　】、最後まで落ち着いて発表した。",
     "choices": [
       "ことなく",
-      "ないではいられない",
+      "に沿って",
       "ことだ",
       "てこそ"
     ],
@@ -13555,7 +13553,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>緊張す<rt>きんちょうす</rt></ruby>ることなく、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>落ち着い<rt>おちつい</rt></ruby>て<ruby>発表<rt>はっぴょう</rt></ruby>した。",
     "choices_ruby": [
       "ことなく",
-      "ないではいられない",
+      "に沿って",
       "ことだ",
       "てこそ"
     ],
@@ -13576,7 +13574,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "たまえ",
       "ことなく",
       "もう少しで",
-      "てばかりはいられない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "ことなく",
@@ -13586,8 +13584,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "たまえ",
       "ことなく",
-      "もう<ruby>少<rt>すこ</rt></ruby>しで",
-      "てばかりはいられない"
+      "もう少しで",
+      "に沿って"
     ],
     "correct_text_ruby": "ことなく"
   },
@@ -13693,9 +13691,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "This time the work became quite dangerous, but we managed to finish it without anyone getting hurt.",
     "question": "今回は非常に危険な作業になりましたが、一人もけがをする【　　】、終えることができました。",
     "choices": [
-      "ないではいられない",
+      "に沿って",
       "ことなく",
-      "にすぎない",
+      "に基づいて",
       "しかも"
     ],
     "answer": 1,
@@ -13704,9 +13702,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>な<ruby>作業<rt>さぎょう</rt></ruby>になりましたが、<ruby>一人<rt>ひとり</rt></ruby>もけがをする【　　】、<ruby>終え<rt>おえ</rt></ruby>ることができました。",
     "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>な<ruby>作業<rt>さぎょう</rt></ruby>になりましたが、<ruby>一人<rt>ひとり</rt></ruby>もけがをすることなく、<ruby>終え<rt>おえ</rt></ruby>ることができました。",
     "choices_ruby": [
-      "ないではいられない",
+      "に沿って",
       "ことなく",
-      "にすぎない",
+      "に基づいて",
       "しかも"
     ],
     "correct_text_ruby": "ことなく"
@@ -14236,7 +14234,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "に決まっている",
       "に際して",
       "くせして",
-      "てならない"
+      "に沿って"
     ],
     "answer": 2,
     "correct_text": "くせして",
@@ -14244,10 +14242,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大き<rt>おおき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>の【　　】、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>がないんだね。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>大き<rt>おおき</rt></ruby>な<ruby>体<rt>からだ</rt></ruby>のくせして、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>がないんだね。",
     "choices_ruby": [
-      "に<ruby>決<rt>き</rt></ruby>まっている",
-      "に<ruby>際<rt>さい</rt></ruby>して",
+      "に決まっている",
+      "に際して",
       "くせして",
-      "てならない"
+      "に沿って"
     ],
     "correct_text_ruby": "くせして"
   },
@@ -14384,7 +14382,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "鈴木さんは日本語能力試験のレベルが低い【　　】、なぜあんなに会話が流暢なのだろう。",
     "choices": [
       "末に",
-      "ないではいられない",
+      "に沿って",
       "せめて",
       "くせして"
     ],
@@ -14394,8 +14392,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>日本語能力<rt>にほんごのうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>のレベルが<ruby>低い<rt>ひくい</rt></ruby>【　　】、なぜあんなに<ruby>会話<rt>かいわ</rt></ruby>が<ruby>流暢<rt>りゅうちょう</rt></ruby>なのだろう。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>日本語能力<rt>にほんごのうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>のレベルが<ruby>低い<rt>ひくい</rt></ruby>くせして、なぜあんなに<ruby>会話<rt>かいわ</rt></ruby>が<ruby>流暢<rt>りゅうちょう</rt></ruby>なのだろう。",
     "choices_ruby": [
-      "<ruby>末<rt>すえ</rt></ruby>に",
-      "ないではいられない",
+      "末に",
+      "に沿って",
       "せめて",
       "くせして"
     ],
@@ -14476,7 +14474,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "まだしも",
       "ては",
       "を除いて",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "まだしも",
@@ -14486,8 +14484,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "まだしも",
       "ては",
-      "を<ruby>除<rt>のぞ</rt></ruby>いて",
-      "にすぎない"
+      "を除いて",
+      "に沿って"
     ],
     "correct_text_ruby": "まだしも"
   },
@@ -14511,8 +14509,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "まだしも",
     "notes": "",
-    "question_ruby": "<ruby>数分<rt>すうふん</rt></ruby>なら【　　】、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待っ<rt>まっ</rt></ruby>てません。",
-    "sentence_jp_ruby": "<ruby>数分<rt>すうふん</rt></ruby>ならまだしも、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待っ<rt>まっ</rt></ruby>てません。",
+    "question_ruby": "<ruby>数分<rt>すうふん</rt></ruby>なら【　　】、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待<rt>ま</rt></ruby>ってません。",
+    "sentence_jp_ruby": "<ruby>数分<rt>すうふん</rt></ruby>ならまだしも、40<ruby>分<rt>ふん</rt></ruby>も<ruby>待<rt>ま</rt></ruby>ってません。",
     "choices_ruby": [
       "かねない",
       "まだしも",
@@ -14534,9 +14532,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "50年前なら【　　】、今そんなことを信じてる人はいません。",
     "choices": [
       "がきっかけで",
-      "に相違ない",
+      "どころか",
       "まだしも",
-      "かと思ったら"
+      "としても"
     ],
     "answer": 2,
     "correct_text": "まだしも",
@@ -14545,9 +14543,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "50<ruby>年前<rt>ねんまえ</rt></ruby>ならまだしも、<ruby>今そ<rt>いまそ</rt></ruby>んなことを<ruby>信じ<rt>しんじ</rt></ruby>てる<ruby>人<rt>ひと</rt></ruby>はいません。",
     "choices_ruby": [
       "がきっかけで",
-      "に<ruby>相違<rt>そうい</rt></ruby>ない",
+      "どころか",
       "まだしも",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら"
+      "としても"
     ],
     "correct_text_ruby": "まだしも"
   },
@@ -14595,7 +14593,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "まだしも",
       "どうせ",
-      "ないではいられない",
+      "に沿って",
       "からすると"
     ],
     "answer": 0,
@@ -14606,7 +14604,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "まだしも",
       "どうせ",
-      "ないではいられない",
+      "に沿って",
       "からすると"
     ],
     "correct_text_ruby": "まだしも"
@@ -15021,8 +15019,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ままに",
     "notes": "",
-    "question_ruby": "<ruby>特<rt>とく</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られる【　　】<ruby>靴<rt>くつ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てしまった。",
-    "sentence_jp_ruby": "<ruby>特<rt>とく</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られるままに<ruby>靴<rt>くつ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てしまった。",
+    "question_ruby": "<ruby>特<rt>とく</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られる【　　】<ruby>靴<rt>くつ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってしまった。",
+    "sentence_jp_ruby": "<ruby>特<rt>とく</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>なデザインがなかったから、<ruby>店員<rt>てんいん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られるままに<ruby>靴<rt>くつ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってしまった。",
     "choices_ruby": [
       "ままに",
       "<ruby>次第<rt>しだい</rt></ruby>で",
@@ -15398,10 +15396,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "mo kamawazu",
     "meaning_en": "without caring; without",
     "similar": "も気にせず、をものともせず、無視して、構わずに、頓着せず、平気で",
-    "sentence_jp": "あの二人は、みんなが見ているのもかまわず、キスをした。",
+    "sentence_jp": "大雨が降っているのもかまわず、子供たちは夢中でサッカーを続けている。",
     "sentence_furigana": "あのふたりは、みんながみているのもかまわず、キスをした。",
-    "sentence_en": "Those 2 kissed without worrying about everyone watching.",
-    "question": "あの二人は、みんなが見ているの【　　】、キスをした。",
+    "sentence_en": "Regardless of the heavy rain, the children are engrossed in playing soccer.",
+    "question": "大雨が降っているの【　　】、子供たちは夢中でサッカーを続けている。",
     "choices": [
       "もかまわず",
       "中を",
@@ -15411,8 +15409,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "もかまわず",
     "notes": "",
-    "question_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>は、みんなが<ruby>見て<rt>みて</rt></ruby>いるの【　　】、キスをした。",
-    "sentence_jp_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>は、みんなが<ruby>見て<rt>みて</rt></ruby>いるのもかまわず、キスをした。",
+    "question_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているの【　　】、<ruby>子供<rt>こども</rt></ruby>たちは<ruby>夢中<rt>むちゅう</rt></ruby>でサッカーを<ruby>続<rt>つづ</rt></ruby>けている。",
+    "sentence_jp_ruby": "<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているのもかまわず、<ruby>子供<rt>こども</rt></ruby>たちは<ruby>夢中<rt>むちゅう</rt></ruby>でサッカーを<ruby>続<rt>つづ</rt></ruby>けている。",
     "choices_ruby": [
       "もかまわず",
       "<ruby>中<rt>なか</rt></ruby>を",
@@ -16101,8 +16099,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もの",
     "notes": "",
-    "question_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>くん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだ【　　】。",
-    "sentence_jp_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>くん</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだもの。",
+    "question_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>きみ</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだ【　　】。",
+    "sentence_jp_ruby": "<ruby>謝る<rt>あやまる</rt></ruby>ことはないよ。<ruby>君<rt>きみ</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>わけじゃないんだもの。",
     "choices_ruby": [
       "ないことには",
       "あげく",
@@ -16791,8 +16789,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ものではない",
     "notes": "",
-    "question_ruby": "<ruby>無駄遣い<rt>むだづかい</rt></ruby>をする【　　】。お<ruby>金<rt>きん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。",
-    "sentence_jp_ruby": "<ruby>無駄遣い<rt>むだづかい</rt></ruby>をするものではない。お<ruby>金<rt>きん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。",
+    "question_ruby": "<ruby>無駄遣い<rt>むだづかい</rt></ruby>をする【　　】。お<ruby>金<rt>かね</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。",
+    "sentence_jp_ruby": "<ruby>無駄遣い<rt>むだづかい</rt></ruby>をするものではない。お<ruby>金<rt>かね</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>にするものだ。",
     "choices_ruby": [
       "もっとも",
       "<ruby>得<rt>え</rt></ruby>ない",
@@ -17415,7 +17413,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ところに",
       "ものなら",
-      "てたまらない",
+      "に沿って",
       "に越したことはない"
     ],
     "answer": 1,
@@ -17426,8 +17424,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "ところに",
       "ものなら",
-      "てたまらない",
-      "に<ruby>越<rt>こ</rt></ruby>したことはない"
+      "に沿って",
+      "に越したことはない"
     ],
     "correct_text_ruby": "ものなら"
   },
@@ -17623,9 +17621,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Although I bought it, I don't know how to use it..",
     "question": "買った【　　】、使い方が分からない。",
     "choices": [
-      "なお",
-      "あげく",
-      "にすぎない",
+      "一方",
+      "わりに",
+      "反面",
       "ものの"
     ],
     "answer": 3,
@@ -17634,9 +17632,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>買っ<rt>かっ</rt></ruby>た【　　】、<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からない。",
     "sentence_jp_ruby": "<ruby>買っ<rt>かっ</rt></ruby>たものの、<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からない。",
     "choices_ruby": [
-      "なお",
-      "あげく",
-      "にすぎない",
+      "<ruby>一方<rt>いっぽう</rt></ruby>",
+      "わりに",
+      "<ruby>反面<rt>はんめん</rt></ruby>",
       "ものの"
     ],
     "correct_text_ruby": "ものの"
@@ -17655,7 +17653,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ものの",
       "て当然だ",
-      "ないではいられない",
+      "に沿って",
       "あげく"
     ],
     "answer": 0,
@@ -17665,8 +17663,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>金欠<rt>きんけつ</rt></ruby>ではあるものの、<ruby>毎日<rt>まいにち</rt></ruby><ruby>美味しい<rt>おいしい</rt></ruby><ruby>食事<rt>しょくじ</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでいる。",
     "choices_ruby": [
       "ものの",
-      "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
-      "ないではいられない",
+      "て当然だ",
+      "に沿って",
       "あげく"
     ],
     "correct_text_ruby": "ものの"
@@ -17683,10 +17681,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "My apartment may be far from the station, but it is in a very quiet and beautiful neighborhood.",
     "question": "高橋さんのアパートは駅からはちょっと遠い【　　】、静かできれいな住宅街にある。",
     "choices": [
-      "に沿って",
+      "につれて",
       "ものの",
-      "よりほかない",
-      "にすぎない"
+      "反面",
+      "うえに"
     ],
     "answer": 1,
     "correct_text": "ものの",
@@ -17694,10 +17692,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんのアパートは<ruby>駅<rt>えき</rt></ruby>からはちょっと<ruby>遠い<rt>とおい</rt></ruby>【　　】、<ruby>静<rt>しず</rt></ruby>かできれいな<ruby>住宅街<rt>じゅうたくがい</rt></ruby>にある。",
     "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんのアパートは<ruby>駅<rt>えき</rt></ruby>からはちょっと<ruby>遠い<rt>とおい</rt></ruby>ものの、<ruby>静<rt>しず</rt></ruby>かできれいな<ruby>住宅街<rt>じゅうたくがい</rt></ruby>にある。",
     "choices_ruby": [
-      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "につれて",
       "ものの",
-      "よりほかない",
-      "にすぎない"
+      "<ruby>反面<rt>はんめん</rt></ruby>",
+      "うえに"
     ],
     "correct_text_ruby": "ものの"
   },
@@ -17713,7 +17711,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Although I joined a sports gym by my friend's recommendation, I've rarely used my membership.",
     "question": "友人に勧められてスポーツジムの会員になった【　　】、ほとんど利用していない。",
     "choices": [
-      "てばかりはいられない",
+      "あげく",
       "も当然だ",
       "ものの",
       "なくはない"
@@ -17724,8 +17722,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られてスポーツジムの<ruby>会員<rt>かいいん</rt></ruby>になった【　　】、ほとんど<ruby>利用<rt>りよう</rt></ruby>していない。",
     "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>勧め<rt>すすめ</rt></ruby>られてスポーツジムの<ruby>会員<rt>かいいん</rt></ruby>になったものの、ほとんど<ruby>利用<rt>りよう</rt></ruby>していない。",
     "choices_ruby": [
-      "てばかりはいられない",
-      "も<ruby>当然<rt>とうぜん</rt></ruby>だ",
+      "あげく",
+      "も当然だ",
       "ものの",
       "なくはない"
     ],
@@ -17773,21 +17771,21 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Suzuki-san is the lead for this new product. Although to be fair, everyone contributed ideas from the planning stage.",
     "question": "この新商品の開発リーダーは鈴木さんだ。【　　】、企画の段階から全員でアイデアを出し合ってきた。",
     "choices": [
-      "ずに済む",
+      "ただし",
       "限り",
-      "に相違ない",
-      "もっとも"
+      "もっとも",
+      "一方"
     ],
-    "answer": 3,
+    "answer": 2,
     "correct_text": "もっとも",
     "notes": "",
     "question_ruby": "この<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>リーダーは<ruby>鈴木<rt>すずき</rt></ruby>さんだ。【　　】、<ruby>企画<rt>きかく</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>でアイデアを<ruby>出し合って<rt>だしあって</rt></ruby>きた。",
     "sentence_jp_ruby": "この<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>リーダーは<ruby>鈴木<rt>すずき</rt></ruby>さんだ。もっとも、<ruby>企画<rt>きかく</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>でアイデアを<ruby>出し合って<rt>だしあって</rt></ruby>きた。",
     "choices_ruby": [
-      "ずに<ruby>済<rt>す</rt></ruby>む",
+      "ただし",
       "<ruby>限<rt>かぎ</rt></ruby>り",
-      "に<ruby>相違<rt>そうい</rt></ruby>ない",
-      "もっとも"
+      "もっとも",
+      "<ruby>一方<rt>いっぽう</rt></ruby>"
     ],
     "correct_text_ruby": "もっとも"
   },
@@ -17948,10 +17946,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "mou sukoshi de",
     "meaning_en": "almost; nearly,",
     "similar": "ところだった、危うく～しそうだった、もう少しで、寸前だった、間一髪だった",
-    "sentence_jp": "もう少しであの川でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
-    "sentence_furigana": "もうすこしであのかわでおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
-    "sentence_en": "I almost drowned in that river.",
-    "question": "【　　】あの川でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
+    "sentence_jp": "足元が濡れていて滑りやすく、もう少しで階段から転ぶところでした。",
+    "sentence_furigana": "あしもとがぬれていてすべりやすく、もうすこしでかいだんからころぶところでした。",
+    "sentence_en": "The ground was wet and slippery, and I almost fell down the stairs.",
+    "question": "足元が濡れていて滑りやすく、【　　】階段から転ぶところでした。",
     "choices": [
       "もう少しで",
       "っこない",
@@ -17961,8 +17959,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "もう少しで",
     "notes": "",
-    "question_ruby": "【　　】あの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
-    "sentence_jp_ruby": "もう<ruby>少し<rt>すこし</rt></ruby>であの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。",
+    "question_ruby": "<ruby>足元<rt>あしもと</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていて<ruby>滑<rt>すべ</rt></ruby>りやすく、【　　】<ruby>階段<rt>かいだん</rt></ruby>から<ruby>転<rt>ころ</rt></ruby>ぶところでした。",
+    "sentence_jp_ruby": "<ruby>足元<rt>あしもと</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていて<ruby>滑<rt>すべ</rt></ruby>りやすく、もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>階段<rt>かいだん</rt></ruby>から<ruby>転<rt>ころ</rt></ruby>ぶところでした。",
     "choices_ruby": [
       "もう<ruby>少<rt>すこ</rt></ruby>しで",
       "っこない",
@@ -18038,10 +18036,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "mou sukoshi de",
     "meaning_en": "almost; nearly,",
     "similar": "ところだった、危うく～しそうだった、もう少しで、寸前だった、間一髪だった",
-    "sentence_jp": "君はもう少しで私の目をボールペンで突き刺すところだったよ。",
-    "sentence_furigana": "くんはもうすこしでわたしのめをボールペンでつきさすところだったよ。",
-    "sentence_en": "You nearly poked me in the eye with your pen.",
-    "question": "君は【　　】私の目をボールペンで突き刺すところだったよ。",
+    "sentence_jp": "危ない！もう少しで前の車にぶつかるところだったよ。",
+    "sentence_furigana": "あぶない！もうすこしでまえのくるまにぶつかるところだったよ。",
+    "sentence_en": "Watch out! We almost collided with the car in front of us.",
+    "question": "危ない！【　　】前の車にぶつかるところだったよ。",
     "choices": [
       "にわたって",
       "にすぎない",
@@ -18051,8 +18049,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "もう少しで",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>は【　　】<ruby>私<rt>わたし</rt></ruby>の<ruby>目<rt>め</rt></ruby>をボールペンで<ruby>突き<rt>つき</rt></ruby><ruby>刺す<rt>さす</rt></ruby>ところだったよ。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>はもう<ruby>少し<rt>すこし</rt></ruby>で<ruby>私<rt>わたし</rt></ruby>の<ruby>目<rt>め</rt></ruby>をボールペンで<ruby>突き<rt>つき</rt></ruby><ruby>刺す<rt>さす</rt></ruby>ところだったよ。",
+    "question_ruby": "<ruby>危<rt>あぶ</rt></ruby>ない！【　　】<ruby>前<rt>まえ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>にぶつかるところだったよ。",
+    "sentence_jp_ruby": "<ruby>危<rt>あぶ</rt></ruby>ない！もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>前<rt>まえ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>にぶつかるところだったよ。",
     "choices_ruby": [
       "にわたって",
       "にすぎない",
@@ -18128,10 +18126,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "mou sukoshi de",
     "meaning_en": "almost; nearly,",
     "similar": "ところだった、危うく～しそうだった、もう少しで、寸前だった、間一髪だった",
-    "sentence_jp": "高橋さんは道路を渡るときに、大型トラックにもう少しではねられそうになった。",
-    "sentence_furigana": "たかはしさんはどうろをわたるときに、おおがたトラックにもうすこしではねられそうになった。",
-    "sentence_en": "A massive truck almost hit me as Takahashi-san crossed the street.",
-    "question": "高橋さんは道路を渡るときに、大型トラックに【　　】はねられそうになった。",
+    "sentence_jp": "雨の日に急ブレーキをかけたため、もう少しでスリップしそうになった。",
+    "sentence_furigana": "あめのひにきゅうブレーキをかけたため、もうすこしでスリップしそうになった。",
+    "sentence_en": "Because I slammed on the brakes on a rainy day, the car almost skidded.",
+    "question": "雨の日に急ブレーキをかけたため、【　　】スリップしそうになった。",
     "choices": [
       "に限って",
       "にすぎない",
@@ -18141,8 +18139,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もう少しで",
     "notes": "",
-    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡る<rt>わたる</rt></ruby>ときに、<ruby>大型<rt>おおがた</rt></ruby>トラックに【　　】はねられそうになった。",
-    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡る<rt>わたる</rt></ruby>ときに、<ruby>大型<rt>おおがた</rt></ruby>トラックにもう<ruby>少し<rt>すこし</rt></ruby>ではねられそうになった。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>急<rt>きゅう</rt></ruby>ブレーキをかけたため、【　　】スリップしそうになった。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>急<rt>きゅう</rt></ruby>ブレーキをかけたため、もう<ruby>少<rt>すこ</rt></ruby>しでスリップしそうになった。",
     "choices_ruby": [
       "に<ruby>限<rt>かぎ</rt></ruby>って",
       "にすぎない",
@@ -18351,7 +18349,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ないではいられなかった",
     "notes": "",
-    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>しか<ruby>寝て<rt>ねて</rt></ruby>なかったから、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>寝<rt>ね</rt></ruby>【　　】。",
+    "question_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>しか<ruby>寝て<rt>ねて</rt></ruby>なかったから、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では寝【　　】。",
     "sentence_jp_ruby": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>、3<ruby>時間<rt>じかん</rt></ruby>しか<ruby>寝て<rt>ねて</rt></ruby>なかったから、<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>寝な<rt>ねな</rt></ruby>いではいられなかった。",
     "choices_ruby": [
       "ないではいられなかった",
@@ -18411,7 +18409,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ないことには",
     "notes": "",
-    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>来<rt>らい</rt></ruby>【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。",
+    "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが来【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんが<ruby>来ない<rt>こない</rt></ruby>ことには、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ることができない。",
     "choices_ruby": [
       "ないことには",
@@ -18488,10 +18486,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "nai koto niwa~nai",
     "meaning_en": "unless you~",
     "similar": "なければ～ない、ないうちは、ない限りは、ないと～できない、～が先決だ",
-    "sentence_jp": "両方の話を聞いてみないことには、ケンかの原因が分からないでしょう。",
-    "sentence_furigana": "りょうほうのはなしをきいてみないことには、ケンかのげんいんがわからないでしょう。",
-    "sentence_en": "You won’t know the reason why they fought unless you hear both sides of the story.",
-    "question": "両方の話を聞いてみ【　　】、ケンかの原因が分からないでしょう。",
+    "sentence_jp": "双方の意見をしっかり聞いてみないことには、トラブルの本当の原因は判断できない。",
+    "sentence_furigana": "そうほうのいけんをしっかりきいてみないことには、トラブルのほんとうのげんいんははんだんできない。",
+    "sentence_en": "Unless we listen carefully to both sides' opinions, we cannot judge the real cause of the trouble.",
+    "question": "双方の意見をしっかり聞いてみ【　　】、トラブルの本当の原因は判断できない。",
     "choices": [
       "に向かって",
       "抜く",
@@ -18501,8 +18499,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ないことには",
     "notes": "",
-    "question_ruby": "<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>てみ【　　】、ケンかの<ruby>原因<rt>げんいん</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からないでしょう。",
-    "sentence_jp_ruby": "<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>てみないことには、ケンかの<ruby>原因<rt>げんいん</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からないでしょう。",
+    "question_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>いてみ【　　】、トラブルの<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<ruby>判断<rt>はんだん</rt></ruby>できない。",
+    "sentence_jp_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>いてみないことには、トラブルの<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<ruby>判断<rt>はんだん</rt></ruby>できない。",
     "choices_ruby": [
       "に<ruby>向<rt>む</rt></ruby>かって",
       "<ruby>抜<rt>ぬ</rt></ruby>く",
@@ -18526,7 +18524,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ないことには",
       "というものではない",
       "かと思ったら",
-      "てばかりはいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "ないことには",
@@ -18536,8 +18534,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "ないことには",
       "というものではない",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
-      "てばかりはいられない"
+      "かと思ったら",
+      "に沿って"
     ],
     "correct_text_ruby": "ないことには"
   },
@@ -18584,7 +18582,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "実際に履いてみ【　　】、サイズが合うかどうかわかりませんし、似合うかどうかもわかりません。",
     "choices": [
       "にわたって",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには",
       "少なくとも"
     ],
@@ -18595,9 +18593,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>実際<rt>じっさい</rt></ruby>に<ruby>履い<rt>はい</rt></ruby>てみないことには、サイズが<ruby>合う<rt>あう</rt></ruby>かどうかわかりませんし、<ruby>似合う<rt>にあう</rt></ruby>かどうかもわかりません。",
     "choices_ruby": [
       "にわたって",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには",
-      "<ruby>少<rt>すく</rt></ruby>なくとも"
+      "少なくとも"
     ],
     "correct_text_ruby": "ないことには"
   },
@@ -18796,7 +18794,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "の中では",
       "もの",
       "もかまわず",
-      "てばかりはいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "の中では",
@@ -18804,10 +18802,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>地元<rt>じもと</rt></ruby>のアイスティー【　　】、どれがおいしいですか。",
     "sentence_jp_ruby": "<ruby>地元<rt>じもと</rt></ruby>のアイスティーの<ruby>中<rt>なか</rt></ruby>では、どれがおいしいですか。",
     "choices_ruby": [
-      "の<ruby>中<rt>なか</rt></ruby>では",
+      "の中では",
       "もの",
       "もかまわず",
-      "てばかりはいられない"
+      "に沿って"
     ],
     "correct_text_ruby": "の<ruby>中<rt>なか</rt></ruby>では"
   },
@@ -19161,8 +19159,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ないで済みました",
     "notes": "",
-    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>きん</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>【　　】。",
-    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>きん</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>ないで<ruby>済み<rt>すみ</rt></ruby>ました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>かね</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>がおごってくれたのでお<ruby>金<rt>かね</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>ないで<ruby>済み<rt>すみ</rt></ruby>ました。",
     "choices_ruby": [
       "<ruby>得<rt>え</rt></ruby>ない",
       "ないで<ruby>済<rt>す</rt></ruby>みました",
@@ -19994,7 +19992,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "皆さん、JLPTを受ける【　　】、大切なことを伝えておきます。",
     "choices": [
       "次第に",
-      "ないではいられない",
+      "に沿って",
       "にあたって",
       "だけのことはある"
     ],
@@ -20004,8 +20002,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>【　　】、<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>伝え<rt>つたえ</rt></ruby>ておきます。",
     "sentence_jp_ruby": "<ruby>皆さん<rt>みなさん</rt></ruby>、JLPTを<ruby>受ける<rt>うける</rt></ruby>にあたって、<ruby>大切<rt>たいせつ</rt></ruby>なことを<ruby>伝え<rt>つたえ</rt></ruby>ておきます。",
     "choices_ruby": [
-      "<ruby>次第<rt>しだい</rt></ruby>に",
-      "ないではいられない",
+      "次第に",
+      "に沿って",
       "にあたって",
       "だけのことはある"
     ],
@@ -20061,8 +20059,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "にあたって",
     "notes": "",
-    "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>する【　　】、たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。",
-    "sentence_jp_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>するにあたって、たくさんのお<ruby>金<rt>きん</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。",
+    "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>する【　　】、たくさんのお<ruby>金<rt>かね</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。",
+    "sentence_jp_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>するにあたって、たくさんのお<ruby>金<rt>かね</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しなければならない。",
     "choices_ruby": [
       "にあたって",
       "ろくに",
@@ -20086,7 +20084,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "せいか",
       "にあたって",
       "ては",
-      "にほかならない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "にあたって",
@@ -20097,7 +20095,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "せいか",
       "にあたって",
       "ては",
-      "にほかならない"
+      "に沿って"
     ],
     "correct_text_ruby": "にあたって"
   },
@@ -20113,7 +20111,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "When starting the test, first read the important points.",
     "question": "試験を始める【　　】、まずは注意事項を読んでおいてください。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "てまで",
       "にあたり",
       "あげく"
@@ -20124,7 +20122,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る【　　】、まずは<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>おいてください。",
     "sentence_jp_ruby": "<ruby>試験<rt>しけん</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>るにあたり、まずは<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>おいてください。",
     "choices_ruby": [
-      "にすぎない",
+      "に沿って",
       "てまで",
       "にあたり",
       "あげく"
@@ -20145,7 +20143,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ないことには",
       "つつ",
-      "てならない",
+      "に沿って",
       "にあたって"
     ],
     "answer": 3,
@@ -20156,7 +20154,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "ないことには",
       "つつ",
-      "てならない",
+      "に沿って",
       "にあたって"
     ],
     "correct_text_ruby": "にあたって"
@@ -20528,26 +20526,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ni kagirazu",
     "meaning_en": "not just; not only.. but also~",
     "similar": "だけでなく、のみならず、ばかりでなく、はもとより、にとどまらず、をはじめ",
-    "sentence_jp": "その番組は若者に限らず老人も関心します。",
-    "sentence_furigana": "そのばんぐみはわかものにかぎらずろうじんもかんしんします。",
-    "sentence_en": "This program is interesting to not only young people, but to elderly people as well.",
-    "question": "その番組は若者【　　】老人も関心します。",
+    "sentence_jp": "その伝統芸能の公演は、若者に限らず高齢者からも高く評価されている。",
+    "sentence_furigana": "そのでんとうげいのうのこうえんは、わかものにかぎらずこうれいしゃからもたかくひょうかされている。",
+    "sentence_en": "The performance of traditional performing arts is highly appreciated not only by young people but also by the elderly.",
+    "question": "その伝統芸能の公演は、若者【　　】高齢者からも高く評価されている。",
     "choices": [
       "に限らず",
-      "限り",
-      "ないではいられない",
-      "てばかりはいられない"
+      "に向けて",
+      "に基づいて",
+      "にわたって"
     ],
     "answer": 0,
     "correct_text": "に限らず",
     "notes": "",
-    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>若者<rt>わかもの</rt></ruby>【　　】<ruby>老人<rt>ろうじん</rt></ruby>も<ruby>関心<rt>かんしん</rt></ruby>します。",
-    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>若者<rt>わかもの</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず<ruby>老人<rt>ろうじん</rt></ruby>も<ruby>関心<rt>かんしん</rt></ruby>します。",
+    "question_ruby": "その<ruby>伝統芸能<rt>でんとうげいのう</rt></ruby>の<ruby>公演<rt>こうえん</rt></ruby>は、<ruby>若者<rt>わかもの</rt></ruby>【　　】<ruby>高齢者<rt>こうれいしゃ</rt></ruby>からも<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "その<ruby>伝統芸能<rt>でんとうげいのう</rt></ruby>の<ruby>公演<rt>こうえん</rt></ruby>は、<ruby>若者<rt>わかもの</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>らず<ruby>高齢者<rt>こうれいしゃ</rt></ruby>からも<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
     "choices_ruby": [
       "に<ruby>限<rt>かぎ</rt></ruby>らず",
-      "<ruby>限<rt>かぎ</rt></ruby>り",
-      "ないではいられない",
-      "てばかりはいられない"
+      "に<ruby>向<rt>む</rt></ruby>けて",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "にわたって"
     ],
     "correct_text_ruby": "に<ruby>限<rt>かぎ</rt></ruby>らず"
   },
@@ -20563,7 +20561,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Diseney movies are popular with not only children, but with adults as well.",
     "question": "ディズニー映画は子供【　　】、大人にも人気がある。",
     "choices": [
-      "てばかりはいられない",
+      "に沿って",
       "に限らず",
       "末に",
       "ものではない"
@@ -20574,9 +20572,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "ディズニー<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>【　　】、<ruby>大人<rt>おとな</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>がある。",
     "sentence_jp_ruby": "ディズニー<ruby>映画<rt>えいが</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>に<ruby>限ら<rt>かぎら</rt></ruby>ず、<ruby>大人<rt>おとな</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>がある。",
     "choices_ruby": [
-      "てばかりはいられない",
-      "に<ruby>限<rt>かぎ</rt></ruby>らず",
-      "<ruby>末<rt>すえ</rt></ruby>に",
+      "に沿って",
+      "に限らず",
+      "末に",
       "ものではない"
     ],
     "correct_text_ruby": "に<ruby>限<rt>かぎ</rt></ruby>らず"
@@ -20953,7 +20951,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Our team, of all people, would never break a promise.",
     "question": "うちのチーム【　　】、約束を破るようなことは決してしません。",
     "choices": [
-      "てならない",
+      "に沿って",
       "もかまわず",
       "に限って",
       "あげく"
@@ -20964,9 +20962,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "うちのチーム【　　】、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破る<rt>やぶる</rt></ruby>ようなことは<ruby>決して<rt>けっして</rt></ruby>しません。",
     "sentence_jp_ruby": "うちのチームに<ruby>限って<rt>かぎって</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破る<rt>やぶる</rt></ruby>ようなことは<ruby>決して<rt>けっして</rt></ruby>しません。",
     "choices_ruby": [
-      "てならない",
+      "に沿って",
       "もかまわず",
-      "に<ruby>限<rt>かぎ</rt></ruby>って",
+      "に限って",
       "あげく"
     ],
     "correct_text_ruby": "に<ruby>限<rt>かぎ</rt></ruby>って"
@@ -20984,7 +20982,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "学校を休んだ日【　　】、予告なしの小テストが行われる。",
     "choices": [
       "に決まっている",
-      "ないではいられない",
+      "に沿って",
       "ては",
       "に限って"
     ],
@@ -20994,10 +20992,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>だ<ruby>日<rt>にち</rt></ruby>【　　】、<ruby>予告<rt>よこく</rt></ruby>なしの<ruby>小<rt>しょう</rt></ruby>テストが<ruby>行わ<rt>おこなわ</rt></ruby>れる。",
     "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>だ<ruby>日<rt>にち</rt></ruby>に<ruby>限っ<rt>かぎっ</rt></ruby>て、<ruby>予告<rt>よこく</rt></ruby>なしの<ruby>小<rt>しょう</rt></ruby>テストが<ruby>行わ<rt>おこなわ</rt></ruby>れる。",
     "choices_ruby": [
-      "に<ruby>決<rt>き</rt></ruby>まっている",
-      "ないではいられない",
+      "に決まっている",
+      "に沿って",
       "ては",
-      "に<ruby>限<rt>かぎ</rt></ruby>って"
+      "に限って"
     ],
     "correct_text_ruby": "に<ruby>限<rt>かぎ</rt></ruby>って"
   },
@@ -21134,7 +21132,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "困ったなあ。急いでいるとき【　　】、こういう事故が起きるんだから。",
     "choices": [
       "に限って",
-      "てたまらない",
+      "に沿って",
       "わずかに",
       "かと思ったら"
     ],
@@ -21144,10 +21142,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>困っ<rt>こまっ</rt></ruby>たなあ。<ruby>急い<rt>いそい</rt></ruby>でいるとき【　　】、こういう<ruby>事故<rt>じこ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るんだから。",
     "sentence_jp_ruby": "<ruby>困っ<rt>こまっ</rt></ruby>たなあ。<ruby>急い<rt>いそい</rt></ruby>でいるときに<ruby>限っ<rt>かぎっ</rt></ruby>て、こういう<ruby>事故<rt>じこ</rt></ruby>が<ruby>起き<rt>おき</rt></ruby>るんだから。",
     "choices_ruby": [
-      "に<ruby>限<rt>かぎ</rt></ruby>って",
-      "てたまらない",
+      "に限って",
+      "に沿って",
       "わずかに",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら"
+      "かと思ったら"
     ],
     "correct_text_ruby": "に<ruby>限<rt>かぎ</rt></ruby>って"
   },
@@ -21196,7 +21194,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "少しも",
       "にかかわらず",
       "なくはない",
-      "てならない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "にかかわらず",
@@ -21204,10 +21202,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>値段<rt>ねだん</rt></ruby>【　　】、あの<ruby>最新型<rt>さいしんがた</rt></ruby>スマートフォンが<ruby>発売<rt>はつばい</rt></ruby>されたらすぐに<ruby>買う<rt>かう</rt></ruby>つもりだ。",
     "sentence_jp_ruby": "<ruby>値段<rt>ねだん</rt></ruby>にかかわらず、あの<ruby>最新型<rt>さいしんがた</rt></ruby>スマートフォンが<ruby>発売<rt>はつばい</rt></ruby>されたらすぐに<ruby>買う<rt>かう</rt></ruby>つもりだ。",
     "choices_ruby": [
-      "<ruby>少<rt>すこ</rt></ruby>しも",
+      "少しも",
       "にかかわらず",
       "なくはない",
-      "てならない"
+      "に沿って"
     ],
     "correct_text_ruby": "にかかわらず"
   },
@@ -21226,7 +21224,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "かと思ったら",
       "なくはない",
       "にかかわらず",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 2,
     "correct_text": "にかかわらず",
@@ -21234,10 +21232,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>国際交流<rt>こくさいこうりゅう</rt></ruby>イベントに<ruby>来る<rt>くる</rt></ruby><ruby>来ない<rt>こない</rt></ruby>【　　】、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
     "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>国際交流<rt>こくさいこうりゅう</rt></ruby>イベントに<ruby>来る<rt>くる</rt></ruby><ruby>来ない<rt>こない</rt></ruby>にかかわらず、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
     "choices_ruby": [
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
+      "かと思ったら",
       "なくはない",
       "にかかわらず",
-      "にすぎない"
+      "に沿って"
     ],
     "correct_text_ruby": "にかかわらず"
   },
@@ -22034,9 +22032,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "大学は、学生たちの要望【　　】、図書館の利用時間を延ばした。",
     "choices": [
       "にこたえて",
-      "に相違ない",
-      "かねる",
-      "ないではいられない"
+      "に基づいて",
+      "かねて",
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "にこたえて",
@@ -22045,9 +22043,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>学生<rt>がくせい</rt></ruby>たちの<ruby>要望<rt>ようぼう</rt></ruby>にこたえて、<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>利用時間<rt>りようじかん</rt></ruby>を<ruby>延ば<rt>のば</rt></ruby>した。",
     "choices_ruby": [
       "にこたえて",
-      "に<ruby>相違<rt>そうい</rt></ruby>ない",
-      "かねる",
-      "ないではいられない"
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "かねて",
+      "に<ruby>沿<rt>そ</rt></ruby>って"
     ],
     "correct_text_ruby": "にこたえて"
   },
@@ -22273,7 +22271,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "In addition to throat pain, I've started getting a fever and have no choice but to miss school.",
     "question": "のどの痛み【　　】、熱も出てきたので学校を休むしかない。",
     "choices": [
-      "てたまらない",
+      "に沿って",
       "かねない",
       "に加えて",
       "それにしても"
@@ -22284,9 +22282,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "のどの<ruby>痛み<rt>いたみ</rt></ruby>【　　】、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>きたので<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>しかない。",
     "sentence_jp_ruby": "のどの<ruby>痛み<rt>いたみ</rt></ruby>に<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>出て<rt>でて</rt></ruby>きたので<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休む<rt>やすむ</rt></ruby>しかない。",
     "choices_ruby": [
-      "てたまらない",
+      "に沿って",
       "かねない",
-      "に<ruby>加<rt>くわ</rt></ruby>えて",
+      "に加えて",
       "それにしても"
     ],
     "correct_text_ruby": "に<ruby>加<rt>くわ</rt></ruby>えて"
@@ -22334,7 +22332,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "今学期から初級クラス【　　】、中級クラスでも教えるようになった。",
     "choices": [
       "に加えて",
-      "てたまらない",
+      "に沿って",
       "ものなら",
       "せっかく"
     ],
@@ -22344,8 +22342,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>今学期<rt>こんがっき</rt></ruby>から<ruby>初級<rt>しょきゅう</rt></ruby>クラス【　　】、<ruby>中級<rt>ちゅうきゅう</rt></ruby>クラスでも<ruby>教え<rt>おしえ</rt></ruby>るようになった。",
     "sentence_jp_ruby": "<ruby>今学期<rt>こんがっき</rt></ruby>から<ruby>初級<rt>しょきゅう</rt></ruby>クラスに<ruby>加え<rt>くわえ</rt></ruby>て、<ruby>中級<rt>ちゅうきゅう</rt></ruby>クラスでも<ruby>教え<rt>おしえ</rt></ruby>るようになった。",
     "choices_ruby": [
-      "に<ruby>加<rt>くわ</rt></ruby>えて",
-      "てたまらない",
+      "に加えて",
+      "に沿って",
       "ものなら",
       "せっかく"
     ],
@@ -22521,8 +22519,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "に基づいて",
     "notes": "",
-    "question_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>【　　】<ruby>君<rt>くん</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
-    "sentence_jp_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>君<rt>くん</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
+    "question_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>【　　】<ruby>君<rt>きみ</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
+    "sentence_jp_ruby": "そのテストの<ruby>結果<rt>けっか</rt></ruby>に<ruby>基づ<rt>もとづ</rt></ruby>いて<ruby>君<rt>きみ</rt></ruby>たちのクラスを<ruby>分け<rt>わけ</rt></ruby>るので、<ruby>頑張っ<rt>がんばっ</rt></ruby>てください。",
     "choices_ruby": [
       "あげく",
       "に<ruby>基<rt>もと</rt></ruby>づいて",
@@ -23324,7 +23322,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "面接【　　】、しっかりと練習しておいた方がいいですよ。",
     "choices": [
       "に際して",
-      "にすぎない",
+      "に沿って",
       "というふうに",
       "てこそ"
     ],
@@ -23334,8 +23332,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>面接<rt>めんせつ</rt></ruby>【　　】、しっかりと<ruby>練習<rt>れんしゅう</rt></ruby>しておいた<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "sentence_jp_ruby": "<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>て、しっかりと<ruby>練習<rt>れんしゅう</rt></ruby>しておいた<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
-      "に<ruby>際<rt>さい</rt></ruby>して",
-      "にすぎない",
+      "に際して",
+      "に沿って",
       "というふうに",
       "てこそ"
     ],
@@ -23355,7 +23353,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "に先立って",
       "なくて済む",
-      "にほかならない",
+      "に沿って",
       "抜く"
     ],
     "answer": 0,
@@ -23364,10 +23362,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>【　　】、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ておかなければならない。",
     "sentence_jp_ruby": "<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>集め<rt>あつめ</rt></ruby>ておかなければならない。",
     "choices_ruby": [
-      "に<ruby>先立<rt>さきだ</rt></ruby>って",
-      "なくて<ruby>済<rt>す</rt></ruby>む",
-      "にほかならない",
-      "<ruby>抜<rt>ぬ</rt></ruby>く"
+      "に先立って",
+      "なくて済む",
+      "に沿って",
+      "抜く"
     ],
     "correct_text_ruby": "に<ruby>先立<rt>さきだ</rt></ruby>って"
   },
@@ -23414,7 +23412,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "新製品の発売【　　】、テレビやネットで連日宣伝しています。",
     "choices": [
       "それなら",
-      "にすぎない",
+      "に沿って",
       "に先立って",
       "てでも"
     ],
@@ -23425,8 +23423,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>新製品<rt>しんせいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、テレビやネットで<ruby>連日<rt>れんじつ</rt></ruby><ruby>宣伝<rt>せんでん</rt></ruby>しています。",
     "choices_ruby": [
       "それなら",
-      "にすぎない",
-      "に<ruby>先立<rt>さきだ</rt></ruby>って",
+      "に沿って",
+      "に先立って",
       "てでも"
     ],
     "correct_text_ruby": "に<ruby>先立<rt>さきだ</rt></ruby>って"
@@ -23624,9 +23622,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "事故でバイクがめちゃくちゃになったが、何【　　】、誰もけがをしなくてよかった。",
     "choices": [
       "にしろ",
-      "ねばならない",
-      "果たして",
-      "ところだった"
+      "としても",
+      "にせよ",
+      "ところで"
     ],
     "answer": 0,
     "correct_text": "にしろ",
@@ -23635,9 +23633,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>事故<rt>じこ</rt></ruby>でバイクがめちゃくちゃになったが、<ruby>何<rt>なに</rt></ruby>にしろ、<ruby>誰<rt>だれ</rt></ruby>もけがをしなくてよかった。",
     "choices_ruby": [
       "にしろ",
-      "ねばならない",
-      "<ruby>果<rt>は</rt></ruby>たして",
-      "ところだった"
+      "としても",
+      "にせよ",
+      "ところで"
     ],
     "correct_text_ruby": "にしろ"
   },
@@ -23953,10 +23951,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "To you, this may be just a small issue, but that's not the same for other people.",
     "question": "あなた【　　】小さなことかもしれないけど、ほかの人にはそうでもないんですよ。",
     "choices": [
-      "というふうに",
-      "にしたら",
+      "に際して",
+      "に沿って",
       "にすれば",
-      "あげく"
+      "に関して"
     ],
     "answer": 2,
     "correct_text": "にすれば",
@@ -23964,10 +23962,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "あなた【　　】<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にはそうでもないんですよ。",
     "sentence_jp_ruby": "あなたにすれば<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にはそうでもないんですよ。",
     "choices_ruby": [
-      "というふうに",
-      "にしたら",
+      "に<ruby>際<rt>さい</rt></ruby>して",
+      "に<ruby>沿<rt>そ</rt></ruby>って",
       "にすれば",
-      "あげく"
+      "に<ruby>関<rt>かん</rt></ruby>して"
     ],
     "correct_text_ruby": "にすれば"
   },
@@ -24014,9 +24012,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "犬や猫はかわいいが、飼っていない人【　　】迷惑なこともある。",
     "choices": [
       "にすれば",
-      "あげく",
-      "ては",
-      "にしたら"
+      "に反して",
+      "を通じて",
+      "に向けて"
     ],
     "answer": 0,
     "correct_text": "にすれば",
@@ -24025,9 +24023,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>はかわいいが、<ruby>飼っ<rt>かっ</rt></ruby>ていない<ruby>人<rt>ひと</rt></ruby>にすれば<ruby>迷惑<rt>めいわく</rt></ruby>なこともある。",
     "choices_ruby": [
       "にすれば",
-      "あげく",
-      "ては",
-      "にしたら"
+      "に<ruby>反<rt>はん</rt></ruby>して",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
+      "に<ruby>向<rt>む</rt></ruby>けて"
     ],
     "correct_text_ruby": "にすれば"
   },
@@ -24038,26 +24036,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ni shitara",
     "meaning_en": "from one’s perspective;",
     "similar": "から見れば、の立場から言えば、にしたら、にしてみれば、にとっては",
-    "sentence_jp": "彼にすれば冗談のつもりでも、佐藤さんはすごく傷ついている。",
-    "sentence_furigana": "かれにすればじょうだんのつもりでも、さとうさんはすごくきずついている。",
-    "sentence_en": "To him it was just a joke, but Sato-san is extremely hurt.",
-    "question": "彼【　　】冗談のつもりでも、佐藤さんはすごく傷ついている。",
+    "sentence_jp": "彼にすれば冗談のつもりでも、佐藤さんは深く傷ついている。",
+    "sentence_furigana": "かれにすればじょうだんのつもりでも、さとうさんはふかくきずついている。",
+    "sentence_en": "Even if it was meant as a joke from his point of view, Sato-san was deeply hurt.",
+    "question": "彼【　　】冗談のつもりでも、佐藤さんは深く傷ついている。",
     "choices": [
-      "てまで",
+      "をもとに",
       "にすれば",
-      "ところだった",
-      "にしたら"
+      "に沿って",
+      "に際して"
     ],
     "answer": 1,
     "correct_text": "にすれば",
     "notes": "",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>【　　】<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんはすごく<ruby>傷つ<rt>きずつ</rt></ruby>いている。",
-    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>にすれば<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんはすごく<ruby>傷つ<rt>きずつ</rt></ruby>いている。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>【　　】<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>深<rt>ふか</rt></ruby>く<ruby>傷<rt>きず</rt></ruby>ついている。",
+    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>にすれば<ruby>冗談<rt>じょうだん</rt></ruby>のつもりでも、<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>深<rt>ふか</rt></ruby>く<ruby>傷<rt>きず</rt></ruby>ついている。",
     "choices_ruby": [
-      "てまで",
+      "をもとに",
       "にすれば",
-      "ところだった",
-      "にしたら"
+      "に<ruby>沿<rt>そ</rt></ruby>って",
+      "に<ruby>際<rt>さい</rt></ruby>して"
     ],
     "correct_text_ruby": "にすれば"
   },
@@ -24068,26 +24066,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ni shitara",
     "meaning_en": "from one’s perspective;",
     "similar": "から見れば、の立場から言えば、にしたら、にしてみれば、にとっては",
-    "sentence_jp": "日本人にすれば簡単な漢字でも、外国人にはとても難しいことかもしれない。",
-    "sentence_furigana": "にほんじんにすればかんたんなかんじでも、がいこくじんにはとてもむずかしいことかもしれない。",
-    "sentence_en": "From a Japanese person's perspective, even a simple kanji character might be very difficult for foreigners.",
-    "question": "日本人【　　】簡単な漢字でも、外国人にはとても難しいことかもしれない。",
+    "sentence_jp": "日本人にすれば簡単な漢字でも、外国人にとっては非常に難しい場合がある。",
+    "sentence_furigana": "にほんじんにすればかんたんなかんじでも、がいこくじんにとってはひじょうにむずかしいばあいがある。",
+    "sentence_en": "Even for kanji that are simple from a Japanese person's perspective, they can be very difficult for foreigners.",
+    "question": "日本人【　　】簡単な漢字でも、外国人にとっては非常に難しい場合がある。",
     "choices": [
-      "幸いなことに",
-      "つつある",
+      "に先立って",
+      "を通じて",
       "にすれば",
-      "にしたら"
+      "に応えて"
     ],
     "answer": 2,
     "correct_text": "にすれば",
     "notes": "",
-    "question_ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>【　　】<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にはとても<ruby>難しい<rt>むずかしい</rt></ruby>ことかもしれない。",
-    "sentence_jp_ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>にすれば<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にはとても<ruby>難しい<rt>むずかしい</rt></ruby>ことかもしれない。",
+    "question_ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>【　　】<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にとっては<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>難<rt>むずか</rt></ruby>しい<ruby>場合<rt>ばあい</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>日本人<rt>にほんじん</rt></ruby>にすれば<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>でも、<ruby>外国人<rt>がいこくじん</rt></ruby>にとっては<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>難<rt>むずか</rt></ruby>しい<ruby>場合<rt>ばあい</rt></ruby>がある。",
     "choices_ruby": [
-      "<ruby>幸<rt>さいわ</rt></ruby>いなことに",
-      "つつある",
+      "に<ruby>先立<rt>さきだ</rt></ruby>って",
+      "を<ruby>通<rt>つう</rt></ruby>じて",
       "にすれば",
-      "にしたら"
+      "に<ruby>応<rt>こた</rt></ruby>えて"
     ],
     "correct_text_ruby": "にすれば"
   },
@@ -24098,25 +24096,25 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ni shitara",
     "meaning_en": "from one’s perspective;",
     "similar": "から見れば、の立場から言えば、にしたら、にしてみれば、にとっては",
-    "sentence_jp": "両親にすれば、一人の息子を海外に留学させるのは、かなり心配だったと思います。",
-    "sentence_furigana": "りょうしんにすれば、ひとりのむすこをかいがいにりゅうがくさせるのは、かなりしんぱいだったとおもいます。",
-    "sentence_en": "I think that for her parents, having their only son study abroad was very worrying.",
-    "question": "両親【　　】、一人の息子を海外に留学させるのは、かなり心配だったと思います。",
+    "sentence_jp": "両親にすれば、一人息子を海外に留学させるのは非常に心配だったに違いない。",
+    "sentence_furigana": "りょうしんにすれば、ひとりむすこをかいがいにりゅうがくさせるのはひじょうにしんぱいだったにちがいない。",
+    "sentence_en": "From the parents' point of view, sending their only son to study abroad must have been very worrying.",
+    "question": "両親【　　】、一人息子を海外に留学させるのは非常に心配だったに違いない。",
     "choices": [
-      "以上に",
-      "て当然だ",
-      "にしたら",
+      "に基づいて",
+      "に関して",
+      "にわたって",
       "にすれば"
     ],
     "answer": 3,
     "correct_text": "にすれば",
     "notes": "",
-    "question_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>【　　】、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは、かなり<ruby>心配<rt>しんぱい</rt></ruby>だったと<ruby>思い<rt>おもい</rt></ruby>ます。",
-    "sentence_jp_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>にすれば、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは、かなり<ruby>心配<rt>しんぱい</rt></ruby>だったと<ruby>思い<rt>おもい</rt></ruby>ます。",
+    "question_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>【　　】、<ruby>一人息子<rt>ひとりむすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>心配<rt>しんぱい</rt></ruby>だったに<ruby>違<rt>ちが</rt></ruby>いない。",
+    "sentence_jp_ruby": "<ruby>両親<rt>りょうしん</rt></ruby>にすれば、<ruby>一人息子<rt>ひとりむすこ</rt></ruby>を<ruby>海外<rt>かいがい</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>させるのは<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>心配<rt>しんぱい</rt></ruby>だったに<ruby>違<rt>ちが</rt></ruby>いない。",
     "choices_ruby": [
-      "<ruby>以上<rt>いじょう</rt></ruby>に",
-      "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
-      "にしたら",
+      "に<ruby>基<rt>もと</rt></ruby>づいて",
+      "に<ruby>関<rt>かん</rt></ruby>して",
+      "にわたって",
       "にすれば"
     ],
     "correct_text_ruby": "にすれば"
@@ -24136,7 +24134,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "にしたら",
       "いわゆる",
       "ところだった",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "にしたら",
@@ -24147,7 +24145,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "にしたら",
       "いわゆる",
       "ところだった",
-      "ないではいられない"
+      "に沿って"
     ],
     "correct_text_ruby": "にしたら"
   },
@@ -24255,7 +24253,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "よほど",
       "あげく",
-      "にすぎない",
+      "に沿って",
       "にしても"
     ],
     "answer": 3,
@@ -24266,7 +24264,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "よほど",
       "あげく",
-      "にすぎない",
+      "に沿って",
       "にしても"
     ],
     "correct_text_ruby": "にしても"
@@ -24638,26 +24636,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ni soui nai",
     "meaning_en": "without a doubt; certain;",
     "similar": "に違いない、に決まっている、はずだ、間違いなく、相違ない、確信している",
-    "sentence_jp": "冷蔵庫に入れていたアイスクリームを食べたのは、息子に相違ない。",
-    "sentence_furigana": "れいぞうこにいれていたアイスクリームをたべたのは、むすこにそういない。",
-    "sentence_en": "I'm certain it was my son who ate the ice cream I put in the freezer.",
-    "question": "冷蔵庫に入れていたアイスクリームを食べたのは、息子【　　】。",
+    "sentence_jp": "長年の研究実績と緻密なデータ分析から見て、この仮説は正しいに相違ない。",
+    "sentence_furigana": "ながねんのけんきゅうじっせきとちみつなデータぶんせきからみて、このかせつはただしいにそういない。",
+    "sentence_en": "Judging from years of research achievements and precise data analysis, this hypothesis must undoubtedly be correct.",
+    "question": "長年の研究実績と緻密なデータ分析から見て、この仮説は正しい【　　】。",
     "choices": [
       "に相違ない",
-      "どうやら",
-      "ないではいられない",
-      "てたまらない"
+      "にすぎない",
+      "にほかならない",
+      "に及ばない"
     ],
     "answer": 0,
     "correct_text": "に相違ない",
     "notes": "",
-    "question_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていたアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>のは、<ruby>息子<rt>むすこ</rt></ruby>【　　】。",
-    "sentence_jp_ruby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ていたアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>のは、<ruby>息子<rt>むすこ</rt></ruby>に<ruby>相違<rt>そうい</rt></ruby>ない。",
+    "question_ruby": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>研究実績<rt>けんきゅうじっせき</rt></ruby>と<ruby>緻密<rt>ちみつ</rt></ruby>なデータ<ruby>分析<rt>ぶんせき</rt></ruby>から<ruby>見<rt>み</rt></ruby>て、この<ruby>仮説<rt>かせつ</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しい【　　】。",
+    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>研究実績<rt>けんきゅうじっせき</rt></ruby>と<ruby>緻密<rt>ちみつ</rt></ruby>なデータ<ruby>分析<rt>ぶんせき</rt></ruby>から<ruby>見<rt>み</rt></ruby>て、この<ruby>仮説<rt>かせつ</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しいに<ruby>相違<rt>そうい</rt></ruby>ない。",
     "choices_ruby": [
       "に<ruby>相違<rt>そうい</rt></ruby>ない",
-      "どうやら",
-      "ないではいられない",
-      "てたまらない"
+      "にすぎない",
+      "にほかならない",
+      "に<ruby>及<rt>およ</rt></ruby>ばない"
     ],
     "correct_text_ruby": "に<ruby>相違<rt>そうい</rt></ruby>ない"
   },
@@ -25074,10 +25072,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>学生<rt>がくせい</rt></ruby>【　　】ので、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>余裕<rt>よゆう</rt></ruby>がない。",
     "sentence_jp_ruby": "<ruby>学生<rt>がくせい</rt></ruby>にすぎないので、<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>余裕<rt>よゆう</rt></ruby>がない。",
     "choices_ruby": [
-      "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
+      "て当然だ",
       "にすぎない",
       "あげく",
-      "に<ruby>応<rt>おう</rt></ruby>じて"
+      "に応じて"
     ],
     "correct_text_ruby": "にすぎない"
   },
@@ -25215,7 +25213,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "に伴って",
       "に過ぎない",
-      "にすぎない",
+      "に沿って",
       "ところだった"
     ],
     "answer": 0,
@@ -25224,9 +25222,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "インターネットの<ruby>普及<rt>ふきゅう</rt></ruby>【　　】、ネットで<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。",
     "sentence_jp_ruby": "インターネットの<ruby>普及<rt>ふきゅう</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て、ネットで<ruby>買い物<rt>かいもの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>た。",
     "choices_ruby": [
-      "に<ruby>伴<rt>ともな</rt></ruby>って",
-      "に<ruby>過<rt>す</rt></ruby>ぎない",
-      "にすぎない",
+      "に伴って",
+      "に過ぎない",
+      "に沿って",
       "ところだった"
     ],
     "correct_text_ruby": "に<ruby>伴<rt>ともな</rt></ruby>って"
@@ -25334,7 +25332,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "昇進【　　】、さまざまな責任が増えるだろう。",
     "choices": [
       "に伴い",
-      "てたまらない",
+      "に沿って",
       "ことだから",
       "かと思ったら"
     ],
@@ -25344,10 +25342,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>昇進<rt>しょうしん</rt></ruby>【　　】、さまざまな<ruby>責任<rt>せきにん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るだろう。",
     "sentence_jp_ruby": "<ruby>昇進<rt>しょうしん</rt></ruby>に<ruby>伴い<rt>ともない</rt></ruby>、さまざまな<ruby>責任<rt>せきにん</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るだろう。",
     "choices_ruby": [
-      "に<ruby>伴<rt>ともな</rt></ruby>い",
-      "てたまらない",
+      "に伴い",
+      "に沿って",
       "ことだから",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら"
+      "かと思ったら"
     ],
     "correct_text_ruby": "に<ruby>伴<rt>ともな</rt></ruby>い"
   },
@@ -25453,10 +25451,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Whether it rains or snows, that person continues to jog for 1 hour every day.",
     "question": "雨【　　】、雪につけ、あの人は毎日一時間のジョギングを続ける。",
     "choices": [
-      "あげく",
+      "につれ",
       "につけ",
-      "ことか",
-      "ねばならない"
+      "とともに",
+      "にあたり"
     ],
     "answer": 1,
     "correct_text": "につけ",
@@ -25464,10 +25462,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>【　　】、<ruby>雪<rt>ゆき</rt></ruby>につけ、あの<ruby>人<rt>ひと</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby>のジョギングを<ruby>続け<rt>つづけ</rt></ruby>る。",
     "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>につけ、<ruby>雪<rt>ゆき</rt></ruby>につけ、あの<ruby>人<rt>ひと</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>一時間<rt>いちじかん</rt></ruby>のジョギングを<ruby>続け<rt>つづけ</rt></ruby>る。",
     "choices_ruby": [
-      "あげく",
+      "につれ",
       "につけ",
-      "ことか",
-      "ねばならない"
+      "とともに",
+      "にあたり"
     ],
     "correct_text_ruby": "につけ"
   },
@@ -25546,7 +25544,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "につけて",
       "かねる",
       "及び",
-      "にほかならない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "につけて",
@@ -25556,8 +25554,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "につけて",
       "かねる",
-      "<ruby>及<rt>およ</rt></ruby>び",
-      "にほかならない"
+      "及び",
+      "に沿って"
     ],
     "correct_text_ruby": "につけて"
   },
@@ -25633,10 +25631,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Due to store interior remodeling, this shop will be closed for a while.",
     "question": "店内改装【　　】、しばらく休業いたします。",
     "choices": [
-      "てならない",
+      "に沿って",
       "逆に",
       "につき",
-      "ないではいられない"
+      "に基づいて"
     ],
     "answer": 2,
     "correct_text": "につき",
@@ -25644,10 +25642,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>店内<rt>てんない</rt></ruby><ruby>改装<rt>かいそう</rt></ruby>【　　】、しばらく<ruby>休業<rt>きゅうぎょう</rt></ruby>いたします。",
     "sentence_jp_ruby": "<ruby>店内<rt>てんない</rt></ruby><ruby>改装<rt>かいそう</rt></ruby>につき、しばらく<ruby>休業<rt>きゅうぎょう</rt></ruby>いたします。",
     "choices_ruby": [
-      "てならない",
-      "<ruby>逆<rt>ぎゃく</rt></ruby>に",
+      "に沿って",
+      "逆に",
       "につき",
-      "ないではいられない"
+      "に基づいて"
     ],
     "correct_text_ruby": "につき"
   },
@@ -26203,8 +26201,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Although my friend has better grades than me, they didn't give it their all on the exam and ended up failing.",
     "question": "友だちは高橋さんより成績が良かった【　　】、試験で実力が出せずに、不合格になった。",
     "choices": [
-      "にすぎない",
-      "あげく",
+      "せいか",
+      "うえで",
       "にも関わらず",
       "から見ると"
     ],
@@ -26214,8 +26212,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>友<rt>とも</rt></ruby>だちは<ruby>高橋<rt>たかはし</rt></ruby>さんより<ruby>成績<rt>せいせき</rt></ruby>が<ruby>良か<rt>よか</rt></ruby>った【　　】、<ruby>試験<rt>しけん</rt></ruby>で<ruby>実力<rt>じつりょく</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>ずに、<ruby>不合格<rt>ふごうかく</rt></ruby>になった。",
     "sentence_jp_ruby": "<ruby>友<rt>とも</rt></ruby>だちは<ruby>高橋<rt>たかはし</rt></ruby>さんより<ruby>成績<rt>せいせき</rt></ruby>が<ruby>良か<rt>よか</rt></ruby>ったにも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>試験<rt>しけん</rt></ruby>で<ruby>実力<rt>じつりょく</rt></ruby>が<ruby>出せ<rt>だせ</rt></ruby>ずに、<ruby>不合格<rt>ふごうかく</rt></ruby>になった。",
     "choices_ruby": [
-      "にすぎない",
-      "あげく",
+      "せいか",
+      "うえで",
       "にも<ruby>関<rt>かか</rt></ruby>わらず",
       "から<ruby>見<rt>み</rt></ruby>ると"
     ],
@@ -26241,8 +26239,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "にも関わらず",
     "notes": "",
-    "question_ruby": "ずっと<ruby>待っ<rt>まっ</rt></ruby>ていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>【　　】、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。",
-    "sentence_jp_ruby": "ずっと<ruby>待っ<rt>まっ</rt></ruby>ていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。",
+    "question_ruby": "ずっと<ruby>待<rt>ま</rt></ruby>っていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>【　　】、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。",
+    "sentence_jp_ruby": "ずっと<ruby>待<rt>ま</rt></ruby>っていたので<ruby>明日<rt>あした</rt></ruby>の<ruby>天候<rt>てんこう</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいです。",
     "choices_ruby": [
       "つつある",
       "ないことには",
@@ -27105,8 +27103,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "の上では",
       "からには",
-      "あげく",
-      "ねばならない"
+      "において",
+      "によって"
     ],
     "answer": 0,
     "correct_text": "の上では",
@@ -27116,8 +27114,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "の<ruby>上<rt>うえ</rt></ruby>では",
       "からには",
-      "あげく",
-      "ねばならない"
+      "において",
+      "によって"
     ],
     "correct_text_ruby": "の<ruby>上<rt>うえ</rt></ruby>では"
   },
@@ -27255,7 +27253,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "つつある",
       "の下で",
-      "ないではいられない",
+      "に沿って",
       "のみならず"
     ],
     "answer": 3,
@@ -27265,8 +27263,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんのアニメは<ruby>国内<rt>こくない</rt></ruby>のみならず、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>がある。",
     "choices_ruby": [
       "つつある",
-      "の<ruby>下<rt>した</rt></ruby>で",
-      "ないではいられない",
+      "の下で",
+      "に沿って",
       "のみならず"
     ],
     "correct_text_ruby": "のみならず"
@@ -27373,8 +27371,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "In that recession, not only small and medium-sized companies but also large companies are cutting costs.",
     "question": "その不景気では中小企業【　　】、大企業でも経費の削減をしている。",
     "choices": [
-      "ないではいられない",
-      "てならない",
+      "に沿って",
+      "に基づいて",
       "ことか",
       "のみならず"
     ],
@@ -27384,8 +27382,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "その<ruby>不景気<rt>ふけいき</rt></ruby>では<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>【　　】、<ruby>大企業<rt>だいきぎょう</rt></ruby>でも<ruby>経費<rt>けいひ</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>をしている。",
     "sentence_jp_ruby": "その<ruby>不景気<rt>ふけいき</rt></ruby>では<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>のみならず、<ruby>大企業<rt>だいきぎょう</rt></ruby>でも<ruby>経費<rt>けいひ</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>をしている。",
     "choices_ruby": [
-      "ないではいられない",
-      "てならない",
+      "に沿って",
+      "に基づいて",
       "ことか",
       "のみならず"
     ],
@@ -27404,7 +27402,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "目の前で起きた事故を、高橋さん【　　】、他の人もカメラで撮影していた。",
     "choices": [
       "のみならず",
-      "にすぎない",
+      "に沿って",
       "ということは",
       "以外"
     ],
@@ -27415,9 +27413,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>目の前<rt>めのまえ</rt></ruby>で<ruby>起き<rt>おき</rt></ruby>た<ruby>事故<rt>じこ</rt></ruby>を、<ruby>高橋<rt>たかはし</rt></ruby>さんのみならず、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>もカメラで<ruby>撮影<rt>さつえい</rt></ruby>していた。",
     "choices_ruby": [
       "のみならず",
-      "にすぎない",
+      "に沿って",
       "ということは",
-      "<ruby>以外<rt>いがい</rt></ruby>"
+      "以外"
     ],
     "correct_text_ruby": "のみならず"
   },
@@ -28093,7 +28091,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "As a result of my hospitalization, I am thinking to work out as much as possible every day from now on.",
     "question": "入院【　　】、今後はできるだけ毎日運動しようと思った。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "ところだった",
       "を契機に",
       "ままに"
@@ -28104,9 +28102,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>入院<rt>にゅういん</rt></ruby>【　　】、<ruby>今後<rt>こんご</rt></ruby>はできるだけ<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思った<rt>おもった</rt></ruby>。",
     "sentence_jp_ruby": "<ruby>入院<rt>にゅういん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に、<ruby>今後<rt>こんご</rt></ruby>はできるだけ<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しようと<ruby>思った<rt>おもった</rt></ruby>。",
     "choices_ruby": [
-      "にすぎない",
+      "に沿って",
       "ところだった",
-      "を<ruby>契機<rt>けいき</rt></ruby>に",
+      "を契機に",
       "ままに"
     ],
     "correct_text_ruby": "を<ruby>契機<rt>けいき</rt></ruby>に"
@@ -28336,7 +28334,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "をめぐって",
       "末に",
       "かねる",
-      "てならない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "をめぐって",
@@ -28345,9 +28343,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>をめぐって、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。",
     "choices_ruby": [
       "をめぐって",
-      "<ruby>末<rt>すえ</rt></ruby>に",
+      "末に",
       "かねる",
-      "てならない"
+      "に沿って"
     ],
     "correct_text_ruby": "をめぐって"
   },
@@ -28423,7 +28421,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "That drama is about three men fighting over one woman.",
     "question": "あのドラマは、一人の女性【　　】、三人の男性が戦う話です。",
     "choices": [
-      "てたまらない",
+      "に沿って",
       "でしかない",
       "ところだった",
       "をめぐって"
@@ -28434,7 +28432,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "あのドラマは、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>【　　】、<ruby>三人<rt>さんにん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>戦う<rt>たたかう</rt></ruby><ruby>話<rt>はなし</rt></ruby>です。",
     "sentence_jp_ruby": "あのドラマは、<ruby>一人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>をめぐって、<ruby>三人<rt>さんにん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>戦う<rt>たたかう</rt></ruby><ruby>話<rt>はなし</rt></ruby>です。",
     "choices_ruby": [
-      "てたまらない",
+      "に沿って",
       "でしかない",
       "ところだった",
       "をめぐって"
@@ -28783,7 +28781,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "This book is very good except for a few mistakes.",
     "question": "その本は2、3の間違い【　　】、とてもよい本です。",
     "choices": [
-      "てばかりはいられない",
+      "に沿って",
       "を除いて",
       "ざるを得ない",
       "あげく"
@@ -28794,9 +28792,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "その<ruby>本<rt>ほん</rt></ruby>は2、3の<ruby>間違い<rt>まちがい</rt></ruby>【　　】、とてもよい<ruby>本<rt>ほん</rt></ruby>です。",
     "sentence_jp_ruby": "その<ruby>本<rt>ほん</rt></ruby>は2、3の<ruby>間違い<rt>まちがい</rt></ruby>を<ruby>除い<rt>のぞい</rt></ruby>て、とてもよい<ruby>本<rt>ほん</rt></ruby>です。",
     "choices_ruby": [
-      "てばかりはいられない",
-      "を<ruby>除<rt>のぞ</rt></ruby>いて",
-      "ざるを<ruby>得<rt>え</rt></ruby>ない",
+      "に沿って",
+      "を除いて",
+      "ざるを得ない",
       "あげく"
     ],
     "correct_text_ruby": "を<ruby>除<rt>のぞ</rt></ruby>いて"
@@ -29024,7 +29022,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "高い安いの値段【　　】、高橋さんはいいものを買いたいです。",
     "choices": [
       "を問わず",
-      "てばかりはいられない",
+      "に沿って",
       "一応",
       "ざるを得ない"
     ],
@@ -29034,10 +29032,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>高い<rt>たかい</rt></ruby><ruby>安い<rt>やすい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんはいいものを<ruby>買い<rt>かい</rt></ruby>たいです。",
     "sentence_jp_ruby": "<ruby>高い<rt>たかい</rt></ruby><ruby>安い<rt>やすい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず、<ruby>高橋<rt>たかはし</rt></ruby>さんはいいものを<ruby>買い<rt>かい</rt></ruby>たいです。",
     "choices_ruby": [
-      "を<ruby>問<rt>と</rt></ruby>わず",
-      "てばかりはいられない",
-      "<ruby>一応<rt>いちおう</rt></ruby>",
-      "ざるを<ruby>得<rt>え</rt></ruby>ない"
+      "を問わず",
+      "に沿って",
+      "一応",
+      "ざるを得ない"
     ],
     "correct_text_ruby": "を<ruby>問<rt>と</rt></ruby>わず"
   },
@@ -29811,8 +29809,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "恐らく",
     "notes": "",
-    "question_ruby": "あの<ruby>事<rt>こと</rt></ruby>は【　　】<ruby>君<rt>くん</rt></ruby>のいうとおりでしょう。",
-    "sentence_jp_ruby": "あの<ruby>事<rt>こと</rt></ruby>は<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>君<rt>くん</rt></ruby>のいうとおりでしょう。",
+    "question_ruby": "あの<ruby>事<rt>こと</rt></ruby>は【　　】<ruby>君<rt>きみ</rt></ruby>のいうとおりでしょう。",
+    "sentence_jp_ruby": "あの<ruby>事<rt>こと</rt></ruby>は<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>君<rt>きみ</rt></ruby>のいうとおりでしょう。",
     "choices_ruby": [
       "ては",
       "<ruby>恐<rt>おそ</rt></ruby>らく",
@@ -30645,8 +30643,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "つつ",
       "幸い",
-      "てならない",
-      "ないではいられない"
+      "それにしても",
+      "それどころか"
     ],
     "answer": 1,
     "correct_text": "幸い",
@@ -30655,9 +30653,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>締切<rt>しめきり</rt></ruby>に<ruby>間に合っ<rt>まにあっ</rt></ruby>た。",
     "choices_ruby": [
       "つつ",
-      "<ruby>幸<rt>さいわ</rt></ruby>い",
-      "てならない",
-      "ないではいられない"
+      "幸い",
+      "それにしても",
+      "それどころか"
     ],
     "correct_text_ruby": "<ruby>幸<rt>さいわ</rt></ruby>い"
   },
@@ -30703,7 +30701,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Fortunately, my son quickly adjusted to life in his new school.",
     "question": "【　　】、息子は新しい学校での生活にすぐに慣れた。",
     "choices": [
-      "にすぎない",
+      "それにしても",
       "からと言って",
       "ところだった",
       "幸いなことに"
@@ -30714,10 +30712,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>にすぐに<ruby>慣れ<rt>なれ</rt></ruby>た。",
     "sentence_jp_ruby": "<ruby>幸い<rt>さいわい</rt></ruby>なことに、<ruby>息子<rt>むすこ</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>にすぐに<ruby>慣れ<rt>なれ</rt></ruby>た。",
     "choices_ruby": [
-      "にすぎない",
-      "からと<ruby>言<rt>い</rt></ruby>って",
+      "それにしても",
+      "からと言って",
       "ところだった",
-      "<ruby>幸<rt>さいわ</rt></ruby>いなことに"
+      "幸いなことに"
     ],
     "correct_text_ruby": "<ruby>幸<rt>さいわ</rt></ruby>いなことに"
   },
@@ -30914,9 +30912,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "今日はお天気がよい【　　】、とても眠たいです。",
     "choices": [
       "せいか",
-      "ないではいられない",
+      "に沿って",
       "よほど",
-      "てたまらない"
+      "に基づいて"
     ],
     "answer": 0,
     "correct_text": "せいか",
@@ -30925,9 +30923,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>はお<ruby>天気<rt>てんき</rt></ruby>がよいせいか、とても<ruby>眠たい<rt>ねぶたい</rt></ruby>です。",
     "choices_ruby": [
       "せいか",
-      "ないではいられない",
+      "に沿って",
       "よほど",
-      "てたまらない"
+      "に基づいて"
     ],
     "correct_text_ruby": "せいか"
   },
@@ -30976,7 +30974,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ことだ",
       "つつ",
       "せいか",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 2,
     "correct_text": "せいか",
@@ -30987,7 +30985,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ことだ",
       "つつ",
       "せいか",
-      "ないではいられない"
+      "に沿って"
     ],
     "correct_text_ruby": "せいか"
   },
@@ -31063,7 +31061,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I don't have an appetite now, probably because of the hot weather.",
     "question": "暑い【　　】、食欲がないです。",
     "choices": [
-      "てばかりはいられない",
+      "に沿って",
       "せいか",
       "なくはない",
       "得ない"
@@ -31074,10 +31072,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>暑い<rt>あつい</rt></ruby>【　　】、<ruby>食欲<rt>しょくよく</rt></ruby>がないです。",
     "sentence_jp_ruby": "<ruby>暑い<rt>あつい</rt></ruby>せいか、<ruby>食欲<rt>しょくよく</rt></ruby>がないです。",
     "choices_ruby": [
-      "てばかりはいられない",
+      "に沿って",
       "せいか",
       "なくはない",
-      "<ruby>得<rt>え</rt></ruby>ない"
+      "得ない"
     ],
     "correct_text_ruby": "せいか"
   },
@@ -31183,9 +31181,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Even though I went through the effort of writing my report, I ended up not having to turn it in.",
     "question": "【　　】レポートを書いたのに提出しなくてもよくなった。",
     "choices": [
-      "てばかりはいられない",
+      "それにしても",
       "せっかく",
-      "ないではいられない",
+      "それどころか",
       "かねない"
     ],
     "answer": 1,
@@ -31194,9 +31192,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】レポートを<ruby>書い<rt>かい</rt></ruby>たのに<ruby>提出<rt>ていしゅつ</rt></ruby>しなくてもよくなった。",
     "sentence_jp_ruby": "せっかくレポートを<ruby>書い<rt>かい</rt></ruby>たのに<ruby>提出<rt>ていしゅつ</rt></ruby>しなくてもよくなった。",
     "choices_ruby": [
-      "てばかりはいられない",
+      "それにしても",
       "せっかく",
-      "ないではいられない",
+      "それどころか",
       "かねない"
     ],
     "correct_text_ruby": "せっかく"
@@ -31243,7 +31241,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I am sorry, but I must decline your kind offer.",
     "question": "【　　】のお志ですがお断り致します。",
     "choices": [
-      "ないではいられない",
+      "それにしても",
       "ていては",
       "に関わらず",
       "せっかく"
@@ -31254,9 +31252,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】のお<ruby>志<rt>こころざし</rt></ruby>ですがお<ruby>断り<rt>ことわり</rt></ruby><ruby>致し<rt>いたし</rt></ruby>ます。",
     "sentence_jp_ruby": "せっかくのお<ruby>志<rt>こころざし</rt></ruby>ですがお<ruby>断り<rt>ことわり</rt></ruby><ruby>致し<rt>いたし</rt></ruby>ます。",
     "choices_ruby": [
-      "ないではいられない",
+      "それにしても",
       "ていては",
-      "に<ruby>関<rt>かか</rt></ruby>わらず",
+      "に関わらず",
       "せっかく"
     ],
     "correct_text_ruby": "せっかく"
@@ -31394,20 +31392,20 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "【　　】あと十分待ってくれませんか。",
     "choices": [
       "に伴って",
-      "ないではいられない",
+      "それにしても",
       "せめて",
       "に限る"
     ],
     "answer": 2,
     "correct_text": "せめて",
     "notes": "",
-    "question_ruby": "【　　】あと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。",
-    "sentence_jp_ruby": "せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。",
+    "question_ruby": "【　　】あと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってくれませんか。",
+    "sentence_jp_ruby": "せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってくれませんか。",
     "choices_ruby": [
-      "に<ruby>伴<rt>ともな</rt></ruby>って",
-      "ないではいられない",
+      "に伴って",
+      "それにしても",
       "せめて",
-      "に<ruby>限<rt>かぎ</rt></ruby>る"
+      "に限る"
     ],
     "correct_text_ruby": "せめて"
   },
@@ -31516,7 +31514,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "かねない",
       "だって",
       "せめて",
-      "てたまらない"
+      "それにしても"
     ],
     "answer": 2,
     "correct_text": "せめて",
@@ -31527,7 +31525,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "かねない",
       "だって",
       "せめて",
-      "てたまらない"
+      "それにしても"
     ],
     "correct_text_ruby": "せめて"
   },
@@ -31574,7 +31572,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "【　　】皆さんのために努力をしたい。",
     "choices": [
       "せめて",
-      "にすぎない",
+      "それにしても",
       "ものがある",
       "あげく"
     ],
@@ -31585,7 +31583,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "せめて<ruby>皆さん<rt>みなさん</rt></ruby>のために<ruby>努力<rt>どりょく</rt></ruby>をしたい。",
     "choices_ruby": [
       "せめて",
-      "にすぎない",
+      "それにしても",
       "ものがある",
       "あげく"
     ],
@@ -31634,7 +31632,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "部屋の準備ができ【　　】、会議を始めます。",
     "choices": [
       "次第",
-      "にすぎない",
+      "に沿って",
       "おまけに",
       "ざるを得ない"
     ],
@@ -31644,10 +31642,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>ができ【　　】、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます。",
     "sentence_jp_ruby": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>ができ<ruby>次第<rt>しだい</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます。",
     "choices_ruby": [
-      "<ruby>次第<rt>しだい</rt></ruby>",
-      "にすぎない",
+      "次第",
+      "に沿って",
       "おまけに",
-      "ざるを<ruby>得<rt>え</rt></ruby>ない"
+      "ざるを得ない"
     ],
     "correct_text_ruby": "<ruby>次第<rt>しだい</rt></ruby>"
   },
@@ -31754,7 +31752,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "来週のスケジュールが決まり【　　】、連絡してください。",
     "choices": [
       "次第",
-      "てたまらない",
+      "に沿って",
       "に限って",
       "つつある"
     ],
@@ -31764,9 +31762,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールが<ruby>決ま<rt>きま</rt></ruby>り【　　】、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
     "sentence_jp_ruby": "<ruby>来週<rt>らいしゅう</rt></ruby>のスケジュールが<ruby>決ま<rt>きま</rt></ruby>り<ruby>次第<rt>しだい</rt></ruby>、<ruby>連絡<rt>れんらく</rt></ruby>してください。",
     "choices_ruby": [
-      "<ruby>次第<rt>しだい</rt></ruby>",
-      "てたまらない",
-      "に<ruby>限<rt>かぎ</rt></ruby>って",
+      "次第",
+      "に沿って",
+      "に限って",
       "つつある"
     ],
     "correct_text_ruby": "<ruby>次第<rt>しだい</rt></ruby>"
@@ -31868,10 +31866,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "shidai de",
     "meaning_en": "depending on; so~",
     "similar": "によって、次第で、により、に左右されて、如何で、結果次第で",
-    "sentence_jp": "我々が成功できるかどうかは君次第だ。",
-    "sentence_furigana": "われわれがせいこうできるかどうかはきみじだいだ。",
-    "sentence_en": "It is up to you whether we can succeed or not.",
-    "question": "我々が成功できるかどうかは君【　　】。",
+    "sentence_jp": "企画が成功するかどうかは、リーダーである君次第だ。",
+    "sentence_furigana": "きかくがせいこうするかどうかは、リーダーであるきみしだいだ。",
+    "sentence_en": "Whether the project succeeds or not is up to you as the leader.",
+    "question": "企画が成功するかどうかは、リーダーである君【　　】。",
     "choices": [
       "かと思ったら",
       "ものだ",
@@ -31881,8 +31879,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "次第だ",
     "notes": "",
-    "question_ruby": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君<rt>くん</rt></ruby>【　　】。",
-    "sentence_jp_ruby": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君次<rt>きみじ</rt></ruby><ruby>第<rt>だい</rt></ruby>だ。",
+    "question_ruby": "<ruby>企画<rt>きかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、リーダーである<ruby>君<rt>きみ</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "<ruby>企画<rt>きかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、リーダーである<ruby>君<rt>きみ</rt></ruby><ruby>次第<rt>しだい</rt></ruby>だ。",
     "choices_ruby": [
       "かと<ruby>思<rt>おも</rt></ruby>ったら",
       "ものだ",
@@ -32443,23 +32441,23 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Sato-san is beautiful and smart. Furthermore, Sato-san has a good personality and so everyone falls in love with her.",
     "question": "佐藤さんは美人で頭がいい。【　　】性格もいいですから皆さんは彼女のことが好きになる。",
     "choices": [
-      "の下で",
-      "しかも",
-      "にすぎない",
-      "にほかならない"
+      "その上",
+      "それどころか",
+      "そうすると",
+      "それにしても"
     ],
-    "answer": 1,
-    "correct_text": "しかも",
+    "answer": 0,
+    "correct_text": "その上",
     "notes": "",
     "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>がいい。【　　】<ruby>性格<rt>せいかく</rt></ruby>もいいですから<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>のことが<ruby>好き<rt>すき</rt></ruby>になる。",
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>美人<rt>びじん</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>がいい。しかも<ruby>性格<rt>せいかく</rt></ruby>もいいですから<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>彼女<rt>かのじょ</rt></ruby>のことが<ruby>好き<rt>すき</rt></ruby>になる。",
     "choices_ruby": [
-      "の<ruby>下<rt>した</rt></ruby>で",
-      "しかも",
-      "にすぎない",
-      "にほかならない"
+      "その<ruby>上<rt>うえ</rt></ruby>",
+      "それどころか",
+      "そうすると",
+      "それにしても"
     ],
-    "correct_text_ruby": "しかも"
+    "correct_text_ruby": "その<ruby>上<rt>うえ</rt></ruby>"
   },
   {
     "id": 1083,
@@ -32678,10 +32676,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "sono ue",
     "meaning_en": "besides; in addition; furthermore~",
     "similar": "さらに、加えて、その上、しかも、おまけに、そればかりか",
-    "sentence_jp": "佐藤さんは英語を出来るし、その上日本語も上手だ。",
-    "sentence_furigana": "さとうさんはえいごをできるし、そのじょうじつほんごもじょうずだ。",
-    "sentence_en": "Sato-san speaks English and in addition is good at Japanese.",
-    "question": "佐藤さんは英語を出来るし、【　　】日本語も上手だ。",
+    "sentence_jp": "佐藤さんは英語が堪能である上、中国語も流暢に話すことができる。",
+    "sentence_furigana": "さとうさんはえいごがたんのうであるうえ、ちゅうごくごもりゅうちょうにはなすことができる。",
+    "sentence_en": "In addition to being proficient in English, Sato-san can also speak Chinese fluently.",
+    "question": "佐藤さんは英語が堪能である【　　】、中国語も流暢に話すことができる。",
     "choices": [
       "その上",
       "ていては",
@@ -32691,8 +32689,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "その上",
     "notes": "",
-    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>を<ruby>出来る<rt>できる</rt></ruby>し、【　　】<ruby>日本語<rt>にほんご</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>だ。",
-    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>を<ruby>出来る<rt>できる</rt></ruby>し、その<ruby>上日<rt>じょうじつ</rt></ruby><ruby>本語<rt>ほんご</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>だ。",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>堪能<rt>たんのう</rt></ruby>である【　　】、<ruby>中国語<rt>ちゅうごくご</rt></ruby>も<ruby>流暢<rt>りゅうちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すことができる。",
+    "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>堪能<rt>たんのう</rt></ruby>である<ruby>上<rt>うえ</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>も<ruby>流暢<rt>りゅうちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すことができる。",
     "choices_ruby": [
       "その<ruby>上<rt>うえ</rt></ruby>",
       "ていては",
@@ -32716,7 +32714,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "中を",
       "その上",
       "ところに",
-      "にすぎない"
+      "それにしても"
     ],
     "answer": 1,
     "correct_text": "その上",
@@ -32724,10 +32722,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】、あなたは<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>も<ruby>受ける<rt>うける</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があるよ。",
     "sentence_jp_ruby": "その<ruby>上<rt>うえ</rt></ruby>、あなたは<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>も<ruby>受ける<rt>うける</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>があるよ。",
     "choices_ruby": [
-      "<ruby>中<rt>なか</rt></ruby>を",
-      "その<ruby>上<rt>うえ</rt></ruby>",
+      "中を",
+      "その上",
       "ところに",
-      "にすぎない"
+      "それにしても"
     ],
     "correct_text_ruby": "その<ruby>上<rt>うえ</rt></ruby>"
   },
@@ -32781,8 +32779,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "その上",
     "notes": "",
-    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、【　　】チケットのお<ruby>金<rt>きん</rt></ruby>もくれた。",
-    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、その<ruby>上<rt>うえ</rt></ruby>チケットのお<ruby>金<rt>きん</rt></ruby>もくれた。",
+    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、【　　】チケットのお<ruby>金<rt>かね</rt></ruby>もくれた。",
+    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>優しい<rt>やさしい</rt></ruby><ruby>人<rt>ひと</rt></ruby>だ。ピクニックの<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>したし、その<ruby>上<rt>うえ</rt></ruby>チケットのお<ruby>金<rt>かね</rt></ruby>もくれた。",
     "choices_ruby": [
       "からと<ruby>言<rt>い</rt></ruby>って",
       "といった",
@@ -32923,21 +32921,21 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I’m saving money every day, yet I have no money in my savings.",
     "question": "毎日節約している。【　　】、お金がちっともたまらない。",
     "choices": [
-      "にすぎない",
-      "にほかならない",
+      "それどころか",
+      "そうすると",
       "それなのに",
-      "末に"
+      "要するに"
     ],
     "answer": 2,
     "correct_text": "それなのに",
     "notes": "",
-    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。【　　】、お<ruby>金<rt>きん</rt></ruby>がちっともたまらない。",
-    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。それなのに、お<ruby>金<rt>きん</rt></ruby>がちっともたまらない。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。【　　】、お<ruby>金<rt>かね</rt></ruby>がちっともたまらない。",
+    "sentence_jp_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>節約<rt>せつやく</rt></ruby>している。それなのに、お<ruby>金<rt>かね</rt></ruby>がちっともたまらない。",
     "choices_ruby": [
-      "にすぎない",
-      "にほかならない",
+      "それどころか",
+      "そうすると",
       "それなのに",
-      "<ruby>末<rt>すえ</rt></ruby>に"
+      "<ruby>要<rt>よう</rt></ruby>するに"
     ],
     "correct_text_ruby": "それなのに"
   },
@@ -33044,7 +33042,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "「朝から頭が痛くて熱があるんです。」「【　　】、無理をせず早く病院へ行きなさい。」",
     "choices": [
       "それなら",
-      "にすぎない",
+      "に沿って",
       "かと思ったら",
       "次第で"
     ],
@@ -33055,9 +33053,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "「<ruby>朝<rt>あさ</rt></ruby>から<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>て<ruby>熱<rt>ねつ</rt></ruby>があるんです。」「それなら、<ruby>無理<rt>むり</rt></ruby>をせず<ruby>早く<rt>はやく</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行き<rt>いき</rt></ruby>なさい。」",
     "choices_ruby": [
       "それなら",
-      "にすぎない",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
-      "<ruby>次第<rt>しだい</rt></ruby>で"
+      "に沿って",
+      "かと思ったら",
+      "次第で"
     ],
     "correct_text_ruby": "それなら"
   },
@@ -33111,8 +33109,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "それなら",
     "notes": "",
-    "question_ruby": "「<ruby>何<rt>なに</rt></ruby>か<ruby>冷たい<rt>つめたい</rt></ruby>デザートを<ruby>食べた<rt>たべた</rt></ruby>いな。」「【　　】、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にケーキがあるよ。」",
-    "sentence_jp_ruby": "「<ruby>何<rt>なに</rt></ruby>か<ruby>冷たい<rt>つめたい</rt></ruby>デザートを<ruby>食べた<rt>たべた</rt></ruby>いな。」「それなら、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にケーキがあるよ。」",
+    "question_ruby": "「<ruby>何<rt>なに</rt></ruby>か<ruby>冷たい<rt>つめたい</rt></ruby>デザートを<ruby>食<rt>た</rt></ruby>べたいな。」「【　　】、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にケーキがあるよ。」",
+    "sentence_jp_ruby": "「<ruby>何<rt>なに</rt></ruby>か<ruby>冷たい<rt>つめたい</rt></ruby>デザートを<ruby>食<rt>た</rt></ruby>べたいな。」「それなら、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にケーキがあるよ。」",
     "choices_ruby": [
       "ものがある",
       "たまえ",
@@ -33283,9 +33281,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "At any rate, Takahashi-san think you are exceptional.",
     "question": "【　　】高橋さんはあなたが優秀だと思います。",
     "choices": [
-      "てたまらない",
+      "それどころか",
       "ないことには",
-      "にほかならない",
+      "そうすると",
       "それにしても"
     ],
     "answer": 3,
@@ -33294,9 +33292,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたが<ruby>優秀<rt>ゆうしゅう</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
     "sentence_jp_ruby": "それにしても<ruby>高橋<rt>たかはし</rt></ruby>さんはあなたが<ruby>優秀<rt>ゆうしゅう</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます。",
     "choices_ruby": [
-      "てたまらない",
+      "それどころか",
       "ないことには",
-      "にほかならない",
+      "そうすると",
       "それにしても"
     ],
     "correct_text_ruby": "それにしても"
@@ -33373,10 +33371,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "They announced the train would be slightly delayed, but even so, isn't it taking way too long?",
     "question": "電車が少し遅れるとアナウンスがあったが、【　　】遅すぎないか？",
     "choices": [
-      "にすぎない",
-      "てまで",
+      "それどころか",
+      "そうすると",
       "それにしても",
-      "にほかならない"
+      "それなら"
     ],
     "answer": 2,
     "correct_text": "それにしても",
@@ -33384,10 +33382,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>遅れる<rt>おくれる</rt></ruby>とアナウンスがあったが、【　　】<ruby>遅すぎ<rt>おそすぎ</rt></ruby>ないか？",
     "sentence_jp_ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>遅れる<rt>おくれる</rt></ruby>とアナウンスがあったが、それにしても<ruby>遅すぎ<rt>おそすぎ</rt></ruby>ないか？",
     "choices_ruby": [
-      "にすぎない",
-      "てまで",
+      "それどころか",
+      "そうすると",
       "それにしても",
-      "にほかならない"
+      "それなら"
     ],
     "correct_text_ruby": "それにしても"
   },
@@ -33403,9 +33401,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "The Japanese summer is always muggy. Even so, this year is especially muggy.",
     "question": "日本の夏はいつも蒸し暑いですよ。【　　】今年はずいぶん蒸し暑いですね。",
     "choices": [
-      "つつ",
-      "にすぎない",
-      "にほかならない",
+      "そうすると",
+      "それなら",
+      "それどころか",
       "それにしても"
     ],
     "answer": 3,
@@ -33414,9 +33412,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はいつも<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですよ。【　　】<ruby>今年<rt>ことし</rt></ruby>はずいぶん<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですね。",
     "sentence_jp_ruby": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はいつも<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですよ。それにしても<ruby>今年<rt>ことし</rt></ruby>はずいぶん<ruby>蒸し暑い<rt>むしあつい</rt></ruby>ですね。",
     "choices_ruby": [
-      "つつ",
-      "にすぎない",
-      "にほかならない",
+      "そうすると",
+      "それなら",
+      "それどころか",
       "それにしても"
     ],
     "correct_text_ruby": "それにしても"
@@ -33428,26 +33426,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "sore ni shitemo",
     "meaning_en": "nevertheless; at any rate; even so;",
     "similar": "それにしても、そうはいっても、とはいえ、それにしても～だ、いくら何でも",
-    "sentence_jp": "今日は早く帰ってねと伝えたけど、それにしても鈴木さんがいつも同じ時間に帰った。",
-    "sentence_furigana": "きょうははやくかえってねとつたえたけど、それにしてもすずきさんがいつもおなじじかんにかえった。",
-    "sentence_en": "I asked him to return home early today, but nevertheless Suzuki-san ended up coming home at the same time as usual.",
-    "question": "今日は早く帰ってねと伝えたけど、【　　】鈴木さんがいつも同じ時間に帰った。",
+    "sentence_jp": "今年の夏は暑いと聞いていたが、それにしても連日40度近くまで上がるのは異常だ。",
+    "sentence_furigana": "ことしのなつはあついときいていたが、それにしてもれんじつ40どちかくまであがるのはいじょうだ。",
+    "sentence_en": "I heard that this summer would be hot, but even so, it is abnormal for the temperature to rise close to 40 degrees day after day.",
+    "question": "今年の夏は暑いと聞いていたが、【　　】連日40度近くまで上がるのは異常だ。",
     "choices": [
       "それにしても",
-      "につき",
-      "あげく",
-      "ないではいられない"
+      "それどころか",
+      "そうすると",
+      "それなら"
     ],
     "answer": 0,
     "correct_text": "それにしても",
     "notes": "",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てねと<ruby>伝え<rt>つたえ</rt></ruby>たけど、【　　】<ruby>鈴木<rt>すずき</rt></ruby>さんがいつも<ruby>同じ<rt>おなじ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>た。",
-    "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てねと<ruby>伝え<rt>つたえ</rt></ruby>たけど、それにしても<ruby>鈴木<rt>すずき</rt></ruby>さんがいつも<ruby>同じ<rt>おなじ</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>た。",
+    "question_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いと<ruby>聞<rt>き</rt></ruby>いていたが、【　　】<ruby>連日<rt>れんじつ</rt></ruby>40<ruby>度<rt>ど</rt></ruby><ruby>近<rt>ちか</rt></ruby>くまで<ruby>上<rt>あ</rt></ruby>がるのは<ruby>異常<rt>いじょう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いと<ruby>聞<rt>き</rt></ruby>いていたが、それにしても<ruby>連日<rt>れんじつ</rt></ruby>40<ruby>度<rt>ど</rt></ruby><ruby>近<rt>ちか</rt></ruby>くまで<ruby>上<rt>あ</rt></ruby>がるのは<ruby>異常<rt>いじょう</rt></ruby>だ。",
     "choices_ruby": [
       "それにしても",
-      "につき",
-      "あげく",
-      "ないではいられない"
+      "それどころか",
+      "そうすると",
+      "それなら"
     ],
     "correct_text_ruby": "それにしても"
   },
@@ -33615,7 +33613,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "そういえば",
       "ところに",
-      "てばかりはいられない",
+      "に沿って",
       "ものではない"
     ],
     "answer": 0,
@@ -33626,7 +33624,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "そういえば",
       "ところに",
-      "てばかりはいられない",
+      "に沿って",
       "ものではない"
     ],
     "correct_text_ruby": "そういえば"
@@ -33706,7 +33704,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ものだ",
       "だけに",
       "そうすると",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 2,
     "correct_text": "そうすると",
@@ -33717,7 +33715,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "ものだ",
       "だけに",
       "そうすると",
-      "ないではいられない"
+      "に沿って"
     ],
     "correct_text_ruby": "そうすると"
   },
@@ -33728,10 +33726,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "sou suru to",
     "meaning_en": "having done that; if that is done; if it is",
     "similar": "そうすると、そうすれば、それによって、その結果、そうしたならば、すると",
-    "sentence_jp": "高橋さんは大学を早く卒業したいです。そうすると、仕事をやって親に返報できます。",
-    "sentence_furigana": "たかはしさんはだいがくをはやくそつぎょうしたいです。そうすると、しごとをやっておやにへんぽうできます。",
-    "sentence_en": "Takahashi-san want to hurry and graduate university. Once that is done Takahashi-san can start working and pay back my parents.",
-    "question": "高橋さんは大学を早く卒業したいです。【　　】、仕事をやって親に返報できます。",
+    "sentence_jp": "画面右上にある設定アイコンをクリックしてください。そうすると、詳細メニューが表示されます。",
+    "sentence_furigana": "がめんみぎうえにあるせっていアイコンをクリックしてください。そうすると、しょうさいメニューがひょうじされます。",
+    "sentence_en": "Please click the settings icon in the upper right corner of the screen. Doing so will display the detailed menu.",
+    "question": "画面右上にある設定アイコンをクリックしてください。【　　】、詳細メニューが表示されます。",
     "choices": [
       "ばかりに",
       "ところに",
@@ -33741,8 +33739,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "そうすると",
     "notes": "",
-    "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>を<ruby>早く<rt>はやく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>したいです。【　　】、<ruby>仕事<rt>しごと</rt></ruby>をやって<ruby>親<rt>おや</rt></ruby>に<ruby>返報<rt>へんぽう</rt></ruby>できます。",
-    "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>大学<rt>だいがく</rt></ruby>を<ruby>早く<rt>はやく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>したいです。そうすると、<ruby>仕事<rt>しごと</rt></ruby>をやって<ruby>親<rt>おや</rt></ruby>に<ruby>返報<rt>へんぽう</rt></ruby>できます。",
+    "question_ruby": "<ruby>画面<rt>がめん</rt></ruby><ruby>右上<rt>みぎうえ</rt></ruby>にある<ruby>設定<rt>せってい</rt></ruby>アイコンをクリックしてください。【　　】、<ruby>詳細<rt>しょうさい</rt></ruby>メニューが<ruby>表示<rt>ひょうじ</rt></ruby>されます。",
+    "sentence_jp_ruby": "<ruby>画面<rt>がめん</rt></ruby><ruby>右上<rt>みぎうえ</rt></ruby>にある<ruby>設定<rt>せってい</rt></ruby>アイコンをクリックしてください。そうすると、<ruby>詳細<rt>しょうさい</rt></ruby>メニューが<ruby>表示<rt>ひょうじ</rt></ruby>されます。",
     "choices_ruby": [
       "ばかりに",
       "ところに",
@@ -33788,26 +33786,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "sou suru to",
     "meaning_en": "having done that; if that is done; if it is",
     "similar": "そうすると、そうすれば、それによって、その結果、そうしたならば、すると",
-    "sentence_jp": "帰る前に社内を回ってみた。そうすると、トイレの電気がまだついて、気づいた。",
-    "sentence_furigana": "かえるまえにしゃないをまわってみた。そうすると、トイレのでんきがまだついて、きづいた。",
-    "sentence_en": "Before heading home, I walked around the inside of the company. By doing so, I noticed that a light was still on.",
-    "question": "帰る前に社内を回ってみた。【　　】、トイレの電気がまだついて、気づいた。",
+    "sentence_jp": "帰る前に社内を回ってみた。そうすると、窓が開いたままになっていることに気がついた。",
+    "sentence_furigana": "かえるまえにしゃないをまわってみた。そうすると、まどがあいたままになっていることにきがついた。",
+    "sentence_en": "I walked around the office before leaving. Doing so, I noticed a window had been left open.",
+    "question": "帰る前に社内を回ってみた。【　　】、窓が開いたままになっていることに気がついた。",
     "choices": [
       "かねない",
       "そうすると",
       "のももっともだ",
-      "てならない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "そうすると",
     "notes": "",
-    "question_ruby": "<ruby>帰る<rt>かえる</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回っ<rt>まわっ</rt></ruby>てみた。【　　】、トイレの<ruby>電気<rt>でんき</rt></ruby>がまだついて、<ruby>気づ<rt>きづ</rt></ruby>いた。",
-    "sentence_jp_ruby": "<ruby>帰る<rt>かえる</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回っ<rt>まわっ</rt></ruby>てみた。そうすると、トイレの<ruby>電気<rt>でんき</rt></ruby>がまだついて、<ruby>気づ<rt>きづ</rt></ruby>いた。",
+    "question_ruby": "<ruby>帰<rt>かえ</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>ってみた。【　　】、<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いたままになっていることに<ruby>気<rt>き</rt></ruby>がついた。",
+    "sentence_jp_ruby": "<ruby>帰<rt>かえ</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>社内<rt>しゃない</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>ってみた。そうすると、<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いたままになっていることに<ruby>気<rt>き</rt></ruby>がついた。",
     "choices_ruby": [
       "かねない",
       "そうすると",
       "のももっともだ",
-      "てならない"
+      "に沿って"
     ],
     "correct_text_ruby": "そうすると"
   },
@@ -33848,10 +33846,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "sou suru to",
     "meaning_en": "having done that; if that is done; if it is",
     "similar": "そうすると、そうすれば、それによって、その結果、そうしたならば、すると",
-    "sentence_jp": "東京へ新幹線で行くの？そうすると、地下鉄よりお金が3倍にかかるよ。",
-    "sentence_furigana": "とうきょうへしんかんせんでいくの？そうすると、ちかてつよりおきんが3ばいにかかるよ。",
-    "sentence_en": "You're going to Tokyo by bullet subway? That way the fee is 3 times higher than the normal subway.",
-    "question": "東京へ新幹線で行くの？【　　】、地下鉄よりお金が3倍にかかるよ。",
+    "sentence_jp": "東京までタクシーで行くのですか。そうすると、電車の何倍も費用がかかってしまいますよ。",
+    "sentence_furigana": "とうきょうまでタクシーでいくのですか。そうすると、でんしゃのなんばいもひようがかかってしまいますよ。",
+    "sentence_en": "Are you taking a taxi all the way to Tokyo? If you do, it will cost several times more than the train.",
+    "question": "東京までタクシーで行くのですか。【　　】、電車の何倍も費用がかかってしまいますよ。",
     "choices": [
       "っこない",
       "末に",
@@ -33861,8 +33859,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "そうすると",
     "notes": "",
-    "question_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>の？【　　】、<ruby>地下鉄<rt>ちかてつ</rt></ruby>よりお<ruby>金<rt>きん</rt></ruby>が3<ruby>倍<rt>ばい</rt></ruby>にかかるよ。",
-    "sentence_jp_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行く<rt>いく</rt></ruby>の？そうすると、<ruby>地下鉄<rt>ちかてつ</rt></ruby>よりお<ruby>金<rt>きん</rt></ruby>が3<ruby>倍<rt>ばい</rt></ruby>にかかるよ。",
+    "question_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>までタクシーで<ruby>行<rt>い</rt></ruby>くのですか。【　　】、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>何倍<rt>なんばい</rt></ruby>も<ruby>費用<rt>ひよう</rt></ruby>がかかってしまいますよ。",
+    "sentence_jp_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>までタクシーで<ruby>行<rt>い</rt></ruby>くのですか。そうすると、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>何倍<rt>なんばい</rt></ruby>も<ruby>費用<rt>ひよう</rt></ruby>がかかってしまいますよ。",
     "choices_ruby": [
       "っこない",
       "<ruby>末<rt>すえ</rt></ruby>に",
@@ -33945,7 +33943,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ということは",
       "末",
-      "にすぎない",
+      "に沿って",
       "かねる"
     ],
     "answer": 1,
@@ -33955,8 +33953,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "3<ruby>時間<rt>じかん</rt></ruby>にわたる<ruby>激しい<rt>はげしい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>、ようやく<ruby>意見<rt>いけん</rt></ruby>がまとまった。",
     "choices_ruby": [
       "ということは",
-      "<ruby>末<rt>すえ</rt></ruby>",
-      "にすぎない",
+      "末",
+      "に沿って",
       "かねる"
     ],
     "correct_text_ruby": "<ruby>末<rt>すえ</rt></ruby>"
@@ -34123,7 +34121,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "After worrying about what to do, Takahashi-san decided to not continue my education and start working instead.",
     "question": "高橋さんは悩んだ【　　】、進学ではなく就職することにした。",
     "choices": [
-      "てならない",
+      "あげく",
       "ねばならない",
       "にも関わらず",
       "末"
@@ -34134,10 +34132,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>悩ん<rt>なやん</rt></ruby>だ【　　】、<ruby>進学<rt>しんがく</rt></ruby>ではなく<ruby>就職<rt>しゅうしょく</rt></ruby>することにした。",
     "sentence_jp_ruby": "<ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>悩ん<rt>なやん</rt></ruby>だ<ruby>末<rt>まつ</rt></ruby>、<ruby>進学<rt>しんがく</rt></ruby>ではなく<ruby>就職<rt>しゅうしょく</rt></ruby>することにした。",
     "choices_ruby": [
-      "てならない",
+      "あげく",
       "ねばならない",
-      "にも<ruby>関<rt>かか</rt></ruby>わらず",
-      "<ruby>末<rt>すえ</rt></ruby>"
+      "にも関わらず",
+      "末"
     ],
     "correct_text_ruby": "<ruby>末<rt>すえ</rt></ruby>"
   },
@@ -34941,8 +34939,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "たまえ",
     "notes": "",
-    "question_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>【　　】。",
-    "sentence_jp_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>くん</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>たまえ。",
+    "question_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>きみ</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>【　　】。",
+    "sentence_jp_ruby": "その<ruby>金<rt>きん</rt></ruby>は<ruby>君<rt>きみ</rt></ruby>の<ruby>好き<rt>すき</rt></ruby>なように<ruby>使い<rt>つかい</rt></ruby>たまえ。",
     "choices_ruby": [
       "ことだ",
       "の<ruby>上<rt>うえ</rt></ruby>では",
@@ -35061,8 +35059,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "たまえ",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにし【　　】。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにしたまえ。",
+    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにし【　　】。",
+    "sentence_jp_ruby": "<ruby>君<rt>きみ</rt></ruby>が<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>良い<rt>よい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>ようにしたまえ。",
     "choices_ruby": [
       "というものだ",
       "てはならない",
@@ -35392,7 +35390,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "correct_text": "てでも",
     "notes": "",
     "question_ruby": "<ruby>芸能人<rt>げいのうじん</rt></ruby>とデートできるなら、180<ruby>万円<rt>まんえん</rt></ruby><ruby>払っ<rt>はらっ</rt></ruby>【　　】したい。",
-    "sentence_jp_ruby": "<ruby>芸能人<rt>げいのうじん</rt></ruby>とデートできるなら、180<ruby>万円<rt>まんえん</rt></ruby><ruby>払っ<rt>はらっ</rt></ruby>てでもしたい。",
+    "sentence_jp_ruby": "<ruby>芸能人<rt>げいのうじん</rt></ruby>とデートできるなら、180<ruby>万円<rt>まんえん</rt></ruby><ruby>払<rt>はら</rt></ruby>ってでもしたい。",
     "choices_ruby": [
       "わずかに",
       "かねる",
@@ -35473,7 +35471,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I haven't eaten my mother's cooking since coming to Japan.",
     "question": "日本に来【　　】、母の料理を食べていない。",
     "choices": [
-      "ないではいられない",
+      "に沿って",
       "だって",
       "て以来",
       "末に"
@@ -35481,13 +35479,13 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "て以来",
     "notes": "",
-    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>らい</rt></ruby>【　　】、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。",
+    "question_ruby": "<ruby>日本<rt>にほん</rt></ruby>に来【　　】、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。",
     "sentence_jp_ruby": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>母<rt>はは</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いない。",
     "choices_ruby": [
-      "ないではいられない",
+      "に沿って",
       "だって",
-      "て<ruby>以来<rt>いらい</rt></ruby>",
-      "<ruby>末<rt>すえ</rt></ruby>に"
+      "て以来",
+      "末に"
     ],
     "correct_text_ruby": "て<ruby>以来<rt>いらい</rt></ruby>"
   },
@@ -35503,7 +35501,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Sato-san hasn't missed a class since starting school.",
     "question": "佐藤さんは入学【　　】、一度も授業を休んでいない。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "の下で",
       "て以来",
       "以来"
@@ -35514,10 +35512,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>入学<rt>にゅうがく</rt></ruby>【　　】、<ruby>一度<rt>いちど</rt></ruby>も<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>でいない。",
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>入学<rt>にゅうがく</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>一度<rt>いちど</rt></ruby>も<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>休ん<rt>やすん</rt></ruby>でいない。",
     "choices_ruby": [
-      "にすぎない",
-      "の<ruby>下<rt>した</rt></ruby>で",
-      "て<ruby>以来<rt>いらい</rt></ruby>",
-      "<ruby>以来<rt>いらい</rt></ruby>"
+      "に沿って",
+      "の下で",
+      "て以来",
+      "以来"
     ],
     "correct_text_ruby": "<ruby>以来<rt>いらい</rt></ruby>"
   },
@@ -35596,7 +35594,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "少しも",
       "て以来",
       "以来",
-      "ないではいられない"
+      "に沿って"
     ],
     "answer": 2,
     "correct_text": "以来",
@@ -35604,10 +35602,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>【　　】、<ruby>生活<rt>せいかつ</rt></ruby>のために<ruby>毎日<rt>まいにち</rt></ruby>バイトしている。",
     "sentence_jp_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>生活<rt>せいかつ</rt></ruby>のために<ruby>毎日<rt>まいにち</rt></ruby>バイトしている。",
     "choices_ruby": [
-      "<ruby>少<rt>すこ</rt></ruby>しも",
-      "て<ruby>以来<rt>いらい</rt></ruby>",
-      "<ruby>以来<rt>いらい</rt></ruby>",
-      "ないではいられない"
+      "少しも",
+      "て以来",
+      "以来",
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>以来<rt>いらい</rt></ruby>"
   },
@@ -35654,7 +35652,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "そんなに甘いものばかり食べ【　　】、太りますよ。",
     "choices": [
       "ていては",
-      "にすぎない",
+      "に沿って",
       "直ちに",
       "まい"
     ],
@@ -35665,8 +35663,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "そんなに<ruby>甘い<rt>あまい</rt></ruby>ものばかり<ruby>食べて<rt>たべて</rt></ruby>いては、<ruby>太り<rt>ふとり</rt></ruby>ますよ。",
     "choices_ruby": [
       "ていては",
-      "にすぎない",
-      "<ruby>直<rt>ただ</rt></ruby>ちに",
+      "に沿って",
+      "直ちに",
       "まい"
     ],
     "correct_text_ruby": "ていては"
@@ -35812,7 +35810,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "correct_text": "ていては",
     "notes": "",
     "question_ruby": "あの<ruby>男<rt>おとこ</rt></ruby>の<ruby>金<rt>きん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby>のを<ruby>待っ<rt>まっ</rt></ruby>【　　】きりが<ruby>無い<rt>ない</rt></ruby>。",
-    "sentence_jp_ruby": "あの<ruby>男<rt>おとこ</rt></ruby>の<ruby>金<rt>きん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby>のを<ruby>待っ<rt>まっ</rt></ruby>ていてはきりが<ruby>無い<rt>ない</rt></ruby>。",
+    "sentence_jp_ruby": "あの<ruby>男<rt>おとこ</rt></ruby>の<ruby>金<rt>きん</rt></ruby>を<ruby>返す<rt>かえす</rt></ruby>のを<ruby>待<rt>ま</rt></ruby>っていてはきりが<ruby>無い<rt>ない</rt></ruby>。",
     "choices_ruby": [
       "かねる",
       "ていては",
@@ -35923,7 +35921,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Only after you start earning a living for yourself can you claim to be independent.",
     "question": "生活費を自分で稼い【　　】、自立していると言えます。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "てこそ",
       "何も",
       "でこそ"
@@ -35934,9 +35932,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼い<rt>かせい</rt></ruby>【　　】、<ruby>自立<rt>じりつ</rt></ruby>していると<ruby>言え<rt>いえ</rt></ruby>ます。",
     "sentence_jp_ruby": "<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>稼い<rt>かせい</rt></ruby>でこそ、<ruby>自立<rt>じりつ</rt></ruby>していると<ruby>言え<rt>いえ</rt></ruby>ます。",
     "choices_ruby": [
-      "にすぎない",
+      "に沿って",
       "てこそ",
-      "<ruby>何<rt>なに</rt></ruby>も",
+      "何も",
       "でこそ"
     ],
     "correct_text_ruby": "でこそ"
@@ -36081,8 +36079,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "てこそ",
     "notes": "",
-    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>【　　】、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分<rt>わ</rt></ruby>かるのです。",
-    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>てこそ、お<ruby>金<rt>きん</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分<rt>わ</rt></ruby>かるのです。",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>【　　】、お<ruby>金<rt>かね</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分<rt>わ</rt></ruby>かるのです。",
+    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>てこそ、お<ruby>金<rt>かね</rt></ruby>を<ruby>稼ぐ<rt>かせぐ</rt></ruby>ことの<ruby>大変<rt>たいへん</rt></ruby>さが<ruby>分<rt>わ</rt></ruby>かるのです。",
     "choices_ruby": [
       "てこそ",
       "だって",
@@ -36351,8 +36349,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "までして",
     "notes": "",
-    "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>【　　】<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>きん</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。",
-    "sentence_jp_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>までして<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>きん</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。",
+    "question_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>【　　】<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。",
+    "sentence_jp_ruby": "<ruby>結婚<rt>けっこん</rt></ruby>のために<ruby>夜勤<rt>やきん</rt></ruby>までして<ruby>貯め<rt>ため</rt></ruby>たお<ruby>金<rt>かね</rt></ruby>を<ruby>使い込ま<rt>つかいこま</rt></ruby>れた。",
     "choices_ruby": [
       "の<ruby>下<rt>した</rt></ruby>で",
       "なくはない",
@@ -36458,10 +36456,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "te naranai",
     "meaning_en": "can’t help but; dying to; extremely~ ",
     "similar": "てたまらない、てしょうがない、てならない、思えてならない、どうしても～だ",
-    "sentence_jp": "あの二人はどうして離婚したのか、知りたくてならない。",
-    "sentence_furigana": "あのふたりはどうしてりこんしたのか、しりたくてならない。",
-    "sentence_en": "I really want to know why those got divorced.",
-    "question": "あの二人はどうして離婚したのか、知りたく【　　】。",
+    "sentence_jp": "初めて一人暮らしを始めた妹のことが、心配でならない。",
+    "sentence_furigana": "はじめてひとりぐらしをはじめた妹のことが、しんぱいでならない。",
+    "sentence_en": "I cannot help but worry about my younger sister, who has started living alone for the first time.",
+    "question": "初めて一人暮らしを始めた妹のことが、心配で【　　】。",
     "choices": [
       "てならない",
       "あげく",
@@ -36471,8 +36469,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "てならない",
     "notes": "",
-    "question_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>はどうして<ruby>離婚<rt>りこん</rt></ruby>したのか、<ruby>知り<rt>しり</rt></ruby>たく【　　】。",
-    "sentence_jp_ruby": "あの<ruby>二人<rt>ふたり</rt></ruby>はどうして<ruby>離婚<rt>りこん</rt></ruby>したのか、<ruby>知り<rt>しり</rt></ruby>たくてならない。",
+    "question_ruby": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めた<ruby>妹<rt>いもうと</rt></ruby>のことが、<ruby>心配<rt>しんぱい</rt></ruby>で【　　】。",
+    "sentence_jp_ruby": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めた<ruby>妹<rt>いもうと</rt></ruby>のことが、<ruby>心配<rt>しんぱい</rt></ruby>でならない。",
     "choices_ruby": [
       "てならない",
       "あげく",
@@ -36578,10 +36576,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "te naranai",
     "meaning_en": "can’t help but; dying to; extremely~ ",
     "similar": "てたまらない、てしょうがない、てならない、思えてならない、どうしても～だ",
-    "sentence_jp": "もう5年間くらい国に帰っていないので、両親に会いたくてならない。",
-    "sentence_furigana": "もう5ねんかんくらいくににかえっていないので、りょうしんにあいたくてならない。",
-    "sentence_en": "I haven’t returned to my country for 5 years so i miss my parents so much.",
-    "question": "もう5年間くらい国に帰っていないので、両親に会いたく【　　】。",
+    "sentence_jp": "長年故郷を離れて暮らしていると、時々昔の景色が懐かしくてならない。",
+    "sentence_furigana": "ながねんこきょうをはなれてくらしていると、ときどきむかしのけしきがなつかしくてならない。",
+    "sentence_en": "Living away from my hometown for years, I cannot help feeling deeply nostalgic for the old scenery.",
+    "question": "長年故郷を離れて暮らしていると、時々昔の景色が懐かしくて【　　】。",
     "choices": [
       "てならない",
       "抜く",
@@ -36591,8 +36589,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "てならない",
     "notes": "",
-    "question_ruby": "もう5<ruby>年間<rt>ねんかん</rt></ruby>くらい<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>ていないので、<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>会い<rt>あい</rt></ruby>たく【　　】。",
-    "sentence_jp_ruby": "もう5<ruby>年間<rt>ねんかん</rt></ruby>くらい<ruby>国<rt>くに</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>ていないので、<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>会い<rt>あい</rt></ruby>たくてならない。",
+    "question_ruby": "<ruby>長年<rt>ながねん</rt></ruby><ruby>故郷<rt>こきょう</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れて<ruby>暮<rt>く</rt></ruby>らしていると、<ruby>時々<rt>ときどき</rt></ruby><ruby>昔<rt>むかし</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>が<ruby>懐<rt>なつ</rt></ruby>かしくて【　　】。",
+    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby><ruby>故郷<rt>こきょう</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れて<ruby>暮<rt>く</rt></ruby>らしていると、<ruby>時々<rt>ときどき</rt></ruby><ruby>昔<rt>むかし</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>が<ruby>懐<rt>なつ</rt></ruby>かしくてならない。",
     "choices_ruby": [
       "てならない",
       "<ruby>抜<rt>ぬ</rt></ruby>く",
@@ -37191,8 +37189,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ては",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずく【　　】<ruby>誰<rt>だれ</rt></ruby>も<ruby>来ま<rt>きま</rt></ruby>せんよ。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずくては<ruby>誰<rt>だれ</rt></ruby>も<ruby>来ま<rt>きま</rt></ruby>せんよ。",
+    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずく【　　】<ruby>誰<rt>だれ</rt></ruby>も<ruby>来ま<rt>きま</rt></ruby>せんよ。",
+    "sentence_jp_ruby": "<ruby>君<rt>きみ</rt></ruby>のレストランの<ruby>料理<rt>りょうり</rt></ruby>がまずくては<ruby>誰<rt>だれ</rt></ruby>も<ruby>来ま<rt>きま</rt></ruby>せんよ。",
     "choices_ruby": [
       "あげく",
       "からして",
@@ -37281,7 +37279,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ては",
     "notes": "",
-    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>らい</rt></ruby>【　　】、お<ruby>土産<rt>みやげ</rt></ruby>でスーツケースをいっぱいにして<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>。",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本<rt>にほん</rt></ruby>に来【　　】、お<ruby>土産<rt>みやげ</rt></ruby>でスーツケースをいっぱいにして<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>。",
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>日本<rt>にほん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>は、お<ruby>土産<rt>みやげ</rt></ruby>でスーツケースをいっぱいにして<ruby>国<rt>くに</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>。",
     "choices_ruby": [
       "<ruby>及<rt>およ</rt></ruby>び",
@@ -37311,7 +37309,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ては",
     "notes": "",
-    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>亡く<rt>なく</rt></ruby>した<ruby>子<rt>こ</rt></ruby>どもの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>けん</rt></ruby>【　　】<ruby>泣い<rt>ない</rt></ruby>た。",
+    "question_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>亡く<rt>なく</rt></ruby>した<ruby>子<rt>こ</rt></ruby>どもの<ruby>写真<rt>しゃしん</rt></ruby>を見【　　】<ruby>泣い<rt>ない</rt></ruby>た。",
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>亡く<rt>なく</rt></ruby>した<ruby>子<rt>こ</rt></ruby>どもの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>は<ruby>泣い<rt>ない</rt></ruby>た。",
     "choices_ruby": [
       "<ruby>少<rt>すく</rt></ruby>なくとも",
@@ -37341,7 +37339,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ては",
     "notes": "",
-    "question_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はニキビに<ruby>悩ん<rt>なやん</rt></ruby>でいて、<ruby>鏡<rt>かがみ</rt></ruby>を<ruby>見<rt>けん</rt></ruby>【　　】ため<ruby>息<rt>いき</rt></ruby>をついている。",
+    "question_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はニキビに<ruby>悩ん<rt>なやん</rt></ruby>でいて、<ruby>鏡<rt>かがみ</rt></ruby>を見【　　】ため<ruby>息<rt>いき</rt></ruby>をついている。",
     "sentence_jp_ruby": "<ruby>息子<rt>むすこ</rt></ruby>はニキビに<ruby>悩ん<rt>なやん</rt></ruby>でいて、<ruby>鏡<rt>かがみ</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>はため<ruby>息<rt>いき</rt></ruby>をついている。",
     "choices_ruby": [
       "ては",
@@ -37418,28 +37416,28 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "tewa irarenai",
     "meaning_en": "can’t afford to; unable to~",
     "similar": "てはいられない、てられない、場合じゃない、余裕がない、いられない",
-    "sentence_jp": "泣かないではいられない。",
-    "sentence_furigana": "なかないではいられない。",
-    "sentence_en": "I can't help crying.",
-    "question": "泣かない【　　】。",
+    "sentence_jp": "映画のラストシーンがあまりにも感動的で、観客は誰しも涙を流さないではいられなかった。",
+    "sentence_furigana": "えいがのラストシーンがあまりにもかんどうてきで、かんきゃくはだれしもなみだをながさないではいられなかった。",
+    "sentence_en": "The final scene of the movie was so touching that none of the audience could help crying.",
+    "question": "映画のラストシーンがあまりにも感動的で、観客は誰しも涙を流さない【　　】。",
     "choices": [
-      "少しも",
-      "にほかならない",
-      "をもとに",
-      "ではいられない"
+      "わけにはいかなかった",
+      "っこなかった",
+      "どころではなかった",
+      "ではいられなかった"
     ],
     "answer": 3,
-    "correct_text": "ではいられない",
+    "correct_text": "ではいられなかった",
     "notes": "",
-    "question_ruby": "<ruby>泣か<rt>なか</rt></ruby>ない【　　】。",
-    "sentence_jp_ruby": "<ruby>泣か<rt>なか</rt></ruby>ないではいられない。",
+    "question_ruby": "<ruby>映画<rt>えいが</rt></ruby>のラストシーンがあまりにも<ruby>感動的<rt>かんどうてき</rt></ruby>で、<ruby>観客<rt>かんきゃく</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>しも<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さない【　　】。",
+    "sentence_jp_ruby": "<ruby>映画<rt>えいが</rt></ruby>のラストシーンがあまりにも<ruby>感動的<rt>かんどうてき</rt></ruby>で、<ruby>観客<rt>かんきゃく</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>しも<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さないではいられなかった。",
     "choices_ruby": [
-      "<ruby>少<rt>すこ</rt></ruby>しも",
-      "にほかならない",
-      "をもとに",
-      "ではいられない"
+      "わけにはいかなかった",
+      "っこなかった",
+      "どころではなかった",
+      "ではいられなかった"
     ],
-    "correct_text_ruby": "ではいられない"
+    "correct_text_ruby": "ではいられなかった"
   },
   {
     "id": 1249,
@@ -38923,7 +38921,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Suzuki-san still hasn't come, so Suzuki-san will be marked as absent for today.",
     "question": "鈴木さんは、まだ来ませんね。【　　】、今日は欠席ですね。",
     "choices": [
-      "てたまらない",
+      "に沿って",
       "からして",
       "得る",
       "ということは"
@@ -38934,9 +38932,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、まだ<ruby>来ま<rt>きま</rt></ruby>せんね。【　　】、<ruby>今日<rt>きょう</rt></ruby>は<ruby>欠席<rt>けっせき</rt></ruby>ですね。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、まだ<ruby>来ま<rt>きま</rt></ruby>せんね。ということは、<ruby>今日<rt>きょう</rt></ruby>は<ruby>欠席<rt>けっせき</rt></ruby>ですね。",
     "choices_ruby": [
-      "てたまらない",
+      "に沿って",
       "からして",
-      "<ruby>得<rt>え</rt></ruby>る",
+      "得る",
       "ということは"
     ],
     "correct_text_ruby": "ということは"
@@ -39044,7 +39042,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "車が1台しかない【　　】、全員が一緒に乗ることはできないということだ。",
     "choices": [
       "から見ると",
-      "にすぎない",
+      "に沿って",
       "てまで",
       "ということは"
     ],
@@ -39054,8 +39052,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>車<rt>くるま</rt></ruby>が1<ruby>台<rt>だい</rt></ruby>しかない【　　】、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>乗る<rt>のる</rt></ruby>ことはできないということだ。",
     "sentence_jp_ruby": "<ruby>車<rt>くるま</rt></ruby>が1<ruby>台<rt>だい</rt></ruby>しかないということは、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>乗る<rt>のる</rt></ruby>ことはできないということだ。",
     "choices_ruby": [
-      "から<ruby>見<rt>み</rt></ruby>ると",
-      "にすぎない",
+      "から見ると",
+      "に沿って",
       "てまで",
       "ということは"
     ],
@@ -39345,7 +39343,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "ところだった",
       "得る",
-      "にすぎない",
+      "に沿って",
       "というもの"
     ],
     "answer": 3,
@@ -39355,8 +39353,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>人間<rt>にんげん</rt></ruby>には<ruby>理性<rt>りせい</rt></ruby>というものがある。",
     "choices_ruby": [
       "ところだった",
-      "<ruby>得<rt>え</rt></ruby>る",
-      "にすぎない",
+      "得る",
+      "に沿って",
       "というもの"
     ],
     "correct_text_ruby": "というもの"
@@ -39381,8 +39379,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "というものでもない",
     "notes": "",
-    "question_ruby": "お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だ【　　】。",
-    "sentence_jp_ruby": "お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。",
+    "question_ruby": "お<ruby>金<rt>かね</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だ【　　】。",
+    "sentence_jp_ruby": "お<ruby>金<rt>かね</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。",
     "choices_ruby": [
       "たまえ",
       "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
@@ -39585,7 +39583,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "にしても",
       "というものではない",
-      "にすぎない",
+      "に沿って",
       "抜く"
     ],
     "answer": 1,
@@ -39596,8 +39594,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "にしても",
       "というものではない",
-      "にすぎない",
-      "<ruby>抜<rt>ぬ</rt></ruby>く"
+      "に沿って",
+      "抜く"
     ],
     "correct_text_ruby": "というものではない"
   },
@@ -40036,7 +40034,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "とかで",
       "得る",
       "てこそ",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "とかで",
@@ -40045,9 +40043,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>熱<rt>ねつ</rt></ruby>があるとかで、<ruby>今日<rt>きょう</rt></ruby>は<ruby>休む<rt>やすむ</rt></ruby>そうです。",
     "choices_ruby": [
       "とかで",
-      "<ruby>得<rt>え</rt></ruby>る",
+      "得る",
       "てこそ",
-      "にすぎない"
+      "に沿って"
     ],
     "correct_text_ruby": "とかで"
   },
@@ -40268,10 +40266,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "tokku ni",
     "meaning_en": "long ago; already; a long time ago",
     "similar": "ずっと前に、とっくに、疾っくに、すでに、とうの昔に、時間前に",
-    "sentence_jp": "君は真面目に練習していたら、とっくにプロになってただろう。",
+    "sentence_jp": "待ち合わせの時間はとっくに過ぎているのに、彼はまだ姿を見せない。",
     "sentence_furigana": "くんはまじめにれんしゅうしていたら、とっくにプロになってただろう。",
-    "sentence_en": "If you had been serious about practicing, you could have been become a professional a long time ago.",
-    "question": "君は真面目に練習していたら、【　　】プロになってただろう。",
+    "sentence_en": "The meeting time has long passed, but he has not shown up yet.",
+    "question": "待ち合わせの時間は【　　】過ぎているのに、彼はまだ姿を見せない。",
     "choices": [
       "だけは",
       "にすぎない",
@@ -40281,8 +40279,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "とっくに",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>していたら、【　　】プロになってただろう。",
-    "sentence_jp_ruby": "<ruby>君<rt>くん</rt></ruby>は<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>していたら、とっくにプロになってただろう。",
+    "question_ruby": "<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせの<ruby>時間<rt>じかん</rt></ruby>は【　　】<ruby>過<rt>す</rt></ruby>ぎているのに、<ruby>彼<rt>かれ</rt></ruby>はまだ<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>せない。",
+    "sentence_jp_ruby": "<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせの<ruby>時間<rt>じかん</rt></ruby>はとっくに<ruby>過<rt>す</rt></ruby>ぎているのに、<ruby>彼<rt>かれ</rt></ruby>はまだ<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>せない。",
     "choices_ruby": [
       "だけは",
       "にすぎない",
@@ -40424,9 +40422,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "僕はもう少しで出かける【　　】、ちょうどよいところだった。",
     "choices": [
       "はもとより",
-      "にすぎない",
+      "に沿って",
       "ところだった",
-      "てならない"
+      "に基づいて"
     ],
     "answer": 2,
     "correct_text": "ところだった",
@@ -40435,9 +40433,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>僕<rt>ぼく</rt></ruby>はもう<ruby>少し<rt>すこし</rt></ruby>で<ruby>出<rt>で</rt></ruby>かけるところだった、ちょうどよいところだった。",
     "choices_ruby": [
       "はもとより",
-      "にすぎない",
+      "に沿って",
       "ところだった",
-      "てならない"
+      "に基づいて"
     ],
     "correct_text_ruby": "ところだった"
   },
@@ -40573,7 +40571,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Just as I was about to rush out of the house in the morning, an urgent call came from work.",
     "question": "朝、急いで家を出ようとしていた【　　】、会社から緊急の呼び出しがあった。",
     "choices": [
-      "にすぎない",
+      "あげく",
       "ものだ",
       "ところに",
       "の下で"
@@ -40584,10 +40582,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>急い<rt>いそい</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていた【　　】、<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>緊急<rt>きんきゅう</rt></ruby>の<ruby>呼び出し<rt>よびだし</rt></ruby>があった。",
     "sentence_jp_ruby": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>急い<rt>いそい</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>緊急<rt>きんきゅう</rt></ruby>の<ruby>呼び出し<rt>よびだし</rt></ruby>があった。",
     "choices_ruby": [
-      "にすぎない",
+      "あげく",
       "ものだ",
       "ところに",
-      "の<ruby>下<rt>した</rt></ruby>で"
+      "の下で"
     ],
     "correct_text_ruby": "ところに"
   },
@@ -40663,7 +40661,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Just when I was about to call him, he called me.",
     "question": "電話しようと思っていた【　　】、ちょうどあの相手から電話がかかってきた。",
     "choices": [
-      "にほかならない",
+      "あげく",
       "ところに",
       "に応じて",
       "いきなり"
@@ -40674,9 +40672,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>電話<rt>でんわ</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いた【　　】、ちょうどあの<ruby>相手<rt>あいて</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。",
     "sentence_jp_ruby": "<ruby>電話<rt>でんわ</rt></ruby>しようと<ruby>思って<rt>おもって</rt></ruby>いたところに、ちょうどあの<ruby>相手<rt>あいて</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。",
     "choices_ruby": [
-      "にほかならない",
+      "あげく",
       "ところに",
-      "に<ruby>応<rt>おう</rt></ruby>じて",
+      "に応じて",
       "いきなり"
     ],
     "correct_text_ruby": "ところに"
@@ -40753,7 +40751,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Seeing their face turn red means that what Takahashi-san said must have been true.",
     "question": "顔が赤くなっている【　　】、高橋さんが言ったことは本当だ。",
     "choices": [
-      "てたまらない",
+      "に沿って",
       "得る",
       "よりほかない",
       "ところを見ると"
@@ -40764,10 +40762,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>顔<rt>かお</rt></ruby>が<ruby>赤く<rt>あかく</rt></ruby>なっている【　　】、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>言った<rt>いった</rt></ruby>ことは<ruby>本当<rt>ほんとう</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>顔<rt>かお</rt></ruby>が<ruby>赤く<rt>あかく</rt></ruby>なっているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>高橋<rt>たかはし</rt></ruby>さんが<ruby>言った<rt>いった</rt></ruby>ことは<ruby>本当<rt>ほんとう</rt></ruby>だ。",
     "choices_ruby": [
-      "てたまらない",
-      "<ruby>得<rt>え</rt></ruby>る",
+      "に沿って",
+      "得る",
       "よりほかない",
-      "ところを<ruby>見<rt>み</rt></ruby>ると"
+      "ところを見ると"
     ],
     "correct_text_ruby": "ところを<ruby>見<rt>み</rt></ruby>ると"
   },
@@ -40874,7 +40872,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "あの会社、いつも社員を募集している【　　】、人がすぐに辞めてしまうのかなあ。",
     "choices": [
       "といった",
-      "にすぎない",
+      "に沿って",
       "ところだった",
       "ところを見ると"
     ],
@@ -40885,9 +40883,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "あの<ruby>会社<rt>かいしゃ</rt></ruby>、いつも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>しているところを<ruby>見る<rt>みる</rt></ruby>と、<ruby>人<rt>ひと</rt></ruby>がすぐに<ruby>辞め<rt>やめ</rt></ruby>てしまうのかなあ。",
     "choices_ruby": [
       "といった",
-      "にすぎない",
+      "に沿って",
       "ところだった",
-      "ところを<ruby>見<rt>み</rt></ruby>ると"
+      "ところを見ると"
     ],
     "correct_text_ruby": "ところを<ruby>見<rt>み</rt></ruby>ると"
   },
@@ -40993,7 +40991,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "No matter how steep and harsh the path may be, I am determined to see it through to my dream.",
     "question": "たとえ道のりがどんなに険しく辛く【　　】、夢に向かって最後までやり遂げる決意だ。",
     "choices": [
-      "てばかりはいられない",
+      "に沿って",
       "とも",
       "恐れがある",
       "全く"
@@ -41004,10 +41002,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "たとえ<ruby>道のり<rt>みちのり</rt></ruby>がどんなに<ruby>険しく<rt>けわしく</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>【　　】、<ruby>夢<rt>ゆめ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>最後<rt>さいご</rt></ruby>までやり<ruby>遂げ<rt>とげ</rt></ruby>る<ruby>決意<rt>けつい</rt></ruby>だ。",
     "sentence_jp_ruby": "たとえ<ruby>道のり<rt>みちのり</rt></ruby>がどんなに<ruby>険しく<rt>けわしく</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>とも、<ruby>夢<rt>ゆめ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>最後<rt>さいご</rt></ruby>までやり<ruby>遂げ<rt>とげ</rt></ruby>る<ruby>決意<rt>けつい</rt></ruby>だ。",
     "choices_ruby": [
-      "てばかりはいられない",
+      "に沿って",
       "とも",
-      "<ruby>恐<rt>おそ</rt></ruby>れがある",
-      "<ruby>全<rt>まった</rt></ruby>く"
+      "恐れがある",
+      "全く"
     ],
     "correct_text_ruby": "とも"
   },
@@ -41204,7 +41202,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "たとえ買える【　　】、そんな家は買わないだろう。",
     "choices": [
       "だけましだ",
-      "にすぎない",
+      "に沿って",
       "て当然だ",
       "としても"
     ],
@@ -41215,8 +41213,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "たとえ<ruby>買え<rt>かえ</rt></ruby>るとしても、そんな<ruby>家<rt>いえ</rt></ruby>は<ruby>買わ<rt>かわ</rt></ruby>ないだろう。",
     "choices_ruby": [
       "だけましだ",
-      "にすぎない",
-      "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
+      "に沿って",
+      "て当然だ",
       "としても"
     ],
     "correct_text_ruby": "としても"
@@ -41355,7 +41353,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "としても",
       "かと思ったら",
-      "にすぎない",
+      "あげく",
       "そうすると"
     ],
     "answer": 0,
@@ -41365,8 +41363,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "たとえ<ruby>失敗<rt>しっぱい</rt></ruby>したとしても、またチャレンジすればいい。",
     "choices_ruby": [
       "としても",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
-      "にすぎない",
+      "かと思ったら",
+      "あげく",
       "そうすると"
     ],
     "correct_text_ruby": "としても"
@@ -41505,7 +41503,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "つつ",
       "恐れがある",
-      "ないではいられない",
+      "に沿って",
       "とっくに"
     ],
     "answer": 0,
@@ -41515,8 +41513,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>指導員<rt>しどういん</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>しつつ、<ruby>進路<rt>しんろ</rt></ruby>を<ruby>決め<rt>きめ</rt></ruby>たいと<ruby>思う<rt>おもう</rt></ruby>。",
     "choices_ruby": [
       "つつ",
-      "<ruby>恐<rt>おそ</rt></ruby>れがある",
-      "ないではいられない",
+      "恐れがある",
+      "に沿って",
       "とっくに"
     ],
     "correct_text_ruby": "つつ"
@@ -41858,12 +41856,12 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ue wa",
     "meaning_en": "now that; since; as long as~",
     "similar": "以上は、からには、上は、のだから、覚悟を決めた以上は",
-    "sentence_jp": "N2を受験する上は、高得点で合格したいです。",
-    "sentence_furigana": "N2をじゅけんするうえは、こうとくてんでごうかくしたいです。",
-    "sentence_en": "Since I will be taking the N2, I want to pass with a high score.",
-    "question": "N2を受験する【　　】、高得点で合格したいです。",
+    "sentence_jp": "JLPTを受験する上は、毎日計画的に勉強して必ず合格してみせる。",
+    "sentence_furigana": "JLPTをじゅけんするうえは、まいにちけいかくてきにべんきょうしてかならずごうかくしてみせる。",
+    "sentence_en": "Now that I am taking the JLPT, I am determined to study systematically every day and pass.",
+    "question": "JLPTを受験する【　　】、毎日計画的に勉強して必ず合格してみせる。",
     "choices": [
-      "てばかりはいられない",
+      "に沿って",
       "っこない",
       "上は",
       "あるいは"
@@ -41871,12 +41869,12 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "上は",
     "notes": "",
-    "question_ruby": "N2を<ruby>受験<rt>じゅけん</rt></ruby>する【　　】、<ruby>高得点<rt>こうとくてん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>したいです。",
-    "sentence_jp_ruby": "N2を<ruby>受験<rt>じゅけん</rt></ruby>する<ruby>上<rt>うえ</rt></ruby>は、<ruby>高得点<rt>こうとくてん</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>したいです。",
+    "question_ruby": "JLPTを<ruby>受験<rt>じゅけん</rt></ruby>する【　　】、<ruby>毎日<rt>まいにち</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>して<ruby>必<rt>かなら</rt></ruby>ず<ruby>合格<rt>ごうかく</rt></ruby>してみせる。",
+    "sentence_jp_ruby": "JLPTを<ruby>受験<rt>じゅけん</rt></ruby>する<ruby>上<rt>うえ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>して<ruby>必<rt>かなら</rt></ruby>ず<ruby>合格<rt>ごうかく</rt></ruby>してみせる。",
     "choices_ruby": [
-      "てばかりはいられない",
+      "に沿って",
       "っこない",
-      "<ruby>上<rt>うえ</rt></ruby>は",
+      "上は",
       "あるいは"
     ],
     "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>は"
@@ -41894,7 +41892,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "家族を離れて日本で働く【　　】、十分な覚悟が必要である。",
     "choices": [
       "に向かって",
-      "にすぎない",
+      "に沿って",
       "ないことには",
       "上は"
     ],
@@ -41904,10 +41902,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>家族<rt>かぞく</rt></ruby>を<ruby>離れ<rt>はなれ</rt></ruby>て<ruby>日本<rt>にほん</rt></ruby>で<ruby>働く<rt>はたらく</rt></ruby>【　　】、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>覚悟<rt>かくご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。",
     "sentence_jp_ruby": "<ruby>家族<rt>かぞく</rt></ruby>を<ruby>離れ<rt>はなれ</rt></ruby>て<ruby>日本<rt>にほん</rt></ruby>で<ruby>働く<rt>はたらく</rt></ruby><ruby>上<rt>うえ</rt></ruby>は、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>覚悟<rt>かくご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。",
     "choices_ruby": [
-      "に<ruby>向<rt>む</rt></ruby>かって",
-      "にすぎない",
+      "に向かって",
+      "に沿って",
       "ないことには",
-      "<ruby>上<rt>うえ</rt></ruby>は"
+      "上は"
     ],
     "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>は"
   },
@@ -42008,10 +42006,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "ue wa",
     "meaning_en": "now that; since; as long as~",
     "similar": "以上は、からには、上は、のだから、覚悟を決めた以上は",
-    "sentence_jp": "高いお金を払って旅行する上は、たくさんの場所を観光して、あの土地のおいしい物を食べたいです。",
-    "sentence_furigana": "たかいおきんをはらってりょこうするうえは、たくさんのばしょをかんこうして、あのとちのおいしいものをたべたいです。",
-    "sentence_en": "Since I spend a lot of money for travelling, I want to sightsee at many places and eat delicious local foods.",
-    "question": "高いお金を払って旅行する【　　】、たくさんの場所を観光して、あの土地のおいしい物を食べたいです。",
+    "sentence_jp": "チームのリーダーを引き受けた上は、最後まで責任を持ってやり遂げる覚悟です。",
+    "sentence_furigana": "チームのリーダーをひきうけたうえは、さいごまでせきにんをもってやりとげるかくごです。",
+    "sentence_en": "Now that I have accepted the role of team leader, I am resolved to carry it through with full responsibility.",
+    "question": "チームのリーダーを引き受けた【　　】、最後まで責任を持ってやり遂げる覚悟です。",
     "choices": [
       "ねばならない",
       "てこそ",
@@ -42021,8 +42019,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "上は",
     "notes": "",
-    "question_ruby": "<ruby>高い<rt>たかい</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>旅行<rt>りょこう</rt></ruby>する【　　】、たくさんの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>して、あの<ruby>土地<rt>とち</rt></ruby>のおいしい<ruby>物<rt>もの</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>いです。",
-    "sentence_jp_ruby": "<ruby>高い<rt>たかい</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>上<rt>うえ</rt></ruby>は、たくさんの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>して、あの<ruby>土地<rt>とち</rt></ruby>のおいしい<ruby>物<rt>もの</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>いです。",
+    "question_ruby": "チームのリーダーを<ruby>引<rt>ひ</rt></ruby>き<ruby>受<rt>う</rt></ruby>けた【　　】、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってやり<ruby>遂<rt>と</rt></ruby>げる<ruby>覚悟<rt>かくご</rt></ruby>です。",
+    "sentence_jp_ruby": "チームのリーダーを<ruby>引<rt>ひ</rt></ruby>き<ruby>受<rt>う</rt></ruby>けた<ruby>上<rt>うえ</rt></ruby>は、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってやり<ruby>遂<rt>と</rt></ruby>げる<ruby>覚悟<rt>かくご</rt></ruby>です。",
     "choices_ruby": [
       "ねばならない",
       "てこそ",
@@ -42106,7 +42104,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "はもとより",
       "ないことには",
       "その上",
-      "てばかりはいられない"
+      "に沿って"
     ],
     "answer": 0,
     "correct_text": "はもとより",
@@ -42116,8 +42114,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "はもとより",
       "ないことには",
-      "その<ruby>上<rt>うえ</rt></ruby>",
-      "てばかりはいられない"
+      "その上",
+      "に沿って"
     ],
     "correct_text_ruby": "はもとより"
   },
@@ -42255,7 +42253,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "はともかく",
       "かと思ったら",
-      "にすぎない",
+      "に沿って",
       "ずに済む"
     ],
     "answer": 0,
@@ -42265,9 +42263,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>行く<rt>いく</rt></ruby>か<ruby>行<rt>い</rt></ruby>かないかはともかく、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。",
     "choices_ruby": [
       "はともかく",
-      "かと<ruby>思<rt>おも</rt></ruby>ったら",
-      "にすぎない",
-      "ずに<ruby>済<rt>す</rt></ruby>む"
+      "かと思ったら",
+      "に沿って",
+      "ずに済む"
     ],
     "correct_text_ruby": "はともかく"
   },
@@ -42343,7 +42341,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I can't even write kanji, let alone read it.",
     "question": "漢字を読むこと【　　】、書くことは苦手だ。",
     "choices": [
-      "ないではいられない",
+      "に沿って",
       "てでも",
       "まい",
       "はともかく"
@@ -42354,7 +42352,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>こと【　　】、<ruby>書く<rt>かく</rt></ruby>ことは<ruby>苦手<rt>にがて</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>ことはともかく、<ruby>書く<rt>かく</rt></ruby>ことは<ruby>苦手<rt>にがて</rt></ruby>だ。",
     "choices_ruby": [
-      "ないではいられない",
+      "に沿って",
       "てでも",
       "まい",
       "はともかく"
@@ -42561,8 +42559,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "わずかに",
     "notes": "",
-    "question_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>きん</rt></ruby>は【　　】1、000<ruby>円<rt>えん</rt></ruby>だった。",
-    "sentence_jp_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>きん</rt></ruby>はわずかに1、000<ruby>円<rt>えん</rt></ruby>だった。",
+    "question_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>かね</rt></ruby>は【　　】1、000<ruby>円<rt>えん</rt></ruby>だった。",
+    "sentence_jp_ruby": "<ruby>財布<rt>さいふ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>残っ<rt>のこっ</rt></ruby>ていたお<ruby>金<rt>かね</rt></ruby>はわずかに1、000<ruby>円<rt>えん</rt></ruby>だった。",
     "choices_ruby": [
       "わずかに",
       "ていては",
@@ -42613,7 +42611,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "I'm surprised you did all that work in just four days.",
     "question": "【　　】4日間でそんなにたくさんの仕事をしたとは驚きだ。",
     "choices": [
-      "てならない",
+      "それにしても",
       "だけのことはある",
       "わずかに",
       "というふうに"
@@ -42624,7 +42622,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "【　　】4<ruby>日間<rt>にちかん</rt></ruby>でそんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>をしたとは<ruby>驚き<rt>おどろき</rt></ruby>だ。",
     "sentence_jp_ruby": "わずかに4<ruby>日間<rt>にちかん</rt></ruby>でそんなにたくさんの<ruby>仕事<rt>しごと</rt></ruby>をしたとは<ruby>驚き<rt>おどろき</rt></ruby>だ。",
     "choices_ruby": [
-      "てならない",
+      "それにしても",
       "だけのことはある",
       "わずかに",
       "というふうに"
@@ -42734,7 +42732,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "【　　】真っ暗になった。",
     "choices": [
       "やがて",
-      "にすぎない",
+      "それにしても",
       "てでも",
       "というものではない"
     ],
@@ -42745,7 +42743,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "やがて<ruby>真っ暗<rt>まっくら</rt></ruby>になった。",
     "choices_ruby": [
       "やがて",
-      "にすぎない",
+      "それにしても",
       "てでも",
       "というものではない"
     ],
@@ -43186,7 +43184,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "よほど",
       "得る",
       "に向かって",
-      "ないではいられない"
+      "それにしても"
     ],
     "answer": 0,
     "correct_text": "よほど",
@@ -43195,9 +43193,9 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "よほど<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。",
     "choices_ruby": [
       "よほど",
-      "<ruby>得<rt>え</rt></ruby>る",
-      "に<ruby>向<rt>む</rt></ruby>かって",
-      "ないではいられない"
+      "得る",
+      "に向かって",
+      "それにしても"
     ],
     "correct_text_ruby": "よほど"
   },
@@ -43605,7 +43603,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "より",
       "かねる",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには"
     ],
     "answer": 0,
@@ -43616,7 +43614,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "より",
       "かねる",
-      "てばかりはいられない",
+      "に沿って",
       "ないことには"
     ],
     "correct_text_ruby": "より"
@@ -43641,8 +43639,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "よりほかはない",
     "notes": "",
-    "question_ruby": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>くん</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>る【　　】。",
-    "sentence_jp_ruby": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>くん</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>るよりほかはない。",
+    "question_ruby": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>きみ</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>る【　　】。",
+    "sentence_jp_ruby": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>きみ</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>るよりほかはない。",
     "choices_ruby": [
       "よりほかはない",
       "ちっとも",
@@ -43903,7 +43901,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "If you start studying the day before the exam, you will not be able to pass.",
     "question": "試験の前の日に勉強を始める【　　】、合格はできない。",
     "choices": [
-      "にすぎない",
+      "に沿って",
       "再び",
       "たまえ",
       "ようでは"
@@ -43914,8 +43912,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>る【　　】、<ruby>合格<rt>ごうかく</rt></ruby>はできない。",
     "sentence_jp_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前の日<rt>まえのひ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>るようでは、<ruby>合格<rt>ごうかく</rt></ruby>はできない。",
     "choices_ruby": [
-      "にすぎない",
-      "<ruby>再<rt>ふたた</rt></ruby>び",
+      "に沿って",
+      "再び",
       "たまえ",
       "ようでは"
     ],
@@ -44001,8 +43999,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ようでは",
     "notes": "",
-    "question_ruby": "<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがある【　　】、<ruby>君<rt>くん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。",
-    "sentence_jp_ruby": "<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがあるようでは、<ruby>君<rt>くん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。",
+    "question_ruby": "<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがある【　　】、<ruby>君<rt>きみ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。",
+    "sentence_jp_ruby": "<ruby>報告書<rt>ほうこくしょ</rt></ruby>にこんなにミスがあるようでは、<ruby>君<rt>きみ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>られない。",
     "choices_ruby": [
       "<ruby>何<rt>なに</rt></ruby>も",
       "っこない",
@@ -44481,8 +44479,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ようか",
     "notes": "",
-    "question_ruby": "<ruby>食べた<rt>たべた</rt></ruby>いけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。",
-    "sentence_jp_ruby": "<ruby>食べた<rt>たべた</rt></ruby>いけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>ようか<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。",
+    "question_ruby": "<ruby>食<rt>た</rt></ruby>べたいけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>【　　】<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。",
+    "sentence_jp_ruby": "<ruby>食<rt>た</rt></ruby>べたいけど、<ruby>太り<rt>ふとり</rt></ruby>たくないし、<ruby>食べ<rt>たべ</rt></ruby>ようか<ruby>食べ<rt>たべ</rt></ruby>まいか<ruby>悩ん<rt>なやん</rt></ruby>でいます。",
     "choices_ruby": [
       "に<ruby>応<rt>おう</rt></ruby>じて",
       "ないことには",
@@ -44625,7 +44623,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "要するに",
       "からには",
-      "てばかりはいられない",
+      "に沿って",
       "ざるを得ない"
     ],
     "answer": 0,
@@ -44634,10 +44632,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>合格点<rt>ごうかくてん</rt></ruby>に5<ruby>点<rt>てん</rt></ruby><ruby>足り<rt>たり</rt></ruby>ず、<ruby>不合格<rt>ふごうかく</rt></ruby>でした。【　　】、まだまだ<ruby>努力<rt>どりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なかった。",
     "sentence_jp_ruby": "<ruby>合格点<rt>ごうかくてん</rt></ruby>に5<ruby>点<rt>てん</rt></ruby><ruby>足り<rt>たり</rt></ruby>ず、<ruby>不合格<rt>ふごうかく</rt></ruby>でした。<ruby>要す<rt>ようす</rt></ruby>るに、まだまだ<ruby>努力<rt>どりょく</rt></ruby>が<ruby>足り<rt>たり</rt></ruby>なかった。",
     "choices_ruby": [
-      "<ruby>要<rt>よう</rt></ruby>するに",
+      "要するに",
       "からには",
-      "てばかりはいられない",
-      "ざるを<ruby>得<rt>え</rt></ruby>ない"
+      "に沿って",
+      "ざるを得ない"
     ],
     "correct_text_ruby": "<ruby>要<rt>よう</rt></ruby>するに"
   },
@@ -44956,7 +44954,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
       "に関わらず",
       "諦めざるを得ない",
       "ところだった",
-      "にすぎない"
+      "に沿って"
     ],
     "answer": 1,
     "correct_text": "諦めざるを得ない",
@@ -44964,10 +44962,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>困難<rt>こんなん</rt></ruby>を<ruby>抱え<rt>かかえ</rt></ruby>る<ruby>多く<rt>おおく</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が、<ruby>学費<rt>がくひ</rt></ruby>を<ruby>工面<rt>くめん</rt></ruby>できずに<ruby>進学<rt>しんがく</rt></ruby>を【　　】のが<ruby>現状<rt>げんじょう</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>困難<rt>こんなん</rt></ruby>を<ruby>抱え<rt>かかえ</rt></ruby>る<ruby>多く<rt>おおく</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が、<ruby>学費<rt>がくひ</rt></ruby>を<ruby>工面<rt>くめん</rt></ruby>できずに<ruby>進学<rt>しんがく</rt></ruby>を<ruby>諦め<rt>あきらめ</rt></ruby>ざるを<ruby>得な<rt>えな</rt></ruby>いのが<ruby>現状<rt>げんじょう</rt></ruby>だ。",
     "choices_ruby": [
-      "に<ruby>関<rt>かか</rt></ruby>わらず",
-      "<ruby>諦<rt>あきら</rt></ruby>めざるを<ruby>得<rt>え</rt></ruby>ない",
+      "に関わらず",
+      "諦めざるを得ない",
       "ところだった",
-      "にすぎない"
+      "に沿って"
     ],
     "correct_text_ruby": "<ruby>諦<rt>あきら</rt></ruby>めざるを<ruby>得<rt>え</rt></ruby>ない"
   },
@@ -45212,6 +45210,3 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "correct_text_ruby": "ずに<ruby>済<rt>す</rt></ruby>んだ"
   }
 ];
-
-// Dual alias for backwards compatibility
-window.JLPT_N2_QUIZ_DATA = window.JLPT_N2_GRAMMAR_QUIZ_DATA;

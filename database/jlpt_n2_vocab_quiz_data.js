@@ -1,5 +1,3 @@
-// JLPT N2 Complete Vocabulary Quiz Dataset (896 Questions)
-// Balanced 25.0% answers, full ruby support, non-sensitive, natural Japanese
 window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 1,
@@ -8701,15 +8699,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "未"
     ],
     "choices_ruby": [
-      "<ruby>準<rt>じゅん</rt></ruby>",
-      "<ruby>無<rt>む</rt></ruby>",
-      "<ruby>非<rt>ひ</rt></ruby>",
-      "<ruby>未<rt>み</rt></ruby>"
+      "準",
+      "無",
+      "非",
+      "未"
     ],
     "answer": 3,
     "correct_text": "未",
     "meaning_en": "nothing; naught",
-    "explanation": "",
+    "explanation": "【未〜（み）】まだ〜していないことを表す接頭辞。「未使用（みしよう）」は、まだ一度も使われていない状態を表します。（例：未経験、未完成、未成年）",
     "kanji_info": [
       {
         "kanji": "無",
@@ -8753,15 +8751,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "元"
     ],
     "choices_ruby": [
-      "<ruby>旧<rt>きゅう</rt></ruby>",
-      "<ruby>古<rt>ふる</rt></ruby>",
-      "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>元<rt>もと</rt></ruby>"
+      "旧",
+      "古",
+      "前",
+      "元"
     ],
     "answer": 0,
     "correct_text": "旧",
     "meaning_en": "antiquity; ancient times",
-    "explanation": "",
+    "explanation": "【旧〜（きゅう）】以前の、昔のものを表す接頭辞。「旧校舎（きゅうこうしゃ）」は、新校舎ができる前に使われていた以前の校舎を表します。（例：旧友、旧姓、旧型）",
     "kanji_info": [
       {
         "kanji": "古",
@@ -8805,15 +8803,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "源"
     ],
     "choices_ruby": [
-      "<ruby>本<rt>ほん</rt></ruby>",
-      "<ruby>主<rt>あるじ</rt></ruby>",
-      "<ruby>元<rt>もと</rt></ruby>",
-      "<ruby>源<rt>みなもと</rt></ruby>"
+      "本",
+      "主",
+      "元",
+      "源"
     ],
     "answer": 1,
     "correct_text": "主",
     "meaning_en": "owner, master, god",
-    "explanation": "",
+    "explanation": "【主〜（しゅ）】主要な、中心となるものを表す接頭辞。「主成分（しゅせいぶん）」は、構成成分の中で最も中心的なものを指します。（例：主原料、主産地）",
     "kanji_info": [
       {
         "kanji": "主",
@@ -8841,7 +8839,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "しゅせいぶん",
     "correct_text_reading": "しゅ",
-    "correct_text_ruby": "<ruby>主<rt>あるじ</rt></ruby>"
+    "correct_text_ruby": "<ruby>主<rt>しゅ</rt></ruby>"
   },
   {
     "id": 147,
@@ -8857,15 +8855,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "先"
     ],
     "choices_ruby": [
-      "<ruby>古<rt>ふる</rt></ruby>",
-      "<ruby>旧<rt>きゅう</rt></ruby>",
-      "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>先<rt>さき</rt></ruby>"
+      "古",
+      "旧",
+      "前",
+      "先"
     ],
     "answer": 2,
     "correct_text": "前",
     "meaning_en": "before",
-    "explanation": "",
+    "explanation": "【前〜（ぜん）】ひとつ前の代・任期を表す接頭辞。「前町長（ぜんちょうちょう）」は、現町長のひとつ前に町長を務めていた人を指します。（例：前大統領、前会長）",
     "kanji_info": [
       {
         "kanji": "前",
@@ -8893,7 +8891,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "ぜんちょうちょう",
     "correct_text_reading": "ぜん",
-    "correct_text_ruby": "<ruby>前<rt>まえ</rt></ruby>"
+    "correct_text_ruby": "<ruby>前<rt>ぜん</rt></ruby>"
   },
   {
     "id": 148,
@@ -8909,15 +8907,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "再"
     ],
     "choices_ruby": [
-      "<ruby>次<rt>つぎ</rt></ruby>",
-      "<ruby>来<rt>き</rt></ruby>",
-      "<ruby>最<rt>さい</rt></ruby>",
-      "<ruby>再<rt>さい</rt></ruby>"
+      "次",
+      "来",
+      "最",
+      "再"
     ],
     "answer": 3,
     "correct_text": "再",
     "meaning_en": "re-; again",
-    "explanation": "",
+    "explanation": "【再〜（さい）】もう一度行うことを表す接頭辞。「再提出（さいていしゅつ）」は、一度出したものを修正などしてもう一度提出することを表します。（例：再開、再確認）",
     "kanji_info": [
       {
         "kanji": "再",
@@ -8961,15 +8959,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "生"
     ],
     "choices_ruby": [
-      "<ruby>真<rt>しん</rt></ruby>",
-      "<ruby>本<rt>ほん</rt></ruby>",
-      "<ruby>正<rt>ただし</rt></ruby>",
-      "<ruby>生<rt>なま</rt></ruby>"
+      "真",
+      "本",
+      "正",
+      "生"
     ],
     "answer": 0,
     "correct_text": "真",
     "meaning_en": "truth; reality",
-    "explanation": "",
+    "explanation": "【真〜（ま）】まったくの、完全なという意味を強める接頭辞。「真新しい（まあたらしい）」は、使ったり古くなったりしていない、完全に新しい状態を表します。（例：真っ白、真夜中）",
     "kanji_info": [
       {
         "kanji": "真",
@@ -8997,7 +8995,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "まあたらしい",
     "correct_text_reading": "ま",
-    "correct_text_ruby": "<ruby>真<rt>しん</rt></ruby>"
+    "correct_text_ruby": "<ruby>真<rt>ま</rt></ruby>"
   },
   {
     "id": 150,
@@ -9013,15 +9011,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "非"
     ],
     "choices_ruby": [
-      "<ruby>不<rt>ふ</rt></ruby>",
-      "<ruby>未<rt>み</rt></ruby>",
-      "<ruby>無<rt>む</rt></ruby>",
-      "<ruby>非<rt>ひ</rt></ruby>"
+      "不",
+      "未",
+      "無",
+      "非"
     ],
     "answer": 1,
     "correct_text": "未",
     "meaning_en": "eighth sign of Chinese zodiac (The Ram  1pm-3pm  south-southwest  June)",
-    "explanation": "",
+    "explanation": "【未〜（み）】まだ〜していないことを表す接頭辞。「未経験（みけいけん）」は、まだそれを経験したことがないことを表します。（例：未払い、未解決）",
     "kanji_info": [
       {
         "kanji": "未",
@@ -9065,15 +9063,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "上"
     ],
     "choices_ruby": [
-      "<ruby>合<rt>ごう</rt></ruby>",
-      "<ruby>良<rt>りょう</rt></ruby>",
-      "<ruby>好<rt>よしみ</rt></ruby>",
-      "<ruby>上<rt>うえ</rt></ruby>"
+      "合",
+      "良",
+      "好",
+      "上"
     ],
     "answer": 2,
     "correct_text": "好",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【好〜（こう）】良い、望ましいことを表す接頭辞。「好都合（こうつごう）」は、状況や条件が自分にとってちょうど良く有利であることを表します。（例：好天、好条件、好感）",
     "kanji_info": [
       {
         "kanji": "好",
@@ -9101,7 +9099,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "こうつごう",
     "correct_text_reading": "こう",
-    "correct_text_ruby": "<ruby>好<rt>よしみ</rt></ruby>"
+    "correct_text_ruby": "<ruby>好<rt>こう</rt></ruby>"
   },
   {
     "id": 152,
@@ -9117,15 +9115,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "準"
     ],
     "choices_ruby": [
-      "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>副<rt>ふく</rt></ruby>",
-      "<ruby>次<rt>つぎ</rt></ruby>",
-      "<ruby>準<rt>じゅん</rt></ruby>"
+      "前",
+      "副",
+      "次",
+      "準"
     ],
     "answer": 3,
     "correct_text": "準",
     "meaning_en": "semi-; quasi-",
-    "explanation": "",
+    "explanation": "【準〜（じゅん）】それに次ぐ位、準ずることを表す接頭辞。「準決勝（じゅんけっしょう）」は、決勝の直前の試合（セミファイナル）を表します。（例：準優勝、準急）",
     "kanji_info": [
       {
         "kanji": "準",
@@ -9169,15 +9167,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "後"
     ],
     "choices_ruby": [
-      "<ruby>来<rt>き</rt></ruby>",
-      "<ruby>次<rt>つぎ</rt></ruby>",
-      "<ruby>先<rt>さき</rt></ruby>",
-      "<ruby>後<rt>あと</rt></ruby>"
+      "来",
+      "次",
+      "先",
+      "後"
     ],
     "answer": 0,
     "correct_text": "来",
     "meaning_en": "for (10 days); next (year)",
-    "explanation": "",
+    "explanation": "【来〜（らい）】次の、これから来る時期を表す接頭辞。「来学期（らいがっき）」は、次の学期を表します。（例：来週、来年、来学期）",
     "kanji_info": [
       {
         "kanji": "来",
@@ -9205,7 +9203,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "らいがっき",
     "correct_text_reading": "らい",
-    "correct_text_ruby": "<ruby>来<rt>き</rt></ruby>"
+    "correct_text_ruby": "<ruby>来<rt>らい</rt></ruby>"
   },
   {
     "id": 154,
@@ -9221,15 +9219,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "高"
     ],
     "choices_ruby": [
-      "<ruby>先<rt>さき</rt></ruby>",
-      "<ruby>最<rt>さい</rt></ruby>",
-      "<ruby>主<rt>あるじ</rt></ruby>",
-      "<ruby>高<rt>こう</rt></ruby>"
+      "先",
+      "最",
+      "主",
+      "高"
     ],
     "answer": 1,
     "correct_text": "最",
     "meaning_en": "the most ~",
-    "explanation": "",
+    "explanation": "【最〜（さい）】もっとも、一番を表す接頭辞。「最年少（さいねんしょう）」は、集団の中で最も年齢が若いことを表します。（例：最年長、最高、最新）",
     "kanji_info": [
       {
         "kanji": "最",
@@ -9273,15 +9271,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "合"
     ],
     "choices_ruby": [
-      "<ruby>高<rt>こう</rt></ruby>",
-      "<ruby>各<rt>かく</rt></ruby>",
-      "<ruby>総<rt>そう</rt></ruby>",
-      "<ruby>合<rt>ごう</rt></ruby>"
+      "高",
+      "各",
+      "総",
+      "合"
     ],
     "answer": 2,
     "correct_text": "総",
     "meaning_en": "whole; all",
-    "explanation": "",
+    "explanation": "【総〜（そう）】全体の、すべてを合わせたものを表す接頭辞。「総人口（そうじんこう）」は、その地域や国全体の人口の合計を表します。（例：総額、総数、総売上）",
     "kanji_info": [
       {
         "kanji": "総",
@@ -9325,15 +9323,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "非"
     ],
     "choices_ruby": [
-      "<ruby>不<rt>ふ</rt></ruby>",
-      "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>無<rt>む</rt></ruby>",
-      "<ruby>非<rt>ひ</rt></ruby>"
+      "不",
+      "前",
+      "無",
+      "非"
     ],
     "answer": 3,
     "correct_text": "非",
     "meaning_en": "faulty-; non-",
-    "explanation": "",
+    "explanation": "【非〜（ひ）】〜ではない、反対を表す接頭辞。「非公開（ひこうかい）」は、一般に広く知らせたり見せたりしないことを表します。（例：非常識、非公式）",
     "kanji_info": [
       {
         "kanji": "非",
@@ -9377,15 +9375,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "先"
     ],
     "choices_ruby": [
-      "<ruby>現<rt>げん</rt></ruby>",
-      "<ruby>今<rt>いま</rt></ruby>",
-      "<ruby>最<rt>さい</rt></ruby>",
-      "<ruby>先<rt>さき</rt></ruby>"
+      "現",
+      "今",
+      "最",
+      "先"
     ],
     "answer": 0,
     "correct_text": "現",
     "meaning_en": "present, incumbent",
-    "explanation": "",
+    "explanation": "【現〜（げん）】現在の、いまの段階を表す接頭辞。「現段階（げんだんかい）」は、今の時点・現在のステップを表します。（例：現時点、現住所、現役）",
     "kanji_info": [
       {
         "kanji": "現",
@@ -9429,15 +9427,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "統"
     ],
     "choices_ruby": [
-      "<ruby>総<rt>そう</rt></ruby>",
-      "<ruby>全<rt>ちょん</rt></ruby>",
-      "<ruby>完<rt>かん</rt></ruby>",
-      "<ruby>統<rt>みつる</rt></ruby>"
+      "総",
+      "全",
+      "完",
+      "統"
     ],
     "answer": 1,
     "correct_text": "全",
     "meaning_en": "all; whole",
-    "explanation": "",
+    "explanation": "【全〜（ぜん）】すべての、完全なを表す接頭辞。「全自動（ぜんじどう）」は、工程の最初から最後まで人間の手を借りず機械が自動で行うことを表します。（例：全国、全校、全席）",
     "kanji_info": [
       {
         "kanji": "全",
@@ -9465,7 +9463,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "ぜんじどう",
     "correct_text_reading": "ぜん",
-    "correct_text_ruby": "<ruby>全<rt>ちょん</rt></ruby>"
+    "correct_text_ruby": "<ruby>全<rt>ぜん</rt></ruby>"
   },
   {
     "id": 159,
@@ -9481,15 +9479,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "無"
     ],
     "choices_ruby": [
-      "<ruby>短<rt>たん</rt></ruby>",
-      "<ruby>中<rt>なか</rt></ruby>",
-      "<ruby>半<rt>はん</rt></ruby>",
-      "<ruby>無<rt>む</rt></ruby>"
+      "短",
+      "中",
+      "半",
+      "無"
     ],
     "answer": 2,
     "correct_text": "半",
     "meaning_en": "half",
-    "explanation": "",
+    "explanation": "【半〜（はん）】半分だけ〜している状態を表す接頭辞。「半開き（はんびらき）」は、ドアや目が半分だけ開いている状態を表します。（例：半生、半透明、半そで）",
     "kanji_info": [
       {
         "kanji": "半",
@@ -9533,15 +9531,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "元"
     ],
     "choices_ruby": [
-      "<ruby>前<rt>まえ</rt></ruby>",
-      "<ruby>旧<rt>きゅう</rt></ruby>",
-      "<ruby>古<rt>ふる</rt></ruby>",
-      "<ruby>元<rt>もと</rt></ruby>"
+      "前",
+      "旧",
+      "古",
+      "元"
     ],
     "answer": 3,
     "correct_text": "元",
     "meaning_en": "(1) origin; original",
-    "explanation": "",
+    "explanation": "【元〜（もと）】かつてその立場・職業だったことを表す接頭辞。「元医師（もといし）」は、以前医師であった人を指します。（例：元首相、元社員、元チャンピオン）",
     "kanji_info": [
       {
         "kanji": "元",
@@ -9585,15 +9583,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "短"
     ],
     "choices_ruby": [
-      "<ruby>薄<rt>すすき</rt></ruby>",
-      "<ruby>少<rt>すくな</rt></ruby>",
-      "<ruby>小<rt>しょう</rt></ruby>",
-      "<ruby>短<rt>たん</rt></ruby>"
+      "薄",
+      "少",
+      "小",
+      "短"
     ],
     "answer": 0,
     "correct_text": "薄",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【薄〜（うす）】わずかに、かすかに〜であることを表す接頭辞。「薄笑い（うすわらい）」は、口元にわずかに笑みを浮かべること、冷笑的な笑いを表します。（例：薄暗い、薄味）",
     "kanji_info": [
       {
         "kanji": "薄",
@@ -9621,7 +9619,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "うすわらい",
     "correct_text_reading": "うす",
-    "correct_text_ruby": "<ruby>薄<rt>すすき</rt></ruby>"
+    "correct_text_ruby": "<ruby>薄<rt>うす</rt></ruby>"
   },
   {
     "id": 162,
@@ -9637,15 +9635,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "始"
     ],
     "choices_ruby": [
-      "<ruby>現<rt>げん</rt></ruby>",
-      "<ruby>初<rt>はつ</rt></ruby>",
-      "<ruby>一<rt>いち</rt></ruby>",
-      "<ruby>始<rt>はじめ</rt></ruby>"
+      "現",
+      "初",
+      "一",
+      "始"
     ],
     "answer": 1,
     "correct_text": "初",
     "meaning_en": "first; new",
-    "explanation": "",
+    "explanation": "【初〜（はつ）】初めてであることを表す接頭辞。「初上陸（はつじょうりく）」は、外国のブランドや店舗などが初めて日本の地に店舗を構えることなどを表します。（例：初登場、初公開）",
     "kanji_info": [
       {
         "kanji": "初",
@@ -9689,15 +9687,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "少"
     ],
     "choices_ruby": [
-      "<ruby>短<rt>たん</rt></ruby>",
-      "<ruby>小<rt>しょう</rt></ruby>",
-      "<ruby>低<rt>ひく</rt></ruby>",
-      "<ruby>少<rt>すくな</rt></ruby>"
+      "短",
+      "小",
+      "低",
+      "少"
     ],
     "answer": 2,
     "correct_text": "低",
     "meaning_en": "low ~",
-    "explanation": "",
+    "explanation": "【低〜（てい）】程度や数量が低いことを表す接頭辞。「低カロリー（ていかろりー）」は、熱量（カロリー）が控えめであることを表します。（例：低価格、低気圧、低所得）",
     "kanji_info": [
       {
         "kanji": "低",
@@ -9725,7 +9723,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "ていかろりー",
     "correct_text_reading": "てい",
-    "correct_text_ruby": "<ruby>低<rt>ひく</rt></ruby>"
+    "correct_text_ruby": "<ruby>低<rt>てい</rt></ruby>"
   },
   {
     "id": 164,
@@ -9741,15 +9739,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "異"
     ],
     "choices_ruby": [
-      "<ruby>先<rt>さき</rt></ruby>",
-      "<ruby>次<rt>つぎ</rt></ruby>",
-      "<ruby>違<rt>い</rt></ruby>",
-      "<ruby>異<rt>い</rt></ruby>"
+      "先",
+      "次",
+      "違",
+      "異"
     ],
     "answer": 3,
     "correct_text": "異",
     "meaning_en": "objection",
-    "explanation": "",
+    "explanation": "【異〜（い）】別の、普通とは異なることを表す接頭辞。「異世界（いせかい）」は、自分がいる現実の世界とは異なる別の世界を表します。（例：異文化、異次元、異常）",
     "kanji_info": [
       {
         "kanji": "異",
@@ -9793,15 +9791,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "部"
     ],
     "choices_ruby": [
-      "<ruby>先<rt>さき</rt></ruby>",
-      "<ruby>元<rt>もと</rt></ruby>",
-      "<ruby>場<rt>ば</rt></ruby>",
-      "<ruby>部<rt>ぶ</rt></ruby>"
+      "先",
+      "元",
+      "場",
+      "部"
     ],
     "answer": 0,
     "correct_text": "先",
     "meaning_en": "the future; previous",
-    "explanation": "",
+    "explanation": "【〜先（さき）】場所や相手先を表す接尾辞。「勤務先（きんむさき）」は、自分が働いている職場・会社を指します。（例：連絡先、就職先、旅行先）",
     "kanji_info": [
       {
         "kanji": "先",
@@ -9845,15 +9843,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "原"
     ],
     "choices_ruby": [
-      "<ruby>発<rt>はつ</rt></ruby>",
-      "<ruby>元<rt>もと</rt></ruby>",
-      "<ruby>地<rt>ち</rt></ruby>",
-      "<ruby>原<rt>はら</rt></ruby>"
+      "発",
+      "元",
+      "地",
+      "原"
     ],
     "answer": 1,
     "correct_text": "元",
     "meaning_en": "(1) origin; original",
-    "explanation": "",
+    "explanation": "【〜元（もと）】出どころ、根本、基点を表す接尾辞。「引用元（いんようもと）」は、文章やデータを引用した出どころ・情報源を指します。（例：発売元、送り元、仕入れ元）",
     "kanji_info": [
       {
         "kanji": "元",
@@ -9897,15 +9895,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "類"
     ],
     "choices_ruby": [
-      "<ruby>質<rt>しつ</rt></ruby>",
-      "<ruby>性<rt>せい</rt></ruby>",
-      "<ruby>式<rt>しき</rt></ruby>",
-      "<ruby>類<rt>るい</rt></ruby>"
+      "質",
+      "性",
+      "式",
+      "類"
     ],
     "answer": 2,
     "correct_text": "式",
     "meaning_en": "equation; formula",
-    "explanation": "",
+    "explanation": "【〜式（しき）】型式や方式を表す接尾辞。「組み立て式（くみたてしき）」は、部品を組み立てて完成させる方式を表します。（例：折りたたみ式、日本式、充電式）",
     "kanji_info": [
       {
         "kanji": "式",
@@ -9949,15 +9947,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "費"
     ],
     "choices_ruby": [
-      "<ruby>代<rt>だい</rt></ruby>",
-      "<ruby>値<rt>ね</rt></ruby>",
-      "<ruby>賃<rt>ちん</rt></ruby>",
-      "<ruby>費<rt>ひ</rt></ruby>"
+      "代",
+      "値",
+      "賃",
+      "費"
     ],
     "answer": 3,
     "correct_text": "費",
     "meaning_en": "cost; expense",
-    "explanation": "",
+    "explanation": "【〜費（ひ）】金銭の支出、費用を表す接尾辞。「光熱費（こうねつひ）」は、電気やガスなど熱・光に使う費用のことです。（例：交通費、学費、生活費）",
     "kanji_info": [
       {
         "kanji": "費",
@@ -10001,15 +9999,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "式"
     ],
     "choices_ruby": [
-      "<ruby>類<rt>るい</rt></ruby>",
-      "<ruby>集<rt>しゅう</rt></ruby>",
-      "<ruby>種<rt>たね</rt></ruby>",
-      "<ruby>式<rt>しき</rt></ruby>"
+      "類",
+      "集",
+      "種",
+      "式"
     ],
     "answer": 0,
     "correct_text": "類",
     "meaning_en": "a kind",
-    "explanation": "",
+    "explanation": "【〜類（るい）】同種の仲間・グループを表す接尾辞。「食器類（しょっきるい）」は、皿・コップ・茶碗など食事に使う器具全般を表します。（例：書類、衣類、鳥類）",
     "kanji_info": [
       {
         "kanji": "類",
@@ -10053,15 +10051,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "色"
     ],
     "choices_ruby": [
-      "<ruby>類<rt>るい</rt></ruby>",
-      "<ruby>風<rt>かぜ</rt></ruby>",
-      "<ruby>感<rt>かん</rt></ruby>",
-      "<ruby>色<rt>いろ</rt></ruby>"
+      "類",
+      "風",
+      "感",
+      "色"
     ],
     "answer": 1,
     "correct_text": "風",
     "meaning_en": "wind",
-    "explanation": "",
+    "explanation": "【〜風（ふう）】その様式・傾向・雰囲気を表す接尾辞。「和風（わふう）」は、日本の伝統的な様式やテイストを表します。（例：洋風、中華風、現代風）",
     "kanji_info": [
       {
         "kanji": "風",
@@ -10089,7 +10087,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "わふう",
     "correct_text_reading": "ふう",
-    "correct_text_ruby": "<ruby>風<rt>かぜ</rt></ruby>"
+    "correct_text_ruby": "<ruby>風<rt>ふう</rt></ruby>"
   },
   {
     "id": 171,
@@ -10105,15 +10103,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "違"
     ],
     "choices_ruby": [
-      "<ruby>異<rt>い</rt></ruby>",
-      "<ruby>分<rt>ぶん</rt></ruby>",
-      "<ruby>差<rt>さ</rt></ruby>",
-      "<ruby>違<rt>い</rt></ruby>"
+      "異",
+      "分",
+      "差",
+      "違"
     ],
     "answer": 2,
     "correct_text": "差",
     "meaning_en": "difference; variation",
-    "explanation": "",
+    "explanation": "【〜差（さ）】違いや隔たりを表す接尾辞。「地域差（ちいきさ）」は、地域や地方によって生じる違いや格差を表します。（例：個人差、温度差、男女差）",
     "kanji_info": [
       {
         "kanji": "差",
@@ -10157,15 +10155,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "状"
     ],
     "choices_ruby": [
-      "<ruby>質<rt>しつ</rt></ruby>",
-      "<ruby>形<rt>かたち</rt></ruby>",
-      "<ruby>感<rt>かん</rt></ruby>",
-      "<ruby>状<rt>じょう</rt></ruby>"
+      "質",
+      "形",
+      "感",
+      "状"
     ],
     "answer": 3,
     "correct_text": "状",
     "meaning_en": "shape",
-    "explanation": "",
+    "explanation": "【〜状（じょう）】〜のような形や状態を表す接尾辞。「液体状（えきたいじょう）」は、液体の形・性質をしている状態を表します。（例：粉末状、帯状、クリーム状）",
     "kanji_info": [
       {
         "kanji": "状",
@@ -10209,15 +10207,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "賃"
     ],
     "choices_ruby": [
-      "<ruby>代<rt>だい</rt></ruby>",
-      "<ruby>費<rt>ひ</rt></ruby>",
-      "<ruby>金<rt>きむ</rt></ruby>",
-      "<ruby>賃<rt>ちん</rt></ruby>"
+      "代",
+      "費",
+      "金",
+      "賃"
     ],
     "answer": 0,
     "correct_text": "代",
     "meaning_en": "price; materials",
-    "explanation": "",
+    "explanation": "【〜代（だい）】商品やサービスの利用に支払うお金を表す接尾辞。「電気代（でんきだい）」は、使用した電気の料金のことです。（例：部屋代、バス代、食事代）",
     "kanji_info": [
       {
         "kanji": "代",
@@ -10261,15 +10259,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "式"
     ],
     "choices_ruby": [
-      "<ruby>版<rt>ばん</rt></ruby>",
-      "<ruby>順<rt>じゅん</rt></ruby>",
-      "<ruby>制<rt>せい</rt></ruby>",
-      "<ruby>式<rt>しき</rt></ruby>"
+      "版",
+      "順",
+      "制",
+      "式"
     ],
     "answer": 1,
     "correct_text": "順",
     "meaning_en": "order; turn",
-    "explanation": "",
+    "explanation": "【〜順（じゅん）】一定の並びの順序を表す接尾辞。「アルファベット順（あるふぁべっとじゅん）」は、AからZへの並び順を表します。（例：五十音順、年齢順、到着順）",
     "kanji_info": [
       {
         "kanji": "順",
@@ -10313,15 +10311,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "代"
     ],
     "choices_ruby": [
-      "<ruby>費<rt>ひ</rt></ruby>",
-      "<ruby>料<rt>りょう</rt></ruby>",
-      "<ruby>金<rt>きむ</rt></ruby>",
-      "<ruby>代<rt>だい</rt></ruby>"
+      "費",
+      "料",
+      "金",
+      "代"
     ],
     "answer": 2,
     "correct_text": "金",
     "meaning_en": "(1) gold; (2) gold general (shogi) (abbr)",
-    "explanation": "",
+    "explanation": "【〜金（きん）】お金、給付される資金を表す接尾辞。「奨学金（しょうがくきん）」は、学業を援助するために給付・貸与される資金のことです。（例：保証金、一時金、義援金）",
     "kanji_info": [
       {
         "kanji": "金",
@@ -10349,7 +10347,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "しょうがくきん",
     "correct_text_reading": "きん",
-    "correct_text_ruby": "<ruby>金<rt>きむ</rt></ruby>"
+    "correct_text_ruby": "<ruby>金<rt>きん</rt></ruby>"
   },
   {
     "id": 176,
@@ -10365,15 +10363,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "点"
     ],
     "choices_ruby": [
-      "<ruby>状<rt>じょう</rt></ruby>",
-      "<ruby>所<rt>ところ</rt></ruby>",
-      "<ruby>化<rt>か</rt></ruby>",
-      "<ruby>点<rt>てん</rt></ruby>"
+      "状",
+      "所",
+      "化",
+      "点"
     ],
     "answer": 3,
     "correct_text": "点",
     "meaning_en": "point; dot",
-    "explanation": "",
+    "explanation": "【〜点（てん）】箇所や項目を表す接尾辞。「変更点（へんこうてん）」は、以前の内容から変更された具体的な箇所を表します。（例：問題点、共通点、注意点）",
     "kanji_info": [
       {
         "kanji": "点",
@@ -10417,15 +10415,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "付"
     ],
     "choices_ruby": [
-      "<ruby>着<rt>ちゃく</rt></ruby>",
-      "<ruby>服<rt>ふく</rt></ruby>",
-      "<ruby>被<rt>ひ</rt></ruby>",
-      "<ruby>付<rt>つけ</rt></ruby>"
+      "着",
+      "服",
+      "被",
+      "付"
     ],
     "answer": 0,
     "correct_text": "着",
     "meaning_en": "counter for suits of clothing; arriving at ..",
-    "explanation": "",
+    "explanation": "【〜着（ぎ）】衣服を表す接尾辞。「部屋着（へやぎ）」は、家や部屋の中でくつろぐために着る衣服のことです。（例：普段着、作業着、寝着）",
     "kanji_info": [
       {
         "kanji": "着",
@@ -10453,7 +10451,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "へやぎ",
     "correct_text_reading": "ぎ",
-    "correct_text_ruby": "<ruby>着<rt>ちゃく</rt></ruby>"
+    "correct_text_ruby": "<ruby>着<rt>ぎ</rt></ruby>"
   },
   {
     "id": 178,
@@ -10469,15 +10467,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "法"
     ],
     "choices_ruby": [
-      "<ruby>観<rt>かん</rt></ruby>",
-      "<ruby>流<rt>りゅう</rt></ruby>",
-      "<ruby>順<rt>じゅん</rt></ruby>",
-      "<ruby>法<rt>ほう</rt></ruby>"
+      "観",
+      "流",
+      "順",
+      "法"
     ],
     "answer": 1,
     "correct_text": "流",
     "meaning_en": "styleof; method of",
-    "explanation": "",
+    "explanation": "【〜流（りゅう）】やり方や流派、スタイルを表す接尾辞。「日本流（にほんりゅう）」は、日本独特のやり方や様式を表します。（例：自己流、一流、アメリカ流）",
     "kanji_info": [
       {
         "kanji": "流",
@@ -10521,15 +10519,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "状"
     ],
     "choices_ruby": [
-      "<ruby>賞<rt>しょう</rt></ruby>",
-      "<ruby>型<rt>かた</rt></ruby>",
-      "<ruby>証<rt>あかし</rt></ruby>",
-      "<ruby>状<rt>じょう</rt></ruby>"
+      "賞",
+      "型",
+      "証",
+      "状"
     ],
     "answer": 2,
     "correct_text": "証",
     "meaning_en": "proof; evidence",
-    "explanation": "",
+    "explanation": "【〜証（しょう）】身分や資格を証明する書類・カードを表す接尾辞。「入場許可証（にゅうじょうきょかしょう）」は、入場を許可されたことを証明する証書です。（例：学生証、免許証、会員証）",
     "kanji_info": [
       {
         "kanji": "証",
@@ -10557,7 +10555,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "にゅうじょうきょかしょう",
     "correct_text_reading": "しょう",
-    "correct_text_ruby": "<ruby>証<rt>あかし</rt></ruby>"
+    "correct_text_ruby": "<ruby>証<rt>しょう</rt></ruby>"
   },
   {
     "id": 180,
@@ -10573,15 +10571,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "書"
     ],
     "choices_ruby": [
-      "<ruby>物<rt>もの</rt></ruby>",
-      "<ruby>券<rt>けん</rt></ruby>",
-      "<ruby>章<rt>あきら</rt></ruby>",
-      "<ruby>書<rt>しょ</rt></ruby>"
+      "物",
+      "券",
+      "章",
+      "書"
     ],
     "answer": 3,
     "correct_text": "書",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【〜書（しょ）】書類や文書を表す接尾辞。「見積書（みつもりしょ）」は、費用の計算・見積もりを記載した書類のことです。（例：請求書、報告書、契約書）",
     "kanji_info": [
       {
         "kanji": "書",
@@ -10625,15 +10623,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "界"
     ],
     "choices_ruby": [
-      "<ruby>別<rt>べつ</rt></ruby>",
-      "<ruby>差<rt>さ</rt></ruby>",
-      "<ruby>部<rt>ぶ</rt></ruby>",
-      "<ruby>界<rt>さかい</rt></ruby>"
+      "別",
+      "差",
+      "部",
+      "界"
     ],
     "answer": 0,
     "correct_text": "別",
     "meaning_en": "different",
-    "explanation": "",
+    "explanation": "【〜別（べつ）】その基準によって分類・区分することを表す接尾辞。「地域別（ちいきべつ）」は、地域ごとに分けることを表します。（例：年代別、性別、種類別）",
     "kanji_info": [
       {
         "kanji": "別",
@@ -10677,15 +10675,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "目"
     ],
     "choices_ruby": [
-      "<ruby>耳<rt>みみ</rt></ruby>",
-      "<ruby>手<rt>て</rt></ruby>",
-      "<ruby>口<rt>くち</rt></ruby>",
-      "<ruby>目<rt>め</rt></ruby>"
+      "耳",
+      "手",
+      "口",
+      "目"
     ],
     "answer": 1,
     "correct_text": "手",
     "meaning_en": "hand",
-    "explanation": "",
+    "explanation": "【〜手（て）】その行為を行う人を表す接尾辞。「聞き手（ききて）」は、話を聞く側の人を表します。（例：話し手、作り手、買い手）",
     "kanji_info": [
       {
         "kanji": "手",
@@ -10729,15 +10727,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "類"
     ],
     "choices_ruby": [
-      "<ruby>状<rt>じょう</rt></ruby>",
-      "<ruby>流<rt>りゅう</rt></ruby>",
-      "<ruby>型<rt>かた</rt></ruby>",
-      "<ruby>類<rt>るい</rt></ruby>"
+      "状",
+      "流",
+      "型",
+      "類"
     ],
     "answer": 2,
     "correct_text": "型",
     "meaning_en": "mold; model",
-    "explanation": "",
+    "explanation": "【〜型（がた）】タイプや形状、様式を表す接尾辞。「参加型（さんかがた）」は、観客や利用者が自ら参加するタイプの形式を表します。（例：新型、未来型、体験型）",
     "kanji_info": [
       {
         "kanji": "型",
@@ -10765,7 +10763,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "さんかがた",
     "correct_text_reading": "がた",
-    "correct_text_ruby": "<ruby>型<rt>かた</rt></ruby>"
+    "correct_text_ruby": "<ruby>型<rt>がた</rt></ruby>"
   },
   {
     "id": 184,
@@ -10781,15 +10779,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "制"
     ],
     "choices_ruby": [
-      "<ruby>業<rt>ごう</rt></ruby>",
-      "<ruby>決<rt>けつ</rt></ruby>",
-      "<ruby>限<rt>きり</rt></ruby>",
-      "<ruby>制<rt>せい</rt></ruby>"
+      "業",
+      "決",
+      "限",
+      "制"
     ],
     "answer": 3,
     "correct_text": "制",
     "meaning_en": "system; organization",
-    "explanation": "",
+    "explanation": "【〜制（せい）】制度やシステムを表す接尾辞。「予約制（よやくせい）」は、事前に予約することを決まりとしている制度を表します。（例：会員制、交代制、定額制）",
     "kanji_info": [
       {
         "kanji": "制",
@@ -10833,15 +10831,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "外"
     ],
     "choices_ruby": [
-      "<ruby>上<rt>うえ</rt></ruby>",
-      "<ruby>内<rt>うち</rt></ruby>",
-      "<ruby>下<rt>した</rt></ruby>",
-      "<ruby>外<rt>そと</rt></ruby>"
+      "上",
+      "内",
+      "下",
+      "外"
     ],
     "answer": 0,
     "correct_text": "上",
     "meaning_en": "on top of",
-    "explanation": "",
+    "explanation": "【〜上（じょう）】その観点・立場から見てを表す接尾辞。「事実上（じじつじょう）」は、形式や書類上はともかく、実際の事実としてはという意味です。（例：歴史上、法律上、健康上）",
     "kanji_info": [
       {
         "kanji": "上",
@@ -10869,7 +10867,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "じじつじょう",
     "correct_text_reading": "じょう",
-    "correct_text_ruby": "<ruby>上<rt>うえ</rt></ruby>"
+    "correct_text_ruby": "<ruby>上<rt>じょう</rt></ruby>"
   },
   {
     "id": 186,
@@ -10885,15 +10883,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "内"
     ],
     "choices_ruby": [
-      "<ruby>上<rt>うえ</rt></ruby>",
-      "<ruby>下<rt>した</rt></ruby>",
-      "<ruby>中<rt>なか</rt></ruby>",
-      "<ruby>内<rt>うち</rt></ruby>"
+      "上",
+      "下",
+      "中",
+      "内"
     ],
     "answer": 1,
     "correct_text": "下",
     "meaning_en": "below",
-    "explanation": "",
+    "explanation": "【〜下（か）】その支配・影響・管理の範囲にあることを表す接尾辞。「管理下（かんりか）」は、管理されている状況や範囲の中にあることを表します。（例：支配下、影響下、保護下）",
     "kanji_info": [
       {
         "kanji": "下",
@@ -10921,7 +10919,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "かんりか",
     "correct_text_reading": "か",
-    "correct_text_ruby": "<ruby>下<rt>した</rt></ruby>"
+    "correct_text_ruby": "<ruby>下<rt>か</rt></ruby>"
   },
   {
     "id": 187,
@@ -10937,15 +10935,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "力"
     ],
     "choices_ruby": [
-      "<ruby>集<rt>しゅう</rt></ruby>",
-      "<ruby>点<rt>てん</rt></ruby>",
-      "<ruby>量<rt>りょう</rt></ruby>",
-      "<ruby>力<rt>ちから</rt></ruby>"
+      "集",
+      "点",
+      "量",
+      "力"
     ],
     "answer": 2,
     "correct_text": "量",
     "meaning_en": "quantity; amount",
-    "explanation": "",
+    "explanation": "【〜量（りょう）】分量や数量を表す接尾辞。「消費量（しょうひりょう）」は、消費されるものの量を表します。（例：生産量、降水量、運動量）",
     "kanji_info": [
       {
         "kanji": "量",
@@ -10989,15 +10987,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "内"
     ],
     "choices_ruby": [
-      "<ruby>元<rt>もと</rt></ruby>",
-      "<ruby>状<rt>じょう</rt></ruby>",
-      "<ruby>発<rt>はつ</rt></ruby>",
-      "<ruby>内<rt>うち</rt></ruby>"
+      "元",
+      "状",
+      "発",
+      "内"
     ],
     "answer": 3,
     "correct_text": "内",
     "meaning_en": "inside",
-    "explanation": "",
+    "explanation": "【〜内（ない）】ある基準や範囲の内側にあることを表す接尾辞。「想定内（そうていない）」は、あらかじめ予想していた範囲の中に収まっているという意味です。（対義語：想定外）",
     "kanji_info": [
       {
         "kanji": "内",
@@ -11025,7 +11023,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "そうていない",
     "correct_text_reading": "ない",
-    "correct_text_ruby": "<ruby>内<rt>うち</rt></ruby>"
+    "correct_text_ruby": "<ruby>内<rt>ない</rt></ruby>"
   },
   {
     "id": 189,
@@ -11041,15 +11039,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "感"
     ],
     "choices_ruby": [
-      "<ruby>観<rt>かん</rt></ruby>",
-      "<ruby>点<rt>てん</rt></ruby>",
-      "<ruby>性<rt>せい</rt></ruby>",
-      "<ruby>感<rt>かん</rt></ruby>"
+      "観",
+      "点",
+      "性",
+      "感"
     ],
     "answer": 0,
     "correct_text": "観",
     "meaning_en": "look; appearance",
-    "explanation": "",
+    "explanation": "【〜観（かん）】ものの見方・考え方を表す接尾辞。「価値観（かちかん）」は、何を大切で価値があると感じるかという考え方のことです。（例：人生観、世界観、職業観）",
     "kanji_info": [
       {
         "kanji": "観",
@@ -11093,15 +11091,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "飛び"
     ],
     "choices_ruby": [
-      "<ruby>消<rt>き</rt></ruby>え",
-      "<ruby>切<rt>き</rt></ruby>れ",
-      "<ruby>去<rt>さ</rt></ruby>り",
-      "<ruby>飛<rt>と</rt></ruby>び"
+      "消え",
+      "切れ",
+      "去り",
+      "飛び"
     ],
     "answer": 1,
     "correct_text": "切れ",
     "meaning_en": "cloth; piece",
-    "explanation": "",
+    "explanation": "【〜切れ（ぎれ）】すっかり尽きて無くなることを表す接尾辞。「売り切れ（うりきれ）」は、商品がすべて売れて在庫が無くなった状態を表します。（例：品切れ、息切れ、時間切れ）",
     "kanji_info": [
       {
         "kanji": "切",
@@ -11129,7 +11127,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "うりきれ",
     "correct_text_reading": "ぎれ",
-    "correct_text_ruby": "<ruby>切<rt>き</rt></ruby>れ"
+    "correct_text_ruby": "<ruby>切<rt>ぎ</rt></ruby>れ"
   },
   {
     "id": 191,
@@ -11147,13 +11145,13 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "がち",
       "ぎれ",
-      "<ruby>気味<rt>きみ</rt></ruby>",
-      "<ruby>一色<rt>いっしょく</rt></ruby>"
+      "気味",
+      "一色"
     ],
     "answer": 2,
     "correct_text": "気味",
     "meaning_en": "-like; -looking",
-    "explanation": "",
+    "explanation": "【〜気味（ぎみ）】少しそのような傾向・様子があることを表す接尾辞。「かぜ気味（かぜぎみ）」は、本格的なかぜではないが少しひきかけている状態を表します。（例：疲れ気味、太り気味、焦り気味）",
     "kanji_info": [
       {
         "kanji": "気",
@@ -11197,7 +11195,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "かぜぎみ",
     "correct_text_reading": "ぎみ",
-    "correct_text_ruby": "<ruby>気味<rt>きみ</rt></ruby>"
+    "correct_text_ruby": "<ruby>気味<rt>ぎみ</rt></ruby>"
   },
   {
     "id": 192,
@@ -11213,15 +11211,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "離れ"
     ],
     "choices_ruby": [
-      "<ruby>忘<rt>わす</rt></ruby>れ",
-      "<ruby>別<rt>わか</rt></ruby>れ",
-      "<ruby>逃<rt>に</rt></ruby>げ",
-      "<ruby>離<rt>はな</rt></ruby>れ"
+      "忘れ",
+      "別れ",
+      "逃げ",
+      "離れ"
     ],
     "answer": 3,
     "correct_text": "離れ",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【〜離れ（ばなれ）】関心が薄れて遠ざかることを表す接尾辞。「読書離れ（どくしょばなれ）」は、本を読まなくなる傾向を表します。（例：車離れ、活字離れ、親離れ）",
     "kanji_info": [
       {
         "kanji": "離",
@@ -11249,7 +11247,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "どくしょばなれ",
     "correct_text_reading": "ばなれ",
-    "correct_text_ruby": "<ruby>離<rt>はな</rt></ruby>れ"
+    "correct_text_ruby": "<ruby>離<rt>ばな</rt></ruby>れ"
   },
   {
     "id": 193,
@@ -11265,15 +11263,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "出し"
     ],
     "choices_ruby": [
-      "<ruby>明<rt>あ</rt></ruby>け",
-      "<ruby>入<rt>はい</rt></ruby>り",
-      "<ruby>開<rt>あ</rt></ruby>け",
-      "<ruby>出<rt>だ</rt></ruby>し"
+      "明け",
+      "入り",
+      "開け",
+      "出し"
     ],
     "answer": 0,
     "correct_text": "明け",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【〜明け（あけ）】期間が終わり、新しく始まる時を表す接尾辞。「夏休み明け（なつやすみあけ）」は、夏休みが終わった直後の時期を表します。（例：夜明け、休み明け、梅雨明け）",
     "kanji_info": [
       {
         "kanji": "明",
@@ -11317,15 +11315,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "過ぎ"
     ],
     "choices_ruby": [
-      "<ruby>並<rt>な</rt></ruby>み",
-      "<ruby>沿<rt>そ</rt></ruby>い",
-      "<ruby>付<rt>つ</rt></ruby>き",
-      "<ruby>過<rt>す</rt></ruby>ぎ"
+      "並み",
+      "沿い",
+      "付き",
+      "過ぎ"
     ],
     "answer": 1,
     "correct_text": "沿い",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "【〜沿い（ぞい）】線や道に沿っていることを表す接尾辞。「海岸沿い（かいがんぞい）」は、海岸の線に沿った場所を表します。（例：道沿い、川沿い、線路沿い）",
     "kanji_info": [
       {
         "kanji": "沿",
@@ -11353,7 +11351,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "target_word_reading": "かいがんぞい",
     "correct_text_reading": "ぞい",
-    "correct_text_ruby": "<ruby>沿<rt>そ</rt></ruby>い"
+    "correct_text_ruby": "<ruby>沿<rt>ぞ</rt></ruby>い"
   },
   {
     "id": 195,
@@ -20809,10 +20807,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "【あわれな】子犬を拾って家に連れて帰った。",
     "question_ruby": "【あわれな】<ruby>子犬<rt>こいぬ</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>帰<rt>かえ</rt></ruby>った。",
     "choices": [
-      "きれいな",
-      "げんきな",
-      "あわれな",
-      "寂しそうな"
+      "汚きたない",
+      "かわいい",
+      "かわいそうな",
+      "死しにそうな"
     ],
     "choices_ruby": [
       "<ruby>汚<rt>きたな</rt></ruby>い",
@@ -20823,7 +20821,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "かわいそうな",
     "meaning_en": "",
-    "explanation": "",
+    "explanation": "「あわれな」は「同情したくなるほどかわいそうな様子」という意味。「かわいそうな」が最も近い類義表現です。",
     "kanji_info": [],
     "similar": [
       {
@@ -24074,10 +24072,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【暴く】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【暴く】",
     "choices": [
-      "長年の調査によって、ついに歴史の隠された真実を暴くことに成功した。",
-      "朝起きたら、まず窓を暴いて新鮮な空気を入れる。",
-      "プレゼントの箱を暴いて、中身を取り出した。",
-      "約束の時間に遅れることは、どんな理由があっても許されない。"
+      "政治せいじ家かの不正ふせいを暴あばくために、証拠しょうこを集あつめているところだ。",
+      "おとなしかった馬うまが突然とつぜん暴あばれだして、周まわりにいた人ひとたちがけがを負おってしまった。",
+      "先生せんせいでも解とけなかった数学すうがくの問題もんだいを、彼かれは簡単かんたんに解といてしまった。",
+      "どんな理由りゆうがあったとしても、人ひとの顔かおを強つよく叩たたくことは許ゆるされることではない。"
     ],
     "choices_ruby": [
       "<ruby>政治<rt>せいじ</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>不正<rt>ふせい</rt></ruby>を<ruby>暴<rt>あば</rt></ruby>くために、<ruby>証拠<rt>しょうこ</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めているところだ。",
@@ -24086,9 +24084,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "どんな<ruby>理由<rt>りゆう</rt></ruby>があったとしても、<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>叩<rt>たた</rt></ruby>くことは<ruby>許<rt>ゆる</rt></ruby>されることではない。"
     ],
     "answer": 0,
-    "correct_text": "政治家の不正を暴くために、証拠を集めているところだ。",
+    "correct_text": "政治せいじ家かの不正ふせいを暴あばくために、証拠しょうこを集あつめているところだ。",
     "meaning_en": "Through years of investigation, they finally succeeded in uncovering the hidden truth of history.",
-    "explanation": "【似た言葉とのニュアンスの違い】\n「暴く（あばく）」は、隠されていた悪事、秘密、陰謀などを突き止めて白日の下に晒すことです（「不正を暴く」「正体を暴く」）。単に新しい事実を見つける（発見する）や、解明する（解明する）よりも、隠蔽された不正を摘発する強い批判的ニュアンスを含みます。\n\n【英語直訳とのズレ・注意点】\n英語の \"expose\", \"uncover\", \"reveal (scandal/crime)\" に相当します。警察やジャーナリストが隠蔽された汚職や犯罪を公に暴き出す場面で使われます。",
+    "explanation": "「暴く（あばく）」は「秘密や悪事など、隠されていたものを明るみに出す」という意味。「政治家の不正を暴く」が最も自然で正しい用法です。",
     "kanji_info": [
       {
         "kanji": "暴",
@@ -24360,10 +24358,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【言い切る】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【言い切る】",
     "choices": [
-      "彼はいつも自分の意見ばかり言い切って、人の話を聞かない。",
-      "この方法が絶対に正しいと言い切ることはできませんが、試す価値はあります。",
-      "最後まで文章を言い切ってから、質問を受け付けます。",
-      "大事な秘密をうっかり友達に言い切ってしまった。"
+      "トンネルの中なかに入はいると、ラジオの音声おんせいが言いい切きれた。",
+      "犯人はんにんは絶対ぜったいに彼かれだと言いい切きることはできませんが、可能かのう性せいは高たかいです。",
+      "先生せんせいの話はなしを言い切いいきって、学生がくせいが質問しつもんをした。",
+      "ずっと気持きもちを言いえずにいたが、ついに明日あした彼女かのじょに言い切いいきろうと思おもっている。"
     ],
     "choices_ruby": [
       "トンネルの<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、ラジオの<ruby>音声<rt>おんせい</rt></ruby>が<ruby>言<rt>い</rt></ruby>い<ruby>切<rt>き</rt></ruby>れた。",
@@ -24372,9 +24370,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "ずっと<ruby>気持<rt>きも</rt></ruby>ちを<ruby>言<rt>い</rt></ruby>えずにいたが、ついに<ruby>明日<rt>あした</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>に<ruby>言い切<rt>いいき</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>っている。"
     ],
     "answer": 1,
-    "correct_text": "犯人は絶対に彼だと言い切ることはできませんが、可能性は高いです。",
+    "correct_text": "犯人はんにんは絶対ぜったいに彼かれだと言いい切きることはできませんが、可能かのう性せいは高たかいです。",
     "meaning_en": "I cannot state definitively that this method is absolutely right, but it is worth trying.",
-    "explanation": "【似た言葉とのニュアンスの違い】\n「言い切る（いいきる）」は、躊躇や迷いを見せず、最後まで断言することです（「絶対に〜だと言い切る」）。すべてを話し終えることや、単に伝えることとは異なり、100%の自信を持って断定する態度を表します。\n\n【英語直訳とのズレ・注意点】\n英語の \"state flatly\", \"assert\", \"declare definitely\" にあたります。「〜とは言い切れない（cannot say for sure）」という否定の形でも頻繁に使われます。",
+    "explanation": "「言い切る（いいきる）」は「自信を持って断定して言う」という意味。「絶対に彼だと言い切ることはできませんが」が最も自然で正しい用法です。",
     "kanji_info": [
       {
         "kanji": "言",
@@ -24920,10 +24918,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【呼びかける】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【呼びかける】",
     "choices": [
-      "市民にゴミの分別を呼びかけるポスターを駅前に貼った。",
-      "毎朝、隣のおばさんに挨拶を呼びかけている。",
-      "遠くにいる友人に大きな声で呼びかけられたが、気づかなかった。",
-      "タクシーを呼びかけて、急いで空港へ向かった。"
+      "自分じぶんの名前なまえを呼よびかけられたら、大おおきな声こえで返事へんじをしてください。",
+      "イベント会場かいじょう内ないで、警備けいび員いんが必死ひっしにマスクの着用ちゃくようを呼よびかけている。",
+      "ネット上じょうで悪口わるぐちを呼よびかけられて、嫌いやな気持きもちになった。",
+      "彼女かのじょを誕生たんじょう日びパーティーに呼よびかけたが、忙いそがしいという理由りゆうで断ことわられてしまった。"
     ],
     "choices_ruby": [
       "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びかけられたら、<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>返事<rt>へんじ</rt></ruby>をしてください。",
@@ -24932,9 +24930,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>パーティーに<ruby>呼<rt>よ</rt></ruby>びかけたが、<ruby>忙<rt>いそが</rt></ruby>しいという<ruby>理由<rt>りゆう</rt></ruby>で<ruby>断<rt>ことわ</rt></ruby>られてしまった。"
     ],
     "answer": 1,
-    "correct_text": "イベント会場内で、警備員が必死にマスクの着用を呼びかけている。",
+    "correct_text": "イベント会場かいじょう内ないで、警備けいび員いんが必死ひっしにマスクの着用ちゃくようを呼よびかけている。",
     "meaning_en": "We put up posters in front of the station calling on citizens to sort their trash.",
-    "explanation": "【似た言葉とのニュアンスの違い】\n「呼びかける（よびかける）」は、大勢の人々に向けて注意や協力を促すメッセージを発信することです（「マスクの着用を呼びかける」「寄付を呼びかける」）。個人を大声で呼ぶ（呼ぶ）だけでなく、公共的なアピールを行う際に用いられます。\n\n【英語直訳とのズレ・注意点】\n英語の \"call on (people to do)\", \"appeal for\" にあたります。警備員やアナウンスが公衆に行動を呼びかける典型的な表現です。",
+    "explanation": "「呼びかける（よびかける）」は「人々に広く賛同や協力を求めて促す」という意味。「マスクの着用を呼びかけている」が最も自然で正しい用法です。",
     "kanji_info": [
       {
         "kanji": "呼",
@@ -25785,10 +25783,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "次の言葉の使い方が最も適切な文を選びなさい：【明らか】",
     "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>文<rt>ぶん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい：【明らか】",
     "choices": [
-      "徹底的な調査によって、機械が故障した原因が明らかになった。",
-      "カーテンを開けると、部屋の中が明らかになった。",
-      "彼はサッカーのルールに明らかだ。",
-      "明日までに宿題を明らかにしなければならない。"
+      "ずっとなぞに包つつまれていた犯人はんにんの姿すがたが明あきらかになった。",
+      "彼かれは明あきらかな性格せいかくなので、彼かれがいるとその場ばの雰囲気ふんいきが良よくなる。",
+      "彼かれは今いまの仕事しごとに対たいしてどう思おもっているのか、明あきらかに話はなしてくれた。",
+      "パソコンの画面がめんが明あきらかなので、目めが疲つかれてきた。"
     ],
     "choices_ruby": [
       "ずっとなぞに<ruby>包<rt>つつ</rt></ruby>まれていた<ruby>犯人<rt>はんにん</rt></ruby>の<ruby>姿<rt>すがた</rt></ruby>が<ruby>明<rt>あき</rt></ruby>らかになった。",
@@ -25797,9 +25795,9 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "パソコンの<ruby>画面<rt>がめん</rt></ruby>が<ruby>明<rt>あき</rt></ruby>らかなので、<ruby>目<rt>め</rt></ruby>が<ruby>疲<rt>つか</rt></ruby>れてきた。"
     ],
     "answer": 0,
-    "correct_text": "ずっとなぞに包まれていた犯人の姿が明らかになった。",
+    "correct_text": "ずっとなぞに包つつまれていた犯人はんにんの姿すがたが明あきらかになった。",
     "meaning_en": "Through a thorough investigation, the cause of the machine's malfunction became clear.",
-    "explanation": "【似た言葉とのニュアンスの違い】\n「明らか（あきらか）」は、物事の実態や真実、証拠などがはっきりと誰の目にも見えて疑う余地がないことです（「真相が明らかになる」「明らかな証拠」）。「明るい（光が多い）」とは異なり、事柄の真偽が明白になる論理的な状態を表します。\n\n【英語直訳とのズレ・注意点】\n英語の \"clear\", \"obvious\", \"evident\" に相当します。「明らかになる（come to light / be revealed）」というコロケーションで頻出します。",
+    "explanation": "「明らか（あきらか）」は「はっきりしていて疑う余地がない様子」という意味。「〜姿が明らかになった」が最も自然で正しい用法です。",
     "kanji_info": [
       {
         "kanji": "明",
@@ -28914,10 +28912,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "question": "A「新しい仕事はどう？」 B「きついけれど、（　　　）がありますよ。」",
     "question_ruby": "A「<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>はどう？」 B「きついけれど、（　　　）がありますよ。」",
     "choices": [
-      "おもいやり",
-      "ためらい",
-      "やりがい",
-      "いきがい"
+      "あこがれ",
+      "いじめ",
+      "こだわり",
+      "やりがい"
     ],
     "choices_ruby": [
       "あこがれ",
@@ -28928,7 +28926,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "やりがい",
     "meaning_en": "A： \"How is your new job？” B： \"lt is a lot of hard work, but it is worth it.\"",
-    "explanation": "",
+    "explanation": "「やりがい」は「それをするだけの価値や手ごたえ、満足感」という意味です。",
     "kanji_info": [
       {
         "kanji": "遣",
@@ -31089,10 +31087,10 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 534,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "文脈規定",
-    "target_word": "薬を飲まないようにしていたが、どうしても痛みを",
-    "question": "（　　　）こらえられず、痛み止めの薬を飲んだ。",
-    "question_ruby": "（　　　）こらえられず、<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>と</rt></ruby>めの<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだ。",
+    "category": "類義語",
+    "target_word": "こらえられず",
+    "question": "薬を飲まないようにしていたが、どうしても痛みを【こらえられず】、痛み止めの薬を飲んだ。",
+    "question_ruby": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まないようにしていたが、どうしても<ruby>痛<rt>いた</rt></ruby>みを【こらえられず】、<ruby>痛<rt>いた</rt></ruby>み<ruby>止<rt>と</rt></ruby>めの<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだ。",
     "choices": [
       "耐えられず",
       "我慢できず",
@@ -31107,8 +31105,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "我慢できず",
-    "meaning_en": "| was trying not to take any medicine, but l just could not take the pain, so | took a",
-    "explanation": "",
+    "meaning_en": "I was trying not to take medicine, but unable to bear the pain any longer, I took painkillers.",
+    "explanation": "「こらえる」は「苦痛や感情などをじっと我慢する」という意味。痛みを我慢できなかった文脈なので「我慢できず」が最も近い言い換え表現です。",
     "kanji_info": [
       {
         "kanji": "薬",
@@ -31156,7 +31154,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
         "meaning": "to drink"
       }
     ],
-    "target_word_reading": "くすりをのまないようにしていたが、どうしてもいたみを",
+    "target_word_reading": "こらえられず",
     "correct_text_reading": "がまんできず",
     "correct_text_ruby": "<ruby>我慢<rt>がまん</rt></ruby>できず"
   },
@@ -33422,7 +33420,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "こめて",
     "question": "心を（　　　）作った料理は何でもおいしいものだ。",
-    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもおいしいものだ。",
+    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でもおいしいものだ。",
     "choices": [
       "こめて",
       "とわず",
@@ -36072,7 +36070,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
   {
     "id": 624,
     "source": "JLPT N2 実戦オリジナル問題集",
-    "category": "文脈規定",
+    "category": "語形成",
     "target_word": "代",
     "question": "旅先で買い物をしすぎてしまい、帰りのバス（　　　）しか財布に残っていない。",
     "question_ruby": "<ruby>旅先<rt>たびさき</rt></ruby>で<ruby>買い物<rt>かいもの</rt></ruby>をしすぎてしまい、<ruby>帰<rt>かえ</rt></ruby>りのバス（　　　）しか<ruby>財布<rt>さいふ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>っていない。",
@@ -36083,15 +36081,15 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "代"
     ],
     "choices_ruby": [
-      "<ruby>金<rt>きむ</rt></ruby>",
-      "<ruby>料<rt>りょう</rt></ruby>",
-      "<ruby>費<rt>ひ</rt></ruby>",
-      "<ruby>代<rt>だい</rt></ruby>"
+      "金",
+      "料",
+      "費",
+      "代"
     ],
     "answer": 3,
     "correct_text": "代",
     "meaning_en": "I bought so much, all | have left is the bus fare to get home.",
-    "explanation": "",
+    "explanation": "【〜代（だい）】利用したサービスや物品に対して支払うお金を表す接尾辞。「バス代」「タクシー代」「部屋代」「電気代」などによく使われます。（金：保証金・奨学金、料：利用料・入場料、費：交通費・生活費）",
     "kanji_info": [
       {
         "kanji": "代",
@@ -39844,8 +39842,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "壁",
-    "question": "家具が倒れないように専用の器具を【壁】に突き刺して固定する。",
-    "question_ruby": "<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れないように<ruby>専用<rt>せんよう</rt></ruby>の<ruby>器具<rt>きぐ</rt></ruby>を【壁】に<ruby>突き刺<rt>つきさ</rt></ruby>して<ruby>固定<rt>こてい</rt></ruby>する。",
+    "question": "地震で家具が倒れないよう、耐震器具を【壁】にしっかり取り付けて固定した。",
+    "question_ruby": "<ruby>地震<rt>じしん</rt></ruby>で<ruby>家具<rt>かぐ</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れないよう、<ruby>耐震<rt>たいしん</rt></ruby><ruby>器具<rt>きぐ</rt></ruby>を【<ruby>壁<rt>かべ</rt></ruby>】にしっかり<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けて<ruby>固定<rt>こてい</rt></ruby>した。",
     "choices": [
       "かべ",
       "かび",
@@ -39860,7 +39858,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "かべ",
-    "meaning_en": "To make sure the furniture does not fall over, it is held in place by inserting special",
+    "meaning_en": "To prevent furniture from falling in an earthquake, earthquake-resistant fixtures were firmly attached to the wall.",
     "explanation": "",
     "kanji_info": [
       {
@@ -41229,8 +41227,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "暴れ",
-    "question": "男は、酒を飲んで【暴れ】、仲間を殺すと叫んでいた。",
-    "question_ruby": "<ruby>男<rt>おとこ</rt></ruby>は、<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで【暴れ】、<ruby>仲間<rt>なかま</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>すと<ruby>叫<rt>さけ</rt></ruby>んでいた。",
+    "question": "診察を嫌がって猫が動物病院で【暴れ】てしまい、先生を困らせてしまった。",
+    "question_ruby": "<ruby>診察<rt>しんさつ</rt></ruby>を<ruby>嫌<rt>いや</rt></ruby>がって<ruby>猫<rt>ねこ</rt></ruby>が<ruby>動物<rt>どうぶつ</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>で【<ruby>暴<rt>あば</rt></ruby>れ】てしまい、<ruby>先生<rt>せんせい</rt></ruby>を<ruby>困<rt>こま</rt></ruby>らせてしまった。",
     "choices": [
       "あばれ",
       "あわれ",
@@ -41245,8 +41243,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "あばれ",
-    "meaning_en": "Thunder suddenly began to rumble, and the horses on the ranch got startled and started thrashing around wildly.",
-    "explanation": "",
+    "meaning_en": "The cat went wild at the animal hospital hating the examination, troubling the vet.",
+    "explanation": "「暴れる（あばれる）」は「激しく手足を動かして騒ぐ・暴れる」という意味です。",
     "kanji_info": [
       {
         "kanji": "暴",
@@ -43172,7 +43170,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぶり",
     "meaning_en": "He was such an irresponsible person before, but now his commitment to work has",
-    "explanation": "",
+    "explanation": "【〜ぶり】その人の様子や状態、振る舞いを表す接尾辞。「働きぶり（はたらきぶり）」は、仕事をする姿勢や働いている様子を表します。（例：話しぶり、活躍ぶり、暮らしぶり）",
     "kanji_info": [],
     "similar": [
       {

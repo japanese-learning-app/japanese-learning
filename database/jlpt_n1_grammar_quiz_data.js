@@ -1,5 +1,3 @@
-// JLPT N1 Grammar Practice Questions (508 Questions)
-// 100% Balanced 25.0% Choices & Full Accurate Furigana (Ruby)
 window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
   {
     "id": 1,
@@ -5294,8 +5292,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question": "あの評論家は自分の専門分野になると、少し独断に（　　　）と指摘されている。",
     "choices": [
       "陥る始末だ",
-      "陥るにほかならない",
-      "陥るに足る",
+      "陥る傾向だ",
+      "陥る恐れがある",
       "陥るきらいがある"
     ],
     "answer": 3,
@@ -5305,8 +5303,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "あの<ruby>評論<rt>ひょうろん</rt></ruby><ruby>家<rt>か</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>になると、<ruby>少<rt>すこ</rt></ruby>し<ruby>独断<rt>どくだん</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>るきらいがあると<ruby>指摘<rt>してき</rt></ruby>されている。",
     "choices_ruby": [
       "<ruby>陥<rt>おちい</rt></ruby>る<ruby>始末<rt>しまつ</rt></ruby>だ",
-      "<ruby>陥<rt>おちい</rt></ruby>るにほかならない",
-      "<ruby>陥<rt>おちい</rt></ruby>るに<ruby>足<rt>た</rt></ruby>る",
+      "<ruby>陥<rt>おちい</rt></ruby>る<ruby>傾向<rt>けいこう</rt></ruby>だ",
+      "<ruby>陥<rt>おちい</rt></ruby>る<ruby>恐<rt>おそ</rt></ruby>れがある",
       "<ruby>陥<rt>おちい</rt></ruby>るきらいがある"
     ],
     "correct_text_ruby": "<ruby>陥<rt>おちい</rt></ruby>るきらいがある"
@@ -7455,8 +7453,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "意見にすぎない",
       "意見に堪えない",
-      "意見にとどまらない",
-      "意見にほかならない"
+      "意見にかかわらない",
+      "意見に値しない"
     ],
     "answer": 0,
     "correct_text": "意見にすぎない",
@@ -7465,9 +7463,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>言<rt>い</rt></ruby>ったことはあくまで<ruby>個人<rt>こじん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>意見<rt>いけん</rt></ruby>にすぎないので、<ruby>参考<rt>さんこう</rt></ruby><ruby>程度<rt>ていど</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いてください。",
     "choices_ruby": [
       "<ruby>意見<rt>いけん</rt></ruby>にすぎない",
-      "<ruby>意見<rt>いけん</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えない",
-      "<ruby>意見<rt>いけん</rt></ruby>にとどまらない",
-      "<ruby>意見<rt>いけん</rt></ruby>にほかならない"
+      "<ruby>意見<rt>いけん</rt></ruby>に<ruby>堪<rt>た</rt></ruby>えない",
+      "<ruby>意見<rt>いけん</rt></ruby>にかかわらない",
+      "<ruby>意見<rt>いけん</rt></ruby>に<ruby>値<rt>あたい</rt></ruby>しない"
     ],
     "correct_text_ruby": "<ruby>意見<rt>いけん</rt></ruby>にすぎない"
   },
@@ -7574,9 +7572,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question": "新しく開発された蓄電技術の影響は、自動車産業の枠（　　　）と予測されている。",
     "choices": [
       "にとどまらない",
-      "にすぎない",
-      "にほかならない",
-      "には及ばない"
+      "に及ばない",
+      "にとらわれない",
+      "を限りにしない"
     ],
     "answer": 0,
     "correct_text": "にとどまらない",
@@ -7585,9 +7583,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>新<rt>あたら</rt></ruby>しく<ruby>開発<rt>かいはつ</rt></ruby>された<ruby>蓄電<rt>ちくでん</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>は、<ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>産業<rt>さんぎょう</rt></ruby>の<ruby>枠<rt>わく</rt></ruby>にとどまらないと<ruby>予測<rt>よそく</rt></ruby>されている。",
     "choices_ruby": [
       "にとどまらない",
-      "にすぎない",
-      "にほかならない",
-      "には<ruby>及<rt>およ</rt></ruby>ばない"
+      "に<ruby>及<rt>およ</rt></ruby>ばない",
+      "にとらわれない",
+      "を<ruby>限<rt>かぎ</rt></ruby>りにしない"
     ],
     "correct_text_ruby": "にとどまらない"
   },
@@ -7633,23 +7631,23 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "The decline of forests is not limited to a mere change in scenery; it is a serious issue affecting the entire local ecosystem.",
     "question": "森林の減少は単なる景観の変化（　　　）、地域の生態系全体に関わる重大な課題だ。",
     "choices": [
-      "に足らない",
-      "にほかならない",
-      "にとどまらない",
-      "にすぎない"
+      "に足らず",
+      "に限らず",
+      "にとどまらず",
+      "に及ばず"
     ],
     "answer": 2,
-    "correct_text": "にとどまらない",
+    "correct_text": "にとどまらず",
     "notes": "「<ruby>単<rt>たん</rt></ruby>なるAにとどまらない（Bというさらに<ruby>大<rt>おお</rt></ruby>きな<ruby>意味<rt>いみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ）」の<ruby>形<rt>かたち</rt></ruby>でよく<ruby>用<rt>もち</rt></ruby>いられます。",
     "question_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>（　　　）、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
     "sentence_jp_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>にとどまらない、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
     "choices_ruby": [
-      "に<ruby>足<rt>た</rt></ruby>らない",
-      "にほかならない",
-      "にとどまらない",
-      "にすぎない"
+      "に<ruby>足<rt>た</rt></ruby>らず",
+      "に<ruby>限<rt>かぎ</rt></ruby>らず",
+      "にとどまらず",
+      "に<ruby>及<rt>およ</rt></ruby>ばず"
     ],
-    "correct_text_ruby": "にとどまらない"
+    "correct_text_ruby": "にとどまらず"
   },
   {
     "id": 256,
@@ -9343,23 +9341,23 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "The muggy heat inside the closed warehouse in midsummer is beyond words; you can't stand in there for even five minutes.",
     "question": "真夏の閉め切った倉庫の中の（　　　）、五分と立っていられないほどだ。",
     "choices": [
-      "蒸し暑さにとどまらない",
-      "蒸し暑さには及ばない",
-      "蒸し暑さにすぎない",
-      "蒸し暑さといったらない"
+      "蒸し暑さといったらなく",
+      "蒸し暑さには及ばず",
+      "蒸し暑さに限らず",
+      "蒸し暑さにとどまらず"
     ],
-    "answer": 3,
-    "correct_text": "蒸し暑さといったらない",
+    "answer": 0,
+    "correct_text": "蒸し暑さといったらなく",
     "notes": "<ruby>身体<rt>しんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>感覚<rt>かんかく</rt></ruby>や<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>過酷<rt>かこく</rt></ruby>さを<ruby>実感<rt>じっかん</rt></ruby>たっぷりに<ruby>強調<rt>きょうちょう</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
     "question_ruby": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>った<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の（　　　）、<ruby>五分<rt>ごふん</rt></ruby>と<ruby>立<rt>た</rt></ruby>っていられないほどだ。",
     "sentence_jp_ruby": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>った<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらない、<ruby>五分<rt>ごふん</rt></ruby>と<ruby>立<rt>た</rt></ruby>っていられないほどだ。",
     "choices_ruby": [
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにとどまらない",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さには<ruby>及<rt>およ</rt></ruby>ばない",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにすぎない",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらない"
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく",
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さには<ruby>及<rt>およ</rt></ruby>ばず",
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さに<ruby>限<rt>かぎ</rt></ruby>らず",
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにとどまらず"
     ],
-    "correct_text_ruby": "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらない"
+    "correct_text_ruby": "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく"
   },
   {
     "id": 313,
@@ -13485,8 +13483,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "てはかなわない",
       "てはならない",
-      "てからというもの",
-      "てたまらない"
+      "てはいられない",
+      "てはすまない"
     ],
     "answer": 1,
     "correct_text": "てはならない",
@@ -13496,8 +13494,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "てはかなわない",
       "てはならない",
-      "てからというもの",
-      "てたまらない"
+      "てはいられない",
+      "てはすまない"
     ],
     "correct_text_ruby": "てはならない"
   },
@@ -13544,9 +13542,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question": "公正であるべき審査において、審査員の個人的な好みが採点に影響を及ぼし（　　　）のは当然のことだ。",
     "choices": [
       "てはならない",
-      "てやまない",
+      "てはいられない",
       "てはかなわない",
-      "てたまらない"
+      "てはすまない"
     ],
     "answer": 0,
     "correct_text": "てはならない",
@@ -13555,9 +13553,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>公正<rt>こうせい</rt></ruby>であるべき<ruby>審査<rt>しんさ</rt></ruby>において、<ruby>審査<rt>しんさ</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>個人<rt>こじん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>好<rt>この</rt></ruby>みが<ruby>採点<rt>さいてん</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>及<rt>およ</rt></ruby>ぼしてはならないのは<ruby>当然<rt>とうぜん</rt></ruby>のことだ。",
     "choices_ruby": [
       "てはならない",
-      "てやまない",
+      "てはいられない",
       "てはかなわない",
-      "てたまらない"
+      "てはすまない"
     ],
     "correct_text_ruby": "てはならない"
   },
@@ -15242,6 +15240,3 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "correct_text_ruby": "いかんにかかわらず"
   }
 ];
-
-// Dual alias for backwards compatibility
-window.JLPT_N1_QUIZ_DATA = window.JLPT_N1_GRAMMAR_QUIZ_DATA;
