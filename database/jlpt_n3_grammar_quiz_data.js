@@ -1093,7 +1093,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "よかった",
       "に違いない",
-      "いい",
+      "助かったのに",
       "はずだ"
     ],
     "answer": 0,
@@ -1104,7 +1104,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "よかった",
       "に<ruby>違<rt>ちが</rt></ruby>いない",
-      "いい",
+      "<ruby>助<rt>たす</rt></ruby>かったのに",
       "はずだ"
     ],
     "correct_text_ruby": "よかった"
@@ -1331,10 +1331,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "No matter how busy you are, you should not break an important promise without contacting the other person.",
     "question": "どんなに忙しくても、大切な約束を連絡なしに破る（　　　）。",
     "choices": [
-      "にほかならない",
+      "わけがない",
       "べきではない",
       "わけではない",
-      "にすぎない"
+      "はずがない"
     ],
     "answer": 1,
     "correct_text": "べきではない",
@@ -1342,10 +1342,10 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "どんなに<ruby>忙<rt>いそが</rt></ruby>しくても、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>約束<rt>やくそく</rt></ruby>を<ruby>連絡<rt>れんらく</rt></ruby>なしに<ruby>破<rt>やぶ</rt></ruby>る（　　　）。",
     "sentence_jp_ruby": "どんなに<ruby>忙<rt>いそが</rt></ruby>しくても、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>約束<rt>やくそく</rt></ruby>を<ruby>連絡<rt>れんらく</rt></ruby>なしに<ruby>破<rt>やぶ</rt></ruby>るべきではない。",
     "choices_ruby": [
-      "にほかならない",
+      "わけがない",
       "べきではない",
       "わけではない",
-      "にすぎない"
+      "はずがない"
     ],
     "correct_text_ruby": "べきではない"
   },
@@ -1361,9 +1361,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "You should not spread groundless rumors without even verifying whether they are true.",
     "question": "事実かどうか確かめもしないで、根拠のないうわさを広める（　　　）。",
     "choices": [
-      "はずがない",
-      "わけがない",
-      "ことはない",
+      "に違いない",
+      "わけだ",
+      "つもりだ",
       "べきではない"
     ],
     "answer": 3,
@@ -1372,9 +1372,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>事実<rt>じじつ</rt></ruby>かどうか<ruby>確<rt>たし</rt></ruby>かめもしないで、<ruby>根拠<rt>こんきょ</rt></ruby>のないうわさを<ruby>広<rt>ひろ</rt></ruby>める（　　　）。",
     "sentence_jp_ruby": "<ruby>事実<rt>じじつ</rt></ruby>かどうか<ruby>確<rt>たし</rt></ruby>かめもしないで、<ruby>根拠<rt>こんきょ</rt></ruby>のないうわさを<ruby>広<rt>ひろ</rt></ruby>めるべきではない。",
     "choices_ruby": [
-      "はずがない",
-      "わけがない",
-      "ことはない",
+      "に<ruby>違<rt>ちが</rt></ruby>いない",
+      "わけだ",
+      "つもりだ",
       "べきではない"
     ],
     "correct_text_ruby": "べきではない"

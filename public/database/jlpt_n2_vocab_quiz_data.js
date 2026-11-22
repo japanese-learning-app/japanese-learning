@@ -8846,8 +8846,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "語形成",
     "target_word": "前町長",
-    "question": "（　　　）町長は市民のみんなから深く愛されていた。",
-    "question_ruby": "（　　　）<ruby>町長<rt>ちょうちょう</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>のみんなから<ruby>深<rt>ふか</rt></ruby>く<ruby>愛<rt>あい</rt></ruby>されていた。",
+    "question": "（　　　）町長は市民のみんなから深く信頼されていた。",
+    "question_ruby": "（　　　）<ruby>町長<rt>ちょうちょう</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>のみんなから<ruby>深<rt>ふか</rt></ruby>く<ruby>信頼<rt>しんらい</rt></ruby>されていた。",
     "choices": [
       "古",
       "旧",
@@ -8862,7 +8862,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "前",
-    "meaning_en": "before",
+    "meaning_en": "The former mayor was deeply trusted by all the citizens.",
     "explanation": "【前〜（ぜん）】ひとつ前の代・任期を表す接頭辞。「前町長（ぜんちょうちょう）」は、現町長のひとつ前に町長を務めていた人を指します。（例：前大統領、前会長）",
     "kanji_info": [
       {
@@ -33948,8 +33948,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "にかけては",
-    "question": "山本君はスポーツはできないが、頭の良さ（　　　）学年で一番だ。",
-    "question_ruby": "<ruby>山本<rt>やまもと</rt></ruby><ruby>君<rt>くん</rt></ruby>はスポーツはできないが、<ruby>頭<rt>あたま</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ（　　　）<ruby>学年<rt>がくねん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby>だ。",
+    "question": "彼は足はあまり速くないが、記憶力の良さ（　　　）クラスで一番だ。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>足<rt>あし</rt></ruby>はあまり<ruby>速<rt>はや</rt></ruby>くないが、<ruby>記憶<rt>きおく</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ（　　　）クラスで<ruby>一番<rt>いちばん</rt></ruby>だ。",
     "choices": [
       "にわたっては",
       "をきっかけに",
@@ -43657,8 +43657,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "文法形式の判断",
     "target_word": "くらいなら",
-    "question": "そんなに高いお金をかけて修理する（　　　）、新しいのに買い換えたほうがいい。",
-    "question_ruby": "そんなに<ruby>高<rt>たか</rt></ruby>いお<ruby>金<rt>かね</rt></ruby>をかけて<ruby>修理<rt>しゅうり</rt></ruby>する（　　　）、<ruby>新<rt>あたら</rt></ruby>しいのに<ruby>買い換<rt>かいか</rt></ruby>えたほうがいい。",
+    "question": "そんなに多額の費用をかけて修理する（　　　）、新しいものに買い換えたほうがいい。",
+    "question_ruby": "そんなに<ruby>多額<rt>たがく</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby>をかけて<ruby>修理<rt>しゅうり</rt></ruby>する（　　　）、<ruby>新<rt>あたら</rt></ruby>しいものに<ruby>買<rt>か</rt></ruby>い<ruby>換<rt>か</rt></ruby>えたほうがいい。",
     "choices": [
       "くらいなら",
       "ばかりに",
@@ -44021,8 +44021,8 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "source": "JLPT N2 実戦オリジナル問題集",
     "category": "漢字読み",
     "target_word": "尊重",
-    "question": "率直に言って、君はもっと人の意見を【尊重】し、柔軟に受け入れるべきだ。",
-    "question_ruby": "<ruby>率直<rt>そっちょく</rt></ruby>に<ruby>言<rt>い</rt></ruby>って、<ruby>君<rt>きみ</rt></ruby>はもっと<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を【尊重】し、<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>受け入<rt>うけい</rt></ruby>れるべきだ。",
+    "question": "仕事を円滑に進めるためには、周囲の意見をもっと【尊重】し、柔軟に耳を傾けることが大切だ。",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>円滑<rt>えんかつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めるためには、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>をもっと【<ruby>尊重<rt>そんちょう</rt></ruby>】し、<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>けることが<ruby>大切<rt>たいせつ</rt></ruby>だ。",
     "choices": [
       "そんけい",
       "そんじゅう",
@@ -44037,7 +44037,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "そんちょう",
-    "meaning_en": "To put it plainly， you should be more respectful of others opinions and receive",
+    "meaning_en": "To carry out work smoothly, it is important to respect surrounding opinions more and listen flexibly.",
     "explanation": "",
     "kanji_info": [
       {

@@ -7632,7 +7632,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question": "森林の減少は単なる景観の変化（　　　）、地域の生態系全体に関わる重大な課題だ。",
     "choices": [
       "に足らず",
-      "に限らず",
+      "にかかわらず",
       "にとどまらず",
       "に及ばず"
     ],
@@ -7643,7 +7643,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>にとどまらない、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
     "choices_ruby": [
       "に<ruby>足<rt>た</rt></ruby>らず",
-      "に<ruby>限<rt>かぎ</rt></ruby>らず",
+      "にかかわらず",
       "にとどまらず",
       "に<ruby>及<rt>およ</rt></ruby>ばず"
     ],
@@ -9342,9 +9342,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question": "真夏の閉め切った倉庫の中の（　　　）、五分と立っていられないほどだ。",
     "choices": [
       "蒸し暑さといったらなく",
-      "蒸し暑さには及ばず",
-      "蒸し暑さに限らず",
-      "蒸し暑さにとどまらず"
+      "蒸し暑さに及ばず",
+      "蒸し暑さにもかかわらず",
+      "蒸し暑さにかかわらず"
     ],
     "answer": 0,
     "correct_text": "蒸し暑さといったらなく",
@@ -9353,9 +9353,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>った<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらない、<ruby>五分<rt>ごふん</rt></ruby>と<ruby>立<rt>た</rt></ruby>っていられないほどだ。",
     "choices_ruby": [
       "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さには<ruby>及<rt>およ</rt></ruby>ばず",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さに<ruby>限<rt>かぎ</rt></ruby>らず",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにとどまらず"
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さに<ruby>及<rt>およ</rt></ruby>ばず",
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにもかかわらず",
+      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにかかわらず"
     ],
     "correct_text_ruby": "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく"
   },
@@ -10873,8 +10873,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "あまり",
       "拍子に",
-      "あげく",
-      "末に"
+      "ついでに",
+      "最中に"
     ],
     "answer": 1,
     "correct_text": "拍子に",
@@ -10884,8 +10884,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "あまり",
       "<ruby>拍子<rt>ひょうし</rt></ruby>に",
-      "あげく",
-      "<ruby>末<rt>すえ</rt></ruby>に"
+      "ついでに",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>に"
     ],
     "correct_text_ruby": "<ruby>拍子<rt>ひょうし</rt></ruby>に"
   },
@@ -11803,8 +11803,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "てやまない",
       "てかなわない",
-      "てならない",
-      "てたまらない"
+      "てはいられない",
+      "てばかりいる"
     ],
     "answer": 0,
     "correct_text": "てやまない",
@@ -11814,8 +11814,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "てやまない",
       "てかなわない",
-      "てならない",
-      "てたまらない"
+      "てはいられない",
+      "てばかりいる"
     ],
     "correct_text_ruby": "てやまない"
   },

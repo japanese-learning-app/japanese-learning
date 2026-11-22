@@ -2196,26 +2196,26 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "reading": "dake mashi da",
     "meaning_en": "it’s better than; one should feel",
     "similar": "まだいい、まだしも、ましだ、～だけ救いだ、～よりはいい、ましなほうだ",
-    "sentence_jp": "君はまだ仕事があるだけましだよ。私は先日会社を解雇されてしまった。",
+    "sentence_jp": "雨が降ってきたけれど、屋根のある場所で雨宿りできただけましだよ。",
     "sentence_furigana": "くんはまだしごとがあるだけましだよ。わたしはせんじつかいしゃをかいこされてしまった。",
-    "sentence_en": "You are better off having a job; I was dismissed from my company the other day.",
-    "question": "君はまだ仕事がある【　　】よ。私は先日会社を解雇されてしまった。",
+    "sentence_en": "It started to rain, but at least we were able to take shelter under a roof.",
+    "question": "雨が降ってきたけれど、屋根のある場所で雨宿りできた【　　】よ。",
     "choices": [
-      "て以来",
-      "抜きにして",
-      "いきなり",
-      "だけましだ"
+      "だけましだ",
+      "にすぎない",
+      "わけがない",
+      "てたまらない"
     ],
-    "answer": 3,
+    "answer": 0,
     "correct_text": "だけましだ",
     "notes": "",
-    "question_ruby": "<ruby>君<rt>きみ</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>がある【　　】よ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
-    "sentence_jp_ruby": "<ruby>君<rt>きみ</rt></ruby>はまだ<ruby>仕事<rt>しごと</rt></ruby>があるだけましだよ。<ruby>私<rt>わたし</rt></ruby>は<ruby>先日<rt>せんじつ</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>解雇<rt>かいこ</rt></ruby>されてしまった。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたけれど、<ruby>屋根<rt>やね</rt></ruby>のある<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>雨宿<rt>あまやど</rt></ruby>りできた【　　】よ。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたけれど、<ruby>屋根<rt>やね</rt></ruby>のある<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>雨宿<rt>あまやど</rt></ruby>りできただけましだよ。",
     "choices_ruby": [
-      "て<ruby>以来<rt>いらい</rt></ruby>",
-      "<ruby>抜<rt>ぬ</rt></ruby>きにして",
-      "いきなり",
-      "だけましだ"
+      "だけましだ",
+      "にすぎない",
+      "わけがない",
+      "てたまらない"
     ],
     "correct_text_ruby": "だけましだ"
   },
@@ -3371,10 +3371,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "This work is nothing but a waste of time.",
     "question": "その作業は時間の無駄【　　】。",
     "choices": [
-      "にすぎない",
+      "どころではない",
       "でしかない",
       "てばかりはいられない",
-      "得る"
+      "かねない"
     ],
     "answer": 1,
     "correct_text": "でしかない",
@@ -3382,10 +3382,10 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "その<ruby>作業<rt>さぎょう</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>【　　】。",
     "sentence_jp_ruby": "その<ruby>作業<rt>さぎょう</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>の<ruby>無駄<rt>むだ</rt></ruby>でしかない。",
     "choices_ruby": [
-      "にすぎない",
+      "どころではない",
       "でしかない",
       "てばかりはいられない",
-      "<ruby>得<rt>え</rt></ruby>る"
+      "かねない"
     ],
     "correct_text_ruby": "でしかない"
   },
@@ -7482,7 +7482,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "学生である【　　】、アルバイトではなく勉強が大事ですよ。",
     "choices": [
       "恐らく",
-      "からには",
+      "わりに",
       "次第で",
       "以上"
     ],
@@ -7493,7 +7493,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>学生<rt>がくせい</rt></ruby>である<ruby>以上<rt>いじょう</rt></ruby>、アルバイトではなく<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>ですよ。",
     "choices_ruby": [
       "<ruby>恐<rt>おそ</rt></ruby>らく",
-      "からには",
+      "わりに",
       "<ruby>次第<rt>しだい</rt></ruby>で",
       "<ruby>以上<rt>いじょう</rt></ruby>"
     ],
@@ -8202,7 +8202,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "お母さんは優しい【　　】、お父さんはこわい。",
     "choices": [
       "一方で",
-      "反面",
+      "わりに",
       "どころか",
       "からすると"
     ],
@@ -8213,7 +8213,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "お<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>優しい<rt>やさしい</rt></ruby><ruby>一方<rt>いっぽう</rt></ruby>で、お<ruby>父さん<rt>とうさん</rt></ruby>はこわい。",
     "choices_ruby": [
       "<ruby>一方<rt>いっぽう</rt></ruby>で",
-      "<ruby>反面<rt>はんめん</rt></ruby>",
+      "わりに",
       "どころか",
       "からすると"
     ],
@@ -12282,7 +12282,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question": "親【　　】、子供はいくつになっても子供で心配なものだ。",
     "choices": [
       "からすると",
-      "にとって",
+      "に対して",
       "として",
       "につれて"
     ],
@@ -12293,7 +12293,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>親か<rt>したしか</rt></ruby>らすると、<ruby>子供<rt>こども</rt></ruby>はいくつになっても<ruby>子供<rt>こども</rt></ruby>で<ruby>心配<rt>しんぱい</rt></ruby>なものだ。",
     "choices_ruby": [
       "からすると",
-      "にとって",
+      "に<ruby>対<rt>たい</rt></ruby>して",
       "として",
       "につれて"
     ],
@@ -17771,7 +17771,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "sentence_en": "Suzuki-san is the lead for this new product. Although to be fair, everyone contributed ideas from the planning stage.",
     "question": "この新商品の開発リーダーは鈴木さんだ。【　　】、企画の段階から全員でアイデアを出し合ってきた。",
     "choices": [
-      "ただし",
+      "あるいは",
       "限り",
       "もっとも",
       "一方"
@@ -17782,7 +17782,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "この<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>リーダーは<ruby>鈴木<rt>すずき</rt></ruby>さんだ。【　　】、<ruby>企画<rt>きかく</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>でアイデアを<ruby>出し合って<rt>だしあって</rt></ruby>きた。",
     "sentence_jp_ruby": "この<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>リーダーは<ruby>鈴木<rt>すずき</rt></ruby>さんだ。もっとも、<ruby>企画<rt>きかく</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>から<ruby>全員<rt>ぜんいん</rt></ruby>でアイデアを<ruby>出し合って<rt>だしあって</rt></ruby>きた。",
     "choices_ruby": [
-      "ただし",
+      "あるいは",
       "<ruby>限<rt>かぎ</rt></ruby>り",
       "もっとも",
       "<ruby>一方<rt>いっぽう</rt></ruby>"
@@ -23623,7 +23623,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices": [
       "にしろ",
       "としても",
-      "にせよ",
+      "について",
       "ところで"
     ],
     "answer": 0,
@@ -23634,7 +23634,7 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "にしろ",
       "としても",
-      "にせよ",
+      "について",
       "ところで"
     ],
     "correct_text_ruby": "にしろ"

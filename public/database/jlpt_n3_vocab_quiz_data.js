@@ -1,5 +1,3 @@
-// JLPT N3 Complete Vocabulary Quiz Dataset (500 Questions)
-// Balanced 25.0% answers, full ruby support, non-sensitive, natural Japanese
 window.JLPT_N3_VOCAB_QUIZ_DATA = [
   {
     "id": 1,
@@ -3111,8 +3109,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "鋭くて",
-    "question": "このナイフはとても鋭くてよく切れる。",
-    "question_ruby": "このナイフはとても<u>鋭くて</u>よく<ruby>切<rt>き</rt></ruby>れる。",
+    "question": "職人が丁寧に研いだこの包丁は、とても【鋭く】てよく切れる。",
+    "question_ruby": "<ruby>職人<rt>しょくにん</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>研<rt>と</rt></ruby>いだこの<ruby>包丁<rt>ほうちょう</rt></ruby>は、とても【<ruby>鋭<rt>するど</rt></ruby>く】てよく<ruby>切<rt>き</rt></ruby>れる。",
     "choices": [
       "えいどくて",
       "にぶくて",
@@ -3127,7 +3125,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "するどくて",
-    "meaning_en": "sharp; keen",
+    "meaning_en": "This kitchen knife, carefully sharpened by a craftsman, is very sharp and cuts well.",
     "explanation": "「鋭い（するどい）」は先がとがっていたり切れ味が良かったりする様子です。",
     "target_word_reading": "するどくて",
     "correct_text_reading": "するどくて",
@@ -13502,4 +13500,3 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "correct_text_ruby": "<ruby>秋<rt>あき</rt></ruby>になると、<ruby>山<rt>やま</rt></ruby>のもみじが<ruby>鮮<rt>あざ</rt></ruby>やかな<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>づく。"
   }
 ];
-
