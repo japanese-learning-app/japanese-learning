@@ -1766,7 +1766,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "page": 4,
     "word": "消しゴム",
     "reading": "けしゴム",
-    "ruby": "<ruby>消しゴム<rt>けしゴム</rt></ruby>",
+    "ruby": "<ruby>消<rt>け</rt></ruby>しゴム",
     "meaning": "eraser",
     "ex_ja": "<ruby>鉛筆<rt>えんぴつ</rt></ruby>で<ruby>間違<rt>まちが</rt></ruby>えたところを、<ruby>消<rt>け</rt></ruby>しゴムできれいに<ruby>消<rt>け</rt></ruby>しました。",
     "ex_en": "I neatly erased the mistake made with a pencil using an eraser."
@@ -3880,7 +3880,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "だいがくせい",
     "ruby": "<ruby>大学生<rt>だいがくせい</rt></ruby>",
     "meaning": "university student",
-    "ex_ja": "<ruby>姉<rt>あね</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から<ruby>大学生<rt>だいがくせい</rt></ruby>になり、<ruby>毎日<rt>まいにち</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>でキャンパスへ<ruby>通<rt>とお</rt></ruby>っています。",
+    "ex_ja": "<ruby>姉<rt>あね</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から<ruby>大学生<rt>だいがくせい</rt></ruby>になり、<ruby>毎日<rt>まいにち</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>でキャンパスへ<ruby>通<rt>かよ</rt></ruby>っています。",
     "ex_en": "My older sister became a university student this year and commutes to campus by train every day."
   },
   {
@@ -7032,7 +7032,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "くらべる",
     "ruby": "<ruby>比<rt>くら</rt></ruby>べる",
     "meaning": "to compare",
-    "ex_ja": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べてから、<ruby>安<rt>やす</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+    "ex_ja": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べてから、<ruby>安<rt>やす</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
     "ex_en": "After comparing the prices at the two stores, I bought the cheaper one."
   },
   {

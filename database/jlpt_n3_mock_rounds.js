@@ -24,18 +24,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -51,9 +51,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -709,16 +709,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文脈規定",
         "qNum": 22,
         "title": "窓を開けると、雨上がりの（<span class='jlpt-underline-blank'></span>）風が部屋の中に入ってきた。",
-        "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けると、<ruby>雨上<rt>あめあ</rt></ruby>がりの（<span class='jlpt-underline-blank'></span>）<ruby>風<rt>かぜ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた。",
+        "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>雨上<rt>あめあ</rt></ruby>がりの（<span class='jlpt-underline-blank'></span>）<ruby>風<rt>かぜ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた。",
         "options": [
           "にぎやかな",
-          "おだやかな",
+          "はなやかな",
           "あざやかな",
           "さわやかな"
         ],
         "optionsRuby": [
           "にぎやかな",
-          "おだやかな",
+          "はなやかな",
           "あざやかな",
           "さわやかな"
         ],
@@ -1029,7 +1029,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "彼はいつもたまたま遅刻して先生に注意される。"
         ],
         "optionsRuby": [
-          "<ruby>健康<rt>けんこう</rt></ruby>のために、たまたまジムへ<ruby>通<rt>とお</rt></ruby>って<ruby>泳<rt>およ</rt></ruby>いでいます。",
+          "<ruby>健康<rt>けんこう</rt></ruby>のために、たまたまジムへ<ruby>通<rt>かよ</rt></ruby>って<ruby>泳<rt>およ</rt></ruby>いでいます。",
           "<ruby>時間<rt>じかん</rt></ruby>がなかったので、たまたまタクシーで<ruby>向<rt>む</rt></ruby>かった。",
           "<ruby>本屋<rt>ほんや</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったら、たまたま<ruby>高校<rt>こうこう</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>会<rt>あ</rt></ruby>った。",
           "<ruby>彼<rt>かれ</rt></ruby>はいつもたまたま<ruby>遅刻<rt>ちこく</rt></ruby>して<ruby>先生<rt>せんせい</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>される。"
@@ -1213,7 +1213,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文法形式の判断",
         "qNum": 43,
         "title": "窓を開けた（<span class='jlpt-underline-blank'></span>）、冷たい風が入ってきて部屋の中の書類が飛んでしまった。",
-        "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けた（<span class='jlpt-underline-blank'></span>）、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>風<rt>かぜ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでしまった。",
+        "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けた（<span class='jlpt-underline-blank'></span>）、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>風<rt>かぜ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでしまった。",
         "options": [
           "最中に",
           "うちに",
@@ -1240,13 +1240,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "titleRuby": "この<ruby>体育館<rt>たいいくかん</rt></ruby>は、<ruby>利用<rt>りよう</rt></ruby>する<ruby>日<rt>ひ</rt></ruby>の１か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>予約<rt>よやく</rt></ruby>できる（<span class='jlpt-underline-blank'></span>）。",
         "options": [
           "ことにしている",
-          "ようになっている",
+          "わけになっている",
           "ところになっている",
           "ことになっている"
         ],
         "optionsRuby": [
           "ことにしている",
-          "ようになっている",
+          "わけになっている",
           "ところになっている",
           "ことになっている"
         ],
@@ -1461,15 +1461,15 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "titleRuby": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するためには、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>欠<rt>か</rt></ruby>かせません。",
         "options": [
           "栄養のバランスが",
-          "十分な睡眠も",
+          "十分な睡眠を",
           "とれた食事だけでなく",
-          "毎日の生活に"
+          "とることも"
         ],
         "optionsRuby": [
           "<ruby>栄養<rt>えいよう</rt></ruby>のバランスが",
-          "<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>も",
+          "<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>を",
           "とれた<ruby>食事<rt>しょくじ</rt></ruby>だけでなく",
-          "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に"
+          "とることも"
         ],
         "correctIndex": 2,
         "weight": 2.0,
@@ -2122,8 +2122,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
         "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
         "options": [
           "コーヒーメーカー",
           "ペアの ワイングラス",
@@ -2149,8 +2149,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q4.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q78.mp3",
-        "title": "男の人は 帰る 前に なにを しなければ なりませんか。",
-        "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>帰<rt>かえ</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に なにを しなければ なりませんか。",
+        "title": "男の人は このあと なにを しなければ なりませんか。",
+        "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は このあと なにを しなければ なりませんか。",
         "script": "男の人：課長、頼まれて いた 売上データの 入力が 終わりました。ほかに お手伝いする ことは ありますか。\n女の人：ありがとう。データの グラフ化は あした わたしが やるから 大丈夫よ。ただ、来週 つかう 封筒の 在庫が 少なく なって いるから、倉庫から ２箱 出して 棚に 補充して おいて くれる？\n男の人：はい、わかりました。注文も して おきましょうか。\n女の人：注文は けさ 総務の 人が して くれたから、補充だけで いいわよ。",
         "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>課長<rt>かちょう</rt></ruby>、<ruby>頼<rt>たの</rt></ruby>まれて いた <ruby>売上<rt>うりあげ</rt></ruby>データの <ruby>入力<rt>にゅうりょく</rt></ruby>が <ruby>終<rt>お</rt></ruby>わりました。ほかに お<ruby>手伝<rt>てつだ</rt></ruby>いする ことは ありますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。データの グラフ<ruby>化<rt>か</rt></ruby>は あした わたしが やるから <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>よ。ただ、<ruby>来週<rt>らいしゅう</rt></ruby> つかう <ruby>封筒<rt>ふうとう</rt></ruby>の <ruby>在庫<rt>ざいこ</rt></ruby>が <ruby>少<rt>すく</rt></ruby>なく なって いるから、<ruby>倉庫<rt>そうこ</rt></ruby>から ２<ruby>箱<rt>はこ</rt></ruby> <ruby>出<rt>だ</rt></ruby>して <ruby>棚<rt>たな</rt></ruby>に <ruby>補充<rt>ほじゅう</rt></ruby>して おいて くれる？<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。<ruby>注文<rt>ちゅうもん</rt></ruby>も して おきましょうか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>注文<rt>ちゅうもん</rt></ruby>は けさ <ruby>総務<rt>そうむ</rt></ruby>の <ruby>人<rt>ひと</rt></ruby>が して くれたから、<ruby>補充<rt>ほじゅう</rt></ruby>だけで いいわよ。",
         "options": [
@@ -2794,10 +2794,10 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q27.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-        "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-        "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+        "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+        "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
         "options": [
           "いいえ、鍵は わたしが 閉めて おきました。",
           "ええ、会議室の ドアは あいて いますよ。",
@@ -2865,18 +2865,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -2892,9 +2892,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -4276,18 +4276,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "せっかく早起きして有名なパン屋へ行ったのに、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> がっかりした。",
         "titleRuby": "せっかく<ruby>早起<rt>はやお</rt></ruby>きして<ruby>有名<rt>ゆうめい</rt></ruby>なパン<ruby>屋<rt>や</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったのに、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> がっかりした。",
         "options": [
-          "ちょうど",
-          "一番人気のパンが",
-          "私の前の人で",
-          "売り切れてしまい"
+          "私の",
+          "目の前で",
+          "売り切れて",
+          "しまい"
         ],
         "optionsRuby": [
-          "ちょうど",
-          "<ruby>一番<rt>いちばん</rt></ruby><ruby>人気<rt>にんき</rt></ruby>のパンが",
-          "<ruby>私<rt>わたし</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>で",
-          "<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れてしまい"
+          "<ruby>私<rt>わたし</rt></ruby>の",
+          "<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で",
+          "<ruby>売り切<rt>うりき</rt></ruby>れて",
+          "しまい"
         ],
-        "correctIndex": 2,
+        "correctIndex": 1,
         "weight": 2.0,
         "explanation": "正しい語順は「せっかく早起きして有名なパン屋へ行ったのに、【ちょうど】【私の前の人で】【一番人気のパンが】【売り切れてしまい】がっかりした。」です。★（2番目）に入るのは「私の前の人で」です。"
       },
@@ -4323,7 +4323,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 54,
         "passage": "皆さんは、買った服を一度も着ないままタンスの奥に眠らせてしまったことはありませんか。私も以前は、「安くなっているから」という理由だけで、その場の気分で服を買って <b>[54]</b> ことがよくありました。\nしかし、いざ着ようと思って鏡の前に立つと、自分が持っている靴やズボンと色が合わず、結局いつもと同じ服ばかり着ることになるのです。<b>[55]</b>、狭いクローゼットの中が着ない服でいっぱいになってしまいました。\nそこで去年の春から、買い物へ行く前に自分のクローゼットの写真を撮って、スマートフォンに保存して <b>[56]</b> ことにしました。お店でいいなと思う服を見つけたときは、まずその写真を見て「家にある服と組み合わせて３通り以上の着方ができるか」を考える <b>[57]</b>。\nこの習慣を始めてから、無駄な買い物がほとんどなくなりました。今では、本当に気に入った服だけを長く大切に <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>ちゃく</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
         "title": "空欄 [54] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [54] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -4349,7 +4349,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 55,
         "passage": "皆さんは、買った服を一度も着ないままタンスの奥に眠らせてしまったことはありませんか。私も以前は、「安くなっているから」という理由だけで、その場の気分で服を買って <b>[54]</b> ことがよくありました。\nしかし、いざ着ようと思って鏡の前に立つと、自分が持っている靴やズボンと色が合わず、結局いつもと同じ服ばかり着ることになるのです。<b>[55]</b>、狭いクローゼットの中が着ない服でいっぱいになってしまいました。\nそこで去年の春から、買い物へ行く前に自分のクローゼットの写真を撮って、スマートフォンに保存して <b>[56]</b> ことにしました。お店でいいなと思う服を見つけたときは、まずその写真を見て「家にある服と組み合わせて３通り以上の着方ができるか」を考える <b>[57]</b>。\nこの習慣を始めてから、無駄な買い物がほとんどなくなりました。今では、本当に気に入った服だけを長く大切に <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>ちゃく</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
         "title": "空欄 [55] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [55] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -4375,7 +4375,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 56,
         "passage": "皆さんは、買った服を一度も着ないままタンスの奥に眠らせてしまったことはありませんか。私も以前は、「安くなっているから」という理由だけで、その場の気分で服を買って <b>[54]</b> ことがよくありました。\nしかし、いざ着ようと思って鏡の前に立つと、自分が持っている靴やズボンと色が合わず、結局いつもと同じ服ばかり着ることになるのです。<b>[55]</b>、狭いクローゼットの中が着ない服でいっぱいになってしまいました。\nそこで去年の春から、買い物へ行く前に自分のクローゼットの写真を撮って、スマートフォンに保存して <b>[56]</b> ことにしました。お店でいいなと思う服を見つけたときは、まずその写真を見て「家にある服と組み合わせて３通り以上の着方ができるか」を考える <b>[57]</b>。\nこの習慣を始めてから、無駄な買い物がほとんどなくなりました。今では、本当に気に入った服だけを長く大切に <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>ちゃく</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
         "title": "空欄 [56] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [56] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -4401,7 +4401,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 57,
         "passage": "皆さんは、買った服を一度も着ないままタンスの奥に眠らせてしまったことはありませんか。私も以前は、「安くなっているから」という理由だけで、その場の気分で服を買って <b>[54]</b> ことがよくありました。\nしかし、いざ着ようと思って鏡の前に立つと、自分が持っている靴やズボンと色が合わず、結局いつもと同じ服ばかり着ることになるのです。<b>[55]</b>、狭いクローゼットの中が着ない服でいっぱいになってしまいました。\nそこで去年の春から、買い物へ行く前に自分のクローゼットの写真を撮って、スマートフォンに保存して <b>[56]</b> ことにしました。お店でいいなと思う服を見つけたときは、まずその写真を見て「家にある服と組み合わせて３通り以上の着方ができるか」を考える <b>[57]</b>。\nこの習慣を始めてから、無駄な買い物がほとんどなくなりました。今では、本当に気に入った服だけを長く大切に <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>ちゃく</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
         "title": "空欄 [57] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [57] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -4427,7 +4427,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 58,
         "passage": "皆さんは、買った服を一度も着ないままタンスの奥に眠らせてしまったことはありませんか。私も以前は、「安くなっているから」という理由だけで、その場の気分で服を買って <b>[54]</b> ことがよくありました。\nしかし、いざ着ようと思って鏡の前に立つと、自分が持っている靴やズボンと色が合わず、結局いつもと同じ服ばかり着ることになるのです。<b>[55]</b>、狭いクローゼットの中が着ない服でいっぱいになってしまいました。\nそこで去年の春から、買い物へ行く前に自分のクローゼットの写真を撮って、スマートフォンに保存して <b>[56]</b> ことにしました。お店でいいなと思う服を見つけたときは、まずその写真を見て「家にある服と組み合わせて３通り以上の着方ができるか」を考える <b>[57]</b>。\nこの習慣を始めてから、無駄な買い物がほとんどなくなりました。今では、本当に気に入った服だけを長く大切に <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>ちゃく</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>買<rt>か</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>も<ruby>着<rt>き</rt></ruby>ないままタンスの<ruby>奥<rt>おく</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>らせてしまったことはありませんか。<ruby>私<rt>わたし</rt></ruby>も<ruby>以前<rt>いぜん</rt></ruby>は、「<ruby>安<rt>やす</rt></ruby>くなっているから」という<ruby>理由<rt>りゆう</rt></ruby>だけで、その<ruby>場<rt>ば</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>って <b>[54]</b> ことがよくありました。<br>しかし、いざ<ruby>着<rt>き</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>って<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>靴<rt>くつ</rt></ruby>やズボンと<ruby>色<rt>いろ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わず、<ruby>結局<rt>けっきょく</rt></ruby>いつもと<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>ばかり<ruby>着<rt>き</rt></ruby>ることになるのです。<b>[55]</b>、<ruby>狭<rt>せま</rt></ruby>いクローゼットの<ruby>中<rt>なか</rt></ruby>が<ruby>着<rt>き</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>でいっぱいになってしまいました。<br>そこで<ruby>去年<rt>きょねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>のクローゼットの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、スマートフォンに<ruby>保存<rt>ほぞん</rt></ruby>して <b>[56]</b> ことにしました。お<ruby>店<rt>みせ</rt></ruby>でいいなと<ruby>思<rt>おも</rt></ruby>う<ruby>服<rt>ふく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたときは、まずその<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>家<rt>いえ</rt></ruby>にある<ruby>服<rt>ふく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて３<ruby>通<rt>とお</rt></ruby>り<ruby>以上<rt>いじょう</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby>ができるか」を<ruby>考<rt>かんが</rt></ruby>える <b>[57]</b>。<br>この<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>がほとんどなくなりました。<ruby>今<rt>いま</rt></ruby>では、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>だけを<ruby>長<rt>なが</rt></ruby>く<ruby>大切<rt>たいせつ</rt></ruby>に <b>[58]</b>。",
         "title": "空欄 [58] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [58] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -4453,7 +4453,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "内容理解（短文）",
         "qNum": 59,
         "passage": "【緑ヶ丘マンション管理組合からのお願い】\n今月２０日（火）の午前９時から午後４時まで、マンション全体の給水管の清掃作業を行います。作業中はすべての部屋で水道が全く使えなくなりますので、必要な水は前日までにバケツやペットボトルなどにくんでおいてください。また、作業終了後すぐは赤い水が出ることがありますので、しばらく水を流してからご使用ください。",
-        "passageRuby": "【<ruby>緑ヶ丘<rt>みどりがおか</rt></ruby>マンション<ruby>管理<rt>かんり</rt></ruby><ruby>組合<rt>くみあい</rt></ruby>からのお<ruby>願<rt>ねが</rt></ruby>い】<br><ruby>今月<rt>こんげつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>（<ruby>火<rt>ひ</rt></ruby>）の<ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>まで、マンション<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>給水<rt>きゅうすい</rt></ruby><ruby>管<rt>かん</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。<ruby>作業<rt>さぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はすべての<ruby>部屋<rt>へや</rt></ruby>で<ruby>水道<rt>すいどう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えなくなりますので、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>水<rt>みず</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>までにバケツやペットボトルなどにくんでおいてください。また、<ruby>作業<rt>さぎょう</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>あと</rt></ruby>すぐは<ruby>赤<rt>あか</rt></ruby>い<ruby>水<rt>みず</rt></ruby>が<ruby>出<rt>で</rt></ruby>ることがありますので、しばらく<ruby>水<rt>みず</rt></ruby>を<ruby>流<rt>なが</rt></ruby>してからご<ruby>使用<rt>しよう</rt></ruby>ください。",
+        "passageRuby": "【<ruby>緑ヶ丘<rt>みどりがおか</rt></ruby>マンション<ruby>管理<rt>かんり</rt></ruby><ruby>組合<rt>くみあい</rt></ruby>からのお<ruby>願<rt>ねが</rt></ruby>い】<br><ruby>今月<rt>こんげつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>（<ruby>火<rt>ひ</rt></ruby>）の<ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>まで、マンション<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>給水<rt>きゅうすい</rt></ruby><ruby>管<rt>かん</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。<ruby>作業<rt>さぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はすべての<ruby>部屋<rt>へや</rt></ruby>で<ruby>水道<rt>すいどう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えなくなりますので、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>水<rt>みず</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>までにバケツやペットボトルなどにくんでおいてください。また、<ruby>作業<rt>さぎょう</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>ご</rt></ruby>すぐは<ruby>赤<rt>あか</rt></ruby>い<ruby>水<rt>みず</rt></ruby>が<ruby>出<rt>で</rt></ruby>ることがありますので、しばらく<ruby>水<rt>みず</rt></ruby>を<ruby>流<rt>なが</rt></ruby>してからご<ruby>使用<rt>しよう</rt></ruby>ください。",
         "evidence": "<ruby>作業<rt>さぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はすべての<ruby>部屋<rt>へや</rt></ruby>で<ruby>水道<rt>すいどう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えなくなりますので、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>水<rt>みず</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>までにバケツやペットボトルなどにくんでおいてください。",
         "evidencePlain": "作業中はすべての部屋で水道が全く使えなくなりますので、必要な水は前日までにバケツやペットボトルなどにくんでおいてください。",
         "title": "このマンションに住んでいる人が、今月１９日（月）までにしておかなければならないことは何ですか。",
@@ -5421,16 +5421,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m02_q93.mp3",
         "title": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。",
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。",
-        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
-        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。<br>１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。<br>２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。<br>３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
+        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
+        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。\n１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。\n２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。\n３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
         "options": [
           "先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。",
-          "先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。",
+          "先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。",
           "先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。"
         ],
         "optionsRuby": [
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。",
-          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。",
+          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。",
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。"
         ],
         "correctIndex": 1,
@@ -5706,18 +5706,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -5733,9 +5733,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -6921,13 +6921,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "この美術館では、展示室の中で写真を撮っては（<span class='jlpt-underline-blank'></span>）ことになっています。",
         "titleRuby": "この<ruby>美術館<rt>びじゅつかん</rt></ruby>では、<ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っては（<span class='jlpt-underline-blank'></span>）ことになっています。",
         "options": [
-          "ならない",
+          "しかたがない",
           "いけない",
           "たまらない",
           "かまわない"
         ],
         "optionsRuby": [
-          "ならない",
+          "しかたがない",
           "いけない",
           "たまらない",
           "かまわない"
@@ -7092,18 +7092,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "私の祖母は８０歳を過ぎていますが、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> 元気です。",
         "titleRuby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>祖母<rt>そぼ</rt></ruby>は８０<ruby>歳<rt>さい</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎていますが、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>元気<rt>げんき</rt></ruby>です。",
         "options": [
-          "若い人に",
-          "くらい",
+          "若い人",
+          "にも",
           "負けない",
-          "毎日"
+          "くらい"
         ],
         "optionsRuby": [
-          "<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に",
-          "くらい",
+          "<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>",
+          "にも",
           "<ruby>負<rt>ま</rt></ruby>けない",
-          "<ruby>毎日<rt>まいにち</rt></ruby>"
+          "くらい"
         ],
-        "correctIndex": 2,
+        "correctIndex": 1,
         "weight": 2.0,
         "explanation": "正しい語順は「私の祖母は８０歳を過ぎていますが、【若い人に】【負けない】【くらい】【毎日】元気です。」です。★（2番目）に入るのは「負けない」です。"
       },
@@ -7447,7 +7447,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         ],
         "optionsRuby": [
           "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>焼<rt>や</rt></ruby>くパンの<ruby>数<rt>かず</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>に<ruby>減<rt>へ</rt></ruby>らすようにした",
-          "<ruby>閉店<rt>へいてん</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>ったパンを<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>無料<rt>むりょう</rt></ruby>で<ruby>配<rt>くば</rt></ruby>るようにした",
+          "<ruby>閉店<rt>へいてん</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>ったパンを<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>無料<rt>むりょう</rt></ruby>で<ruby>配<rt>くば</rt></ruby>るようにした",
           "お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>自分<rt>じぶん</rt></ruby>で<ruby>好<rt>す</rt></ruby>きなパンを３<ruby>個<rt>こ</rt></ruby><ruby>選<rt>えら</rt></ruby>んで<ruby>半額<rt>はんがく</rt></ruby>で<ruby>買<rt>か</rt></ruby>えるようにした",
           "<ruby>閉店<rt>へいてん</rt></ruby>１<ruby>時間<rt>じかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>っているパンを３<ruby>個<rt>こ</rt></ruby><ruby>袋<rt>ふくろ</rt></ruby>に<ruby>詰<rt>つ</rt></ruby>め、<ruby>半額<rt>はんがく</rt></ruby>で<ruby>売<rt>う</rt></ruby>るようにした"
         ],
@@ -8262,16 +8262,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m02_q93.mp3",
         "title": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。",
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。",
-        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
-        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。<br>１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。<br>２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。<br>３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
+        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
+        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。\n１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。\n２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。\n３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
         "options": [
           "先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。",
-          "先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。",
+          "先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。",
           "先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。"
         ],
         "optionsRuby": [
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。",
-          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。",
+          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。",
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。"
         ],
         "correctIndex": 1,
@@ -8547,18 +8547,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -8574,9 +8574,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -9451,13 +9451,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "titleRuby": "<ruby>次<rt>つぎ</rt></ruby>の <b>【 なにより 】</b> の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを１つ<ruby>選<rt>えら</rt></ruby>びなさい。",
         "options": [
           "この店のラーメンは、スープがなによりしょっぱくて食べられない。",
-          "明日の会議には、なにより遅れないように気をつけてください。",
+          "明日の会議には、なによりたくさんの資料を持っていく予定です。",
           "彼は数学がなにより苦手で、いつもテストで苦労している。",
           "退院されたと聞いて安心しました。お元気になられたのがなによりです。"
         ],
         "optionsRuby": [
           "この<ruby>店<rt>みせ</rt></ruby>のラーメンは、スープがなによりしょっぱくて<ruby>食<rt>た</rt></ruby>べられない。",
-          "<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>には、なにより<ruby>遅<rt>おく</rt></ruby>れないように<ruby>気<rt>き</rt></ruby>をつけてください。",
+          "<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>には、なによりたくさんの<ruby>資料<rt>しりょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていく<ruby>予定<rt>よてい</rt></ruby>です。",
           "<ruby>彼<rt>かれ</rt></ruby>は<ruby>数学<rt>すうがく</rt></ruby>がなにより<ruby>苦手<rt>にがて</rt></ruby>で、いつもテストで<ruby>苦労<rt>くろう</rt></ruby>している。",
           "<ruby>退院<rt>たいいん</rt></ruby>されたと<ruby>聞<rt>き</rt></ruby>いて<ruby>安心<rt>あんしん</rt></ruby>しました。お<ruby>元気<rt>げんき</rt></ruby>になられたのがなによりです。"
         ],
@@ -9836,13 +9836,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "options": [
           "かけない",
           "っぱなしだ",
-          "っこない",
+          "がちだ",
           "きれない"
         ],
         "optionsRuby": [
           "かけない",
           "っぱなしだ",
-          "っこない",
+          "がちだ",
           "きれない"
         ],
         "correctIndex": 3,
@@ -9885,13 +9885,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "options": [
           "小学生でも",
           "ように",
-          "楽しく",
+          "最後まで",
           "読める"
         ],
         "optionsRuby": [
           "<ruby>小学生<rt>しょうがくせい</rt></ruby>でも",
           "ように",
-          "<ruby>楽<rt>たの</rt></ruby>しく",
+          "<ruby>最後<rt>さいご</rt></ruby>まで",
           "<ruby>読<rt>よ</rt></ruby>める"
         ],
         "correctIndex": 1,
@@ -9959,15 +9959,15 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "titleRuby": "<ruby>母<rt>はは</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ってくれたお<ruby>弁当<rt>べんとう</rt></ruby>は、 <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> おいしかった。",
         "options": [
           "冷めていても",
-          "びっくりする",
-          "くらい",
-          "味がしみていて"
+          "おかわり",
+          "したく",
+          "なるほど"
         ],
         "optionsRuby": [
           "<ruby>冷<rt>さ</rt></ruby>めていても",
-          "びっくりする",
-          "くらい",
-          "<ruby>味<rt>あじ</rt></ruby>がしみていて"
+          "おかわり",
+          "したく",
+          "なるほど"
         ],
         "correctIndex": 0,
         "weight": 2.0,
@@ -10399,7 +10399,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "雨の日でも傘をささずにレインコートを着て出かけるようになった"
         ],
         "optionsRuby": [
-          "<ruby>傘<rt>かさ</rt></ruby>を<ruby>置<rt>お</rt></ruby>き<ruby>忘<rt>わす</rt></ruby>れなくなり、<ruby>帰宅<rt>きたく</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>乾<rt>かわ</rt></ruby>かすなど<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>って<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>外出<rt>がいしゅつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみになった",
+          "<ruby>傘<rt>かさ</rt></ruby>を<ruby>置<rt>お</rt></ruby>き<ruby>忘<rt>わす</rt></ruby>れなくなり、<ruby>帰宅<rt>きたく</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>乾<rt>かわ</rt></ruby>かすなど<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>って<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>外出<rt>がいしゅつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみになった",
           "<ruby>傘<rt>かさ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れるのがもったいなくて、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>はその<ruby>傘<rt>かさ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わずにビニール<ruby>傘<rt>かさ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うようになった",
           "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>職人<rt>しょくにん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち、<ruby>傘<rt>かさ</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めた",
           "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>でも<ruby>傘<rt>かさ</rt></ruby>をささずにレインコートを<ruby>着<rt>き</rt></ruby>て<ruby>出<rt>で</rt></ruby>かけるようになった"
@@ -10540,7 +10540,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         ],
         "optionsRuby": [
           "Bコースなので<ruby>事前<rt>じぜん</rt></ruby><ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しなくてもよいが、<ruby>動<rt>うご</rt></ruby>きやすいスニーカーを<ruby>履<rt>は</rt></ruby>いていく<ruby>必要<rt>ひつよう</rt></ruby>がある",
-          "７<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>の<ruby>事前<rt>じぜん</rt></ruby><ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>出席<rt>しゅっせき</rt></ruby>しなければならず、<ruby>期間<rt>きかん</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>あと</rt></ruby>には<ruby>交通<rt>こうつう</rt></ruby><ruby>費<rt>ひ</rt></ruby>のほかに<ruby>図書<rt>としょ</rt></ruby>バッグがもらえる",
+          "７<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>の<ruby>事前<rt>じぜん</rt></ruby><ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>出席<rt>しゅっせき</rt></ruby>しなければならず、<ruby>期間<rt>きかん</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>ご</rt></ruby>には<ruby>交通<rt>こうつう</rt></ruby><ruby>費<rt>ひ</rt></ruby>のほかに<ruby>図書<rt>としょ</rt></ruby>バッグがもらえる",
           "<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>６日<rt>むいか</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>参加<rt>さんか</rt></ruby>するので、<ruby>交通<rt>こうつう</rt></ruby><ruby>費<rt>ひ</rt></ruby>として<ruby>合計<rt>ごうけい</rt></ruby>６,０００<ruby>円<rt>えん</rt></ruby>と<ruby>図書<rt>としょ</rt></ruby>バッグがもらえる",
           "７<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>の<ruby>事前<rt>じぜん</rt></ruby><ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>すれば、<ruby>申込<rt>もうしこみ</rt></ruby><ruby>書<rt>しょ</rt></ruby>は７<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>提出<rt>ていしゅつ</rt></ruby>すればよい"
         ],
@@ -10645,8 +10645,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
         "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
         "options": [
           "ペアの ワイングラス",
           "バスタオルの セット",
@@ -11317,10 +11317,10 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q27.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-        "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-        "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+        "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+        "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
         "options": [
           "いいえ、鍵は わたしが 閉めて おきました。",
           "ええ、会議室の ドアは あいて いますよ。",
@@ -11388,18 +11388,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -11415,9 +11415,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -12557,13 +12557,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "options": [
           "はずがない",
           "べきではない",
-          "ことはない",
+          "わけがない",
           "に違いない"
         ],
         "optionsRuby": [
           "はずがない",
           "べきではない",
-          "ことはない",
+          "わけがない",
           "に<ruby>違<rt>ちが</rt></ruby>いない"
         ],
         "correctIndex": 1,
@@ -12827,13 +12827,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "あまり",
           "先週から",
           "良くなかったため",
-          "毎晩走ることを"
+          "毎晩走るように"
         ],
         "optionsRuby": [
           "あまり",
           "<ruby>先週<rt>せんしゅう</rt></ruby>から",
           "<ruby>良<rt>よ</rt></ruby>くなかったため",
-          "<ruby>毎晩<rt>まいばん</rt></ruby><ruby>走<rt>はし</rt></ruby>ることを"
+          "<ruby>毎晩<rt>まいばん</rt></ruby><ruby>走<rt>はし</rt></ruby>るように"
         ],
         "correctIndex": 2,
         "weight": 2.0,
@@ -13371,8 +13371,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "passageRuby": "【わかば<ruby>市民<rt>しみん</rt></ruby>ホール　<ruby>貸<rt>か</rt></ruby>し<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>・<ruby>練習<rt>れんしゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>のご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>市民<rt>しみん</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>、サークル<ruby>活動<rt>かつどう</rt></ruby>、<ruby>音楽<rt>おんがく</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>などにご<ruby>利用<rt>りよう</rt></ruby>いただけます。<br><br>■<ruby>部屋<rt>へや</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>と<ruby>利用<rt>りよう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>（１<ruby>時間<rt>じかん</rt></ruby>あたり）<br>① <ruby>第<rt>だい</rt></ruby>１<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby> ３０<ruby>名<rt>めい</rt></ruby>）<br>・<ruby>設備<rt>せつび</rt></ruby>：<ruby>長<rt>ちょう</rt></ruby><ruby>机<rt>つくえ</rt></ruby>、<ruby>椅子<rt>いす</rt></ruby>、ホワイトボード（<ruby>無料<rt>むりょう</rt></ruby>）、プロジェクター（１<ruby>回<rt>かい</rt></ruby> ５００<ruby>円<rt>えん</rt></ruby>）<br>・<ruby>料金<rt>りょうきん</rt></ruby>：<ruby>午前<rt>ごぜん</rt></ruby>（９：００〜１２：００） ８００<ruby>円<rt>えん</rt></ruby> ／ <ruby>午後<rt>ごご</rt></ruby>（１３：００〜１７：００） １,０００<ruby>円<rt>えん</rt></ruby> ／ <ruby>夜間<rt>やかん</rt></ruby>（１８：００〜２１：００） １,２００<ruby>円<rt>えん</rt></ruby><br>（※<ruby>飲食<rt>いんしょく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>ですが、ごみは<ruby>必<rt>かなら</rt></ruby>ずお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りください）<br><br>② <ruby>第<rt>だい</rt></ruby>２<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby> １２<ruby>名<rt>めい</rt></ruby>）<br>・<ruby>設備<rt>せつび</rt></ruby>：<ruby>丸<rt>まる</rt></ruby>テーブル、<ruby>椅子<rt>いす</rt></ruby>、ホワイトボード（<ruby>無料<rt>むりょう</rt></ruby>）<br>・<ruby>料金<rt>りょうきん</rt></ruby>：<ruby>終日<rt>しゅうじつ</rt></ruby> １<ruby>時間<rt>じかん</rt></ruby>あたり ５００<ruby>円<rt>えん</rt></ruby><br>（※<ruby>室内<rt>しつない</rt></ruby>での<ruby>食事<rt>しょくじ</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>です。ふた<ruby>付<rt>つ</rt></ruby>きの<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>のみ<ruby>持<rt>も</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>み<ruby>可能<rt>かのう</rt></ruby>です）<br><br>③ <ruby>音楽<rt>おんがく</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby> １５<ruby>名<rt>めい</rt></ruby>・<ruby>防音<rt>ぼうおん</rt></ruby><ruby>室<rt>しつ</rt></ruby>）<br>・<ruby>設備<rt>せつび</rt></ruby>：ピアノ（１<ruby>回<rt>かい</rt></ruby> １,０００<ruby>円<rt>えん</rt></ruby>）、<ruby>譜面<rt>ふめん</rt></ruby><ruby>台<rt>だい</rt></ruby>（<ruby>無料<rt>むりょう</rt></ruby>）<br>・<ruby>料金<rt>りょうきん</rt></ruby>：<ruby>終日<rt>しゅうじつ</rt></ruby> １<ruby>時間<rt>じかん</rt></ruby>あたり １,５００<ruby>円<rt>えん</rt></ruby><br>（※<ruby>室内<rt>しつない</rt></ruby>での<ruby>飲食<rt>いんしょく</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>です）<br><br>■<ruby>予約<rt>よやく</rt></ruby>・キャンセルのルール<br>・<ruby>利用<rt>りよう</rt></ruby><ruby>日<rt>び</rt></ruby>の２か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby><ruby>前<rt>まえ</rt></ruby>まで、<ruby>窓口<rt>まどぐち</rt></ruby>または<ruby>電話<rt>でんわ</rt></ruby>で<ruby>予約<rt>よやく</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けます（２<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>、１<ruby>時間<rt>じかん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>でお<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みください）。<br>・<ruby>市外<rt>しがい</rt></ruby>にお<ruby>住<rt>す</rt></ruby>まいの<ruby>方<rt>かた</rt></ruby>が<ruby>代表<rt>だいひょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>として<ruby>予約<rt>よやく</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>部屋<rt>へや</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>が「１.５<ruby>倍<rt>ばい</rt></ruby>」になります（プロジェクターやピアノの<ruby>設備<rt>せつび</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>料<rt>りょう</rt></ruby>は<ruby>変<rt>か</rt></ruby>わりません）。",
         "evidence": "① <ruby>第<rt>だい</rt></ruby>１<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby> ３０<ruby>名<rt>めい</rt></ruby>）\n・<ruby>設備<rt>せつび</rt></ruby>：<ruby>長<rt>ちょう</rt></ruby><ruby>机<rt>つくえ</rt></ruby>、<ruby>椅子<rt>いす</rt></ruby>、ホワイトボード（<ruby>無料<rt>むりょう</rt></ruby>）、プロジェクター（１<ruby>回<rt>かい</rt></ruby> ５００<ruby>円<rt>えん</rt></ruby>）\n・<ruby>料金<rt>りょうきん</rt></ruby>：<ruby>午前<rt>ごぜん</rt></ruby>（９：００〜１２：００） ８００<ruby>円<rt>えん</rt></ruby> ／ <ruby>午後<rt>ごご</rt></ruby>（１３：００〜１７：００） １,０００<ruby>円<rt>えん</rt></ruby> ／ <ruby>夜間<rt>やかん</rt></ruby>（１８：００〜２１：００） １,２００<ruby>円<rt>えん</rt></ruby>\n（※<ruby>飲食<rt>いんしょく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>ですが、ごみは<ruby>必<rt>かなら</rt></ruby>ずお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りください）",
         "evidencePlain": "① 第１会議室（定員 ３０名）\n・設備：長机、椅子、ホワイトボード（無料）、プロジェクター（１回 ５００円）\n・料金：午前（９：００〜１２：００） ８００円 ／ 午後（１３：００〜１７：００） １,０００円 ／ 夜間（１８：００〜２１：００） １,２００円\n（※飲食可能ですが、ごみは必ずお持ち帰りください）",
-        "title": "わかば市内に住む田中さんは、１０人の読書グループで昼食のお弁当を食べながら２時間（１１：００〜１３：００ではなく、１３：００〜１５：００）集まり、プロジェクターも１回使いたいと考えています。どの部屋を借り、合計いくら払いますか。",
-        "titleRuby": "わかば<ruby>市内<rt>しない</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>田中<rt>たなか</rt></ruby>さんは、１０<ruby>人<rt>にん</rt></ruby>の<ruby>読書<rt>どくしょ</rt></ruby>グループで<ruby>昼食<rt>ちゅうしょく</rt></ruby>のお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べながら２<ruby>時間<rt>じかん</rt></ruby>（１１：００〜１３：００ではなく、１３：００〜１５：００）<ruby>集<rt>あつ</rt></ruby>まり、プロジェクターも１<ruby>回<rt>かい</rt></ruby><ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。どの<ruby>部屋<rt>へや</rt></ruby>を<ruby>借<rt>か</rt></ruby>り、<ruby>合計<rt>ごうけい</rt></ruby>いくら<ruby>払<rt>はら</rt></ruby>いますか。",
+        "title": "わかば市内に住む田中さんは、１０人の読書グループで昼食のお弁当を食べながら２時間（１３：００〜１５：００）集まり、プロジェクターも１回使いたいと考えています。どの部屋を借り、合計いくら払いますか。",
+        "titleRuby": "わかば<ruby>市内<rt>しない</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>田中<rt>たなか</rt></ruby>さんは、１０<ruby>人<rt>にん</rt></ruby>の<ruby>読書<rt>どくしょ</rt></ruby>グループで<ruby>昼食<rt>ちゅうしょく</rt></ruby>のお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べながら２<ruby>時間<rt>じかん</rt></ruby>（１３：００〜１５：００）<ruby>集<rt>あつ</rt></ruby>まり、プロジェクターも１<ruby>回<rt>かい</rt></ruby><ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。どの<ruby>部屋<rt>へや</rt></ruby>を<ruby>借<rt>か</rt></ruby>り、<ruby>合計<rt>ごうけい</rt></ruby>いくら<ruby>払<rt>はら</rt></ruby>いますか。",
         "options": [
           "「① 第１会議室」を借り、２,５００円払う",
           "「② 第２会議室」を借り、１,５００円払う",
@@ -13944,16 +13944,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m02_q93.mp3",
         "title": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。",
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。",
-        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
-        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。<br>１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。<br>２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。<br>３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
+        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
+        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。\n１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。\n２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。\n３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
         "options": [
           "先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。",
-          "先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。",
+          "先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。",
           "先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。"
         ],
         "optionsRuby": [
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。",
-          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。",
+          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。",
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。"
         ],
         "correctIndex": 1,
@@ -14229,18 +14229,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -14256,9 +14256,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -14868,13 +14868,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "鍋のスープが沸騰して外に（<span class='jlpt-underline-blank'></span>）そうになったので、慌てて火を弱めた。",
         "titleRuby": "<ruby>鍋<rt>なべ</rt></ruby>のスープが<ruby>沸騰<rt>ふっとう</rt></ruby>して<ruby>外<rt>そと</rt></ruby>に（<span class='jlpt-underline-blank'></span>）そうになったので、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>火<rt>ひ</rt></ruby>を<ruby>弱<rt>よわ</rt></ruby>めた。",
         "options": [
-          "こぼれ",
+          "くずれ",
           "もれ",
           "あふれ",
           "ながれ"
         ],
         "optionsRuby": [
-          "こぼれ",
+          "くずれ",
           "もれ",
           "あふれ",
           "ながれ"
@@ -15590,16 +15590,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "母は忙しくても、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> 作ってくれた。",
         "titleRuby": "<ruby>母<rt>はは</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しくても、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <ruby>作<rt>つく</rt></ruby>ってくれた。",
         "options": [
-          "毎朝欠かさず",
+          "朝早く起きて",
           "私が高校を",
-          "卒業するまで",
-          "お弁当を"
+          "卒業する日まで",
+          "栄養たっぷりの"
         ],
         "optionsRuby": [
-          "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>欠<rt>か</rt></ruby>かさず",
+          "<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きて",
           "<ruby>私<rt>わたし</rt></ruby>が<ruby>高校<rt>こうこう</rt></ruby>を",
-          "<ruby>卒業<rt>そつぎょう</rt></ruby>するまで",
-          "お<ruby>弁当<rt>べんとう</rt></ruby>を"
+          "<ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>日<rt>ひ</rt></ruby>まで",
+          "<ruby>栄養<rt>えいよう</rt></ruby>たっぷりの"
         ],
         "correctIndex": 0,
         "weight": 2.0,
@@ -15816,8 +15816,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "subsectionId": "s2_m4",
         "category": "内容理解（短文）",
         "qNum": 59,
-        "passage": "【あさひ商店街　秋のポイント２倍キャンペーン】\n１０月１日（日）から１０月７日（土）までの１週間、商店街の加盟店でお買い物をされると、ポイントカードに通常の２倍のスタンプを押いたします（通常は５００円ごとにスタンプ１個ですが、期間中は５００円ごとに２個押します）。なお、スタンプが２０個たまると、次回のお買い物から５００円分の割引券として使えます。",
-        "passageRuby": "【あさひ<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>のポイント２<ruby>倍<rt>ばい</rt></ruby>キャンペーン】<br>１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）から１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）までの１<ruby>週間<rt>しゅうかん</rt></ruby>、<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>加盟<rt>かめい</rt></ruby><ruby>店<rt>てん</rt></ruby>でお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をされると、ポイントカードに<ruby>通常<rt>つうじょう</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>のスタンプを<ruby>押<rt>お</rt></ruby>いたします（<ruby>通常<rt>つうじょう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとにスタンプ１<ruby>個<rt>こ</rt></ruby>ですが、<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとに２<ruby>個<rt>こ</rt></ruby><ruby>押<rt>お</rt></ruby>します）。なお、スタンプが２０<ruby>個<rt>こ</rt></ruby>たまると、<ruby>次回<rt>じかい</rt></ruby>のお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>から５００<ruby>円<rt>えん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby><ruby>券<rt>けん</rt></ruby>として<ruby>使<rt>つか</rt></ruby>えます。",
+        "passage": "【あさひ商店街　秋のポイント２倍キャンペーン】\n１０月１日（日）から１０月７日（土）までの１週間、商店街の加盟店でお買い物をされると、ポイントカードに通常の２倍のスタンプを押します（通常は５００円ごとにスタンプ１個ですが、期間中は５００円ごとに２個押します）。なお、スタンプが２０個たまると、次回のお買い物から５００円分の割引券として使えます。",
+        "passageRuby": "【あさひ<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>のポイント２<ruby>倍<rt>ばい</rt></ruby>キャンペーン】<br>１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）から１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）までの１<ruby>週間<rt>しゅうかん</rt></ruby>、<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>加盟<rt>かめい</rt></ruby><ruby>店<rt>てん</rt></ruby>でお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をされると、ポイントカードに<ruby>通常<rt>つうじょう</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>のスタンプを<ruby>押<rt>お</rt></ruby>します（<ruby>通常<rt>つうじょう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとにスタンプ１<ruby>個<rt>こ</rt></ruby>ですが、<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとに２<ruby>個<rt>こ</rt></ruby><ruby>押<rt>お</rt></ruby>します）。なお、スタンプが２０<ruby>個<rt>こ</rt></ruby>たまると、<ruby>次回<rt>じかい</rt></ruby>のお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>から５００<ruby>円<rt>えん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby><ruby>券<rt>けん</rt></ruby>として<ruby>使<rt>つか</rt></ruby>えます。",
         "evidence": "<ruby>通常<rt>つうじょう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとにスタンプ１<ruby>個<rt>こ</rt></ruby>ですが、<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は５００<ruby>円<rt>えん</rt></ruby>ごとに２<ruby>個<rt>こ</rt></ruby><ruby>押<rt>お</rt></ruby>します",
         "evidencePlain": "通常は５００円ごとにスタンプ１個ですが、期間中は５００円ごとに２個押します",
         "title": "キャンペーン期間中に加盟店で１,５００円の買い物をすると、スタンプはいくつもらえますか。",
@@ -15873,8 +15873,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "内容理解（短文）",
         "qNum": 61,
         "passage": "件名：会議室の鍵の返却について\n営業一課の皆様\n昨日（木曜日）の午後４時から５時まで「第３会議室」を使用した方が、使用後に鍵を総務課のカウンターへ返却されておらず、現在も見つかっておりません。本日午後１時から別のお客様が第３会議室を使用される予定です。心当たりのある方は、午前１１時までに大至急、総務課の内山までご連絡ください。\n総務課　内山",
-        "passageRuby": "<ruby>件名<rt>けんめい</rt></ruby>：<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>の<ruby>返却<rt>へんきゃく</rt></ruby>について<br><ruby>営業<rt>えいぎょう</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby><br><ruby>昨日<rt>きのう</rt></ruby>（<ruby>木曜日<rt>もくようび</rt></ruby>）の<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで「<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>」を<ruby>使用<rt>しよう</rt></ruby>した<ruby>方<rt>かた</rt></ruby>が、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>のカウンターへ<ruby>返却<rt>へんきゃく</rt></ruby>されておらず、<ruby>現在<rt>げんざい</rt></ruby>も<ruby>見<rt>み</rt></ruby>つかっておりません。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby>から<ruby>別<rt>べつ</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>です。<ruby>心当<rt>こころあ</rt></ruby>たりのある<ruby>方<rt>かた</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>までに<ruby>大<rt>だい</rt></ruby><ruby>至急<rt>しきゅう</rt></ruby>、<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>内山<rt>うちやま</rt></ruby>までご<ruby>連絡<rt>れんらく</rt></ruby>ください。<br><ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>　<ruby>内山<rt>うちやま</rt></ruby>",
-        "evidence": "<ruby>昨日<rt>きのう</rt></ruby>（<ruby>木曜日<rt>もくようび</rt></ruby>）の<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで「<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>」を<ruby>使用<rt>しよう</rt></ruby>した<ruby>方<rt>かた</rt></ruby>が、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>のカウンターへ<ruby>返却<rt>へんきゃく</rt></ruby>されておらず、<ruby>現在<rt>げんざい</rt></ruby>も<ruby>見<rt>み</rt></ruby>つかっておりません。",
+        "passageRuby": "<ruby>件名<rt>けんめい</rt></ruby>：<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>の<ruby>返却<rt>へんきゃく</rt></ruby>について<br><ruby>営業<rt>えいぎょう</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby><br><ruby>昨日<rt>きのう</rt></ruby>（<ruby>木曜日<rt>もくようび</rt></ruby>）の<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで「<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>」を<ruby>使用<rt>しよう</rt></ruby>した<ruby>方<rt>かた</rt></ruby>が、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>のカウンターへ<ruby>返却<rt>へんきゃく</rt></ruby>されておらず、<ruby>現在<rt>げんざい</rt></ruby>も<ruby>見<rt>み</rt></ruby>つかっておりません。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby>から<ruby>別<rt>べつ</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>される<ruby>予定<rt>よてい</rt></ruby>です。<ruby>心当<rt>こころあ</rt></ruby>たりのある<ruby>方<rt>かた</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>までに<ruby>大<rt>だい</rt></ruby><ruby>至急<rt>しきゅう</rt></ruby>、<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>内山<rt>うちやま</rt></ruby>までご<ruby>連絡<rt>れんらく</rt></ruby>ください。<br><ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>　<ruby>内山<rt>うちやま</rt></ruby>",
+        "evidence": "<ruby>昨日<rt>きのう</rt></ruby>（<ruby>木曜日<rt>もくようび</rt></ruby>）の<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>から５<ruby>時<rt>じ</rt></ruby>まで「<ruby>第<rt>だい</rt></ruby>３<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>」を<ruby>使用<rt>しよう</rt></ruby>した<ruby>方<rt>かた</rt></ruby>が、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>のカウンターへ<ruby>返却<rt>へんきゃく</rt></ruby>されておらず、<ruby>現在<rt>げんざい</rt></ruby>も<ruby>見<rt>み</rt></ruby>つかっておりません。",
         "evidencePlain": "昨日（木曜日）の午後４時から５時まで「第３会議室」を使用した方が、使用後に鍵を総務課のカウンターへ返却されておらず、現在も見つかっておりません。",
         "title": "内山さんがこのメールを送った目的は何ですか。",
         "titleRuby": "<ruby>内山<rt>うちやま</rt></ruby>さんがこのメールを<ruby>送<rt>おく</rt></ruby>った<ruby>目的<rt>もくてき</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
@@ -16209,7 +16209,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 73,
         "passage": "【山川クリーニング店　春の衣替えセールのご案内】\n冬物のコートやセーターをしまう前に、ぜひ当店のクリーニングをご利用ください！\n\n■セール期間：４月１日（土）〜４月１６日（日）\n（※水曜日は定休日です。営業時間 ８：３０〜１９：３０）\n\n■対象品目と通常料金（１点あたり）\n・セーター、カーディガン：通常 ６００円\n・冬物コート、ダウンジャケット：通常 ２,０００円\n・スーツ上下セット：通常 １,５００円\n（※ワイシャツやズボン単品は、今回のセールの割引対象外です）\n\n■セール特典（割引ルール）\n・上記の「セール対象品目」を合計３点以上まとめて出すと、対象品目の合計金額が「２０％引き」になります。\n・さらに、当店専用の「持ち帰りエコバッグ」をご持参の会員様は、お会計の最後に「１００円引き」いたします（当日その場で会員カードを作られた方も対象です。年会費無料）。\n\n■仕上がり日と保管サービス\n・通常は受付から３日後の午後５時にお渡しが可能です。\n・冬物コートとダウンジャケットに限り、１点につきプラス３００円で、今年の１０月末まで当店の専用クローゼットでお預かりする「秋まで保管サービス」もご利用いただけます。",
-        "passageRuby": "【<ruby>山川<rt>やまかわ</rt></ruby>クリーニング<ruby>店<rt>てん</rt></ruby>　<ruby>春<rt>はる</rt></ruby>の<ruby>衣替<rt>ころもが</rt></ruby>えセールのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>冬物<rt>ふゆもの</rt></ruby>のコートやセーターをしまう<ruby>前<rt>まえ</rt></ruby>に、ぜひ<ruby>当店<rt>とうてん</rt></ruby>のクリーニングをご<ruby>利用<rt>りよう</rt></ruby>ください！<br><br>■セール<ruby>期間<rt>きかん</rt></ruby>：４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）〜４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）<br>（※<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>です。<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby> ８：３０〜１９：３０）<br><br>■<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>と<ruby>通常<rt>つうじょう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>（１<ruby>点<rt>てん</rt></ruby>あたり）<br>・セーター、カーディガン：<ruby>通常<rt>つうじょう</rt></ruby> ６００<ruby>円<rt>えん</rt></ruby><br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コート、ダウンジャケット：<ruby>通常<rt>つうじょう</rt></ruby> ２,０００<ruby>円<rt>えん</rt></ruby><br>・スーツ<ruby>上下<rt>じょうげ</rt></ruby>セット：<ruby>通常<rt>つうじょう</rt></ruby> １,５００<ruby>円<rt>えん</rt></ruby><br>（※ワイシャツやズボン<ruby>単品<rt>たんぴん</rt></ruby>は、<ruby>今回<rt>こんかい</rt></ruby>のセールの<ruby>割引<rt>わりびき</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>です）<br><br>■セール<ruby>特典<rt>とくてん</rt></ruby>（<ruby>割引<rt>わりびき</rt></ruby>ルール）<br>・<ruby>上記<rt>じょうき</rt></ruby>の「セール<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>」を<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>まとめて<ruby>出<rt>だ</rt></ruby>すと、<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が「２０％<ruby>引<rt>び</rt></ruby>き」になります。<br>・さらに、<ruby>当店<rt>とうてん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りエコバッグ」をご<ruby>持参<rt>じさん</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby><ruby>様<rt>さま</rt></ruby>は、お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「１００<ruby>円<rt>えん</rt></ruby><ruby>引<rt>ひ</rt></ruby>き」いたします（<ruby>当日<rt>とうじつ</rt></ruby>その<ruby>場<rt>ば</rt></ruby>で<ruby>会員<rt>かいいん</rt></ruby>カードを<ruby>作<rt>つく</rt></ruby>られた<ruby>方<rt>かた</rt></ruby>も<ruby>対象<rt>たいしょう</rt></ruby>です。<ruby>年会<rt>ねんかい</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>）。<br><br>■<ruby>仕上<rt>しあ</rt></ruby>がり<ruby>日<rt>ひ</rt></ruby>と<ruby>保管<rt>ほかん</rt></ruby>サービス<br>・<ruby>通常<rt>つうじょう</rt></ruby>は<ruby>受付<rt>うけつけ</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>にお<ruby>渡<rt>わた</rt></ruby>しが<ruby>可能<rt>かのう</rt></ruby>です。<br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コートとダウンジャケットに<ruby>限<rt>かぎ</rt></ruby>り、１<ruby>点<rt>てん</rt></ruby>につきプラス３００<ruby>円<rt>えん</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>の<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>当店<rt>とうてん</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>クローゼットでお<ruby>預<rt>あず</rt></ruby>かりする「<ruby>秋<rt>あき</rt></ruby>まで<ruby>保管<rt>ほかん</rt></ruby>サービス」もご<ruby>利用<rt>りよう</rt></ruby>いただけます。",
+        "passageRuby": "【<ruby>山川<rt>やまかわ</rt></ruby>クリーニング<ruby>店<rt>てん</rt></ruby>　<ruby>春<rt>はる</rt></ruby>の<ruby>衣替<rt>ころもが</rt></ruby>えセールのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>冬物<rt>ふゆもの</rt></ruby>のコートやセーターをしまう<ruby>前<rt>まえ</rt></ruby>に、ぜひ<ruby>当店<rt>とうてん</rt></ruby>のクリーニングをご<ruby>利用<rt>りよう</rt></ruby>ください！<br><br>■セール<ruby>期間<rt>きかん</rt></ruby>：４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）〜４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）<br>（※<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>です。<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby> ８：３０〜１９：３０）<br><br>■<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>と<ruby>通常<rt>つうじょう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>（１<ruby>点<rt>てん</rt></ruby>あたり）<br>・セーター、カーディガン：<ruby>通常<rt>つうじょう</rt></ruby> ６００<ruby>円<rt>えん</rt></ruby><br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コート、ダウンジャケット：<ruby>通常<rt>つうじょう</rt></ruby> ２,０００<ruby>円<rt>えん</rt></ruby><br>・スーツ<ruby>上下<rt>じょうげ</rt></ruby>セット：<ruby>通常<rt>つうじょう</rt></ruby> １,５００<ruby>円<rt>えん</rt></ruby><br>（※ワイシャツやズボン<ruby>単品<rt>たんぴん</rt></ruby>は、<ruby>今回<rt>こんかい</rt></ruby>のセールの<ruby>割引<rt>わりびき</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>です）<br><br>■セール<ruby>特典<rt>とくてん</rt></ruby>（<ruby>割引<rt>わりびき</rt></ruby>ルール）<br>・<ruby>上記<rt>じょうき</rt></ruby>の「セール<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>」を<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>まとめて<ruby>出<rt>だ</rt></ruby>すと、<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が「２０％<ruby>引<rt>び</rt></ruby>き」になります。<br>・さらに、<ruby>当店<rt>とうてん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りエコバッグ」をご<ruby>持参<rt>じさん</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby><ruby>様<rt>さま</rt></ruby>は、お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「１００<ruby>円<rt>えん</rt></ruby><ruby>引<rt>ひ</rt></ruby>き」いたします（<ruby>当日<rt>とうじつ</rt></ruby>その<ruby>場<rt>ば</rt></ruby>で<ruby>会員<rt>かいいん</rt></ruby>カードを<ruby>作<rt>つく</rt></ruby>られた<ruby>方<rt>かた</rt></ruby>も<ruby>対象<rt>たいしょう</rt></ruby>です。<ruby>年会<rt>ねんかい</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>）。<br><br>■<ruby>仕上<rt>しあ</rt></ruby>がり<ruby>日<rt>ひ</rt></ruby>と<ruby>保管<rt>ほかん</rt></ruby>サービス<br>・<ruby>通常<rt>つうじょう</rt></ruby>は<ruby>受付<rt>うけつけ</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>にお<ruby>渡<rt>わた</rt></ruby>しが<ruby>可能<rt>かのう</rt></ruby>です。<br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コートとダウンジャケットに<ruby>限<rt>かぎ</rt></ruby>り、１<ruby>点<rt>てん</rt></ruby>につきプラス３００<ruby>円<rt>えん</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>の<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>当店<rt>とうてん</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>クローゼットでお<ruby>預<rt>あず</rt></ruby>かりする「<ruby>秋<rt>あき</rt></ruby>まで<ruby>保管<rt>ほかん</rt></ruby>サービス」もご<ruby>利用<rt>りよう</rt></ruby>いただけます。",
         "evidence": "・セーター、カーディガン：<ruby>通常<rt>つうじょう</rt></ruby> ６００<ruby>円<rt>えん</rt></ruby>\n・<ruby>冬物<rt>ふゆもの</rt></ruby>コート、ダウンジャケット：<ruby>通常<rt>つうじょう</rt></ruby> ２,０００<ruby>円<rt>えん</rt></ruby>\n・スーツ<ruby>上下<rt>じょうげ</rt></ruby>セット：<ruby>通常<rt>つうじょう</rt></ruby> １,５００<ruby>円<rt>えん</rt></ruby>\n（※ワイシャツやズボン<ruby>単品<rt>たんぴん</rt></ruby>は、<ruby>今回<rt>こんかい</rt></ruby>のセールの<ruby>割引<rt>わりびき</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>です）\n\n■セール<ruby>特典<rt>とくてん</rt></ruby>（<ruby>割引<rt>わりびき</rt></ruby>ルール）\n・<ruby>上記<rt>じょうき</rt></ruby>の「セール<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>」を<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>まとめて<ruby>出<rt>だ</rt></ruby>すと、<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が「２０％<ruby>引<rt>び</rt></ruby>き」になります。\n・さらに、<ruby>当店<rt>とうてん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りエコバッグ」をご<ruby>持参<rt>じさん</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby><ruby>様<rt>さま</rt></ruby>は、お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「１００<ruby>円<rt>えん</rt></ruby><ruby>引<rt>ひ</rt></ruby>き」いたします",
         "evidencePlain": "・セーター、カーディガン：通常 ６００円\n・冬物コート、ダウンジャケット：通常 ２,０００円\n・スーツ上下セット：通常 １,５００円\n（※ワイシャツやズボン単品は、今回のセールの割引対象外です）\n\n■セール特典（割引ルール）\n・上記の「セール対象品目」を合計３点以上まとめて出すと、対象品目の合計金額が「２０％引き」になります。\n・さらに、当店専用の「持ち帰りエコバッグ」をご持参の会員様は、お会計の最後に「１００円引き」いたします",
         "title": "会員の加藤さんは、セール期間中に専用エコバッグを持って行き、「冬物コート１点」「セーター２点」をまとめてクリーニングに出しました（保管サービスは利用しません）。加藤さんが支払う金額はいくらですか。",
@@ -16237,7 +16237,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 74,
         "passage": "【山川クリーニング店　春の衣替えセールのご案内】\n冬物のコートやセーターをしまう前に、ぜひ当店のクリーニングをご利用ください！\n\n■セール期間：４月１日（土）〜４月１６日（日）\n（※水曜日は定休日です。営業時間 ８：３０〜１９：３０）\n\n■対象品目と通常料金（１点あたり）\n・セーター、カーディガン：通常 ６００円\n・冬物コート、ダウンジャケット：通常 ２,０００円\n・スーツ上下セット：通常 １,５００円\n（※ワイシャツやズボン単品は、今回のセールの割引対象外です）\n\n■セール特典（割引ルール）\n・上記の「セール対象品目」を合計３点以上まとめて出すと、対象品目の合計金額が「２０％引き」になります。\n・さらに、当店専用の「持ち帰りエコバッグ」をご持参の会員様は、お会計の最後に「１００円引き」いたします（当日その場で会員カードを作られた方も対象です。年会費無料）。\n\n■仕上がり日と保管サービス\n・通常は受付から３日後の午後５時にお渡しが可能です。\n・冬物コートとダウンジャケットに限り、１点につきプラス３００円で、今年の１０月末まで当店の専用クローゼットでお預かりする「秋まで保管サービス」もご利用いただけます。",
-        "passageRuby": "【<ruby>山川<rt>やまかわ</rt></ruby>クリーニング<ruby>店<rt>てん</rt></ruby>　<ruby>春<rt>はる</rt></ruby>の<ruby>衣替<rt>ころもが</rt></ruby>えセールのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>冬物<rt>ふゆもの</rt></ruby>のコートやセーターをしまう<ruby>前<rt>まえ</rt></ruby>に、ぜひ<ruby>当店<rt>とうてん</rt></ruby>のクリーニングをご<ruby>利用<rt>りよう</rt></ruby>ください！<br><br>■セール<ruby>期間<rt>きかん</rt></ruby>：４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）〜４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）<br>（※<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>です。<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby> ８：３０〜１９：３０）<br><br>■<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>と<ruby>通常<rt>つうじょう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>（１<ruby>点<rt>てん</rt></ruby>あたり）<br>・セーター、カーディガン：<ruby>通常<rt>つうじょう</rt></ruby> ６００<ruby>円<rt>えん</rt></ruby><br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コート、ダウンジャケット：<ruby>通常<rt>つうじょう</rt></ruby> ２,０００<ruby>円<rt>えん</rt></ruby><br>・スーツ<ruby>上下<rt>じょうげ</rt></ruby>セット：<ruby>通常<rt>つうじょう</rt></ruby> １,５００<ruby>円<rt>えん</rt></ruby><br>（※ワイシャツやズボン<ruby>単品<rt>たんぴん</rt></ruby>は、<ruby>今回<rt>こんかい</rt></ruby>のセールの<ruby>割引<rt>わりびき</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>です）<br><br>■セール<ruby>特典<rt>とくてん</rt></ruby>（<ruby>割引<rt>わりびき</rt></ruby>ルール）<br>・<ruby>上記<rt>じょうき</rt></ruby>の「セール<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>」を<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>まとめて<ruby>出<rt>だ</rt></ruby>すと、<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が「２０％<ruby>引<rt>び</rt></ruby>き」になります。<br>・さらに、<ruby>当店<rt>とうてん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りエコバッグ」をご<ruby>持参<rt>じさん</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby><ruby>様<rt>さま</rt></ruby>は、お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「１００<ruby>円<rt>えん</rt></ruby><ruby>引<rt>ひ</rt></ruby>き」いたします（<ruby>当日<rt>とうじつ</rt></ruby>その<ruby>場<rt>ば</rt></ruby>で<ruby>会員<rt>かいいん</rt></ruby>カードを<ruby>作<rt>つく</rt></ruby>られた<ruby>方<rt>かた</rt></ruby>も<ruby>対象<rt>たいしょう</rt></ruby>です。<ruby>年会<rt>ねんかい</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>）。<br><br>■<ruby>仕上<rt>しあ</rt></ruby>がり<ruby>日<rt>ひ</rt></ruby>と<ruby>保管<rt>ほかん</rt></ruby>サービス<br>・<ruby>通常<rt>つうじょう</rt></ruby>は<ruby>受付<rt>うけつけ</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>にお<ruby>渡<rt>わた</rt></ruby>しが<ruby>可能<rt>かのう</rt></ruby>です。<br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コートとダウンジャケットに<ruby>限<rt>かぎ</rt></ruby>り、１<ruby>点<rt>てん</rt></ruby>につきプラス３００<ruby>円<rt>えん</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>の<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>当店<rt>とうてん</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>クローゼットでお<ruby>預<rt>あず</rt></ruby>かりする「<ruby>秋<rt>あき</rt></ruby>まで<ruby>保管<rt>ほかん</rt></ruby>サービス」もご<ruby>利用<rt>りよう</rt></ruby>いただけます。",
+        "passageRuby": "【<ruby>山川<rt>やまかわ</rt></ruby>クリーニング<ruby>店<rt>てん</rt></ruby>　<ruby>春<rt>はる</rt></ruby>の<ruby>衣替<rt>ころもが</rt></ruby>えセールのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>冬物<rt>ふゆもの</rt></ruby>のコートやセーターをしまう<ruby>前<rt>まえ</rt></ruby>に、ぜひ<ruby>当店<rt>とうてん</rt></ruby>のクリーニングをご<ruby>利用<rt>りよう</rt></ruby>ください！<br><br>■セール<ruby>期間<rt>きかん</rt></ruby>：４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）〜４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）<br>（※<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>定休<rt>ていきゅう</rt></ruby><ruby>日<rt>び</rt></ruby>です。<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby> ８：３０〜１９：３０）<br><br>■<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>と<ruby>通常<rt>つうじょう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>（１<ruby>点<rt>てん</rt></ruby>あたり）<br>・セーター、カーディガン：<ruby>通常<rt>つうじょう</rt></ruby> ６００<ruby>円<rt>えん</rt></ruby><br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コート、ダウンジャケット：<ruby>通常<rt>つうじょう</rt></ruby> ２,０００<ruby>円<rt>えん</rt></ruby><br>・スーツ<ruby>上下<rt>じょうげ</rt></ruby>セット：<ruby>通常<rt>つうじょう</rt></ruby> １,５００<ruby>円<rt>えん</rt></ruby><br>（※ワイシャツやズボン<ruby>単品<rt>たんぴん</rt></ruby>は、<ruby>今回<rt>こんかい</rt></ruby>のセールの<ruby>割引<rt>わりびき</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>です）<br><br>■セール<ruby>特典<rt>とくてん</rt></ruby>（<ruby>割引<rt>わりびき</rt></ruby>ルール）<br>・<ruby>上記<rt>じょうき</rt></ruby>の「セール<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>」を<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>まとめて<ruby>出<rt>だ</rt></ruby>すと、<ruby>対象<rt>たいしょう</rt></ruby><ruby>品目<rt>ひんもく</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が「２０％<ruby>引<rt>び</rt></ruby>き」になります。<br>・さらに、<ruby>当店<rt>とうてん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りエコバッグ」をご<ruby>持参<rt>じさん</rt></ruby>の<ruby>会員<rt>かいいん</rt></ruby><ruby>様<rt>さま</rt></ruby>は、お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「１００<ruby>円<rt>えん</rt></ruby><ruby>引<rt>ひ</rt></ruby>き」いたします（<ruby>当日<rt>とうじつ</rt></ruby>その<ruby>場<rt>ば</rt></ruby>で<ruby>会員<rt>かいいん</rt></ruby>カードを<ruby>作<rt>つく</rt></ruby>られた<ruby>方<rt>かた</rt></ruby>も<ruby>対象<rt>たいしょう</rt></ruby>です。<ruby>年会<rt>ねんかい</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>）。<br><br>■<ruby>仕上<rt>しあ</rt></ruby>がり<ruby>日<rt>ひ</rt></ruby>と<ruby>保管<rt>ほかん</rt></ruby>サービス<br>・<ruby>通常<rt>つうじょう</rt></ruby>は<ruby>受付<rt>うけつけ</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>にお<ruby>渡<rt>わた</rt></ruby>しが<ruby>可能<rt>かのう</rt></ruby>です。<br>・<ruby>冬物<rt>ふゆもの</rt></ruby>コートとダウンジャケットに<ruby>限<rt>かぎ</rt></ruby>り、１<ruby>点<rt>てん</rt></ruby>につきプラス３００<ruby>円<rt>えん</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>の<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>当店<rt>とうてん</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>クローゼットでお<ruby>預<rt>あず</rt></ruby>かりする「<ruby>秋<rt>あき</rt></ruby>まで<ruby>保管<rt>ほかん</rt></ruby>サービス」もご<ruby>利用<rt>りよう</rt></ruby>いただけます。",
         "evidence": "・<ruby>冬物<rt>ふゆもの</rt></ruby>コートとダウンジャケットに<ruby>限<rt>かぎ</rt></ruby>り、１<ruby>点<rt>てん</rt></ruby>につきプラス３００<ruby>円<rt>えん</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>の<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>当店<rt>とうてん</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>クローゼットでお<ruby>預<rt>あず</rt></ruby>かりする「<ruby>秋<rt>あき</rt></ruby>まで<ruby>保管<rt>ほかん</rt></ruby>サービス」もご<ruby>利用<rt>りよう</rt></ruby>いただけます。",
         "evidencePlain": "・冬物コートとダウンジャケットに限り、１点につきプラス３００円で、今年の１０月末まで当店の専用クローゼットでお預かりする「秋まで保管サービス」もご利用いただけます。",
         "title": "このセールの内容と合っているものはどれですか。",
@@ -16252,7 +16252,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "ダウンジャケットは、１<ruby>点<rt>てん</rt></ruby>につき３００<ruby>円<rt>えん</rt></ruby><ruby>追加<rt>ついか</rt></ruby>すれば<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>までお<ruby>店<rt>みせ</rt></ruby>で<ruby>預<rt>あず</rt></ruby>かってもらえる",
           "セーター１<ruby>点<rt>てん</rt></ruby>とワイシャツ２<ruby>点<rt>てん</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby>３<ruby>点<rt>てん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>せば、２０％<ruby>引<rt>び</rt></ruby>きになる",
           "セーターやスーツ<ruby>上下<rt>じょうげ</rt></ruby>セットも、１<ruby>点<rt>てん</rt></ruby>３００<ruby>円<rt>えん</rt></ruby>で<ruby>１０月<rt>じゅうがつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>まで<ruby>預<rt>あず</rt></ruby>かってもらえる",
-          "<ruby>水曜日<rt>すいようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にお<ruby>店<rt>みせ</rt></ruby>へ<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>けば、<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>れる"
+          "<ruby>水曜日<rt>すいようび</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にお<ruby>店<rt>みせ</rt></ruby>へ<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>けば、<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>れる"
         ],
         "correctIndex": 0,
         "weight": 4.0,
@@ -16269,8 +16269,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q75.mp3",
         "title": "女の人は このあと まず なにを しますか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は このあと まず なにを しますか。",
-        "script": "男の人：高橋さん、来週の 新商品の 説明会の 準備、進んで いますか。\n女の人：はい、パンフレットの 印刷が 終わって、会場の 座席表も 作りました。\n男の人：ありがとう。さっき 営業課から 連絡が あって、参加者が １０名ほど 増える ことに なったんだ。座席表を 作り直す 前に、まず 会場の 担当者に 電話して、椅子を １０脚 追加できるか どうか 確認して くれる？\n女の人：わかりました。すぐに 会場へ 電話して みます。追加の パンフレットは その あとで 印刷しますね。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>高橋<rt>たかはし</rt></ruby>さん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の <ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>の <ruby>準備<rt>じゅんび</rt></ruby>、<ruby>進<rt>すす</rt></ruby>んで いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、パンフレットの <ruby>印刷<rt>いんさつ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わって、<ruby>会場<rt>かいじょう</rt></ruby>の <ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>も <ruby>作<rt>つく</rt></ruby>りました。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。さっき <ruby>営業<rt>えいぎょう</rt></ruby><ruby>課<rt>か</rt></ruby>から <ruby>連絡<rt>れんらく</rt></ruby>が あって、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が １０<ruby>名<rt>めい</rt></ruby>ほど <ruby>増<rt>ふ</rt></ruby>える ことに なったんだ。<ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を <ruby>作<rt>つく</rt></ruby>り<ruby>直<rt>なお</rt></ruby>す <ruby>前<rt>まえ</rt></ruby>に、まず <ruby>会場<rt>かいじょう</rt></ruby>の <ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に <ruby>電話<rt>でんわ</rt></ruby>して、<ruby>椅子<rt>いす</rt></ruby>を １０<ruby>脚<rt>きゃく</rt></ruby> <ruby>追加<rt>ついか</rt></ruby>できるか どうか <ruby>確認<rt>かくにん</rt></ruby>して くれる？<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：わかりました。すぐに <ruby>会場<rt>かいじょう</rt></ruby>へ <ruby>電話<rt>でんわ</rt></ruby>して みます。<ruby>追加<rt>ついか</rt></ruby>の パンフレットは その あとで <ruby>印刷<rt>いんさつ</rt></ruby>しますね。",
+        "script": "男の人：高橋さん、来週の 新商品の 説明会の 準備、進んで いる？\n女の人：はい、パンフレットの 印刷が 終わって、会場の 座席表も 作りました。\n男の人：ありがとう。さっき 営業課から 連絡が あって、参加者が １０名ほど 増える ことに なったんだ。座席表を 作り直す 前に、まず 会場の 担当者に 電話して、椅子を １０脚 追加できるか どうか 確認して くれる？\n女の人：わかりました。すぐに 会場へ 電話して みます。追加の パンフレットは その あとで 印刷しますね。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>高橋<rt>たかはし</rt></ruby>さん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の <ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>の <ruby>準備<rt>じゅんび</rt></ruby>、<ruby>進<rt>すす</rt></ruby>んで いる？\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、パンフレットの <ruby>印刷<rt>いんさつ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わって、<ruby>会場<rt>かいじょう</rt></ruby>の <ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>も <ruby>作<rt>つく</rt></ruby>りました。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。さっき <ruby>営業<rt>えいぎょう</rt></ruby><ruby>課<rt>か</rt></ruby>から <ruby>連絡<rt>れんらく</rt></ruby>が あって、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が １０<ruby>名<rt>めい</rt></ruby>ほど <ruby>増<rt>ふ</rt></ruby>える ことに なったんだ。<ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を <ruby>作り直<rt>つくりなお</rt></ruby>す <ruby>前<rt>まえ</rt></ruby>に、まず <ruby>会場<rt>かいじょう</rt></ruby>の <ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に <ruby>電話<rt>でんわ</rt></ruby>して、<ruby>椅子<rt>いす</rt></ruby>を １０<ruby>脚<rt>きゃく</rt></ruby> <ruby>追加<rt>ついか</rt></ruby>できるか どうか <ruby>確認<rt>かくにん</rt></ruby>して くれる？\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：わかりました。すぐに <ruby>会場<rt>かいじょう</rt></ruby>へ <ruby>電話<rt>でんわ</rt></ruby>して みます。<ruby>追加<rt>ついか</rt></ruby>の パンフレットは その あとで <ruby>印刷<rt>いんさつ</rt></ruby>しますね。",
         "options": [
           "座席表を 作り直す",
           "会場の 担当者に 電話して 椅子の 追加を 確認する",
@@ -16327,8 +16327,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
         "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
         "options": [
           "お皿の セット",
           "コーヒーメーカー",
@@ -16999,10 +16999,10 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q27.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-        "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-        "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+        "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+        "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
         "options": [
           "いいえ、鍵は わたしが 閉めて おきました。",
           "ええ、会議室の ドアは あいて いますよ。",
@@ -17070,18 +17070,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -17097,9 +17097,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -17491,7 +17491,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "表記",
         "qNum": 11,
         "title": "部屋の<u>かんき</u>をするために窓を開けた。",
-        "titleRuby": "<ruby>部屋<rt>へや</rt></ruby>の<u>かんき</u>をするために<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けた。",
+        "titleRuby": "<ruby>部屋<rt>へや</rt></ruby>の<u>かんき</u>をするために<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けた。",
         "options": [
           "換気",
           "完気",
@@ -18528,7 +18528,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 54,
         "passage": "皆さんは、朝起きたときにまず何をしますか。私は以前、目覚まし時計を止めたあとも布団の中でしばらくスマートフォンを見て、ニュースや天気予報を調べるのが習慣になっていました。<b>[54]</b>、朝から画面の強い光を見ると頭がぼんやりしてしまい、なかなか布団から出られない日が続いていたのです。\nある日、健康に関する雑誌を読んでいたとき、「朝起きたらまずカーテンを開けて太陽の光を浴びると、体内時計が整って自然に目が覚める」という記事を <b>[55]</b>。さらに、コップ１杯の水をゆっくり飲むことで、眠っていた胃や腸も元気に動き始めるそうです。\n私はその翌朝から、スマートフォンを見る <b>[56]</b>、まず窓を開けて外の空気を吸いながら水を１杯飲むようにしてみました。すると、驚くほど頭がすっきりして、朝ごはんもおいしく <b>[57]</b> ようになりました。\nほんの５分ほどの簡単な習慣ですが、１日の始まり方が変わると、その日１日の仕事への集中力まで大きく変わります。朝起きるのがつらいと感じている人は、ぜひ一度 <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
         "title": "空欄 [54] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [54] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -18554,7 +18554,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 55,
         "passage": "皆さんは、朝起きたときにまず何をしますか。私は以前、目覚まし時計を止めたあとも布団の中でしばらくスマートフォンを見て、ニュースや天気予報を調べるのが習慣になっていました。<b>[54]</b>、朝から画面の強い光を見ると頭がぼんやりしてしまい、なかなか布団から出られない日が続いていたのです。\nある日、健康に関する雑誌を読んでいたとき、「朝起きたらまずカーテンを開けて太陽の光を浴びると、体内時計が整って自然に目が覚める」という記事を <b>[55]</b>。さらに、コップ１杯の水をゆっくり飲むことで、眠っていた胃や腸も元気に動き始めるそうです。\n私はその翌朝から、スマートフォンを見る <b>[56]</b>、まず窓を開けて外の空気を吸いながら水を１杯飲むようにしてみました。すると、驚くほど頭がすっきりして、朝ごはんもおいしく <b>[57]</b> ようになりました。\nほんの５分ほどの簡単な習慣ですが、１日の始まり方が変わると、その日１日の仕事への集中力まで大きく変わります。朝起きるのがつらいと感じている人は、ぜひ一度 <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
         "title": "空欄 [55] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [55] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -18580,7 +18580,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 56,
         "passage": "皆さんは、朝起きたときにまず何をしますか。私は以前、目覚まし時計を止めたあとも布団の中でしばらくスマートフォンを見て、ニュースや天気予報を調べるのが習慣になっていました。<b>[54]</b>、朝から画面の強い光を見ると頭がぼんやりしてしまい、なかなか布団から出られない日が続いていたのです。\nある日、健康に関する雑誌を読んでいたとき、「朝起きたらまずカーテンを開けて太陽の光を浴びると、体内時計が整って自然に目が覚める」という記事を <b>[55]</b>。さらに、コップ１杯の水をゆっくり飲むことで、眠っていた胃や腸も元気に動き始めるそうです。\n私はその翌朝から、スマートフォンを見る <b>[56]</b>、まず窓を開けて外の空気を吸いながら水を１杯飲むようにしてみました。すると、驚くほど頭がすっきりして、朝ごはんもおいしく <b>[57]</b> ようになりました。\nほんの５分ほどの簡単な習慣ですが、１日の始まり方が変わると、その日１日の仕事への集中力まで大きく変わります。朝起きるのがつらいと感じている人は、ぜひ一度 <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
         "title": "空欄 [56] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [56] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -18606,7 +18606,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 57,
         "passage": "皆さんは、朝起きたときにまず何をしますか。私は以前、目覚まし時計を止めたあとも布団の中でしばらくスマートフォンを見て、ニュースや天気予報を調べるのが習慣になっていました。<b>[54]</b>、朝から画面の強い光を見ると頭がぼんやりしてしまい、なかなか布団から出られない日が続いていたのです。\nある日、健康に関する雑誌を読んでいたとき、「朝起きたらまずカーテンを開けて太陽の光を浴びると、体内時計が整って自然に目が覚める」という記事を <b>[55]</b>。さらに、コップ１杯の水をゆっくり飲むことで、眠っていた胃や腸も元気に動き始めるそうです。\n私はその翌朝から、スマートフォンを見る <b>[56]</b>、まず窓を開けて外の空気を吸いながら水を１杯飲むようにしてみました。すると、驚くほど頭がすっきりして、朝ごはんもおいしく <b>[57]</b> ようになりました。\nほんの５分ほどの簡単な習慣ですが、１日の始まり方が変わると、その日１日の仕事への集中力まで大きく変わります。朝起きるのがつらいと感じている人は、ぜひ一度 <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
         "title": "空欄 [57] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [57] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -18632,7 +18632,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 58,
         "passage": "皆さんは、朝起きたときにまず何をしますか。私は以前、目覚まし時計を止めたあとも布団の中でしばらくスマートフォンを見て、ニュースや天気予報を調べるのが習慣になっていました。<b>[54]</b>、朝から画面の強い光を見ると頭がぼんやりしてしまい、なかなか布団から出られない日が続いていたのです。\nある日、健康に関する雑誌を読んでいたとき、「朝起きたらまずカーテンを開けて太陽の光を浴びると、体内時計が整って自然に目が覚める」という記事を <b>[55]</b>。さらに、コップ１杯の水をゆっくり飲むことで、眠っていた胃や腸も元気に動き始めるそうです。\n私はその翌朝から、スマートフォンを見る <b>[56]</b>、まず窓を開けて外の空気を吸いながら水を１杯飲むようにしてみました。すると、驚くほど頭がすっきりして、朝ごはんもおいしく <b>[57]</b> ようになりました。\nほんの５分ほどの簡単な習慣ですが、１日の始まり方が変わると、その日１日の仕事への集中力まで大きく変わります。朝起きるのがつらいと感じている人は、ぜひ一度 <b>[58]</b>。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたときにまず<ruby>何<rt>なに</rt></ruby>をしますか。<ruby>私<rt>わたし</rt></ruby>は<ruby>以前<rt>いぜん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を<ruby>止<rt>と</rt></ruby>めたあとも<ruby>布団<rt>ふとん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でしばらくスマートフォンを<ruby>見<rt>み</rt></ruby>て、ニュースや<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるのが<ruby>習慣<rt>しゅうかん</rt></ruby>になっていました。<b>[54]</b>、<ruby>朝<rt>あさ</rt></ruby>から<ruby>画面<rt>がめん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると<ruby>頭<rt>あたま</rt></ruby>がぼんやりしてしまい、なかなか<ruby>布団<rt>ふとん</rt></ruby>から<ruby>出<rt>で</rt></ruby>られない<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたのです。<br>ある<ruby>日<rt>ひ</rt></ruby>、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいたとき、「<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたらまずカーテンを<ruby>開<rt>あ</rt></ruby>けて<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びると、<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>って<ruby>自然<rt>しぜん</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める」という<ruby>記事<rt>きじ</rt></ruby>を <b>[55]</b>。さらに、コップ１<ruby>杯<rt>ぱい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>をゆっくり<ruby>飲<rt>の</rt></ruby>むことで、<ruby>眠<rt>ねむ</rt></ruby>っていた<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるそうです。<br><ruby>私<rt>わたし</rt></ruby>はその<ruby>翌朝<rt>よくあさ</rt></ruby>から、スマートフォンを<ruby>見<rt>み</rt></ruby>る <b>[56]</b>、まず<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>いながら<ruby>水<rt>みず</rt></ruby>を１<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むようにしてみました。すると、<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>頭<rt>あたま</rt></ruby>がすっきりして、<ruby>朝<rt>あさ</rt></ruby>ごはんもおいしく <b>[57]</b> ようになりました。<br>ほんの５<ruby>分<rt>ふん</rt></ruby>ほどの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>ですが、<ruby>１日<rt>いちにち</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まり<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると、その<ruby>日<rt>ひ</rt></ruby><ruby>１日<rt>いちにち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>への<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>まで<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わります。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのがつらいと<ruby>感<rt>かん</rt></ruby>じている<ruby>人<rt>ひと</rt></ruby>は、ぜひ<ruby>一度<rt>いちど</rt></ruby> <b>[58]</b>。",
         "title": "空欄 [58] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [58] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -18686,8 +18686,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "内容理解（短文）",
         "qNum": 60,
         "passage": "冷蔵庫に食品を詰め込みすぎると、冷たい空気の流れが悪くなり、中を冷やすために余分な電気代がかかってしまいます。しかし、反対に「冷凍庫」の場合は、隙間なくしっかり詰まっているほうが、凍った食品同士がお互いを冷やし合うため、扉を開けたときにも温度が上がりにくく、電気代の節約になるそうです。",
-        "passageRuby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>みすぎると、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れが<ruby>悪<rt>わる</rt></ruby>くなり、<ruby>中<rt>なか</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やすために<ruby>余分<rt>よぶん</rt></ruby>な<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>がかかってしまいます。しかし、<ruby>反対<rt>はんたい</rt></ruby>に「<ruby>冷凍庫<rt>れいとうこ</rt></ruby>」の<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>隙間<rt>すきま</rt></ruby>なくしっかり<ruby>詰<rt>つ</rt></ruby>まっているほうが、<ruby>凍<rt>こお</rt></ruby>った<ruby>食品<rt>しょくひん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>がお<ruby>互<rt>たが</rt></ruby>いを<ruby>冷<rt>ひ</rt></ruby>やし<ruby>合<rt>あ</rt></ruby>うため、<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けたときにも<ruby>温度<rt>おんど</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりにくく、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>になるそうです。",
-        "evidence": "<ruby>反対<rt>はんたい</rt></ruby>に「<ruby>冷凍庫<rt>れいとうこ</rt></ruby>」の<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>隙間<rt>すきま</rt></ruby>なくしっかり<ruby>詰<rt>つ</rt></ruby>まっているほうが、<ruby>凍<rt>こお</rt></ruby>った<ruby>食品<rt>しょくひん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>がお<ruby>互<rt>たが</rt></ruby>いを<ruby>冷<rt>ひ</rt></ruby>やし<ruby>合<rt>あ</rt></ruby>うため、<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けたときにも<ruby>温度<rt>おんど</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりにくく、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>になるそうです。",
+        "passageRuby": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>みすぎると、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れが<ruby>悪<rt>わる</rt></ruby>くなり、<ruby>中<rt>なか</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やすために<ruby>余分<rt>よぶん</rt></ruby>な<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>がかかってしまいます。しかし、<ruby>反対<rt>はんたい</rt></ruby>に「<ruby>冷凍庫<rt>れいとうこ</rt></ruby>」の<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>隙間<rt>すきま</rt></ruby>なくしっかり<ruby>詰<rt>つ</rt></ruby>まっているほうが、<ruby>凍<rt>こお</rt></ruby>った<ruby>食品<rt>しょくひん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>がお<ruby>互<rt>たが</rt></ruby>いを<ruby>冷<rt>ひ</rt></ruby>やし<ruby>合<rt>あ</rt></ruby>うため、<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたときにも<ruby>温度<rt>おんど</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりにくく、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>になるそうです。",
+        "evidence": "<ruby>反対<rt>はんたい</rt></ruby>に「<ruby>冷凍庫<rt>れいとうこ</rt></ruby>」の<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>隙間<rt>すきま</rt></ruby>なくしっかり<ruby>詰<rt>つ</rt></ruby>まっているほうが、<ruby>凍<rt>こお</rt></ruby>った<ruby>食品<rt>しょくひん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>がお<ruby>互<rt>たが</rt></ruby>いを<ruby>冷<rt>ひ</rt></ruby>やし<ruby>合<rt>あ</rt></ruby>うため、<ruby>扉<rt>とびら</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたときにも<ruby>温度<rt>おんど</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりにくく、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>節約<rt>せつやく</rt></ruby>になるそうです。",
         "evidencePlain": "反対に「冷凍庫」の場合は、隙間なくしっかり詰まっているほうが、凍った食品同士がお互いを冷やし合うため、扉を開けたときにも温度が上がりにくく、電気代の節約になるそうです。",
         "title": "電気代を節約するための使い方として、本文の内容と合っているものはどれですか。",
         "titleRuby": "<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するための<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として、<ruby>本文<rt>ほんぶん</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>と<ruby>合<rt>あ</rt></ruby>っているものはどれですか。",
@@ -18700,7 +18700,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "optionsRuby": [
           "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も<ruby>冷凍庫<rt>れいとうこ</rt></ruby>も、できるだけ<ruby>隙間<rt>すきま</rt></ruby>なくいっぱいまで<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>める",
           "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>は<ruby>隙間<rt>すきま</rt></ruby>なくいっぱいまで<ruby>詰<rt>つ</rt></ruby>め、<ruby>冷凍庫<rt>れいとうこ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>ししか<ruby>入<rt>い</rt></ruby>れないようにする",
-          "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も<ruby>冷凍庫<rt>れいとうこ</rt></ruby>も、<ruby>中身<rt>なかみ</rt></ruby>をほとんど<ruby>入<rt>い</rt></ruby>れずに<ruby>空<rt>そら</rt></ruby>っぽにしておく",
+          "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>も<ruby>冷凍庫<rt>れいとうこ</rt></ruby>も、<ruby>中身<rt>なかみ</rt></ruby>をほとんど<ruby>入<rt>い</rt></ruby>れずに<ruby>空<rt>から</rt></ruby>っぽにしておく",
           "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>は<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>みすぎないようにし、<ruby>冷凍庫<rt>れいとうこ</rt></ruby>は<ruby>隙間<rt>すきま</rt></ruby>なくしっかり<ruby>詰<rt>つ</rt></ruby>める"
         ],
         "correctIndex": 3,
@@ -18756,7 +18756,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "optionsRuby": [
           "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って、<ruby>白<rt>しろ</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>を<ruby>何時間<rt>なんじかん</rt></ruby>もじっと<ruby>見<rt>み</rt></ruby>つめているとき",
           "<ruby>散歩<rt>さんぽ</rt></ruby>をしたりシャワーを<ruby>浴<rt>あ</rt></ruby>びたりして、リラックスしているとき",
-          "<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>囲<rt>かこ</rt></ruby>まれて、<ruby>厳<rt>きび</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でプレッシャーを<ruby>感<rt>かん</rt></ruby>じているとき",
+          "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>囲<rt>かこ</rt></ruby>まれて、<ruby>厳<rt>きび</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でプレッシャーを<ruby>感<rt>かん</rt></ruby>じているとき",
           "<ruby>徹夜<rt>てつや</rt></ruby>をして<ruby>頭<rt>あたま</rt></ruby>がすっかり<ruby>疲<rt>つか</rt></ruby>れ<ruby>果<rt>は</rt></ruby>てているとき"
         ],
         "correctIndex": 1,
@@ -19626,16 +19626,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m02_q93.mp3",
         "title": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。",
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。",
-        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
-        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。<br>１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。<br>２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。<br>３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
+        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
+        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。\n１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。\n２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。\n３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
         "options": [
           "先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。",
-          "先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。",
+          "先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。",
           "先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。"
         ],
         "optionsRuby": [
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。",
-          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。",
+          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。",
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。"
         ],
         "correctIndex": 1,
@@ -19911,18 +19911,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -19938,9 +19938,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -20574,13 +20574,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "彼女はピアノのコンクールで優勝するために、毎日欠かさず練習を（<span class='jlpt-underline-blank'></span>）いる。",
         "titleRuby": "<ruby>彼女<rt>かのじょ</rt></ruby>はピアノのコンクールで<ruby>優勝<rt>ゆうしょう</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>欠<rt>か</rt></ruby>かさず<ruby>練習<rt>れんしゅう</rt></ruby>を（<span class='jlpt-underline-blank'></span>）いる。",
         "options": [
-          "積んで",
+          "揃えて",
           "重ねて",
           "並べて",
           "集めて"
         ],
         "optionsRuby": [
-          "<ruby>積<rt>つ</rt></ruby>んで",
+          "<ruby>揃<rt>そろ</rt></ruby>えて",
           "<ruby>重<rt>かさ</rt></ruby>ねて",
           "<ruby>並<rt>なら</rt></ruby>べて",
           "<ruby>集<rt>あつ</rt></ruby>めて"
@@ -21322,20 +21322,20 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "あのベテランの職人でも <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> 私たちにできるはずがない。",
         "titleRuby": "あのベテランの<ruby>職人<rt>しょくにん</rt></ruby>でも <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>私<rt>わたし</rt></ruby>たちにできるはずがない。",
         "options": [
-          "難しい作業を",
+          "難しい作業が",
           "３日かかる",
           "経験がない",
           "初心者の"
         ],
         "optionsRuby": [
-          "<ruby>難<rt>むずか</rt></ruby>しい<ruby>作業<rt>さぎょう</rt></ruby>を",
-          "<ruby>３日<rt>みっか</rt></ruby>かかる",
+          "<ruby>難<rt>むずか</rt></ruby>しい<ruby>作業<rt>さぎょう</rt></ruby>が",
+          "３<ruby>日<rt>にち</rt></ruby>かかる",
           "<ruby>経験<rt>けいけん</rt></ruby>がない",
           "<ruby>初心者<rt>しょしんしゃ</rt></ruby>の"
         ],
         "correctIndex": 0,
         "weight": 2.0,
-        "explanation": "正しい語順は「あのベテランの職人でも【３日かかる】【難しい作業を】【経験がない】【初心者の】私たちにできるはずがない。」です。★（2番目）に入るのは「難しい作業を」です。"
+        "explanation": "正しい語順は「あのベテランの職人でも【３日かかる】【難しい作業が】【経験がない】【初心者の】私たちにできるはずがない。」です。★（2番目）に入るのは「難しい作業が」です。"
       },
       {
         "id": 53,
@@ -21647,13 +21647,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "options": [
           "ギターをソファーの横に立てかけておき、１日５分だけ触ればいいとルールを変えた",
           "ギターをケースに入れて押し入れの奥にしまい、日曜日だけ練習することにした",
-          "高いお金を払って音楽教室の厳しい先生に毎日習うことにした",
+          "高い授業料を払って音楽教室の厳しい先生に毎日習うことにした",
           "仕事の時間を減らして、毎晩必ず２時間以上練習するようにした"
         ],
         "optionsRuby": [
-          "ギターをソファーの<ruby>横<rt>よこ</rt></ruby>に<ruby>立<rt>た</rt></ruby>てかけておき、<ruby>１日<rt>いちにち</rt></ruby>５<ruby>分<rt>ふん</rt></ruby>だけ<ruby>触<rt>さわ</rt></ruby>ればいいとルールを<ruby>変<rt>か</rt></ruby>えた",
-          "ギターをケースに<ruby>入<rt>い</rt></ruby>れて<ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>れの<ruby>奥<rt>おく</rt></ruby>にしまい、<ruby>日曜日<rt>にちようび</rt></ruby>だけ<ruby>練習<rt>れんしゅう</rt></ruby>することにした",
-          "<ruby>高<rt>たか</rt></ruby>いお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>音楽<rt>おんがく</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>厳<rt>きび</rt></ruby>しい<ruby>先生<rt>せんせい</rt></ruby>に<ruby>毎日<rt>まいにち</rt></ruby><ruby>習<rt>なら</rt></ruby>うことにした",
+          "ギターをソファーの<ruby>横<rt>よこ</rt></ruby>に<ruby>立<rt>た</rt></ruby>てかけておき、１<ruby>日<rt>にち</rt></ruby>５<ruby>分<rt>ふん</rt></ruby>だけ<ruby>触<rt>さわ</rt></ruby>ればいいとルールを<ruby>変<rt>か</rt></ruby>えた",
+          "ギターをケースに<ruby>入<rt>い</rt></ruby>れて<ruby>押し入<rt>おしい</rt></ruby>れの<ruby>奥<rt>おく</rt></ruby>にしまい、<ruby>日曜日<rt>にちようび</rt></ruby>だけ<ruby>練習<rt>れんしゅう</rt></ruby>することにした",
+          "<ruby>高<rt>たか</rt></ruby>い<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>音楽<rt>おんがく</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>厳<rt>きび</rt></ruby>しい<ruby>先生<rt>せんせい</rt></ruby>に<ruby>毎日<rt>まいにち</rt></ruby><ruby>習<rt>なら</rt></ruby>うことにした",
           "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らして、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>必<rt>かなら</rt></ruby>ず２<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>するようにした"
         ],
         "correctIndex": 0,
@@ -22009,8 +22009,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
         "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
         "options": [
           "ペアの ワイングラス",
           "バスタオルの セット",
@@ -22681,10 +22681,10 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q27.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-        "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-        "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+        "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+        "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
         "options": [
           "いいえ、鍵は わたしが 閉めて おきました。",
           "ええ、会議室の ドアは あいて いますよ。",
@@ -22752,18 +22752,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -22779,9 +22779,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -23487,13 +23487,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "新しいパソコンを買ったので、古いパソコンに入っていたデータをすべて（<span class='jlpt-underline-blank'></span>）した。",
         "titleRuby": "<ruby>新<rt>あたら</rt></ruby>しいパソコンを<ruby>買<rt>か</rt></ruby>ったので、<ruby>古<rt>ふる</rt></ruby>いパソコンに<ruby>入<rt>はい</rt></ruby>っていたデータをすべて（<span class='jlpt-underline-blank'></span>）した。",
         "options": [
-          "移動",
+          "移設",
           "移行",
           "移転",
           "移住"
         ],
         "optionsRuby": [
-          "<ruby>移動<rt>いどう</rt></ruby>",
+          "<ruby>移設<rt>いせつ</rt></ruby>",
           "<ruby>移行<rt>いこう</rt></ruby>",
           "<ruby>移転<rt>いてん</rt></ruby>",
           "<ruby>移住<rt>いじゅう</rt></ruby>"
@@ -23703,16 +23703,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "次の <b>【 取り組む 】</b> の使い方として最もよいものを１つ選びなさい。",
         "titleRuby": "<ruby>次<rt>つぎ</rt></ruby>の <b>【 <ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>む 】</b> の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを１つ<ruby>選<rt>えら</rt></ruby>びなさい。",
         "options": [
-          "我が社では今、ゴミを減らすための環境問題に真剣に取り組んでいる。",
+          "我が社では今、ゴミの削減をはじめとする環境問題に真剣に取り組んでいる。",
           "新しく買ったパソコンに、便利なソフトを取り組んで使った。",
           "バラバラになった部品を説明書通りに取り組んで完成させた。",
           "来月から新しい社員を三人、営業部に取り組む予定だ。"
         ],
         "optionsRuby": [
-          "<ruby>我<rt>わ</rt></ruby>が<ruby>社<rt>しゃ</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、ゴミを<ruby>減<rt>へ</rt></ruby>らすための<ruby>環境<rt>かんきょう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>に<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでいる。",
-          "<ruby>新<rt>あたら</rt></ruby>しく<ruby>買<rt>か</rt></ruby>ったパソコンに、<ruby>便利<rt>べんり</rt></ruby>なソフトを<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んで<ruby>使<rt>つか</rt></ruby>った。",
-          "バラバラになった<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んで<ruby>完成<rt>かんせい</rt></ruby>させた。",
-          "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>三人<rt>さんにん</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>む<ruby>予定<rt>よてい</rt></ruby>だ。"
+          "<ruby>我<rt>わ</rt></ruby>が<ruby>社<rt>しゃ</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、ゴミの<ruby>削減<rt>さくげん</rt></ruby>をはじめとする<ruby>環境<rt>かんきょう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>に<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>んでいる。",
+          "<ruby>新<rt>あたら</rt></ruby>しく<ruby>買<rt>か</rt></ruby>ったパソコンに、<ruby>便利<rt>べんり</rt></ruby>なソフトを<ruby>取り組<rt>とりく</rt></ruby>んで<ruby>使<rt>つか</rt></ruby>った。",
+          "バラバラになった<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>取り組<rt>とりく</rt></ruby>んで<ruby>完成<rt>かんせい</rt></ruby>させた。",
+          "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>三人<rt>さんにん</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>む<ruby>予定<rt>よてい</rt></ruby>だ。"
         ],
         "correctIndex": 0,
         "weight": 1.5,
@@ -23786,7 +23786,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "について",
           "にかぎって"
         ],
-        "correctIndex": 3,
+        "correctIndex": 1,
         "weight": 1.5,
         "explanation": "限定された特別な条件のときだけそうなる、あるいは「〜に限って」を表すほか、ここでは「強風が吹いたときに限って（限定）」として使われます。"
       },
@@ -25308,16 +25308,16 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m02_q93.mp3",
         "title": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。",
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。",
-        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
-        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。<br>１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。<br>２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。<br>３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
+        "script": "先生の 本を 先週から 借りて いますが、もう １週間 借りたいです。先生に なんと 言いますか。\n１　先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。\n２　先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。\n３　先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。",
+        "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>本<rt>ほん</rt></ruby>を <ruby>先週<rt>せんしゅう</rt></ruby>から <ruby>借<rt>か</rt></ruby>りて いますが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>借<rt>か</rt></ruby>りたいです。<ruby>先生<rt>せんせい</rt></ruby>に なんと <ruby>言<rt>い</rt></ruby>いますか。\n１　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。\n２　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。\n３　<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。",
         "options": [
           "先生、お借りして いる 本ですが、もう １週間 お貸し しても よろしいでしょうか。",
-          "先生、お借りして いる 本ですが、もう １週間 お借りした ままでも よろしいでしょうか。",
+          "先生、お借りして いる 本ですが、もう １週間 お借りして いても よろしいでしょうか。",
           "先生、お貸しして いる 本ですが、もう １週間 返して いただけませんか。"
         ],
         "optionsRuby": [
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>貸<rt>か</rt></ruby>し しても よろしいでしょうか。",
-          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りした ままでも よろしいでしょうか。",
+          "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>借<rt>か</rt></ruby>りして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> お<ruby>借<rt>か</rt></ruby>りして いても よろしいでしょうか。",
           "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>貸<rt>か</rt></ruby>しして いる <ruby>本<rt>ほん</rt></ruby>ですが、もう １<ruby>週間<rt>しゅうかん</rt></ruby> <ruby>返<rt>かえ</rt></ruby>して いただけませんか。"
         ],
         "correctIndex": 1,
@@ -25593,18 +25593,18 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 8
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 6
           },
           {
@@ -25620,9 +25620,9 @@ window.JLPT_N3_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+            "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
             "count": 5
           },
           {
@@ -26523,13 +26523,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
           "この数学の問題は難しすぎて、解くのにとてもやりがいがかかった。",
           "新しいパソコンは性能が良くて、毎日のやりがいが大幅に上がった。",
           "お客様の喜ぶ顔が直接見られるので、この仕事には大きなやりがいを感じる。",
-          "先輩に手伝ってもらったおかげで、仕事にやりがいが出た。"
+          "先輩に手伝ってもらったおかげで、仕事にやりがいをつけた。"
         ],
         "optionsRuby": [
           "この<ruby>数学<rt>すうがく</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しすぎて、<ruby>解<rt>と</rt></ruby>くのにとてもやりがいがかかった。",
           "<ruby>新<rt>あたら</rt></ruby>しいパソコンは<ruby>性能<rt>せいのう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて、<ruby>毎日<rt>まいにち</rt></ruby>のやりがいが<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がった。",
           "お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>ぶ<ruby>顔<rt>かお</rt></ruby>が<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>見<rt>み</rt></ruby>られるので、この<ruby>仕事<rt>しごと</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きなやりがいを<ruby>感<rt>かん</rt></ruby>じる。",
-          "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>ってもらったおかげで、<ruby>仕事<rt>しごと</rt></ruby>にやりがいが<ruby>出<rt>で</rt></ruby>た。"
+          "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>ってもらったおかげで、<ruby>仕事<rt>しごと</rt></ruby>にやりがいをつけた。"
         ],
         "correctIndex": 2,
         "weight": 1.5,
@@ -26688,13 +26688,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "昨日の夜は強い風の音がうるさくて、朝まで一睡も（<span class='jlpt-underline-blank'></span>）。",
         "titleRuby": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>の<ruby>音<rt>おと</rt></ruby>がうるさくて、<ruby>朝<rt>あさ</rt></ruby>まで<ruby>一睡<rt>いっすい</rt></ruby>も（<span class='jlpt-underline-blank'></span>）。",
         "options": [
-          "しなかった",
+          "こなかった",
           "できなかった",
           "ならなかった",
           "あきらめなかった"
         ],
         "optionsRuby": [
-          "しなかった",
+          "こなかった",
           "できなかった",
           "ならなかった",
           "あきらめなかった"
@@ -26784,13 +26784,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "このマンションでは、ベランダで布団を干しては（<span class='jlpt-underline-blank'></span>）ことになっている。",
         "titleRuby": "このマンションでは、ベランダで<ruby>布団<rt>ふとん</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しては（<span class='jlpt-underline-blank'></span>）ことになっている。",
         "options": [
-          "ならない",
+          "ちがいない",
           "いけない",
           "かまわない",
           "たまらない"
         ],
         "optionsRuby": [
-          "ならない",
+          "ちがいない",
           "いけない",
           "かまわない",
           "たまらない"
@@ -27081,13 +27081,13 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "title": "空欄 [55] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [55] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
-          "きり",
+          "ところ",
           "まま",
           "最中",
           "とおり"
         ],
         "optionsRuby": [
-          "きり",
+          "ところ",
           "まま",
           "<ruby>最中<rt>さいちゅう</rt></ruby>",
           "とおり"
@@ -27180,8 +27180,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "subsectionId": "s2_m4",
         "category": "内容理解（短文）",
         "qNum": 59,
-        "passage": "【山手線・北駅　東口改札閉鎖のお知らせ】\n駅ビルのエスカレーター新設工事にともない、来週月曜日（５日）の始発から金曜日（９日）の終電まで、「東口改札」は終日ご利用いただけません。期間中に電車をご利用の方は、反対側の「西口改札」へお回りください。なお、西口改札から東口バスターミナルへは、駅外の地下通路を通って徒歩約４分で移動できます。",
-        "passageRuby": "【<ruby>山手<rt>やまて</rt></ruby><ruby>線<rt>せん</rt></ruby>・<ruby>北<rt>きた</rt></ruby><ruby>駅<rt>えき</rt></ruby>　<ruby>東口<rt>ひがしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>閉鎖<rt>へいさ</rt></ruby>のお<ruby>知<rt>し</rt></ruby>らせ】<br><ruby>駅<rt>えき</rt></ruby>ビルのエスカレーター<ruby>新設<rt>しんせつ</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>にともない、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>（<ruby>５日<rt>いつか</rt></ruby>）の<ruby>始発<rt>しはつ</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>（<ruby>９日<rt>ここのか</rt></ruby>）の<ruby>終電<rt>しゅうでん</rt></ruby>まで、「<ruby>東口<rt>ひがしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」は<ruby>終日<rt>しゅうじつ</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>いただけません。<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>電車<rt>でんしゃ</rt></ruby>をご<ruby>利用<rt>りよう</rt></ruby>の<ruby>方<rt>かた</rt></ruby>は、<ruby>反対<rt>はんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>の「<ruby>西口<rt>にしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」へお<ruby>回<rt>まわ</rt></ruby>りください。なお、<ruby>西口<rt>にしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>から<ruby>東口<rt>ひがしぐち</rt></ruby>バスターミナルへは、<ruby>駅<rt>えき</rt></ruby><ruby>外<rt>がい</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby><ruby>通路<rt>つうろ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<ruby>徒歩<rt>とほ</rt></ruby><ruby>約<rt>やく</rt></ruby>４<ruby>分<rt>ぷん</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>できます。",
+        "passage": "【あおば線・北駅　東口改札閉鎖のお知らせ】\n駅ビルのエスカレーター新設工事にともない、来週月曜日（５日）の始発から金曜日（９日）の終電まで、「東口改札」は終日ご利用いただけません。期間中に電車をご利用の方は、反対側の「西口改札」へお回りください。なお、西口改札から東口バスターミナルへは、駅外の地下通路を通って徒歩約４分で移動できます。",
+        "passageRuby": "【あおば<ruby>線<rt>せん</rt></ruby>・<ruby>北<rt>きた</rt></ruby><ruby>駅<rt>えき</rt></ruby>　<ruby>東口<rt>ひがしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>閉鎖<rt>へいさ</rt></ruby>のお<ruby>知<rt>し</rt></ruby>らせ】\n<ruby>駅<rt>えき</rt></ruby>ビルのエスカレーター<ruby>新設<rt>しんせつ</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>にともない、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>（５<ruby>日<rt>にち</rt></ruby>）の<ruby>始発<rt>しはつ</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>（９<ruby>日<rt>にち</rt></ruby>）の<ruby>終電<rt>しゅうでん</rt></ruby>まで、「<ruby>東口<rt>ひがしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」は<ruby>終日<rt>しゅうじつ</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>いただけません。<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>電車<rt>でんしゃ</rt></ruby>をご<ruby>利用<rt>りよう</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>は、<ruby>反対<rt>はんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>の「<ruby>西口<rt>にしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」へお<ruby>回<rt>まわ</rt></ruby>りください。なお、<ruby>西口<rt>にしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>から<ruby>東口<rt>ひがしぐち</rt></ruby>バスターミナルへは、<ruby>駅<rt>えき</rt></ruby><ruby>外<rt>がい</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby><ruby>通路<rt>つうろ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<ruby>徒歩<rt>とほ</rt></ruby><ruby>約<rt>やく</rt></ruby>４<ruby>分<rt>ふん</rt></ruby>で<ruby>移動<rt>いどう</rt></ruby>できます。",
         "evidence": "<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>（<ruby>５日<rt>いつか</rt></ruby>）の<ruby>始発<rt>しはつ</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>（<ruby>９日<rt>ここのか</rt></ruby>）の<ruby>終電<rt>しゅうでん</rt></ruby>まで、「<ruby>東口<rt>ひがしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」は<ruby>終日<rt>しゅうじつ</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>いただけません。<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>電車<rt>でんしゃ</rt></ruby>をご<ruby>利用<rt>りよう</rt></ruby>の<ruby>方<rt>かた</rt></ruby>は、<ruby>反対<rt>はんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>の「<ruby>西口<rt>にしぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>」へお<ruby>回<rt>まわ</rt></ruby>りください。",
         "evidencePlain": "来週月曜日（５日）の始発から金曜日（９日）の終電まで、「東口改札」は終日ご利用いただけません。期間中に電車をご利用の方は、反対側の「西口改札」へお回りください。",
         "title": "来週の水曜日に北駅で電車を降りて東口バスターミナルへ行きたい人は、どうすればよいですか。",
@@ -27265,7 +27265,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "内容理解（短文）",
         "qNum": 62,
         "passage": "野菜や果物を洗うとき、水を出しっぱなしにして洗うと、わずか３分間でもペットボトル２０本分以上の水が流れていってしまいます。大きなボウルや桶に水をためて、その中で野菜を振るようにして泥を落とし、最後に少量の流水ですすぐようにすれば、汚れはしっかり落ちるうえに、使う水の量を半分以下に減らすことができます。",
-        "passageRuby": "<ruby>野菜<rt>やさい</rt></ruby>や<ruby>果物<rt>くだもの</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うとき、<ruby>水<rt>みず</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しっぱなしにして<ruby>洗<rt>あら</rt></ruby>うと、わずか３<ruby>分<rt>ぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>でもペットボトル２０<ruby>本<rt>ぽん</rt></ruby><ruby>分<rt>わか</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れていってしまいます。<ruby>大<rt>おお</rt></ruby>きなボウルや<ruby>桶<rt>おけ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をためて、その<ruby>中<rt>なか</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>るようにして<ruby>泥<rt>どろ</rt></ruby>を<ruby>落<rt>お</rt></ruby>とし、<ruby>最後<rt>さいご</rt></ruby>に<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>流水<rt>りゅうすい</rt></ruby>ですすぐようにすれば、<ruby>汚<rt>よご</rt></ruby>れはしっかり<ruby>落<rt>お</rt></ruby>ちるうえに、<ruby>使<rt>つか</rt></ruby>う<ruby>水<rt>みず</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>に<ruby>減<rt>へ</rt></ruby>らすことができます。",
+        "passageRuby": "<ruby>野菜<rt>やさい</rt></ruby>や<ruby>果物<rt>くだもの</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うとき、<ruby>水<rt>みず</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しっぱなしにして<ruby>洗<rt>あら</rt></ruby>うと、わずか３<ruby>分<rt>ぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>でもペットボトル２０<ruby>本<rt>ぽん</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れていってしまいます。<ruby>大<rt>おお</rt></ruby>きなボウルや<ruby>桶<rt>おけ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をためて、その<ruby>中<rt>なか</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>るようにして<ruby>泥<rt>どろ</rt></ruby>を<ruby>落<rt>お</rt></ruby>とし、<ruby>最後<rt>さいご</rt></ruby>に<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>流水<rt>りゅうすい</rt></ruby>ですすぐようにすれば、<ruby>汚<rt>よご</rt></ruby>れはしっかり<ruby>落<rt>お</rt></ruby>ちるうえに、<ruby>使<rt>つか</rt></ruby>う<ruby>水<rt>みず</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>に<ruby>減<rt>へ</rt></ruby>らすことができます。",
         "evidence": "<ruby>大<rt>おお</rt></ruby>きなボウルや<ruby>桶<rt>おけ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をためて、その<ruby>中<rt>なか</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>るようにして<ruby>泥<rt>どろ</rt></ruby>を<ruby>落<rt>お</rt></ruby>とし、<ruby>最後<rt>さいご</rt></ruby>に<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>流水<rt>りゅうすい</rt></ruby>ですすぐようにすれば、<ruby>汚<rt>よご</rt></ruby>れはしっかり<ruby>落<rt>お</rt></ruby>ちるうえに、<ruby>使<rt>つか</rt></ruby>う<ruby>水<rt>みず</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>に<ruby>減<rt>へ</rt></ruby>らすことができます。",
         "evidencePlain": "大きなボウルや桶に水をためて、その中で野菜を振るようにして泥を落とし、最後に少量の流水ですすぐようにすれば、汚れはしっかり落ちるうえに、使う水の量を半分以下に減らすことができます。",
         "title": "野菜や果物を洗うとき、水を節約しながら汚れをしっかり落とすにはどうすればよいですか。",
@@ -27573,8 +27573,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 73,
         "passage": "【富士カルチャースクール　秋の料理講座（全４回コース）募集案内】\n１０月から始まる全４回の短期料理コースです。初心者の方も楽しく学べます。\n\n■開講クラスと日程（すべて全４回・各回２時間）\n①「基本の和食クラス」\n・日時：毎週水曜日　１０：３０〜１２：３０（１０月４日、１１日、１８日、２５日）\n・受講料：１２,０００円（全４回分・材料費込み）\n\n②「世界の家庭料理クラス」\n・日時：毎週木曜日　１８：３０〜２０：３０（１０月５日、１２日、１９日、２６日）\n・受講料：１４,０００円（全４回分・材料費込み）\n\n③「週末のパンとお菓子クラス」\n・日時：毎週土曜日　１４：００〜１６：００（１０月７日、１４日、２１日、２８日）\n・受講料：１３,０００円（全４回分・材料費込み）\n※③のクラスのみ、焼き上がったパンやお菓子を持ち帰るための「大きめのタッパー（保存容器）」を毎回ご持参ください。\n\n■共通の持ち物・入会金・振替ルール\n・全クラス共通の持ち物：エプロン、三角巾（バンダナ）、手拭きタオル\n・当スクールを初めて受講される方は、受講料のほかに「入会金 ３,０００円」が必要です（※ただし、９月２０日までに申し込まれた方は、早期特典として入会金が「半額」になります）。\n・都合により欠席される場合は、前日までに電話でご連絡いただければ、同じ週の他のクラスの空きがある回に「１回まで」無料で振り替えが可能です（当日連絡の欠席は振り替えできません）。",
-        "passageRuby": "【<ruby>富士<rt>ふじ</rt></ruby>カルチャースクール　<ruby>秋<rt>あき</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby><ruby>講座<rt>こうざ</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby>コース）<ruby>募集<rt>ぼしゅう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>】<br>１０<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>の<ruby>短期<rt>たんき</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>コースです。<ruby>初心者<rt>しょしんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べます。<br><br>■<ruby>開講<rt>かいこう</rt></ruby>クラスと<ruby>日程<rt>にってい</rt></ruby>（すべて<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>・<ruby>各回<rt>かくかい</rt></ruby>２<ruby>時間<rt>じかん</rt></ruby>）<br>①「<ruby>基本<rt>きほん</rt></ruby>の<ruby>和食<rt>わしょく</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>水曜日<rt>すいようび</rt></ruby>　１０：３０〜１２：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>、１１<ruby>日<rt>にち</rt></ruby>、１８<ruby>日<rt>にち</rt></ruby>、２５<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１２,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>②「<ruby>世界<rt>せかい</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>木曜日<rt>もくようび</rt></ruby>　１８：３０〜２０：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>、１２<ruby>日<rt>にち</rt></ruby>、１９<ruby>日<rt>にち</rt></ruby>、２６<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１４,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br>※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。<br><br>■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール<br>・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル<br>・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。<br>・<ruby>都合<rt>つごう</rt></ruby>により<ruby>欠席<rt>けっせき</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>電話<rt>でんわ</rt></ruby>でご<ruby>連絡<rt>れんらく</rt></ruby>いただければ、<ruby>同<rt>おな</rt></ruby>じ<ruby>週<rt>しゅう</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>空<rt>あ</rt></ruby>きがある<ruby>回<rt>かい</rt></ruby>に「１<ruby>回<rt>かい</rt></ruby>まで」<ruby>無料<rt>むりょう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>です（<ruby>当日<rt>とうじつ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>の<ruby>欠席<rt>けっせき</rt></ruby>は<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えできません）。",
-        "evidence": "③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」\n・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）\n・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）\n※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。\n\n■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール\n・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル\n・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。",
+        "passageRuby": "【<ruby>富士<rt>ふじ</rt></ruby>カルチャースクール　<ruby>秋<rt>あき</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby><ruby>講座<rt>こうざ</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>コース）<ruby>募集<rt>ぼしゅう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>】<br>１０<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>の<ruby>短期<rt>たんき</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>コースです。<ruby>初心者<rt>しょしんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べます。<br><br>■<ruby>開講<rt>かいこう</rt></ruby>クラスと<ruby>日程<rt>にってい</rt></ruby>（すべて<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>・<ruby>各回<rt>かくかい</rt></ruby>２<ruby>時間<rt>じかん</rt></ruby>）<br>①「<ruby>基本<rt>きほん</rt></ruby>の<ruby>和食<rt>わしょく</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>水曜日<rt>すいようび</rt></ruby>　１０：３０〜１２：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>、１１<ruby>日<rt>にち</rt></ruby>、１８<ruby>日<rt>にち</rt></ruby>、２５<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１２,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>②「<ruby>世界<rt>せかい</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>木曜日<rt>もくようび</rt></ruby>　１８：３０〜２０：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>、１２<ruby>日<rt>にち</rt></ruby>、１９<ruby>日<rt>にち</rt></ruby>、２６<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１４,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br>※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。<br><br>■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール<br>・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル<br>・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。<br>・<ruby>都合<rt>つごう</rt></ruby>により<ruby>欠席<rt>けっせき</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>電話<rt>でんわ</rt></ruby>でご<ruby>連絡<rt>れんらく</rt></ruby>いただければ、<ruby>同<rt>おな</rt></ruby>じ<ruby>週<rt>しゅう</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>空<rt>あ</rt></ruby>きがある<ruby>回<rt>かい</rt></ruby>に「１<ruby>回<rt>かい</rt></ruby>まで」<ruby>無料<rt>むりょう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>です（<ruby>当日<rt>とうじつ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>の<ruby>欠席<rt>けっせき</rt></ruby>は<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えできません）。",
+        "evidence": "③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」\n・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）\n・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）\n※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。\n\n■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール\n・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル\n・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。",
         "evidencePlain": "③「週末のパンとお菓子クラス」\n・日時：毎週土曜日　１４：００〜１６：００（１０月７日、１４日、２１日、２８日）\n・受講料：１３,０００円（全４回分・材料費込み）\n※③のクラスのみ、焼き上がったパンやお菓子を持ち帰るための「大きめのタッパー（保存容器）」を毎回ご持参ください。\n\n■共通の持ち物・入会金・振替ルール\n・全クラス共通の持ち物：エプロン、三角巾（バンダナ）、手拭きタオル\n・当スクールを初めて受講される方は、受講料のほかに「入会金 ３,０００円」が必要です（※ただし、９月２０日までに申し込まれた方は、早期特典として入会金が「半額」になります）。",
         "title": "このスクールを初めて利用する山田さんは、９月１５日に「③ 週末のパンとお菓子クラス」を申し込みました。山田さんが支払う合計金額と、毎回持って行かなければならないものはどれですか。",
         "titleRuby": "このスクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>利用<rt>りよう</rt></ruby>する<ruby>山田<rt>やまだ</rt></ruby>さんは、９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>に「③ <ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」を<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みました。<ruby>山田<rt>やまだ</rt></ruby>さんが<ruby>支払<rt>しはら</rt></ruby>う<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>と、<ruby>毎回<rt>まいかい</rt></ruby><ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>かなければならないものはどれですか。",
@@ -27601,7 +27601,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 74,
         "passage": "【富士カルチャースクール　秋の料理講座（全４回コース）募集案内】\n１０月から始まる全４回の短期料理コースです。初心者の方も楽しく学べます。\n\n■開講クラスと日程（すべて全４回・各回２時間）\n①「基本の和食クラス」\n・日時：毎週水曜日　１０：３０〜１２：３０（１０月４日、１１日、１８日、２５日）\n・受講料：１２,０００円（全４回分・材料費込み）\n\n②「世界の家庭料理クラス」\n・日時：毎週木曜日　１８：３０〜２０：３０（１０月５日、１２日、１９日、２６日）\n・受講料：１４,０００円（全４回分・材料費込み）\n\n③「週末のパンとお菓子クラス」\n・日時：毎週土曜日　１４：００〜１６：００（１０月７日、１４日、２１日、２８日）\n・受講料：１３,０００円（全４回分・材料費込み）\n※③のクラスのみ、焼き上がったパンやお菓子を持ち帰るための「大きめのタッパー（保存容器）」を毎回ご持参ください。\n\n■共通の持ち物・入会金・振替ルール\n・全クラス共通の持ち物：エプロン、三角巾（バンダナ）、手拭きタオル\n・当スクールを初めて受講される方は、受講料のほかに「入会金 ３,０００円」が必要です（※ただし、９月２０日までに申し込まれた方は、早期特典として入会金が「半額」になります）。\n・都合により欠席される場合は、前日までに電話でご連絡いただければ、同じ週の他のクラスの空きがある回に「１回まで」無料で振り替えが可能です（当日連絡の欠席は振り替えできません）。",
-        "passageRuby": "【<ruby>富士<rt>ふじ</rt></ruby>カルチャースクール　<ruby>秋<rt>あき</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby><ruby>講座<rt>こうざ</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby>コース）<ruby>募集<rt>ぼしゅう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>】<br>１０<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>の<ruby>短期<rt>たんき</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>コースです。<ruby>初心者<rt>しょしんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べます。<br><br>■<ruby>開講<rt>かいこう</rt></ruby>クラスと<ruby>日程<rt>にってい</rt></ruby>（すべて<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>・<ruby>各回<rt>かくかい</rt></ruby>２<ruby>時間<rt>じかん</rt></ruby>）<br>①「<ruby>基本<rt>きほん</rt></ruby>の<ruby>和食<rt>わしょく</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>水曜日<rt>すいようび</rt></ruby>　１０：３０〜１２：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>、１１<ruby>日<rt>にち</rt></ruby>、１８<ruby>日<rt>にち</rt></ruby>、２５<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１２,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>②「<ruby>世界<rt>せかい</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>木曜日<rt>もくようび</rt></ruby>　１８：３０〜２０：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>、１２<ruby>日<rt>にち</rt></ruby>、１９<ruby>日<rt>にち</rt></ruby>、２６<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１４,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>あきら</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br>※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。<br><br>■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール<br>・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル<br>・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。<br>・<ruby>都合<rt>つごう</rt></ruby>により<ruby>欠席<rt>けっせき</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>電話<rt>でんわ</rt></ruby>でご<ruby>連絡<rt>れんらく</rt></ruby>いただければ、<ruby>同<rt>おな</rt></ruby>じ<ruby>週<rt>しゅう</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>空<rt>あ</rt></ruby>きがある<ruby>回<rt>かい</rt></ruby>に「１<ruby>回<rt>かい</rt></ruby>まで」<ruby>無料<rt>むりょう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>です（<ruby>当日<rt>とうじつ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>の<ruby>欠席<rt>けっせき</rt></ruby>は<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えできません）。",
+        "passageRuby": "【<ruby>富士<rt>ふじ</rt></ruby>カルチャースクール　<ruby>秋<rt>あき</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby><ruby>講座<rt>こうざ</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>コース）<ruby>募集<rt>ぼしゅう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>】<br>１０<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>の<ruby>短期<rt>たんき</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>コースです。<ruby>初心者<rt>しょしんしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べます。<br><br>■<ruby>開講<rt>かいこう</rt></ruby>クラスと<ruby>日程<rt>にってい</rt></ruby>（すべて<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby>・<ruby>各回<rt>かくかい</rt></ruby>２<ruby>時間<rt>じかん</rt></ruby>）<br>①「<ruby>基本<rt>きほん</rt></ruby>の<ruby>和食<rt>わしょく</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>水曜日<rt>すいようび</rt></ruby>　１０：３０〜１２：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>、１１<ruby>日<rt>にち</rt></ruby>、１８<ruby>日<rt>にち</rt></ruby>、２５<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１２,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>②「<ruby>世界<rt>せかい</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>木曜日<rt>もくようび</rt></ruby>　１８：３０〜２０：３０（１０<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>、１２<ruby>日<rt>にち</rt></ruby>、１９<ruby>日<rt>にち</rt></ruby>、２６<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１４,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br><br>③「<ruby>週末<rt>しゅうまつ</rt></ruby>のパンとお<ruby>菓子<rt>かし</rt></ruby>クラス」<br>・<ruby>日時<rt>にちじ</rt></ruby>：<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>　１４：００〜１６：００（１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>１４日<rt>じゅうよっか</rt></ruby>、２１<ruby>日<rt>にち</rt></ruby>、２８<ruby>日<rt>にち</rt></ruby>）<br>・<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>：１３,０００<ruby>円<rt>えん</rt></ruby>（<ruby>全<rt>ぜん</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>・<ruby>材料<rt>ざいりょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>込<rt>こ</rt></ruby>み）<br>※③のクラスのみ、<ruby>焼<rt>や</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がったパンやお<ruby>菓子<rt>かし</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>るための「<ruby>大<rt>おお</rt></ruby>きめのタッパー（<ruby>保存<rt>ほぞん</rt></ruby><ruby>容器<rt>ようき</rt></ruby>）」を<ruby>毎回<rt>まいかい</rt></ruby>ご<ruby>持参<rt>じさん</rt></ruby>ください。<br><br>■<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>・<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>・<ruby>振替<rt>ふりかえ</rt></ruby>ルール<br>・<ruby>全<rt>ぜん</rt></ruby>クラス<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>：エプロン、<ruby>三角巾<rt>さんかくきん</rt></ruby>（バンダナ）、<ruby>手拭<rt>てふ</rt></ruby>きタオル<br>・<ruby>当<rt>とう</rt></ruby>スクールを<ruby>初<rt>はじ</rt></ruby>めて<ruby>受講<rt>じゅこう</rt></ruby>される<ruby>方<rt>かた</rt></ruby>は、<ruby>受講<rt>じゅこう</rt></ruby><ruby>料<rt>りょう</rt></ruby>のほかに「<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby> ３,０００<ruby>円<rt>えん</rt></ruby>」が<ruby>必要<rt>ひつよう</rt></ruby>です（※ただし、９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>方<rt>かた</rt></ruby>は、<ruby>早期<rt>そうき</rt></ruby><ruby>特典<rt>とくてん</rt></ruby>として<ruby>入会<rt>にゅうかい</rt></ruby><ruby>金<rt>きん</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になります）。<br>・<ruby>都合<rt>つごう</rt></ruby>により<ruby>欠席<rt>けっせき</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>電話<rt>でんわ</rt></ruby>でご<ruby>連絡<rt>れんらく</rt></ruby>いただければ、<ruby>同<rt>おな</rt></ruby>じ<ruby>週<rt>しゅう</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>空<rt>あ</rt></ruby>きがある<ruby>回<rt>かい</rt></ruby>に「１<ruby>回<rt>かい</rt></ruby>まで」<ruby>無料<rt>むりょう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>です（<ruby>当日<rt>とうじつ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>の<ruby>欠席<rt>けっせき</rt></ruby>は<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えできません）。",
         "evidence": "・<ruby>都合<rt>つごう</rt></ruby>により<ruby>欠席<rt>けっせき</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>電話<rt>でんわ</rt></ruby>でご<ruby>連絡<rt>れんらく</rt></ruby>いただければ、<ruby>同<rt>おな</rt></ruby>じ<ruby>週<rt>しゅう</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>空<rt>あ</rt></ruby>きがある<ruby>回<rt>かい</rt></ruby>に「１<ruby>回<rt>かい</rt></ruby>まで」<ruby>無料<rt>むりょう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>です（<ruby>当日<rt>とうじつ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>の<ruby>欠席<rt>けっせき</rt></ruby>は<ruby>振<rt>ふ</rt></ruby>り<ruby>替<rt>か</rt></ruby>えできません）。",
         "evidencePlain": "・都合により欠席される場合は、前日までに電話でご連絡いただければ、同じ週の他のクラスの空きがある回に「１回まで」無料で振り替えが可能です（当日連絡の欠席は振り替えできません）。",
         "title": "クラスの振り替えルールについて、案内の内容と合っているものはどれですか。",
@@ -27633,8 +27633,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q75.mp3",
         "title": "女の人は このあと まず なにを しますか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は このあと まず なにを しますか。",
-        "script": "男の人：高橋さん、来週の 新商品の 説明会の 準備、進んで いますか。\n女の人：はい、パンフレットの 印刷が 終わって、会場の 座席表も 作りました。\n男の人：ありがとう。さっき 営業課から 連絡が あって、参加者が １０名ほど 増える ことに なったんだ。座席表を 作り直す 前に、まず 会場の 担当者に 電話して、椅子を １０脚 追加できるか どうか 確認して くれる？\n女の人：わかりました。すぐに 会場へ 電話して みます。追加の パンフレットは その あとで 印刷しますね。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>高橋<rt>たかはし</rt></ruby>さん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の <ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>の <ruby>準備<rt>じゅんび</rt></ruby>、<ruby>進<rt>すす</rt></ruby>んで いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、パンフレットの <ruby>印刷<rt>いんさつ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わって、<ruby>会場<rt>かいじょう</rt></ruby>の <ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>も <ruby>作<rt>つく</rt></ruby>りました。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。さっき <ruby>営業<rt>えいぎょう</rt></ruby><ruby>課<rt>か</rt></ruby>から <ruby>連絡<rt>れんらく</rt></ruby>が あって、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が １０<ruby>名<rt>めい</rt></ruby>ほど <ruby>増<rt>ふ</rt></ruby>える ことに なったんだ。<ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を <ruby>作<rt>つく</rt></ruby>り<ruby>直<rt>なお</rt></ruby>す <ruby>前<rt>まえ</rt></ruby>に、まず <ruby>会場<rt>かいじょう</rt></ruby>の <ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に <ruby>電話<rt>でんわ</rt></ruby>して、<ruby>椅子<rt>いす</rt></ruby>を １０<ruby>脚<rt>きゃく</rt></ruby> <ruby>追加<rt>ついか</rt></ruby>できるか どうか <ruby>確認<rt>かくにん</rt></ruby>して くれる？<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：わかりました。すぐに <ruby>会場<rt>かいじょう</rt></ruby>へ <ruby>電話<rt>でんわ</rt></ruby>して みます。<ruby>追加<rt>ついか</rt></ruby>の パンフレットは その あとで <ruby>印刷<rt>いんさつ</rt></ruby>しますね。",
+        "script": "男の人：高橋さん、来週の 新商品の 説明会の 準備、進んで いる？\n女の人：はい、パンフレットの 印刷が 終わって、会場の 座席表も 作りました。\n男の人：ありがとう。さっき 営業課から 連絡が あって、参加者が １０名ほど 増える ことに なったんだ。座席表を 作り直す 前に、まず 会場の 担当者に 電話して、椅子を １０脚 追加できるか どうか 確認して くれる？\n女の人：わかりました。すぐに 会場へ 電話して みます。追加の パンフレットは その あとで 印刷しますね。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>高橋<rt>たかはし</rt></ruby>さん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の <ruby>説明<rt>せつめい</rt></ruby><ruby>会<rt>かい</rt></ruby>の <ruby>準備<rt>じゅんび</rt></ruby>、<ruby>進<rt>すす</rt></ruby>んで いる？\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、パンフレットの <ruby>印刷<rt>いんさつ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わって、<ruby>会場<rt>かいじょう</rt></ruby>の <ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>も <ruby>作<rt>つく</rt></ruby>りました。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。さっき <ruby>営業<rt>えいぎょう</rt></ruby><ruby>課<rt>か</rt></ruby>から <ruby>連絡<rt>れんらく</rt></ruby>が あって、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が １０<ruby>名<rt>めい</rt></ruby>ほど <ruby>増<rt>ふ</rt></ruby>える ことに なったんだ。<ruby>座席<rt>ざせき</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を <ruby>作り直<rt>つくりなお</rt></ruby>す <ruby>前<rt>まえ</rt></ruby>に、まず <ruby>会場<rt>かいじょう</rt></ruby>の <ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に <ruby>電話<rt>でんわ</rt></ruby>して、<ruby>椅子<rt>いす</rt></ruby>を １０<ruby>脚<rt>きゃく</rt></ruby> <ruby>追加<rt>ついか</rt></ruby>できるか どうか <ruby>確認<rt>かくにん</rt></ruby>して くれる？\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：わかりました。すぐに <ruby>会場<rt>かいじょう</rt></ruby>へ <ruby>電話<rt>でんわ</rt></ruby>して みます。<ruby>追加<rt>ついか</rt></ruby>の パンフレットは その あとで <ruby>印刷<rt>いんさつ</rt></ruby>しますね。",
         "options": [
           "座席表を 作り直す",
           "会場の 担当者に 電話して 椅子の 追加を 確認する",
@@ -27691,8 +27691,8 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
         "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+        "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
         "options": [
           "お皿の セット",
           "コーヒーメーカー",
@@ -28363,10 +28363,10 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "has_illustration": true,
         "illustration_url": "images/listening_n3/n3_q27.jpg",
         "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-        "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-        "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+        "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+        "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+        "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
         "options": [
           "いいえ、鍵は わたしが 閉めて おきました。",
           "ええ、会議室の ドアは あいて いますよ。",

@@ -23,18 +23,18 @@ window.JLPT_N4_MOCK_DATA = {
           "id": "s1_m1",
           "number": "問題1",
           "name": "漢字読み",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "count": 9
         },
         {
           "id": "s1_m2",
           "number": "問題2",
           "name": "表記",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "count": 6
         },
         {
@@ -50,9 +50,9 @@ window.JLPT_N4_MOCK_DATA = {
           "id": "s1_m4",
           "number": "問題4",
           "name": "言い換え類義",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+          "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
           "count": 5
         },
         {
@@ -1028,13 +1028,13 @@ window.JLPT_N4_MOCK_DATA = {
       "title": "健康のために、毎朝３０分ぐらい歩く（<span class='jlpt-underline-blank'></span>）しています。",
       "titleRuby": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby>３０<ruby>分<rt>ぷん</rt></ruby>ぐらい<ruby>歩<rt>ある</rt></ruby>く（<span class='jlpt-underline-blank'></span>）しています。",
       "options": [
-        "ことに",
+        "ために",
         "そうに",
         "みたいに",
         "ように"
       ],
       "optionsRuby": [
-        "ことに",
+        "ために",
         "そうに",
         "みたいに",
         "ように"
@@ -1367,13 +1367,13 @@ window.JLPT_N4_MOCK_DATA = {
         "食べられます",
         "食べさせます",
         "食べます",
-        "食べ そうです"
+        "食べそうです"
       ],
       "optionsRuby": [
         "<ruby>食<rt>た</rt></ruby>べられます",
         "<ruby>食<rt>た</rt></ruby>べさせます",
         "<ruby>食<rt>た</rt></ruby>べます",
-        "<ruby>食<rt>た</rt></ruby>べ そうです"
+        "<ruby>食<rt>た</rt></ruby>べそうです"
       ],
       "correctIndex": 1,
       "weight": 1.5,
@@ -1464,13 +1464,13 @@ window.JLPT_N4_MOCK_DATA = {
       "title": "すみませんが、ここに <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> よろしいでしょうか。",
       "titleRuby": "すみませんが、ここに <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> よろしいでしょうか。",
       "options": [
-        "少しの間",
+        "私の",
         "置かせて",
         "いただいても",
         "荷物を"
       ],
       "optionsRuby": [
-        "<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>",
+        "<ruby>私<rt>わたし</rt></ruby>の",
         "<ruby>置<rt>お</rt></ruby>かせて",
         "いただいても",
         "<ruby>荷物<rt>にもつ</rt></ruby>を"
@@ -1511,7 +1511,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文章の文法",
       "qNum": 56,
       "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
       "title": "空欄 [56] に 入る ものは どれですか。",
       "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [56] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
       "options": [
@@ -1537,7 +1537,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文章の文法",
       "qNum": 57,
       "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
       "title": "空欄 [57] に 入る ものは どれですか。",
       "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [57] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
       "options": [
@@ -1563,7 +1563,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文章の文法",
       "qNum": 58,
       "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
       "title": "空欄 [58] に 入る ものは どれですか。",
       "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [58] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
       "options": [
@@ -1589,7 +1589,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文章の文法",
       "qNum": 59,
       "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
       "title": "空欄 [59] に 入る ものは どれですか。",
       "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [59] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
       "options": [
@@ -1615,7 +1615,7 @@ window.JLPT_N4_MOCK_DATA = {
       "category": "文章の文法",
       "qNum": 60,
       "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+      "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
       "title": "空欄 [60] に 入る ものは どれですか。",
       "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [60] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
       "options": [

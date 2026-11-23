@@ -49,16 +49,16 @@ window.JLPT_N3_LISTENING_DATA = {
       "illustration_url": "images/listening_n3/n3_q1.jpg",
       "prompt": "男の人はこのあと、まず何をしますか。",
       "prompt_ruby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>をしますか。",
-      "speech_audio_text": "だいいちもん。会社で女性と男性があしたの会議の準備について話しています。男の人はこのあと、まずなにをしますか。\n\n田中さん、あしたの企画会議の資料、印刷は終わった？\n\nはい、にんずうぶんのにじゅうぶ、もうコピーしてあります。\n\nありがとう。それから、プロジェクターの動作確認はしてくれた？\n\nすみません、まだです。すぐに会議室に行って電源が入るか試してきます。\n\nお願いね。ただ、その前に、参加者の名簿にいちぶ変更があったから、パソコンの最新データを印刷し直して差し替えてもらえる？\n\nわかりました。じゃあ、まず名簿を直して差し替えてから、会議室へ向かいます。\n\nよろしくね。\n\n質問。男の人はこのあと、まずなにをしますか。",
+      "speech_audio_text": "だいいちもん。会社で女性と男性があしたの会議の準備について話しています。男の人はこのあと、まずなにをしますか。\n\n田中さん、あしたの企画会議の資料、印刷は終わった？\n\nはい、にんずうぶんのにじゅうぶ、もうコピーしてあります。\n\nありがとう。それから、プロジェクターの動作確認はしてくれた？\n\nすみません、まだです。すぐに会議室に行って電源が入るか試してきます。\n\nお願いね。ただ、その前に、参加者の名簿にいちぶ変更があったから、パソコンの最新データを印刷し直して差し替えてもらえる？\n\nわかりました。じゃあ、まず名簿を印刷し直して差し替えてから、会議室へ向かいます。\n\nよろしくね。\n\n質問。男の人はこのあと、まずなにをしますか。",
       "audio_file": "audio/listening/n3_q1.mp3",
       "choices": [
-        "<ruby>名簿<rt>めいぼ</rt></ruby>の<ruby>最新<rt>さいしん</rt></ruby>データを<ruby>印刷<rt>いんさつ</rt></ruby>して<ruby>差<rt>さ</rt></ruby>し<ruby>替<rt>か</rt></ruby>える。",
+        "<ruby>名簿<rt>めいぼ</rt></ruby>の<ruby>最新<rt>さいしん</rt></ruby>データを<ruby>印刷<rt>いんさつ</rt></ruby>して<ruby>差し替<rt>さしか</rt></ruby>える。",
         "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>する。",
         "プロジェクターの<ruby>動作<rt>どうさ</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>をする。",
         "<ruby>企画<rt>きかく</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を20<ruby>部<rt>ぶ</rt></ruby>コピーする。"
       ],
       "choices_ruby": [
-        "<ruby>名簿<rt>めいぼ</rt></ruby>の<ruby>最新<rt>さいしん</rt></ruby>データを<ruby>印刷<rt>いんさつ</rt></ruby>して<ruby>差<rt>さ</rt></ruby>し<ruby>替<rt>か</rt></ruby>える。",
+        "<ruby>名簿<rt>めいぼ</rt></ruby>の<ruby>最新<rt>さいしん</rt></ruby>データを<ruby>印刷<rt>いんさつ</rt></ruby>して<ruby>差し替<rt>さしか</rt></ruby>える。",
         "<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>する。",
         "プロジェクターの<ruby>動作<rt>どうさ</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>をする。",
         "<ruby>企画<rt>きかく</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>を20<ruby>部<rt>ぶ</rt></ruby>コピーする。"
@@ -105,7 +105,7 @@ window.JLPT_N3_LISTENING_DATA = {
         "zh": "正確答案是選項2。店員引導男性先在申請表上填寫姓名、聯絡方式和出發日期，並表示問卷可等離開時再填，因此現在填寫的是選項2。",
         "ko": "정답은 2번입니다. 직원이 먼저 신청서에 이름, 연락처, 희망 출발일을 작성해 달라고 안내했으며 설문은 나중에 해도 된다고 했으므로 2번이 정답입니다."
       },
-      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-400 mb-1\"><ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>。<ruby>旅行<rt>りょこう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>店員<rt>てんいん</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、<ruby>何<rt>なに</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>しますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>いらっしゃいませ。<ruby>京都<rt>きょうと</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>のツアーをご<ruby>検討<rt>けんとう</rt></ruby>ですね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>はい。この3<ruby>日間<rt>かかん</rt></ruby>のフリープランに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みたいんですが。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>ありがとうございます。こちらのプランですね。お<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みにあたりまして、まずこちらの<ruby>申込用紙<rt>もうしこみようし</rt></ruby>にお<ruby>名前<rt>なまえ</rt></ruby>とご<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>、ご<ruby>希望<rt>きぼう</rt></ruby>の<ruby>出発日<rt>しゅっぱつび</rt></ruby>をご<ruby>記入<rt>きにゅう</rt></ruby>いただけますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>わかりました。アンケートの<ruby>欄<rt>らん</rt></ruby>も<ruby>書<rt>か</rt></ruby>いたほうがいいですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>アンケートは<ruby>任意<rt>にんい</rt></ruby>ですので、お<ruby>帰<rt>かえ</rt></ruby>りの<ruby>際<rt>さい</rt></ruby>にお<ruby>時間<rt>じかん</rt></ruby>があればで<ruby>結構<rt>けっこう</rt></ruby>ですよ。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>わかりました。じゃあ、ここを<ruby>書<rt>か</rt></ruby>きますね。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>質問<rt>しつもん</rt></ruby>：<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、<ruby>何<rt>なに</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>しますか。</p></div>"
+      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-400 mb-1\"><ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>。<ruby>旅行<rt>りょこう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>店員<rt>てんいん</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、<ruby>何<rt>なに</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>しますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>いらっしゃいませ。<ruby>京都<rt>きょうと</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>のツアーをご<ruby>検討<rt>けんとう</rt></ruby>ですね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>はい。この<ruby>3日間<rt>みっかかん</rt></ruby>のフリープランに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みたいんですが。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>ありがとうございます。こちらのプランですね。お<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みにあたりまして、まずこちらの<ruby>申込用紙<rt>もうしこみようし</rt></ruby>にお<ruby>名前<rt>なまえ</rt></ruby>とご<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>、ご<ruby>希望<rt>きぼう</rt></ruby>の<ruby>出発日<rt>しゅっぱつび</rt></ruby>をご<ruby>記入<rt>きにゅう</rt></ruby>いただけますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>わかりました。アンケートの<ruby>欄<rt>らん</rt></ruby>も<ruby>書<rt>か</rt></ruby>いたほうがいいですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>アンケートは<ruby>任意<rt>にんい</rt></ruby>ですので、お<ruby>帰<rt>かえ</rt></ruby>りの<ruby>際<rt>さい</rt></ruby>にお<ruby>時間<rt>じかん</rt></ruby>があればで<ruby>結構<rt>けっこう</rt></ruby>ですよ。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>わかりました。じゃあ、ここを<ruby>書<rt>か</rt></ruby>きますね。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>質問<rt>しつもん</rt></ruby>：<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、<ruby>何<rt>なに</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>しますか。</p></div>"
     },
     {
       "id": "n3_lis_q3",
@@ -195,13 +195,13 @@ window.JLPT_N3_LISTENING_DATA = {
         "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>換気扇<rt>かんきせん</rt></ruby>の<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く。",
         "<ruby>修理<rt>しゅうり</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>して<ruby>日程<rt>にってい</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>する。",
         "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>に<ruby>自宅<rt>じたく</rt></ruby>で<ruby>修理<rt>しゅうり</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ。",
-        "<ruby>修理<rt>しゅうり</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>む。"
+        "<ruby>修理<rt>しゅうり</rt></ruby><ruby>代<rt>だい</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>振り込<rt>ふりこ</rt></ruby>む。"
       ],
       "choices_ruby": [
         "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>換気扇<rt>かんきせん</rt></ruby>の<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く。",
         "<ruby>修理<rt>しゅうり</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>して<ruby>日程<rt>にってい</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>する。",
         "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>に<ruby>自宅<rt>じたく</rt></ruby>で<ruby>修理<rt>しゅうり</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ。",
-        "<ruby>修理<rt>しゅうり</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>む。"
+        "<ruby>修理<rt>しゅうり</rt></ruby><ruby>代<rt>だい</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>振り込<rt>ふりこ</rt></ruby>む。"
       ],
       "answer": 2,
       "explanation": {
@@ -450,12 +450,12 @@ window.JLPT_N3_LISTENING_DATA = {
       ],
       "answer": 2,
       "explanation": {
-        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は3<ruby>番<rt>ばん</rt></ruby>です。<ruby>普段<rt>ふだん</rt></ruby>は2<ruby>人用<rt>りよう</rt></ruby>のコンパクトなサイズで、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>来<rt>き</rt></ruby>たときだけ<ruby>天板<rt>てんばん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げられる<ruby>伸縮式<rt>しんしゅくしき</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>決<rt>き</rt></ruby>め<ruby>手<rt>て</rt></ruby>となったため、<ruby>選択肢<rt>せんたくし</rt></ruby>3が<ruby>正解<rt>せいかい</rt></ruby>です。",
+        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は3<ruby>番<rt>ばん</rt></ruby>です。<ruby>普段<rt>ふだん</rt></ruby>は<ruby>2人用<rt>ふたりよう</rt></ruby>のコンパクトなサイズで、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>来<rt>き</rt></ruby>たときだけ<ruby>天板<rt>てんばん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げられる<ruby>伸縮式<rt>しんしゅくしき</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>決<rt>き</rt></ruby>め<ruby>手<rt>て</rt></ruby>となったため、<ruby>選択肢<rt>せんたくし</rt></ruby>3が<ruby>正解<rt>せいかい</rt></ruby>です。",
         "en": "The correct answer is Choice 3. They decided on the table because it is expandable: compact for everyday use, yet easily extended for guests. Choice 3 is correct.",
         "zh": "正確答案是選項3。兩人決定購買的原因是這張桌子是可伸縮式，平時兩人用非常小巧，有客人時可展開變大，兼具實用性，因此選項3正確。",
         "ko": "정답은 3번입니다. 평소에는 2인용으로 컴팩트하게 쓰다가 손님이 왔을 때만 상판을 넓혀 쓸 수 있는 확장형 기능이 마음에 들었기 때문이므로 3번이 정답입니다."
       },
-      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-400 mb-1\"><ruby>第<rt>だい</rt></ruby>12<ruby>問<rt>もん</rt></ruby>。<ruby>家具<rt>かぐ</rt></ruby><ruby>屋<rt>や</rt></ruby>で<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>二人<rt>ふたり</rt></ruby>がこのテーブルを<ruby>買<rt>か</rt></ruby>うことに<ruby>決<rt>き</rt></ruby>めた<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>この<ruby>木製<rt>もくせい</rt></ruby>のテーブル、<ruby>部屋<rt>へや</rt></ruby>のフローリングの<ruby>色<rt>いろ</rt></ruby>と<ruby>合<rt>あ</rt></ruby>いそうね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>そうだね。でも、ちょっとサイズが<ruby>大<rt>おお</rt></ruby>きくないかな？リビングが<ruby>狭<rt>せま</rt></ruby>くなっちゃうかも。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>ほら、ここを<ruby>見<rt>み</rt></ruby>て。これ、<ruby>普段<rt>ふだん</rt></ruby>は2<ruby>人用<rt>りよう</rt></ruby>のコンパクトな<ruby>大<rt>おお</rt></ruby>きさだけど、<ruby>来客<rt>らいきゃく</rt></ruby>のときは<ruby>天板<rt>てんばん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げて4<ruby>人用<rt>にんよう</rt></ruby>や6<ruby>人用<rt>にんよう</rt></ruby>に<ruby>伸<rt>の</rt></ruby>ばせる<ruby>伸縮式<rt>しんしゅくしき</rt></ruby>なんだって！</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>へえ、<ruby>本当<rt>ほんとう</rt></ruby>だ！<ruby>普段<rt>ふだん</rt></ruby>はすっきり<ruby>置<rt>お</rt></ruby>けて、<ruby>友達<rt>ともだち</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んだときだけ<ruby>広<rt>ひろ</rt></ruby>げられるのは<ruby>便利<rt>べんり</rt></ruby>だね。デザインもシンプルだし、これにしようか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>うん、そうしましょ！</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>質問<rt>しつもん</rt></ruby>：<ruby>二人<rt>ふたり</rt></ruby>がこのテーブルを<ruby>買<rt>か</rt></ruby>うことに<ruby>決<rt>き</rt></ruby>めた<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p></div>"
+      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-400 mb-1\"><ruby>第<rt>だい</rt></ruby>12<ruby>問<rt>もん</rt></ruby>。<ruby>家具<rt>かぐ</rt></ruby><ruby>屋<rt>や</rt></ruby>で<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>二人<rt>ふたり</rt></ruby>がこのテーブルを<ruby>買<rt>か</rt></ruby>うことに<ruby>決<rt>き</rt></ruby>めた<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>この<ruby>木製<rt>もくせい</rt></ruby>のテーブル、<ruby>部屋<rt>へや</rt></ruby>のフローリングの<ruby>色<rt>いろ</rt></ruby>と<ruby>合<rt>あ</rt></ruby>いそうね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>そうだね。でも、ちょっとサイズが<ruby>大<rt>おお</rt></ruby>きくないかな？リビングが<ruby>狭<rt>せま</rt></ruby>くなっちゃうかも。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>ほら、ここを<ruby>見<rt>み</rt></ruby>て。これ、<ruby>普段<rt>ふだん</rt></ruby>は<ruby>2人用<rt>ふたりよう</rt></ruby>のコンパクトな<ruby>大<rt>おお</rt></ruby>きさだけど、<ruby>来客<rt>らいきゃく</rt></ruby>のときは<ruby>天板<rt>てんばん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げて4<ruby>人用<rt>にんよう</rt></ruby>や6<ruby>人用<rt>にんよう</rt></ruby>に<ruby>伸<rt>の</rt></ruby>ばせる<ruby>伸縮式<rt>しんしゅくしき</rt></ruby>なんだって！</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>へえ、<ruby>本当<rt>ほんとう</rt></ruby>だ！<ruby>普段<rt>ふだん</rt></ruby>はすっきり<ruby>置<rt>お</rt></ruby>けて、<ruby>友達<rt>ともだち</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んだときだけ<ruby>広<rt>ひろ</rt></ruby>げられるのは<ruby>便利<rt>べんり</rt></ruby>だね。デザインもシンプルだし、これにしようか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：</span>うん、そうしましょ！</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>質問<rt>しつもん</rt></ruby>：<ruby>二人<rt>ふたり</rt></ruby>がこのテーブルを<ruby>買<rt>か</rt></ruby>うことに<ruby>決<rt>き</rt></ruby>めた<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p></div>"
     },
     {
       "id": "n3_lis_q13",
@@ -572,7 +572,7 @@ window.JLPT_N3_LISTENING_DATA = {
       "situation": "同僚が重そうなダンボール箱を運んでいます。手伝いたいとき、何と言いますか。",
       "has_illustration": true,
       "illustration_url": "images/listening_n3/n3_q16.jpg",
-      "prompt": "同僚が重そうなダンボール箱を運んでいます。手伝いたいとき、何と言いますか。",
+      "prompt": "同僚が重そうなダンボール箱をいくつか運んでいます。手伝いたいとき、何と言いますか。",
       "prompt_ruby": "<ruby>同僚<rt>どうりょう</rt></ruby>が<ruby>重<rt>おも</rt></ruby>そうなダンボール<ruby>箱<rt>ばこ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでいます。<ruby>手伝<rt>てつだ</rt></ruby>いたいとき、<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。",
       "speech_audio_text": "だいじゅうろくもん。同僚がおもそうなダンボールばこを運んでいます。手伝いたいとき、なんと言いますか。\n\nいちばん。ひとつおもちしましょうか。\n\nにばん。持ってもらえませんか。\n\nさんばん。運んであげてください。\n\n質問。同僚がおもそうなダンボールばこを運んでいます。手伝いたいとき、なんと言いますか。",
       "audio_file": "audio/listening/n3_q16.mp3",
@@ -607,16 +607,16 @@ window.JLPT_N3_LISTENING_DATA = {
       "illustration_url": "images/listening_n3/n3_q17.jpg",
       "prompt": "会議中、先輩のペンを借りたいです。何と言いますか。",
       "prompt_ruby": "<ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<ruby>先輩<rt>せんぱい</rt></ruby>のペンを<ruby>借<rt>か</rt></ruby>りたいです。<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。",
-      "speech_audio_text": "だいじゅうななもん。会議中、先輩のペンを借りたいです。なんと言いますか。\n\nいちばん。ペンを貸してあげますよ。\n\nにばん。ペンを使わせてくださいませんか。\n\nさんばん。ペンを使ってよろしいです。\n\n質問。会議中、先輩のペンを借りたいです。なんと言いますか。",
+      "speech_audio_text": "だいじゅうななもん。会議中、先輩のペンを借りたいです。なんと言いますか。\n\nいちばん。ペンを貸してあげますよ。\n\nにばん。ペンを貸していただけませんか。\n\nさんばん。ペンを使ってよろしいです。\n\n質問。会議中、先輩のペンを借りたいです。なんと言いますか。",
       "audio_file": "audio/listening/n3_q17.mp3",
       "choices": [
         "ペンを<ruby>貸<rt>か</rt></ruby>してあげますよ。",
-        "ペンを<ruby>使<rt>つか</rt></ruby>わせてくださいませんか。",
+        "ペンを<ruby>貸<rt>か</rt></ruby>していただけませんか。",
         "ペンを<ruby>使<rt>つか</rt></ruby>ってよろしいです。"
       ],
       "choices_ruby": [
         "ペンを<ruby>貸<rt>か</rt></ruby>してあげますよ。",
-        "ペンを<ruby>使<rt>つか</rt></ruby>わせてくださいませんか。",
+        "ペンを<ruby>貸<rt>か</rt></ruby>していただけませんか。",
         "ペンを<ruby>使<rt>つか</rt></ruby>ってよろしいです。"
       ],
       "answer": 1,
@@ -706,15 +706,15 @@ window.JLPT_N3_LISTENING_DATA = {
       "illustration_url": "images/listening_n3/n3_q20.jpg",
       "prompt": "山田さん、今度の土曜日、一緒にハイキングに行かない？",
       "prompt_ruby": "<ruby>山田<rt>やまだ</rt></ruby>さん、<ruby>今度<rt>こんど</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、<ruby>一緒<rt>いっしょ</rt></ruby>にハイキングに<ruby>行<rt>い</rt></ruby>かない？",
-      "speech_audio_text": "だいにじゅうもん。\n\n山田さん、今度の土曜日、一緒にハイキングに行かない？\n\nいちばん。ええ、ぜひ喜んで！\n\nにばん。ええ、せんしゅうのハイキングは楽しかったですね。\n\nさんばん。はい、土曜日からずっと雨が降っていましたよ。\n\n質問。発話を聞いて、最も適した返答を選んでください。",
+      "speech_audio_text": "だいにじゅうもん。\n\n山田さん、今度の土曜日、一緒にハイキングに行かない？\n\nいちばん。ええ、ぜひ！\n\nにばん。ええ、せんしゅうのハイキングは楽しかったですね。\n\nさんばん。はい、土曜日からずっと雨が降っていましたよ。\n\n質問。発話を聞いて、最も適した返答を選んでください。",
       "audio_file": "audio/listening/n3_q20.mp3",
       "choices": [
-        "ええ、ぜひ<ruby>喜<rt>よろこ</rt></ruby>んで！",
+        "ええ、ぜひ！",
         "ええ、<ruby>先週<rt>せんしゅう</rt></ruby>のハイキングは<ruby>楽<rt>たの</rt></ruby>しかったですね。",
         "はい、<ruby>土曜日<rt>どようび</rt></ruby>からずっと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていましたよ。"
       ],
       "choices_ruby": [
-        "ええ、ぜひ<ruby>喜<rt>よろこ</rt></ruby>んで！",
+        "ええ、ぜひ！",
         "ええ、<ruby>先週<rt>せんしゅう</rt></ruby>のハイキングは<ruby>楽<rt>たの</rt></ruby>しかったですね。",
         "はい、<ruby>土曜日<rt>どようび</rt></ruby>からずっと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていましたよ。"
       ],
@@ -743,13 +743,13 @@ window.JLPT_N3_LISTENING_DATA = {
       "audio_file": "audio/listening/n3_q21.mp3",
       "choices": [
         "いいえ、<ruby>傘<rt>かさ</rt></ruby>は<ruby>持<rt>も</rt></ruby>っていませんよ。",
-        "<ruby>本当<rt>ほんとう</rt></ruby>だ、<ruby>私<rt>わたし</rt></ruby>のです！<ruby>親切<rt>しんせつ</rt></ruby>にありがとうございます。",
-        "はい、<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて<ruby>帰<rt>かえ</rt></ruby>るところでした。"
+        "<ruby>本当<rt>ほんとう</rt></ruby>だ、<ruby>私<rt>わたし</rt></ruby>のです！わざわざありがとうございます。",
+        "ええ、とても<ruby>素敵<rt>すてき</rt></ruby>な<ruby>傘<rt>かさ</rt></ruby>ですね。"
       ],
       "choices_ruby": [
         "いいえ、<ruby>傘<rt>かさ</rt></ruby>は<ruby>持<rt>も</rt></ruby>っていませんよ。",
-        "<ruby>本当<rt>ほんとう</rt></ruby>だ、<ruby>私<rt>わたし</rt></ruby>のです！<ruby>親切<rt>しんせつ</rt></ruby>にありがとうございます。",
-        "はい、<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて<ruby>帰<rt>かえ</rt></ruby>るところでした。"
+        "<ruby>本当<rt>ほんとう</rt></ruby>だ、<ruby>私<rt>わたし</rt></ruby>のです！わざわざありがとうございます。",
+        "ええ、とても<ruby>素敵<rt>すてき</rt></ruby>な<ruby>傘<rt>かさ</rt></ruby>ですね。"
       ],
       "answer": 1,
       "explanation": {

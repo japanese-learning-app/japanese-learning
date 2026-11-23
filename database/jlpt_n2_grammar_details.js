@@ -83,7 +83,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with あるいは)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for あるいは",
-        "sentence": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいは、メールで<ruby>送っ<rt>おくっ</rt></ruby>てください。"
+        "sentence": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいはメールで<ruby>送<rt>おく</rt></ruby>ってください。"
       }
     ],
     "comparison": [
@@ -94,7 +94,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: or; either; maybe; perhaps; possibly~.",
-        "example": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいは、メールで<ruby>送っ<rt>おくっ</rt></ruby>てください。"
+        "example": "<ruby>明日中<rt>あすじゅう</rt></ruby>にファックス、あるいはメールで<ruby>送<rt>おく</rt></ruby>ってください。"
       },
       {
         "form": "〜または",
@@ -103,7 +103,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「または」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to あるいは, but differs in register or constraints.",
-        "example": "状況に応じた<strong>または</strong>の適切な用例。"
+        "example": "<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>料<rt>りょう</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>振込<rt>ふりこみ</rt></ruby>、またはクレジットカードでお<ruby>支払<rt>しはら</rt></ruby>いください。"
       },
       {
         "form": "〜もしくは",
@@ -112,7 +112,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「もしくは」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>もしくは</strong>の用例。"
+        "example": "<ruby>申込<rt>もうしこみ</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>郵送<rt>ゆうそう</rt></ruby>、もしくは<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>へご<ruby>提出<rt>ていしゅつ</rt></ruby>ください。"
       }
     ]
   },
@@ -157,7 +157,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「くらい／ぐらい」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ばかり, but differs in register or constraints.",
-        "example": "状況に応じた<strong>くらい／ぐらい</strong>の適切な用例。"
+        "example": "<ruby>駅<rt>えき</rt></ruby>から<ruby>会社<rt>かいしゃ</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて10<ruby>分<rt>ふん</rt></ruby>ぐらいかかります。"
       },
       {
         "form": "〜ほど",
@@ -166,7 +166,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ほど」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ほど</strong>の用例。"
+        "example": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>公園<rt>こうえん</rt></ruby>を1<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>散歩<rt>さんぽ</rt></ruby>しました。"
       }
     ]
   },
@@ -211,7 +211,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「一方だ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ばかりだ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>一方だ</strong>の適切な用例。"
+        "example": "<ruby>最近<rt>さいきん</rt></ruby>、スマートフォンを<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>える<ruby>一方<rt>いっぽう</rt></ruby>だ。"
       },
       {
         "form": "〜～ていくばかりだ",
@@ -220,7 +220,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「～ていくばかりだ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>～ていくばかりだ</strong>の用例。"
+        "example": "この<ruby>町<rt>まち</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>はこれから<ruby>減<rt>へ</rt></ruby>っていくばかりだ。"
       }
     ]
   },
@@ -265,7 +265,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけでなく」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ばかりか, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけでなく</strong>の適切な用例。"
+        "example": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>がおいしいだけでなく、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>も<ruby>丁寧<rt>ていねい</rt></ruby>です。"
       },
       {
         "form": "〜のみならず",
@@ -274,7 +274,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のみならず」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のみならず</strong>の用例。"
+        "example": "その<ruby>歌手<rt>かしゅ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>のみならず、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>人気<rt>にんき</rt></ruby>があります。"
       }
     ]
   },
@@ -319,7 +319,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「せいで」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ばかりに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>せいで</strong>の適切な用例。"
+        "example": "<ruby>朝寝坊<rt>あさねぼう</rt></ruby>をしたせいで、バスに<ruby>乗り遅<rt>のりおく</rt></ruby>れてしまった。"
       },
       {
         "form": "〜ために",
@@ -328,7 +328,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ために」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ために</strong>の用例。"
+        "example": "<ruby>大雪<rt>おおゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったために、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってしまった。"
       }
     ]
   },
@@ -373,7 +373,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ところで」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ちなみに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ところで</strong>の適切な用例。"
+        "example": "<ruby>仕事<rt>しごと</rt></ruby>も<ruby>終<rt>お</rt></ruby>わったし、ところで<ruby>今日<rt>きょう</rt></ruby>はこれからどうしますか。"
       },
       {
         "form": "〜なお",
@@ -382,7 +382,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「なお」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>なお</strong>の用例。"
+        "example": "<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は10<ruby>時<rt>じ</rt></ruby>からです。なお、<ruby>資料<rt>しりょう</rt></ruby>は<ruby>事前<rt>じぜん</rt></ruby>に<ruby>配布<rt>はいふ</rt></ruby>します。"
       }
     ]
   },
@@ -427,7 +427,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「少しも～ない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ちっとも〜ない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>少しも～ない</strong>の適切な用例。"
+        "example": "いくら<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いても、<ruby>少<rt>すこ</rt></ruby>しもわからない。"
       },
       {
         "form": "〜全く～ない",
@@ -436,7 +436,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「全く～ない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>全く～ない</strong>の用例。"
+        "example": "この<ruby>町<rt>まち</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>と<ruby>全<rt>まった</rt></ruby>く<ruby>変<rt>か</rt></ruby>わっていない。"
       }
     ]
   },
@@ -481,7 +481,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「さすがに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だけあって, but differs in register or constraints.",
-        "example": "状況に応じた<strong>さすがに</strong>の適切な用例。"
+        "example": "10<ruby>年<rt>ねん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているので、さすがに<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>です。"
       },
       {
         "form": "〜だけのことはある",
@@ -490,7 +490,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「だけのことはある」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>だけのことはある</strong>の用例。"
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>しただけのことはある。<ruby>今日<rt>きょう</rt></ruby>の<ruby>演奏<rt>えんそう</rt></ruby>は<ruby>素晴<rt>すば</rt></ruby>らしかった。"
       }
     ]
   },
@@ -535,7 +535,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「まだいい」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だけましだ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>まだいい</strong>の適切な用例。"
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いけれど、<ruby>昨日<rt>きのう</rt></ruby>よりはまだいい。"
       },
       {
         "form": "〜まだしも",
@@ -544,7 +544,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「まだしも」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>まだしも</strong>の用例。"
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れるならまだしも、<ruby>連絡<rt>れんらく</rt></ruby>なしに<ruby>休<rt>やす</rt></ruby>むのはよくない。"
       }
     ]
   },
@@ -589,7 +589,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけあって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だけに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけあって</strong>の適切な用例。"
+        "example": "<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>だけあって、<ruby>昼<rt>ひる</rt></ruby><ruby>時<rt>じ</rt></ruby>はいつも<ruby>行列<rt>ぎょうれつ</rt></ruby>ができている。"
       },
       {
         "form": "〜からこそ",
@@ -598,7 +598,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「からこそ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>からこそ</strong>の用例。"
+        "example": "<ruby>努力<rt>どりょく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたからこそ、<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>できたのだ。"
       }
     ]
   },
@@ -643,7 +643,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけあって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だけのことはある, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけあって</strong>の適切な用例。"
+        "example": "<ruby>老舗<rt>しにせ</rt></ruby>の<ruby>旅館<rt>りょかん</rt></ruby>だけあって、サービスがとても<ruby>行き届<rt>いきとど</rt></ruby>いている。"
       },
       {
         "form": "〜さすがに",
@@ -652,7 +652,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「さすがに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>さすがに</strong>の用例。"
+        "example": "<ruby>厳<rt>きび</rt></ruby>しい<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>乗り越<rt>のりこ</rt></ruby>えたので、さすがに<ruby>本番<rt>ほんばん</rt></ruby>では<ruby>落ち着<rt>おちつ</rt></ruby>いていた。"
       }
     ]
   },
@@ -677,7 +677,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with だけは)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for だけは",
-        "sentence": "できるだけ<ruby>速く<rt>はやく</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>たが、<ruby>惜しく<rt>おしく</rt></ruby>も<ruby>終電<rt>しゅうでん</rt></ruby>には<ruby>間に合わ<rt>まにあわ</rt></ruby>なかった。"
+        "sentence": "どんなに<ruby>忙<rt>いそが</rt></ruby>しくても、<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>だけは<ruby>欠<rt>か</rt></ruby>かさないようにしている。"
       }
     ],
     "comparison": [
@@ -688,7 +688,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: to do all that one can.",
-        "example": "できるだけ<ruby>速く<rt>はやく</rt></ruby><ruby>走っ<rt>はしっ</rt></ruby>たが、<ruby>惜しく<rt>おしく</rt></ruby>も<ruby>終電<rt>しゅうでん</rt></ruby>には<ruby>間に合わ<rt>まにあわ</rt></ruby>なかった。"
+        "example": "どんなに<ruby>忙<rt>いそが</rt></ruby>しくても、<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>だけは<ruby>欠<rt>か</rt></ruby>かさないようにしている。"
       },
       {
         "form": "〜だけ～する",
@@ -697,7 +697,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけ～する」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だけは, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけ～する</strong>の適切な用例。"
+        "example": "<ruby>練習<rt>れんしゅう</rt></ruby>しただけ<ruby>上手<rt>じょうず</rt></ruby>になるから、これからも<ruby>続<rt>つづ</rt></ruby>けよう。"
       },
       {
         "form": "〜できる限り",
@@ -706,7 +706,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「できる限り」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>できる限り</strong>の用例。"
+        "example": "<ruby>皆<rt>みな</rt></ruby>さんのご<ruby>期待<rt>きたい</rt></ruby>に<ruby>応<rt>こた</rt></ruby>えられるよう、できる<ruby>限<rt>かぎ</rt></ruby>り<ruby>努力<rt>どりょく</rt></ruby>します。"
       }
     ]
   },
@@ -751,7 +751,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to だって, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だって</strong>の適切な用例。"
+        "example": "<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>なさい。だって<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>遠足<rt>えんそく</rt></ruby>でしょ。"
       },
       {
         "form": "〜なぜなら",
@@ -760,7 +760,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「なぜなら」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>なぜなら</strong>の用例。"
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>早起<rt>はやお</rt></ruby>きが<ruby>得意<rt>とくい</rt></ruby>だ。なぜなら、<ruby>毎朝<rt>まいあさ</rt></ruby>5<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きているからだ。"
       }
     ]
   },
@@ -805,7 +805,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「にすぎない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to でしかない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>にすぎない</strong>の適切な用例。"
+        "example": "それは<ruby>単<rt>たん</rt></ruby>なる<ruby>噂<rt>うわさ</rt></ruby>にすぎない。"
       },
       {
         "form": "〜にほかならない",
@@ -814,7 +814,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「にほかならない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>にほかならない</strong>の用例。"
+        "example": "この<ruby>成功<rt>せいこう</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>さんの<ruby>協力<rt>きょうりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>にほかならない。"
       }
     ]
   },
@@ -839,7 +839,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with どころではない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for どころではない",
-        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>時々<rt>ときどき</rt></ruby>ミスをするが、<ruby>決して<rt>けっして</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>が<ruby>劣っ<rt>おとっ</rt></ruby>ているどころではない。"
+        "sentence": "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>締め切<rt>しめき</rt></ruby>りが<ruby>重<rt>かさ</rt></ruby>なっていて、<ruby>休<rt>やす</rt></ruby>むどころではない。"
       }
     ],
     "comparison": [
@@ -850,7 +850,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: not the time for; not the place.",
-        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>時々<rt>ときどき</rt></ruby>ミスをするが、<ruby>決して<rt>けっして</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>が<ruby>劣っ<rt>おとっ</rt></ruby>ているどころではない。"
+        "example": "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>締め切<rt>しめき</rt></ruby>りが<ruby>重<rt>かさ</rt></ruby>なっていて、<ruby>休<rt>やす</rt></ruby>むどころではない。"
       },
       {
         "form": "〜どころか",
@@ -859,7 +859,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「どころか」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to どころではない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>どころか</strong>の適切な用例。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるどころか、<ruby>漢字<rt>かんじ</rt></ruby>で<ruby>小説<rt>しょうせつ</rt></ruby>も<ruby>書<rt>か</rt></ruby>ける。"
       },
       {
         "form": "〜どころじゃない",
@@ -868,7 +868,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どころじゃない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どころじゃない</strong>の用例。"
+        "example": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みで、<ruby>休<rt>やす</rt></ruby>むどころじゃないよ。"
       }
     ]
   },
@@ -913,7 +913,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「はおろか」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to どころか, but differs in register or constraints.",
-        "example": "状況に応じた<strong>はおろか</strong>の適切な用例。"
+        "example": "<ruby>忙<rt>いそが</rt></ruby>しすぎて、<ruby>旅行<rt>りょこう</rt></ruby>はおろか<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>もない。"
       },
       {
         "form": "〜どころではない",
@@ -922,7 +922,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どころではない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どころではない</strong>の用例。"
+        "example": "<ruby>風邪<rt>かぜ</rt></ruby>で<ruby>熱<rt>ねつ</rt></ruby>があるので、<ruby>外出<rt>がいしゅつ</rt></ruby>どころではない。"
       }
     ]
   },
@@ -967,7 +967,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「どうも」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to どうやら, but differs in register or constraints.",
-        "example": "状況に応じた<strong>どうも</strong>の適切な用例。"
+        "example": "<ruby>空<rt>そら</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くなってきたから、どうも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそうだ。"
       },
       {
         "form": "〜どうやら～らしい",
@@ -976,7 +976,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どうやら～らしい」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どうやら～らしい</strong>の用例。"
+        "example": "<ruby>田中<rt>たなか</rt></ruby>さんはどうやら<ruby>来月<rt>らいげつ</rt></ruby><ruby>引っ越<rt>ひっこ</rt></ruby>すらしい。"
       }
     ]
   },
@@ -1021,7 +1021,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「しょせん」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to どうせ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>しょせん</strong>の適切な用例。"
+        "example": "お<ruby>金<rt>かね</rt></ruby>は<ruby>便利<rt>べんり</rt></ruby>なものだが、しょせん<ruby>生活<rt>せいかつ</rt></ruby>のための<ruby>道具<rt>どうぐ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。"
       },
       {
         "form": "〜どうせ～なら",
@@ -1030,7 +1030,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どうせ～なら」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どうせ～なら</strong>の用例。"
+        "example": "どうせ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くなら、<ruby>天気<rt>てんき</rt></ruby>のいい<ruby>日<rt>ひ</rt></ruby>がいいですね。"
       }
     ]
   },
@@ -1075,7 +1075,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「できない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 得ない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>できない</strong>の適切な用例。"
+        "example": "これほど<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>一人<rt>ひとり</rt></ruby>では<ruby>運<rt>はこ</rt></ruby>ぶことができない。"
       },
       {
         "form": "〜わけがない",
@@ -1084,7 +1084,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「わけがない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>わけがない</strong>の用例。"
+        "example": "いつもまじめな<ruby>田中<rt>たなか</rt></ruby>さんが、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れるわけがない。"
       }
     ]
   },
@@ -1109,7 +1109,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 得る)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 得る",
-        "sentence": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。"
+        "sentence": "<ruby>君<rt>きみ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。"
       }
     ],
     "comparison": [
@@ -1120,7 +1120,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: can; to be able to; is possible to~.",
-        "example": "<ruby>君<rt>くん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。"
+        "example": "<ruby>君<rt>きみ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>信じ<rt>しんじ</rt></ruby>るよ。だってその<ruby>世界<rt>せかい</rt></ruby>ではどんなことでも<ruby>起こ<rt>おこ</rt></ruby>り<ruby>得る<rt>える</rt></ruby>から。"
       },
       {
         "form": "〜あり得る",
@@ -1129,7 +1129,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「あり得る」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 得る, but differs in register or constraints.",
-        "example": "状況に応じた<strong>あり得る</strong>の適切な用例。"
+        "example": "<ruby>計画<rt>けいかく</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>あり<ruby>得<rt>え</rt></ruby>る。"
       },
       {
         "form": "〜できる",
@@ -1138,7 +1138,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「できる」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>できる</strong>の用例。"
+        "example": "このアプリを<ruby>使<rt>つか</rt></ruby>えば、<ruby>簡単<rt>かんたん</rt></ruby>にスケジュールを<ruby>管理<rt>かんり</rt></ruby>できる。"
       }
     ]
   },
@@ -1183,7 +1183,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「もう一度」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 再び, but differs in register or constraints.",
-        "example": "状況に応じた<strong>もう一度</strong>の適切な用例。"
+        "example": "<ruby>聞き取<rt>ききと</rt></ruby>れなかったので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>言<rt>い</rt></ruby>っていただけますか。"
       },
       {
         "form": "〜再度",
@@ -1192,7 +1192,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「再度」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>再度</strong>の用例。"
+        "example": "ご<ruby>提出<rt>ていしゅつ</rt></ruby>いただいた<ruby>書類<rt>しょるい</rt></ruby>を<ruby>再度<rt>さいど</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>いたします。"
       }
     ]
   },
@@ -1237,7 +1237,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「このように」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ふうに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>このように</strong>の適切な用例。"
+        "example": "この<ruby>機械<rt>きかい</rt></ruby>は、このようにボタンを<ruby>押<rt>お</rt></ruby>して<ruby>使<rt>つか</rt></ruby>います。"
       },
       {
         "form": "〜そのように",
@@ -1246,7 +1246,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「そのように」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>そのように</strong>の用例。"
+        "example": "<ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>言<rt>い</rt></ruby>ったとおりに、そのように<ruby>進<rt>すす</rt></ruby>めてみます。"
       }
     ]
   },
@@ -1271,7 +1271,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with がきっかけで /をきっかけに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for がきっかけで /をきっかけに",
-        "sentence": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけにそのつまらない<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>た。"
+        "sentence": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけに、<ruby>健康<rt>けんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるようになった。"
       }
     ],
     "comparison": [
@@ -1282,7 +1282,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: with… as a start; as a result of; taking.",
-        "example": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけにそのつまらない<ruby>仕事<rt>しごと</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>た。"
+        "example": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>病気<rt>びょうき</rt></ruby>をきっかけに、<ruby>健康<rt>けんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるようになった。"
       },
       {
         "form": "〜を契機に",
@@ -1291,7 +1291,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「を契機に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to がきっかけで /をきっかけに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>を契機に</strong>の適切な用例。"
+        "example": "<ruby>引っ越<rt>ひっこ</rt></ruby>しを<ruby>契機<rt>けいき</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しい<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてみた。"
       },
       {
         "form": "〜を機に",
@@ -1300,7 +1300,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「を機に」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>を機に</strong>の用例。"
+        "example": "<ruby>大学<rt>だいがく</rt></ruby><ruby>入学<rt>にゅうがく</rt></ruby>を<ruby>機<rt>き</rt></ruby>に、<ruby>一人<rt>ひとり</rt></ruby><ruby>暮<rt>く</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めることにした。"
       }
     ]
   },
@@ -1345,7 +1345,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「そうに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to げ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>そうに</strong>の適切な用例。"
+        "example": "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んでいる。"
       },
       {
         "form": "〜そうな様子で",
@@ -1354,7 +1354,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「そうな様子で」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>そうな様子で</strong>の用例。"
+        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>か<ruby>嬉<rt>うれ</rt></ruby>しそうな<ruby>様子<rt>ようす</rt></ruby>で、こちらへ<ruby>歩<rt>ある</rt></ruby>いてきた。"
       }
     ]
   },
@@ -1379,7 +1379,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 逆に)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 逆に",
-        "sentence": "<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>好き<rt>すき</rt></ruby>だが、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>嫌い<rt>きらい</rt></ruby>だ。"
+        "sentence": "<ruby>兄<rt>あに</rt></ruby>はスポーツが<ruby>好<rt>す</rt></ruby>きだが、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>弟<rt>おとうと</rt></ruby>はスポーツが<ruby>嫌<rt>きら</rt></ruby>いだ。"
       }
     ],
     "comparison": [
@@ -1390,7 +1390,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: conversely; on the contrary~.",
-        "example": "<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>好き<rt>すき</rt></ruby>だが、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>息子<rt>むすこ</rt></ruby>はスポーツが<ruby>嫌い<rt>きらい</rt></ruby>だ。"
+        "example": "<ruby>兄<rt>あに</rt></ruby>はスポーツが<ruby>好<rt>す</rt></ruby>きだが、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>弟<rt>おとうと</rt></ruby>はスポーツが<ruby>嫌<rt>きら</rt></ruby>いだ。"
       },
       {
         "form": "〜反対に",
@@ -1399,7 +1399,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「反対に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 逆に, but differs in register or constraints.",
-        "example": "状況に応じた<strong>反対に</strong>の適切な用例。"
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby><ruby>型<rt>がた</rt></ruby>だが、<ruby>反対<rt>はんたい</rt></ruby>に<ruby>妹<rt>いもうと</rt></ruby>は<ruby>夜<rt>よる</rt></ruby><ruby>型<rt>がた</rt></ruby>だ。"
       },
       {
         "form": "〜かえって",
@@ -1408,7 +1408,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「かえって」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>かえって</strong>の用例。"
+        "example": "<ruby>近道<rt>ちかみち</rt></ruby>をしたつもりが、かえって<ruby>時間<rt>じかん</rt></ruby>がかかってしまった。"
       }
     ]
   },
@@ -1453,7 +1453,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「一方で」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 反面, but differs in register or constraints.",
-        "example": "状況に応じた<strong>一方で</strong>の適切な用例。"
+        "example": "<ruby>兄<rt>あに</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>弟<rt>おとうと</rt></ruby>は<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くのが<ruby>好<rt>す</rt></ruby>きだ。"
       },
       {
         "form": "〜反して",
@@ -1462,7 +1462,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「反して」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>反して</strong>の用例。"
+        "example": "<ruby>予想<rt>よそう</rt></ruby>に<ruby>反<rt>はん</rt></ruby>して、<ruby>試合<rt>しあい</rt></ruby>は<ruby>接戦<rt>せっせん</rt></ruby>になった。"
       }
     ]
   },
@@ -1507,7 +1507,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「本当に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 果たして, but differs in register or constraints.",
-        "example": "状況に応じた<strong>本当に</strong>の適切な用例。"
+        "example": "その<ruby>話<rt>はなし</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>にあったことなんですか。"
       },
       {
         "form": "〜はたして",
@@ -1516,7 +1516,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「はたして」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>はたして</strong>の用例。"
+        "example": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は、はたして<ruby>晴<rt>は</rt></ruby>れるだろうか。"
       }
     ]
   },
@@ -1561,7 +1561,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「とりあえず」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 一応, but differs in register or constraints.",
-        "example": "状況に応じた<strong>とりあえず</strong>の適切な用例。"
+        "example": "<ruby>時間<rt>じかん</rt></ruby>がありませんから、とりあえず<ruby>出発<rt>しゅっぱつ</rt></ruby>しましょう。"
       },
       {
         "form": "〜ひとまず",
@@ -1570,7 +1570,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ひとまず」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ひとまず</strong>の用例。"
+        "example": "<ruby>大<rt>おお</rt></ruby>きな<ruby>課題<rt>かだい</rt></ruby>が<ruby>片付<rt>かたづ</rt></ruby>いたので、ひとまず<ruby>安心<rt>あんしん</rt></ruby>しました。"
       }
     ]
   },
@@ -1615,7 +1615,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「を除いて」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 以外, but differs in register or constraints.",
-        "example": "状況に応じた<strong>を除いて</strong>の適切な用例。"
+        "example": "<ruby>日曜日<rt>にちようび</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>を<ruby>除<rt>のぞ</rt></ruby>いて<ruby>家<rt>いえ</rt></ruby>にいます。"
       },
       {
         "form": "〜のほかに",
@@ -1624,7 +1624,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のほかに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のほかに</strong>の用例。"
+        "example": "<ruby>英語<rt>えいご</rt></ruby>のほかに、<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>も<ruby>少<rt>すこ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>せます。"
       }
     ]
   },
@@ -1669,7 +1669,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「を上回って」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 以上に, but differs in register or constraints.",
-        "example": "状況に応じた<strong>を上回って</strong>の適切な用例。"
+        "example": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>記録<rt>きろく</rt></ruby>を<ruby>上回<rt>うわまわ</rt></ruby>って<ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>になった。"
       },
       {
         "form": "〜より以上に",
@@ -1678,7 +1678,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「より以上に」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>より以上に</strong>の用例。"
+        "example": "<ruby>以前<rt>いぜん</rt></ruby>より<ruby>以上<rt>いじょう</rt></ruby>に、<ruby>健康<rt>けんこう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるようになった。"
       }
     ]
   },
@@ -1723,7 +1723,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「からには」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 以上は, but differs in register or constraints.",
-        "example": "状況に応じた<strong>からには</strong>の適切な用例。"
+        "example": "<ruby>参加<rt>さんか</rt></ruby>すると<ruby>決<rt>き</rt></ruby>めたからには、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張<rt>がんば</rt></ruby>りたい。"
       },
       {
         "form": "〜上は",
@@ -1732,7 +1732,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「上は」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>上は</strong>の用例。"
+        "example": "<ruby>引き受<rt>ひきう</rt></ruby>けた<ruby>上<rt>うえ</rt></ruby>は、<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってやり<ruby>遂<rt>と</rt></ruby>げます。"
       }
     ]
   },
@@ -1777,7 +1777,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「突然」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to いきなり, but differs in register or constraints.",
-        "example": "状況に応じた<strong>突然</strong>の適切な用例。"
+        "example": "<ruby>歩<rt>ある</rt></ruby>いていたら、<ruby>突然<rt>とつぜん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り出<rt>ふりだ</rt></ruby>してきた。"
       },
       {
         "form": "〜急に",
@@ -1786,7 +1786,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「急に」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>急に</strong>の用例。"
+        "example": "さっきまで<ruby>晴<rt>は</rt></ruby>れていたのに、<ruby>急<rt>きゅう</rt></ruby>に<ruby>曇<rt>くも</rt></ruby>ってきた。"
       }
     ]
   },
@@ -1831,7 +1831,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「一息に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 一気に, but differs in register or constraints.",
-        "example": "状況に応じた<strong>一息に</strong>の適切な用例。"
+        "example": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>をコップ<ruby>一杯<rt>いっぱい</rt></ruby>、<ruby>一息<rt>ひといき</rt></ruby>に<ruby>飲み干<rt>のみほ</rt></ruby>した。"
       },
       {
         "form": "〜一気に",
@@ -1840,7 +1840,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「一気に」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>一気に</strong>の用例。"
+        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>階段<rt>かいだん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>一気<rt>いっき</rt></ruby>に<ruby>駆<rt>か</rt></ruby>け<ruby>上<rt>あ</rt></ruby>がった。"
       }
     ]
   },
@@ -1885,7 +1885,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「他方で」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 一方で, but differs in register or constraints.",
-        "example": "状況に応じた<strong>他方で</strong>の適切な用例。"
+        "example": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しい<ruby>他方<rt>たほう</rt></ruby>で、<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>にしている。"
       },
       {
         "form": "〜反面",
@@ -1894,7 +1894,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「反面」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>反面</strong>の用例。"
+        "example": "この<ruby>仕事<rt>しごと</rt></ruby>はやりがいがある<ruby>反面<rt>はんめん</rt></ruby>、<ruby>体力<rt>たいりょく</rt></ruby>も<ruby>必要<rt>ひつよう</rt></ruby>だ。"
       }
     ]
   },
@@ -1939,7 +1939,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「世間でいう」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to いわゆる, but differs in register or constraints.",
-        "example": "状況に応じた<strong>世間でいう</strong>の適切な用例。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は、<ruby>世間<rt>せけん</rt></ruby>でいう<ruby>成功<rt>せいこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>一人<rt>ひとり</rt></ruby>だろう。"
       },
       {
         "form": "〜いわゆる",
@@ -1948,7 +1948,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「いわゆる」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>いわゆる</strong>の用例。"
+        "example": "これは、いわゆる「<ruby>朝<rt>あさ</rt></ruby><ruby>活<rt>かつ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>習慣<rt>しゅうかん</rt></ruby>です。"
       }
     ]
   },
@@ -1973,7 +1973,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with いよいよ)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for いよいよ",
-        "sentence": "いよいよ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。"
+        "sentence": "いよいよ<ruby>大学<rt>だいがく</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<ruby>初<rt>はじ</rt></ruby>めて<ruby>親元<rt>おやもと</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れるので、<ruby>少<rt>すこ</rt></ruby>し<ruby>心配<rt>しんぱい</rt></ruby>です。"
       }
     ],
     "comparison": [
@@ -1984,7 +1984,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: at last; finally; beyond doubt.",
-        "example": "いよいよ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます。<ruby>初めて<rt>はじめて</rt></ruby><ruby>親<rt>おや</rt></ruby>に<ruby>離れ<rt>はなれ</rt></ruby>るからちょっと<ruby>心配<rt>しんぱい</rt></ruby>する。"
+        "example": "いよいよ<ruby>大学<rt>だいがく</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<ruby>初<rt>はじ</rt></ruby>めて<ruby>親元<rt>おやもと</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れるので、<ruby>少<rt>すこ</rt></ruby>し<ruby>心配<rt>しんぱい</rt></ruby>です。"
       },
       {
         "form": "〜とうとう",
@@ -1993,7 +1993,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「とうとう」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to いよいよ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>とうとう</strong>の適切な用例。"
+        "example": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>ま</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>してきた<ruby>発表<rt>はっぴょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が、とうとうやってきた。"
       },
       {
         "form": "〜ついに",
@@ -2002,7 +2002,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ついに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ついに</strong>の用例。"
+        "example": "<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>挑戦<rt>ちょうせん</rt></ruby>して、ついに<ruby>難<rt>むずか</rt></ruby>しい<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した。"
       }
     ]
   },
@@ -2027,7 +2027,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 上)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 上",
-        "sentence": "<ruby>健康上<rt>けんこうじょう</rt></ruby>ではポテトフライや<ruby>揚げ物<rt>あげもの</rt></ruby>などは<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思い<rt>おもい</rt></ruby>ます。"
+        "sentence": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
       }
     ],
     "comparison": [
@@ -2038,7 +2038,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: for the sake of; from the standpoint of; as a.",
-        "example": "<ruby>健康上<rt>けんこうじょう</rt></ruby>ではポテトフライや<ruby>揚げ物<rt>あげもの</rt></ruby>などは<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思い<rt>おもい</rt></ruby>ます。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
       },
       {
         "form": "〜の観点から",
@@ -2047,7 +2047,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「の観点から」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 上, but differs in register or constraints.",
-        "example": "状況に応じた<strong>の観点から</strong>の適切な用例。"
+        "example": "<ruby>安全<rt>あんぜん</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から、この<ruby>設備<rt>せつび</rt></ruby>を<ruby>点検<rt>てんけん</rt></ruby>することにした。"
       },
       {
         "form": "〜の立場から",
@@ -2056,7 +2056,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「の立場から」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>の立場から</strong>の用例。"
+        "example": "<ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>から、より<ruby>使<rt>つか</rt></ruby>いやすいデザインを<ruby>考<rt>かんが</rt></ruby>えた。"
       }
     ]
   },
@@ -2101,7 +2101,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「まるで～のように」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to かのように, but differs in register or constraints.",
-        "example": "状況に応じた<strong>まるで～のように</strong>の適切な用例。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>はまるで<ruby>自分<rt>じぶん</rt></ruby>のことのように<ruby>喜<rt>よろこ</rt></ruby>んでくれた。"
       },
       {
         "form": "〜あたかも～のごとく",
@@ -2110,7 +2110,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「あたかも～のごとく」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>あたかも～のごとく</strong>の用例。"
+        "example": "その<ruby>選手<rt>せんしゅ</rt></ruby>はあたかも<ruby>風<rt>かぜ</rt></ruby>のごとく<ruby>駆け抜<rt>かけぬ</rt></ruby>けた。"
       }
     ]
   },
@@ -2155,7 +2155,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「かと思うと」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to かと思ったら, but differs in register or constraints.",
-        "example": "状況に応じた<strong>かと思うと</strong>の適切な用例。"
+        "example": "<ruby>子<rt>こ</rt></ruby>どもが<ruby>泣<rt>な</rt></ruby>き<ruby>出<rt>だ</rt></ruby>したかと<ruby>思<rt>おも</rt></ruby>うと、すぐに<ruby>笑<rt>わら</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めた。"
       },
       {
         "form": "〜かと思えば",
@@ -2164,7 +2164,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「かと思えば」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>かと思えば</strong>の用例。"
+        "example": "<ruby>春<rt>はる</rt></ruby>らしく<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>があるかと<ruby>思<rt>おも</rt></ruby>えば、<ruby>急<rt>きゅう</rt></ruby>に<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>もある。"
       }
     ]
   },
@@ -2209,7 +2209,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「～たとたんに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to か〜ないかのうちに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>～たとたんに</strong>の適切な用例。"
+        "example": "<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>たとたんに、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきた。"
       },
       {
         "form": "〜～や否や",
@@ -2218,7 +2218,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「～や否や」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>～や否や</strong>の用例。"
+        "example": "チャイムが<ruby>鳴<rt>な</rt></ruby>るや<ruby>否<rt>いな</rt></ruby>や、<ruby>生徒<rt>せいと</rt></ruby>たちは<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>飛び出<rt>とびだ</rt></ruby>した。"
       }
     ]
   },
@@ -2263,7 +2263,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「逆に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to かえって, but differs in register or constraints.",
-        "example": "状況に応じた<strong>逆に</strong>の適切な用例。"
+        "example": "<ruby>急<rt>いそ</rt></ruby>いでいたのに、<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>って<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れてしまった。"
       },
       {
         "form": "〜むしろ",
@@ -2272,7 +2272,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「むしろ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>むしろ</strong>の用例。"
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いというより、むしろ<ruby>涼<rt>すず</rt></ruby>しいくらいだ。"
       }
     ]
   },
@@ -2297,7 +2297,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 限り)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 限り",
-        "sentence": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時<rt>とき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。"
+        "sentence": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時<rt>じ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。"
       }
     ],
     "comparison": [
@@ -2308,7 +2308,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: as long as; while… is the case; as far as;.",
-        "example": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時<rt>とき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。"
+        "example": "<ruby>明日<rt>あした</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降ら<rt>ふら</rt></ruby>ない<ruby>限り<rt>かぎり</rt></ruby>、11<ruby>時<rt>じ</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>で<ruby>会い<rt>あい</rt></ruby>ましょう。"
       },
       {
         "form": "〜間は",
@@ -2317,7 +2317,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「間は」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 限り, but differs in register or constraints.",
-        "example": "状況に応じた<strong>間は</strong>の適切な用例。"
+        "example": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>ま</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>ラジオ<ruby>体操<rt>たいそう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。"
       },
       {
         "form": "〜うちは",
@@ -2326,7 +2326,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「うちは」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>うちは</strong>の用例。"
+        "example": "<ruby>若<rt>わか</rt></ruby>いうちは、いろいろな<ruby>経験<rt>けいけん</rt></ruby>をしておくといい。"
       }
     ]
   },
@@ -2371,7 +2371,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「甲斐あって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 甲斐がある, but differs in register or constraints.",
-        "example": "状況に応じた<strong>甲斐あって</strong>の適切な用例。"
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>した<ruby>甲斐<rt>かい</rt></ruby>あって、ピアノが<ruby>上手<rt>じょうず</rt></ruby>に<ruby>弾<rt>はじ</rt></ruby>けるようになった。"
       },
       {
         "form": "〜やりがい",
@@ -2380,7 +2380,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「やりがい」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>やりがい</strong>の用例。"
+        "example": "<ruby>人<rt>ひと</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>されると、この<ruby>仕事<rt>しごと</rt></ruby>にやりがいを<ruby>感<rt>かん</rt></ruby>じる。"
       }
     ]
   },
@@ -2405,7 +2405,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with かねない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for かねない",
-        "sentence": "その<ruby>問題<rt>もんだい</rt></ruby>が⻑<ruby>期<rt>き</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。"
+        "sentence": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>長期<rt>ちょうき</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。"
       }
     ],
     "comparison": [
@@ -2416,7 +2416,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: (someone) might do something; something.",
-        "example": "その<ruby>問題<rt>もんだい</rt></ruby>が⻑<ruby>期<rt>き</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。"
+        "example": "その<ruby>問題<rt>もんだい</rt></ruby>が<ruby>長期<rt>ちょうき</rt></ruby><ruby>化す<rt>かす</rt></ruby>れば、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>倒産<rt>とうさん</rt></ruby>しかねない。<ruby>早く<rt>はやく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>考え<rt>かんがえ</rt></ruby>ましょう。"
       },
       {
         "form": "〜おそれがある",
@@ -2425,7 +2425,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「おそれがある」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to かねない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>おそれがある</strong>の適切な用例。"
+        "example": "<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないと、<ruby>計画<rt>けいかく</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れるおそれがある。"
       },
       {
         "form": "〜危険がある",
@@ -2434,7 +2434,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「危険がある」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>危険がある</strong>の用例。"
+        "example": "<ruby>睡眠不足<rt>すいみんぶそく</rt></ruby>のまま<ruby>運転<rt>うんてん</rt></ruby>すると、<ruby>事故<rt>じこ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>危険<rt>きけん</rt></ruby>がある。"
       }
     ]
   },
@@ -2479,7 +2479,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「することができない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to かねる, but differs in register or constraints.",
-        "example": "状況に応じた<strong>することができない</strong>の適切な用例。"
+        "example": "<ruby>規定<rt>きてい</rt></ruby>により、この<ruby>書類<rt>しょるい</rt></ruby>は<ruby>本人<rt>ほんにん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にはお<ruby>渡<rt>わた</rt></ruby>しすることができません。"
       },
       {
         "form": "〜いたしかねます",
@@ -2488,7 +2488,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「いたしかねます」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>いたしかねます</strong>の用例。"
+        "example": "<ruby>申し訳<rt>もうしわけ</rt></ruby>ございませんが、そのご<ruby>要望<rt>ようぼう</rt></ruby>にはお<ruby>応<rt>こた</rt></ruby>えいたしかねます。"
       }
     ]
   },
@@ -2533,7 +2533,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「から見ると」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to から言うと, but differs in register or constraints.",
-        "example": "状況に応じた<strong>から見ると</strong>の適切な用例。"
+        "example": "<ruby>外観<rt>がいかん</rt></ruby>から<ruby>見<rt>み</rt></ruby>ると、この<ruby>建物<rt>たてもの</rt></ruby>はまだ<ruby>新<rt>あたら</rt></ruby>しそうだ。"
       },
       {
         "form": "〜からすれば",
@@ -2542,7 +2542,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「からすれば」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>からすれば</strong>の用例。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>のこれまでの<ruby>努力<rt>どりょく</rt></ruby>からすれば、<ruby>合格<rt>ごうかく</rt></ruby>は<ruby>当然<rt>とうぜん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>だ。"
       }
     ]
   },
@@ -2587,7 +2587,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だからこそ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to からこそ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だからこそ</strong>の適切な用例。"
+        "example": "<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>した。だからこそ、<ruby>次<rt>つぎ</rt></ruby>の<ruby>挑戦<rt>ちょうせん</rt></ruby>ではうまくいくのだ。"
       },
       {
         "form": "〜それだからこそ",
@@ -2596,7 +2596,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「それだからこそ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>それだからこそ</strong>の用例。"
+        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>誠実<rt>せいじつ</rt></ruby>だ。それだからこそ、みんなに<ruby>信頼<rt>しんらい</rt></ruby>されている。"
       }
     ]
   },
@@ -2621,7 +2621,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with から見ると)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for から見ると",
-        "sentence": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見ると<rt>みると</rt></ruby>、この<ruby>歴史的<rt>れきしてき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>は<ruby>一目<rt>ひとめ</rt></ruby>でわかるはずだ。"
+        "sentence": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見<rt>み</rt></ruby>ると、この<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いことは<ruby>一目<rt>ひとめ</rt></ruby>でわかるだろう。"
       }
     ],
     "comparison": [
@@ -2632,7 +2632,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: from the point of view.",
-        "example": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見ると<rt>みると</rt></ruby>、この<ruby>歴史的<rt>れきしてき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>は<ruby>一目<rt>ひとめ</rt></ruby>でわかるはずだ。"
+        "example": "<ruby>建築<rt>けんちく</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>である<ruby>高橋<rt>たかはし</rt></ruby>さんから<ruby>見<rt>み</rt></ruby>ると、この<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いことは<ruby>一目<rt>ひとめ</rt></ruby>でわかるだろう。"
       },
       {
         "form": "〜から言うと",
@@ -2641,7 +2641,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「から言うと」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to から見ると, but differs in register or constraints.",
-        "example": "状況に応じた<strong>から言うと</strong>の適切な用例。"
+        "example": "<ruby>予算<rt>よさん</rt></ruby>から<ruby>言<rt>い</rt></ruby>うと、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>するのがよさそうだ。"
       },
       {
         "form": "〜からすると",
@@ -2650,7 +2650,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「からすると」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>からすると</strong>の用例。"
+        "example": "<ruby>空<rt>そら</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>からすると、<ruby>午後<rt>ごご</rt></ruby>には<ruby>晴<rt>は</rt></ruby>れそうだ。"
       }
     ]
   },
@@ -2675,7 +2675,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with からには)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for からには",
-        "sentence": "<ruby>約束<rt>やくそく</rt></ruby>したからにはあの<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。"
+        "sentence": "<ruby>約束<rt>やくそく</rt></ruby>したからには、きちんと<ruby>守<rt>まも</rt></ruby>らなければならない。"
       }
     ],
     "comparison": [
@@ -2686,7 +2686,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: now that; since; so long as; because~.",
-        "example": "<ruby>約束<rt>やくそく</rt></ruby>したからにはあの<ruby>約束<rt>やくそく</rt></ruby>を<ruby>守ら<rt>まもら</rt></ruby>なければならない。"
+        "example": "<ruby>約束<rt>やくそく</rt></ruby>したからには、きちんと<ruby>守<rt>まも</rt></ruby>らなければならない。"
       },
       {
         "form": "〜以上は",
@@ -2695,7 +2695,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「以上は」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to からには, but differs in register or constraints.",
-        "example": "状況に応じた<strong>以上は</strong>の適切な用例。"
+        "example": "<ruby>参加<rt>さんか</rt></ruby>する<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しみたい。"
       },
       {
         "form": "〜上は",
@@ -2704,7 +2704,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「上は」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>上は</strong>の用例。"
+        "example": "こうなった<ruby>上<rt>うえ</rt></ruby>は、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>乗り越<rt>のりこ</rt></ruby>えるしかない。"
       }
     ]
   },
@@ -2749,7 +2749,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「から見ても」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to からして, but differs in register or constraints.",
-        "example": "状況に応じた<strong>から見ても</strong>の適切な用例。"
+        "example": "これまでの<ruby>実績<rt>じっせき</rt></ruby>から<ruby>見<rt>み</rt></ruby>ても、この<ruby>企画<rt>きかく</rt></ruby>は<ruby>成功<rt>せいこう</rt></ruby>する<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。"
       },
       {
         "form": "〜をはじめとして",
@@ -2758,7 +2758,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「をはじめとして」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>をはじめとして</strong>の用例。"
+        "example": "<ruby>東京<rt>とうきょう</rt></ruby>をはじめとして、<ruby>各地<rt>かくち</rt></ruby>で<ruby>桜<rt>さくら</rt></ruby>が<ruby>満開<rt>まんかい</rt></ruby>になった。"
       }
     ]
   },
@@ -2803,7 +2803,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「から見ると」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to からすると / からすれば, but differs in register or constraints.",
-        "example": "状況に応じた<strong>から見ると</strong>の適切な用例。"
+        "example": "データから<ruby>見<rt>み</rt></ruby>ると、<ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>年々<rt>ねんねん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えているようだ。"
       },
       {
         "form": "〜から言うと",
@@ -2812,7 +2812,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「から言うと」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>から言うと</strong>の用例。"
+        "example": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>言<rt>い</rt></ruby>うと、<ruby>予定<rt>よてい</rt></ruby>どおり<ruby>開催<rt>かいさい</rt></ruby>できそうだ。"
       }
     ]
   },
@@ -2857,7 +2857,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「からといって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to からと言って, but differs in register or constraints.",
-        "example": "状況に応じた<strong>からといって</strong>の適切な用例。"
+        "example": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>だからといって、<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>寝<rt>ね</rt></ruby>てばかりいるのはよくない。"
       },
       {
         "form": "〜だからといって",
@@ -2866,7 +2866,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「だからといって」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>だからといって</strong>の用例。"
+        "example": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>だ。だからといって、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>退屈<rt>たいくつ</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はない。"
       }
     ]
   },
@@ -2911,7 +2911,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「はずがない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to っこない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>はずがない</strong>の適切な用例。"
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>しているのだから、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けるはずがない。"
       },
       {
         "form": "〜わけがない",
@@ -2920,7 +2920,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「わけがない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>わけがない</strong>の用例。"
+        "example": "<ruby>鍵<rt>かぎ</rt></ruby>をかけておいたのだから、<ruby>誰<rt>だれ</rt></ruby>かが<ruby>入<rt>い</rt></ruby>れるわけがない。"
       }
     ]
   },
@@ -2965,7 +2965,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「べきだ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことだ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>べきだ</strong>の適切な用例。"
+        "example": "<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>がいたら、<ruby>進<rt>すす</rt></ruby>んで<ruby>助<rt>たす</rt></ruby>けるべきだ。"
       },
       {
         "form": "〜ほうがいい",
@@ -2974,7 +2974,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ほうがいい」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ほうがいい</strong>の用例。"
+        "example": "<ruby>疲<rt>つか</rt></ruby>れているなら、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>休<rt>やす</rt></ruby>んだほうがいいですよ。"
       }
     ]
   },
@@ -2999,7 +2999,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ことだから)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ことだから",
-        "sentence": "それは、<ruby>高橋<rt>たかはし</rt></ruby>さんにとって<ruby>重要な<rt>じゅうような</rt></ruby>ことだから<ruby>答え<rt>こたえ</rt></ruby>て。"
+        "sentence": "まじめな<ruby>高橋<rt>たかはし</rt></ruby>さんのことだから、きっと<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>どおりに<ruby>来<rt>く</rt></ruby>るはずだ。"
       }
     ],
     "comparison": [
@@ -3010,7 +3010,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: because; since~.",
-        "example": "それは、<ruby>高橋<rt>たかはし</rt></ruby>さんにとって<ruby>重要な<rt>じゅうような</rt></ruby>ことだから<ruby>答え<rt>こたえ</rt></ruby>て。"
+        "example": "まじめな<ruby>高橋<rt>たかはし</rt></ruby>さんのことだから、きっと<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>どおりに<ruby>来<rt>く</rt></ruby>るはずだ。"
       },
       {
         "form": "〜のことだから",
@@ -3019,7 +3019,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「のことだから」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことだから, but differs in register or constraints.",
-        "example": "状況に応じた<strong>のことだから</strong>の適切な用例。"
+        "example": "<ruby>優<rt>やさ</rt></ruby>しい<ruby>佐藤<rt>さとう</rt></ruby>さんのことだから、きっと<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてくれるよ。"
       },
       {
         "form": "〜だから",
@@ -3028,7 +3028,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「だから」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>だから</strong>の用例。"
+        "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>いから、<ruby>今夜<rt>こんや</rt></ruby>はもう<ruby>寝<rt>ね</rt></ruby>よう。"
       }
     ]
   },
@@ -3053,7 +3053,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ことか)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ことか",
-        "sentence": "<ruby>何度<rt>なんど</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>したことか？"
+        "sentence": "この<ruby>日<rt>ひ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るのを、どんなに<ruby>楽<rt>たの</rt></ruby>しみにしていたことか。"
       }
     ],
     "comparison": [
@@ -3064,7 +3064,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: how…!; what…!.",
-        "example": "<ruby>何度<rt>なんど</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>したことか？"
+        "example": "この<ruby>日<rt>ひ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るのを、どんなに<ruby>楽<rt>たの</rt></ruby>しみにしていたことか。"
       },
       {
         "form": "〜なんと～ことか",
@@ -3073,7 +3073,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「なんと～ことか」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことか, but differs in register or constraints.",
-        "example": "状況に応じた<strong>なんと～ことか</strong>の適切な用例。"
+        "example": "この<ruby>景色<rt>けしき</rt></ruby>はなんと<ruby>美<rt>うつく</rt></ruby>しいことか。"
       },
       {
         "form": "〜どんなに～ことか",
@@ -3082,7 +3082,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どんなに～ことか」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どんなに～ことか</strong>の用例。"
+        "example": "<ruby>合格<rt>ごうかく</rt></ruby>を<ruby>知<rt>し</rt></ruby>ったとき、<ruby>両親<rt>りょうしん</rt></ruby>はどんなに<ruby>喜<rt>よろこ</rt></ruby>んだことか。"
       }
     ]
   },
@@ -3127,7 +3127,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「しないで」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことなく, but differs in register or constraints.",
-        "example": "状況に応じた<strong>しないで</strong>の適切な用例。"
+        "example": "メモを<ruby>見<rt>み</rt></ruby>ないで、<ruby>長<rt>なが</rt></ruby>いスピーチを<ruby>最後<rt>さいご</rt></ruby>まで<ruby>話<rt>はな</rt></ruby>しきった。"
       },
       {
         "form": "〜せずに",
@@ -3136,7 +3136,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「せずに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>せずに</strong>の用例。"
+        "example": "<ruby>朝食<rt>ちょうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べずに<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>たので、おなかがすいた。"
       }
     ]
   },
@@ -3181,7 +3181,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ことに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ことに</strong>の適切な用例。"
+        "example": "ありがたいことに、<ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってくれた。"
       },
       {
         "form": "〜驚いたことに",
@@ -3190,7 +3190,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「驚いたことに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>驚いたことに</strong>の用例。"
+        "example": "<ruby>驚<rt>おどろ</rt></ruby>いたことに、<ruby>彼<rt>かれ</rt></ruby>は10か<ruby>国<rt>こく</rt></ruby><ruby>語<rt>ご</rt></ruby>も<ruby>話<rt>はな</rt></ruby>せるそうだ。"
       }
     ]
   },
@@ -3215,7 +3215,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ことにはならない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ことにはならない",
-        "sentence": "でも、どうやらそんなことにはならないようです。"
+        "sentence": "<ruby>一度<rt>いちど</rt></ruby>テストで<ruby>良<rt>よ</rt></ruby>い<ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ったからといって、すべてを<ruby>理解<rt>りかい</rt></ruby>したことにはならない。"
       }
     ],
     "comparison": [
@@ -3226,7 +3226,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: just because… doesn’t.",
-        "example": "でも、どうやらそんなことにはならないようです。"
+        "example": "<ruby>一度<rt>いちど</rt></ruby>テストで<ruby>良<rt>よ</rt></ruby>い<ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ったからといって、すべてを<ruby>理解<rt>りかい</rt></ruby>したことにはならない。"
       },
       {
         "form": "〜わけではない",
@@ -3235,7 +3235,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「わけではない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ことにはならない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>わけではない</strong>の適切な用例。"
+        "example": "<ruby>甘<rt>あま</rt></ruby>いものが<ruby>嫌<rt>きら</rt></ruby>いなわけではないが、<ruby>今<rt>いま</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>控<rt>ひか</rt></ruby>えたい。"
       },
       {
         "form": "〜とは言えない",
@@ -3244,7 +3244,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「とは言えない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>とは言えない</strong>の用例。"
+        "example": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いからといって、<ruby>必<rt>かなら</rt></ruby>ずしも<ruby>質<rt>しつ</rt></ruby>がいいとは<ruby>言<rt>い</rt></ruby>えない。"
       }
     ]
   },
@@ -3289,7 +3289,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「くせに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to くせして, but differs in register or constraints.",
-        "example": "状況に応じた<strong>くせに</strong>の適切な用例。"
+        "example": "<ruby>知<rt>し</rt></ruby>っているくせに、<ruby>知<rt>し</rt></ruby>らないふりをしている。"
       },
       {
         "form": "〜なのに",
@@ -3298,7 +3298,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「なのに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>なのに</strong>の用例。"
+        "example": "<ruby>約束<rt>やくそく</rt></ruby>したのに、<ruby>連絡<rt>れんらく</rt></ruby>もなく<ruby>遅<rt>おく</rt></ruby>れてきた。"
       }
     ]
   },
@@ -3343,7 +3343,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ならまだいい」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to まだしも, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ならまだいい</strong>の適切な用例。"
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>つくらいならまだいいが、2<ruby>時間<rt>じかん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちは<ruby>大変<rt>たいへん</rt></ruby>だ。"
       },
       {
         "form": "〜のほうがましだ",
@@ -3352,7 +3352,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のほうがましだ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のほうがましだ</strong>の用例。"
+        "example": "<ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るくらいなら、<ruby>歩<rt>ある</rt></ruby>いて<ruby>帰<rt>かえ</rt></ruby>るほうがましだ。"
       }
     ]
   },
@@ -3397,7 +3397,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ないだろう」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to まい, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ないだろう</strong>の適切な用例。"
+        "example": "これほど<ruby>難<rt>むずか</rt></ruby>しければ、すぐには<ruby>解<rt>と</rt></ruby>けないだろう。"
       },
       {
         "form": "〜つもりはない",
@@ -3406,7 +3406,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「つもりはない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>つもりはない</strong>の用例。"
+        "example": "<ruby>今<rt>いま</rt></ruby>はまだ<ruby>引っ越<rt>ひっこ</rt></ruby>すつもりはない。"
       }
     ]
   },
@@ -3431,7 +3431,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ままに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ままに",
-        "sentence": "<ruby>今<rt>いま</rt></ruby>のままにしておこう。"
+        "sentence": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ないで、<ruby>気<rt>き</rt></ruby>の<ruby>向<rt>む</rt></ruby>くままにのんびり<ruby>過<rt>す</rt></ruby>ごしたい。"
       }
     ],
     "comparison": [
@@ -3442,7 +3442,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: as, to do as~.",
-        "example": "<ruby>今<rt>いま</rt></ruby>のままにしておこう。"
+        "example": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ないで、<ruby>気<rt>き</rt></ruby>の<ruby>向<rt>む</rt></ruby>くままにのんびり<ruby>過<rt>す</rt></ruby>ごしたい。"
       },
       {
         "form": "〜通りに",
@@ -3451,7 +3451,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「通りに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ままに, but differs in register or constraints.",
-        "example": "状況に応じた<strong>通りに</strong>の適切な用例。"
+        "example": "<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>通<rt>とお</rt></ruby>りに<ruby>組み立<rt>くみた</rt></ruby>てたら、きれいに<ruby>完成<rt>かんせい</rt></ruby>した。"
       },
       {
         "form": "〜がままに",
@@ -3460,7 +3460,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「がままに」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>がままに</strong>の用例。"
+        "example": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>思<rt>おも</rt></ruby>うがままに、<ruby>好<rt>す</rt></ruby>きな<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>過<rt>す</rt></ruby>ごしたい。"
       }
     ]
   },
@@ -3505,7 +3505,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ちっとも～ない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 全く〜ない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ちっとも～ない</strong>の適切な用例。"
+        "example": "<ruby>何時<rt>なんじ</rt></ruby><ruby>間<rt>ま</rt></ruby><ruby>待<rt>ま</rt></ruby>っても、バスがちっとも<ruby>来<rt>こ</rt></ruby>ない。"
       },
       {
         "form": "〜少しも～ない",
@@ -3514,7 +3514,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「少しも～ない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>少しも～ない</strong>の用例。"
+        "example": "<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>しても、<ruby>少<rt>すこ</rt></ruby>しも<ruby>納得<rt>なっとく</rt></ruby>してくれない。"
       }
     ]
   },
@@ -3559,7 +3559,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「も気にせず」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to もかまわず, but differs in register or constraints.",
-        "example": "状況に応じた<strong>も気にせず</strong>の適切な用例。"
+        "example": "<ruby>周<rt>まわ</rt></ruby>りの<ruby>目<rt>め</rt></ruby>も<ruby>気<rt>き</rt></ruby>にせず、<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>歌<rt>うた</rt></ruby>っている。"
       },
       {
         "form": "〜をものともせず",
@@ -3568,7 +3568,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「をものともせず」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>をものともせず</strong>の用例。"
+        "example": "その<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>強<rt>つよ</rt></ruby>い<ruby>向かい風<rt>むかいかぜ</rt></ruby>をものともせず、<ruby>見事<rt>みごと</rt></ruby>にゴールした。"
       }
     ]
   },
@@ -3613,7 +3613,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「当たり前だ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to も当然だ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>当たり前だ</strong>の適切な用例。"
+        "example": "ルールを<ruby>守<rt>まも</rt></ruby>るのは、<ruby>社会<rt>しゃかい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>において<ruby>当たり前<rt>あたりまえ</rt></ruby>だ。"
       },
       {
         "form": "〜のももっともだ",
@@ -3622,7 +3622,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のももっともだ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のももっともだ</strong>の用例。"
+        "example": "これだけ<ruby>努力<rt>どりょく</rt></ruby>したのだから、<ruby>結果<rt>けっか</rt></ruby>に<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つのももっともだ。"
       }
     ]
   },
@@ -3647,7 +3647,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with もの / もん)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for もの / もん",
-        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきたんです。<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。"
+        "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>ってきたの。ちょっと<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。"
       }
     ],
     "comparison": [
@@ -3658,7 +3658,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: because; indicates reason/ excuse/.",
-        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきたんです。<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。"
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>ってきたの。ちょっと<ruby>体調<rt>たいちょう</rt></ruby>がよくないんだもの。"
       },
       {
         "form": "〜からだ",
@@ -3667,7 +3667,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「からだ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to もの / もん, but differs in register or constraints.",
-        "example": "状況に応じた<strong>からだ</strong>の適切な用例。"
+        "example": "この<ruby>店<rt>みせ</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>なのは、<ruby>材料<rt>ざいりょう</rt></ruby>にこだわっているからだ。"
       },
       {
         "form": "〜のだもの",
@@ -3676,7 +3676,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のだもの」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のだもの</strong>の用例。"
+        "example": "このケーキを<ruby>食<rt>た</rt></ruby>べたいな。だって<ruby>今日<rt>きょう</rt></ruby>が<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>なのだもの。"
       }
     ]
   },
@@ -3721,7 +3721,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「普通は～だ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものだ, but differs in register or constraints.",
-        "example": "状況に応じた<strong>普通は～だ</strong>の適切な用例。"
+        "example": "<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>は、<ruby>普通<rt>ふつう</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby><ruby>連<rt>づ</rt></ruby>れでにぎやかだ。"
       },
       {
         "form": "〜べきだ",
@@ -3730,7 +3730,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「べきだ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>べきだ</strong>の用例。"
+        "example": "<ruby>借<rt>か</rt></ruby>りた<ruby>本<rt>ほん</rt></ruby>は<ruby>期限<rt>きげん</rt></ruby>までにきちんと<ruby>返<rt>かえ</rt></ruby>すべきだ。"
       }
     ]
   },
@@ -3775,7 +3775,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「もので」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものだから, but differs in register or constraints.",
-        "example": "状況に応じた<strong>もので</strong>の適切な用例。"
+        "example": "<ruby>急<rt>いそ</rt></ruby>いでいたもので、<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまいました。"
       },
       {
         "form": "〜ものですから",
@@ -3784,7 +3784,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ものですから」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ものですから</strong>の用例。"
+        "example": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたものですから、<ruby>少<rt>すこ</rt></ruby>し<ruby>遅刻<rt>ちこく</rt></ruby>してしまいました。"
       }
     ]
   },
@@ -3829,7 +3829,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「べきではない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものではない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>べきではない</strong>の適切な用例。"
+        "example": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れるべきではない。"
       },
       {
         "form": "〜してはいけない",
@@ -3838,7 +3838,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「してはいけない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>してはいけない</strong>の用例。"
+        "example": "<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>してはいけない。"
       }
     ]
   },
@@ -3883,7 +3883,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「と感じる」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものがある, but differs in register or constraints.",
-        "example": "状況に応じた<strong>と感じる</strong>の適切な用例。"
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くと、どこか<ruby>懐<rt>なつ</rt></ruby>かしいと<ruby>感<rt>かん</rt></ruby>じることがある。"
       },
       {
         "form": "〜どこか～だ",
@@ -3892,7 +3892,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どこか～だ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どこか～だ</strong>の用例。"
+        "example": "その<ruby>絵<rt>え</rt></ruby>はシンプルだが、どこか<ruby>魅力<rt>みりょく</rt></ruby><ruby>的<rt>てき</rt></ruby>だ。"
       }
     ]
   },
@@ -3937,7 +3937,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「絶対に～ない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものか / もんか, but differs in register or constraints.",
-        "example": "状況に応じた<strong>絶対に～ない</strong>の適切な用例。"
+        "example": "こんなに<ruby>楽<rt>たの</rt></ruby>しい<ruby>旅行<rt>りょこう</rt></ruby>のことは、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れない。"
       },
       {
         "form": "〜ものか",
@@ -3946,7 +3946,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ものか」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ものか</strong>の用例。"
+        "example": "これほど<ruby>苦労<rt>くろう</rt></ruby>して<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れた<ruby>機会<rt>きかい</rt></ruby>を、<ruby>手放<rt>てばな</rt></ruby>すものか。"
       }
     ]
   },
@@ -3991,7 +3991,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「できるなら」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものなら, but differs in register or constraints.",
-        "example": "状況に応じた<strong>できるなら</strong>の適切な用例。"
+        "example": "もしできるなら、もう<ruby>一度<rt>いちど</rt></ruby>あの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>演奏<rt>えんそう</rt></ruby>してみたい。"
       },
       {
         "form": "〜もし可能なら",
@@ -4000,7 +4000,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「もし可能なら」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>もし可能なら</strong>の用例。"
+        "example": "もし<ruby>可能<rt>かのう</rt></ruby>なら、<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>めたいです。"
       }
     ]
   },
@@ -4025,7 +4025,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ものの)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ものの",
-        "sentence": "<ruby>秋<rt>あき</rt></ruby>であるものの、まだ<ruby>暑い<rt>あつい</rt></ruby>。"
+        "sentence": "<ruby>秋<rt>あき</rt></ruby>になったものの、まだ<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。"
       }
     ],
     "comparison": [
@@ -4036,7 +4036,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: but; although; even though~.",
-        "example": "<ruby>秋<rt>あき</rt></ruby>であるものの、まだ<ruby>暑い<rt>あつい</rt></ruby>。"
+        "example": "<ruby>秋<rt>あき</rt></ruby>になったものの、まだ<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。"
       },
       {
         "form": "〜けれども",
@@ -4045,7 +4045,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「けれども」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ものの, but differs in register or constraints.",
-        "example": "状況に応じた<strong>けれども</strong>の適切な用例。"
+        "example": "この<ruby>靴<rt>くつ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>いけれども、とても<ruby>履<rt>は</rt></ruby>きやすい。"
       },
       {
         "form": "〜だが",
@@ -4054,7 +4054,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「だが」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>だが</strong>の用例。"
+        "example": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>だった。だが、<ruby>実際<rt>じっさい</rt></ruby>はよく<ruby>晴<rt>は</rt></ruby>れた。"
       }
     ]
   },
@@ -4099,7 +4099,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ただし」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to もっとも, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ただし</strong>の適切な用例。"
+        "example": "どなたでも<ruby>参加<rt>さんか</rt></ruby>できます。ただし、<ruby>事前<rt>じぜん</rt></ruby>の<ruby>申し込<rt>もうしこ</rt></ruby>みが<ruby>必要<rt>ひつよう</rt></ruby>です。"
       },
       {
         "form": "〜とはいえ",
@@ -4108,7 +4108,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「とはいえ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>とはいえ</strong>の用例。"
+        "example": "<ruby>春<rt>はる</rt></ruby>になったとはいえ、<ruby>朝晩<rt>あさばん</rt></ruby>はまだ<ruby>冷え込<rt>ひえこ</rt></ruby>みます。"
       }
     ]
   },
@@ -4133,7 +4133,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with もう少しで)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for もう少しで",
-        "sentence": "もう<ruby>少し<rt>すこし</rt></ruby>であの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。"
+        "sentence": "もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗り遅<rt>のりおく</rt></ruby>れるところでした。"
       }
     ],
     "comparison": [
@@ -4144,7 +4144,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: almost; nearly,.",
-        "example": "もう<ruby>少し<rt>すこし</rt></ruby>であの<ruby>川<rt>かわ</rt></ruby>でおぼれるところでした.もうすこしであのかわでおぼれるところでした.。"
+        "example": "もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗り遅<rt>のりおく</rt></ruby>れるところでした。"
       },
       {
         "form": "〜ところだった",
@@ -4153,7 +4153,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ところだった」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to もう少しで, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ところだった</strong>の適切な用例。"
+        "example": "あと<ruby>一歩<rt>いっぽ</rt></ruby><ruby>遅<rt>おく</rt></ruby>れていたら、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗り遅<rt>のりおく</rt></ruby>れるところだった。"
       },
       {
         "form": "〜危うく～しそうだった",
@@ -4162,7 +4162,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「危うく～しそうだった」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>危うく～しそうだった</strong>の用例。"
+        "example": "<ruby>道<rt>みち</rt></ruby>がすべりやすくて、<ruby>危<rt>あや</rt></ruby>うく<ruby>転<rt>ころ</rt></ruby>びそうだった。"
       }
     ]
   },
@@ -4187,7 +4187,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ないではいられない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ないではいられない",
-        "sentence": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>だから、<ruby>勉強<rt>べんきょう</rt></ruby>しないではいられない。"
+        "sentence": "その<ruby>冗談<rt>じょうだん</rt></ruby>があまりにも<ruby>面白<rt>おもしろ</rt></ruby>くて、<ruby>笑<rt>わら</rt></ruby>わないではいられなかった。"
       }
     ],
     "comparison": [
@@ -4198,7 +4198,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: can’t help but feel; can’t.",
-        "example": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>だから、<ruby>勉強<rt>べんきょう</rt></ruby>しないではいられない。"
+        "example": "その<ruby>冗談<rt>じょうだん</rt></ruby>があまりにも<ruby>面白<rt>おもしろ</rt></ruby>くて、<ruby>笑<rt>わら</rt></ruby>わないではいられなかった。"
       },
       {
         "form": "〜ずにはいられない",
@@ -4207,7 +4207,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ずにはいられない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ないではいられない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ずにはいられない</strong>の適切な用例。"
+        "example": "その<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>らずにはいられない。"
       },
       {
         "form": "〜どうしても～してしまう",
@@ -4216,7 +4216,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「どうしても～してしまう」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>どうしても～してしまう</strong>の用例。"
+        "example": "<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、どうしても<ruby>食<rt>た</rt></ruby>べてしまう。"
       }
     ]
   },
@@ -4261,7 +4261,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「なければ～ない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ないことには〜ない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>なければ～ない</strong>の適切な用例。"
+        "example": "<ruby>自分<rt>じぶん</rt></ruby>でやってみなければ、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>面白<rt>おもしろ</rt></ruby>さはわからない。"
       },
       {
         "form": "〜ないうちは",
@@ -4270,7 +4270,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ないうちは」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ないうちは</strong>の用例。"
+        "example": "<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>わないうちは、<ruby>次<rt>つぎ</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>めない。"
       }
     ]
   },
@@ -4295,7 +4295,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 中を /中では)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 中を /中では",
-        "sentence": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をうろうろしていた。"
+        "sentence": "お<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>ちゅう</rt></ruby>をわざわざお<ruby>越<rt>こ</rt></ruby>しいただき、ありがとうございます。"
       }
     ],
     "comparison": [
@@ -4306,7 +4306,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: in; on; in.",
-        "example": "<ruby>高橋<rt>たかはし</rt></ruby>さんはお<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をうろうろしていた。"
+        "example": "お<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>ちゅう</rt></ruby>をわざわざお<ruby>越<rt>こ</rt></ruby>しいただき、ありがとうございます。"
       },
       {
         "form": "〜の最中に",
@@ -4315,7 +4315,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「の最中に」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 中を /中では, but differs in register or constraints.",
-        "example": "状況に応じた<strong>の最中に</strong>の適切な用例。"
+        "example": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>友人<rt>ゆうじん</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。"
       },
       {
         "form": "〜のなかで",
@@ -4324,7 +4324,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のなかで」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のなかで</strong>の用例。"
+        "example": "<ruby>厳<rt>きび</rt></ruby>しい<ruby>練習<rt>れんしゅう</rt></ruby>のなかで、チームワークが<ruby>育<rt>そだ</rt></ruby>っていった。"
       }
     ]
   },
@@ -4369,7 +4369,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ないこともない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to なくはない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ないこともない</strong>の適切な用例。"
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>時間<rt>じかん</rt></ruby>はかかるが、<ruby>私<rt>わたし</rt></ruby>にも<ruby>作<rt>つく</rt></ruby>れないことはない。"
       },
       {
         "form": "〜なくもない",
@@ -4378,7 +4378,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「なくもない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>なくもない</strong>の用例。"
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>高価<rt>こうか</rt></ruby>だが、<ruby>買<rt>か</rt></ruby>おうと<ruby>思<rt>おも</rt></ruby>えば<ruby>買<rt>か</rt></ruby>えなくもない。"
       }
     ]
   },
@@ -4423,7 +4423,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「ずに済む」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to なくて済む, but differs in register or constraints.",
-        "example": "状況に応じた<strong>ずに済む</strong>の適切な用例。"
+        "example": "<ruby>事前<rt>じぜん</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>しておいたので、<ruby>長<rt>なが</rt></ruby>い<ruby>列<rt>れつ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>ばずに<ruby>済<rt>す</rt></ruby>んだ。"
       },
       {
         "form": "〜ないですむ",
@@ -4432,7 +4432,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ないですむ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ないですむ</strong>の用例。"
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>がノートを<ruby>見<rt>み</rt></ruby>せてくれたので、テスト<ruby>勉強<rt>べんきょう</rt></ruby>で<ruby>困<rt>こま</rt></ruby>らないですんだ。"
       }
     ]
   },
@@ -4457,7 +4457,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 何も〜ない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 何も〜ない",
-        "sentence": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>はなにもいらない。"
+        "sentence": "<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れただけなんだから、<ruby>何<rt>なに</rt></ruby>もそんなに<ruby>謝<rt>あやま</rt></ruby>らなくてもいいですよ。"
       }
     ],
     "comparison": [
@@ -4468,7 +4468,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: nothing; (not) ~ at all;.",
-        "example": "<ruby>高橋<rt>たかはし</rt></ruby>さん<ruby>達<rt>とおる</rt></ruby>はなにもいらない。"
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れただけなんだから、<ruby>何<rt>なに</rt></ruby>もそんなに<ruby>謝<rt>あやま</rt></ruby>らなくてもいいですよ。"
       },
       {
         "form": "〜何も～ない",
@@ -4477,7 +4477,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「何も～ない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to 何も〜ない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>何も～ない</strong>の適切な用例。"
+        "example": "ほんの<ruby>少<rt>すこ</rt></ruby>し<ruby>間違<rt>まちが</rt></ruby>えただけだから、<ruby>何<rt>なに</rt></ruby>もそんなに<ruby>落ち込<rt>おちこ</rt></ruby>むことはないよ。"
       },
       {
         "form": "〜全く～ない",
@@ -4486,7 +4486,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「全く～ない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>全く～ない</strong>の用例。"
+        "example": "この<ruby>文章<rt>ぶんしょう</rt></ruby>はわかりやすくて、<ruby>全<rt>まった</rt></ruby>く<ruby>難<rt>むずか</rt></ruby>しいところがない。"
       }
     ]
   },
@@ -4531,7 +4531,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「さらに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to なお, but differs in register or constraints.",
-        "example": "状況に応じた<strong>さらに</strong>の適切な用例。"
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>機能<rt>きのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>して、さらに<ruby>使<rt>つか</rt></ruby>いやすいアプリになった。"
       },
       {
         "form": "〜また",
@@ -4540,7 +4540,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「また」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>また</strong>の用例。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>が<ruby>堪能<rt>たんのう</rt></ruby>で、またフランス<ruby>語<rt>ご</rt></ruby>も<ruby>話<rt>はな</rt></ruby>せる。"
       }
     ]
   },
@@ -4565,7 +4565,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ねばならない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ねばならない",
-        "sentence": "⻭<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かねばならない。"
+        "sentence": "<ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かねばならない。"
       }
     ],
     "comparison": [
@@ -4576,7 +4576,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: have to do; must; should~.",
-        "example": "⻭<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かねばならない。"
+        "example": "<ruby>歯医者<rt>はいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かねばならない。"
       },
       {
         "form": "〜なければならない",
@@ -4585,7 +4585,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「なければならない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to ねばならない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>なければならない</strong>の適切な用例。"
+        "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>早<rt>はや</rt></ruby>いので、もう<ruby>寝<rt>ね</rt></ruby>なければならない。"
       },
       {
         "form": "〜ねばならぬ",
@@ -4594,7 +4594,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「ねばならぬ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>ねばならぬ</strong>の用例。"
+        "example": "<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するためには、<ruby>地道<rt>じみち</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けねばならぬ。"
       }
     ]
   },
@@ -4639,7 +4639,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に際して」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to にあたって, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に際して</strong>の適切な用例。"
+        "example": "<ruby>海外<rt>かいがい</rt></ruby>へ<ruby>出発<rt>しゅっぱつ</rt></ruby>するに<ruby>際<rt>さい</rt></ruby>して、パスポートの<ruby>有効<rt>ゆうこう</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。"
       },
       {
         "form": "〜にあたり",
@@ -4648,7 +4648,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「にあたり」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>にあたり</strong>の用例。"
+        "example": "<ruby>開会<rt>かいかい</rt></ruby>にあたり、<ruby>代表<rt>だいひょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>よりご<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。"
       }
     ]
   },
@@ -4693,7 +4693,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「にすぎない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to にほかならない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>にすぎない</strong>の適切な用例。"
+        "example": "これはまだ<ruby>仮<rt>かり</rt></ruby>の<ruby>案<rt>あん</rt></ruby>にすぎない。"
       },
       {
         "form": "〜まさに～だ",
@@ -4702,7 +4702,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「まさに～だ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>まさに～だ</strong>の用例。"
+        "example": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>勝利<rt>しょうり</rt></ruby>は、まさにチーム<ruby>全員<rt>ぜんいん</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結晶<rt>けっしょう</rt></ruby>だ。"
       }
     ]
   },
@@ -4747,7 +4747,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけでなく」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に限らず, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけでなく</strong>の適切な用例。"
+        "example": "この<ruby>公園<rt>こうえん</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもだけでなく、<ruby>大人<rt>おとな</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しめる。"
       },
       {
         "form": "〜のみならず",
@@ -4756,7 +4756,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「のみならず」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>のみならず</strong>の用例。"
+        "example": "この<ruby>映画<rt>えいが</rt></ruby>は<ruby>国内<rt>こくない</rt></ruby>のみならず、<ruby>海外<rt>かいがい</rt></ruby>でも<ruby>高<rt>たか</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>受<rt>う</rt></ruby>けている。"
       }
     ]
   },
@@ -4801,7 +4801,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「が一番だ」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に限る, but differs in register or constraints.",
-        "example": "状況に応じた<strong>が一番だ</strong>の適切な用例。"
+        "example": "<ruby>疲<rt>つか</rt></ruby>れたときは、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのが<ruby>一番<rt>いちばん</rt></ruby>だ。"
       },
       {
         "form": "〜に如くはない",
@@ -4810,7 +4810,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に如くはない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に如くはない</strong>の用例。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つには、<ruby>規則正<rt>きそくただ</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>るに<ruby>如<rt>ごと</rt></ruby>くはない。"
       }
     ]
   },
@@ -4855,7 +4855,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に限って」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に限って, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に限って</strong>の適切な用例。"
+        "example": "まじめなあの<ruby>人<rt>ひと</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>って、<ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れるはずがない。"
       },
       {
         "form": "〜の時に限って",
@@ -4864,7 +4864,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「の時に限って」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>の時に限って</strong>の用例。"
+        "example": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていない<ruby>時<rt>とき</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>って、<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り出<rt>ふりだ</rt></ruby>す。"
       }
     ]
   },
@@ -4909,7 +4909,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「にもかかわらず」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に関わらず, but differs in register or constraints.",
-        "example": "状況に応じた<strong>にもかかわらず</strong>の適切な用例。"
+        "example": "<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているにもかかわらず、<ruby>多<rt>おお</rt></ruby>くの<ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まった。"
       },
       {
         "form": "〜にかかわらず",
@@ -4918,7 +4918,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「にかかわらず」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>にかかわらず</strong>の用例。"
+        "example": "<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>経験<rt>けいけん</rt></ruby>にかかわらず、<ruby>誰<rt>だれ</rt></ruby>でも<ruby>応募<rt>おうぼ</rt></ruby>できます。"
       }
     ]
   },
@@ -4963,7 +4963,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に関係する」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に関わる, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に関係する</strong>の適切な用例。"
+        "example": "<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>仕事<rt>しごと</rt></ruby>がしたい。"
       },
       {
         "form": "〜に影響する",
@@ -4972,7 +4972,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に影響する」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に影響する</strong>の用例。"
+        "example": "<ruby>睡眠<rt>すいみん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は<ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>影響<rt>えいきょう</rt></ruby>する。"
       }
     ]
   },
@@ -5017,7 +5017,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に違いない」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に決まっている, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に違いない</strong>の適切な用例。"
+        "example": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby>がついているから、<ruby>田中<rt>たなか</rt></ruby>さんはもう<ruby>帰<rt>かえ</rt></ruby>っているに<ruby>違<rt>ちが</rt></ruby>いない。"
       },
       {
         "form": "〜はずだ",
@@ -5026,7 +5026,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「はずだ」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>はずだ</strong>の用例。"
+        "example": "さっき<ruby>家<rt>か</rt></ruby>を<ruby>出<rt>で</rt></ruby>たばかりだから、まだ<ruby>近<rt>ちか</rt></ruby>くにいるはずだ。"
       }
     ]
   },
@@ -5051,7 +5051,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に越したことはない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for に越したことはない",
-        "sentence": "<ruby>万一<rt>まんいち</rt></ruby>の<ruby>事態<rt>じたい</rt></ruby>に<ruby>備え<rt>そなえ</rt></ruby>て、<ruby>防災<rt>ぼうさい</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>は<ruby>早め<rt>はやめ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>しておく、それに<ruby>越し<rt>こし</rt></ruby>たことはない。"
+        "sentence": "<ruby>万一<rt>まんいち</rt></ruby>の<ruby>事態<rt>じたい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>防災<rt>ぼうさい</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>準備<rt>じゅんび</rt></ruby>しておくに<ruby>越<rt>こ</rt></ruby>したことはない。"
       }
     ],
     "comparison": [
@@ -5062,7 +5062,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: .",
-        "example": "<ruby>万一<rt>まんいち</rt></ruby>の<ruby>事態<rt>じたい</rt></ruby>に<ruby>備え<rt>そなえ</rt></ruby>て、<ruby>防災<rt>ぼうさい</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>は<ruby>早め<rt>はやめ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>しておく、それに<ruby>越し<rt>こし</rt></ruby>たことはない。"
+        "example": "<ruby>万一<rt>まんいち</rt></ruby>の<ruby>事態<rt>じたい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>防災<rt>ぼうさい</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>準備<rt>じゅんび</rt></ruby>しておくに<ruby>越<rt>こ</rt></ruby>したことはない。"
       },
       {
         "form": "〜のが一番いい",
@@ -5071,7 +5071,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「のが一番いい」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に越したことはない, but differs in register or constraints.",
-        "example": "状況に応じた<strong>のが一番いい</strong>の適切な用例。"
+        "example": "<ruby>風邪<rt>かぜ</rt></ruby>をひいたときは、<ruby>暖<rt>あたた</rt></ruby>かくしてゆっくり<ruby>休<rt>やす</rt></ruby>むのが<ruby>一番<rt>いちばん</rt></ruby>いい。"
       },
       {
         "form": "〜に越したことはない",
@@ -5080,7 +5080,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に越したことはない」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に越したことはない</strong>の用例。"
+        "example": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>軽<rt>かる</rt></ruby>いに<ruby>越<rt>こ</rt></ruby>したことはない。"
       }
     ]
   },
@@ -5125,7 +5125,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に応えて」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に応えて, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に応えて</strong>の適切な用例。"
+        "example": "ファンの<ruby>期待<rt>きたい</rt></ruby>に<ruby>応<rt>こた</rt></ruby>えて、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>演奏<rt>えんそう</rt></ruby>を<ruby>披露<rt>ひろう</rt></ruby>した。"
       },
       {
         "form": "〜に報いて",
@@ -5134,7 +5134,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に報いて」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に報いて</strong>の用例。"
+        "example": "コーチの<ruby>熱心<rt>ねっしん</rt></ruby>な<ruby>指導<rt>しどう</rt></ruby>に<ruby>報<rt>むく</rt></ruby>いて、<ruby>選手<rt>せんしゅ</rt></ruby>たちは<ruby>金<rt>きん</rt></ruby>メダルを<ruby>獲得<rt>かくとく</rt></ruby>した。"
       }
     ]
   },
@@ -5179,7 +5179,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「だけでなく」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に加えて, but differs in register or constraints.",
-        "example": "状況に応じた<strong>だけでなく</strong>の適切な用例。"
+        "example": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>広<rt>ひろ</rt></ruby>いだけでなく、<ruby>日当<rt>ひあ</rt></ruby>たりもとても<ruby>良<rt>よ</rt></ruby>い。"
       },
       {
         "form": "〜その上",
@@ -5188,7 +5188,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「その上」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>その上</strong>の用例。"
+        "example": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くておいしい。その<ruby>上<rt>うえ</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>からも<ruby>近<rt>ちか</rt></ruby>い。"
       }
     ]
   },
@@ -5233,7 +5233,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「をもとに」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に基づいて, but differs in register or constraints.",
-        "example": "状況に応じた<strong>をもとに</strong>の適切な用例。"
+        "example": "アンケート<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>をもとに、<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>開発<rt>かいはつ</rt></ruby>した。"
       },
       {
         "form": "〜に基づいて",
@@ -5242,7 +5242,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に基づいて」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に基づいて</strong>の用例。"
+        "example": "<ruby>実際<rt>じっさい</rt></ruby>の<ruby>体験<rt>たいけん</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて、このエッセイを<ruby>書<rt>か</rt></ruby>いた。"
       }
     ]
   },
@@ -5287,7 +5287,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「を目指して」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に向かって, but differs in register or constraints.",
-        "example": "状況に応じた<strong>を目指して</strong>の適切な用例。"
+        "example": "<ruby>優勝<rt>ゆうしょう</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>して、<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>んでいる。"
       },
       {
         "form": "〜に向かって",
@@ -5296,7 +5296,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に向かって」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に向かって</strong>の用例。"
+        "example": "ステージに<ruby>向<rt>む</rt></ruby>かって、<ruby>観客<rt>かんきゃく</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られた。"
       }
     ]
   },
@@ -5341,7 +5341,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に合わせて」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に応じて, but differs in register or constraints.",
-        "example": "状況に応じた<strong>に合わせて</strong>の適切な用例。"
+        "example": "<ruby>相手<rt>あいて</rt></ruby>のペースに<ruby>合<rt>あ</rt></ruby>わせて、ゆっくり<ruby>話<rt>はな</rt></ruby>すようにした。"
       },
       {
         "form": "〜にしたがって",
@@ -5350,7 +5350,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「にしたがって」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>にしたがって</strong>の用例。"
+        "example": "マニュアルにしたがって、<ruby>正確<rt>せいかく</rt></ruby>に<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めた。"
       }
     ]
   },
@@ -5375,7 +5375,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 〜にあたって)",
         "reason_ja": "新事業や重要プロジェクトの始動という重大な局面に最適",
         "reason_en": "Ideal for embarking on major projects or ceremonies",
-        "sentence": "<ruby>新<rt>しん</rt></ruby>プロジェクトの<ruby>開始<rt>かいし</rt></ruby><strong>にあたって</strong>、チーム<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。"
+        "sentence": "<ruby>新<rt>しん</rt></ruby>プロジェクトの<ruby>開始<rt>かいし</rt></ruby>に<ruby>際<rt>さい</rt></ruby>して、チーム<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した。"
       }
     ],
     "comparison": [
@@ -5386,7 +5386,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: on the occasion of; at the.",
-        "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入ら<rt>いら</rt></ruby>なければならない。"
+        "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>に<ruby>際し<rt>さいし</rt></ruby>ては、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らなければならない。"
       },
       {
         "form": "〜にあたって",
@@ -5395,7 +5395,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「にあたって」は類似の意味を持ちますが、接続や使用場面（書き言葉/話し言葉等）が異なります。",
         "nuance_en": "Similar in meaning to に際して, but differs in register or constraints.",
-        "example": "状況に応じた<strong>にあたって</strong>の適切な用例。"
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めるにあたって、<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てた。"
       },
       {
         "form": "〜に際し",
@@ -5404,7 +5404,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "formal",
         "nuance_ja": "「に際し」は客観的・標準的な表現として広く活用されます。",
         "nuance_en": "Standard or formal alternative with neutral tone.",
-        "example": "日常またはビジネスにおける<strong>に際し</strong>の用例。"
+        "example": "ご<ruby>入学<rt>にゅうがく</rt></ruby>に<ruby>際<rt>さい</rt></ruby>し、<ruby>心<rt>こころ</rt></ruby>よりお<ruby>祝<rt>いわ</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。"
       }
     ]
   },
@@ -5591,7 +5591,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with にしたら / にすれば)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for にしたら / にすれば",
-        "sentence": "あなたにすれば<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にはそうでもないんですよ。"
+        "sentence": "あなたにすれば<ruby>小<rt>ちい</rt></ruby>さなことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にとっては<ruby>大<rt>おお</rt></ruby>きな<ruby>問題<rt>もんだい</rt></ruby>なんですよ。"
       }
     ],
     "comparison": [
@@ -5602,7 +5602,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: from one’s perspective;.",
-        "example": "あなたにすれば<ruby>小さ<rt>ちいさ</rt></ruby>なことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にはそうでもないんですよ。"
+        "example": "あなたにすれば<ruby>小<rt>ちい</rt></ruby>さなことかもしれないけど、ほかの<ruby>人<rt>ひと</rt></ruby>にとっては<ruby>大<rt>おお</rt></ruby>きな<ruby>問題<rt>もんだい</rt></ruby>なんですよ。"
       },
       {
         "form": "〜から見れば",
@@ -5699,7 +5699,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に沿って)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for に沿って",
-        "sentence": "この<ruby>坂道<rt>さかみち</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby>バイクで<ruby>行け<rt>いけ</rt></ruby>ば、2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいで<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。"
+        "sentence": "この<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>けば、15<ruby>分<rt>ふん</rt></ruby>ほどで<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きます。"
       }
     ],
     "comparison": [
@@ -5710,7 +5710,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: along with; in accordance with~.",
-        "example": "この<ruby>坂道<rt>さかみち</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby>バイクで<ruby>行け<rt>いけ</rt></ruby>ば、2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいで<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ます。"
+        "example": "この<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>けば、15<ruby>分<rt>ふん</rt></ruby>ほどで<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きます。"
       },
       {
         "form": "〜にしたがって",
@@ -5861,7 +5861,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に伴って)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for に伴って",
-        "sentence": "それに<ruby>伴っ<rt>ともなっ</rt></ruby>て<ruby>高橋<rt>たかはし</rt></ruby>さんたちの<ruby>予定<rt>よてい</rt></ruby>は<ruby>再度<rt>さいど</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれません。"
+        "sentence": "<ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>本数<rt>ほんすう</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えることになった。"
       }
     ],
     "comparison": [
@@ -5872,7 +5872,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: as; due to; with; along.",
-        "example": "それに<ruby>伴っ<rt>ともなっ</rt></ruby>て<ruby>高橋<rt>たかはし</rt></ruby>さんたちの<ruby>予定<rt>よてい</rt></ruby>は<ruby>再度<rt>さいど</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれません。"
+        "example": "<ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>本数<rt>ほんすう</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えることになった。"
       },
       {
         "form": "〜にしたがって",
@@ -5969,7 +5969,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with につき)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for につき",
-        "sentence": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>とき</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。"
+        "sentence": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>じ</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。"
       }
     ],
     "comparison": [
@@ -5980,7 +5980,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: due to; because of; per; each.",
-        "example": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>とき</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。"
+        "example": "<ruby>昼休み<rt>ひるやすみ</rt></ruby>につき、<ruby>事務所<rt>じむしょ</rt></ruby>は2<ruby>時<rt>じ</rt></ruby>まで<ruby>休み<rt>やすみ</rt></ruby>です。"
       },
       {
         "form": "〜のため",
@@ -6077,7 +6077,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with にも関わらず)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for にも関わらず",
-        "sentence": "<ruby>大学生<rt>だいがくせい</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>もいる。"
+        "sentence": "<ruby>大学生<rt>だいがくせい</rt></ruby>であるにもかかわらず、<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書<rt>か</rt></ruby>けない<ruby>人<rt>ひと</rt></ruby>もいる。"
       }
     ],
     "comparison": [
@@ -6088,7 +6088,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: despite; in.",
-        "example": "<ruby>大学生<rt>だいがくせい</rt></ruby>にも<ruby>関わ<rt>かかわ</rt></ruby>らず、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>もいる。"
+        "example": "<ruby>大学生<rt>だいがくせい</rt></ruby>であるにもかかわらず、<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書<rt>か</rt></ruby>けない<ruby>人<rt>ひと</rt></ruby>もいる。"
       },
       {
         "form": "〜にもかかわらず",
@@ -6293,7 +6293,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with の上では)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for の上では",
-        "sentence": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>鈴木<rt>すずき</rt></ruby>さんはまだ<ruby>学生<rt>がくせい</rt></ruby>だ。"
+        "sentence": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>問題<rt>もんだい</rt></ruby>ないが、<ruby>念<rt>ねん</rt></ruby>のため<ruby>上司<rt>じょうし</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>しておこう。"
       }
     ],
     "comparison": [
@@ -6304,7 +6304,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: according to; from the.",
-        "example": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>鈴木<rt>すずき</rt></ruby>さんはまだ<ruby>学生<rt>がくせい</rt></ruby>だ。"
+        "example": "<ruby>規則<rt>きそく</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>問題<rt>もんだい</rt></ruby>ないが、<ruby>念<rt>ねん</rt></ruby>のため<ruby>上司<rt>じょうし</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>しておこう。"
       },
       {
         "form": "〜の点では",
@@ -6527,7 +6527,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: to do something from beginning to end;.",
-        "example": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、<ruby>何<rt>なに</rt></ruby>においても<ruby>頑張り<rt>がんばり</rt></ruby><ruby>抜く<rt>ぬく</rt></ruby>。"
+        "example": "<ruby>鈴木<rt>すずき</rt></ruby>さんは、どんなに<ruby>大変<rt>たいへん</rt></ruby>な<ruby>目標<rt>もくひょう</rt></ruby>でも<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張<rt>がんば</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>く。"
       },
       {
         "form": "〜最後まで～する",
@@ -6624,7 +6624,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with をめぐって)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for をめぐって",
-        "sentence": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>をめぐって、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。"
+        "sentence": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>駅<rt>えき</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>をめぐって、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>話し合<rt>はなしあ</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>いている。"
       }
     ],
     "comparison": [
@@ -6635,7 +6635,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: concerning; in regard to~.",
-        "example": "<ruby>父<rt>ちち</rt></ruby>の<ruby>残した<rt>のこした</rt></ruby><ruby>土地<rt>とち</rt></ruby>をめぐって、<ruby>姉妹<rt>しまい</rt></ruby><ruby>喧嘩<rt>けんか</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていく。"
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>駅<rt>えき</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>をめぐって、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>話し合<rt>はなしあ</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>いている。"
       },
       {
         "form": "〜を巡って",
@@ -6948,7 +6948,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 恐らく)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 恐らく",
-        "sentence": "これは<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>間違い<rt>まちがい</rt></ruby>です。"
+        "sentence": "これは<ruby>恐<rt>おそ</rt></ruby>らく<ruby>何<rt>なに</rt></ruby>かの<ruby>間違<rt>まちが</rt></ruby>いでしょう。"
       }
     ],
     "comparison": [
@@ -6959,7 +6959,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: perhaps; likely; probably; I dare.",
-        "example": "これは<ruby>恐ら<rt>おそら</rt></ruby>く<ruby>間違い<rt>まちがい</rt></ruby>です。"
+        "example": "これは<ruby>恐<rt>おそ</rt></ruby>らく<ruby>何<rt>なに</rt></ruby>かの<ruby>間違<rt>まちが</rt></ruby>いでしょう。"
       },
       {
         "form": "〜たぶん",
@@ -7056,7 +7056,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 及び)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 及び",
-        "sentence": "ボールペン<ruby>及び<rt>および</rt></ruby><ruby>紙<rt>かみ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てきてください。"
+        "sentence": "<ruby>当日<rt>とうじつ</rt></ruby>は、<ruby>受験<rt>じゅけん</rt></ruby><ruby>票<rt>ひょう</rt></ruby><ruby>及<rt>およ</rt></ruby>び<ruby>筆記用具<rt>ひっきようぐ</rt></ruby>をご<ruby>持参<rt>じさん</rt></ruby>ください。"
       }
     ],
     "comparison": [
@@ -7067,7 +7067,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: and; as well as~.",
-        "example": "ボールペン<ruby>及び<rt>および</rt></ruby><ruby>紙<rt>かみ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てきてください。"
+        "example": "<ruby>当日<rt>とうじつ</rt></ruby>は、<ruby>受験<rt>じゅけん</rt></ruby><ruby>票<rt>ひょう</rt></ruby><ruby>及<rt>およ</rt></ruby>び<ruby>筆記用具<rt>ひっきようぐ</rt></ruby>をご<ruby>持参<rt>じさん</rt></ruby>ください。"
       },
       {
         "form": "〜および",
@@ -7110,7 +7110,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ろくに〜ない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ろくに〜ない",
-        "sentence": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はろくに<ruby>寝な<rt>ねな</rt></ruby>かった。"
+        "sentence": "<ruby>昨夜<rt>さくや</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>して、ろくに<ruby>眠<rt>ねむ</rt></ruby>れなかった。"
       }
     ],
     "comparison": [
@@ -7121,7 +7121,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: not well; not enough;.",
-        "example": "<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はろくに<ruby>寝な<rt>ねな</rt></ruby>かった。"
+        "example": "<ruby>昨夜<rt>さくや</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>して、ろくに<ruby>眠<rt>ねむ</rt></ruby>れなかった。"
       },
       {
         "form": "〜まともに～ない",
@@ -7164,7 +7164,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 幸いなことに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 幸いなことに",
-        "sentence": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>気づ<rt>きづ</rt></ruby>かなかった。"
+        "sentence": "<ruby>急<rt>きゅう</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたが、<ruby>幸<rt>さいわ</rt></ruby>いなことに<ruby>折り畳み傘<rt>おりたたみがさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていた。"
       }
     ],
     "comparison": [
@@ -7175,7 +7175,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: .",
-        "example": "<ruby>幸い<rt>さいわい</rt></ruby><ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>気づ<rt>きづ</rt></ruby>かなかった。"
+        "example": "<ruby>急<rt>きゅう</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたが、<ruby>幸<rt>さいわ</rt></ruby>いなことに<ruby>折り畳み傘<rt>おりたたみがさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていた。"
       },
       {
         "form": "〜運よく",
@@ -7218,7 +7218,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with せいか)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for せいか",
-        "sentence": "たくさん<ruby>仕事<rt>しごと</rt></ruby>をしたせいか、<ruby>病気<rt>びょうき</rt></ruby>になってしまった。"
+        "sentence": "<ruby>最近<rt>さいきん</rt></ruby><ruby>働<rt>はたら</rt></ruby>きすぎたせいか、<ruby>少<rt>すこ</rt></ruby>し<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>してしまった。"
       }
     ],
     "comparison": [
@@ -7229,7 +7229,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: perhaps because~.",
-        "example": "たくさん<ruby>仕事<rt>しごと</rt></ruby>をしたせいか、<ruby>病気<rt>びょうき</rt></ruby>になってしまった。"
+        "example": "<ruby>最近<rt>さいきん</rt></ruby><ruby>働<rt>はたら</rt></ruby>きすぎたせいか、<ruby>少<rt>すこ</rt></ruby>し<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>してしまった。"
       },
       {
         "form": "〜のせいか",
@@ -7326,7 +7326,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with せめて)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for せめて",
-        "sentence": "せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。"
+        "sentence": "せめてあと10<ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってくれませんか。"
       }
     ],
     "comparison": [
@@ -7337,7 +7337,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: at least; at most~.",
-        "example": "せめてあと<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>待っ<rt>まっ</rt></ruby>てくれませんか。"
+        "example": "せめてあと10<ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ってくれませんか。"
       },
       {
         "form": "〜少なくとも",
@@ -7434,7 +7434,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 次第で)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 次第で",
-        "sentence": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君次<rt>きみじ</rt></ruby><ruby>第<rt>だい</rt></ruby>だ。"
+        "sentence": "これからの<ruby>努力<rt>どりょく</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で、<ruby>結果<rt>けっか</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わるだろう。"
       }
     ],
     "comparison": [
@@ -7445,7 +7445,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: depending on; so~.",
-        "example": "<ruby>我々<rt>われわれ</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>できるかどうかは<ruby>君次<rt>きみじ</rt></ruby><ruby>第<rt>だい</rt></ruby>だ。"
+        "example": "これからの<ruby>努力<rt>どりょく</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で、<ruby>結果<rt>けっか</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わるだろう。"
       },
       {
         "form": "〜によって",
@@ -7596,7 +7596,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with その上)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for その上",
-        "sentence": "その<ruby>上<rt>うえ</rt></ruby>、そのレストランは<ruby>高橋<rt>たかはし</rt></ruby>さんたちのホテルからとても<ruby>近い<rt>ちかい</rt></ruby>。"
+        "sentence": "そのレストランは<ruby>料理<rt>りょうり</rt></ruby>がおいしいし、その<ruby>上<rt>うえ</rt></ruby>、ホテルからも<ruby>近<rt>ちか</rt></ruby>くてとても<ruby>便利<rt>べんり</rt></ruby>だ。"
       }
     ],
     "comparison": [
@@ -7607,7 +7607,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: besides; in addition; furthermore~.",
-        "example": "その<ruby>上<rt>うえ</rt></ruby>、そのレストランは<ruby>高橋<rt>たかはし</rt></ruby>さんたちのホテルからとても<ruby>近い<rt>ちかい</rt></ruby>。"
+        "example": "そのレストランは<ruby>料理<rt>りょうり</rt></ruby>がおいしいし、その<ruby>上<rt>うえ</rt></ruby>、ホテルからも<ruby>近<rt>ちか</rt></ruby>くてとても<ruby>便利<rt>べんり</rt></ruby>だ。"
       },
       {
         "form": "〜さらに",
@@ -7650,7 +7650,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with それなのに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for それなのに",
-        "sentence": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに<ruby>給料<rt>きゅうりょう</rt></ruby>がまだ<ruby>少ない<rt>すくない</rt></ruby>。"
+        "sentence": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しも<ruby>上<rt>あ</rt></ruby>がらない。"
       }
     ],
     "comparison": [
@@ -7661,7 +7661,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: and yet; despite this; but even so~.",
-        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに<ruby>給料<rt>きゅうりょう</rt></ruby>がまだ<ruby>少ない<rt>すくない</rt></ruby>。"
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>しているし、<ruby>休日<rt>きゅうじつ</rt></ruby>も<ruby>出勤<rt>しゅっきん</rt></ruby>した。それなのに、<ruby>給料<rt>きゅうりょう</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しも<ruby>上<rt>あ</rt></ruby>がらない。"
       },
       {
         "form": "〜なのに",
@@ -7758,7 +7758,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with それにしても)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for それにしても",
-        "sentence": "それにしてもあなたは<ruby>絵<rt>え</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ですね。"
+        "sentence": "まだ<ruby>習<rt>なら</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めたばかりだそうですね。それにしても、<ruby>絵<rt>え</rt></ruby>がとてもお<ruby>上手<rt>じょうず</rt></ruby>ですね。"
       }
     ],
     "comparison": [
@@ -7769,7 +7769,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: nevertheless; at any rate; even so;.",
-        "example": "それにしてもあなたは<ruby>絵<rt>え</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>ですね。"
+        "example": "まだ<ruby>習<rt>なら</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めたばかりだそうですね。それにしても、<ruby>絵<rt>え</rt></ruby>がとてもお<ruby>上手<rt>じょうず</rt></ruby>ですね。"
       },
       {
         "form": "〜それにしても",
@@ -7812,7 +7812,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with そう言えば)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for そう言えば",
-        "sentence": "そういえば、<ruby>子供<rt>こども</rt></ruby>のころ、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にここに<ruby>来た<rt>きた</rt></ruby>ことを<ruby>覚え<rt>おぼえ</rt></ruby>ている。"
+        "sentence": "そういえば、<ruby>昔<rt>むかし</rt></ruby>この<ruby>近<rt>ちか</rt></ruby>くにとてもおいしいパン<ruby>屋<rt>や</rt></ruby>さんがあったのを<ruby>思い出<rt>おもいだ</rt></ruby>した。"
       }
     ],
     "comparison": [
@@ -7823,7 +7823,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: come to think of it…; now.",
-        "example": "そういえば、<ruby>子供<rt>こども</rt></ruby>のころ、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にここに<ruby>来た<rt>きた</rt></ruby>ことを<ruby>覚え<rt>おぼえ</rt></ruby>ている。"
+        "example": "そういえば、<ruby>昔<rt>むかし</rt></ruby>この<ruby>近<rt>ちか</rt></ruby>くにとてもおいしいパン<ruby>屋<rt>や</rt></ruby>さんがあったのを<ruby>思い出<rt>おもいだ</rt></ruby>した。"
       },
       {
         "form": "〜そう言えば",
@@ -7866,7 +7866,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with そうすると)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for そうすると",
-        "sentence": "まだ<ruby>出発<rt>しゅっぱつ</rt></ruby>しないの？そうすると、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合わ<rt>まにあわ</rt></ruby>ないよ。"
+        "sentence": "この<ruby>角<rt>かく</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。そうすると、すぐ<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>が<ruby>見<rt>み</rt></ruby>えますよ。"
       }
     ],
     "comparison": [
@@ -7877,7 +7877,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: having done that; if that is done; if it is.",
-        "example": "まだ<ruby>出発<rt>しゅっぱつ</rt></ruby>しないの？そうすると、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間に合わ<rt>まにあわ</rt></ruby>ないよ。"
+        "example": "この<ruby>角<rt>かく</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。そうすると、すぐ<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>が<ruby>見<rt>み</rt></ruby>えますよ。"
       },
       {
         "form": "〜そうすると",
@@ -7920,7 +7920,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 末に)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 末に",
-        "sentence": "いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。"
+        "sentence": "いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>すえ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。"
       }
     ],
     "comparison": [
@@ -7931,7 +7931,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: finally; after; following; at the end/.",
-        "example": "いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>まつ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。"
+        "example": "いろいろ<ruby>迷っ<rt>まよっ</rt></ruby>た<ruby>末<rt>すえ</rt></ruby>に、<ruby>留学<rt>りゅうがく</rt></ruby>することにした。"
       },
       {
         "form": "〜あげく",
@@ -7974,7 +7974,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 少しも〜ない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 少しも〜ない",
-        "sentence": "こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>でピクニックするなんて、<ruby>少し<rt>すこし</rt></ruby>も<ruby>楽しく<rt>たのしく</rt></ruby>ないよ。"
+        "sentence": "こんなに<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>にピクニックをするなんて、<ruby>少<rt>すこ</rt></ruby>しも<ruby>楽<rt>たの</rt></ruby>しくないよ。"
       }
     ],
     "comparison": [
@@ -7985,7 +7985,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: not one bit;.",
-        "example": "こんな<ruby>暑い<rt>あつい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>でピクニックするなんて、<ruby>少し<rt>すこし</rt></ruby>も<ruby>楽しく<rt>たのしく</rt></ruby>ないよ。"
+        "example": "こんなに<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>にピクニックをするなんて、<ruby>少<rt>すこ</rt></ruby>しも<ruby>楽<rt>たの</rt></ruby>しくないよ。"
       },
       {
         "form": "〜ちっとも～ない",
@@ -8028,7 +8028,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 少なくとも)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 少なくとも",
-        "sentence": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>少なくとも<rt>すくなくとも</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だ。"
+        "sentence": "<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>には、<ruby>少<rt>すく</rt></ruby>なくとも1<ruby>時間<rt>じかん</rt></ruby>はかかると<ruby>思<rt>おも</rt></ruby>います。"
       }
     ],
     "comparison": [
@@ -8039,7 +8039,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: at least~.",
-        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>少なくとも<rt>すくなくとも</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>だ。"
+        "example": "<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>には、<ruby>少<rt>すく</rt></ruby>なくとも1<ruby>時間<rt>じかん</rt></ruby>はかかると<ruby>思<rt>おも</rt></ruby>います。"
       },
       {
         "form": "〜せめて",
@@ -8136,7 +8136,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with たまえ)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for たまえ",
-        "sentence": "<ruby>遠慮<rt>えんりょ</rt></ruby>などせずに、どうぞこちらの<ruby>部屋<rt>へや</rt></ruby>にお<ruby>入り<rt>いり</rt></ruby>たまえ。"
+        "sentence": "もう<ruby>遅<rt>おそ</rt></ruby>いから、<ruby>今日<rt>きょう</rt></ruby>はそろそろ<ruby>帰<rt>かえ</rt></ruby>りたまえ。"
       }
     ],
     "comparison": [
@@ -8147,7 +8147,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: do~; order somebody to do something.",
-        "example": "<ruby>遠慮<rt>えんりょ</rt></ruby>などせずに、どうぞこちらの<ruby>部屋<rt>へや</rt></ruby>にお<ruby>入り<rt>いり</rt></ruby>たまえ。"
+        "example": "もう<ruby>遅<rt>おそ</rt></ruby>いから、<ruby>今日<rt>きょう</rt></ruby>はそろそろ<ruby>帰<rt>かえ</rt></ruby>りたまえ。"
       },
       {
         "form": "〜なさい",
@@ -8190,7 +8190,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with てばかりはいられない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for てばかりはいられない",
-        "sentence": "どんなに<ruby>辛く<rt>つらく</rt></ruby>ても、<ruby>泣い<rt>ない</rt></ruby>てばかりもいられない。"
+        "sentence": "どんなにつらくても、いつまでも<ruby>泣<rt>な</rt></ruby>いてばかりはいられない。"
       }
     ],
     "comparison": [
@@ -8201,7 +8201,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: can’t keep doing~.",
-        "example": "どんなに<ruby>辛く<rt>つらく</rt></ruby>ても、<ruby>泣い<rt>ない</rt></ruby>てばかりもいられない。"
+        "example": "どんなにつらくても、いつまでも<ruby>泣<rt>な</rt></ruby>いてばかりはいられない。"
       },
       {
         "form": "〜てばかりはいられない",
@@ -8892,7 +8892,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with と同時に)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for と同時に",
-        "sentence": "<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>知らせ<rt>しらせ</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>た<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>驚く<rt>おどろく</rt></ruby>のと<ruby>同時<rt>どうじ</rt></ruby>に<ruby>嬉しさ<rt>うれしさ</rt></ruby>の<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流し<rt>ながし</rt></ruby>た。"
+        "sentence": "<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>知<rt>し</rt></ruby>らせを<ruby>受け取<rt>うけと</rt></ruby>った<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>驚<rt>おどろ</rt></ruby>くと<ruby>同時<rt>どうじ</rt></ruby>にうれし<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した。"
       }
     ],
     "comparison": [
@@ -8903,7 +8903,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: at the same time as; while;.",
-        "example": "<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>知らせ<rt>しらせ</rt></ruby>を<ruby>受け取っ<rt>うけとっ</rt></ruby>た<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>驚く<rt>おどろく</rt></ruby>のと<ruby>同時<rt>どうじ</rt></ruby>に<ruby>嬉しさ<rt>うれしさ</rt></ruby>の<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流し<rt>ながし</rt></ruby>た。"
+        "example": "<ruby>合格<rt>ごうかく</rt></ruby>の<ruby>知<rt>し</rt></ruby>らせを<ruby>受け取<rt>うけと</rt></ruby>った<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>驚<rt>おどろ</rt></ruby>くと<ruby>同時<rt>どうじ</rt></ruby>にうれし<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した。"
       },
       {
         "form": "〜とともに",
@@ -9000,7 +9000,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with というふうに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for というふうに",
-        "sentence": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信じ<rt>しんじ</rt></ruby>られないというふうに<ruby>頭<rt>あたま</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。"
+        "sentence": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信<rt>しん</rt></ruby>じられないというふうに<ruby>首<rt>くび</rt></ruby>を<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>った。"
       }
     ],
     "comparison": [
@@ -9011,7 +9011,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: in such a way that~.",
-        "example": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信じ<rt>しんじ</rt></ruby>られないというふうに<ruby>頭<rt>あたま</rt></ruby>を<ruby>振っ<rt>ふっ</rt></ruby>た。"
+        "example": "<ruby>佐藤<rt>さとう</rt></ruby>さんは<ruby>信<rt>しん</rt></ruby>じられないというふうに<ruby>首<rt>くび</rt></ruby>を<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>った。"
       },
       {
         "form": "〜というように",
@@ -9054,7 +9054,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ということは)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ということは",
-        "sentence": "あなたが<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るということは<ruby>本当<rt>ほんとう</rt></ruby>ですか。"
+        "sentence": "<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>来月<rt>らいげつ</rt></ruby><ruby>引っ越<rt>ひっこ</rt></ruby>すということは、このお<ruby>店<rt>みせ</rt></ruby>に<ruby>来<rt>く</rt></ruby>るのも<ruby>今日<rt>きょう</rt></ruby>が<ruby>最後<rt>さいご</rt></ruby>ですね。"
       }
     ],
     "comparison": [
@@ -9065,7 +9065,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: that is to say; so.",
-        "example": "あなたが<ruby>職場<rt>しょくば</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>るということは<ruby>本当<rt>ほんとう</rt></ruby>ですか。"
+        "example": "<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>来月<rt>らいげつ</rt></ruby><ruby>引っ越<rt>ひっこ</rt></ruby>すということは、このお<ruby>店<rt>みせ</rt></ruby>に<ruby>来<rt>く</rt></ruby>るのも<ruby>今日<rt>きょう</rt></ruby>が<ruby>最後<rt>さいご</rt></ruby>ですね。"
       },
       {
         "form": "〜つまり",
@@ -9108,7 +9108,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with というものだ)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for というものだ",
-        "sentence": "<ruby>旬<rt>じゅん</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚介<rt>ぎょかい</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>を<ruby>油<rt>あぶら</rt></ruby>で<ruby>揚げ<rt>あげ</rt></ruby>たものが、いわゆる「<ruby>天ぷら<rt>てんぷら</rt></ruby>」という<ruby>伝統<rt>でんとう</rt></ruby><ruby>日本料理<rt>にほんりょうり</rt></ruby>です。"
+        "sentence": "<ruby>毎日<rt>まいにち</rt></ruby>コツコツ<ruby>努力<rt>どりょく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてこそ、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>が<ruby>身<rt>み</rt></ruby>につくというものだ。"
       }
     ],
     "comparison": [
@@ -9119,7 +9119,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: .",
-        "example": "<ruby>旬<rt>じゅん</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚介<rt>ぎょかい</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>を<ruby>油<rt>あぶら</rt></ruby>で<ruby>揚げ<rt>あげ</rt></ruby>たものが、いわゆる「<ruby>天ぷら<rt>てんぷら</rt></ruby>」という<ruby>伝統<rt>でんとう</rt></ruby><ruby>日本料理<rt>にほんりょうり</rt></ruby>です。"
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby>コツコツ<ruby>努力<rt>どりょく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてこそ、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>が<ruby>身<rt>み</rt></ruby>につくというものだ。"
       },
       {
         "form": "〜というものだ",
@@ -9216,7 +9216,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with と考えられる)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for と考えられる",
-        "sentence": "これは<ruby>今年<rt>ことし</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
+        "sentence": "この<ruby>遺跡<rt>いせき</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>から<ruby>約<rt>やく</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られたものだと<ruby>考<rt>かんが</rt></ruby>えられている。"
       }
     ],
     "comparison": [
@@ -9227,7 +9227,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: one can.",
-        "example": "これは<ruby>今年<rt>ことし</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>だと<ruby>考え<rt>かんがえ</rt></ruby>られている。"
+        "example": "この<ruby>遺跡<rt>いせき</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>から<ruby>約<rt>やく</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られたものだと<ruby>考<rt>かんが</rt></ruby>えられている。"
       },
       {
         "form": "〜と思われる",
@@ -9378,7 +9378,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ところだった)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ところだった",
-        "sentence": "<ruby>飛び出し<rt>とびだし</rt></ruby>てきたトラックに<ruby>衝突<rt>しょうとつ</rt></ruby>しそうになり、<ruby>危ない<rt>あぶない</rt></ruby>ところだった。"
+        "sentence": "<ruby>寝坊<rt>ねぼう</rt></ruby>して、もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>するところだった。"
       }
     ],
     "comparison": [
@@ -9389,7 +9389,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: was just about to do something;.",
-        "example": "<ruby>飛び出し<rt>とびだし</rt></ruby>てきたトラックに<ruby>衝突<rt>しょうとつ</rt></ruby>しそうになり、<ruby>危ない<rt>あぶない</rt></ruby>ところだった。"
+        "example": "<ruby>寝坊<rt>ねぼう</rt></ruby>して、もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>するところだった。"
       },
       {
         "form": "〜もう少しで～そうだった",
@@ -9432,7 +9432,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ところに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ところに",
-        "sentence": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>ずにちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>激しい<rt>はげしい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
+        "sentence": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>ずにちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>激しい<rt>はげしい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始め<rt>はじめ</rt></ruby>た。"
       }
     ],
     "comparison": [
@@ -9443,7 +9443,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: at the time; just as I was~.",
-        "example": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>ずにちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>激しい<rt>はげしい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。"
+        "example": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持た<rt>もた</rt></ruby>ずにちょうど<ruby>家<rt>いえ</rt></ruby>を<ruby>出よ<rt>でよ</rt></ruby>うとしていたところに、<ruby>激しい<rt>はげしい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始め<rt>はじめ</rt></ruby>た。"
       },
       {
         "form": "〜ところに",
@@ -9486,7 +9486,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ところを見ると)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ところを見ると",
-        "sentence": "<ruby>彼女<rt>かのじょ</rt></ruby>はうどんを<ruby>食べて<rt>たべて</rt></ruby>いるところを<ruby>見る<rt>みる</rt></ruby>と、ダイエットはやめたんだね。"
+        "sentence": "<ruby>彼女<rt>かのじょ</rt></ruby>がうれしそうにケーキを<ruby>食<rt>た</rt></ruby>べているところを<ruby>見<rt>み</rt></ruby>ると、ダイエットはやめたようだね。"
       }
     ],
     "comparison": [
@@ -9497,7 +9497,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: judging.",
-        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>はうどんを<ruby>食べて<rt>たべて</rt></ruby>いるところを<ruby>見る<rt>みる</rt></ruby>と、ダイエットはやめたんだね。"
+        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>がうれしそうにケーキを<ruby>食<rt>た</rt></ruby>べているところを<ruby>見<rt>み</rt></ruby>ると、ダイエットはやめたようだね。"
       },
       {
         "form": "〜から判断すると",
@@ -9540,7 +9540,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with とも)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for とも",
-        "sentence": "「この<ruby>街<rt>まち</rt></ruby>の<ruby>再開発<rt>さいかいはつ</rt></ruby>プロジェクトに<ruby>賛成<rt>さんせい</rt></ruby>ですか？」「ええ、もちろんですとも。」"
+        "sentence": "どんなに<ruby>難<rt>むずか</rt></ruby>しくとも、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めずに<ruby>挑戦<rt>ちょうせん</rt></ruby>してみようと<ruby>思<rt>おも</rt></ruby>う。"
       }
     ],
     "comparison": [
@@ -9551,7 +9551,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: certainly; even if; no matter; although; without even;.",
-        "example": "「この<ruby>街<rt>まち</rt></ruby>の<ruby>再開発<rt>さいかいはつ</rt></ruby>プロジェクトに<ruby>賛成<rt>さんせい</rt></ruby>ですか？」「ええ、もちろんですとも。」"
+        "example": "どんなに<ruby>難<rt>むずか</rt></ruby>しくとも、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めずに<ruby>挑戦<rt>ちょうせん</rt></ruby>してみようと<ruby>思<rt>おも</rt></ruby>う。"
       },
       {
         "form": "〜たとえ～ても",
@@ -9648,7 +9648,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with つつ)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for つつ",
-        "sentence": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>時々<rt>ときどき</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>しつつ、<ruby>電話<rt>でんわ</rt></ruby>をする。"
+        "sentence": "<ruby>健康<rt>けんこう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけつつ、これからも<ruby>元気<rt>げんき</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けていきたい。"
       }
     ],
     "comparison": [
@@ -9659,7 +9659,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: while; even though; despite~.",
-        "example": "<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>時々<rt>ときどき</rt></ruby><ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>しつつ、<ruby>電話<rt>でんわ</rt></ruby>をする。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけつつ、これからも<ruby>元気<rt>げんき</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けていきたい。"
       },
       {
         "form": "〜ながら",
@@ -9810,7 +9810,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with はもとより)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for はもとより",
-        "sentence": "<ruby>私<rt>わたし</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>はもとよりバイクもないんです。"
+        "sentence": "このアニメは<ruby>子<rt>こ</rt></ruby>どもはもとより、<ruby>大人<rt>おとな</rt></ruby>の<ruby>間<rt>ま</rt></ruby>でも<ruby>高<rt>たか</rt></ruby>い<ruby>人気<rt>にんき</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。"
       }
     ],
     "comparison": [
@@ -9821,7 +9821,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: also; let alone; from the.",
-        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>はもとよりバイクもないんです。"
+        "example": "このアニメは<ruby>子<rt>こ</rt></ruby>どもはもとより、<ruby>大人<rt>おとな</rt></ruby>の<ruby>間<rt>ま</rt></ruby>でも<ruby>高<rt>たか</rt></ruby>い<ruby>人気<rt>にんき</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。"
       },
       {
         "form": "〜はもちろん",
@@ -9864,7 +9864,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with はともかく)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for はともかく",
-        "sentence": "<ruby>行く<rt>いく</rt></ruby>か<ruby>行<rt>い</rt></ruby>かないかはともかく、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。"
+        "sentence": "<ruby>行<rt>い</rt></ruby>くか<ruby>行<rt>い</rt></ruby>かないかはともかく、まずはレストランの<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>だけでも<ruby>調<rt>しら</rt></ruby>べておこう。"
       }
     ],
     "comparison": [
@@ -9875,7 +9875,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: anyhow; anyway; regardless; in any.",
-        "example": "<ruby>行く<rt>いく</rt></ruby>か<ruby>行<rt>い</rt></ruby>かないかはともかく、レストランの<ruby>予約<rt>よやく</rt></ruby>だけはしておこう。"
+        "example": "<ruby>行<rt>い</rt></ruby>くか<ruby>行<rt>い</rt></ruby>かないかはともかく、まずはレストランの<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>だけでも<ruby>調<rt>しら</rt></ruby>べておこう。"
       },
       {
         "form": "〜は別として",
@@ -10080,7 +10080,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with よほど / よっぽど)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for よほど / よっぽど",
-        "sentence": "よほど<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。"
+        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていないそうだから、よほどお<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いているのだろう。"
       }
     ],
     "comparison": [
@@ -10091,7 +10091,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: very; greatly; much; to a.",
-        "example": "よほど<ruby>前<rt>まえ</rt></ruby>にあった<ruby>事<rt>こと</rt></ruby>です。"
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていないそうだから、よほどお<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いているのだろう。"
       },
       {
         "form": "〜よほど",
@@ -10134,7 +10134,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with より)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for より",
-        "sentence": "<ruby>本日<rt>ほんじつ</rt></ruby>より、<ruby>当館<rt>とうかん</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会を<rt>あを</rt></ruby><ruby>一般公開<rt>いっぱんこうかい</rt></ruby>いたします。"
+        "sentence": "<ruby>本日<rt>ほんじつ</rt></ruby>より、<ruby>当館<rt>とうかん</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会<rt>かい</rt></ruby>を<ruby>一般公開<rt>いっぱんこうかい</rt></ruby>いたします。"
       }
     ],
     "comparison": [
@@ -10145,7 +10145,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: from~ (a time, place, or person).",
-        "example": "<ruby>本日<rt>ほんじつ</rt></ruby>より、<ruby>当館<rt>とうかん</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会を<rt>あを</rt></ruby><ruby>一般公開<rt>いっぱんこうかい</rt></ruby>いたします。"
+        "example": "<ruby>本日<rt>ほんじつ</rt></ruby>より、<ruby>当館<rt>とうかん</rt></ruby>の<ruby>特別展<rt>とくべつてん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会<rt>かい</rt></ruby>を<ruby>一般公開<rt>いっぱんこうかい</rt></ruby>いたします。"
       },
       {
         "form": "〜より",
@@ -10188,7 +10188,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with よりほかない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for よりほかない",
-        "sentence": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>くん</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>るよりほかはない。"
+        "sentence": "この<ruby>重要<rt>じゅうよう</rt></ruby>なプロジェクトは、<ruby>最<rt>もっと</rt></ruby>も<ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>きみ</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せるよりほかはない。"
       }
     ],
     "comparison": [
@@ -10199,7 +10199,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: to have no choice but~.",
-        "example": "この<ruby>重要な<rt>じゅうような</rt></ruby>プロジェクトのリーダーは、<ruby>最も<rt>もっとも</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>くん</rt></ruby>に<ruby>任せ<rt>まかせ</rt></ruby>るよりほかはない。"
+        "example": "この<ruby>重要<rt>じゅうよう</rt></ruby>なプロジェクトは、<ruby>最<rt>もっと</rt></ruby>も<ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>君<rt>きみ</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せるよりほかはない。"
       },
       {
         "form": "〜しかない",
@@ -10350,7 +10350,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ようか〜まいか)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ようか〜まいか",
-        "sentence": "<ruby>雨<rt>あめ</rt></ruby>だ。<ruby>買い物<rt>かいもの</rt></ruby>をしに<ruby>行こ<rt>いこ</rt></ruby>うか、<ruby>行く<rt>いく</rt></ruby>まいか。"
+        "sentence": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたので、<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうか<ruby>行<rt>い</rt></ruby>くまいか<ruby>迷<rt>まよ</rt></ruby>っている。"
       }
     ],
     "comparison": [
@@ -10361,7 +10361,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: whether or not; considering.",
-        "example": "<ruby>雨<rt>あめ</rt></ruby>だ。<ruby>買い物<rt>かいもの</rt></ruby>をしに<ruby>行こ<rt>いこ</rt></ruby>うか、<ruby>行く<rt>いく</rt></ruby>まいか。"
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきたので、<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうか<ruby>行<rt>い</rt></ruby>くまいか<ruby>迷<rt>まよ</rt></ruby>っている。"
       },
       {
         "form": "〜ようか～まいか",

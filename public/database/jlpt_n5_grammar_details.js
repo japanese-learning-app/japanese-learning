@@ -44,7 +44,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "<ruby>名詞<rt>めいし</rt></ruby> ＋ だ",
         "form_en": "plain copula",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>、<ruby>日記<rt>にっき</rt></ruby>、<ruby>文章<rt>ぶんしょう</rt></ruby>（である<ruby>体<rt>からだ</rt></ruby>）で<ruby>使<rt>つか</rt></ruby>います。<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。",
         "nuance_en": "Casual talk, diaries and plain-style writing. Not for superiors.",
@@ -114,7 +114,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜くないです",
         "form_en": "negative of i-adjectives",
-        "badge": "イ{形容詞|けいようし}",
+        "badge": "イ形容詞",
         "badge_type": "neutral",
         "nuance_ja": "イ<ruby>形容詞<rt>けいようし</rt></ruby>（<ruby>高<rt>たか</rt></ruby>い・おいしい）の<ruby>否定<rt>ひてい</rt></ruby>は、「ではありません」ではなく「くない」です。",
         "nuance_en": "i-adjectives (高い, おいしい) are negated with くない, not ではありません.",
@@ -166,7 +166,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>（<ruby>食<rt>た</rt></ruby>べる）",
         "form_en": "plain form",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>や、<ruby>日記<rt>にっき</rt></ruby>・メモで<ruby>使<rt>つか</rt></ruby>います。<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。",
         "nuance_en": "Casual talk with friends and family, diaries and notes. Not for superiors.",
@@ -227,7 +227,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜た（<ruby>普通<rt>ふつう</rt></ruby><ruby>形<rt>けい</rt></ruby>）",
         "form_en": "plain past",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>や<ruby>日記<rt>にっき</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>過去<rt>かこ</rt></ruby><ruby>形<rt>かたち</rt></ruby>です。",
         "nuance_en": "The past form for friends, family and diaries.",
@@ -297,7 +297,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜て（<ruby>友達<rt>ともだち</rt></ruby>に）",
         "form_en": "casual request",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>には「ください」を<ruby>付<rt>つ</rt></ruby>けないで、て<ruby>形<rt>けい</rt></ruby>だけで<ruby>頼<rt>たの</rt></ruby>みます。<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。",
         "nuance_en": "With friends and family you drop ください and use the te form alone. Not for superiors.",
@@ -358,7 +358,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜ないで（<ruby>友達<rt>ともだち</rt></ruby>に）",
         "form_en": "casual 'don't'",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>には「ください」を<ruby>付<rt>つ</rt></ruby>けず、「ないで」だけで<ruby>言<rt>い</rt></ruby>います。",
         "nuance_en": "With friends and family, drop ください and say just ないで.",
@@ -491,7 +491,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
   "9": {
     "formula": "<strong><ruby>理由<rt>りゆう</rt></ruby></strong>（<ruby>文<rt>ぶん</rt></ruby>）＋ <strong>から</strong>、<strong><ruby>結果<rt>けっか</rt></ruby>・<ruby>依頼<rt>いらい</rt></ruby>・<ruby>意見<rt>いけん</rt></ruby></strong>。<br><ruby>動詞<rt>どうし</rt></ruby>・イ<ruby>形容詞<rt>けいようし</rt></ruby>：<strong><ruby>行<rt>い</rt></ruby>く／<ruby>行<rt>い</rt></ruby>きます＋から</strong>　　<ruby>名詞<rt>めいし</rt></ruby>・ナ<ruby>形容詞<rt>けいようし</rt></ruby>：<strong><ruby>雨<rt>あめ</rt></ruby>だ／<ruby>雨<rt>あめ</rt></ruby>です＋から</strong><br><ruby>文<rt>ぶん</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>：<strong>だから／ですから</strong>、〜（＝それで）",
     "notes_ja": "<ruby>理由<rt>りゆう</rt></ruby>を<ruby>言<rt>い</rt></ruby>う<ruby>文<rt>ぶん</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に「から」を<ruby>付<rt>つ</rt></ruby>けて、そのあとに<ruby>結果<rt>けっか</rt></ruby>や<ruby>依頼<rt>いらい</rt></ruby>などを<ruby>続<rt>つづ</rt></ruby>けます。<ruby>理由<rt>りゆう</rt></ruby> → <ruby>結果<rt>けっか</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>です。<br>・<ruby>動詞<rt>どうし</rt></ruby>・イ<ruby>形容詞<rt>けいようし</rt></ruby>：<strong><ruby>忙<rt>いそが</rt></ruby>しいから</strong><ruby>行<rt>い</rt></ruby>きません。<br>・<ruby>名詞<rt>めいし</rt></ruby>・ナ<ruby>形容詞<rt>けいようし</rt></ruby>：<strong><ruby>雨<rt>あめ</rt></ruby>だから／<ruby>雨<rt>あめ</rt></ruby>ですから</strong><ruby>行<rt>い</rt></ruby>きません。（×<ruby>雨<rt>あめ</rt></ruby>から）<br>「から」の<ruby>前<rt>まえ</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby><ruby>形<rt>けい</rt></ruby>でも<ruby>丁寧<rt>ていねい</rt></ruby><ruby>形<rt>がた</rt></ruby>でもかまいません（<ruby>忙<rt>いそが</rt></ruby>しいから／<ruby>忙<rt>いそが</rt></ruby>しいですから）。<br><ruby>理由<rt>りゆう</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く「どうして〜ですか」には、「〜からです」で<ruby>答<rt>こた</rt></ruby>えます。<br>「から」のあとには、「<ruby>暑<rt>あつ</rt></ruby>いから、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてください。」のように、<ruby>依頼<rt>いらい</rt></ruby>・<ruby>誘<rt>さそ</rt></ruby>い・<ruby>意見<rt>いけん</rt></ruby>も<ruby>続<rt>つづ</rt></ruby>けられます。",
-    "notes_en": "Put から at the end of the reason clause, then follow with the result, request, etc. Reason → result. Verbs and i-adjectives: 忙しいから行きません. Nouns and na-adjectives need だ／です: 雨だから／雨ですから (×雨から). The part before から can be plain or polite. 「どうして〜ですか」 is answered with 「〜からです」. What follows can be a request or suggestion too: 暑いから、窓を{開|あ}けてください.",
+    "notes_en": "Put から at the end of the reason clause, then follow with the result, request, etc. Reason → result. Verbs and i-adjectives: 忙しいから行きません. Nouns and na-adjectives need だ／です: 雨だから／雨ですから (×雨から). The part before から can be plain or polite. 「どうして〜ですか」 is answered with 「〜からです」. What follows can be a request or suggestion too: 暑いから、窓を開けてください.",
     "nuance_ja": "「から」は、<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>が『これが<ruby>理由<rt>りゆう</rt></ruby>だ』と<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>理由<rt>りゆう</rt></ruby>をはっきり<ruby>示<rt>しめ</rt></ruby>す<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>です。「ので」より<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>で、「<ruby>暑<rt>あつ</rt></ruby>いから<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてください」「<ruby>明日<rt>あした</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>だから<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>よう」のように、あとに<ruby>依頼<rt>いらい</rt></ruby>・<ruby>誘<rt>さそ</rt></ruby>い・<ruby>決意<rt>けつい</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けるのに<ruby>向<rt>む</rt></ruby>いています。<ruby>文<rt>ぶん</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>に<ruby>置<rt>お</rt></ruby>く「だから／ですから」は『だから（そういう<ruby>理由<rt>りゆう</rt></ruby>で）〜』と、<ruby>前<rt>まえ</rt></ruby>の<ruby>文<rt>ぶん</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>にして<ruby>結果<rt>けっか</rt></ruby>を<ruby>言<rt>い</rt></ruby>う<ruby>接続<rt>せつぞく</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>です。「から」だけで<ruby>文<rt>ぶん</rt></ruby>を<ruby>終<rt>お</rt></ruby>えると、<ruby>友達<rt>ともだち</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>では<ruby>理由<rt>りゆう</rt></ruby>を<ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>のように<ruby>言<rt>い</rt></ruby>う<ruby>感<rt>かん</rt></ruby>じになります（だって、<ruby>忙<rt>いそが</rt></ruby>しいから。）。",
     "nuance_en": "から presents the reason as the speaker's own judgement ('this is why'). It is more subjective than ので and works well before requests, suggestions and decisions. A sentence-initial だから／ですから links the previous sentence as the reason. Ending a sentence with から alone (忙しいから。) sounds like an explanation or excuse in casual talk.",
     "trap_ja": "①<ruby>名詞<rt>めいし</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>付<rt>つ</rt></ruby>けません。×<ruby>雨<rt>あめ</rt></ruby>から<ruby>行<rt>い</rt></ruby>きません → ○<ruby>雨<rt>あめ</rt></ruby>ですから／<ruby>雨<rt>あめ</rt></ruby>だから<ruby>行<rt>い</rt></ruby>きません<br>②<ruby>英語<rt>えいご</rt></ruby>の because は<ruby>理由<rt>りゆう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ますが、「から」は<ruby>理由<rt>りゆう</rt></ruby>のあとに<ruby>来<rt>き</rt></ruby>ます。×から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています、<ruby>行<rt>い</rt></ruby>きません → ○<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていますから、<ruby>行<rt>い</rt></ruby>きません<br>③「だから」は『それで・そういうわけで』という<ruby>意味<rt>いみ</rt></ruby>で、<ruby>文<rt>ぶん</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて<ruby>結果<rt>けっか</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。『なぜなら』という<ruby>意味<rt>いみ</rt></ruby>ではありません。<ruby>理由<rt>りゆう</rt></ruby>を<ruby>言<rt>い</rt></ruby>うときは「〜からです」です。<br>④「から」は『〜から（<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>点<rt>てん</rt></ruby>）』の<ruby>意味<rt>いみ</rt></ruby>もあります。<ruby>文<rt>ぶん</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<ruby>動詞<rt>どうし</rt></ruby>・<ruby>形容詞<rt>けいようし</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いたら、<ruby>理由<rt>りゆう</rt></ruby>です。",
@@ -663,7 +663,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜よう／〜おう（<ruby>友達<rt>ともだち</rt></ruby>に）",
         "form_en": "casual 'let's'",
-        "badge": "{普通|ふつう}{形|けい}",
+        "badge": "普通形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>友達<rt>ともだち</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>での「ましょう」にあたる<ruby>普通<rt>ふつう</rt></ruby><ruby>形<rt>けい</rt></ruby>です（<ruby>食<rt>た</rt></ruby>べよう・<ruby>行<rt>い</rt></ruby>こう）。",
         "nuance_en": "The plain-form counterpart of ましょう with friends and family (食べよう, 行こう).",
@@ -857,11 +857,11 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
   "15": {
     "formula": "<ruby>動詞<rt>どうし</rt></ruby> て<ruby>形<rt>けい</rt></ruby> ＋ <strong>いる</strong>（<ruby>丁寧<rt>ていねい</rt></ruby>：<strong>います</strong>）<br>① <ruby>動作<rt>どうさ</rt></ruby>の<ruby>進行<rt>しんこう</rt></ruby>　② <ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>　③ <ruby>習慣<rt>しゅうかん</rt></ruby>・<ruby>職業<rt>しょくぎょう</rt></ruby>",
     "notes_ja": "<ruby>動詞<rt>どうし</rt></ruby>のて<ruby>形<rt>けい</rt></ruby>に「いる」を<ruby>付<rt>つ</rt></ruby>けます。<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと「ています」、<ruby>過去<rt>かこ</rt></ruby>は「ていました」です。<br>① <strong><ruby>動作<rt>どうさ</rt></ruby>の<ruby>進行<rt>しんこう</rt></ruby></strong>：<ruby>今<rt>いま</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>を<strong><ruby>読<rt>よ</rt></ruby>んでいます</strong>。<br>② <strong><ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby></strong>：<ruby>窓<rt>まど</rt></ruby>が<strong><ruby>開<rt>あ</rt></ruby>いています</strong>。／<ruby>結婚<rt>けっこん</rt></ruby><strong>しています</strong>。／<ruby>東京<rt>とうきょう</rt></ruby>に<strong><ruby>住<rt>す</rt></ruby>んでいます</strong>。<br>③ <strong><ruby>習慣<rt>しゅうかん</rt></ruby>・<ruby>職業<rt>しょくぎょう</rt></ruby></strong>：<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>走<rt>はし</rt></ruby>っています。／<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-    "notes_en": "Add いる to the て form (polite: ています; past: ていました). (1) An action in progress: 本を読んでいます. (2) A resulting state: 窓が{開|あ}いています, 結婚しています, 東京に住んでいます. (3) Habits and jobs: 毎朝走っています, 銀行で働いています.",
+    "notes_en": "Add いる to the て form (polite: ています; past: ていました). (1) An action in progress: 本を読んでいます. (2) A resulting state: 窓が開いています, 結婚しています, 東京に住んでいます. (3) Habits and jobs: 毎朝走っています, 銀行で働いています.",
     "nuance_ja": "「ている」は、「<ruby>今<rt>いま</rt></ruby>」の<ruby>様子<rt>ようす</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。<ruby>動作<rt>どうさ</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>でも、<ruby>動作<rt>どうさ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあとの<ruby>状態<rt>じょうたい</rt></ruby>でも、<ruby>今<rt>いま</rt></ruby>その<ruby>様子<rt>ようす</rt></ruby>であることを<ruby>言<rt>い</rt></ruby>います。「<ruby>住<rt>す</rt></ruby>んでいます」「<ruby>知<rt>し</rt></ruby>っています」「<ruby>持<rt>も</rt></ruby>っています」のように、<ruby>日本語<rt>にほんご</rt></ruby>では「ている」で<ruby>言<rt>い</rt></ruby>う<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
     "nuance_en": "ている describes how things are now: in the middle of an action or in the state left after it. Many states in Japanese are expressed with ている, such as 住んでいます, 知っています, 持っています.",
     "trap_ja": "①「<ruby>知<rt>し</rt></ruby>っています」の<ruby>否定<rt>ひてい</rt></ruby>は「<ruby>知<rt>し</rt></ruby>りません」です。「<ruby>知<rt>し</rt></ruby>っていません」は<ruby>間違<rt>まちが</rt></ruby>いです。<br>②「<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けています」と「<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いています」は<ruby>違<rt>ちが</rt></ruby>います。<ruby>人<rt>ひと</rt></ruby>が<ruby>開<rt>あ</rt></ruby>けて、そのままにしているなら「<ruby>開<rt>あ</rt></ruby>けています」ですが、<ruby>窓<rt>まど</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>言<rt>い</rt></ruby>うなら「<ruby>開<rt>あ</rt></ruby>いています」です。",
-    "trap_en": "(1) The negative of 知っています is 知りません, not 知っていません. (2) 窓が{開|あ}いています describes the state of the window; 窓を{開|あ}けています means someone is keeping it open.",
+    "trap_en": "(1) The negative of 知っています is 知りません, not 知っていません. (2) 窓が開いています describes the state of the window; 窓を開けています means someone is keeping it open.",
     "contrast": [
       {
         "type": "wrong",
@@ -950,7 +950,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜<ruby>前<rt>まえ</rt></ruby>に",
         "form_en": "before ~",
-        "badge": "{辞書|じしょ}{形|けい}",
+        "badge": "辞書形",
         "badge_type": "good",
         "nuance_ja": "あとに<ruby>書<rt>か</rt></ruby>いたことを<ruby>先<rt>さき</rt></ruby>にする、という<ruby>順番<rt>じゅんばん</rt></ruby>です。<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>に<ruby>付<rt>つ</rt></ruby>けます。",
         "nuance_en": "What follows happens first; attaches to the dictionary form.",
@@ -959,7 +959,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜た<ruby>後<rt>あと</rt></ruby>で",
         "form_en": "after ~",
-        "badge": "た{形|けい}",
+        "badge": "た形",
         "badge_type": "neutral",
         "nuance_ja": "「<ruby>前<rt>まえ</rt></ruby>に」と<ruby>反対<rt>はんたい</rt></ruby>の<ruby>順番<rt>じゅんばん</rt></ruby>で、た<ruby>形<rt>けい</rt></ruby>に<ruby>付<rt>つ</rt></ruby>けます。",
         "nuance_en": "The opposite order; attaches to the た form.",
@@ -968,7 +968,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜てから",
         "form_en": "after doing ~",
-        "badge": "て{形|けい}",
+        "badge": "て形",
         "badge_type": "neutral",
         "nuance_ja": "て<ruby>形<rt>けい</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いて、「その<ruby>動作<rt>どうさ</rt></ruby>をしたあとで」という<ruby>意味<rt>いみ</rt></ruby>です。",
         "nuance_en": "Attaches to the て form meaning 'after doing that action'.",
@@ -1011,16 +1011,16 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜た<ruby>後<rt>あと</rt></ruby>で",
         "form_en": "after doing",
-        "badge": "た{形|けい}",
+        "badge": "た形",
         "badge_type": "good",
         "nuance_ja": "<ruby>前<rt>まえ</rt></ruby>のことが<ruby>終<rt>お</rt></ruby>わってから、あとのことをする<ruby>順番<rt>じゅんばん</rt></ruby>です。",
         "nuance_en": "The first thing is finished, then the next happens.",
-        "example": "<ruby>お風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>後<rt>あと</rt></ruby>で、<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
+        "example": "お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>後<rt>あと</rt></ruby>で、<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。"
       },
       {
         "form": "〜<ruby>前<rt>まえ</rt></ruby>に",
         "form_en": "before doing",
-        "badge": "{辞書|じしょ}{形|けい}",
+        "badge": "辞書形",
         "badge_type": "neutral",
         "nuance_ja": "<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>で、<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>に<ruby>付<rt>つ</rt></ruby>きます。",
         "nuance_en": "Reverse order; attaches to the dictionary form.",
@@ -1029,7 +1029,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
       {
         "form": "〜てから",
         "form_en": "after doing (and only then)",
-        "badge": "て{形|けい}",
+        "badge": "て形",
         "badge_type": "neutral",
         "nuance_ja": "て<ruby>形<rt>けい</rt></ruby>に<ruby>付<rt>つ</rt></ruby>き、<ruby>順番<rt>じゅんばん</rt></ruby>をはっきり<ruby>言<rt>い</rt></ruby>います。",
         "nuance_en": "Attaches to the て form and emphasizes the sequence.",
@@ -2747,7 +2747,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
   },
   "46": {
     "formula": "<strong>ます<ruby>形<rt>がた</rt></ruby></strong> ＋ <strong>ましょう</strong> ／ <strong>ましょうか</strong> ／ <strong>ませんか</strong>",
-    "notes_ja": "①<ruby>勧誘<rt>かんゆう</rt></ruby>（いっしょに）：さあ、<ruby>帰<rt>かえ</rt></ruby>りましょう。<br>②<ruby>提案<rt>ていあん</rt></ruby>（どうする？）：<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょうか。<br>③<ruby>申<rt>もう</rt></ruby>し<ruby>出<rt>で</rt></ruby>（<ruby>私<rt>わたし</rt></ruby>がします）：<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょうか。<br>④ていねいな<ruby>誘<rt>さそ</rt></ruby>い：<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。<br><ruby>答<rt>こた</rt></ruby>え：いいですね／<ruby>お願<rt>ねが</rt></ruby>いします／すみません、ちょっと…",
+    "notes_ja": "①<ruby>勧誘<rt>かんゆう</rt></ruby>（いっしょに）：さあ、<ruby>帰<rt>かえ</rt></ruby>りましょう。<br>②<ruby>提案<rt>ていあん</rt></ruby>（どうする？）：<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょうか。<br>③<ruby>申<rt>もう</rt></ruby>し<ruby>出<rt>で</rt></ruby>（<ruby>私<rt>わたし</rt></ruby>がします）：<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょうか。<br>④ていねいな<ruby>誘<rt>さそ</rt></ruby>い：<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。<br><ruby>答<rt>こた</rt></ruby>え：いいですね／お<ruby>願<rt>ねが</rt></ruby>いします／すみません、ちょっと…",
     "notes_en": "① Let's: さあ、<ruby>帰<rt>かえ</rt></ruby>りましょう. ② Suggestion: <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょうか. ③ Offer: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちましょうか. ④ Polite invitation: <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか. Replies: いいですね／お<ruby>願<rt>ねが</rt></ruby>いします／すみません、ちょっと…",
     "nuance_ja": "<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>でも、<strong>だれが<ruby>何<rt>なに</rt></ruby>をするか</strong>が<ruby>違<rt>ちが</rt></ruby>います。「ましょう」は<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>にする、「ましょうか」は<ruby>相手<rt>あいて</rt></ruby>に<ruby>確<rt>たし</rt></ruby>かめる（<ruby>私<rt>わたし</rt></ruby>がする・<ruby>一緒<rt>いっしょ</rt></ruby>にする）、「ませんか」は<ruby>相手<rt>あいて</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>をたずねるやわらかい<ruby>誘<rt>さそ</rt></ruby>いです。",
     "nuance_en": "The same forms differ in <strong>who does what</strong>. ましょう = we both do it; ましょうか = checks with the listener (I'll do it / shall we); ませんか = a soft invitation asking the listener's wish.",
@@ -2802,7 +2802,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちをたずねるやわらかい<ruby>誘<rt>さそ</rt></ruby>いです。",
         "nuance_en": "A soft invitation asking the listener's wish.",
-        "example": "<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>お茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>み<strong>ませんか</strong>。"
+        "example": "<ruby>一緒<rt>いっしょ</rt></ruby>にお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>み<strong>ませんか</strong>。"
       }
     ]
   }

@@ -7,7 +7,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "starting with ~ as the first",
     "similar": "〜を手始めに / 〜を始まりとして / 〜をきっかけに",
     "sentence_jp": "東京での公演を皮切りに、その劇団は全国十か所の劇場で巡回公演を行った。",
-    "sentence_furigana": "東京での公演を皮切りに、その劇団は全国十か所の劇場で巡回公演を行った。",
+    "sentence_furigana": "とうきょうでのこうえんをかわきりに、そのげきだんはぜんこくじゅうかしょのげきじょうでじゅんかいこうえんをおこなった。",
     "sentence_en": "Starting with the performance in Tokyo, the theater troupe held a touring performance at ten theaters nationwide.",
     "question": "東京での公演（　　　）、その劇団は全国十か所の劇場で巡回公演を行った。",
     "choices": [
@@ -37,7 +37,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "starting with ~ as the first",
     "similar": "〜を手始めに / 〜を始まりとして / 〜をきっかけに",
     "sentence_jp": "駅前の大型書店の開店を皮切りとして、周辺には新しい商業施設が次々と建設された。",
-    "sentence_furigana": "駅前の大型書店の開店を皮切りとして、周辺には新しい商業施設が次々と建設された。",
+    "sentence_furigana": "えきまえのおおがたしょてんのかいてんをかわきりとして、しゅうへんにはあたらしいしょうぎょうしせつがつぎつぎとけんせつされた。",
     "sentence_en": "Starting with the opening of the large bookstore in front of the station, new commercial facilities were built one after another in the surrounding area.",
     "question": "駅前の大型書店の開店（　　　）、周辺には新しい商業施設が次々と建設された。",
     "choices": [
@@ -67,7 +67,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "starting with ~ as the first",
     "similar": "〜を手始めに / 〜を始まりとして / 〜をきっかけに",
     "sentence_jp": "春の新作発表会を皮切りに、今年は各地で伝統工芸の展示イベントが相次いで開催される。",
-    "sentence_furigana": "春の新作発表会を皮切りに、今年は各地で伝統工芸の展示イベントが相次いで開催される。",
+    "sentence_furigana": "はるのしんさくはっぴょうかいをかわきりに、ことしはかくちででんとうこうげいのてんじイベントがあいついでかいさいされる。",
     "sentence_en": "Starting with the spring new collection presentation, traditional craft exhibition events will be held one after another in various regions this year.",
     "question": "春の新作発表会（　　　）、今年は各地で伝統工芸の展示イベントが相次いで開催される。",
     "choices": [
@@ -97,7 +97,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "starting with ~ as the first",
     "similar": "〜を手始めに / 〜を始まりとして / 〜をきっかけに",
     "sentence_jp": "本店での記念セールを皮切りにして、来週から全国の支店で一斉に感謝祭が始まる予定だ。",
-    "sentence_furigana": "本店での記念セールを皮切りにして、来週から全国の支店で一斉に感謝祭が始まる予定だ。",
+    "sentence_furigana": "ほんてんでのきねんセールをかわきりにして、らいしゅうからぜんこくのしてんでいっせいにかんしゃさいがはじまるよていだ。",
     "sentence_en": "Starting with the commemorative sale at the main store, appreciation festivals are scheduled to begin simultaneously at branches nationwide next week.",
     "question": "本店での記念セール（　　　）、来週から全国の支店で一斉に感謝祭が始まる予定だ。",
     "choices": [
@@ -127,7 +127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether it is ~ or ~",
     "similar": "〜であろうと / 〜にせよ / 〜にしても",
     "sentence_jp": "いかなる理由であれ、図書館の貴重な資料を無断で持ち出すことは許されない。",
-    "sentence_furigana": "いかなる理由であれ、図書館の貴重な資料を無断で持ち出すことは許されない。",
+    "sentence_furigana": "いかなるりゆうであれ、としょかんのきちょうなしりょうをむだんでもちだすことはゆるされない。",
     "sentence_en": "Whatever the reason may be, taking valuable library materials out without permission is not permitted.",
     "question": "いかなる理由（　　　）、図書館の貴重な資料を無断で持ち出すことは許されない。",
     "choices": [
@@ -157,7 +157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether it is ~ or ~",
     "similar": "〜であろうと / 〜にせよ / 〜にしても",
     "sentence_jp": "ベテランであれ新人であれ、舞台に立つ以上は最高の演奏を届ける責任がある。",
-    "sentence_furigana": "ベテランであれ新人であれ、舞台に立つ以上は最高の演奏を届ける責任がある。",
+    "sentence_furigana": "ベテランであれしんじんであれ、ぶたいにたついじょうはさいこうのえんそうをとどけるせきにんがある。",
     "sentence_en": "Whether a veteran or a newcomer, as long as one stands on stage, one has a responsibility to deliver the best performance.",
     "question": "ベテランであれ新人（　　　）、舞台に立つ以上は最高の演奏を届ける責任がある。",
     "choices": [
@@ -187,7 +187,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether it is ~ or ~",
     "similar": "〜であろうと / 〜にせよ / 〜にしても",
     "sentence_jp": "たとえ小さな部品一つであれ、品質検査の手順を省略することは一切認められない。",
-    "sentence_furigana": "たとえ小さな部品一つであれ、品質検査の手順を省略することは一切認められない。",
+    "sentence_furigana": "たとえちいさなぶひんひとつであれ、ひんしつけんさのてじゅんをしょうりゃくすることはいっさいみとめられない。",
     "sentence_en": "Even if it is just a single small part, skipping quality inspection procedures is not permitted at all.",
     "question": "たとえ小さな部品一つ（　　　）、品質検査の手順を省略することは一切認められない。",
     "choices": [
@@ -217,7 +217,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether it is ~ or ~",
     "similar": "〜であろうと / 〜にせよ / 〜にしても",
     "sentence_jp": "誰の作品であれ、今回の美術コンクールでは名前を伏せて公平に審査が行われる。",
-    "sentence_furigana": "誰の作品であれ、今回の美術コンクールでは名前を伏せて公平に審査が行われる。",
+    "sentence_furigana": "だれのさくひんであれ、こんかいのびじゅつコンクールではなまえをふせてこうへいにしんさがおこなわれる。",
     "sentence_en": "Regardless of whose work it is, judging in this art competition will be conducted fairly with names concealed.",
     "question": "誰の作品（　　　）、今回の美術コンクールでは名前を伏せて公平に審査が行われる。",
     "choices": [
@@ -247,7 +247,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; boundlessly ~",
     "similar": "〜極まる / 〜この上ない / 非常に〜だ",
     "sentence_jp": "確認もせずに不確かな噂を広めるのは、当事者にとって迷惑極まりない行為だ。",
-    "sentence_furigana": "確認もせずに不確かな噂を広めるのは、当事者にとって迷惑極まりない行為だ。",
+    "sentence_furigana": "かくにんもせずにふたしかなうわさをひろめるのは、とうじしゃにとってめいわくきわまりないこういだ。",
     "sentence_en": "Spreading unverified rumors without checking is an extremely troublesome act for the people involved.",
     "question": "確認もせずに不確かな噂を広めるのは、当事者にとって迷惑（　　　）行為だ。",
     "choices": [
@@ -277,7 +277,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; boundlessly ~",
     "similar": "〜極まる / 〜この上ない / 非常に〜だ",
     "sentence_jp": "整備されていない夜間の山道を懐中電灯なしで歩くのは、危険極まりないことだ。",
-    "sentence_furigana": "整備されていない夜間の山道を懐中電灯なしで歩くのは、危険極まりないことだ。",
+    "sentence_furigana": "せいびされていないやかんのさんどうをかいちゅうでんとうなしであるくのは、きけんきわまりないことだ。",
     "sentence_en": "Walking along an unmaintained mountain path at night without a flashlight is an extremely dangerous thing to do.",
     "question": "整備されていない夜間の山道を懐中電灯なしで歩くのは、危険（　　　）ことだ。",
     "choices": [
@@ -307,7 +307,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; boundlessly ~",
     "similar": "〜極まる / 〜この上ない / 非常に〜だ",
     "sentence_jp": "相手の事情も聞かずに一方的に約束を破棄するとは、無責任極まりない態度である。",
-    "sentence_furigana": "相手の事情も聞かずに一方的に約束を破棄するとは、無責任極まりない態度である。",
+    "sentence_furigana": "あいてのじじょうもきかずにいっぽうてきにやくそくをはきするとは、むせきにんきわまりないたいどである。",
     "sentence_en": "Unilaterally breaking a promise without even hearing the other party's circumstances is an utterly irresponsible attitude.",
     "question": "相手の事情も聞かずに一方的に約束を破棄するとは、無責任（　　　）態度である。",
     "choices": [
@@ -337,7 +337,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; boundlessly ~",
     "similar": "〜極まる / 〜この上ない / 非常に〜だ",
     "sentence_jp": "根拠のない憶測で他人の努力を軽視するような発言は、不愉快極まりないものだ。",
-    "sentence_furigana": "根拠のない憶測で他人の努力を軽視するような発言は、不愉快極まりないものだ。",
+    "sentence_furigana": "こんきょのないおくそくでたにんのどりょくをけいしするようなはつげんは、ふゆかいきわまりないものだ。",
     "sentence_en": "Remarks that belittle others' efforts based on groundless speculation are boundlessly unpleasant.",
     "question": "根拠のない憶測で他人の努力を軽視するような発言は、不愉快（　　　）ものだ。",
     "choices": [
@@ -367,7 +367,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot suppress; cannot help feeling ~",
     "similar": "〜ずにはいられない / 〜てやまない / 〜を抑えられない",
     "sentence_jp": "長年の苦労が報われて舞台で輝く彼女の姿に、深い感動を禁じ得ない。",
-    "sentence_furigana": "長年の苦労が報われて舞台で輝く彼女の姿に、深い感動を禁じ得ない。",
+    "sentence_furigana": "ながねんのくろうがむくわれてぶたいでかがやくかのじょのすがたに、ふかいかんどうをきんじえない。",
     "sentence_en": "Seeing her shine on stage after years of hard work paid off, I cannot help feeling deeply moved.",
     "question": "長年の苦労が報われて舞台で輝く彼女の姿に、深い感動（　　　）。",
     "choices": [
@@ -397,7 +397,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot suppress; cannot help feeling ~",
     "similar": "〜ずにはいられない / 〜てやまない / 〜を抑えられない",
     "sentence_jp": "歴史ある美しい町並みが失われていく現状には、惜別の念を禁じ得ない。",
-    "sentence_furigana": "歴史ある美しい町並みが失われていく現状には、惜別の念を禁じ得ない。",
+    "sentence_furigana": "れきしあるうつくしいまちなみがうしなわれていくげんじょうには、せきべつのねんをきんじえない。",
     "sentence_en": "Facing the current situation where the historic and beautiful townscape is being lost, one cannot suppress a feeling of regretful parting.",
     "question": "歴史ある美しい町並みが失われていく現状には、惜別の念（　　　）。",
     "choices": [
@@ -427,7 +427,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot suppress; cannot help feeling ~",
     "similar": "〜ずにはいられない / 〜てやまない / 〜を抑えられない",
     "sentence_jp": "誠実に働いてきた人々が不利益を被るような制度には、強い疑問を禁じ得ない。",
-    "sentence_furigana": "誠実に働いてきた人々が不利益を被るような制度には、強い疑問を禁じ得ない。",
+    "sentence_furigana": "せいじつにはたらいてきたひとびとがふりえきをこうむるようなせいどには、つよいぎもんをきんじえない。",
     "sentence_en": "One cannot help feeling strong doubt toward a system in which people who have worked honestly suffer disadvantages.",
     "question": "誠実に働いてきた人々が不利益を被るような制度には、強い疑問（　　　）。",
     "choices": [
@@ -456,10 +456,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "をきんじえない",
     "meaning_en": "cannot suppress; cannot help feeling ~",
     "similar": "〜ずにはいられない / 〜てやまない / 〜を抑えられない",
-    "sentence_jp": "どれほど厳しい環境でも笑顔を絶やさない彼の姿勢には、敬意を禁じ得ない。",
-    "sentence_furigana": "どれほど厳しい環境でも笑顔を絶やさない彼の姿勢には、敬意を禁じ得ない。",
-    "sentence_en": "One cannot help feeling respect for his attitude of never losing his smile no matter how harsh the environment.",
-    "question": "どれほど厳しい環境でも笑顔を絶やさない彼の姿勢には、敬意（　　　）。",
+    "sentence_jp": "どれほど厳しい環境でも笑顔を絶やさない彼の姿勢には、尊敬の念を禁じ得ない。",
+    "sentence_furigana": "どれほどきびしいかんきょうでもえがおをたやさないかれのしせいには、そんけいのねんをきんじえない。",
+    "sentence_en": "I cannot help feeling deep respect for his attitude of never losing his smile, no matter how harsh the environment.",
+    "question": "どれほど厳しい環境でも笑顔を絶やさない彼の姿勢には、尊敬の念（　　　）。",
     "choices": [
       "を禁じ得ない",
       "にかこつける",
@@ -469,8 +469,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "を禁じ得ない",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>振<rt>ふ</rt></ruby>る<ruby>舞<rt>ま</rt></ruby>いに<ruby>対<rt>たい</rt></ruby>して、<ruby>自然<rt>しぜん</rt></ruby>と<ruby>敬意<rt>けいい</rt></ruby>が<ruby>湧<rt>わ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がる<ruby>文脈<rt>ぶんみゃく</rt></ruby>で<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "どれほど<ruby>厳<rt>きび</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でも<ruby>笑顔<rt>えがお</rt></ruby>を<ruby>絶<rt>た</rt></ruby>やさない<ruby>彼<rt>かれ</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>には、<ruby>敬意<rt>けいい</rt></ruby>（　　　）。",
-    "sentence_jp_ruby": "どれほど<ruby>厳<rt>きび</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でも<ruby>笑顔<rt>えがお</rt></ruby>を<ruby>絶<rt>た</rt></ruby>やさない<ruby>彼<rt>かれ</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>には、<ruby>敬意<rt>けいい</rt></ruby>を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない。",
+    "question_ruby": "どれほど<ruby>厳<rt>きび</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でも<ruby>笑顔<rt>えがお</rt></ruby>を<ruby>絶<rt>た</rt></ruby>やさない<ruby>彼<rt>かれ</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>には、<ruby>尊敬<rt>そんけい</rt></ruby>の<ruby>念<rt>ねん</rt></ruby>（　　　）。",
+    "sentence_jp_ruby": "どれほど<ruby>厳<rt>きび</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でも<ruby>笑顔<rt>えがお</rt></ruby>を<ruby>絶<rt>た</rt></ruby>やさない<ruby>彼<rt>かれ</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>には、<ruby>尊敬<rt>そんけい</rt></ruby>の<ruby>念<rt>ねん</rt></ruby>を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない。",
     "choices_ruby": [
       "を<ruby>禁<rt>きん</rt></ruby>じ<ruby>得<rt>え</rt></ruby>ない",
       "にかこつける",
@@ -487,7 +487,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "when it comes to ~",
     "similar": "〜になると / 〜ともなると / 〜に関しては（極端な例）",
     "sentence_jp": "今年の夏は全国的に猛暑が続き、南部の地域に至っては連日三十八度を超えている。",
-    "sentence_furigana": "今年の夏は全国的に猛暑が続き、南部の地域に至っては連日三十八度を超えている。",
+    "sentence_furigana": "ことしのなつはぜんこくてきにもうしょがつづき、なんぶのちいきにいたってはれんじつさんじゅうはちどをこえている。",
     "sentence_en": "This summer, intense heat has continued nationwide, and when it comes to the southern region, temperatures have exceeded 38 degrees every single day.",
     "question": "今年の夏は全国的に猛暑が続き、南部の地域（　　　）連日三十八度を超えている。",
     "choices": [
@@ -517,7 +517,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "when it comes to ~",
     "similar": "〜になると / 〜ともなると / 〜に関しては（極端な例）",
     "sentence_jp": "部員たちは皆練習に熱心だが、主将の彼に至っては毎朝五時から自主練習を続けている。",
-    "sentence_furigana": "部員たちは皆練習に熱心だが、主将の彼に至っては毎朝五時から自主練習を続けている。",
+    "sentence_furigana": "ぶいんたちはみなれんしゅうにねっしんだが、しゅしょうのかれにいたってはまいあさごじからじしゅれんしゅうをつづけている。",
     "sentence_en": "All the club members are enthusiastic about practice, and when it comes to him, the captain, he continues voluntary practice from five every morning.",
     "question": "部員たちは皆練習に熱心だが、主将の彼（　　　）毎朝五時から自主練習を続けている。",
     "choices": [
@@ -546,10 +546,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にいたっては",
     "meaning_en": "when it comes to ~",
     "similar": "〜になると / 〜ともなると / 〜に関しては（極端な例）",
-    "sentence_jp": "新しい 機器の操作は難しく、高齢の父に至っては電源の入れ方さえ分からず困っている。",
-    "sentence_furigana": "新しい 機器の操作は難しく、高齢の父に至っては電源の入れ方さえ分からず困っている。",
-    "sentence_en": "Operating the new device is difficult, and in my elderly father's case, he is troubled because he does not even know how to turn on the power.",
-    "question": "新しい 機器の操作は難しく、高齢の父（　　　）電源の入れ方さえ分からず困っている。",
+    "sentence_jp": "最新の家電は操作が複雑で、高齢の父に至っては電源の入れ方さえ分からず困っている。",
+    "sentence_furigana": "さいしんのかでんはそうさがふくざつで、こうれいのちちにいたってはでんげんのいれかたさえわからずこまっている。",
+    "sentence_en": "The latest home appliances are complicated to operate, and my elderly father is even having trouble figuring out how to turn the power on.",
+    "question": "最新の家電は操作が複雑で、高齢の父（　　　）電源の入れ方さえ分からず困っている。",
     "choices": [
       "ゆえに",
       "に至っては",
@@ -559,8 +559,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "に至っては",
     "notes": "<ruby>否定<rt>ひてい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>最<rt>もっと</rt></ruby>も<ruby>程度<rt>ていど</rt></ruby>が<ruby>甚<rt>はなは</rt></ruby>だしい<ruby>例<rt>れい</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げる<ruby>典型<rt>てんけい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>文脈<rt>ぶんみゃく</rt></ruby>です。",
-    "question_ruby": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>機器<rt>きき</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しく、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>（　　　）<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。",
-    "sentence_jp_ruby": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>機器<rt>きき</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しく、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。",
+    "question_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>家電<rt>かでん</rt></ruby>は<ruby>操作<rt>そうさ</rt></ruby>が<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>（　　　）<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。",
+    "sentence_jp_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>家電<rt>かでん</rt></ruby>は<ruby>操作<rt>そうさ</rt></ruby>が<ruby>複雑<rt>ふくざつ</rt></ruby>で、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。",
     "choices_ruby": [
       "ゆえに",
       "に<ruby>至<rt>いた</rt></ruby>っては",
@@ -577,7 +577,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "when it comes to ~",
     "similar": "〜になると / 〜ともなると / 〜に関しては（極端な例）",
     "sentence_jp": "連休中はどの観光地も混雑していたが、有名な展望台に至っては入場まで三時間も待たされた。",
-    "sentence_furigana": "連休中はどの観光地も混雑していたが、有名な展望台に至っては入場まで三時間も待たされた。",
+    "sentence_furigana": "れんきゅうちゅうはどのかんこうちもこんざつしていたが、ゆうめいなてんぼうだいにいたってはにゅうじょうまでさんじかんもまたされた。",
     "sentence_en": "Every tourist spot was crowded during the holidays, and as for the famous observation deck, people had to wait three hours just to enter.",
     "question": "連休中はどの観光地も混雑していたが、有名な展望台（　　　）入場まで三時間も待たされた。",
     "choices": [
@@ -607,7 +607,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "that should not be; unpardonable for",
     "similar": "〜てはならない / 許されない / あってはならない",
     "sentence_jp": "依頼人の秘密を漏らすなど、専門職としてあるまじき行為であり到底許されない。",
-    "sentence_furigana": "依頼人の秘密を漏らすなど、専門職としてあるまじき行為であり到底許されない。",
+    "sentence_furigana": "いらいじんのひみつをもらすなど、せんもんしょくとしてあるまじきこういでありとうていゆるされない。",
     "sentence_en": "Leaking a client's secrets is an unpardonable act for a professional and cannot possibly be forgiven.",
     "question": "依頼人の秘密を漏らすなど、専門職としてある（　　　）行為であり到底許されない。",
     "choices": [
@@ -637,7 +637,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "that should not be; unpardonable for",
     "similar": "〜てはならない / 許されない / あってはならない",
     "sentence_jp": "安全確認を怠ったまま列車を運行するとは、責任者にあるまじき重大な過失である。",
-    "sentence_furigana": "安全確認を怠ったまま列車を運行するとは、責任者にあるまじき重大な過失である。",
+    "sentence_furigana": "あんぜんかくにんをおこたったままれっしゃをうんこうするとは、せきにんしゃにあるまじきじゅうだいなかしつである。",
     "sentence_en": "Operating a train while neglecting safety checks is a grave fault unbefitting a person in charge.",
     "question": "安全確認を怠ったまま列車を運行するとは、責任者にある（　　　）重大な過失である。",
     "choices": [
@@ -666,10 +666,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "まじき",
     "meaning_en": "that should not be; unpardonable for",
     "similar": "〜てはならない / 許されない / あってはならない",
-    "sentence_jp": "公の場で事実無根の噂を言いふらすのは、指導者として許すまじき言動だ。",
-    "sentence_furigana": "公の場で事実無根の噂を言いふらすのは、指導者として許すまじき言動だ。",
-    "sentence_en": "Spreading groundless rumors in public is unforgivable conduct for a leader.",
-    "question": "公の場で事実無根の噂を言いふらすのは、指導者として許す（　　　）言動だ。",
+    "sentence_jp": "公の場で事実無根の噂を言いふらすのは、指導者にあるまじき言動だ。",
+    "sentence_furigana": "おおやけのばでじじつむこんのうわさをいいふらすのは、しどうしゃにあるまじきげんどうだ。",
+    "sentence_en": "Spreading baseless rumors in public is conduct unbecoming of a leader.",
+    "question": "公の場で事実無根の噂を言いふらすのは、指導者にある（　　　）言動だ。",
     "choices": [
       "まじき",
       "を踏まえた",
@@ -679,8 +679,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "まじき",
     "notes": "「あるまじき」「<ruby>許<rt>ゆる</rt></ruby>すまじき」のように、<ruby>限<rt>かぎ</rt></ruby>られた<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書形<rt>じしょけい</rt></ruby>に<ruby>接続<rt>せつぞく</rt></ruby>して<ruby>名詞<rt>めいし</rt></ruby>を<ruby>修飾<rt>しゅうしょく</rt></ruby>します。",
-    "question_ruby": "<ruby>公<rt>おおやけ</rt></ruby>の<ruby>場<rt>ば</rt></ruby>で<ruby>事実無根<rt>じじつむこん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>を<ruby>言<rt>い</rt></ruby>いふらすのは、<ruby>指導<rt>しどう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>として<ruby>許<rt>ゆる</rt></ruby>す（　　　）<ruby>言動<rt>げんどう</rt></ruby>だ。",
-    "sentence_jp_ruby": "<ruby>公<rt>おおやけ</rt></ruby>の<ruby>場<rt>ば</rt></ruby>で<ruby>事実無根<rt>じじつむこん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>を<ruby>言<rt>い</rt></ruby>いふらすのは、<ruby>指導<rt>しどう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>として<ruby>許<rt>ゆる</rt></ruby>すまじき<ruby>言動<rt>げんどう</rt></ruby>だ。",
+    "question_ruby": "<ruby>公<rt>おおやけ</rt></ruby>の<ruby>場<rt>ば</rt></ruby>で<ruby>事実無根<rt>じじつむこん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>を<ruby>言<rt>い</rt></ruby>いふらすのは、<ruby>指導<rt>しどう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>にある（　　　）<ruby>言動<rt>げんどう</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>公<rt>おおやけ</rt></ruby>の<ruby>場<rt>ば</rt></ruby>で<ruby>事実無根<rt>じじつむこん</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>を<ruby>言<rt>い</rt></ruby>いふらすのは、<ruby>指導<rt>しどう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>にあるまじき<ruby>言動<rt>げんどう</rt></ruby>だ。",
     "choices_ruby": [
       "まじき",
       "を<ruby>踏<rt>ふ</rt></ruby>まえた",
@@ -697,7 +697,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "that should not be; unpardonable for",
     "similar": "〜てはならない / 許されない / あってはならない",
     "sentence_jp": "審判の判定に腹を立てて道具を投げつけるなど、一流選手にあるまじき振る舞いだ。",
-    "sentence_furigana": "審判の判定に腹を立てて道具を投げつけるなど、一流選手にあるまじき振る舞いだ。",
+    "sentence_furigana": "しんぱんのはんていにはらをたててどうぐをなげつけるなど、いちりゅうせんしゅにあるまじきふるまいだ。",
     "sentence_en": "Throwing equipment in anger at a referee's call is behavior unbecoming of a top-class athlete.",
     "question": "審判の判定に腹を立てて道具を投げつけるなど、一流選手にある（　　　）振る舞いだ。",
     "choices": [
@@ -727,7 +727,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like; as if; such as",
     "similar": "〜のような / 〜みたいに / 〜などの（軽視・謙遜）",
     "sentence_jp": "私ごとき経験の浅い者が、このような伝統ある賞をいただき恐縮しております。",
-    "sentence_furigana": "私ごとき経験の浅い者が、このような伝統ある賞をいただき恐縮しております。",
+    "sentence_furigana": "わたしごときけいけんのあさいものが、このようなでんとうあるしょうをいただききょうしゅくしております。",
     "sentence_en": "I am humbled that someone as inexperienced as myself has received such a prestigious award.",
     "question": "私（　　　）経験の浅い者が、このような伝統ある賞をいただき恐縮しております。",
     "choices": [
@@ -757,7 +757,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like; as if; such as",
     "similar": "〜のような / 〜みたいに / 〜などの（軽視・謙遜）",
     "sentence_jp": "ほんの数回練習しただけの素人ごときに、熟練の職人の技が真似できるはずがない。",
-    "sentence_furigana": "ほんの数回練習しただけの素人ごときに、熟練の職人の技が真似できるはずがない。",
+    "sentence_furigana": "ほんのすうかいれんしゅうしただけのしろうとごときに、じゅくれんのしょくにんのわざがまねできるはずがない。",
     "sentence_en": "There is no way a mere amateur who has only practiced a few times could imitate the skill of a master craftsman.",
     "question": "ほんの数回練習しただけの素人（　　　）に、熟練の職人の技が真似できるはずがない。",
     "choices": [
@@ -787,7 +787,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like; as if; such as",
     "similar": "〜のような / 〜みたいに / 〜などの（軽視・謙遜）",
     "sentence_jp": "春の嵐が過ぎ去った翌朝、何事もなかったかのごとく澄み渡った青空が広がっていた。",
-    "sentence_furigana": "春の嵐が過ぎ去った翌朝、何事もなかったかのごとく澄み渡った青空が広がっていた。",
+    "sentence_furigana": "はるのあらしがすぎさったよくあさ、なにごともなかったかのごとくすみわたったあおぞらがひろがっていた。",
     "sentence_en": "The morning after the spring storm passed, a clear blue sky spread out as if nothing had happened.",
     "question": "春の嵐が過ぎ去った翌朝、何事もなかったかの（　　　）澄み渡った青空が広がっていた。",
     "choices": [
@@ -817,7 +817,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like; as if; such as",
     "similar": "〜のような / 〜みたいに / 〜などの（軽視・謙遜）",
     "sentence_jp": "光陰矢のごとしという言葉の通り、大学に入学してからの四年間はあっという間だった。",
-    "sentence_furigana": "光陰矢のごとしという言葉の通り、大学に入学してからの四年間はあっという間だった。",
+    "sentence_furigana": "こういんやのごとしということばのとおり、だいがくににゅうがくしてからのよんねんかんはあっというあいだだった。",
     "sentence_en": "Just as the saying \"time flies like an arrow\" goes, the four years since entering university passed in the blink of an eye.",
     "question": "光陰矢の（　　　）という言葉の通り、大学に入学してからの四年間はあっという間だった。",
     "choices": [
@@ -847,7 +847,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "entirely; full of; nothing but",
     "similar": "〜ばかり / 〜だらけ / すべて〜で満ちている",
     "sentence_jp": "今月は昇進が決まった上に懸賞にも当たり、まさにいいことずくめの毎日だ。",
-    "sentence_furigana": "今月は昇進が決まった上に懸賞にも当たり、まさにいいことずくめの毎日だ。",
+    "sentence_furigana": "こんげつはしょうしんがきまったうえにけんしょうにもあたり、まさにいいことずくめのまいにちだ。",
     "sentence_en": "This month, on top of my promotion being decided, I also won a prize draw; it is truly nothing but good things every day.",
     "question": "今月は昇進が決まった上に懸賞にも当たり、まさにいいこと（　　　）の毎日だ。",
     "choices": [
@@ -877,7 +877,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "entirely; full of; nothing but",
     "similar": "〜ばかり / 〜だらけ / すべて〜で満ちている",
     "sentence_jp": "舞台の袖から、帽子から靴まで全身黒ずくめの衣装を着た演奏者が現れた。",
-    "sentence_furigana": "舞台の袖から、帽子から靴まで全身黒ずくめの衣装を着た演奏者が現れた。",
+    "sentence_furigana": "ぶたいのそでから、ぼうしからくつまでぜんしんくろずくめのいしょうをきたえんそうしゃがあらわれた。",
     "sentence_en": "From the wings of the stage appeared a performer dressed entirely in black from hat to shoes.",
     "question": "舞台の袖から、帽子から靴まで全身黒（　　　）の衣装を着た演奏者が現れた。",
     "choices": [
@@ -907,7 +907,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "entirely; full of; nothing but",
     "similar": "〜ばかり / 〜だらけ / すべて〜で満ちている",
     "sentence_jp": "老舗旅館での夕食は、地元の新鮮な海の幸を使ったごちそうずくめで感激した。",
-    "sentence_furigana": "老舗旅館での夕食は、地元の新鮮な海の幸を使ったごちそうずくめで感激した。",
+    "sentence_furigana": "しにせりょかんでのゆうしょくは、じもとのしんせんなうみのこうをつかったごちそうずくめでかんげきした。",
     "sentence_en": "Dinner at the long-established inn was full of sumptuous dishes made with fresh local seafood, which deeply impressed us.",
     "question": "老舗旅館での夕食は、地元の新鮮な海の幸を使ったごちそう（　　　）で感激した。",
     "choices": [
@@ -936,26 +936,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ずくめ",
     "meaning_en": "entirely; full of; nothing but",
     "similar": "〜ばかり / 〜だらけ / すべて〜で満ちている",
-    "sentence_jp": "祖父母の家を訪問すると、いつも手厚い歓迎と心のこもったおもてなしずくめだ。",
-    "sentence_furigana": "祖父母の家を訪問すると、いつも手厚い歓迎と心のこもったおもてなしずくめだ。",
-    "sentence_en": "Whenever I visit my grandparents' house, it is always nothing but warm welcome and heartfelt hospitality.",
-    "question": "祖父母の家を訪問すると、いつも手厚い歓迎と心のこもったおもてなし（　　　）だ。",
+    "sentence_jp": "その寮は門限や服装など細かい規則ずくめで、慣れるまで大変だった。",
+    "sentence_furigana": "そのりょうはもんげんやふくそうなどこまかいきそくずくめで、なれるまでたいへんだった。",
+    "sentence_en": "That dormitory is full of strict rules such as curfews and dress codes, so it was tough until I got used to it.",
+    "question": "その寮は門限や服装など細かい規則（　　　）で、慣れるまで大変だった。",
     "choices": [
       "ずくめ",
       "まみれ",
-      "ぶる",
-      "まじき"
+      "ごとき",
+      "ならでは"
     ],
     "answer": 0,
     "correct_text": "ずくめ",
     "notes": "<ruby>好<rt>この</rt></ruby>ましい<ruby>待遇<rt>たいぐう</rt></ruby>や<ruby>歓迎<rt>かんげい</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>最後<rt>さいご</rt></ruby>まで<ruby>続<rt>つづ</rt></ruby>くことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>祖父母<rt>そふぼ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>すると、いつも<ruby>手厚<rt>てあつ</rt></ruby>い<ruby>歓迎<rt>かんげい</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>のこもったおもてなし（　　　）だ。",
-    "sentence_jp_ruby": "<ruby>祖父母<rt>そふぼ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>すると、いつも<ruby>手厚<rt>てあつ</rt></ruby>い<ruby>歓迎<rt>かんげい</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>のこもったおもてなしずくめだ。",
+    "question_ruby": "その<ruby>寮<rt>りょう</rt></ruby>は<ruby>門限<rt>もんげん</rt></ruby>や<ruby>服装<rt>ふくそう</rt></ruby>など<ruby>細<rt>こま</rt></ruby>かい<ruby>規則<rt>きそく</rt></ruby>（　　　）で、<ruby>慣<rt>な</rt></ruby>れるまで<ruby>大変<rt>たいへん</rt></ruby>だった。",
+    "sentence_jp_ruby": "その<ruby>寮<rt>りょう</rt></ruby>は<ruby>門限<rt>もんげん</rt></ruby>や<ruby>服装<rt>ふくそう</rt></ruby>など<ruby>細<rt>こま</rt></ruby>かい<ruby>規則<rt>きそく</rt></ruby>ずくめで、<ruby>慣<rt>な</rt></ruby>れるまで<ruby>大変<rt>たいへん</rt></ruby>だった。",
     "choices_ruby": [
       "ずくめ",
       "まみれ",
-      "ぶる",
-      "まじき"
+      "ごとき",
+      "ならでは"
     ],
     "correct_text_ruby": "ずくめ"
   },
@@ -967,7 +967,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "covered in; smeared with",
     "similar": "〜だらけ / 〜に塗れて / 一面に〜がついた",
     "sentence_jp": "大雨の中で行われたサッカーの試合で、選手たちはユニフォームが泥まみれになった。",
-    "sentence_furigana": "大雨の中で行われたサッカーの試合で、選手たちはユニフォームが泥まみれになった。",
+    "sentence_furigana": "おおあめのなかでおこなわれたサッカーのしあいで、せんしゅたちはユニフォームがどろまみれになった。",
     "sentence_en": "In the soccer match held in heavy rain, the players' uniforms became covered in mud.",
     "question": "大雨の中で行われたサッカーの試合で、選手たちはユニフォームが泥（　　　）になった。",
     "choices": [
@@ -997,7 +997,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "covered in; smeared with",
     "similar": "〜だらけ / 〜に塗れて / 一面に〜がついた",
     "sentence_jp": "長年誰も使っていなかった屋根裏部屋を片付けたら、全身がほこりまみれになった。",
-    "sentence_furigana": "長年誰も使っていなかった屋根裏部屋を片付けたら、全身がほこりまみれになった。",
+    "sentence_furigana": "ながねんだれもつかっていなかったやねうらへやをかたづけたら、ぜんしんがほこりまみれになった。",
     "sentence_en": "When I cleaned up the attic that no one had used for years, my whole body became covered in dust.",
     "question": "長年誰も使っていなかった屋根裏部屋を片付けたら、全身がほこり（　　　）になった。",
     "choices": [
@@ -1027,7 +1027,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "covered in; smeared with",
     "similar": "〜だらけ / 〜に塗れて / 一面に〜がついた",
     "sentence_jp": "真夏の体育館で三時間もバドミントンの練習を続け、シャツが汗まみれになった。",
-    "sentence_furigana": "真夏の体育館で三時間もバドミントンの練習を続け、シャツが汗まみれになった。",
+    "sentence_furigana": "まなつのたいいくかんでさんじかんもバドミントンのれんしゅうをつづけ、シャツがあせまみれになった。",
     "sentence_en": "After continuing badminton practice for three hours in the midsummer gymnasium, my shirt was soaked in sweat.",
     "question": "真夏の体育館で三時間もバドミントンの練習を続け、シャツが汗（　　　）になった。",
     "choices": [
@@ -1057,7 +1057,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "covered in; smeared with",
     "similar": "〜だらけ / 〜に塗れて / 一面に〜がついた",
     "sentence_jp": "工場の古い機械を分解して修理するうちに、作業着も両手も機械油まみれになった。",
-    "sentence_furigana": "工場の古い機械を分解して修理するうちに、作業着も両手も機械油まみれになった。",
+    "sentence_furigana": "こうじょうのふるいきかいをぶんかいしてしゅうりするうちに、さぎょうぎもりょうてもきかいあぶらまみれになった。",
     "sentence_en": "While disassembling and repairing the old factory machinery, both my work clothes and hands became smeared with machine oil.",
     "question": "工場の古い機械を分解して修理するうちに、作業着も両手も機械油（　　　）になった。",
     "choices": [
@@ -1087,7 +1087,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of; due to",
     "similar": "〜ために / 〜だからこそ / 〜という理由で",
     "sentence_jp": "まだ実務経験が浅いがゆえに、先輩方の助言を素直に吸収して成長することができた。",
-    "sentence_furigana": "まだ実務経験が浅いがゆえに、先輩方の助言を素直に吸収して成長することができた。",
+    "sentence_furigana": "まだじつむけいけんがあさいがゆえに、せんぱいがたのじょげんをすなおにきゅうしゅうしてせいちょうすることができた。",
     "sentence_en": "Precisely because my practical experience was still limited, I was able to honestly absorb the advice of my seniors and grow.",
     "question": "まだ実務経験が浅いが（　　　）、先輩方の助言を素直に吸収して成長することができた。",
     "choices": [
@@ -1116,10 +1116,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ゆえに",
     "meaning_en": "because of; due to",
     "similar": "〜ために / 〜だからこそ / 〜という理由で",
-    "sentence_jp": "新雪の美しさに心を奪われたがゆえに、多くの写真家が冬の早朝にこの渓谷を訪れる。",
-    "sentence_furigana": "新雪の美しさに心を奪われたがゆえに、多くの写真家が冬の早朝にこの渓谷を訪れる。",
-    "sentence_en": "Because their hearts are captivated by the beauty of fresh snow, many photographers visit this valley early on winter mornings.",
-    "question": "新雪の美しさに心を奪われたが（　　　）、多くの写真家が冬の早朝にこの渓谷を訪れる。",
+    "sentence_jp": "この渓谷は冬の新雪がひときわ美しいがゆえに、厳しい寒さの中でも毎年多くの写真家が訪れる。",
+    "sentence_furigana": "このけいこくはふゆのしんせつがひときわうつくしいがゆえに、きびしいさむさのなかでもまいとしおおくのしゃしんかがおとずれる。",
+    "sentence_en": "Precisely because the fresh winter snow in this valley is exceptionally beautiful, many photographers visit every year even in the bitter cold.",
+    "question": "この渓谷は冬の新雪がひときわ美しいが（　　　）、厳しい寒さの中でも毎年多くの写真家が訪れる。",
     "choices": [
       "にかこつけて",
       "に先駆けて",
@@ -1129,8 +1129,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ゆえに",
     "notes": "<ruby>心情<rt>しんじょう</rt></ruby>や<ruby>性質<rt>せいしつ</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>となって<ruby>次<rt>つぎ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>や<ruby>結果<rt>けっか</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じることを<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>く<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>新雪<rt>しんせつ</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさに<ruby>心<rt>こころ</rt></ruby>を<ruby>奪<rt>うば</rt></ruby>われたが（　　　）、<ruby>多<rt>おお</rt></ruby>くの<ruby>写真<rt>しゃしん</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>早朝<rt>そうちょう</rt></ruby>にこの<ruby>渓谷<rt>けいこく</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れる。",
-    "sentence_jp_ruby": "<ruby>新雪<rt>しんせつ</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさに<ruby>心<rt>こころ</rt></ruby>を<ruby>奪<rt>うば</rt></ruby>われたがゆえに、<ruby>多<rt>おお</rt></ruby>くの<ruby>写真<rt>しゃしん</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>早朝<rt>そうちょう</rt></ruby>にこの<ruby>渓谷<rt>けいこく</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "question_ruby": "この<ruby>渓谷<rt>けいこく</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>新雪<rt>しんせつ</rt></ruby>がひときわ<ruby>美<rt>うつく</rt></ruby>しいが（　　　）、<ruby>厳<rt>きび</rt></ruby>しい<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>でも<ruby>毎年<rt>まいとし</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>写真<rt>しゃしん</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れる。",
+    "sentence_jp_ruby": "この<ruby>渓谷<rt>けいこく</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>新雪<rt>しんせつ</rt></ruby>がひときわ<ruby>美<rt>うつく</rt></ruby>しいがゆえに、<ruby>厳<rt>きび</rt></ruby>しい<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>でも<ruby>毎年<rt>まいとし</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>写真<rt>しゃしん</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>訪<rt>おとず</rt></ruby>れる。",
     "choices_ruby": [
       "にかこつけて",
       "に<ruby>先駆<rt>さきが</rt></ruby>けて",
@@ -1147,7 +1147,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of; due to",
     "similar": "〜ために / 〜だからこそ / 〜という理由で",
     "sentence_jp": "期待が大きかったゆえに、計画が延期になったときの落胆もまた大きかった。",
-    "sentence_furigana": "期待が大きかったゆえに、計画が延期になったときの落胆もまた大きかった。",
+    "sentence_furigana": "きたいがおおきかったゆえに、けいかくがえんきになったときのらくたんもまたおおきかった。",
     "sentence_en": "Because expectations were high, the disappointment when the plan was postponed was also great.",
     "question": "期待が大きかった（　　　）、計画が延期になったときの落胆もまた大きかった。",
     "choices": [
@@ -1177,7 +1177,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of; due to",
     "similar": "〜ために / 〜だからこそ / 〜という理由で",
     "sentence_jp": "完成度の高さを追求する職人ゆえの厳しいこだわりが、この楽器の音色を支えている。",
-    "sentence_furigana": "完成度の高さを追求する職人ゆえの厳しいこだわりが、この楽器の音色を支えている。",
+    "sentence_furigana": "かんせいどのたかさをついきゅうするしょくにんゆえのきびしいこだわりが、このがっきのねいろをささえている。",
     "sentence_en": "The strict dedication that comes precisely from being a craftsman pursuing perfection supports the tone of this musical instrument.",
     "question": "完成度の高さを追求する職人（　　　）厳しいこだわりが、この楽器の音色を支えている。",
     "choices": [
@@ -1207,7 +1207,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "uniquely possible for; characteristic of",
     "similar": "〜特有の / 〜にしかできない / 〜だからこそ可能な",
     "sentence_jp": "地元の漁師町ならではの新鮮な魚介類を使った料理が、観光客に大好評だ。",
-    "sentence_furigana": "地元の漁師町ならではの新鮮な魚介類を使った料理が、観光客に大好評だ。",
+    "sentence_furigana": "じもとのりょうしまちならではのしんせんなぎょかいるいをつかったりょうりが、かんこうきゃくにだいこうひょうだ。",
     "sentence_en": "Dishes made with fresh seafood unique to a local fishing town are immensely popular with tourists.",
     "question": "地元の漁師町（　　　）の新鮮な魚介類を使った料理が、観光客に大好評だ。",
     "choices": [
@@ -1237,7 +1237,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "uniquely possible for; characteristic of",
     "similar": "〜特有の / 〜にしかできない / 〜だからこそ可能な",
     "sentence_jp": "長年の経験を積んだ熟練の職人ならではの繊細な手仕事に、見学者は目を奪われた。",
-    "sentence_furigana": "長年の経験を積んだ熟練の職人ならではの繊細な手仕事に、見学者は目を奪われた。",
+    "sentence_furigana": "ながねんのけいけんをつんだじゅくれんのしょくにんならではのせんさいなてしごとに、けんがくしゃはめをうばわれた。",
     "sentence_en": "Visitors were captivated by the delicate craftsmanship uniquely possible for a master artisan with many years of experience.",
     "question": "長年の経験を積んだ熟練の職人（　　　）の繊細な手仕事に、見学者は目を奪われた。",
     "choices": [
@@ -1267,7 +1267,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "uniquely possible for; characteristic of",
     "similar": "〜特有の / 〜にしかできない / 〜だからこそ可能な",
     "sentence_jp": "手書きの手紙には、デジタルの文書にはない温かみと送り手ならではの味わいがある。",
-    "sentence_furigana": "手書きの手紙には、デジタルの文書にはない温かみと送り手ならではの味わいがある。",
+    "sentence_furigana": "てがきのてがみには、デジタルのぶんしょにはないあたたかみとおくりてならではのあじわいがある。",
     "sentence_en": "Handwritten letters have a warmth not found in digital documents and a charm unique to the sender.",
     "question": "手書きの手紙には、デジタルの文書にはない温かみと送り手（　　　）の味わいがある。",
     "choices": [
@@ -1297,7 +1297,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "uniquely possible for; characteristic of",
     "similar": "〜特有の / 〜にしかできない / 〜だからこそ可能な",
     "sentence_jp": "四季の移ろいを繊細に表現した和菓子は、日本の伝統文化ならではの芸術と言える。",
-    "sentence_furigana": "四季の移ろいを繊細に表現した和菓子は、日本の伝統文化ならではの芸術と言える。",
+    "sentence_furigana": "しきのうつろいをせんさいにひょうげんしたわがしは、にほんのでんとうぶんかならではのげいじゅつといえる。",
     "sentence_en": "Japanese sweets that delicately express the changing of the four seasons can be called an art form unique to traditional Japanese culture.",
     "question": "四季の移ろいを繊細に表現した和菓子は、日本の伝統文化（　　　）の芸術と言える。",
     "choices": [
@@ -1327,7 +1327,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "affecting; concerning",
     "similar": "〜に影響する / 〜を左右する / 〜に重大な関係がある",
     "sentence_jp": "製品の安全性の不備は、長年築き上げてきた企業の信用にかかわる重大な問題だ。",
-    "sentence_furigana": "製品の安全性の不備は、長年築き上げてきた企業の信用にかかわる重大な問題だ。",
+    "sentence_furigana": "せいひんのあんぜんせいのふびは、ながねんきずきあげてきたきぎょうのしんようにかかわるじゅうだいなもんだいだ。",
     "sentence_en": "Deficiencies in product safety are a serious issue affecting the corporate trust built up over many years.",
     "question": "製品の安全性の不備は、長年築き上げてきた企業の信用（　　　）重大な問題だ。",
     "choices": [
@@ -1357,7 +1357,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "affecting; concerning",
     "similar": "〜に影響する / 〜を左右する / 〜に重大な関係がある",
     "sentence_jp": "伝統ある工房の名誉にかかわる仕事だからこそ、一切の妥協を許さずに仕上げなければならない。",
-    "sentence_furigana": "伝統ある工房の名誉にかかわる仕事だからこそ、一切の妥協を許さずに仕上げなければならない。",
+    "sentence_furigana": "でんとうあるこうぼうのめいよにかかわるしごとだからこそ、いっさいのだきょうをゆるさずにしあげなければならない。",
     "sentence_en": "Precisely because this work affects the honor of our historic workshop, we must finish it without allowing any compromise.",
     "question": "伝統ある工房の名誉（　　　）仕事だからこそ、一切の妥協を許さずに仕上げなければならない。",
     "choices": [
@@ -1386,10 +1386,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にかかわる",
     "meaning_en": "affecting; concerning",
     "similar": "〜に影響する / 〜を左右する / 〜に重大な関係がある",
-    "sentence_jp": "主力商品の開発計画が成功するかどうかは、会社の今後の存続にかかわる大切な岐路である。",
-    "sentence_furigana": "主力商品の開発計画が成功するかどうかは、会社の今後の存続にかかわる大切な岐路である。",
-    "sentence_en": "Whether the development plan for the flagship product succeeds is a vital crossroads affecting the future survival of the company.",
-    "question": "主力商品の開発計画が成功するかどうかは、会社の今後の存続（　　　）大切な岐路である。",
+    "sentence_jp": "主力商品の開発計画が成功するかどうかは、会社の今後の存続にかかわる重大な問題である。",
+    "sentence_furigana": "しゅりょくしょうひんのかいはつけいかくがせいこうするかどうかは、かいしゃのこんごのそんぞくにかかわるじゅうだいなもんだいである。",
+    "sentence_en": "Whether the development plan for our flagship product succeeds is a critical issue affecting the future survival of the company.",
+    "question": "主力商品の開発計画が成功するかどうかは、会社の今後の存続（　　　）重大な問題である。",
     "choices": [
       "に即した",
       "に準じた",
@@ -1399,8 +1399,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "にかかわる",
     "notes": "<ruby>将来<rt>しょうらい</rt></ruby>や<ruby>存続<rt>そんぞく</rt></ruby>など、<ruby>組織<rt>そしき</rt></ruby>の<ruby>運命<rt>うんめい</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きく<ruby>左右<rt>さゆう</rt></ruby>する<ruby>事柄<rt>ことがら</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>われます。",
-    "question_ruby": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>（　　　）<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>岐路<rt>きろ</rt></ruby>である。",
-    "sentence_jp_ruby": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>にかかわる<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>岐路<rt>きろ</rt></ruby>である。",
+    "question_ruby": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>（　　　）<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>である。",
+    "sentence_jp_ruby": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>にかかわる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>である。",
     "choices_ruby": [
       "に<ruby>即<rt>そく</rt></ruby>した",
       "に<ruby>準<rt>じゅん</rt></ruby>じた",
@@ -1417,7 +1417,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "affecting; concerning",
     "similar": "〜に影響する / 〜を左右する / 〜に重大な関係がある",
     "sentence_jp": "今回の資格試験の合否は、彼の今後の進路にかかわるだけに、周囲も結果を案じている。",
-    "sentence_furigana": "今回の資格試験の合否は、彼の今後の進路にかかわるだけに、周囲も結果を案じている。",
+    "sentence_furigana": "こんかいのしかくしけんのごうひは、かれのこんごのしんろにかかわるだけに、しゅういもけっかをあんじている。",
     "sentence_en": "Since passing or failing this qualification exam affects his future career path, those around him are also anxious about the result.",
     "question": "今回の資格試験の合否は、彼の今後の進路（　　　）だけに、周囲も結果を案じている。",
     "choices": [
@@ -1447,7 +1447,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "given that special situation",
     "similar": "〜という特別な事情なら / 〜となれば / 〜からには",
     "sentence_jp": "学生時代にお世話になった恩師からの頼みとあっては、どれほど忙しくても断るわけにはいかない。",
-    "sentence_furigana": "学生時代にお世話になった恩師からの頼みとあっては、どれほど忙しくても断るわけにはいかない。",
+    "sentence_furigana": "がくせいじだいにおせわになったおんしからのたのみとあっては、どれほどいそがしくてもことわるわけにはいかない。",
     "sentence_en": "Given that it is a request from my former mentor who helped me in my student days, I cannot possibly refuse no matter how busy I am.",
     "question": "学生時代にお世話になった恩師からの頼み（　　　）、どれほど忙しくても断るわけにはいかない。",
     "choices": [
@@ -1476,10 +1476,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "とあっては",
     "meaning_en": "given that special situation",
     "similar": "〜という特別な事情なら / 〜となれば / 〜からには",
-    "sentence_jp": "十年ぶりに開催される故郷の伝統祭りとあっては、遠方からでも帰省して参加したい。",
-    "sentence_furigana": "十年ぶりに開催される故郷の伝統祭りとあっては、遠方からでも帰省して参加したい。",
-    "sentence_en": "Given that it is my hometown's traditional festival being held for the first time in ten years, I want to return home and participate even from afar.",
-    "question": "十年ぶりに開催される故郷の伝統祭り（　　　）、遠方からでも帰省して参加したい。",
+    "sentence_jp": "十年ぶりに開催される故郷の伝統祭りとあっては、遠方からでも帰省して参加しないわけにはいかない。",
+    "sentence_furigana": "じゅうねんぶりにかいさいされるこきょうのでんとうまつりとあっては、えんぽうからでもきせいしてさんかしないわけにはいかない。",
+    "sentence_en": "Given that it is my hometown's traditional festival being held for the first time in ten years, I cannot help going back even from afar to take part.",
+    "question": "十年ぶりに開催される故郷の伝統祭り（　　　）、遠方からでも帰省して参加しないわけにはいかない。",
     "choices": [
       "とあっては",
       "にかまけて",
@@ -1489,8 +1489,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "とあっては",
     "notes": "めったにない<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>であることを<ruby>理由<rt>りゆう</rt></ruby>に、<ruby>強<rt>つよ</rt></ruby>い<ruby>意欲<rt>いよく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "<ruby>十年<rt>じゅうねん</rt></ruby>ぶりに<ruby>開催<rt>かいさい</rt></ruby>される<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>祭<rt>まつ</rt></ruby>り（　　　）、<ruby>遠方<rt>えんぽう</rt></ruby>からでも<ruby>帰省<rt>きせい</rt></ruby>して<ruby>参加<rt>さんか</rt></ruby>したい。",
-    "sentence_jp_ruby": "<ruby>十年<rt>じゅうねん</rt></ruby>ぶりに<ruby>開催<rt>かいさい</rt></ruby>される<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りとあっては、<ruby>遠方<rt>えんぽう</rt></ruby>からでも<ruby>帰省<rt>きせい</rt></ruby>して<ruby>参加<rt>さんか</rt></ruby>したい。",
+    "question_ruby": "<ruby>十<rt>じゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>開催<rt>かいさい</rt></ruby>される<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>祭<rt>まつ</rt></ruby>り（　　　）、<ruby>遠方<rt>えんぽう</rt></ruby>からでも<ruby>帰省<rt>きせい</rt></ruby>して<ruby>参加<rt>さんか</rt></ruby>しないわけにはいかない。",
+    "sentence_jp_ruby": "<ruby>十<rt>じゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby>ぶりに<ruby>開催<rt>かいさい</rt></ruby>される<ruby>故郷<rt>こきょう</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りとあっては、<ruby>遠方<rt>えんぽう</rt></ruby>からでも<ruby>帰省<rt>きせい</rt></ruby>して<ruby>参加<rt>さんか</rt></ruby>しないわけにはいかない。",
     "choices_ruby": [
       "とあっては",
       "にかまけて",
@@ -1507,7 +1507,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "given that special situation",
     "similar": "〜という特別な事情なら / 〜となれば / 〜からには",
     "sentence_jp": "大切な親友の門出を祝う演奏会とあっては、万全の準備をして舞台に臨まなければならない。",
-    "sentence_furigana": "大切な親友の門出を祝う演奏会とあっては、万全の準備をして舞台に臨まなければならない。",
+    "sentence_furigana": "たいせつなしんゆうのかどでをいわうえんそうかいとあっては、ばんぜんのじゅんびをしてぶたいにのぞまなければならない。",
     "sentence_en": "Given that it is a concert celebrating my dear friend's new departure, I must prepare thoroughly for the stage.",
     "question": "大切な親友の門出を祝う演奏会（　　　）、万全の準備をして舞台に臨まなければならない。",
     "choices": [
@@ -1537,7 +1537,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "given that special situation",
     "similar": "〜という特別な事情なら / 〜となれば / 〜からには",
     "sentence_jp": "世界的な建築家が手がけた図書館が公開されるとあっては、建築を学ぶ者として見に行かない手はない。",
-    "sentence_furigana": "世界的な建築家が手がけた図書館が公開されるとあっては、建築を学ぶ者として見に行かない手はない。",
+    "sentence_furigana": "せかいてきなけんちくかがてがけたとしょかんがこうかいされるとあっては、けんちくをまなぶものとしてみにいかないてはない。",
     "sentence_en": "Given that a library designed by a world-renowned architect is being opened to the public, as an architecture student there is no reason not to go see it.",
     "question": "世界的な建築家が手がけた図書館が公開される（　　　）、建築を学ぶ者として見に行かない手はない。",
     "choices": [
@@ -1567,7 +1567,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the role/position of",
     "similar": "〜であるからには / 〜という立場にある者は / 〜として",
     "sentence_jp": "教育者たるもの、常に学ぶ姿勢を忘れず、生徒一人ひとりの声に耳を傾けるべきである。",
-    "sentence_furigana": "教育者たるもの、常に学ぶ姿勢を忘れず、生徒一人ひとりの声に耳を傾けるべきである。",
+    "sentence_furigana": "きょういくしゃたるもの、つねにまなぶしせいをわすれず、せいとひとりひとりのこえにみみをかたむけるべきである。",
     "sentence_en": "Those who are educators should never forget an attitude of continuous learning and should listen to the voice of each and every student.",
     "question": "教育者（　　　）、常に学ぶ姿勢を忘れず、生徒一人ひとりの声に耳を傾けるべきである。",
     "choices": [
@@ -1596,10 +1596,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "たるもの",
     "meaning_en": "in the role/position of",
     "similar": "〜であるからには / 〜という立場にある者は / 〜として",
-    "sentence_jp": "オーケストラの指揮者たるもの、楽曲への深い理解と団員を導く統率力が求められる。",
-    "sentence_furigana": "オーケストラの指揮者たるもの、楽曲への深い理解と団員を導く統率力が求められる。",
-    "sentence_en": "One who is an orchestra conductor is required to have a deep understanding of the music and the leadership to guide the members.",
-    "question": "オーケストラの指揮者（　　　）、楽曲への深い理解と団員を導く統率力が求められる。",
+    "sentence_jp": "オーケストラの指揮者たるもの、楽曲への深い理解と団員を導く統率力を備えていなければならない。",
+    "sentence_furigana": "オーケストラのしきしゃたるもの、がっきょくへのふかいりかいとだんいんをみちびくとうそつりょくをそなえていなければならない。",
+    "sentence_en": "Anyone who is an orchestra conductor must possess a deep understanding of the music and the leadership to guide the musicians.",
+    "question": "オーケストラの指揮者（　　　）、楽曲への深い理解と団員を導く統率力を備えていなければならない。",
     "choices": [
       "たるもの",
       "ばかりに",
@@ -1609,8 +1609,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "たるもの",
     "notes": "<ruby>文末<rt>ぶんまつ</rt></ruby>は「〜べきだ」「〜が<ruby>求<rt>もと</rt></ruby>められる」「〜ねばならない」などの<ruby>当為<rt>とうい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>と<ruby>呼応<rt>こおう</rt></ruby>します。",
-    "question_ruby": "オーケストラの<ruby>指揮<rt>しき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>（　　　）、<ruby>楽曲<rt>がっきょく</rt></ruby>への<ruby>深<rt>ふか</rt></ruby>い<ruby>理解<rt>りかい</rt></ruby>と<ruby>団員<rt>だんいん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>く<ruby>統率<rt>とうそつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
-    "sentence_jp_ruby": "オーケストラの<ruby>指揮<rt>しき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たるもの、<ruby>楽曲<rt>がっきょく</rt></ruby>への<ruby>深<rt>ふか</rt></ruby>い<ruby>理解<rt>りかい</rt></ruby>と<ruby>団員<rt>だんいん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>く<ruby>統率<rt>とうそつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "question_ruby": "オーケストラの<ruby>指揮<rt>しき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>（　　　）、<ruby>楽曲<rt>がっきょく</rt></ruby>への<ruby>深<rt>ふか</rt></ruby>い<ruby>理解<rt>りかい</rt></ruby>と<ruby>団員<rt>だんいん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>く<ruby>統率<rt>とうそつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えていなければならない。",
+    "sentence_jp_ruby": "オーケストラの<ruby>指揮<rt>しき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たるもの、<ruby>楽曲<rt>がっきょく</rt></ruby>への<ruby>深<rt>ふか</rt></ruby>い<ruby>理解<rt>りかい</rt></ruby>と<ruby>団員<rt>だんいん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>く<ruby>統率<rt>とうそつ</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えていなければならない。",
     "choices_ruby": [
       "たるもの",
       "ばかりに",
@@ -1627,7 +1627,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the role/position of",
     "similar": "〜であるからには / 〜という立場にある者は / 〜として",
     "sentence_jp": "一国の文化を代表する伝統工芸の継承者たるもの、技の研鑽を怠ってはならない。",
-    "sentence_furigana": "一国の文化を代表する伝統工芸の継承者たるもの、技の研鑽を怠ってはならない。",
+    "sentence_furigana": "いちこくのぶんかをだいひょうするでんとうこうげいのけいしょうしゃたるもの、わざのけんさんをおこたってはならない。",
     "sentence_en": "As a successor of traditional crafts representing a nation's culture, one must never neglect the refinement of one's skills.",
     "question": "一国の文化を代表する伝統工芸の継承者（　　　）、技の研鑽を怠ってはならない。",
     "choices": [
@@ -1657,7 +1657,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the role/position of",
     "similar": "〜であるからには / 〜という立場にある者は / 〜として",
     "sentence_jp": "チームの主将たるもの、苦しい場面でこそ冷静さを保ち、仲間を鼓舞する存在でありたい。",
-    "sentence_furigana": "チームの主将たるもの、苦しい場面でこそ冷静さを保ち、仲間を鼓舞する存在でありたい。",
+    "sentence_furigana": "チームのしゅしょうたるもの、くるしいばめんでこそれいせいさをたもち、なかまをこぶするそんざいでありたい。",
     "sentence_en": "As team captain, one wants to be a presence that stays calm and inspires teammates especially in tough moments.",
     "question": "チームの主将（　　　）、苦しい場面でこそ冷静さを保ち、仲間を鼓舞する存在でありたい。",
     "choices": [
@@ -1687,7 +1687,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "which exists only thanks to",
     "similar": "〜があるからこそ成り立つ / 〜のおかげで存在する",
     "sentence_jp": "いかに優れた企画も健康あっての仕事だから、無理をせず十分な休養をとることが大切だ。",
-    "sentence_furigana": "いかに優れた企画も健康あっての仕事だから、無理をせず十分な休養をとることが大切だ。",
+    "sentence_furigana": "いかにすぐれたきかくもけんこうあってのしごとだから、むりをせずじゅうぶんなきゅうようをとることがたいせつだ。",
     "sentence_en": "No matter how excellent a project is, work is only possible with good health, so it is important not to overdo it and to get sufficient rest.",
     "question": "いかに優れた企画も健康（　　　）仕事だから、無理をせず十分な休養をとることが大切だ。",
     "choices": [
@@ -1717,7 +1717,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "which exists only thanks to",
     "similar": "〜があるからこそ成り立つ / 〜のおかげで存在する",
     "sentence_jp": "創業百周年を迎えられたのも、日頃よりご愛顧くださるお客様あってのことと深く感謝申し上げます。",
-    "sentence_furigana": "創業百周年を迎えられたのも、日頃よりご愛顧くださるお客様あってのことと深く感謝申し上げます。",
+    "sentence_furigana": "そうぎょうひゃくしゅうねんをむかえられたのも、ひごろよりごあいこくださるおきゃくさまあってのこととふかくかんしゃもうしあげます。",
     "sentence_en": "We are deeply grateful that being able to celebrate our 100th anniversary is entirely thanks to our loyal customers.",
     "question": "創業百周年を迎えられたのも、日頃よりご愛顧くださるお客様（　　　）ことと深く感謝申し上げます。",
     "choices": [
@@ -1747,7 +1747,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "which exists only thanks to",
     "similar": "〜があるからこそ成り立つ / 〜のおかげで存在する",
     "sentence_jp": "舞台上の俳優が輝けるのは、照明や音響を支える裏方のスタッフあってのものだ。",
-    "sentence_furigana": "舞台上の俳優が輝けるのは、照明や音響を支える裏方のスタッフあってのものだ。",
+    "sentence_furigana": "ぶたいじょうのはいゆうがかがやけるのは、しょうめいやおんきょうをささえるうらかたのスタッフあってのものだ。",
     "sentence_en": "The fact that actors on stage can shine is only possible thanks to the backstage staff supporting lighting and sound.",
     "question": "舞台上の俳優が輝けるのは、照明や音響を支える裏方のスタッフ（　　　）ものだ。",
     "choices": [
@@ -1776,10 +1776,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "あっての",
     "meaning_en": "which exists only thanks to",
     "similar": "〜があるからこそ成り立つ / 〜のおかげで存在する",
-    "sentence_jp": "個人の自由な発想も、基礎的な知識と技術の積み重ねあっての独創性である。",
-    "sentence_furigana": "個人の自由な発想も、基礎的な知識と技術の積み重ねあっての独創性である。",
-    "sentence_en": "Individual free thinking is originality that exists only thanks to the accumulation of basic knowledge and skills.",
-    "question": "個人の自由な発想も、基礎的な知識と技術の積み重ね（　　　）独創性である。",
+    "sentence_jp": "心を引きつける豊かな表現力も、基礎的な知識と技術の積み重ねあっての成果である。",
+    "sentence_furigana": "こころをひきつけるゆたかなひょうげんりょくも、きそてきなちしきとぎじゅつのつみかさねあってのせいかである。",
+    "sentence_en": "Even captivating expressive power is an achievement that is only possible through the accumulation of basic knowledge and skills.",
+    "question": "心を引きつける豊かな表現力も、基礎的な知識と技術の積み重ね（　　　）成果である。",
     "choices": [
       "に先駆けた",
       "にかこつけた",
@@ -1789,8 +1789,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "あっての",
     "notes": "<ruby>土台<rt>どだい</rt></ruby>となる<ruby>要素<rt>ようそ</rt></ruby>の<ruby>不可欠<rt>ふかけつ</rt></ruby>さを<ruby>端的<rt>たんてき</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>す<ruby>名詞<rt>めいし</rt></ruby><ruby>修飾<rt>しゅうしょく</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>個人<rt>こじん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>な<ruby>発想<rt>はっそう</rt></ruby>も、<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>と<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ね（　　　）<ruby>独創<rt>どくそう</rt></ruby><ruby>性<rt>せい</rt></ruby>である。",
-    "sentence_jp_ruby": "<ruby>個人<rt>こじん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>な<ruby>発想<rt>はっそう</rt></ruby>も、<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>と<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ねあっての<ruby>独創<rt>どくそう</rt></ruby><ruby>性<rt>せい</rt></ruby>である。",
+    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きつける<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>表現<rt>ひょうげん</rt></ruby><ruby>力<rt>りょく</rt></ruby>も、<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>と<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>積み重<rt>つみかさ</rt></ruby>ね（　　　）<ruby>成果<rt>せいか</rt></ruby>である。",
+    "sentence_jp_ruby": "<ruby>心<rt>こころ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きつける<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>表現<rt>ひょうげん</rt></ruby><ruby>力<rt>りょく</rt></ruby>も、<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知識<rt>ちしき</rt></ruby>と<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>積み重<rt>つみかさ</rt></ruby>ねあっての<ruby>成果<rt>せいか</rt></ruby>である。",
     "choices_ruby": [
       "に<ruby>先駆<rt>さきが</rt></ruby>けた",
       "にかこつけた",
@@ -1807,7 +1807,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "once one reaches the stage of",
     "similar": "〜になると / 〜という段階に達すると / 〜ほどの立場になれば",
     "sentence_jp": "全国大会の決勝戦ともなると、どのチームの選手も一切の隙を見せない緊迫した試合展開になる。",
-    "sentence_furigana": "全国大会の決勝戦ともなると、どのチームの選手も一切の隙を見せない緊迫した試合展開になる。",
+    "sentence_furigana": "ぜんこくたいかいのけっしょうせんともなると、どのチームのせんしゅもいっさいのひまをみせないきんぱくしたしあいてんかいになる。",
     "sentence_en": "Once it comes to the final match of the national tournament, the game unfolds with tense intensity where players on every team show no opening.",
     "question": "全国大会の決勝戦（　　　）、どのチームの選手も一切の隙を見せない緊迫した試合展開になる。",
     "choices": [
@@ -1837,7 +1837,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "once one reaches the stage of",
     "similar": "〜になると / 〜という段階に達すると / 〜ほどの立場になれば",
     "sentence_jp": "社会人になって自分で生計を立てるともなると、学生時代のように気楽に時間を過ごすわけにはいかない。",
-    "sentence_furigana": "社会人になって自分で生計を立てるともなると、学生時代のように気楽に時間を過ごすわけにはいかない。",
+    "sentence_furigana": "しゃかいじんになってじぶんでせいけいをたてるともなると、がくせいじだいのようにきらくにじかんをすごすわけにはいかない。",
     "sentence_en": "Once one becomes a working adult and earns one's own living, one cannot spend time as carefree as in student days.",
     "question": "社会人になって自分で生計を立てる（　　　）、学生時代のように気楽に時間を過ごすわけにはいかない。",
     "choices": [
@@ -1867,7 +1867,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "once one reaches the stage of",
     "similar": "〜になると / 〜という段階に達すると / 〜ほどの立場になれば",
     "sentence_jp": "十一月も下旬ともなれば、北国の山々では初雪の便りが届き始め、冬の準備が本格化する。",
-    "sentence_furigana": "十一月も下旬ともなれば、北国の山々では初雪の便りが届き始め、冬の準備が本格化する。",
+    "sentence_furigana": "じゅういちがつもげじゅんともなれば、きたぐにのやまやまでははつゆきのたよりがとどきはじめ、ふゆのじゅんびがほんかくかする。",
     "sentence_en": "Once it reaches late November, news of the first snow begins to arrive from the northern mountains, and winter preparations get into full swing.",
     "question": "十一月も下旬（　　　）、北国の山々では初雪の便りが届き始め、冬の準備が本格化する。",
     "choices": [
@@ -1897,7 +1897,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "once one reaches the stage of",
     "similar": "〜になると / 〜という段階に達すると / 〜ほどの立場になれば",
     "sentence_jp": "数百人の社員を率いる経営者ともなると、一つの判断が会社全体の将来を左右する重みを持つ。",
-    "sentence_furigana": "数百人の社員を率いる経営者ともなると、一つの判断が会社全体の将来を左右する重みを持つ。",
+    "sentence_furigana": "すうひゃくにんのしゃいんをひきいるけいえいしゃともなると、ひとつのはんだんがかいしゃぜんたいのしょうらいをさゆうするおもみをもつ。",
     "sentence_en": "Once one is an executive leading hundreds of employees, a single decision carries the weight of determining the future of the entire company.",
     "question": "数百人の社員を率いる経営者（　　　）、一つの判断が会社全体の将来を左右する重みを持つ。",
     "choices": [
@@ -1909,8 +1909,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ともなると",
     "notes": "<ruby>責任<rt>せきにん</rt></ruby>ある<ruby>立場<rt>たちば</rt></ruby>になれば<ruby>当然<rt>とうぜん</rt></ruby>それに<ruby>伴<rt>ともな</rt></ruby>う<ruby>重責<rt>じゅうせき</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じることを<ruby>述<rt>の</rt></ruby>べています。",
-    "question_ruby": "<ruby>数<rt>かず</rt></ruby><ruby>百人<rt>ひゃくにん</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>率<rt>ひき</rt></ruby>いる<ruby>経営<rt>けいえい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>（　　　）、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>する<ruby>重<rt>おも</rt></ruby>みを<ruby>持<rt>も</rt></ruby>つ。",
-    "sentence_jp_ruby": "<ruby>数<rt>かず</rt></ruby><ruby>百人<rt>ひゃくにん</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>率<rt>ひき</rt></ruby>いる<ruby>経営<rt>けいえい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ともなると、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>する<ruby>重<rt>おも</rt></ruby>みを<ruby>持<rt>も</rt></ruby>つ。",
+    "question_ruby": "<ruby>数<rt>すう</rt></ruby><ruby>百人<rt>ひゃくにん</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>率<rt>ひき</rt></ruby>いる<ruby>経営<rt>けいえい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>（　　　）、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>する<ruby>重<rt>おも</rt></ruby>みを<ruby>持<rt>も</rt></ruby>つ。",
+    "sentence_jp_ruby": "<ruby>数<rt>すう</rt></ruby><ruby>百人<rt>ひゃくにん</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>率<rt>ひき</rt></ruby>いる<ruby>経営<rt>けいえい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ともなると、<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>が<ruby>会社<rt>かいしゃ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>する<ruby>重<rt>おも</rt></ruby>みを<ruby>持<rt>も</rt></ruby>つ。",
     "choices_ruby": [
       "ともなると",
       "ずくめでは",
@@ -1927,7 +1927,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without ~; impossible without",
     "similar": "〜なしには〜ない / 〜がなければ〜ない",
     "sentence_jp": "地域住民の理解と協力なくしては、この伝統的な祭りを次世代へ引き継ぐことはできない。",
-    "sentence_furigana": "地域住民の理解と協力なくしては、この伝統的な祭りを次世代へ引き継ぐことはできない。",
+    "sentence_furigana": "ちいきじゅうみんのりかいときょうりょくなくしては、このでんとうてきなまつりをじせだいへひきつぐことはできない。",
     "sentence_en": "Without the understanding and cooperation of local residents, this traditional festival cannot be passed down to the next generation.",
     "question": "地域住民の理解と協力（　　　）、この伝統的な祭りを次世代へ引き継ぐことはできない。",
     "choices": [
@@ -1957,7 +1957,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without ~; impossible without",
     "similar": "〜なしには〜ない / 〜がなければ〜ない",
     "sentence_jp": "地道な基礎研究の積み重ねなくして、画期的な新技術の開発はあり得ない。",
-    "sentence_furigana": "地道な基礎研究の積み重ねなくして、画期的な新技術の開発はあり得ない。",
+    "sentence_furigana": "じみちなきそけんきゅうのつみかさねなくして、かっきてきなしんぎじゅつのかいはつはありえない。",
     "sentence_en": "Without the steady accumulation of basic research, the development of groundbreaking new technology is impossible.",
     "question": "地道な基礎研究の積み重ね（　　　）、画期的な新技術の開発はあり得ない。",
     "choices": [
@@ -1987,7 +1987,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without ~; impossible without",
     "similar": "〜なしには〜ない / 〜がなければ〜ない",
     "sentence_jp": "互いの文化や価値観を尊重する姿勢なくして、真の国際交流を深めることは難しい。",
-    "sentence_furigana": "互いの文化や価値観を尊重する姿勢なくして、真の国際交流を深めることは難しい。",
+    "sentence_furigana": "たがいのぶんかやかちかんをそんちょうするしせいなくして、しんのこくさいこうりゅうをふかめることはむずかしい。",
     "sentence_en": "Without an attitude of respecting each other's cultures and values, it is difficult to deepen genuine international exchange.",
     "question": "互いの文化や価値観を尊重する姿勢（　　　）、真の国際交流を深めることは難しい。",
     "choices": [
@@ -2017,7 +2017,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without ~; impossible without",
     "similar": "〜なしには〜ない / 〜がなければ〜ない",
     "sentence_jp": "過去の失敗の原因を徹底的に分析することなくしては、組織の根本的な改善は望めない。",
-    "sentence_furigana": "過去の失敗の原因を徹底的に分析することなくしては、組織の根本的な改善は望めない。",
+    "sentence_furigana": "かこのしっぱいのげんいんをてっていてきにぶんせきすることなくしては、そしきのこんぽんてきなかいぜんはのぞめない。",
     "sentence_en": "Without thoroughly analyzing the causes of past failures, fundamental improvement of the organization cannot be hoped for.",
     "question": "過去の失敗の原因を徹底的に分析すること（　　　）、組織の根本的な改善は望めない。",
     "choices": [
@@ -2047,7 +2047,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without doing ~",
     "similar": "〜ないで / 〜を抜きにして / 〜せずに",
     "sentence_jp": "管理者の事前の許可なしに、研究室の精密機器を外部へ持ち出すことは禁じられている。",
-    "sentence_furigana": "管理者の事前の許可なしに、研究室の精密機器を外部へ持ち出すことは禁じられている。",
+    "sentence_furigana": "かんりしゃのじぜんのきょかなしに、けんきゅうしつのせいみつききをがいぶへもちだすことはきんじられている。",
     "sentence_en": "Taking precision instruments out of the laboratory without the administrator's prior permission is prohibited.",
     "question": "管理者の事前の許可（　　　）、研究室の精密機器を外部へ持ち出すことは禁じられている。",
     "choices": [
@@ -2077,7 +2077,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without doing ~",
     "similar": "〜ないで / 〜を抜きにして / 〜せずに",
     "sentence_jp": "あの映画の感動的な結末は、涙なしには最後まで見届けることはできなかった。",
-    "sentence_furigana": "あの映画の感動的な結末は、涙なしには最後まで見届けることはできなかった。",
+    "sentence_furigana": "あのえいがのかんどうてきなけつまつは、なみだなしにはさいごまでみとどけることはできなかった。",
     "sentence_en": "I could not watch the moving conclusion of that film to the end without tears.",
     "question": "あの映画の感動的な結末は、涙（　　　）最後まで見届けることはできなかった。",
     "choices": [
@@ -2107,7 +2107,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without doing ~",
     "similar": "〜ないで / 〜を抜きにして / 〜せずに",
     "sentence_jp": "現場で働く人々の意見を聞くことなしに、実効性のある業務改善案を作ることはできない。",
-    "sentence_furigana": "現場で働く人々の意見を聞くことなしに、実効性のある業務改善案を作ることはできない。",
+    "sentence_furigana": "げんばではたらくひとびとのいけんをきくことなしに、じっこうせいのあるぎょうむかいぜんあんをつくることはできない。",
     "sentence_en": "Without listening to the opinions of the people working on site, an effective work improvement plan cannot be created.",
     "question": "現場で働く人々の意見を聞くこと（　　　）、実効性のある業務改善案を作ることはできない。",
     "choices": [
@@ -2137,7 +2137,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without doing ~",
     "similar": "〜ないで / 〜を抜きにして / 〜せずに",
     "sentence_jp": "何の前触れもなしに長年の連載小説が最終回を迎え、読者からは惜しむ声が相次いだ。",
-    "sentence_furigana": "何の前触れもなしに長年の連載小説が最終回を迎え、読者からは惜しむ声が相次いだ。",
+    "sentence_furigana": "なんのまえぶれもなしにながねんのれんさいしょうせつがさいしゅうかいをむかえ、どくしゃからはおしむこえがあいついだ。",
     "sentence_en": "Without any prior warning, the long-running serialized novel reached its final chapter, prompting a stream of regretful voices from readers.",
     "question": "何の前触れも（　　　）長年の連載小説が最終回を迎え、読者からは惜しむ声が相次いだ。",
     "choices": [
@@ -2167,7 +2167,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in one’s own way; commensurate with",
     "similar": "〜相応に / 〜の立場でできる範囲で / 〜に合わせて",
     "sentence_jp": "まだ経験は浅いが、私なりに精一杯工夫して新しい企画書をまとめてみました。",
-    "sentence_furigana": "まだ経験は浅いが、私なりに精一杯工夫して新しい企画書をまとめてみました。",
+    "sentence_furigana": "まだけいけんはあさいが、わたしなりにせいいっぱいくふうしてあたらしいきかくしょをまとめてみました。",
     "sentence_en": "Although my experience is still limited, I tried putting together the new proposal with as much ingenuity as I could in my own way.",
     "question": "まだ経験は浅いが、私（　　　）精一杯工夫して新しい企画書をまとめてみました。",
     "choices": [
@@ -2197,7 +2197,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in one’s own way; commensurate with",
     "similar": "〜相応に / 〜の立場でできる範囲で / 〜に合わせて",
     "sentence_jp": "小さな店舗には小さな店舗なりの良さがあり、客との距離が近い丁寧な接客ができる。",
-    "sentence_furigana": "小さな店舗には小さな店舗なりの良さがあり、客との距離が近い丁寧な接客ができる。",
+    "sentence_furigana": "ちいさなてんぽにはちいさなてんぽなりのよさがあり、きゃくとのきょりがちかいていねいなせっきゃくができる。",
     "sentence_en": "A small shop has merits suited to a small shop, allowing attentive service close to customers.",
     "question": "小さな店舗には小さな店舗（　　　）良さがあり、客との距離が近い丁寧な接客ができる。",
     "choices": [
@@ -2227,7 +2227,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in one’s own way; commensurate with",
     "similar": "〜相応に / 〜の立場でできる範囲で / 〜に合わせて",
     "sentence_jp": "収入が限られているなら、限られているなりに無駄を省いて豊かに暮らす知恵を身につけたい。",
-    "sentence_furigana": "収入が限られているなら、限られているなりに無駄を省いて豊かに暮らす知恵を身につけたい。",
+    "sentence_furigana": "しゅうにゅうがかぎられているなら、かぎられているなりにむだをはぶいてゆたかにくらすちえをみにつけたい。",
     "sentence_en": "If one's income is limited, one wants to acquire the wisdom to eliminate waste and live richly in accordance with those limits.",
     "question": "収入が限られているなら、限られている（　　　）無駄を省いて豊かに暮らす知恵を身につけたい。",
     "choices": [
@@ -2257,7 +2257,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in one’s own way; commensurate with",
     "similar": "〜相応に / 〜の立場でできる範囲で / 〜に合わせて",
     "sentence_jp": "初心者には初心者なりの疑問があるはずだから、専門用語を使わずに分かりやすく説明しよう。",
-    "sentence_furigana": "初心者には初心者なりの疑問があるはずだから、専門用語を使わずに分かりやすく説明しよう。",
+    "sentence_furigana": "しょしんしゃにはしょしんしゃなりのぎもんがあるはずだから、せんもんようごをつかわずにわかりやすくせつめいしよう。",
     "sentence_en": "Since beginners surely have questions natural to beginners, let's explain clearly without using technical terms.",
     "question": "初心者には初心者（　　　）疑問があるはずだから、専門用語を使わずに分かりやすく説明しよう。",
     "choices": [
@@ -2287,7 +2287,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "based on; taking into consideration",
     "similar": "〜を考慮に入れて / 〜を前提として / 〜に基づいて",
     "sentence_jp": "試作段階での反省点を踏まえて、開発チームは製品の耐久性を大幅に改良した。",
-    "sentence_furigana": "試作段階での反省点を踏まえて、開発チームは製品の耐久性を大幅に改良した。",
+    "sentence_furigana": "しさくだんかいでのはんせいてんをふまえて、かいはつチームはせいひんのたいきゅうせいをおおはばにかいりょうした。",
     "sentence_en": "Taking into account the points for reflection from the prototype stage, the development team significantly improved the durability of the product.",
     "question": "試作段階での反省点（　　　）、開発チームは製品の耐久性を大幅に改良した。",
     "choices": [
@@ -2317,7 +2317,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "based on; taking into consideration",
     "similar": "〜を考慮に入れて / 〜を前提として / 〜に基づいて",
     "sentence_jp": "利用者から寄せられた多様な意見を踏まえた上で、図書館の開館時間が延長された。",
-    "sentence_furigana": "利用者から寄せられた多様な意見を踏まえた上で、図書館の開館時間が延長された。",
+    "sentence_furigana": "りようしゃからよせられたたようないけんをふまえたうえで、としょかんのかいかんじかんがえんちょうされた。",
     "sentence_en": "After taking into consideration the diverse opinions received from users, the library's opening hours were extended.",
     "question": "利用者から寄せられた多様な意見（　　　）上で、図書館の開館時間が延長された。",
     "choices": [
@@ -2347,7 +2347,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "based on; taking into consideration",
     "similar": "〜を考慮に入れて / 〜を前提として / 〜に基づいて",
     "sentence_jp": "地域の高齢化が進む現状を踏まえ、誰にでも使いやすい巡回バスの運行が始まった。",
-    "sentence_furigana": "地域の高齢化が進む現状を踏まえ、誰にでも使いやすい巡回バスの運行が始まった。",
+    "sentence_furigana": "ちいきのこうれいかがすすむげんじょうをふまえ、だれにでもつかいやすいじゅんかいバスのうんこうがはじまった。",
     "sentence_en": "Based on the current situation of aging in the community, operation of an easy-to-use community bus has begun.",
     "question": "地域の高齢化が進む現状（　　　）、誰にでも使いやすい巡回バスの運行が始まった。",
     "choices": [
@@ -2377,7 +2377,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "based on; taking into consideration",
     "similar": "〜を考慮に入れて / 〜を前提として / 〜に基づいて",
     "sentence_jp": "これまでの議論の内容を踏まえて、次回までに具体的な実行計画を策定してください。",
-    "sentence_furigana": "これまでの議論の内容を踏まえて、次回までに具体的な実行計画を策定してください。",
+    "sentence_furigana": "これまでのぎろんのないようをふまえて、じかいまでにぐたいてきなじっこうけいかくをさくていしてください。",
     "sentence_en": "Based on the content of our discussions so far, please formulate a concrete action plan by next time.",
     "question": "これまでの議論の内容（　　　）、次回までに具体的な実行計画を策定してください。",
     "choices": [
@@ -2407,7 +2407,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ahead of; taking the lead in",
     "similar": "〜より一足先に / 〜に先立って / 他に先んじて",
     "sentence_jp": "そのメーカーは業界に先駆けて、環境負荷を大幅に減らした再生素材の容器を導入した。",
-    "sentence_furigana": "そのメーカーは業界に先駆けて、環境負荷を大幅に減らした再生素材の容器を導入した。",
+    "sentence_furigana": "そのメーカーはぎょうかいにさきがけて、かんきょうふかをおおはばにへらしたさいせいそざいのようきをどうにゅうした。",
     "sentence_en": "Taking the lead in the industry, that manufacturer introduced containers made of recycled materials that greatly reduce environmental impact.",
     "question": "そのメーカーは業界（　　　）、環境負荷を大幅に減らした再生素材の容器を導入した。",
     "choices": [
@@ -2437,7 +2437,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ahead of; taking the lead in",
     "similar": "〜より一足先に / 〜に先立って / 他に先んじて",
     "sentence_jp": "春の全国発売に先駆けて、今週末から一部の店舗で新商品の先行体験会が行われる。",
-    "sentence_furigana": "春の全国発売に先駆けて、今週末から一部の店舗で新商品の先行体験会が行われる。",
+    "sentence_furigana": "はるのぜんこくはつばいにさきがけて、こんしゅうまつからいちぶのてんぽでしんしょうひんのせんこうたいけんかいがおこなわれる。",
     "sentence_en": "Ahead of the nationwide spring release, an advance trial event for the new product will be held at select stores starting this weekend.",
     "question": "春の全国発売（　　　）、今週末から一部の店舗で新商品の先行体験会が行われる。",
     "choices": [
@@ -2467,7 +2467,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ahead of; taking the lead in",
     "similar": "〜より一足先に / 〜に先立って / 他に先んじて",
     "sentence_jp": "他地域に先駆けて再生可能エネルギーの普及に取り組んだその自治体は、全国から注目を集めている。",
-    "sentence_furigana": "他地域に先駆けて再生可能エネルギーの普及に取り組んだその自治体は、全国から注目を集めている。",
+    "sentence_furigana": "ほかちいきにさきがけてさいせいかのうエネルギーのふきゅうにとりくんだそのじちたいは、ぜんこくからちゅうもくをあつめている。",
     "sentence_en": "The municipality that worked to promote renewable energy ahead of other regions is attracting attention from across the country.",
     "question": "他地域（　　　）再生可能エネルギーの普及に取り組んだその自治体は、全国から注目を集めている。",
     "choices": [
@@ -2497,7 +2497,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ahead of; taking the lead in",
     "similar": "〜より一足先に / 〜に先立って / 他に先んじて",
     "sentence_jp": "時代の変化に先駆けて新しい働き方を取り入れた企業に、優秀な人材が集まっている。",
-    "sentence_furigana": "時代の変化に先駆けて新しい働き方を取り入れた企業に、優秀な人材が集まっている。",
+    "sentence_furigana": "じだいのへんかにさきがけてあたらしいはたらきかたをとりいれたきぎょうに、ゆうしゅうなじんざいがあつまっている。",
     "sentence_en": "Talented personnel are gathering at companies that adopted new ways of working ahead of the changing times.",
     "question": "時代の変化（　　　）新しい働き方を取り入れた企業に、優秀な人材が集まっている。",
     "choices": [
@@ -2527,7 +2527,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "triggered by; using ~ as opportunity",
     "similar": "〜をきっかけに / 〜を転機として / 〜を機に",
     "sentence_jp": "創業五十周年を契機に、その企業はブランドの象徴であるロゴマークを一新した。",
-    "sentence_furigana": "創業五十周年を契機に、その企業はブランドの象徴であるロゴマークを一新した。",
+    "sentence_furigana": "そうぎょうごじゅうしゅうねんをけいきに、そのきぎょうはブランドのしょうちょうであるロゴマークをいっしんした。",
     "sentence_en": "Taking the 50th anniversary of its founding as a turning point, the company completely renewed its brand logo.",
     "question": "創業五十周年（　　　）、その企業はブランドの象徴であるロゴマークを一新した。",
     "choices": [
@@ -2557,7 +2557,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "triggered by; using ~ as opportunity",
     "similar": "〜をきっかけに / 〜を転機として / 〜を機に",
     "sentence_jp": "海外の展示会への出展を契機として、伝統的な漆器の工房は海外市場への販路を広げた。",
-    "sentence_furigana": "海外の展示会への出展を契機として、伝統的な漆器の工房は海外市場への販路を広げた。",
+    "sentence_furigana": "かいがいのてんじかいへのしゅってんをけいきとして、でんとうてきなしっきのこうぼうはかいがいしじょうへのはんろをひろげた。",
     "sentence_en": "Triggered by exhibiting at an overseas trade fair, the traditional lacquerware workshop expanded its sales channels into overseas markets.",
     "question": "海外の展示会への出展（　　　）、伝統的な漆器の工房は海外市場への販路を広げた。",
     "choices": [
@@ -2587,7 +2587,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "triggered by; using ~ as opportunity",
     "similar": "〜をきっかけに / 〜を転機として / 〜を機に",
     "sentence_jp": "新幹線の開通を契機に、かつて静かだった温泉街には多くの観光客が訪れるようになった。",
-    "sentence_furigana": "新幹線の開通を契機に、かつて静かだった温泉街には多くの観光客が訪れるようになった。",
+    "sentence_furigana": "しんかんせんのかいつうをけいきに、かつてしずかだったおんせんがいにはおおくのかんこうきゃくがおとずれるようになった。",
     "sentence_en": "With the opening of the bullet train line as a turning point, many tourists began visiting the once-quiet hot spring town.",
     "question": "新幹線の開通（　　　）、かつて静かだった温泉街には多くの観光客が訪れるようになった。",
     "choices": [
@@ -2617,7 +2617,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "triggered by; using ~ as opportunity",
     "similar": "〜をきっかけに / 〜を転機として / 〜を機に",
     "sentence_jp": "恩師との出会いを契機にして、彼女は古典文学の翻訳という新たな研究分野に情熱を注ぎ始めた。",
-    "sentence_furigana": "恩師との出会いを契機にして、彼女は古典文学の翻訳という新たな研究分野に情熱を注ぎ始めた。",
+    "sentence_furigana": "おんしとのであいをけいきにして、かのじょはこてんぶんがくのほんやくというあらたなけんきゅうぶんやにじょうねつをそそぎはじめた。",
     "sentence_en": "With meeting her mentor as a turning point, she began pouring her passion into the new research field of translating classical literature.",
     "question": "恩師との出会い（　　　）、彼女は古典文学の翻訳という新たな研究分野に情熱を注ぎ始めた。",
     "choices": [
@@ -2647,7 +2647,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "taking the opportunity of",
     "similar": "〜をきっかけに / 〜を良い機会として / 〜を契機に",
     "sentence_jp": "郊外の一戸建てへの引っ越しを機に、家族で念願だった家庭菜園を始めることにした。",
-    "sentence_furigana": "郊外の一戸建てへの引っ越しを機に、家族で念願だった家庭菜園を始めることにした。",
+    "sentence_furigana": "こうがいのいっこだてへのひっこしをきに、かぞくでねんがんだったかていさいえんをはじめることにした。",
     "sentence_en": "Taking the move to a house in the suburbs as an opportunity, our family decided to start the home vegetable garden we had long wished for.",
     "question": "郊外の一戸建てへの引っ越し（　　　）、家族で念願だった家庭菜園を始めることにした。",
     "choices": [
@@ -2677,7 +2677,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "taking the opportunity of",
     "similar": "〜をきっかけに / 〜を良い機会として / 〜を契機に",
     "sentence_jp": "定年退職を機に、父は若い頃から興味を持っていた水彩画の教室に通い始めた。",
-    "sentence_furigana": "定年退職を機に、父は若い頃から興味を持っていた水彩画の教室に通い始めた。",
+    "sentence_furigana": "ていねんたいしょくをきに、ちちはわかいころからきょうみをもっていたすいさいがのきょうしつにかよいはじめた。",
     "sentence_en": "Taking his retirement as an opportunity, my father started attending a watercolor painting class he had been interested in since his youth.",
     "question": "定年退職（　　　）、父は若い頃から興味を持っていた水彩画の教室に通い始めた。",
     "choices": [
@@ -2707,7 +2707,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "taking the opportunity of",
     "similar": "〜をきっかけに / 〜を良い機会として / 〜を契機に",
     "sentence_jp": "店舗の改装工事を機に、注文から会計までをスムーズに行える新しいシステムを導入した。",
-    "sentence_furigana": "店舗の改装工事を機に、注文から会計までをスムーズに行える新しいシステムを導入した。",
+    "sentence_furigana": "てんぽのかいそうこうじをきに、ちゅうもんからかいけいまでをスムーズにおこなえるあたらしいシステムをどうにゅうした。",
     "sentence_en": "Taking the store renovation work as an opportunity, we introduced a new system that allows smooth ordering and payment.",
     "question": "店舗の改装工事（　　　）、注文から会計までをスムーズに行える新しいシステムを導入した。",
     "choices": [
@@ -2737,7 +2737,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "taking the opportunity of",
     "similar": "〜をきっかけに / 〜を良い機会として / 〜を契機に",
     "sentence_jp": "子どもが独立したのを機に、夫婦二人で全国の美術館を巡る旅行を楽しんでいる。",
-    "sentence_furigana": "子どもが独立したのを機に、夫婦二人で全国の美術館を巡る旅行を楽しんでいる。",
+    "sentence_furigana": "こどもがどくりつしたのをきに、ふうふふたりでぜんこくのびじゅつかんをめぐるりょこうをたのしんでいる。",
     "sentence_en": "Taking their child's independence as an opportunity, the couple is enjoying traveling around art museums across the country together.",
     "question": "子どもが独立したの（　　　）、夫婦二人で全国の美術館を巡る旅行を楽しんでいる。",
     "choices": [
@@ -2767,7 +2767,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "combined with; together with",
     "similar": "〜と結びついて / 〜と重なり合って / 〜に加えてさらに",
     "sentence_jp": "素材の良さと相まって、熟練した料理人の技がこの一皿の深い味わいを生み出している。",
-    "sentence_furigana": "素材の良さと相まって、熟練した料理人の技がこの一皿の深い味わいを生み出している。",
+    "sentence_furigana": "そざいのよさとあいまって、じゅくれんしたりょうりじんのわざがこのいちさらのふかいあじわいをうみだしている。",
     "sentence_en": "Combined with the quality of the ingredients, the skill of the master chef creates the deep flavor of this dish.",
     "question": "素材の良さ（　　　）、熟練した料理人の技がこの一皿の深い味わいを生み出している。",
     "choices": [
@@ -2797,7 +2797,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "combined with; together with",
     "similar": "〜と結びついて / 〜と重なり合って / 〜に加えてさらに",
     "sentence_jp": "歴史ある建築の美しさが周囲の紅葉と相まって、訪れる人々を魅了する見事な景観を作り出している。",
-    "sentence_furigana": "歴史ある建築の美しさが周囲の紅葉と相まって、訪れる人々を魅了する見事な景観を作り出している。",
+    "sentence_furigana": "れきしあるけんちくのうつくしさがしゅういのこうようとあいまって、おとずれるひとびとをみりょうするみごとなけいかんをつくりだしている。",
     "sentence_en": "The beauty of the historic architecture, combined with the surrounding autumn leaves, creates a magnificent view that captivates visitors.",
     "question": "歴史ある建築の美しさが周囲の紅葉（　　　）、訪れる人々を魅了する見事な景観を作り出している。",
     "choices": [
@@ -2826,10 +2826,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "とあいまって",
     "meaning_en": "combined with; together with",
     "similar": "〜と結びついて / 〜と重なり合って / 〜に加えてさらに",
-    "sentence_jp": "近年の健康志向の高まりと相まって、発酵食品を使った伝統的な和食が再び注目を集めている。",
-    "sentence_furigana": "近年の健康志向の高まりと相まって、発酵食品を使った伝統的な和食が再び注目を集めている。",
-    "sentence_en": "Combined with the recent rise in health consciousness, traditional Japanese food using fermented ingredients is attracting attention once again.",
-    "question": "近年の健康志向の高まり（　　　）、発酵食品を使った伝統的な和食が再び注目を集めている。",
+    "sentence_jp": "素材の持つ豊かな風味が近年の健康志向の高まりと相まって、発酵食品を使った伝統的な和食が再び注目を集めている。",
+    "sentence_furigana": "そざいのもつゆたかなふうみがきんねんのけんこうしこうのたかまりとあいまって、はっこうしょくひんをつかったでんとうてきなわしょくがふたたびちゅうもくをあつめている。",
+    "sentence_en": "The rich flavor of the ingredients, combined with the recent rise in health consciousness, is bringing renewed attention to traditional Japanese dishes using fermented foods.",
+    "question": "素材の持つ豊かな風味が近年の健康志向の高まり（　　　）、発酵食品を使った伝統的な和食が再び注目を集めている。",
     "choices": [
       "に先駆けて",
       "はおろか",
@@ -2839,8 +2839,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "と相まって",
     "notes": "<ruby>社会<rt>しゃかい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>追<rt>お</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>や<ruby>別<rt>べつ</rt></ruby>の<ruby>要因<rt>よういん</rt></ruby>が<ruby>重<rt>かさ</rt></ruby>なって、ある<ruby>傾向<rt>けいこう</rt></ruby>がいっそう<ruby>強<rt>つよ</rt></ruby>まる<ruby>様子<rt>ようす</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>近年<rt>きんねん</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>志向<rt>しこう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>まり（　　　）、<ruby>発酵<rt>はっこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>和食<rt>わしょく</rt></ruby>が<ruby>再<rt>ふたた</rt></ruby>び<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
-    "sentence_jp_ruby": "<ruby>近年<rt>きんねん</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>志向<rt>しこう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>まりと<ruby>相<rt>あい</rt></ruby>まって、<ruby>発酵<rt>はっこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>和食<rt>わしょく</rt></ruby>が<ruby>再<rt>ふたた</rt></ruby>び<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
+    "question_ruby": "<ruby>素材<rt>そざい</rt></ruby>の<ruby>持<rt>も</rt></ruby>つ<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>風味<rt>ふうみ</rt></ruby>が<ruby>近年<rt>きんねん</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>志向<rt>しこう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>まり（　　　）、<ruby>発酵<rt>はっこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>和食<rt>わしょく</rt></ruby>が<ruby>再<rt>ふたた</rt></ruby>び<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
+    "sentence_jp_ruby": "<ruby>素材<rt>そざい</rt></ruby>の<ruby>持<rt>も</rt></ruby>つ<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>風味<rt>ふうみ</rt></ruby>が<ruby>近年<rt>きんねん</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>志向<rt>しこう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>まりと<ruby>相<rt>あい</rt></ruby>まって、<ruby>発酵<rt>はっこう</rt></ruby><ruby>食品<rt>しょくひん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>和食<rt>わしょく</rt></ruby>が<ruby>再<rt>ふたた</rt></ruby>び<ruby>注目<rt>ちゅうもく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めている。",
     "choices_ruby": [
       "に<ruby>先駆<rt>さきが</rt></ruby>けて",
       "はおろか",
@@ -2857,7 +2857,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "combined with; together with",
     "similar": "〜と結びついて / 〜と重なり合って / 〜に加えてさらに",
     "sentence_jp": "俳優の迫真の演技と巧みな脚本が相まって、その舞台劇は千秋楽まで満席の盛況となった。",
-    "sentence_furigana": "俳優の迫真の演技と巧みな脚本が相まって、その舞台劇は千秋楽まで満席の盛況となった。",
+    "sentence_furigana": "はいゆうのはくしんのえんぎとたくみなきゃくほんがあいまって、そのぶたいげきはせんしゅうらくまでまんせきのせいきょうとなった。",
     "sentence_en": "With the actors' compelling performances and the clever script working together, the stage play was a sold-out success until the final day.",
     "question": "俳優の迫真の演技と巧みな脚本（　　　）、その舞台劇は千秋楽まで満席の盛況となった。",
     "choices": [
@@ -2887,7 +2887,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "being preoccupied with; neglecting other things",
     "similar": "〜にばかり気を取られて / 〜に追われて（他を疎かにする）",
     "sentence_jp": "仕事の忙しさにかまけて、自分の健康管理をすっかり疎かにしていたことを反省している。",
-    "sentence_furigana": "仕事の忙しさにかまけて、自分の健康管理をすっかり疎かにしていたことを反省している。",
+    "sentence_furigana": "しごとのいそがしさにかまけて、じぶんのけんこうかんりをすっかりおろかにしていたことをはんせいしている。",
     "sentence_en": "I am reflecting on having completely neglected my own health management due to being preoccupied with the busyness of work.",
     "question": "仕事の忙しさ（　　　）、自分の健康管理をすっかり疎かにしていたことを反省している。",
     "choices": [
@@ -2917,7 +2917,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "being preoccupied with; neglecting other things",
     "similar": "〜にばかり気を取られて / 〜に追われて（他を疎かにする）",
     "sentence_jp": "趣味の写真撮影にかまけて、休日に片付けるはずだった部屋の整理を後回しにしてしまった。",
-    "sentence_furigana": "趣味の写真撮影にかまけて、休日に片付けるはずだった部屋の整理を後回しにしてしまった。",
+    "sentence_furigana": "しゅみのしゃしんさつえいにかまけて、きゅうじつにかたづけるはずだったへやのせいりをあとまわしにしてしまった。",
     "sentence_en": "Preoccupied with my hobby of photography, I put off tidying the room that I was supposed to clean on my day off.",
     "question": "趣味の写真撮影（　　　）、休日に片付けるはずだった部屋の整理を後回しにしてしまった。",
     "choices": [
@@ -2947,7 +2947,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "being preoccupied with; neglecting other things",
     "similar": "〜にばかり気を取られて / 〜に追われて（他を疎かにする）",
     "sentence_jp": "目の前の雑務にかまけて、長期的な研究計画の準備がなかなか進まないのが悩みの種だ。",
-    "sentence_furigana": "目の前の雑務にかまけて、長期的な研究計画の準備がなかなか進まないのが悩みの種だ。",
+    "sentence_furigana": "めのまえのざつむにかまけて、ちょうきてきなけんきゅうけいかくのじゅんびがなかなかすすまないのがなやみのたねだ。",
     "sentence_en": "Being tied up with immediate daily chores, the fact that preparations for my long-term research plan are not progressing is a source of worry.",
     "question": "目の前の雑務（　　　）、長期的な研究計画の準備がなかなか進まないのが悩みの種だ。",
     "choices": [
@@ -2977,7 +2977,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "being preoccupied with; neglecting other things",
     "similar": "〜にばかり気を取られて / 〜に追われて（他を疎かにする）",
     "sentence_jp": "部活動の練習にかまけて授業の予習や復習を怠るようでは、本末転倒と言わざるを得ない。",
-    "sentence_furigana": "部活動の練習にかまけて授業の予習や復習を怠るようでは、本末転倒と言わざるを得ない。",
+    "sentence_furigana": "ぶかつどうのれんしゅうにかまけてじゅぎょうのよしゅうやふくしゅうをおこたるようでは、ほんまつてんとうといわざるをえない。",
     "sentence_en": "Neglecting class preparation and review because of being absorbed in club practice must be called putting the cart before the horse.",
     "question": "部活動の練習（　　　）授業の予習や復習を怠るようでは、本末転倒と言わざるを得ない。",
     "choices": [
@@ -3007,7 +3007,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "under the pretext of",
     "similar": "〜を口実にして / 〜をいいことにして / 〜を理由に利用して",
     "sentence_jp": "地方への出張にかこつけて、仕事の後で現地の有名な美術館や老舗の和菓子店を巡った。",
-    "sentence_furigana": "地方への出張にかこつけて、仕事の後で現地の有名な美術館や老舗の和菓子店を巡った。",
+    "sentence_furigana": "ちほうへのしゅっちょうにかこつけて、しごとのあとでげんちのゆうめいなびじゅつかんやしにせのわがしてんをめぐった。",
     "sentence_en": "Using a business trip to the provinces as an excuse, I visited famous local art museums and long-established sweet shops after work.",
     "question": "地方への出張（　　　）、仕事の後で現地の有名な美術館や老舗の和菓子店を巡った。",
     "choices": [
@@ -3037,7 +3037,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "under the pretext of",
     "similar": "〜を口実にして / 〜をいいことにして / 〜を理由に利用して",
     "sentence_jp": "運動不足の解消にかこつけて、新しい自転車を買って週末ごとに遠くの公園まで出かけている。",
-    "sentence_furigana": "運動不足の解消にかこつけて、新しい自転車を買って週末ごとに遠くの公園まで出かけている。",
+    "sentence_furigana": "うんどうふそくのかいしょうにかこつけて、あたらしいじてんしゃをかってしゅうまつごとにとおくのこうえんまででかけている。",
     "sentence_en": "Under the pretext of relieving lack of exercise, I bought a new bicycle and go out to distant parks every weekend.",
     "question": "運動不足の解消（　　　）、新しい自転車を買って週末ごとに遠くの公園まで出かけている。",
     "choices": [
@@ -3067,7 +3067,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "under the pretext of",
     "similar": "〜を口実にして / 〜をいいことにして / 〜を理由に利用して",
     "sentence_jp": "資料の返却にかこつけて、憧れの先輩の研究室を訪ねて進路の相談に乗ってもらった。",
-    "sentence_furigana": "資料の返却にかこつけて、憧れの先輩の研究室を訪ねて進路の相談に乗ってもらった。",
+    "sentence_furigana": "しりょうのへんきゃくにかこつけて、あこがれのせんぱいのけんきゅうしつをたずねてしんろのそうだんにのってもらった。",
     "sentence_en": "Using returning materials as a pretext, I visited the office of the senior I admire and asked for career advice.",
     "question": "資料の返却（　　　）、憧れの先輩の研究室を訪ねて進路の相談に乗ってもらった。",
     "choices": [
@@ -3097,7 +3097,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "under the pretext of",
     "similar": "〜を口実にして / 〜をいいことにして / 〜を理由に利用して",
     "sentence_jp": "お祝いの品を届けるのにかこつけて、久しぶりに姉の新居を訪れてゆっくりおしゃべりを楽しんだ。",
-    "sentence_furigana": "お祝いの品を届けるのにかこつけて、久しぶりに姉の新居を訪れてゆっくりおしゃべりを楽しんだ。",
+    "sentence_furigana": "おいわいのしなをとどけるのにかこつけて、ひさしぶりにあねのしんきょをおとずれてゆっくりおしゃべりをたのしんだ。",
     "sentence_en": "Using delivering a celebratory gift as an excuse, I visited my sister's new home for the first time in a while and enjoyed a leisurely chat.",
     "question": "お祝いの品を届けるの（　　　）、久しぶりに姉の新居を訪れてゆっくりおしゃべりを楽しんだ。",
     "choices": [
@@ -3127,7 +3127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let alone; not to speak of",
     "similar": "〜はもちろん〜も / 〜どころか / 〜は言うまでもなく",
     "sentence_jp": "骨折が治ったばかりで、全力で走るのはおろか、階段を普通に上り下りすることさえまだ難しい。",
-    "sentence_furigana": "骨折が治ったばかりで、全力で走るのはおろか、階段を普通に上り下りすることさえまだ難しい。",
+    "sentence_furigana": "こっせつがなおったばかりで、ぜんりょくではしるのはおろか、かいだんをふつうにのぼりくだりすることさえまだむずかしい。",
     "sentence_en": "Since my bone fracture has only just healed, let alone running at full speed, even going up and down stairs normally is still difficult.",
     "question": "骨折が治ったばかりで、全力で走るの（　　　）、階段を普通に上り下りすることさえまだ難しい。",
     "choices": [
@@ -3157,7 +3157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let alone; not to speak of",
     "similar": "〜はもちろん〜も / 〜どころか / 〜は言うまでもなく",
     "sentence_jp": "連休の初日は大変忙しく、昼食をとる時間はおろか、お茶を一口飲む余裕すらなかった。",
-    "sentence_furigana": "連休の初日は大変忙しく、昼食をとる時間はおろか、お茶を一口飲む余裕すらなかった。",
+    "sentence_furigana": "れんきゅうのしょにちはたいへんいそがしく、ちゅうしょくをとるじかんはおろか、おちゃをいちくちのむよゆうすらなかった。",
     "sentence_en": "The first day of the holidays was extremely busy; let alone time to eat lunch, there was not even room to take a sip of tea.",
     "question": "連休の初日は大変忙しく、昼食をとる時間（　　　）、お茶を一口飲む余裕すらなかった。",
     "choices": [
@@ -3187,7 +3187,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let alone; not to speak of",
     "similar": "〜はもちろん〜も / 〜どころか / 〜は言うまでもなく",
     "sentence_jp": "その珍しい高山植物は、県外はおろか、地元の人々の間でもほとんど知られていない。",
-    "sentence_furigana": "その珍しい高山植物は、県外はおろか、地元の人々の間でもほとんど知られていない。",
+    "sentence_furigana": "そのめずらしいこうざんしょくぶつは、けんがいはおろか、じもとのひとびとのあいだでもほとんどしられていない。",
     "sentence_en": "That rare alpine plant is scarcely known even among local people, let alone outside the prefecture.",
     "question": "その珍しい高山植物は、県外（　　　）、地元の人々の間でもほとんど知られていない。",
     "choices": [
@@ -3217,7 +3217,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let alone; not to speak of",
     "similar": "〜はもちろん〜も / 〜どころか / 〜は言うまでもなく",
     "sentence_jp": "初めて楽器に触れた日は、一曲通して弾くことはおろか、正しい音を出すことさえできなかった。",
-    "sentence_furigana": "初めて楽器に触れた日は、一曲通して弾くことはおろか、正しい音を出すことさえできなかった。",
+    "sentence_furigana": "はじめてがっきにふれたひは、いちきょくとおしてひくことはおろか、ただしいおとをだすことさえできなかった。",
     "sentence_en": "On the day I touched the musical instrument for the first time, let alone playing a whole song through, I could not even produce a proper sound.",
     "question": "初めて楽器に触れた日は、一曲通して弾くこと（　　　）、正しい音を出すことさえできなかった。",
     "choices": [
@@ -3247,7 +3247,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may be fine for ~, but definitely not",
     "similar": "〜ならともかく / 〜ならまだしも / 〜であれば話は別だが",
     "sentence_jp": "初めて参加する新人ならいざしらず、経験豊富なベテランがこのような基本の手順を忘れるとは驚きだ。",
-    "sentence_furigana": "初めて参加する新人ならいざしらず、経験豊富なベテランがこのような基本の手順を忘れるとは驚きだ。",
+    "sentence_furigana": "はじめてさんかするしんじんならいざしらず、けいけんほうふなベテランがこのようなきほんのてじゅんをわすれるとはおどろきだ。",
     "sentence_en": "It might be one thing for a newcomer participating for the first time, but it is surprising for an experienced veteran to forget such a basic procedure.",
     "question": "初めて参加する新人（　　　）、経験豊富なベテランがこのような基本の手順を忘れるとは驚きだ。",
     "choices": [
@@ -3277,7 +3277,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may be fine for ~, but definitely not",
     "similar": "〜ならともかく / 〜ならまだしも / 〜であれば話は別だが",
     "sentence_jp": "数十年前の古い機械ならいざしらず、最新の設備を使っていながらこれほど時間がかかるのはおかしい。",
-    "sentence_furigana": "数十年前の古い機械ならいざしらず、最新の設備を使っていながらこれほど時間がかかるのはおかしい。",
+    "sentence_furigana": "すうじゅうねんまえのふるいきかいならいざしらず、さいしんのせつびをつかっていながらこれほどじかんがかかるのはおかしい。",
     "sentence_en": "It might be understandable with an old machine from decades ago, but it is strange that it takes this much time when using the latest equipment.",
     "question": "数十年前の古い機械（　　　）、最新の設備を使っていながらこれほど時間がかかるのはおかしい。",
     "choices": [
@@ -3289,8 +3289,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "ならいざしらず",
     "notes": "<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>仮定<rt>かてい</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>不合理<rt>ふごうり</rt></ruby>さを<ruby>際立<rt>きわだ</rt></ruby>たせる<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "<ruby>数<rt>かず</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>（　　　）、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。",
-    "sentence_jp_ruby": "<ruby>数<rt>かず</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>ならいざしらず、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。",
+    "question_ruby": "<ruby>数<rt>すう</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>（　　　）、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。",
+    "sentence_jp_ruby": "<ruby>数<rt>すう</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>ならいざしらず、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。",
     "choices_ruby": [
       "を<ruby>踏<rt>ふ</rt></ruby>まえて",
       "ならいざしらず",
@@ -3307,7 +3307,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may be fine for ~, but definitely not",
     "similar": "〜ならともかく / 〜ならまだしも / 〜であれば話は別だが",
     "sentence_jp": "小さな子どもならいざしらず、社会人が自分の言動に責任を持てないようでは信頼を得られない。",
-    "sentence_furigana": "小さな子どもならいざしらず、社会人が自分の言動に責任を持てないようでは信頼を得られない。",
+    "sentence_furigana": "ちいさなこどもならいざしらず、しゃかいじんがじぶんのげんどうにせきにんをもてないようではしんらいをえられない。",
     "sentence_en": "A small child might be another matter, but if a working adult cannot take responsibility for their own words and actions, they cannot gain trust.",
     "question": "小さな子ども（　　　）、社会人が自分の言動に責任を持てないようでは信頼を得られない。",
     "choices": [
@@ -3336,10 +3336,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ならいざしらず",
     "meaning_en": "may be fine for ~, but definitely not",
     "similar": "〜ならともかく / 〜ならまだしも / 〜であれば話は別だが",
-    "sentence_jp": "交通手段のなかった時代ならいざしらず、現代において連絡もなしに何日も音信不通になるのは考えものだ。",
-    "sentence_furigana": "交通手段のなかった時代ならいざしらず、現代において連絡もなしに何日も音信不通になるのは考えものだ。",
-    "sentence_en": "An era without transportation and communication might be one thing, but in modern times becoming unreachable for days without notice is questionable.",
-    "question": "交通手段のなかった時代（　　　）、現代において連絡もなしに何日も音信不通になるのは考えものだ。",
+    "sentence_jp": "通信手段のなかった時代ならいざしらず、現代において連絡もなしに何日も音信不通になるのは考えものだ。",
+    "sentence_furigana": "つうしんしゅだんのなかったじだいならいざしらず、げんだいにおいてれんらくもなしになんにちもおんしんふつうになるのはかんがえものだ。",
+    "sentence_en": "It might be one thing in an era without means of communication, but in this day and age, going completely out of contact for days without a word is questionable.",
+    "question": "通信手段のなかった時代（　　　）、現代において連絡もなしに何日も音信不通になるのは考えものだ。",
     "choices": [
       "ゆえに",
       "そばから",
@@ -3349,8 +3349,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ならいざしらず",
     "notes": "<ruby>過去<rt>かこ</rt></ruby>や<ruby>特殊<rt>とくしゅ</rt></ruby>な<ruby>環境<rt>かんきょう</rt></ruby>と<ruby>現在<rt>げんざい</rt></ruby>とを<ruby>対比<rt>たいひ</rt></ruby>し、<ruby>現状<rt>げんじょう</rt></ruby>の<ruby>振<rt>ふ</rt></ruby>る<ruby>舞<rt>ま</rt></ruby>いをたしなめる<ruby>文脈<rt>ぶんみゃく</rt></ruby>で<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>のなかった<ruby>時代<rt>じだい</rt></ruby>（　　　）、<ruby>現代<rt>げんだい</rt></ruby>において<ruby>連絡<rt>れんらく</rt></ruby>もなしに<ruby>何日<rt>なんにち</rt></ruby>も<ruby>音信<rt>おんしん</rt></ruby><ruby>不通<rt>ふつう</rt></ruby>になるのは<ruby>考<rt>かんが</rt></ruby>えものだ。",
-    "sentence_jp_ruby": "<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>のなかった<ruby>時代<rt>じだい</rt></ruby>ならいざしらず、<ruby>現代<rt>げんだい</rt></ruby>において<ruby>連絡<rt>れんらく</rt></ruby>もなしに<ruby>何日<rt>なんにち</rt></ruby>も<ruby>音信<rt>おんしん</rt></ruby><ruby>不通<rt>ふつう</rt></ruby>になるのは<ruby>考<rt>かんが</rt></ruby>えものだ。",
+    "question_ruby": "<ruby>通信<rt>つうしん</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>のなかった<ruby>時代<rt>じだい</rt></ruby>（　　　）、<ruby>現代<rt>げんだい</rt></ruby>において<ruby>連絡<rt>れんらく</rt></ruby>もなしに<ruby>何<rt>なん</rt></ruby><ruby>日<rt>にち</rt></ruby>も<ruby>音信<rt>おんしん</rt></ruby><ruby>不通<rt>ふつう</rt></ruby>になるのは<ruby>考<rt>かんが</rt></ruby>えものだ。",
+    "sentence_jp_ruby": "<ruby>通信<rt>つうしん</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>のなかった<ruby>時代<rt>じだい</rt></ruby>ならいざしらず、<ruby>現代<rt>げんだい</rt></ruby>において<ruby>連絡<rt>れんらく</rt></ruby>もなしに<ruby>何<rt>なん</rt></ruby><ruby>日<rt>にち</rt></ruby>も<ruby>音信<rt>おんしん</rt></ruby><ruby>不通<rt>ふつう</rt></ruby>になるのは<ruby>考<rt>かんが</rt></ruby>えものだ。",
     "choices_ruby": [
       "ゆえに",
       "そばから",
@@ -3367,7 +3367,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "would be understandable, but",
     "similar": "〜ならまだ許せるが / 〜ならともかく / 〜ならいざしらず",
     "sentence_jp": "五分や十分の遅れならまだしも、連絡もなしに一時間以上も待たせるのはあんまりだ。",
-    "sentence_furigana": "五分や十分の遅れならまだしも、連絡もなしに一時間以上も待たせるのはあんまりだ。",
+    "sentence_furigana": "ごふんやじゅっぷんのおくれならまだしも、れんらくもなしにいちじかんいじょうもまたせるのはあんまりだ。",
     "sentence_en": "A delay of five or ten minutes would be understandable, but keeping someone waiting for over an hour without any contact is too much.",
     "question": "五分や十分の遅れ（　　　）、連絡もなしに一時間以上も待たせるのはあんまりだ。",
     "choices": [
@@ -3397,7 +3397,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "would be understandable, but",
     "similar": "〜ならまだ許せるが / 〜ならともかく / 〜ならいざしらず",
     "sentence_jp": "自分一人で困るだけならまだしも、周囲の仲間にまで迷惑をかけるような行動は慎むべきだ。",
-    "sentence_furigana": "自分一人で困るだけならまだしも、周囲の仲間にまで迷惑をかけるような行動は慎むべきだ。",
+    "sentence_furigana": "じぶんひとりでこまるだけならまだしも、しゅういのなかまにまでめいわくをかけるようなこうどうはつつしむべきだ。",
     "sentence_en": "If only you yourself were troubled it would be one thing, but you should refrain from actions that cause trouble even for the colleagues around you.",
     "question": "自分一人で困るだけ（　　　）、周囲の仲間にまで迷惑をかけるような行動は慎むべきだ。",
     "choices": [
@@ -3427,7 +3427,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "would be understandable, but",
     "similar": "〜ならまだ許せるが / 〜ならともかく / 〜ならいざしらず",
     "sentence_jp": "事前に相談してくれたならまだしも、すべての契約が済んでから事後報告されても対応できない。",
-    "sentence_furigana": "事前に相談してくれたならまだしも、すべての契約が済んでから事後報告されても対応できない。",
+    "sentence_furigana": "じぜんにそうだんしてくれたならまだしも、すべてのけいやくがすんでからじごほうこくされてもたいおうできない。",
     "sentence_en": "It would have been one thing if you had consulted me in advance, but I cannot deal with it when you only report after all the contracts are completed.",
     "question": "事前に相談してくれた（　　　）、すべての契約が済んでから事後報告されても対応できない。",
     "choices": [
@@ -3457,7 +3457,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "would be understandable, but",
     "similar": "〜ならまだ許せるが / 〜ならともかく / 〜ならいざしらず",
     "sentence_jp": "冗談で言ったのならまだしも、本気でそのような無謀な計画を実行に移そうとしているなら止めなければならない。",
-    "sentence_furigana": "冗談で言ったのならまだしも、本気でそのような無謀な計画を実行に移そうとしているなら止めなければならない。",
+    "sentence_furigana": "じょうだんでいったのならまだしも、ほんきでそのようなむぼうなけいかくをじっこうにうつそうとしているならとめなければならない。",
     "sentence_en": "If it was said as a joke that is one thing, but if they seriously intend to put such a reckless plan into action, we must stop them.",
     "question": "冗談で言ったの（　　　）、本気でそのような無謀な計画を実行に移そうとしているなら止めなければならない。",
     "choices": [
@@ -3487,7 +3487,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even though; despite being",
     "similar": "〜であっても / 〜とはいえ / たとえ〜でも",
     "sentence_jp": "世界記録を持つ名選手といえども、日々の地道な基礎練習を怠れば実力を維持することはできない。",
-    "sentence_furigana": "世界記録を持つ名選手といえども、日々の地道な基礎練習を怠れば実力を維持することはできない。",
+    "sentence_furigana": "せかいきろくをもつめいせんしゅといえども、ひびのじみちなきそれんしゅうをおこたればじつりょくをいじすることはできない。",
     "sentence_en": "Even a famous athlete who holds a world record cannot maintain their ability if they neglect steady daily basic practice.",
     "question": "世界記録を持つ名選手（　　　）、日々の地道な基礎練習を怠れば実力を維持することはできない。",
     "choices": [
@@ -3516,10 +3516,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といえども",
     "meaning_en": "even though; despite being",
     "similar": "〜であっても / 〜とはいえ / たとえ〜でも",
-    "sentence_jp": "最新の予測システムをもってしても、自然界の複雑な変化を百パーセント見通すことは困難だと言わざるを得ないが、専門家といえども判断に迷う場面がある。",
-    "sentence_furigana": "最新の予測システムをもってしても、自然界の複雑な変化を百パーセント見通すことは困難だと言わざるを得ないが、専門家といえども判断に迷う場面がある。",
-    "sentence_en": "Even with the latest forecasting systems it is difficult to foresee complex changes in nature 100 percent, and even experts have moments when they hesitate in judgment.",
-    "question": "最新の予測システムをもってしても、自然界の複雑な変化を百パーセント見通すことは困難だと言わざるを得ないが、専門家（　　　）判断に迷う場面がある。",
+    "sentence_jp": "自然界の変化は極めて複雑であり、どれほど経験を積んだ専門家といえども判断に迷う場面がある。",
+    "sentence_furigana": "しぜんかいのへんかはきわめてふくざつであり、どれほどけいけんをつんだせんもんかといえどもはんだんにまようばめんがある。",
+    "sentence_en": "Changes in the natural world are extremely complex, and even highly experienced experts sometimes hesitate in their judgment.",
+    "question": "自然界の変化は極めて複雑であり、どれほど経験を積んだ専門家（　　　）判断に迷う場面がある。",
     "choices": [
       "ならでは",
       "ずくめ",
@@ -3529,8 +3529,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "といえども",
     "notes": "<ruby>高<rt>たか</rt></ruby>い<ruby>専門<rt>せんもん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>立場<rt>たちば</rt></ruby>であっても<ruby>限界<rt>げんかい</rt></ruby>があることを<ruby>示<rt>しめ</rt></ruby>す<ruby>典型<rt>てんけい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>文脈<rt>ぶんみゃく</rt></ruby>です。",
-    "question_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>システムをもってしても、<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>を<ruby>百<rt>ひゃく</rt></ruby>パーセント<ruby>見通<rt>みとお</rt></ruby>すことは<ruby>困難<rt>こんなん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ないが、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>（　　　）<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。",
-    "sentence_jp_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>システムをもってしても、<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>を<ruby>百<rt>ひゃく</rt></ruby>パーセント<ruby>見通<rt>みとお</rt></ruby>すことは<ruby>困難<rt>こんなん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ないが、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>といえども<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。",
+    "question_ruby": "<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>複雑<rt>ふくざつ</rt></ruby>であり、どれほど<ruby>経験<rt>けいけん</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んだ<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>（　　　）<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。",
+    "sentence_jp_ruby": "<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>複雑<rt>ふくざつ</rt></ruby>であり、どれほど<ruby>経験<rt>けいけん</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んだ<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>といえども<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。",
     "choices_ruby": [
       "ならでは",
       "ずくめ",
@@ -3546,10 +3546,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といえども",
     "meaning_en": "even though; despite being",
     "similar": "〜であっても / 〜とはいえ / たとえ〜でも",
-    "sentence_jp": "親しい友人同士といえども、互いに踏み込んではならない礼儀や節度を守るべきである。",
-    "sentence_furigana": "親しい友人同士といえども、互いに踏み込んではならない礼儀や節度を守るべきである。",
-    "sentence_en": "Even among close friends, one should observe courtesy and moderation that must not be overstepped.",
-    "question": "親しい友人同士（　　　）、互いに踏み込んではならない礼儀や節度を守るべきである。",
+    "sentence_jp": "どれほど親しい友人同士といえども、最低限の礼儀や節度は守るべきである。",
+    "sentence_furigana": "どれほどしたしいゆうじんどうしといえども、さいていげんのれいぎやせつどはまもるべきである。",
+    "sentence_en": "Even among close friends, one should observe basic courtesy and propriety.",
+    "question": "どれほど親しい友人同士（　　　）、最低限の礼儀や節度は守るべきである。",
     "choices": [
       "にかまけて",
       "を皮切りに",
@@ -3559,8 +3559,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "といえども",
     "notes": "「<ruby>親<rt>した</rt></ruby>しき<ruby>仲<rt>なか</rt></ruby>にも<ruby>礼儀<rt>れいぎ</rt></ruby>あり」と<ruby>同様<rt>どうよう</rt></ruby>に、<ruby>甘<rt>あま</rt></ruby>えを<ruby>戒<rt>いまし</rt></ruby>める<ruby>文脈<rt>ぶんみゃく</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われます。",
-    "question_ruby": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>（　　　）、<ruby>互<rt>たが</rt></ruby>いに<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>んではならない<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るべきである。",
-    "sentence_jp_ruby": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>といえども、<ruby>互<rt>たが</rt></ruby>いに<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>んではならない<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るべきである。",
+    "question_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>（　　　）、<ruby>最低限<rt>さいていげん</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>は<ruby>守<rt>まも</rt></ruby>るべきである。",
+    "sentence_jp_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>といえども、<ruby>最低限<rt>さいていげん</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>は<ruby>守<rt>まも</rt></ruby>るべきである。",
     "choices_ruby": [
       "にかまけて",
       "を<ruby>皮切<rt>かわき</rt></ruby>りに",
@@ -3577,7 +3577,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even though; despite being",
     "similar": "〜であっても / 〜とはいえ / たとえ〜でも",
     "sentence_jp": "たとえ一分の遅れといえども、公共交通機関の運行においては重大な支障となり得る。",
-    "sentence_furigana": "たとえ一分の遅れといえども、公共交通機関の運行においては重大な支障となり得る。",
+    "sentence_furigana": "たとえいっぷんのおくれといえども、こうきょうこうつうきかんのうんこうにおいてはじゅうだいなししょうとなりえる。",
     "sentence_en": "Even a delay of a single minute can become a serious hindrance in the operation of public transportation.",
     "question": "たとえ一分の遅れ（　　　）、公共交通機関の運行においては重大な支障となり得る。",
     "choices": [
@@ -3607,7 +3607,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; nonetheless",
     "similar": "〜とはいっても / 〜けれども / 〜であることは事実だが",
     "sentence_jp": "暦の上では立春を過ぎたとはいえ、北風が冷たくコートが手放せない日が続いている。",
-    "sentence_furigana": "暦の上では立春を過ぎたとはいえ、北風が冷たくコートが手放せない日が続いている。",
+    "sentence_furigana": "こよみのうえではりっしゅんをすぎたとはいえ、きたかぜがつめたくコートがてばなせないひがつづいている。",
     "sentence_en": "Although we have passed the beginning of spring on the calendar, the north wind is cold and days when we cannot part with our coats continue.",
     "question": "暦の上では立春を過ぎた（　　　）、北風が冷たくコートが手放せない日が続いている。",
     "choices": [
@@ -3637,7 +3637,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; nonetheless",
     "similar": "〜とはいっても / 〜けれども / 〜であることは事実だが",
     "sentence_jp": "リフォームして外観はきれいになったとはいえ、築五十年の木造住宅なので冬の寒さは厳しい。",
-    "sentence_furigana": "リフォームして外観はきれいになったとはいえ、築五十年の木造住宅なので冬の寒さは厳しい。",
+    "sentence_furigana": "リフォームしてがいかんはきれいになったとはいえ、ちくごじゅうねんのもくぞうじゅうたくなのでふゆのさむさはきびしい。",
     "sentence_en": "Although it has been renovated and the exterior looks clean, since it is a fifty-year-old wooden house, the winter cold is harsh.",
     "question": "リフォームして外観はきれいになった（　　　）、築五十年の木造住宅なので冬の寒さは厳しい。",
     "choices": [
@@ -3667,7 +3667,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; nonetheless",
     "similar": "〜とはいっても / 〜けれども / 〜であることは事実だが",
     "sentence_jp": "基礎的な文法をひと通り学んだとはいえ、現地の新聞を辞書なしでスラスラ読むのはまだ難しい。",
-    "sentence_furigana": "基礎的な文法をひと通り学んだとはいえ、現地の新聞を辞書なしでスラスラ読むのはまだ難しい。",
+    "sentence_furigana": "きそてきなぶんぽうをひととおりまなんだとはいえ、げんちのしんぶんをじしょなしでスラスラよむのはまだむずかしい。",
     "sentence_en": "Although I have learned basic grammar from start to finish, reading local newspapers fluently without a dictionary is still difficult.",
     "question": "基礎的な文法をひと通り学んだ（　　　）、現地の新聞を辞書なしでスラスラ読むのはまだ難しい。",
     "choices": [
@@ -3697,7 +3697,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; nonetheless",
     "similar": "〜とはいっても / 〜けれども / 〜であることは事実だが",
     "sentence_jp": "徒歩圏内とはいえ、駅から緩やかな坂道を二十五分も歩くので夏場の通勤はなかなかつらい。",
-    "sentence_furigana": "徒歩圏内とはいえ、駅から緩やかな坂道を二十五分も歩くので夏場の通勤はなかなかつらい。",
+    "sentence_furigana": "とほけんないとはいえ、えきからゆるやかなさかみちをにじゅうごふんもあるくのでなつばのつうきんはなかなかつらい。",
     "sentence_en": "Although it is within walking distance, since you have to walk twenty-five minutes up a gentle slope from the station, commuting in summer is quite tough.",
     "question": "徒歩圏内（　　　）、駅から緩やかな坂道を二十五分も歩くので夏場の通勤はなかなかつらい。",
     "choices": [
@@ -3727,7 +3727,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as much as; more than",
     "similar": "〜以上もある / 優に〜を超える",
     "sentence_jp": "神社の境内には、樹齢五百年を超える高さ三十メートルからある大杉がそびえ立っている。",
-    "sentence_furigana": "神社の境内には、樹齢五百年を超える高さ三十メートルからある大杉がそびえ立っている。",
+    "sentence_furigana": "じんじゃのけいだいには、じゅれいごひゃくねんをこえるたかささんじゅうメートルからあるおおすぎがそびえたっている。",
     "sentence_en": "In the shrine grounds towers a giant cedar tree over 500 years old and fully thirty meters tall.",
     "question": "神社の境内には、樹齢五百年を超える高さ三十メートル（　　　）大杉がそびえ立っている。",
     "choices": [
@@ -3757,7 +3757,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as much as; more than",
     "similar": "〜以上もある / 優に〜を超える",
     "sentence_jp": "引っ越しの作業員は、百キロからある重たいピアノを二人がかりで慎重に運び出した。",
-    "sentence_furigana": "引っ越しの作業員は、百キロからある重たいピアノを二人がかりで慎重に運び出した。",
+    "sentence_furigana": "ひっこしのさぎょういんは、ひゃくキロからあるおもたいピアノをふたりがかりでしんちょうにはこびだした。",
     "sentence_en": "The moving workers carefully carried out the heavy piano weighing well over a hundred kilograms between the two of them.",
     "question": "引っ越しの作業員は、百キロ（　　　）重たいピアノを二人がかりで慎重に運び出した。",
     "choices": [
@@ -3787,7 +3787,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as much as; more than",
     "similar": "〜以上もある / 優に〜を超える",
     "sentence_jp": "積雪が二メートルからある豪雪地帯では、毎朝の雪かきだけでも大変な重労働になる。",
-    "sentence_furigana": "積雪が二メートルからある豪雪地帯では、毎朝の雪かきだけでも大変な重労働になる。",
+    "sentence_furigana": "せきせつがにメートルからあるごうせつちたいでは、まいあさのゆきかきだけでもたいへんなじゅうろうどうになる。",
     "sentence_en": "In heavy snowfall areas where snow accumulation reaches two meters or more, just shoveling snow every morning becomes hard labor.",
     "question": "積雪が二メートル（　　　）豪雪地帯では、毎朝の雪かきだけでも大変な重労働になる。",
     "choices": [
@@ -3817,7 +3817,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as much as; more than",
     "similar": "〜以上もある / 優に〜を超える",
     "sentence_jp": "全長十メートルからある巨大なクジラの骨格標本が、自然史博物館の中央ホールに展示されている。",
-    "sentence_furigana": "全長十メートルからある巨大なクジラの骨格標本が、自然史博物館の中央ホールに展示されている。",
+    "sentence_furigana": "ぜんちょうじゅうメートルからあるきょだいなクジラのこっかくひょうほんが、しぜんしはくぶつかんのちゅうおうホールにてんじされている。",
     "sentence_en": "A gigantic whale skeleton specimen measuring ten meters or more in total length is exhibited in the central hall of the natural history museum.",
     "question": "全長十メートル（　　　）巨大なクジラの骨格標本が、自然史博物館の中央ホールに展示されている。",
     "choices": [
@@ -3847,7 +3847,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as many as; upwards of",
     "similar": "〜以上もの / 〜にも達する多くの",
     "sentence_jp": "週末の野外音楽祭には一万人からの観客が詰めかけ、会場は熱気に包まれた。",
-    "sentence_furigana": "週末の野外音楽祭には一万人からの観客が詰めかけ、会場は熱気に包まれた。",
+    "sentence_furigana": "しゅうまつのやがいおんがくさいにはいちまんにんからのかんきゃくがつめかけ、かいじょうはねっきにつつまれた。",
     "sentence_en": "Upwards of ten thousand spectators flocked to the weekend outdoor music festival, filling the venue with excitement.",
     "question": "週末の野外音楽祭には一万人（　　　）観客が詰めかけ、会場は熱気に包まれた。",
     "choices": [
@@ -3877,25 +3877,25 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as many as; upwards of",
     "similar": "〜以上もの / 〜にも達する多くの",
     "sentence_jp": "重要文化財の修復工事には、数億円からの費用と五年の歳月が費やされた。",
-    "sentence_furigana": "重要文化財の修復工事には、数億円からの費用と五年の歳月が費やされた。",
-    "sentence_en": "Upwards of several hundred million yen in cost and five years of time were spent on the restoration work of the Important Cultural Property.",
+    "sentence_furigana": "じゅうようぶんかざいのしゅうふくこうじには、すうおくえんからのひようとごねんのさいげつがついやされた。",
+    "sentence_en": "The restoration work on the Important Cultural Property cost upwards of several hundred million yen and took five years.",
     "question": "重要文化財の修復工事には、数億円（　　　）費用と五年の歳月が費やされた。",
     "choices": [
       "からの",
       "ごときの",
       "まじき",
-      "からある"
+      "まみれの"
     ],
     "answer": 0,
     "correct_text": "からの",
     "notes": "<ruby>金額<rt>きんがく</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさを<ruby>強調<rt>きょうちょう</rt></ruby>する<ruby>際<rt>さい</rt></ruby>にも「<ruby>数量<rt>すうりょう</rt></ruby><ruby>詞<rt>ことば</rt></ruby>＋からの＋<ruby>名詞<rt>めいし</rt></ruby>」が<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby>の<ruby>修復<rt>しゅうふく</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>には、<ruby>数<rt>すう</rt></ruby><ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>（　　　）<ruby>費用<rt>ひよう</rt></ruby>と<ruby>五年<rt>ごねん</rt></ruby>の<ruby>歳月<rt>さいげつ</rt></ruby>が<ruby>費<rt>つい</rt></ruby>やされた。",
-    "sentence_jp_ruby": "<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby>の<ruby>修復<rt>しゅうふく</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>には、<ruby>数<rt>すう</rt></ruby><ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>からの<ruby>費用<rt>ひよう</rt></ruby>と<ruby>五年<rt>ごねん</rt></ruby>の<ruby>歳月<rt>さいげつ</rt></ruby>が<ruby>費<rt>つい</rt></ruby>やされた。",
+    "question_ruby": "<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby>の<ruby>修復<rt>しゅうふく</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>には、<ruby>数<rt>すう</rt></ruby><ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>（　　　）<ruby>費用<rt>ひよう</rt></ruby>と<ruby>五<rt>ご</rt></ruby><ruby>年<rt>ねん</rt></ruby>の<ruby>歳月<rt>さいげつ</rt></ruby>が<ruby>費<rt>つい</rt></ruby>やされた。",
+    "sentence_jp_ruby": "<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby>の<ruby>修復<rt>しゅうふく</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>には、<ruby>数<rt>すう</rt></ruby><ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>からの<ruby>費用<rt>ひよう</rt></ruby>と<ruby>五<rt>ご</rt></ruby><ruby>年<rt>ねん</rt></ruby>の<ruby>歳月<rt>さいげつ</rt></ruby>が<ruby>費<rt>つい</rt></ruby>やされた。",
     "choices_ruby": [
       "からの",
       "ごときの",
       "まじき",
-      "からある"
+      "まみれの"
     ],
     "correct_text_ruby": "からの"
   },
@@ -3907,25 +3907,25 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as many as; upwards of",
     "similar": "〜以上もの / 〜にも達する多くの",
     "sentence_jp": "その作家の新作小説は発売からわずか一か月で五十万部からの売り上げを記録した。",
-    "sentence_furigana": "その作家の新作小説は発売からわずか一か月で五十万部からの売り上げを記録した。",
-    "sentence_en": "The author's new novel recorded sales of upwards of 500,000 copies in just one month after its release.",
+    "sentence_furigana": "そのさっかのしんさくしょうせつははつばいからわずかいちかげつでごじゅうまんぶからのうりあげをきろくした。",
+    "sentence_en": "The author's new novel recorded sales of over 500,000 copies in just one month after its release.",
     "question": "その作家の新作小説は発売からわずか一か月で五十万部（　　　）売り上げを記録した。",
     "choices": [
-      "ばかりの",
+      "なりの",
       "にかまけた",
       "からの",
-      "からある"
+      "ゆえの"
     ],
     "answer": 2,
     "correct_text": "からの",
     "notes": "<ruby>部数<rt>ぶすう</rt></ruby>や<ruby>個数<rt>こすう</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>多<rt>おお</rt></ruby>いことを<ruby>驚<rt>おどろ</rt></ruby>きとともに<ruby>伝<rt>つた</rt></ruby>える<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "その<ruby>作家<rt>さっか</rt></ruby>の<ruby>新作<rt>しんさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>発売<rt>はつばい</rt></ruby>からわずか<ruby>一<rt>いち</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>で<ruby>五<rt>ご</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>（　　　）<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げを<ruby>記録<rt>きろく</rt></ruby>した。",
-    "sentence_jp_ruby": "その<ruby>作家<rt>さっか</rt></ruby>の<ruby>新作<rt>しんさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>発売<rt>はつばい</rt></ruby>からわずか<ruby>一<rt>いち</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>で<ruby>五<rt>ご</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からの<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げを<ruby>記録<rt>きろく</rt></ruby>した。",
+    "question_ruby": "その<ruby>作家<rt>さっか</rt></ruby>の<ruby>新作<rt>しんさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>発売<rt>はつばい</rt></ruby>からわずか<ruby>一<rt>いち</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>で<ruby>五<rt>ご</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>（　　　）<ruby>売り上<rt>うりあ</rt></ruby>げを<ruby>記録<rt>きろく</rt></ruby>した。",
+    "sentence_jp_ruby": "その<ruby>作家<rt>さっか</rt></ruby>の<ruby>新作<rt>しんさく</rt></ruby><ruby>小説<rt>しょうせつ</rt></ruby>は<ruby>発売<rt>はつばい</rt></ruby>からわずか<ruby>一<rt>いち</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>で<ruby>五<rt>ご</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からの<ruby>売り上<rt>うりあ</rt></ruby>げを<ruby>記録<rt>きろく</rt></ruby>した。",
     "choices_ruby": [
-      "ばかりの",
+      "なりの",
       "にかまけた",
       "からの",
-      "からある"
+      "ゆえの"
     ],
     "correct_text_ruby": "からの"
   },
@@ -3937,7 +3937,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as many as; upwards of",
     "similar": "〜以上もの / 〜にも達する多くの",
     "sentence_jp": "今回の奨学生の募集には、わずか十名の枠に対して三百人からの応募者が集まった。",
-    "sentence_furigana": "今回の奨学生の募集には、わずか十名の枠に対して三百人からの応募者が集まった。",
+    "sentence_furigana": "こんかいのしょうがくせいのぼしゅうには、わずかじゅうめいのわくにたいしてさんびゃくにんからのおうぼしゃがあつまった。",
     "sentence_en": "For this scholarship recruitment, upwards of three hundred applicants gathered for just ten spots.",
     "question": "今回の奨学生の募集には、わずか十名の枠に対して三百人（　　　）応募者が集まった。",
     "choices": [
@@ -3967,7 +3967,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no sooner than ~; right after",
     "similar": "〜するとすぐに（同じことが繰り返される） / 〜した端から",
     "sentence_jp": "秋が深まり、庭の落ち葉を掃いてきれいにするそばからまた風が吹いて葉が散ってしまう。",
-    "sentence_furigana": "秋が深まり、庭の落ち葉を掃いてきれいにするそばからまた風が吹いて葉が散ってしまう。",
+    "sentence_furigana": "あきがふかまり、にわのおちばをはいてきれいにするそばからまたかぜがふいてはがちってしまう。",
     "sentence_en": "As autumn deepens, no sooner do I sweep the fallen leaves in the garden clean than the wind blows again and scatters more leaves.",
     "question": "秋が深まり、庭の落ち葉を掃いてきれいにする（　　　）また風が吹いて葉が散ってしまう。",
     "choices": [
@@ -3997,7 +3997,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no sooner than ~; right after",
     "similar": "〜するとすぐに（同じことが繰り返される） / 〜した端から",
     "sentence_jp": "幼い子どもたちは、おもちゃを箱に片付けたそばからまた次のおもちゃを引っ張り出してくる。",
-    "sentence_furigana": "幼い子どもたちは、おもちゃを箱に片付けたそばからまた次のおもちゃを引っ張り出してくる。",
+    "sentence_furigana": "おさないこどもたちは、おもちゃをはこにかたづけたそばからまたつぎのおもちゃをひっぱりだしてくる。",
     "sentence_en": "Young children pull out the next toy right after you put the toys away in the box.",
     "question": "幼い子どもたちは、おもちゃを箱に片付けた（　　　）また次のおもちゃを引っ張り出してくる。",
     "choices": [
@@ -4027,7 +4027,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no sooner than ~; right after",
     "similar": "〜するとすぐに（同じことが繰り返される） / 〜した端から",
     "sentence_jp": "専門用語が多くて難しく、メモを取りながら聞くそばから内容を忘れてしまいそうになる。",
-    "sentence_furigana": "専門用語が多くて難しく、メモを取りながら聞くそばから内容を忘れてしまいそうになる。",
+    "sentence_furigana": "せんもんようごがおおくてむずかしく、メモをとりながらきくそばからないようをわすれてしまいそうになる。",
     "sentence_en": "Because there are many technical terms and it is difficult, I feel like I am about to forget the content right as I listen and take notes.",
     "question": "専門用語が多くて難しく、メモを取りながら聞く（　　　）内容を忘れてしまいそうになる。",
     "choices": [
@@ -4057,7 +4057,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no sooner than ~; right after",
     "similar": "〜するとすぐに（同じことが繰り返される） / 〜した端から",
     "sentence_jp": "焼きたてのパンを店頭に並べるそばから次々と売れていき、昼前にはすべて完売した。",
-    "sentence_furigana": "焼きたてのパンを店頭に並べるそばから次々と売れていき、昼前にはすべて完売した。",
+    "sentence_furigana": "やきたてのパンをてんとうにならべるそばからつぎつぎとうれていき、ひるまえにはすべてかんばいした。",
     "sentence_en": "No sooner were the freshly baked breads lined up in the storefront than they sold one after another, selling out completely before noon.",
     "question": "焼きたてのパンを店頭に並べる（　　　）次々と売れていき、昼前にはすべて完売した。",
     "choices": [
@@ -4087,7 +4087,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as soon as; no sooner had",
     "similar": "〜や否や / 〜と同時に / 〜なり / 〜たとたん",
     "sentence_jp": "開始の合図が鳴るが早いか、選手たちは一斉にスタートラインから勢いよく駆け出した。",
-    "sentence_furigana": "開始の合図が鳴るが早いか、選手たちは一斉にスタートラインから勢いよく駆け出した。",
+    "sentence_furigana": "かいしのあいずがなるがはやいか、せんしゅたちはいっせいにスタートラインからいきおいよくかけだした。",
     "sentence_en": "No sooner had the starting signal sounded than the athletes dashed out vigorously from the starting line all at once.",
     "question": "開始の合図が鳴る（　　　）、選手たちは一斉にスタートラインから勢いよく駆け出した。",
     "choices": [
@@ -4117,7 +4117,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as soon as; no sooner had",
     "similar": "〜や否や / 〜と同時に / 〜なり / 〜たとたん",
     "sentence_jp": "飼い犬は散歩用のリードを見るが早いか、しっぽを振って玄関のドアの前へ走っていった。",
-    "sentence_furigana": "飼い犬は散歩用のリードを見るが早いか、しっぽを振って玄関のドアの前へ走っていった。",
+    "sentence_furigana": "かいいぬはさんぽようのリードをみるがはやいか、しっぽをふってげんかんのドアのまえへはしっていった。",
     "sentence_en": "The instant the pet dog saw the walking leash, it wagged its tail and ran to the front door.",
     "question": "飼い犬は散歩用のリードを見る（　　　）、しっぽを振って玄関のドアの前へ走っていった。",
     "choices": [
@@ -4147,7 +4147,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as soon as; no sooner had",
     "similar": "〜や否や / 〜と同時に / 〜なり / 〜たとたん",
     "sentence_jp": "家に帰り着いたが早いか、息子はカバンを置いてすぐに友達と野球をしに出かけてしまった。",
-    "sentence_furigana": "家に帰り着いたが早いか、息子はカバンを置いてすぐに友達と野球をしに出かけてしまった。",
+    "sentence_furigana": "いえにかえりきいたがはやいか、むすこはカバンをおいてすぐにともだちとやきゅうをしにでかけてしまった。",
     "sentence_en": "No sooner had my son arrived home than he put down his bag and immediately went out to play baseball with his friends.",
     "question": "家に帰り着いた（　　　）、息子はカバンを置いてすぐに友達と野球をしに出かけてしまった。",
     "choices": [
@@ -4177,7 +4177,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as soon as; no sooner had",
     "similar": "〜や否や / 〜と同時に / 〜なり / 〜たとたん",
     "sentence_jp": "劇場の幕が下りるが早いか、客席からは出演者を称える割れんばかりの拍手が沸き起こった。",
-    "sentence_furigana": "劇場の幕が下りるが早いか、客席からは出演者を称える割れんばかりの拍手が沸き起こった。",
+    "sentence_furigana": "げきじょうのまくがおりるがはやいか、きゃくせきからはしゅつえんしゃをたたえるわれんばかりのはくしゅがわきおこった。",
     "sentence_en": "The moment the theater curtain came down, thunderous applause praising the performers erupted from the audience.",
     "question": "劇場の幕が下りる（　　　）、客席からは出演者を称える割れんばかりの拍手が沸き起こった。",
     "choices": [
@@ -4207,7 +4207,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the moment; right as",
     "similar": "〜が早いか / 〜と同時に / 〜するかしなかのうちに",
     "sentence_jp": "開店時刻になって扉が開くや否や、外で並んでいた買い物客が一斉に店内へ入った。",
-    "sentence_furigana": "開店時刻になって扉が開くや否や、外で並んでいた買い物客が一斉に店内へ入った。",
+    "sentence_furigana": "かいてんじこくになってとびらがあくやいなや、そとでならんでいたかいものきゃくがいっせいにてんないへはいった。",
     "sentence_en": "The moment opening time arrived and the doors opened, the shoppers waiting in line outside entered the store all at once.",
     "question": "開店時刻になって扉が開く（　　　）、外で並んでいた買い物客が一斉に店内へ入った。",
     "choices": [
@@ -4237,7 +4237,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the moment; right as",
     "similar": "〜が早いか / 〜と同時に / 〜するかしなかのうちに",
     "sentence_jp": "空が急に暗くなり冷たい風が吹くや否や、大粒の雨が激しく地面を打ち始めた。",
-    "sentence_furigana": "空が急に暗くなり冷たい風が吹くや否や、大粒の雨が激しく地面を打ち始めた。",
+    "sentence_furigana": "そらがきゅうにくらくなりつめたいかぜがふくやいなや、おおつぶのあめがはげしくじめんをうちはじめた。",
     "sentence_en": "No sooner had the sky suddenly darkened and a cold wind blown than large raindrops began beating hard against the ground.",
     "question": "空が急に暗くなり冷たい風が吹く（　　　）、大粒の雨が激しく地面を打ち始めた。",
     "choices": [
@@ -4267,7 +4267,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the moment; right as",
     "similar": "〜が早いか / 〜と同時に / 〜するかしなかのうちに",
     "sentence_jp": "優勝決定の知らせが届くや否や、控え室にいた部員たちは互いに肩を抱き合って喜んだ。",
-    "sentence_furigana": "優勝決定の知らせが届くや否や、控え室にいた部員たちは互いに肩を抱き合って喜んだ。",
+    "sentence_furigana": "ゆうしょうけっていのしらせがとどくやいなや、ひかえしつにいたぶいんたちはたがいにかたをだきあってよろこんだ。",
     "sentence_en": "The moment the news of winning the championship arrived, the club members in the waiting room hugged each other's shoulders in joy.",
     "question": "優勝決定の知らせが届く（　　　）、控え室にいた部員たちは互いに肩を抱き合って喜んだ。",
     "choices": [
@@ -4297,7 +4297,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the moment; right as",
     "similar": "〜が早いか / 〜と同時に / 〜するかしなかのうちに",
     "sentence_jp": "山頂の雲が切れて朝日が昇るや否や、あたり一面の雪原が黄金色に輝き始めた。",
-    "sentence_furigana": "山頂の雲が切れて朝日が昇るや否や、あたり一面の雪原が黄金色に輝き始めた。",
+    "sentence_furigana": "さんちょうのくもがきれてあさひがのぼるやいなや、あたりいちめんのせつげんがおうごんしょくにかがやきはじめた。",
     "sentence_en": "The instant the clouds at the summit parted and the morning sun rose, the snowfield all around began shining in golden hues.",
     "question": "山頂の雲が切れて朝日が昇る（　　　）、あたり一面の雪原が黄金色に輝き始めた。",
     "choices": [
@@ -4327,7 +4327,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "immediately upon doing",
     "similar": "〜とすぐに（そのまま次の動作をする） / 〜たとたんに",
     "sentence_jp": "長旅でよほど疲れていたのか、兄は帰宅するなりソファに横になって眠ってしまった。",
-    "sentence_furigana": "長旅でよほど疲れていたのか、兄は帰宅するなりソファに横になって眠ってしまった。",
+    "sentence_furigana": "ながたびでよほどつかれていたのか、あにはきたくするなりソファによこになってねむってしまった。",
     "sentence_en": "Perhaps exhausted from the long trip, my older brother lay down on the sofa and fell asleep the moment he got home.",
     "question": "長旅でよほど疲れていたのか、兄は帰宅する（　　　）ソファに横になって眠ってしまった。",
     "choices": [
@@ -4357,7 +4357,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "immediately upon doing",
     "similar": "〜とすぐに（そのまま次の動作をする） / 〜たとたんに",
     "sentence_jp": "親友は私の顔を見るなり、今日あったうれしい出来事を早口で一気に話し始めた。",
-    "sentence_furigana": "親友は私の顔を見るなり、今日あったうれしい出来事を早口で一気に話し始めた。",
+    "sentence_furigana": "しんゆうはわたしのかおをみるなり、きょうあったうれしいできごとをはやくちでいっきにはなしはじめた。",
     "sentence_en": "The moment my best friend saw my face, she began talking rapidly all at once about the happy event that happened today.",
     "question": "親友は私の顔を見る（　　　）、今日あったうれしい出来事を早口で一気に話し始めた。",
     "choices": [
@@ -4386,10 +4386,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "なり",
     "meaning_en": "immediately upon doing",
     "similar": "〜とすぐに（そのまま次の動作をする） / 〜たとたんに",
-    "sentence_jp": "受話器を取るなり相手が用件を切り出したので、こちらは名乗るタイミングを逃してしまった。",
-    "sentence_furigana": "受話器を取るなり相手が用件を切り出したので、こちらは名乗るタイミングを逃してしまった。",
-    "sentence_en": "Because the other party brought up their business the instant they picked up the receiver, I missed the timing to give my name.",
-    "question": "受話器を取る（　　　）相手が用件を切り出したので、こちらは名乗るタイミングを逃してしまった。",
+    "sentence_jp": "彼女は電話の受話器を取るなり、明るい声で来月の旅行の予定を話し始めた。",
+    "sentence_furigana": "かのじょはでんわのじゅわきをとるなり、あかるいこえでらいげつのりょこうのよていをはなしはじめた。",
+    "sentence_en": "As soon as she picked up the phone receiver, she cheerfully began talking about next month's travel plans.",
+    "question": "彼女は電話の受話器を取る（　　　）、明るい声で来月の旅行の予定を話し始めた。",
     "choices": [
       "そばから",
       "なり",
@@ -4399,8 +4399,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "なり",
     "notes": "<ruby>予想<rt>よそう</rt></ruby><ruby>外<rt>がい</rt></ruby>の<ruby>素早<rt>すばや</rt></ruby>い<ruby>行動<rt>こうどう</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>驚<rt>おどろ</rt></ruby>いたニュアンスが<ruby>含<rt>ふく</rt></ruby>まれることが<ruby>多<rt>おお</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>る（　　　）<ruby>相手<rt>あいて</rt></ruby>が<ruby>用件<rt>ようけん</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したので、こちらは<ruby>名乗<rt>なの</rt></ruby>るタイミングを<ruby>逃<rt>のが</rt></ruby>してしまった。",
-    "sentence_jp_ruby": "<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るなり<ruby>相手<rt>あいて</rt></ruby>が<ruby>用件<rt>ようけん</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したので、こちらは<ruby>名乗<rt>なの</rt></ruby>るタイミングを<ruby>逃<rt>のが</rt></ruby>してしまった。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>の<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>る（　　　）、<ruby>明<rt>あか</rt></ruby>るい<ruby>声<rt>こえ</rt></ruby>で<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めた。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>の<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るなり、<ruby>明<rt>あか</rt></ruby>るい<ruby>声<rt>こえ</rt></ruby>で<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めた。",
     "choices_ruby": [
       "そばから",
       "なり",
@@ -4417,7 +4417,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "immediately upon doing",
     "similar": "〜とすぐに（そのまま次の動作をする） / 〜たとたんに",
     "sentence_jp": "幼い娘は祖父から届いた小包を開けるなり、中に入っていた絵本を夢中で読み始めた。",
-    "sentence_furigana": "幼い娘は祖父から届いた小包を開けるなり、中に入っていた絵本を夢中で読み始めた。",
+    "sentence_furigana": "おさないむすめはそふからとどいたこづつみをあけるなり、なかにはいっていたえほんをむちゅうでよみはじめた。",
     "sentence_en": "The moment my young daughter opened the parcel from her grandfather, she eagerly began reading the picture book inside.",
     "question": "幼い娘は祖父から届いた小包を開ける（　　　）、中に入っていた絵本を夢中で読み始めた。",
     "choices": [
@@ -4447,7 +4447,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if about to; virtually",
     "similar": "今にも〜しそうな様子で / 〜と言わんばかりに / まるで〜しそうなほど",
     "sentence_jp": "素晴らしい演奏が終わると、会場中に割れんばかりの拍手と歓声が鳴り響いた。",
-    "sentence_furigana": "素晴らしい演奏が終わると、会場中に割れんばかりの拍手と歓声が鳴り響いた。",
+    "sentence_furigana": "すばらしいえんそうがおわると、かいじょうちゅうにわれんばかりのはくしゅとかんせいがなりひびいた。",
     "sentence_en": "When the wonderful performance ended, thunderous applause and cheers echoed throughout the venue as if the hall might split open.",
     "question": "素晴らしい演奏が終わると、会場中に割れん（　　　）拍手と歓声が鳴り響いた。",
     "choices": [
@@ -4477,7 +4477,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if about to; virtually",
     "similar": "今にも〜しそうな様子で / 〜と言わんばかりに / まるで〜しそうなほど",
     "sentence_jp": "十年ぶりに再会した旧友は、涙を流さんばかりに私の手を強く握りしめて喜んでくれた。",
-    "sentence_furigana": "十年ぶりに再会した旧友は、涙を流さんばかりに私の手を強く握りしめて喜んでくれた。",
+    "sentence_furigana": "じゅうねんぶりにさいかいしたきゅうゆうは、なみだをながさんばかりにわたしのてをつよくにぎりしめてよろこんでくれた。",
     "sentence_en": "Reunited after ten years, my old friend grasped my hands tightly and rejoiced, looking on the verge of tears.",
     "question": "十年ぶりに再会した旧友は、涙を流さん（　　　）に私の手を強く握りしめて喜んでくれた。",
     "choices": [
@@ -4507,7 +4507,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if about to; virtually",
     "similar": "今にも〜しそうな様子で / 〜と言わんばかりに / まるで〜しそうなほど",
     "sentence_jp": "何か言いたげにこちらを見つめる彼の表情は、「早く理由を説明してほしい」と言わんばかりだった。",
-    "sentence_furigana": "何か言いたげにこちらを見つめる彼の表情は、「早く理由を説明してほしい」と言わんばかりだった。",
+    "sentence_furigana": "なにかいいたげにこちらをみつめるかれのひょうじょうは、「はやくりゆうをせつめいしてほしい」といわんばかりだった。",
     "sentence_en": "His expression as he gazed at me as if wanting to say something was practically saying, \"Please explain the reason quickly.\"",
     "question": "何か言いたげにこちらを見つめる彼の表情は、「早く理由を説明してほしい」と言わん（　　　）だった。",
     "choices": [
@@ -4537,7 +4537,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if about to; virtually",
     "similar": "今にも〜しそうな様子で / 〜と言わんばかりに / まるで〜しそうなほど",
     "sentence_jp": "改札口からあふれんばかりの乗客が次々と出てきて、駅前広場はたちまち人で埋まった。",
-    "sentence_furigana": "改札口からあふれんばかりの乗客が次々と出てきて、駅前広場はたちまち人で埋まった。",
+    "sentence_furigana": "かいさつぐちからあふれんばかりのじょうきゃくがつぎつぎとでてきて、えきまえひろばはたちまちひとでうまった。",
     "sentence_en": "Passengers practically overflowing from the ticket gates came out one after another, and the station square quickly filled with people.",
     "question": "改札口からあふれん（　　　）の乗客が次々と出てきて、駅前広場はたちまち人で埋まった。",
     "choices": [
@@ -4567,7 +4567,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if to say",
     "similar": "「〜」と言わんばかりに / いかにも「〜だ」という態度で",
     "sentence_jp": "猫は「おなかが空いた」とばかりに、空になった食器の前に座ってこちらをじっと見上げた。",
-    "sentence_furigana": "猫は「おなかが空いた」とばかりに、空になった食器の前に座ってこちらをじっと見上げた。",
+    "sentence_furigana": "ねこは「おなかがすいた」とばかりに、からになったしょっきのまえにすわってこちらをじっとみあげた。",
     "sentence_en": "As if to say \"I'm hungry,\" the cat sat in front of its empty dish and stared up at me.",
     "question": "猫は「おなかが空いた」と（　　　）、空になった食器の前に座ってこちらをじっと見上げた。",
     "choices": [
@@ -4597,7 +4597,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if to say",
     "similar": "「〜」と言わんばかりに / いかにも「〜だ」という態度で",
     "sentence_jp": "彼はこの時を待っていたとばかりに、質疑応答が始まった瞬間に立ち上がって質問した。",
-    "sentence_furigana": "彼はこの時を待っていたとばかりに、質疑応答が始まった瞬間に立ち上がって質問した。",
+    "sentence_furigana": "かれはこのときをまっていたとばかりに、しつぎおうとうがはじまったしゅんかんにたちあがってしつもんした。",
     "sentence_en": "As if to say he had been waiting for this very moment, he stood up and asked a question the instant the Q&A session began.",
     "question": "彼はこの時を待っていたと（　　　）、質疑応答が始まった瞬間に立ち上がって質問した。",
     "choices": [
@@ -4627,7 +4627,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if to say",
     "similar": "「〜」と言わんばかりに / いかにも「〜だ」という態度で",
     "sentence_jp": "長時間の会議が終わると、参加者は「やっと終わった」とばかりに一斉に深い息をついた。",
-    "sentence_furigana": "長時間の会議が終わると、参加者は「やっと終わった」とばかりに一斉に深い息をついた。",
+    "sentence_furigana": "ちょうじかんのかいぎがおわると、さんかしゃは「やっとおわった」とばかりにいっせいにふかいいきをついた。",
     "sentence_en": "When the long meeting ended, the participants all let out a deep breath at once, as if to say \"It's finally over.\"",
     "question": "長時間の会議が終わると、参加者は「やっと終わった」と（　　　）一斉に深い息をついた。",
     "choices": [
@@ -4657,7 +4657,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as if to say",
     "similar": "「〜」と言わんばかりに / いかにも「〜だ」という態度で",
     "sentence_jp": "妹は自分の出番だとばかりに自信に満ちた笑顔でステージの中央へと歩み出た。",
-    "sentence_furigana": "妹は自分の出番だとばかりに自信に満ちた笑顔でステージの中央へと歩み出た。",
+    "sentence_furigana": "いもうとはじぶんのでばんだとばかりにじしんにみちたえがおでステージのちゅうおうへとあゆみでた。",
     "sentence_en": "As if to say it was her turn to shine, my younger sister stepped out to the center of the stage with a confident smile.",
     "question": "妹は自分の出番だと（　　　）自信に満ちた笑顔でステージの中央へと歩み出た。",
     "choices": [
@@ -4687,7 +4687,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "take on the air of; show signs of",
     "similar": "〜らしくなる / 〜のような気配を帯びる / 〜じみる",
     "sentence_jp": "梅の花がほころび始め、吹く風にもようやく春めいた暖かさが感じられるようになった。",
-    "sentence_furigana": "梅の花がほころび始め、吹く風にもようやく春めいた暖かさが感じられるようになった。",
+    "sentence_furigana": "うめのはながほころびはじめ、ふくかぜにもようやくはるめいたあたたかさがかんじられるようになった。",
     "sentence_en": "As the plum blossoms begin to open, a spring-like warmth can finally be felt even in the blowing breeze.",
     "question": "梅の花がほころび始め、吹く風にもようやく春（　　　）暖かさが感じられるようになった。",
     "choices": [
@@ -4717,7 +4717,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "take on the air of; show signs of",
     "similar": "〜らしくなる / 〜のような気配を帯びる / 〜じみる",
     "sentence_jp": "彼は何もかも知っているかのように、謎めいた微笑みを浮かべて静かにうなずいた。",
-    "sentence_furigana": "彼は何もかも知っているかのように、謎めいた微笑みを浮かべて静かにうなずいた。",
+    "sentence_furigana": "かれはなにもかもしっているかのように、なぞめいたびえみをうかべてしずかにうなずいた。",
     "sentence_en": "As if knowing everything, he wore an enigmatic smile and nodded quietly.",
     "question": "彼は何もかも知っているかのように、謎（　　　）微笑みを浮かべて静かにうなずいた。",
     "choices": [
@@ -4747,7 +4747,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "take on the air of; show signs of",
     "similar": "〜らしくなる / 〜のような気配を帯びる / 〜じみる",
     "sentence_jp": "厳しい指摘も冗談めいた口調で柔らかく伝えてくれたので、場の空気が和らいだ。",
-    "sentence_furigana": "厳しい指摘も冗談めいた口調で柔らかく伝えてくれたので、場の空気が和らいだ。",
+    "sentence_furigana": "きびしいしてきもじょうだんめいたくちょうでやわらかくつたえてくれたので、ばのくうきがやわらいだ。",
     "sentence_en": "Because even the strict feedback was conveyed gently in a joking tone, the atmosphere in the room softened.",
     "question": "厳しい指摘も冗談（　　　）口調で柔らかく伝えてくれたので、場の空気が和らいだ。",
     "choices": [
@@ -4777,7 +4777,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "take on the air of; show signs of",
     "similar": "〜らしくなる / 〜のような気配を帯びる / 〜じみる",
     "sentence_jp": "九月に入って朝晩の風が涼しくなり、街路樹の葉も少しずつ秋めいてきた。",
-    "sentence_furigana": "九月に入って朝晩の風が涼しくなり、街路樹の葉も少しずつ秋めいてきた。",
+    "sentence_furigana": "くがつにはいってあさばんのかぜがすずしくなり、がいろじゅのはもすこしずつあきめいてきた。",
     "sentence_en": "Entering September, the morning and evening breezes have grown cool, and the leaves of the street trees have gradually begun to take on an autumnal air.",
     "question": "九月に入って朝晩の風が涼しくなり、街路樹の葉も少しずつ秋（　　　）きた。",
     "choices": [
@@ -4806,10 +4806,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ぶる",
     "meaning_en": "act like; pretend to be",
     "similar": "〜のふりをする / 〜のように見せかける / 気取る",
-    "sentence_jp": "自分が苦労して手伝ったのに、彼は何も言わずにいい人ぶることもなく静かに去っていった。",
-    "sentence_furigana": "自分が苦労して手伝ったのに、彼は何も言わずにいい人ぶることもなく静かに去っていった。",
-    "sentence_en": "Even though he went to great lengths to help, he quietly left without saying anything or trying to act like a saint.",
-    "question": "自分が苦労して手伝ったのに、彼は何も言わずにいい人（　　　）こともなく静かに去っていった。",
+    "sentence_jp": "少し専門書を読んだからといって、友達の前で物知りぶるのはよくない。",
+    "sentence_furigana": "すこしせんもんしょをよんだからといって、ともだちのまえでものしりぶるのはよくない。",
+    "sentence_en": "Just because you've read a few specialized books, it's not good to act like a know-it-all in front of your friends.",
+    "question": "少し専門書を読んだからといって、友達の前で物知り（　　　）のはよくない。",
     "choices": [
       "ぶる",
       "めく",
@@ -4819,8 +4819,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ぶる",
     "notes": "「いい<ruby>人<rt>ひと</rt></ruby>ぶる」「<ruby>善人<rt>ぜんにん</rt></ruby>ぶる」は、<ruby>自分<rt>じぶん</rt></ruby>を<ruby>良<rt>よ</rt></ruby>く<ruby>見<rt>み</rt></ruby>せようと<ruby>意識<rt>いしき</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>る<ruby>舞<rt>ま</rt></ruby>うことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>苦労<rt>くろう</rt></ruby>して<ruby>手伝<rt>てつだ</rt></ruby>ったのに、<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>わずにいい<ruby>人<rt>ひと</rt></ruby>（　　　）こともなく<ruby>静<rt>しず</rt></ruby>かに<ruby>去<rt>さ</rt></ruby>っていった。",
-    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>苦労<rt>くろう</rt></ruby>して<ruby>手伝<rt>てつだ</rt></ruby>ったのに、<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>わずにいい<ruby>人<rt>ひと</rt></ruby>ぶることもなく<ruby>静<rt>しず</rt></ruby>かに<ruby>去<rt>さ</rt></ruby>っていった。",
+    "question_ruby": "<ruby>少<rt>すこ</rt></ruby>し<ruby>専門<rt>せんもん</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだからといって、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>物知<rt>ものし</rt></ruby>り（　　　）のはよくない。",
+    "sentence_jp_ruby": "<ruby>少<rt>すこ</rt></ruby>し<ruby>専門<rt>せんもん</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだからといって、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>物知<rt>ものし</rt></ruby>りぶるのはよくない。",
     "choices_ruby": [
       "ぶる",
       "めく",
@@ -4837,7 +4837,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "act like; pretend to be",
     "similar": "〜のふりをする / 〜のように見せかける / 気取る",
     "sentence_jp": "少し専門書を読んだくらいで、周囲の人に学者ぶった態度をとるのは感心しない。",
-    "sentence_furigana": "少し専門書を読んだくらいで、周囲の人に学者ぶった態度をとるのは感心しない。",
+    "sentence_furigana": "すこしせんもんしょをよんだくらいで、しゅういのひとにがくしゃぶったたいどをとるのはかんしんしない。",
     "sentence_en": "Putting on scholarly airs toward people around you just because you have read a few specialized books is not admirable.",
     "question": "少し専門書を読んだくらいで、周囲の人に学者（　　　）態度をとるのは感心しない。",
     "choices": [
@@ -4867,7 +4867,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "act like; pretend to be",
     "similar": "〜のふりをする / 〜のように見せかける / 気取る",
     "sentence_jp": "彼女はどんなに高い役職に就いても決して偉ぶるところがなく、誰に対しても気さくだ。",
-    "sentence_furigana": "彼女はどんなに高い役職に就いても決して偉ぶるところがなく、誰に対しても気さくだ。",
+    "sentence_furigana": "かのじょはどんなにたかいやくしょくについてもけっしてえらぶるところがなく、だれにたいしてもきさくだ。",
     "sentence_en": "No matter how high a position she attains, she never puts on airs of importance and is friendly toward everyone.",
     "question": "彼女はどんなに高い役職に就いても決して偉（　　　）ところがなく、誰に対しても気さくだ。",
     "choices": [
@@ -4897,7 +4897,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "act like; pretend to be",
     "similar": "〜のふりをする / 〜のように見せかける / 気取る",
     "sentence_jp": "よく知らない分野の話題で知ったかぶりをすると、後で思わぬ恥をかくことになる。",
-    "sentence_furigana": "よく知らない分野の話題で知ったかぶりをすると、後で思わぬ恥をかくことになる。",
+    "sentence_furigana": "よくしらないぶんやのわだいでしったかぶりをすると、あとでおもわぬはじをかくことになる。",
     "sentence_en": "If you pretend to know all about a topic in a field you are not familiar with, you will end up embarrassing yourself unexpectedly later.",
     "question": "よく知らない分野の話題で知ったか（　　　）と、後で思わぬ恥をかくことになる。",
     "choices": [
@@ -4927,7 +4927,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seem mature; age-appropriate",
     "similar": "〜らしく見える / 〜の趣を帯びる / 自然と〜の風情がある",
     "sentence_jp": "小学生の頃から彼女はどこか大人びた雰囲気があり、周囲の友達から頼りにされていた。",
-    "sentence_furigana": "小学生の頃から彼女はどこか大人びた雰囲気があり、周囲の友達から頼りにされていた。",
+    "sentence_furigana": "しょうがくせいのころからかのじょはどこかおとなびたふんいきがあり、しゅういのともだちからたよりにされていた。",
     "sentence_en": "Even since elementary school she had a somewhat mature air about her and was relied upon by the friends around her.",
     "question": "小学生の頃から彼女はどこか大人（　　　）雰囲気があり、周囲の友達から頼りにされていた。",
     "choices": [
@@ -4957,7 +4957,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seem mature; age-appropriate",
     "similar": "〜らしく見える / 〜の趣を帯びる / 自然と〜の風情がある",
     "sentence_jp": "山あいの鄙びた温泉宿で、川のせせらぎを聞きながら静かな休日を過ごした。",
-    "sentence_furigana": "山あいの鄙びた温泉宿で、川のせせらぎを聞きながら静かな休日を過ごした。",
+    "sentence_furigana": "やまあいのひなびたおんせんやどで、かわのせせらぎをききながらしずかなきゅうじつをすごした。",
     "sentence_en": "At a rustic hot spring inn nestled in the mountains, I spent a quiet holiday listening to the murmuring of the stream.",
     "question": "山あいの鄙（　　　）温泉宿で、川のせせらぎを聞きながら静かな休日を過ごした。",
     "choices": [
@@ -4987,7 +4987,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seem mature; age-appropriate",
     "similar": "〜らしく見える / 〜の趣を帯びる / 自然と〜の風情がある",
     "sentence_jp": "商店街の角にある古びた看板の喫茶店は、半世紀にわたり地元の人々に愛されている。",
-    "sentence_furigana": "商店街の角にある古びた看板の喫茶店は、半世紀にわたり地元の人々に愛されている。",
+    "sentence_furigana": "しょうてんがいのかどにあるふるびたかんばんのきっさてんは、はんせいきにわたりじもとのひとびとにあいされている。",
     "sentence_en": "The coffee shop with the timeworn signboard on the corner of the shopping street has been loved by locals for half a century.",
     "question": "商店街の角にある古（　　　）看板の喫茶店は、半世紀にわたり地元の人々に愛されている。",
     "choices": [
@@ -5017,7 +5017,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seem mature; age-appropriate",
     "similar": "〜らしく見える / 〜の趣を帯びる / 自然と〜の風情がある",
     "sentence_jp": "都会の喧騒を離れ、どこか田舎びた穏やかな風景の中をゆっくりと散策した。",
-    "sentence_furigana": "都会の喧騒を離れ、どこか田舎びた穏やかな風景の中をゆっくりと散策した。",
+    "sentence_furigana": "とかいのけんそうをはなれ、どこかいなかびたおだやかなふうけいのなかをゆっくりとさんさくした。",
     "sentence_en": "Leaving the hustle and bustle of the city behind, I strolled leisurely through a gentle, somewhat rustic landscape.",
     "question": "都会の喧騒を離れ、どこか田舎（　　　）穏やかな風景の中をゆっくりと散策した。",
     "choices": [
@@ -5047,7 +5047,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "appearing to be; looking ~",
     "similar": "〜そうだ / 〜らしい / 〜のような様子で",
     "sentence_jp": "彼女は何か言いたげにこちらを見つめていたが、結局何も言わずに部屋を出ていった。",
-    "sentence_furigana": "彼女は何か言いたげにこちらを見つめていたが、結局何も言わずに部屋を出ていった。",
+    "sentence_furigana": "かのじょはなにかいいたげにこちらをみつめていたが、けっきょくなにもいわずにへやをでていった。",
     "sentence_en": "She was gazing at me as if she wanted to say something, but in the end she left the room without saying a word.",
     "question": "彼女は何か（　　　）こちらを見つめていたが、結局何も言わずに部屋を出ていった。",
     "choices": [
@@ -5077,7 +5077,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "appearing to be; looking ~",
     "similar": "〜そうだ / 〜らしい / 〜のような様子で",
     "sentence_jp": "長年暮らした街を離れる日、彼は名残惜しげに駅のホームから遠くの山々を眺めていた。",
-    "sentence_furigana": "長年暮らした街を離れる日、彼は名残惜しげに駅のホームから遠くの山々を眺めていた。",
+    "sentence_furigana": "ながねんくらしたまちをはなれるひ、かれはなごりおしげにえきのホームからとおくのやまやまをながめていた。",
     "sentence_en": "On the day he left the town where he had lived for many years, he gazed wistfully at the distant mountains from the station platform.",
     "question": "長年暮らした街を離れる日、彼は（　　　）駅のホームから遠くの山々を眺めていた。",
     "choices": [
@@ -5107,7 +5107,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "appearing to be; looking ~",
     "similar": "〜そうだ / 〜らしい / 〜のような様子で",
     "sentence_jp": "初めての発表会を終えた子どもたちは、舞台の上で誇らしげに胸を張って微笑んでいた。",
-    "sentence_furigana": "初めての発表会を終えた子どもたちは、舞台の上で誇らしげに胸を張って微笑んでいた。",
+    "sentence_furigana": "はじめてのはっぴょうかいをおえたこどもたちは、ぶたいのうえでほこらしげにむねをはってほほえんでいた。",
     "sentence_en": "Having finished their very first recital, the children smiled and puffed out their chests proudly on stage.",
     "question": "初めての発表会を終えた子どもたちは、舞台の上で（　　　）胸を張って微笑んでいた。",
     "choices": [
@@ -5137,7 +5137,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "appearing to be; looking ~",
     "similar": "〜そうだ / 〜らしい / 〜のような様子で",
     "sentence_jp": "ベンチに座った老人は、夕暮れの公園を寂しげに眺めながら静かにため息をついた。",
-    "sentence_furigana": "ベンチに座った老人は、夕暮れの公園を寂しげに眺めながら静かにため息をついた。",
+    "sentence_furigana": "ベンチにすわったろうじんは、ゆうぐれのこうえんをさびしげにながめながらしずかにためいきをついた。",
     "sentence_en": "The elderly man sitting on the bench sighed quietly while gazing lonely at the park at dusk.",
     "question": "ベンチに座った老人は、夕暮れの公園を（　　　）眺めながら静かにため息をついた。",
     "choices": [
@@ -5167,7 +5167,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "tinted with; seeming like",
     "similar": "〜めいた / 〜のような / 〜っぽい",
     "sentence_jp": "もう社会人なのだから、自分の失敗を人のせいにするような子どもじみた言い訳はやめなさい。",
-    "sentence_furigana": "もう社会人なのだから、自分の失敗を人のせいにするような子どもじみた言い訳はやめなさい。",
+    "sentence_furigana": "もうしゃかいじんなのだから、じぶんのしっぱいをひとのせいにするようなこどもじみたいいわけはやめなさい。",
     "sentence_en": "Since you are already a working adult, stop making childish excuses like blaming your own mistakes on others.",
     "question": "もう社会人なのだから、自分の失敗を人のせいにするような（　　　）言い訳はやめなさい。",
     "choices": [
@@ -5197,7 +5197,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "tinted with; seeming like",
     "similar": "〜めいた / 〜のような / 〜っぽい",
     "sentence_jp": "単なる意見交換の場だったはずが、次第に説教じみた長い話になって皆がうんざりした。",
-    "sentence_furigana": "単なる意見交換の場だったはずが、次第に説教じみた長い話になって皆がうんざりした。",
+    "sentence_furigana": "たんなるいけんこうかんのばだったはずが、しだいにせっきょうじみたながいはなしになってみながうんざりした。",
     "sentence_en": "What was supposed to be a simple exchange of opinions gradually turned into a preachy, drawn-out lecture that left everyone fed up.",
     "question": "単なる意見交換の場だったはずが、次第に（　　　）長い話になって皆がうんざりした。",
     "choices": [
@@ -5227,7 +5227,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "tinted with; seeming like",
     "similar": "〜めいた / 〜のような / 〜っぽい",
     "sentence_jp": "まだ三十代になったばかりなのに、最近はどうも年寄りじみた趣味ばかり好むようになった。",
-    "sentence_furigana": "まだ三十代になったばかりなのに、最近はどうも年寄りじみた趣味ばかり好むようになった。",
+    "sentence_furigana": "まださんじゅうだいになったばかりなのに、さいきんはどうもとしよりじみたしゅみばかりこのむようになった。",
     "sentence_en": "Even though I have only just entered my thirties, lately I have come to prefer tastes that seem rather old-fashioned.",
     "question": "まだ三十代になったばかりなのに、最近はどうも（　　　）趣味ばかり好むようになった。",
     "choices": [
@@ -5257,7 +5257,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "tinted with; seeming like",
     "similar": "〜めいた / 〜のような / 〜っぽい",
     "sentence_jp": "彼の提案は一見すると斬新だが、よく聞くと冗談じみた話で現実味に欠けている。",
-    "sentence_furigana": "彼の提案は一見すると斬新だが、よく聞くと冗談じみた話で現実味に欠けている。",
+    "sentence_furigana": "かれのていあんはいっけんするとざんしんだが、よくきくとじょうだんじみたはなしでげんじつみにかけている。",
     "sentence_en": "His proposal looks novel at first glance, but when you listen closely, it sounds almost like a joke and lacks realism.",
     "question": "彼の提案は一見すると斬新だが、よく聞くと（　　　）話で現実味に欠けている。",
     "choices": [
@@ -5287,13 +5287,13 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have a bad tendency to",
     "similar": "〜傾向がある / 〜がちだ / 〜恐れがある",
     "sentence_jp": "あの評論家は自分の専門分野になると、少し独断に陥るきらいがあると指摘されている。",
-    "sentence_furigana": "あの評論家は自分の専門分野になると、少し独断に陥るきらいがあると指摘されている。",
-    "sentence_en": "That critic is pointed out as having a tendency to fall into dogmatism when it comes to his own specialty.",
+    "sentence_furigana": "あのひょうろんかはじぶんのせんもんぶんやになると、すこしどくだんにおちいるきらいがあるとしてきされている。",
+    "sentence_en": "It has been pointed out that that critic has a tendency to become somewhat dogmatic when it comes to his own field of expertise.",
     "question": "あの評論家は自分の専門分野になると、少し独断に（　　　）と指摘されている。",
     "choices": [
       "陥る始末だ",
-      "陥る傾向だ",
-      "陥る恐れがある",
+      "陥るにすぎない",
+      "陥るに堪えない",
       "陥るきらいがある"
     ],
     "answer": 3,
@@ -5303,8 +5303,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "あの<ruby>評論<rt>ひょうろん</rt></ruby><ruby>家<rt>か</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>になると、<ruby>少<rt>すこ</rt></ruby>し<ruby>独断<rt>どくだん</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>るきらいがあると<ruby>指摘<rt>してき</rt></ruby>されている。",
     "choices_ruby": [
       "<ruby>陥<rt>おちい</rt></ruby>る<ruby>始末<rt>しまつ</rt></ruby>だ",
-      "<ruby>陥<rt>おちい</rt></ruby>る<ruby>傾向<rt>けいこう</rt></ruby>だ",
-      "<ruby>陥<rt>おちい</rt></ruby>る<ruby>恐<rt>おそ</rt></ruby>れがある",
+      "<ruby>陥<rt>おちい</rt></ruby>るにすぎない",
+      "<ruby>陥<rt>おちい</rt></ruby>るに<ruby>堪<rt>こた</rt></ruby>えない",
       "<ruby>陥<rt>おちい</rt></ruby>るきらいがある"
     ],
     "correct_text_ruby": "<ruby>陥<rt>おちい</rt></ruby>るきらいがある"
@@ -5317,7 +5317,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have a bad tendency to",
     "similar": "〜傾向がある / 〜がちだ / 〜恐れがある",
     "sentence_jp": "若い世代だけでなく、現代人はとかく目先の便利さばかりを追い求めるきらいがあるのではないだろうか。",
-    "sentence_furigana": "若い世代だけでなく、現代人はとかく目先の便利さばかりを追い求めるきらいがあるのではないだろうか。",
+    "sentence_furigana": "わかいせだいだけでなく、げんだいじんはとかくめさきのべんりさばかりをおいもとめるきらいがあるのではないだろうか。",
     "sentence_en": "Not only the younger generation, modern people in general seem to have an undesirable tendency to pursue only immediate convenience.",
     "question": "若い世代だけでなく、現代人はとかく目先の便利さばかりを（　　　）のではないだろうか。",
     "choices": [
@@ -5347,7 +5347,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have a bad tendency to",
     "similar": "〜傾向がある / 〜がちだ / 〜恐れがある",
     "sentence_jp": "彼は誠実な性格だが、慎重すぎるあまり大事な場面で決断を先送りするきらいがある。",
-    "sentence_furigana": "彼は誠実な性格だが、慎重すぎるあまり大事な場面で決断を先送りするきらいがある。",
+    "sentence_furigana": "かれはせいじつなせいかくだが、しんちょうすぎるあまりだいじなばめんでけつだんをさきおくりするきらいがある。",
     "sentence_en": "He has an honest personality, but because he is overly cautious, he tends to postpone decisions at crucial moments.",
     "question": "彼は誠実な性格だが、慎重すぎるあまり大事な場面で決断を（　　　）。",
     "choices": [
@@ -5377,7 +5377,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have a bad tendency to",
     "similar": "〜傾向がある / 〜がちだ / 〜恐れがある",
     "sentence_jp": "専門家の報告書は正確さを重視するあまり、一般の読者には表現が難解になりすぎるきらいがある。",
-    "sentence_furigana": "専門家の報告書は正確さを重視するあまり、一般の読者には表現が難解になりすぎるきらいがある。",
+    "sentence_furigana": "せんもんかのほうこくしょはせいかくさをじゅうしするあまり、いっぱんのどくしゃにはひょうげんがなんかいになりすぎるきらいがある。",
     "sentence_en": "Because expert reports place so much emphasis on accuracy, their phrasing tends to become overly difficult for general readers.",
     "question": "専門家の報告書は正確さを重視するあまり、一般の読者には表現が難解に（　　　）。",
     "choices": [
@@ -5407,7 +5407,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "end up in a bad state of",
     "similar": "〜ありさまだ / 〜結果になってしまった / 〜ざまだ",
     "sentence_jp": "弟は新しいパソコンを買ったのに使いこなせず、今では箱に入れたまま放置する始末だ。",
-    "sentence_furigana": "弟は新しいパソコンを買ったのに使いこなせず、今では箱に入れたまま放置する始末だ。",
+    "sentence_furigana": "おとうとはあたらしいパソコンをかったのにつかいこなせず、いまでははこにいれたままほうちするしまつだ。",
     "sentence_en": "My younger brother bought a new computer but could not master it, and now he has ended up leaving it neglected in its box.",
     "question": "弟は新しいパソコンを買ったのに使いこなせず、今では箱に入れたまま（　　　）。",
     "choices": [
@@ -5437,7 +5437,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "end up in a bad state of",
     "similar": "〜ありさまだ / 〜結果になってしまった / 〜ざまだ",
     "sentence_jp": "修理代を節約しようと自分で時計を分解したら、元に戻せなくなって結局新品を買い直す始末だ。",
-    "sentence_furigana": "修理代を節約しようと自分で時計を分解したら、元に戻せなくなって結局新品を買い直す始末だ。",
+    "sentence_furigana": "しゅうりだいをせつやくしようとじぶんでとけいをぶんかいしたら、もとにもどせなくなってけっきょくしんぴんをかいなおすしまつだ。",
     "sentence_en": "When I took my watch apart myself to save on repair costs, I could not put it back together and ended up having to buy a brand-new one.",
     "question": "修理代を節約しようと自分で時計を分解したら、元に戻せなくなって結局新品を（　　　）。",
     "choices": [
@@ -5467,7 +5467,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "end up in a bad state of",
     "similar": "〜ありさまだ / 〜結果になってしまった / 〜ざまだ",
     "sentence_jp": "彼は連日の遅刻を注意されたにもかかわらず反省せず、ついには会議を無断で欠席する始末だ。",
-    "sentence_furigana": "彼は連日の遅刻を注意されたにもかかわらず反省せず、ついには会議を無断で欠席する始末だ。",
+    "sentence_furigana": "かれはれんじつのちこくをちゅういされたにもかかわらずはんせいせず、ついにはかいぎをむだんでけっせきするしまつだ。",
     "sentence_en": "Despite being warned about being late day after day, he showed no remorse and finally ended up skipping the meeting without notice.",
     "question": "彼は連日の遅刻を注意されたにもかかわらず反省せず、ついには会議を無断で（　　　）。",
     "choices": [
@@ -5497,7 +5497,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "end up in a bad state of",
     "similar": "〜ありさまだ / 〜結果になってしまった / 〜ざまだ",
     "sentence_jp": "無計画に予算を使い続けた結果、年度の後半には必要な備品すら買えなくなる始末だ。",
-    "sentence_furigana": "無計画に予算を使い続けた結果、年度の後半には必要な備品すら買えなくなる始末だ。",
+    "sentence_furigana": "むけいかくによさんをつかいつづけたけっか、ねんどのこうはんにはひつようなびひんすらかえなくなるしまつだ。",
     "sentence_en": "As a result of continuing to spend the budget without a plan, by the second half of the fiscal year they ended up unable to buy even necessary supplies.",
     "question": "無計画に予算を使い続けた結果、年度の後半には必要な備品すら（　　　）。",
     "choices": [
@@ -5527,7 +5527,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "left in an ongoing/unfinished state",
     "similar": "〜たまま / 〜た状態で放置する / 〜続ける",
     "sentence_jp": "リビングのテレビが誰にも見られないまま朝からずっとつけっぱなしになっていた。",
-    "sentence_furigana": "リビングのテレビが誰にも見られないまま朝からずっとつけっぱなしになっていた。",
+    "sentence_furigana": "リビングのテレビがだれにもみられないままあさからずっとつけっぱなしになっていた。",
     "sentence_en": "The living room TV had been left on since morning without anyone watching it.",
     "question": "リビングのテレビが誰にも見られないまま朝からずっと（　　　）になっていた。",
     "choices": [
@@ -5557,7 +5557,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "left in an ongoing/unfinished state",
     "similar": "〜たまま / 〜た状態で放置する / 〜続ける",
     "sentence_jp": "子どもたちは部屋中におもちゃを散らかしっぱなしにして、公園へ遊びに行ってしまった。",
-    "sentence_furigana": "子どもたちは部屋中におもちゃを散らかしっぱなしにして、公園へ遊びに行ってしまった。",
+    "sentence_furigana": "こどもたちはへやじゅうにおもちゃをちらかしっぱなしにして、こうえんへあそびにいってしまった。",
     "sentence_en": "The children left their toys scattered all over the room and went off to play in the park.",
     "question": "子どもたちは部屋中におもちゃを（　　　）にして、公園へ遊びに行ってしまった。",
     "choices": [
@@ -5587,7 +5587,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "left in an ongoing/unfinished state",
     "similar": "〜たまま / 〜た状態で放置する / 〜続ける",
     "sentence_jp": "今日の展示会では朝から夕方まで受付に立ちっぱなしだったので、足がすっかり疲れてしまった。",
-    "sentence_furigana": "今日の展示会では朝から夕方まで受付に立ちっぱなしだったので、足がすっかり疲れてしまった。",
+    "sentence_furigana": "きょうのてんじかいではあさからゆうがたまでうけつけにたちっぱなしだったので、あしがすっかりつかれてしまった。",
     "sentence_en": "Because I was kept standing at the reception desk from morning till evening at today's exhibition, my legs got completely tired.",
     "question": "今日の展示会では朝から夕方まで受付に（　　　）だったので、足がすっかり疲れてしまった。",
     "choices": [
@@ -5617,7 +5617,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "left in an ongoing/unfinished state",
     "similar": "〜たまま / 〜た状態で放置する / 〜続ける",
     "sentence_jp": "友人から借りた大切な本を半年も借りっぱなしにしていたことに気づき、慌てて連絡した。",
-    "sentence_furigana": "友人から借りた大切な本を半年も借りっぱなしにしていたことに気づき、慌てて連絡した。",
+    "sentence_furigana": "ゆうじんからかりたたいせつなほんをはんとしもかりっぱなしにしていたことにきづき、あわててれんらくした。",
     "sentence_en": "Realizing that I had kept an important book borrowed from a friend for half a year without returning it, I hurriedly contacted them.",
     "question": "友人から借りた大切な本を半年も（　　　）にしていたことに気づき、慌てて連絡した。",
     "choices": [
@@ -5647,7 +5647,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot get away without doing",
     "similar": "〜ないではすまない / 〜ざるを得ない / 〜なければならない",
     "sentence_jp": "自分の不注意で大切な書類を紛失してしまった以上、上司に正直に報告せずにはすまない。",
-    "sentence_furigana": "自分の不注意で大切な書類を紛失してしまった以上、上司に正直に報告せずにはすまない。",
+    "sentence_furigana": "じぶんのふちゅういでたいせつなしょるいをふんしつしてしまったいじょう、じょうしにしょうじきにほうこくせずにはすまない。",
     "sentence_en": "Now that I have lost an important document through my own carelessness, I cannot get away without reporting it honestly to my boss.",
     "question": "自分の不注意で大切な書類を紛失してしまった以上、上司に正直に（　　　）。",
     "choices": [
@@ -5677,7 +5677,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot get away without doing",
     "similar": "〜ないではすまない / 〜ざるを得ない / 〜なければならない",
     "sentence_jp": "借りたカメラをうっかり落として壊してしまったからには、同じものを弁償せずにはすまないだろう。",
-    "sentence_furigana": "借りたカメラをうっかり落として壊してしまったからには、同じものを弁償せずにはすまないだろう。",
+    "sentence_furigana": "かりたカメラをうっかりおとしてこわしてしまったからには、おなじものをべんしょうせずにはすまないだろう。",
     "sentence_en": "Since I accidentally dropped and broke the camera I borrowed, I probably cannot get away without compensating for it with an identical one.",
     "question": "借りたカメラをうっかり落として壊してしまったからには、同じものを（　　　）だろう。",
     "choices": [
@@ -5707,7 +5707,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot get away without doing",
     "similar": "〜ないではすまない / 〜ざるを得ない / 〜なければならない",
     "sentence_jp": "これほど多くの利用者に迷惑をかけたのだから、責任者が公の場で謝罪せずにはすまない。",
-    "sentence_furigana": "これほど多くの利用者に迷惑をかけたのだから、責任者が公の場で謝罪せずにはすまない。",
+    "sentence_furigana": "これほどおおくのりようしゃにめいわくをかけたのだから、せきにんしゃがおおやけのばでしゃざいせずにはすまない。",
     "sentence_en": "Having caused trouble to this many users, the person in charge cannot get away without apologizing in a public setting.",
     "question": "これほど多くの利用者に迷惑をかけたのだから、責任者が公の場で（　　　）。",
     "choices": [
@@ -5736,26 +5736,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ずにはすまない",
     "meaning_en": "cannot get away without doing",
     "similar": "〜ないではすまない / 〜ざるを得ない / 〜なければならない",
-    "sentence_jp": "長年お世話になった恩師の退官記念会とあっては、どんなに忙しくても出席せずにはすまない。",
-    "sentence_furigana": "長年お世話になった恩師の退官記念会とあっては、どんなに忙しくても出席せずにはすまない。",
-    "sentence_en": "Given that it is the retirement ceremony of a mentor who looked after me for many years, no matter how busy I am, I cannot excuse myself from attending.",
-    "question": "長年お世話になった恩師の退官記念会とあっては、どんなに忙しくても（　　　）。",
+    "sentence_jp": "約束を破って相手に迷惑をかけたのだから、何らかの形で誠意を示さずにはすまない。",
+    "sentence_furigana": "やくそくをやぶってあいてにめいわくをかけたのだから、なんらかのかたちでせいいをしめさずにはすまない。",
+    "sentence_en": "Since you broke your promise and inconvenienced the other person, you cannot leave things settled without showing your sincerity in some way.",
+    "question": "約束を破って相手に迷惑をかけたのだから、何らかの形で誠意を（　　　）。",
     "choices": [
-      "出席するに堪えない",
-      "出席する始末だ",
-      "出席せずにはすまない",
-      "出席するきらいがある"
+      "示すに堪えない",
+      "示す始末だ",
+      "示さずにはすまない",
+      "示すきらいがある"
     ],
     "answer": 2,
-    "correct_text": "出席せずにはすまない",
+    "correct_text": "示さずにはすまない",
     "notes": "<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>義理<rt>ぎり</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で「<ruby>顔<rt>かお</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さないわけにはいかない」という<ruby>強<rt>つよ</rt></ruby>い<ruby>拘束<rt>こうそく</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>長年<rt>ながねん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>恩師<rt>おんし</rt></ruby>の<ruby>退官<rt>たいかん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>会<rt>かい</rt></ruby>とあっては、どんなに<ruby>忙<rt>いそが</rt></ruby>しくても（　　　）。",
-    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>恩師<rt>おんし</rt></ruby>の<ruby>退官<rt>たいかん</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>会<rt>かい</rt></ruby>とあっては、どんなに<ruby>忙<rt>いそが</rt></ruby>しくても<ruby>出席<rt>しゅっせき</rt></ruby>せずにはすまない。",
+    "question_ruby": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って<ruby>相手<rt>あいて</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけたのだから、<ruby>何<rt>なん</rt></ruby>らかの<ruby>形<rt>かたち</rt></ruby>で<ruby>誠意<rt>せいい</rt></ruby>を（　　　）。",
+    "sentence_jp_ruby": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って<ruby>相手<rt>あいて</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけたのだから、<ruby>何<rt>なん</rt></ruby>らかの<ruby>形<rt>かたち</rt></ruby>で<ruby>誠意<rt>せいい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>さずにはすまない。",
     "choices_ruby": [
-      "<ruby>出席<rt>しゅっせき</rt></ruby>するに<ruby>堪<rt>こた</rt></ruby>えない",
-      "<ruby>出席<rt>しゅっせき</rt></ruby>する<ruby>始末<rt>しまつ</rt></ruby>だ",
-      "<ruby>出席<rt>しゅっせき</rt></ruby>せずにはすまない",
-      "<ruby>出席<rt>しゅっせき</rt></ruby>するきらいがある"
+      "<ruby>示<rt>しめ</rt></ruby>すに<ruby>堪<rt>こた</rt></ruby>えない",
+      "<ruby>示<rt>しめ</rt></ruby>す<ruby>始末<rt>しまつ</rt></ruby>だ",
+      "<ruby>示<rt>しめ</rt></ruby>さずにはすまない",
+      "<ruby>示<rt>しめ</rt></ruby>すきらいがある"
     ],
     "correct_text_ruby": "<ruby>出席<rt>しゅっせき</rt></ruby>せずにはすまない"
   },
@@ -5767,7 +5767,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot be excused without doing",
     "similar": "〜ずにはすまない / 〜ないわけにはいかない / 〜ざるを得ない",
     "sentence_jp": "約束の時間を二時間も過ぎてしまったのだから、きちんとした理由を説明しないではすまない。",
-    "sentence_furigana": "約束の時間を二時間も過ぎてしまったのだから、きちんとした理由を説明しないではすまない。",
+    "sentence_furigana": "やくそくのじかんをにじかんもすぎてしまったのだから、きちんとしたりゆうをせつめいしないではすまない。",
     "sentence_en": "Since it is already two hours past the promised time, I cannot get by without explaining a proper reason.",
     "question": "約束の時間を二時間も過ぎてしまったのだから、きちんとした理由を（　　　）。",
     "choices": [
@@ -5797,7 +5797,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot be excused without doing",
     "similar": "〜ずにはすまない / 〜ないわけにはいかない / 〜ざるを得ない",
     "sentence_jp": "チームの代表として契約交渉を任された以上、最後まで責任を果たさないではすまない。",
-    "sentence_furigana": "チームの代表として契約交渉を任された以上、最後まで責任を果たさないではすまない。",
+    "sentence_furigana": "チームのだいひょうとしてけいやくこうしょうをまかされたいじょう、さいごまでせきにんをはたさないではすまない。",
     "sentence_en": "Now that I have been entrusted with contract negotiations as the team's representative, I cannot be excused without fulfilling my responsibility to the very end.",
     "question": "チームの代表として契約交渉を任された以上、最後まで責任を（　　　）。",
     "choices": [
@@ -5827,7 +5827,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot be excused without doing",
     "similar": "〜ずにはすまない / 〜ないわけにはいかない / 〜ざるを得ない",
     "sentence_jp": "お店のガラスを割ってしまったからには、素直に店主へ事情を話さないではすまないだろう。",
-    "sentence_furigana": "お店のガラスを割ってしまったからには、素直に店主へ事情を話さないではすまないだろう。",
+    "sentence_furigana": "おみせのガラスをわってしまったからには、すなおにてんしゅへじじょうをはなさないではすまないだろう。",
     "sentence_en": "Since we broke the shop's glass, we surely cannot get away without honestly telling the shopkeeper what happened.",
     "question": "お店のガラスを割ってしまったからには、素直に店主へ事情を（　　　）だろう。",
     "choices": [
@@ -5857,7 +5857,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot be excused without doing",
     "similar": "〜ずにはすまない / 〜ないわけにはいかない / 〜ざるを得ない",
     "sentence_jp": "これまでの計画に重大な欠陥が見つかった以上、根本から計画を見直さないではすまない。",
-    "sentence_furigana": "これまでの計画に重大な欠陥が見つかった以上、根本から計画を見直さないではすまない。",
+    "sentence_furigana": "これまでのけいかくにじゅうだいなけっかんがみつかったいじょう、こんぽんからけいかくをみなおさないではすまない。",
     "sentence_en": "Now that a serious flaw has been found in the plan so far, the situation cannot be resolved without reviewing the plan from the ground up.",
     "question": "これまでの計画に重大な欠陥が見つかった以上、根本から計画を（　　　）。",
     "choices": [
@@ -5887,7 +5887,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "bound to; will inevitably cause",
     "similar": "〜ないではおかない / 必ず〜させる / 〜ずにはいられない",
     "sentence_jp": "彼女の描く繊細で力強い絵画は、見る人の心を深く感動させずにはおかない魅力がある。",
-    "sentence_furigana": "彼女の描く繊細で力強い絵画は、見る人の心を深く感動させずにはおかない魅力がある。",
+    "sentence_furigana": "かのじょのえがくせんさいでちからづよいかいがは、みるひとのこころをふかくかんどうさせずにはおかないみりょくがある。",
     "sentence_en": "The delicate yet powerful paintings she creates have a charm that never fails to deeply move the viewer's heart.",
     "question": "彼女の描く繊細で力強い絵画は、見る人の心を深く（　　　）魅力がある。",
     "choices": [
@@ -5917,7 +5917,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "bound to; will inevitably cause",
     "similar": "〜ないではおかない / 必ず〜させる / 〜ずにはいられない",
     "sentence_jp": "そのピアニストの情熱的な演奏は、会場にいるすべての聴衆を魅了せずにはおかない力があった。",
-    "sentence_furigana": "そのピアニストの情熱的な演奏は、会場にいるすべての聴衆を魅了せずにはおかない力があった。",
+    "sentence_furigana": "そのピアニストのじょうねつてきなえんそうは、かいじょうにいるすべてのちょうしゅうをみりょうせずにはおかないちからがあった。",
     "sentence_en": "That pianist's passionate performance had the power to inevitably captivate every member of the audience in the hall.",
     "question": "そのピアニストの情熱的な演奏は、会場にいるすべての聴衆を（　　　）力があった。",
     "choices": [
@@ -5947,7 +5947,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "bound to; will inevitably cause",
     "similar": "〜ないではおかない / 必ず〜させる / 〜ずにはいられない",
     "sentence_jp": "どれほど厳しい逆境にあっても、彼は一度決めた目標を最後までやり遂げずにはおかない強い意志を持っている。",
-    "sentence_furigana": "どれほど厳しい逆境にあっても、彼は一度決めた目標を最後までやり遂げずにはおかない強い意志を持っている。",
+    "sentence_furigana": "どれほどきびしいぎゃっきょうにあっても、かれはいちどきめたもくひょうをさいごまでやりとげずにはおかないつよいいしをもっている。",
     "sentence_en": "No matter how severe the adversity, he possesses the strong will to never stop until he carries out a goal once decided.",
     "question": "どれほど厳しい逆境にあっても、彼は一度決めた目標を最後まで（　　　）強い意志を持っている。",
     "choices": [
@@ -5977,7 +5977,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "bound to; will inevitably cause",
     "similar": "〜ないではおかない / 必ず〜させる / 〜ずにはいられない",
     "sentence_jp": "今回の画期的な発見は、従来の歴史学の定説を根本から覆さずにはおかないだろう。",
-    "sentence_furigana": "今回の画期的な発見は、従来の歴史学の定説を根本から覆さずにはおかないだろう。",
+    "sentence_furigana": "こんかいのかっきてきなはっけんは、じゅうらいのれきしがくのていせつをこんぽんからくつがえさずにはおかないだろう。",
     "sentence_en": "This groundbreaking discovery will inevitably overturn conventional theories of history from the ground up.",
     "question": "今回の画期的な発見は、従来の歴史学の定説を根本から（　　　）だろう。",
     "choices": [
@@ -6007,7 +6007,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot refrain from causing",
     "similar": "〜ずにはおかない / 必ず〜させる / 〜ないではいられない",
     "sentence_jp": "困難に立ち向かう若者たちの真剣なまなざしは、見る者に勇気を与えないではおかない。",
-    "sentence_furigana": "困難に立ち向かう若者たちの真剣なまなざしは、見る者に勇気を与えないではおかない。",
+    "sentence_furigana": "こんなんにたちむかうわかものたちのしんけんなまなざしは、みるものにゆうきをあたえないではおかない。",
     "sentence_en": "The earnest gaze of young people confronting difficulties never fails to give courage to those who see them.",
     "question": "困難に立ち向かう若者たちの真剣なまなざしは、見る者に勇気を（　　　）。",
     "choices": [
@@ -6037,7 +6037,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot refrain from causing",
     "similar": "〜ずにはおかない / 必ず〜させる / 〜ないではいられない",
     "sentence_jp": "山頂から望む黄金色の朝焼けの美しさは、訪れる旅人の心を打たないではおかないものがある。",
-    "sentence_furigana": "山頂から望む黄金色の朝焼けの美しさは、訪れる旅人の心を打たないではおかないものがある。",
+    "sentence_furigana": "さんちょうからのぞむおうごんしょくのあさやけのうつくしさは、おとずれるたびびとのこころをうたないではおかないものがある。",
     "sentence_en": "The beauty of the golden sunrise seen from the summit has something that inevitably strikes the hearts of visiting travelers.",
     "question": "山頂から望む黄金色の朝焼けの美しさは、訪れる旅人の心を（　　　）ものがある。",
     "choices": [
@@ -6067,7 +6067,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot refrain from causing",
     "similar": "〜ずにはおかない / 必ず〜させる / 〜ないではいられない",
     "sentence_jp": "長年隠されてきた真実を明らかにするまで、その記者は徹底的に調べないではおかない覚悟だ。",
-    "sentence_furigana": "長年隠されてきた真実を明らかにするまで、その記者は徹底的に調べないではおかない覚悟だ。",
+    "sentence_furigana": "ながねんかくされてきたしんじつをあきらかにするまで、そのきしゃはてっていてきにしらべないではおかないかくごだ。",
     "sentence_en": "Until the truth that has been hidden for many years is brought to light, the journalist is determined to never stop investigating thoroughly.",
     "question": "長年隠されてきた真実を明らかにするまで、その記者は徹底的に（　　　）覚悟だ。",
     "choices": [
@@ -6097,7 +6097,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot refrain from causing",
     "similar": "〜ずにはおかない / 必ず〜させる / 〜ないではいられない",
     "sentence_jp": "この新しい通信技術の普及は、私たちの働き方や暮らしを大きく変えないではおかないだろう。",
-    "sentence_furigana": "この新しい通信技術の普及は、私たちの働き方や暮らしを大きく変えないではおかないだろう。",
+    "sentence_furigana": "このあたらしいつうしんぎじゅつのふきゅうは、わたしたちのはたらきかたやくらしをおおきくかえないではおかないだろう。",
     "sentence_en": "The spread of this new communication technology will inevitably transform the way we work and live.",
     "question": "この新しい通信技術の普及は、私たちの働き方や暮らしを大きく（　　　）だろう。",
     "choices": [
@@ -6127,7 +6127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be forced to do",
     "similar": "〜ざるを得なくなる / やむを得ず〜する / 〜せざるを得ない",
     "sentence_jp": "突然の猛吹雪によって視界が悪化し、登山隊はベースキャンプへの引き返しを余儀なくされた。",
-    "sentence_furigana": "突然の猛吹雪によって視界が悪化し、登山隊はベースキャンプへの引き返しを余儀なくされた。",
+    "sentence_furigana": "とつぜんのもうふぶきによってしかいがあっかし、とざんたいはベースキャンプへのひきかえしをよぎなくされた。",
     "sentence_en": "As visibility worsened due to a sudden fierce blizzard, the mountaineering team was forced to turn back to base camp.",
     "question": "突然の猛吹雪によって視界が悪化し、登山隊はベースキャンプへの（　　　）。",
     "choices": [
@@ -6157,7 +6157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be forced to do",
     "similar": "〜ざるを得なくなる / やむを得ず〜する / 〜せざるを得ない",
     "sentence_jp": "原材料の価格高騰が長引いたため、その老舗菓子店は製品の値上げを余儀なくされた。",
-    "sentence_furigana": "原材料の価格高騰が長引いたため、その老舗菓子店は製品の値上げを余儀なくされた。",
+    "sentence_furigana": "げんざいりょうのかかくこうとうがながびいたため、そのしにせかしてんはせいひんのねあげをよぎなくされた。",
     "sentence_en": "Because the surge in raw material prices dragged on, the long-established confectionery shop had no choice but to raise its prices.",
     "question": "原材料の価格高騰が長引いたため、その老舗菓子店は製品の（　　　）。",
     "choices": [
@@ -6187,7 +6187,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be forced to do",
     "similar": "〜ざるを得なくなる / やむを得ず〜する / 〜せざるを得ない",
     "sentence_jp": "主要道路が通行止めになった影響で、多くの配送トラックがルートの変更を余儀なくされた。",
-    "sentence_furigana": "主要道路が通行止めになった影響で、多くの配送トラックがルートの変更を余儀なくされた。",
+    "sentence_furigana": "しゅようどうろがつうこうどめになったえいきょうで、おおくのはいそうトラックがルートのへんこうをよぎなくされた。",
     "sentence_en": "Due to the closure of the main road, many delivery trucks were compelled to change their routes.",
     "question": "主要道路が通行止めになった影響で、多くの配送トラックがルートの（　　　）。",
     "choices": [
@@ -6217,7 +6217,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be forced to do",
     "similar": "〜ざるを得なくなる / やむを得ず〜する / 〜せざるを得ない",
     "sentence_jp": "主力工場の設備点検が長引き、メーカー各社は新製品の発売延期を余儀なくされた。",
-    "sentence_furigana": "主力工場の設備点検が長引き、メーカー各社は新製品の発売延期を余儀なくされた。",
+    "sentence_furigana": "しゅりょくこうじょうのせつびてんけんがながびき、メーカーかくしゃはしんせいひんのはつばいえんきをよぎなくされた。",
     "sentence_en": "As equipment inspections at the main plant took longer than expected, manufacturers were forced to postpone the launch of their new products.",
     "question": "主力工場の設備点検が長引き、メーカー各社は新製品の発売（　　　）。",
     "choices": [
@@ -6247,7 +6247,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "force someone to do",
     "similar": "やむを得ず〜させる / 〜せざるを得ない状況に追い込む",
     "sentence_jp": "季節外れの大型台風の上陸は、大会主催者にイベントの全面的な中止を余儀なくさせた。",
-    "sentence_furigana": "季節外れの大型台風の上陸は、大会主催者にイベントの全面的な中止を余儀なくさせた。",
+    "sentence_furigana": "きせつはずれのおおがたたいふうのじょうりくは、たいかいしゅさいしゃにイベントのぜんめんてきなちゅうしをよぎなくさせた。",
     "sentence_en": "The landfall of an unseasonable large typhoon left the tournament organizers no choice but to cancel the event entirely.",
     "question": "季節外れの大型台風の上陸は、大会主催者にイベントの全面的な（　　　）。",
     "choices": [
@@ -6277,7 +6277,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "force someone to do",
     "similar": "やむを得ず〜させる / 〜せざるを得ない状況に追い込む",
     "sentence_jp": "急速な少子高齢化の進行は、多くの地方自治体に公共サービスの再編を余儀なくさせている。",
-    "sentence_furigana": "急速な少子高齢化の進行は、多くの地方自治体に公共サービスの再編を余儀なくさせている。",
+    "sentence_furigana": "きゅうそくなしょうしこうれいかのしんこうは、おおくのちほうじちたいにこうきょうサービスのさいへんをよぎなくさせている。",
     "sentence_en": "The rapid progression of a declining birthrate and aging population is compelling many local municipalities to reorganize public services.",
     "question": "急速な少子高齢化の進行は、多くの地方自治体に公共サービスの（　　　）。",
     "choices": [
@@ -6307,7 +6307,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "force someone to do",
     "similar": "やむを得ず〜させる / 〜せざるを得ない状況に追い込む",
     "sentence_jp": "スマートフォンの爆発的な普及は、従来のカメラメーカーに事業戦略の転換を余儀なくさせた。",
-    "sentence_furigana": "スマートフォンの爆発的な普及は、従来のカメラメーカーに事業戦略の転換を余儀なくさせた。",
+    "sentence_furigana": "スマートフォンのばくはつてきなふきゅうは、じゅうらいのカメラメーカーにじぎょうせんりゃくのてんかんをよぎなくさせた。",
     "sentence_en": "The explosive spread of smartphones compelled traditional camera manufacturers to shift their business strategies.",
     "question": "スマートフォンの爆発的な普及は、従来のカメラメーカーに事業戦略の（　　　）。",
     "choices": [
@@ -6337,7 +6337,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "force someone to do",
     "similar": "やむを得ず〜させる / 〜せざるを得ない状況に追い込む",
     "sentence_jp": "予想を超える猛暑の継続は、全国の農業関係者に作付け計画の見直しを余儀なくさせた。",
-    "sentence_furigana": "予想を超える猛暑の継続は、全国の農業関係者に作付け計画の見直しを余儀なくさせた。",
+    "sentence_furigana": "よそうをこえるもうしょのけいぞくは、ぜんこくののうぎょうかんけいしゃにさくづけけいかくのみなおしをよぎなくさせた。",
     "sentence_en": "The continuation of intense heat exceeding forecasts left agricultural workers nationwide no choice but to review their planting plans.",
     "question": "予想を超える猛暑の継続は、全国の農業関係者に作付け計画の（　　　）。",
     "choices": [
@@ -6366,26 +6366,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にたえない",
     "meaning_en": "cannot suppress feelings; deeply moved",
     "similar": "〜てたまらない / 〜を禁じ得ない / 心から〜と感じる",
-    "sentence_jp": "長年にわたり地域の文化振興にご尽力いただいた皆様には、まことに感謝に耐えない。",
-    "sentence_furigana": "長年にわたり地域の文化振興にご尽力いただいた皆様には、まことに感謝に耐えない。",
-    "sentence_en": "We cannot thank enough everyone who has devoted themselves to promoting local culture over many years.",
+    "sentence_jp": "長年にわたり地域の文化振興にご尽力いただいた皆様には、まことに感謝の念に堪えません。",
+    "sentence_furigana": "ながねんにわたりちいきのぶんかしんこうにごじんりょくいただいたみなさまには、まことにかんしゃのねんにこたえません。",
+    "sentence_en": "We are truly filled with deep gratitude to all of you who have worked tirelessly for many years to promote local culture.",
     "question": "長年にわたり地域の文化振興にご尽力いただいた皆様には、まことに（　　　）。",
     "choices": [
-      "感謝にすぎない",
-      "感謝に及ばない",
-      "感謝に耐えない",
-      "感謝に足らない"
+      "感謝にすぎません",
+      "感謝に及びません",
+      "感謝の念に堪えません",
+      "感謝に足りません"
     ],
     "answer": 2,
-    "correct_text": "感謝に耐えない",
+    "correct_text": "感謝の念に堪えません",
     "notes": "「<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない」は、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちが<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>くて<ruby>抑<rt>おさ</rt></ruby>えきれないという<ruby>意味<rt>いみ</rt></ruby>の<ruby>丁重<rt>ていちょう</rt></ruby>な<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。",
     "question_ruby": "<ruby>長年<rt>ながねん</rt></ruby>にわたり<ruby>地域<rt>ちいき</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>振興<rt>しんこう</rt></ruby>にご<ruby>尽力<rt>じんりょく</rt></ruby>いただいた<ruby>皆様<rt>みなさま</rt></ruby>には、まことに（　　　）。",
-    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby>にわたり<ruby>地域<rt>ちいき</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>振興<rt>しんこう</rt></ruby>にご<ruby>尽力<rt>じんりょく</rt></ruby>いただいた<ruby>皆様<rt>みなさま</rt></ruby>には、まことに<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない。",
+    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby>にわたり<ruby>地域<rt>ちいき</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>振興<rt>しんこう</rt></ruby>にご<ruby>尽力<rt>じんりょく</rt></ruby>いただいた<ruby>皆様<rt>みなさま</rt></ruby>には、まことに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>念<rt>ねん</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えません。",
     "choices_ruby": [
-      "<ruby>感謝<rt>かんしゃ</rt></ruby>にすぎない",
-      "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>及<rt>およ</rt></ruby>ばない",
-      "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない",
-      "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>足<rt>た</rt></ruby>らない"
+      "<ruby>感謝<rt>かんしゃ</rt></ruby>にすぎません",
+      "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません",
+      "<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>念<rt>ねん</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えません",
+      "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>足<rt>た</rt></ruby>りません"
     ],
     "correct_text_ruby": "<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない"
   },
@@ -6396,24 +6396,24 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にたえない",
     "meaning_en": "cannot suppress feelings; deeply moved",
     "similar": "〜てたまらない / 〜を禁じ得ない / 心から〜と感じる",
-    "sentence_jp": "不注意から皆様に多大なるご迷惑をおかけしましたことは、まことに遺憾に耐えない次第です。",
-    "sentence_furigana": "不注意から皆様に多大なるご迷惑をおかけしましたことは、まことに遺憾に耐えない次第です。",
-    "sentence_en": "It is truly a matter of deepest regret that we have caused you all so much trouble due to our carelessness.",
-    "question": "不注意から皆様に多大なるご迷惑をおかけしましたことは、まことに（　　　）次第です。",
+    "sentence_jp": "長年の準備を重ねてきた野外音楽祭が、悪天候のため直前で中止となったことは、まことに遺憾に堪えない次第です。",
+    "sentence_furigana": "ながねんのじゅんびをかさねてきたやがいおんがくさいが、あくてんこうのためちょくぜんでちゅうしとなったことは、まことにいかんにこたえないしだいです。",
+    "sentence_en": "It is deeply regrettable that the outdoor music festival, which had been prepared over many years, had to be canceled at the last minute due to bad weather.",
+    "question": "長年の準備を重ねてきた野外音楽祭が、悪天候のため直前で中止となったことは、まことに（　　　）次第です。",
     "choices": [
       "遺憾にとどまらない",
-      "遺憾に耐えない",
+      "遺憾に堪えない",
       "遺憾に足る",
       "遺憾にすぎない"
     ],
     "answer": 1,
-    "correct_text": "遺憾に耐えない",
+    "correct_text": "遺憾に堪えない",
     "notes": "<ruby>公的<rt>こうてき</rt></ruby>な<ruby>声明<rt>せいめい</rt></ruby>や<ruby>謝罪<rt>しゃざい</rt></ruby><ruby>文<rt>ぶん</rt></ruby>などで「<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>残念<rt>ざんねん</rt></ruby>で<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ない」と<ruby>述<rt>の</rt></ruby>べる<ruby>際<rt>さい</rt></ruby>に<ruby>用<rt>もち</rt></ruby>いられる<ruby>定型<rt>ていけい</rt></ruby><ruby>句<rt>く</rt></ruby>です。",
-    "question_ruby": "<ruby>不注意<rt>ふちゅうい</rt></ruby>から<ruby>皆様<rt>みなさま</rt></ruby>に<ruby>多大<rt>ただい</rt></ruby>なるご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしましたことは、まことに（　　　）<ruby>次第<rt>しだい</rt></ruby>です。",
-    "sentence_jp_ruby": "<ruby>不注意<rt>ふちゅうい</rt></ruby>から<ruby>皆様<rt>みなさま</rt></ruby>に<ruby>多大<rt>ただい</rt></ruby>なるご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしましたことは、まことに<ruby>遺憾<rt>いかん</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない<ruby>次第<rt>しだい</rt></ruby>です。",
+    "question_ruby": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねてきた<ruby>野外<rt>やがい</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby><ruby>祭<rt>さい</rt></ruby>が、<ruby>悪天候<rt>あくてんこう</rt></ruby>のため<ruby>直前<rt>ちょくぜん</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>となったことは、まことに（　　　）<ruby>次第<rt>しだい</rt></ruby>です。",
+    "sentence_jp_ruby": "<ruby>長年<rt>ながねん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねてきた<ruby>野外<rt>やがい</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby><ruby>祭<rt>さい</rt></ruby>が、<ruby>悪天候<rt>あくてんこう</rt></ruby>のため<ruby>直前<rt>ちょくぜん</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>となったことは、まことに<ruby>遺憾<rt>いかん</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えない<ruby>次第<rt>しだい</rt></ruby>です。",
     "choices_ruby": [
       "<ruby>遺憾<rt>いかん</rt></ruby>にとどまらない",
-      "<ruby>遺憾<rt>いかん</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない",
+      "<ruby>遺憾<rt>いかん</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えない",
       "<ruby>遺憾<rt>いかん</rt></ruby>に<ruby>足<rt>た</rt></ruby>る",
       "<ruby>遺憾<rt>いかん</rt></ruby>にすぎない"
     ],
@@ -6427,7 +6427,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot suppress feelings; deeply moved",
     "similar": "〜てたまらない / 〜を禁じ得ない / 心から〜と感じる",
     "sentence_jp": "温かいご支援のおかげで無事に記念公演を成功させることができ、感激に耐えない思いです。",
-    "sentence_furigana": "温かいご支援のおかげで無事に記念公演を成功させることができ、感激に耐えない思いです。",
+    "sentence_furigana": "あたたかいごしえんのおかげでぶじにきねんこうえんをせいこうさせることができ、かんげきにたえないおもいです。",
     "sentence_en": "Thanks to your warm support, we were able to successfully hold the commemorative performance, and I am filled with overwhelming gratitude and emotion.",
     "question": "温かいご支援のおかげで無事に記念公演を成功させることができ、（　　　）思いです。",
     "choices": [
@@ -6457,7 +6457,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot suppress feelings; deeply moved",
     "similar": "〜てたまらない / 〜を禁じ得ない / 心から〜と感じる",
     "sentence_jp": "自らの未熟さゆえに師匠の期待を裏切る結果となってしまい、ただただ慙愧に耐えない。",
-    "sentence_furigana": "自らの未熟さゆえに師匠の期待を裏切る結果となってしまい、ただただ慙愧に耐えない。",
+    "sentence_furigana": "みずからのみじゅくさゆえにししょうのきたいをうらぎるけっかとなってしまい、ただただざんきにたえない。",
     "sentence_en": "Having ended up betraying my master's expectations due to my own inexperience, I am simply overcome with deep shame and remorse.",
     "question": "自らの未熟さゆえに師匠の期待を裏切る結果となってしまい、ただただ（　　　）。",
     "choices": [
@@ -6487,7 +6487,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot stand; unbearable to watch",
     "similar": "ひどくて〜できない / 〜する価値がない / 我慢できない",
     "sentence_jp": "その雑誌の記事は事実確認がまったくされておらず、専門家からすれば読むに堪えない内容だった。",
-    "sentence_furigana": "その雑誌の記事は事実確認がまったくされておらず、専門家からすれば読むに堪えない内容だった。",
+    "sentence_furigana": "そのざっしのきじはじじつかくにんがまったくされておらず、せんもんかからすればよむにこたえないないようだった。",
     "sentence_en": "That magazine article had no fact-checking whatsoever, and from an expert's standpoint its content was too poor to bear reading.",
     "question": "その雑誌の記事は事実確認がまったくされておらず、専門家からすれば（　　　）内容だった。",
     "choices": [
@@ -6517,7 +6517,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot stand; unbearable to watch",
     "similar": "ひどくて〜できない / 〜する価値がない / 我慢できない",
     "sentence_jp": "根拠のない噂で他人を一方的に責め立てるような発言は、まったく聞くに堪えないものだ。",
-    "sentence_furigana": "根拠のない噂で他人を一方的に責め立てるような発言は、まったく聞くに堪えないものだ。",
+    "sentence_furigana": "こんきょのないうわさでたにんをいっぽうてきにせめたてるようなはつげんは、まったくきくにこたえないものだ。",
     "sentence_en": "Remarks that unilaterally blame others based on groundless rumors are utterly unbearable to listen to.",
     "question": "根拠のない噂で他人を一方的に責め立てるような発言は、まったく（　　　）ものだ。",
     "choices": [
@@ -6547,7 +6547,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot stand; unbearable to watch",
     "similar": "ひどくて〜できない / 〜する価値がない / 我慢できない",
     "sentence_jp": "準備不足のまま舞台に上がったため、後半はミスが相次いで見るに堪えない演技になってしまった。",
-    "sentence_furigana": "準備不足のまま舞台に上がったため、後半はミスが相次いで見るに堪えない演技になってしまった。",
+    "sentence_furigana": "じゅんびふそくのままぶたいにあがったため、こうはんはミスがあいついでみるにこたえないえんぎになってしまった。",
     "sentence_en": "Because they went on stage without enough preparation, mistakes followed one after another in the second half, resulting in a performance too painful to watch.",
     "question": "準備不足のまま舞台に上がったため、後半はミスが相次いで（　　　）演技になってしまった。",
     "choices": [
@@ -6577,7 +6577,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot stand; unbearable to watch",
     "similar": "ひどくて〜できない / 〜する価値がない / 我慢できない",
     "sentence_jp": "歴史ある美しい庭園が、管理する人を失って荒れ果てていく姿は実に見るに堪えなかった。",
-    "sentence_furigana": "歴史ある美しい庭園が、管理する人を失って荒れ果てていく姿は実に見るに堪えなかった。",
+    "sentence_furigana": "れきしあるうつくしいていえんが、かんりするひとをうしなってあれはてていくすがたはじつにみるにこたえなかった。",
     "sentence_en": "The sight of the historic, beautiful garden falling into ruin after losing its caretaker was truly heartbreaking to behold.",
     "question": "歴史ある美しい庭園が、管理する人を失って荒れ果てていく姿は実に（　　　）。",
     "choices": [
@@ -6607,7 +6607,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; sufficient for",
     "similar": "〜に値する / 〜するだけの価値がある / 〜に堪える",
     "sentence_jp": "彼はどんなに小さな約束でも必ず守る誠実な人物であり、心から信頼するに足るパートナーだ。",
-    "sentence_furigana": "彼はどんなに小さな約束でも必ず守る誠実な人物であり、心から信頼するに足るパートナーだ。",
+    "sentence_furigana": "かれはどんなにちいさなやくそくでもかならずまもるせいじつなじんぶつであり、こころからしんらいするにたるパートナーだ。",
     "sentence_en": "He is a sincere person who always keeps even the smallest promise, making him a partner truly worthy of trust.",
     "question": "彼はどんなに小さな約束でも必ず守る誠実な人物であり、心から（　　　）パートナーだ。",
     "choices": [
@@ -6637,7 +6637,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; sufficient for",
     "similar": "〜に値する / 〜するだけの価値がある / 〜に堪える",
     "sentence_jp": "そんな小さな失敗は誰にでもあることだから、いちいち取るに足らない問題ではない。",
-    "sentence_furigana": "そんな小さな失敗は誰にでもあることだから、いちいち取るに足らない問題ではない。",
+    "sentence_furigana": "そんなちいさなしっぱいはだれにでもあることだから、いちいちとるにたらないもんだいではない。",
     "sentence_en": "Such a small mistake can happen to anyone, so it is a trivial matter not worth making a fuss over.",
     "question": "そんな小さな失敗は誰にでもあることだから、いちいち（　　　）問題ではない。",
     "choices": [
@@ -6666,10 +6666,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にたる",
     "meaning_en": "worthy of; sufficient for",
     "similar": "〜に値する / 〜するだけの価値がある / 〜に堪える",
-    "sentence_jp": "今回提出された調査データはサンプル数が少なく、結論を導き出すには納得するに足るものだった。",
-    "sentence_furigana": "今回提出された調査データはサンプル数が少なく、結論を導き出すには納得するに足るものだった。",
-    "sentence_en": "The survey data submitted this time had a small sample size, wait—let us make sure the sentence matches 納得するに足る positively!",
-    "question": "今回提出された調査データはサンプル数が少なく、結論を導き出すには（　　　）ものだった。",
+    "sentence_jp": "今回提出された調査データは十分な根拠に基づいており、誰もが納得するに足るものだった。",
+    "sentence_furigana": "こんかいていしゅつされたちょうさデータはじゅうぶんなこんきょにもとづいており、だれもがなっとくするにたるものだった。",
+    "sentence_en": "The survey data submitted this time was based on solid evidence and was convincing enough for everyone.",
+    "question": "今回提出された調査データは十分な根拠に基づいており、誰もが（　　　）ものだった。",
     "choices": [
       "納得するに足る",
       "納得するきらいがある",
@@ -6679,8 +6679,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "納得するに足る",
     "notes": "「<ruby>納得<rt>なっとく</rt></ruby>するに<ruby>足<rt>た</rt></ruby>る」は、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>納得<rt>なっとく</rt></ruby>できるだけの<ruby>根拠<rt>こんきょ</rt></ruby>や<ruby>価値<rt>かち</rt></ruby>があることを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データはサンプル<ruby>数<rt>すう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なく、<ruby>結論<rt>けつろん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>き<ruby>出<rt>だ</rt></ruby>すには（　　　）ものだった。",
-    "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データはサンプル<ruby>数<rt>すう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なく、<ruby>結論<rt>けつろん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>き<ruby>出<rt>だ</rt></ruby>すには<ruby>納得<rt>なっとく</rt></ruby>するに<ruby>足<rt>た</rt></ruby>るものだった。",
+    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データは<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいており、<ruby>誰<rt>だれ</rt></ruby>もが（　　　）ものだった。",
+    "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データは<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいており、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>納得<rt>なっとく</rt></ruby>するに<ruby>足<rt>た</rt></ruby>るものだった。",
     "choices_ruby": [
       "<ruby>納得<rt>なっとく</rt></ruby>するに<ruby>足<rt>た</rt></ruby>る",
       "<ruby>納得<rt>なっとく</rt></ruby>するきらいがある",
@@ -6696,10 +6696,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にたる",
     "meaning_en": "worthy of; sufficient for",
     "similar": "〜に値する / 〜するだけの価値がある / 〜に堪える",
-    "sentence_jp": "彼女の冷静な判断力と深い知識は、チーム全員が尊敬するに足る見事なリーダーシップを示した。",
-    "sentence_furigana": "彼女の冷静な判断力と深い知識は、チーム全員が尊敬するに足る見事なリーダーシップを示した。",
-    "sentence_en": "Her calm judgment and deep knowledge demonstrated admirable leadership worthy of respect from the entire team.",
-    "question": "彼女の冷静な判断力と深い知識は、チーム全員が（　　　）見事なリーダーシップを示した。",
+    "sentence_jp": "彼女は冷静な判断力と深い知識を備えており、チーム全員が尊敬するに足る見事なリーダーシップを示した。",
+    "sentence_furigana": "かのじょはれいせいなはんだんりょくとふかいちしきをそなえており、チームぜんいんがそんけいするにたるみごとなリーダーシップをしめした。",
+    "sentence_en": "Possessing calm judgment and deep knowledge, she demonstrated admirable leadership worthy of the respect of the entire team.",
+    "question": "彼女は冷静な判断力と深い知識を備えており、チーム全員が（　　　）見事なリーダーシップを示した。",
     "choices": [
       "尊敬する始末だ",
       "尊敬するに足る",
@@ -6709,8 +6709,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "尊敬するに足る",
     "notes": "<ruby>人物<rt>じんぶつ</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>人格<rt>じんかく</rt></ruby>が、<ruby>尊敬<rt>そんけい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるのに<ruby>十分<rt>じゅうぶん</rt></ruby>ふさわしいことを<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>冷静<rt>れいせい</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>知識<rt>ちしき</rt></ruby>は、チーム<ruby>全員<rt>ぜんいん</rt></ruby>が（　　　）<ruby>見事<rt>みごと</rt></ruby>なリーダーシップを<ruby>示<rt>しめ</rt></ruby>した。",
-    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>冷静<rt>れいせい</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>知識<rt>ちしき</rt></ruby>は、チーム<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>尊敬<rt>そんけい</rt></ruby>するに<ruby>足<rt>た</rt></ruby>る<ruby>見事<rt>みごと</rt></ruby>なリーダーシップを<ruby>示<rt>しめ</rt></ruby>した。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>冷静<rt>れいせい</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>知識<rt>ちしき</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えており、チーム<ruby>全員<rt>ぜんいん</rt></ruby>が（　　　）<ruby>見事<rt>みごと</rt></ruby>なリーダーシップを<ruby>示<rt>しめ</rt></ruby>した。",
+    "sentence_jp_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>冷静<rt>れいせい</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby><ruby>力<rt>りょく</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>知識<rt>ちしき</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えており、チーム<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>尊敬<rt>そんけい</rt></ruby>するに<ruby>足<rt>た</rt></ruby>る<ruby>見事<rt>みごと</rt></ruby>なリーダーシップを<ruby>示<rt>しめ</rt></ruby>した。",
     "choices_ruby": [
       "<ruby>尊敬<rt>そんけい</rt></ruby>する<ruby>始末<rt>しまつ</rt></ruby>だ",
       "<ruby>尊敬<rt>そんけい</rt></ruby>するに<ruby>足<rt>た</rt></ruby>る",
@@ -6727,7 +6727,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of praise/reading",
     "similar": "〜に足る / 〜に値する / 十分〜できる水準にある",
     "sentence_jp": "この伝統工芸の器は見た目が美しいだけでなく、何世代もの日常の使用に堪える丈夫さを備えている。",
-    "sentence_furigana": "この伝統工芸の器は見た目が美しいだけでなく、何世代もの日常の使用に堪える丈夫さを備えている。",
+    "sentence_furigana": "このでんとうこうげいのうつわはみためがうつくしいだけでなく、なんせだいものにちじょうのしようにこたえるじょうぶさをそなえている。",
     "sentence_en": "This traditional craft vessel is not only beautiful to look at, but also possesses the durability to withstand everyday use across generations.",
     "question": "この伝統工芸の器は見た目が美しいだけでなく、何世代もの日常の（　　　）丈夫さを備えている。",
     "choices": [
@@ -6757,7 +6757,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of praise/reading",
     "similar": "〜に足る / 〜に値する / 十分〜できる水準にある",
     "sentence_jp": "厳しい師匠のもとで十年間修行を積んだ彼の作品は、ようやく専門家の鑑賞に堪える水準に達した。",
-    "sentence_furigana": "厳しい師匠のもとで十年間修行を積んだ彼の作品は、ようやく専門家の鑑賞に堪える水準に達した。",
+    "sentence_furigana": "きびしいししょうのもとでじゅうねんかんしゅぎょうをつんだかれのさくひんは、ようやくせんもんかのかんしょうにこたえるすいじゅんにたっした。",
     "sentence_en": "After ten years of training under a strict master, his work has finally reached a level worthy of appreciation by experts.",
     "question": "厳しい師匠のもとで十年間修行を積んだ彼の作品は、ようやく専門家の（　　　）水準に達した。",
     "choices": [
@@ -6787,7 +6787,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of praise/reading",
     "similar": "〜に足る / 〜に値する / 十分〜できる水準にある",
     "sentence_jp": "古文書を丹念に調査して書かれたこの論文は、後世の歴史家の厳しい批判に堪える優れた研究だ。",
-    "sentence_furigana": "古文書を丹念に調査して書かれたこの論文は、後世の歴史家の厳しい批判に堪える優れた研究だ。",
+    "sentence_furigana": "こもんじょをたんねんにちょうさしてかかれたこのろんぶんは、こうせいのれきしかのきびしいひはんにこたえるすぐれたけんきゅうだ。",
     "sentence_en": "Written after painstakingly investigating ancient documents, this paper is an outstanding study capable of withstanding strict scrutiny from future historians.",
     "question": "古文書を丹念に調査して書かれたこの論文は、後世の歴史家の厳しい（　　　）優れた研究だ。",
     "choices": [
@@ -6816,26 +6816,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にたえる",
     "meaning_en": "worthy of praise/reading",
     "similar": "〜に足る / 〜に値する / 十分〜できる水準にある",
-    "sentence_jp": "最新の免震技術を取り入れた新しい図書館は、万が一の大きな揺れにも十分耐えるに足る設計になっている。",
-    "sentence_furigana": "最新の免震技術を取り入れた新しい図書館は、万が一の大きな揺れにも十分耐えるに足る設計になっている。",
-    "sentence_en": "The new library incorporating the latest seismic isolation technology is designed to be fully capable of withstanding a major tremor.",
-    "question": "最新の免震技術を取り入れた新しい図書館は、万が一の大きな揺れにも十分（　　　）設計になっている。",
+    "sentence_jp": "この研究報告書は豊富な実証データに基づいており、専門家の厳しい検証に堪える客観性を備えている。",
+    "sentence_furigana": "このけんきゅうほうこくしょはほうふなじっしょうデータにもとづいており、せんもんかのきびしいけんしょうにこたえるきゃっかんせいをそなえている。",
+    "sentence_en": "This research report is based on abundant empirical data and possesses objectivity that can withstand rigorous scrutiny by experts.",
+    "question": "この研究報告書は豊富な実証データに基づいており、専門家の厳しい（　　　）客観性を備えている。",
     "choices": [
-      "耐えるに忍びない",
-      "耐える始末だ",
-      "耐えるにすぎない",
-      "耐えるに足る"
+      "検証に忍びない",
+      "検証する始末だ",
+      "検証にすぎない",
+      "検証に堪える"
     ],
     "answer": 3,
-    "correct_text": "耐えるに足る",
+    "correct_text": "検証に堪える",
     "notes": "<ruby>高<rt>たか</rt></ruby>い<ruby>安全<rt>あんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>や<ruby>耐久<rt>たいきゅう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えていることを<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>保証<rt>ほしょう</rt></ruby>する<ruby>文脈<rt>ぶんみゃく</rt></ruby>で<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>免<rt>めん</rt></ruby><ruby>震<rt>しん</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れた<ruby>新<rt>あたら</rt></ruby>しい<ruby>図書館<rt>としょかん</rt></ruby>は、<ruby>万<rt>まん</rt></ruby>が<ruby>一<rt>いち</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>揺<rt>ゆ</rt></ruby>れにも<ruby>十分<rt>じゅうぶん</rt></ruby>（　　　）<ruby>設計<rt>せっけい</rt></ruby>になっている。",
-    "sentence_jp_ruby": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>免<rt>めん</rt></ruby><ruby>震<rt>しん</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れた<ruby>新<rt>あたら</rt></ruby>しい<ruby>図書館<rt>としょかん</rt></ruby>は、<ruby>万<rt>まん</rt></ruby>が<ruby>一<rt>いち</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>揺<rt>ゆ</rt></ruby>れにも<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>耐<rt>た</rt></ruby>えるに<ruby>足<rt>た</rt></ruby>る<ruby>設計<rt>せっけい</rt></ruby>になっている。",
+    "question_ruby": "この<ruby>研究<rt>けんきゅう</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>豊富<rt>ほうふ</rt></ruby>な<ruby>実証<rt>じっしょう</rt></ruby>データに<ruby>基<rt>もと</rt></ruby>づいており、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>厳<rt>きび</rt></ruby>しい（　　　）<ruby>客観<rt>きゃっかん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている。",
+    "sentence_jp_ruby": "この<ruby>研究<rt>けんきゅう</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>豊富<rt>ほうふ</rt></ruby>な<ruby>実証<rt>じっしょう</rt></ruby>データに<ruby>基<rt>もと</rt></ruby>づいており、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>厳<rt>きび</rt></ruby>しい<ruby>検証<rt>けんしょう</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>える<ruby>客観<rt>きゃっかん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている。",
     "choices_ruby": [
-      "<ruby>耐<rt>た</rt></ruby>えるに<ruby>忍<rt>しの</rt></ruby>びない",
-      "<ruby>耐<rt>た</rt></ruby>える<ruby>始末<rt>しまつ</rt></ruby>だ",
-      "<ruby>耐<rt>た</rt></ruby>えるにすぎない",
-      "<ruby>耐<rt>た</rt></ruby>えるに<ruby>足<rt>た</rt></ruby>る"
+      "<ruby>検証<rt>けんしょう</rt></ruby>に<ruby>忍<rt>しの</rt></ruby>びない",
+      "<ruby>検証<rt>けんしょう</rt></ruby>する<ruby>始末<rt>しまつ</rt></ruby>だ",
+      "<ruby>検証<rt>けんしょう</rt></ruby>にすぎない",
+      "<ruby>検証<rt>けんしょう</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>える"
     ],
     "correct_text_ruby": "<ruby>耐<rt>た</rt></ruby>えるに<ruby>足<rt>た</rt></ruby>る"
   },
@@ -6847,7 +6847,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot bear to",
     "similar": "〜するのは心が痛む / かわいそうで〜できない / 〜するに堪えない",
     "sentence_jp": "祖父が大切にしていた古い柱時計は、動かなくなっても思い出が詰まっていて捨てるに忍びない。",
-    "sentence_furigana": "祖父が大切にしていた古い柱時計は、動かなくなっても思い出が詰まっていて捨てるに忍びない。",
+    "sentence_furigana": "そふがたいせつにしていたふるいはしらどけいは、うごかなくなってもおもいでがつまっていてすてるにしのびない。",
     "sentence_en": "Even though the old wall clock my grandfather treasured no longer runs, it is so full of memories that I cannot bear to throw it away.",
     "question": "祖父が大切にしていた古い柱時計は、動かなくなっても思い出が詰まっていて（　　　）。",
     "choices": [
@@ -6877,7 +6877,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot bear to",
     "similar": "〜するのは心が痛む / かわいそうで〜できない / 〜するに堪えない",
     "sentence_jp": "夢に向かって懸命に準備してきた友人が落選して肩を落とす姿は、実に見るに忍びないものがあった。",
-    "sentence_furigana": "夢に向かって懸命に準備してきた友人が落選して肩を落とす姿は、実に見るに忍びないものがあった。",
+    "sentence_furigana": "ゆめにむかってけんめいにじゅんびしてきたゆうじんがらくせんしてかたをおとすすがたは、じつにみるにしのびないものがあった。",
     "sentence_en": "The sight of my friend, who had prepared so earnestly toward their dream, dropping their shoulders after not being selected was truly heartbreaking to watch.",
     "question": "夢に向かって懸命に準備してきた友人が落選して肩を落とす姿は、実に（　　　）ものがあった。",
     "choices": [
@@ -6907,7 +6907,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot bear to",
     "similar": "〜するのは心が痛む / かわいそうで〜できない / 〜するに堪えない",
     "sentence_jp": "せっかく子どもたちが一生懸命作ってくれた料理だから、お腹がいっぱいでも残すに忍びない。",
-    "sentence_furigana": "せっかく子どもたちが一生懸命作ってくれた料理だから、お腹がいっぱいでも残すに忍びない。",
+    "sentence_furigana": "せっかくこどもたちがいっしょうけんめいつくってくれたりょうりだから、おなかがいっぱいでものこすにしのびない。",
     "sentence_en": "Since the children worked so hard to cook this meal for me, even though I am full, I cannot bear to leave any behind.",
     "question": "せっかく子どもたちが一生懸命作ってくれた料理だから、お腹がいっぱいでも（　　　）。",
     "choices": [
@@ -6937,7 +6937,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot bear to",
     "similar": "〜するのは心が痛む / かわいそうで〜できない / 〜するに堪えない",
     "sentence_jp": "合格を信じて喜んでいる彼に、手違いで不合格だったという厳しい事実を告げるに忍びない。",
-    "sentence_furigana": "合格を信じて喜んでいる彼に、手違いで不合格だったという厳しい事実を告げるに忍びない。",
+    "sentence_furigana": "ごうかくをしんじてよろこんでいるかれに、てちがいでふごうかくだったというきびしいじじつをつげるにしのびない。",
     "sentence_en": "I cannot bear to break the harsh truth to him, while he is rejoicing in the belief that he passed, that he actually failed due to a mix-up.",
     "question": "合格を信じて喜んでいる彼に、手違いで不合格だったという厳しい事実を（　　　）。",
     "choices": [
@@ -6967,7 +6967,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no need to; falls short of",
     "similar": "〜にはかなわない / 〜する必要はない / 〜までもない",
     "sentence_jp": "どれほど人工知能の翻訳技術が進歩しても、熟練した通訳者の繊細な表現力にはまだ遠く及ばない。",
-    "sentence_furigana": "どれほど人工知能の翻訳技術が進歩しても、熟練した通訳者の繊細な表現力にはまだ遠く及ばない。",
+    "sentence_furigana": "どれほどじんこうちのうのほんやくぎじゅつがしんぽしても、じゅくれんしたつうやくしゃのせんさいなひょうげんりょくにはまだとおくおよばない。",
     "sentence_en": "No matter how much AI translation technology advances, it still falls far short of the delicate expressive power of a seasoned interpreter.",
     "question": "どれほど人工知能の翻訳技術が進歩しても、熟練した通訳者の繊細な表現力にはまだ（　　　）。",
     "choices": [
@@ -6996,26 +6996,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "におよばない",
     "meaning_en": "no need to; falls short of",
     "similar": "〜にはかなわない / 〜する必要はない / 〜までもない",
-    "sentence_jp": "商品の発送状況につきましてはメールでお知らせいたしますので、お電話でのご確認はご連絡に及びません。",
-    "sentence_furigana": "商品の発送状況につきましてはメールでお知らせいたしますので、お電話でのご確認はご連絡に及びません。",
-    "sentence_en": "Because we will notify you of the shipping status by email, there is no need for you to contact us by phone.",
-    "question": "商品の発送状況につきましてはメールでお知らせいたしますので、お電話でのご確認は（　　　）。",
+    "sentence_jp": "商品の発送状況につきましてはメールでお知らせいたしますので、お電話でのご連絡には及びません。",
+    "sentence_furigana": "しょうひんのはっそうじょうきょうにつきましてはメールでおしらせいたしますので、おでんわでのごれんらくにはおよびません。",
+    "sentence_en": "We will notify you of your order's shipping status by email, so there is no need to contact us by phone.",
+    "question": "商品の発送状況につきましてはメールでお知らせいたしますので、お電話での（　　　）。",
     "choices": [
-      "ご連絡に堪えません",
-      "ご連絡に忍びません",
-      "ご連絡にほかなりません",
-      "ご連絡に及びません"
+      "ご連絡には堪えません",
+      "ご連絡には忍びません",
+      "ご連絡にはほかなりません",
+      "ご連絡には及びません"
     ],
     "answer": 3,
-    "correct_text": "ご連絡に及びません",
+    "correct_text": "ご連絡には及びません",
     "notes": "ビジネス<ruby>文書<rt>ぶんしょ</rt></ruby>などで「わざわざ〜していただく<ruby>必要<rt>ひつよう</rt></ruby>はございません」と<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、お<ruby>電話<rt>でんわ</rt></ruby>でのご<ruby>確認<rt>かくにん</rt></ruby>は（　　　）。",
-    "sentence_jp_ruby": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、お<ruby>電話<rt>でんわ</rt></ruby>でのご<ruby>確認<rt>かくにん</rt></ruby>はご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません。",
+    "question_ruby": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、お<ruby>電話<rt>でんわ</rt></ruby>での（　　　）。",
+    "sentence_jp_ruby": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、お<ruby>電話<rt>でんわ</rt></ruby>でのご<ruby>連絡<rt>れんらく</rt></ruby>には<ruby>及<rt>およ</rt></ruby>びません。",
     "choices_ruby": [
-      "ご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>えません",
-      "ご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>忍<rt>しの</rt></ruby>びません",
-      "ご<ruby>連絡<rt>れんらく</rt></ruby>にほかなりません",
-      "ご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません"
+      "ご<ruby>連絡<rt>れんらく</rt></ruby>には<ruby>堪<rt>こた</rt></ruby>えません",
+      "ご<ruby>連絡<rt>れんらく</rt></ruby>には<ruby>忍<rt>しの</rt></ruby>びません",
+      "ご<ruby>連絡<rt>れんらく</rt></ruby>にはほかなりません",
+      "ご<ruby>連絡<rt>れんらく</rt></ruby>には<ruby>及<rt>およ</rt></ruby>びません"
     ],
     "correct_text_ruby": "ご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません"
   },
@@ -7026,26 +7026,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "におよばない",
     "meaning_en": "no need to; falls short of",
     "similar": "〜にはかなわない / 〜する必要はない / 〜までもない",
-    "sentence_jp": "今回のトラブルの原因がどこにあるかは、これまでの経緯を見れば言うに及ばず明らかだ。",
-    "sentence_furigana": "今回のトラブルの原因がどこにあるかは、これまでの経緯を見れば言うに及ばず明らかだ。",
-    "sentence_en": "Where the cause of this trouble lies is obvious without even needing to state it if you look at the circumstances so far.",
-    "question": "今回のトラブルの原因がどこにあるかは、これまでの経緯を見れば（　　　）明らかだ。",
+    "sentence_jp": "この新しい美術館は展示作品の充実ぶりは言うに及ばず、建築そのものの美しさでも高く評価されている。",
+    "sentence_furigana": "このあたらしいびじゅつかんはてんじさくひんのじゅうじつぶりはいうにおよばず、けんちくそのもののうつくしさでもたかくひょうかされている。",
+    "sentence_en": "This new museum is highly praised not only for its rich collection of exhibited works, but also for the beauty of its architecture itself.",
+    "question": "この新しい美術館は展示作品の充実ぶり（　　　）、建築そのものの美しさでも高く評価されている。",
     "choices": [
-      "言うに足らず",
-      "言うに及ばず",
-      "言うに堪えず",
-      "言うに忍びず"
+      "は言うに足らず",
+      "は言うに及ばず",
+      "は言うに堪えず",
+      "は言うに忍びず"
     ],
     "answer": 1,
-    "correct_text": "言うに及ばず",
+    "correct_text": "は言うに及ばず",
     "notes": "「<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず」は「わざわざ<ruby>口<rt>くち</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>言<rt>い</rt></ruby>うまでもなく<ruby>当然<rt>とうぜん</rt></ruby>だ」という<ruby>意味<rt>いみ</rt></ruby>の<ruby>慣用<rt>かんよう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>今回<rt>こんかい</rt></ruby>のトラブルの<ruby>原因<rt>げんいん</rt></ruby>がどこにあるかは、これまでの<ruby>経緯<rt>けいい</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば（　　　）<ruby>明<rt>あき</rt></ruby>らかだ。",
-    "sentence_jp_ruby": "<ruby>今回<rt>こんかい</rt></ruby>のトラブルの<ruby>原因<rt>げんいん</rt></ruby>がどこにあるかは、これまでの<ruby>経緯<rt>けいい</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず<ruby>明<rt>あき</rt></ruby>らかだ。",
+    "question_ruby": "この<ruby>新<rt>あたら</rt></ruby>しい<ruby>美術館<rt>びじゅつかん</rt></ruby>は<ruby>展示<rt>てんじ</rt></ruby><ruby>作品<rt>さくひん</rt></ruby>の<ruby>充実<rt>じゅうじつ</rt></ruby>ぶり（　　　）、<ruby>建築<rt>けんちく</rt></ruby>そのものの<ruby>美<rt>うつく</rt></ruby>しさでも<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
+    "sentence_jp_ruby": "この<ruby>新<rt>あたら</rt></ruby>しい<ruby>美術館<rt>びじゅつかん</rt></ruby>は<ruby>展示<rt>てんじ</rt></ruby><ruby>作品<rt>さくひん</rt></ruby>の<ruby>充実<rt>じゅうじつ</rt></ruby>ぶりは<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず、<ruby>建築<rt>けんちく</rt></ruby>そのものの<ruby>美<rt>うつく</rt></ruby>しさでも<ruby>高<rt>たか</rt></ruby>く<ruby>評価<rt>ひょうか</rt></ruby>されている。",
     "choices_ruby": [
-      "<ruby>言<rt>い</rt></ruby>うに<ruby>足<rt>た</rt></ruby>らず",
-      "<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず",
-      "<ruby>言<rt>い</rt></ruby>うに<ruby>堪<rt>こた</rt></ruby>えず",
-      "<ruby>言<rt>い</rt></ruby>うに<ruby>忍<rt>しの</rt></ruby>びず"
+      "は<ruby>言<rt>い</rt></ruby>うに<ruby>足<rt>た</rt></ruby>らず",
+      "は<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず",
+      "は<ruby>言<rt>い</rt></ruby>うに<ruby>堪<rt>こた</rt></ruby>えず",
+      "は<ruby>言<rt>い</rt></ruby>うに<ruby>忍<rt>しの</rt></ruby>びず"
     ],
     "correct_text_ruby": "<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず"
   },
@@ -7057,7 +7057,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "no need to; falls short of",
     "similar": "〜にはかなわない / 〜する必要はない / 〜までもない",
     "sentence_jp": "私も料理は得意なほうだが、老舗料亭で修行を積んだ兄の包丁さばきには到底及ばない。",
-    "sentence_furigana": "私も料理は得意なほうだが、老舗料亭で修行を積んだ兄の包丁さばきには到底及ばない。",
+    "sentence_furigana": "わたしもりょうりはとくいなほうだが、しにせりょうていでしゅぎょうをつんだあにのほうちょうさばきにはとうていおよばない。",
     "sentence_en": "I am fairly good at cooking myself, but I am simply no match for the knife skills of my older brother, who trained at a long-established restaurant.",
     "question": "私も料理は得意なほうだが、老舗料亭で修行を積んだ兄の包丁さばきには到底（　　　）。",
     "choices": [
@@ -7087,7 +7087,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "goes without saying; no need",
     "similar": "〜する必要はない / 〜には及ばない / わざわざ〜しなくてもよい",
     "sentence_jp": "規則正しい生活と適度な運動が健康に良いことは、いまさら言うまでもない常識だ。",
-    "sentence_furigana": "規則正しい生活と適度な運動が健康に良いことは、いまさら言うまでもない常識だ。",
+    "sentence_furigana": "きそくただしいせいかつとてきどなうんどうがけんこうによいことは、いまさらいうまでもないじょうしきだ。",
     "sentence_en": "That a regular lifestyle and moderate exercise are good for one's health is common sense that goes without saying at this point.",
     "question": "規則正しい生活と適度な運動が健康に良いことは、いまさら（　　　）常識だ。",
     "choices": [
@@ -7117,7 +7117,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "goes without saying; no need",
     "similar": "〜する必要はない / 〜には及ばない / わざわざ〜しなくてもよい",
     "sentence_jp": "駅まで歩いて五分ほどの距離ですから、お天気も良いですしタクシーを呼ぶまでもないでしょう。",
-    "sentence_furigana": "駅まで歩いて五分ほどの距離ですから、お天気も良いですしタクシーを呼ぶまでもないでしょう。",
+    "sentence_furigana": "えきまであるいてごふんほどのきょりですから、おてんきもよいですしタクシーをよぶまでもないでしょう。",
     "sentence_en": "Since it is only about a five-minute walk to the station and the weather is nice, there is probably no need to call a taxi.",
     "question": "駅まで歩いて五分ほどの距離ですから、お天気も良いですしタクシーを（　　　）でしょう。",
     "choices": [
@@ -7147,7 +7147,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "goes without saying; no need",
     "similar": "〜する必要はない / 〜には及ばない / わざわざ〜しなくてもよい",
     "sentence_jp": "ちょっとしたボタンのほつれなら自分で直せるので、わざわざ仕立て屋に頼むまでもない。",
-    "sentence_furigana": "ちょっとしたボタンのほつれなら自分で直せるので、わざわざ仕立て屋に頼むまでもない。",
+    "sentence_furigana": "ちょっとしたボタンのほつれならじぶんでなおせるので、わざわざしたてやにたのむまでもない。",
     "sentence_en": "If it is just a slightly frayed button, I can fix it myself, so there is no need to go out of my way to ask a tailor.",
     "question": "ちょっとしたボタンのほつれなら自分で直せるので、わざわざ仕立て屋に（　　　）。",
     "choices": [
@@ -7176,10 +7176,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "までもない",
     "meaning_en": "goes without saying; no need",
     "similar": "〜する必要はない / 〜には及ばない / わざわざ〜しなくてもよい",
-    "sentence_jp": "その計算問題は基礎的な定理を使えば暗算で解けるため、電卓を使うまでもなく簡単だった。",
-    "sentence_furigana": "その計算問題は基礎的な定理を使えば暗算で解けるため、電卓を使うまでもなく簡単だった。",
-    "sentence_en": "Because that calculation problem could be solved mentally using a basic theorem, it was easy without even needing to use a calculator.",
-    "question": "その計算問題は基礎的な定理を使えば暗算で解けるため、電卓を（　　　）簡単だった。",
+    "sentence_jp": "その計算問題は基礎的な定理を使えば暗算で解けるため、電卓を使うまでもなくすぐに答えが出た。",
+    "sentence_furigana": "そのけいさんもんだいはきそてきなていりをつかえばあんざんでとけるため、でんたくをつかうまでもなくすぐにこたえがでた。",
+    "sentence_en": "Because that math problem could be solved mentally using a basic theorem, I got the answer right away without even needing to use a calculator.",
+    "question": "その計算問題は基礎的な定理を使えば暗算で解けるため、電卓を（　　　）すぐに答えが出た。",
     "choices": [
       "使うきらいがなく",
       "使うに忍びず",
@@ -7189,8 +7189,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "使うまでもなく",
     "notes": "「〜までもなく」の<ruby>形<rt>かたち</rt></ruby>で<ruby>後<rt>うし</rt></ruby>ろの<ruby>形容詞<rt>けいようし</rt></ruby>や<ruby>動詞<rt>どうし</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>き、<ruby>手段<rt>しゅだん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わなくても<ruby>容易<rt>ようい</rt></ruby>にできることを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "その<ruby>計算<rt>けいさん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>は<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>定理<rt>ていり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば<ruby>暗算<rt>あんざん</rt></ruby>で<ruby>解<rt>と</rt></ruby>けるため、<ruby>電卓<rt>でんたく</rt></ruby>を（　　　）<ruby>簡単<rt>かんたん</rt></ruby>だった。",
-    "sentence_jp_ruby": "その<ruby>計算<rt>けいさん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>は<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>定理<rt>ていり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば<ruby>暗算<rt>あんざん</rt></ruby>で<ruby>解<rt>と</rt></ruby>けるため、<ruby>電卓<rt>でんたく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うまでもなく<ruby>簡単<rt>かんたん</rt></ruby>だった。",
+    "question_ruby": "その<ruby>計算<rt>けいさん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>は<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>定理<rt>ていり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば<ruby>暗算<rt>あんざん</rt></ruby>で<ruby>解<rt>と</rt></ruby>けるため、<ruby>電卓<rt>でんたく</rt></ruby>を（　　　）すぐに<ruby>答<rt>こた</rt></ruby>えが<ruby>出<rt>で</rt></ruby>た。",
+    "sentence_jp_ruby": "その<ruby>計算<rt>けいさん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>は<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>定理<rt>ていり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えば<ruby>暗算<rt>あんざん</rt></ruby>で<ruby>解<rt>と</rt></ruby>けるため、<ruby>電卓<rt>でんたく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うまでもなくすぐに<ruby>答<rt>こた</rt></ruby>えが<ruby>出<rt>で</rt></ruby>た。",
     "choices_ruby": [
       "<ruby>使<rt>つか</rt></ruby>うきらいがなく",
       "<ruby>使<rt>つか</rt></ruby>うに<ruby>忍<rt>しの</rt></ruby>びず",
@@ -7207,7 +7207,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is no need to",
     "similar": "〜までもない / 〜する必要はない / 〜にはかなわない",
     "sentence_jp": "かすり傷程度の軽い怪我ですから、どうかそんなに大げさに心配するには及びませんよ。",
-    "sentence_furigana": "かすり傷程度の軽い怪我ですから、どうかそんなに大げさに心配するには及びませんよ。",
+    "sentence_furigana": "かすりきずていどのかるいけがですから、どうかそんなにおおげさにしんぱいするにはおよびませんよ。",
     "sentence_en": "Since it is just a minor scratch, please do not go so far as to worry so much about it.",
     "question": "かすり傷程度の軽い怪我ですから、どうかそんなに大げさに（　　　）よ。",
     "choices": [
@@ -7237,7 +7237,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is no need to",
     "similar": "〜までもない / 〜する必要はない / 〜にはかなわない",
     "sentence_jp": "今回の件は単なる連絡の行き違いによるものですから、責任者を処分するには及ばないでしょう。",
-    "sentence_furigana": "今回の件は単なる連絡の行き違いによるものですから、責任者を処分するには及ばないでしょう。",
+    "sentence_furigana": "こんかいのけんはたんなるれんらくのいきちがいによるものですから、せきにんしゃをしょぶんするにはおよばないでしょう。",
     "sentence_en": "Since this matter was merely due to a miscommunication, there is probably no need to go so far as to penalize the person in charge.",
     "question": "今回の件は単なる連絡の行き違いによるものですから、責任者を（　　　）でしょう。",
     "choices": [
@@ -7267,7 +7267,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is no need to",
     "similar": "〜までもない / 〜する必要はない / 〜にはかなわない",
     "sentence_jp": "要点だけ口頭で伝えてくだされば結構ですので、わざわざ詳細な報告書を作成するには及びません。",
-    "sentence_furigana": "要点だけ口頭で伝えてくだされば結構ですので、わざわざ詳細な報告書を作成するには及びません。",
+    "sentence_furigana": "ようてんだけこうとうでつたえてくださればけっこうですので、わざわざしょうさいなほうこくしょをさくせいするにはおよびません。",
     "sentence_en": "It is fine if you just tell me the main points verbally, so there is no need to go to the trouble of preparing a detailed report.",
     "question": "要点だけ口頭で伝えてくだされば結構ですので、わざわざ詳細な報告書を（　　　）。",
     "choices": [
@@ -7297,7 +7297,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is no need to",
     "similar": "〜までもない / 〜する必要はない / 〜にはかなわない",
     "sentence_jp": "地元の食材を使った家庭料理も美味しいが、やはり一流シェフの洗練された技には及ばない。",
-    "sentence_furigana": "地元の食材を使った家庭料理も美味しいが、やはり一流シェフの洗練された技には及ばない。",
+    "sentence_furigana": "じもとのしょくざいをつかったかていりょうりもおいしいが、やはりいちりゅうシェフのせんれんされたわざにはおよばない。",
     "sentence_en": "Home cooking using local ingredients is delicious too, but after all it cannot match the refined skill of a first-rate chef.",
     "question": "地元の食材を使った家庭料理も美味しいが、やはり一流シェフの洗練された技（　　　）。",
     "choices": [
@@ -7327,7 +7327,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing other than; simply because",
     "similar": "まさに〜だ / 〜以外の何物でもない / 〜からこそだ",
     "sentence_jp": "今回のプロジェクトが成功を収めたのは、チーム全員が最後まで諦めずに協力したからにほかならない。",
-    "sentence_furigana": "今回のプロジェクトが成功を収めたのは、チーム全員が最後まで諦めずに協力したからにほかならない。",
+    "sentence_furigana": "こんかいのプロジェクトがせいこうをおさめたのは、チームぜんいんがさいごまであきらめずにきょうりょくしたからにほかならない。",
     "sentence_en": "The reason this project achieved success is none other than because the entire team cooperated without giving up until the very end.",
     "question": "今回のプロジェクトが成功を収めたのは、チーム全員が最後まで諦めずに（　　　）。",
     "choices": [
@@ -7357,7 +7357,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing other than; simply because",
     "similar": "まさに〜だ / 〜以外の何物でもない / 〜からこそだ",
     "sentence_jp": "師匠があなたに厳しい言葉をかけるのは、あなたの将来の成長を心から願っているからにほかならない。",
-    "sentence_furigana": "師匠があなたに厳しい言葉をかけるのは、あなたの将来の成長を心から願っているからにほかならない。",
+    "sentence_furigana": "ししょうがあなたにきびしいことばをかけるのは、あなたのしょうらいのせいちょうをこころからねがっているからにほかならない。",
     "sentence_en": "The reason your master speaks strictly to you is simply because they wholeheartedly wish for your future growth.",
     "question": "師匠があなたに厳しい言葉をかけるのは、あなたの将来の成長を心から（　　　）。",
     "choices": [
@@ -7387,7 +7387,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing other than; simply because",
     "similar": "まさに〜だ / 〜以外の何物でもない / 〜からこそだ",
     "sentence_jp": "地域の伝統文化を守ることは、そこに暮らす人々の誇りと絆を守ることにほかならない。",
-    "sentence_furigana": "地域の伝統文化を守ることは、そこに暮らす人々の誇りと絆を守ることにほかならない。",
+    "sentence_furigana": "ちいきのでんとうぶんかをまもることは、そこにくらすひとびとのほこりときずなをまもることにほかならない。",
     "sentence_en": "Preserving local traditional culture is nothing other than preserving the pride and bonds of the people who live there.",
     "question": "地域の伝統文化を守ることは、そこに暮らす人々の誇りと絆を（　　　）。",
     "choices": [
@@ -7417,7 +7417,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing other than; simply because",
     "similar": "まさに〜だ / 〜以外の何物でもない / 〜からこそだ",
     "sentence_jp": "基礎練習の反復を怠らない姿勢こそが、彼の揺るぎない実力の源泉にほかならない。",
-    "sentence_furigana": "基礎練習の反復を怠らない姿勢こそが、彼の揺るぎない実力の源泉にほかならない。",
+    "sentence_furigana": "きそれんしゅうのはんぷくをおこたらないしせいこそが、かれのゆるぎないじつりょくのげんせんにほかならない。",
     "sentence_en": "His attitude of never neglecting repeated basic practice is none other than the true source of his unwavering ability.",
     "question": "基礎練習の反復を怠らない姿勢こそが、彼の揺るぎない実力の（　　　）。",
     "choices": [
@@ -7447,7 +7447,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing more than; merely",
     "similar": "ただ〜だけだ / 〜にほかならない（対義的） / 〜にとどまる",
     "sentence_jp": "私の言ったことはあくまで個人的な意見にすぎないので、参考程度に聞いてください。",
-    "sentence_furigana": "私の言ったことはあくまで個人的な意見にすぎないので、参考程度に聞いてください。",
+    "sentence_furigana": "わたしのいったことはあくまでこじんてきないけんにすぎないので、さんこうていどにきいてください。",
     "sentence_en": "What I said is merely my personal opinion, so please just take it for reference.",
     "question": "私の言ったことはあくまで個人的な（　　　）ので、参考程度に聞いてください。",
     "choices": [
@@ -7477,7 +7477,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing more than; merely",
     "similar": "ただ〜だけだ / 〜にほかならない（対義的） / 〜にとどまる",
     "sentence_jp": "今回判明した事実は氷山の一角にすぎず、全体像の解明にはさらなる調査が必要だ。",
-    "sentence_furigana": "今回判明した事実は氷山の一角にすぎず、全体像の解明にはさらなる調査が必要だ。",
+    "sentence_furigana": "こんかいはんめいしたじじつはひょうざんのいっかくにすぎず、ぜんたいぞうのかいめいにはさらなるちょうさがひつようだ。",
     "sentence_en": "The facts revealed this time are merely the tip of the iceberg, and further investigation is required to clarify the whole picture.",
     "question": "今回判明した事実は氷山の一角（　　　）、全体像の解明にはさらなる調査が必要だ。",
     "choices": [
@@ -7507,7 +7507,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing more than; merely",
     "similar": "ただ〜だけだ / 〜にほかならない（対義的） / 〜にとどまる",
     "sentence_jp": "資格試験に合格したといっても、それは専門家としての第一歩を踏み出したにすぎない。",
-    "sentence_furigana": "資格試験に合格したといっても、それは専門家としての第一歩を踏み出したにすぎない。",
+    "sentence_furigana": "しかくしけんにごうかくしたといっても、それはせんもんかとしてのだいいっぽをふみだしたにすぎない。",
     "sentence_en": "Even though I passed the qualification exam, that is nothing more than having taken the very first step as a professional.",
     "question": "資格試験に合格したといっても、それは専門家としての第一歩を（　　　）。",
     "choices": [
@@ -7537,7 +7537,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nothing more than; merely",
     "similar": "ただ〜だけだ / 〜にほかならない（対義的） / 〜にとどまる",
     "sentence_jp": "その噂は確かな証拠に基づかない単なる憶測にすぎないから、真に受ける必要はない。",
-    "sentence_furigana": "その噂は確かな証拠に基づかない単なる憶測にすぎないから、真に受ける必要はない。",
+    "sentence_furigana": "そのうわさはたしかなしょうこにもとづかないたんなるおくそくにすぎないから、しんにうけるひつようはない。",
     "sentence_en": "Because that rumor is nothing more than mere speculation not based on solid evidence, there is no need to take it seriously.",
     "question": "その噂は確かな証拠に基づかない単なる（　　　）から、真に受ける必要はない。",
     "choices": [
@@ -7567,7 +7567,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not limited to; extends beyond",
     "similar": "〜だけではない / 〜にとどまらず / 〜の枠を超える",
     "sentence_jp": "新しく開発された蓄電技術の影響は、自動車産業の枠にとどまらないと予測されている。",
-    "sentence_furigana": "新しく開発された蓄電技術の影響は、自動車産業の枠にとどまらないと予測されている。",
+    "sentence_furigana": "あたらしくかいはつされたちくでんぎじゅつのえいきょうは、じどうしゃさんぎょうのわくにとどまらないとよそくされている。",
     "sentence_en": "The impact of the newly developed power storage technology is predicted not to be confined to the automotive industry.",
     "question": "新しく開発された蓄電技術の影響は、自動車産業の枠（　　　）と予測されている。",
     "choices": [
@@ -7597,7 +7597,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not limited to; extends beyond",
     "similar": "〜だけではない / 〜にとどまらず / 〜の枠を超える",
     "sentence_jp": "彼の活躍は国内の舞台にとどまらない勢いで、世界中の音楽祭から招待が届いている。",
-    "sentence_furigana": "彼の活躍は国内の舞台にとどまらない勢いで、世界中の音楽祭から招待が届いている。",
+    "sentence_furigana": "かれのかつやくはこくないのぶたいにとどまらないいきおいで、せかいじゅうのおんがくさいからしょうたいがとどいている。",
     "sentence_en": "His success is not limited to domestic stages, and invitations are arriving from music festivals around the world.",
     "question": "彼の活躍は国内の舞台（　　　）勢いで、世界中の音楽祭から招待が届いている。",
     "choices": [
@@ -7626,26 +7626,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にとどまらない",
     "meaning_en": "not limited to; extends beyond",
     "similar": "〜だけではない / 〜にとどまらず / 〜の枠を超える",
-    "sentence_jp": "森林の減少は単なる景観の変化にとどまらない、地域の生態系全体に関わる重大な課題だ。",
-    "sentence_furigana": "森林の減少は単なる景観の変化にとどまらない、地域の生態系全体に関わる重大な課題だ。",
-    "sentence_en": "The decline of forests is not limited to a mere change in scenery; it is a serious issue affecting the entire local ecosystem.",
-    "question": "森林の減少は単なる景観の変化（　　　）、地域の生態系全体に関わる重大な課題だ。",
+    "sentence_jp": "森林の減少は単なる景観の変化にとどまらない地域の生態系全体に関わる重大な課題だ。",
+    "sentence_furigana": "しんりんのげんしょうはたんなるけいかんのへんかにとどまらないちいきのせいたいけいぜんたいにかかわるじゅうだいなかだいだ。",
+    "sentence_en": "The loss of forests is a serious issue that goes beyond a mere change in scenery and affects the entire local ecosystem.",
+    "question": "森林の減少は単なる景観の変化（　　　）地域の生態系全体に関わる重大な課題だ。",
     "choices": [
-      "に足らず",
-      "にかかわらず",
-      "にとどまらず",
-      "に及ばず"
+      "に足らない",
+      "にかかわらない",
+      "にとどまらない",
+      "に及ばない"
     ],
     "answer": 2,
-    "correct_text": "にとどまらず",
+    "correct_text": "にとどまらない",
     "notes": "「<ruby>単<rt>たん</rt></ruby>なるAにとどまらない（Bというさらに<ruby>大<rt>おお</rt></ruby>きな<ruby>意味<rt>いみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ）」の<ruby>形<rt>かたち</rt></ruby>でよく<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>（　　　）、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
-    "sentence_jp_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>にとどまらない、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
+    "question_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>（　　　）<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
+    "sentence_jp_ruby": "<ruby>森林<rt>しんりん</rt></ruby>の<ruby>減少<rt>げんしょう</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>景観<rt>けいかん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>にとどまらない<ruby>地域<rt>ちいき</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>課題<rt>かだい</rt></ruby>だ。",
     "choices_ruby": [
-      "に<ruby>足<rt>た</rt></ruby>らず",
-      "にかかわらず",
-      "にとどまらず",
-      "に<ruby>及<rt>およ</rt></ruby>ばず"
+      "に<ruby>足<rt>た</rt></ruby>らない",
+      "にかかわらない",
+      "にとどまらない",
+      "に<ruby>及<rt>およ</rt></ruby>ばない"
     ],
     "correct_text_ruby": "にとどまらず"
   },
@@ -7656,10 +7656,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "にとどまらない",
     "meaning_en": "not limited to; extends beyond",
     "similar": "〜だけではない / 〜にとどまらず / 〜の枠を超える",
-    "sentence_jp": "この伝統工芸品の魅力は見た目の美しさだけにとどまらない深い機能性を備えている点にある。",
-    "sentence_furigana": "この伝統工芸品の魅力は見た目の美しさだけにとどまらない深い機能性を備えている点にある。",
-    "sentence_en": "The charm of this traditional craft lies in the fact that it possesses deep functionality that goes beyond mere visual beauty.",
-    "question": "この伝統工芸品の魅力は見た目の美しさだけ（　　　）深い機能性を備えている点にある。",
+    "sentence_jp": "この伝統工芸品は、見た目の美しさだけにとどまらない多彩な魅力を備えている。",
+    "sentence_furigana": "このでんとうこうげいひんは、みためのうつくしさだけにとどまらないたさいなみりょくをそなえている。",
+    "sentence_en": "This traditional craft possesses multifaceted appeal that goes beyond mere visual beauty.",
+    "question": "この伝統工芸品は、見た目の美しさだけ（　　　）多彩な魅力を備えている。",
     "choices": [
       "にすぎない",
       "にとどまらない",
@@ -7669,8 +7669,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "にとどまらない",
     "notes": "<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>側面<rt>そくめん</rt></ruby>だけで<ruby>終<rt>お</rt></ruby>わらず、より<ruby>高<rt>たか</rt></ruby>い<ruby>価値<rt>かち</rt></ruby>を<ruby>兼<rt>か</rt></ruby>ね<ruby>備<rt>そな</rt></ruby>えていることを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "この<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby><ruby>品<rt>ひん</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>は<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさだけ（　　　）<ruby>深<rt>ふか</rt></ruby>い<ruby>機能<rt>きのう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている<ruby>点<rt>てん</rt></ruby>にある。",
-    "sentence_jp_ruby": "この<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby><ruby>品<rt>ひん</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>は<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさだけにとどまらない<ruby>深<rt>ふか</rt></ruby>い<ruby>機能<rt>きのう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている<ruby>点<rt>てん</rt></ruby>にある。",
+    "question_ruby": "この<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby><ruby>品<rt>ひん</rt></ruby>は、<ruby>見た目<rt>みため</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさだけ（　　　）<ruby>多彩<rt>たさい</rt></ruby>な<ruby>魅力<rt>みりょく</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている。",
+    "sentence_jp_ruby": "この<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby><ruby>品<rt>ひん</rt></ruby>は、<ruby>見た目<rt>みため</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさだけにとどまらない<ruby>多彩<rt>たさい</rt></ruby>な<ruby>魅力<rt>みりょく</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている。",
     "choices_ruby": [
       "にすぎない",
       "にとどまらない",
@@ -7687,7 +7687,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not stopping at; but also",
     "similar": "〜だけでなく / 〜のみならず / 〜にとどまらないで",
     "sentence_jp": "彼女の設計した家具は国内にとどまらず、北欧や北米のデザイン展でも高い評価を獲得した。",
-    "sentence_furigana": "彼女の設計した家具は国内にとどまらず、北欧や北米のデザイン展でも高い評価を獲得した。",
+    "sentence_furigana": "かのじょのせっけいしたかぐはこくないにとどまらず、ほくおうやほくべいのデザインてんでもたかいひょうかをかくとくした。",
     "sentence_en": "The furniture she designed won high acclaim not only domestically, but also at design exhibitions in Northern Europe and North America.",
     "question": "彼女の設計した家具は国内（　　　）、北欧や北米のデザイン展でも高い評価を獲得した。",
     "choices": [
@@ -7717,7 +7717,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not stopping at; but also",
     "similar": "〜だけでなく / 〜のみならず / 〜にとどまらないで",
     "sentence_jp": "地域の図書館は本を貸し出すにとどまらず、住民同士が学び合い交流する拠点となっている。",
-    "sentence_furigana": "地域の図書館は本を貸し出すにとどまらず、住民同士が学び合い交流する拠点となっている。",
+    "sentence_furigana": "ちいきのとしょかんはほんをかしだすにとどまらず、じゅうみんどうしがまなびあいこうりゅうするきょてんとなっている。",
     "sentence_en": "The local library does not stop at lending books; it serves as a hub where residents learn together and interact.",
     "question": "地域の図書館は本を貸し出す（　　　）、住民同士が学び合い交流する拠点となっている。",
     "choices": [
@@ -7747,7 +7747,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not stopping at; but also",
     "similar": "〜だけでなく / 〜のみならず / 〜にとどまらないで",
     "sentence_jp": "今回のシステム改修は操作画面の改善にとどまらず、処理速度の大幅な向上も実現した。",
-    "sentence_furigana": "今回のシステム改修は操作画面の改善にとどまらず、処理速度の大幅な向上も実現した。",
+    "sentence_furigana": "こんかいのシステムかいしゅうはそうさがめんのかいぜんにとどまらず、しょりそくどのおおはばなこうじょうもじつげんした。",
     "sentence_en": "This system renovation did not stop at improving the user interface; it also achieved a major increase in processing speed.",
     "question": "今回のシステム改修は操作画面の改善（　　　）、処理速度の大幅な向上も実現した。",
     "choices": [
@@ -7777,7 +7777,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not stopping at; but also",
     "similar": "〜だけでなく / 〜のみならず / 〜にとどまらないで",
     "sentence_jp": "気象の急激な変化は農作物の収穫量にとどまらず、食品の流通価格全体にまで影響を及ぼしている。",
-    "sentence_furigana": "気象の急激な変化は農作物の収穫量にとどまらず、食品の流通価格全体にまで影響を及ぼしている。",
+    "sentence_furigana": "きしょうのきゅうげきなへんかはのうさくもつのしゅうかくりょうにとどまらず、しょくひんのりゅうつうかかくぜんたいにまでえいきょうをおよぼしている。",
     "sentence_en": "Rapid changes in weather affect not only crop yields, but also food distribution prices as a whole.",
     "question": "気象の急激な変化は農作物の収穫量（　　　）、食品の流通価格全体にまで影響を及ぼしている。",
     "choices": [
@@ -7807,7 +7807,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but even more so",
     "similar": "〜はもちろん〜が、それ以上に / 〜もそうだが / 〜は言うまでもなく",
     "sentence_jp": "今回の優勝は選手自身のたゆまぬ努力もさることながら、家族やコーチの献身的な支えがあったからこそだ。",
-    "sentence_furigana": "今回の優勝は選手自身のたゆまぬ努力もさることながら、家族やコーチの献身的な支えがあったからこそだ。",
+    "sentence_furigana": "こんかいのゆうしょうはせんしゅじしんのたゆまぬどりょくもさることながら、かぞくやコーチのけんしんてきなささえがあったからこそだ。",
     "sentence_en": "This victory is of course due to the athlete's own tireless effort, but even more so because of the devoted support of family and coaches.",
     "question": "今回の優勝は選手自身のたゆまぬ努力（　　　）、家族やコーチの献身的な支えがあったからこそだ。",
     "choices": [
@@ -7837,7 +7837,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but even more so",
     "similar": "〜はもちろん〜が、それ以上に / 〜もそうだが / 〜は言うまでもなく",
     "sentence_jp": "その歴史小説は巧みな物語の構成もさることながら、当時の暮らしぶりを伝える緻密な描写が素晴らしい。",
-    "sentence_furigana": "その歴史小説は巧みな物語の構成もさることながら、当時の暮らしぶりを伝える緻密な描写が素晴らしい。",
+    "sentence_furigana": "そのれきししょうせつはたくみなものがたりのこうせいもさることながら、とうじのくらしぶりをつたえるちみつなびょうしゃがすばらしい。",
     "sentence_en": "That historical novel has a skillful story structure, of course, but its meticulous depictions of life at the time are even more wonderful.",
     "question": "その歴史小説は巧みな物語の構成（　　　）、当時の暮らしぶりを伝える緻密な描写が素晴らしい。",
     "choices": [
@@ -7867,7 +7867,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but even more so",
     "similar": "〜はもちろん〜が、それ以上に / 〜もそうだが / 〜は言うまでもなく",
     "sentence_jp": "新しいホールは外観の美しさもさることながら、座席の座り心地や音響の良さに細心の工夫が凝らされている。",
-    "sentence_furigana": "新しいホールは外観の美しさもさることながら、座席の座り心地や音響の良さに細心の工夫が凝らされている。",
+    "sentence_furigana": "あたらしいホールはがいかんのうつくしさもさることながら、ざせきのすわりごこちやおんきょうのよさにさいしんのくふうがこらされている。",
     "sentence_en": "The new hall is impressive not only for its exterior beauty, but even more so for the meticulous care given to seat comfort and acoustics.",
     "question": "新しいホールは外観の美しさ（　　　）、座席の座り心地や音響の良さに細心の工夫が凝らされている。",
     "choices": [
@@ -7897,7 +7897,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but even more so",
     "similar": "〜はもちろん〜が、それ以上に / 〜もそうだが / 〜は言うまでもなく",
     "sentence_jp": "高山への登山では体力の消耗もさることながら、急激な気温の変化にどう備えるかが大きな課題となる。",
-    "sentence_furigana": "高山への登山では体力の消耗もさることながら、急激な気温の変化にどう備えるかが大きな課題となる。",
+    "sentence_furigana": "こうざんへのとざんではたいりょくのしょうもうもさることながら、きゅうげきなきおんのへんかにどうそなえるかがおおきなかだいとなる。",
     "sentence_en": "In high-mountain climbing, physical exhaustion is certainly a factor, but how to prepare for sudden temperature changes is an even bigger challenge.",
     "question": "高山への登山では体力の消耗（　　　）、急激な気温の変化にどう備えるかが大きな課題となる。",
     "choices": [
@@ -7927,7 +7927,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but also",
     "similar": "〜だけでなく / 〜にとどまらず / 〜ばかりか",
     "sentence_jp": "彼女はバイオリンの演奏技術が優れているのみならず、作曲や編曲の分野でも稀有な才能を発揮している。",
-    "sentence_furigana": "彼女はバイオリンの演奏技術が優れているのみならず、作曲や編曲の分野でも稀有な才能を発揮している。",
+    "sentence_furigana": "かのじょはバイオリンのえんそうぎじゅつがすぐれているのみならず、さっきょくやへんきょくのぶんやでもけうなさいのうをはっきしている。",
     "sentence_en": "Not only does she excel in violin performance technique, she also demonstrates rare talent in the fields of composition and arrangement.",
     "question": "彼女はバイオリンの演奏技術が優れている（　　　）、作曲や編曲の分野でも稀有な才能を発揮している。",
     "choices": [
@@ -7957,7 +7957,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but also",
     "similar": "〜だけでなく / 〜にとどまらず / 〜ばかりか",
     "sentence_jp": "この植物由来の新素材は、軽くて丈夫であるのみならず、使用後に土の中で自然に還る特性を持っている。",
-    "sentence_furigana": "この植物由来の新素材は、軽くて丈夫であるのみならず、使用後に土の中で自然に還る特性を持っている。",
+    "sentence_furigana": "このしょくぶつゆらいのしんそざいは、かるくてじょうぶであるのみならず、しようごにどのなかでしぜんにかえるとくせいをもっている。",
     "sentence_en": "This new plant-derived material is not only light and sturdy, it also has the property of returning naturally to the soil after use.",
     "question": "この植物由来の新素材は、軽くて丈夫である（　　　）、使用後に土の中で自然に還る特性を持っている。",
     "choices": [
@@ -7969,8 +7969,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "のみならず",
     "notes": "ナ<ruby>形容詞<rt>けいようし</rt></ruby>・<ruby>名詞<rt>めいし</rt></ruby>の<ruby>述語<rt>じゅつご</rt></ruby>には「〜であるのみならず」の<ruby>形<rt>かたち</rt></ruby>で<ruby>接続<rt>せつぞく</rt></ruby>します。",
-    "question_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>である（　　　）、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。",
-    "sentence_jp_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>であるのみならず、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。",
+    "question_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>である（　　　）、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。",
+    "sentence_jp_ruby": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>であるのみならず、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。",
     "choices_ruby": [
       "にほかならず",
       "に<ruby>忍<rt>しの</rt></ruby>びず",
@@ -7986,25 +7986,25 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "のみならず",
     "meaning_en": "not only ~, but also",
     "similar": "〜だけでなく / 〜にとどまらず / 〜ばかりか",
-    "sentence_jp": "基礎科学の研究は、目先の産業応用のみならず、人類の知の地平を広げる上で欠かせない営みだ。",
-    "sentence_furigana": "基礎科学の研究は、目先の産業応用のみならず、人類の知の地平を広げる上で欠かせない営みだ。",
-    "sentence_en": "Basic scientific research is an indispensable endeavor not only for immediate industrial applications, but also for expanding the horizons of human knowledge.",
-    "question": "基礎科学の研究は、目先の産業応用（　　　）、人類の知の地平を広げる上で欠かせない営みだ。",
+    "sentence_jp": "基礎科学の研究は、目先の産業応用に役立つのみならず、人類の知の地平を広げる上でも欠かせない営みだ。",
+    "sentence_furigana": "きそかがくのけんきゅうは、めさきのさんぎょうおうようにやくだつのみならず、じんるいのちのちへいをひろげるうえでもかかせないいとなみだ。",
+    "sentence_en": "Basic scientific research not only serves immediate industrial applications, but is also an indispensable endeavor for expanding the horizons of human knowledge.",
+    "question": "基礎科学の研究は、目先の産業応用に役立つ（　　　）、人類の知の地平を広げる上でも欠かせない営みだ。",
     "choices": [
-      "はおろか",
+      "もさることながら",
       "のみならず",
-      "にすぎず",
+      "には及ばず",
       "にかまけて"
     ],
     "answer": 1,
     "correct_text": "のみならず",
     "notes": "<ruby>名詞<rt>めいし</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>ついて「AだけでなくBにおいても」と<ruby>論説<rt>ろんせつ</rt></ruby><ruby>文<rt>ぶん</rt></ruby>で<ruby>視野<rt>しや</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げる<ruby>際<rt>さい</rt></ruby>によく<ruby>使<rt>つか</rt></ruby>われます。",
-    "question_ruby": "<ruby>基礎<rt>きそ</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、<ruby>目先<rt>めさき</rt></ruby>の<ruby>産業<rt>さんぎょう</rt></ruby><ruby>応用<rt>おうよう</rt></ruby>（　　　）、<ruby>人類<rt>じんるい</rt></ruby>の<ruby>知<rt>ち</rt></ruby>の<ruby>地平<rt>ちへい</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げる<ruby>上<rt>うえ</rt></ruby>で<ruby>欠<rt>か</rt></ruby>かせない<ruby>営<rt>いとな</rt></ruby>みだ。",
-    "sentence_jp_ruby": "<ruby>基礎<rt>きそ</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、<ruby>目先<rt>めさき</rt></ruby>の<ruby>産業<rt>さんぎょう</rt></ruby><ruby>応用<rt>おうよう</rt></ruby>のみならず、<ruby>人類<rt>じんるい</rt></ruby>の<ruby>知<rt>ち</rt></ruby>の<ruby>地平<rt>ちへい</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げる<ruby>上<rt>うえ</rt></ruby>で<ruby>欠<rt>か</rt></ruby>かせない<ruby>営<rt>いとな</rt></ruby>みだ。",
+    "question_ruby": "<ruby>基礎<rt>きそ</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、<ruby>目先<rt>めさき</rt></ruby>の<ruby>産業<rt>さんぎょう</rt></ruby><ruby>応用<rt>おうよう</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>つ（　　　）、<ruby>人類<rt>じんるい</rt></ruby>の<ruby>知<rt>ち</rt></ruby>の<ruby>地平<rt>ちへい</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げる<ruby>上<rt>うえ</rt></ruby>でも<ruby>欠<rt>か</rt></ruby>かせない<ruby>営<rt>いとな</rt></ruby>みだ。",
+    "sentence_jp_ruby": "<ruby>基礎<rt>きそ</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は、<ruby>目先<rt>めさき</rt></ruby>の<ruby>産業<rt>さんぎょう</rt></ruby><ruby>応用<rt>おうよう</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>つのみならず、<ruby>人類<rt>じんるい</rt></ruby>の<ruby>知<rt>ち</rt></ruby>の<ruby>地平<rt>ちへい</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げる<ruby>上<rt>うえ</rt></ruby>でも<ruby>欠<rt>か</rt></ruby>かせない<ruby>営<rt>いとな</rt></ruby>みだ。",
     "choices_ruby": [
-      "はおろか",
+      "もさることながら",
       "のみならず",
-      "にすぎず",
+      "には<ruby>及<rt>およ</rt></ruby>ばず",
       "にかまけて"
     ],
     "correct_text_ruby": "のみならず"
@@ -8017,7 +8017,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~, but also",
     "similar": "〜だけでなく / 〜にとどまらず / 〜ばかりか",
     "sentence_jp": "十分な睡眠をとることは、肉体的な疲労を回復させるのみならず、記憶の整理や集中力の維持にも直結する。",
-    "sentence_furigana": "十分な睡眠をとることは、肉体的な疲労を回復させるのみならず、記憶の整理や集中力の維持にも直結する。",
+    "sentence_furigana": "じゅうぶんなすいみんをとることは、にくたいてきなひろうをかいふくさせるのみならず、きおくのせいりやしゅうちゅうりょくのいじにもちょっけつする。",
     "sentence_en": "Getting sufficient sleep not only recovers physical fatigue, it is also directly linked to organizing memory and maintaining concentration.",
     "question": "十分な睡眠をとることは、肉体的な疲労を回復させる（　　　）、記憶の整理や集中力の維持にも直結する。",
     "choices": [
@@ -8047,7 +8047,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether A or B",
     "similar": "〜であろうと〜であろうと / 〜にしても〜にしても / 〜にかかわらず",
     "sentence_jp": "規模の大小を問わず、大企業であれ中小企業であれ、情報管理の徹底は現代の経営に不可欠だ。",
-    "sentence_furigana": "規模の大小を問わず、大企業であれ中小企業であれ、情報管理の徹底は現代の経営に不可欠だ。",
+    "sentence_furigana": "きぼのだいしょうをとわず、だいきぎょうであれちゅうしょうきぎょうであれ、じょうほうかんりのてっていはげんだいのけいえいにふかけつだ。",
     "sentence_en": "Regardless of size, whether a large corporation or a small-to-medium enterprise, thorough information management is indispensable in modern business.",
     "question": "規模の大小を問わず、大企業であれ中小企業（　　　）、情報管理の徹底は現代の経営に不可欠だ。",
     "choices": [
@@ -8077,7 +8077,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether A or B",
     "similar": "〜であろうと〜であろうと / 〜にしても〜にしても / 〜にかかわらず",
     "sentence_jp": "個人競技であれ団体競技であれ、日頃の地道な基礎練習が本番での自信につながる点は変わらない。",
-    "sentence_furigana": "個人競技であれ団体競技であれ、日頃の地道な基礎練習が本番での自信につながる点は変わらない。",
+    "sentence_furigana": "こじんきょうぎであれだんたいきょうぎであれ、ひごろのじみちなきそれんしゅうがほんばんでのじしんにつながるてんはかわらない。",
     "sentence_en": "Whether an individual sport or a team sport, the fact that steady daily basic practice leads to confidence in actual competition remains the same.",
     "question": "個人競技であれ団体競技（　　　）、日頃の地道な基礎練習が本番での自信につながる点は変わらない。",
     "choices": [
@@ -8107,7 +8107,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether A or B",
     "similar": "〜であろうと〜であろうと / 〜にしても〜にしても / 〜にかかわらず",
     "sentence_jp": "賛成の立場であれ反対の立場であれ、会議では客観的なデータに基づいた議論が求められる。",
-    "sentence_furigana": "賛成の立場であれ反対の立場であれ、会議では客観的なデータに基づいた議論が求められる。",
+    "sentence_furigana": "さんせいのたちばであれはんたいのたちばであれ、かいぎではきゃっかんてきなデータにもとづいたぎろんがもとめられる。",
     "sentence_en": "Whether one is in favor or opposed, discussions based on objective data are required at the meeting.",
     "question": "賛成の立場であれ反対の立場（　　　）、会議では客観的なデータに基づいた議論が求められる。",
     "choices": [
@@ -8137,7 +8137,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether A or B",
     "similar": "〜であろうと〜であろうと / 〜にしても〜にしても / 〜にかかわらず",
     "sentence_jp": "経験者であれ未経験者であれ、新しい現場に入る際はまず安全教育の講習を受ける決まりになっている。",
-    "sentence_furigana": "経験者であれ未経験者であれ、新しい現場に入る際はまず安全教育の講習を受ける決まりになっている。",
+    "sentence_furigana": "けいけんしゃであれみけいけんしゃであれ、あたらしいげんばにはいるさいはまずあんぜんきょういくのこうしゅうをうけるきまりになっている。",
     "sentence_en": "Whether experienced or inexperienced, everyone is required to take a safety education course first when entering a new work site.",
     "question": "経験者であれ未経験者（　　　）、新しい現場に入る際はまず安全教育の講習を受ける決まりになっている。",
     "choices": [
@@ -8167,7 +8167,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "both A and B",
     "similar": "〜も〜もどちらも / 〜にしても〜にしても / 〜からして",
     "sentence_jp": "新しく発売された万年筆は、書き心地といい軸の美しいデザインといい、非の打ちどころがない。",
-    "sentence_furigana": "新しく発売された万年筆は、書き心地といい軸の美しいデザインといい、非の打ちどころがない。",
+    "sentence_furigana": "あたらしくはつばいされたまんねんひつは、かきごこちといいじくのうつくしいデザインといい、ひのうちどころがない。",
     "sentence_en": "Both in its writing feel and in the beautiful design of its barrel, the newly released fountain pen is beyond reproach.",
     "question": "新しく発売された万年筆は、書き心地といい軸の美しいデザイン（　　　）、非の打ちどころがない。",
     "choices": [
@@ -8197,7 +8197,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "both A and B",
     "similar": "〜も〜もどちらも / 〜にしても〜にしても / 〜からして",
     "sentence_jp": "あの老舗旅館は、心のこもった接客といい四季の風情を映した庭園といい、訪れる人を魅了してやまない。",
-    "sentence_furigana": "あの老舗旅館は、心のこもった接客といい四季の風情を映した庭園といい、訪れる人を魅了してやまない。",
+    "sentence_furigana": "あのしにせりょかんは、こころのこもったせっきゃくといいしきのふぜいをうつしたていえんといい、おとずれるひとをみりょうしてやまない。",
     "sentence_en": "Both with its heartfelt hospitality and its garden reflecting the charm of the four seasons, that long-established inn never ceases to enchant visitors.",
     "question": "あの老舗旅館は、心のこもった接客といい四季の風情を映した庭園（　　　）、訪れる人を魅了してやまない。",
     "choices": [
@@ -8227,7 +8227,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "both A and B",
     "similar": "〜も〜もどちらも / 〜にしても〜にしても / 〜からして",
     "sentence_jp": "先週の機材トラブルといい今回の発注ミスといい、最近は確認不足による手違いが続きすぎている。",
-    "sentence_furigana": "先週の機材トラブルといい今回の発注ミスといい、最近は確認不足による手違いが続きすぎている。",
+    "sentence_furigana": "せんしゅうのきざいトラブルといいこんかいのはっちゅうミスといい、さいきんはかくにんふそくによるてちがいがつづきすぎている。",
     "sentence_en": "What with last week's equipment trouble and this ordering mistake, lately there have been far too many mix-ups due to insufficient checking.",
     "question": "先週の機材トラブルといい今回の発注ミス（　　　）、最近は確認不足による手違いが続きすぎている。",
     "choices": [
@@ -8238,7 +8238,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といい",
-    "notes": "<ruby>好<rt>この</rt></ruby>ましくない<ruby>出来事<rt>できごと</rt></ruby>を<ruby>二つ<rt>ふたつ</rt></ruby><ruby>並<rt>な</rt></ruby>べて「どちらも<ruby>困<rt>こま</rt></ruby>ったことで、<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>がある」と<ruby>嘆<rt>なげ</rt></ruby>く<ruby>文脈<rt>ぶんみゃく</rt></ruby>でも<ruby>使<rt>つか</rt></ruby>われます。",
+    "notes": "<ruby>好<rt>この</rt></ruby>ましくない<ruby>出来事<rt>できごと</rt></ruby>を<ruby>二つ<rt>ふたつ</rt></ruby><ruby>並<rt>なら</rt></ruby>べて「どちらも<ruby>困<rt>こま</rt></ruby>ったことで、<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>がある」と<ruby>嘆<rt>なげ</rt></ruby>く<ruby>文脈<rt>ぶんみゃく</rt></ruby>でも<ruby>使<rt>つか</rt></ruby>われます。",
     "question_ruby": "<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>機材<rt>きざい</rt></ruby>トラブルといい<ruby>今回<rt>こんかい</rt></ruby>の<ruby>発注<rt>はっちゅう</rt></ruby>ミス（　　　）、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>確認<rt>かくにん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>による<ruby>手違<rt>てちが</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>きすぎている。",
     "sentence_jp_ruby": "<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>機材<rt>きざい</rt></ruby>トラブルといい<ruby>今回<rt>こんかい</rt></ruby>の<ruby>発注<rt>はっちゅう</rt></ruby>ミスといい、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>確認<rt>かくにん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>による<ruby>手違<rt>てちが</rt></ruby>いが<ruby>続<rt>つづ</rt></ruby>きすぎている。",
     "choices_ruby": [
@@ -8257,7 +8257,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "both A and B",
     "similar": "〜も〜もどちらも / 〜にしても〜にしても / 〜からして",
     "sentence_jp": "彼女のプレゼンテーションは、資料の構成といい落ち着いた話しぶりといい、新人とは思えない完成度だった。",
-    "sentence_furigana": "彼女のプレゼンテーションは、資料の構成といい落ち着いた話しぶりといい、新人とは思えない完成度だった。",
+    "sentence_furigana": "かのじょのプレゼンテーションは、しりょうのこうせいといいおちついたはなしぶりといい、しんじんとはおもえないかんせいどだった。",
     "sentence_en": "Both in the structure of her materials and in her composed manner of speaking, her presentation had a level of perfection hard to believe for a newcomer.",
     "question": "彼女のプレゼンテーションは、資料の構成といい落ち着いた話しぶり（　　　）、新人とは思えない完成度だった。",
     "choices": [
@@ -8287,7 +8287,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; owing to the situation of",
     "similar": "〜ことだから / 〜ものだから / 〜という事情なので",
     "sentence_jp": "なにぶん急な決定だったこととて、事前のご案内が皆様に行き届きませんでしたことを深くお詫び申し上げます。",
-    "sentence_furigana": "なにぶん急な決定だったこととて、事前のご案内が皆様に行き届きませんでしたことを深くお詫び申し上げます。",
+    "sentence_furigana": "なにぶんきゅうなけっていだったこととて、じぜんのごあんないがみなさまにいきとどきませんでしたことをふかくおわびもうしあげます。",
     "sentence_en": "Because it was such a sudden decision, we deeply apologize that prior notice did not reach everyone.",
     "question": "なにぶん急な決定だった（　　　）、事前のご案内が皆様に行き届きませんでしたことを深くお詫び申し上げます。",
     "choices": [
@@ -8317,7 +8317,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; owing to the situation of",
     "similar": "〜ことだから / 〜ものだから / 〜という事情なので",
     "sentence_jp": "初めての土地で道も不案内なこととて、約束の時刻に少し遅れてしまい大変申し訳ありませんでした。",
-    "sentence_furigana": "初めての土地で道も不案内なこととて、約束の時刻に少し遅れてしまい大変申し訳ありませんでした。",
+    "sentence_furigana": "はじめてのとちでみちもふあんないなこととて、やくそくのじこくにすこしおくれてしまいたいへんもうしわけありませんでした。",
     "sentence_en": "Because it was my first time in the area and I was unfamiliar with the roads, I am terribly sorry for arriving slightly late for our appointment.",
     "question": "初めての土地で道も不案内な（　　　）、約束の時刻に少し遅れてしまい大変申し訳ありませんでした。",
     "choices": [
@@ -8347,7 +8347,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; owing to the situation of",
     "similar": "〜ことだから / 〜ものだから / 〜という事情なので",
     "sentence_jp": "子どもの頃の古い記憶のこととて、細かな日付や場所までははっきりと思い出すことができない。",
-    "sentence_furigana": "子どもの頃の古い記憶のこととて、細かな日付や場所までははっきりと思い出すことができない。",
+    "sentence_furigana": "こどものころのふるいきおくのこととて、こまかなひづけやばしょまでははっきりとおもいだすことができない。",
     "sentence_en": "Since it is an old memory from childhood, I cannot clearly recall the exact dates or places.",
     "question": "子どもの頃の古い記憶の（　　　）、細かな日付や場所までははっきりと思い出すことができない。",
     "choices": [
@@ -8377,7 +8377,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; owing to the situation of",
     "similar": "〜ことだから / 〜ものだから / 〜という事情なので",
     "sentence_jp": "専門外の分野のこととて、踏み込んだ見解を述べるのは控えさせていただきます。",
-    "sentence_furigana": "専門外の分野のこととて、踏み込んだ見解を述べるのは控えさせていただきます。",
+    "sentence_furigana": "せんもんがいのぶんやのこととて、ふみこんだけんかいをのべるのはひかえさせていただきます。",
     "sentence_en": "As it is a field outside my specialty, I will refrain from stating an in-depth opinion.",
     "question": "専門外の分野の（　　　）、踏み込んだ見解を述べるのは控えさせていただきます。",
     "choices": [
@@ -8407,7 +8407,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of the special condition that",
     "similar": "〜という特別な状況なので / 〜だから / 〜こともあって",
     "sentence_jp": "地元出身の建築家が設計した新図書館のお披露目とあって、開館初日は大勢の市民でにぎわった。",
-    "sentence_furigana": "地元出身の建築家が設計した新図書館のお披露目とあって、開館初日は大勢の市民でにぎわった。",
+    "sentence_furigana": "じもとしゅっしんのけんちくかがせっけいしたしんとしょかんのおひろめとあって、かいかんしょにちはおおぜいのしみんでにぎわった。",
     "sentence_en": "Because it was the unveiling of the new library designed by a local architect, opening day was crowded with many citizens.",
     "question": "地元出身の建築家が設計した新図書館のお披露目（　　　）、開館初日は大勢の市民でにぎわった。",
     "choices": [
@@ -8419,8 +8419,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "とあって",
     "notes": "<ruby>特別<rt>とくべつ</rt></ruby>なイベントや<ruby>話題<rt>わだい</rt></ruby><ruby>性<rt>せい</rt></ruby>のある<ruby>条件<rt>じょうけん</rt></ruby>が<ruby>理由<rt>りゆう</rt></ruby>となって、<ruby>盛況<rt>せいきょう</rt></ruby>や<ruby>活気<rt>かっき</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれる<ruby>様子<rt>ようす</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>（　　　）、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。",
-    "sentence_jp_ruby": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>とあって、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。",
+    "question_ruby": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>（　　　）、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。",
+    "sentence_jp_ruby": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>とあって、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。",
     "choices_ruby": [
       "とあって",
       "とばかりに",
@@ -8437,7 +8437,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of the special condition that",
     "similar": "〜という特別な状況なので / 〜だから / 〜こともあって",
     "sentence_jp": "今年の秋は天候に恵まれてぶどうの出来が特に良いとあって、収穫祭には例年以上の観光客が訪れた。",
-    "sentence_furigana": "今年の秋は天候に恵まれてぶどうの出来が特に良いとあって、収穫祭には例年以上の観光客が訪れた。",
+    "sentence_furigana": "ことしのあきはてんこうにめぐまれてぶどうのできがとくによいとあって、しゅうかくさいにはれいねんいじょうのかんこうきゃくがおとずれた。",
     "sentence_en": "Because the weather was favorable this autumn and the grape crop was especially good, more tourists than usual visited the harvest festival.",
     "question": "今年の秋は天候に恵まれてぶどうの出来が特に良い（　　　）、収穫祭には例年以上の観光客が訪れた。",
     "choices": [
@@ -8467,7 +8467,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of the special condition that",
     "similar": "〜という特別な状況なので / 〜だから / 〜こともあって",
     "sentence_jp": "樹齢三百年の桜が満開を迎えた週末とあって、公園周辺の駐車場はどこも午前中から満車だった。",
-    "sentence_furigana": "樹齢三百年の桜が満開を迎えた週末とあって、公園周辺の駐車場はどこも午前中から満車だった。",
+    "sentence_furigana": "じゅれいさんびゃくねんのさくらがまんかいをむかえたしゅうまつとあって、こうえんしゅうへんのちゅうしゃじょうはどこもごぜんちゅうからまんしゃだった。",
     "sentence_en": "As it was the weekend when the 300-year-old cherry tree reached full bloom, all the parking lots around the park were full from the morning.",
     "question": "樹齢三百年の桜が満開を迎えた週末（　　　）、公園周辺の駐車場はどこも午前中から満車だった。",
     "choices": [
@@ -8497,7 +8497,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because of the special condition that",
     "similar": "〜という特別な状況なので / 〜だから / 〜こともあって",
     "sentence_jp": "普段は非公開の重要文化財が特別に見学できるとあって、全国から多くの歴史ファンが集まった。",
-    "sentence_furigana": "普段は非公開の重要文化財が特別に見学できるとあって、全国から多くの歴史ファンが集まった。",
+    "sentence_furigana": "ふだんはひこうかいのじゅうようぶんかざいがとくべつにけんがくできるとあって、ぜんこくからおおくのれきしファンがあつまった。",
     "sentence_en": "Because an Important Cultural Property normally closed to the public was open for special viewing, many history fans gathered from across the country.",
     "question": "普段は非公開の重要文化財が特別に見学できる（　　　）、全国から多くの歴史ファンが集まった。",
     "choices": [
@@ -8527,7 +8527,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of; as of",
     "similar": "〜によって（手段） / 〜を区切りとして（期限）",
     "sentence_jp": "誠に勝手ながら、当店は今月三十日をもって三十年間の営業を終了させていただくこととなりました。",
-    "sentence_furigana": "誠に勝手ながら、当店は今月三十日をもって三十年間の営業を終了させていただくこととなりました。",
+    "sentence_furigana": "まことにかってながら、とうてんはこんげつさんじゅうにちをもってさんじゅうねんかんのえいぎょうをしゅうりょうさせていただくこととなりました。",
     "sentence_en": "We regret to announce that our store will be ending its thirty years of business as of the thirtieth of this month.",
     "question": "誠に勝手ながら、当店は今月三十日（　　　）三十年間の営業を終了させていただくこととなりました。",
     "choices": [
@@ -8557,7 +8557,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of; as of",
     "similar": "〜によって（手段） / 〜を区切りとして（期限）",
     "sentence_jp": "開会のご挨拶をもって、本日の国際シンポジウムの幕開けとさせていただきます。",
-    "sentence_furigana": "開会のご挨拶をもって、本日の国際シンポジウムの幕開けとさせていただきます。",
+    "sentence_furigana": "かいかいのごあいさつをもって、ほんじつのこくさいシンポジウムのまくあけとさせていただきます。",
     "sentence_en": "With these opening remarks, we hereby declare today's international symposium open.",
     "question": "開会のご挨拶（　　　）、本日の国際シンポジウムの幕開けとさせていただきます。",
     "choices": [
@@ -8587,7 +8587,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of; as of",
     "similar": "〜によって（手段） / 〜を区切りとして（期限）",
     "sentence_jp": "奨学金の採用審査の結果は、来月中旬に郵送の通知書をもって正式にお知らせいたします。",
-    "sentence_furigana": "奨学金の採用審査の結果は、来月中旬に郵送の通知書をもって正式にお知らせいたします。",
+    "sentence_furigana": "しょうがくきんのさいようしんさのけっかは、らいげつちゅうじゅんにゆうそうのつうちしょをもってせいしきにおしらせいたします。",
     "sentence_en": "The results of the scholarship selection screening will be formally announced by means of a written notice sent by mail in mid-next month.",
     "question": "奨学金の採用審査の結果は、来月中旬に郵送の通知書（　　　）正式にお知らせいたします。",
     "choices": [
@@ -8617,7 +8617,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of; as of",
     "similar": "〜によって（手段） / 〜を区切りとして（期限）",
     "sentence_jp": "本年度の助成金の申請受付は、本日午後五時到着分をもって締め切らせていただきます。",
-    "sentence_furigana": "本年度の助成金の申請受付は、本日午後五時到着分をもって締め切らせていただきます。",
+    "sentence_furigana": "ほんねんどのじょせいきんのしんせいうけつけは、ほんじつごごごじとうちゃくぶんをもってしめきらせていただきます。",
     "sentence_en": "Applications for this fiscal year's grant will close as of arrivals at 5:00 p.m. today.",
     "question": "本年度の助成金の申請受付は、本日午後五時到着分（　　　）締め切らせていただきます。",
     "choices": [
@@ -8647,7 +8647,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as the final cutoff; starting from now no more",
     "similar": "〜を最後にして / 〜をもって終える / 〜の限界まで",
     "sentence_jp": "二十年間続いた人気のラジオ番組が、今夜の放送を限りに幕を下ろすことになった。",
-    "sentence_furigana": "二十年間続いた人気のラジオ番組が、今夜の放送を限りに幕を下ろすことになった。",
+    "sentence_furigana": "にじゅうねんかんつづいたにんきのラジオばんぐみが、こんやのほうそうをかぎりにまくをおろすことになった。",
     "sentence_en": "The popular radio program that ran for twenty years will come to a close with tonight's broadcast as its final episode.",
     "question": "二十年間続いた人気のラジオ番組が、今夜の放送（　　　）幕を下ろすことになった。",
     "choices": [
@@ -8677,7 +8677,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as the final cutoff; starting from now no more",
     "similar": "〜を最後にして / 〜をもって終える / 〜の限界まで",
     "sentence_jp": "健康診断の結果を受けて、父は今日を限りに甘い炭酸飲料をきっぱりやめると宣言した。",
-    "sentence_furigana": "健康診断の結果を受けて、父は今日を限りに甘い炭酸飲料をきっぱりやめると宣言した。",
+    "sentence_furigana": "けんこうしんだんのけっかをうけて、ちちはきょうをかぎりにあまいたんさんいんりょうをきっぱりやめるとせんげんした。",
     "sentence_en": "Following the results of his health checkup, my father declared that starting today he would quit sweet carbonated drinks for good.",
     "question": "健康診断の結果を受けて、父は今日（　　　）甘い炭酸飲料をきっぱりやめると宣言した。",
     "choices": [
@@ -8707,7 +8707,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as the final cutoff; starting from now no more",
     "similar": "〜を最後にして / 〜をもって終える / 〜の限界まで",
     "sentence_jp": "伝統ある市民吹奏楽団の指揮者は、来月の定期演奏会を限りに退任し、後進に道を譲るそうだ。",
-    "sentence_furigana": "伝統ある市民吹奏楽団の指揮者は、来月の定期演奏会を限りに退任し、後進に道を譲るそうだ。",
+    "sentence_furigana": "でんとうあるしみんすいそうがくだんのしきしゃは、らいげつのていきえんそうかいをかぎりにたいにんし、こうしんにみちをゆずるそうだ。",
     "sentence_en": "The conductor of the traditional civic wind orchestra will step down after next month's regular concert and hand over the baton to a successor.",
     "question": "伝統ある市民吹奏楽団の指揮者は、来月の定期演奏会（　　　）退任し、後進に道を譲るそうだ。",
     "choices": [
@@ -8737,7 +8737,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "as the final cutoff; starting from now no more",
     "similar": "〜を最後にして / 〜をもって終える / 〜の限界まで",
     "sentence_jp": "舞台のクライマックスで、主演俳優は声を限りにせりふを叫び、観客の心を強く揺さぶった。",
-    "sentence_furigana": "舞台のクライマックスで、主演俳優は声を限りにせりふを叫び、観客の心を強く揺さぶった。",
+    "sentence_furigana": "ぶたいのクライマックスで、しゅえんはいゆうはこえをかぎりにせりふをさけび、かんきゃくのこころをつよくゆさぶった。",
     "sentence_en": "At the climax of the play, the lead actor shouted his lines at the top of his voice, deeply moving the audience.",
     "question": "舞台のクライマックスで、主演俳優は声（　　　）せりふを叫び、観客の心を強く揺さぶった。",
     "choices": [
@@ -8767,7 +8767,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without thinking; absentmindedly",
     "similar": "〜ともなしに / 特に〜するつもりもなく自然に / 何気なく",
     "sentence_jp": "待合室で雑誌を見るともなくめくっていたら、偶然にも故郷の特集記事が目に留まった。",
-    "sentence_furigana": "待合室で雑誌を見るともなくめくっていたら、偶然にも故郷の特集記事が目に留まった。",
+    "sentence_furigana": "まちあいしつでざっしをみるともなくめくっていたら、ぐうぜんにもこきょうのとくしゅうきじがめにとまった。",
     "sentence_en": "While flipping through a magazine in the waiting room without really looking for anything, a feature article on my hometown caught my eye by chance.",
     "question": "待合室で雑誌を（　　　）めくっていたら、偶然にも故郷の特集記事が目に留まった。",
     "choices": [
@@ -8797,7 +8797,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without thinking; absentmindedly",
     "similar": "〜ともなしに / 特に〜するつもりもなく自然に / 何気なく",
     "sentence_jp": "夕暮れの商店街を歩いていると、どこからともなく香ばしい焼き菓子の甘い匂いが漂ってきた。",
-    "sentence_furigana": "夕暮れの商店街を歩いていると、どこからともなく香ばしい焼き菓子の甘い匂いが漂ってきた。",
+    "sentence_furigana": "ゆうぐれのしょうてんがいをあるいていると、どこからともなくこうばしいやきかしのあまいにおいがただよってきた。",
     "sentence_en": "As I was walking through the shopping street at dusk, a sweet, fragrant aroma of baked goods drifted over from somewhere or other.",
     "question": "夕暮れの商店街を歩いていると、（　　　）香ばしい焼き菓子の甘い匂いが漂ってきた。",
     "choices": [
@@ -8827,7 +8827,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without thinking; absentmindedly",
     "similar": "〜ともなしに / 特に〜するつもりもなく自然に / 何気なく",
     "sentence_jp": "カフェで読書をしていたら、隣の席の会話が聞くともなく耳に入ってきて思わず苦笑してしまった。",
-    "sentence_furigana": "カフェで読書をしていたら、隣の席の会話が聞くともなく耳に入ってきて思わず苦笑してしまった。",
+    "sentence_furigana": "カフェでどくしょをしていたら、となりのせきのかいわがきくともなくみみにはいってきておもわずくしょうしてしまった。",
     "sentence_en": "While I was reading at a cafe, the conversation at the next table reached my ears without my trying to listen, making me smile wryly.",
     "question": "カフェで読書をしていたら、隣の席の会話が（　　　）耳に入ってきて思わず苦笑してしまった。",
     "choices": [
@@ -8857,7 +8857,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "without thinking; absentmindedly",
     "similar": "〜ともなしに / 特に〜するつもりもなく自然に / 何気なく",
     "sentence_jp": "春の陽気に誘われて、どこへ行くともなく川沿いの遊歩道を歩いていたら隣町の公園まで来ていた。",
-    "sentence_furigana": "春の陽気に誘われて、どこへ行くともなく川沿いの遊歩道を歩いていたら隣町の公園まで来ていた。",
+    "sentence_furigana": "はるのようきにさそわれて、どこへいくともなくかわぞいのゆうほどうをあるいていたらとなりまちのこうえんまできていた。",
     "sentence_en": "Lured out by the warm spring weather, I walked along the riverside promenade with no particular destination in mind and found myself at a park in the next town.",
     "question": "春の陽気に誘われて、（　　　）川沿いの遊歩道を歩いていたら隣町の公園まで来ていた。",
     "choices": [
@@ -8886,10 +8886,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ともなしに",
     "meaning_en": "unconsciously; without clear aim",
     "similar": "〜ともなく / 何気なく〜するうちに / はっきり意識せずに",
-    "sentence_jp": "机の引き出しを整理していたら、誰が書いたともなしに古い風景のスケッチが一枚出てきた。",
-    "sentence_furigana": "机の引き出しを整理していたら、誰が書いたともなしに古い風景のスケッチが一枚出てきた。",
-    "sentence_en": "While tidying up my desk drawer, an old landscape sketch came out without it being clear who had drawn it.",
-    "question": "机の引き出しを整理していたら、誰が書いた（　　　）古い風景のスケッチが一枚出てきた。",
+    "sentence_jp": "同じ職場で仕事を共にするうちに、二人の間にはいつともなしに深い信頼関係が生まれていた。",
+    "sentence_furigana": "おなじしょくばでしごとをともにするうちに、ふたりのまにはいつともなしにふかいしんらいかんけいがうまれていた。",
+    "sentence_en": "As they worked together in the same workplace, a deep bond of trust naturally grew between the two of them before they knew it.",
+    "question": "同じ職場で仕事を共にするうちに、二人の間にはいつ（　　　）深い信頼関係が生まれていた。",
     "choices": [
       "にとどまらず",
       "とばかりに",
@@ -8899,8 +8899,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ともなしに",
     "notes": "はっきり<ruby>特定<rt>とくてい</rt></ruby>できない・<ruby>意識<rt>いしき</rt></ruby>されていない<ruby>様子<rt>ようす</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかく<ruby>述<rt>の</rt></ruby>べる<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>整理<rt>せいり</rt></ruby>していたら、<ruby>誰<rt>だれ</rt></ruby>が<ruby>書<rt>か</rt></ruby>いた（　　　）<ruby>古<rt>ふる</rt></ruby>い<ruby>風景<rt>ふうけい</rt></ruby>のスケッチが<ruby>一枚<rt>いちまい</rt></ruby><ruby>出<rt>で</rt></ruby>てきた。",
-    "sentence_jp_ruby": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>整理<rt>せいり</rt></ruby>していたら、<ruby>誰<rt>だれ</rt></ruby>が<ruby>書<rt>か</rt></ruby>いたともなしに<ruby>古<rt>ふる</rt></ruby>い<ruby>風景<rt>ふうけい</rt></ruby>のスケッチが<ruby>一枚<rt>いちまい</rt></ruby><ruby>出<rt>で</rt></ruby>てきた。",
+    "question_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはいつ（　　　）<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
+    "sentence_jp_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはいつともなしに<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
     "choices_ruby": [
       "にとどまらず",
       "とばかりに",
@@ -8917,7 +8917,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unconsciously; without clear aim",
     "similar": "〜ともなく / 何気なく〜するうちに / はっきり意識せずに",
     "sentence_jp": "夜の海辺で波の音を聞くともなしに聞いているうちに、張り詰めていた気持ちが少しずつほぐれていった。",
-    "sentence_furigana": "夜の海辺で波の音を聞くともなしに聞いているうちに、張り詰めていた気持ちが少しずつほぐれていった。",
+    "sentence_furigana": "よるのうみべでなみのおとをきくともなしにきいているうちに、はりつめていたきもちがすこしずつほぐれていった。",
     "sentence_en": "As I listened absentmindedly to the sound of the waves on the beach at night, my tense feelings gradually relaxed.",
     "question": "夜の海辺で波の音を（　　　）聞いているうちに、張り詰めていた気持ちが少しずつほぐれていった。",
     "choices": [
@@ -8947,7 +8947,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unconsciously; without clear aim",
     "similar": "〜ともなく / 何気なく〜するうちに / はっきり意識せずに",
     "sentence_jp": "会議の休憩時間になると、参加者たちの間で誰からともなしに次回の共同研究の話題が持ち上がった。",
-    "sentence_furigana": "会議の休憩時間になると、参加者たちの間で誰からともなしに次回の共同研究の話題が持ち上がった。",
+    "sentence_furigana": "かいぎのきゅうけいじかんになると、さんかしゃたちのあいだでだれからともなしにじかいのきょうどうけんきゅうのわだいがもちあがった。",
     "sentence_en": "When the break in the meeting arrived, the topic of the next joint research project came up naturally without anyone in particular starting it.",
     "question": "会議の休憩時間になると、参加者たちの間で（　　　）次回の共同研究の話題が持ち上がった。",
     "choices": [
@@ -8977,7 +8977,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unconsciously; without clear aim",
     "similar": "〜ともなく / 何気なく〜するうちに / はっきり意識せずに",
     "sentence_jp": "電車の車窓から流れる田園風景を見るともなしに眺めていると、幼い頃に過ごした祖父母の家を思い出した。",
-    "sentence_furigana": "電車の車窓から流れる田園風景を見るともなしに眺めていると、幼い頃に過ごした祖父母の家を思い出した。",
+    "sentence_furigana": "でんしゃのしゃそうからながれるでんえんふうけいをみるともなしにながめていると、おさないころにすごしたそふぼのいえをおもいだした。",
     "sentence_en": "Gazing absentmindedly at the rural scenery flowing past the train window, I remembered my grandparents' house where I spent time as a child.",
     "question": "電車の車窓から流れる田園風景を（　　　）眺めていると、幼い頃に過ごした祖父母の家を思い出した。",
     "choices": [
@@ -9007,7 +9007,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while remaining in the state of",
     "similar": "〜の状態のままで / 〜と同時に（生まれながらに）",
     "sentence_jp": "彼女は生まれながらに絶対音感に恵まれており、一度聴いた曲ならすぐにピアノで再現することができた。",
-    "sentence_furigana": "彼女は生まれながらに絶対音感に恵まれており、一度聴いた曲ならすぐにピアノで再現することができた。",
+    "sentence_furigana": "かのじょはうまれながらにぜったいおんかんにめぐまれており、いちどきいたきょくならすぐにピアノでさいげんすることができた。",
     "sentence_en": "She was blessed with perfect pitch from birth and could immediately reproduce on the piano any piece she heard once.",
     "question": "彼女は（　　　）絶対音感に恵まれており、一度聴いた曲ならすぐにピアノで再現することができた。",
     "choices": [
@@ -9037,7 +9037,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while remaining in the state of",
     "similar": "〜の状態のままで / 〜と同時に（生まれながらに）",
     "sentence_jp": "被災地の復興に尽くした医師が、当時の仲間たちの協力を涙ながらに語る姿に会場全体が胸を打たれた。",
-    "sentence_furigana": "被災地の復興に尽くした医師が、当時の仲間たちの協力を涙ながらに語る姿に会場全体が胸を打たれた。",
+    "sentence_furigana": "ひさいちのふっこうにつくしたいしが、とうじのなかまたちのきょうりょくをなみだながらにかたるすがたにかいじょうぜんたいがむねをうたれた。",
     "sentence_en": "The entire audience was deeply moved by the sight of the doctor, who had devoted himself to reconstruction, speaking tearfully of the cooperation of his colleagues at the time.",
     "question": "被災地の復興に尽くした医師が、当時の仲間たちの協力を（　　　）語る姿に会場全体が胸を打たれた。",
     "choices": [
@@ -9067,7 +9067,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while remaining in the state of",
     "similar": "〜の状態のままで / 〜と同時に（生まれながらに）",
     "sentence_jp": "オンライン展示の導入によって、遠方に住む人々も自宅に居ながらにして博物館の貴重な収蔵品を鑑賞できる。",
-    "sentence_furigana": "オンライン展示の導入によって、遠方に住む人々も自宅に居ながらにして博物館の貴重な収蔵品を鑑賞できる。",
+    "sentence_furigana": "オンラインてんじのどうにゅうによって、えんぽうにすむひとびともじたくにいながらにしてはくぶつかんのきちょうなしゅうぞうひんをかんしょうできる。",
     "sentence_en": "With the introduction of online exhibitions, people living far away can appreciate the museum's precious collection without leaving home.",
     "question": "オンライン展示の導入によって、遠方に住む人々も自宅に（　　　）博物館の貴重な収蔵品を鑑賞できる。",
     "choices": [
@@ -9097,7 +9097,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while remaining in the state of",
     "similar": "〜の状態のままで / 〜と同時に（生まれながらに）",
     "sentence_jp": "この宿場町には、江戸時代の面影を今に伝える昔ながらの木造の旅籠が軒を連ねている。",
-    "sentence_furigana": "この宿場町には、江戸時代の面影を今に伝える昔ながらの木造の旅籠が軒を連ねている。",
+    "sentence_furigana": "このしゅくばまちには、えどじだいのおもかげをいまにつたえるむかしながらのもくぞうのはたごがのきをつらねている。",
     "sentence_en": "In this post town, traditional wooden inns that convey the atmosphere of the Edo period to the present day stand side by side.",
     "question": "この宿場町には、江戸時代の面影を今に伝える（　　　）木造の旅籠が軒を連ねている。",
     "choices": [
@@ -9127,7 +9127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; reaches the peak of",
     "similar": "〜極まりない / この上なく〜だ / 非常に〜だ",
     "sentence_jp": "安全確認の手順を省いて作業を進めるとは、現場の責任者として軽率きわまる行為と言わざるを得ない。",
-    "sentence_furigana": "安全確認の手順を省いて作業を進めるとは、現場の責任者として軽率きわまる行為と言わざるを得ない。",
+    "sentence_furigana": "あんぜんかくにんのてじゅんをはぶいてさぎょうをすすめるとは、げんばのせきにんしゃとしてけいそつきわまるこういといわざるをえない。",
     "sentence_en": "Proceeding with the work while skipping safety confirmation procedures must be called an extremely reckless act for a site supervisor.",
     "question": "安全確認の手順を省いて作業を進めるとは、現場の責任者として（　　　）行為と言わざるを得ない。",
     "choices": [
@@ -9157,7 +9157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; reaches the peak of",
     "similar": "〜極まりない / この上なく〜だ / 非常に〜だ",
     "sentence_jp": "根拠のない噂をさも事実であるかのように言い触らすのは、迷惑きわまる話だ。",
-    "sentence_furigana": "根拠のない噂をさも事実であるかのように言い触らすのは、迷惑きわまる話だ。",
+    "sentence_furigana": "こんきょのないうわさをさもじじつであるかのようにいいふらすのは、めいわくきわまるはなしだ。",
     "sentence_en": "Spreading groundless rumors as if they were fact is an utterly troublesome and annoying matter.",
     "question": "根拠のない噂をさも事実であるかのように言い触らすのは、（　　　）話だ。",
     "choices": [
@@ -9186,25 +9186,25 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "きわまる",
     "meaning_en": "extremely; reaches the peak of",
     "similar": "〜極まりない / この上なく〜だ / 非常に〜だ",
-    "sentence_jp": "どれほど親しい間柄であっても、相手のプライバシーに土足で踏み込むような発言は無礼きわまる。",
-    "sentence_furigana": "どれほど親しい間柄であっても、相手のプライバシーに土足で踏み込むような発言は無礼きわまる。",
-    "sentence_en": "No matter how close the relationship, remarks that trample on the other person's privacy are extremely rude.",
-    "question": "どれほど親しい間柄であっても、相手のプライバシーに土足で踏み込むような発言は（　　　）。",
+    "sentence_jp": "どれほど親しい間柄であっても、相手のプライバシーに土足で踏み込むような発言は無礼きわまる行為だ。",
+    "sentence_furigana": "どれほどしたしいあいだがらであっても、あいてのプライバシーにどそくでふみこむようなはつげんはぶれいきわまるこういだ。",
+    "sentence_en": "No matter how close the relationship, making remarks that trample on someone's privacy is an utterly rude act.",
+    "question": "どれほど親しい間柄であっても、相手のプライバシーに土足で踏み込むような発言は（　　　）行為だ。",
     "choices": [
-      "無礼そびれている",
-      "無礼ぶっている",
-      "無礼めいている",
+      "無礼じみた",
+      "無礼ぶった",
+      "無礼めいた",
       "無礼きわまる"
     ],
     "answer": 3,
     "correct_text": "無礼きわまる",
     "notes": "<ruby>文末<rt>ぶんまつ</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>切<rt>き</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>憤<rt>いきどお</rt></ruby>りや<ruby>批判<rt>ひはん</rt></ruby>の<ruby>意<rt>い</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は（　　　）。",
-    "sentence_jp_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は<ruby>無礼<rt>ぶれい</rt></ruby>きわまる。",
+    "question_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏み込<rt>ふみこ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は（　　　）<ruby>行為<rt>こうい</rt></ruby>だ。",
+    "sentence_jp_ruby": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏み込<rt>ふみこ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は<ruby>無礼<rt>ぶれい</rt></ruby>きわまる<ruby>行為<rt>こうい</rt></ruby>だ。",
     "choices_ruby": [
-      "<ruby>無礼<rt>ぶれい</rt></ruby>そびれている",
-      "<ruby>無礼<rt>ぶれい</rt></ruby>ぶっている",
-      "<ruby>無礼<rt>ぶれい</rt></ruby>めいている",
+      "<ruby>無礼<rt>ぶれい</rt></ruby>じみた",
+      "<ruby>無礼<rt>ぶれい</rt></ruby>ぶった",
+      "<ruby>無礼<rt>ぶれい</rt></ruby>めいた",
       "<ruby>無礼<rt>ぶれい</rt></ruby>きわまる"
     ],
     "correct_text_ruby": "<ruby>無礼<rt>ぶれい</rt></ruby>きわまる"
@@ -9217,7 +9217,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "extremely; reaches the peak of",
     "similar": "〜極まりない / この上なく〜だ / 非常に〜だ",
     "sentence_jp": "十分な検証も行わずに不完全な製品を市場に出すなど、消費者に対して不誠実きわまる態度だ。",
-    "sentence_furigana": "十分な検証も行わずに不完全な製品を市場に出すなど、消費者に対して不誠実きわまる態度だ。",
+    "sentence_furigana": "じゅうぶんなけんしょうもおこなわずにふかんぜんなせいひんをしじょうにだすなど、しょうひしゃにたいしてふせいじつきわまるたいどだ。",
     "sentence_en": "Releasing an incomplete product to the market without conducting sufficient verification is an extremely insincere attitude toward consumers.",
     "question": "十分な検証も行わずに不完全な製品を市場に出すなど、消費者に対して（　　　）態度だ。",
     "choices": [
@@ -9247,7 +9247,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "beyond words; extraordinarily",
     "similar": "言葉で言い表せないほど〜だ / 〜極まりない / 実に〜だ",
     "sentence_jp": "徹夜で仕上げた論文のデータが保存前に消えてしまったときの悔しさといったらなかった。",
-    "sentence_furigana": "徹夜で仕上げた論文のデータが保存前に消えてしまったときの悔しさといったらなかった。",
+    "sentence_furigana": "てつやでしあげたろんぶんのデータがほぞんまえにきえてしまったときのくやしさといったらなかった。",
     "sentence_en": "The frustration I felt when the paper data I had stayed up all night finishing disappeared before saving was simply beyond words.",
     "question": "徹夜で仕上げた論文のデータが保存前に消えてしまったときの（　　　）なかった。",
     "choices": [
@@ -9276,26 +9276,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらない",
     "meaning_en": "beyond words; extraordinarily",
     "similar": "言葉で言い表せないほど〜だ / 〜極まりない / 実に〜だ",
-    "sentence_jp": "引っ越し当日の忙しさといったらなく、荷造りと掃除に追われて昼食をとる暇さえなかった。",
-    "sentence_furigana": "引っ越し当日の忙しさといったらなく、荷造りと掃除に追われて昼食をとる暇さえなかった。",
-    "sentence_en": "The busyness on moving day was indescribable; we were so swamped with packing and cleaning that we didn't even have time for lunch.",
-    "question": "引っ越し当日の（　　　）、荷造りと掃除に追われて昼食をとる暇さえなかった。",
+    "sentence_jp": "荷造りと掃除に追われて昼食をとる暇さえなかった引っ越し当日の忙しさといったらなかった。",
+    "sentence_furigana": "にづくりとそうじにおわれてちゅうしょくをとるひまさえなかったひっこしとうじつのいそがしさといったらなかった。",
+    "sentence_en": "The busyness on moving day, when we were so caught up in packing and cleaning that we didn't even have time for lunch, was beyond words.",
+    "question": "荷造りと掃除に追われて昼食をとる暇さえなかった引っ越し当日の（　　　）。",
     "choices": [
-      "忙しさといったらなく",
-      "忙しさにとどまらず",
-      "忙しさにかこつけて",
-      "忙しさはおろか"
+      "忙しさといったらなかった",
+      "忙しさにとどまらなかった",
+      "忙しさにかこつけた",
+      "忙しさはおろかだった"
     ],
     "answer": 0,
-    "correct_text": "忙しさといったらなく",
+    "correct_text": "忙しさといったらなかった",
     "notes": "<ruby>文中<rt>ぶんちゅう</rt></ruby>で「〜といったらなく、…」と<ruby>続<rt>つづ</rt></ruby>けて、その<ruby>程度<rt>ていど</rt></ruby>がいかに<ruby>凄<rt>すさ</rt></ruby>まじかったかを<ruby>具体<rt>ぐたい</rt></ruby><ruby>例<rt>れい</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>します。",
-    "question_ruby": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の（　　　）、<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった。",
-    "sentence_jp_ruby": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらなく、<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった。",
+    "question_ruby": "<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の（　　　）。",
+    "sentence_jp_ruby": "<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらなかった。",
     "choices_ruby": [
-      "<ruby>忙<rt>いそが</rt></ruby>しさといったらなく",
-      "<ruby>忙<rt>いそが</rt></ruby>しさにとどまらず",
-      "<ruby>忙<rt>いそが</rt></ruby>しさにかこつけて",
-      "<ruby>忙<rt>いそが</rt></ruby>しさはおろか"
+      "<ruby>忙<rt>いそが</rt></ruby>しさといったらなかった",
+      "<ruby>忙<rt>いそが</rt></ruby>しさにとどまらなかった",
+      "<ruby>忙<rt>いそが</rt></ruby>しさにかこつけた",
+      "<ruby>忙<rt>いそが</rt></ruby>しさはおろかだった"
     ],
     "correct_text_ruby": "<ruby>忙<rt>いそが</rt></ruby>しさといったらなく"
   },
@@ -9306,26 +9306,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらない",
     "meaning_en": "beyond words; extraordinarily",
     "similar": "言葉で言い表せないほど〜だ / 〜極まりない / 実に〜だ",
-    "sentence_jp": "山頂の展望台から眺めたご来光の美しさといったらなく、登山客の誰もが息をのんで見入っていた。",
-    "sentence_furigana": "山頂の展望台から眺めたご来光の美しさといったらなく、登山客の誰もが息をのんで見入っていた。",
-    "sentence_en": "The beauty of the sunrise viewed from the summit observation deck was beyond description, leaving every hiker watching in breathless awe.",
-    "question": "山頂の展望台から眺めたご来光の（　　　）といったらなく、登山客の誰もが息をのんで見入っていた。",
+    "sentence_jp": "登山客の誰もが息をのんで見入った、山頂からのご来光の美しさといったらなかった。",
+    "sentence_furigana": "とざんきゃくのだれもがいきをのんでみいった、さんちょうからのごらいこうのうつくしさといったらなかった。",
+    "sentence_en": "The beauty of the sunrise from the mountaintop, which left every climber breathless in awe, was indescribable.",
+    "question": "登山客の誰もが息をのんで見入った、山頂からのご来光の（　　　）。",
     "choices": [
-      "美しいものか",
-      "美しさ",
-      "美しいことか",
-      "美しいばかり"
+      "美しさにとどまらなかった",
+      "美しさといったらなかった",
+      "美しさにかこつけた",
+      "美しさに値しなかった"
     ],
     "answer": 1,
-    "correct_text": "美しさ",
+    "correct_text": "美しさといったらなかった",
     "notes": "マイナスの<ruby>事態<rt>じたい</rt></ruby>だけでなく、<ruby>自然<rt>しぜん</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさや<ruby>感動<rt>かんどう</rt></ruby>が<ruby>並外<rt>なみはず</rt></ruby>れている<ruby>場面<rt>ばめん</rt></ruby>でも<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>山頂<rt>さんちょう</rt></ruby>の<ruby>展望<rt>てんぼう</rt></ruby><ruby>台<rt>だい</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めたご<ruby>来光<rt>らいこう</rt></ruby>の（　　　）といったらなく、<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>っていた。",
-    "sentence_jp_ruby": "<ruby>山頂<rt>さんちょう</rt></ruby>の<ruby>展望<rt>てんぼう</rt></ruby><ruby>台<rt>だい</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めたご<ruby>来光<rt>らいこう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさといったらなく、<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>っていた。",
+    "question_ruby": "<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>った、<ruby>山頂<rt>さんちょう</rt></ruby>からのご<ruby>来光<rt>らいこう</rt></ruby>の（　　　）。",
+    "sentence_jp_ruby": "<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>った、<ruby>山頂<rt>さんちょう</rt></ruby>からのご<ruby>来光<rt>らいこう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさといったらなかった。",
     "choices_ruby": [
-      "<ruby>美<rt>うつく</rt></ruby>しいものか",
-      "<ruby>美<rt>うつく</rt></ruby>しさ",
-      "<ruby>美<rt>うつく</rt></ruby>しいことか",
-      "<ruby>美<rt>うつく</rt></ruby>しいばかり"
+      "<ruby>美<rt>うつく</rt></ruby>しさにとどまらなかった",
+      "<ruby>美<rt>うつく</rt></ruby>しさといったらなかった",
+      "<ruby>美<rt>うつく</rt></ruby>しさにかこつけた",
+      "<ruby>美<rt>うつく</rt></ruby>しさに<ruby>値<rt>あたい</rt></ruby>しなかった"
     ],
     "correct_text_ruby": "<ruby>美<rt>うつく</rt></ruby>しさ"
   },
@@ -9336,26 +9336,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらない",
     "meaning_en": "beyond words; extraordinarily",
     "similar": "言葉で言い表せないほど〜だ / 〜極まりない / 実に〜だ",
-    "sentence_jp": "真夏の閉め切った倉庫の中の蒸し暑さといったらない、五分と立っていられないほどだ。",
-    "sentence_furigana": "真夏の閉め切った倉庫の中の蒸し暑さといったらない、五分と立っていられないほどだ。",
-    "sentence_en": "The muggy heat inside the closed warehouse in midsummer is beyond words; you can't stand in there for even five minutes.",
-    "question": "真夏の閉め切った倉庫の中の（　　　）、五分と立っていられないほどだ。",
+    "sentence_jp": "冷房のない真夏の倉庫の中はまるで蒸し風呂のようで、その蒸し暑さといったらない。",
+    "sentence_furigana": "れいぼうのないまなつのそうこのなかはまるでむしぶろのようで、そのむしあつさといったらない。",
+    "sentence_en": "Inside the warehouse in midsummer without air conditioning, it's like a steam bath—the mugginess is unbelievable.",
+    "question": "冷房のない真夏の倉庫の中はまるで蒸し風呂のようで、その（　　　）。",
     "choices": [
-      "蒸し暑さといったらなく",
-      "蒸し暑さに及ばず",
-      "蒸し暑さにもかかわらず",
-      "蒸し暑さにかかわらず"
+      "蒸し暑さといったらない",
+      "蒸し暑さに及ばない",
+      "蒸し暑さにもかかわらずだ",
+      "蒸し暑さにかかわらずだ"
     ],
     "answer": 0,
-    "correct_text": "蒸し暑さといったらなく",
+    "correct_text": "蒸し暑さといったらない",
     "notes": "<ruby>身体<rt>しんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>感覚<rt>かんかく</rt></ruby>や<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>過酷<rt>かこく</rt></ruby>さを<ruby>実感<rt>じっかん</rt></ruby>たっぷりに<ruby>強調<rt>きょうちょう</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>った<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の（　　　）、<ruby>五分<rt>ごふん</rt></ruby>と<ruby>立<rt>た</rt></ruby>っていられないほどだ。",
-    "sentence_jp_ruby": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>った<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらない、<ruby>五分<rt>ごふん</rt></ruby>と<ruby>立<rt>た</rt></ruby>っていられないほどだ。",
+    "question_ruby": "<ruby>冷房<rt>れいぼう</rt></ruby>のない<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>はまるで<ruby>蒸し風呂<rt>むしぶろ</rt></ruby>のようで、その（　　　）。",
+    "sentence_jp_ruby": "<ruby>冷房<rt>れいぼう</rt></ruby>のない<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>はまるで<ruby>蒸し風呂<rt>むしぶろ</rt></ruby>のようで、その<ruby>蒸し暑<rt>むしあつ</rt></ruby>さといったらない。",
     "choices_ruby": [
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さに<ruby>及<rt>およ</rt></ruby>ばず",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにもかかわらず",
-      "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さにかかわらず"
+      "<ruby>蒸し暑<rt>むしあつ</rt></ruby>さといったらない",
+      "<ruby>蒸し暑<rt>むしあつ</rt></ruby>さに<ruby>及<rt>およ</rt></ruby>ばない",
+      "<ruby>蒸し暑<rt>むしあつ</rt></ruby>さにもかかわらずだ",
+      "<ruby>蒸し暑<rt>むしあつ</rt></ruby>さにかかわらずだ"
     ],
     "correct_text_ruby": "<ruby>蒸<rt>む</rt></ruby>し<ruby>暑<rt>あつ</rt></ruby>さといったらなく"
   },
@@ -9367,7 +9367,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "feel supremely/extremely ~",
     "similar": "この上なく〜だ / 心から〜と思う / 〜てたまらない",
     "sentence_jp": "不慣れな海外出張で不安だっただけに、現地事情に詳しい先輩が同行してくれるのは心強いかぎりだ。",
-    "sentence_furigana": "不慣れな海外出張で不安だっただけに、現地事情に詳しい先輩が同行してくれるのは心強いかぎりだ。",
+    "sentence_furigana": "ふなれなかいがいしゅっちょうでふあんだっただけに、げんちじじょうにくわしいせんぱいがどうこうしてくれるのはこころづよいかぎりだ。",
     "sentence_en": "Precisely because I was anxious about an unfamiliar overseas business trip, having a senior colleague well-versed in local conditions accompany me is immensely reassuring.",
     "question": "不慣れな海外出張で不安だっただけに、現地事情に詳しい先輩が同行してくれるのは（　　　）。",
     "choices": [
@@ -9397,7 +9397,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "feel supremely/extremely ~",
     "similar": "この上なく〜だ / 心から〜と思う / 〜てたまらない",
     "sentence_jp": "自然豊かな湖畔の別荘で毎朝鳥のさえずりを聞きながら暮らせるとは、実に羨ましいかぎりだ。",
-    "sentence_furigana": "自然豊かな湖畔の別荘で毎朝鳥のさえずりを聞きながら暮らせるとは、実に羨ましいかぎりだ。",
+    "sentence_furigana": "しぜんゆたかなこはんのべっそうでまいあさとりのさえずりをききながらくらせるとは、じつにうらやましいかぎりだ。",
     "sentence_en": "Being able to live in a nature-rich lakeside villa listening to birdsong every morning is truly enviable beyond measure.",
     "question": "自然豊かな湖畔の別荘で毎朝鳥のさえずりを聞きながら暮らせるとは、実に（　　　）。",
     "choices": [
@@ -9427,7 +9427,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "feel supremely/extremely ~",
     "similar": "この上なく〜だ / 心から〜と思う / 〜てたまらない",
     "sentence_jp": "一年間準備を重ねてきた野外音楽祭が、当日の暴風雨で中止になってしまったのは残念なかぎりだ。",
-    "sentence_furigana": "一年間準備を重ねてきた野外音楽祭が、当日の暴風雨で中止になってしまったのは残念なかぎりだ。",
+    "sentence_furigana": "いちねんかんじゅんびをかさねてきたやがいおんがくさいが、とうじつのぼうふううでちゅうしになってしまったのはざんねんなかぎりだ。",
     "sentence_en": "It is profoundly regrettable that the outdoor music festival we spent a full year preparing for was canceled due to a storm on the day.",
     "question": "一年間準備を重ねてきた野外音楽祭が、当日の暴風雨で中止になってしまったのは（　　　）。",
     "choices": [
@@ -9457,7 +9457,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "feel supremely/extremely ~",
     "similar": "この上なく〜だ / 心から〜と思う / 〜てたまらない",
     "sentence_jp": "共に苦労を乗り越えてきた同僚が遠くの支社へ転勤してしまうのは、本当に寂しいかぎりだ。",
-    "sentence_furigana": "共に苦労を乗り越えてきた同僚が遠くの支社へ転勤してしまうのは、本当に寂しいかぎりだ。",
+    "sentence_furigana": "ともにくろうをのりこえてきたどうりょうがとおくのししゃへてんきんしてしまうのは、ほんとうにさびしいかぎりだ。",
     "sentence_en": "It is truly lonely beyond words that the colleague with whom I overcame so many hardships is transferring to a distant branch.",
     "question": "共に苦労を乗り越えてきた同僚が遠くの支社へ転勤してしまうのは、本当に（　　　）。",
     "choices": [
@@ -9487,7 +9487,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "out of consideration for; given one’s stance",
     "similar": "〜という立場・体面があるから / 〜の目の前では / 〜た以上は",
     "sentence_jp": "会議で「必ず今月中に達成します」と大見えを切った手前、途中で弱音を吐くわけにはいかない。",
-    "sentence_furigana": "会議で「必ず今月中に達成します」と大見えを切った手前、途中で弱音を吐くわけにはいかない。",
+    "sentence_furigana": "かいぎで「かならずこんげつちゅうにたっせいします」とおおみえをきったてまえ、とちゅうでよわねをはくわけにはいかない。",
     "sentence_en": "Having boasted at the meeting that I would definitely achieve it within this month, I cannot complain or back down partway through.",
     "question": "会議で「必ず今月中に達成します」と大見えを切った（　　　）、途中で弱音を吐くわけにはいかない。",
     "choices": [
@@ -9517,7 +9517,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "out of consideration for; given one’s stance",
     "similar": "〜という立場・体面があるから / 〜の目の前では / 〜た以上は",
     "sentence_jp": "後輩たちに基本の大切さを厳しく指導している手前、自分自身が準備を怠るような姿は見せられない。",
-    "sentence_furigana": "後輩たちに基本の大切さを厳しく指導している手前、自分自身が準備を怠るような姿は見せられない。",
+    "sentence_furigana": "こうはいたちにきほんのたいせつさをきびしくしどうしているてまえ、じぶんじしんがじゅんびをおこたるようなすがたはみせられない。",
     "sentence_en": "Given that I strictly instruct my juniors on the importance of the basics, I cannot let them see me neglecting preparation myself.",
     "question": "後輩たちに基本の大切さを厳しく指導している（　　　）、自分自身が準備を怠るような姿は見せられない。",
     "choices": [
@@ -9546,10 +9546,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "てまえ",
     "meaning_en": "out of consideration for; given one’s stance",
     "similar": "〜という立場・体面があるから / 〜の目の前では / 〜た以上は",
-    "sentence_jp": "せっかく友人が私のために時間を割いて作ってくれた手前、苦手な食材だとは言い出せなかった。",
-    "sentence_furigana": "せっかく友人が私のために時間を割いて作ってくれた手前、苦手な食材だとは言い出せなかった。",
-    "sentence_en": "Out of consideration for my friend who took the time to cook especially for me, I couldn't bring myself to say that it was an ingredient I disliked.",
-    "question": "せっかく友人が私のために時間を割いて作ってくれた（　　　）、苦手な食材だとは言い出せなかった。",
+    "sentence_jp": "友人に「何でもおいしく食べられる」と話していた手前、苦手な食材だとは言い出せなかった。",
+    "sentence_furigana": "ゆうじんに「なにでもおいしくたべられる」とはなしていたてまえ、にがてなしょくざいだとはいいだせなかった。",
+    "sentence_en": "Having told my friend that I could eat anything happily, I couldn't bring myself to say it was an ingredient I disliked.",
+    "question": "友人に「何でもおいしく食べられる」と話していた（　　　）、苦手な食材だとは言い出せなかった。",
     "choices": [
       "そびれ",
       "かたわら",
@@ -9559,8 +9559,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "手前",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>好意<rt>こうい</rt></ruby>や<ruby>労力<rt>ろうりょく</rt></ruby>を<ruby>思<rt>おも</rt></ruby>うと、<ruby>失礼<rt>しつれい</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>はとれないという<ruby>気遣<rt>きづか</rt></ruby>いを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "せっかく<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>割<rt>さ</rt></ruby>いて<ruby>作<rt>つく</rt></ruby>ってくれた（　　　）、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>せなかった。",
-    "sentence_jp_ruby": "せっかく<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>割<rt>さ</rt></ruby>いて<ruby>作<rt>つく</rt></ruby>ってくれた<ruby>手前<rt>てまえ</rt></ruby>、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>せなかった。",
+    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なに</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた（　　　）、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
+    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なに</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた<ruby>手前<rt>てまえ</rt></ruby>、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
     "choices_ruby": [
       "そびれ",
       "かたわら",
@@ -9577,7 +9577,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "out of consideration for; given one’s stance",
     "similar": "〜という立場・体面があるから / 〜の目の前では / 〜た以上は",
     "sentence_jp": "自分から「手伝うよ」と申し出た手前、忙しくなったからといって今さら断ることはできない。",
-    "sentence_furigana": "自分から「手伝うよ」と申し出た手前、忙しくなったからといって今さら断ることはできない。",
+    "sentence_furigana": "じぶんから「てつだうよ」ともうしでたてまえ、いそがしくなったからといっていまさらことわることはできない。",
     "sentence_en": "Having offered to help on my own initiative, I cannot turn around and refuse now just because I got busy.",
     "question": "自分から「手伝うよ」と申し出た（　　　）、忙しくなったからといって今さら断ることはできない。",
     "choices": [
@@ -9607,7 +9607,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "miss the opportunity to do",
     "similar": "〜する機会を逃す / 〜しそこなう / タイミングを失って〜できない",
     "sentence_jp": "相手があまりに忙しそうだったので、借りていた本のお礼を言いそびれてそのまま別れてしまった。",
-    "sentence_furigana": "相手があまりに忙しそうだったので、借りていた本のお礼を言いそびれてそのまま別れてしまった。",
+    "sentence_furigana": "あいてがあまりにいそがしそうだったので、かりていたほんのおれいをいいそびれてそのままわかれてしまった。",
     "sentence_en": "Because the other person looked so busy, I missed the chance to thank them for the book I had borrowed and parted ways as it was.",
     "question": "相手があまりに忙しそうだったので、借りていた本のお礼を（　　　）そのまま別れてしまった。",
     "choices": [
@@ -9637,7 +9637,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "miss the opportunity to do",
     "similar": "〜する機会を逃す / 〜しそこなう / タイミングを失って〜できない",
     "sentence_jp": "昼の十二時にかかってきた長電話の対応に追われ、今日はすっかり昼食を食べそびれてしまった。",
-    "sentence_furigana": "昼の十二時にかかってきた長電話の対応に追われ、今日はすっかり昼食を食べそびれてしまった。",
+    "sentence_furigana": "ひるのじゅうにじにかかってきたながでんわのたいおうにおわれ、きょうはすっかりちゅうしょくをたべそびれてしまった。",
     "sentence_en": "Caught up in handling a long phone call that came in at noon, I completely missed the chance to eat lunch today.",
     "question": "昼の十二時にかかってきた長電話の対応に追われ、今日はすっかり昼食を（　　　）しまった。",
     "choices": [
@@ -9666,10 +9666,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "そびれる",
     "meaning_en": "miss the opportunity to do",
     "similar": "〜する機会を逃す / 〜しそこなう / タイミングを失って〜できない",
-    "sentence_jp": "講演会の最後に質問しようと手を挙げかけたが、時間切れになってしまい連絡先を聞きそびれた。",
-    "sentence_furigana": "講演会の最後に質問しようと手を挙げかけたが、時間切れになってしまい連絡先を聞きそびれた。",
-    "sentence_en": "I was about to raise my hand to ask a question at the end of the lecture, but time ran out and I missed the chance to ask for their contact information.",
-    "question": "講演会の最後に質問しようと手を挙げかけたが、時間切れになってしまい連絡先を（　　　）。",
+    "sentence_jp": "講演会の最後に質問しようと手を挙げかけたが、時間切れになってしまい疑問点を聞きそびれた。",
+    "sentence_furigana": "こうえんかいのさいごにしつもんしようとてをあげかけたが、じかんぎれになってしまいぎもんてんをききそびれた。",
+    "sentence_en": "I was about to raise my hand to ask a question at the end of the lecture, but time ran out and I missed the chance to ask about my doubts.",
+    "question": "講演会の最後に質問しようと手を挙げかけたが、時間切れになってしまい疑問点を（　　　）。",
     "choices": [
       "聞きがてらだ",
       "聞きかたわらだ",
@@ -9679,8 +9679,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "聞きそびれた",
     "notes": "「しようと<ruby>思<rt>おも</rt></ruby>っていたのに、<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>許<rt>ゆる</rt></ruby>さず<ruby>機会<rt>きかい</rt></ruby>を<ruby>逸<rt>いっ</rt></ruby>した」という<ruby>残念<rt>ざんねん</rt></ruby>な<ruby>気持<rt>きも</rt></ruby>ちを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>を（　　　）。",
-    "sentence_jp_ruby": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きそびれた。",
+    "question_ruby": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>疑問<rt>ぎもん</rt></ruby><ruby>点<rt>てん</rt></ruby>を（　　　）。",
+    "sentence_jp_ruby": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>疑問<rt>ぎもん</rt></ruby><ruby>点<rt>てん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きそびれた。",
     "choices_ruby": [
       "<ruby>聞<rt>き</rt></ruby>きがてらだ",
       "<ruby>聞<rt>き</rt></ruby>きかたわらだ",
@@ -9697,7 +9697,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "miss the opportunity to do",
     "similar": "〜する機会を逃す / 〜しそこなう / タイミングを失って〜できない",
     "sentence_jp": "人気の特別展はいつでも行けると思って先延ばしにしていたら、会期が終わって見そびれてしまった。",
-    "sentence_furigana": "人気の特別展はいつでも行けると思って先延ばしにしていたら、会期が終わって見そびれてしまった。",
+    "sentence_furigana": "にんきのとくべつてんはいつでもいけるとおもってさきのばしにしていたら、かいきがおわってみそびれてしまった。",
     "sentence_en": "Thinking I could go see the popular special exhibition anytime, I kept putting it off until the exhibition period ended and I missed seeing it.",
     "question": "人気の特別展はいつでも行けると思って先延ばしにしていたら、会期が終わって（　　　）しまった。",
     "choices": [
@@ -9727,7 +9727,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "alongside; while doing one’s main job",
     "similar": "〜する一方で / 本業の合間に〜もする / 〜のかたわら",
     "sentence_jp": "叔父は市役所に勤務するかたわら、週末には地元の少年サッカーチームの指導にあたっている。",
-    "sentence_furigana": "叔父は市役所に勤務するかたわら、週末には地元の少年サッカーチームの指導にあたっている。",
+    "sentence_furigana": "おじはしやくしょにきんむするかたわら、しゅうまつにはじもとのしょうねんサッカーチームのしどうにあたっている。",
     "sentence_en": "While working at city hall, my uncle also coaches a local youth soccer team on weekends.",
     "question": "叔父は市役所に勤務する（　　　）、週末には地元の少年サッカーチームの指導にあたっている。",
     "choices": [
@@ -9757,7 +9757,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "alongside; while doing one’s main job",
     "similar": "〜する一方で / 本業の合間に〜もする / 〜のかたわら",
     "sentence_jp": "彼は大学院で物理学の研究を続けるかたわら、科学の魅力を子どもたちに伝える絵本を執筆している。",
-    "sentence_furigana": "彼は大学院で物理学の研究を続けるかたわら、科学の魅力を子どもたちに伝える絵本を執筆している。",
+    "sentence_furigana": "かれはだいがくいんでぶつりがくのけんきゅうをつづけるかたわら、かがくのみりょくをこどもたちにつたえるえほんをしっぴつしている。",
     "sentence_en": "Alongside continuing his physics research in graduate school, he writes picture books that convey the appeal of science to children.",
     "question": "彼は大学院で物理学の研究を続ける（　　　）、科学の魅力を子どもたちに伝える絵本を執筆している。",
     "choices": [
@@ -9787,7 +9787,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "alongside; while doing one’s main job",
     "similar": "〜する一方で / 本業の合間に〜もする / 〜のかたわら",
     "sentence_jp": "母は自宅で音楽教室を開くかたわら、地域の合唱団の伴奏者としても長年活動してきた。",
-    "sentence_furigana": "母は自宅で音楽教室を開くかたわら、地域の合唱団の伴奏者としても長年活動してきた。",
+    "sentence_furigana": "はははじたくでおんがくきょうしつをひらくかたわら、ちいきのがっしょうだんのばんそうしゃとしてもながねんかつどうしてきた。",
     "sentence_en": "Alongside running a music school at home, my mother has also been active for many years as an accompanist for a local choir.",
     "question": "母は自宅で音楽教室を開く（　　　）、地域の合唱団の伴奏者としても長年活動してきた。",
     "choices": [
@@ -9817,7 +9817,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "alongside; while doing one’s main job",
     "similar": "〜する一方で / 本業の合間に〜もする / 〜のかたわら",
     "sentence_jp": "伝統工芸の職人を育成する本業のかたわら、彼は海外の美術館で日本の木工技術を紹介する講演を行っている。",
-    "sentence_furigana": "伝統工芸の職人を育成する本業のかたわら、彼は海外の美術館で日本の木工技術を紹介する講演を行っている。",
+    "sentence_furigana": "でんとうこうげいのしょくにんをいくせいするほんぎょうのかたわら、かれはかいがいのびじゅつかんでにほんのもっこうぎじゅつをしょうかいするこうえんをおこなっている。",
     "sentence_en": "Alongside his main profession of training traditional craft artisans, he gives lectures introducing Japanese woodworking techniques at art museums abroad.",
     "question": "伝統工芸の職人を育成する本業の（　　　）、彼は海外の美術館で日本の木工技術を紹介する講演を行っている。",
     "choices": [
@@ -9847,7 +9847,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while also doing; combining purposes",
     "similar": "〜を兼ねて / 〜のついでに / 〜がてら",
     "sentence_jp": "退院された恩師のお見舞いかたがた、先日受賞した論文の報告に自宅を訪ねた。",
-    "sentence_furigana": "退院された恩師のお見舞いかたがた、先日受賞した論文の報告に自宅を訪ねた。",
+    "sentence_furigana": "たいいんされたおんしのおみまいかたがた、せんじつじゅしょうしたろんぶんのほうこくにじたくをたずねた。",
     "sentence_en": "Combining a get-well visit to my former mentor who had been discharged from the hospital with a report on my recently awarded paper, I visited his home.",
     "question": "退院された恩師のお見舞い（　　　）、先日受賞した論文の報告に自宅を訪ねた。",
     "choices": [
@@ -9877,7 +9877,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while also doing; combining purposes",
     "similar": "〜を兼ねて / 〜のついでに / 〜がてら",
     "sentence_jp": "新任のご挨拶かたがた、来期の共同事業についてご意見を伺いたく存じます。",
-    "sentence_furigana": "新任のご挨拶かたがた、来期の共同事業についてご意見を伺いたく存じます。",
+    "sentence_furigana": "しんにんのごあいさつかたがた、らいきのきょうどうじぎょうについてごいけんをうかがいたくぞんじます。",
     "sentence_en": "By way of greeting you upon my new appointment, I would also like to hear your views regarding next term's joint project.",
     "question": "新任のご挨拶（　　　）、来期の共同事業についてご意見を伺いたく存じます。",
     "choices": [
@@ -9907,7 +9907,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while also doing; combining purposes",
     "similar": "〜を兼ねて / 〜のついでに / 〜がてら",
     "sentence_jp": "先日お借りした資料の返却かたがた、調査の進捗状況を先方の担当者にご報告した。",
-    "sentence_furigana": "先日お借りした資料の返却かたがた、調査の進捗状況を先方の担当者にご報告した。",
+    "sentence_furigana": "せんじつおかりしたしりょうのへんきゃくかたがた、ちょうさのしんちょくじょうきょうをせんぽうのたんとうしゃにごほうこくした。",
     "sentence_en": "Combining the return of the materials borrowed the other day with a progress report on the survey, I visited the person in charge.",
     "question": "先日お借りした資料の返却（　　　）、調査の進捗状況を先方の担当者にご報告した。",
     "choices": [
@@ -9937,7 +9937,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while also doing; combining purposes",
     "similar": "〜を兼ねて / 〜のついでに / 〜がてら",
     "sentence_jp": "連休中に実家へ帰省した折、結婚の報告かたがた久しぶりに親戚の家を訪ねて回った。",
-    "sentence_furigana": "連休中に実家へ帰省した折、結婚の報告かたがた久しぶりに親戚の家を訪ねて回った。",
+    "sentence_furigana": "れんきゅうちゅうにじっかへきせいしたおり、けっこんのほうこくかたがたひさしぶりにしんせきのいえをたずねてまわった。",
     "sentence_en": "When I returned to my parents' home during the holidays, I visited relatives' houses for the first time in a while, combining it with reporting my marriage.",
     "question": "連休中に実家へ帰省した折、結婚の報告（　　　）久しぶりに親戚の家を訪ねて回った。",
     "choices": [
@@ -9967,7 +9967,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while on the occasion of; as a sideline",
     "similar": "〜のついでに / 〜を兼ねて / 〜かたがた",
     "sentence_jp": "天気の良い休日に、運動不足の解消がてら、隣町の図書館まで自転車で出かけた。",
-    "sentence_furigana": "天気の良い休日に、運動不足の解消がてら、隣町の図書館まで自転車で出かけた。",
+    "sentence_furigana": "てんきのよいきゅうじつに、うんどうふそくのかいしょうがてら、となりまちのとしょかんまでじてんしゃででかけた。",
     "sentence_en": "On a sunny day off, by way of getting some exercise, I rode my bicycle out to the library in the neighboring town.",
     "question": "天気の良い休日に、運動不足の解消（　　　）、隣町の図書館まで自転車で出かけた。",
     "choices": [
@@ -9997,7 +9997,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while on the occasion of; as a sideline",
     "similar": "〜のついでに / 〜を兼ねて / 〜かたがた",
     "sentence_jp": "新しくできた商店街を見物がてら、夕食に使う新鮮な野菜と魚を買って帰った。",
-    "sentence_furigana": "新しくできた商店街を見物がてら、夕食に使う新鮮な野菜と魚を買って帰った。",
+    "sentence_furigana": "あたらしくできたしょうてんがいをけんぶつがてら、ゆうしょくにつかうしんせんなやさいとさかなをかってかえった。",
     "sentence_en": "While sightseeing around the newly opened shopping street, I bought fresh vegetables and fish for dinner on my way home.",
     "question": "新しくできた商店街を（　　　）、夕食に使う新鮮な野菜と魚を買って帰った。",
     "choices": [
@@ -10027,7 +10027,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while on the occasion of; as a sideline",
     "similar": "〜のついでに / 〜を兼ねて / 〜かたがた",
     "sentence_jp": "長時間パソコンに向かっていたので、気分転換に外の空気を吸いがてら郵便局まで歩いて行った。",
-    "sentence_furigana": "長時間パソコンに向かっていたので、気分転換に外の空気を吸いがてら郵便局まで歩いて行った。",
+    "sentence_furigana": "ちょうじかんパソコンにむかっていたので、きぶんてんかんにそとのくうきをすいがてらゆうびんきょくまであるいていった。",
     "sentence_en": "Because I had been facing my computer for a long time, I walked to the post office to get a breath of fresh air for a change of pace.",
     "question": "長時間パソコンに向かっていたので、気分転換に外の空気を（　　　）郵便局まで歩いて行った。",
     "choices": [
@@ -10057,7 +10057,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while on the occasion of; as a sideline",
     "similar": "〜のついでに / 〜を兼ねて / 〜かたがた",
     "sentence_jp": "秋晴れの週末、紅葉の写真を撮りがてら、山あいの静かな温泉郷へ日帰り旅行に出かけた。",
-    "sentence_furigana": "秋晴れの週末、紅葉の写真を撮りがてら、山あいの静かな温泉郷へ日帰り旅行に出かけた。",
+    "sentence_furigana": "あきばれのしゅうまつ、こうようのしゃしんをとりがてら、やまあいのしずかなおんせんきょうへひがえりりょこうにでかけた。",
     "sentence_en": "On a clear autumn weekend, we went on a day trip to a quiet hot-spring village in the mountains, combining it with taking photos of the autumn leaves.",
     "question": "秋晴れの週末、紅葉の写真を（　　　）、山あいの静かな温泉郷へ日帰り旅行に出かけた。",
     "choices": [
@@ -10087,7 +10087,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "disregarding; indifferent to",
     "similar": "〜を顧みず / 〜も構わず / 〜を無視して",
     "sentence_jp": "周囲の強い反対をよそに、彼は長年勤めた商社を辞めて陶芸の道へ進んだ。",
-    "sentence_furigana": "周囲の強い反対をよそに、彼は長年勤めた商社を辞めて陶芸の道へ進んだ。",
+    "sentence_furigana": "しゅういのつよいはんたいをよそに、かれはながねんつとめたしょうしゃをやめてとうげいのみちへすすんだ。",
     "sentence_en": "Indifferent to strong opposition around him, he quit the trading company where he had worked for many years and pursued pottery.",
     "question": "周囲の強い反対（　　　）、彼は長年勤めた商社を辞めて陶芸の道へ進んだ。",
     "choices": [
@@ -10117,7 +10117,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "disregarding; indifferent to",
     "similar": "〜を顧みず / 〜も構わず / 〜を無視して",
     "sentence_jp": "住民たちの不安をよそに、大規模な再開発の工事計画は次々と進められていった。",
-    "sentence_furigana": "住民たちの不安をよそに、大規模な再開発の工事計画は次々と進められていった。",
+    "sentence_furigana": "じゅうみんたちのふあんをよそに、だいきぼなさいかいはつのこうじけいかくはつぎつぎとすすめられていった。",
     "sentence_en": "Disregarding the residents' anxiety, the large-scale redevelopment construction plans proceeded one after another.",
     "question": "住民たちの不安（　　　）、大規模な再開発の工事計画は次々と進められていった。",
     "choices": [
@@ -10147,7 +10147,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "disregarding; indifferent to",
     "similar": "〜を顧みず / 〜も構わず / 〜を無視して",
     "sentence_jp": "世間の激しい騒ぎをよそに、その老画家は静かな山奥のアトリエで絵を描き続けた。",
-    "sentence_furigana": "世間の激しい騒ぎをよそに、その老画家は静かな山奥のアトリエで絵を描き続けた。",
+    "sentence_furigana": "せけんのはげしいさわぎをよそに、そのろうがかはしずかなやまおくのアトリエでえをえがきつづけた。",
     "sentence_en": "Far removed from the intense commotion of the public, the elderly painter kept painting in a quiet studio deep in the mountains.",
     "question": "世間の激しい騒ぎ（　　　）、その老画家は静かな山奥のアトリエで絵を描き続けた。",
     "choices": [
@@ -10177,7 +10177,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "disregarding; indifferent to",
     "similar": "〜を顧みず / 〜も構わず / 〜を無視して",
     "sentence_jp": "親の心配をよそに、息子はリュックひとつで半年間の海外放浪の旅に出かけてしまった。",
-    "sentence_furigana": "親の心配をよそに、息子はリュックひとつで半年間の海外放浪の旅に出かけてしまった。",
+    "sentence_furigana": "おやのしんぱいをよそに、むすこはリュックひとつではんとしかんのかいがいほうろうのたびにでかけてしまった。",
     "sentence_en": "Indifferent to his parents' worry, the son set off on a six-month backpacking trip abroad with just a single rucksack.",
     "question": "親の心配（　　　）、息子はリュックひとつで半年間の海外放浪の旅に出かけてしまった。",
     "choices": [
@@ -10207,7 +10207,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "defying; braving",
     "similar": "〜に屈せず / 〜を乗り越えて / 〜にもめげず",
     "sentence_jp": "吹き荒れる吹雪をものともせず、救助隊員たちは険しい雪山を一歩ずつ登っていった。",
-    "sentence_furigana": "吹き荒れる吹雪をものともせず、救助隊員たちは険しい雪山を一歩ずつ登っていった。",
+    "sentence_furigana": "ふきあれるふぶきをものともせず、きゅうじょたいいんたちはけわしいゆきやまをいちほずつのぼっていった。",
     "sentence_en": "Braving the raging blizzard, the rescue team members climbed the steep snowy mountain step by step.",
     "question": "吹き荒れる吹雪（　　　）、救助隊員たちは険しい雪山を一歩ずつ登っていった。",
     "choices": [
@@ -10237,7 +10237,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "defying; braving",
     "similar": "〜に屈せず / 〜を乗り越えて / 〜にもめげず",
     "sentence_jp": "度重なる実験の失敗をものともせずに、研究チームはついに画期的な新素材を開発した。",
-    "sentence_furigana": "度重なる実験の失敗をものともせずに、研究チームはついに画期的な新素材を開発した。",
+    "sentence_furigana": "たびかさなるじっけんのしっぱいをものともせずに、けんきゅうチームはついにかっきてきなしんそざいをかいはつした。",
     "sentence_en": "Undeterred by repeated experimental failures, the research team finally developed a groundbreaking new material.",
     "question": "度重なる実験の失敗（　　　）、研究チームはついに画期的な新素材を開発した。",
     "choices": [
@@ -10267,7 +10267,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "defying; braving",
     "similar": "〜に屈せず / 〜を乗り越えて / 〜にもめげず",
     "sentence_jp": "完全アウェーの激しい重圧をものともせず、若き選手たちは堂々たる演技を披露した。",
-    "sentence_furigana": "完全アウェーの激しい重圧をものともせず、若き選手たちは堂々たる演技を披露した。",
+    "sentence_furigana": "かんぜんアウェーのはげしいじゅうあつをものともせず、わかきせんしゅたちはどうどうたるえんぎをひろうした。",
     "sentence_en": "Defying the intense pressure of a completely away crowd, the young athletes delivered a magnificent performance.",
     "question": "完全アウェーの激しい重圧（　　　）、若き選手たちは堂々たる演技を披露した。",
     "choices": [
@@ -10297,7 +10297,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "defying; braving",
     "similar": "〜に屈せず / 〜を乗り越えて / 〜にもめげず",
     "sentence_jp": "大きな怪我からの長期離脱をものともせず、彼女は復帰戦で見事な優勝を果たした。",
-    "sentence_furigana": "大きな怪我からの長期離脱をものともせず、彼女は復帰戦で見事な優勝を果たした。",
+    "sentence_furigana": "おおきなけがからのちょうきりだつをものともせず、かのじょはふっきせんでみごとなゆうしょうをはたした。",
     "sentence_en": "Overcoming a long absence due to a major injury, she achieved a brilliant victory in her comeback match.",
     "question": "大きな怪我からの長期離脱（　　　）、彼女は復帰戦で見事な優勝を果たした。",
     "choices": [
@@ -10327,7 +10327,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "pushing through; despite illness/opposition",
     "similar": "〜を顧みず / 〜にもかかわらず / 〜を乗り越えて",
     "sentence_jp": "ご多忙のところを押して本日の記念式典にご出席いただき、心より感謝申し上げます。",
-    "sentence_furigana": "ご多忙のところを押して本日の記念式典にご出席いただき、心より感謝申し上げます。",
+    "sentence_furigana": "ごたぼうのところをおしてほんじつのきねんしきてんにごしゅっせきいただき、こころよりかんしゃもうしあげます。",
     "sentence_en": "We sincerely thank you for taking time out of your busy schedule to attend today's commemorative ceremony.",
     "question": "ご多忙のところ（　　　）本日の記念式典にご出席いただき、心より感謝申し上げます。",
     "choices": [
@@ -10356,10 +10356,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "をおして",
     "meaning_en": "pushing through; despite illness/opposition",
     "similar": "〜を顧みず / 〜にもかかわらず / 〜を乗り越えて",
-    "sentence_jp": "医師の静止を押して、老舗旅館の女将は退院した翌日から玄関に立って客を迎えた。",
-    "sentence_furigana": "医師の静止を押して、老舗旅館の女将は退院した翌日から玄関に立って客を迎えた。",
-    "sentence_en": "Despite her doctor's advice to rest, the proprietress of the long-established inn stood at the entrance welcoming guests the day after leaving the hospital.",
-    "question": "医師の静止（　　　）、老舗旅館の女将は退院した翌日から玄関に立って客を迎えた。",
+    "sentence_jp": "医師の制止を押して、老舗旅館の女将は退院した翌日から玄関に立って客を迎えた。",
+    "sentence_furigana": "いしのせいしをおして、しにせりょかんのおかみはたいいんしたよくじつからげんかんにたってきゃくをむかえた。",
+    "sentence_en": "Going against her doctor's efforts to stop her, the proprietress of the long-established inn stood at the entrance welcoming guests from the day after she was discharged.",
+    "question": "医師の制止（　　　）、老舗旅館の女将は退院した翌日から玄関に立って客を迎えた。",
     "choices": [
       "を契機に",
       "を押して",
@@ -10369,8 +10369,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "を押して",
     "notes": "<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>制止<rt>せいし</rt></ruby>や<ruby>反対<rt>はんたい</rt></ruby>、<ruby>体調<rt>たいちょう</rt></ruby><ruby>不良<rt>ふりょう</rt></ruby>などを<ruby>無理<rt>むり</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>り<ruby>切<rt>き</rt></ruby>って<ruby>行動<rt>こうどう</rt></ruby>することを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>医師<rt>いし</rt></ruby>の<ruby>静止<rt>せいし</rt></ruby>（　　　）、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。",
-    "sentence_jp_ruby": "<ruby>医師<rt>いし</rt></ruby>の<ruby>静止<rt>せいし</rt></ruby>を<ruby>押<rt>お</rt></ruby>して、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。",
+    "question_ruby": "<ruby>医師<rt>いし</rt></ruby>の<ruby>制止<rt>せいし</rt></ruby>（　　　）、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。",
+    "sentence_jp_ruby": "<ruby>医師<rt>いし</rt></ruby>の<ruby>制止<rt>せいし</rt></ruby>を<ruby>押<rt>お</rt></ruby>して、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。",
     "choices_ruby": [
       "を<ruby>契機<rt>けいき</rt></ruby>に",
       "を<ruby>押<rt>お</rt></ruby>して",
@@ -10387,7 +10387,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "pushing through; despite illness/opposition",
     "similar": "〜を顧みず / 〜にもかかわらず / 〜を乗り越えて",
     "sentence_jp": "80歳という高齢を押して、その植物学者は自ら離島の険しい森へ調査に向かった。",
-    "sentence_furigana": "80歳という高齢を押して、その植物学者は自ら離島の険しい森へ調査に向かった。",
+    "sentence_furigana": "80さいというこうれいをおして、そのしょくぶつがくしゃはみずからりとうのけわしいもりへちょうさにむかった。",
     "sentence_en": "Despite his advanced age of eighty, the botanist personally headed into the steep forest of a remote island for research.",
     "question": "80歳という高齢（　　　）、その植物学者は自ら離島の険しい森へ調査に向かった。",
     "choices": [
@@ -10417,7 +10417,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "pushing through; despite illness/opposition",
     "similar": "〜を顧みず / 〜にもかかわらず / 〜を乗り越えて",
     "sentence_jp": "激しい腰の痛みを押してステージに立ち続けた座長の姿に、劇団員たちは胸を打たれた。",
-    "sentence_furigana": "激しい腰の痛みを押してステージに立ち続けた座長の姿に、劇団員たちは胸を打たれた。",
+    "sentence_furigana": "はげしいこしのいたみをおしてステージにたちつづけたざちょうのすがたに、げきだんいんたちはむねをうたれた。",
     "sentence_en": "The troupe members were deeply moved by the sight of their leader continuing to stand on stage despite severe lower back pain.",
     "question": "激しい腰の痛み（　　　）ステージに立ち続けた座長の姿に、劇団員たちは胸を打たれた。",
     "choices": [
@@ -10447,7 +10447,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nobody/nothing else besides",
     "similar": "〜以外にない / 〜を除いてない / 〜ならではの",
     "sentence_jp": "この難航している国際提携の交渉をまとめ上げられる人物は、経験豊富な彼をおいていない。",
-    "sentence_furigana": "この難航している国際提携の交渉をまとめ上げられる人物は、経験豊富な彼をおいていない。",
+    "sentence_furigana": "このなんこうしているこくさいていけいのこうしょうをまとめあげられるじんぶつは、けいけんほうふなかれをおいていない。",
     "sentence_en": "There is no one besides him, with his wealth of experience, who can successfully conclude these stalled international partnership negotiations.",
     "question": "この難航している国際提携の交渉をまとめ上げられる人物は、経験豊富な彼（　　　）いない。",
     "choices": [
@@ -10477,7 +10477,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nobody/nothing else besides",
     "similar": "〜以外にない / 〜を除いてない / 〜ならではの",
     "sentence_jp": "繊細な古文書の修復を託せる専門家は、国内では山本先生をおいて考えられない。",
-    "sentence_furigana": "繊細な古文書の修復を託せる専門家は、国内では山本先生をおいて考えられない。",
+    "sentence_furigana": "せんさいなこもんじょのしゅうふくをたくせるせんもんかは、こくないではやまもとせんせいをおいてかんがえられない。",
     "sentence_en": "When it comes to an expert to whom we can entrust the restoration of delicate ancient documents, no one in the country is conceivable besides Professor Yamamoto.",
     "question": "繊細な古文書の修復を託せる専門家は、国内では山本先生（　　　）考えられない。",
     "choices": [
@@ -10507,7 +10507,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nobody/nothing else besides",
     "similar": "〜以外にない / 〜を除いてない / 〜ならではの",
     "sentence_jp": "長年の夢を実現するチャンスは、条件がすべて整った今をおいて二度と訪れないだろう。",
-    "sentence_furigana": "長年の夢を実現するチャンスは、条件がすべて整った今をおいて二度と訪れないだろう。",
+    "sentence_furigana": "ながねんのゆめをじつげんするチャンスは、じょうけんがすべてととのったいまをおいてにどとおとずれないだろう。",
     "sentence_en": "The chance to realize this long-held dream will likely never come again if not now, when all conditions are in place.",
     "question": "長年の夢を実現するチャンスは、条件がすべて整った今（　　　）二度と訪れないだろう。",
     "choices": [
@@ -10537,7 +10537,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "nobody/nothing else besides",
     "similar": "〜以外にない / 〜を除いてない / 〜ならではの",
     "sentence_jp": "地域の伝統工芸を次の世代へ継承できる若者は、情熱あふれる彼女をおいて誰がいようか。",
-    "sentence_furigana": "地域の伝統工芸を次の世代へ継承できる若者は、情熱あふれる彼女をおいて誰がいようか。",
+    "sentence_furigana": "ちいきのでんとうこうげいをつぎのせだいへけいしょうできるわかものは、じょうねつあふれるかのじょをおいてだれがいようか。",
     "sentence_en": "Who else besides her, brimming with passion, could pass on the region's traditional crafts to the next generation?",
     "question": "地域の伝統工芸を次の世代へ継承できる若者は、情熱あふれる彼女（　　　）誰がいようか。",
     "choices": [
@@ -10567,7 +10567,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "putting aside; setting aside",
     "similar": "〜はともかく / 〜は別として / 〜は措いて",
     "sentence_jp": "冗談はさておき、来月の新店舗オープンに向けた具体的な準備状況を報告してください。",
-    "sentence_furigana": "冗談はさておき、来月の新店舗オープンに向けた具体的な準備状況を報告してください。",
+    "sentence_furigana": "じょうだんはさておき、らいげつのしんてんぽオープンにむけたぐたいてきなじゅんびじょうきょうをほうこくしてください。",
     "sentence_en": "Joking aside, please report on the concrete status of preparations for next month's new store opening.",
     "question": "冗談（　　　）、来月の新店舗オープンに向けた具体的な準備状況を報告してください。",
     "choices": [
@@ -10597,7 +10597,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "putting aside; setting aside",
     "similar": "〜はともかく / 〜は別として / 〜は措いて",
     "sentence_jp": "最終的な勝敗の結果はさておき、最後まで諦めずに走り抜いた選手たちに拍手を送りたい。",
-    "sentence_furigana": "最終的な勝敗の結果はさておき、最後まで諦めずに走り抜いた選手たちに拍手を送りたい。",
+    "sentence_furigana": "さいしゅうてきなしょうはいのけっかはさておき、さいごまであきらめずにはしりぬいたせんしゅたちにはくしゅをおくりたい。",
     "sentence_en": "Setting aside the final outcome of victory or defeat, I want to applaud the athletes who ran all the way through without giving up.",
     "question": "最終的な勝敗の結果（　　　）、最後まで諦めずに走り抜いた選手たちに拍手を送りたい。",
     "choices": [
@@ -10627,7 +10627,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "putting aside; setting aside",
     "similar": "〜はともかく / 〜は別として / 〜は措いて",
     "sentence_jp": "実現できるかどうかはさておき、まずは自由な発想で新しい企画のアイデアを出し合おう。",
-    "sentence_furigana": "実現できるかどうかはさておき、まずは自由な発想で新しい企画のアイデアを出し合おう。",
+    "sentence_furigana": "じつげんできるかどうかはさておき、まずはじゆうなはっそうであたらしいきかくのアイデアをだしあおう。",
     "sentence_en": "Setting aside whether it can be realized or not, let's first brainstorm new project ideas freely.",
     "question": "実現できるかどうか（　　　）、まずは自由な発想で新しい企画のアイデアを出し合おう。",
     "choices": [
@@ -10657,7 +10657,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "putting aside; setting aside",
     "similar": "〜はともかく / 〜は別として / 〜は措いて",
     "sentence_jp": "細かい費用の内訳はさておき、全体の方針について皆様のご意見を伺いたいと思います。",
-    "sentence_furigana": "細かい費用の内訳はさておき、全体の方針について皆様のご意見を伺いたいと思います。",
+    "sentence_furigana": "こまかいひようのうちわけはさておき、ぜんたいのほうしんについてみなさまのごいけんをうかがいたいとおもいます。",
     "sentence_en": "Leaving aside the detailed breakdown of costs for now, I would like to hear everyone's opinions on the overall policy.",
     "question": "細かい費用の内訳（　　　）、全体の方針について皆様のご意見を伺いたいと思います。",
     "choices": [
@@ -10687,7 +10687,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whatever the case may be",
     "similar": "〜はどうであれ / 〜にかかわらず / 〜はともかくとして",
     "sentence_jp": "経緯はどうあれ、お客様にご不便をおかけしたことに対しては誠意をもって謝罪すべきだ。",
-    "sentence_furigana": "経緯はどうあれ、お客様にご不便をおかけしたことに対しては誠意をもって謝罪すべきだ。",
+    "sentence_furigana": "けいいはどうあれ、おきゃくさまにごふべんをおかけしたことにたいしてはせいいをもってしゃざいすべきだ。",
     "sentence_en": "Whatever the circumstances may have been, we should apologize sincerely for causing inconvenience to the customer.",
     "question": "経緯（　　　）、お客様にご不便をおかけしたことに対しては誠意をもって謝罪すべきだ。",
     "choices": [
@@ -10717,7 +10717,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whatever the case may be",
     "similar": "〜はどうであれ / 〜にかかわらず / 〜はともかくとして",
     "sentence_jp": "周囲の評価はどうあれ、自分が信じた芸術の道を最後まで追求したことに悔いはない。",
-    "sentence_furigana": "周囲の評価はどうあれ、自分が信じた芸術の道を最後まで追求したことに悔いはない。",
+    "sentence_furigana": "しゅういのひょうかはどうあれ、じぶんがしんじたげいじゅつのみちをさいごまでついきゅうしたことにくいはない。",
     "sentence_en": "Whatever the evaluation of those around me may be, I have no regrets about pursuing the artistic path I believed in to the very end.",
     "question": "周囲の評価（　　　）、自分が信じた芸術の道を最後まで追求したことに悔いはない。",
     "choices": [
@@ -10747,7 +10747,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whatever the case may be",
     "similar": "〜はどうであれ / 〜にかかわらず / 〜はともかくとして",
     "sentence_jp": "元の動機はどうあれ、結果として地域の清掃活動に多くの若者が集まったのは喜ばしいことだ。",
-    "sentence_furigana": "元の動機はどうあれ、結果として地域の清掃活動に多くの若者が集まったのは喜ばしいことだ。",
+    "sentence_furigana": "もとのどうきはどうあれ、けっかとしてちいきのせいそうかつどうにおおくのわかものがあつまったのはよろこばしいことだ。",
     "sentence_en": "Whatever the original motive may have been, it is wonderful that many young people gathered for the local cleanup activity as a result.",
     "question": "元の動機（　　　）、結果として地域の清掃活動に多くの若者が集まったのは喜ばしいことだ。",
     "choices": [
@@ -10777,7 +10777,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whatever the case may be",
     "similar": "〜はどうであれ / 〜にかかわらず / 〜はともかくとして",
     "sentence_jp": "外観の古さはどうあれ、この木造建築は耐震補強が施されており安全性には全く問題がない。",
-    "sentence_furigana": "外観の古さはどうあれ、この木造建築は耐震補強が施されており安全性には全く問題がない。",
+    "sentence_furigana": "がいかんのふるさはどうあれ、このもくぞうけんちくはたいしんほきょうがほどこされておりあんぜんせいにはまったくもんだいがない。",
     "sentence_en": "Regardless of how old the exterior looks, this wooden building has undergone seismic reinforcement and has no safety issues whatsoever.",
     "question": "外観の古さ（　　　）、この木造建築は耐震補強が施されており安全性には全く問題がない。",
     "choices": [
@@ -10807,7 +10807,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by the momentum of; right at the moment",
     "similar": "〜はずみで / 〜途端に / 〜瞬間に",
     "sentence_jp": "階段で足を滑らせて転んだ拍子に、持っていた眼鏡のフレームが曲がってしまった。",
-    "sentence_furigana": "階段で足を滑らせて転んだ拍子に、持っていた眼鏡のフレームが曲がってしまった。",
+    "sentence_furigana": "かいだんであしをすべらせてころんだひょうしに、もっていためがねのフレームがまがってしまった。",
     "sentence_en": "By the momentum of slipping and falling on the stairs, the frame of the glasses I was holding got bent.",
     "question": "階段で足を滑らせて転んだ（　　　）、持っていた眼鏡のフレームが曲がってしまった。",
     "choices": [
@@ -10837,7 +10837,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by the momentum of; right at the moment",
     "similar": "〜はずみで / 〜途端に / 〜瞬間に",
     "sentence_jp": "冷たい風に吹かれてくしゃみをした拍子に、ぎっくり腰になって動けなくなった。",
-    "sentence_furigana": "冷たい風に吹かれてくしゃみをした拍子に、ぎっくり腰になって動けなくなった。",
+    "sentence_furigana": "つめたいかぜにふかれてくしゃみをしたひょうしに、ぎっくりごしになってうごけなくなった。",
     "sentence_en": "Right at the moment I sneezed from the cold wind, I threw my back out and couldn't move.",
     "question": "冷たい風に吹かれてくしゃみをした（　　　）、ぎっくり腰になって動けなくなった。",
     "choices": [
@@ -10867,7 +10867,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by the momentum of; right at the moment",
     "similar": "〜はずみで / 〜途端に / 〜瞬間に",
     "sentence_jp": "慌ててカバンから書類を取り出した拍子に、大切な領収書が床に散らばってしまった。",
-    "sentence_furigana": "慌ててカバンから書類を取り出した拍子に、大切な領収書が床に散らばってしまった。",
+    "sentence_furigana": "あわててカバンからしょるいをとりだしたひょうしに、たいせつなりょうしゅうしょがゆかにちらばってしまった。",
     "sentence_en": "In the rush of pulling documents out of my bag, important receipts scattered across the floor.",
     "question": "慌ててカバンから書類を取り出した（　　　）、大切な領収書が床に散らばってしまった。",
     "choices": [
@@ -10897,7 +10897,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by the momentum of; right at the moment",
     "similar": "〜はずみで / 〜途端に / 〜瞬間に",
     "sentence_jp": "驚いて後ろを振り返った拍子に、テーブルの角に肘を強くぶつけてしまった。",
-    "sentence_furigana": "驚いて後ろを振り返った拍子に、テーブルの角に肘を強くぶつけてしまった。",
+    "sentence_furigana": "おどろいてうしろをふりかえったひょうしに、テーブルのかどにひじをつよくぶつけてしまった。",
     "sentence_en": "As I turned around in surprise, I accidentally bumped my elbow hard against the corner of the table.",
     "question": "驚いて後ろを振り返った（　　　）、テーブルの角に肘を強くぶつけてしまった。",
     "choices": [
@@ -10927,7 +10927,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the occasion of; when",
     "similar": "〜際に / 〜機会に / 〜ときに",
     "sentence_jp": "京都へお越しの折には、ぜひ私どもの工房にもお気軽にお立ち寄りください。",
-    "sentence_furigana": "京都へお越しの折には、ぜひ私どもの工房にもお気軽にお立ち寄りください。",
+    "sentence_furigana": "きょうとへおこしのおりには、ぜひわたしどものこうぼうにもおきがるにおたちよりください。",
     "sentence_en": "When you have the occasion to visit Kyoto, please feel free to drop by our workshop as well.",
     "question": "京都へお越しの（　　　）、ぜひ私どもの工房にもお気軽にお立ち寄りください。",
     "choices": [
@@ -10957,7 +10957,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the occasion of; when",
     "similar": "〜際に / 〜機会に / 〜ときに",
     "sentence_jp": "先月、恩師のお宅を訪問した折に、学生時代の懐かしい写真を見せていただいた。",
-    "sentence_furigana": "先月、恩師のお宅を訪問した折に、学生時代の懐かしい写真を見せていただいた。",
+    "sentence_furigana": "せんげつ、おんしのおたくをほうもんしたおりに、がくせいじだいのなつかしいしゃしんをみせていただいた。",
     "sentence_en": "On the occasion of visiting my former teacher's home last month, I was shown nostalgic photos from my student days.",
     "question": "先月、恩師のお宅を訪問した（　　　）、学生時代の懐かしい写真を見せていただいた。",
     "choices": [
@@ -10987,7 +10987,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the occasion of; when",
     "similar": "〜際に / 〜機会に / 〜ときに",
     "sentence_jp": "また何かお困りのことがございました折には、いつでも担当者までご相談ください。",
-    "sentence_furigana": "また何かお困りのことがございました折には、いつでも担当者までご相談ください。",
+    "sentence_furigana": "またなにかおこまりのことがございましたおりには、いつでもたんとうしゃまでごそうだんください。",
     "sentence_en": "Should there ever be an occasion where you have any trouble again, please consult our representative at any time.",
     "question": "また何かお困りのことがございました（　　　）、いつでも担当者までご相談ください。",
     "choices": [
@@ -11017,7 +11017,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the occasion of; when",
     "similar": "〜際に / 〜機会に / 〜ときに",
     "sentence_jp": "海外出張でウィーンを訪れた折に、念願だった歴史ある歌劇場でオペラを鑑賞した。",
-    "sentence_furigana": "海外出張でウィーンを訪れた折に、念願だった歴史ある歌劇場でオペラを鑑賞した。",
+    "sentence_furigana": "かいがいしゅっちょうでウィーンをおとずれたおりに、ねんがんだったれきしあるかげきじょうでオペラをかんしょうした。",
     "sentence_en": "On the occasion of visiting Vienna on an overseas business trip, I watched an opera at the historic opera house I had long wished to see.",
     "question": "海外出張でウィーンを訪れた（　　　）、念願だった歴史ある歌劇場でオペラを鑑賞した。",
     "choices": [
@@ -11047,7 +11047,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "marking the boundary/turning point",
     "similar": "〜を機に / 〜をきっかけに / 〜を分かれ目として",
     "sentence_jp": "標高二千メートル付近を境に、山の植生は広葉樹林から高山植物へと大きく変わる。",
-    "sentence_furigana": "標高二千メートル付近を境に、山の植生は広葉樹林から高山植物へと大きく変わる。",
+    "sentence_furigana": "ひょうこうにせんメートルふきんをさかいに、やまのしょくせいはこうようじゅりんからたかやましょくぶつへとおおきくかわる。",
     "sentence_en": "Around an altitude of 2,000 meters as a boundary, the mountain vegetation changes dramatically from broadleaf forest to alpine plants.",
     "question": "標高二千メートル付近（　　　）、山の植生は広葉樹林から高山植物へと大きく変わる。",
     "choices": [
@@ -11077,7 +11077,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "marking the boundary/turning point",
     "similar": "〜を機に / 〜をきっかけに / 〜を分かれ目として",
     "sentence_jp": "30歳を境にして体力の衰えを感じ始め、毎週末にジムで泳ぐ習慣をつけた。",
-    "sentence_furigana": "30歳を境にして体力の衰えを感じ始め、毎週末にジムで泳ぐ習慣をつけた。",
+    "sentence_furigana": "30さいをさかいにしてたいりょくのおとろえをかんじはじめ、まいしゅうまつにジムでおよぐしゅうかんをつけた。",
     "sentence_en": "Starting around age thirty, I began to feel a decline in physical strength and made a habit of swimming at the gym every weekend.",
     "question": "30歳（　　　）体力の衰えを感じ始め、毎週末にジムで泳ぐ習慣をつけた。",
     "choices": [
@@ -11107,7 +11107,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "marking the boundary/turning point",
     "similar": "〜を機に / 〜をきっかけに / 〜を分かれ目として",
     "sentence_jp": "あの歴史的な大ヒット作の発表を境に、彼の作家としての人生は劇的に好転した。",
-    "sentence_furigana": "あの歴史的な大ヒット作の発表を境に、彼の作家としての人生は劇的に好転した。",
+    "sentence_furigana": "あのれきしてきなだいヒットさくのはっぴょうをさかいに、かれのさっかとしてのじんせいはげきてきにこうてんした。",
     "sentence_en": "With the release of that historic blockbuster work as a turning point, his life as an author took a dramatic turn for the better.",
     "question": "あの歴史的な大ヒット作の発表（　　　）、彼の作家としての人生は劇的に好転した。",
     "choices": [
@@ -11137,7 +11137,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "marking the boundary/turning point",
     "similar": "〜を機に / 〜をきっかけに / 〜を分かれ目として",
     "sentence_jp": "立秋を境に、朝晩の風に少しずつ秋の涼しさが感じられるようになってきた。",
-    "sentence_furigana": "立秋を境に、朝晩の風に少しずつ秋の涼しさが感じられるようになってきた。",
+    "sentence_furigana": "りっしゅうをさかいに、あさばんのかぜにすこしずつあきのすずしさがかんじられるようになってきた。",
     "sentence_en": "With the first day of autumn as a turning point, the coolness of autumn has gradually become noticeable in the morning and evening breeze.",
     "question": "立秋（　　　）、朝晩の風に少しずつ秋の涼しさが感じられるようになってきた。",
     "choices": [
@@ -11167,7 +11167,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "through; via process/years",
     "similar": "〜を通して / 〜を通過して / 〜の過程をたどって",
     "sentence_jp": "幾度もの厳しい審査と改良を経て、新型の医療機器がついに実用化された。",
-    "sentence_furigana": "幾度もの厳しい審査と改良を経て、新型の医療機器がついに実用化された。",
+    "sentence_furigana": "いくどものきびしいしんさとかいりょうをへて、しんがたのいりょうききがついにじつようかされた。",
     "sentence_en": "After going through numerous rigorous inspections and improvements, the new medical device was finally put into practical use.",
     "question": "幾度もの厳しい審査と改良（　　　）、新型の医療機器がついに実用化された。",
     "choices": [
@@ -11197,7 +11197,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "through; via process/years",
     "similar": "〜を通して / 〜を通過して / 〜の過程をたどって",
     "sentence_jp": "十数年の歳月を経て、荒廃していた里山の雑木林が豊かな自然を取り戻した。",
-    "sentence_furigana": "十数年の歳月を経て、荒廃していた里山の雑木林が豊かな自然を取り戻した。",
+    "sentence_furigana": "じゅうすうねんのさいげつをへて、こうはいしていたさとやまのぞうきばやしがゆたかなしぜんをとりもどした。",
     "sentence_en": "After the passage of more than a decade, the neglected rural woodland regained its rich natural environment.",
     "question": "十数年の歳月（　　　）、荒廃していた里山の雑木林が豊かな自然を取り戻した。",
     "choices": [
@@ -11227,7 +11227,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "through; via process/years",
     "similar": "〜を通して / 〜を通過して / 〜の過程をたどって",
     "sentence_jp": "この国際貨物列車は、複数の国境都市を経て終着駅の港町へと到着する。",
-    "sentence_furigana": "この国際貨物列車は、複数の国境都市を経て終着駅の港町へと到着する。",
+    "sentence_furigana": "このこくさいかもつれっしゃは、ふくすうのこっきょうとしをへてしゅうちゃくえきのみなとちょうへととうちゃくする。",
     "sentence_en": "This international freight train passes through several border cities before arriving at the port town of its final destination.",
     "question": "この国際貨物列車は、複数の国境都市（　　　）終着駅の港町へと到着する。",
     "choices": [
@@ -11257,7 +11257,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "through; via process/years",
     "similar": "〜を通して / 〜を通過して / 〜の過程をたどって",
     "sentence_jp": "地域の住民説明会での合意形成を経て、新しい図書館の建設工事が着工された。",
-    "sentence_furigana": "地域の住民説明会での合意形成を経て、新しい図書館の建設工事が着工された。",
+    "sentence_furigana": "ちいきのじゅうみんせつめいかいでのごういけいせいをへて、あたらしいとしょかんのけんせつこうじがちゃっこうされた。",
     "sentence_en": "Following consensus building at local residents' briefing sessions, construction work on the new library began.",
     "question": "地域の住民説明会での合意形成（　　　）、新しい図書館の建設工事が着工された。",
     "choices": [
@@ -11287,7 +11287,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the premise of",
     "similar": "〜を条件として / 〜を基礎として / 〜を踏まえて",
     "sentence_jp": "この雇用契約は、半年後に正社員として登用することを前提として結ばれている。",
-    "sentence_furigana": "この雇用契約は、半年後に正社員として登用することを前提として結ばれている。",
+    "sentence_furigana": "このこようけいやくは、はんとしあとにせいしゃいんとしてとうようすることをぜんていとしてむすばれている。",
     "sentence_en": "This employment contract is concluded on the premise that the employee will be promoted to a regular full-time position after six months.",
     "question": "この雇用契約は、半年後に正社員として登用すること（　　　）結ばれている。",
     "choices": [
@@ -11299,8 +11299,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "を前提として",
     "notes": "<ruby>契約<rt>けいやく</rt></ruby>や<ruby>計画<rt>けいかく</rt></ruby>が<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つための<ruby>基本<rt>きほん</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>典型<rt>てんけい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>です。",
-    "question_ruby": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>すること（　　　）<ruby>結<rt>むす</rt></ruby>ばれている。",
-    "sentence_jp_ruby": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>することを<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>結<rt>むす</rt></ruby>ばれている。",
+    "question_ruby": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>すること（　　　）<ruby>結<rt>むす</rt></ruby>ばれている。",
+    "sentence_jp_ruby": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>することを<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>結<rt>むす</rt></ruby>ばれている。",
     "choices_ruby": [
       "を<ruby>皮切<rt>かわき</rt></ruby>りに",
       "を<ruby>押<rt>お</rt></ruby>して",
@@ -11317,7 +11317,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the premise of",
     "similar": "〜を条件として / 〜を基礎として / 〜を踏まえて",
     "sentence_jp": "双方の信頼関係を前提に成り立つ取引では、情報の透明性が何よりも重要になる。",
-    "sentence_furigana": "双方の信頼関係を前提に成り立つ取引では、情報の透明性が何よりも重要になる。",
+    "sentence_furigana": "そうほうのしんらいかんけいをぜんていになりたつとりひきでは、じょうほうのとうめいせいがなんよりもじゅうようになる。",
     "sentence_en": "In transactions built on the premise of mutual trust, transparency of information is more important than anything else.",
     "question": "双方の信頼関係（　　　）成り立つ取引では、情報の透明性が何よりも重要になる。",
     "choices": [
@@ -11347,7 +11347,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the premise of",
     "similar": "〜を条件として / 〜を基礎として / 〜を踏まえて",
     "sentence_jp": "大規模な自然災害が発生した場合を前提として、自治体の避難計画が策定された。",
-    "sentence_furigana": "大規模な自然災害が発生した場合を前提として、自治体の避難計画が策定された。",
+    "sentence_furigana": "だいきぼなしぜんさいがいがはっせいしたばあいをぜんていとして、じちたいのひなんけいかくがさくていされた。",
     "sentence_en": "The municipality's evacuation plan was formulated on the assumption that a large-scale natural disaster occurs.",
     "question": "大規模な自然災害が発生した場合（　　　）、自治体の避難計画が策定された。",
     "choices": [
@@ -11377,7 +11377,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "on the premise of",
     "similar": "〜を条件として / 〜を基礎として / 〜を踏まえて",
     "sentence_jp": "オンラインでの受講を前提として設計されたカリキュラムのため、自宅からでも無理なく学べる。",
-    "sentence_furigana": "オンラインでの受講を前提として設計されたカリキュラムのため、自宅からでも無理なく学べる。",
+    "sentence_furigana": "オンラインでのじゅこうをぜんていとしてせっけいされたカリキュラムのため、じたくからでもむりなくまなべる。",
     "sentence_en": "Because the curriculum was designed on the premise of online attendance, students can learn comfortably from home.",
     "question": "オンラインでの受講（　　　）設計されたカリキュラムのため、自宅からでも無理なく学べる。",
     "choices": [
@@ -11407,7 +11407,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if done with one’s ability/power",
     "similar": "〜を使えば / 〜の力があれば / 〜によれば",
     "sentence_jp": "彼女の卓越した語学力と交渉術をもってすれば、今回の海外提携も必ず成功するだろう。",
-    "sentence_furigana": "彼女の卓越した語学力と交渉術をもってすれば、今回の海外提携も必ず成功するだろう。",
+    "sentence_furigana": "かのじょのたくえつしたごがくりょくとこうしょうじゅつをもってすれば、こんかいのかいがいていけいもかならずせいこうするだろう。",
     "sentence_en": "With her outstanding language skills and negotiation ability, this overseas partnership will surely succeed.",
     "question": "彼女の卓越した語学力と交渉術（　　　）、今回の海外提携も必ず成功するだろう。",
     "choices": [
@@ -11437,7 +11437,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if done with one’s ability/power",
     "similar": "〜を使えば / 〜の力があれば / 〜によれば",
     "sentence_jp": "現代の最先端の科学技術をもってしても、深海の生態系の全貌を解明することはまだ難しい。",
-    "sentence_furigana": "現代の最先端の科学技術をもってしても、深海の生態系の全貌を解明することはまだ難しい。",
+    "sentence_furigana": "げんだいのさいせんたんのかがくぎじゅつをもってしても、しんかいのせいたいけいのぜんぼうをかいめいすることはまだむずかしい。",
     "sentence_en": "Even with today's cutting-edge science and technology, it is still difficult to elucidate the full picture of deep-sea ecosystems.",
     "question": "現代の最先端の科学技術（　　　）、深海の生態系の全貌を解明することはまだ難しい。",
     "choices": [
@@ -11467,7 +11467,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if done with one’s ability/power",
     "similar": "〜を使えば / 〜の力があれば / 〜によれば",
     "sentence_jp": "長年の現場経験をもってすれば、このような機械の不具合などすぐに原因を突き止められるはずだ。",
-    "sentence_furigana": "長年の現場経験をもってすれば、このような機械の不具合などすぐに原因を突き止められるはずだ。",
+    "sentence_furigana": "ながねんのげんばけいけんをもってすれば、このようなきかいのふぐあいなどすぐにげんいんをつきとめられるはずだ。",
     "sentence_en": "With your many years of field experience, you should be able to pinpoint the cause of a machine malfunction like this right away.",
     "question": "長年の現場経験（　　　）、このような機械の不具合などすぐに原因を突き止められるはずだ。",
     "choices": [
@@ -11497,7 +11497,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if done with one’s ability/power",
     "similar": "〜を使えば / 〜の力があれば / 〜によれば",
     "sentence_jp": "名探偵と称される彼の鋭い洞察力をもってしても、この不可解な謎は解けなかった。",
-    "sentence_furigana": "名探偵と称される彼の鋭い洞察力をもってしても、この不可解な謎は解けなかった。",
+    "sentence_furigana": "めいたんていとしょうされるかれのするどいどうさつりょくをもってしても、このふかかいななぞはとけなかった。",
     "sentence_en": "Even with the sharp insight of him who is hailed as a master detective, this baffling mystery could not be solved.",
     "question": "名探偵と称される彼の鋭い洞察力（　　　）、この不可解な謎は解けなかった。",
     "choices": [
@@ -11527,7 +11527,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to achieve a major goal",
     "similar": "〜ために / 〜を目指して / 〜ようとして",
     "sentence_jp": "自らの芸術の理想を実現せんがため、その彫刻家は私財を投げ打って制作に打ち込んだ。",
-    "sentence_furigana": "自らの芸術の理想を実現せんがため、その彫刻家は私財を投げ打って制作に打ち込んだ。",
+    "sentence_furigana": "みずからのげいじゅつのりそうをじつげんせんがため、そのちょうこくかはしざいをなげうってせいさくにうちこんだ。",
     "sentence_en": "In order to realize his own artistic ideals, the sculptor invested his private fortune and devoted himself to creation.",
     "question": "自らの芸術の理想を実現（　　　）、その彫刻家は私財を投げ打って制作に打ち込んだ。",
     "choices": [
@@ -11557,7 +11557,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to achieve a major goal",
     "similar": "〜ために / 〜を目指して / 〜ようとして",
     "sentence_jp": "頂点を極めんがために鍛錬を重ねるアスリートたちの姿は、見る者の胸を熱くさせる。",
-    "sentence_furigana": "頂点を極めんがために鍛錬を重ねるアスリートたちの姿は、見る者の胸を熱くさせる。",
+    "sentence_furigana": "ちょうてんをごくめんがためにたんれんをかさねるアスリートたちのすがたは、みるもののむねをあつくさせる。",
     "sentence_en": "The sight of athletes training tirelessly in order to reach the pinnacle warms the hearts of onlookers.",
     "question": "頂点を極め（　　　）鍛錬を重ねるアスリートたちの姿は、見る者の胸を熱くさせる。",
     "choices": [
@@ -11587,7 +11587,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to achieve a major goal",
     "similar": "〜ために / 〜を目指して / 〜ようとして",
     "sentence_jp": "厳しい自然の中で生き残らんがために編み出された伝統の知恵が、今もこの村に息づいている。",
-    "sentence_furigana": "厳しい自然の中で生き残らんがために編み出された伝統の知恵が、今もこの村に息づいている。",
+    "sentence_furigana": "きびしいしぜんのなかでいきのこらんがためにあみだされたでんとうのちえが、いまもこのむらにいきづいている。",
     "sentence_en": "Traditional wisdom devised in order to survive in harsh nature still lives on in this village today.",
     "question": "厳しい自然の中で生き残ら（　　　）編み出された伝統の知恵が、今もこの村に息づいている。",
     "choices": [
@@ -11617,7 +11617,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to achieve a major goal",
     "similar": "〜ために / 〜を目指して / 〜ようとして",
     "sentence_jp": "真実を明らかにせんがための執念が、彼を十年間に及ぶ地道な現地調査へと駆り立てた。",
-    "sentence_furigana": "真実を明らかにせんがための執念が、彼を十年間に及ぶ地道な現地調査へと駆り立てた。",
+    "sentence_furigana": "しんじつをあきらかにせんがためのしゅうねんが、かれをじゅうねんかんにおよぶじみちなげんちちょうさへとかりたてた。",
     "sentence_en": "His relentless determination to uncover the truth drove him to ten years of steady field research.",
     "question": "真実を明らかに（　　　）の執念が、彼を十年間に及ぶ地道な現地調査へと駆り立てた。",
     "choices": [
@@ -11647,7 +11647,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be about to do; attempt to",
     "similar": "〜ようとする / 今にも〜そうだ / 〜直前だ",
     "sentence_jp": "水平線の彼方へ今まさに沈まんとする夕日が、海面を鮮やかな黄金色に染め上げた。",
-    "sentence_furigana": "水平線の彼方へ今まさに沈まんとする夕日が、海面を鮮やかな黄金色に染め上げた。",
+    "sentence_furigana": "すいへいせんのかなたへいままさにしずまんとするゆうひが、かいめんをあざやかなおうごんしょくにそめあげた。",
     "sentence_en": "The setting sun, just about to sink beyond the horizon, dyed the sea surface a vivid golden color.",
     "question": "水平線の彼方へ今まさに沈ま（　　　）夕日が、海面を鮮やかな黄金色に染め上げた。",
     "choices": [
@@ -11677,7 +11677,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be about to do; attempt to",
     "similar": "〜ようとする / 今にも〜そうだ / 〜直前だ",
     "sentence_jp": "長年の課題を克服し、新たな時代を切り開かんとする若者たちの意欲が頼もしい。",
-    "sentence_furigana": "長年の課題を克服し、新たな時代を切り開かんとする若者たちの意欲が頼もしい。",
+    "sentence_furigana": "ながねんのかだいをこくふくし、あらたなじだいをきりひらかんとするわかものたちのいよくがたのもしい。",
     "sentence_en": "The ambition of young people striving to overcome longstanding challenges and open up a new era is inspiring.",
     "question": "長年の課題を克服し、新たな時代を切り開か（　　　）若者たちの意欲が頼もしい。",
     "choices": [
@@ -11707,7 +11707,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be about to do; attempt to",
     "similar": "〜ようとする / 今にも〜そうだ / 〜直前だ",
     "sentence_jp": "閉館時間を迎え、まさに扉を閉めんとしていたその時、駆け込んできた来館者がいた。",
-    "sentence_furigana": "閉館時間を迎え、まさに扉を閉めんとしていたその時、駆け込んできた来館者がいた。",
+    "sentence_furigana": "へいかんじかんをむかえ、まさにとびらをしめんとしていたそのとき、かけこんできたらいかんしゃがいた。",
     "sentence_en": "Just as the museum reached closing time and was about to shut its doors, a visitor came rushing in.",
     "question": "閉館時間を迎え、まさに扉を閉め（　　　）いたその時、駆け込んできた来館者がいた。",
     "choices": [
@@ -11737,7 +11737,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be about to do; attempt to",
     "similar": "〜ようとする / 今にも〜そうだ / 〜直前だ",
     "sentence_jp": "世界の頂点に挑まんとする気迫が、スタートラインに立つ彼女の表情からひしひしと伝わってきた。",
-    "sentence_furigana": "世界の頂点に挑まんとする気迫が、スタートラインに立つ彼女の表情からひしひしと伝わってきた。",
+    "sentence_furigana": "せかいのちょうてんにいどまんとするきはくが、スタートラインにたつかのじょのひょうじょうからひしひしとつたわってきた。",
     "sentence_en": "A fierce determination to challenge the top of the world was palpably conveyed by her expression as she stood at the starting line.",
     "question": "世界の頂点に挑ま（　　　）気迫が、スタートラインに立つ彼女の表情からひしひしと伝わってきた。",
     "choices": [
@@ -11766,26 +11766,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "てやまない",
     "meaning_en": "never cease to; wholeheartedly wish",
     "similar": "心から〜している / 切に〜する / 〜てたまらない",
-    "sentence_jp": "皆様の今後のご健勝とご活躍を、心よりお祈り申し上げてやみません。",
-    "sentence_furigana": "皆様の今後のご健勝とご活躍を、心よりお祈り申し上げてやみません。",
-    "sentence_en": "I wholeheartedly pray for everyone's continued good health and success in the future.",
-    "question": "皆様の今後のご健勝とご活躍を、心よりお祈り申し上げ（　　　）。",
+    "sentence_jp": "皆様の今後のご健勝とご活躍を、心より願ってやみません。",
+    "sentence_furigana": "みなさまのこんごのごけんしょうとごかつやくを、こころよりねがってやみません。",
+    "sentence_en": "I sincerely wish you all continued good health and success in the future.",
+    "question": "皆様の今後のご健勝とご活躍を、心より（　　　）。",
     "choices": [
-      "てはなりません",
-      "ずにはいられません",
-      "てやみません",
-      "てはかないません"
+      "願ってはなりません",
+      "願うわけにはいきません",
+      "願ってやみません",
+      "願ってはかないません"
     ],
     "answer": 2,
-    "correct_text": "てやみません",
+    "correct_text": "願ってやみません",
     "notes": "<ruby>式典<rt>しきてん</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>や<ruby>祝辞<rt>しゅくじ</rt></ruby>の<ruby>結<rt>むす</rt></ruby>びとして「<ruby>祈<rt>いの</rt></ruby>ってやみません」「<ruby>願<rt>ねが</rt></ruby>ってやみません」が<ruby>頻出<rt>ひんしゅつ</rt></ruby>します。",
-    "question_ruby": "<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>のご<ruby>健勝<rt>けんしょう</rt></ruby>とご<ruby>活躍<rt>かつやく</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>よりお<ruby>祈<rt>いの</rt></ruby>り<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げ（　　　）。",
-    "sentence_jp_ruby": "<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>のご<ruby>健勝<rt>けんしょう</rt></ruby>とご<ruby>活躍<rt>かつやく</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>よりお<ruby>祈<rt>いの</rt></ruby>り<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げてやみません。",
+    "question_ruby": "<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>のご<ruby>健勝<rt>けんしょう</rt></ruby>とご<ruby>活躍<rt>かつやく</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>より（　　　）。",
+    "sentence_jp_ruby": "<ruby>皆様<rt>みなさま</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>のご<ruby>健勝<rt>けんしょう</rt></ruby>とご<ruby>活躍<rt>かつやく</rt></ruby>を、<ruby>心<rt>こころ</rt></ruby>より<ruby>願<rt>ねが</rt></ruby>ってやみません。",
     "choices_ruby": [
-      "てはなりません",
-      "ずにはいられません",
-      "てやみません",
-      "てはかないません"
+      "<ruby>願<rt>ねが</rt></ruby>ってはなりません",
+      "<ruby>願<rt>ねが</rt></ruby>うわけにはいきません",
+      "<ruby>願<rt>ねが</rt></ruby>ってやみません",
+      "<ruby>願<rt>ねが</rt></ruby>ってはかないません"
     ],
     "correct_text_ruby": "てやみません"
   },
@@ -11797,7 +11797,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "never cease to; wholeheartedly wish",
     "similar": "心から〜している / 切に〜する / 〜てたまらない",
     "sentence_jp": "被災された地域の一日も早い復興を、国民の誰もが強く願ってやまない。",
-    "sentence_furigana": "被災された地域の一日も早い復興を、国民の誰もが強く願ってやまない。",
+    "sentence_furigana": "ひさいされたちいきのいちにちもはやいふっこうを、こくみんのだれもがつよくねがってやまない。",
     "sentence_en": "Every citizen earnestly wishes for the earliest possible recovery of the disaster-stricken areas.",
     "question": "被災された地域の一日も早い復興を、国民の誰もが強く願っ（　　　）。",
     "choices": [
@@ -11827,7 +11827,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "never cease to; wholeheartedly wish",
     "similar": "心から〜している / 切に〜する / 〜てたまらない",
     "sentence_jp": "長年にわたり地域医療に献身された先生の功績を、私たちは称えてやまない。",
-    "sentence_furigana": "長年にわたり地域医療に献身された先生の功績を、私たちは称えてやまない。",
+    "sentence_furigana": "ながねんにわたりちいきいりょうにけんしんされたせんせいのこうせきを、わたしたちはとなえてやまない。",
     "sentence_en": "We never cease to praise the achievements of the doctor who devoted himself to community healthcare for many years.",
     "question": "長年にわたり地域医療に献身された先生の功績を、私たちは称え（　　　）。",
     "choices": [
@@ -11856,26 +11856,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "てやまない",
     "meaning_en": "never cease to; wholeheartedly wish",
     "similar": "心から〜している / 切に〜する / 〜てたまらない",
-    "sentence_jp": "若くして才能を開花させた彼がこの分野を去ってしまうのは、実に惜しんでやまないことだ。",
-    "sentence_furigana": "若くして才能を開花させた彼がこの分野を去ってしまうのは、実に惜しんでやまないことだ。",
-    "sentence_en": "It is truly a matter of endless regret that he, having blossomed with talent so young, is leaving this field.",
-    "question": "若くして才能を開花させた彼がこの分野を去ってしまうのは、実に惜しん（　　　）ことだ。",
+    "sentence_jp": "若くして才能を開花させた彼が業界を去ってしまうことを、関係者は皆、深く惜しんでやまない。",
+    "sentence_furigana": "わかくしてさいのうをかいかさせたかれがぎょうかいをさってしまうことを、かんけいしゃはみな、ふかくおしんでやまない。",
+    "sentence_en": "Everyone involved deeply regrets that he, whose talent blossomed at a young age, is leaving the industry.",
+    "question": "若くして才能を開花させた彼が業界を去ってしまうことを、関係者は皆、深く（　　　）。",
     "choices": [
-      "ではならない",
-      "でやまない",
-      "ではかなわない",
-      "ではたまらない"
+      "惜しんではならない",
+      "惜しんでやまない",
+      "惜しんではかなわない",
+      "惜しんではたまらない"
     ],
     "answer": 1,
-    "correct_text": "でやまない",
+    "correct_text": "惜しんでやまない",
     "notes": "「<ruby>惜<rt>お</rt></ruby>しんでやまない」「<ruby>悔<rt>く</rt></ruby>やんでやまない」のように<ruby>深<rt>ふか</rt></ruby>い<ruby>惜別<rt>せきべつ</rt></ruby>の<ruby>情<rt>じょう</rt></ruby>にも<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "<ruby>若<rt>わか</rt></ruby>くして<ruby>才能<rt>さいのう</rt></ruby>を<ruby>開<rt>ひら</rt></ruby><ruby>花<rt>はな</rt></ruby>させた<ruby>彼<rt>かれ</rt></ruby>がこの<ruby>分野<rt>ぶんや</rt></ruby>を<ruby>去<rt>さ</rt></ruby>ってしまうのは、<ruby>実<rt>じつ</rt></ruby>に<ruby>惜<rt>お</rt></ruby>しん（　　　）ことだ。",
-    "sentence_jp_ruby": "<ruby>若<rt>わか</rt></ruby>くして<ruby>才能<rt>さいのう</rt></ruby>を<ruby>開<rt>ひら</rt></ruby><ruby>花<rt>はな</rt></ruby>させた<ruby>彼<rt>かれ</rt></ruby>がこの<ruby>分野<rt>ぶんや</rt></ruby>を<ruby>去<rt>さ</rt></ruby>ってしまうのは、<ruby>実<rt>じつ</rt></ruby>に<ruby>惜<rt>お</rt></ruby>しんでやまないことだ。",
+    "question_ruby": "<ruby>若<rt>わか</rt></ruby>くして<ruby>才能<rt>さいのう</rt></ruby>を<ruby>開花<rt>かいか</rt></ruby>させた<ruby>彼<rt>かれ</rt></ruby>が<ruby>業界<rt>ぎょうかい</rt></ruby>を<ruby>去<rt>さ</rt></ruby>ってしまうことを、<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>、<ruby>深<rt>ふか</rt></ruby>く（　　　）。",
+    "sentence_jp_ruby": "<ruby>若<rt>わか</rt></ruby>くして<ruby>才能<rt>さいのう</rt></ruby>を<ruby>開花<rt>かいか</rt></ruby>させた<ruby>彼<rt>かれ</rt></ruby>が<ruby>業界<rt>ぎょうかい</rt></ruby>を<ruby>去<rt>さ</rt></ruby>ってしまうことを、<ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>、<ruby>深<rt>ふか</rt></ruby>く<ruby>惜<rt>お</rt></ruby>しんでやまない。",
     "choices_ruby": [
-      "ではならない",
-      "でやまない",
-      "ではかなわない",
-      "ではたまらない"
+      "<ruby>惜<rt>お</rt></ruby>しんではならない",
+      "<ruby>惜<rt>お</rt></ruby>しんでやまない",
+      "<ruby>惜<rt>お</rt></ruby>しんではかなわない",
+      "<ruby>惜<rt>お</rt></ruby>しんではたまらない"
     ],
     "correct_text_ruby": "でやまない"
   },
@@ -11887,7 +11887,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ever since doing ~",
     "similar": "〜て以来（ずっと） / 〜てからは / 〜を境に",
     "sentence_jp": "昨春に愛犬を飼い始めてからというもの、父は毎朝欠かさず五時に起きて散歩に出かけている。",
-    "sentence_furigana": "昨春に愛犬を飼い始めてからというもの、父は毎朝欠かさず五時に起きて散歩に出かけている。",
+    "sentence_furigana": "さくしゅんにあいけんをかいはじめてからというもの、ちちはまいあさかかさずごじにおきてさんぽにでかけている。",
     "sentence_en": "Ever since we started keeping a beloved dog last spring, my father has been getting up at five every morning without fail to go for a walk.",
     "question": "昨春に愛犬を飼い始め（　　　）、父は毎朝欠かさず五時に起きて散歩に出かけている。",
     "choices": [
@@ -11917,7 +11917,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ever since doing ~",
     "similar": "〜て以来（ずっと） / 〜てからは / 〜を境に",
     "sentence_jp": "一度山登りの魅力に取り憑かれてからというもの、彼は休日になると必ず全国の山へ出かけている。",
-    "sentence_furigana": "一度山登りの魅力に取り憑かれてからというもの、彼は休日になると必ず全国の山へ出かけている。",
+    "sentence_furigana": "いちどやまのぼりのみりょくにとりつかれてからというもの、かれはきゅうじつになるとかならずぜんこくのやまへでかけている。",
     "sentence_en": "Ever since he became captivated by the charm of mountain climbing, he goes out to mountains across the country without fail every holiday.",
     "question": "一度山登りの魅力に取り憑かれ（　　　）、彼は休日になると必ず全国の山へ出かけている。",
     "choices": [
@@ -11947,7 +11947,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ever since doing ~",
     "similar": "〜て以来（ずっと） / 〜てからは / 〜を境に",
     "sentence_jp": "娘が一人暮らしを始めてからというもの、賑やかだった家の中が急に静まり返って寂しくなった。",
-    "sentence_furigana": "娘が一人暮らしを始めてからというもの、賑やかだった家の中が急に静まり返って寂しくなった。",
+    "sentence_furigana": "むすめがひとりくらしをはじめてからというもの、にぎやかだったいえのなかがきゅうにしずまりかえってさびしくなった。",
     "sentence_en": "Ever since my daughter started living on her own, our once lively house has suddenly become quiet and lonely.",
     "question": "娘が一人暮らしを始め（　　　）、賑やかだった家の中が急に静まり返って寂しくなった。",
     "choices": [
@@ -11977,7 +11977,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "ever since doing ~",
     "similar": "〜て以来（ずっと） / 〜てからは / 〜を境に",
     "sentence_jp": "先月ぎっくり腰を経験してからというもの、重い荷物を持ち上げる時は常に姿勢に気をつけている。",
-    "sentence_furigana": "先月ぎっくり腰を経験してからというもの、重い荷物を持ち上げる時は常に姿勢に気をつけている。",
+    "sentence_furigana": "せんげつぎっくりごしをけいけんしてからというもの、おもいにもつをもちあげるときはつねにしせいにきをつけている。",
     "sentence_en": "Ever since I experienced a strained back last month, I always pay attention to my posture when lifting heavy luggage.",
     "question": "先月ぎっくり腰を経験し（　　　）、重い荷物を持ち上げる時は常に姿勢に気をつけている。",
     "choices": [
@@ -12007,7 +12007,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the special condition/circumstance of",
     "similar": "〜という状況の中で / 〜において / 〜の立場にあって",
     "sentence_jp": "激しい変化が続く現代社会にあって、常に自ら学び続ける姿勢が求められている。",
-    "sentence_furigana": "激しい変化が続く現代社会にあって、常に自ら学び続ける姿勢が求められている。",
+    "sentence_furigana": "はげしいへんかがつづくげんだいしゃかいにあって、つねにみずからまなびつづけるしせいがもとめられている。",
     "sentence_en": "In modern society where rapid changes continue, an attitude of constantly learning on one's own is required.",
     "question": "激しい変化が続く現代社会（　　　）、常に自ら学び続ける姿勢が求められている。",
     "choices": [
@@ -12037,7 +12037,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the special condition/circumstance of",
     "similar": "〜という状況の中で / 〜において / 〜の立場にあって",
     "sentence_jp": "どれほど厳しい逆境にあっても、希望を失わずに前を向き続けた彼女の強さに感銘を受けた。",
-    "sentence_furigana": "どれほど厳しい逆境にあっても、希望を失わずに前を向き続けた彼女の強さに感銘を受けた。",
+    "sentence_furigana": "どれほどきびしいぎゃっきょうにあっても、きぼうをうしなわずにまえをむきつづけたかのじょのつよさにかんめいをうけた。",
     "sentence_en": "I was deeply impressed by her strength in continuing to look forward without losing hope, even in the harshest adversity.",
     "question": "どれほど厳しい逆境（　　　）、希望を失わずに前を向き続けた彼女の強さに感銘を受けた。",
     "choices": [
@@ -12067,7 +12067,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the special condition/circumstance of",
     "similar": "〜という状況の中で / 〜において / 〜の立場にあって",
     "sentence_jp": "組織を率いるリーダーの立場にあっては、私情を挟まず公正な判断を下さなければならない。",
-    "sentence_furigana": "組織を率いるリーダーの立場にあっては、私情を挟まず公正な判断を下さなければならない。",
+    "sentence_furigana": "そしきをひきいるリーダーのたちばにあっては、しじょうをはさまずこうせいなはんだんをくださなければならない。",
     "sentence_en": "When in the position of a leader heading an organization, one must make fair judgments without letting personal feelings interfere.",
     "question": "組織を率いるリーダーの立場（　　　）は、私情を挟まず公正な判断を下さなければならない。",
     "choices": [
@@ -12097,7 +12097,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in the special condition/circumstance of",
     "similar": "〜という状況の中で / 〜において / 〜の立場にあって",
     "sentence_jp": "通信手段が途絶えた極限状態にあって、隊員たちは冷静に互いの安全を確認し合った。",
-    "sentence_furigana": "通信手段が途絶えた極限状態にあって、隊員たちは冷静に互いの安全を確認し合った。",
+    "sentence_furigana": "つうしんしゅだんがとだえたきょくげんじょうたいにあって、たいいんたちはれいせいにたがいのあんぜんをかくにんしあった。",
     "sentence_en": "In an extreme situation where communication means were cut off, the team members calmly confirmed each other's safety.",
     "question": "通信手段が途絶えた極限状態（　　　）、隊員たちは冷静に互いの安全を確認し合った。",
     "choices": [
@@ -12127,7 +12127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it is only natural; no wonder",
     "similar": "〜のも当然だ / 〜のももっともだ / 〜のは当たり前だ",
     "sentence_jp": "徹夜で長時間の作業を続けたのだから、彼が会議中に眠そうにしていたのも無理はない。",
-    "sentence_furigana": "徹夜で長時間の作業を続けたのだから、彼が会議中に眠そうにしていたのも無理はない。",
+    "sentence_furigana": "てつやでちょうじかんのさぎょうをつづけたのだから、かれがかいぎちゅうにねむそうにしていたのもむりはない。",
     "sentence_en": "Since he continued working for long hours all through the night, it is no wonder he looked sleepy during the meeting.",
     "question": "徹夜で長時間の作業を続けたのだから、彼が会議中に眠そうにしていた（　　　）。",
     "choices": [
@@ -12157,7 +12157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it is only natural; no wonder",
     "similar": "〜のも当然だ / 〜のももっともだ / 〜のは当たり前だ",
     "sentence_jp": "半年かけて準備した企画が直前で白紙になったと聞き、彼女が落胆するのも無理はない。",
-    "sentence_furigana": "半年かけて準備した企画が直前で白紙になったと聞き、彼女が落胆するのも無理はない。",
+    "sentence_furigana": "はんとしかけてじゅんびしたきかくがちょくぜんではくしになったときき、かのじょがらくたんするのもむりはない。",
     "sentence_en": "Hearing that the project she spent half a year preparing was scrapped right before implementation, it is only natural that she feels discouraged.",
     "question": "半年かけて準備した企画が直前で白紙になったと聞き、彼女が落胆する（　　　）。",
     "choices": [
@@ -12187,7 +12187,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it is only natural; no wonder",
     "similar": "〜のも当然だ / 〜のももっともだ / 〜のは当たり前だ",
     "sentence_jp": "二十年ぶりに故郷の駅前に降り立ったのだから、道に迷ってしまうのも無理はない。",
-    "sentence_furigana": "二十年ぶりに故郷の駅前に降り立ったのだから、道に迷ってしまうのも無理はない。",
+    "sentence_furigana": "にじゅうねんぶりにこきょうのえきまえにおりたったのだから、みちにまよってしまうのもむりはない。",
     "sentence_en": "Since it was the first time in twenty years that he stood in front of his hometown station, it is no wonder he lost his way.",
     "question": "二十年ぶりに故郷の駅前に降り立ったのだから、道に迷ってしまう（　　　）。",
     "choices": [
@@ -12217,7 +12217,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it is only natural; no wonder",
     "similar": "〜のも当然だ / 〜のももっともだ / 〜のは当たり前だ",
     "sentence_jp": "説明書の専門用語があまりに難解なので、初心者が戸惑うのも無理はないだろう。",
-    "sentence_furigana": "説明書の専門用語があまりに難解なので、初心者が戸惑うのも無理はないだろう。",
+    "sentence_furigana": "せつめいしょのせんもんようごがあまりになんかいなので、しょしんしゃがとまどうのもむりはないだろう。",
     "sentence_en": "Because the technical terms in the manual are so arcane, it is quite understandable that beginners feel bewildered.",
     "question": "説明書の専門用語があまりに難解なので、初心者が戸惑う（　　　）だろう。",
     "choices": [
@@ -12247,7 +12247,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only; not merely",
     "similar": "〜だけでなく / 〜ばかりか / 〜にとどまらず",
     "sentence_jp": "その老舗の和菓子は地元で愛されているのみか、海外の美食家からも高く評価されている。",
-    "sentence_furigana": "その老舗の和菓子は地元で愛されているのみか、海外の美食家からも高く評価されている。",
+    "sentence_furigana": "そのしにせのわがしはじもとであいされているのみか、かいがいのびしょくかからもたかくひょうかされている。",
     "sentence_en": "Not only are the traditional sweets of that long-established shop loved locally, they are also highly praised by gourmets overseas.",
     "question": "その老舗の和菓子は地元で愛されている（　　　）、海外の美食家からも高く評価されている。",
     "choices": [
@@ -12277,7 +12277,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only; not merely",
     "similar": "〜だけでなく / 〜ばかりか / 〜にとどまらず",
     "sentence_jp": "今回のシステム障害により、業務が停止したのみか、顧客データの復旧にも多大な時間を要した。",
-    "sentence_furigana": "今回のシステム障害により、業務が停止したのみか、顧客データの復旧にも多大な時間を要した。",
+    "sentence_furigana": "こんかいのシステムしょうがいにより、ぎょうむがていししたのみか、こきゃくデータのふっきゅうにもただいなじかんをようした。",
     "sentence_en": "Due to this system failure, not only were operations halted, but recovering customer data also took an enormous amount of time.",
     "question": "今回のシステム障害により、業務が停止した（　　　）、顧客データの復旧にも多大な時間を要した。",
     "choices": [
@@ -12307,7 +12307,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only; not merely",
     "similar": "〜だけでなく / 〜ばかりか / 〜にとどまらず",
     "sentence_jp": "彼女は三か国語を流暢に話せるのみか、古代の文献を直接読み解く専門知識まで備えている。",
-    "sentence_furigana": "彼女は三か国語を流暢に話せるのみか、古代の文献を直接読み解く専門知識まで備えている。",
+    "sentence_furigana": "かのじょはさんかこくごをりゅうちょうにはなせるのみか、こだいのぶんけんをちょくせつよみとくせんもんちしきまでそなえている。",
     "sentence_en": "Not only can she speak three languages fluently, she even possesses the specialized knowledge to decipher ancient documents directly.",
     "question": "彼女は三か国語を流暢に話せる（　　　）、古代の文献を直接読み解く専門知識まで備えている。",
     "choices": [
@@ -12337,7 +12337,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only; not merely",
     "similar": "〜だけでなく / 〜ばかりか / 〜にとどまらず",
     "sentence_jp": "放置された空き家は景観を損ねるのみか、防災上のリスクも高めるとして対策が急がれている。",
-    "sentence_furigana": "放置された空き家は景観を損ねるのみか、防災上のリスクも高めるとして対策が急がれている。",
+    "sentence_furigana": "ほうちされたあきやはけいかんをそこねるのみか、ぼうさいじょうのリスクもたかめるとしてたいさくがいそがれている。",
     "sentence_en": "Because abandoned houses not only mar the landscape but also increase disaster prevention risks, countermeasures are urgently needed.",
     "question": "放置された空き家は景観を損ねる（　　　）、防災上のリスクも高めるとして対策が急がれている。",
     "choices": [
@@ -12366,10 +12366,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらありはしない",
     "meaning_en": "utterly; extraordinarily bad",
     "similar": "〜といったらない / この上なく〜だ / 実に〜だ",
-    "sentence_jp": "台風が過ぎ去った後の海岸の散らかりようといったらありはしない、どこから手を付けていいか途方に暮れた。",
-    "sentence_furigana": "台風が過ぎ去った後の海岸の散らかりようといったらありはしない、どこから手を付けていいか途方に暮れた。",
-    "sentence_en": "The mess on the beach after the typhoon passed was beyond description; we were at a loss as to where to even begin.",
-    "question": "台風が過ぎ去った後の海岸の散らかりよう（　　　）、どこから手を付けていいか途方に暮れた。",
+    "sentence_jp": "台風が過ぎ去った後の海岸は見るも無残な有様で、その散らかりようといったらありはしない。",
+    "sentence_furigana": "たいふうがすぎさったのちのかいがんはみるもむざんなありさまで、そのちらかりようといったらありはしない。",
+    "sentence_en": "After the typhoon passed, the beach was a pitiful sight—the mess there is beyond belief.",
+    "question": "台風が過ぎ去った後の海岸は見るも無残な有様で、その散らかりよう（　　　）。",
     "choices": [
       "に値する",
       "のも無理はない",
@@ -12379,8 +12379,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "といったらありはしない",
     "notes": "「<ruby>散<rt>ち</rt></ruby>らかりよう」「<ruby>汚<rt>きたな</rt></ruby>さ」「ひどさ」など、あきれるほど<ruby>程度<rt>ていど</rt></ruby>が<ruby>甚<rt>はなは</rt></ruby>だしいことを<ruby>強調<rt>きょうちょう</rt></ruby>します。",
-    "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>散<rt>ち</rt></ruby>らかりよう（　　　）、どこから<ruby>手<rt>て</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けていいか<ruby>途方<rt>とほう</rt></ruby>に<ruby>暮<rt>く</rt></ruby>れた。",
-    "sentence_jp_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>散<rt>ち</rt></ruby>らかりようといったらありはしない、どこから<ruby>手<rt>て</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けていいか<ruby>途方<rt>とほう</rt></ruby>に<ruby>暮<rt>く</rt></ruby>れた。",
+    "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過ぎ去<rt>すぎさ</rt></ruby>った<ruby>後<rt>のち</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>は<ruby>見<rt>み</rt></ruby>るも<ruby>無残<rt>むざん</rt></ruby>な<ruby>有様<rt>ありさま</rt></ruby>で、その<ruby>散<rt>ち</rt></ruby>らかりよう（　　　）。",
+    "sentence_jp_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過ぎ去<rt>すぎさ</rt></ruby>った<ruby>後<rt>のち</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>は<ruby>見<rt>み</rt></ruby>るも<ruby>無残<rt>むざん</rt></ruby>な<ruby>有様<rt>ありさま</rt></ruby>で、その<ruby>散<rt>ち</rt></ruby>らかりようといったらありはしない。",
     "choices_ruby": [
       "に<ruby>値<rt>あたい</rt></ruby>する",
       "のも<ruby>無理<rt>むり</rt></ruby>はない",
@@ -12396,10 +12396,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらありはしない",
     "meaning_en": "utterly; extraordinarily bad",
     "similar": "〜といったらない / この上なく〜だ / 実に〜だ",
-    "sentence_jp": "繁忙期の経理部門の忙しさといったらありはしない、昼食をとる時間さえ惜しんで伝票処理に追われている。",
-    "sentence_furigana": "繁忙期の経理部門の忙しさといったらありはしない、昼食をとる時間さえ惜しんで伝票処理に追われている。",
-    "sentence_en": "The busyness of the accounting department during peak season is indescribable; they are pressed with processing slips, grudging even time for lunch.",
-    "question": "繁忙期の経理部門の忙しさ（　　　）、昼食をとる時間さえ惜しんで伝票処理に追われている。",
+    "sentence_jp": "繁忙期の経理部門は昼食をとる時間さえないほどで、その忙しさといったらありはしない。",
+    "sentence_furigana": "はんぼうきのけいりぶもんはちゅうしょくをとるじかんさえないほどで、そのいそがしさといったらありはしない。",
+    "sentence_en": "During the busy season, the accounting department barely even has time for lunch—how hectic it is defies description.",
+    "question": "繁忙期の経理部門は昼食をとる時間さえないほどで、その忙しさ（　　　）。",
     "choices": [
       "んがためだ",
       "をおいてほかにない",
@@ -12409,8 +12409,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "といったらありはしない",
     "notes": "<ruby>言葉<rt>ことば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>であることを<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて<ruby>述<rt>の</rt></ruby>べる<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさ（　　　）、<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえ<ruby>惜<rt>お</rt></ruby>しんで<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>に<ruby>追<rt>お</rt></ruby>われている。",
-    "sentence_jp_ruby": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらありはしない、<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえ<ruby>惜<rt>お</rt></ruby>しんで<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>に<ruby>追<rt>お</rt></ruby>われている。",
+    "question_ruby": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>は<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえないほどで、その<ruby>忙<rt>いそが</rt></ruby>しさ（　　　）。",
+    "sentence_jp_ruby": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>は<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえないほどで、その<ruby>忙<rt>いそが</rt></ruby>しさといったらありはしない。",
     "choices_ruby": [
       "んがためだ",
       "をおいてほかにない",
@@ -12426,10 +12426,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらありはしない",
     "meaning_en": "utterly; extraordinarily bad",
     "similar": "〜といったらない / この上なく〜だ / 実に〜だ",
-    "sentence_jp": "せっかく予約した旅館の接客の悪さといったらありはしない、二度と泊まりたくないと心底思った。",
-    "sentence_furigana": "せっかく予約した旅館の接客の悪さといったらありはしない、二度と泊まりたくないと心底思った。",
-    "sentence_en": "The poor service at the inn we went to the trouble of booking was utterly appalling; I thought from the bottom of my heart that I never want to stay there again.",
-    "question": "せっかく予約した旅館の接客の悪さ（　　　）、二度と泊まりたくないと心底思った。",
+    "sentence_jp": "評判を聞いて期待していた店なのだが、店員の態度があまりに冷たく、その接客の悪さといったらありはしない。",
+    "sentence_furigana": "ひょうばんをきいてきたいしていたみせなのだが、てんいんのたいどがあまりにつめたく、そのせっきゃくのわるさといったらありはしない。",
+    "sentence_en": "I had high expectations after hearing good reviews about the shop, yet the staff's attitude is so cold—their poor customer service is unbelievable.",
+    "question": "評判を聞いて期待していた店なのだが、店員の態度があまりに冷たく、その接客の悪さ（　　　）。",
     "choices": [
       "のみか",
       "といったらありはしない",
@@ -12439,8 +12439,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "といったらありはしない",
     "notes": "<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>不満<rt>ふまん</rt></ruby>や<ruby>呆<rt>あき</rt></ruby>れの<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>文脈<rt>ぶんみゃく</rt></ruby>でよく<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "せっかく<ruby>予約<rt>よやく</rt></ruby>した<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さ（　　　）、<ruby>二度<rt>にど</rt></ruby>と<ruby>泊<rt>と</rt></ruby>まりたくないと<ruby>心底<rt>しんそこ</rt></ruby><ruby>思<rt>おも</rt></ruby>った。",
-    "sentence_jp_ruby": "せっかく<ruby>予約<rt>よやく</rt></ruby>した<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さといったらありはしない、<ruby>二度<rt>にど</rt></ruby>と<ruby>泊<rt>と</rt></ruby>まりたくないと<ruby>心底<rt>しんそこ</rt></ruby><ruby>思<rt>おも</rt></ruby>った。",
+    "question_ruby": "<ruby>評判<rt>ひょうばん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて<ruby>期待<rt>きたい</rt></ruby>していた<ruby>店<rt>みせ</rt></ruby>なのだが、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>があまりに<ruby>冷<rt>つめ</rt></ruby>たく、その<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さ（　　　）。",
+    "sentence_jp_ruby": "<ruby>評判<rt>ひょうばん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて<ruby>期待<rt>きたい</rt></ruby>していた<ruby>店<rt>みせ</rt></ruby>なのだが、<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>があまりに<ruby>冷<rt>つめ</rt></ruby>たく、その<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さといったらありはしない。",
     "choices_ruby": [
       "のみか",
       "といったらありはしない",
@@ -12456,10 +12456,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "といったらありはしない",
     "meaning_en": "utterly; extraordinarily bad",
     "similar": "〜といったらない / この上なく〜だ / 実に〜だ",
-    "sentence_jp": "引っ越し直後の部屋の乱雑さといったらありはしない、段ボール箱の山で足の踏み場もない状態だ。",
-    "sentence_furigana": "引っ越し直後の部屋の乱雑さといったらありはしない、段ボール箱の山で足の踏み場もない状態だ。",
-    "sentence_en": "The clutter of the room right after moving in is beyond words; with mountains of cardboard boxes, there is nowhere even to step.",
-    "question": "引っ越し直後の部屋の乱雑さ（　　　）、段ボール箱の山で足の踏み場もない状態だ。",
+    "sentence_jp": "引っ越し直後の部屋は段ボール箱の山で足の踏み場もなく、その乱雑さといったらありはしない。",
+    "sentence_furigana": "ひっこしちょくごのへやはだんボールばこのやまであしのふみじょうもなく、そのらんざつさといったらありはしない。",
+    "sentence_en": "Right after moving in, the room has nowhere to step with mountains of cardboard boxes—its messiness is beyond words.",
+    "question": "引っ越し直後の部屋は段ボール箱の山で足の踏み場もなく、その乱雑さ（　　　）。",
     "choices": [
       "といったらありはしない",
       "んとする",
@@ -12469,8 +12469,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "といったらありはしない",
     "notes": "<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>した<ruby>形<rt>けい</rt></ruby><ruby>容<rt>よう</rt></ruby><ruby>詞<rt>ことば</rt></ruby>（「〜さ」）や「〜よう」につく<ruby>形<rt>かたち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>です。",
-    "question_ruby": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>乱雑<rt>らんざつ</rt></ruby>さ（　　　）、<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もない<ruby>状態<rt>じょうたい</rt></ruby>だ。",
-    "sentence_jp_ruby": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>乱雑<rt>らんざつ</rt></ruby>さといったらありはしない、<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もない<ruby>状態<rt>じょうたい</rt></ruby>だ。",
+    "question_ruby": "<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もなく、その<ruby>乱雑<rt>らんざつ</rt></ruby>さ（　　　）。",
+    "sentence_jp_ruby": "<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もなく、その<ruby>乱雑<rt>らんざつ</rt></ruby>さといったらありはしない。",
     "choices_ruby": [
       "といったらありはしない",
       "んとする",
@@ -12487,7 +12487,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the pinnacle of; utmost",
     "similar": "〜の極み / この上なく〜だ / 誠に〜だ",
     "sentence_jp": "伝統ある本賞を賜りましたことは、私にとりまして誠に光栄の至りでございます。",
-    "sentence_furigana": "伝統ある本賞を賜りましたことは、私にとりまして誠に光栄の至りでございます。",
+    "sentence_furigana": "でんとうあるほんしょうをたまわりましたことは、わたしにとりましてまことにこうえいのいたりでございます。",
     "sentence_en": "Receiving this prestigious, time-honored award is truly the utmost honor for me.",
     "question": "伝統ある本賞を賜りましたことは、私にとりまして誠に光栄（　　　）でございます。",
     "choices": [
@@ -12517,7 +12517,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the pinnacle of; utmost",
     "similar": "〜の極み / この上なく〜だ / 誠に〜だ",
     "sentence_jp": "学生時代に無謀な冒険をして両親に心配をかけたのは、今思えば若気の至りだったと反省している。",
-    "sentence_furigana": "学生時代に無謀な冒険をして両親に心配をかけたのは、今思えば若気の至りだったと反省している。",
+    "sentence_furigana": "がくせいじだいにむぼうなぼうけんをしてりょうしんにしんぱいをかけたのは、いまおもえばわかげのいたりだったとはんせいしている。",
     "sentence_en": "Looking back now, I reflect that making reckless adventures in my student days and worrying my parents was the height of youthful folly.",
     "question": "学生時代に無謀な冒険をして両親に心配をかけたのは、今思えば若気（　　　）だったと反省している。",
     "choices": [
@@ -12547,7 +12547,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the pinnacle of; utmost",
     "similar": "〜の極み / この上なく〜だ / 誠に〜だ",
     "sentence_jp": "専門家である皆様の前でこのような初歩的な誤りを犯してしまい、ただただ赤面の至りです。",
-    "sentence_furigana": "専門家である皆様の前でこのような初歩的な誤りを犯してしまい、ただただ赤面の至りです。",
+    "sentence_furigana": "せんもんかであるみなさまのまえでこのようなしょほてきなあやまりをおかしてしまい、ただただせきめんのいたりです。",
     "sentence_en": "Having made such an elementary mistake in front of all of you experts, I am simply utterly ashamed.",
     "question": "専門家である皆様の前でこのような初歩的な誤りを犯してしまい、ただただ赤面（　　　）です。",
     "choices": [
@@ -12577,7 +12577,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the pinnacle of; utmost",
     "similar": "〜の極み / この上なく〜だ / 誠に〜だ",
     "sentence_jp": "ご多忙中にもかかわらず温かいお心遣いをいただき、恐縮の至りに存じます。",
-    "sentence_furigana": "ご多忙中にもかかわらず温かいお心遣いをいただき、恐縮の至りに存じます。",
+    "sentence_furigana": "ごたぼうちゅうにもかかわらずあたたかいおこころづかいをいただき、きょうしゅくのいたりにぞんじます。",
     "sentence_en": "I feel utterly humbled and grateful to receive your warm consideration despite your busy schedule.",
     "question": "ご多忙中にもかかわらず温かいお心遣いをいただき、恐縮（　　　）に存じます。",
     "choices": [
@@ -12607,7 +12607,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the peak of; height of",
     "similar": "〜の至り / 〜の極致 / この上ない〜",
     "sentence_jp": "連日の猛暑と長距離の移動が重なり、調査隊のメンバーは疲労の極みに達していた。",
-    "sentence_furigana": "連日の猛暑と長距離の移動が重なり、調査隊のメンバーは疲労の極みに達していた。",
+    "sentence_furigana": "れんじつのもうしょとちょうきょりのいどうがかさなり、ちょうさたいのメンバーはひろうのきわみにたっしていた。",
     "sentence_en": "With consecutive days of scorching heat combined with long-distance travel, the research team members had reached the peak of exhaustion.",
     "question": "連日の猛暑と長距離の移動が重なり、調査隊のメンバーは疲労（　　　）に達していた。",
     "choices": [
@@ -12637,7 +12637,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the peak of; height of",
     "similar": "〜の至り / 〜の極致 / この上ない〜",
     "sentence_jp": "あと一歩で優勝を逃してしまったことは、チーム全員にとってまさに痛恨の極みだった。",
-    "sentence_furigana": "あと一歩で優勝を逃してしまったことは、チーム全員にとってまさに痛恨の極みだった。",
+    "sentence_furigana": "あといちほでゆうしょうをのがしてしまったことは、チームぜんいんにとってまさにつうこんのきわみだった。",
     "sentence_en": "Missing out on the championship by just one step was truly the height of bitter regret for the entire team.",
     "question": "あと一歩で優勝を逃してしまったことは、チーム全員にとってまさに痛恨（　　　）だった。",
     "choices": [
@@ -12667,7 +12667,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the peak of; height of",
     "similar": "〜の至り / 〜の極致 / この上ない〜",
     "sentence_jp": "厳選された旬の食材を貸し切りの空間で味わうとは、これ以上ない贅沢の極みと言えるだろう。",
-    "sentence_furigana": "厳選された旬の食材を貸し切りの空間で味わうとは、これ以上ない贅沢の極みと言えるだろう。",
+    "sentence_furigana": "げんせんされたしゅんのしょくざいをかしきりのくうかんであじわうとは、これいじょうないぜいたくのきわみといえるだろう。",
     "sentence_en": "Savoring carefully selected seasonal ingredients in a private space can truly be called the pinnacle of luxury.",
     "question": "厳選された旬の食材を貸し切りの空間で味わうとは、これ以上ない贅沢（　　　）と言えるだろう。",
     "choices": [
@@ -12697,7 +12697,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the peak of; height of",
     "similar": "〜の至り / 〜の極致 / この上ない〜",
     "sentence_jp": "恩人の親切を裏切るような彼の振る舞いは、礼儀を欠いた無礼の極みだと厳しく批判された。",
-    "sentence_furigana": "恩人の親切を裏切るような彼の振る舞いは、礼儀を欠いた無礼の極みだと厳しく批判された。",
+    "sentence_furigana": "おんじんのしんせつをうらぎるようなかれのふるまいは、れいぎをかいたぶれいのきわみだときびしくひはんされた。",
     "sentence_en": "His behavior, which betrayed the kindness of his benefactor, was severely criticized as the height of rudeness lacking all manners.",
     "question": "恩人の親切を裏切るような彼の振る舞いは、礼儀を欠いた無礼（　　　）だと厳しく批判された。",
     "choices": [
@@ -12727,7 +12727,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not even a single",
     "similar": "〜すら〜ない / 〜さえ〜ない / 少しも〜ない",
     "sentence_jp": "市民から預かった大切な予算は、たとえ一円たりとも無駄にすることは許されない。",
-    "sentence_furigana": "市民から預かった大切な予算は、たとえ一円たりとも無駄にすることは許されない。",
+    "sentence_furigana": "しみんからあずかったたいせつなよさんは、たとえいちえんたりともむだにすることはゆるされない。",
     "sentence_en": "Not even a single yen of the precious budget entrusted to us by the citizens is permitted to be wasted.",
     "question": "市民から預かった大切な予算は、たとえ一円（　　　）無駄にすることは許されない。",
     "choices": [
@@ -12756,10 +12756,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "たりともない",
     "meaning_en": "not even a single",
     "similar": "〜すら〜ない / 〜さえ〜ない / 少しも〜ない",
-    "sentence_jp": "最終審査の本番が近づき、出場者たちは一秒たりとも惜しんで最後のリハーサルに打ち込んだ。",
-    "sentence_furigana": "最終審査の本番が近づき、出場者たちは一秒たりとも惜しんで最後のリハーサルに打ち込んだ。",
-    "sentence_en": "As the final judging approached, the contestants devoted themselves to the final rehearsal, grudging even a single second.",
-    "question": "最終審査の本番が近づき、出場者たちは一秒（　　　）惜しんで最後のリハーサルに打ち込んだ。",
+    "sentence_jp": "最終審査の本番が近づき、出場者たちは一秒たりとも無駄にせず最後のリハーサルに打ち込んだ。",
+    "sentence_furigana": "さいしゅうしんさのほんばんがちかづき、しゅつじょうしゃたちはいちびょうたりともむだにせずさいごのリハーサルにうちこんだ。",
+    "sentence_en": "As the final judging approached, the contestants threw themselves into their final rehearsal without wasting even a single second.",
+    "question": "最終審査の本番が近づき、出場者たちは一秒（　　　）無駄にせず最後のリハーサルに打ち込んだ。",
     "choices": [
       "はおろか",
       "にいたっては",
@@ -12769,8 +12769,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "たりとも",
     "notes": "「<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>たりとも<ruby>惜<rt>お</rt></ruby>しむ（<ruby>無駄<rt>むだ</rt></ruby>にしない）」のように、わずかな<ruby>時間<rt>じかん</rt></ruby>も<ruby>無駄<rt>むだ</rt></ruby>にできない<ruby>緊迫<rt>きんぱく</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>（　　　）<ruby>惜<rt>お</rt></ruby>しんで<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打<rt>う</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>んだ。",
-    "sentence_jp_ruby": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>たりとも<ruby>惜<rt>お</rt></ruby>しんで<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打<rt>う</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>んだ。",
+    "question_ruby": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>（　　　）<ruby>無駄<rt>むだ</rt></ruby>にせず<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打ち込<rt>うちこ</rt></ruby>んだ。",
+    "sentence_jp_ruby": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>たりとも<ruby>無駄<rt>むだ</rt></ruby>にせず<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打ち込<rt>うちこ</rt></ruby>んだ。",
     "choices_ruby": [
       "はおろか",
       "にいたっては",
@@ -12787,7 +12787,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not even a single",
     "similar": "〜すら〜ない / 〜さえ〜ない / 少しも〜ない",
     "sentence_jp": "貴重な水資源を守るため、砂漠の緑化施設では水を一滴たりとも漏らさない循環設備が導入されている。",
-    "sentence_furigana": "貴重な水資源を守るため、砂漠の緑化施設では水を一滴たりとも漏らさない循環設備が導入されている。",
+    "sentence_furigana": "きちょうなみずしげんをまもるため、さばくのりょくかしせつではみずをいってきたりとももらさないじゅんかんせつびがどうにゅうされている。",
     "sentence_en": "To protect precious water resources, the desert greening facility has introduced a circulation system that does not leak even a single drop of water.",
     "question": "貴重な水資源を守るため、砂漠の緑化施設では水を一滴（　　　）漏らさない循環設備が導入されている。",
     "choices": [
@@ -12817,7 +12817,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not even a single",
     "similar": "〜すら〜ない / 〜さえ〜ない / 少しも〜ない",
     "sentence_jp": "重要文化財が保管されている収蔵庫には、関係者以外は何人たりとも立ち入ることができない。",
-    "sentence_furigana": "重要文化財が保管されている収蔵庫には、関係者以外は何人たりとも立ち入ることができない。",
+    "sentence_furigana": "じゅうようぶんかざいがほかんされているしゅうぞうこには、かんけいしゃいがいはなんにんたりともたちいることができない。",
     "sentence_en": "No one whatsoever other than authorized personnel is allowed to enter the repository where important cultural properties are stored.",
     "question": "重要文化財が保管されている収蔵庫には、関係者以外は何人（　　　）立ち入ることができない。",
     "choices": [
@@ -12847,7 +12847,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "none other than",
     "similar": "〜をおいてない / 〜以外にない / 〜しかない",
     "sentence_jp": "百年の歴史を持つ老舗旅館の再建を託せる人物は、現場を知り尽くした彼をおいてほかにない。",
-    "sentence_furigana": "百年の歴史を持つ老舗旅館の再建を託せる人物は、現場を知り尽くした彼をおいてほかにない。",
+    "sentence_furigana": "ひゃくねんのれきしをもつしにせりょかんのさいけんをたくせるじんぶつは、げんばをしりつくしたかれをおいてほかにない。",
     "sentence_en": "There is no one other than him, who knows the workplace inside and out, to whom we can entrust the rebuilding of the century-old inn.",
     "question": "百年の歴史を持つ老舗旅館の再建を託せる人物は、現場を知り尽くした彼（　　　）。",
     "choices": [
@@ -12877,7 +12877,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "none other than",
     "similar": "〜をおいてない / 〜以外にない / 〜しかない",
     "sentence_jp": "生態系を守りながら地域経済を活性化させる道は、持続可能な自然観光の推進をおいてほかにない。",
-    "sentence_furigana": "生態系を守りながら地域経済を活性化させる道は、持続可能な自然観光の推進をおいてほかにない。",
+    "sentence_furigana": "せいたいけいをまもりながらちいきけいざいをかっせいかさせるみちは、じぞくかのうなしぜんかんこうのすいしんをおいてほかにない。",
     "sentence_en": "The path to revitalizing the local economy while protecting the ecosystem lies in none other than promoting sustainable eco-tourism.",
     "question": "生態系を守りながら地域経済を活性化させる道は、持続可能な自然観光の推進（　　　）。",
     "choices": [
@@ -12906,10 +12906,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "をおいてほかにない",
     "meaning_en": "none other than",
     "similar": "〜をおいてない / 〜以外にない / 〜しかない",
-    "sentence_jp": "これほど緻密な木彫りの装飾を再現できる職人は、現代においては山本名人の右に出る者をおいてほかにないと言われるほど、名人をおいてほかにない。",
-    "sentence_furigana": "これほど緻密な木彫りの装飾を再現できる職人は、現代においては山本名人の右に出る者をおいてほかにないと言われるほど、名人をおいてほかにない。",
-    "sentence_en": "When it comes to an artisan who can reproduce such intricate wood-carved ornaments, there is truly no one today other than Master Yamamoto.",
-    "question": "これほど緻密な木彫りの装飾を再現できる職人は、現代においては山本名人の右に出る者（　　　）と言われるほど、名人をおいてほかにない。",
+    "sentence_jp": "これほど緻密な木彫りの装飾を再現できる職人は、現代においては山本名人をおいてほかにない。",
+    "sentence_furigana": "これほどちみつなきぼりのそうしょくをさいげんできるしょくにんは、げんだいにおいてはやまもとめいじんをおいてほかにない。",
+    "sentence_en": "In the present day, there is no craftsman other than Master Yamamoto who can reproduce such intricate wood-carved decorations.",
+    "question": "これほど緻密な木彫りの装飾を再現できる職人は、現代においては山本名人（　　　）。",
     "choices": [
       "ないことにはならない",
       "からといってだ",
@@ -12919,8 +12919,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "をおいてほかにない",
     "notes": "<ruby>唯一<rt>ゆいいつ</rt></ruby><ruby>無二<rt>むに</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>や<ruby>才能<rt>さいのう</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人物<rt>じんぶつ</rt></ruby>を<ruby>称<rt>たた</rt></ruby>える<ruby>際<rt>さい</rt></ruby>によく<ruby>用<rt>もち</rt></ruby>いられます。",
-    "question_ruby": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>の<ruby>右<rt>みぎ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>者<rt>もの</rt></ruby>（　　　）と<ruby>言<rt>い</rt></ruby>われるほど、<ruby>名人<rt>めいじん</rt></ruby>をおいてほかにない。",
-    "sentence_jp_ruby": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>の<ruby>右<rt>みぎ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>者<rt>もの</rt></ruby>をおいてほかにないと<ruby>言<rt>い</rt></ruby>われるほど、<ruby>名人<rt>めいじん</rt></ruby>をおいてほかにない。",
+    "question_ruby": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>（　　　）。",
+    "sentence_jp_ruby": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>をおいてほかにない。",
     "choices_ruby": [
       "ないことにはならない",
       "からといってだ",
@@ -12937,7 +12937,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "none other than",
     "similar": "〜をおいてない / 〜以外にない / 〜しかない",
     "sentence_jp": "抜本的な業務改革に踏み切るタイミングは、新システムへの移行が完了した今をおいてほかにない。",
-    "sentence_furigana": "抜本的な業務改革に踏み切るタイミングは、新システムへの移行が完了した今をおいてほかにない。",
+    "sentence_furigana": "ばっぽんてきなぎょうむかいかくにふみきるタイミングは、しんシステムへのいこうがかんりょうしたいまをおいてほかにない。",
     "sentence_en": "The timing to embark on fundamental business reform is none other than right now, when the transition to the new system has been completed.",
     "question": "抜本的な業務改革に踏み切るタイミングは、新システムへの移行が完了した今（　　　）。",
     "choices": [
@@ -12967,7 +12967,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; deserve",
     "similar": "〜だけの価値がある / 〜に足る / 〜にふさわしい",
     "sentence_jp": "長年の実験の末に希少疾患の治療法を確立した研究チームの功績は、最高の称賛に値する。",
-    "sentence_furigana": "長年の実験の末に希少疾患の治療法を確立した研究チームの功績は、最高の称賛に値する。",
+    "sentence_furigana": "ながねんのじっけんのすえにきしょうしっかんのちりょうほうをかくりつしたけんきゅうチームのこうせきは、さいこうのしょうさんにあたいする。",
     "sentence_en": "The achievement of the research team that established a treatment for a rare disease after years of experiments is worthy of the highest praise.",
     "question": "長年の実験の末に希少疾患の治療法を確立した研究チームの功績は、最高の称賛（　　　）。",
     "choices": [
@@ -12997,7 +12997,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; deserve",
     "similar": "〜だけの価値がある / 〜に足る / 〜にふさわしい",
     "sentence_jp": "若手社員が提案した資源循環型のパッケージ設計は、実現可能性が高く十分に検討するに値するアイデアだ。",
-    "sentence_furigana": "若手社員が提案した資源循環型のパッケージ設計は、実現可能性が高く十分に検討するに値するアイデアだ。",
+    "sentence_furigana": "わかてしゃいんがていあんしたしげんじゅんかんがたのパッケージせっけいは、じつげんかのうせいがたかくじゅうぶんにけんとうするにあたいするアイデアだ。",
     "sentence_en": "The resource-circulating package design proposed by the young employee has high feasibility and is an idea well worth examining.",
     "question": "若手社員が提案した資源循環型のパッケージ設計は、実現可能性が高く十分に検討する（　　　）アイデアだ。",
     "choices": [
@@ -13027,7 +13027,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; deserve",
     "similar": "〜だけの価値がある / 〜に足る / 〜にふさわしい",
     "sentence_jp": "世界中の天文学者が長年謎としてきた現象を解明した今回の論文は、まさに驚嘆に値する発見と言える。",
-    "sentence_furigana": "世界中の天文学者が長年謎としてきた現象を解明した今回の論文は、まさに驚嘆に値する発見と言える。",
+    "sentence_furigana": "せかいじゅうのてんもんがくしゃがながねんなぞとしてきたげんしょうをかいめいしたこんかいのろんぶんは、まさにきょうたんにあたいするはっけんといえる。",
     "sentence_en": "This paper, which elucidated a phenomenon that astronomers around the world had considered a mystery for years, can truly be called a discovery worthy of wonder.",
     "question": "世界中の天文学者が長年謎としてきた現象を解明した今回の論文は、まさに驚嘆（　　　）発見と言える。",
     "choices": [
@@ -13057,7 +13057,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "worthy of; deserve",
     "similar": "〜だけの価値がある / 〜に足る / 〜にふさわしい",
     "sentence_jp": "根拠のないうわさ話など一顧だにしない彼の毅然とした態度は、リーダーとして大いに尊敬に値する。",
-    "sentence_furigana": "根拠のないうわさ話など一顧だにしない彼の毅然とした態度は、リーダーとして大いに尊敬に値する。",
+    "sentence_furigana": "こんきょのないうわさばなしなどいっこだにしないかれのきぜんとしたたいどは、リーダーとしておおいにそんけいにあたいする。",
     "sentence_en": "His resolute attitude of not paying the slightest heed to groundless rumors is greatly worthy of respect as a leader.",
     "question": "根拠のないうわさ話など一顧だにしない彼の毅然とした態度は、リーダーとして大いに尊敬（　　　）。",
     "choices": [
@@ -13087,7 +13087,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not hard to imagine/foresee",
     "similar": "容易に〜できる / 〜は難しくない / 簡単に〜できる",
     "sentence_jp": "丹精込めて育てた果樹園が台風で被害を受け、農家の人々がどれほど落胆しているかは想像に難くない。",
-    "sentence_furigana": "丹精込めて育てた果樹園が台風で被害を受け、農家の人々がどれほど落胆しているかは想像に難くない。",
+    "sentence_furigana": "たんせいこめてそだてたかじゅえんがたいふうでひがいをうけ、のうかのひとびとがどれほどらくたんしているかはそうぞうにかたくない。",
     "sentence_en": "It is not hard to imagine how disheartened the farmers must be after the orchard they raised with such care was damaged by the typhoon.",
     "question": "丹精込めて育てた果樹園が台風で被害を受け、農家の人々がどれほど落胆しているかは想像（　　　）。",
     "choices": [
@@ -13117,7 +13117,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not hard to imagine/foresee",
     "similar": "容易に〜できる / 〜は難しくない / 簡単に〜できる",
     "sentence_jp": "慣れない海外赴任先でひとり奮闘していた当時の彼の苦労は、残された業務日誌からも察するに難くない。",
-    "sentence_furigana": "慣れない海外赴任先でひとり奮闘していた当時の彼の苦労は、残された業務日誌からも察するに難くない。",
+    "sentence_furigana": "なれないかいがいふにんさきでひとりふんとうしていたとうじのかれのくろうは、のこされたぎょうむにっしからもさっするにかたくない。",
     "sentence_en": "It is not hard to surmise from the remaining work logs the hardships he faced while struggling alone at an unfamiliar overseas post.",
     "question": "慣れない海外赴任先でひとり奮闘していた当時の彼の苦労は、残された業務日誌からも察する（　　　）。",
     "choices": [
@@ -13147,7 +13147,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not hard to imagine/foresee",
     "similar": "容易に〜できる / 〜は難しくない / 簡単に〜できる",
     "sentence_jp": "十分な事前説明もないまま計画が変更されれば、住民から反発の声が上がるのは予想するに難くないことだ。",
-    "sentence_furigana": "十分な事前説明もないまま計画が変更されれば、住民から反発の声が上がるのは予想するに難くないことだ。",
+    "sentence_furigana": "じゅうぶんなじぜんせつめいもないままけいかくがへんこうされれば、じゅうみんからはんぱつのこえがあがるのはよそうするにかたくないことだ。",
     "sentence_en": "If the plan is changed without sufficient prior explanation, it is not hard to foresee that voices of opposition will rise from the residents.",
     "question": "十分な事前説明もないまま計画が変更されれば、住民から反発の声が上がるのは予想する（　　　）ことだ。",
     "choices": [
@@ -13177,7 +13177,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not hard to imagine/foresee",
     "similar": "容易に〜できる / 〜は難しくない / 簡単に〜できる",
     "sentence_jp": "創業以来の看板製品を手放す経営陣の苦渋の決断は、同業者として理解するに難くない。",
-    "sentence_furigana": "創業以来の看板製品を手放す経営陣の苦渋の決断は、同業者として理解するに難くない。",
+    "sentence_furigana": "そうぎょういらいのかんばんせいひんをてばなすけいえいじんのくじゅうのけつだんは、どうぎょうしゃとしてりかいするにかたくない。",
     "sentence_en": "As someone in the same industry, it is not difficult to understand the agonizing decision of the management team to let go of their flagship product since the company's founding.",
     "question": "創業以来の看板製品を手放す経営陣の苦渋の決断は、同業者として理解する（　　　）。",
     "choices": [
@@ -13207,7 +13207,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot endure; can’t stand",
     "similar": "〜てはたまらない / 〜たらやりきれない / 我慢できない",
     "sentence_jp": "取引先からこう毎日のように仕様変更を要求されてはかなわないと、開発現場から悲鳴が上がっている。",
-    "sentence_furigana": "取引先からこう毎日のように仕様変更を要求されてはかなわないと、開発現場から悲鳴が上がっている。",
+    "sentence_furigana": "とりひきさきからこうまいにちのようにしようへんこうをようきゅうされてはかなわないと、かいはつげんばからひめいがあがっている。",
     "sentence_en": "With the client demanding specification changes almost every single day like this, the development team is crying out that they cannot stand it.",
     "question": "取引先からこう毎日のように仕様変更を要求され（　　　）と、開発現場から悲鳴が上がっている。",
     "choices": [
@@ -13237,7 +13237,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot endure; can’t stand",
     "similar": "〜てはたまらない / 〜たらやりきれない / 我慢できない",
     "sentence_jp": "梅雨入りしてからというもの、こう来る日も来る日も雨ばかり降ってはかなわないね。",
-    "sentence_furigana": "梅雨入りしてからというもの、こう来る日も来る日も雨ばかり降ってはかなわないね。",
+    "sentence_furigana": "つゆいりしてからというもの、こうくるひもくるひもあめばかりふってはかなわないね。",
     "sentence_en": "Ever since the rainy season started, we really can't stand it raining day after day like this.",
     "question": "梅雨入りしてからというもの、こう来る日も来る日も雨ばかり降っ（　　　）ね。",
     "choices": [
@@ -13267,7 +13267,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot endure; can’t stand",
     "similar": "〜てはたまらない / 〜たらやりきれない / 我慢できない",
     "sentence_jp": "会議のたびに方針が二転三転してはかなわないから、まずは基本計画を文書で確定させてほしい。",
-    "sentence_furigana": "会議のたびに方針が二転三転してはかなわないから、まずは基本計画を文書で確定させてほしい。",
+    "sentence_furigana": "かいぎのたびにほうしんがにてんさんてんしてはかなわないから、まずはきほんけいかくをぶんしょでかくていさせてほしい。",
     "sentence_en": "We can't cope if the policy keeps flip-flopping at every meeting, so please finalize the basic plan in writing first.",
     "question": "会議のたびに方針が二転三転し（　　　）から、まずは基本計画を文書で確定させてほしい。",
     "choices": [
@@ -13297,7 +13297,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot endure; can’t stand",
     "similar": "〜てはたまらない / 〜たらやりきれない / 我慢できない",
     "sentence_jp": "せっかく植えた野菜の苗をイノシシに次々と荒らされてはかなわないので、畑の周囲に防護柵を設置した。",
-    "sentence_furigana": "せっかく植えた野菜の苗をイノシシに次々と荒らされてはかなわないので、畑の周囲に防護柵を設置した。",
+    "sentence_furigana": "せっかくうえたやさいのなえをイノシシにつぎつぎとあらされてはかなわないので、はたけのしゅういにぼうごしがらみをせっちした。",
     "sentence_en": "Since we couldn't bear having the vegetable seedlings we planted ravaged one after another by wild boars, we installed a protective fence around the field.",
     "question": "せっかく植えた野菜の苗をイノシシに次々と荒らされ（　　　）ので、畑の周囲に防護柵を設置した。",
     "choices": [
@@ -13327,7 +13327,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unbearably; cannot help feeling",
     "similar": "〜てしかたがない / 〜てしょうがない / 〜てはかなわない",
     "sentence_jp": "繁忙期にベテラン社員にまで休まれてはたまらないから、シフトの無理がないよう早めに調整しよう。",
-    "sentence_furigana": "繁忙期にベテラン社員にまで休まれてはたまらないから、シフトの無理がないよう早めに調整しよう。",
+    "sentence_furigana": "はんぼうきにベテランしゃいんにまでやすまれてはたまらないから、シフトのむりがないようはやめにちょうせいしよう。",
     "sentence_en": "It would be unbearable if even our veteran staff took time off during the busy season, so let's adjust the shifts early to avoid overwork.",
     "question": "繁忙期にベテラン社員にまで休まれ（　　　）から、シフトの無理がないよう早めに調整しよう。",
     "choices": [
@@ -13356,26 +13356,26 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "てはたまらない",
     "meaning_en": "unbearably; cannot help feeling",
     "similar": "〜てしかたがない / 〜てしょうがない / 〜てはかなわない",
-    "sentence_jp": "三年ぶりに再会した恩師が私の研究を温かく褒めてくださり、嬉しくてたまらなかった。",
-    "sentence_furigana": "三年ぶりに再会した恩師が私の研究を温かく褒めてくださり、嬉しくてたまらなかった。",
-    "sentence_en": "My former mentor, whom I met again for the first time in three years, warmly praised my research, and I was unbearably happy.",
-    "question": "三年ぶりに再会した恩師が私の研究を温かく褒めてくださり、嬉しく（　　　）。",
+    "sentence_jp": "楽しみにしていた旅行の直前に体調を崩してはたまらないと思い、今週は早めに寝るようにしている。",
+    "sentence_furigana": "たのしみにしていたりょこうのちょくぜんにたいちょうをくずしてはたまらないとおもい、こんしゅうははやめにねるようにしている。",
+    "sentence_en": "Thinking it would be terrible to get sick right before the trip I've been looking forward to, I've been trying to go to bed early this week.",
+    "question": "楽しみにしていた旅行の直前に体調を崩し（　　　）と思い、今週は早めに寝るようにしている。",
     "choices": [
-      "てはならなかった",
+      "てからというもの",
       "てやまなかった",
-      "てからというものだった",
-      "てたまらなかった"
+      "てばかりいて",
+      "てはたまらない"
     ],
     "answer": 3,
-    "correct_text": "てたまらなかった",
+    "correct_text": "てはたまらない",
     "notes": "「〜てたまらない」は<ruby>感情<rt>かんじょう</rt></ruby>・<ruby>感覚<rt>かんかく</rt></ruby><ruby>形容詞<rt>けいようし</rt></ruby>について「<ruby>非常<rt>ひじょう</rt></ruby>に〜だ」と<ruby>強調<rt>きょうちょう</rt></ruby>します。",
-    "question_ruby": "<ruby>三年<rt>さんねん</rt></ruby>ぶりに<ruby>再会<rt>さいかい</rt></ruby>した<ruby>恩師<rt>おんし</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>かく<ruby>褒<rt>ほ</rt></ruby>めてくださり、<ruby>嬉<rt>うれ</rt></ruby>しく（　　　）。",
-    "sentence_jp_ruby": "<ruby>三年<rt>さんねん</rt></ruby>ぶりに<ruby>再会<rt>さいかい</rt></ruby>した<ruby>恩師<rt>おんし</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>かく<ruby>褒<rt>ほ</rt></ruby>めてくださり、<ruby>嬉<rt>うれ</rt></ruby>しくてたまらなかった。",
+    "question_ruby": "<ruby>楽<rt>たの</rt></ruby>しみにしていた<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>直前<rt>ちょくぜん</rt></ruby>に<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>し（　　　）と<ruby>思<rt>おも</rt></ruby>い、<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>寝<rt>ね</rt></ruby>るようにしている。",
+    "sentence_jp_ruby": "<ruby>楽<rt>たの</rt></ruby>しみにしていた<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>直前<rt>ちょくぜん</rt></ruby>に<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>してはたまらないと<ruby>思<rt>おも</rt></ruby>い、<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>めに<ruby>寝<rt>ね</rt></ruby>るようにしている。",
     "choices_ruby": [
-      "てはならなかった",
+      "てからというもの",
       "てやまなかった",
-      "てからというものだった",
-      "てたまらなかった"
+      "てばかりいて",
+      "てはたまらない"
     ],
     "correct_text_ruby": "てたまらなかった"
   },
@@ -13387,7 +13387,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unbearably; cannot help feeling",
     "similar": "〜てしかたがない / 〜てしょうがない / 〜てはかなわない",
     "sentence_jp": "大事なプレゼンの最中にプロジェクターが故障してはたまらないと思い、予備の機材も準備しておいた。",
-    "sentence_furigana": "大事なプレゼンの最中にプロジェクターが故障してはたまらないと思い、予備の機材も準備しておいた。",
+    "sentence_furigana": "だいじなプレゼンのさいちゅうにプロジェクターがこしょうしてはたまらないとおもい、よびのきざいもじゅんびしておいた。",
     "sentence_en": "Thinking it would be unbearable if the projector broke down in the middle of the important presentation, I prepared backup equipment as well.",
     "question": "大事なプレゼンの最中にプロジェクターが故障し（　　　）と思い、予備の機材も準備しておいた。",
     "choices": [
@@ -13417,7 +13417,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unbearably; cannot help feeling",
     "similar": "〜てしかたがない / 〜てしょうがない / 〜てはかなわない",
     "sentence_jp": "徹夜で仕上げた設計図のデータが消えてはたまらないので、クラウドと外付けハードディスクの両方に保存した。",
-    "sentence_furigana": "徹夜で仕上げた設計図のデータが消えてはたまらないので、クラウドと外付けハードディスクの両方に保存した。",
+    "sentence_furigana": "てつやでしあげたせっけいずのデータがきえてはたまらないので、クラウドとそとづけハードディスクのりょうほうにほぞんした。",
     "sentence_en": "Because I couldn't stand it if the blueprint data I stayed up all night finishing were lost, I saved it to both the cloud and an external hard drive.",
     "question": "徹夜で仕上げた設計図のデータが消え（　　　）ので、クラウドと外付けハードディスクの両方に保存した。",
     "choices": [
@@ -13447,7 +13447,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must never; shall not",
     "similar": "〜てはいけない / 決して〜べきではない / 〜べからず",
     "sentence_jp": "医療従事者たるもの、診察を通じて知り得た患者の個人情報を外部に漏らしてはならない。",
-    "sentence_furigana": "医療従事者たるもの、診察を通じて知り得た患者の個人情報を外部に漏らしてはならない。",
+    "sentence_furigana": "いりょうじゅうじしゃたるもの、しんさつをつうじてしりえたかんじゃのこじんじょうほうをがいぶにもらしてはならない。",
     "sentence_en": "Those in the medical profession must never leak patients' personal information learned through consultations to the outside.",
     "question": "医療従事者たるもの、診察を通じて知り得た患者の個人情報を外部に漏らし（　　　）。",
     "choices": [
@@ -13477,7 +13477,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must never; shall not",
     "similar": "〜てはいけない / 決して〜べきではない / 〜べからず",
     "sentence_jp": "どれほど技術が進歩しようとも、自然環境への敬意と謙虚さを忘れてはならないと多くの科学者が警鐘を鳴らしている。",
-    "sentence_furigana": "どれほど技術が進歩しようとも、自然環境への敬意と謙虚さを忘れてはならないと多くの科学者が警鐘を鳴らしている。",
+    "sentence_furigana": "どれほどぎじゅつがしんぽしようとも、しぜんかんきょうへのけいいとけんきょさをわすれてはならないとおおくのかがくしゃがけいしょうをならしている。",
     "sentence_en": "Many scientists are sounding the alarm that no matter how much technology advances, we must never forget respect and humility toward the natural environment.",
     "question": "どれほど技術が進歩しようとも、自然環境への敬意と謙虚さを忘れ（　　　）と多くの科学者が警鐘を鳴らしている。",
     "choices": [
@@ -13507,7 +13507,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must never; shall not",
     "similar": "〜てはいけない / 決して〜べきではない / 〜べからず",
     "sentence_jp": "過去の災害の教訓を風化させてはならないという思いから、毎年地域で防災訓練が実施されている。",
-    "sentence_furigana": "過去の災害の教訓を風化させてはならないという思いから、毎年地域で防災訓練が実施されている。",
+    "sentence_furigana": "かこのさいがいのきょうくんをふうかさせてはならないというおもいから、まいとしちいきでぼうさいくんれんがじっしされている。",
     "sentence_en": "Out of the conviction that the lessons of past disasters must never be allowed to fade, disaster prevention drills are held in the community every year.",
     "question": "過去の災害の教訓を風化させ（　　　）という思いから、毎年地域で防災訓練が実施されている。",
     "choices": [
@@ -13537,7 +13537,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must never; shall not",
     "similar": "〜てはいけない / 決して〜べきではない / 〜べからず",
     "sentence_jp": "公正であるべき審査において、審査員の個人的な好みが採点に影響を及ぼしてはならないのは当然のことだ。",
-    "sentence_furigana": "公正であるべき審査において、審査員の個人的な好みが採点に影響を及ぼしてはならないのは当然のことだ。",
+    "sentence_furigana": "こうせいであるべきしんさにおいて、しんさいんのこじんてきなこのみがさいてんにえいきょうをおよぼしてはならないのはとうぜんのことだ。",
     "sentence_en": "In a judging process that must be fair, it is only natural that the judges' personal preferences must never influence the scoring.",
     "question": "公正であるべき審査において、審査員の個人的な好みが採点に影響を及ぼし（　　　）のは当然のことだ。",
     "choices": [
@@ -13567,7 +13567,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot resist doing; compelled to",
     "similar": "〜ずにはいられない / 〜ないわけにはいかない / 思わず〜してしまう",
     "sentence_jp": "逆境の中でも笑顔を絶やさず懸命に努力する彼女の姿を見ると、応援しないではいられない。",
-    "sentence_furigana": "逆境の中でも笑顔を絶やさず懸命に努力する彼女の姿を見ると、応援しないではいられない。",
+    "sentence_furigana": "ぎゃっきょうのなかでもえがおをたやさずけんめいにどりょくするかのじょのすがたをみると、おうえんしないではいられない。",
     "sentence_en": "When I see her working so hard without ever losing her smile even in adversity, I cannot help cheering for her.",
     "question": "逆境の中でも笑顔を絶やさず懸命に努力する彼女の姿を見ると、応援し（　　　）。",
     "choices": [
@@ -13597,7 +13597,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot resist doing; compelled to",
     "similar": "〜ずにはいられない / 〜ないわけにはいかない / 思わず〜してしまう",
     "sentence_jp": "恩師が長年の研究をまとめた遺稿集を読み返すたびに、感謝の念を抱かないではいられない。",
-    "sentence_furigana": "恩師が長年の研究をまとめた遺稿集を読み返すたびに、感謝の念を抱かないではいられない。",
+    "sentence_furigana": "おんしがながねんのけんきゅうをまとめたいこうしゅうをよみかえすたびに、かんしゃのねんをいだかないではいられない。",
     "sentence_en": "Every time I reread the posthumous collection compiling my mentor's years of research, I cannot help feeling a deep sense of gratitude.",
     "question": "恩師が長年の研究をまとめた遺稿集を読み返すたびに、感謝の念を抱か（　　　）。",
     "choices": [
@@ -13627,7 +13627,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot resist doing; compelled to",
     "similar": "〜ずにはいられない / 〜ないわけにはいかない / 思わず〜してしまう",
     "sentence_jp": "あまりにユーモラスな彼の語り口に、厳粛な会場の聴衆も思わず笑わないではいられなかった。",
-    "sentence_furigana": "あまりにユーモラスな彼の語り口に、厳粛な会場の聴衆も思わず笑わないではいられなかった。",
+    "sentence_furigana": "あまりにユーモラスなかれのかたりくちに、げんしゅくなかいじょうのちょうしゅうもおもわずわらわないではいられなかった。",
     "sentence_en": "At his utterly humorous way of speaking, even the audience in the solemn hall could not help laughing involuntarily.",
     "question": "あまりにユーモラスな彼の語り口に、厳粛な会場の聴衆も思わず笑わ（　　　）。",
     "choices": [
@@ -13657,7 +13657,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot resist doing; compelled to",
     "similar": "〜ずにはいられない / 〜ないわけにはいかない / 思わず〜してしまう",
     "sentence_jp": "自分の作品が本当に世の中に受け入れられるのか、発表の前夜は不安を感じないではいられなかった。",
-    "sentence_furigana": "自分の作品が本当に世の中に受け入れられるのか、発表の前夜は不安を感じないではいられなかった。",
+    "sentence_furigana": "じぶんのさくひんがほんとうによのなかにうけいれられるのか、はっぴょうのぜんやはふあんをかんじないではいられなかった。",
     "sentence_en": "On the eve of the release, I could not help feeling anxious about whether my work would truly be accepted by the world.",
     "question": "自分の作品が本当に世の中に受け入れられるのか、発表の前夜は不安を感じ（　　　）。",
     "choices": [
@@ -13687,7 +13687,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot help doing; spontaneous urge",
     "similar": "〜ないではいられない / 思わず〜してしまう / 〜を禁じ得ない",
     "sentence_jp": "百年の時を超えて鮮やかに蘇った壁画の美しさを前にして、訪れた人々は感嘆のため息をもらさずにはいられなかった。",
-    "sentence_furigana": "百年の時を超えて鮮やかに蘇った壁画の美しさを前にして、訪れた人々は感嘆のため息をもらさずにはいられなかった。",
+    "sentence_furigana": "ひゃくねんのときをこえてあざやかによみがえったへきがのうつくしさをまえにして、おとずれたひとびとはかんたんのためいきをもらさずにはいられなかった。",
     "sentence_en": "Standing before the beauty of the mural that vividly came back to life across a hundred years of time, visitors could not help letting out sighs of admiration.",
     "question": "百年の時を超えて鮮やかに蘇った壁画の美しさを前にして、訪れた人々は感嘆のため息をもらさ（　　　）。",
     "choices": [
@@ -13716,10 +13716,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "ずにはいられない",
     "meaning_en": "cannot help doing; spontaneous urge",
     "similar": "〜ないではいられない / 思わず〜してしまう / 〜を禁じ得ない",
-    "sentence_jp": "理不尽な扱いを受けている後輩を見たら、性格上、黙って見過ごさずにはおれず一言口を出さずにはいられない。",
-    "sentence_furigana": "理不尽な扱いを受けている後輩を見たら、性格上、黙って見過ごさずにはおれず一言口を出さずにはいられない。",
-    "sentence_en": "Given my personality, when I see a junior colleague being treated unreasonably, I cannot just look the other way in silence and cannot resist speaking up.",
-    "question": "理不尽な扱いを受けている後輩を見たら、性格上、黙って見過ごさずにはおれず一言口を出さ（　　　）。",
+    "sentence_jp": "理不尽な扱いを受けている後輩を見たら、性格上、黙って見過ごすことができず一言口を出さずにはいられない。",
+    "sentence_furigana": "りふじんなあつかいをうけているこうはいをみたら、せいかくじょう、だまってみすごすことができずひとことくちをださずにはいられない。",
+    "sentence_en": "Whenever I see a junior colleague being treated unfairly, by nature I can't just look the other way and can't help speaking up.",
+    "question": "理不尽な扱いを受けている後輩を見たら、性格上、黙って見過ごすことができず一言口を出さ（　　　）。",
     "choices": [
       "ずにはいられない",
       "べくもない",
@@ -13729,8 +13729,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ずにはいられない",
     "notes": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>性分<rt>しょうぶん</rt></ruby>や<ruby>正義<rt>せいぎ</rt></ruby><ruby>感<rt>かん</rt></ruby>から、どうしても<ruby>行動<rt>こうどう</rt></ruby>に<ruby>出<rt>で</rt></ruby>てしまうことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごさずにはおれず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>ぐち</rt></ruby>を<ruby>出<rt>で</rt></ruby>さ（　　　）。",
-    "sentence_jp_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごさずにはおれず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>ぐち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずにはいられない。",
+    "question_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごすことができず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>で</rt></ruby>さ（　　　）。",
+    "sentence_jp_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごすことができず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずにはいられない。",
     "choices_ruby": [
       "ずにはいられない",
       "べくもない",
@@ -13747,7 +13747,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot help doing; spontaneous urge",
     "similar": "〜ないではいられない / 思わず〜してしまう / 〜を禁じ得ない",
     "sentence_jp": "故郷の懐かしい風景を描いたその絵画を見ると、幼い頃に祖父母と過ごした夏休みを思い出さずにはいられない。",
-    "sentence_furigana": "故郷の懐かしい風景を描いたその絵画を見ると、幼い頃に祖父母と過ごした夏休みを思い出さずにはいられない。",
+    "sentence_furigana": "こきょうのなつかしいふうけいをえがいたそのかいがをみると、おさないころにそふぼとすごしたなつやすみをおもいださずにはいられない。",
     "sentence_en": "Whenever I look at that painting depicting the nostalgic scenery of my hometown, I cannot help remembering the summer vacations I spent with my grandparents as a child.",
     "question": "故郷の懐かしい風景を描いたその絵画を見ると、幼い頃に祖父母と過ごした夏休みを思い出さ（　　　）。",
     "choices": [
@@ -13777,7 +13777,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot help doing; spontaneous urge",
     "similar": "〜ないではいられない / 思わず〜してしまう / 〜を禁じ得ない",
     "sentence_jp": "細部まで一切の妥協を許さない巨匠の仕事ぶりには、同じ職人として敬意を表さずにはいられない。",
-    "sentence_furigana": "細部まで一切の妥協を許さない巨匠の仕事ぶりには、同じ職人として敬意を表さずにはいられない。",
+    "sentence_furigana": "さいぶまでいっさいのだきょうをゆるさないきょしょうのしごとぶりには、おなじしょくにんとしてけいいをあらわさずにはいられない。",
     "sentence_en": "As a fellow craftsperson, I cannot help expressing my respect for the master's way of working, which allows no compromise down to the finest detail.",
     "question": "細部まで一切の妥協を許さない巨匠の仕事ぶりには、同じ職人として敬意を表さ（　　　）。",
     "choices": [
@@ -13807,7 +13807,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have no choice but to",
     "similar": "〜ないわけにはいかない / やむを得ず〜する / 〜ほかない",
     "sentence_jp": "主要部品の供給が世界的に滞っているため、来月予定していた新製品の発売時期を延期せざるを得ない。",
-    "sentence_furigana": "主要部品の供給が世界的に滞っているため、来月予定していた新製品の発売時期を延期せざるを得ない。",
+    "sentence_furigana": "しゅようぶひんのきょうきゅうがせかいてきにとどこおっているため、らいげつよていしていたしんせいひんのはつばいじきをえんきせざるをえない。",
     "sentence_en": "Because the supply of key components is stagnating globally, we have no choice but to postpone the release date of the new product scheduled for next month.",
     "question": "主要部品の供給が世界的に滞っているため、来月予定していた新製品の発売時期を延期（　　　）。",
     "choices": [
@@ -13837,7 +13837,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have no choice but to",
     "similar": "〜ないわけにはいかない / やむを得ず〜する / 〜ほかない",
     "sentence_jp": "これだけ明確な実験データが揃っている以上、従来の仮説には誤りがあったと認めざるを得ないだろう。",
-    "sentence_furigana": "これだけ明確な実験データが揃っている以上、従来の仮説には誤りがあったと認めざるを得ないだろう。",
+    "sentence_furigana": "これだけめいかくなじっけんデータがそろっているいじょう、じゅうらいのかせつにはあやまりがあったとみとめざるをえないだろう。",
     "sentence_en": "Given that such clear experimental data has been assembled, we will have no choice but to admit that there was an error in the conventional hypothesis.",
     "question": "これだけ明確な実験データが揃っている以上、従来の仮説には誤りがあったと認め（　　　）だろう。",
     "choices": [
@@ -13867,7 +13867,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have no choice but to",
     "similar": "〜ないわけにはいかない / やむを得ず〜する / 〜ほかない",
     "sentence_jp": "老朽化による安全上のリスクが指摘されたからには、歴史ある市民会館といえども取り壊しを検討せざるを得ない。",
-    "sentence_furigana": "老朽化による安全上のリスクが指摘されたからには、歴史ある市民会館といえども取り壊しを検討せざるを得ない。",
+    "sentence_furigana": "ろうきゅうかによるあんぜんじょうのリスクがしてきされたからには、れきしあるしみんかいかんといえどもとりこわしをけんとうせざるをえない。",
     "sentence_en": "Now that safety risks due to aging have been pointed out, we have no choice but to consider demolition, even for the historic civic hall.",
     "question": "老朽化による安全上のリスクが指摘されたからには、歴史ある市民会館といえども取り壊しを検討（　　　）。",
     "choices": [
@@ -13897,7 +13897,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have no choice but to",
     "similar": "〜ないわけにはいかない / やむを得ず〜する / 〜ほかない",
     "sentence_jp": "台風による暴風警報が発令されたため、主催者は野外音楽祭の中止を決定せざるを得ない状況に追い込まれた。",
-    "sentence_furigana": "台風による暴風警報が発令されたため、主催者は野外音楽祭の中止を決定せざるを得ない状況に追い込まれた。",
+    "sentence_furigana": "たいふうによるぼうふうけいほうがはつれいされたため、しゅさいしゃはやがいおんがくさいのちゅうしをけっていせざるをえないじょうきょうにおいこまれた。",
     "sentence_en": "Because a storm warning due to the typhoon was issued, the organizers were driven into a situation where they had no choice but to decide to cancel the outdoor music festival.",
     "question": "台風による暴風警報が発令されたため、主催者は野外音楽祭の中止を決定（　　　）状況に追い込まれた。",
     "choices": [
@@ -13927,13 +13927,13 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ever such a thing happens",
     "similar": "もし万が一〜たら大変だ / 〜たら最後",
     "sentence_jp": "厳しい師匠の稽古中に一瞬でも気を抜こうものなら、たちまち鋭い叱責が飛んでくる。",
-    "sentence_furigana": "厳しい師匠の稽古中に一瞬でも気を抜こうものなら、たちまち鋭い叱責が飛んでくる。",
-    "sentence_en": "If you were ever to let your guard down even for a moment during the strict master's training, a sharp reprimand would immediately fly at you.",
+    "sentence_furigana": "きびしいししょうのけいこちゅうにいっしゅんでもきをぬこうものなら、たちまちするどいしっせきがとんでくる。",
+    "sentence_en": "During the strict master's practice, if you let your guard down for even a moment, a sharp reprimand comes flying right away.",
     "question": "厳しい師匠の稽古中に一瞬でも気を抜こ（　　　）、たちまち鋭い叱責が飛んでくる。",
     "choices": [
       "うとしている",
       "うがまいが",
-      "うにも〜ない",
+      "うではないか",
       "うものなら"
     ],
     "answer": 3,
@@ -13944,7 +13944,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "うとしている",
       "うがまいが",
-      "うにも〜ない",
+      "うではないか",
       "うものなら"
     ],
     "correct_text_ruby": "うものなら"
@@ -13957,7 +13957,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ever such a thing happens",
     "similar": "もし万が一〜たら大変だ / 〜たら最後",
     "sentence_jp": "これほど繊細なガラス工芸品は、運搬中に少しの衝撃でも与えようものなら、粉々に砕けてしまうだろう。",
-    "sentence_furigana": "これほど繊細なガラス工芸品は、運搬中に少しの衝撃でも与えようものなら、粉々に砕けてしまうだろう。",
+    "sentence_furigana": "これほどせんさいなガラスこうげいひんは、うんぱんちゅうにすこしのしょうげきでもあたえようものなら、こなごなにくだけてしまうだろう。",
     "sentence_en": "With glass craftwork this delicate, if you were ever to subject it to even a slight shock during transport, it would likely shatter into pieces.",
     "question": "これほど繊細なガラス工芸品は、運搬中に少しの衝撃でも与え（　　　）、粉々に砕けてしまうだろう。",
     "choices": [
@@ -13987,12 +13987,12 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ever such a thing happens",
     "similar": "もし万が一〜たら大変だ / 〜たら最後",
     "sentence_jp": "年末の繁忙期に基幹システムが止まろうものなら、全国の店舗の業務が大混乱に陥ってしまう。",
-    "sentence_furigana": "年末の繁忙期に基幹システムが止まろうものなら、全国の店舗の業務が大混乱に陥ってしまう。",
-    "sentence_en": "If the core system were ever to stop during the year-end busy season, operations at stores nationwide would fall into utter chaos.",
+    "sentence_furigana": "ねんまつのはんぼうきにきかんシステムがとまろうものなら、ぜんこくのてんぽのぎょうむがだいこんらんにおちいってしまう。",
+    "sentence_en": "If the core system were to stop during the busy year-end season, operations at stores nationwide would fall into major chaos.",
     "question": "年末の繁忙期に基幹システムが止まろ（　　　）、全国の店舗の業務が大混乱に陥ってしまう。",
     "choices": [
       "うがまいが",
-      "うにも〜ない",
+      "うではないか",
       "うものなら",
       "うとしている"
     ],
@@ -14003,7 +14003,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>年末<rt>ねんまつ</rt></ruby>の<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>に<ruby>基幹<rt>きかん</rt></ruby>システムが<ruby>止<rt>と</rt></ruby>まろうものなら、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>店舗<rt>てんぽ</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>が<ruby>大<rt>だい</rt></ruby><ruby>混乱<rt>こんらん</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>ってしまう。",
     "choices_ruby": [
       "うがまいが",
-      "うにも〜ない",
+      "うではないか",
       "うものなら",
       "うとしている"
     ],
@@ -14017,13 +14017,13 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ever such a thing happens",
     "similar": "もし万が一〜たら大変だ / 〜たら最後",
     "sentence_jp": "うちの猫は警戒心が強く、見知らぬ人が急に近づこうものなら、すぐに家具の奥へ隠れて出てこない。",
-    "sentence_furigana": "うちの猫は警戒心が強く、見知らぬ人が急に近づこうものなら、すぐに家具の奥へ隠れて出てこない。",
-    "sentence_en": "Our cat is very wary, and if a stranger were ever to approach suddenly, it would immediately hide deep behind the furniture and not come out.",
+    "sentence_furigana": "うちのねこはけいかいしんがつよく、みしらぬひとがきゅうにちかづこうものなら、すぐにかぐのおくへかくれてでてこない。",
+    "sentence_en": "Our cat is very wary, so if a stranger suddenly approaches, it immediately hides behind the furniture and won't come out.",
     "question": "うちの猫は警戒心が強く、見知らぬ人が急に近づこ（　　　）、すぐに家具の奥へ隠れて出てこない。",
     "choices": [
-      "うとするなら",
+      "うとしている",
       "うものなら",
-      "うにも〜ない",
+      "うがまいが",
       "うではないか"
     ],
     "answer": 1,
@@ -14032,9 +14032,9 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "うちの<ruby>猫<rt>ねこ</rt></ruby>は<ruby>警戒<rt>けいかい</rt></ruby><ruby>心<rt>しん</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>く、<ruby>見知<rt>みし</rt></ruby>らぬ<ruby>人<rt>ひと</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づこ（　　　）、すぐに<ruby>家具<rt>かぐ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>へ<ruby>隠<rt>かく</rt></ruby>れて<ruby>出<rt>で</rt></ruby>てこない。",
     "sentence_jp_ruby": "うちの<ruby>猫<rt>ねこ</rt></ruby>は<ruby>警戒<rt>けいかい</rt></ruby><ruby>心<rt>しん</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>く、<ruby>見知<rt>みし</rt></ruby>らぬ<ruby>人<rt>ひと</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づこうものなら、すぐに<ruby>家具<rt>かぐ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>へ<ruby>隠<rt>かく</rt></ruby>れて<ruby>出<rt>で</rt></ruby>てこない。",
     "choices_ruby": [
-      "うとするなら",
+      "うとしている",
       "うものなら",
-      "うにも〜ない",
+      "うがまいが",
       "うではないか"
     ],
     "correct_text_ruby": "うものなら"
@@ -14047,7 +14047,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "precisely because",
     "similar": "〜からこそ / 〜ゆえに / まさに〜だから",
     "sentence_jp": "子どもの将来を真剣に思えばこそ、時には厳しい言葉で自立を促すことも親の務めだ。",
-    "sentence_furigana": "子どもの将来を真剣に思えばこそ、時には厳しい言葉で自立を促すことも親の務めだ。",
+    "sentence_furigana": "こどものしょうらいをしんけんにおもえばこそ、ときにはきびしいことばでじりつをうながすこともおやのつとめだ。",
     "sentence_en": "Precisely because parents seriously care about their children's future, it is sometimes their duty to encourage independence with firm words.",
     "question": "子どもの将来を真剣に思え（　　　）、時には厳しい言葉で自立を促すことも親の務めだ。",
     "choices": [
@@ -14077,7 +14077,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "precisely because",
     "similar": "〜からこそ / 〜ゆえに / まさに〜だから",
     "sentence_jp": "君の実力と誠実さを高く評価していればこそ、この重要な新規プロジェクトのリーダーを任せたのだ。",
-    "sentence_furigana": "君の実力と誠実さを高く評価していればこそ、この重要な新規プロジェクトのリーダーを任せたのだ。",
+    "sentence_furigana": "きみのじつりょくとせいじつさをたかくひょうかしていればこそ、このじゅうようなしんきプロジェクトのリーダーをまかせたのだ。",
     "sentence_en": "It is precisely because I highly value your ability and sincerity that I entrusted you with leading this important new project.",
     "question": "君の実力と誠実さを高く評価していれ（　　　）、この重要な新規プロジェクトのリーダーを任せたのだ。",
     "choices": [
@@ -14107,7 +14107,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "precisely because",
     "similar": "〜からこそ / 〜ゆえに / まさに〜だから",
     "sentence_jp": "地域の皆様の温かいご支援があればこそ、当劇団は創立五十周年を迎えることができました。",
-    "sentence_furigana": "地域の皆様の温かいご支援があればこそ、当劇団は創立五十周年を迎えることができました。",
+    "sentence_furigana": "ちいきのみなさまのあたたかいごしえんがあればこそ、とうげきだんはそうりつごじゅうしゅうねんをむかえることができました。",
     "sentence_en": "It is precisely because we had the warm support of everyone in the community that our theater troupe was able to celebrate its 50th anniversary.",
     "question": "地域の皆様の温かいご支援があれ（　　　）、当劇団は創立五十周年を迎えることができました。",
     "choices": [
@@ -14137,7 +14137,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "precisely because",
     "similar": "〜からこそ / 〜ゆえに / まさに〜だから",
     "sentence_jp": "伝統の味を守り抜きたいと願えばこそ、店主は手間のかかる昔ながらの製法を今も変えない。",
-    "sentence_furigana": "伝統の味を守り抜きたいと願えばこそ、店主は手間のかかる昔ながらの製法を今も変えない。",
+    "sentence_furigana": "でんとうのあじをまもりぬきたいとねがえばこそ、てんしゅはてまのかかるむかしながらのせいほうをいまもかえない。",
     "sentence_en": "Precisely because he wishes to preserve the traditional flavor to the end, the shop owner still does not change the time-consuming, old-fashioned production method.",
     "question": "伝統の味を守り抜きたいと願え（　　　）、店主は手間のかかる昔ながらの製法を今も変えない。",
     "choices": [
@@ -14167,7 +14167,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "impossible without ~",
     "similar": "〜なしには〜ない / 〜がなければ〜ない / 〜抜きには〜ない",
     "sentence_jp": "現場スタッフ一人ひとりの献身的な協力なくしては、この大規模な国際会議の成功はあり得なかった。",
-    "sentence_furigana": "現場スタッフ一人ひとりの献身的な協力なくしては、この大規模な国際会議の成功はあり得なかった。",
+    "sentence_furigana": "げんばスタッフひとりひとりのけんしんてきなきょうりょくなくしては、このだいきぼなこくさいかいぎのせいこうはありえなかった。",
     "sentence_en": "Without the dedicated cooperation of each and every on-site staff member, the success of this large-scale international conference would have been impossible.",
     "question": "現場スタッフ一人ひとりの献身的な協力（　　　）、この大規模な国際会議の成功はあり得なかった。",
     "choices": [
@@ -14197,7 +14197,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "impossible without ~",
     "similar": "〜なしには〜ない / 〜がなければ〜ない / 〜抜きには〜ない",
     "sentence_jp": "基礎科学への地道で長期的な投資なくしては、次世代を担う革新的な技術は生まれないだろう。",
-    "sentence_furigana": "基礎科学への地道で長期的な投資なくしては、次世代を担う革新的な技術は生まれないだろう。",
+    "sentence_furigana": "きそかがくへのじみちでちょうきてきなとうしなくしては、じせだいをになうかくしんてきなぎじゅつはうまれないだろう。",
     "sentence_en": "Without steady, long-term investment in basic science, innovative technologies to lead the next generation will likely not be born.",
     "question": "基礎科学への地道で長期的な投資（　　　）、次世代を担う革新的な技術は生まれないだろう。",
     "choices": [
@@ -14227,7 +14227,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "impossible without ~",
     "similar": "〜なしには〜ない / 〜がなければ〜ない / 〜抜きには〜ない",
     "sentence_jp": "異なる文化的背景を持つ人々との相互理解なくしては、真に豊かな共生社会を築くことはできない。",
-    "sentence_furigana": "異なる文化的背景を持つ人々との相互理解なくしては、真に豊かな共生社会を築くことはできない。",
+    "sentence_furigana": "ことなるぶんかてきはいけいをもつひとびととのそうごりかいなくしては、しんにゆたかなきょうせいしゃかいをきずくことはできない。",
     "sentence_en": "Without mutual understanding among people with different cultural backgrounds, we cannot build a truly rich, harmonious society.",
     "question": "異なる文化的背景を持つ人々との相互理解（　　　）、真に豊かな共生社会を築くことはできない。",
     "choices": [
@@ -14257,7 +14257,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "impossible without ~",
     "similar": "〜なしには〜ない / 〜がなければ〜ない / 〜抜きには〜ない",
     "sentence_jp": "歴史的建造物の保存は、そこに暮らす地域住民の理解と誇りなくしては到底成り立たない事業である。",
-    "sentence_furigana": "歴史的建造物の保存は、そこに暮らす地域住民の理解と誇りなくしては到底成り立たない事業である。",
+    "sentence_furigana": "れきしてきけんぞうぶつのほぞんは、そこにくらすちいきじゅうみんのりかいとほこりなくしてはとうていなりたたないじぎょうである。",
     "sentence_en": "The preservation of historical buildings is an undertaking that simply cannot stand without the understanding and pride of the local residents living there.",
     "question": "歴史的建造物の保存は、そこに暮らす地域住民の理解と誇り（　　　）到底成り立たない事業である。",
     "choices": [
@@ -14287,7 +14287,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unless ~ is done, cannot",
     "similar": "〜なければ〜ない / まず〜しない限り〜ない",
     "sentence_jp": "写真やカタログを見るだけでは分からないから、実物を手に取って確かめないことには購入は決められない。",
-    "sentence_furigana": "写真やカタログを見るだけでは分からないから、実物を手に取って確かめないことには購入は決められない。",
+    "sentence_furigana": "しゃしんやカタログをみるだけではわからないから、じつぶつをてにとってたしかめないことにはこうにゅうはきめられない。",
     "sentence_en": "Since you can't tell just by looking at photos or catalogs, I can't decide on the purchase unless I hold and check the actual item first.",
     "question": "写真やカタログを見るだけでは分からないから、実物を手に取って確かめ（　　　）購入は決められない。",
     "choices": [
@@ -14317,7 +14317,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unless ~ is done, cannot",
     "similar": "〜なければ〜ない / まず〜しない限り〜ない",
     "sentence_jp": "原因となっている初期不良の箇所を特定しないことには、具体的な修理の見積もりを出すことはできません。",
-    "sentence_furigana": "原因となっている初期不良の箇所を特定しないことには、具体的な修理の見積もりを出すことはできません。",
+    "sentence_furigana": "げんいんとなっているしょきふりょうのかしょをとくていしないことには、ぐたいてきなしゅうりのみつもりをだすことはできません。",
     "sentence_en": "Unless we first identify the defective part causing the issue, we cannot provide a concrete repair estimate.",
     "question": "原因となっている初期不良の箇所を特定し（　　　）、具体的な修理の見積もりを出すことはできません。",
     "choices": [
@@ -14347,7 +14347,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unless ~ is done, cannot",
     "similar": "〜なければ〜ない / まず〜しない限り〜ない",
     "sentence_jp": "どれほど優れた企画書であっても、予算の承認が下りないことには、プロジェクトを始動させるわけにはいかない。",
-    "sentence_furigana": "どれほど優れた企画書であっても、予算の承認が下りないことには、プロジェクトを始動させるわけにはいかない。",
+    "sentence_furigana": "どれほどすぐれたきかくしょであっても、よさんのしょうにんがおりないことには、プロジェクトをしどうさせるわけにはいかない。",
     "sentence_en": "No matter how excellent the proposal is, unless the budget approval comes through first, we cannot launch the project.",
     "question": "どれほど優れた企画書であっても、予算の承認が下り（　　　）、プロジェクトを始動させるわけにはいかない。",
     "choices": [
@@ -14377,7 +14377,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "unless ~ is done, cannot",
     "similar": "〜なければ〜ない / まず〜しない限り〜ない",
     "sentence_jp": "朝の渋滞状況は日によって変わるため、実際に家を出て走ってみないことには到着時刻は読めないよ。",
-    "sentence_furigana": "朝の渋滞状況は日によって変わるため、実際に家を出て走ってみないことには到着時刻は読めないよ。",
+    "sentence_furigana": "あさのじゅうたいじょうきょうはひによってかわるため、じっさいにいえをでてはしってみないことにはとうちゃくじこくはよめないよ。",
     "sentence_en": "Because morning traffic conditions change from day to day, you can't predict the arrival time unless you actually leave the house and drive.",
     "question": "朝の渋滞状況は日によって変わるため、実際に家を出て走ってみ（　　　）到着時刻は読めないよ。",
     "choices": [
@@ -14407,7 +14407,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if we assume that",
     "similar": "〜たところで / たとえ〜としても / 〜にしたところで",
     "sentence_jp": "仮に今から追加の人員を投入したとしたところで、明日の朝までにすべての在庫を点検し終えるのは不可能に近い。",
-    "sentence_furigana": "仮に今から追加の人員を投入したとしたところで、明日の朝までにすべての在庫を点検し終えるのは不可能に近い。",
+    "sentence_furigana": "かりにいまからついかのじんいんをとうにゅうしたとしたところで、あしたのあさまでにすべてのざいこをてんけんしおえるのはふかのうにちかい。",
     "sentence_en": "Even if we were to bring in additional personnel starting now, it would be nearly impossible to finish inspecting all the inventory by tomorrow morning.",
     "question": "仮に今から追加の人員を投入した（　　　）、明日の朝までにすべての在庫を点検し終えるのは不可能に近い。",
     "choices": [
@@ -14437,7 +14437,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if we assume that",
     "similar": "〜たところで / たとえ〜としても / 〜にしたところで",
     "sentence_jp": "たとえ最新の分析機器を導入したとしたところで、それを扱う技術者の育成が伴わなければ宝の持ち腐れになる。",
-    "sentence_furigana": "たとえ最新の分析機器を導入したとしたところで、それを扱う技術者の育成が伴わなければ宝の持ち腐れになる。",
+    "sentence_furigana": "たとえさいしんのぶんせきききをどうにゅうしたとしたところで、それをあつかうぎじゅつしゃのいくせいがともなわなければたからのもちぐされになる。",
     "sentence_en": "Even assuming we introduced the latest analytical equipment, it would be a waste of a treasure unless accompanied by the training of engineers to operate it.",
     "question": "たとえ最新の分析機器を導入した（　　　）、それを扱う技術者の育成が伴わなければ宝の持ち腐れになる。",
     "choices": [
@@ -14467,7 +14467,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if we assume that",
     "similar": "〜たところで / たとえ〜としても / 〜にしたところで",
     "sentence_jp": "百歩譲って先方の主張が正しかったとしたところで、事前の連絡なしに契約条件を変更したのは規約違反だ。",
-    "sentence_furigana": "百歩譲って先方の主張が正しかったとしたところで、事前の連絡なしに契約条件を変更したのは規約違反だ。",
+    "sentence_furigana": "ひゃくほゆずってせんぽうのしゅちょうがただしかったとしたところで、じぜんのれんらくなしにけいやくじょうけんをへんこうしたのはきやくいはんだ。",
     "sentence_en": "Even conceding a hundred steps and assuming the other party's claim was correct, changing the contract terms without prior notice is a violation of the rules.",
     "question": "百歩譲って先方の主張が正しかった（　　　）、事前の連絡なしに契約条件を変更したのは規約違反だ。",
     "choices": [
@@ -14497,7 +14497,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if we assume that",
     "similar": "〜たところで / たとえ〜としても / 〜にしたところで",
     "sentence_jp": "今から新しい店舗用地を探し始めるとしたところで、年内のオープンには到底間に合わないだろう。",
-    "sentence_furigana": "今から新しい店舗用地を探し始めるとしたところで、年内のオープンには到底間に合わないだろう。",
+    "sentence_furigana": "いまからあたらしいてんぽようちをさがしはじめるとしたところで、ねんないのオープンにはとうていあいだにあわないだろう。",
     "sentence_en": "Even if we were to start looking for a new store site now, we would never make it in time for an opening within the year.",
     "question": "今から新しい店舗用地を探し始める（　　　）、年内のオープンには到底間に合わないだろう。",
     "choices": [
@@ -14527,7 +14527,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even from the standpoint of",
     "similar": "〜にしても / 〜にしたって / 〜にしてみれば",
     "sentence_jp": "業界トップの技術力を誇るあの企業にしたところで、原材料費の急激な高騰には頭を悩ませているに違いない。",
-    "sentence_furigana": "業界トップの技術力を誇るあの企業にしたところで、原材料費の急激な高騰には頭を悩ませているに違いない。",
+    "sentence_furigana": "ぎょうかいトップのぎじゅつりょくをほこるあのきぎょうにしたところで、げんざいりょうひのきゅうげきなこうとうにはあたまをなやませているにちがいない。",
     "sentence_en": "Even for that company, which boasts the top technological capability in the industry, the sharp rise in raw material costs must surely be a headache.",
     "question": "業界トップの技術力を誇るあの企業（　　　）、原材料費の急激な高騰には頭を悩ませているに違いない。",
     "choices": [
@@ -14557,7 +14557,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even from the standpoint of",
     "similar": "〜にしても / 〜にしたって / 〜にしてみれば",
     "sentence_jp": "反対意見を述べた佐藤さんにしたところで、プロジェクトの成功を願う気持ちは私たちと少しも変わらないはずだ。",
-    "sentence_furigana": "反対意見を述べた佐藤さんにしたところで、プロジェクトの成功を願う気持ちは私たちと少しも変わらないはずだ。",
+    "sentence_furigana": "はんたいいけんをのべたさとうさんにしたところで、プロジェクトのせいこうをねがうきもちはわたしたちとすこしもかわらないはずだ。",
     "sentence_en": "Even from the standpoint of Mr. Sato, who voiced an opposing opinion, his desire for the project's success must not differ from ours in the slightest.",
     "question": "反対意見を述べた佐藤さん（　　　）、プロジェクトの成功を願う気持ちは私たちと少しも変わらないはずだ。",
     "choices": [
@@ -14587,7 +14587,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even from the standpoint of",
     "similar": "〜にしても / 〜にしたって / 〜にしてみれば",
     "sentence_jp": "経験豊富な医師にしたところで、すべての症例に対して即座に完璧な答えを出せるわけではない。",
-    "sentence_furigana": "経験豊富な医師にしたところで、すべての症例に対して即座に完璧な答えを出せるわけではない。",
+    "sentence_furigana": "けいけんほうふないしにしたところで、すべてのしょうれいにたいしてそくざにかんぺきなこたえをだせるわけではない。",
     "sentence_en": "Even for an experienced physician, it is not the case that they can immediately give a完美 answer to every single clinical case.",
     "question": "経験豊富な医師（　　　）、すべての症例に対して即座に完璧な答えを出せるわけではない。",
     "choices": [
@@ -14617,7 +14617,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even from the standpoint of",
     "similar": "〜にしても / 〜にしたって / 〜にしてみれば",
     "sentence_jp": "いつも冷静沈着な部長にしたところで、これほど大きな契約の最終交渉ともなれば内心は穏やかではないだろう。",
-    "sentence_furigana": "いつも冷静沈着な部長にしたところで、これほど大きな契約の最終交渉ともなれば内心は穏やかではないだろう。",
+    "sentence_furigana": "いつもれいせいちんちゃくなぶちょうにしたところで、これほどおおきなけいやくのさいしゅうこうしょうともなればないしんはおだやかではないだろう。",
     "sentence_en": "Even for our department manager, who is always calm and collected, when it comes to the final negotiation of such a major contract, he probably isn't calm inside.",
     "question": "いつも冷静沈着な部長（　　　）、これほど大きな契約の最終交渉ともなれば内心は穏やかではないだろう。",
     "choices": [
@@ -14647,7 +14647,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from the viewpoint of",
     "similar": "〜の立場から見れば / 〜にとっては / 〜からすれば",
     "sentence_jp": "良かれと思ってしたアドバイスでも、現場で苦労している担当者にしてみれば、実情を知らない外野の口出しに聞こえたのかもしれない。",
-    "sentence_furigana": "良かれと思ってしたアドバイスでも、現場で苦労している担当者にしてみれば、実情を知らない外野の口出しに聞こえたのかもしれない。",
+    "sentence_furigana": "よかれとおもってしたアドバイスでも、げんばでくろうしているたんとうしゃにしてみれば、じつじょうをしらないがいやのくちだしにきこえたのかもしれない。",
     "sentence_en": "Even if the advice was given with good intentions, from the viewpoint of the person in charge struggling on site, it might have sounded like meddling from an outsider who doesn't know the reality.",
     "question": "良かれと思ってしたアドバイスでも、現場で苦労している担当者（　　　）、実情を知らない外野の口出しに聞こえたのかもしれない。",
     "choices": [
@@ -14677,7 +14677,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from the viewpoint of",
     "similar": "〜の立場から見れば / 〜にとっては / 〜からすれば",
     "sentence_jp": "効率化のためのデジタル化も、長年手書きの台帳に慣れ親しんできた高齢の店主たちにしてみれば、大きな負担に感じられるのだろう。",
-    "sentence_furigana": "効率化のためのデジタル化も、長年手書きの台帳に慣れ親しんできた高齢の店主たちにしてみれば、大きな負担に感じられるのだろう。",
+    "sentence_furigana": "こうりつかのためのデジタルかも、ながねんてがきのだいちょうになれしたしんできたこうれいのてんしゅたちにしてみれば、おおきなふたんにかんじられるのだろう。",
     "sentence_en": "Digitalization for efficiency is probably felt as a heavy burden from the standpoint of elderly shopkeepers who have been accustomed to handwritten ledgers for many years.",
     "question": "効率化のためのデジタル化も、長年手書きの台帳に慣れ親しんできた高齢の店主たち（　　　）、大きな負担に感じられるのだろう。",
     "choices": [
@@ -14707,7 +14707,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from the viewpoint of",
     "similar": "〜の立場から見れば / 〜にとっては / 〜からすれば",
     "sentence_jp": "突然の配置転換を命じられた本人にしてみれば、納得がいかない気持ちになるのも無理からぬことだ。",
-    "sentence_furigana": "突然の配置転換を命じられた本人にしてみれば、納得がいかない気持ちになるのも無理からぬことだ。",
+    "sentence_furigana": "とつぜんのはいちてんかんをめいじられたほんにんにしてみれば、なっとくがいかないきもちになるのもむりからぬことだ。",
     "sentence_en": "From the viewpoint of the person himself who was ordered a sudden reassignment, it is only natural to feel unconvinced.",
     "question": "突然の配置転換を命じられた本人（　　　）、納得がいかない気持ちになるのも無理からぬことだ。",
     "choices": [
@@ -14737,7 +14737,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from the viewpoint of",
     "similar": "〜の立場から見れば / 〜にとっては / 〜からすれば",
     "sentence_jp": "開発側が小さな仕様変更だと思っていても、毎日そのソフトを使う利用者にしてみれば、作業手順が変わる重大な問題なのだ。",
-    "sentence_furigana": "開発側が小さな仕様変更だと思っていても、毎日そのソフトを使う利用者にしてみれば、作業手順が変わる重大な問題なのだ。",
+    "sentence_furigana": "かいはつがわがちいさなしようへんこうだとおもっていても、まいにちそのソフトをつかうりようしゃにしてみれば、さぎょうてじゅんがかわるじゅうだいなもんだいなのだ。",
     "sentence_en": "Even if the development side thinks it is a minor specification change, from the perspective of users who use the software every day, it is a serious issue that changes their workflow.",
     "question": "開発側が小さな仕様変更だと思っていても、毎日そのソフトを使う利用者（　　　）、作業手順が変わる重大な問題なのだ。",
     "choices": [
@@ -14767,7 +14767,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just because; simply because",
     "similar": "〜からといって必ずしも〜ない / たとえ〜でも",
     "sentence_jp": "価格が高いからといって、必ずしもすべての人にとって使いやすい製品であるとは限らない。",
-    "sentence_furigana": "価格が高いからといって、必ずしもすべての人にとって使いやすい製品であるとは限らない。",
+    "sentence_furigana": "かかくがたかいからといって、かならずしもすべてのひとにとってつかいやすいせいひんであるとはかぎらない。",
     "sentence_en": "Just because the price is high does not necessarily mean that it is an easy-to-use product for everyone.",
     "question": "価格が高い（　　　）、必ずしもすべての人にとって使いやすい製品であるとは限らない。",
     "choices": [
@@ -14797,7 +14797,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just because; simply because",
     "similar": "〜からといって必ずしも〜ない / たとえ〜でも",
     "sentence_jp": "一度の試験で思うような結果が出なかったからといって、これまでの努力がすべて無駄になるわけではない。",
-    "sentence_furigana": "一度の試験で思うような結果が出なかったからといって、これまでの努力がすべて無駄になるわけではない。",
+    "sentence_furigana": "いちどのしけんでおもうようなけっかがでなかったからといって、これまでのどりょくがすべてむだになるわけではない。",
     "sentence_en": "Just because you didn't get the result you hoped for on a single exam does not mean that all your efforts up to now have been in vain.",
     "question": "一度の試験で思うような結果が出なかった（　　　）、これまでの努力がすべて無駄になるわけではない。",
     "choices": [
@@ -14827,7 +14827,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just because; simply because",
     "similar": "〜からといって必ずしも〜ない / たとえ〜でも",
     "sentence_jp": "野菜が体にいいからといって、そればかり食べてたんぱく質を摂らなければ栄養バランスが崩れてしまう。",
-    "sentence_furigana": "野菜が体にいいからといって、そればかり食べてたんぱく質を摂らなければ栄養バランスが崩れてしまう。",
+    "sentence_furigana": "やさいがからだにいいからといって、そればかりたべてたんぱくしつをとらなければえいようバランスがくずれてしまう。",
     "sentence_en": "Just because vegetables are good for your health, if you eat only vegetables and don't take in protein, your nutritional balance will be thrown off.",
     "question": "野菜が体にいい（　　　）、そればかり食べてたんぱく質を摂らなければ栄養バランスが崩れてしまう。",
     "choices": [
@@ -14857,7 +14857,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just because; simply because",
     "similar": "〜からといって必ずしも〜ない / たとえ〜でも",
     "sentence_jp": "相手が親しい友人だからといって、礼儀や約束をおろそかにしてよい理由にはならない。",
-    "sentence_furigana": "相手が親しい友人だからといって、礼儀や約束をおろそかにしてよい理由にはならない。",
+    "sentence_furigana": "あいてがしたしいゆうじんだからといって、れいぎややくそくをおろそかにしてよいりゆうにはならない。",
     "sentence_en": "Just because the other person is a close friend is no reason to neglect manners or promises.",
     "question": "相手が親しい友人だ（　　　）、礼儀や約束をおろそかにしてよい理由にはならない。",
     "choices": [
@@ -14887,7 +14887,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depends on",
     "similar": "〜次第だ / 〜によって決まる / 〜にかかっている",
     "sentence_jp": "新しい地域活性化プロジェクトが軌道に乗るかどうかは、住民と行政の連携いかんだと言える。",
-    "sentence_furigana": "新しい地域活性化プロジェクトが軌道に乗るかどうかは、住民と行政の連携いかんだと言える。",
+    "sentence_furigana": "あたらしいちいきかっせいかプロジェクトがきどうにのるかどうかは、じゅうみんとぎょうせいのれんけいいかんだといえる。",
     "sentence_en": "Whether the new regional revitalization project gets on track or not can be said to depend on the cooperation between residents and the administration.",
     "question": "新しい地域活性化プロジェクトが軌道に乗るかどうかは、住民と行政の連携（　　　）と言える。",
     "choices": [
@@ -14917,7 +14917,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depends on",
     "similar": "〜次第だ / 〜によって決まる / 〜にかかっている",
     "sentence_jp": "どれほど優れた道具も、結局はそれを使う人間の心がけいかんで有益にも無益にもなり得る。",
-    "sentence_furigana": "どれほど優れた道具も、結局はそれを使う人間の心がけいかんで有益にも無益にもなり得る。",
+    "sentence_furigana": "どれほどすぐれたどうぐも、けっきょくはそれをつかうにんげんのこころがけいかんでゆうえきにもむえきにもなりえる。",
     "sentence_en": "No matter how excellent a tool is, depending ultimately on the mindset of the person using it, it can become either beneficial or useless.",
     "question": "どれほど優れた道具も、結局はそれを使う人間の心がけ（　　　）で有益にも無益にもなり得る。",
     "choices": [
@@ -14947,7 +14947,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depends on",
     "similar": "〜次第だ / 〜によって決まる / 〜にかかっている",
     "sentence_jp": "来期の海外出店計画を拡大するか見直すかは、今四半期の売上実績のいかんにかかっている。",
-    "sentence_furigana": "来期の海外出店計画を拡大するか見直すかは、今四半期の売上実績のいかんにかかっている。",
+    "sentence_furigana": "らいきのかいがいしゅってんけいかくをかくだいするかみなおすかは、こんしはんきのうりあげじっせきのいかんにかかっている。",
     "sentence_en": "Whether we expand or review next term's overseas store opening plan depends on this quarter's sales performance.",
     "question": "来期の海外出店計画を拡大するか見直すかは、今四半期の売上実績の（　　　）にかかっている。",
     "choices": [
@@ -14976,10 +14976,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "いかんだ",
     "meaning_en": "depends on",
     "similar": "〜次第だ / 〜によって決まる / 〜にかかっている",
-    "sentence_jp": "希少な伝統工芸が百年先まで残るか否かは、若手後継者を育てられるかどうかの取り組みいかんだ。",
-    "sentence_furigana": "希少な伝統工芸が百年先まで残るか否かは、若手後継者を育てられるかどうかの取り組みいかんだ。",
-    "sentence_en": "Whether rare traditional crafts survive a hundred years into the future depends on our efforts to train young successors.",
-    "question": "希少な伝統工芸が百年先まで残るか否かは、若手後継者を育てられるかどうかの取り組み（　　　）。",
+    "sentence_jp": "希少な伝統工芸が百年先まで残るか否かは、若手後継者を育成する取り組みいかんだ。",
+    "sentence_furigana": "きしょうなでんとうこうげいがひゃくねんさきまでのこるかいなかは、わかてこうけいしゃをいくせいするとりくみいかんだ。",
+    "sentence_en": "Whether rare traditional crafts survive a hundred years from now depends on the efforts to train young successors.",
+    "question": "希少な伝統工芸が百年先まで残るか否かは、若手後継者を育成する取り組み（　　　）。",
     "choices": [
       "ごときだ",
       "なりだ",
@@ -14989,8 +14989,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "いかんだ",
     "notes": "<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>成否<rt>せいひ</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>する<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>要因<rt>よういん</rt></ruby>を<ruby>指<rt>さ</rt></ruby>し<ruby>示<rt>しめ</rt></ruby>す<ruby>文末<rt>ぶんまつ</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>希少<rt>きしょう</rt></ruby>な<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>が<ruby>百年<rt>ひゃくねん</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>るか<ruby>否<rt>いな</rt></ruby>かは、<ruby>若手<rt>わかて</rt></ruby><ruby>後継<rt>こうけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てられるかどうかの<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>み（　　　）。",
-    "sentence_jp_ruby": "<ruby>希少<rt>きしょう</rt></ruby>な<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>が<ruby>百年<rt>ひゃくねん</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>るか<ruby>否<rt>いな</rt></ruby>かは、<ruby>若手<rt>わかて</rt></ruby><ruby>後継<rt>こうけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てられるかどうかの<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>みいかんだ。",
+    "question_ruby": "<ruby>希少<rt>きしょう</rt></ruby>な<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>が<ruby>百<rt>ひゃく</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>るか<ruby>否<rt>いな</rt></ruby>かは、<ruby>若手<rt>わかて</rt></ruby><ruby>後継<rt>こうけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>育成<rt>いくせい</rt></ruby>する<ruby>取り組<rt>とりく</rt></ruby>み（　　　）。",
+    "sentence_jp_ruby": "<ruby>希少<rt>きしょう</rt></ruby>な<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>が<ruby>百<rt>ひゃく</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>るか<ruby>否<rt>いな</rt></ruby>かは、<ruby>若手<rt>わかて</rt></ruby><ruby>後継<rt>こうけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>育成<rt>いくせい</rt></ruby>する<ruby>取り組<rt>とりく</rt></ruby>みいかんだ。",
     "choices_ruby": [
       "ごときだ",
       "なりだ",
@@ -15007,7 +15007,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depending on",
     "similar": "〜次第で（は） / 〜いかんで（は） / 〜に応じて",
     "sentence_jp": "精密検査の結果いかんによっては、来月の海外出張のスケジュールを変更する必要があるかもしれない。",
-    "sentence_furigana": "精密検査の結果いかんによっては、来月の海外出張のスケジュールを変更する必要があるかもしれない。",
+    "sentence_furigana": "せいみつけんさのけっかいかんによっては、らいげつのかいがいしゅっちょうのスケジュールをへんこうするひつようがあるかもしれない。",
     "sentence_en": "Depending on the results of the detailed medical examination, it may be necessary to change next month's overseas business trip schedule.",
     "question": "精密検査の結果（　　　）、来月の海外出張のスケジュールを変更する必要があるかもしれない。",
     "choices": [
@@ -15037,7 +15037,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depending on",
     "similar": "〜次第で（は） / 〜いかんで（は） / 〜に応じて",
     "sentence_jp": "貸し出し用の機材は、使用状況や破損の程度いかんによって、修理費用をご負担いただく場合がございます。",
-    "sentence_furigana": "貸し出し用の機材は、使用状況や破損の程度いかんによって、修理費用をご負担いただく場合がございます。",
+    "sentence_furigana": "かしだしようのきざいは、しようじょうきょうやはそんのていどいかんによって、しゅうりひようをごふたんいただくばあいがございます。",
     "sentence_en": "For rental equipment, depending on usage conditions and the degree of damage, you may be asked to bear the repair costs.",
     "question": "貸し出し用の機材は、使用状況や破損の程度（　　　）、修理費用をご負担いただく場合がございます。",
     "choices": [
@@ -15066,10 +15066,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "いかんによって",
     "meaning_en": "depending on",
     "similar": "〜次第で（は） / 〜いかんで（は） / 〜に応じて",
-    "sentence_jp": "交渉相手の出方いかんによっては、こちらもあらかじめ用意していた代替案を提示する準備ができている。",
-    "sentence_furigana": "交渉相手の出方いかんによっては、こちらもあらかじめ用意していた代替案を提示する準備ができている。",
-    "sentence_en": "Depending on how the negotiating partner acts, we are ready to present the alternative plan we prepared in advance.",
-    "question": "交渉相手の出方（　　　）、こちらもあらかじめ用意していた代替案を提示する準備ができている。",
+    "sentence_jp": "交渉相手の出方いかんによっては、あらかじめ用意しておいた代替案を提示するつもりだ。",
+    "sentence_furigana": "こうしょうあいてのでかたいかんによっては、あらかじめよういしておいただいたいあんをていじするつもりだ。",
+    "sentence_en": "Depending on how the negotiating partner acts, we intend to present the alternative plan we prepared in advance.",
+    "question": "交渉相手の出方（　　　）、あらかじめ用意しておいた代替案を提示するつもりだ。",
     "choices": [
       "いかんにかかわらず",
       "はおろか",
@@ -15079,8 +15079,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "いかんによっては",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>や<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>する<ruby>構<rt>かま</rt></ruby>えを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>交渉<rt>こうしょう</rt></ruby><ruby>相手<rt>あいて</rt></ruby>の<ruby>出方<rt>でかた</rt></ruby>（　　　）、こちらもあらかじめ<ruby>用意<rt>ようい</rt></ruby>していた<ruby>代替<rt>だいたい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>する<ruby>準備<rt>じゅんび</rt></ruby>ができている。",
-    "sentence_jp_ruby": "<ruby>交渉<rt>こうしょう</rt></ruby><ruby>相手<rt>あいて</rt></ruby>の<ruby>出方<rt>でかた</rt></ruby>いかんによっては、こちらもあらかじめ<ruby>用意<rt>ようい</rt></ruby>していた<ruby>代替<rt>だいたい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>する<ruby>準備<rt>じゅんび</rt></ruby>ができている。",
+    "question_ruby": "<ruby>交渉<rt>こうしょう</rt></ruby><ruby>相手<rt>あいて</rt></ruby>の<ruby>出方<rt>でかた</rt></ruby>（　　　）、あらかじめ<ruby>用意<rt>ようい</rt></ruby>しておいた<ruby>代替<rt>だいたい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>するつもりだ。",
+    "sentence_jp_ruby": "<ruby>交渉<rt>こうしょう</rt></ruby><ruby>相手<rt>あいて</rt></ruby>の<ruby>出方<rt>でかた</rt></ruby>いかんによっては、あらかじめ<ruby>用意<rt>ようい</rt></ruby>しておいた<ruby>代替<rt>だいたい</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>するつもりだ。",
     "choices_ruby": [
       "いかんにかかわらず",
       "はおろか",
@@ -15097,7 +15097,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "depending on",
     "similar": "〜次第で（は） / 〜いかんで（は） / 〜に応じて",
     "sentence_jp": "アンケートの回答内容のいかんによって、来年度の講座カリキュラムが大幅に刷新される見込みだ。",
-    "sentence_furigana": "アンケートの回答内容のいかんによって、来年度の講座カリキュラムが大幅に刷新される見込みだ。",
+    "sentence_furigana": "アンケートのかいとうないようのいかんによって、らいねんどのこうざカリキュラムがおおはばにさっしんされるみこみだ。",
     "sentence_en": "Depending on the content of the survey responses, next year's course curriculum is expected to be significantly revamped.",
     "question": "アンケートの回答内容の（　　　）、来年度の講座カリキュラムが大幅に刷新される見込みだ。",
     "choices": [
@@ -15127,7 +15127,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "regardless of",
     "similar": "〜を問わず / 〜に関係なく / 〜はどうあれ",
     "sentence_jp": "応募書類は、採用・不採用の結果のいかんにかかわらず、一切返却いたしませんのであらかじめご了承ください。",
-    "sentence_furigana": "応募書類は、採用・不採用の結果のいかんにかかわらず、一切返却いたしませんのであらかじめご了承ください。",
+    "sentence_furigana": "おうぼしょるいは、さいよう・ふさいようのけっかのいかんにかかわらず、いっさいへんきゃくいたしませんのであらかじめごりょうしょうください。",
     "sentence_en": "Please understand in advance that application documents will not be returned under any circumstances, regardless of the hiring outcome.",
     "question": "応募書類は、採用・不採用の結果の（　　　）、一切返却いたしませんのであらかじめご了承ください。",
     "choices": [
@@ -15157,7 +15157,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "regardless of",
     "similar": "〜を問わず / 〜に関係なく / 〜はどうあれ",
     "sentence_jp": "安全管理規定により、作業現場に入る際は、滞在時間の長短や役職のいかんにかかわらず、必ず保護帽を着用しなければならない。",
-    "sentence_furigana": "安全管理規定により、作業現場に入る際は、滞在時間の長短や役職のいかんにかかわらず、必ず保護帽を着用しなければならない。",
+    "sentence_furigana": "あんぜんかんりきていにより、さぎょうげんばにはいるさいは、たいざいじかんのちょうたんややくしょくのいかんにかかわらず、かならずほごぼうをちゃくようしなければならない。",
     "sentence_en": "According to safety management regulations, when entering the work site, you must wear a protective helmet without fail, regardless of the length of stay or your job title.",
     "question": "安全管理規定により、作業現場に入る際は、滞在時間の長短や役職の（　　　）、必ず保護帽を着用しなければならない。",
     "choices": [
@@ -15187,7 +15187,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "regardless of",
     "similar": "〜を問わず / 〜に関係なく / 〜はどうあれ",
     "sentence_jp": "契約期間満了後の更新の有無のいかんにかかわらず、今月末までに所定の確認書をご提出いただく必要があります。",
-    "sentence_furigana": "契約期間満了後の更新の有無のいかんにかかわらず、今月末までに所定の確認書をご提出いただく必要があります。",
+    "sentence_furigana": "けいやくきかんまんりょうあとのこうしんのうむのいかんにかかわらず、こんげつまつまでにしょていのかくにんしょをごていしゅついただくひつようがあります。",
     "sentence_en": "Regardless of whether or not you renew the contract after its expiration, you must submit the prescribed confirmation form by the end of this month.",
     "question": "契約期間満了後の更新の有無の（　　　）、今月末までに所定の確認書をご提出いただく必要があります。",
     "choices": [
@@ -15216,10 +15216,10 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "reading": "いかんにかかわらず",
     "meaning_en": "regardless of",
     "similar": "〜を問わず / 〜に関係なく / 〜はどうあれ",
-    "sentence_jp": "いかなる理由のいかんにかかわらず、提出期限を過ぎた論文は審査の対象外となりますので十分ご注意ください。",
-    "sentence_furigana": "いかなる理由のいかんにかかわらず、提出期限を過ぎた論文は審査の対象外となりますので十分ご注意ください。",
-    "sentence_en": "Please be fully aware that regardless of the reason, papers submitted past the deadline will not be eligible for review.",
-    "question": "いかなる理由の（　　　）、提出期限を過ぎた論文は審査の対象外となりますので十分ご注意ください。",
+    "sentence_jp": "理由のいかんにかかわらず、提出期限を過ぎた論文は審査の対象外となりますので十分ご注意ください。",
+    "sentence_furigana": "りゆうのいかんにかかわらず、ていしゅつきげんをすぎたろんぶんはしんさのたいしょうがいとなりますのでじゅうぶんごちゅういください。",
+    "sentence_en": "Regardless of the reason, please note carefully that papers submitted past the deadline will not be eligible for review.",
+    "question": "理由の（　　　）、提出期限を過ぎた論文は審査の対象外となりますので十分ご注意ください。",
     "choices": [
       "いかんによっては",
       "に難くないため",
@@ -15229,8 +15229,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "いかんにかかわらず",
     "notes": "「<ruby>理由<rt>りゆう</rt></ruby>のいかんにかかわらず（どんな<ruby>理由<rt>りゆう</rt></ruby>があろうとも）」はN1<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もよく<ruby>問<rt>と</rt></ruby>われる<ruby>形<rt>かたち</rt></ruby>の<ruby>一つ<rt>ひとつ</rt></ruby>です。",
-    "question_ruby": "いかなる<ruby>理由<rt>りゆう</rt></ruby>の（　　　）、<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎた<ruby>論文<rt>ろんぶん</rt></ruby>は<ruby>審査<rt>しんさ</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>となりますので<ruby>十分<rt>じゅうぶん</rt></ruby>ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
-    "sentence_jp_ruby": "いかなる<ruby>理由<rt>りゆう</rt></ruby>のいかんにかかわらず、<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎた<ruby>論文<rt>ろんぶん</rt></ruby>は<ruby>審査<rt>しんさ</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>となりますので<ruby>十分<rt>じゅうぶん</rt></ruby>ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
+    "question_ruby": "<ruby>理由<rt>りゆう</rt></ruby>の（　　　）、<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎた<ruby>論文<rt>ろんぶん</rt></ruby>は<ruby>審査<rt>しんさ</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>となりますので<ruby>十分<rt>じゅうぶん</rt></ruby>ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
+    "sentence_jp_ruby": "<ruby>理由<rt>りゆう</rt></ruby>のいかんにかかわらず、<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎた<ruby>論文<rt>ろんぶん</rt></ruby>は<ruby>審査<rt>しんさ</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby><ruby>外<rt>がい</rt></ruby>となりますので<ruby>十分<rt>じゅうぶん</rt></ruby>ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
     "choices_ruby": [
       "いかんによっては",
       "に<ruby>難<rt>かた</rt></ruby>くないため",

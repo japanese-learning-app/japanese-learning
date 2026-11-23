@@ -151,15 +151,15 @@ window.JLPT_N4_LISTENING_DATA = {
       "speech_audio_text": "だいよんもん。男の人と女の人があしたの映画について電話で話しています。ふたりはあした、なんじにどこで会いますか。\n\nもしもし、あしたの映画だけど、じゅうよじに映画館の前で待ち合わせでいい？\n\n映画がじゅうよじはんからだから、少し早めに会ってチケットを発券しない？映画館の前だと混んでいてわかりにくいし。\n\nそうだね。じゃあさんじゅっぷんまえのじゅうよじに駅の改札前はどう？\n\nうん、中央改札の前ならわかりやすいね。じゃあじゅうよじに駅の中央改札で会おう！\n\nわかった、じゃああしたね！\n\n質問。ふたりはあした、なんじにどこで会いますか。",
       "audio_file": "audio/listening/n4_q4.mp3",
       "choices": [
-        "13<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>",
+        "13<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>",
         "14<ruby>時<rt>じ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>売店<rt>ばいてん</rt></ruby>",
-        "14<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>のホーム",
+        "14<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>のホーム",
         "14<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>の<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>"
       ],
       "choices_ruby": [
-        "13<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>",
+        "13<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>",
         "14<ruby>時<rt>じ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>の<ruby>売店<rt>ばいてん</rt></ruby>",
-        "14<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>のホーム",
+        "14<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>のホーム",
         "14<ruby>時<rt>じ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>の<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>"
       ],
       "answer": 3,
@@ -253,21 +253,21 @@ window.JLPT_N4_LISTENING_DATA = {
       "illustration_url": "images/listening_n4/n4_q7.jpg",
       "prompt": "男の人はこのあと、まず何をしますか。",
       "prompt_ruby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>をしますか。",
-      "speech_audio_text": "だいななもん。アパートで引っ越しの手伝いに来た男の人と女の人が話しています。男の人はこのあと、まずなにをしますか。\n\n手伝いに来たよ！なにから始めようか？\n\nありがとう、助かるわ。本や小物はもうダンボールに詰めたから、台所のお皿を割れないように新聞紙で包んでほしいの。\n\nわかった。ダンボールを車に運ぶのはあとでいい？\n\nええ、荷物が全部まとまってから一気に車へ運びましょう。お皿の新聞紙は流しの下にあるから使ってね。\n\nよし、じゃあお皿を包むね。\n\n質問。男の人はこのあと、まずなにをしますか。",
+      "speech_audio_text": "だいななもん。アパートで引っ越しの手伝いに来た男の人と女の人が話しています。男の人はこのあと、まずなにをしますか。\n\n手伝いに来たよ！なにから始めようか？\n\nありがとう、助かるわ。本や小物はもうダンボールに詰めたから、台所のお皿を割れないように新聞紙で包んでほしいの。\n\nわかった。ダンボールを車に運ぶのはあとでいい？\n\nええ、荷物が全部まとまってから一気に車へ運びましょう。お皿を包む新聞紙は流しの下にあるから使ってね。\n\nよし、じゃあお皿を包むね。\n\n質問。男の人はこのあと、まずなにをしますか。",
       "audio_file": "audio/listening/n4_q7.mp3",
       "choices": [
-        "<ruby>新<rt>あたら</rt></ruby>しいアパートへ<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する。",
-        "ダンボールを<ruby>車<rt>くるま</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ぶ。",
-        "<ruby>本<rt>ほん</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>をダンボールに<ruby>詰<rt>つ</rt></ruby>める。",
-        "<ruby>台所<rt>だいどころ</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>新聞紙<rt>しんぶんし</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>む。"
+        "トングとトレーを<ruby>消毒<rt>しょうどく</rt></ruby>して<ruby>入り口<rt>いりぐち</rt></ruby>に<ruby>補充<rt>ほじゅう</rt></ruby>する。",
+        "カレーパンの<ruby>生地<rt>きじ</rt></ruby>をこねる。",
+        "レジでお<ruby>金<rt>かね</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>をする。",
+        "<ruby>外<rt>そと</rt></ruby>の<ruby>看板<rt>かんばん</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>ける。"
       ],
       "choices_ruby": [
-        "<ruby>新<rt>あたら</rt></ruby>しいアパートへ<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する。",
-        "ダンボールを<ruby>車<rt>くるま</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ぶ。",
-        "<ruby>本<rt>ほん</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>をダンボールに<ruby>詰<rt>つ</rt></ruby>める。",
-        "<ruby>台所<rt>だいどころ</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>新聞紙<rt>しんぶんし</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>む。"
+        "トングとトレーを<ruby>消毒<rt>しょうどく</rt></ruby>して<ruby>入り口<rt>いりぐち</rt></ruby>に<ruby>補充<rt>ほじゅう</rt></ruby>する。",
+        "カレーパンの<ruby>生地<rt>きじ</rt></ruby>をこねる。",
+        "レジでお<ruby>金<rt>かね</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>をする。",
+        "<ruby>外<rt>そと</rt></ruby>の<ruby>看板<rt>かんばん</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>ける。"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": {
         "ja": "<ruby>正解<rt>せいかい</rt></ruby>は4<ruby>番<rt>ばん</rt></ruby>です。<ruby>本<rt>ほん</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>はすでに<ruby>箱詰<rt>はこづ</rt></ruby>めが<ruby>終<rt>お</rt></ruby>わっており、<ruby>車<rt>くるま</rt></ruby>への<ruby>運搬<rt>うんぱん</rt></ruby>は<ruby>後<rt>あと</rt></ruby>で<ruby>行<rt>い</rt></ruby>うことになったため、<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はまず「<ruby>台所<rt>だいどころ</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>れないように<ruby>新聞紙<rt>しんぶんし</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>む」<ruby>作業<rt>さぎょう</rt></ruby>をします。",
         "en": "The correct answer is Choice 4. Books and small items are already packed and moving boxes to the car will be done later, so the man will wrap the kitchen plates in newspaper first.",
@@ -358,19 +358,19 @@ window.JLPT_N4_LISTENING_DATA = {
       "illustration_url": "images/listening_n4/n4_q10.jpg",
       "prompt": "女の人が新しいパソコンを気に入っている一番の理由は何ですか。",
       "prompt_ruby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しいパソコンを<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っている<ruby>一番<rt>いちばん</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
-      "speech_audio_text": "だいじゅうもん。会社で男の人と女の人が話しています。女の人が新しいパソコンを気に入っているいちばんの理由はなんですか。\n\n新しい会社のパソコン、使い心地はどう？画面が大きくて見やすそうだね。\n\nうん、画面も綺麗なんだけど、いちばん嬉しいのは本体がすごく軽くなったことなの！前のパソコンは重くて、出張やざいたくきんむで持ち運ぶのが本当に大変だったの。今のは片手で持てるくらい軽くてかたこりが全然しなくなったわ。\n\n持ち運びが楽なのはいちばんのメリットだね。\n\n質問。女の人が新しいパソコンを気に入っているいちばんの理由はなんですか。",
+      "speech_audio_text": "だいじゅうもん。会社で男の人と女の人が話しています。女の人が新しいパソコンを気に入っているいちばんの理由はなんですか。\n\n会社の新しいパソコン、使い心地はどう？／肩こりが全然しなくなったわ。 => 肩が全然こらなくなったわ。画面が大きくて見やすそうだね。\n\nうん、画面も綺麗なんだけど、いちばん嬉しいのは本体がすごく軽くなったことなの！前のパソコンは重くて、出張やざいたくきんむで持ち運ぶのが本当に大変だったの。今のは片手で持てるくらい軽くてかたこりが全然しなくなったわ。\n\n持ち運びが楽なのはいちばんのメリットだね。\n\n質問。女の人が新しいパソコンを気に入っているいちばんの理由はなんですか。",
       "audio_file": "audio/listening/n4_q10.mp3",
       "choices": [
         "<ruby>画面<rt>がめん</rt></ruby>のサイズが<ruby>大<rt>おお</rt></ruby>きくなったこと",
         "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>の<ruby>機種<rt>きしゅ</rt></ruby>より<ruby>安<rt>やす</rt></ruby>かったこと",
         "キーボードの<ruby>文字<rt>もじ</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>ること",
-        "<ruby>本体<rt>ほんたい</rt></ruby>がとても<ruby>軽<rt>かる</rt></ruby>くて<ruby>持<rt>も</rt></ruby>ち<ruby>運<rt>はこ</rt></ruby>びが<ruby>楽<rt>らく</rt></ruby>になったこと"
+        "<ruby>本体<rt>ほんたい</rt></ruby>がとても<ruby>軽<rt>かる</rt></ruby>くて<ruby>持ち運<rt>もちはこ</rt></ruby>びが<ruby>楽<rt>らく</rt></ruby>になったこと"
       ],
       "choices_ruby": [
         "<ruby>画面<rt>がめん</rt></ruby>のサイズが<ruby>大<rt>おお</rt></ruby>きくなったこと",
         "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>の<ruby>機種<rt>きしゅ</rt></ruby>より<ruby>安<rt>やす</rt></ruby>かったこと",
         "キーボードの<ruby>文字<rt>もじ</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>ること",
-        "<ruby>本体<rt>ほんたい</rt></ruby>がとても<ruby>軽<rt>かる</rt></ruby>くて<ruby>持<rt>も</rt></ruby>ち<ruby>運<rt>はこ</rt></ruby>びが<ruby>楽<rt>らく</rt></ruby>になったこと"
+        "<ruby>本体<rt>ほんたい</rt></ruby>がとても<ruby>軽<rt>かる</rt></ruby>くて<ruby>持ち運<rt>もちはこ</rt></ruby>びが<ruby>楽<rt>らく</rt></ruby>になったこと"
       ],
       "answer": 3,
       "explanation": {
@@ -396,13 +396,13 @@ window.JLPT_N4_LISTENING_DATA = {
       "speech_audio_text": "だいじゅういちもん。家で夫と妻が新しい掃除機について話しています。ふたりがこの掃除機を買ったいちばんのきめてはなんですか。\n\n新しいコードレス掃除機、早速届いたね。\n\nええ。デザインもシンプルで部屋に馴染むわね。\n\nうん。他の店で見た機種は軽かったけど、音が大きくて夜に使えそうになかったよね。\n\nそうそう！これは音がすごく静かだから、夜遅くに帰ってきてちょっと掃除したい時でも近所を気にせず使えるのがいちばんのきめてだったわね。\n\nきゅういんりょくも十分だし、いい買い物をしたね。\n\n質問。ふたりがこの掃除機を買ったいちばんのきめてはなんですか。",
       "audio_file": "audio/listening/n4_q11.mp3",
       "choices": [
-        "<ruby>音<rt>おと</rt></ruby>がとても<ruby>静<rt>しず</rt></ruby>かで<ruby>夜<rt>よる</rt></ruby>でも<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>使<rt>つか</rt></ruby>えること",
+        "<ruby>音<rt>おと</rt></ruby>がとても<ruby>静<rt>しず</rt></ruby>かで<ruby>夜<rt>よる</rt></ruby>でも<ruby>気<rt>き</rt></ruby>にせず<ruby>使<rt>つか</rt></ruby>えること",
         "セールで<ruby>半額<rt>はんがく</rt></ruby>になっていたこと",
         "<ruby>重<rt>おも</rt></ruby>くて<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>倒<rt>たお</rt></ruby>れないこと",
         "ゴミを<ruby>自動<rt>じどう</rt></ruby>でゴミ<ruby>箱<rt>ばこ</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>んでくれること"
       ],
       "choices_ruby": [
-        "<ruby>音<rt>おと</rt></ruby>がとても<ruby>静<rt>しず</rt></ruby>かで<ruby>夜<rt>よる</rt></ruby>でも<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>使<rt>つか</rt></ruby>えること",
+        "<ruby>音<rt>おと</rt></ruby>がとても<ruby>静<rt>しず</rt></ruby>かで<ruby>夜<rt>よる</rt></ruby>でも<ruby>気<rt>き</rt></ruby>にせず<ruby>使<rt>つか</rt></ruby>えること",
         "セールで<ruby>半額<rt>はんがく</rt></ruby>になっていたこと",
         "<ruby>重<rt>おも</rt></ruby>くて<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>倒<rt>たお</rt></ruby>れないこと",
         "ゴミを<ruby>自動<rt>じどう</rt></ruby>でゴミ<ruby>箱<rt>ばこ</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>んでくれること"
@@ -538,13 +538,13 @@ window.JLPT_N4_LISTENING_DATA = {
       "choices": [
         "ウェアの<ruby>着心地<rt>きごこち</rt></ruby>を<ruby>確<rt>たし</rt></ruby>かめるため",
         "<ruby>身長<rt>しんちょう</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすため",
-        "<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めて<ruby>肉離<rt>にくばな</rt></ruby>れなどの<ruby>怪我<rt>けが</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するため",
+        "<ruby>体<rt>からだ</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかくしてけがを<ruby>防<rt>ふせ</rt></ruby>ぐため",
         "<ruby>眠気<rt>ねむけ</rt></ruby>を<ruby>誘<rt>さそ</rt></ruby>ってリラックスするため"
       ],
       "choices_ruby": [
         "ウェアの<ruby>着心地<rt>きごこち</rt></ruby>を<ruby>確<rt>たし</rt></ruby>かめるため",
         "<ruby>身長<rt>しんちょう</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすため",
-        "<ruby>柔軟<rt>じゅうなん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めて<ruby>肉離<rt>にくばな</rt></ruby>れなどの<ruby>怪我<rt>けが</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するため",
+        "<ruby>体<rt>からだ</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかくしてけがを<ruby>防<rt>ふせ</rt></ruby>ぐため",
         "<ruby>眠気<rt>ねむけ</rt></ruby>を<ruby>誘<rt>さそ</rt></ruby>ってリラックスするため"
       ],
       "answer": 2,

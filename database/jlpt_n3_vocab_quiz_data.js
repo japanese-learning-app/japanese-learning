@@ -652,8 +652,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "就職",
-    "question": "兄はコンピューターの会社に就職が決まった。",
-    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>はコンピューターの<ruby>会社<rt>かいしゃ</rt></ruby>に<u>就職</u>が<ruby>決<rt>き</rt></ruby>まった。",
+    "question": "兄はコンピューターの会社への就職が決まった。",
+    "question_ruby": "<ruby>兄<rt>あに</rt></ruby>はコンピューターの<ruby>会社<rt>かいしゃ</rt></ruby>への<ruby>就職<rt>しゅうしょく</rt></ruby>が<ruby>決<rt>き</rt></ruby>まった。",
     "choices": [
       "じゅうしょく",
       "しゅうじょく",
@@ -976,8 +976,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "換気",
-    "question": "毎朝、部屋の空気を換気するようにしている。",
-    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<u>換気</u>するようにしている。",
+    "question": "毎朝、窓を開けて部屋を換気するようにしている。",
+    "question_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<ruby>部屋<rt>へや</rt></ruby>を<ruby>換気<rt>かんき</rt></ruby>するようにしている。",
     "choices": [
       "へんき",
       "がんき",
@@ -1300,8 +1300,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "訓練",
-    "question": "マラソン大会に向けて毎日訓練を重ねている。",
-    "question_ruby": "マラソン<ruby>大会<rt>たいかい</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>毎日<rt>まいにち</rt></ruby><u>訓練</u>を<ruby>重<rt>かさ</rt></ruby>ねている。",
+    "question": "救助隊員は災害に備えて毎日訓練を重ねている。",
+    "question_ruby": "<ruby>救助<rt>きゅうじょ</rt></ruby><ruby>隊員<rt>たいいん</rt></ruby>は<ruby>災害<rt>さいがい</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて<ruby>毎日<rt>まいにち</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねている。",
     "choices": [
       "くんれん",
       "くれん",
@@ -2164,8 +2164,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "貯金",
-    "question": "毎日少しずつお金を貯金して旅行に行くつもりだ。",
-    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつお<ruby>金<rt>かね</rt></ruby>を<u>貯金</u>して<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くつもりだ。",
+    "question": "毎月少しずつ貯金して、海外旅行に行くつもりだ。",
+    "question_ruby": "<ruby>毎月<rt>まいつき</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>貯金<rt>ちょきん</rt></ruby>して、<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くつもりだ。",
     "choices": [
       "ちょきん",
       "とっきん",
@@ -2272,8 +2272,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "場面",
-    "question": "この小説の場面は京都の古い町並みがモデルになっている。",
-    "question_ruby": "この<ruby>小説<rt>しょうせつ</rt></ruby>の<u>場面</u>は<ruby>京都<rt>きょうと</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>町並<rt>まちな</rt></ruby>みがモデルになっている。",
+    "question": "この小説の感動的な場面を何度も読み返した。",
+    "question_ruby": "この<ruby>小説<rt>しょうせつ</rt></ruby>の<ruby>感動<rt>かんどう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>場面<rt>ばめん</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>読み返<rt>よみかえ</rt></ruby>した。",
     "choices": [
       "じょうめん",
       "はめん",
@@ -2488,8 +2488,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "満足",
-    "question": "難しい問題を解決して大きな満足を感じた。",
-    "question_ruby": "<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>して<ruby>大<rt>おお</rt></ruby>きな<u>満足</u>を<ruby>感<rt>かん</rt></ruby>じた。",
+    "question": "テストの結果が良くてとても満足している。",
+    "question_ruby": "テストの<ruby>結果<rt>けっか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くてとても<ruby>満足<rt>まんぞく</rt></ruby>している。",
     "choices": [
       "まんぞく",
       "まぞく",
@@ -2651,7 +2651,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "漢字読み",
     "target_word": "比較",
     "question": "二つの案を比較して、より良い方を選んだ。",
-    "question_ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<u>比較</u>して、より<ruby>良<rt>よ</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
+    "question_ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<u>比較</u>して、より<ruby>良<rt>よ</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
     "choices": [
       "びかく",
       "ひがく",
@@ -3082,8 +3082,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "鈍く",
-    "question": "包丁の刃が欠けて鈍くなっている。",
-    "question_ruby": "<ruby>包丁<rt>ほうちょう</rt></ruby>の<ruby>刃<rt>は</rt></ruby>が<ruby>欠<rt>か</rt></ruby>けて<u>鈍く</u>なっている。",
+    "question": "包丁を長く使っているので、切れ味が鈍くなっている。",
+    "question_ruby": "<ruby>包丁<rt>ほうちょう</rt></ruby>を<ruby>長<rt>なが</rt></ruby>く<ruby>使<rt>つか</rt></ruby>っているので、<ruby>切れ味<rt>きれあじ</rt></ruby>が<ruby>鈍<rt>にぶ</rt></ruby>くなっている。",
     "choices": [
       "じゅんく",
       "にぶく",
@@ -3109,8 +3109,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "鋭くて",
-    "question": "職人が丁寧に研いだこの包丁は、とても【鋭く】てよく切れる。",
-    "question_ruby": "<ruby>職人<rt>しょくにん</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>研<rt>と</rt></ruby>いだこの<ruby>包丁<rt>ほうちょう</rt></ruby>は、とても【<ruby>鋭<rt>するど</rt></ruby>く】てよく<ruby>切<rt>き</rt></ruby>れる。",
+    "question": "職人が丁寧に研いだこの包丁は、刃がとても鋭くてよく切れる。",
+    "question_ruby": "<ruby>職人<rt>しょくにん</rt></ruby>が<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>研<rt>みが</rt></ruby>いだこの<ruby>包丁<rt>ほうちょう</rt></ruby>は、<ruby>刃<rt>は</rt></ruby>がとても<ruby>鋭<rt>するど</rt></ruby>くてよく<ruby>切<rt>き</rt></ruby>れる。",
     "choices": [
       "えいどくて",
       "にぶくて",
@@ -3757,8 +3757,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "観測",
-    "question": "毎日の天気をノートに観測して記録をつけた。",
-    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>をノートに<u>観測</u>して<ruby>記録<rt>きろく</rt></ruby>をつけた。",
+    "question": "毎日の天気を観測して、ノートに記録をつけた。",
+    "question_ruby": "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>を<ruby>観測<rt>かんそく</rt></ruby>して、ノートに<ruby>記録<rt>きろく</rt></ruby>をつけた。",
     "choices": [
       "がんそく",
       "けんそく",
@@ -4108,8 +4108,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "おさめた",
-    "question": "大学で経済学を専門におさめた。",
-    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>経済<rt>けいざい</rt></ruby><ruby>学<rt>がく</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby>に<u>おさめた</u>。",
+    "question": "大学で心理学を熱心におさめた。",
+    "question_ruby": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>心理<rt>しんり</rt></ruby><ruby>学<rt>がく</rt></ruby>を<ruby>熱心<rt>ねっしん</rt></ruby>におさめた。",
     "choices": [
       "収めた",
       "納めた",
@@ -4128,7 +4128,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "学問や技芸を身につけるときは「修める（おさめる）」と書きます。",
     "target_word_reading": "おさめた",
     "correct_text_reading": "おさめた",
-    "correct_text_ruby": "修めた"
+    "correct_text_ruby": "<ruby>修<rt>おさ</rt></ruby>めた"
   },
   {
     "id": 154,
@@ -4378,8 +4378,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "とけはじめた",
-    "question": "春になって山の雪が少しずつとけはじめた。",
-    "question_ruby": "<ruby>春<rt>はる</rt></ruby>になって<ruby>山<rt>やま</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<u>とけはじめた</u>。",
+    "question": "フライパンの上でバターが少しずつとけはじめた。",
+    "question_ruby": "フライパンの<ruby>上<rt>うえ</rt></ruby>でバターが<ruby>少<rt>すこ</rt></ruby>しずつとけはじめた。",
     "choices": [
       "抜け始めた",
       "溶け始めた",
@@ -4398,7 +4398,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "雪や氷、砂糖などが液体になるときはさんずいの「溶ける（とける）」と書きます。",
     "target_word_reading": "とけはじめた",
     "correct_text_reading": "とけはじめた",
-    "correct_text_ruby": "溶け始めた"
+    "correct_text_ruby": "<ruby>溶<rt>と</rt></ruby>け<ruby>始<rt>はじ</rt></ruby>めた"
   },
   {
     "id": 164,
@@ -4492,13 +4492,13 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "採り替えたら",
       "取り替えたら",
       "執り替えたら",
-      "取り換えたら"
+      "取り変えたら"
     ],
     "choices_ruby": [
       "採り替えたら",
       "取り替えたら",
       "執り替えたら",
-      "取り換えたら"
+      "取り変えたら"
     ],
     "answer": 1,
     "correct_text": "取り替えたら",
@@ -4506,7 +4506,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "今まで使っていた物を新しい物と入れ替えるときは「取り替える（とりかえる）」と書きます。",
     "target_word_reading": "とりかえたら",
     "correct_text_reading": "とりかえたら",
-    "correct_text_ruby": "取り替えたら"
+    "correct_text_ruby": "<ruby>取り替<rt>とりか</rt></ruby>えたら"
   },
   {
     "id": 168,
@@ -4518,13 +4518,13 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "choices": [
       "乗り換えた",
       "載り換えた",
-      "乗り替えた",
+      "乗り代えた",
       "乗り変えた"
     ],
     "choices_ruby": [
       "乗り換えた",
       "載り換えた",
-      "乗り替えた",
+      "乗り代えた",
       "乗り変えた"
     ],
     "answer": 0,
@@ -4533,7 +4533,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "電車やバスを別の路線に移るときは「乗り換える（のりかえる）」と書きます。",
     "target_word_reading": "のりかえた",
     "correct_text_reading": "のりかえた",
-    "correct_text_ruby": "乗り換えた"
+    "correct_text_ruby": "<ruby>乗り換<rt>のりか</rt></ruby>えた"
   },
   {
     "id": 169,
@@ -4999,8 +4999,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "ととのえた",
-    "question": "旅行の前に必要な持ち物をととのえた。",
-    "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>を<u>ととのえた</u>。",
+    "question": "旅行の前に必要な準備をととのえた。",
+    "question_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>準備<rt>じゅんび</rt></ruby>をととのえた。",
     "choices": [
       "整えた",
       "備えた",
@@ -5019,7 +5019,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "乱れがないように準備してきちんとした状態にすることは「整える（ととのえる）」と書きます。",
     "target_word_reading": "ととのえた",
     "correct_text_reading": "ととのえた",
-    "correct_text_ruby": "整えた"
+    "correct_text_ruby": "<ruby>整<rt>ととの</rt></ruby>えた"
   },
   {
     "id": 187,
@@ -5432,7 +5432,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "表記",
     "target_word": "はずかしかった",
     "question": "大勢の前で名前を間違えてはずかしかった。",
-    "question_ruby": "<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えて<u>はずかしかった</u>。",
+    "question_ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えて<u>はずかしかった</u>。",
     "choices": [
       "懐かしかった",
       "珍しかった",
@@ -5647,8 +5647,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "あさい",
-    "question": "この川は水深があさいので子供でも歩いて渡れる。",
-    "question_ruby": "この<ruby>川<rt>かわ</rt></ruby>は<ruby>水深<rt>すいしん</rt></ruby>が<u>あさい</u>ので<ruby>子供<rt>こども</rt></ruby>でも<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>れる。",
+    "question": "この川は水があさいので子供でも歩いて渡れる。",
+    "question_ruby": "この<ruby>川<rt>かわ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>があさいので<ruby>子供<rt>こども</rt></ruby>でも<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>れる。",
     "choices": [
       "低い",
       "深い",
@@ -5667,7 +5667,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "底までの距離が短いことはさんずいの「浅い（あさい）」と書きます。",
     "target_word_reading": "あさい",
     "correct_text_reading": "あさい",
-    "correct_text_ruby": "浅い"
+    "correct_text_ruby": "<ruby>浅<rt>あさ</rt></ruby>い"
   },
   {
     "id": 211,
@@ -6295,8 +6295,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "こな",
-    "question": "小麦のこなを使って家でパンを焼いた。",
-    "question_ruby": "<ruby>小麦<rt>こむぎ</rt></ruby>の<u>こな</u>を<ruby>使<rt>つか</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>でパンを<ruby>焼<rt>や</rt></ruby>いた。",
+    "question": "うどんを作るために、水とこなをよく混ぜた。",
+    "question_ruby": "うどんを<ruby>作<rt>つく</rt></ruby>るために、<ruby>水<rt>みず</rt></ruby>とこなをよく<ruby>混<rt>ま</rt></ruby>ぜた。",
     "choices": [
       "砂",
       "米",
@@ -6315,15 +6315,15 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "細かく砕いたものは米へんの「粉（こな）」と書きます。",
     "target_word_reading": "こな",
     "correct_text_reading": "こな",
-    "correct_text_ruby": "粉"
+    "correct_text_ruby": "<ruby>粉<rt>こな</rt></ruby>"
   },
   {
     "id": 235,
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "つぶ",
-    "question": "ぶどうを一つぶずつ洗って皿に盛った。",
-    "question_ruby": "ぶどうを<ruby>一<rt>いち</rt></ruby><u>つぶ</u>ずつ<ruby>洗<rt>あら</rt></ruby>って<ruby>皿<rt>さら</rt></ruby>に<ruby>盛<rt>も</rt></ruby>った。",
+    "question": "お米を一つぶも残さずにきれいに食べた。",
+    "question_ruby": "お<ruby>米<rt>こめ</rt></ruby>を<ruby>一<rt>いち</rt></ruby>つぶも<ruby>残<rt>のこ</rt></ruby>さずにきれいに<ruby>食<rt>た</rt></ruby>べた。",
     "choices": [
       "粉",
       "粒",
@@ -6342,7 +6342,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "小さく丸いものは米へんの「粒（つぶ）」と書きます。",
     "target_word_reading": "つぶ",
     "correct_text_reading": "つぶ",
-    "correct_text_ruby": "粒"
+    "correct_text_ruby": "<ruby>粒<rt>つぶ</rt></ruby>"
   },
   {
     "id": 236,
@@ -6403,8 +6403,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "表記",
     "target_word": "なわ",
-    "question": "古い雑誌をなわでしっかり縛って片付けた。",
-    "question_ruby": "<ruby>古<rt>ふる</rt></ruby>い<ruby>雑誌<rt>ざっし</rt></ruby>を<u>なわ</u>でしっかり<ruby>縛<rt>しば</rt></ruby>って<ruby>片付<rt>かたづ</rt></ruby>けた。",
+    "question": "荷物が落ちないように、太いなわでしっかり縛った。",
+    "question_ruby": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちないように、<ruby>太<rt>ふと</rt></ruby>いなわでしっかり<ruby>縛<rt>しば</rt></ruby>った。",
     "choices": [
       "布",
       "縄",
@@ -6423,7 +6423,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "繊維をより合わせた太いひもは糸へんの「縄（なわ）」と書きます。",
     "target_word_reading": "なわ",
     "correct_text_reading": "なわ",
-    "correct_text_ruby": "縄"
+    "correct_text_ruby": "<ruby>縄<rt>なわ</rt></ruby>"
   },
   {
     "id": 239,
@@ -6808,8 +6808,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "彼はどんなに難しい仕事でも最後まで責任を持って（　　　）する。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>はどんなに<ruby>難<rt>むずか</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>でも<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って（　　　）する。",
+    "question": "自分で決めたことは、どんなに難しくても最後まで責任を持って（　　　）する。",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めたことは、どんなに<ruby>難<rt>むずか</rt></ruby>しくても<ruby>最後<rt>さいご</rt></ruby>まで<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って（　　　）する。",
     "choices": [
       "実用",
       "実行",
@@ -7028,13 +7028,13 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "question_ruby": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れそうだったので、タクシーを（　　　）<ruby>駅<rt>えき</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かった。",
     "choices": [
       "乗せて",
-      "捕まえて",
+      "運んで",
       "集めて",
       "拾って"
     ],
     "choices_ruby": [
       "<ruby>乗<rt>の</rt></ruby>せて",
-      "<ruby>捕<rt>つか</rt></ruby>まえて",
+      "<ruby>運<rt>はこ</rt></ruby>んで",
       "<ruby>集<rt>あつ</rt></ruby>めて",
       "<ruby>拾<rt>ひろ</rt></ruby>って"
     ],
@@ -7213,16 +7213,16 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "森の奥から冷たくてきれいな水が（　　　）いる。",
-    "question_ruby": "<ruby>森<rt>もり</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>から<ruby>冷<rt>つめ</rt></ruby>たくてきれいな<ruby>水<rt>みず</rt></ruby>が（　　　）いる。",
+    "question": "森の奥の地面から、冷たくてきれいな水が（　　　）いる。",
+    "question_ruby": "<ruby>森<rt>もり</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>の<ruby>地面<rt>じめん</rt></ruby>から、<ruby>冷<rt>つめ</rt></ruby>たくてきれいな<ruby>水<rt>みず</rt></ruby>が（　　　）いる。",
     "choices": [
-      "流れて",
+      "沈んで",
       "漏れて",
       "沸いて",
       "湧いて"
     ],
     "choices_ruby": [
-      "<ruby>流<rt>なが</rt></ruby>れて",
+      "<ruby>沈<rt>しず</rt></ruby>んで",
       "<ruby>漏<rt>も</rt></ruby>れて",
       "<ruby>沸<rt>わ</rt></ruby>いて",
       "<ruby>湧<rt>わ</rt></ruby>いて"
@@ -8212,18 +8212,18 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "山の頂上に近づくにつれて、だんだん（　　　）が下がってきた。",
-    "question_ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づくにつれて、だんだん（　　　）が<ruby>下<rt>さ</rt></ruby>がってきた。",
+    "question": "山の頂上に近づくにつれて風も冷たくなり、だんだん（　　　）が下がってきた。",
+    "question_ruby": "<ruby>山<rt>やま</rt></ruby>の<ruby>頂上<rt>ちょうじょう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づくにつれて<ruby>風<rt>かぜ</rt></ruby>も<ruby>冷<rt>つめ</rt></ruby>たくなり、だんだん（　　　）が<ruby>下<rt>さ</rt></ruby>がってきた。",
     "choices": [
       "湿度",
       "体温",
-      "気圧",
+      "高度",
       "気温"
     ],
     "choices_ruby": [
       "<ruby>湿度<rt>しつど</rt></ruby>",
       "<ruby>体温<rt>たいおん</rt></ruby>",
-      "<ruby>気圧<rt>きあつ</rt></ruby>",
+      "<ruby>高度<rt>こうど</rt></ruby>",
       "<ruby>気温<rt>きおん</rt></ruby>"
     ],
     "answer": 3,
@@ -9454,19 +9454,19 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "引っ越しの荷物が多すぎて、とても一度では（　　　）きれない。",
-    "question_ruby": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しの<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、とても<ruby>一度<rt>いちど</rt></ruby>では（　　　）きれない。",
+    "question": "引っ越しの荷物が多すぎて、とても一度では新しい部屋まで（　　　）きれない。",
+    "question_ruby": "<ruby>引っ越<rt>ひっこ</rt></ruby>しの<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、とても<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>では<ruby>新<rt>あたら</rt></ruby>しい<ruby>部屋<rt>へや</rt></ruby>まで（　　　）きれない。",
     "choices": [
-      "持ち",
+      "選び",
       "運び",
-      "詰め",
-      "積み"
+      "直し",
+      "調べ"
     ],
     "choices_ruby": [
-      "<ruby>持<rt>も</rt></ruby>ち",
+      "<ruby>選<rt>えら</rt></ruby>び",
       "<ruby>運<rt>はこ</rt></ruby>び",
-      "<ruby>詰<rt>つ</rt></ruby>め",
-      "<ruby>積<rt>つ</rt></ruby>み"
+      "<ruby>直<rt>なお</rt></ruby>し",
+      "<ruby>調<rt>しら</rt></ruby>べ"
     ],
     "answer": 1,
     "correct_text": "運び",
@@ -9994,8 +9994,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "窓を開けっ放しにして寝たせいか、朝から鼻が出て（　　　）がする。",
-    "question_ruby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けっ<ruby>放<rt>はな</rt></ruby>しにして<ruby>寝<rt>ね</rt></ruby>たせいか、<ruby>朝<rt>あさ</rt></ruby>から<ruby>鼻<rt>はな</rt></ruby>が<ruby>出<rt>で</rt></ruby>て（　　　）がする。",
+    "question": "窓を開けっ放しにして寝たせいか、朝から鼻がむずむずして何度も（　　　）が出る。",
+    "question_ruby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開けっ放<rt>あけっぱな</rt></ruby>しにして<ruby>寝<rt>ね</rt></ruby>たせいか、<ruby>朝<rt>あさ</rt></ruby>から<ruby>鼻<rt>はな</rt></ruby>がむずむずして<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も（　　　）が<ruby>出<rt>で</rt></ruby>る。",
     "choices": [
       "しゃっくり",
       "くしゃみ",
@@ -10183,8 +10183,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "語彙・文脈規定",
     "target_word": "",
-    "question": "欲しかった限定品の時計が手に入って、彼は（　　　）がいっぱいだ。",
-    "question_ruby": "<ruby>欲<rt>ほ</rt></ruby>しかった<ruby>限定<rt>げんてい</rt></ruby><ruby>品<rt>ひん</rt></ruby>の<ruby>時計<rt>とけい</rt></ruby>が<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<ruby>彼<rt>かれ</rt></ruby>は（　　　）がいっぱいだ。",
+    "question": "お世話になった先生からの温かい手紙を読んで、彼は感動で（　　　）がいっぱいになった。",
+    "question_ruby": "お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>先生<rt>せんせい</rt></ruby>からの<ruby>温<rt>あたた</rt></ruby>かい<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>彼<rt>かれ</rt></ruby>は<ruby>感動<rt>かんどう</rt></ruby>で（　　　）がいっぱいになった。",
     "choices": [
       "手",
       "胸",
@@ -10750,8 +10750,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "source": "JLPT N3 実戦オリジナル問題",
     "category": "類義語",
     "target_word": "まとめる",
-    "question": "話し合いの結果、二つの計画を一つにまとめることにした。",
-    "question_ruby": "<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いの<ruby>結果<rt>けっか</rt></ruby>、<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>一つ<rt>ひとつ</rt></ruby>に<u>まとめる</u>ことにした。",
+    "question": "話し合いの結果、みんなの意見をまとめることにした。",
+    "question_ruby": "<ruby>話し合<rt>はなしあ</rt></ruby>いの<ruby>結果<rt>けっか</rt></ruby>、みんなの<ruby>意見<rt>いけん</rt></ruby>をまとめることにした。",
     "choices": [
       "中止にする",
       "一つにする",
@@ -10770,7 +10770,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "「まとめる」はばらばらのものを集めて「一つにする」ことです。",
     "target_word_reading": "まとめる",
     "correct_text_reading": "ひとつにする",
-    "correct_text_ruby": "<ruby>一つ<rt>ひとつ</rt></ruby>にする"
+    "correct_text_ruby": "<ruby>一<rt>ひと</rt></ruby>つにする"
   },
   {
     "id": 400,
@@ -11534,7 +11534,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "類義語",
     "target_word": "比較",
     "question": "二つの製品をひかくして良い方を選んだ。",
-    "question_ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>を<u>ひかく</u>して<ruby>良<rt>よ</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
+    "question_ruby": "<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>を<u>ひかく</u>して<ruby>良<rt>よ</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ。",
     "choices": [
       "別々に買うこと",
       "比べてみること",
@@ -11753,23 +11753,23 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<u>すなお</u>に<ruby>認<rt>みと</rt></ruby>めた。",
     "choices": [
       "怒りながら",
-      "隠さず正直",
+      "隠さず正直に",
       "冗談めかして",
       "言い訳をして"
     ],
     "choices_ruby": [
       "<ruby>怒<rt>おこ</rt></ruby>りながら",
-      "<ruby>隠<rt>かく</rt></ruby>さず<ruby>正直<rt>しょうじき</rt></ruby>",
+      "<ruby>隠<rt>かく</rt></ruby>さず<ruby>正直<rt>しょうじき</rt></ruby>に",
       "<ruby>冗談<rt>じょうだん</rt></ruby>めかして",
-      "<ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>をして"
+      "<ruby>言い訳<rt>いいわけ</rt></ruby>をして"
     ],
     "answer": 1,
-    "correct_text": "隠さず正直",
+    "correct_text": "隠さず正直に",
     "meaning_en": "honest; frank; obedient",
     "explanation": "ここでの「素直（すなお）に」は逆らったりごまかしたりせず「隠さず正直に」という意味です。",
     "target_word_reading": "すなお",
     "correct_text_reading": "かくさずしょうじき",
-    "correct_text_ruby": "<ruby>隠<rt>かく</rt></ruby>さず<ruby>正直<rt>しょうじき</rt></ruby>"
+    "correct_text_ruby": "<ruby>隠<rt>かく</rt></ruby>さず<ruby>正直<rt>しょうじき</rt></ruby>に"
   },
   {
     "id": 437,
@@ -12030,8 +12030,8 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "このスープはまるで<ruby>少<rt>すこ</rt></ruby>し<ruby>塩<rt>しお</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない。",
       "これからまるで<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。",
-      "<ruby>四月<rt>よがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>四月<rt>よがつ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。",
-      "<ruby>四月<rt>よがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>真冬<rt>まふゆ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。"
+      "<ruby>四月<rt>しがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>四月<rt>しがつ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。",
+      "<ruby>四月<rt>しがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>真冬<rt>まふゆ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。"
     ],
     "answer": 3,
     "correct_text": "四月なのに雪が降って、まるで真冬のような寒さだ。",
@@ -12039,7 +12039,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "「まるで〜ようだ／みたいだ」の形で、実際とは違うものに例える（比喩）ときに使います。",
     "target_word_reading": "まるで",
     "correct_text_reading": "まるで",
-    "correct_text_ruby": "<ruby>四月<rt>よがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>真冬<rt>まふゆ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。"
+    "correct_text_ruby": "<ruby>四月<rt>しがつ</rt></ruby>なのに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、まるで<ruby>真冬<rt>まふゆ</rt></ruby>のような<ruby>寒<rt>さむ</rt></ruby>さだ。"
   },
   {
     "id": 447,
@@ -12112,7 +12112,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に、たちまち<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しをする<ruby>予定<rt>よてい</rt></ruby>だ。",
       "この<ruby>部屋<rt>へや</rt></ruby>はたちまち<ruby>広<rt>ひろ</rt></ruby>くて<ruby>日当<rt>ひあ</rt></ruby>たりがいい。",
       "<ruby>十<rt>じゅう</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>かけて、たちまち<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるようになった。",
-      "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>みせ</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
+      "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>てん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
     ],
     "answer": 3,
     "correct_text": "新しいパン屋が開店すると、おいしいと評判になり、たちまち人気店になった。",
@@ -12120,7 +12120,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "「たちまち」はごく短い時間のうちに急激な変化が起こる様子に使います。長い期間や状態には使いません。",
     "target_word_reading": "たちまち",
     "correct_text_reading": "たちまち",
-    "correct_text_ruby": "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>みせ</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
+    "correct_text_ruby": "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>てん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
   },
   {
     "id": 450,
@@ -12128,7 +12128,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "徐々に",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【徐々に】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>徐々<rt>じょじょ</rt></ruby>に】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【徐々に】",
     "choices": [
       "風船が針に触れて、徐々にパーンと割れた。",
       "春が近づき、毎日の気温が徐々に上がってきた。",
@@ -12155,7 +12155,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "直ちに",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【直ちに】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>直<rt>ただ</rt></ruby>ちに】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【直ちに】",
     "choices": [
       "地震が起きたら、直ちに火を消して身の安全を確保してください。",
       "三年かけて直ちに少しずつ貯金をした。",
@@ -12182,7 +12182,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "極端に",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【極端に】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>極端<rt>きょくたん</rt></ruby>に】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【極端に】",
     "choices": [
       "彼は極端に普通のシャツを着ている。",
       "駅の前に極端に銀行が一つある。",
@@ -12209,7 +12209,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "比較的",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【比較的】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>比較的<rt>ひかくてき</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【比較的】",
     "choices": [
       "水を比較的コップに一杯入れてください。",
       "彼は比較的大学生になった。",
@@ -12236,7 +12236,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "案外",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【案外】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>案外<rt>あんがい</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【案外】",
     "choices": [
       "毎日練習していたので、案外上手になったのは当然だ。",
       "明日は案外水曜日ですね。",
@@ -12290,7 +12290,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "幸い",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【幸い】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>幸<rt>さいわ</rt></ruby>い】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【幸い】",
     "choices": [
       "自転車で転んだが、幸い大きなけがはなかった。",
       "雨が降ってきて、幸い洗濯物がびしょびしょになった。",
@@ -12317,7 +12317,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "思い切って",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【思い切って】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>思<rt>おも</rt></ruby>い<ruby>切<rt>き</rt></ruby>って】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【思い切って】",
     "choices": [
       "外は雨が降っているので、思い切って道がぬれている。",
       "ずっと欲しかった高いカメラを、ボーナスで思い切って買った。",
@@ -12533,7 +12533,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "尊重",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【尊重】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>尊重<rt>そんちょう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【尊重】",
     "choices": [
       "古い家具を尊重して、粗大ごみとして捨てた。",
       "家族であっても、それぞれの意見やプライバシーを尊重することが大切だ。",
@@ -12560,7 +12560,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "感謝",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【感謝】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>感謝<rt>かんしゃ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【感謝】",
     "choices": [
       "来週の会議の予定を、手帳に感謝しておいた。",
       "道に落ちていたごみを、ごみ箱に感謝した。",
@@ -12587,7 +12587,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "感心",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【感心】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>感心<rt>かんしん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【感心】",
     "choices": [
       "分からない単語の意味を、辞書で感心して調べた。",
       "最近の環境問題について、とても高い感心を持っている。",
@@ -12614,7 +12614,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "関心",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【関心】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>関心<rt>かんしん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【関心】",
     "choices": [
       "祖父は健康への関心が高く、毎日欠かさず散歩をしている。",
       "駅の階段で重い荷物を関心して運んだ。",
@@ -12641,7 +12641,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "工夫",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【工夫】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>工夫<rt>くふう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【工夫】",
     "choices": [
       "朝起きたら熱があったので、風邪を工夫した。",
       "駅の窓口で新幹線の切符を二枚工夫した。",
@@ -12668,7 +12668,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "我慢",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【我慢】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>我慢<rt>がまん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【我慢】",
     "choices": [
       "歯が痛かったが、仕事が終わるまで我慢して働いた。",
       "天気が良かったので、公園のベンチで日光を我慢した。",
@@ -12695,7 +12695,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "遠慮",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【遠慮】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>遠慮<rt>えんりょ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【遠慮】",
     "choices": [
       "朝早く起きて、部屋の窓を遠慮して開けた。",
       "電車の中では、携帯電話での通話は遠慮してください。",
@@ -12722,7 +12722,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "自慢",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【自慢】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>自慢<rt>じまん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【自慢】",
     "choices": [
       "約束の時間に遅れたことを、相手に深く自慢して謝った。",
       "彼はテストで悪い点を取ってしまい、恥ずかしくてみんなに自慢した。",
@@ -12749,7 +12749,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "主張",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【主張】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>主張<rt>しゅちょう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【主張】",
     "choices": [
       "会議では、自分の意見ばかりを主張するのではなく、相手の話も聞くべきだ。",
       "封筒の表に切手を主張してポストに入れた。",
@@ -12776,7 +12776,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "提案",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【提案】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>提案<rt>ていあん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【提案】",
     "choices": [
       "図書館で借りていた本を、受付の人に提案して返した。",
       "職場の環境を良くするために、会議で新しい方法を提案した。",
@@ -12803,7 +12803,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "確認",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【確認】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>確認<rt>かくにん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【確認】",
     "choices": [
       "壊れた自転車を修理屋に出して、新しく確認してもらった。",
       "汚れたシャツを洗濯機に入れて、きれいに確認した。",
@@ -12830,7 +12830,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "解決",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【解決】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>解決<rt>かいけつ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【解決】",
     "choices": [
       "春になって暖かくなり、山の雪がすっかり解決した。",
       "靴のひもが歩いているうちに、自然に解決してしまった。",
@@ -12857,7 +12857,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "達成",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【達成】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>達成<rt>たっせい</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【達成】",
     "choices": [
       "三時間かけて、ようやく夕食のカレーが達成した。",
       "駅の近くに新しい十階建てのビルが達成した。",
@@ -12884,7 +12884,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "完成",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【完成】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>完成<rt>かんせい</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【完成】",
     "choices": [
       "約束の場所に友達がちょうど完成した。",
       "半年かけて作っていた木の椅子が、今日ついに完成した。",
@@ -12911,7 +12911,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "実現",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【実現】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>実現<rt>じつげん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【実現】",
     "choices": [
       "宇宙へ行ってみたいという子供のころからの夢が実現した。",
       "部屋の隅に落ちていた鍵をやっと実現した。",
@@ -12938,7 +12938,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "節約",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【節約】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>節約<rt>せつやく</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【節約】",
     "choices": [
       "会議の時間を一時間から三十分に節約した。",
       "写真のサイズを半分に節約して印刷した。",
@@ -12965,7 +12965,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "省略",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【省略】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>省略<rt>しょうりゃく</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【省略】",
     "choices": [
       "将来のために、毎月の給料から三万円を省略している。",
       "ズボンの丈が長かったので、五センチ省略してもらった。",
@@ -12992,7 +12992,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "短縮",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【短縮】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>短縮<rt>たんしゅく</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【短縮】",
     "choices": [
       "話の途中の詳しい例を短縮して結論だけ述べた。",
       "新しい急行電車ができたおかげで、通勤時間が二十分短縮された。",
@@ -13019,7 +13019,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "延長",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【延長】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>延長<rt>えんちょう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【延長】",
     "choices": [
       "展示会が好評だったため、開催期間が一週間延長された。",
       "背筋をまっすぐに延長して椅子に座った。",
@@ -13046,7 +13046,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "回復",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【回復】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>回復<rt>かいふく</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【回復】",
     "choices": [
       "壊れたパソコンを自分で部品を買って回復した。",
       "間違えて書いてしまった文字を消しゴムで回復した。",
@@ -13073,7 +13073,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "維持",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【維持】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>維持<rt>いじ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【維持】",
     "choices": [
       "健康を維持するために、毎日野菜を食べて適度な運動をしている。",
       "図書館で借りた本を二週間維持して読んだ。",
@@ -13100,7 +13100,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "保管",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【保管】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>保管<rt>ほかん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【保管】",
     "choices": [
       "地域の自然環境を保管する活動に参加した。",
       "大切な契約書は、鍵のかかる引き出しに保管してある。",
@@ -13127,7 +13127,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "保存",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【保存】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>保存<rt>ほぞん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【保存】",
     "choices": [
       "約束の時間をしっかり保存して遅れなかった。",
       "自転車を駅の駐輪場に保存して電車に乗った。",
@@ -13154,7 +13154,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "処分",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【処分】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>処分<rt>しょぶん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【処分】",
     "choices": [
       "銀行の窓口で今月の家賃を処分した。",
       "宿題のレポートを先生に処分して帰った。",
@@ -13181,7 +13181,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "交換",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【交換】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>交換<rt>こうかん</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【交換】",
     "choices": [
       "試合のあとで、相手のチームの選手とユニフォームを交換した。",
       "秋になって山の木の葉の色が赤く交換した。",
@@ -13208,7 +13208,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "変更",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【変更】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>変更<rt>へんこう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【変更】",
     "choices": [
       "友達と誕生日のプレゼントをお互いに変更した。",
       "氷を暖かい部屋に置いたら、水に変更した。",
@@ -13235,7 +13235,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "快適",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【快適】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>快適<rt>かいてき</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【快適】",
     "choices": [
       "彼女の笑顔はとても快適で、みんなに好かれている。",
       "新しい新幹線は揺れが少なくて、とても快適な旅ができた。",
@@ -13262,7 +13262,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "器用",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【器用】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>器用<rt>きよう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【器用】",
     "choices": [
       "彼の説明は器用で、初心者にもわかりやすい。",
       "このハサミはとても器用で、厚い紙でもよく切れる。",
@@ -13289,7 +13289,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "慎重",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【慎重】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>慎重<rt>しんちょう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【慎重】",
     "choices": [
       "駅の前の道は夜になると、暗くて慎重だ。",
       "今日のテストの問題は慎重で、時間が足りなかった。",
@@ -13316,7 +13316,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "気軽",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【気軽】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>気軽<rt>きがる</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【気軽】",
     "choices": [
       "春になって暖かい風が気軽に吹いている。",
       "何か困ったことがあったら、いつでも気軽に声をかけてください。",
@@ -13343,7 +13343,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "夢中",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【夢中】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>夢中<rt>むちゅう</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【夢中】",
     "choices": [
       "昨日の夜は疲れていたので、夢中になって朝までぐっすり眠った。",
       "バスの中で夢中になって、うっかり傘を忘れてしまった。",
@@ -13370,7 +13370,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "退屈",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【退屈】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>退屈<rt>たいくつ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【退屈】",
     "choices": [
       "電車の待ち時間が一時間もあって、本もなかったので退屈だった。",
       "一日中重い荷物を運んだので、足が退屈になった。",
@@ -13397,7 +13397,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "窮屈",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【窮屈】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>窮屈<rt>きゅうくつ</rt></ruby>】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【窮屈】",
     "choices": [
       "会議の時間が窮屈になって、十分しか話せなかった。",
       "成長して去年のジャケットを着たら、肩のあたりが窮屈になっていた。",
@@ -13424,7 +13424,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "穏やか",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【穏やか】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>穏<rt>おだ</rt></ruby>やか】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【穏やか】",
     "choices": [
       "駅の前のデパートは休日になると穏やかに混雑する。",
       "新しく買ったパソコンは動きが穏やかで使いやすい。",
@@ -13451,7 +13451,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "爽やか",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【爽やか】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>爽<rt>さわ</rt></ruby>やか】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【爽やか】",
     "choices": [
       "お湯が爽やかに沸いたので、お茶を入れた。",
       "この部屋は掃除をしたばかりで、床が爽やかに光っている。",
@@ -13478,7 +13478,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "category": "語彙の使い方",
     "target_word": "鮮やか",
     "question": "次の言葉の使い方として最もよいものを1つ選んでください：【鮮やか】",
-    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【<ruby>鮮<rt>あざ</rt></ruby>やか】",
+    "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>もよいものを1つ<ruby>選<rt>えら</rt></ruby>んでください：【鮮やか】",
     "choices": [
       "秋になると、山のもみじが鮮やかな赤や黄色に色づく。",
       "窓を開けると、外の空気や音が鮮やかに聞こえる。",

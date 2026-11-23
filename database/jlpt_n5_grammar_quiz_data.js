@@ -9,7 +9,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to be (copula): です polite / だ plain",
     "similar": "ではありません、でした",
     "sentence_jp": "はじめまして。田中です。どうぞよろしくお願いします。",
-    "sentence_furigana": "はじめまして。田中です。どうぞよろしくお願いします。",
+    "sentence_furigana": "はじめまして。たなかです。どうぞよろしくおねがいします。",
     "sentence_en": "Nice to meet you. I'm Tanaka. Please treat me kindly.",
     "question": "はじめまして。田中（　　　）。どうぞよろしくお願いします。",
     "choices": [
@@ -39,7 +39,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to be (copula): です polite / だ plain",
     "similar": "ではありません、でした",
     "sentence_jp": "A：新しい部屋はどうですか。B：広くて、とても明るいです。",
-    "sentence_furigana": "A：新しい部屋はどうですか。B：広くて、とても明るいです。",
+    "sentence_furigana": "A：あたらしいへやはどうですか。B：ひろくて、とてもあかるいです。",
     "sentence_en": "A: How is your new room? B: It's spacious and very bright.",
     "question": "A：新しい部屋はどうですか。B：広くて、とても明るい（　　　）。",
     "choices": [
@@ -69,7 +69,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to be (copula): です polite / だ plain",
     "similar": "ではありません、でした",
     "sentence_jp": "A：おじいさんは最近どうですか。B：ありがとうございます。とても元気です。",
-    "sentence_furigana": "A：おじいさんは最近どうですか。B：ありがとうございます。とても元気です。",
+    "sentence_furigana": "A：おじいさんはさいきんどうですか。B：ありがとうございます。とてもげんきです。",
     "sentence_en": "A: How has your grandfather been lately? B: Thank you. He's very well.",
     "question": "A：おじいさんは最近どうですか。B：ありがとうございます。とても元気（　　　）。",
     "choices": [
@@ -99,7 +99,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to be (copula): です polite / だ plain",
     "similar": "ではありません、でした",
     "sentence_jp": "A：あの人は誰ですか。B：林さんの弟さんだと思います。",
-    "sentence_furigana": "A：あの人は誰ですか。B：林さんの弟さんだと思います。",
+    "sentence_furigana": "A：あのひとはだれですか。B：はやしさんのおとうとさんだとおもいます。",
     "sentence_en": "A: Who is that person? B: I think he is Mr. Hayashi's younger brother.",
     "question": "A：あの人は誰ですか。B：林さんの弟さん（　　　）と思います。",
     "choices": [
@@ -129,7 +129,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is not (negative of です／だ)",
     "similar": "じゃありません、くないです",
     "sentence_jp": "A：あの人は田中さんですか。B：いいえ、田中さんじゃありません。鈴木さんです。",
-    "sentence_furigana": "A：あの人は田中さんですか。B：いいえ、田中さんじゃありません。鈴木さんです。",
+    "sentence_furigana": "A：あのひとはたなかさんですか。B：いいえ、たなかさんじゃありません。すずきさんです。",
     "sentence_en": "A: Is that person Mr. Tanaka? B: No, he isn't Mr. Tanaka. He's Mr. Suzuki.",
     "question": "A：あの人は田中さんですか。B：いいえ、田中さん（　　　）。鈴木さんです。",
     "choices": [
@@ -159,7 +159,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is not (negative of です／だ)",
     "similar": "じゃありません、くないです",
     "sentence_jp": "A：この町は、夜もにぎやかですか。B：いいえ、あまりにぎやかではありません。",
-    "sentence_furigana": "A：この町は、夜もにぎやかですか。B：いいえ、あまりにぎやかではありません。",
+    "sentence_furigana": "A：このまちは、よるもにぎやかですか。B：いいえ、あまりにぎやかではありません。",
     "sentence_en": "A: Is this town lively at night, too? B: No, it isn't very lively.",
     "question": "A：この町は、夜もにぎやかですか。B：いいえ、あまりにぎやか（　　　）。",
     "choices": [
@@ -189,7 +189,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is not (negative of です／だ)",
     "similar": "じゃありません、くないです",
     "sentence_jp": "A：このラーメンは高いですか。B：いいえ、高くないです。安いですよ。",
-    "sentence_furigana": "A：このラーメンは高いですか。B：いいえ、高くないです。安いですよ。",
+    "sentence_furigana": "A：このらーめんはたかいですか。B：いいえ、たかくないです。やすいですよ。",
     "sentence_en": "A: Is this ramen expensive? B: No, it's not expensive. It's cheap.",
     "question": "A：このラーメンは高いですか。B：いいえ、高（　　　）。安いですよ。",
     "choices": [
@@ -219,7 +219,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is not (negative of です／だ)",
     "similar": "じゃありません、くないです",
     "sentence_jp": "（友達へのメッセージ）ごめん、明日は暇じゃない。仕事があるんだ。",
-    "sentence_furigana": "（友達へのメッセージ）ごめん、明日は暇じゃない。仕事があるんだ。",
+    "sentence_furigana": "（ともだちへのメッセージ）ごめん、あしたはひまじゃない。しごとがあるんだ。",
     "sentence_en": "(A message to a friend) Sorry, I'm not free tomorrow. I have work.",
     "question": "（友達へのメッセージ）ごめん、明日は暇（　　　）。仕事があるんだ。",
     "choices": [
@@ -247,9 +247,9 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "grammar": "ます／ません",
     "reading": "ます／ません",
     "meaning_en": "polite verb endings (present/future): does / does not",
-    "similar": "{辞書|じしょ}{形|けい}、ませんか",
+    "similar": "辞書形、ませんか",
     "sentence_jp": "A：毎朝、朝ごはんを食べますか。B：はい、毎朝食べます。",
-    "sentence_furigana": "A：毎朝、朝ごはんを食べますか。B：はい、毎朝食べます。",
+    "sentence_furigana": "A：まいあさ、あさごはんをたべますか。B：はい、まいあさたべます。",
     "sentence_en": "A: Do you eat breakfast every morning? B: Yes, I eat it every morning.",
     "question": "A：毎朝、朝ごはんを食べますか。B：はい、毎朝食べ（　　　）。",
     "choices": [
@@ -277,9 +277,9 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "grammar": "ます／ません",
     "reading": "ます／ません",
     "meaning_en": "polite verb endings (present/future): does / does not",
-    "similar": "{辞書|じしょ}{形|けい}、ませんか",
+    "similar": "辞書形、ませんか",
     "sentence_jp": "私はあまりコーヒーを飲みません。紅茶のほうが好きです。",
-    "sentence_furigana": "私はあまりコーヒーを飲みません。紅茶のほうが好きです。",
+    "sentence_furigana": "わたしはあまりコーヒーをのみません。こうちゃのほうがすきです。",
     "sentence_en": "I don't drink coffee very much. I like tea better.",
     "question": "私はあまりコーヒーを飲み（　　　）。紅茶のほうが好きです。",
     "choices": [
@@ -307,9 +307,9 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "grammar": "ます／ません",
     "reading": "ます／ません",
     "meaning_en": "polite verb endings (present/future): does / does not",
-    "similar": "{辞書|じしょ}{形|けい}、ませんか",
+    "similar": "辞書形、ませんか",
     "sentence_jp": "A：明日、何をしますか。B：友達と映画を見ます。",
-    "sentence_furigana": "A：明日、何をしますか。B：友達と映画を見ます。",
+    "sentence_furigana": "A：あした、なにをしますか。B：ともだちとえいがをみます。",
     "sentence_en": "A: What are you doing tomorrow? B: I'm going to watch a movie with a friend.",
     "question": "A：明日、何をしますか。B：友達と映画を見（　　　）。",
     "choices": [
@@ -337,9 +337,9 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "grammar": "ます／ません",
     "reading": "ます／ません",
     "meaning_en": "polite verb endings (present/future): does / does not",
-    "similar": "{辞書|じしょ}{形|けい}、ませんか",
+    "similar": "辞書形、ませんか",
     "sentence_jp": "A：田中さんは今日のパーティーに来ますか。B：いいえ、来ません。仕事がありますから。",
-    "sentence_furigana": "A：田中さんは今日のパーティーに来ますか。B：いいえ、来ません。仕事がありますから。",
+    "sentence_furigana": "A：たなかさんはきょうのパーティーにきますか。B：いいえ、きません。しごとがありますから。",
     "sentence_en": "A: Is Mr. Tanaka coming to today's party? B: No, he isn't coming. He has work.",
     "question": "A：田中さんは今日のパーティーに来ますか。B：いいえ、来（　　　）。仕事がありますから。",
     "choices": [
@@ -369,7 +369,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "polite verb past: did / did not",
     "similar": "ていません、ます／ません",
     "sentence_jp": "昨日は友達と買い物に行きました。とても楽しかったです。",
-    "sentence_furigana": "昨日は友達と買い物に行きました。とても楽しかったです。",
+    "sentence_furigana": "きのうはともだちとかいものにいきました。とてもたのしかったです。",
     "sentence_en": "Yesterday I went shopping with a friend. It was a lot of fun.",
     "question": "昨日は友達と買い物に行き（　　　）。とても楽しかったです。",
     "choices": [
@@ -399,7 +399,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "polite verb past: did / did not",
     "similar": "ていません、ます／ません",
     "sentence_jp": "A：昨日のパーティーに行きましたか。B：いいえ、行きませんでした。熱がありましたから。",
-    "sentence_furigana": "A：昨日のパーティーに行きましたか。B：いいえ、行きませんでした。熱がありましたから。",
+    "sentence_furigana": "A：きのうのパーティーにいきましたか。B：いいえ、いきませんでした。ねつがありましたから。",
     "sentence_en": "A: Did you go to yesterday's party? B: No, I didn't. I had a fever.",
     "question": "A：昨日のパーティーに行きましたか。B：いいえ、行き（　　　）。熱がありましたから。",
     "choices": [
@@ -429,7 +429,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "polite verb past: did / did not",
     "similar": "ていません、ます／ません",
     "sentence_jp": "先週の土曜日は雨でしたから、どこへも行きませんでした。",
-    "sentence_furigana": "先週の土曜日は雨でしたから、どこへも行きませんでした。",
+    "sentence_furigana": "せんしゅうのどようびはあめでしたから、どこへもいきませんでした。",
     "sentence_en": "It rained last Saturday, so I didn't go anywhere.",
     "question": "先週の土曜日は雨でしたから、どこへも行き（　　　）。",
     "choices": [
@@ -459,7 +459,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "polite verb past: did / did not",
     "similar": "ていません、ます／ません",
     "sentence_jp": "A：昨日の宿題は難しかったですか。B：はい、3時間もかかりました。",
-    "sentence_furigana": "A：昨日の宿題は難しかったですか。B：はい、3時間もかかりました。",
+    "sentence_furigana": "A：きのうのしゅくだいはむずかしかったですか。B：はい、3じかんもかかりました。",
     "sentence_en": "A: Was yesterday's homework difficult? B: Yes, it took me as long as three hours.",
     "question": "A：昨日の宿題は難しかったですか。B：はい、3時間もかかり（　　　）。",
     "choices": [
@@ -489,7 +489,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do ~ (request / instruction)",
     "similar": "ないでください、てもいい、ませんか",
     "sentence_jp": "A：すみません、ここに名前を書いてください。B：はい、わかりました。",
-    "sentence_furigana": "A：すみません、ここに名前を書いてください。B：はい、わかりました。",
+    "sentence_furigana": "A：すみません、ここになまえをかいてください。B：はい、わかりました。",
     "sentence_en": "A: Excuse me, please write your name here. B: Yes, certainly.",
     "question": "A：すみません、ここに名前を（　　　）ください。B：はい、わかりました。",
     "choices": [
@@ -519,7 +519,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do ~ (request / instruction)",
     "similar": "ないでください、てもいい、ませんか",
     "sentence_jp": "A：田中さんは会議室にいますよ。B：すみません、ちょっと呼んでください。",
-    "sentence_furigana": "A：田中さんは会議室にいますよ。B：すみません、ちょっと呼んでください。",
+    "sentence_furigana": "A：たなかさんはかいぎしつにいますよ。B：すみません、ちょっとよんでください。",
     "sentence_en": "A: Mr. Tanaka is in the meeting room. B: Sorry, could you call him for me?",
     "question": "A：田中さんは会議室にいますよ。B：すみません、ちょっと呼（　　　）ください。",
     "choices": [
@@ -549,7 +549,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do ~ (request / instruction)",
     "similar": "ないでください、てもいい、ませんか",
     "sentence_jp": "A：先生、今、いいですか。B：今、電話をしています。ちょっと待ってください。",
-    "sentence_furigana": "A：先生、今、いいですか。B：今、電話をしています。ちょっと待ってください。",
+    "sentence_furigana": "A：せんせい、いま、いいですか。B：いま、でんわをしています。ちょっとまってください。",
     "sentence_en": "A: Teacher, do you have a moment? B: I'm on the phone right now. Please wait a little.",
     "question": "A：先生、今、いいですか。B：今、電話をしています。ちょっと待（　　　）ください。",
     "choices": [
@@ -579,7 +579,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do ~ (request / instruction)",
     "similar": "ないでください、てもいい、ませんか",
     "sentence_jp": "A：いただきます。B：どうぞ、たくさん食べてください。",
-    "sentence_furigana": "A：いただきます。B：どうぞ、たくさん食べてください。",
+    "sentence_furigana": "A：いただきます。B：どうぞ、たくさんたべてください。",
     "sentence_en": "A: Thank you for the food. B: Please, eat a lot.",
     "question": "A：いただきます。B：どうぞ、たくさん（　　　）ください。",
     "choices": [
@@ -609,7 +609,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do not do ~",
     "similar": "てはいけない、てください",
     "sentence_jp": "ここは図書館です。大きい声で話さないでください。",
-    "sentence_furigana": "ここは図書館です。大きい声で話さないでください。",
+    "sentence_furigana": "ここはとしょかんです。おおきいこえではなさないでください。",
     "sentence_en": "This is a library. Please don't speak loudly.",
     "question": "ここは図書館です。大きい声で話（　　　）ください。",
     "choices": [
@@ -639,7 +639,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do not do ~",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：このケーキ、食べてもいいですか。B：すみません、それは弟のケーキですから、食べないでください。",
-    "sentence_furigana": "A：このケーキ、食べてもいいですか。B：すみません、それは弟のケーキですから、食べないでください。",
+    "sentence_furigana": "A：このケーキ、たべてもいいですか。B：すみません、それはおとうとのケーキですから、たべないでください。",
     "sentence_en": "A: May I eat this cake? B: Sorry, it's my little brother's cake, so please don't eat it.",
     "question": "A：このケーキ、食べてもいいですか。B：すみません、それは弟のケーキですから、食べ（　　　）ください。",
     "choices": [
@@ -669,7 +669,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do not do ~",
     "similar": "てはいけない、てください",
     "sentence_jp": "傘がありますから、新しいのを買わないでください。",
-    "sentence_furigana": "傘がありますから、新しいのを買わないでください。",
+    "sentence_furigana": "かさがありますから、あたらしいのをかわないでください。",
     "sentence_en": "You already have an umbrella, so please don't buy a new one.",
     "question": "傘がありますから、新しいのを買（　　　）ください。",
     "choices": [
@@ -699,7 +699,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "please do not do ~",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：試験は大丈夫ですか。B：はい。私は大丈夫ですから、心配しないでください。",
-    "sentence_furigana": "A：試験は大丈夫ですか。B：はい。私は大丈夫ですから、心配しないでください。",
+    "sentence_furigana": "A：しけんはだいじょうぶですか。B：はい。わたしはだいじょうぶですから、しんぱいしないでください。",
     "sentence_en": "A: Will the exam be all right? B: Yes. I'm fine, so please don't worry.",
     "question": "A：試験は大丈夫ですか。B：はい。私は大丈夫ですから、心配（　　　）ください。",
     "choices": [
@@ -729,7 +729,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may do ~; it's OK to ~ (permission)",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：写真を撮ってもいいですか。B：はい、どうぞ。",
-    "sentence_furigana": "A：写真を撮ってもいいですか。B：はい、どうぞ。",
+    "sentence_furigana": "A：しゃしんをとってもいいですか。B：はい、どうぞ。",
     "sentence_en": "A: May I take a picture? B: Yes, go ahead.",
     "question": "A：写真を（　　　）もいいですか。B：はい、どうぞ。",
     "choices": [
@@ -759,7 +759,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may do ~; it's OK to ~ (permission)",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：ここに座ってもいいですか。B：はい、どうぞ。",
-    "sentence_furigana": "A：ここに座ってもいいですか。B：はい、どうぞ。",
+    "sentence_furigana": "A：ここにすわってもいいですか。B：はい、どうぞ。",
     "sentence_en": "A: May I sit here? B: Yes, please do.",
     "question": "A：ここに座ってもいいですか。B：はい、（　　　）。",
     "choices": [
@@ -789,7 +789,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may do ~; it's OK to ~ (permission)",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：窓を開けてもいいですか。B：ええ、どうぞ。",
-    "sentence_furigana": "A：窓を開けてもいいですか。B：ええ、どうぞ。",
+    "sentence_furigana": "A：まどをあけてもいいですか。B：ええ、どうぞ。",
     "sentence_en": "A: May I open the window? B: Sure, go ahead.",
     "question": "A：窓を開けて（　　　）いいですか。B：ええ、どうぞ。",
     "choices": [
@@ -819,7 +819,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "may do ~; it's OK to ~ (permission)",
     "similar": "てはいけない、てください",
     "sentence_jp": "A：ここで食べてもいいですか。B：すみません。ここでは食べてはいけません。",
-    "sentence_furigana": "A：ここで食べてもいいですか。B：すみません。ここでは食べてはいけません。",
+    "sentence_furigana": "A：ここでたべてもいいですか。B：すみません。ここではたべてはいけません。",
     "sentence_en": "A: May I eat here? B: Sorry. You may not eat here.",
     "question": "A：ここで食べてもいいですか。B：すみません。ここでは食べては（　　　）。",
     "choices": [
@@ -849,7 +849,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must not do ~ (prohibition)",
     "similar": "ないでください、てもいい",
     "sentence_jp": "美術館の中では写真を撮ってはいけません。",
-    "sentence_furigana": "美術館の中では写真を撮ってはいけません。",
+    "sentence_furigana": "びじゅつかんのなかではしゃしんをとってはいけません。",
     "sentence_en": "You must not take photographs inside the museum.",
     "question": "美術館の中では写真を撮っては（　　　）。",
     "choices": [
@@ -879,7 +879,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must not do ~ (prohibition)",
     "similar": "ないでください、てもいい",
     "sentence_jp": "信号が赤いとき、道を渡ってはいけません。",
-    "sentence_furigana": "信号が赤いとき、道を渡ってはいけません。",
+    "sentence_furigana": "しんごうがあかいとき、みちをわたってはいけません。",
     "sentence_en": "When the light is red, you must not cross the road.",
     "question": "信号が赤いとき、道を渡（　　　）はいけません。",
     "choices": [
@@ -909,7 +909,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must not do ~ (prohibition)",
     "similar": "ないでください、てもいい",
     "sentence_jp": "ここで走ってはいけません。他の人に当たりますから。",
-    "sentence_furigana": "ここで走ってはいけません。他の人に当たりますから。",
+    "sentence_furigana": "ここではしってはいけません。ほかのひとにあたりますから。",
     "sentence_en": "You must not run here. You might bump into other people.",
     "question": "ここで走って（　　　）いけません。他の人に当たりますから。",
     "choices": [
@@ -939,7 +939,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must not do ~ (prohibition)",
     "similar": "ないでください、てもいい",
     "sentence_jp": "（子どもに）道で遊んではいけないよ。車が来るからね。",
-    "sentence_furigana": "（子どもに）道で遊んではいけないよ。車が来るからね。",
+    "sentence_furigana": "（こどもに）みちであそんではいけないよ。くるまがくるからね。",
     "sentence_en": "(To a child) You mustn't play in the street. Cars come by, you know.",
     "question": "（子どもに）道で遊んでは（　　　）よ。車が来るからね。",
     "choices": [
@@ -969,7 +969,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; so (giving a reason)",
     "similar": "ので、だから、ですから",
     "sentence_jp": "暑いから、窓を開けてください。",
-    "sentence_furigana": "暑いから、窓を開けてください。",
+    "sentence_furigana": "あついから、まどをあけてください。",
     "sentence_en": "It's hot, so please open the window.",
     "question": "暑い（　　　）、窓を開けてください。",
     "choices": [
@@ -999,7 +999,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; so (giving a reason)",
     "similar": "ので、だから、ですから",
     "sentence_jp": "今日は寒いです。だから、コートを着ましょう。",
-    "sentence_furigana": "今日は寒いです。だから、コートを着ましょう。",
+    "sentence_furigana": "きょうはさむいです。だから、コートをきましょう。",
     "sentence_en": "It's cold today. So let's put on our coats.",
     "question": "今日は寒いです。（　　　）、コートを着ましょう。",
     "choices": [
@@ -1029,7 +1029,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; so (giving a reason)",
     "similar": "ので、だから、ですから",
     "sentence_jp": "A：どうして昨日は来ませんでしたか。B：風邪を引いたからです。",
-    "sentence_furigana": "A：どうして昨日は来ませんでしたか。B：風邪を引いたからです。",
+    "sentence_furigana": "A：どうしてきのうはきませんでしたか。B：かぜをひいたからです。",
     "sentence_en": "A: Why didn't you come yesterday? B: Because I caught a cold.",
     "question": "A：どうして昨日は来ませんでしたか。B：風邪を引いた（　　　）です。",
     "choices": [
@@ -1059,7 +1059,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; so (giving a reason)",
     "similar": "ので、だから、ですから",
     "sentence_jp": "明日は試験があるから、今晩は遊びません。",
-    "sentence_furigana": "明日は試験があるから、今晩は遊びません。",
+    "sentence_furigana": "あしたはしけんがあるから、こんばんはあそびません。",
     "sentence_en": "I have an exam tomorrow, so I won't go out and play tonight.",
     "question": "明日は試験がある（　　　）、今晩は遊びません。",
     "choices": [
@@ -1089,7 +1089,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from ~ to ~ (time, place, range)",
     "similar": "までに、に",
     "sentence_jp": "図書館は月曜日から金曜日まで開いています。",
-    "sentence_furigana": "図書館は月曜日から金曜日まで開いています。",
+    "sentence_furigana": "としょかんはげつようびからきんようびまであいています。",
     "sentence_en": "The library is open from Monday to Friday.",
     "question": "図書館は月曜日から金曜日（　　　）開いています。",
     "choices": [
@@ -1119,7 +1119,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from ~ to ~ (time, place, range)",
     "similar": "までに、に",
     "sentence_jp": "家から駅まで、歩いて10分かかります。",
-    "sentence_furigana": "家から駅まで、歩いて10分かかります。",
+    "sentence_furigana": "いえからえきまで、あるいて10ふんかかります。",
     "sentence_en": "It takes ten minutes to walk from my house to the station.",
     "question": "家（　　　）駅まで、歩いて10分かかります。",
     "choices": [
@@ -1149,7 +1149,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from ~ to ~ (time, place, range)",
     "similar": "までに、に",
     "sentence_jp": "昨日は夜8時から12時まで勉強しました。",
-    "sentence_furigana": "昨日は夜8時から12時まで勉強しました。",
+    "sentence_furigana": "きのうはよる8じから12じまでべんきょうしました。",
     "sentence_en": "Yesterday I studied from 8 p.m. until 12.",
     "question": "昨日は夜8時から12時（　　　）勉強しました。",
     "choices": [
@@ -1179,7 +1179,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "from ~ to ~ (time, place, range)",
     "similar": "までに、に",
     "sentence_jp": "A：夏休みは何日から何日までですか。B：7月20日から8月31日までです。",
-    "sentence_furigana": "A：夏休みは何日から何日までですか。B：7月20日から8月31日までです。",
+    "sentence_furigana": "A：なつやすみはなんにちからなんにちまでですか。B：7がつはつかから8がつ31にちまでです。",
     "sentence_en": "A: From what date to what date is the summer vacation? B: From July 20 to August 31.",
     "question": "A：夏休みは（　　　）何日までですか。B：7月20日から8月31日までです。",
     "choices": [
@@ -1209,7 +1209,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's ~ (inviting someone to do something together)",
     "similar": "ませんか、ましょうか",
     "sentence_jp": "A：おなかがすきましたね。B：そうですね。一緒に昼ごはんを食べましょう。",
-    "sentence_furigana": "A：おなかがすきましたね。B：そうですね。一緒に昼ごはんを食べましょう。",
+    "sentence_furigana": "A：おなかがすきましたね。B：そうですね。いっしょにひるごはんをたべましょう。",
     "sentence_en": "A: I'm hungry. B: Me too. Let's have lunch together.",
     "question": "A：おなかがすきましたね。B：そうですね。一緒に昼ごはんを食べ（　　　）。",
     "choices": [
@@ -1239,7 +1239,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's ~ (inviting someone to do something together)",
     "similar": "ませんか、ましょうか",
     "sentence_jp": "A：今度の日曜日、一緒に映画を見ませんか。B：いいですね。見ましょう。",
-    "sentence_furigana": "A：今度の日曜日、一緒に映画を見ませんか。B：いいですね。見ましょう。",
+    "sentence_furigana": "A：こんどのにちようび、いっしょにえいがをみませんか。B：いいですね。みましょう。",
     "sentence_en": "A: Why don't we see a movie together this Sunday? B: Sounds good. Let's.",
     "question": "A：今度の日曜日、一緒に映画を見ませんか。B：いいですね。（　　　）。",
     "choices": [
@@ -1269,7 +1269,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's ~ (inviting someone to do something together)",
     "similar": "ませんか、ましょうか",
     "sentence_jp": "皆さん、一緒に大きい声で読みましょう。",
-    "sentence_furigana": "皆さん、一緒に大きい声で読みましょう。",
+    "sentence_furigana": "みなさん、いっしょにおおきいこえでよみましょう。",
     "sentence_en": "Everyone, let's read it aloud together.",
     "question": "皆さん、一緒に大きい声で読み（　　　）。",
     "choices": [
@@ -1299,7 +1299,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's ~ (inviting someone to do something together)",
     "similar": "ませんか、ましょうか",
     "sentence_jp": "もう10時です。そろそろ帰りましょう。",
-    "sentence_furigana": "もう10時です。そろそろ帰りましょう。",
+    "sentence_furigana": "もう10じです。そろそろかえりましょう。",
     "sentence_en": "It's already ten o'clock. Let's head home soon.",
     "question": "もう10時です。そろそろ帰り（　　　）。",
     "choices": [
@@ -1329,7 +1329,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "shall I ~? / shall we ~? (offer / suggestion)",
     "similar": "ましょう、ませんか、てもいいですか",
     "sentence_jp": "A：荷物が重そうですね。私が持ちましょうか。B：ありがとうございます。お願いします。",
-    "sentence_furigana": "A：荷物が重そうですね。私が持ちましょうか。B：ありがとうございます。お願いします。",
+    "sentence_furigana": "A：にもつがおもそうですね。わたしがもちましょうか。B：ありがとうございます。おねがいします。",
     "sentence_en": "A: That luggage looks heavy. Shall I carry it? B: Thank you. Yes, please.",
     "question": "A：荷物が重そうですね。私が持ち（　　　）。B：ありがとうございます。お願いします。",
     "choices": [
@@ -1359,7 +1359,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "shall I ~? / shall we ~? (offer / suggestion)",
     "similar": "ましょう、ませんか、てもいいですか",
     "sentence_jp": "A：今晩、何を食べましょうか。B：そうですね。カレーはどうですか。",
-    "sentence_furigana": "A：今晩、何を食べましょうか。B：そうですね。カレーはどうですか。",
+    "sentence_furigana": "A：こんばん、なにをたべましょうか。B：そうですね。カレーはどうですか。",
     "sentence_en": "A: What shall we have for dinner tonight? B: Hmm, how about curry?",
     "question": "A：今晩、何を食べ（　　　）。B：そうですね。カレーはどうですか。",
     "choices": [
@@ -1389,7 +1389,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "shall I ~? / shall we ~? (offer / suggestion)",
     "similar": "ましょう、ませんか、てもいいですか",
     "sentence_jp": "A：雨ですね。駅まで車で送りましょうか。B：えっ、いいんですか。ありがとうございます。",
-    "sentence_furigana": "A：雨ですね。駅まで車で送りましょうか。B：えっ、いいんですか。ありがとうございます。",
+    "sentence_furigana": "A：あめですね。えきまでくるまでおくりましょうか。B：えっ、いいんですか。ありがとうございます。",
     "sentence_en": "A: It's raining. Shall I drive you to the station? B: Really? Thank you.",
     "question": "A：雨ですね。駅まで車で送り（　　　）。B：えっ、いいんですか。ありがとうございます。",
     "choices": [
@@ -1419,7 +1419,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "shall I ~? / shall we ~? (offer / suggestion)",
     "similar": "ましょう、ませんか、てもいいですか",
     "sentence_jp": "A：手伝いましょうか。B：ありがとうございます。じゃあ、お願いします。",
-    "sentence_furigana": "A：手伝いましょうか。B：ありがとうございます。じゃあ、お願いします。",
+    "sentence_furigana": "A：てつだいましょうか。B：ありがとうございます。じゃあ、おねがいします。",
     "sentence_en": "A: Shall I help you? B: Thank you. Then, yes please.",
     "question": "A：手伝いましょうか。B：ありがとうございます。じゃあ、（　　　）。",
     "choices": [
@@ -1448,10 +1448,10 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "reading": "たい",
     "meaning_en": "want to ~ (the speaker's own wish)",
     "similar": "ほしい、たくない、たいです",
-    "sentence_jp": "今日はとても暑いです。冷たいジュースを飲みたいです。",
-    "sentence_furigana": "今日はとても暑いです。冷たいジュースを飲みたいです。",
-    "sentence_en": "It's very hot today. I want to drink a cold juice.",
-    "question": "今日はとても暑いです。冷たいジュースを飲み（　　　）。",
+    "sentence_jp": "今日はとても暑いので、私は冷たいジュースが飲みたいです。",
+    "sentence_furigana": "きょうはとてもあついので、わたしはつめたいジュースがのみたいです。",
+    "sentence_en": "Since it is very hot today, I want to drink cold juice.",
+    "question": "今日はとても暑いので、私は冷たいジュースが飲み（　　　）。",
     "choices": [
       "ましょう",
       "ません",
@@ -1461,8 +1461,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "たいです",
     "notes": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>なので「<ruby>飲<rt>の</rt></ruby>みたいです」です。「<ruby>飲<rt>の</rt></ruby>みましょう」は<ruby>誘<rt>さそ</rt></ruby>い、「<ruby>飲<rt>の</rt></ruby>みません」は<ruby>否定<rt>ひてい</rt></ruby>、「<ruby>飲<rt>の</rt></ruby>みました」は<ruby>過去<rt>かこ</rt></ruby>です。 / A personal wish: 飲みたいです. 飲みましょう is an invitation, 飲みません negative, 飲みました past.",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。<ruby>冷<rt>つめ</rt></ruby>たいジュースを<ruby>飲<rt>の</rt></ruby>み（　　　）。",
-    "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。<ruby>冷<rt>つめ</rt></ruby>たいジュースを<ruby>飲<rt>の</rt></ruby>みたいです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>私<rt>わたし</rt></ruby>は<ruby>冷<rt>つめ</rt></ruby>たいジュースが<ruby>飲<rt>の</rt></ruby>み（　　　）。",
+    "sentence_jp_ruby": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>私<rt>わたし</rt></ruby>は<ruby>冷<rt>つめ</rt></ruby>たいジュースが<ruby>飲<rt>の</rt></ruby>みたいです。",
     "choices_ruby": [
       "ましょう",
       "ません",
@@ -1479,7 +1479,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to ~ (the speaker's own wish)",
     "similar": "ほしい、たくない、たいです",
     "sentence_jp": "A：夏休みに何をしたいですか。B：海で泳ぎたいです。",
-    "sentence_furigana": "A：夏休みに何をしたいですか。B：海で泳ぎたいです。",
+    "sentence_furigana": "A：なつやすみになにをしたいですか。B：うみでおよぎたいです。",
     "sentence_en": "A: What do you want to do in the summer vacation? B: I want to swim in the sea.",
     "question": "A：夏休みに何をしたいですか。B：海で（　　　）たいです。",
     "choices": [
@@ -1509,7 +1509,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to ~ (the speaker's own wish)",
     "similar": "ほしい、たくない、たいです",
     "sentence_jp": "先週から日本語を習っています。いつか、日本で友達と話したいです。",
-    "sentence_furigana": "先週から日本語を習っています。いつか、日本で友達と話したいです。",
+    "sentence_furigana": "せんしゅうからにほんごをならっています。いつか、にほんでともだちとはなしたいです。",
     "sentence_en": "I've been learning Japanese since last week. Someday I want to talk with my friends in Japan.",
     "question": "先週から日本語を習っています。いつか、日本で友達と（　　　）たいです。",
     "choices": [
@@ -1539,7 +1539,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to ~ (the speaker's own wish)",
     "similar": "ほしい、たくない、たいです",
     "sentence_jp": "A：のどがかわきました。B：私も水が飲みたいです。",
-    "sentence_furigana": "A：のどがかわきました。B：私も水が飲みたいです。",
+    "sentence_furigana": "A：のどがかわきました。B：わたしもみずがのみたいです。",
     "sentence_en": "A: I'm thirsty. B: I want some water, too.",
     "question": "A：のどがかわきました。B：私も水（　　　）飲みたいです。",
     "choices": [
@@ -1569,7 +1569,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't want to ~",
     "similar": "たい、たくないです、たくありません",
     "sentence_jp": "今日は頭が痛いので、何も食べたくないです。",
-    "sentence_furigana": "今日は頭が痛いので、何も食べたくないです。",
+    "sentence_furigana": "きょうはあたまがいたいので、なにもたべたくないです。",
     "sentence_en": "My head hurts today, so I don't want to eat anything.",
     "question": "今日は頭が痛いので、何も食べ（　　　）です。",
     "choices": [
@@ -1598,10 +1598,10 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "reading": "たくない",
     "meaning_en": "don't want to ~",
     "similar": "たい、たくないです、たくありません",
-    "sentence_jp": "A：いっしょにカラオケに行きませんか。B：すみません、今日は疲れているので、行きたくないです。",
-    "sentence_furigana": "A：いっしょにカラオケに行きませんか。B：すみません、今日は疲れているので、行きたくないです。",
-    "sentence_en": "A: Won't you go to karaoke with me? B: Sorry, I'm tired today, so I don't feel like going.",
-    "question": "A：いっしょにカラオケに行きませんか。B：すみません、今日は疲れているので、行き（　　　）。",
+    "sentence_jp": "A：今日は外がとても寒いですね。B：ええ、こんなに寒い日はどこへも行きたくないです。",
+    "sentence_furigana": "A：きょうはそとがとてもさむいですね。B：ええ、こんなにさむいひはどこへもいきたくないです。",
+    "sentence_en": "A: It is very cold outside today, isn't it? B: Yes, on a day this cold, I do not want to go anywhere.",
+    "question": "A：今日は外がとても寒いですね。B：ええ、こんなに寒い日はどこへも行き（　　　）。",
     "choices": [
       "たくなかったです",
       "ましょう",
@@ -1611,8 +1611,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "たくないです",
     "notes": "<ruby>疲<rt>つか</rt></ruby>れているので<ruby>行<rt>い</rt></ruby>きたくない<ruby>気持<rt>きも</rt></ruby>ちを<ruby>言<rt>い</rt></ruby>う「<ruby>行<rt>い</rt></ruby>きたくないです」です。「<ruby>行<rt>い</rt></ruby>きたいです」は<ruby>反対<rt>はんたい</rt></ruby>、「<ruby>行<rt>い</rt></ruby>きましょう」は<ruby>誘<rt>さそ</rt></ruby>い、「<ruby>行<rt>い</rt></ruby>きたくなかったです」は<ruby>過去<rt>かこ</rt></ruby>です。 / B says they don't feel like going: 行きたくないです. 行きたいです is the opposite, 行きましょう an invitation, 行きたくなかったです past.",
-    "question_ruby": "A：いっしょにカラオケに<ruby>行<rt>い</rt></ruby>きませんか。<br>B：すみません、<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れているので、<ruby>行<rt>い</rt></ruby>き（　　　）。",
-    "sentence_jp_ruby": "A：いっしょにカラオケに<ruby>行<rt>い</rt></ruby>きませんか。<br>B：すみません、<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れているので、<ruby>行<rt>い</rt></ruby>きたくないです。",
+    "question_ruby": "A：<ruby>今日<rt>きょう</rt></ruby>は<ruby>外<rt>そと</rt></ruby>がとても<ruby>寒<rt>さむ</rt></ruby>いですね。B：ええ、こんなに<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>はどこへも<ruby>行<rt>い</rt></ruby>き（　　　）。",
+    "sentence_jp_ruby": "A：<ruby>今日<rt>きょう</rt></ruby>は<ruby>外<rt>そと</rt></ruby>がとても<ruby>寒<rt>さむ</rt></ruby>いですね。B：ええ、こんなに<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>はどこへも<ruby>行<rt>い</rt></ruby>きたくないです。",
     "choices_ruby": [
       "たくなかったです",
       "ましょう",
@@ -1629,13 +1629,13 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't want to ~",
     "similar": "たい、たくないです、たくありません",
     "sentence_jp": "私は朝が弱いので、朝早く起きたくありません。",
-    "sentence_furigana": "私は朝が弱いので、朝早く起きたくありません。",
-    "sentence_en": "I'm not good in the mornings, so I don't want to get up early.",
+    "sentence_furigana": "わたしはあさがよわいので、あさはやくおきたくありません。",
+    "sentence_en": "Because I am not a morning person, I do not want to get up early.",
     "question": "私は朝が弱いので、朝早く（　　　）。",
     "choices": [
       "起きたいです",
       "起きたいありません",
-      "起きません",
+      "起きたくなくです",
       "起きたくありません"
     ],
     "answer": 3,
@@ -1646,7 +1646,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>起<rt>お</rt></ruby>きたいです",
       "<ruby>起<rt>お</rt></ruby>きたいありません",
-      "<ruby>起<rt>お</rt></ruby>きません",
+      "<ruby>起<rt>お</rt></ruby>きたくなくです",
       "<ruby>起<rt>お</rt></ruby>きたくありません"
     ],
     "correct_text_ruby": "<ruby>起<rt>お</rt></ruby>きたくありません"
@@ -1658,10 +1658,10 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "reading": "たくない",
     "meaning_en": "don't want to ~",
     "similar": "たい、たくないです、たくありません",
-    "sentence_jp": "きのうは雨でした。家から出たくなかったですでした。",
-    "sentence_furigana": "きのうは雨でした。家から出たくなかったですでした。",
-    "sentence_en": "It rained yesterday. I didn't want to go out of the house.",
-    "question": "きのうは雨でした。家から出（　　　）でした。",
+    "sentence_jp": "きのうは雨でしたから、家から出たくなかったです。",
+    "sentence_furigana": "きのうはあめでしたから、いえからでたくなかったです。",
+    "sentence_en": "Because it rained yesterday, I did not want to go out of the house.",
+    "question": "きのうは雨でしたから、家から出（　　　）。",
     "choices": [
       "たくないです",
       "たくなかったです",
@@ -1671,8 +1671,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "たくなかったです",
     "notes": "「きのう」の<ruby>話<rt>はなし</rt></ruby>なので<ruby>過去<rt>かこ</rt></ruby>の<ruby>否定<rt>ひてい</rt></ruby>「<ruby>出<rt>で</rt></ruby>たくなかったです」です。「<ruby>出<rt>で</rt></ruby>たくないです」「<ruby>出<rt>で</rt></ruby>たいです」「<ruby>出<rt>で</rt></ruby>たくありません」は<ruby>現在<rt>げんざい</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>で、「でした」とも<ruby>合<rt>あ</rt></ruby>いません。 / Talking about yesterday, so the past negative 出たくなかったです. The others are present forms.",
-    "question_ruby": "きのうは<ruby>雨<rt>あめ</rt></ruby>でした。<ruby>家<rt>いえ</rt></ruby>から<ruby>出<rt>で</rt></ruby>（　　　）でした。",
-    "sentence_jp_ruby": "きのうは<ruby>雨<rt>あめ</rt></ruby>でした。<ruby>家<rt>いえ</rt></ruby>から<ruby>出<rt>で</rt></ruby>たくなかったですでした。",
+    "question_ruby": "きのうは<ruby>雨<rt>あめ</rt></ruby>でしたから、<ruby>家<rt>いえ</rt></ruby>から<ruby>出<rt>で</rt></ruby>（　　　）。",
+    "sentence_jp_ruby": "きのうは<ruby>雨<rt>あめ</rt></ruby>でしたから、<ruby>家<rt>いえ</rt></ruby>から<ruby>出<rt>で</rt></ruby>たくなかったです。",
     "choices_ruby": [
       "たくないです",
       "たくなかったです",
@@ -1689,7 +1689,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is ~ing / has been ~ed (ongoing action, resulting state, habit)",
     "similar": "ています、ていた、ます",
     "sentence_jp": "A：今、何をしていますか。B：本を読んでいます。",
-    "sentence_furigana": "A：今、何をしていますか。B：本を読んでいます。",
+    "sentence_furigana": "A：いま、なにをしていますか。B：ほんをよんでいます。",
     "sentence_en": "A: What are you doing now? B: I'm reading a book.",
     "question": "A：今、何をしていますか。B：本を（　　　）。",
     "choices": [
@@ -1719,7 +1719,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is ~ing / has been ~ed (ongoing action, resulting state, habit)",
     "similar": "ています、ていた、ます",
     "sentence_jp": "A：お住まいはどちらですか。B：京都に住んでいます。",
-    "sentence_furigana": "A：お住まいはどちらですか。B：京都に住んでいます。",
+    "sentence_furigana": "A：おすまいはどちらですか。B：きょうとにすんでいます。",
     "sentence_en": "A: Where do you live? B: I live in Kyoto.",
     "question": "A：お住まいはどちらですか。B：京都に（　　　）。",
     "choices": [
@@ -1749,7 +1749,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is ~ing / has been ~ed (ongoing action, resulting state, habit)",
     "similar": "ています、ていた、ます",
     "sentence_jp": "教室の窓が開いています。寒いですね。",
-    "sentence_furigana": "教室の窓が開いています。寒いですね。",
+    "sentence_furigana": "きょうしつのまどがあいています。さむいですね。",
     "sentence_en": "The classroom window is open. It's cold, isn't it?",
     "question": "教室の窓が（　　　）。寒いですね。",
     "choices": [
@@ -1760,7 +1760,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 3,
     "correct_text": "開いています",
-    "notes": "<ruby>窓<rt>まど</rt></ruby>の<ruby>今<rt>いま</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>言<rt>い</rt></ruby>うので、<ruby>自動詞<rt>じどうし</rt></ruby>の「<ruby>開<rt>あ</rt></ruby>いています」です。「<ruby>開<rt>あ</rt></ruby>けています」は『（<ruby>人<rt>ひと</rt></ruby>が）<ruby>開<rt>あ</rt></ruby>けている』ので「<ruby>窓<rt>まど</rt></ruby>が」に<ruby>合<rt>あ</rt></ruby>いません。「<ruby>開<rt>あ</rt></ruby>けましょう」「<ruby>開<rt>あ</rt></ruby>きたいです」も<ruby>文<rt>ぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。 / Describing the window's state: {開|あ}いています (intransitive). {開|あ}けています needs an agent and doesn't fit 窓が; the others don't fit the sentence.",
+    "notes": "<ruby>窓<rt>まど</rt></ruby>の<ruby>今<rt>いま</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>言<rt>い</rt></ruby>うので、<ruby>自動詞<rt>じどうし</rt></ruby>の「<ruby>開<rt>あ</rt></ruby>いています」です。「<ruby>開<rt>あ</rt></ruby>けています」は『（<ruby>人<rt>ひと</rt></ruby>が）<ruby>開<rt>あ</rt></ruby>けている』ので「<ruby>窓<rt>まど</rt></ruby>が」に<ruby>合<rt>あ</rt></ruby>いません。「<ruby>開<rt>あ</rt></ruby>けましょう」「<ruby>開<rt>あ</rt></ruby>きたいです」も<ruby>文<rt>ぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。 / Describing the window's state: <ruby>開<rt>あ</rt></ruby>いています (intransitive). <ruby>開<rt>あ</rt></ruby>けています needs an agent and doesn't fit 窓が; the others don't fit the sentence.",
     "question_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>が（　　　）。<ruby>寒<rt>さむ</rt></ruby>いですね。",
     "sentence_jp_ruby": "<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いています。<ruby>寒<rt>さむ</rt></ruby>いですね。",
     "choices_ruby": [
@@ -1779,7 +1779,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "is ~ing / has been ~ed (ongoing action, resulting state, habit)",
     "similar": "ています、ていた、ます",
     "sentence_jp": "A：リーさんを知っていますか。B：いいえ、知りません。",
-    "sentence_furigana": "A：リーさんを知っていますか。B：いいえ、知りません。",
+    "sentence_furigana": "A：リーさんをしっていますか。B：いいえ、しりません。",
     "sentence_en": "A: Do you know Lee? B: No, I don't.",
     "question": "A：リーさんを知っていますか。B：いいえ、（　　　）。",
     "choices": [
@@ -1809,7 +1809,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "before ~ing / before (a time)",
     "similar": "あとで、てから、までに",
     "sentence_jp": "毎晩、寝る前に、歯をみがきます。",
-    "sentence_furigana": "毎晩、寝る前に、歯をみがきます。",
+    "sentence_furigana": "まいばん、ねるまえに、はをみがきます。",
     "sentence_en": "Every night I brush my teeth before going to bed.",
     "question": "毎晩、寝る（　　　）、歯をみがきます。",
     "choices": [
@@ -1839,7 +1839,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "before ~ing / before (a time)",
     "similar": "あとで、てから、までに",
     "sentence_jp": "食事の前に、手を洗いましょう。",
-    "sentence_furigana": "食事の前に、手を洗いましょう。",
+    "sentence_furigana": "しょくじのまえに、てをあらいましょう。",
     "sentence_en": "Let's wash our hands before the meal.",
     "question": "食事（　　　）前に、手を洗いましょう。",
     "choices": [
@@ -1869,7 +1869,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "before ~ing / before (a time)",
     "similar": "あとで、てから、までに",
     "sentence_jp": "学校へ行く前に、友達に電話をしました。",
-    "sentence_furigana": "学校へ行く前に、友達に電話をしました。",
+    "sentence_furigana": "がっこうへいくまえに、ともだちにでんわをしました。",
     "sentence_en": "I phoned a friend before I went to school.",
     "question": "学校へ（　　　）前に、友達に電話をしました。",
     "choices": [
@@ -1899,7 +1899,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "before ~ing / before (a time)",
     "similar": "あとで、てから、までに",
     "sentence_jp": "私は三日前に、この傘を買いました。",
-    "sentence_furigana": "私は三日前に、この傘を買いました。",
+    "sentence_furigana": "わたしはみっかまえに、このかさをかいました。",
     "sentence_en": "I bought this umbrella three days ago.",
     "question": "私は三日（　　　）、この傘を買いました。",
     "choices": [
@@ -1929,25 +1929,25 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after ~ing / later",
     "similar": "まえに、てから、あとに",
     "sentence_jp": "夕ごはんを食べた後で、犬と散歩します。",
-    "sentence_furigana": "夕ごはんを食べた後で、犬と散歩します。",
-    "sentence_en": "After I eat dinner, I take a walk with my dog.",
+    "sentence_furigana": "ゆうごはんをたべたのちで、いぬとさんぽします。",
+    "sentence_en": "After eating dinner, I go for a walk with my dog.",
     "question": "夕ごはんを食べ（　　　）、犬と散歩します。",
     "choices": [
       "る後で",
       "ない後で",
-      "る前に",
+      "て後で",
       "た後で"
     ],
     "answer": 3,
     "correct_text": "た後で",
     "notes": "<ruby>食<rt>た</rt></ruby>べてから<ruby>散歩<rt>さんぽ</rt></ruby>する<ruby>順番<rt>じゅんばん</rt></ruby>なので「<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で」です。「<ruby>食<rt>た</rt></ruby>べる<ruby>後<rt>あと</rt></ruby>で」「<ruby>食<rt>た</rt></ruby>べない<ruby>後<rt>あと</rt></ruby>で」は<ruby>形<rt>かたち</rt></ruby>が<ruby>誤<rt>あやま</rt></ruby>り、「<ruby>食<rt>た</rt></ruby>べる<ruby>前<rt>まえ</rt></ruby>に」は<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>です。 / Eating comes first, then the walk: 食べた後で. 食べる後で / 食べない後で are wrong forms; 食べる前に reverses the order.",
     "question_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べ（　　　）、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
-    "sentence_jp_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>で、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
     "choices_ruby": [
-      "る<ruby>後<rt>あと</rt></ruby>で",
-      "ない<ruby>後<rt>あと</rt></ruby>で",
-      "る<ruby>前<rt>まえ</rt></ruby>に",
-      "た<ruby>後<rt>あと</rt></ruby>で"
+      "る<ruby>後<rt>のち</rt></ruby>で",
+      "ない<ruby>後<rt>のち</rt></ruby>で",
+      "て<ruby>後<rt>あと</rt></ruby>で",
+      "た<ruby>後<rt>のち</rt></ruby>で"
     ],
     "correct_text_ruby": "た<ruby>後<rt>あと</rt></ruby>で"
   },
@@ -1959,7 +1959,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after ~ing / later",
     "similar": "まえに、てから、あとに",
     "sentence_jp": "授業の後で、図書館で勉強します。",
-    "sentence_furigana": "授業の後で、図書館で勉強します。",
+    "sentence_furigana": "じゅぎょうのあとで、としょかんでべんきょうします。",
     "sentence_en": "After class, I study at the library.",
     "question": "授業（　　　）後で、図書館で勉強します。",
     "choices": [
@@ -1989,7 +1989,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after ~ing / later",
     "similar": "まえに、てから、あとに",
     "sentence_jp": "A：今、忙しいので、後で電話してもいいですか。B：はい、いいですよ。",
-    "sentence_furigana": "A：今、忙しいので、後で電話してもいいですか。B：はい、いいですよ。",
+    "sentence_furigana": "A：いま、いそがしいので、あとででんわしてもいいですか。B：はい、いいですよ。",
     "sentence_en": "A: I'm busy now, so may I call you later? B: Yes, that's fine.",
     "question": "A：今、忙しいので、（　　　）電話してもいいですか。B：はい、いいですよ。",
     "choices": [
@@ -2018,26 +2018,26 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "reading": "あとで",
     "meaning_en": "after ~ing / later",
     "similar": "まえに、てから、あとに",
-    "sentence_jp": "友達の家へ行く前に、花を買いました。",
-    "sentence_furigana": "友達の家へ行く前に、花を買いました。",
-    "sentence_en": "Before going to my friend's house, I bought flowers.",
-    "question": "友達の家へ行く（　　　）、花を買いました。",
+    "sentence_jp": "仕事が終わった後で、友達とごはんを食べに行きました。",
+    "sentence_furigana": "しごとがおわったのちで、ともだちとごはんをたべにいきました。",
+    "sentence_en": "After finishing work, I went out to eat with my friend.",
+    "question": "仕事が終わった（　　　）、友達とごはんを食べに行きました。",
     "choices": [
-      "後に",
       "前に",
       "後で",
-      "間で"
+      "間に",
+      "中で"
     ],
     "answer": 1,
-    "correct_text": "前に",
+    "correct_text": "後で",
     "notes": "「<ruby>行<rt>い</rt></ruby>く」は<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」が<ruby>合<rt>あ</rt></ruby>います。「<ruby>後<rt>あと</rt></ruby>で」「<ruby>後<rt>あと</rt></ruby>に」は<ruby>動詞<rt>どうし</rt></ruby>が「<ruby>行<rt>い</rt></ruby>った」の<ruby>形<rt>かたち</rt></ruby>になり、「<ruby>間<rt>あいだ</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / 行く is in the dictionary form, so 前に fits. 後で / 後に need 行った, and 間で doesn't fit.",
-    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く（　　　）、<ruby>花<rt>はな</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
-    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、<ruby>花<rt>はな</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+    "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった（　　　）、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きました。",
+    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きました。",
     "choices_ruby": [
-      "<ruby>後<rt>あと</rt></ruby>に",
       "<ruby>前<rt>まえ</rt></ruby>に",
       "<ruby>後<rt>あと</rt></ruby>で",
-      "<ruby>間<rt>あいだ</rt></ruby>で"
+      "<ruby>間<rt>ま</rt></ruby>に",
+      "<ruby>中<rt>なか</rt></ruby>で"
     ],
     "correct_text_ruby": "<ruby>前<rt>まえ</rt></ruby>に"
   },
@@ -2049,7 +2049,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after doing ~, (and then) ...",
     "similar": "あとで、まえに、て",
     "sentence_jp": "毎朝、顔を洗ってから、朝ごはんを食べます。",
-    "sentence_furigana": "毎朝、顔を洗ってから、朝ごはんを食べます。",
+    "sentence_furigana": "まいあさ、かおをあらってから、あさごはんをたべます。",
     "sentence_en": "Every morning I wash my face and then eat breakfast.",
     "question": "毎朝、顔を洗っ（　　　）、朝ごはんを食べます。",
     "choices": [
@@ -2079,7 +2079,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after doing ~, (and then) ...",
     "similar": "あとで、まえに、て",
     "sentence_jp": "日本の家では、靴を脱いでから、部屋に入ります。",
-    "sentence_furigana": "日本の家では、靴を脱いでから、部屋に入ります。",
+    "sentence_furigana": "にほんのいえでは、くつをぬいでから、へやにはいります。",
     "sentence_en": "In Japanese homes, you take off your shoes before entering a room.",
     "question": "日本の家では、靴を脱い（　　　）、部屋に入ります。",
     "choices": [
@@ -2109,7 +2109,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after doing ~, (and then) ...",
     "similar": "あとで、まえに、て",
     "sentence_jp": "A：先に食べてもいいですか。B：すみません、手を洗ってから食べてください。",
-    "sentence_furigana": "A：先に食べてもいいですか。B：すみません、手を洗ってから食べてください。",
+    "sentence_furigana": "A：さきにたべてもいいですか。B：すみません、てをあらってからたべてください。",
     "sentence_en": "A: May I eat first? B: Sorry, please wash your hands first and then eat.",
     "question": "A：先に食べてもいいですか。B：すみません、手を洗っ（　　　）食べてください。",
     "choices": [
@@ -2139,7 +2139,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "after doing ~, (and then) ...",
     "similar": "あとで、まえに、て",
     "sentence_jp": "図書館で本を借りてから、公園で読みました。",
-    "sentence_furigana": "図書館で本を借りてから、公園で読みました。",
+    "sentence_furigana": "としょかんでほんをかりてから、こうえんでよみました。",
     "sentence_en": "I borrowed a book at the library and then read it in the park.",
     "question": "図書館で本を借りて（　　　）、公園で読みました。",
     "choices": [
@@ -2169,7 +2169,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "B is more ~ than A",
     "similar": "ほうが、いちばん、と同じくらい",
     "sentence_jp": "夏と冬と、どちらが好きですか。",
-    "sentence_furigana": "夏と冬と、どちらが好きですか。",
+    "sentence_furigana": "なつとふゆと、どちらがすきですか。",
     "sentence_en": "Which do you like better, summer or winter?",
     "question": "夏と冬と、（　　　）が好きですか。",
     "choices": [
@@ -2199,7 +2199,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "B is more ~ than A",
     "similar": "ほうが、いちばん、と同じくらい",
     "sentence_jp": "電車より自転車のほうが便利です。駅が遠いですから。",
-    "sentence_furigana": "電車より自転車のほうが便利です。駅が遠いですから。",
+    "sentence_furigana": "でんしゃよりじてんしゃのほうがべんりです。えきがとおいですから。",
     "sentence_en": "A bicycle is more convenient than the train, because the station is far.",
     "question": "電車より自転車（　　　）便利です。駅が遠いですから。",
     "choices": [
@@ -2229,7 +2229,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "B is more ~ than A",
     "similar": "ほうが、いちばん、と同じくらい",
     "sentence_jp": "私は肉より魚のほうが好きです。",
-    "sentence_furigana": "私は肉より魚のほうが好きです。",
+    "sentence_furigana": "わたしはにくよりさかなのほうがすきです。",
     "sentence_en": "I like fish more than meat.",
     "question": "私は肉（　　　）魚のほうが好きです。",
     "choices": [
@@ -2259,7 +2259,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "B is more ~ than A",
     "similar": "ほうが、いちばん、と同じくらい",
     "sentence_jp": "A：日本語と英語と、どちらが難しいですか。B：英語より日本語のほうが難しいです。",
-    "sentence_furigana": "A：日本語と英語と、どちらが難しいですか。B：英語より日本語のほうが難しいです。",
+    "sentence_furigana": "A：にほんごとえいごと、どちらがむずかしいですか。B：えいごよりにほんごのほうがむずかしいです。",
     "sentence_en": "A: Which is harder, Japanese or English? B: Japanese is harder than English.",
     "question": "A：日本語と英語と、どちらが難しいですか。B：英語より日本語（　　　）難しいです。",
     "choices": [
@@ -2289,7 +2289,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the most ~ among ...",
     "similar": "より〜のほうが、いちばん、どれ／だれ／何",
     "sentence_jp": "一年の中で、いつがいちばん好きですか。",
-    "sentence_furigana": "一年の中で、いつがいちばん好きですか。",
+    "sentence_furigana": "いちねんのなかで、いつがいちばんすきですか。",
     "sentence_en": "Which time of the year do you like the best?",
     "question": "一年の中で、いつが（　　　）好きですか。",
     "choices": [
@@ -2319,7 +2319,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the most ~ among ...",
     "similar": "より〜のほうが、いちばん、どれ／だれ／何",
     "sentence_jp": "A：スポーツの中で、何がいちばん好きですか。B：テニスがいちばん好きです。",
-    "sentence_furigana": "A：スポーツの中で、何がいちばん好きですか。B：テニスがいちばん好きです。",
+    "sentence_furigana": "A：スポーツのなかで、なにがいちばんすきですか。B：テニスがいちばんすきです。",
     "sentence_en": "A: Of all sports, which do you like the most? B: I like tennis the best.",
     "question": "A：スポーツの中で、何が（　　　）好きですか。B：テニスがいちばん好きです。",
     "choices": [
@@ -2349,7 +2349,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the most ~ among ...",
     "similar": "より〜のほうが、いちばん、どれ／だれ／何",
     "sentence_jp": "クラスの中で、だれがいちばん背が高いですか。",
-    "sentence_furigana": "クラスの中で、だれがいちばん背が高いですか。",
+    "sentence_furigana": "クラスのなかで、だれがいちばんせがたかいですか。",
     "sentence_en": "Who is the tallest in the class?",
     "question": "クラスの中で、（　　　）がいちばん背が高いですか。",
     "choices": [
@@ -2379,7 +2379,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "the most ~ among ...",
     "similar": "より〜のほうが、いちばん、どれ／だれ／何",
     "sentence_jp": "家族の中で、母がいちばん料理が上手です。",
-    "sentence_furigana": "家族の中で、母がいちばん料理が上手です。",
+    "sentence_furigana": "かぞくのなかで、ははがいちばんりょうりがじょうずです。",
     "sentence_en": "In my family, my mother is the best at cooking.",
     "question": "家族の中で、母（　　　）いちばん料理が上手です。",
     "choices": [
@@ -2409,7 +2409,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like / dislike ~",
     "similar": "がじょうず、がほしい、がわかる",
     "sentence_jp": "私は動物が好きです。特に猫が大好きです。",
-    "sentence_furigana": "私は動物が好きです。特に猫が大好きです。",
+    "sentence_furigana": "わたしはどうぶつがすきです。とくにねこがだいすきです。",
     "sentence_en": "I like animals. I especially love cats.",
     "question": "私は動物（　　　）好きです。特に猫が大好きです。",
     "choices": [
@@ -2439,7 +2439,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like / dislike ~",
     "similar": "がじょうず、がほしい、がわかる",
     "sentence_jp": "弟はピーマンが嫌いですが、にんじんは食べます。",
-    "sentence_furigana": "弟はピーマンが嫌いですが、にんじんは食べます。",
+    "sentence_furigana": "おとうとはピーマンがきらいですが、にんじんはたべます。",
     "sentence_en": "My little brother doesn't like green peppers, but he eats carrots.",
     "question": "弟はピーマン（　　　）嫌いですが、にんじんは食べます。",
     "choices": [
@@ -2469,7 +2469,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like / dislike ~",
     "similar": "がじょうず、がほしい、がわかる",
     "sentence_jp": "A：音楽が好きですか。B：いいえ、あまり好きじゃありません。",
-    "sentence_furigana": "A：音楽が好きですか。B：いいえ、あまり好きじゃありません。",
+    "sentence_furigana": "A：おんがくがすきですか。B：いいえ、あまりすきじゃありません。",
     "sentence_en": "A: Do you like music? B: No, not very much.",
     "question": "A：音楽が好きですか。B：いいえ、あまり好き（　　　）。",
     "choices": [
@@ -2499,7 +2499,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "like / dislike ~",
     "similar": "がじょうず、がほしい、がわかる",
     "sentence_jp": "私は甘いものが大好きです。だから、ケーキをよく食べます。",
-    "sentence_furigana": "私は甘いものが大好きです。だから、ケーキをよく食べます。",
+    "sentence_furigana": "わたしはあまいものがだいすきです。だから、ケーキをよくたべます。",
     "sentence_en": "I love sweet things. That's why I often eat cake.",
     "question": "私は甘いものが大好きです。（　　　）、ケーキをよく食べます。",
     "choices": [
@@ -2529,7 +2529,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be good / poor at ~",
     "similar": "がすき、がとくい、にがて",
     "sentence_jp": "妹はピアノが上手です。毎日練習しています。",
-    "sentence_furigana": "妹はピアノが上手です。毎日練習しています。",
+    "sentence_furigana": "いもうとはピアノがじょうずです。まいにちれんしゅうしています。",
     "sentence_en": "My younger sister is good at the piano. She practices every day.",
     "question": "妹はピアノ（　　　）上手です。毎日練習しています。",
     "choices": [
@@ -2559,7 +2559,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be good / poor at ~",
     "similar": "がすき、がとくい、にがて",
     "sentence_jp": "私は歌が下手です。ですから、カラオケで歌いたくありません。",
-    "sentence_furigana": "私は歌が下手です。ですから、カラオケで歌いたくありません。",
+    "sentence_furigana": "わたしはうたがへたです。ですから、カラオケでうたいたくありません。",
     "sentence_en": "I'm bad at singing. So I don't want to sing at karaoke.",
     "question": "私は歌が下手です。ですから、カラオケで歌い（　　　）。",
     "choices": [
@@ -2589,7 +2589,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be good / poor at ~",
     "similar": "がすき、がとくい、にがて",
     "sentence_jp": "リーさんは日本語を話すのが上手です。",
-    "sentence_furigana": "リーさんは日本語を話すのが上手です。",
+    "sentence_furigana": "リーさんはにほんごをはなすのがじょうずです。",
     "sentence_en": "Lee is good at speaking Japanese.",
     "question": "リーさんは日本語を話す（　　　）上手です。",
     "choices": [
@@ -2619,7 +2619,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "be good / poor at ~",
     "similar": "がすき、がとくい、にがて",
     "sentence_jp": "A：田中さんは絵がとても上手ですね。B：ありがとうございます。",
-    "sentence_furigana": "A：田中さんは絵がとても上手ですね。B：ありがとうございます。",
+    "sentence_furigana": "A：たなかさんはえがとてもじょうずですね。B：ありがとうございます。",
     "sentence_en": "A: Your drawing is really good, Mr. Tanaka. B: Thank you.",
     "question": "A：田中さんは絵がとても（　　　）ですね。B：ありがとうございます。",
     "choices": [
@@ -2649,7 +2649,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / have (exist: ある for things, いる for people & animals)",
     "similar": "があります、がいます、をもっている",
     "sentence_jp": "庭に犬がいます。名前はポチです。",
-    "sentence_furigana": "庭に犬がいます。名前はポチです。",
+    "sentence_furigana": "にわにいぬがいます。なまえはポチです。",
     "sentence_en": "There's a dog in the garden. Its name is Pochi.",
     "question": "庭に犬が（　　　）。名前はポチです。",
     "choices": [
@@ -2679,7 +2679,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / have (exist: ある for things, いる for people & animals)",
     "similar": "があります、がいます、をもっている",
     "sentence_jp": "机の上に辞書と鉛筆があります。",
-    "sentence_furigana": "机の上に辞書と鉛筆があります。",
+    "sentence_furigana": "つくえのうえにじしょとえんぴつがあります。",
     "sentence_en": "There are a dictionary and a pencil on the desk.",
     "question": "机の上に辞書と鉛筆が（　　　）。",
     "choices": [
@@ -2709,7 +2709,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / have (exist: ある for things, いる for people & animals)",
     "similar": "があります、がいます、をもっている",
     "sentence_jp": "明日の午後、学校でテストがあります。",
-    "sentence_furigana": "明日の午後、学校でテストがあります。",
+    "sentence_furigana": "あしたのごご、がっこうでテストがあります。",
     "sentence_en": "There's a test at school tomorrow afternoon.",
     "question": "明日の午後、学校でテストが（　　　）。",
     "choices": [
@@ -2739,7 +2739,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / have (exist: ある for things, いる for people & animals)",
     "similar": "があります、がいます、をもっている",
     "sentence_jp": "A：兄弟がいますか。B：はい、姉が一人います。",
-    "sentence_furigana": "A：兄弟がいますか。B：はい、姉が一人います。",
+    "sentence_furigana": "A：きょうだいがいますか。B：はい、あねがひとりいます。",
     "sentence_en": "A: Do you have any siblings? B: Yes, I have one older sister.",
     "question": "A：兄弟がいますか。B：はい、姉が（　　　）います。",
     "choices": [
@@ -2769,7 +2769,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go / come / return to a place (destination particle へ)",
     "similar": "Nに行く、〜に行く（目的）、どこへも",
     "sentence_jp": "明日は図書館へ行って、日本語を勉強します。",
-    "sentence_furigana": "明日は図書館へ行って、日本語を勉強します。",
+    "sentence_furigana": "あしたはとしょかんへいって、にほんごをべんきょうします。",
     "sentence_en": "Tomorrow I'll go to the library and study Japanese.",
     "question": "明日は図書館（　　　）行って、日本語を勉強します。",
     "choices": [
@@ -2799,7 +2799,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go / come / return to a place (destination particle へ)",
     "similar": "Nに行く、〜に行く（目的）、どこへも",
     "sentence_jp": "A: いつ日本へ来ましたか。B: 去年の春です。",
-    "sentence_furigana": "A: いつ日本へ来ましたか。B: 去年の春です。",
+    "sentence_furigana": "A: いつにほんへきましたか。B: きょねんのはるです。",
     "sentence_en": "A: When did you come to Japan? B: Last spring.",
     "question": "A: いつ日本（　　　）来ましたか。B: 去年の春です。",
     "choices": [
@@ -2829,7 +2829,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go / come / return to a place (destination particle へ)",
     "similar": "Nに行く、〜に行く（目的）、どこへも",
     "sentence_jp": "毎日、仕事のあと、まっすぐ家へ帰ります。",
-    "sentence_furigana": "毎日、仕事のあと、まっすぐ家へ帰ります。",
+    "sentence_furigana": "まいにち、しごとのあと、まっすぐうちへかえります。",
     "sentence_en": "Every day after work I go straight home.",
     "question": "毎日、仕事のあと、まっすぐ家（　　　）帰ります。",
     "choices": [
@@ -2859,7 +2859,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go / come / return to a place (destination particle へ)",
     "similar": "Nに行く、〜に行く（目的）、どこへも",
     "sentence_jp": "日曜日は雨でしたから、どこへも行きませんでした。",
-    "sentence_furigana": "日曜日は雨でしたから、どこへも行きませんでした。",
+    "sentence_furigana": "にちようびはあめでしたから、どこへもいきませんでした。",
     "sentence_en": "It rained on Sunday, so I didn't go anywhere.",
     "question": "日曜日は雨でしたから、どこ（　　　）も行きませんでした。",
     "choices": [
@@ -2889,7 +2889,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to meet / see (a person)",
     "similar": "Nと会う、Nに会いに行く、Nを見る",
     "sentence_jp": "昨日、駅で先生に会いました。",
-    "sentence_furigana": "昨日、駅で先生に会いました。",
+    "sentence_furigana": "きのう、えきでせんせいにあいました。",
     "sentence_en": "Yesterday I met my teacher at the station.",
     "question": "昨日、駅で先生（　　　）会いました。",
     "choices": [
@@ -2919,7 +2919,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to meet / see (a person)",
     "similar": "Nと会う、Nに会いに行く、Nを見る",
     "sentence_jp": "来週、国の母に会いに行きます。",
-    "sentence_furigana": "来週、国の母に会いに行きます。",
+    "sentence_furigana": "らいしゅう、くにのははにあいにいきます。",
     "sentence_en": "Next week I'm going to see my mother back home.",
     "question": "来週、国の母（　　　）会いに行きます。",
     "choices": [
@@ -2949,7 +2949,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to meet / see (a person)",
     "similar": "Nと会う、Nに会いに行く、Nを見る",
     "sentence_jp": "A: 週末、誰に会いましたか。B: 高校の友達に会いました。",
-    "sentence_furigana": "A: 週末、誰に会いましたか。B: 高校の友達に会いました。",
+    "sentence_furigana": "A: しゅうまつ、だれにあいましたか。B: こうこうのともだちにあいました。",
     "sentence_en": "A: Who did you see at the weekend? B: I met a friend from high school.",
     "question": "A: 週末、誰（　　　）会いましたか。B: 高校の友達に会いました。",
     "choices": [
@@ -2979,7 +2979,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "to meet / see (a person)",
     "similar": "Nと会う、Nに会いに行く、Nを見る",
     "sentence_jp": "駅の前で林さんに会って、一緒にお茶を飲みました。",
-    "sentence_furigana": "駅の前で林さんに会って、一緒にお茶を飲みました。",
+    "sentence_furigana": "えきのまえではやしさんにあって、いっしょにおちゃをのみました。",
     "sentence_en": "I met Mr. Hayashi in front of the station, and we had tea together.",
     "question": "駅の前で林さん（　　　）会って、一緒にお茶を飲みました。",
     "choices": [
@@ -3009,7 +3009,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of / at (place of action) — particle で",
     "similar": "Nに、Nを、Nへ",
     "sentence_jp": "A: 毎日どうやって会社へ行きますか。B: 電車で行きます。",
-    "sentence_furigana": "A: 毎日どうやって会社へ行きますか。B: 電車で行きます。",
+    "sentence_furigana": "A: まいにちどうやってかいしゃへいきますか。B: でんしゃでいきます。",
     "sentence_en": "A: How do you get to work every day? B: I go by train.",
     "question": "A: 毎日どうやって会社へ行きますか。B: 電車（　　　）行きます。",
     "choices": [
@@ -3039,7 +3039,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of / at (place of action) — particle で",
     "similar": "Nに、Nを、Nへ",
     "sentence_jp": "図書館で宿題をします。",
-    "sentence_furigana": "図書館で宿題をします。",
+    "sentence_furigana": "としょかんでしゅくだいをします。",
     "sentence_en": "I do my homework at the library.",
     "question": "図書館（　　　）宿題をします。",
     "choices": [
@@ -3069,7 +3069,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of / at (place of action) — particle で",
     "similar": "Nに、Nを、Nへ",
     "sentence_jp": "日本語で手紙を書きます。",
-    "sentence_furigana": "日本語で手紙を書きます。",
+    "sentence_furigana": "にほんごでてがみをかきます。",
     "sentence_en": "I write the letter in Japanese.",
     "question": "日本語（　　　）手紙を書きます。",
     "choices": [
@@ -3099,7 +3099,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by means of / at (place of action) — particle で",
     "similar": "Nに、Nを、Nへ",
     "sentence_jp": "スマホで写真をとりました。",
-    "sentence_furigana": "スマホで写真をとりました。",
+    "sentence_furigana": "スマホでしゃしんをとりました。",
     "sentence_en": "I took the photo with my smartphone.",
     "question": "スマホ（　　　）写真をとりました。",
     "choices": [
@@ -3129,7 +3129,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "with (a companion) / and (listing nouns) — particle と",
     "similar": "Nや、Nも、Nと一緒に",
     "sentence_jp": "日曜日は友達と映画を見ます。",
-    "sentence_furigana": "日曜日は友達と映画を見ます。",
+    "sentence_furigana": "にちようびはともだちとえいがをみます。",
     "sentence_en": "On Sunday I'm going to watch a film with a friend.",
     "question": "日曜日は友達（　　　）映画を見ます。",
     "choices": [
@@ -3159,7 +3159,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "with (a companion) / and (listing nouns) — particle と",
     "similar": "Nや、Nも、Nと一緒に",
     "sentence_jp": "机の上に本とノートがあります。",
-    "sentence_furigana": "机の上に本とノートがあります。",
+    "sentence_furigana": "つくえのうえにほんとノートがあります。",
     "sentence_en": "There are a book and a notebook on the desk.",
     "question": "机の上に本（　　　）ノートがあります。",
     "choices": [
@@ -3189,7 +3189,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "with (a companion) / and (listing nouns) — particle と",
     "similar": "Nや、Nも、Nと一緒に",
     "sentence_jp": "妹と二人で公園へ行きました。",
-    "sentence_furigana": "妹と二人で公園へ行きました。",
+    "sentence_furigana": "いもうととふたりでこうえんへいきました。",
     "sentence_en": "My sister and I went to the park, the two of us.",
     "question": "妹（　　　）二人で公園へ行きました。",
     "choices": [
@@ -3219,7 +3219,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "with (a companion) / and (listing nouns) — particle と",
     "similar": "Nや、Nも、Nと一緒に",
     "sentence_jp": "A: 誰と食べましたか。B: 家族と食べました。",
-    "sentence_furigana": "A: 誰と食べましたか。B: 家族と食べました。",
+    "sentence_furigana": "A: だれとたべましたか。B: かぞくとたべました。",
     "sentence_en": "A: Who did you eat with? B: I ate with my family.",
     "question": "A: 誰と食べましたか。B: 家族（　　　）食べました。",
     "choices": [
@@ -3249,7 +3249,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "also / too / both A and B / not even (with question words) — particle も",
     "similar": "Nは、Nと、Nでも",
     "sentence_jp": "朝も夜も、歯をみがきます。",
-    "sentence_furigana": "朝も夜も、歯をみがきます。",
+    "sentence_furigana": "あさもよるも、はをみがきます。",
     "sentence_en": "I brush my teeth in the morning and at night.",
     "question": "朝（　　　）夜も、歯をみがきます。",
     "choices": [
@@ -3279,7 +3279,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "also / too / both A and B / not even (with question words) — particle も",
     "similar": "Nは、Nと、Nでも",
     "sentence_jp": "昨日、友達と出かけましたが、駅の近くは人が多くて、私たちはどこへも行けませんでした。",
-    "sentence_furigana": "昨日、友達と出かけましたが、駅の近くは人が多くて、私たちはどこへも行けませんでした。",
+    "sentence_furigana": "きのう、ともだちとでかけましたが、えきのちかくはひとがおおくて、わたしたちはどこへもいけませんでした。",
     "sentence_en": "Yesterday I went out with a friend, but the area near the station was so crowded that we couldn't go anywhere.",
     "question": "昨日、友達と出かけましたが、駅の近くは人が多くて、私たちはどこ（　　　）行けませんでした。",
     "choices": [
@@ -3309,7 +3309,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "also / too / both A and B / not even (with question words) — particle も",
     "similar": "Nは、Nと、Nでも",
     "sentence_jp": "教室に誰もいません。",
-    "sentence_furigana": "教室に誰もいません。",
+    "sentence_furigana": "きょうしつにだれもいません。",
     "sentence_en": "There is nobody in the classroom.",
     "question": "教室に誰（　　　）いません。",
     "choices": [
@@ -3339,7 +3339,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "also / too / both A and B / not even (with question words) — particle も",
     "similar": "Nは、Nと、Nでも",
     "sentence_jp": "A: 今日、誰かに会いましたか。B: いいえ、誰にも会いませんでした。",
-    "sentence_furigana": "A: 今日、誰かに会いましたか。B: いいえ、誰にも会いませんでした。",
+    "sentence_furigana": "A: きょう、だれかにあいましたか。B: いいえ、だれにもあいませんでした。",
     "sentence_en": "A: Did you meet anybody today? B: No, I didn't meet anyone.",
     "question": "A: 今日、誰かに会いましたか。B: いいえ、誰（　　　）会いませんでした。",
     "choices": [
@@ -3369,7 +3369,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "still / not yet / already / (any) more",
     "similar": "まだ〜ていません、もう〜ました、もう少し",
     "sentence_jp": "A: 昼ごはんを食べましたか。B: はい、もう食べました。",
-    "sentence_furigana": "A: 昼ごはんを食べましたか。B: はい、もう食べました。",
+    "sentence_furigana": "A: ひるごはんをたべましたか。B: はい、もうたべました。",
     "sentence_en": "A: Have you had lunch? B: Yes, I've already eaten.",
     "question": "A: 昼ごはんを食べましたか。B: はい、（　　　）食べました。",
     "choices": [
@@ -3399,7 +3399,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "still / not yet / already / (any) more",
     "similar": "まだ〜ていません、もう〜ました、もう少し",
     "sentence_jp": "A: 宿題は終わりましたか。B: いいえ、まだ終わっていません。",
-    "sentence_furigana": "A: 宿題は終わりましたか。B: いいえ、まだ終わっていません。",
+    "sentence_furigana": "A: しゅくだいはおわりましたか。B: いいえ、まだおわっていません。",
     "sentence_en": "A: Have you finished the homework? B: No, not yet.",
     "question": "A: 宿題は終わりましたか。B: いいえ、（　　　）終わっていません。",
     "choices": [
@@ -3429,7 +3429,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "still / not yet / already / (any) more",
     "similar": "まだ〜ていません、もう〜ました、もう少し",
     "sentence_jp": "今は八時です。授業は九時からですから、まだ時間があります。",
-    "sentence_furigana": "今は八時です。授業は九時からですから、まだ時間があります。",
+    "sentence_furigana": "いまははちじです。じゅぎょうはくじからですから、まだじかんがあります。",
     "sentence_en": "It's eight o'clock now. Class starts at nine, so there is still time.",
     "question": "今は八時です。授業は九時からですから、（　　　）時間があります。",
     "choices": [
@@ -3458,10 +3458,10 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "reading": "まだ／もう",
     "meaning_en": "still / not yet / already / (any) more",
     "similar": "まだ〜ていません、もう〜ました、もう少し",
-    "sentence_jp": "A: コーヒーをどうぞ。B: ありがとうございます。もう一杯、お願いします。",
-    "sentence_furigana": "A: コーヒーをどうぞ。B: ありがとうございます。もう一杯、お願いします。",
-    "sentence_en": "A: Please, have some coffee. B: Thank you. One more cup, please.",
-    "question": "A: コーヒーをどうぞ。B: ありがとうございます。（　　　）一杯、お願いします。",
+    "sentence_jp": "さっきコーヒーを一杯飲みましたが、とてもおいしかったので、もう一杯飲みます。",
+    "sentence_furigana": "さっきコーヒーをいっぱいのみましたが、とてもおいしかったので、もういっぱいのみます。",
+    "sentence_en": "I drank a cup of coffee earlier, and since it was very delicious, I will drink one more cup.",
+    "question": "さっきコーヒーを一杯飲みましたが、とてもおいしかったので、（　　　）一杯飲みます。",
     "choices": [
       "とても",
       "まだ",
@@ -3471,8 +3471,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "もう",
     "notes": "「もう<ruby>一杯<rt>いっぱい</rt></ruby>」は、<ruby>今<rt>いま</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>にもう<ruby>一つ<rt>ひとつ</rt></ruby><ruby>加<rt>くわ</rt></ruby>える<ruby>表現<rt>ひょうげん</rt></ruby>です。 / もう<ruby>一杯<rt>いっぱい</rt></ruby> = one more cup.",
-    "question_ruby": "A: コーヒーをどうぞ。B: ありがとうございます。（　　　）<ruby>一杯<rt>いっぱい</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>いします。",
-    "sentence_jp_ruby": "A: コーヒーをどうぞ。B: ありがとうございます。もう<ruby>一杯<rt>いっぱい</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>いします。",
+    "question_ruby": "さっきコーヒーを<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>みましたが、とてもおいしかったので、（　　　）<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>みます。",
+    "sentence_jp_ruby": "さっきコーヒーを<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>みましたが、とてもおいしかったので、もう<ruby>一杯<rt>いっぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>みます。",
     "choices_ruby": [
       "とても",
       "まだ",
@@ -3489,7 +3489,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "how long / how much (how many) / how much (price)",
     "similar": "どれぐらい、何時間、何円",
     "sentence_jp": "A: ここから駅まで、どのくらいかかりますか。B: 歩いて十分です。",
-    "sentence_furigana": "A: ここから駅まで、どのくらいかかりますか。B: 歩いて十分です。",
+    "sentence_furigana": "A: ここからえきまで、どのくらいかかりますか。B: あるいてじゅっぷんです。",
     "sentence_en": "A: How long does it take from here to the station? B: Ten minutes on foot.",
     "question": "A: ここから駅まで、（　　　）かかりますか。B: 歩いて十分です。",
     "choices": [
@@ -3519,7 +3519,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "how long / how much (how many) / how much (price)",
     "similar": "どれぐらい、何時間、何円",
     "sentence_jp": "A: このシャツはいくらですか。B: 三千円です。",
-    "sentence_furigana": "A: このシャツはいくらですか。B: 三千円です。",
+    "sentence_furigana": "A: このシャツはいくらですか。B: さんぜんえんです。",
     "sentence_en": "A: How much is this shirt? B: It's 3,000 yen.",
     "question": "A: このシャツは（　　　）ですか。B: 三千円です。",
     "choices": [
@@ -3549,7 +3549,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "how long / how much (how many) / how much (price)",
     "similar": "どれぐらい、何時間、何円",
     "sentence_jp": "A: 日本語をどのくらい勉強していますか。B: 二年ぐらいです。",
-    "sentence_furigana": "A: 日本語をどのくらい勉強していますか。B: 二年ぐらいです。",
+    "sentence_furigana": "A: にほんごをどのくらいべんきょうしていますか。B: にねんぐらいです。",
     "sentence_en": "A: How long have you been studying Japanese? B: About two years.",
     "question": "A: 日本語を（　　　）勉強していますか。B: 二年ぐらいです。",
     "choices": [
@@ -3579,7 +3579,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "how long / how much (how many) / how much (price)",
     "similar": "どれぐらい、何時間、何円",
     "sentence_jp": "A: これを二つください。全部でいくらですか。B: 六百円です。",
-    "sentence_furigana": "A: これを二つください。全部でいくらですか。B: 六百円です。",
+    "sentence_furigana": "A: これをふたつください。ぜんぶでいくらですか。B: ろっぴゃくえんです。",
     "sentence_en": "A: Two of these, please. How much is it altogether? B: 600 yen.",
     "question": "A: これを二つください。全部で（　　　）ですか。B: 六百円です。",
     "choices": [
@@ -3609,7 +3609,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "won't you ...? / would you like to ... (invitation)",
     "similar": "〜ましょう、〜ましょうか、〜ますか",
     "sentence_jp": "A: 一緒に昼ごはんを食べに行きませんか。B: いいですね。行きましょう。",
-    "sentence_furigana": "A: 一緒に昼ごはんを食べに行きませんか。B: いいですね。行きましょう。",
+    "sentence_furigana": "A: いっしょにひるごはんをたべにいきませんか。B: いいですね。いきましょう。",
     "sentence_en": "A: Shall we go and have lunch together? B: Sounds good. Let's go.",
     "question": "A: 一緒に昼ごはんを食べに（　　　）。B: いいですね。行きましょう。",
     "choices": [
@@ -3639,7 +3639,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "won't you ...? / would you like to ... (invitation)",
     "similar": "〜ましょう、〜ましょうか、〜ますか",
     "sentence_jp": "A: 今度の日曜日、一緒に映画を見ませんか。B: すみません、日曜日は用事があります。",
-    "sentence_furigana": "A: 今度の日曜日、一緒に映画を見ませんか。B: すみません、日曜日は用事があります。",
+    "sentence_furigana": "A: こんどのにちようび、いっしょにえいがをみませんか。B: すみません、にちようびはようじがあります。",
     "sentence_en": "A: Would you like to see a film with me this Sunday? B: I'm sorry, I have something to do on Sunday.",
     "question": "A: 今度の日曜日、一緒に映画を見ませんか。B: （　　　）、日曜日は用事があります。",
     "choices": [
@@ -3669,7 +3669,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "won't you ...? / would you like to ... (invitation)",
     "similar": "〜ましょう、〜ましょうか、〜ますか",
     "sentence_jp": "A: 暑いですね。冷たいお茶を飲みませんか。B: ありがとうございます。いただきます。",
-    "sentence_furigana": "A: 暑いですね。冷たいお茶を飲みませんか。B: ありがとうございます。いただきます。",
+    "sentence_furigana": "A: あついですね。つめたいおちゃをのみませんか。B: ありがとうございます。いただきます。",
     "sentence_en": "A: It's hot, isn't it? Would you like some cold tea? B: Thank you. I'd love some.",
     "question": "A: 暑いですね。冷たいお茶を（　　　）。B: ありがとうございます。いただきます。",
     "choices": [
@@ -3699,7 +3699,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "won't you ...? / would you like to ... (invitation)",
     "similar": "〜ましょう、〜ましょうか、〜ますか",
     "sentence_jp": "A: 明日の晩、一緒に晩ごはんを食べませんか。B: ぜひ、行きたいです。",
-    "sentence_furigana": "A: 明日の晩、一緒に晩ごはんを食べませんか。B: ぜひ、行きたいです。",
+    "sentence_furigana": "A: あしたのばん、いっしょにばんごはんをたべませんか。B: ぜひ、いきたいです。",
     "sentence_en": "A: Would you like to have dinner together tomorrow evening? B: Yes, I'd love to go.",
     "question": "A: 明日の晩、一緒に晩ごはんを食べませんか。B: （　　　）、行きたいです。",
     "choices": [
@@ -3729,7 +3729,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "turning a verb into a noun: 〜ことです / 〜ことは〜 (hobby, dream, job)",
     "similar": "〜の、〜ことができる、〜ことがある",
     "sentence_jp": "私の趣味は絵を描くことです。",
-    "sentence_furigana": "私の趣味は絵を描くことです。",
+    "sentence_furigana": "わたしのしゅみはえをかくことです。",
     "sentence_en": "My hobby is drawing pictures.",
     "question": "私の趣味は絵を描く（　　　）です。",
     "choices": [
@@ -3759,7 +3759,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "turning a verb into a noun: 〜ことです / 〜ことは〜 (hobby, dream, job)",
     "similar": "〜の、〜ことができる、〜ことがある",
     "sentence_jp": "私の夢は、いつか世界を旅行することです。",
-    "sentence_furigana": "私の夢は、いつか世界を旅行することです。",
+    "sentence_furigana": "わたしのゆめは、いつかせかいをりょこうすることです。",
     "sentence_en": "My dream is to travel the world someday.",
     "question": "私の夢は、いつか世界を旅行する（　　　）です。",
     "choices": [
@@ -3789,7 +3789,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "turning a verb into a noun: 〜ことです / 〜ことは〜 (hobby, dream, job)",
     "similar": "〜の、〜ことができる、〜ことがある",
     "sentence_jp": "毎日運動することは、体にいいです。",
-    "sentence_furigana": "毎日運動することは、体にいいです。",
+    "sentence_furigana": "まいにちうんどうすることは、からだにいいです。",
     "sentence_en": "Exercising every day is good for your health.",
     "question": "毎日運動する（　　　）は、体にいいです。",
     "choices": [
@@ -3819,7 +3819,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "turning a verb into a noun: 〜ことです / 〜ことは〜 (hobby, dream, job)",
     "similar": "〜の、〜ことができる、〜ことがある",
     "sentence_jp": "妹の仕事は、子供に英語を教えることです。",
-    "sentence_furigana": "妹の仕事は、子供に英語を教えることです。",
+    "sentence_furigana": "いもうとのしごとは、こどもにえいごをおしえることです。",
     "sentence_en": "My sister's job is teaching English to children.",
     "question": "妹の仕事は、子供に英語を教える（　　　）です。",
     "choices": [
@@ -3849,7 +3849,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "can do / be able to / be allowed to",
     "similar": "可能形（食べられる）、〜ことがある",
     "sentence_jp": "私は日本語の新聞を読むことができます。",
-    "sentence_furigana": "私は日本語の新聞を読むことができます。",
+    "sentence_furigana": "わたしはにほんごのしんぶんをよむことができます。",
     "sentence_en": "I can read Japanese newspapers.",
     "question": "私は日本語の新聞を読む（　　　）ができます。",
     "choices": [
@@ -3879,7 +3879,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "can do / be able to / be allowed to",
     "similar": "可能形（食べられる）、〜ことがある",
     "sentence_jp": "A: ピアノを弾くことができますか。B: はい、できます。",
-    "sentence_furigana": "A: ピアノを弾くことができますか。B: はい、できます。",
+    "sentence_furigana": "A: ピアノをひくことができますか。B: はい、できます。",
     "sentence_en": "A: Can you play the piano? B: Yes, I can.",
     "question": "A: ピアノを弾くことができますか。B: はい、（　　　）。",
     "choices": [
@@ -3909,7 +3909,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "can do / be able to / be allowed to",
     "similar": "可能形（食べられる）、〜ことがある",
     "sentence_jp": "ここでは大きい声で話すことができません。",
-    "sentence_furigana": "ここでは大きい声で話すことができません。",
+    "sentence_furigana": "ここではおおきいこえではなすことができません。",
     "sentence_en": "You cannot talk loudly here.",
     "question": "ここでは大きい声で話す（　　　）ができません。",
     "choices": [
@@ -3939,7 +3939,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "can do / be able to / be allowed to",
     "similar": "可能形（食べられる）、〜ことがある",
     "sentence_jp": "漢字を読むことができません。",
-    "sentence_furigana": "漢字を読むことができません。",
+    "sentence_furigana": "かんじをよむことができません。",
     "sentence_en": "I cannot read kanji.",
     "question": "漢字を読むこと（　　　）できません。",
     "choices": [
@@ -3969,7 +3969,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have done ... (experience)",
     "similar": "〜たことがない、〜ことがある（時々）、〜ました",
     "sentence_jp": "A: 富士山に登ったことがありますか。B: はい、去年登りました。",
-    "sentence_furigana": "A: 富士山に登ったことがありますか。B: はい、去年登りました。",
+    "sentence_furigana": "A: ふじさんにのぼったことがありますか。B: はい、きょねんのぼりました。",
     "sentence_en": "A: Have you ever climbed Mt. Fuji? B: Yes, I climbed it last year.",
     "question": "A: 富士山に登ったことが（　　　）か。B: はい、去年登りました。",
     "choices": [
@@ -3999,7 +3999,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have done ... (experience)",
     "similar": "〜たことがない、〜ことがある（時々）、〜ました",
     "sentence_jp": "私は北海道へ行ったことがあります。",
-    "sentence_furigana": "私は北海道へ行ったことがあります。",
+    "sentence_furigana": "わたしはほっかいどうへいったことがあります。",
     "sentence_en": "I have been to Hokkaido.",
     "question": "私は北海道へ行った（　　　）があります。",
     "choices": [
@@ -4029,7 +4029,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have done ... (experience)",
     "similar": "〜たことがない、〜ことがある（時々）、〜ました",
     "sentence_jp": "私は寿司を食べたことがあります。",
-    "sentence_furigana": "私は寿司を食べたことがあります。",
+    "sentence_furigana": "わたしはすしをたべたことがあります。",
     "sentence_en": "I have eaten sushi.",
     "question": "私は寿司を食べ（　　　）ことがあります。",
     "choices": [
@@ -4059,7 +4059,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have done ... (experience)",
     "similar": "〜たことがない、〜ことがある（時々）、〜ました",
     "sentence_jp": "A: 納豆を食べたことがありますか。B: いいえ、一度も食べたことがありません。",
-    "sentence_furigana": "A: 納豆を食べたことがありますか。B: いいえ、一度も食べたことがありません。",
+    "sentence_furigana": "A: なっとうをたべたことがありますか。B: いいえ、いちどもたべたことがありません。",
     "sentence_en": "A: Have you ever eaten natto? B: No, I have never eaten it.",
     "question": "A: 納豆を食べたことがありますか。B: いいえ、一度も（　　　）。",
     "choices": [
@@ -4089,7 +4089,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle は: topic, contrast, and は after other particles",
     "similar": "が、も、には・では",
     "sentence_jp": "A: 田中さんは学生ですか。B: いいえ、田中さんは先生です。",
-    "sentence_furigana": "A: 田中さんは学生ですか。B: いいえ、田中さんは先生です。",
+    "sentence_furigana": "A: たなかさんはがくせいですか。B: いいえ、たなかさんはせんせいです。",
     "sentence_en": "A: Is Mr. Tanaka a student? B: No, Mr. Tanaka is a teacher.",
     "question": "A: 田中さんは学生ですか。B: いいえ、田中さん（　　　）先生です。",
     "choices": [
@@ -4119,7 +4119,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle は: topic, contrast, and は after other particles",
     "similar": "が、も、には・では",
     "sentence_jp": "私は毎朝コーヒーを飲みます。",
-    "sentence_furigana": "私は毎朝コーヒーを飲みます。",
+    "sentence_furigana": "わたしはまいあさコーヒーをのみます。",
     "sentence_en": "I drink coffee every morning.",
     "question": "私（　　　）毎朝コーヒーを飲みます。",
     "choices": [
@@ -4149,7 +4149,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle は: topic, contrast, and は after other particles",
     "similar": "が、も、には・では",
     "sentence_jp": "この教室では、食べ物を食べないでください。",
-    "sentence_furigana": "この教室では、食べ物を食べないでください。",
+    "sentence_furigana": "このきょうしつでは、たべものをたべないでください。",
     "sentence_en": "In this classroom, please don't eat food.",
     "question": "この教室で（　　　）、食べ物を食べないでください。",
     "choices": [
@@ -4179,7 +4179,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle は: topic, contrast, and は after other particles",
     "similar": "が、も、には・では",
     "sentence_jp": "私は肉が好きです。でも、魚は好きではありません。",
-    "sentence_furigana": "私は肉が好きです。でも、魚は好きではありません。",
+    "sentence_furigana": "わたしはにくがすきです。でも、さかなはすきではありません。",
     "sentence_en": "I like meat. But I don't like fish.",
     "question": "私は肉が好きです。でも、魚（　　　）好きではありません。",
     "choices": [
@@ -4209,7 +4209,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle が: subject (new info), question-word subject, object of likes / abilities",
     "similar": "は、を、がある・いる",
     "sentence_jp": "A: 誰が来ましたか。B: 山田さんが来ました。",
-    "sentence_furigana": "A: 誰が来ましたか。B: 山田さんが来ました。",
+    "sentence_furigana": "A: だれがきましたか。B: やまださんがきました。",
     "sentence_en": "A: Who came? B: Mr. Yamada came.",
     "question": "A: 誰（　　　）来ましたか。B: 山田さんが来ました。",
     "choices": [
@@ -4239,7 +4239,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle が: subject (new info), question-word subject, object of likes / abilities",
     "similar": "は、を、がある・いる",
     "sentence_jp": "私は甘い物が好きです。",
-    "sentence_furigana": "私は甘い物が好きです。",
+    "sentence_furigana": "わたしはあまいものがすきです。",
     "sentence_en": "I like sweet things.",
     "question": "私は甘い物（　　　）好きです。",
     "choices": [
@@ -4269,7 +4269,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle が: subject (new info), question-word subject, object of likes / abilities",
     "similar": "は、を、がある・いる",
     "sentence_jp": "窓を見てください。雪が降っています。",
-    "sentence_furigana": "窓を見てください。雪が降っています。",
+    "sentence_furigana": "まどをみてください。ゆきがふっています。",
     "sentence_en": "Look out of the window. It's snowing.",
     "question": "窓を見てください。雪（　　　）降っています。",
     "choices": [
@@ -4299,7 +4299,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle が: subject (new info), question-word subject, object of likes / abilities",
     "similar": "は、を、がある・いる",
     "sentence_jp": "私の弟はサッカーが上手です。",
-    "sentence_furigana": "私の弟はサッカーが上手です。",
+    "sentence_furigana": "わたしのおとうとはサッカーがじょうずです。",
     "sentence_en": "My younger brother is good at soccer.",
     "question": "私の弟はサッカー（　　　）上手です。",
     "choices": [
@@ -4329,7 +4329,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle を: object, route passed through, place left",
     "similar": "が、に、で",
     "sentence_jp": "毎朝、大きい橋を渡って会社へ行きます。",
-    "sentence_furigana": "毎朝、大きい橋を渡って会社へ行きます。",
+    "sentence_furigana": "まいあさ、おおきいはしをわたってかいしゃへいきます。",
     "sentence_en": "Every morning I cross a big bridge on my way to work.",
     "question": "毎朝、大きい橋（　　　）渡って会社へ行きます。",
     "choices": [
@@ -4359,7 +4359,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle を: object, route passed through, place left",
     "similar": "が、に、で",
     "sentence_jp": "朝八時に家を出ます。",
-    "sentence_furigana": "朝八時に家を出ます。",
+    "sentence_furigana": "あさはちじにうちをでます。",
     "sentence_en": "I leave the house at eight in the morning.",
     "question": "朝八時に家（　　　）出ます。",
     "choices": [
@@ -4389,7 +4389,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle を: object, route passed through, place left",
     "similar": "が、に、で",
     "sentence_jp": "新宿で電車を降ります。",
-    "sentence_furigana": "新宿で電車を降ります。",
+    "sentence_furigana": "しんじゅくででんしゃをおります。",
     "sentence_en": "I get off the train at Shinjuku.",
     "question": "新宿で電車（　　　）降ります。",
     "choices": [
@@ -4419,7 +4419,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle を: object, route passed through, place left",
     "similar": "が、に、で",
     "sentence_jp": "昼ごはんにパンを食べました。",
-    "sentence_furigana": "昼ごはんにパンを食べました。",
+    "sentence_furigana": "ひるごはんにパンをたべました。",
     "sentence_en": "I ate bread for lunch.",
     "question": "昼ごはんにパン（　　　）食べました。",
     "choices": [
@@ -4449,7 +4449,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle に: time, recipient, place of existence/arrival, purpose, frequency",
     "similar": "で、へ、を、と",
     "sentence_jp": "毎朝、七時に起きます。",
-    "sentence_furigana": "毎朝、七時に起きます。",
+    "sentence_furigana": "まいあさ、しちじにおきます。",
     "sentence_en": "I get up at seven every morning.",
     "question": "毎朝、七時（　　　）起きます。",
     "choices": [
@@ -4479,7 +4479,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle に: time, recipient, place of existence/arrival, purpose, frequency",
     "similar": "で、へ、を、と",
     "sentence_jp": "友達に誕生日のプレゼントをあげました。",
-    "sentence_furigana": "友達に誕生日のプレゼントをあげました。",
+    "sentence_furigana": "ともだちにたんじょうびたんじょうびのプレゼントをあげました。",
     "sentence_en": "I gave my friend a birthday present.",
     "question": "友達（　　　）誕生日のプレゼントをあげました。",
     "choices": [
@@ -4491,8 +4491,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "に",
     "notes": "あげる<ruby>相手<rt>あいて</rt></ruby>は「に」。「<ruby>友達<rt>ともだち</rt></ruby>から」だと、もらう<ruby>側<rt>がわ</rt></ruby>になります。 / The recipient takes に; 友達から would make the friend the giver.",
-    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>（　　　）{<ruby>誕生日<rt>たんじょうび</rt></ruby>|たんじょうび}のプレゼントをあげました。",
-    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に{<ruby>誕生日<rt>たんじょうび</rt></ruby>|たんじょうび}のプレゼントをあげました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>（　　　）<ruby><ruby>誕生日<rt>たんじょうび</rt></ruby><rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby><ruby>誕生日<rt>たんじょうび</rt></ruby><rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
     "choices_ruby": [
       "から",
       "を",
@@ -4509,7 +4509,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle に: time, recipient, place of existence/arrival, purpose, frequency",
     "similar": "で、へ、を、と",
     "sentence_jp": "図書館へ本を返しに行きます。",
-    "sentence_furigana": "図書館へ本を返しに行きます。",
+    "sentence_furigana": "としょかんへほんをかえしにいきます。",
     "sentence_en": "I'm going to the library to return a book.",
     "question": "図書館へ本を返し（　　　）行きます。",
     "choices": [
@@ -4539,7 +4539,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle に: time, recipient, place of existence/arrival, purpose, frequency",
     "similar": "で、へ、を、と",
     "sentence_jp": "私は一週間に二回、プールへ行きます。",
-    "sentence_furigana": "私は一週間に二回、プールへ行きます。",
+    "sentence_furigana": "わたしはいっしゅうかんににかい、プールへいきます。",
     "sentence_en": "I go to the pool twice a week.",
     "question": "私は一週間（　　　）二回、プールへ行きます。",
     "choices": [
@@ -4569,7 +4569,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle で: cause, material, total/group, time needed",
     "similar": "に、から、で（手段・場所）",
     "sentence_jp": "風邪で会社を休みました。",
-    "sentence_furigana": "風邪で会社を休みました。",
+    "sentence_furigana": "かぜでかいしゃをやすみました。",
     "sentence_en": "I took a day off from work because of a cold.",
     "question": "風邪（　　　）会社を休みました。",
     "choices": [
@@ -4599,7 +4599,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle で: cause, material, total/group, time needed",
     "similar": "に、から、で（手段・場所）",
     "sentence_jp": "全部で千円です。",
-    "sentence_furigana": "全部で千円です。",
+    "sentence_furigana": "ぜんぶでせんえんです。",
     "sentence_en": "It's 1,000 yen in total.",
     "question": "全部（　　　）千円です。",
     "choices": [
@@ -4629,7 +4629,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle で: cause, material, total/group, time needed",
     "similar": "に、から、で（手段・場所）",
     "sentence_jp": "家族みんなで旅行しました。",
-    "sentence_furigana": "家族みんなで旅行しました。",
+    "sentence_furigana": "かぞくみんなでりょこうしました。",
     "sentence_en": "The whole family went on a trip together.",
     "question": "家族みんな（　　　）旅行しました。",
     "choices": [
@@ -4659,7 +4659,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle で: cause, material, total/group, time needed",
     "similar": "に、から、で（手段・場所）",
     "sentence_jp": "家から駅まで十分で着きます。",
-    "sentence_furigana": "家から駅まで十分で着きます。",
+    "sentence_furigana": "いえからえきまでじゅっぷんでつきます。",
     "sentence_en": "It takes ten minutes to get from my house to the station.",
     "question": "家から駅まで十分（　　　）着きます。",
     "choices": [
@@ -4689,7 +4689,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle へ: direction, address of sending, へ＋の",
     "similar": "に、まで、で",
     "sentence_jp": "A: どちらへ行きますか。B: ちょっと銀行まで。",
-    "sentence_furigana": "A: どちらへ行きますか。B: ちょっと銀行まで。",
+    "sentence_furigana": "A: どちらへいきますか。B: ちょっとぎんこうまで。",
     "sentence_en": "A: Where are you headed? B: Just to the bank.",
     "question": "A: どちら（　　　）行きますか。B: ちょっと銀行まで。",
     "choices": [
@@ -4719,7 +4719,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle へ: direction, address of sending, へ＋の",
     "similar": "に、まで、で",
     "sentence_jp": "母へ手紙を送りました。",
-    "sentence_furigana": "母へ手紙を送りました。",
+    "sentence_furigana": "ははへてがみをおくりました。",
     "sentence_en": "I sent a letter to my mother.",
     "question": "母（　　　）手紙を送りました。",
     "choices": [
@@ -4749,7 +4749,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle へ: direction, address of sending, へ＋の",
     "similar": "に、まで、で",
     "sentence_jp": "駅への道を教えてください。",
-    "sentence_furigana": "駅への道を教えてください。",
+    "sentence_furigana": "えきへのみちをおしえてください。",
     "sentence_en": "Please tell me the way to the station.",
     "question": "駅（　　　）の道を教えてください。",
     "choices": [
@@ -4779,7 +4779,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle へ: direction, address of sending, へ＋の",
     "similar": "に、まで、で",
     "sentence_jp": "私は家へ帰って、すぐ寝ました。",
-    "sentence_furigana": "私は家へ帰って、すぐ寝ました。",
+    "sentence_furigana": "わたしはうちへかえって、すぐねました。",
     "sentence_en": "I went home and fell asleep right away.",
     "question": "私は家（　　　）帰って、すぐ寝ました。",
     "choices": [
@@ -4809,7 +4809,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle と: quotation (と言う／思う), comparison (と同じ／違う)",
     "similar": "と（共同・並立）、という、でしょう",
     "sentence_jp": "先生は「明日、テストをします」と言いました。",
-    "sentence_furigana": "先生は「明日、テストをします」と言いました。",
+    "sentence_furigana": "せんせいは「あした、テストをします」といいました。",
     "sentence_en": "The teacher said, “We will have a test tomorrow.”",
     "question": "先生は「明日、テストをします」（　　　）言いました。",
     "choices": [
@@ -4839,7 +4839,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle と: quotation (と言う／思う), comparison (と同じ／違う)",
     "similar": "と（共同・並立）、という、でしょう",
     "sentence_jp": "私は明日は雨だと思います。",
-    "sentence_furigana": "私は明日は雨だと思います。",
+    "sentence_furigana": "わたしはあしたはあめだとおもいます。",
     "sentence_en": "I think it will rain tomorrow.",
     "question": "私は明日は雨だ（　　　）思います。",
     "choices": [
@@ -4869,7 +4869,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle と: quotation (と言う／思う), comparison (と同じ／違う)",
     "similar": "と（共同・並立）、という、でしょう",
     "sentence_jp": "私の傘は田中さんのと同じです。",
-    "sentence_furigana": "私の傘は田中さんのと同じです。",
+    "sentence_furigana": "わたしのかさはたなかさんのとおなじです。",
     "sentence_en": "My umbrella is the same as Mr. Tanaka's.",
     "question": "私の傘は田中さんの（　　　）同じです。",
     "choices": [
@@ -4899,7 +4899,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle と: quotation (と言う／思う), comparison (と同じ／違う)",
     "similar": "と（共同・並立）、という、でしょう",
     "sentence_jp": "日本の夏は私の国と違います。",
-    "sentence_furigana": "日本の夏は私の国と違います。",
+    "sentence_furigana": "にほんのなつはわたしのくにとちがいます。",
     "sentence_en": "Summer in Japan is different from summer in my country.",
     "question": "日本の夏は私の国（　　　）違います。",
     "choices": [
@@ -4929,7 +4929,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle も: stacking (にも・でも), quantity (as many as), 'both' (どちらも)",
     "similar": "は、が、でも、だけ",
     "sentence_jp": "電車が来なくて、駅で一時間も待ちました。",
-    "sentence_furigana": "電車が来なくて、駅で一時間も待ちました。",
+    "sentence_furigana": "でんしゃがこなくて、えきでいちじかんもまちました。",
     "sentence_en": "The train didn't come, and I waited at the station for a full hour.",
     "question": "電車が来なくて、駅で一時間（　　　）待ちました。",
     "choices": [
@@ -4959,7 +4959,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle も: stacking (にも・でも), quantity (as many as), 'both' (どちらも)",
     "similar": "は、が、でも、だけ",
     "sentence_jp": "A: 紅茶とコーヒー、どちらが好きですか。B: どちらも好きです。",
-    "sentence_furigana": "A: 紅茶とコーヒー、どちらが好きですか。B: どちらも好きです。",
+    "sentence_furigana": "A: こうちゃとコーヒー、どちらがすきですか。B: どちらもすきです。",
     "sentence_en": "A: Which do you like, tea or coffee? B: I like both.",
     "question": "A: 紅茶とコーヒー、どちらが好きですか。B: どちら（　　　）好きです。",
     "choices": [
@@ -4989,7 +4989,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle も: stacking (にも・でも), quantity (as many as), 'both' (どちらも)",
     "similar": "は、が、でも、だけ",
     "sentence_jp": "駅の近くにも公園があります。",
-    "sentence_furigana": "駅の近くにも公園があります。",
+    "sentence_furigana": "えきのちかくにもこうえんがあります。",
     "sentence_en": "There is also a park near the station.",
     "question": "駅の近く（　　　）も公園があります。",
     "choices": [
@@ -5019,7 +5019,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "particle も: stacking (にも・でも), quantity (as many as), 'both' (どちらも)",
     "similar": "は、が、でも、だけ",
     "sentence_jp": "鈴木さんから手紙が来ました。山田さんからも来ました。",
-    "sentence_furigana": "鈴木さんから手紙が来ました。山田さんからも来ました。",
+    "sentence_furigana": "すずきさんからてがみがきました。やまださんからもきました。",
     "sentence_en": "I got a letter from Ms. Suzuki. I also got one from Mr. Yamada.",
     "question": "鈴木さんから手紙が来ました。山田さんから（　　　）来ました。",
     "choices": [
@@ -5049,7 +5049,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "から: from (time/place/person), because; まで: until / as far as",
     "similar": "に、で、までに、ので",
     "sentence_jp": "仕事は九時から五時までです。",
-    "sentence_furigana": "仕事は九時から五時までです。",
+    "sentence_furigana": "しごとはくじからごじまでです。",
     "sentence_en": "Work runs from nine to five.",
     "question": "仕事は九時（　　　）五時までです。",
     "choices": [
@@ -5079,7 +5079,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "から: from (time/place/person), because; まで: until / as far as",
     "similar": "に、で、までに、ので",
     "sentence_jp": "家から会社まで電車で四十分かかります。",
-    "sentence_furigana": "家から会社まで電車で四十分かかります。",
+    "sentence_furigana": "うちからかいしゃまででんしゃでよんじゅっぷんかかります。",
     "sentence_en": "It takes forty minutes by train from my house to the office.",
     "question": "家から会社（　　　）電車で四十分かかります。",
     "choices": [
@@ -5109,7 +5109,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "から: from (time/place/person), because; まで: until / as far as",
     "similar": "に、で、までに、ので",
     "sentence_jp": "寒いですから、窓を閉めてください。",
-    "sentence_furigana": "寒いですから、窓を閉めてください。",
+    "sentence_furigana": "さむいですから、まどをしめてください。",
     "sentence_en": "It's cold, so please close the window.",
     "question": "寒いです（　　　）、窓を閉めてください。",
     "choices": [
@@ -5139,7 +5139,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "から: from (time/place/person), because; まで: until / as far as",
     "similar": "に、で、までに、ので",
     "sentence_jp": "友達からおみやげをもらいました。",
-    "sentence_furigana": "友達からおみやげをもらいました。",
+    "sentence_furigana": "ともだちからおみやげをもらいました。",
     "sentence_en": "I received a souvenir from a friend.",
     "question": "友達（　　　）おみやげをもらいました。",
     "choices": [
@@ -5169,7 +5169,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / there are (ある for things, いる for people & animals); having",
     "similar": "Nは〜にあります／います、持っています",
     "sentence_jp": "庭に犬がいます。",
-    "sentence_furigana": "庭に犬がいます。",
+    "sentence_furigana": "にわにいぬがいます。",
     "sentence_en": "There is a dog in the garden.",
     "question": "庭に犬（　　　）います。",
     "choices": [
@@ -5199,7 +5199,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / there are (ある for things, いる for people & animals); having",
     "similar": "Nは〜にあります／います、持っています",
     "sentence_jp": "机の上に本があります。",
-    "sentence_furigana": "机の上に本があります。",
+    "sentence_furigana": "つくえのうえにほんがあります。",
     "sentence_en": "There is a book on the desk.",
     "question": "机の上に本が（　　　）。",
     "choices": [
@@ -5229,7 +5229,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / there are (ある for things, いる for people & animals); having",
     "similar": "Nは〜にあります／います、持っています",
     "sentence_jp": "A: 教室に誰がいますか。B: 先生がいます。",
-    "sentence_furigana": "A: 教室に誰がいますか。B: 先生がいます。",
+    "sentence_furigana": "A: きょうしつにだれがいますか。B: せんせいがいます。",
     "sentence_en": "A: Who is in the classroom? B: The teacher is.",
     "question": "A: 教室に誰がいますか。B: 先生が（　　　）。",
     "choices": [
@@ -5259,7 +5259,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "there is / there are (ある for things, いる for people & animals); having",
     "similar": "Nは〜にあります／います、持っています",
     "sentence_jp": "駅の前に銀行があります。",
-    "sentence_furigana": "駅の前に銀行があります。",
+    "sentence_furigana": "えきのまえにぎんこうがあります。",
     "sentence_en": "There is a bank in front of the station.",
     "question": "駅の前（　　　）銀行があります。",
     "choices": [
@@ -5289,7 +5289,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to do (〜たい) / want N (Nがほしい)",
     "similar": "〜たくないです、〜たかったです、〜ましょう",
     "sentence_jp": "A: 何がほしいですか。B: 新しい車がほしいです。",
-    "sentence_furigana": "A: 何がほしいですか。B: 新しい車がほしいです。",
+    "sentence_furigana": "A: なにがほしいですか。B: あたらしいくるまがほしいです。",
     "sentence_en": "A: What do you want? B: I want a new car.",
     "question": "A: 何がほしいですか。B: 新しい車が（　　　）です。",
     "choices": [
@@ -5319,7 +5319,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to do (〜たい) / want N (Nがほしい)",
     "similar": "〜たくないです、〜たかったです、〜ましょう",
     "sentence_jp": "A: 夏休みに何をしたいですか。B: 海で泳ぎたいです。",
-    "sentence_furigana": "A: 夏休みに何をしたいですか。B: 海で泳ぎたいです。",
+    "sentence_furigana": "A: なつやすみになにをしたいですか。B: うみでおよぎたいです。",
     "sentence_en": "A: What would you like to do during summer vacation? B: I'd like to swim in the sea.",
     "question": "A: 夏休みに何をしたいですか。B: 海で（　　　）です。",
     "choices": [
@@ -5349,7 +5349,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to do (〜たい) / want N (Nがほしい)",
     "similar": "〜たくないです、〜たかったです、〜ましょう",
     "sentence_jp": "私は冷たい水を飲みたいです。",
-    "sentence_furigana": "私は冷たい水を飲みたいです。",
+    "sentence_furigana": "わたしはつめたいみずをのみたいです。",
     "sentence_en": "I want to drink some cold water.",
     "question": "私は冷たい水（　　　）飲みたいです。",
     "choices": [
@@ -5379,7 +5379,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "want to do (〜たい) / want N (Nがほしい)",
     "similar": "〜たくないです、〜たかったです、〜ましょう",
     "sentence_jp": "A: おなかが痛いですか。B: いいえ、でも今は何も食べたくないです。",
-    "sentence_furigana": "A: おなかが痛いですか。B: いいえ、でも今は何も食べたくないです。",
+    "sentence_furigana": "A: おなかがいたいですか。B: いいえ、でもいまはなにもたべたくないです。",
     "sentence_en": "A: Does your stomach hurt? B: No, but I don't want to eat anything right now.",
     "question": "A: おなかが痛いですか。B: いいえ、でも今は何も（　　　）。",
     "choices": [
@@ -5409,7 +5409,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's / shall I (offer) / shall we (suggestion) / won't you (invitation)",
     "similar": "〜ませんか、〜ます、〜たいです",
     "sentence_jp": "A: 荷物が重そうですね。私が持ちましょうか。B: ありがとうございます。",
-    "sentence_furigana": "A: 荷物が重そうですね。私が持ちましょうか。B: ありがとうございます。",
+    "sentence_furigana": "A: にもつがおもそうですね。わたしがもちましょうか。B: ありがとうございます。",
     "sentence_en": "A: That luggage looks heavy. Shall I carry it? B: Thank you.",
     "question": "A: 荷物が重そうですね。私が持ち（　　　）。B: ありがとうございます。",
     "choices": [
@@ -5439,7 +5439,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's / shall I (offer) / shall we (suggestion) / won't you (invitation)",
     "similar": "〜ませんか、〜ます、〜たいです",
     "sentence_jp": "授業が終わりました。さあ、一緒に帰りましょう。",
-    "sentence_furigana": "授業が終わりました。さあ、一緒に帰りましょう。",
+    "sentence_furigana": "じゅぎょうがおわりました。さあ、いっしょにかえりましょう。",
     "sentence_en": "Class is over. Come on, let's go home together.",
     "question": "授業が終わりました。さあ、一緒に帰り（　　　）。",
     "choices": [
@@ -5469,7 +5469,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's / shall I (offer) / shall we (suggestion) / won't you (invitation)",
     "similar": "〜ませんか、〜ます、〜たいです",
     "sentence_jp": "A: 来週の日曜日、あいていますか。B: はい。A: 一緒に動物園へ行きませんか。",
-    "sentence_furigana": "A: 来週の日曜日、あいていますか。B: はい。A: 一緒に動物園へ行きませんか。",
+    "sentence_furigana": "A: らいしゅうのにちようび、あいていますか。B: はい。A: いっしょにどうぶつえんへいきませんか。",
     "sentence_en": "A: Are you free next Sunday? B: Yes. A: Would you like to go to the zoo with me?",
     "question": "A: 来週の日曜日、あいていますか。B: はい。A: 一緒に動物園へ行き（　　　）。",
     "choices": [
@@ -5499,7 +5499,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let's / shall I (offer) / shall we (suggestion) / won't you (invitation)",
     "similar": "〜ませんか、〜ます、〜たいです",
     "sentence_jp": "A: 一緒に昼ごはんを食べませんか。B: いいですね。何を食べましょうか。",
-    "sentence_furigana": "A: 一緒に昼ごはんを食べませんか。B: いいですね。何を食べましょうか。",
+    "sentence_furigana": "A: いっしょにひるごはんをたべませんか。B: いいですね。なにをたべましょうか。",
     "sentence_en": "A: Shall we have lunch together? B: Sounds good. What shall we eat?",
     "question": "A: 一緒に昼ごはんを食べませんか。B: いいですね。何を食べ（　　　）。",
     "choices": [

@@ -904,7 +904,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "おおぜい",
     "ruby": "<ruby>大勢<rt>たいせい</rt></ruby>",
     "meaning": "great number of people",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいます。",
+    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいます。",
     "ex_en": "There are many people in front of the station."
   },
   {
@@ -1256,8 +1256,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "おばさん",
     "ruby": "<ruby>伯母<rt>おば</rt></ruby>さん; <ruby>叔母<rt>おば</rt></ruby>さん",
     "meaning": "aunt",
-    "ex_ja": "このノートは<ruby>百二十円<rt>ひゃくにじゅうえん</rt></ruby>です。",
-    "ex_en": "This notebook is 120 yen."
+    "ex_ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに、<ruby>京都<rt>きょうと</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>叔母<rt>おば</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
+    "ex_en": "During summer vacation, I went to my aunt's house in Kyoto."
   },
   {
     "id": "n5_v_0077_1",
@@ -1688,8 +1688,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "かわ",
     "ruby": "<ruby>川<rt>かわ</rt></ruby>; <ruby>河<rt>かわ</rt></ruby>",
     "meaning": "river",
-    "ex_ja": "この<ruby>映画<rt>えいが</rt></ruby>は、<ruby>二回<rt>にかい</rt></ruby><ruby>見<rt>み</rt></ruby>ました。",
-    "ex_en": "I've seen this movie twice."
+    "ex_ja": "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに、<ruby>大<rt>おお</rt></ruby>きくてきれいな<ruby>川<rt>かわ</rt></ruby>があります。",
+    "ex_en": "There is a large, clean river near the park."
   },
   {
     "id": "n5_v_0104_1",
@@ -2792,7 +2792,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "し・よん",
     "ruby": "<ruby>四<rt>よん</rt></ruby>",
     "meaning": "four",
-    "ex_ja": "<ruby>四月<rt>よがつ</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。",
+    "ex_ja": "<ruby>四月<rt>しがつ</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。",
     "ex_en": "I came to Japan in April."
   },
   {
@@ -3144,8 +3144,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "じゃ; じゃあ",
     "ruby": "じゃ; じゃあ",
     "meaning": "well, well then",
-    "ex_ja": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>、<ruby>十歳<rt>じゅっさい</rt></ruby>になりました。",
-    "ex_en": "My younger brother turned ten this year."
+    "ex_ja": "もう5<ruby>時<rt>じ</rt></ruby>ですね。じゃあ、そろそろ<ruby>帰<rt>かえ</rt></ruby>りましょう。",
+    "ex_en": "It's already 5 o'clock. Well then, let's head home soon."
   },
   {
     "id": "n5_v_0195_1",
@@ -5064,8 +5064,8 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "はじめ",
     "ruby": "<ruby>初<rt>はじ</rt></ruby>め; <ruby>始<rt>はじ</rt></ruby>め",
     "meaning": "beginning, start",
-    "ex_ja": "<ruby>紙<rt>かみ</rt></ruby>を<ruby>二枚<rt>にまい</rt></ruby>ください。",
-    "ex_en": "Two sheets of paper, please."
+    "ex_ja": "<ruby>初<rt>はじ</rt></ruby>めは<ruby>難<rt>むずか</rt></ruby>しかったですが、<ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>して<ruby>上手<rt>じょうず</rt></ruby>になりました。",
+    "ex_en": "It was difficult at first, but by practicing every day, I became good at it."
   },
   {
     "id": "n5_v_0315_1",
@@ -7128,7 +7128,7 @@ window.JLPT_N5_VOCAB_DATA = [
     "reading": "うまれる",
     "ruby": "<ruby>生<rt>う</rt></ruby>まれる",
     "meaning": "to be born",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>は、<ruby>四月<rt>よがつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれました。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>は、<ruby>四月<rt>しがつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれました。",
     "ex_en": "My younger sister was born in April."
   },
   {

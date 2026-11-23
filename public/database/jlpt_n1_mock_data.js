@@ -417,7 +417,7 @@ window.JLPT_N1_MOCK_DATA = {
         "<ruby>淡々<rt>たんたん</rt></ruby>",
         "<ruby>転々<rt>てんてん</rt></ruby>",
         "<ruby>悶々<rt>もんもん</rt></ruby>",
-        "<ruby>延<rt>のべ</rt></ruby><ruby>々<rt>々</rt></ruby>"
+        "<ruby>延々<rt>えんえん</rt></ruby>"
       ],
       "correctIndex": 0,
       "weight": 1.0,
@@ -1105,20 +1105,20 @@ window.JLPT_N1_MOCK_DATA = {
       "qNum": 38,
       "star_pos": 3,
       "title": "彼はその分野の第一人者で <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> 学び続けている。",
-      "titleRuby": "<ruby>彼<rt>かれ</rt></ruby>はその<ruby>分野<rt>ぶんや</rt></ruby>の<ruby>第<rt>だい</rt></ruby><ruby>一人<rt>ひとり</rt></ruby><ruby>者<rt>もの</rt></ruby>で <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <ruby>学<rt>まな</rt></ruby>び<ruby>続<rt>つづ</rt></ruby>けている。",
+      "titleRuby": "<ruby>彼<rt>かれ</rt></ruby>はその<ruby>分野<rt>ぶんや</rt></ruby>の<ruby>第<rt>だい</rt></ruby><ruby>一人<rt>ひとり</rt></ruby><ruby>者<rt>しゃ</rt></ruby>で <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <ruby>学<rt>まな</rt></ruby>び<ruby>続<rt>つづ</rt></ruby>けている。",
       "options": [
         "ありながら",
-        "謙虚な姿勢で",
-        "常に",
-        "新しい知識を"
+        "若い頃と",
+        "変わらぬ",
+        "謙虚な姿勢で"
       ],
       "optionsRuby": [
         "ありながら",
-        "<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>で",
-        "<ruby>常<rt>つね</rt></ruby>に",
-        "<ruby>新<rt>あたら</rt></ruby>しい<ruby>知識<rt>ちしき</rt></ruby>を"
+        "<ruby>若<rt>わか</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>と",
+        "<ruby>変<rt>か</rt></ruby>わらぬ",
+        "<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>で"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "weight": 1.5,
       "explanation": "正しい語順は「彼はその分野の第一人者で【ありながら】【常に】【謙虚な姿勢で】【新しい知識を】学び続けている。」です。★（3番目）に入るのは「謙虚な姿勢で」です。"
     },
@@ -1158,17 +1158,17 @@ window.JLPT_N1_MOCK_DATA = {
       "titleRuby": "<ruby>事前<rt>じぜん</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby>が<ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>だった <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> なった。",
       "options": [
         "ばかりに",
-        "最初から",
-        "見直すことに",
-        "計画全体を"
+        "立てたばかりの",
+        "計画全体を",
+        "見直すことに"
       ],
       "optionsRuby": [
         "ばかりに",
-        "<ruby>最初<rt>さいしょ</rt></ruby>から",
-        "<ruby>見直<rt>みなお</rt></ruby>すことに",
-        "<ruby>計画<rt>けいかく</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>を"
+        "<ruby>立<rt>た</rt></ruby>てたばかりの",
+        "<ruby>計画<rt>けいかく</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>を",
+        "<ruby>見直<rt>みなお</rt></ruby>すことに"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "weight": 1.5,
       "explanation": "正しい語順は「事前の調査が不十分だった【ばかりに】【計画全体を】【最初から】【見直すことに】なった。」です。★（2番目）に入るのは「計画全体を」です。"
     },
@@ -1337,8 +1337,8 @@ window.JLPT_N1_MOCK_DATA = {
       "category": "内容理解（短文）",
       "qNum": 47,
       "passage": "専門知識を持たない一般の読み手に向けて科学的な知見を解説する際、「正確さ」と「わかりやすさ」はしばしば対立するものとして語られる。細かな前提条件や例外をすべて盛り込めば記述は厳密になるが、馴染みのない読者は途中で筋道を見失ってしまう。かといって、耳ざわりのよい比喩ばかりに頼れば、現象の本質を取り違えた誤解を招きかねない。真に優れた解説とは、単に専門用語を日常語に置き換えることではなく、どの枝葉を切り落とせば幹となる論理の骨格が損なわれずに浮かび上がるかを冷徹に見極める作業にほかならない。",
-      "passageRuby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>たない<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>手<rt>て</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>科学<rt>かがく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知見<rt>ちけん</rt></ruby>を<ruby>解説<rt>かいせつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>、「<ruby>正確<rt>せいかく</rt></ruby>さ」と「わかりやすさ」はしばしば<ruby>対立<rt>たいりつ</rt></ruby>するものとして<ruby>語<rt>かた</rt></ruby>られる。<ruby>細<rt>こま</rt></ruby>かな<ruby>前提<rt>ぜんてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>や<ruby>例外<rt>れいがい</rt></ruby>をすべて<ruby>盛<rt>も</rt></ruby>り<ruby>込<rt>こ</rt></ruby>めば<ruby>記述<rt>きじゅつ</rt></ruby>は<ruby>厳密<rt>げんみつ</rt></ruby>になるが、<ruby>馴染<rt>なじ</rt></ruby>みのない<ruby>読者<rt>どくしゃ</rt></ruby>は<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>筋道<rt>すじみち</rt></ruby>を<ruby>見失<rt>みうしな</rt></ruby>ってしまう。かといって、<ruby>耳<rt>みみ</rt></ruby>ざわりのよい<ruby>比喩<rt>ひゆ</rt></ruby>ばかりに<ruby>頼<rt>たよ</rt></ruby>れば、<ruby>現象<rt>げんしょう</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>違<rt>ちが</rt></ruby>えた<ruby>誤解<rt>ごかい</rt></ruby>を<ruby>招<rt>まね</rt></ruby>きかねない。<ruby>真<rt>しん</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れた<ruby>解説<rt>かいせつ</rt></ruby>とは、<ruby>単<rt>たん</rt></ruby>に<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>を<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>に<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えることではなく、どの<ruby>枝葉<rt>えだは</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>落<rt>お</rt></ruby>とせば<ruby>幹<rt>みき</rt></ruby>となる<ruby>論理<rt>ろんり</rt></ruby>の<ruby>骨格<rt>こっかく</rt></ruby>が<ruby>損<rt>そこ</rt></ruby>なわれずに<ruby>浮<rt>う</rt></ruby>かび<ruby>上<rt>あ</rt></ruby>がるかを<ruby>冷徹<rt>れいてつ</rt></ruby>に<ruby>見極<rt>みきわ</rt></ruby>める<ruby>作業<rt>さぎょう</rt></ruby>にほかならない。",
-      "evidence": "<ruby>真<rt>しん</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れた<ruby>解説<rt>かいせつ</rt></ruby>とは、<ruby>単<rt>たん</rt></ruby>に<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>を<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>に<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えることではなく、どの<ruby>枝葉<rt>えだは</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>落<rt>お</rt></ruby>とせば<ruby>幹<rt>みき</rt></ruby>となる<ruby>論理<rt>ろんり</rt></ruby>の<ruby>骨格<rt>こっかく</rt></ruby>が<ruby>損<rt>そこ</rt></ruby>なわれずに<ruby>浮<rt>う</rt></ruby>かび<ruby>上<rt>あ</rt></ruby>がるかを<ruby>冷徹<rt>れいてつ</rt></ruby>に<ruby>見極<rt>みきわ</rt></ruby>める<ruby>作業<rt>さぎょう</rt></ruby>にほかならない。",
+      "passageRuby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>たない<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>手<rt>て</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>科学<rt>かがく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知見<rt>ちけん</rt></ruby>を<ruby>解説<rt>かいせつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>、「<ruby>正確<rt>せいかく</rt></ruby>さ」と「わかりやすさ」はしばしば<ruby>対立<rt>たいりつ</rt></ruby>するものとして<ruby>語<rt>かた</rt></ruby>られる。<ruby>細<rt>こま</rt></ruby>かな<ruby>前提<rt>ぜんてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>や<ruby>例外<rt>れいがい</rt></ruby>をすべて<ruby>盛<rt>も</rt></ruby>り<ruby>込<rt>こ</rt></ruby>めば<ruby>記述<rt>きじゅつ</rt></ruby>は<ruby>厳密<rt>げんみつ</rt></ruby>になるが、<ruby>馴染<rt>なじ</rt></ruby>みのない<ruby>読者<rt>どくしゃ</rt></ruby>は<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>筋道<rt>すじみち</rt></ruby>を<ruby>見失<rt>みうしな</rt></ruby>ってしまう。かといって、<ruby>耳<rt>みみ</rt></ruby>ざわりのよい<ruby>比喩<rt>ひゆ</rt></ruby>ばかりに<ruby>頼<rt>たよ</rt></ruby>れば、<ruby>現象<rt>げんしょう</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>違<rt>ちが</rt></ruby>えた<ruby>誤解<rt>ごかい</rt></ruby>を<ruby>招<rt>まね</rt></ruby>きかねない。<ruby>真<rt>しん</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れた<ruby>解説<rt>かいせつ</rt></ruby>とは、<ruby>単<rt>たん</rt></ruby>に<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>を<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>に<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えることではなく、どの<ruby>枝葉<rt>えだは</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>落<rt>お</rt></ruby>とせば<ruby>幹<rt>みき</rt></ruby>となる<ruby>論理<rt>ろんり</rt></ruby>の<ruby>骨格<rt>こっかく</rt></ruby>が<ruby>損<rt>そこ</rt></ruby>なわれずに<ruby>浮<rt>う</rt></ruby>かび<ruby>上<rt>あ</rt></ruby>がるかを<ruby>冷徹<rt>れいてつ</rt></ruby>に<ruby>見極<rt>みきわ</rt></ruby>める<ruby>作業<rt>さぎょう</rt></ruby>にほかならない。",
+      "evidence": "<ruby>真<rt>しん</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れた<ruby>解説<rt>かいせつ</rt></ruby>とは、<ruby>単<rt>たん</rt></ruby>に<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>を<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>に<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えることではなく、どの<ruby>枝葉<rt>えだは</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>落<rt>お</rt></ruby>とせば<ruby>幹<rt>みき</rt></ruby>となる<ruby>論理<rt>ろんり</rt></ruby>の<ruby>骨格<rt>こっかく</rt></ruby>が<ruby>損<rt>そこ</rt></ruby>なわれずに<ruby>浮<rt>う</rt></ruby>かび<ruby>上<rt>あ</rt></ruby>がるかを<ruby>冷徹<rt>れいてつ</rt></ruby>に<ruby>見極<rt>みきわ</rt></ruby>める<ruby>作業<rt>さぎょう</rt></ruby>にほかならない。",
       "evidencePlain": "真に優れた解説とは、単に専門用語を日常語に置き換えることではなく、どの枝葉を切り落とせば幹となる論理の骨格が損なわれずに浮かび上がるかを冷徹に見極める作業にほかならない。",
       "title": "科学的な知見を一般の読み手に解説することについて、筆者はどのように考えているか。",
       "titleRuby": "<ruby>科学<rt>かがく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>知見<rt>ちけん</rt></ruby>を<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>手<rt>て</rt></ruby>に<ruby>解説<rt>かいせつ</rt></ruby>することについて、<ruby>筆者<rt>ひっしゃ</rt></ruby>はどのように<ruby>考<rt>かんが</rt></ruby>えているか。",
@@ -1545,7 +1545,7 @@ window.JLPT_N1_MOCK_DATA = {
         "感覚器官からの物理的な刺激だけでなく、知識や環境などの情報を統合して意味づけを行う働きである"
       ],
       "optionsRuby": [
-        "<ruby>事前<rt>じぜん</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>や<ruby>場<rt>ば</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>遮断<rt>しゃだん</rt></ruby>したときにだけ<ruby>正<rt>まさ</rt></ruby>しく<ruby>働<rt>はたら</rt></ruby>く<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>機能<rt>きのう</rt></ruby>である",
+        "<ruby>事前<rt>じぜん</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>や<ruby>場<rt>ば</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>遮断<rt>しゃだん</rt></ruby>したときにだけ<ruby>正<rt>ただ</rt></ruby>しく<ruby>働<rt>はたら</rt></ruby>く<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>機能<rt>きのう</rt></ruby>である",
         "<ruby>見栄<rt>みえ</rt></ruby>や<ruby>思<rt>おも</rt></ruby>い<ruby>込<rt>こ</rt></ruby>みによって<ruby>常<rt>つね</rt></ruby>に<ruby>誤<rt>あやま</rt></ruby>った<ruby>判断<rt>はんだん</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>してしまう、<ruby>信頼<rt>しんらい</rt></ruby>できない<ruby>仕組<rt>しく</rt></ruby>みである",
         "<ruby>視覚<rt>しかく</rt></ruby>からの<ruby>情報<rt>じょうほう</rt></ruby>だけでほぼすべてが<ruby>決定<rt>けってい</rt></ruby>され、<ruby>味覚<rt>みかく</rt></ruby>や<ruby>触覚<rt>しょっかく</rt></ruby>はほとんど<ruby>影響<rt>えいきょう</rt></ruby>しない<ruby>働<rt>はたら</rt></ruby>きである",
         "<ruby>感覚<rt>かんかく</rt></ruby><ruby>器官<rt>きかん</rt></ruby>からの<ruby>物理<rt>ぶつり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>刺激<rt>しげき</rt></ruby>だけでなく、<ruby>知識<rt>ちしき</rt></ruby>や<ruby>環境<rt>かんきょう</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>統合<rt>とうごう</rt></ruby>して<ruby>意味<rt>いみ</rt></ruby>づけを<ruby>行<rt>おこな</rt></ruby>う<ruby>働<rt>はたら</rt></ruby>きである"
@@ -1845,7 +1845,7 @@ window.JLPT_N1_MOCK_DATA = {
       "evidence": "<ruby>解説<rt>かいせつ</rt></ruby>は<ruby>図録<rt>ずろく</rt></ruby>や<ruby>出口<rt>いでぐち</rt></ruby><ruby>付近<rt>ふきん</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby><ruby>室<rt>しつ</rt></ruby>にまとめ、<ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>ではまず<ruby>先入観<rt>せんにゅうかん</rt></ruby>なしで<ruby>作品<rt>さくひん</rt></ruby>そのものと<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>える<ruby>空間<rt>くうかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るべきである。",
       "evidencePlain": "解説は図録や出口付近の資料室にまとめ、展示室ではまず先入観なしで作品そのものと向き合える空間を守るべきである。",
       "title": "AとBの主張の共通点と相違点について、正しく述べているものはどれか。",
-      "titleRuby": "AとBの<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>共通<rt>きょうつう</rt></ruby><ruby>点<rt>てん</rt></ruby>と<ruby>相違<rt>そうい</rt></ruby><ruby>点<rt>てん</rt></ruby>について、<ruby>正<rt>まさ</rt></ruby>しく<ruby>述<rt>の</rt></ruby>べているものはどれか。",
+      "titleRuby": "AとBの<ruby>主張<rt>しゅちょう</rt></ruby>の<ruby>共通<rt>きょうつう</rt></ruby><ruby>点<rt>てん</rt></ruby>と<ruby>相違<rt>そうい</rt></ruby><ruby>点<rt>てん</rt></ruby>について、<ruby>正<rt>ただ</rt></ruby>しく<ruby>述<rt>の</rt></ruby>べているものはどれか。",
       "options": [
         "どちらも来館者に充実した鑑賞体験をしてほしいと考えているが、Aは展示室での解説の充実を求め、Bは展示室ではまず解説なしで作品と向き合うべきだとしている",
         "AもBも、美術館から解説パネルや図録をすべてなくすことが理想的な展示だと主張している",
@@ -2332,7 +2332,7 @@ window.JLPT_N1_MOCK_DATA = {
       "title": "男の人が 今回の ドキュメンタリー映画の 制作で 最も 苦労した ことは なにですか。",
       "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>今回<rt>こんかい</rt></ruby>の ドキュメンタリー<ruby>映画<rt>えいが</rt></ruby>の <ruby>制作<rt>せいさく</rt></ruby>で <ruby>最<rt>もっと</rt></ruby>も <ruby>苦労<rt>くろう</rt></ruby>した ことは なにですか。",
       "script": "女の人：伝統工芸の職人を追った今回のドキュメンタリー映画、高い評価を受けていますね。１年間にわたる密着撮影は体力的に大変だったのではないですか。\n男の人：撮影自体はスタッフも慣れていましたから問題ありませんでした。ただ、職人の世界は言葉ではなく背中で語る文化ですから、最初はカメラを向けても工房の皆さんが緊張してしまって、普段通りの自然な表情や会話がなかなか撮れなかったんです。カメラの存在を忘れてもらえるまで、最初の３か月間はあえて機材を持たずに毎日工房へ通って雑談を重ねるなど、信頼関係を築くのに一番時間をかけました。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>の<ruby>職人<rt>しょくにん</rt></ruby>を<ruby>追<rt>お</rt></ruby>った<ruby>今回<rt>こんかい</rt></ruby>のドキュメンタリー<ruby>映画<rt>えいが</rt></ruby>、<ruby>高<rt>たか</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていますね。１<ruby>年間<rt>ねんかん</rt></ruby>にわたる<ruby>密着<rt>みっちゃく</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby>は<ruby>体力<rt>たいりょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby>だったのではないですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>撮影<rt>さつえい</rt></ruby><ruby>自体<rt>じたい</rt></ruby>はスタッフも<ruby>慣<rt>な</rt></ruby>れていましたから<ruby>問題<rt>もんだい</rt></ruby>ありませんでした。ただ、<ruby>職人<rt>しょくにん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>は<ruby>言葉<rt>ことば</rt></ruby>ではなく<ruby>背中<rt>せなか</rt></ruby>で<ruby>語<rt>かた</rt></ruby>る<ruby>文化<rt>ぶんか</rt></ruby>ですから、<ruby>最初<rt>さいしょ</rt></ruby>はカメラを<ruby>向<rt>む</rt></ruby>けても<ruby>工房<rt>こうぼう</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんが<ruby>緊張<rt>きんちょう</rt></ruby>してしまって、<ruby>普段<rt>ふだん</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>自然<rt>しぜん</rt></ruby>な<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>会話<rt>かいわ</rt></ruby>がなかなか<ruby>撮<rt>と</rt></ruby>れなかったんです。カメラの<ruby>存在<rt>そんざい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてもらえるまで、<ruby>最初<rt>さいしょ</rt></ruby>の３か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby>はあえて<ruby>機材<rt>きざい</rt></ruby>を<ruby>持<rt>も</rt></ruby>たずに<ruby>毎日<rt>まいにち</rt></ruby><ruby>工房<rt>こうぼう</rt></ruby>へ<ruby>通<rt>とお</rt></ruby>って<ruby>雑談<rt>ざつだん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねるなど、<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>くのに<ruby>一番<rt>いちばん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>をかけました。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>の<ruby>職人<rt>しょくにん</rt></ruby>を<ruby>追<rt>お</rt></ruby>った<ruby>今回<rt>こんかい</rt></ruby>のドキュメンタリー<ruby>映画<rt>えいが</rt></ruby>、<ruby>高<rt>たか</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていますね。１<ruby>年間<rt>ねんかん</rt></ruby>にわたる<ruby>密着<rt>みっちゃく</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby>は<ruby>体力<rt>たいりょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby>だったのではないですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>撮影<rt>さつえい</rt></ruby><ruby>自体<rt>じたい</rt></ruby>はスタッフも<ruby>慣<rt>な</rt></ruby>れていましたから<ruby>問題<rt>もんだい</rt></ruby>ありませんでした。ただ、<ruby>職人<rt>しょくにん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>は<ruby>言葉<rt>ことば</rt></ruby>ではなく<ruby>背中<rt>せなか</rt></ruby>で<ruby>語<rt>かた</rt></ruby>る<ruby>文化<rt>ぶんか</rt></ruby>ですから、<ruby>最初<rt>さいしょ</rt></ruby>はカメラを<ruby>向<rt>む</rt></ruby>けても<ruby>工房<rt>こうぼう</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんが<ruby>緊張<rt>きんちょう</rt></ruby>してしまって、<ruby>普段<rt>ふだん</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>自然<rt>しぜん</rt></ruby>な<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>会話<rt>かいわ</rt></ruby>がなかなか<ruby>撮<rt>と</rt></ruby>れなかったんです。カメラの<ruby>存在<rt>そんざい</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてもらえるまで、<ruby>最初<rt>さいしょ</rt></ruby>の３か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby>はあえて<ruby>機材<rt>きざい</rt></ruby>を<ruby>持<rt>も</rt></ruby>たずに<ruby>毎日<rt>まいにち</rt></ruby><ruby>工房<rt>こうぼう</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>って<ruby>雑談<rt>ざつだん</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねるなど、<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>くのに<ruby>一番<rt>いちばん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>をかけました。",
       "options": [
         "撮影機材を 山奥の 工房まで 運ぶ こと",
         "映画の 制作資金を スポンサーから 集める こと",
@@ -2390,7 +2390,7 @@ window.JLPT_N1_MOCK_DATA = {
       "title": "この 植物園が 夜間開園を 始めた きっかけは なにですか。",
       "titleRuby": "この <ruby>植物<rt>しょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>が <ruby>夜間<rt>やかん</rt></ruby><ruby>開園<rt>かいえん</rt></ruby>を <ruby>始<rt>はじ</rt></ruby>めた きっかけは なにですか。",
       "script": "男の人：当植物園では今月から、毎週金曜日と土曜日に午後９時までの夜間開園を実施しております。きっかけは、熱帯エリアにある夜にだけ花を咲かせる植物について、来園者の方々から「実際に咲いている姿を見てみたい」「夜にどんな香りがするのか体験したい」というご要望が数多く寄せられたことでした。照明を最小限に抑えた園内で、昼間とは全く違う植物の表情や甘い香りを楽しめると、大人の方からお子様まで大変ご好評をいただいております。",
-      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>当<rt>とう</rt></ruby><ruby>植物<rt>しょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>金曜日<rt>きんようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>午後<rt>ごご</rt></ruby>９<ruby>時<rt>じ</rt></ruby>までの<ruby>夜間<rt>やかん</rt></ruby><ruby>開園<rt>かいえん</rt></ruby>を<ruby>実施<rt>じっし</rt></ruby>しております。きっかけは、<ruby>熱帯<rt>ねったい</rt></ruby>エリアにある<ruby>夜<rt>よる</rt></ruby>にだけ<ruby>花<rt>はな</rt></ruby>を<ruby>咲<rt>さ</rt></ruby>かせる<ruby>植物<rt>しょくぶつ</rt></ruby>について、<ruby>来<rt>らい</rt></ruby><ruby>園<rt>えん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby><ruby>々<rt>々</rt></ruby>から「<ruby>実際<rt>じっさい</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>いている<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみたい」「<ruby>夜<rt>よる</rt></ruby>にどんな<ruby>香<rt>かお</rt></ruby>りがするのか<ruby>体験<rt>たいけん</rt></ruby>したい」というご<ruby>要望<rt>ようぼう</rt></ruby>が<ruby>数多<rt>かずおお</rt></ruby>く<ruby>寄<rt>よ</rt></ruby>せられたことでした。<ruby>照明<rt>しょうめい</rt></ruby>を<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えた<ruby>園内<rt>えんない</rt></ruby>で、<ruby>昼間<rt>ひるま</rt></ruby>とは<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しめると、<ruby>大人<rt>おとな</rt></ruby>の<ruby>方<rt>かた</rt></ruby>からお<ruby>子様<rt>こさま</rt></ruby>まで<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>好評<rt>こうひょう</rt></ruby>をいただいております。",
+      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>当<rt>とう</rt></ruby><ruby>植物<rt>しょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>金曜日<rt>きんようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>午後<rt>ごご</rt></ruby>９<ruby>時<rt>じ</rt></ruby>までの<ruby>夜間<rt>やかん</rt></ruby><ruby>開園<rt>かいえん</rt></ruby>を<ruby>実施<rt>じっし</rt></ruby>しております。きっかけは、<ruby>熱帯<rt>ねったい</rt></ruby>エリアにある<ruby>夜<rt>よる</rt></ruby>にだけ<ruby>花<rt>はな</rt></ruby>を<ruby>咲<rt>さ</rt></ruby>かせる<ruby>植物<rt>しょくぶつ</rt></ruby>について、<ruby>来<rt>らい</rt></ruby><ruby>園<rt>えん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>方々<rt>かたがた</rt></ruby>から「<ruby>実際<rt>じっさい</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>いている<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみたい」「<ruby>夜<rt>よる</rt></ruby>にどんな<ruby>香<rt>かお</rt></ruby>りがするのか<ruby>体験<rt>たいけん</rt></ruby>したい」というご<ruby>要望<rt>ようぼう</rt></ruby>が<ruby>数多<rt>かずおお</rt></ruby>く<ruby>寄<rt>よ</rt></ruby>せられたことでした。<ruby>照明<rt>しょうめい</rt></ruby>を<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えた<ruby>園内<rt>えんない</rt></ruby>で、<ruby>昼間<rt>ひるま</rt></ruby>とは<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しめると、<ruby>大人<rt>おとな</rt></ruby>の<ruby>方<rt>かた</rt></ruby>からお<ruby>子様<rt>こさま</rt></ruby>まで<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>好評<rt>こうひょう</rt></ruby>をいただいております。",
       "options": [
         "近隣の 遊園地と 共同で イベントを おこなう ことに なったから",
         "昼間の 来園者数が 減って 収入が 落ち込んだから",
@@ -2534,8 +2534,8 @@ window.JLPT_N1_MOCK_DATA = {
       "audioUrl": "audio/mock_n1/n1_m01_q89.mp3",
       "title": "男の人は 伝統工芸を 次の 世代に 残す ために どう すべきだと 言って いますか。",
       "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>を <ruby>次<rt>つぎ</rt></ruby>の <ruby>世代<rt>せだい</rt></ruby>に <ruby>残<rt>のこ</rt></ruby>す ために どう すべきだと <ruby>言<rt>い</rt></ruby>って いますか。",
-      "script": "男の人：地域の伝統工芸を守るというと、昔から伝わる形や用途を一字一句変えずにそのまま保存しようと考える人が少なくありません。もちろん基礎となる技術や素材は厳格に受け継ぐ必要がありますが、現代の住宅には和室が減り、生活様式も大きく変わっています。そうした変化から目を背けていては、使い手がいなくなり、結果として技術そのものが途絶えてしまいます。伝統を生かし続けるためには、核となる技を守りつつ、現代の食卓や洋室にもなじむ新しいデザインへと柔軟に進化させていくことが不可欠なのです。",
-      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>地域<rt>ちいき</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るというと、<ruby>昔<rt>むかし</rt></ruby>から<ruby>伝<rt>つた</rt></ruby>わる<ruby>形<rt>かたち</rt></ruby>や<ruby>用途<rt>ようと</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>字<rt>じ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>句<rt>く</rt></ruby><ruby>変<rt>か</rt></ruby>えずにそのまま<ruby>保存<rt>ほぞん</rt></ruby>しようと<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくありません。もちろん<ruby>基礎<rt>きそ</rt></ruby>となる<ruby>技術<rt>ぎじゅつ</rt></ruby>や<ruby>素材<rt>そざい</rt></ruby>は<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>受<rt>う</rt></ruby>け<ruby>継<rt>つ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>がありますが、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby>には<ruby>和室<rt>わしつ</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り、<ruby>生活<rt>せいかつ</rt></ruby><ruby>様式<rt>ようしき</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わっています。そうした<ruby>変化<rt>へんか</rt></ruby>から<ruby>目<rt>め</rt></ruby>を<ruby>背<rt>そむ</rt></ruby>けていては、<ruby>使<rt>つか</rt></ruby>い<ruby>手<rt>て</rt></ruby>がいなくなり、<ruby>結果<rt>けっか</rt></ruby>として<ruby>技術<rt>ぎじゅつ</rt></ruby>そのものが<ruby>途絶<rt>とだ</rt></ruby>えてしまいます。<ruby>伝統<rt>でんとう</rt></ruby>を<ruby>生<rt>い</rt></ruby>かし<ruby>続<rt>つづ</rt></ruby>けるためには、<ruby>核<rt>かく</rt></ruby>となる<ruby>技<rt>わざ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>りつつ、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>食卓<rt>しょくたく</rt></ruby>や<ruby>洋室<rt>ようしつ</rt></ruby>にもなじむ<ruby>新<rt>あたら</rt></ruby>しいデザインへと<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>進化<rt>しんか</rt></ruby>させていくことが<ruby>不可欠<rt>ふかけつ</rt></ruby>なのです。",
+      "script": "男の人：地域の伝統工芸を守るというと、昔から伝わる形や用途を何一つ変えずにそのまま保存しようと考える人が少なくありません。もちろん基礎となる技術や素材は厳格に受け継ぐ必要がありますが、現代の住宅には和室が減り、生活様式も大きく変わっています。そうした変化から目を背けていては、使い手がいなくなり、結果として技術そのものが途絶えてしまいます。伝統を生かし続けるためには、核となる技を守りつつ、現代の食卓や洋室にもなじむ新しいデザインへと柔軟に進化させていくことが不可欠なのです。",
+      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>地域<rt>ちいき</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るというと、<ruby>昔<rt>むかし</rt></ruby>から<ruby>伝<rt>つた</rt></ruby>わる<ruby>形<rt>かたち</rt></ruby>や<ruby>用途<rt>ようと</rt></ruby>を<ruby>何一<rt>なにひと</rt></ruby>つ<ruby>変<rt>か</rt></ruby>えずにそのまま<ruby>保存<rt>ほぞん</rt></ruby>しようと<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくありません。もちろん<ruby>基礎<rt>きそ</rt></ruby>となる<ruby>技術<rt>ぎじゅつ</rt></ruby>や<ruby>素材<rt>そざい</rt></ruby>は<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>受け継<rt>うけつ</rt></ruby>ぐ<ruby>必要<rt>ひつよう</rt></ruby>がありますが、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby>には<ruby>和室<rt>わしつ</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り、<ruby>生活<rt>せいかつ</rt></ruby><ruby>様式<rt>ようしき</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わっています。そうした<ruby>変化<rt>へんか</rt></ruby>から<ruby>目<rt>め</rt></ruby>を<ruby>背<rt>そむ</rt></ruby>けていては、<ruby>使い手<rt>つかいて</rt></ruby>がいなくなり、<ruby>結果<rt>けっか</rt></ruby>として<ruby>技術<rt>ぎじゅつ</rt></ruby>そのものが<ruby>途絶<rt>とだ</rt></ruby>えてしまいます。<ruby>伝統<rt>でんとう</rt></ruby>を<ruby>生<rt>い</rt></ruby>かし<ruby>続<rt>つづ</rt></ruby>けるためには、<ruby>核<rt>かく</rt></ruby>となる<ruby>技<rt>わざ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>りつつ、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>食卓<rt>しょくたく</rt></ruby>や<ruby>洋室<rt>ようしつ</rt></ruby>にもなじむ<ruby>新<rt>あたら</rt></ruby>しいデザインへと<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>進化<rt>しんか</rt></ruby>させていくことが<ruby>不可欠<rt>ふかけつ</rt></ruby>なのです。",
       "options": [
         "昔ながらの 形や 用途を 一切 変えずに 美術館に 保管する",
         "伝統的な 技法を やめて すべて 機械による 大量生産に 切り替える",
@@ -2752,10 +2752,10 @@ window.JLPT_N1_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n1/n1_q26.jpg",
       "audioUrl": "audio/mock_n1/n1_m01_q97.mp3",
-      "title": "すみません、こちらの 展示室は 撮影禁止と なって おりまして、カメラは お控えいただけますか。",
-      "titleRuby": "すみません、こちらの <ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>は <ruby>撮影<rt>さつえい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>と なって おりまして、カメラは お<ruby>控<rt>ひか</rt></ruby>えいただけますか。",
-      "script": "男の人：すみません、こちらの 展示室は 撮影禁止と なって おりまして、カメラは お控えいただけますか。\n１　ありがとうございます。では フラッシュを 消して 撮りますね。\n２　失礼しました。気づかなかった もので、すぐに しまいます。\n３　ええ、どの 作品も 自由に 撮れて うれしいです。",
-      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、こちらの <ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>は <ruby>撮影<rt>さつえい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>と なって おりまして、カメラは お<ruby>控<rt>ひか</rt></ruby>えいただけますか。<br>１　ありがとうございます。では フラッシュを <ruby>消<rt>け</rt></ruby>して <ruby>撮<rt>と</rt></ruby>りますね。<br>２　<ruby>失礼<rt>しつれい</rt></ruby>しました。<ruby>気<rt>き</rt></ruby>づかなかった もので、すぐに しまいます。<br>３　ええ、どの <ruby>作品<rt>さくひん</rt></ruby>も <ruby>自由<rt>じゆう</rt></ruby>に <ruby>撮<rt>と</rt></ruby>れて うれしいです。",
+      "title": "すみません、こちらの 展示室は 撮影禁止と なって おりまして、カメラでの 撮影は お控えいただけますか。",
+      "titleRuby": "すみません、こちらの <ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>は <ruby>撮影<rt>さつえい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>と なって おりまして、カメラでの <ruby>撮影<rt>さつえい</rt></ruby>は お<ruby>控<rt>ひか</rt></ruby>えいただけますか。",
+      "script": "男の人：すみません、こちらの 展示室は 撮影禁止と なって おりまして、カメラでの 撮影は お控えいただけますか。\n１　ありがとうございます。では フラッシュを 消して 撮りますね。\n２　失礼しました。気づかなかった もので、すぐに しまいます。\n３　ええ、どの 作品も 自由に 撮れて うれしいです。",
+      "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、こちらの <ruby>展示<rt>てんじ</rt></ruby><ruby>室<rt>しつ</rt></ruby>は <ruby>撮影<rt>さつえい</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>と なって おりまして、カメラでの <ruby>撮影<rt>さつえい</rt></ruby>は お<ruby>控<rt>ひか</rt></ruby>えいただけますか。\n１　ありがとうございます。では フラッシュを <ruby>消<rt>け</rt></ruby>して <ruby>撮<rt>と</rt></ruby>りますね。\n２　<ruby>失礼<rt>しつれい</rt></ruby>しました。<ruby>気<rt>き</rt></ruby>づかなかった もので、すぐに しまいます。\n３　ええ、どの <ruby>作品<rt>さくひん</rt></ruby>も <ruby>自由<rt>じゆう</rt></ruby>に <ruby>撮<rt>と</rt></ruby>れて うれしいです。",
       "options": [
         "ありがとうございます。では フラッシュを 消して 撮りますね。",
         "失礼しました。気づかなかった もので、すぐに しまいます。",

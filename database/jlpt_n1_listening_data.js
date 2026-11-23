@@ -59,7 +59,7 @@ window.JLPT_N1_LISTENING_DATA = {
         "ko": "임원이 기술부와 일정 조율을 하기 전에 먼저 수익 계획 수치를 현실적인 시나리오로 재검토하라고 지시했고 남성이 즉시 착수하겠다고 했으므로 1번이 정답입니다."
       },
       "section": "問題1 課題理解",
-      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】<ruby>企業<rt>きぎょう</rt></ruby>で<ruby>役員<rt>やくいん</rt></ruby>と<ruby>企画<rt>きかく</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>新規<rt>しんき</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby><ruby>書<rt>しょ</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しています。<ruby>男性<rt>だんせい</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p><p class=\"text-xs text-slate-700\"><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>役員<rt>やくいん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>と<ruby>企画<rt>きかく</rt></ruby><ruby>担当<rt>たんとう</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span><ruby>木村<rt>きむら</rt></ruby>さん、<ruby>新規<rt>しんき</rt></ruby>アプリの<ruby>企画<rt>きかく</rt></ruby><ruby>書<rt>しょ</rt></ruby>、<ruby>拝見<rt>はいけん</rt></ruby>しました。<ruby>市場<rt>しじょう</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby>や<ruby>競合<rt>きょうごう</rt></ruby>との<ruby>独自<rt>どくじ</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>戦略<rt>せんりゃく</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>があるわね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span>ありがとうございます。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span>ただね、<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>のシミュレーションが<ruby>少<rt>すこ</rt></ruby>し<ruby>楽観<rt>らっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>すぎるように<ruby>見受<rt>みう</rt></ruby>けられるの。<ruby>特<rt>とく</rt></ruby>に<ruby>初年度<rt>しょねんど</rt></ruby>のユーザー<ruby>獲得<rt>かくとく</rt></ruby>コストが<ruby>低<rt>ひく</rt></ruby>く<ruby>見積<rt>みつ</rt></ruby>もられているわ。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span>はい、<ruby>競合<rt>きょうごう</rt></ruby><ruby>他社<rt>たしゃ</rt></ruby>の<ruby>実績<rt>じっせき</rt></ruby><ruby>値<rt>ち</rt></ruby>に<ruby>照<rt>て</rt></ruby>らして<ruby>再<rt>さい</rt></ruby><ruby>試算<rt>しさん</rt></ruby>いたします。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span>ええ、お<ruby>願<rt>ねが</rt></ruby>いね。あと、<ruby>開発<rt>かいはつ</rt></ruby>スケジュール<ruby>全体<rt>ぜんたい</rt></ruby>をもう1<ruby>ヶ<rt>ゖ</rt></ruby><ruby>月<rt>げつ</rt></ruby><ruby>前倒<rt>まえだお</rt></ruby>しできないか<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>と<ruby>調整<rt>ちょうせい</rt></ruby>してほしいんだけど、まずは<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>数値<rt>すうち</rt></ruby>を<ruby>現実<rt>げんじつ</rt></ruby><ruby>的<rt>てき</rt></ruby>なシナリオで<ruby>見直<rt>みなお</rt></ruby>して、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>採算<rt>さいさん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>固<rt>かた</rt></ruby>めてから<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しましょう。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span><ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>直<rt>ただ</rt></ruby>ちに<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>試算<rt>しさん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>掛<rt>か</rt></ruby>かります。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p></div>",
+      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】<ruby>企業<rt>きぎょう</rt></ruby>で<ruby>役員<rt>やくいん</rt></ruby>と<ruby>企画<rt>きかく</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>新規<rt>しんき</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby><ruby>書<rt>しょ</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しています。<ruby>男性<rt>だんせい</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p><p class=\"text-xs text-slate-700\"><ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>役員<rt>やくいん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>と<ruby>企画<rt>きかく</rt></ruby><ruby>担当<rt>たんとう</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span><ruby>木村<rt>きむら</rt></ruby>さん、<ruby>新規<rt>しんき</rt></ruby>アプリの<ruby>企画<rt>きかく</rt></ruby><ruby>書<rt>しょ</rt></ruby>、<ruby>拝見<rt>はいけん</rt></ruby>しました。<ruby>市場<rt>しじょう</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby>や<ruby>競合<rt>きょうごう</rt></ruby>との<ruby>独自<rt>どくじ</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>戦略<rt>せんりゃく</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>があるわね。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span>ありがとうございます。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span>ただね、<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>のシミュレーションが<ruby>少<rt>すこ</rt></ruby>し<ruby>楽観<rt>らっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>すぎるように<ruby>見受<rt>みう</rt></ruby>けられるの。<ruby>特<rt>とく</rt></ruby>に<ruby>初年度<rt>しょねんど</rt></ruby>のユーザー<ruby>獲得<rt>かくとく</rt></ruby>コストが<ruby>低<rt>ひく</rt></ruby>く<ruby>見積<rt>みつ</rt></ruby>もられているわ。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span>はい、<ruby>競合<rt>きょうごう</rt></ruby><ruby>他社<rt>たしゃ</rt></ruby>の<ruby>実績<rt>じっせき</rt></ruby><ruby>値<rt>ち</rt></ruby>に<ruby>照<rt>て</rt></ruby>らして<ruby>再<rt>さい</rt></ruby><ruby>試算<rt>しさん</rt></ruby>いたします。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span>ええ、お<ruby>願<rt>ねが</rt></ruby>いね。あと、<ruby>開発<rt>かいはつ</rt></ruby>スケジュール<ruby>全体<rt>ぜんたい</rt></ruby>をもう1<ruby>ヶ<rt>か</rt></ruby><ruby>月<rt>げつ</rt></ruby><ruby>前倒<rt>まえだお</rt></ruby>しできないか<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>と<ruby>調整<rt>ちょうせい</rt></ruby>してほしいんだけど、まずは<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>数値<rt>すうち</rt></ruby>を<ruby>現実<rt>げんじつ</rt></ruby><ruby>的<rt>てき</rt></ruby>なシナリオで<ruby>見直<rt>みなお</rt></ruby>して、<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>採算<rt>さいさん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>固<rt>かた</rt></ruby>めてから<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しましょう。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span><ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>直<rt>ただ</rt></ruby>ちに<ruby>収益<rt>しゅうえき</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>試算<rt>しさん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>掛<rt>か</rt></ruby>かります。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこのあと、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。</p></div>",
       "prompt_ruby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこの<ruby>後<rt>あと</rt></ruby>、まず<ruby>何<rt>なに</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>しますか。",
       "has_illustration": true,
       "illustration_url": "images/listening_n1/n1_q1.jpg",
@@ -216,7 +216,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "prompt": "技術者はこの後、まず何を行いますか。",
       "audio_file": "audio/listening/n1_q6.mp3",
       "choices": [
-        "<ruby>該当<rt>がいとう</rt></ruby>サーバーのネットワーク<ruby>接続<rt>せつぞく</rt></ruby>を<ruby>直<rt>ただ</rt></ruby>ちに<ruby>隔離<rt>かくり</rt></ruby>・<ruby>遮断<rt>しゃだん</rt></ruby>する。",
+        "<ruby>該当<rt>がいとう</rt></ruby>サーバーをネットワークから<ruby>直<rt>ただ</rt></ruby>ちに<ruby>隔離<rt>かくり</rt></ruby>・<ruby>遮断<rt>しゃだん</rt></ruby>する。",
         "<ruby>社内<rt>しゃない</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>にサイバー<ruby>攻撃<rt>こうげき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>警告<rt>けいこく</rt></ruby>メールを<ruby>送信<rt>そうしん</rt></ruby>する。",
         "<ruby>侵入<rt>しんにゅう</rt></ruby>ログの<ruby>詳細<rt>しょうさい</rt></ruby>なフォレンジック<ruby>分析<rt>ぶんせき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
         "<ruby>基幹<rt>きかん</rt></ruby>データベースの<ruby>全<rt>ぜん</rt></ruby>データを<ruby>消去<rt>しょうきょ</rt></ruby>する。"
@@ -235,7 +235,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "illustration_url": "images/listening_n1/n1_q6.jpg",
       "image": "images/listening_n1/n1_q6.jpg",
       "choices_ruby": [
-        "<ruby>該当<rt>がいとう</rt></ruby>サーバーのネットワーク<ruby>接続<rt>せつぞく</rt></ruby>を<ruby>直<rt>ただ</rt></ruby>ちに<ruby>隔離<rt>かくり</rt></ruby>・<ruby>遮断<rt>しゃだん</rt></ruby>する。",
+        "<ruby>該当<rt>がいとう</rt></ruby>サーバーをネットワークから<ruby>直<rt>ただ</rt></ruby>ちに<ruby>隔離<rt>かくり</rt></ruby>・<ruby>遮断<rt>しゃだん</rt></ruby>する。",
         "<ruby>社内<rt>しゃない</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>にサイバー<ruby>攻撃<rt>こうげき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>警告<rt>けいこく</rt></ruby>メールを<ruby>送信<rt>そうしん</rt></ruby>する。",
         "<ruby>侵入<rt>しんにゅう</rt></ruby>ログの<ruby>詳細<rt>しょうさい</rt></ruby>なフォレンジック<ruby>分析<rt>ぶんせき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
         "<ruby>基幹<rt>きかん</rt></ruby>データベースの<ruby>全<rt>ぜん</rt></ruby>データを<ruby>消去<rt>しょうきょ</rt></ruby>する。"
@@ -280,7 +280,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "section_id": "sec2",
       "section_name": "問題2 ポイント理解",
       "situation": "メーカーの開発会議でプロジェクトリーダーが話しています。新製品の発売を延期した最大の理由は何ですか。",
-      "speech_audio_text": "だいはちもん。メーカーの開発会議でリーダーが話しています。新製品の発売を延期した最大の理由はなんですか。\n\n来月予定していた新型スマート家電のリリースですが、役員会でさんかげつの延期が決定されました。部材の調達遅延やアプリのインターフェース設計についてはほぼ計画通りに進捗しており、製品自体の機能面での問題はありません。しかし、先週実施した最終セキュリティテストにおいて、特定のネットワーク環境下で極めて稀に暗号化通信に脆弱性がしょうじる可能性が排除できないことが判明しました。ユーザーのプライバシー保護を絶対条件とする当社のブランド理念に鑑み、このリスクを完全に解消してから市場に投入すべきであると判断しました。\n\n新製品の発売を延期した最大の理由はなんですか。",
+      "speech_audio_text": "だいはちもん。メーカーの開発会議でリーダーが話しています。新製品の発売を延期した最大の理由はなんですか。\n\n来月予定していた新型スマート家電のリリースですが、役員会でさんかげつの延期が決定されました。部材の調達やアプリのインターフェース設計についてはほぼ計画通りに進捗しており、製品自体の機能面での問題はありません。しかし、先週実施した最終セキュリティテストにおいて、特定のネットワーク環境下で極めて稀に暗号化通信に脆弱性がしょうじる可能性が排除できないことが判明しました。ユーザーのプライバシー保護を絶対条件とする当社のブランド理念に鑑み、このリスクを完全に解消してから市場に投入すべきであると判断しました。\n\n新製品の発売を延期した最大の理由はなんですか。",
       "prompt": "新製品の発売を延期した最大の理由は何ですか。",
       "audio_file": "audio/listening/n1_q8.mp3",
       "choices": [
@@ -297,7 +297,7 @@ window.JLPT_N1_LISTENING_DATA = {
         "ko": "부품 조달이나 디자인 문제가 아니라 암호화 통신 취약점 가능성을 완전히 해소하여 사용자 프라이버시를 지키기 위함이므로 4번이 정답입니다."
       },
       "section": "問題2 ポイント理解",
-      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】メーカーの<ruby>開発<rt>かいはつ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>でプロジェクトリーダーが<ruby>話<rt>はな</rt></ruby>しています。<ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p class=\"text-xs text-slate-700\">メーカーの<ruby>開発<rt>かいはつ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>でリーダーが<ruby>話<rt>はな</rt></ruby>しています。<ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span><ruby>来月<rt>らいげつ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>していた<ruby>新型<rt>しんがた</rt></ruby>スマート<ruby>家電<rt>かでん</rt></ruby>のリリースですが、<ruby>役員<rt>やくいん</rt></ruby><ruby>会<rt>かい</rt></ruby>で3<ruby>ヶ<rt>ゖ</rt></ruby><ruby>月<rt>げつ</rt></ruby>の<ruby>延期<rt>えんき</rt></ruby>が<ruby>決定<rt>けってい</rt></ruby>されました。<ruby>部材<rt>ぶざい</rt></ruby>の<ruby>調達<rt>ちょうたつ</rt></ruby><ruby>遅延<rt>ちえん</rt></ruby>やアプリのインターフェース<ruby>設計<rt>せっけい</rt></ruby>についてはほぼ<ruby>計画<rt>けいかく</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進捗<rt>しんちょく</rt></ruby>しており、<ruby>製品<rt>せいひん</rt></ruby><ruby>自体<rt>じたい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>面<rt>めん</rt></ruby>での<ruby>問題<rt>もんだい</rt></ruby>はありません。しかし、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>実施<rt>じっし</rt></ruby>した<ruby>最終<rt>さいしゅう</rt></ruby>セキュリティテストにおいて、<ruby>特定<rt>とくてい</rt></ruby>のネットワーク<ruby>環境<rt>かんきょう</rt></ruby><ruby>下<rt>か</rt></ruby>で<ruby>極<rt>きわ</rt></ruby>めて<ruby>稀<rt>まれ</rt></ruby>に<ruby>暗号<rt>あんごう</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>に<ruby>脆弱<rt>ぜいじゃく</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じる<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>排除<rt>はいじょ</rt></ruby>できないことが<ruby>判明<rt>はんめい</rt></ruby>しました。ユーザーのプライバシー<ruby>保護<rt>ほご</rt></ruby>を<ruby>絶対<rt>ぜったい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>とする<ruby>当社<rt>とうしゃ</rt></ruby>のブランド<ruby>理念<rt>りねん</rt></ruby>に<ruby>鑑<rt>かんが</rt></ruby>み、このリスクを<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>解消<rt>かいしょう</rt></ruby>してから<ruby>市場<rt>しじょう</rt></ruby>に<ruby>投入<rt>とうにゅう</rt></ruby>すべきであると<ruby>判断<rt>はんだん</rt></ruby>しました。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p></div>",
+      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】メーカーの<ruby>開発<rt>かいはつ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>でプロジェクトリーダーが<ruby>話<rt>はな</rt></ruby>しています。<ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p class=\"text-xs text-slate-700\">メーカーの<ruby>開発<rt>かいはつ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>でリーダーが<ruby>話<rt>はな</rt></ruby>しています。<ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>男<rt>おとこ</rt></ruby>：</span><ruby>来月<rt>らいげつ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>していた<ruby>新型<rt>しんがた</rt></ruby>スマート<ruby>家電<rt>かでん</rt></ruby>のリリースですが、<ruby>役員<rt>やくいん</rt></ruby><ruby>会<rt>かい</rt></ruby>で3<ruby>ヶ<rt>か</rt></ruby><ruby>月<rt>げつ</rt></ruby>の<ruby>延期<rt>えんき</rt></ruby>が<ruby>決定<rt>けってい</rt></ruby>されました。<ruby>部材<rt>ぶざい</rt></ruby>の<ruby>調達<rt>ちょうたつ</rt></ruby><ruby>遅延<rt>ちえん</rt></ruby>やアプリのインターフェース<ruby>設計<rt>せっけい</rt></ruby>についてはほぼ<ruby>計画<rt>けいかく</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進捗<rt>しんちょく</rt></ruby>しており、<ruby>製品<rt>せいひん</rt></ruby><ruby>自体<rt>じたい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>面<rt>めん</rt></ruby>での<ruby>問題<rt>もんだい</rt></ruby>はありません。しかし、<ruby>先週<rt>せんしゅう</rt></ruby><ruby>実施<rt>じっし</rt></ruby>した<ruby>最終<rt>さいしゅう</rt></ruby>セキュリティテストにおいて、<ruby>特定<rt>とくてい</rt></ruby>のネットワーク<ruby>環境<rt>かんきょう</rt></ruby><ruby>下<rt>か</rt></ruby>で<ruby>極<rt>きわ</rt></ruby>めて<ruby>稀<rt>まれ</rt></ruby>に<ruby>暗号<rt>あんごう</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>に<ruby>脆弱<rt>ぜいじゃく</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じる<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>排除<rt>はいじょ</rt></ruby>できないことが<ruby>判明<rt>はんめい</rt></ruby>しました。ユーザーのプライバシー<ruby>保護<rt>ほご</rt></ruby>を<ruby>絶対<rt>ぜったい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>とする<ruby>当社<rt>とうしゃ</rt></ruby>のブランド<ruby>理念<rt>りねん</rt></ruby>に<ruby>鑑<rt>かんが</rt></ruby>み、このリスクを<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>解消<rt>かいしょう</rt></ruby>してから<ruby>市場<rt>しじょう</rt></ruby>に<ruby>投入<rt>とうにゅう</rt></ruby>すべきであると<ruby>判断<rt>はんだん</rt></ruby>しました。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\"><ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p></div>",
       "prompt_ruby": "<ruby>新<rt>しん</rt></ruby><ruby>製品<rt>せいひん</rt></ruby>の<ruby>発売<rt>はつばい</rt></ruby>を<ruby>延期<rt>えんき</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
       "has_illustration": true,
       "illustration_url": "images/listening_n1/n1_q8.jpg",
@@ -518,7 +518,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "section_id": "sec3",
       "section_name": "問題3 概要理解",
       "situation": "生物学者が講演会で話しています。",
-      "speech_audio_text": "だいじゅうごもん。生物学者が講演会で話しています。進化論というと「弱肉強食」や「適者生存」という熾烈な競争のイメージが先行しがちです。しかし自然界を綿密に観察すると、異なる種同士が資源を分かち合い、助け合う「共生関係」こそが生態系の安定を支えていることが分かります。菌類と植物が地下のネットワークを通じて養分を交換し合ったり、動物同士が協力して外敵から身を守ったりする姿は決して例外ではありません。生き残りをかけた戦いの中で生命が獲得した最大の知恵は、排除ではなく「共生と調和」なのです。生物学者はなにについて話していますか。",
+      "speech_audio_text": "だいじゅうごもん。生物学者が講演会で話しています。男：進化論というと「弱肉強食」や「適者生存」という熾烈な競争のイメージが先行しがちです。しかし自然界を綿密に観察すると、異なる種同士が資源を分かち合い、助け合う「共生関係」こそが生態系の安定を支えていることが分かります。菌類と植物が地下のネットワークを通じて養分を交換し合ったり、動物同士が協力して外敵から身を守ったりする姿は決して例外ではありません。生き残りをかけた戦いの中で生命が獲得した最大の知恵は、排除ではなく「共生と調和」なのです。生物学者はなにについて話していますか。",
       "prompt": "生物学者は何について話していますか。",
       "audio_file": "audio/listening/n1_q15.mp3",
       "choices": [
@@ -557,9 +557,9 @@ window.JLPT_N1_LISTENING_DATA = {
       "audio_file": "audio/listening/n1_q16.mp3",
       "choices": [
         "<ruby>高速<rt>こうそく</rt></ruby><ruby>道路<rt>どうろ</rt></ruby>の<ruby>車線<rt>しゃせん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やして<ruby>渋滞<rt>じゅうたい</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>する<ruby>土木<rt>どぼく</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>",
-        "<ruby>徒歩<rt>とほ</rt></ruby><ruby>圏内<rt>けんない</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>完結<rt>かんけつ</rt></ruby>する「15<ruby>分都市<rt>ふんとし</rt></ruby>」<ruby>構想<rt>こうそう</rt></ruby>とその<ruby>多面<rt>ためん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>波及<rt>はきゅう</rt></ruby><ruby>効果<rt>こうか</rt></ruby>",
+        "<ruby>徒歩<rt>とほ</rt></ruby><ruby>圏内<rt>けんない</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>完結<rt>かんけつ</rt></ruby>する「15<ruby>分<rt>ふん</rt></ruby><ruby>都市<rt>とし</rt></ruby>」<ruby>構想<rt>こうそう</rt></ruby>とその<ruby>多面<rt>ためん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>波及<rt>はきゅう</rt></ruby><ruby>効果<rt>こうか</rt></ruby>",
         "<ruby>地方<rt>ちほう</rt></ruby><ruby>都市<rt>とし</rt></ruby>の<ruby>全<rt>ぜん</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>を<ruby>大都市<rt>だいとし</rt></ruby>に<ruby>集約<rt>しゅうやく</rt></ruby>させる<ruby>移住<rt>いじゅう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>",
-        "<ruby>超<rt>ちょう</rt></ruby><ruby>高層<rt>こうそう</rt></ruby>マンションの<ruby>耐震<rt>たいしん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げについて"
+        "<ruby>超<rt>ちょう</rt></ruby><ruby>高層<rt>こうそう</rt></ruby>マンションの<ruby>耐震<rt>たいしん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>の<ruby>引き上<rt>ひきあ</rt></ruby>げについて"
       ],
       "answer": 1,
       "explanation": {
@@ -576,9 +576,9 @@ window.JLPT_N1_LISTENING_DATA = {
       "image": "images/listening_n1/n1_q16.jpg",
       "choices_ruby": [
         "<ruby>高速<rt>こうそく</rt></ruby><ruby>道路<rt>どうろ</rt></ruby>の<ruby>車線<rt>しゃせん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やして<ruby>渋滞<rt>じゅうたい</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>する<ruby>土木<rt>どぼく</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>",
-        "<ruby>徒歩<rt>とほ</rt></ruby><ruby>圏内<rt>けんない</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>完結<rt>かんけつ</rt></ruby>する「15<ruby>分都市<rt>ふんとし</rt></ruby>」<ruby>構想<rt>こうそう</rt></ruby>とその<ruby>多面<rt>ためん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>波及<rt>はきゅう</rt></ruby><ruby>効果<rt>こうか</rt></ruby>",
+        "<ruby>徒歩<rt>とほ</rt></ruby><ruby>圏内<rt>けんない</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>完結<rt>かんけつ</rt></ruby>する「15<ruby>分<rt>ふん</rt></ruby><ruby>都市<rt>とし</rt></ruby>」<ruby>構想<rt>こうそう</rt></ruby>とその<ruby>多面<rt>ためん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>波及<rt>はきゅう</rt></ruby><ruby>効果<rt>こうか</rt></ruby>",
         "<ruby>地方<rt>ちほう</rt></ruby><ruby>都市<rt>とし</rt></ruby>の<ruby>全<rt>ぜん</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>を<ruby>大都市<rt>だいとし</rt></ruby>に<ruby>集約<rt>しゅうやく</rt></ruby>させる<ruby>移住<rt>いじゅう</rt></ruby><ruby>政策<rt>せいさく</rt></ruby>",
-        "<ruby>超<rt>ちょう</rt></ruby><ruby>高層<rt>こうそう</rt></ruby>マンションの<ruby>耐震<rt>たいしん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げについて"
+        "<ruby>超<rt>ちょう</rt></ruby><ruby>高層<rt>こうそう</rt></ruby>マンションの<ruby>耐震<rt>たいしん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>の<ruby>引き上<rt>ひきあ</rt></ruby>げについて"
       ]
     },
     {
@@ -671,7 +671,7 @@ window.JLPT_N1_LISTENING_DATA = {
         "ko": "혁신을 위해서는 실패를 두려워하지 않고 과감히 도전할 수 있는 심리적 안전성과 이를 격려하는 기업 문화 조성이 필수적이라는 주장이므로 1번이 정답입니다."
       },
       "section": "問題3 概要理解",
-      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】<ruby>経営<rt>けいえい</rt></ruby>コンサルタントがセミナーで<ruby>話<rt>はな</rt></ruby>しています。</p><p class=\"text-xs text-slate-700\"><ruby>経営<rt>けいえい</rt></ruby>コンサルタントがセミナーで<ruby>話<rt>はな</rt></ruby>しています。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span><ruby>多<rt>おお</rt></ruby>くの<ruby>企業<rt>きぎょう</rt></ruby>が「イノベーション」を<ruby>標榜<rt>ひょうぼう</rt></ruby>し、<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>斬新<rt>ざんしん</rt></ruby>なアイデアを<ruby>求<rt>もと</rt></ruby>めますが、<ruby>実際<rt>じっさい</rt></ruby>には<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れて{<ruby>前例<rt>ぜんれい</rt></ruby><ruby>踏襲<rt>とうしゅう</rt></ruby>|ぜんれいとうしゅう}に<ruby>陥<rt>おちい</rt></ruby>るケースが<ruby>後<rt>あと</rt></ruby>を<ruby>絶<rt>た</rt></ruby>ちません。<ruby>真<rt>しん</rt></ruby>の<ruby>創造<rt>そうぞう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>解<rt>と</rt></ruby>き<ruby>放<rt>はな</rt></ruby>つために<ruby>組織<rt>そしき</rt></ruby>が<ruby>備<rt>そな</rt></ruby>えるべき<ruby>最<rt>もっと</rt></ruby>も<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>土壌<rt>どじょう</rt></ruby>は、いわゆる「<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>」です。<ruby>突飛<rt>とっぴ</rt></ruby>な<ruby>提案<rt>ていあん</rt></ruby>をしても<ruby>嘲笑<rt>ちょうしょう</rt></ruby>されない、<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>してもペナルティを<ruby>科<rt>か</rt></ruby>されず<ruby>挑戦<rt>ちょうせん</rt></ruby>そのものが<ruby>称賛<rt>しょうさん</rt></ruby>される。そうした<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>があって<ruby>初<rt>はじ</rt></ruby>めて、<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>慣<rt>な</rt></ruby>れ<ruby>親<rt>した</rt></ruby>しんだ<ruby>安全<rt>あんぜん</rt></ruby><ruby>地帯<rt>ちたい</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>し、<ruby>未知<rt>みち</rt></ruby>の<ruby>領域<rt>りょういき</rt></ruby>へ<ruby>果敢<rt>かかん</rt></ruby>に<ruby>踏<rt>ふ</rt></ruby>み<ruby>出<rt>だ</rt></ruby>せるのです。<ruby>制度<rt>せいど</rt></ruby>やツールを<ruby>整<rt>ととの</rt></ruby>える<ruby>前<rt>まえ</rt></ruby>に、<ruby>互<rt>たが</rt></ruby>いの<ruby>挑戦<rt>ちょうせん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>め<ruby>合<rt>あ</rt></ruby>う<ruby>企業<rt>きぎょう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>醸成<rt>じょうせい</rt></ruby>こそが<ruby>先決<rt>せんけつ</rt></ruby>です。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\">コンサルタントが<ruby>最<rt>もっと</rt></ruby>も<ruby>訴<rt>うった</rt></ruby>えたいことは<ruby>何<rt>なん</rt></ruby>ですか。</p></div>",
+      "script_html": "<div class=\"space-y-2 text-sm leading-relaxed\"><p class=\"text-xs font-bold text-slate-500 mb-2\">【<ruby>場面<rt>ばめん</rt></ruby>】<ruby>経営<rt>けいえい</rt></ruby>コンサルタントがセミナーで<ruby>話<rt>はな</rt></ruby>しています。</p><p class=\"text-xs text-slate-700\"><ruby>経営<rt>けいえい</rt></ruby>コンサルタントがセミナーで<ruby>話<rt>はな</rt></ruby>しています。</p><p><span class=\"font-bold text-[#1995AD]\"><ruby>女<rt>おんな</rt></ruby>：</span><ruby>多<rt>おお</rt></ruby>くの<ruby>企業<rt>きぎょう</rt></ruby>が「イノベーション」を<ruby>標榜<rt>ひょうぼう</rt></ruby>し、<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>斬新<rt>ざんしん</rt></ruby>なアイデアを<ruby>求<rt>もと</rt></ruby>めますが、<ruby>実際<rt>じっさい</rt></ruby>には<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れて<ruby><ruby>前例<rt>ぜんれい</rt></ruby><ruby>踏襲<rt>とうしゅう</rt></ruby><rt>ぜんれいとうしゅう</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>るケースが<ruby>後<rt>あと</rt></ruby>を<ruby>絶<rt>た</rt></ruby>ちません。<ruby>真<rt>しん</rt></ruby>の<ruby>創造<rt>そうぞう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>解<rt>と</rt></ruby>き<ruby>放<rt>はな</rt></ruby>つために<ruby>組織<rt>そしき</rt></ruby>が<ruby>備<rt>そな</rt></ruby>えるべき<ruby>最<rt>もっと</rt></ruby>も<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>土壌<rt>どじょう</rt></ruby>は、いわゆる「<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>」です。<ruby>突飛<rt>とっぴ</rt></ruby>な<ruby>提案<rt>ていあん</rt></ruby>をしても<ruby>嘲笑<rt>ちょうしょう</rt></ruby>されない、<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>してもペナルティを<ruby>科<rt>か</rt></ruby>されず<ruby>挑戦<rt>ちょうせん</rt></ruby>そのものが<ruby>称賛<rt>しょうさん</rt></ruby>される。そうした<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>があって<ruby>初<rt>はじ</rt></ruby>めて、<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>慣<rt>な</rt></ruby>れ<ruby>親<rt>した</rt></ruby>しんだ<ruby>安全<rt>あんぜん</rt></ruby><ruby>地帯<rt>ちたい</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>し、<ruby>未知<rt>みち</rt></ruby>の<ruby>領域<rt>りょういき</rt></ruby>へ<ruby>果敢<rt>かかん</rt></ruby>に<ruby>踏<rt>ふ</rt></ruby>み<ruby>出<rt>だ</rt></ruby>せるのです。<ruby>制度<rt>せいど</rt></ruby>やツールを<ruby>整<rt>ととの</rt></ruby>える<ruby>前<rt>まえ</rt></ruby>に、<ruby>互<rt>たが</rt></ruby>いの<ruby>挑戦<rt>ちょうせん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>め<ruby>合<rt>あ</rt></ruby>う<ruby>企業<rt>きぎょう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>醸成<rt>じょうせい</rt></ruby>こそが<ruby>先決<rt>せんけつ</rt></ruby>です。</p><p class=\"text-xs font-bold text-[#B8596E] mt-2\">コンサルタントが<ruby>最<rt>もっと</rt></ruby>も<ruby>訴<rt>うった</rt></ruby>えたいことは<ruby>何<rt>なん</rt></ruby>ですか。</p></div>",
       "prompt_ruby": "コンサルタントが<ruby>最<rt>もっと</rt></ruby>も<ruby>訴<rt>うった</rt></ruby>えたいことは<ruby>何<rt>なん</rt></ruby>ですか。",
       "has_illustration": true,
       "illustration_url": "images/listening_n1/n1_q19.jpg",
@@ -756,7 +756,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "prompt": "「部長、明日の予算会議の件、私の方からご説明申し上げましょうか。」",
       "audio_file": "audio/listening/n1_q22.mp3",
       "choices": [
-        "<ruby>助<rt>たす</rt></ruby>かるよ、<ruby>要点<rt>ようてん</rt></ruby>を<ruby>手短<rt>てみじか</rt></ruby>にかいつまんで<ruby>頼<rt>たの</rt></ruby>むね。",
+        "<ruby>助<rt>たす</rt></ruby>かるよ、<ruby>要点<rt>ようてん</rt></ruby>をかいつまんで<ruby>頼<rt>たの</rt></ruby>むね。",
         "<ruby>予算<rt>よさん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>に<ruby>延期<rt>えんき</rt></ruby>されたよ。",
         "いや、<ruby>私<rt>わたし</rt></ruby>が<ruby>君<rt>きみ</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>する<ruby>筋合<rt>すじあ</rt></ruby>いはないよ。"
       ],
@@ -774,7 +774,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "illustration_url": "images/listening_n1/n1_q22.jpg",
       "image": "images/listening_n1/n1_q22.jpg",
       "choices_ruby": [
-        "<ruby>助<rt>たす</rt></ruby>かるよ、<ruby>要点<rt>ようてん</rt></ruby>を<ruby>手短<rt>てみじか</rt></ruby>にかいつまんで<ruby>頼<rt>たの</rt></ruby>むね。",
+        "<ruby>助<rt>たす</rt></ruby>かるよ、<ruby>要点<rt>ようてん</rt></ruby>をかいつまんで<ruby>頼<rt>たの</rt></ruby>むね。",
         "<ruby>予算<rt>よさん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>に<ruby>延期<rt>えんき</rt></ruby>されたよ。",
         "いや、<ruby>私<rt>わたし</rt></ruby>が<ruby>君<rt>きみ</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>する<ruby>筋合<rt>すじあ</rt></ruby>いはないよ。"
       ]
@@ -816,12 +816,12 @@ window.JLPT_N1_LISTENING_DATA = {
       "section_id": "sec4",
       "section_name": "問題4 即時応答",
       "situation": "「この件に関しましては、私の一存では決めかねますので……」",
-      "speech_audio_text": "だいにじゅうよんもん。\n\n「この件に関しましては、私のいちぞんでは決めかねますので……」\n\nいちばん。承知いたしました。では私のいちぞんで手配を進めさせていただきますね。\n\nにばん。では、社内でお持ち帰りの上、ご検討いただけますでしょうか。\n\nさんばん。あいにく、こちらも決裁権を委ねられておりませんので。\n\n最も適切な返答を選んでください。",
+      "speech_audio_text": "だいにじゅうよんもん。\n\n「この件に関しましては、私のいちぞんでは決めかねますので……」\n\nいちばん。承知いたしました。では私のいちぞんで手配を進めさせていただきますね。\n\nにばん。では、一度お持ち帰りいただき、社内でご検討いただけますでしょうか。\n\nさんばん。あいにく、こちらも決裁権を委ねられておりませんので。\n\n最も適切な返答を選んでください。",
       "prompt": "「この件に関しましては、私の一存では決めかねますので……」",
       "audio_file": "audio/listening/n1_q24.mp3",
       "choices": [
         "<ruby>承知<rt>しょうち</rt></ruby>いたしました。では<ruby>私<rt>わたし</rt></ruby>の<ruby>一存<rt>いちぞん</rt></ruby>で<ruby>手配<rt>てはい</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めさせていただきますね。",
-        "では、<ruby>社内<rt>しゃない</rt></ruby>でお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りの<ruby>上<rt>うえ</rt></ruby>、ご<ruby>検討<rt>けんとう</rt></ruby>いただけますでしょうか。",
+        "では、<ruby>一度<rt>いちど</rt></ruby>お<ruby>持ち帰<rt>もちかえ</rt></ruby>りいただき、<ruby>社内<rt>しゃない</rt></ruby>でご<ruby>検討<rt>けんとう</rt></ruby>いただけますでしょうか。",
         "あいにく、こちらも<ruby>決裁<rt>けっさい</rt></ruby><ruby>権<rt>けん</rt></ruby>を<ruby>委<rt>ゆだ</rt></ruby>ねられておりませんので。"
       ],
       "answer": 1,
@@ -839,7 +839,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "image": "images/listening_n1/n1_q24.jpg",
       "choices_ruby": [
         "<ruby>承知<rt>しょうち</rt></ruby>いたしました。では<ruby>私<rt>わたし</rt></ruby>の<ruby>一存<rt>いちぞん</rt></ruby>で<ruby>手配<rt>てはい</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めさせていただきますね。",
-        "では、<ruby>社内<rt>しゃない</rt></ruby>でお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りの<ruby>上<rt>うえ</rt></ruby>、ご<ruby>検討<rt>けんとう</rt></ruby>いただけますでしょうか。",
+        "では、<ruby>一度<rt>いちど</rt></ruby>お<ruby>持ち帰<rt>もちかえ</rt></ruby>りいただき、<ruby>社内<rt>しゃない</rt></ruby>でご<ruby>検討<rt>けんとう</rt></ruby>いただけますでしょうか。",
         "あいにく、こちらも<ruby>決裁<rt>けっさい</rt></ruby><ruby>権<rt>けん</rt></ruby>を<ruby>委<rt>ゆだ</rt></ruby>ねられておりませんので。"
       ]
     },
@@ -848,13 +848,13 @@ window.JLPT_N1_LISTENING_DATA = {
       "section_id": "sec4",
       "section_name": "問題4 即時応答",
       "situation": "「本日のシンポジウム、基調講演を引き受けてくださり痛み入ります。」",
-      "speech_audio_text": "だいにじゅうごもん。\n\n「本日のシンポジウム、基調講演を引き受けてくださりいたみいります。」\n\nいちばん。とんでもございません。こちらこそお役に立てて光栄です。\n\nにばん。こちらこそ、大変恐縮しております。\n\nさんばん。お疲れの出ませんよう、どうぞお体をご自愛ください。\n\n最も適切な返答を選んでください。",
+      "speech_audio_text": "だいにじゅうごもん。\n\n「本日のシンポジウム、基調講演を引き受けてくださりいたみいります。」\n\nいちばん。とんでもございません。こちらこそお役に立てて光栄です。\n\nにばん。こちらこそ、大変恐縮しております。\n\nさんばん。お疲れの出ませんよう、どうぞご自愛ください。\n\n最も適切な返答を選んでください。",
       "prompt": "「本日のシンポジウム、基調講演を引き受けてくださり痛み入ります。」",
       "audio_file": "audio/listening/n1_q25.mp3",
       "choices": [
         "とんでもございません。こちらこそお<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てて<ruby>光栄<rt>こうえい</rt></ruby>です。",
         "こちらこそ、<ruby>大変<rt>たいへん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>しております。",
-        "お<ruby>疲<rt>つか</rt></ruby>れの<ruby>出<rt>で</rt></ruby>ませんよう、どうぞお<ruby>体<rt>からだ</rt></ruby>をご<ruby>自愛<rt>じあい</rt></ruby>ください。"
+        "お<ruby>疲<rt>つか</rt></ruby>れの<ruby>出<rt>で</rt></ruby>ませんよう、どうぞご<ruby>自愛<rt>じあい</rt></ruby>ください。"
       ],
       "answer": 0,
       "explanation": {
@@ -872,7 +872,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "choices_ruby": [
         "とんでもございません。こちらこそお<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てて<ruby>光栄<rt>こうえい</rt></ruby>です。",
         "こちらこそ、<ruby>大変<rt>たいへん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>しております。",
-        "お<ruby>疲<rt>つか</rt></ruby>れの<ruby>出<rt>で</rt></ruby>ませんよう、どうぞお<ruby>体<rt>からだ</rt></ruby>をご<ruby>自愛<rt>じあい</rt></ruby>ください。"
+        "お<ruby>疲<rt>つか</rt></ruby>れの<ruby>出<rt>で</rt></ruby>ませんよう、どうぞご<ruby>自愛<rt>じあい</rt></ruby>ください。"
       ]
     },
     {
@@ -948,7 +948,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "prompt": "「今回の不手際、平身低頭してお詫び申し上げるほかございません。」",
       "audio_file": "audio/listening/n1_q28.mp3",
       "choices": [
-        "ええ、<ruby>言葉<rt>ことば</rt></ruby>だけでなく、<ruby>早急<rt>そうきゅう</rt></ruby>に<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>損害<rt>そんがい</rt></ruby><ruby>補償<rt>ほしょう</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりませんね。",
+        "ええ、<ruby>言葉<rt>ことば</rt></ruby>だけでなく、<ruby>早急<rt>さっきゅう</rt></ruby>に<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>損害<rt>そんがい</rt></ruby><ruby>補償<rt>ほしょう</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりませんね。",
         "<ruby>謝罪<rt>しゃざい</rt></ruby>さえすれば、<ruby>先方<rt>せんぽう</rt></ruby>もすぐに<ruby>水<rt>みず</rt></ruby>に<ruby>流<rt>なが</rt></ruby>してくれますよ。",
         "<ruby>筋合<rt>すじあ</rt></ruby>いがないなら、<ruby>謝<rt>あやま</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありませんね。"
       ],
@@ -966,7 +966,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "illustration_url": "images/listening_n1/n1_q28.jpg",
       "image": "images/listening_n1/n1_q28.jpg",
       "choices_ruby": [
-        "ええ、<ruby>言葉<rt>ことば</rt></ruby>だけでなく、<ruby>早急<rt>そうきゅう</rt></ruby>に<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>損害<rt>そんがい</rt></ruby><ruby>補償<rt>ほしょう</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりませんね。",
+        "ええ、<ruby>言葉<rt>ことば</rt></ruby>だけでなく、<ruby>早急<rt>さっきゅう</rt></ruby>に<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>損害<rt>そんがい</rt></ruby><ruby>補償<rt>ほしょう</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりませんね。",
         "<ruby>謝罪<rt>しゃざい</rt></ruby>さえすれば、<ruby>先方<rt>せんぽう</rt></ruby>もすぐに<ruby>水<rt>みず</rt></ruby>に<ruby>流<rt>なが</rt></ruby>してくれますよ。",
         "<ruby>筋合<rt>すじあ</rt></ruby>いがないなら、<ruby>謝<rt>あやま</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありませんね。"
       ]
@@ -980,7 +980,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "prompt": "「先輩、先ほど提出した企画書の草案、手直しすべき点などございましたでしょうか。」",
       "audio_file": "audio/listening/n1_q29.mp3",
       "choices": [
-        "<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>によく<ruby>書<rt>か</rt></ruby>けているよ。<ruby>数箇所<rt>すうかしょ</rt></ruby>コメントを<ruby>入<rt>い</rt></ruby>れたから<ruby>確認<rt>かくにん</rt></ruby>してみて。",
+        "<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>によく<ruby>書<rt>か</rt></ruby>けているよ。<ruby>数<rt>すう</rt></ruby><ruby>箇所<rt>かしょ</rt></ruby>コメントを<ruby>入<rt>い</rt></ruby>れたから<ruby>確認<rt>かくにん</rt></ruby>してみて。",
         "いえ、<ruby>手直<rt>てなお</rt></ruby>しする<ruby>余地<rt>よち</rt></ruby>のない<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>出来栄<rt>できば</rt></ruby>えだったよ。",
         "<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>はとっくに<ruby>過<rt>す</rt></ruby>ぎているから<ruby>見<rt>み</rt></ruby>ないよ。"
       ],
@@ -998,7 +998,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "illustration_url": "images/listening_n1/n1_q29.jpg",
       "image": "images/listening_n1/n1_q29.jpg",
       "choices_ruby": [
-        "<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>によく<ruby>書<rt>か</rt></ruby>けているよ。<ruby>数箇所<rt>すうかしょ</rt></ruby>コメントを<ruby>入<rt>い</rt></ruby>れたから<ruby>確認<rt>かくにん</rt></ruby>してみて。",
+        "<ruby>全体<rt>ぜんたい</rt></ruby><ruby>的<rt>てき</rt></ruby>によく<ruby>書<rt>か</rt></ruby>けているよ。<ruby>数<rt>すう</rt></ruby><ruby>箇所<rt>かしょ</rt></ruby>コメントを<ruby>入<rt>い</rt></ruby>れたから<ruby>確認<rt>かくにん</rt></ruby>してみて。",
         "いえ、<ruby>手直<rt>てなお</rt></ruby>しする<ruby>余地<rt>よち</rt></ruby>のない<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>出来栄<rt>できば</rt></ruby>えだったよ。",
         "<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>はとっくに<ruby>過<rt>す</rt></ruby>ぎているから<ruby>見<rt>み</rt></ruby>ないよ。"
       ]
@@ -1073,12 +1073,12 @@ window.JLPT_N1_LISTENING_DATA = {
       "section_name": "問題4 即時応答",
       "situation": "「長年の地道な基礎研究が実を結び、ついに学会賞を受賞されるとは、感無量でございますね。」",
       "speech_audio_text": "だいさんじゅうにもん。\n\n「長年の地道な基礎研究が実を結び、ついに学会賞を受賞されるとは、かんむりょうでございますね。」\n\nいちばん。そうですね、受賞を逃して本当に悔しい思いをしました。\n\nにばん。ありがとうございます。支えてくれた研究室の仲間たちに心から感謝しています。\n\nさんばん。ええ、長年の苦労が水の泡となってしまいました。\n\n最も適切な返答を選んでください。",
-      "prompt": "「長年の地道な基礎研究が実を結び、ついに学会賞を受賞されるとは、感無量でございますね。」",
+      "prompt": "「長年の地道な基礎研究が実を結び、ついに学会賞を受賞されるとは、さぞかし感無量でいらっしゃいますね。」",
       "audio_file": "audio/listening/n1_q32.mp3",
       "choices": [
         "そうですね、<ruby>受賞<rt>じゅしょう</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>して<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>悔<rt>くや</rt></ruby>しい<ruby>思<rt>おも</rt></ruby>いをしました。",
         "ありがとうございます。<ruby>支<rt>ささ</rt></ruby>えてくれた<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>たちに<ruby>心<rt>こころ</rt></ruby>から<ruby>感謝<rt>かんしゃ</rt></ruby>しています。",
-        "ええ、<ruby>長年<rt>ながねん</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>泡<rt>あわ</rt></ruby>となってしまいました。"
+        "ええ、<ruby>長年<rt>ながねん</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>が<ruby>水の泡<rt>みずのあわ</rt></ruby>となってしまいました。"
       ],
       "answer": 1,
       "explanation": {
@@ -1096,7 +1096,7 @@ window.JLPT_N1_LISTENING_DATA = {
       "choices_ruby": [
         "そうですね、<ruby>受賞<rt>じゅしょう</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>して<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>悔<rt>くや</rt></ruby>しい<ruby>思<rt>おも</rt></ruby>いをしました。",
         "ありがとうございます。<ruby>支<rt>ささ</rt></ruby>えてくれた<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>たちに<ruby>心<rt>こころ</rt></ruby>から<ruby>感謝<rt>かんしゃ</rt></ruby>しています。",
-        "ええ、<ruby>長年<rt>ながねん</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>泡<rt>あわ</rt></ruby>となってしまいました。"
+        "ええ、<ruby>長年<rt>ながねん</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>が<ruby>水の泡<rt>みずのあわ</rt></ruby>となってしまいました。"
       ]
     },
     {

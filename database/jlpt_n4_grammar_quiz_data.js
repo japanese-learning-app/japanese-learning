@@ -9,7 +9,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なくてはならない、ないといけない、なくてもいい",
     "sentence_jp": "明日は朝早く出かけるので、今夜は早く寝なければなりません。",
-    "sentence_furigana": "明日は朝早く出かけるので、今夜は早く寝なければなりません。",
+    "sentence_furigana": "あしたはあさはやくでかけるので、こんやははやくねなければなりません。",
     "sentence_en": "Since I'm leaving early tomorrow morning, I have to go to bed early tonight.",
     "question": "明日は朝早く出かけるので、今夜は早く（　　　）。",
     "choices": [
@@ -39,7 +39,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なくてはならない、ないといけない、なくてもいい",
     "sentence_jp": "この図書館で借りた本は、2週間以内に返さなければなりません。",
-    "sentence_furigana": "この図書館で借りた本は、2週間以内に返さなければなりません。",
+    "sentence_furigana": "このとしょかんでかりたほんは、2しゅうかんいないにかえさなければなりません。",
     "sentence_en": "Books borrowed from this library must be returned within two weeks.",
     "question": "この図書館で借りた本は、2週間以内に（　　　）。",
     "choices": [
@@ -69,7 +69,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なくてはならない、ないといけない、なくてもいい",
     "sentence_jp": "外国へ旅行に行くときは、パスポートを持って行かなければならない。",
-    "sentence_furigana": "外国へ旅行に行くときは、パスポートを持って行かなければならない。",
+    "sentence_furigana": "がいこくへりょこうにいくときは、パスポートをもっていかなければならない。",
     "sentence_en": "When traveling abroad, you must take your passport with you.",
     "question": "外国へ旅行に行くときは、パスポートを（　　　）。",
     "choices": [
@@ -99,7 +99,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なくてはならない、ないといけない、なくてもいい",
     "sentence_jp": "午後から大切な会議があるので、1時までに会社へ戻らなければなりません。",
-    "sentence_furigana": "午後から大切な会議があるので、1時までに会社へ戻らなければなりません。",
+    "sentence_furigana": "ごごからたいせつなかいぎがあるので、1じまでにかいしゃへもどらなければなりません。",
     "sentence_en": "There is an important meeting in the afternoon, so I must return to the office by 1 o'clock.",
     "question": "午後から大切な会議があるので、1時までに会社へ（　　　）。",
     "choices": [
@@ -129,7 +129,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なければならない、なくてはいけない、なくてもいい",
     "sentence_jp": "もうすぐ電車が来るから、急いで切符を買わなくてはなりません。",
-    "sentence_furigana": "もうすぐ電車が来るから、急いで切符を買わなくてはなりません。",
+    "sentence_furigana": "もうすぐでんしゃがくるから、いそいできっぷをかわなくてはなりません。",
     "sentence_en": "The train is coming soon, so I have to hurry and buy a ticket.",
     "question": "もうすぐ電車が来るから、急いで切符を（　　　）。",
     "choices": [
@@ -159,7 +159,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なければならない、なくてはいけない、なくてもいい",
     "sentence_jp": "明日の朝までに、このレポートを書き終わらなくてはならない。",
-    "sentence_furigana": "明日の朝までに、このレポートを書き終わらなくてはならない。",
+    "sentence_furigana": "あしたのあさまでに、このレポートをかきおわらなくてはならない。",
     "sentence_en": "I have to finish writing this report by tomorrow morning.",
     "question": "明日の朝までに、このレポートを（　　　）。",
     "choices": [
@@ -189,7 +189,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なければならない、なくてはいけない、なくてもいい",
     "sentence_jp": "引っ越しの前に、部屋の中をきれいに掃除しなくてはなりません。",
-    "sentence_furigana": "引っ越しの前に、部屋の中をきれいに掃除しなくてはなりません。",
+    "sentence_furigana": "ひっこしのまえに、へやのなかをきれいにそうじしなくてはなりません。",
     "sentence_en": "Before moving out, I must clean the inside of the room thoroughly.",
     "question": "引っ越しの前に、部屋の中をきれいに（　　　）。",
     "choices": [
@@ -219,7 +219,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "must do ~; have to do ~",
     "similar": "なければならない、なくてはいけない、なくてもいい",
     "sentence_jp": "母が入院しているので、今日は私が晩ご飯の支度をしなくてはなりません。",
-    "sentence_furigana": "母が入院しているので、今日は私が晩ご飯の支度をしなくてはなりません。",
+    "sentence_furigana": "ははがにゅういんしているので、きょうはわたしがばんごはんのしたくをしなくてはなりません。",
     "sentence_en": "Because my mother is in the hospital, I have to prepare dinner today.",
     "question": "母が入院しているので、今日は私が晩ご飯の支度を（　　　）。",
     "choices": [
@@ -249,7 +249,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't have to; need not do",
     "similar": "なければならない、てもいい、なくてもかまわない",
     "sentence_jp": "A：靴を脱がなければなりませんか。B：いいえ、そのまま入ってください。脱がなくてもいいですよ。",
-    "sentence_furigana": "A：靴を脱がなければなりませんか。B：いいえ、そのまま入ってください。脱がなくてもいいですよ。",
+    "sentence_furigana": "A：くつをぬがなければなりませんか。B：いいえ、そのままはいってください。ぬがなくてもいいですよ。",
     "sentence_en": "A: Do I have to take off my shoes? B: No, please come in as you are. You don't have to take them off.",
     "question": "A：靴を脱がなければなりませんか。B：いいえ、そのまま入ってください。（　　　）よ。",
     "choices": [
@@ -279,7 +279,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't have to; need not do",
     "similar": "なければならない、てもいい、なくてもかまわない",
     "sentence_jp": "簡単な言葉で書いてあるので、辞書を使わなくても分かります。",
-    "sentence_furigana": "簡単な言葉で書いてあるので、辞書を使わなくても分かります。",
+    "sentence_furigana": "かんたんなことばでかいてあるので、じしょをつかわなくてもわかります。",
     "sentence_en": "Because it is written in simple words, you can understand it without having to use a dictionary.",
     "question": "簡単な言葉で書いてあるので、辞書を（　　　）分かります。",
     "choices": [
@@ -309,7 +309,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't have to; need not do",
     "similar": "なければならない、てもいい、なくてもかまわない",
     "sentence_jp": "熱が下がったから、もうこの薬は飲まなくてもいいと医者に言われました。",
-    "sentence_furigana": "熱が下がったから、もうこの薬は飲まなくてもいいと医者に言われました。",
+    "sentence_furigana": "ねつがさがったから、もうこのくすりはのまなくてもいいといしゃにいわれました。",
     "sentence_en": "Since my fever went down, I was told by the doctor that I don't have to take this medicine anymore.",
     "question": "熱が下がったから、もうこの薬は（　　　）と医者に言われました。",
     "choices": [
@@ -339,7 +339,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "don't have to; need not do",
     "similar": "なければならない、てもいい、なくてもかまわない",
     "sentence_jp": "明日は時間がたくさんあるから、そんなに早く起きなくてもいいですよ。",
-    "sentence_furigana": "明日は時間がたくさんあるから、そんなに早く起きなくてもいいですよ。",
+    "sentence_furigana": "あしたはじかんがたくさんあるから、そんなにはやくおきなくてもいいですよ。",
     "sentence_en": "We have plenty of time tomorrow, so you don't have to wake up that early.",
     "question": "明日は時間がたくさんあるから、そんなに早く（　　　）よ。",
     "choices": [
@@ -369,7 +369,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have the experience of doing ~; have done ~ before",
     "similar": "ことがある（時々）、たばかりだ",
     "sentence_jp": "A：日本の着物を着たことがありますか。B：はい、去年京都で一度だけ着ました。",
-    "sentence_furigana": "A：日本の着物を着たことがありますか。B：はい、去年京都で一度だけ着ました。",
+    "sentence_furigana": "A：にほんのきものをきたことがありますか。B：はい、きょねんきょうとでいちどだけきました。",
     "sentence_en": "A: Have you ever worn a Japanese kimono? B: Yes, I wore one just once in Kyoto last year.",
     "question": "A：日本の着物を（　　　）か。B：はい、去年京都で一度だけ着ました。",
     "choices": [
@@ -399,7 +399,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have the experience of doing ~; have done ~ before",
     "similar": "ことがある（時々）、たばかりだ",
     "sentence_jp": "私は生まれてから一度も飛行機に乗ったことがありません。",
-    "sentence_furigana": "私は生まれてから一度も飛行機に乗ったことがありません。",
+    "sentence_furigana": "わたしはうまれてからいちどもひこうきにのったことがありません。",
     "sentence_en": "I have never been on an airplane since I was born.",
     "question": "私は生まれてから一度も飛行機に（　　　）。",
     "choices": [
@@ -429,7 +429,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have the experience of doing ~; have done ~ before",
     "similar": "ことがある（時々）、たばかりだ",
     "sentence_jp": "あの有名な歌手を、一度駅で見たことがあります。",
-    "sentence_furigana": "あの有名な歌手を、一度駅で見たことがあります。",
+    "sentence_furigana": "あのゆうめいなかしゅを、いちどえきでみたことがあります。",
     "sentence_en": "I have seen that famous singer once at the station.",
     "question": "あの有名な歌手を、一度駅で（　　　）。",
     "choices": [
@@ -459,7 +459,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have the experience of doing ~; have done ~ before",
     "similar": "ことがある（時々）、たばかりだ",
     "sentence_jp": "A：この果物を食べたことがありますか。B：いいえ、名前も聞いたことがありません。",
-    "sentence_furigana": "A：この果物を食べたことがありますか。B：いいえ、名前も聞いたことがありません。",
+    "sentence_furigana": "A：このくだものをたべたことがありますか。B：いいえ、なまえもきいたことがありません。",
     "sentence_en": "A: Have you ever eaten this fruit? B: No, I have never even heard its name.",
     "question": "A：この果物を食べたことがありますか。B：いいえ、名前も（　　　）。",
     "choices": [
@@ -489,7 +489,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "had better do ~; should do ~",
     "similar": "たらいい、なければならない",
     "sentence_jp": "顔色があまりよくないですね。今日は早く帰って休んだ方がいいですよ。",
-    "sentence_furigana": "顔色があまりよくないですね。今日は早く帰って休んだ方がいいですよ。",
+    "sentence_furigana": "かおいろがあまりよくないですね。きょうははやくかえってやすんだほうがいいですよ。",
     "sentence_en": "You don't look very well. You had better go home early and rest today.",
     "question": "顔色があまりよくないですね。今日は早く帰って（　　　）よ。",
     "choices": [
@@ -505,8 +505,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>顔色<rt>かおいろ</rt></ruby>があまりよくないですね。<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
       "<ruby>休<rt>やす</rt></ruby>むの<ruby>方<rt>ほう</rt></ruby>がいいです",
-      "<ruby>休<rt>やす</rt></ruby>んで<ruby>方<rt>ほう</rt></ruby>がいいです",
-      "<ruby>休<rt>やす</rt></ruby>まない<ruby>方<rt>ほう</rt></ruby>がいいです",
+      "<ruby>休<rt>やす</rt></ruby>んで<ruby>方<rt>かた</rt></ruby>がいいです",
+      "<ruby>休<rt>やす</rt></ruby>まない<ruby>方<rt>かた</rt></ruby>がいいです",
       "<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいです"
     ],
     "correct_text_ruby": "<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいです"
@@ -519,7 +519,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "had better do ~; should do ~",
     "similar": "たらいい、なければならない",
     "sentence_jp": "この道は夜になるととても暗いから、一人で歩かない方がいいですよ。",
-    "sentence_furigana": "この道は夜になるととても暗いから、一人で歩かない方がいいですよ。",
+    "sentence_furigana": "このみちはよるになるととてもくらいから、ひとりであるかないかたがいいですよ。",
     "sentence_en": "This street gets very dark at night, so you had better not walk alone.",
     "question": "この道は夜になるととても暗いから、一人で（　　　）よ。",
     "choices": [
@@ -532,14 +532,14 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "correct_text": "歩かない方がいいです",
     "notes": "『<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かないほうがいい』という<ruby>否定<rt>ひてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>なので、「ない<ruby>形<rt>けい</rt></ruby>＋ほうがいい」（<ruby>歩<rt>ある</rt></ruby>かないほうがいいです）が<ruby>正解<rt>せいかい</rt></ruby>です。 / Negative advice uses the ない-form + ほうがいい: 歩かないほうがいいです.",
     "question_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で（　　　）よ。",
-    "sentence_jp_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
+    "sentence_jp_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいですよ。",
     "choices_ruby": [
       "<ruby>歩<rt>ある</rt></ruby>いた<ruby>方<rt>ほう</rt></ruby>がいいです",
-      "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいです",
+      "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいです",
       "<ruby>歩<rt>ある</rt></ruby>かなかった<ruby>方<rt>ほう</rt></ruby>がいいです",
       "<ruby>歩<rt>ある</rt></ruby>くなく<ruby>方<rt>ほう</rt></ruby>がいいです"
     ],
-    "correct_text_ruby": "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいです"
+    "correct_text_ruby": "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいです"
   },
   {
     "id": 19,
@@ -549,7 +549,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "had better do ~; should do ~",
     "similar": "たらいい、なければならない",
     "sentence_jp": "連休はホテルがすぐいっぱいになるから、今すぐ予約した方がいい。",
-    "sentence_furigana": "連休はホテルがすぐいっぱいになるから、今すぐ予約した方がいい。",
+    "sentence_furigana": "れんきゅうはホテルがすぐいっぱいになるから、いますぐよやくしたほうがいい。",
     "sentence_en": "Hotels fill up quickly during the holidays, so you should make a reservation right now.",
     "question": "連休はホテルがすぐいっぱいになるから、今すぐ（　　　）。",
     "choices": [
@@ -564,10 +564,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>連休<rt>れんきゅう</rt></ruby>はホテルがすぐいっぱいになるから、<ruby>今<rt>いま</rt></ruby>すぐ（　　　）。",
     "sentence_jp_ruby": "<ruby>連休<rt>れんきゅう</rt></ruby>はホテルがすぐいっぱいになるから、<ruby>今<rt>いま</rt></ruby>すぐ<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい。",
     "choices_ruby": [
-      "<ruby>予約<rt>よやく</rt></ruby>しない<ruby>方<rt>ほう</rt></ruby>がいい",
+      "<ruby>予約<rt>よやく</rt></ruby>しない<ruby>方<rt>かた</rt></ruby>がいい",
       "<ruby>予約<rt>よやく</rt></ruby>するの<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい",
-      "<ruby>予約<rt>よやく</rt></ruby>して<ruby>方<rt>ほう</rt></ruby>がいい"
+      "<ruby>予約<rt>よやく</rt></ruby>して<ruby>方<rt>かた</rt></ruby>がいい"
     ],
     "correct_text_ruby": "<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい"
   },
@@ -579,7 +579,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "had better do ~; should do ~",
     "similar": "たらいい、なければならない",
     "sentence_jp": "のどが痛いときは、あまり辛い料理は食べない方がいいと思います。",
-    "sentence_furigana": "のどが痛いときは、あまり辛い料理は食べない方がいいと思います。",
+    "sentence_furigana": "のどがいたいときは、あまりからいりょうりはたべないかたがいいとおもいます。",
     "sentence_en": "When you have a sore throat, I think you had better not eat very spicy food.",
     "question": "のどが痛いときは、あまり辛い料理は（　　　）と思います。",
     "choices": [
@@ -592,14 +592,14 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "correct_text": "食べない方がいい",
     "notes": "のどが<ruby>痛<rt>いた</rt></ruby>いときに<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えるべきなので、<ruby>否定<rt>ひてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>「<ruby>食<rt>た</rt></ruby>べないほうがいい」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Advising against spicy food when having a sore throat requires ない-form + ほうがいい.",
     "question_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は（　　　）と<ruby>思<rt>おも</rt></ruby>います。",
-    "sentence_jp_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
+    "sentence_jp_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
     "choices_ruby": [
-      "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいい",
+      "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べないの<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べなかった<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べた<ruby>方<rt>ほう</rt></ruby>がいい"
     ],
-    "correct_text_ruby": "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいい"
+    "correct_text_ruby": "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいい"
   },
   {
     "id": 21,
@@ -609,7 +609,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "too much; excessively ~",
     "similar": "やすい、にくい、とても",
     "sentence_jp": "昨日の晩はコーヒーを飲みすぎて、なかなか眠れませんでした。",
-    "sentence_furigana": "昨日の晩はコーヒーを飲みすぎて、なかなか眠れませんでした。",
+    "sentence_furigana": "きのうのばんはコーヒーをのみすぎて、なかなかねむれませんでした。",
     "sentence_en": "Last night I drank too much coffee and couldn't fall asleep easily.",
     "question": "昨日の晩はコーヒーを（　　　）、なかなか眠れませんでした。",
     "choices": [
@@ -639,7 +639,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "too much; excessively ~",
     "similar": "やすい、にくい、とても",
     "sentence_jp": "このズボンは私には長すぎるので、もう少し短いのがいいです。",
-    "sentence_furigana": "このズボンは私には長すぎるので、もう少し短いのがいいです。",
+    "sentence_furigana": "このズボンはわたしにはながすぎるので、もうすこしみじかいのがいいです。",
     "sentence_en": "These pants are too long for me, so I'd like a slightly shorter pair.",
     "question": "このズボンは私には（　　　）ので、もう少し短いのがいいです。",
     "choices": [
@@ -669,7 +669,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "too much; excessively ~",
     "similar": "やすい、にくい、とても",
     "sentence_jp": "テストの問題が難しすぎて、最後まで書くことができませんでした。",
-    "sentence_furigana": "テストの問題が難しすぎて、最後まで書くことができませんでした。",
+    "sentence_furigana": "テストのもんだいがむずかしすぎて、さいごまでかくことができませんでした。",
     "sentence_en": "The test questions were too difficult, so I couldn't finish writing to the end.",
     "question": "テストの問題が（　　　）、最後まで書くことができませんでした。",
     "choices": [
@@ -699,7 +699,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "too much; excessively ~",
     "similar": "やすい、にくい、とても",
     "sentence_jp": "夜の公園は静かすぎるので、一人で歩くのは少し怖いです。",
-    "sentence_furigana": "夜の公園は静かすぎるので、一人で歩くのは少し怖いです。",
+    "sentence_furigana": "よるのこうえんはしずかすぎるので、ひとりであるくのはすこしこわいです。",
     "sentence_en": "The park at night is too quiet, so walking alone is a little scary.",
     "question": "夜の公園は（　　　）ので、一人で歩くのは少し怖いです。",
     "choices": [
@@ -729,7 +729,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "easy to do ~; likely to ~",
     "similar": "にくい、すぎる",
     "sentence_jp": "このカメラは小さくて軽いので、旅行に持って行きやすいです。",
-    "sentence_furigana": "このカメラは小さくて軽いので、旅行に持って行きやすいです。",
+    "sentence_furigana": "このカメラはちいさくてかるいので、りょこうにもっていきやすいです。",
     "sentence_en": "Because this camera is small and light, it is easy to take on trips.",
     "question": "このカメラは小さくて軽いので、旅行に（　　　）です。",
     "choices": [
@@ -759,7 +759,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "easy to do ~; likely to ~",
     "similar": "にくい、すぎる",
     "sentence_jp": "字が大きくて、絵もたくさんあるので、この本はとても読みやすいです。",
-    "sentence_furigana": "字が大きくて、絵もたくさんあるので、この本はとても読みやすいです。",
+    "sentence_furigana": "じがおおきくて、えもたくさんあるので、このほんはとてもよみやすいです。",
     "sentence_en": "With large print and lots of pictures, this book is very easy to read.",
     "question": "字が大きくて、絵もたくさんあるので、この本はとても（　　　）です。",
     "choices": [
@@ -789,7 +789,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "easy to do ~; likely to ~",
     "similar": "にくい、すぎる",
     "sentence_jp": "季節の変わり目は、かぜをひきやすいから気をつけてくださいね。",
-    "sentence_furigana": "季節の変わり目は、かぜをひきやすいから気をつけてくださいね。",
+    "sentence_furigana": "きせつのかわりめは、かぜをひきやすいからきをつけてくださいね。",
     "sentence_en": "It's easy to catch a cold at the change of seasons, so please take care.",
     "question": "季節の変わり目は、かぜを（　　　）から気をつけてくださいね。",
     "choices": [
@@ -819,7 +819,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "easy to do ~; likely to ~",
     "similar": "にくい、すぎる",
     "sentence_jp": "この駅の周りは店も多いし、電車も便利だから、とても住みやすいです。",
-    "sentence_furigana": "この駅の周りは店も多いし、電車も便利だから、とても住みやすいです。",
+    "sentence_furigana": "このえきのまわりはみせもおおいし、でんしゃもべんりだから、とてもすみやすいです。",
     "sentence_en": "Around this station there are many shops and the trains are convenient, so it is very easy to live in.",
     "question": "この駅の周りは店も多いし、電車も便利だから、とても（　　　）です。",
     "choices": [
@@ -849,7 +849,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "hard / difficult to do ~",
     "similar": "やすい、すぎる",
     "sentence_jp": "この魚は小さい骨がたくさんあって、とても食べにくいです。",
-    "sentence_furigana": "この魚は小さい骨がたくさんあって、とても食べにくいです。",
+    "sentence_furigana": "このさかなはちいさいほねがたくさんあって、とてもたべにくいです。",
     "sentence_en": "This fish has lots of small bones and is very hard to eat.",
     "question": "この魚は小さい骨がたくさんあって、とても（　　　）です。",
     "choices": [
@@ -878,10 +878,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "にくい",
     "meaning_en": "hard / difficult to do ~",
     "similar": "やすい、すぎる",
-    "sentence_jp": "雨の日は洗濯物がなかなか乾きにくいから、困ります。",
-    "sentence_furigana": "雨の日は洗濯物がなかなか乾きにくいから、困ります。",
-    "sentence_en": "On rainy days, laundry doesn't dry easily, which is troublesome.",
-    "question": "雨の日は洗濯物がなかなか（　　　）から、困ります。",
+    "sentence_jp": "雨の日は洗濯物が乾きにくいから、困ります。",
+    "sentence_furigana": "あめのひはせんたくものがかわきにくいから、こまります。",
+    "sentence_en": "On rainy days, laundry is hard to dry, so it's troublesome.",
+    "question": "雨の日は洗濯物が（　　　）から、困ります。",
     "choices": [
       "乾いてにくい",
       "乾きにくい",
@@ -891,8 +891,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "乾きにくい",
     "notes": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>が『<ruby>簡単<rt>かんたん</rt></ruby>には<ruby>乾<rt>かわ</rt></ruby>かない』ので、「<ruby>乾<rt>かわ</rt></ruby>きにくい」が<ruby>正解<rt>せいかい</rt></ruby>です。「<ruby>乾<rt>かわ</rt></ruby>くにくい」「<ruby>乾<rt>かわ</rt></ruby>いてにくい」は<ruby>接続<rt>せつぞく</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りです。 / On rainy days laundry 'doesn't dry easily' (乾きにくい).",
-    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>がなかなか（　　　）から、<ruby>困<rt>こま</rt></ruby>ります。",
-    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>がなかなか<ruby>乾<rt>かわ</rt></ruby>きにくいから、<ruby>困<rt>こま</rt></ruby>ります。",
+    "question_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>が（　　　）から、<ruby>困<rt>こま</rt></ruby>ります。",
+    "sentence_jp_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きにくいから、<ruby>困<rt>こま</rt></ruby>ります。",
     "choices_ruby": [
       "<ruby>乾<rt>かわ</rt></ruby>いてにくい",
       "<ruby>乾<rt>かわ</rt></ruby>きにくい",
@@ -908,10 +908,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "にくい",
     "meaning_en": "hard / difficult to do ~",
     "similar": "やすい、すぎる",
-    "sentence_jp": "田中さんの字は小さすぎて、とても読みにくいです。",
-    "sentence_furigana": "田中さんの字は小さすぎて、とても読みにくいです。",
-    "sentence_en": "Mr. Tanaka's handwriting is too small and very hard to read.",
-    "question": "田中さんの字は小さすぎて、とても（　　　）です。",
+    "sentence_jp": "この手紙の字は小さすぎて、とても読みにくいです。",
+    "sentence_furigana": "このてがみのじはちいさすぎて、とてもよみにくいです。",
+    "sentence_en": "The handwriting in this letter is too small, so it's very hard to read.",
+    "question": "この手紙の字は小さすぎて、とても（　　　）です。",
     "choices": [
       "読むにくい",
       "読みやすい",
@@ -921,8 +921,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "読みにくい",
     "notes": "<ruby>字<rt>じ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さすぎるので、『<ruby>読<rt>よ</rt></ruby>むのが<ruby>難<rt>むずか</rt></ruby>しい』＝「<ruby>読<rt>よ</rt></ruby>みにくい」が<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。 / Because the handwriting is too small, it is 'hard to read' (読みにくい).",
-    "question_ruby": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>字<rt>じ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さすぎて、とても（　　　）です。",
-    "sentence_jp_ruby": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>字<rt>じ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さすぎて、とても<ruby>読<rt>よ</rt></ruby>みにくいです。",
+    "question_ruby": "この<ruby>手紙<rt>てがみ</rt></ruby>の<ruby>字<rt>じ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さすぎて、とても（　　　）です。",
+    "sentence_jp_ruby": "この<ruby>手紙<rt>てがみ</rt></ruby>の<ruby>字<rt>じ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さすぎて、とても<ruby>読<rt>よ</rt></ruby>みにくいです。",
     "choices_ruby": [
       "<ruby>読<rt>よ</rt></ruby>むにくい",
       "<ruby>読<rt>よ</rt></ruby>みやすい",
@@ -939,7 +939,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "hard / difficult to do ~",
     "similar": "やすい、すぎる",
     "sentence_jp": "このガラスは特別な材料でできているので、落としても割れにくいです。",
-    "sentence_furigana": "このガラスは特別な材料でできているので、落としても割れにくいです。",
+    "sentence_furigana": "このガラスはとくべつなざいりょうでできているので、おとしてもわれにくいです。",
     "sentence_en": "Because this glass is made of a special material, it doesn't break easily even if dropped.",
     "question": "このガラスは特別な材料でできているので、落としても（　　　）です。",
     "choices": [
@@ -969,7 +969,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "plan to; intend to ~",
     "similar": "予定だ、ようと思う、ことにする",
     "sentence_jp": "夏休みは家族と海へ行くつもりです。",
-    "sentence_furigana": "夏休みは家族と海へ行くつもりです。",
+    "sentence_furigana": "なつやすみはかぞくとうみへいくつもりです。",
     "sentence_en": "I plan to go to the beach with my family during summer vacation.",
     "question": "夏休みは家族と海へ（　　　）です。",
     "choices": [
@@ -998,26 +998,26 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "つもりだ",
     "meaning_en": "plan to; intend to ~",
     "similar": "予定だ、ようと思う、ことにする",
-    "sentence_jp": "体にあまりよくないから、これからは甘い物をたくさん食べないつもりです。",
-    "sentence_furigana": "体にあまりよくないから、これからは甘い物をたくさん食べないつもりです。",
-    "sentence_en": "Because it's not very good for my health, I intend not to eat a lot of sweets from now on.",
-    "question": "体にあまりよくないから、これからは甘い物をたくさん（　　　）です。",
+    "sentence_jp": "明日は朝から運転するので、今夜はお酒を飲まないつもりです。",
+    "sentence_furigana": "あしたはあさからうんてんするので、こんやはおさけをのまないつもりです。",
+    "sentence_en": "Since I'm driving from tomorrow morning, I intend not to drink alcohol tonight.",
+    "question": "明日は朝から運転するので、今夜はお酒を（　　　）です。",
     "choices": [
-      "食べてつもり",
-      "食べないつもり",
-      "食べないのつもり",
-      "食べなくつもり"
+      "飲んでつもり",
+      "飲まないつもり",
+      "飲まないのつもり",
+      "飲まなくつもり"
     ],
     "answer": 1,
-    "correct_text": "食べないつもり",
+    "correct_text": "飲まないつもり",
     "notes": "『〜しないようにしようと<ruby>思<rt>おも</rt></ruby>っている』という<ruby>否定<rt>ひてい</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>は「ない<ruby>形<rt>けい</rt></ruby>＋つもり」で<ruby>表<rt>あらわ</rt></ruby>します。 / Negative intention uses ない-form + つもり (食べないつもり).",
-    "question_ruby": "<ruby>体<rt>からだ</rt></ruby>にあまりよくないから、これからは<ruby>甘い物<rt>あまいもの</rt></ruby>をたくさん（　　　）です。",
-    "sentence_jp_ruby": "<ruby>体<rt>からだ</rt></ruby>にあまりよくないから、これからは<ruby>甘い物<rt>あまいもの</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べないつもりです。",
+    "question_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>運転<rt>うんてん</rt></ruby>するので、<ruby>今夜<rt>こんや</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>を（　　　）です。",
+    "sentence_jp_ruby": "<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>から<ruby>運転<rt>うんてん</rt></ruby>するので、<ruby>今夜<rt>こんや</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まないつもりです。",
     "choices_ruby": [
-      "<ruby>食<rt>た</rt></ruby>べてつもり",
-      "<ruby>食<rt>た</rt></ruby>べないつもり",
-      "<ruby>食<rt>た</rt></ruby>べないのつもり",
-      "<ruby>食<rt>た</rt></ruby>べなくつもり"
+      "<ruby>飲<rt>の</rt></ruby>んでつもり",
+      "<ruby>飲<rt>の</rt></ruby>まないつもり",
+      "<ruby>飲<rt>の</rt></ruby>まないのつもり",
+      "<ruby>飲<rt>の</rt></ruby>まなくつもり"
     ],
     "correct_text_ruby": "<ruby>食<rt>た</rt></ruby>べないつもり"
   },
@@ -1029,7 +1029,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "plan to; intend to ~",
     "similar": "予定だ、ようと思う、ことにする",
     "sentence_jp": "将来、自分の店を出したいので、今はお金を貯めるつもりだ。",
-    "sentence_furigana": "将来、自分の店を出したいので、今はお金を貯めるつもりだ。",
+    "sentence_furigana": "しょうらい、じぶんのみせをだしたいので、いまはおかねをためるつもりだ。",
     "sentence_en": "Because I want to open my own shop in the future, I intend to save money now.",
     "question": "将来、自分の店を出したいので、今はお金を（　　　）。",
     "choices": [
@@ -1059,7 +1059,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "plan to; intend to ~",
     "similar": "予定だ、ようと思う、ことにする",
     "sentence_jp": "A：今度の日曜日は何をするつもりですか。B：天気がよかったら、山に登るつもりです。",
-    "sentence_furigana": "A：今度の日曜日は何をするつもりですか。B：天気がよかったら、山に登るつもりです。",
+    "sentence_furigana": "A：こんどのにちようびはなにをするつもりですか。B：てんきがよかったら、やまにのぼるつもりです。",
     "sentence_en": "A: What do you plan to do this Sunday? B: If the weather is nice, I plan to climb a mountain.",
     "question": "A：今度の日曜日は何をするつもりですか。B：天気がよかったら、山に（　　　）です。",
     "choices": [
@@ -1089,7 +1089,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "scheduled to; plan to ~",
     "similar": "つもりだ、ことになる",
     "sentence_jp": "社長は明日の午後、東京へ出発する予定です。",
-    "sentence_furigana": "社長は明日の午後、東京へ出発する予定です。",
+    "sentence_furigana": "しゃちょうはあしたのごご、とうきょうへしゅっぱつするよていです。",
     "sentence_en": "The company president is scheduled to depart for Tokyo tomorrow afternoon.",
     "question": "社長は明日の午後、東京へ（　　　）です。",
     "choices": [
@@ -1119,7 +1119,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "scheduled to; plan to ~",
     "similar": "つもりだ、ことになる",
     "sentence_jp": "今度の旅行は、3泊4日の予定です。",
-    "sentence_furigana": "今度の旅行は、3泊4日の予定です。",
+    "sentence_furigana": "こんどのりょこうは、3ぱく4っかのよていです。",
     "sentence_en": "This upcoming trip is scheduled to be four days and three nights.",
     "question": "今度の旅行は、3泊4日（　　　）です。",
     "choices": [
@@ -1149,7 +1149,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "scheduled to; plan to ~",
     "similar": "つもりだ、ことになる",
     "sentence_jp": "飛行機は10時ちょうどに空港に着く予定です。",
-    "sentence_furigana": "飛行機は10時ちょうどに空港に着く予定です。",
+    "sentence_furigana": "ひこうきは10じちょうどにくうこうにつくよていです。",
     "sentence_en": "The airplane is scheduled to arrive at the airport at 10 o'clock sharp.",
     "question": "飛行機は10時ちょうどに空港に（　　　）です。",
     "choices": [
@@ -1179,7 +1179,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "scheduled to; plan to ~",
     "similar": "つもりだ、ことになる",
     "sentence_jp": "A：卒業式はいつですか。B：来月の20日に行う予定です。",
-    "sentence_furigana": "A：卒業式はいつですか。B：来月の20日に行う予定です。",
+    "sentence_furigana": "A：そつぎょうしきはいつですか。B：らいげつのはつかにおこなうよていです。",
     "sentence_en": "A: When is the graduation ceremony? B: It is scheduled to be held on the 20th of next month.",
     "question": "A：卒業式はいつですか。B：来月の20日に（　　　）です。",
     "choices": [
@@ -1191,8 +1191,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "行う予定",
     "notes": "<ruby>動詞<rt>どうし</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>「<ruby>行<rt>おこな</rt></ruby>う」にそのまま「<ruby>予定<rt>よてい</rt></ruby>」を<ruby>付<rt>つ</rt></ruby>けます。<ruby>動詞<rt>どうし</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに「の」は<ruby>入<rt>い</rt></ruby>れません。 / Attach 予定 directly to the dictionary form 行う without の.",
-    "question_ruby": "A：<ruby>卒業式<rt>そつぎょうしき</rt></ruby>はいつですか。<br>B：<ruby>来月<rt>らいげつ</rt></ruby>の20<ruby>日<rt>か</rt></ruby>に（　　　）です。",
-    "sentence_jp_ruby": "A：<ruby>卒業式<rt>そつぎょうしき</rt></ruby>はいつですか。<br>B：<ruby>来月<rt>らいげつ</rt></ruby>の20<ruby>日<rt>か</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。",
+    "question_ruby": "A：<ruby>卒業式<rt>そつぎょうしき</rt></ruby>はいつですか。<br>B：<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>20日<rt>はつか</rt></ruby>に（　　　）です。",
+    "sentence_jp_ruby": "A：<ruby>卒業式<rt>そつぎょうしき</rt></ruby>はいつですか。<br>B：<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>20日<rt>はつか</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。",
     "choices_ruby": [
       "<ruby>行<rt>おこな</rt></ruby>い<ruby>予定<rt>よてい</rt></ruby>",
       "<ruby>行<rt>おこな</rt></ruby>うの<ruby>予定<rt>よてい</rt></ruby>",
@@ -1209,7 +1209,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "make an effort to do ~; try to ~; make sure to ~",
     "similar": "ようになる、ことにする、てみる",
     "sentence_jp": "健康のために、毎日必ず朝ご飯を食べるようにしています。",
-    "sentence_furigana": "健康のために、毎日必ず朝ご飯を食べるようにしています。",
+    "sentence_furigana": "けんこうのために、まいにちかならずあさごはんをたべるようにしています。",
     "sentence_en": "For my health, I make a point of eating breakfast every day.",
     "question": "健康のために、毎日必ず朝ご飯を（　　　）。",
     "choices": [
@@ -1239,7 +1239,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "make an effort to do ~; try to ~; make sure to ~",
     "similar": "ようになる、ことにする、てみる",
     "sentence_jp": "明日は大切なテストがありますから、絶対に遅刻しないようにしてください。",
-    "sentence_furigana": "明日は大切なテストがありますから、絶対に遅刻しないようにしてください。",
+    "sentence_furigana": "あしたはたいせつなテストがありますから、ぜったいにちこくしないようにしてください。",
     "sentence_en": "There is an important test tomorrow, so please make sure you are definitely not late.",
     "question": "明日は大切なテストがありますから、絶対に（　　　）してください。",
     "choices": [
@@ -1268,10 +1268,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "ようにする",
     "meaning_en": "make an effort to do ~; try to ~; make sure to ~",
     "similar": "ようになる、ことにする、てみる",
-    "sentence_jp": "最近太ってきたので、夜9時の後は何も食べないようにしています。",
-    "sentence_furigana": "最近太ってきたので、夜9時の後は何も食べないようにしています。",
-    "sentence_en": "Since I've been gaining weight lately, I try not to eat anything after 9 p.m.",
-    "question": "最近太ってきたので、夜9時の後は何も（　　　）。",
+    "sentence_jp": "最近太ってきたので、夜9時からは何も食べないようにしています。",
+    "sentence_furigana": "さいきんふとってきたので、よる9じからはなにもたべないようにしています。",
+    "sentence_en": "Since I've gained weight recently, I'm trying not to eat anything after 9 p.m.",
+    "question": "最近太ってきたので、夜9時からは何も（　　　）。",
     "choices": [
       "食べなくようにしています",
       "食べないようにしています",
@@ -1281,8 +1281,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "食べないようにしています",
     "notes": "『<ruby>食<rt>た</rt></ruby>べないように<ruby>気<rt>き</rt></ruby>をつけている』という<ruby>習慣<rt>しゅうかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>努力<rt>どりょく</rt></ruby>なので、「<ruby>食<rt>た</rt></ruby>べないようにしています」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Expresses an ongoing effort not to eat late: 食べないようにしています.",
-    "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も（　　　）。",
-    "sentence_jp_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べないようにしています。",
+    "question_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>からは<ruby>何<rt>なに</rt></ruby>も（　　　）。",
+    "sentence_jp_ruby": "<ruby>最近<rt>さいきん</rt></ruby><ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby>からは<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べないようにしています。",
     "choices_ruby": [
       "<ruby>食<rt>た</rt></ruby>べなくようにしています",
       "<ruby>食<rt>た</rt></ruby>べないようにしています",
@@ -1299,7 +1299,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "make an effort to do ~; try to ~; make sure to ~",
     "similar": "ようになる、ことにする、てみる",
     "sentence_jp": "習った単語を忘れないために、毎日ノートに書くようにしている。",
-    "sentence_furigana": "習った単語を忘れないために、毎日ノートに書くようにしている。",
+    "sentence_furigana": "ならったたんごをわすれないために、まいにちノートにかくようにしている。",
     "sentence_en": "So as not to forget the words I learned, I make an effort to write them in my notebook every day.",
     "question": "習った単語を忘れないために、毎日ノートに（　　　）。",
     "choices": [
@@ -1329,7 +1329,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do; become able to ~; reach the point where ~",
     "similar": "ようにする、ことになる、てくる",
     "sentence_jp": "1年間一生懸命勉強して、日本語で手紙が書けるようになりました。",
-    "sentence_furigana": "1年間一生懸命勉強して、日本語で手紙が書けるようになりました。",
+    "sentence_furigana": "1ねんかんいっしょうけんめいべんきょうして、にほんごでてがみがかけるようになりました。",
     "sentence_en": "After studying hard for a year, I became able to write letters in Japanese.",
     "question": "1年間一生懸命勉強して、日本語で手紙が（　　　）。",
     "choices": [
@@ -1359,7 +1359,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do; become able to ~; reach the point where ~",
     "similar": "ようにする、ことになる、てくる",
     "sentence_jp": "前はコーヒーが嫌いでしたが、最近はおいしく飲めるようになりました。",
-    "sentence_furigana": "前はコーヒーが嫌いでしたが、最近はおいしく飲めるようになりました。",
+    "sentence_furigana": "まえはコーヒーがきらいでしたが、さいきんはおいしくのめるようになりました。",
     "sentence_en": "I used to dislike coffee, but recently I have come to be able to drink it deliciously.",
     "question": "前はコーヒーが嫌いでしたが、最近はおいしく（　　　）。",
     "choices": [
@@ -1389,7 +1389,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do; become able to ~; reach the point where ~",
     "similar": "ようにする、ことになる、てくる",
     "sentence_jp": "弟は5歳になって、ひらがなが全部読めるようになった。",
-    "sentence_furigana": "弟は5歳になって、ひらがなが全部読めるようになった。",
+    "sentence_furigana": "おとうとは5さいになって、ひらがながぜんぶよめるようになった。",
     "sentence_en": "My younger brother turned five and became able to read all the hiragana.",
     "question": "弟は5歳になって、ひらがなが全部（　　　）。",
     "choices": [
@@ -1419,7 +1419,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do; become able to ~; reach the point where ~",
     "similar": "ようにする、ことになる、てくる",
     "sentence_jp": "眼鏡を変えたら、遠くの小さい字もよく見えるようになりました。",
-    "sentence_furigana": "眼鏡を変えたら、遠くの小さい字もよく見えるようになりました。",
+    "sentence_furigana": "めがねをかえたら、とおくのちいさいじもよくみえるようになりました。",
     "sentence_en": "When I changed my glasses, I became able to see small print in the distance clearly too.",
     "question": "眼鏡を変えたら、遠くの小さい字もよく（　　　）。",
     "choices": [
@@ -1449,7 +1449,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "decide to do ~ (personal decision)",
     "similar": "ことになる、ようにする、つもりだ",
     "sentence_jp": "どのシャツにするか迷いましたが、この青いシャツを買うことにしました。",
-    "sentence_furigana": "どのシャツにするか迷いましたが、この青いシャツを買うことにしました。",
+    "sentence_furigana": "どのシャツにするかまよいましたが、このあおいシャツをかうことにしました。",
     "sentence_en": "I hesitated over which shirt to choose, but I decided to buy this blue shirt.",
     "question": "どのシャツにするか迷いましたが、この青いシャツを（　　　）。",
     "choices": [
@@ -1478,26 +1478,26 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "ことにする",
     "meaning_en": "decide to do ~ (personal decision)",
     "similar": "ことになる、ようにする、つもりだ",
-    "sentence_jp": "A：ご注文はお決まりですか。B：はい、私はカレーライスにすることにします。コーヒーも付けてください。",
-    "sentence_furigana": "A：ご注文はお決まりですか。B：はい、私はカレーライスにすることにします。コーヒーも付けてください。",
-    "sentence_en": "A: Are you ready to order? B: Yes, I'll decide on the curry and rice. Please include a coffee too.",
-    "question": "A：ご注文はお決まりですか。B：はい、私はカレーライスに（　　　）。コーヒーも付けてください。",
+    "sentence_jp": "どの料理にするか迷いましたが、やっぱりカレーライスを食べることにしました。",
+    "sentence_furigana": "どのりょうりにするかまよいましたが、やっぱりカレーライスをたべることにしました。",
+    "sentence_en": "I wasn't sure which dish to get, but I decided to eat curry and rice after all.",
+    "question": "どの料理にするか迷いましたが、やっぱりカレーライスを（　　　）。",
     "choices": [
-      "することにします",
-      "するようにします",
-      "したことにします",
-      "することになります"
+      "食べることにしました",
+      "食べるようにしました",
+      "食べたことにしました",
+      "食べることになりました"
     ],
     "answer": 0,
-    "correct_text": "することにします",
+    "correct_text": "食べることにしました",
     "notes": "その<ruby>場<rt>ば</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>宣言<rt>せんげん</rt></ruby>しているので、「することにします」（または<ruby>名詞<rt>めいし</rt></ruby>＋にします）を<ruby>使<rt>つか</rt></ruby>います。 / Making a decision on the spot uses することにします.",
-    "question_ruby": "A：ご<ruby>注文<rt>ちゅうもん</rt></ruby>はお<ruby>決<rt>き</rt></ruby>まりですか。<br>B：はい、<ruby>私<rt>わたし</rt></ruby>はカレーライスに（　　　）。コーヒーも<ruby>付<rt>つ</rt></ruby>けてください。",
-    "sentence_jp_ruby": "A：ご<ruby>注文<rt>ちゅうもん</rt></ruby>はお<ruby>決<rt>き</rt></ruby>まりですか。<br>B：はい、<ruby>私<rt>わたし</rt></ruby>はカレーライスにすることにします。コーヒーも<ruby>付<rt>つ</rt></ruby>けてください。",
+    "question_ruby": "どの<ruby>料理<rt>りょうり</rt></ruby>にするか<ruby>迷<rt>まよ</rt></ruby>いましたが、やっぱりカレーライスを（　　　）。",
+    "sentence_jp_ruby": "どの<ruby>料理<rt>りょうり</rt></ruby>にするか<ruby>迷<rt>まよ</rt></ruby>いましたが、やっぱりカレーライスを<ruby>食<rt>た</rt></ruby>べることにしました。",
     "choices_ruby": [
-      "することにします",
-      "するようにします",
-      "したことにします",
-      "することになります"
+      "<ruby>食<rt>た</rt></ruby>べることにしました",
+      "<ruby>食<rt>た</rt></ruby>べるようにしました",
+      "<ruby>食<rt>た</rt></ruby>べたことにしました",
+      "<ruby>食<rt>た</rt></ruby>べることになりました"
     ],
     "correct_text_ruby": "することにします"
   },
@@ -1509,7 +1509,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "decide to do ~ (personal decision)",
     "similar": "ことになる、ようにする、つもりだ",
     "sentence_jp": "体のために、先月からエレベーターに乗らないことにしています。",
-    "sentence_furigana": "体のために、先月からエレベーターに乗らないことにしています。",
+    "sentence_furigana": "からだのために、せんげつからエレベーターにのらないことにしています。",
     "sentence_en": "For the sake of my health, since last month I have made it a rule not to take the elevator.",
     "question": "体のために、先月からエレベーターに（　　　）。",
     "choices": [
@@ -1539,7 +1539,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "decide to do ~ (personal decision)",
     "similar": "ことになる、ようにする、つもりだ",
     "sentence_jp": "雨がひどくなってきたので、今日のサッカーの練習には行かないことにしました。",
-    "sentence_furigana": "雨がひどくなってきたので、今日のサッカーの練習には行かないことにしました。",
+    "sentence_furigana": "あめがひどくなってきたので、きょうのサッカーのれんしゅうにはいかないことにしました。",
     "sentence_en": "Because the rain got heavy, I decided not to go to today's soccer practice.",
     "question": "雨がひどくなってきたので、今日のサッカーの練習には（　　　）。",
     "choices": [
@@ -1569,7 +1569,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it has been decided that ~; it turns out that ~",
     "similar": "ことにする、ようになる、予定だ",
     "sentence_jp": "来月から、会社の新しい事務所で働くことになりました。",
-    "sentence_furigana": "来月から、会社の新しい事務所で働くことになりました。",
+    "sentence_furigana": "らいげつから、かいしゃのあたらしいじむしょではたらくことになりました。",
     "sentence_en": "It has been decided that I will work at the company's new office starting next month.",
     "question": "来月から、会社の新しい事務所で（　　　）。",
     "choices": [
@@ -1599,7 +1599,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it has been decided that ~; it turns out that ~",
     "similar": "ことにする、ようになる、予定だ",
     "sentence_jp": "この学校では、教室の中では日本語しか話さないことになっています。",
-    "sentence_furigana": "この学校では、教室の中では日本語しか話さないことになっています。",
+    "sentence_furigana": "このがっこうでは、きょうしつのなかではにほんごしかはなさないことになっています。",
     "sentence_en": "At this school, it is the rule to speak only Japanese inside the classroom.",
     "question": "この学校では、教室の中では日本語しか（　　　）。",
     "choices": [
@@ -1629,25 +1629,25 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "it has been decided that ~; it turns out that ~",
     "similar": "ことにする、ようになる、予定だ",
     "sentence_jp": "みんなで話し合った結果、今度のパーティーは来週の土曜日に開くことになりました。",
-    "sentence_furigana": "みんなで話し合った結果、今度のパーティーは来週の土曜日に開くことになりました。",
-    "sentence_en": "As a result of discussing it together, it was decided to hold the upcoming party next Saturday.",
+    "sentence_furigana": "みんなではなしあったけっか、こんどのパーティーはらいしゅうのどようびにひらくことになりました。",
+    "sentence_en": "As a result of everyone discussing it, it has been decided that the next party will be held next Saturday.",
     "question": "みんなで話し合った結果、今度のパーティーは来週の土曜日に（　　　）。",
     "choices": [
       "開くことになりました",
       "開くようにしました",
       "開いたことになりました",
-      "開くことにしました"
+      "開くようになりました"
     ],
     "answer": 0,
     "correct_text": "開くことになりました",
     "notes": "「みんなで<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>」<ruby>決<rt>き</rt></ruby>まったことなので、「<ruby>開<rt>ひら</rt></ruby>くことになりました」が<ruby>自然<rt>しぜん</rt></ruby>です。 / An outcome reached through group discussion takes 〜ことになりました.",
-    "question_ruby": "みんなで<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に（　　　）。",
-    "sentence_jp_ruby": "みんなで<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>くことになりました。",
+    "question_ruby": "みんなで<ruby>話し合<rt>はなしあ</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に（　　　）。",
+    "sentence_jp_ruby": "みんなで<ruby>話し合<rt>はなしあ</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>今度<rt>こんど</rt></ruby>のパーティーは<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>くことになりました。",
     "choices_ruby": [
       "<ruby>開<rt>ひら</rt></ruby>くことになりました",
       "<ruby>開<rt>ひら</rt></ruby>くようにしました",
       "<ruby>開<rt>ひら</rt></ruby>いたことになりました",
-      "<ruby>開<rt>ひら</rt></ruby>くことにしました"
+      "<ruby>開<rt>ひら</rt></ruby>くようになりました"
     ],
     "correct_text_ruby": "<ruby>開<rt>ひら</rt></ruby>くことになりました"
   },
@@ -1658,10 +1658,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "ことになる",
     "meaning_en": "it has been decided that ~; it turns out that ~",
     "similar": "ことにする、ようになる、予定だ",
-    "sentence_jp": "台風が近づいているため、明日の運動会は中止することになりました。",
-    "sentence_furigana": "台風が近づいているため、明日の運動会は中止することになりました。",
-    "sentence_en": "Because a typhoon is approaching, it has been decided to cancel tomorrow's sports day.",
-    "question": "台風が近づいているため、明日の運動会は（　　　）。",
+    "sentence_jp": "学校からの連絡によると、台風が近づいているため、明日の運動会は中止することになりました。",
+    "sentence_furigana": "がっこうからのれんらくによると、たいふうがちかづいているため、あしたのうんどうかいはちゅうしすることになりました。",
+    "sentence_en": "According to the notice from the school, tomorrow's sports day has been canceled because a typhoon is approaching.",
+    "question": "学校からの連絡によると、台風が近づいているため、明日の運動会は（　　　）。",
     "choices": [
       "中止することにしました",
       "中止してなりました",
@@ -1671,8 +1671,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "中止することになりました",
     "notes": "<ruby>行事<rt>ぎょうじ</rt></ruby>の<ruby>中止<rt>ちゅうし</rt></ruby>という<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>なので、「<ruby>中止<rt>ちゅうし</rt></ruby>することになりました」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Reporting an official cancellation uses 中止することになりました.",
-    "question_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいているため、<ruby>明日<rt>あした</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は（　　　）。",
-    "sentence_jp_ruby": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいているため、<ruby>明日<rt>あした</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>することになりました。",
+    "question_ruby": "<ruby>学校<rt>がっこう</rt></ruby>からの<ruby>連絡<rt>れんらく</rt></ruby>によると、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいているため、<ruby>明日<rt>あした</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は（　　　）。",
+    "sentence_jp_ruby": "<ruby>学校<rt>がっこう</rt></ruby>からの<ruby>連絡<rt>れんらく</rt></ruby>によると、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいているため、<ruby>明日<rt>あした</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>することになりました。",
     "choices_ruby": [
       "<ruby>中止<rt>ちゅうし</rt></ruby>することにしました",
       "<ruby>中止<rt>ちゅうし</rt></ruby>してなりました",
@@ -1688,10 +1688,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "てみる",
     "meaning_en": "try doing ~ (to see what it's like)",
     "similar": "ようにする、ようとする",
-    "sentence_jp": "すいません、このズボンを履いてみてもいいですか。",
-    "sentence_furigana": "すいません、このズボンを履いてみてもいいですか。",
+    "sentence_jp": "すみません、このズボンを履いてみてもいいですか。",
+    "sentence_furigana": "すみません、このズボンをはいてみてもいいですか。",
     "sentence_en": "Excuse me, may I try on these pants?",
-    "question": "すいません、このズボンを（　　　）もいいですか。",
+    "question": "すみません、このズボンを（　　　）もいいですか。",
     "choices": [
       "履いたみて",
       "履いてみて",
@@ -1701,8 +1701,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "履いてみて",
     "notes": "<ruby>店<rt>みせ</rt></ruby>でサイズが<ruby>合<rt>あ</rt></ruby>うか『<ruby>試<rt>ため</rt></ruby>しに<ruby>履<rt>は</rt></ruby>く』ときは、「て<ruby>形<rt>けい</rt></ruby>＋みる」を<ruby>使<rt>つか</rt></ruby>って「<ruby>履<rt>は</rt></ruby>いてみてもいいですか」と<ruby>言<rt>い</rt></ruby>います。 / To ask 'may I try them on?', combine てみる with てもいいですか: 履いてみてもいいですか.",
-    "question_ruby": "すいません、このズボンを（　　　）もいいですか。",
-    "sentence_jp_ruby": "すいません、このズボンを<ruby>履<rt>は</rt></ruby>いてみてもいいですか。",
+    "question_ruby": "すみません、このズボンを（　　　）もいいですか。",
+    "sentence_jp_ruby": "すみません、このズボンを<ruby>履<rt>は</rt></ruby>いてみてもいいですか。",
     "choices_ruby": [
       "<ruby>履<rt>は</rt></ruby>いたみて",
       "<ruby>履<rt>は</rt></ruby>いてみて",
@@ -1719,7 +1719,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "try doing ~ (to see what it's like)",
     "similar": "ようにする、ようとする",
     "sentence_jp": "初めてケーキを作りました。よかったら、一つ食べてみてください。",
-    "sentence_furigana": "初めてケーキを作りました。よかったら、一つ食べてみてください。",
+    "sentence_furigana": "はじめてケーキをつくりました。よかったら、ひとつたべてみてください。",
     "sentence_en": "I made a cake for the first time. If you like, please try eating one.",
     "question": "初めてケーキを作りました。よかったら、一つ（　　　）ください。",
     "choices": [
@@ -1749,7 +1749,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "try doing ~ (to see what it's like)",
     "similar": "ようにする、ようとする",
     "sentence_jp": "彼が今家にいるかどうか分からないけれど、とりあえず電話をかけてみます。",
-    "sentence_furigana": "彼が今家にいるかどうか分からないけれど、とりあえず電話をかけてみます。",
+    "sentence_furigana": "かれがいまいえにいるかどうかわからないけれど、とりあえずでんわをかけてみます。",
     "sentence_en": "I don't know whether he is home right now, but I'll try calling him for now.",
     "question": "彼が今家にいるかどうか分からないけれど、とりあえず電話を（　　　）。",
     "choices": [
@@ -1779,7 +1779,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "try doing ~ (to see what it's like)",
     "similar": "ようにする、ようとする",
     "sentence_jp": "インターネットで調べても分からなかったので、図書館の人に聞いてみました。",
-    "sentence_furigana": "インターネットで調べても分からなかったので、図書館の人に聞いてみました。",
+    "sentence_furigana": "インターネットでしらべてもわからなかったので、としょかんのひとにきいてみました。",
     "sentence_en": "Since I couldn't figure it out even after looking it up on the internet, I tried asking the librarian.",
     "question": "インターネットで調べても分からなかったので、図書館の人に（　　　）。",
     "choices": [
@@ -1809,7 +1809,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish completely; do ~ by mistake / regrettably",
     "similar": "ておく、てある、すぎる",
     "sentence_jp": "急いでいたので、家に財布を忘れてしまいました。",
-    "sentence_furigana": "急いでいたので、家に財布を忘れてしまいました。",
+    "sentence_furigana": "いそいでいたので、いえにさいふをわすれてしまいました。",
     "sentence_en": "Because I was in a hurry, I accidentally left my wallet at home.",
     "question": "急いでいたので、家に財布を（　　　）。",
     "choices": [
@@ -1839,7 +1839,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish completely; do ~ by mistake / regrettably",
     "similar": "ておく、てある、すぎる",
     "sentence_jp": "このケーキはとてもおいしかったので、一人で全部食べてしまいました。",
-    "sentence_furigana": "このケーキはとてもおいしかったので、一人で全部食べてしまいました。",
+    "sentence_furigana": "このケーキはとてもおいしかったので、ひとりでぜんぶたべてしまいました。",
     "sentence_en": "Because this cake was so delicious, I ate the whole thing by myself.",
     "question": "このケーキはとてもおいしかったので、一人で全部（　　　）。",
     "choices": [
@@ -1869,7 +1869,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish completely; do ~ by mistake / regrettably",
     "similar": "ておく、てある、すぎる",
     "sentence_jp": "朝寝坊をして、いつもの電車に乗り遅れてしまった。",
-    "sentence_furigana": "朝寝坊をして、いつもの電車に乗り遅れてしまった。",
+    "sentence_furigana": "あさねぼうをして、いつものでんしゃにのりおくれてしまった。",
     "sentence_en": "I overslept and ended up missing my usual train.",
     "question": "朝寝坊をして、いつもの電車に（　　　）。",
     "choices": [
@@ -1898,10 +1898,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "てしまう",
     "meaning_en": "finish completely; do ~ by mistake / regrettably",
     "similar": "ておく、てある、すぎる",
-    "sentence_jp": "お父さんの大切なカメラを壊してしまった、どうしよう。",
-    "sentence_furigana": "お父さんの大切なカメラを壊してしまった、どうしよう。",
-    "sentence_en": "I accidentally broke my father's precious camera—what should I do?",
-    "question": "お父さんの大切なカメラを壊して（　　　）、どうしよう。",
+    "sentence_jp": "お父さんの大切なカメラを壊してしまった。どうしよう。",
+    "sentence_furigana": "おとうさんのたいせつなカメラをこわしてしまった。どうしよう。",
+    "sentence_en": "I broke my dad's precious camera. What should I do?",
+    "question": "お父さんの大切なカメラを壊して（　　　）。どうしよう。",
     "choices": [
       "あった",
       "しまった",
@@ -1911,8 +1911,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "しまった",
     "notes": "「<ruby>壊<rt>こわ</rt></ruby>して＋しまった」で『うっかり<ruby>壊<rt>こわ</rt></ruby>してしまった（<ruby>後悔<rt>こうかい</rt></ruby>）』を<ruby>表<rt>あらわ</rt></ruby>します。 / 壊してしまった expresses accidentally breaking something and regretting it.",
-    "question_ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>大切<rt>たいせつ</rt></ruby>なカメラを<ruby>壊<rt>こわ</rt></ruby>して（　　　）、どうしよう。",
-    "sentence_jp_ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>大切<rt>たいせつ</rt></ruby>なカメラを<ruby>壊<rt>こわ</rt></ruby>してしまった、どうしよう。",
+    "question_ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>大切<rt>たいせつ</rt></ruby>なカメラを<ruby>壊<rt>こわ</rt></ruby>して（　　　）。どうしよう。",
+    "sentence_jp_ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>大切<rt>たいせつ</rt></ruby>なカメラを<ruby>壊<rt>こわ</rt></ruby>してしまった。どうしよう。",
     "choices_ruby": [
       "あった",
       "しまった",
@@ -1929,7 +1929,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do ~ in advance (as preparation); leave ~ as is",
     "similar": "てある、てしまう、てみる",
     "sentence_jp": "午後から友達が遊びに来るので、お菓子とジュースを買っておきます。",
-    "sentence_furigana": "午後から友達が遊びに来るので、お菓子とジュースを買っておきます。",
+    "sentence_furigana": "ごごからともだちがあそびにくるので、おかしとジュースをかっておきます。",
     "sentence_en": "Since my friends are coming over this afternoon, I will buy snacks and juice in advance.",
     "question": "午後から友達が遊びに来るので、お菓子とジュースを（　　　）。",
     "choices": [
@@ -1959,7 +1959,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do ~ in advance (as preparation); leave ~ as is",
     "similar": "てある、てしまう、てみる",
     "sentence_jp": "次の会議までに、この資料を必ず読んでおいてください。",
-    "sentence_furigana": "次の会議までに、この資料を必ず読んでおいてください。",
+    "sentence_furigana": "つぎのかいぎまでに、このしりょうをかならずよんでおいてください。",
     "sentence_en": "Please be sure to read this material in advance before the next meeting.",
     "question": "次の会議までに、この資料を必ず（　　　）ください。",
     "choices": [
@@ -1989,7 +1989,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do ~ in advance (as preparation); leave ~ as is",
     "similar": "てある、てしまう、てみる",
     "sentence_jp": "まだ使うから、ハサミはそこに出しておいてね。",
-    "sentence_furigana": "まだ使うから、ハサミはそこに出しておいてね。",
+    "sentence_furigana": "まだつかうから、ハサミはそこにだしておいてね。",
     "sentence_en": "I'm still going to use the scissors, so leave them out right there, okay?",
     "question": "まだ使うから、ハサミはそこに（　　　）ね。",
     "choices": [
@@ -2019,7 +2019,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do ~ in advance (as preparation); leave ~ as is",
     "similar": "てある、てしまう、てみる",
     "sentence_jp": "忘れないうちに、約束の時間を手帳に書いておきましょう。",
-    "sentence_furigana": "忘れないうちに、約束の時間を手帳に書いておきましょう。",
+    "sentence_furigana": "わすれないうちに、やくそくのじかんをてちょうにかいておきましょう。",
     "sentence_en": "Let's write the appointment time down in our planner before we forget.",
     "question": "忘れないうちに、約束の時間を手帳に（　　　）ましょう。",
     "choices": [
@@ -2049,7 +2049,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "has been done (resulting state of an intentional action)",
     "similar": "ておく、ている（自動詞）",
     "sentence_jp": "机の上に、きれいな花が飾ってあります。",
-    "sentence_furigana": "机の上に、きれいな花が飾ってあります。",
+    "sentence_furigana": "つくえのうえに、きれいなはながかざってあります。",
     "sentence_en": "Beautiful flowers have been arranged on the desk.",
     "question": "机の上に、きれいな花が（　　　）。",
     "choices": [
@@ -2079,7 +2079,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "has been done (resulting state of an intentional action)",
     "similar": "ておく、ている（自動詞）",
     "sentence_jp": "A：旅行の切符はどうしましたか。B：心配しないでください。もう買ってありますよ。",
-    "sentence_furigana": "A：旅行の切符はどうしましたか。B：心配しないでください。もう買ってありますよ。",
+    "sentence_furigana": "A：りょこうのきっぷはどうしましたか。B：しんぱいしないでください。もうかってありますよ。",
     "sentence_en": "A: What did you do about the tickets for the trip? B: Don't worry. They've already been bought.",
     "question": "A：旅行の切符はどうしましたか。B：心配しないでください。もう（　　　）よ。",
     "choices": [
@@ -2109,7 +2109,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "has been done (resulting state of an intentional action)",
     "similar": "ておく、ている（自動詞）",
     "sentence_jp": "このノートには大切なことがたくさん書いてあるから、なくさないでね。",
-    "sentence_furigana": "このノートには大切なことがたくさん書いてあるから、なくさないでね。",
+    "sentence_furigana": "このノートにはたいせつなことがたくさんかいてあるから、なくさないでね。",
     "sentence_en": "A lot of important things are written in this notebook, so don't lose it.",
     "question": "このノートには大切なことがたくさん（　　　）から、なくさないでね。",
     "choices": [
@@ -2139,7 +2139,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "has been done (resulting state of an intentional action)",
     "similar": "ておく、ている（自動詞）",
     "sentence_jp": "暑いでしょう。冷蔵庫に麦茶が冷やしてありますから、どうぞ飲んでください。",
-    "sentence_furigana": "暑いでしょう。冷蔵庫に麦茶が冷やしてありますから、どうぞ飲んでください。",
+    "sentence_furigana": "あついでしょう。れいぞうこにむぎちゃがひやしてありますから、どうぞのんでください。",
     "sentence_en": "You must be hot. Barley tea has been chilled in the refrigerator, so please go ahead and drink some.",
     "question": "暑いでしょう。冷蔵庫に麦茶が（　　　）から、どうぞ飲んでください。",
     "choices": [
@@ -2169,7 +2169,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do things like ~ and ~ (representative actions)",
     "similar": "し〜し、とか〜とか",
     "sentence_jp": "昨日の日曜日は、本を読んだり、テレビを見たりしました。",
-    "sentence_furigana": "昨日の日曜日は、本を読んだり、テレビを見たりしました。",
+    "sentence_furigana": "きのうのにちようびは、ほんをよんだり、テレビをみたりしました。",
     "sentence_en": "Last Sunday, I did things like reading books and watching TV.",
     "question": "昨日の日曜日は、本を読んだり、テレビを（　　　）しました。",
     "choices": [
@@ -2199,7 +2199,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do things like ~ and ~ (representative actions)",
     "similar": "し〜し、とか〜とか",
     "sentence_jp": "夏休みは、海で泳いだり、山に登ったりしたいです。",
-    "sentence_furigana": "夏休みは、海で泳いだり、山に登ったりしたいです。",
+    "sentence_furigana": "なつやすみは、うみでおよいだり、やまにのぼったりしたいです。",
     "sentence_en": "During summer vacation, I want to do things like swimming in the sea and climbing mountains.",
     "question": "夏休みは、海で（　　　）、山に登ったりしたいです。",
     "choices": [
@@ -2229,7 +2229,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do things like ~ and ~ (representative actions)",
     "similar": "し〜し、とか〜とか",
     "sentence_jp": "飛行機のチケットは、季節によって高かったり、安かったりします。",
-    "sentence_furigana": "飛行機のチケットは、季節によって高かったり、安かったりします。",
+    "sentence_furigana": "ひこうきのチケットは、きせつによってたかかったり、やすかったりします。",
     "sentence_en": "Airplane tickets are sometimes expensive and sometimes cheap depending on the season.",
     "question": "飛行機のチケットは、季節によって高かったり、（　　　）します。",
     "choices": [
@@ -2259,7 +2259,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do things like ~ and ~ (representative actions)",
     "similar": "し〜し、とか〜とか",
     "sentence_jp": "パーティーでは、みんなで歌を歌ったり、ダンスをしたりしました。",
-    "sentence_furigana": "パーティーでは、みんなで歌を歌ったり、ダンスをしたりしました。",
+    "sentence_furigana": "パーティーでは、みんなでうたをうたったり、ダンスをしたりしました。",
     "sentence_en": "At the party, everyone did things like singing songs and dancing.",
     "question": "パーティーでは、みんなで歌を歌ったり、ダンスをしたり（　　　）。",
     "choices": [
@@ -2289,7 +2289,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~ but also ~; because ~ and ~",
     "similar": "から、ので、たり〜たりする",
     "sentence_jp": "このレストランは料理もおいしいし、値段も安いから、よく行きます。",
-    "sentence_furigana": "このレストランは料理もおいしいし、値段も安いから、よく行きます。",
+    "sentence_furigana": "このレストランはりょうりもおいしいし、ねだんもやすいから、よくいきます。",
     "sentence_en": "Not only is the food at this restaurant delicious, the prices are cheap too, so I go there often.",
     "question": "このレストランは料理もおいしい（　　　）、値段も安いから、よく行きます。",
     "choices": [
@@ -2319,7 +2319,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~ but also ~; because ~ and ~",
     "similar": "から、ので、たり〜たりする",
     "sentence_jp": "駅から近いし、便利だし、このマンションを借りることにしました。",
-    "sentence_furigana": "駅から近いし、便利だし、このマンションを借りることにしました。",
+    "sentence_furigana": "えきからちかいし、べんりだし、このマンションをかりることにしました。",
     "sentence_en": "It's close to the station and convenient too, so I decided to rent this apartment.",
     "question": "駅から近いし、（　　　）、このマンションを借りることにしました。",
     "choices": [
@@ -2349,7 +2349,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~ but also ~; because ~ and ~",
     "similar": "から、ので、たり〜たりする",
     "sentence_jp": "今日は風も強いし、外も寒いし、家でゆっくりしましょう。",
-    "sentence_furigana": "今日は風も強いし、外も寒いし、家でゆっくりしましょう。",
+    "sentence_furigana": "きょうはかぜもつよいし、そともさむいし、いえでゆっくりしましょう。",
     "sentence_en": "The wind is strong today and it's cold outside too, so let's relax at home.",
     "question": "今日は風も強いし、外も（　　　）、家でゆっくりしましょう。",
     "choices": [
@@ -2379,7 +2379,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "not only ~ but also ~; because ~ and ~",
     "similar": "から、ので、たり〜たりする",
     "sentence_jp": "彼はスポーツもできるし、歌も上手で、クラスで人気があります。",
-    "sentence_furigana": "彼はスポーツもできるし、歌も上手で、クラスで人気があります。",
+    "sentence_furigana": "かれはスポーツもできるし、うたもじょうずで、クラスでにんきがあります。",
     "sentence_en": "He can play sports and is good at singing too, so he is popular in class.",
     "question": "彼はスポーツも（　　　）、歌も上手で、クラスで人気があります。",
     "choices": [
@@ -2409,7 +2409,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; since (polite / objective reason)",
     "similar": "から、し、ために",
     "sentence_jp": "今日は日曜日なので、銀行は閉まっています。",
-    "sentence_furigana": "今日は日曜日なので、銀行は閉まっています。",
+    "sentence_furigana": "きょうはにちようびなので、ぎんこうはしまっています。",
     "sentence_en": "Since today is Sunday, the bank is closed.",
     "question": "今日は日曜日（　　　）、銀行は閉まっています。",
     "choices": [
@@ -2439,7 +2439,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; since (polite / objective reason)",
     "similar": "から、し、ために",
     "sentence_jp": "このかばんは軽くて便利なので、毎日使っています。",
-    "sentence_furigana": "このかばんは軽くて便利なので、毎日使っています。",
+    "sentence_furigana": "このかばんはかるくてべんりなので、まいにちつかっています。",
     "sentence_en": "Since this bag is light and convenient, I use it every day.",
     "question": "このかばんは軽くて（　　　）、毎日使っています。",
     "choices": [
@@ -2469,13 +2469,13 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; since (polite / objective reason)",
     "similar": "から、し、ために",
     "sentence_jp": "荷物が重くて大変なので、少し手伝っていただけませんか。",
-    "sentence_furigana": "荷物が重くて大変なので、少し手伝っていただけませんか。",
-    "sentence_en": "Since the luggage is heavy and hard to carry, could you please help me a little?",
+    "sentence_furigana": "にもつがおもくてたいへんなので、すこしてつだっていただけませんか。",
+    "sentence_en": "The luggage is heavy and hard to carry, so could you please help me a little?",
     "question": "荷物が重くて大変（　　　）、少し手伝っていただけませんか。",
     "choices": [
       "なのに",
       "だので",
-      "だから",
+      "なから",
       "なので"
     ],
     "answer": 3,
@@ -2486,7 +2486,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "choices_ruby": [
       "なのに",
       "だので",
-      "だから",
+      "なから",
       "なので"
     ],
     "correct_text_ruby": "なので"
@@ -2499,7 +2499,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "because; since (polite / objective reason)",
     "similar": "から、し、ために",
     "sentence_jp": "外がだんだん暗くなってきたので、早く家に帰りましょう。",
-    "sentence_furigana": "外がだんだん暗くなってきたので、早く家に帰りましょう。",
+    "sentence_furigana": "そとがだんだんくらくなってきたので、はやくいえにかえりましょう。",
     "sentence_en": "Since it has started getting dark outside, let's go home early.",
     "question": "外がだんだん（　　　）ので、早く家に帰りましょう。",
     "choices": [
@@ -2529,7 +2529,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; even though; despite",
     "similar": "けれども、ても、ながら",
     "sentence_jp": "目覚まし時計をセットしたのに、今朝は起きられませんでした。",
-    "sentence_furigana": "目覚まし時計をセットしたのに、今朝は起きられませんでした。",
+    "sentence_furigana": "めざましどけいをセットしたのに、けさはおきられませんでした。",
     "sentence_en": "Even though I set my alarm clock, I couldn't wake up this morning.",
     "question": "目覚まし時計をセットした（　　　）、今朝は起きられませんでした。",
     "choices": [
@@ -2559,7 +2559,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; even though; despite",
     "similar": "けれども、ても、ながら",
     "sentence_jp": "このカメラは操作が簡単なのに、とてもきれいな写真が撮れます。",
-    "sentence_furigana": "このカメラは操作が簡単なのに、とてもきれいな写真が撮れます。",
+    "sentence_furigana": "このカメラはそうさがかんたんなのに、とてもきれいなしゃしんがとれます。",
     "sentence_en": "Even though this camera is easy to operate, it takes very beautiful photos.",
     "question": "このカメラは操作が（　　　）、とてもきれいな写真が撮れます。",
     "choices": [
@@ -2589,7 +2589,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; even though; despite",
     "similar": "けれども、ても、ながら",
     "sentence_jp": "今日は平日なのに、この店にはお客さんがたくさんいます。",
-    "sentence_furigana": "今日は平日なのに、この店にはお客さんがたくさんいます。",
+    "sentence_furigana": "きょうはへいじつなのに、このみせにはおきゃくさんがたくさんいます。",
     "sentence_en": "Even though today is a weekday, there are many customers in this shop.",
     "question": "今日は（　　　）、この店にはお客さんがたくさんいます。",
     "choices": [
@@ -2619,7 +2619,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "although; even though; despite",
     "similar": "けれども、ても、ながら",
     "sentence_jp": "エアコンをつけているのに、部屋がぜんぜん涼しくなりません。",
-    "sentence_furigana": "エアコンをつけているのに、部屋がぜんぜん涼しくなりません。",
+    "sentence_furigana": "エアコンをつけているのに、へやがぜんぜんすずしくなりません。",
     "sentence_en": "Even though I have the air conditioner on, the room isn't getting cool at all.",
     "question": "エアコンをつけている（　　　）、部屋がぜんぜん涼しくなりません。",
     "choices": [
@@ -2649,7 +2649,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether or not ~",
     "similar": "か（疑問詞＋か）",
     "sentence_jp": "この靴のサイズが合うかどうか、一度履いてみてもいいですか。",
-    "sentence_furigana": "この靴のサイズが合うかどうか、一度履いてみてもいいですか。",
+    "sentence_furigana": "このくつのサイズがあうかどうか、いちどはいてみてもいいですか。",
     "sentence_en": "May I try these shoes on once to see whether or not the size fits?",
     "question": "この靴のサイズが合う（　　　）、一度履いてみてもいいですか。",
     "choices": [
@@ -2679,7 +2679,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether or not ~",
     "similar": "か（疑問詞＋か）",
     "sentence_jp": "鈴木さんが明日暇かどうか、電話で聞いてみます。",
-    "sentence_furigana": "鈴木さんが明日暇かどうか、電話で聞いてみます。",
+    "sentence_furigana": "すずきさんがあしたひまかどうか、でんわできいてみます。",
     "sentence_en": "I'll ask Ms. Suzuki by phone whether or not she is free tomorrow.",
     "question": "鈴木さんが明日（　　　）、電話で聞いてみます。",
     "choices": [
@@ -2709,7 +2709,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether or not ~",
     "similar": "か（疑問詞＋か）",
     "sentence_jp": "漢字の書き方が正しいかどうか、辞書でチェックしました。",
-    "sentence_furigana": "漢字の書き方が正しいかどうか、辞書でチェックしました。",
+    "sentence_furigana": "かんじのかきかたがただしいかどうか、じしょでチェックしました。",
     "sentence_en": "I checked in the dictionary whether or not the way of writing the kanji was correct.",
     "question": "漢字の書き方が（　　　）、辞書でチェックしました。",
     "choices": [
@@ -2739,7 +2739,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whether or not ~",
     "similar": "か（疑問詞＋か）",
     "sentence_jp": "来月の旅行に参加するかどうか、金曜日までに返事をしてください。",
-    "sentence_furigana": "来月の旅行に参加するかどうか、金曜日までに返事をしてください。",
+    "sentence_furigana": "らいげつのりょこうにさんかするかどうか、きんようびまでにへんじをしてください。",
     "sentence_en": "Please reply by Friday as to whether or not you will participate in next month's trip.",
     "question": "来月の旅行に（　　　）、金曜日までに返事をしてください。",
     "choices": [
@@ -2769,7 +2769,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "looks like ~; appears ~; seems about to ~",
     "similar": "そうだ（伝聞）、らしい、みたいだ",
     "sentence_jp": "空が暗くなってきましたね。もうすぐ雨が降りそうです。",
-    "sentence_furigana": "空が暗くなってきましたね。もうすぐ雨が降りそうです。",
+    "sentence_furigana": "そらがくらくなってきましたね。もうすぐあめがふりそうです。",
     "sentence_en": "The sky has gotten dark, hasn't it? It looks like it's going to rain soon.",
     "question": "空が暗くなってきましたね。もうすぐ雨が（　　　）です。",
     "choices": [
@@ -2798,10 +2798,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "そうだ",
     "meaning_en": "looks like ~; appears ~; seems about to ~",
     "similar": "そうだ（伝聞）、らしい、みたいだ",
-    "sentence_jp": "このセーターは軽くて、とても頭から着やすくて具合がよさそうですね。",
-    "sentence_furigana": "このセーターは軽くて、とても頭から着やすくて具合がよさそうですね。",
-    "sentence_en": "This sweater is light and looks like it will feel very nice and comfortable to wear.",
-    "question": "このセーターは軽くて、とても頭から着やすくて具合が（　　　）ですね。",
+    "sentence_jp": "このセーターは軽くて暖かくて、とても着心地がよさそうですね。",
+    "sentence_furigana": "このセーターはかるくてあたたかくて、とてもきごこちがよさそうですね。",
+    "sentence_en": "This sweater is light and warm; it looks very comfortable to wear.",
+    "question": "このセーターは軽くて暖かくて、とても着心地が（　　　）ですね。",
     "choices": [
       "いいそう",
       "よいそう",
@@ -2811,8 +2811,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "よさそう",
     "notes": "「いい（よい）」に<ruby>様態<rt>ようたい</rt></ruby>の「そうだ」が<ruby>付<rt>つ</rt></ruby>くときは、<ruby>例外<rt>れいがい</rt></ruby>の「よさそう」になります。 / The irregular visual-impression form of いい is よさそう.",
-    "question_ruby": "このセーターは<ruby>軽<rt>かる</rt></ruby>くて、とても<ruby>頭<rt>あたま</rt></ruby>から<ruby>着<rt>き</rt></ruby>やすくて<ruby>具合<rt>ぐあい</rt></ruby>が（　　　）ですね。",
-    "sentence_jp_ruby": "このセーターは<ruby>軽<rt>かる</rt></ruby>くて、とても<ruby>頭<rt>あたま</rt></ruby>から<ruby>着<rt>き</rt></ruby>やすくて<ruby>具合<rt>ぐあい</rt></ruby>がよさそうですね。",
+    "question_ruby": "このセーターは<ruby>軽<rt>かる</rt></ruby>くて<ruby>暖<rt>あたた</rt></ruby>かくて、とても<ruby>着心地<rt>きごこち</rt></ruby>が（　　　）ですね。",
+    "sentence_jp_ruby": "このセーターは<ruby>軽<rt>かる</rt></ruby>くて<ruby>暖<rt>あたた</rt></ruby>かくて、とても<ruby>着心地<rt>きごこち</rt></ruby>がよさそうですね。",
     "choices_ruby": [
       "いいそう",
       "よいそう",
@@ -2829,7 +2829,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "looks like ~; appears ~; seems about to ~",
     "similar": "そうだ（伝聞）、らしい、みたいだ",
     "sentence_jp": "会議はもうすぐ終わりますから、時間はあまり問題がなさそうです。",
-    "sentence_furigana": "会議はもうすぐ終わりますから、時間はあまり問題がなさそうです。",
+    "sentence_furigana": "かいぎはもうすぐおわりますから、じかんはあまりもんだいがなさそうです。",
     "sentence_en": "The meeting will end soon, so there doesn't seem to be much of a time problem.",
     "question": "会議はもうすぐ終わりますから、時間はあまり問題が（　　　）です。",
     "choices": [
@@ -2859,7 +2859,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "looks like ~; appears ~; seems about to ~",
     "similar": "そうだ（伝聞）、らしい、みたいだ",
     "sentence_jp": "公園で子供たちが楽しそうに遊んでいます。",
-    "sentence_furigana": "公園で子供たちが楽しそうに遊んでいます。",
+    "sentence_furigana": "こうえんでこどもたちがたのしそうにあそんでいます。",
     "sentence_en": "The children are playing happily in the park.",
     "question": "公園で子供たちが（　　　）に遊んでいます。",
     "choices": [
@@ -2889,7 +2889,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "I heard that ~; they say that ~",
     "similar": "そうだ（様態）、らしい、ということだ",
     "sentence_jp": "天気予報によると、明日は一日中風が強いそうです。",
-    "sentence_furigana": "天気予報によると、明日は一日中風が強いそうです。",
+    "sentence_furigana": "てんきよほうによると、あしたはいちにちじゅうかぜがつよいそうです。",
     "sentence_en": "According to the weather forecast, the wind will be strong all day tomorrow.",
     "question": "天気予報によると、明日は一日中風が（　　　）そうです。",
     "choices": [
@@ -2919,7 +2919,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "I heard that ~; they say that ~",
     "similar": "そうだ（様態）、らしい、ということだ",
     "sentence_jp": "佐藤さんから聞いたんですが、林さんは来月大阪へ引っ越すそうです。",
-    "sentence_furigana": "佐藤さんから聞いたんですが、林さんは来月大阪へ引っ越すそうです。",
+    "sentence_furigana": "さとうさんからきいたんですが、はやしさんはらいげつおおさかへひっこすそうです。",
     "sentence_en": "I heard from Ms. Sato that Mr. Hayashi is moving to Osaka next month.",
     "question": "佐藤さんから聞いたんですが、林さんは来月大阪へ（　　　）そうです。",
     "choices": [
@@ -2949,7 +2949,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "I heard that ~; they say that ~",
     "similar": "そうだ（様態）、らしい、ということだ",
     "sentence_jp": "友達の話では、駅の前にできたパン屋はとても人気だそうです。",
-    "sentence_furigana": "友達の話では、駅の前にできたパン屋はとても人気だそうです。",
+    "sentence_furigana": "ともだちのはなしでは、えきのまえにできたパンやはとてもにんきだそうです。",
     "sentence_en": "According to my friend, the bakery that opened in front of the station is very popular.",
     "question": "友達の話では、駅の前にできたパン屋はとても（　　　）そうです。",
     "choices": [
@@ -2979,7 +2979,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "I heard that ~; they say that ~",
     "similar": "そうだ（様態）、らしい、ということだ",
     "sentence_jp": "けさの新聞によると、昨日のサッカーの試合は日本が勝ったそうです。",
-    "sentence_furigana": "けさの新聞によると、昨日のサッカーの試合は日本が勝ったそうです。",
+    "sentence_furigana": "けさのしんぶんによると、きのうのサッカーのしあいはにほんがかったそうです。",
     "sentence_en": "According to this morning's newspaper, Japan won yesterday's soccer match.",
     "question": "けさの新聞によると、昨日のサッカーの試合は日本が（　　　）そうです。",
     "choices": [
@@ -3009,7 +3009,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seems that ~ (based on information/evidence); typical of ~",
     "similar": "そうだ（伝聞）、ようだ、みたいだ",
     "sentence_jp": "隣の部屋は電気が消えていますね。まだ誰も帰っていないらしいです。",
-    "sentence_furigana": "隣の部屋は電気が消えていますね。まだ誰も帰っていないらしいです。",
+    "sentence_furigana": "となりのへやはでんきがきえていますね。まだだれもかえっていないらしいです。",
     "sentence_en": "The lights in the next room are off. It seems nobody has come home yet.",
     "question": "隣の部屋は電気が消えていますね。まだ誰も帰っていない（　　　）です。",
     "choices": [
@@ -3039,7 +3039,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seems that ~ (based on information/evidence); typical of ~",
     "similar": "そうだ（伝聞）、ようだ、みたいだ",
     "sentence_jp": "山田さんは、かぜで今日の会議を休むらしいです。",
-    "sentence_furigana": "山田さんは、かぜで今日の会議を休むらしいです。",
+    "sentence_furigana": "やまださんは、かぜできょうのかいぎをやすむらしいです。",
     "sentence_en": "Apparently Mr. Yamada is absent from today's meeting with a cold.",
     "question": "山田さんは、かぜで今日の会議を（　　　）らしいです。",
     "choices": [
@@ -3069,7 +3069,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seems that ~ (based on information/evidence); typical of ~",
     "similar": "そうだ（伝聞）、ようだ、みたいだ",
     "sentence_jp": "この町は緑が多くて、とても静からしいですよ。",
-    "sentence_furigana": "この町は緑が多くて、とても静からしいですよ。",
+    "sentence_furigana": "このまちはみどりがおおくて、とてもしずからしいですよ。",
     "sentence_en": "I hear this town has lots of greenery and is very quiet.",
     "question": "この町は緑が多くて、とても（　　　）らしいですよ。",
     "choices": [
@@ -3099,7 +3099,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "seems that ~ (based on information/evidence); typical of ~",
     "similar": "そうだ（伝聞）、ようだ、みたいだ",
     "sentence_jp": "このピンクのワンピースは、いつも明るい高橋さんらしくて、とても似合っていますね。",
-    "sentence_furigana": "このピンクのワンピースは、いつも明るい高橋さんらしくて、とても似合っていますね。",
+    "sentence_furigana": "このピンクのワンピースは、いつもあかるいたかはしさんらしくて、とてもにあっていますね。",
     "sentence_en": "This pink dress is so typical of the always-cheerful Ms. Takahashi and suits her very well.",
     "question": "このピンクのワンピースは、いつも明るい高橋さん（　　　）て、とても似合っていますね。",
     "choices": [
@@ -3129,7 +3129,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "might ~; maybe ~; perhaps ~",
     "similar": "だろう／でしょう、はずだ",
     "sentence_jp": "夕方から雨が降るかもしれませんから、傘を持っていきましょう。",
-    "sentence_furigana": "夕方から雨が降るかもしれませんから、傘を持っていきましょう。",
+    "sentence_furigana": "ゆうがたからあめがふるかもしれませんから、かさをもっていきましょう。",
     "sentence_en": "It might rain in the evening, so let's take an umbrella.",
     "question": "夕方から雨が（　　　）しれませんから、傘を持っていきましょう。",
     "choices": [
@@ -3158,10 +3158,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "かもしれない",
     "meaning_en": "might ~; maybe ~; perhaps ~",
     "similar": "だろう／でしょう、はずだ",
-    "sentence_jp": "この時計は古いので、時間が少し正確ではないかもしれません。",
-    "sentence_furigana": "この時計は古いので、時間が少し正確ではないかもしれません。",
-    "sentence_en": "Since this clock is old, the time might not be quite accurate.",
-    "question": "この時計は古いので、時間が少し（　　　）かもしれません。",
+    "sentence_jp": "この時計は古いので、あまり正確ではないかもしれません。",
+    "sentence_furigana": "このとけいはふるいので、あまりせいかくではないかもしれません。",
+    "sentence_en": "Since this clock is old, it might not be very accurate.",
+    "question": "この時計は古いので、あまり（　　　）かもしれません。",
     "choices": [
       "正確だ",
       "正確な",
@@ -3171,8 +3171,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "正確ではない",
     "notes": "<ruby>古<rt>ふる</rt></ruby>いので『<ruby>正確<rt>せいかく</rt></ruby>ではない<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>がある』という<ruby>文脈<rt>ぶんみゃく</rt></ruby>です。またナ<ruby>形容詞<rt>けいようし</rt></ruby><ruby>肯定<rt>こうてい</rt></ruby>でも「だ／な／です」は「かもしれません」の<ruby>前<rt>まえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りません。 / Fits both context ('not accurate') and grammar (da/na/desu cannot precede かもしれません).",
-    "question_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いので、<ruby>時間<rt>じかん</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し（　　　）かもしれません。",
-    "sentence_jp_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いので、<ruby>時間<rt>じかん</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>正確<rt>せいかく</rt></ruby>ではないかもしれません。",
+    "question_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いので、あまり（　　　）かもしれません。",
+    "sentence_jp_ruby": "この<ruby>時計<rt>とけい</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いので、あまり<ruby>正確<rt>せいかく</rt></ruby>ではないかもしれません。",
     "choices_ruby": [
       "<ruby>正確<rt>せいかく</rt></ruby>だ",
       "<ruby>正確<rt>せいかく</rt></ruby>な",
@@ -3189,7 +3189,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "might ~; maybe ~; perhaps ~",
     "similar": "だろう／でしょう、はずだ",
     "sentence_jp": "あそこにいるのは、中村さんの弟さんかもしれません。",
-    "sentence_furigana": "あそこにいるのは、中村さんの弟さんかもしれません。",
+    "sentence_furigana": "あそこにいるのは、なかむらさんのおとうとさんかもしれません。",
     "sentence_en": "The person over there might be Mr. Nakamura's younger brother.",
     "question": "あそこにいるのは、中村さんの（　　　）かもしれません。",
     "choices": [
@@ -3219,7 +3219,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "might ~; maybe ~; perhaps ~",
     "similar": "だろう／でしょう、はずだ",
     "sentence_jp": "夜は風が冷たいかもしれませんから、コートを着ていったほうがいいですよ。",
-    "sentence_furigana": "夜は風が冷たいかもしれませんから、コートを着ていったほうがいいですよ。",
+    "sentence_furigana": "よるはかぜがつめたいかもしれませんから、コートをきていったほうがいいですよ。",
     "sentence_en": "The wind might be cold at night, so you'd better wear a coat.",
     "question": "夜は風が（　　　）かもしれませんから、コートを着ていったほうがいいですよ。",
     "choices": [
@@ -3249,7 +3249,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "should be ~; is expected to ~ (logical expectation)",
     "similar": "はずがない、にちがいない、かもしれない",
     "sentence_jp": "先月予約したので、ホテルの部屋はちゃんと取れているはずです。",
-    "sentence_furigana": "先月予約したので、ホテルの部屋はちゃんと取れているはずです。",
+    "sentence_furigana": "せんげつよやくしたので、ホテルのへやはちゃんととれているはずです。",
     "sentence_en": "Since I made a reservation last month, the hotel room should be properly booked.",
     "question": "先月予約したので、ホテルの部屋はちゃんと（　　　）はずです。",
     "choices": [
@@ -3279,7 +3279,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "should be ~; is expected to ~ (logical expectation)",
     "similar": "はずがない、にちがいない、かもしれない",
     "sentence_jp": "鈴木さんは十年もアメリカに住んでいたので、英語が上手なはずです。",
-    "sentence_furigana": "鈴木さんは十年もアメリカに住んでいたので、英語が上手なはずです。",
+    "sentence_furigana": "すずきさんはじゅうねんもアメリカにすんでいたので、えいごがじょうずなはずです。",
     "sentence_en": "Since Ms. Suzuki lived in America for ten years, her English should be good.",
     "question": "鈴木さんは十年もアメリカに住んでいたので、英語が（　　　）はずです。",
     "choices": [
@@ -3309,7 +3309,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "should be ~; is expected to ~ (logical expectation)",
     "similar": "はずがない、にちがいない、かもしれない",
     "sentence_jp": "カレンダーに○がついているから、明日は休みの日のはずです。",
-    "sentence_furigana": "カレンダーに○がついているから、明日は休みの日のはずです。",
+    "sentence_furigana": "カレンダーに○がついているから、あしたはやすみのひのはずです。",
     "sentence_en": "Since there's a circle on the calendar, tomorrow should be a day off.",
     "question": "カレンダーに○がついているから、明日は（　　　）はずです。",
     "choices": [
@@ -3339,7 +3339,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "should be ~; is expected to ~ (logical expectation)",
     "similar": "はずがない、にちがいない、かもしれない",
     "sentence_jp": "かぎはさっきかばんのポケットに入れたから、この中にあるはずだ。",
-    "sentence_furigana": "かぎはさっきかばんのポケットに入れたから、この中にあるはずだ。",
+    "sentence_furigana": "かぎはさっきかばんのポケットにいれたから、このなかにあるはずだ。",
     "sentence_en": "I put the key in my bag pocket just now, so it should be inside here.",
     "question": "かぎはさっきかばんのポケットに入れたから、この中に（　　　）はずだ。",
     "choices": [
@@ -3369,7 +3369,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot possibly be ~; impossible that ~",
     "similar": "はずだ、わけがない",
     "sentence_jp": "彼は今、外国へ出張しているから、今日のパーティーに来られるはずがありません。",
-    "sentence_furigana": "彼は今、外国へ出張しているから、今日のパーティーに来られるはずがありません。",
+    "sentence_furigana": "かれはいま、がいこくへしゅっちょうしているから、きょうのパーティーにこられるはずがありません。",
     "sentence_en": "Since he is currently on a business trip abroad, there is no way he can come to today's party.",
     "question": "彼は今、外国へ出張しているから、今日のパーティーに（　　　）はずがありません。",
     "choices": [
@@ -3399,7 +3399,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot possibly be ~; impossible that ~",
     "similar": "はずだ、わけがない",
     "sentence_jp": "昨日買ったばかりの新しいパソコンが、もう壊れるはずがありません。",
-    "sentence_furigana": "昨日買ったばかりの新しいパソコンが、もう壊れるはずがありません。",
+    "sentence_furigana": "きのうかったばかりのあたらしいパソコンが、もうこわれるはずがありません。",
     "sentence_en": "A brand-new PC that I just bought yesterday cannot possibly break already.",
     "question": "昨日買ったばかりの新しいパソコンが、もう（　　　）はずがありません。",
     "choices": [
@@ -3429,7 +3429,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "cannot possibly be ~; impossible that ~",
     "similar": "はずだ、わけがない",
     "sentence_jp": "駅前のこんなに大きくてきれいなマンションの家賃が、そんなに安いはずがありません。",
-    "sentence_furigana": "駅前のこんなに大きくてきれいなマンションの家賃が、そんなに安いはずがありません。",
+    "sentence_furigana": "えきまえのこんなにおおきくてきれいなマンションのやちんが、そんなにやすいはずがありません。",
     "sentence_en": "The rent for such a big, beautiful apartment right in front of the station cannot possibly be that cheap.",
     "question": "駅前のこんなに大きくてきれいなマンションの家賃が、そんなに（　　　）はずがありません。",
     "choices": [
@@ -3458,26 +3458,26 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "はずがない",
     "meaning_en": "cannot possibly be ~; impossible that ~",
     "similar": "はずだ、わけがない",
-    "sentence_jp": "いつも元気でスポーツが大好きな弟が、おなかが{すいていない}はずがない。",
-    "sentence_furigana": "いつも元気でスポーツが大好きな弟が、おなかが{すいていない}はずがない。",
-    "sentence_en": "There is no way my younger brother, who is always energetic and loves sports, isn't hungry.",
-    "question": "いつも元気でスポーツが大好きな弟が、おなかが{すいていない}（　　　）。",
+    "sentence_jp": "昼ご飯から何も食べずにサッカーをしていた弟が、おなかがすいていないはずがない。",
+    "sentence_furigana": "ひるごはんからなにもたべずにサッカーをしていたおとうとが、おなかがすいていないはずがない。",
+    "sentence_en": "There's no way my little brother, who has been playing soccer without eating anything since lunch, isn't hungry.",
+    "question": "昼ご飯から何も食べずにサッカーをしていた弟が、おなかがすいていない（　　　）。",
     "choices": [
-      "はずだない",
+      "にちがいない",
       "つもりがない",
       "はずがない",
-      "かもしれないない"
+      "わけではない"
     ],
     "answer": 2,
     "correct_text": "はずがない",
     "notes": "『おなかがすいていないなんてあり<ruby>得<rt>え</rt></ruby>ない』と<ruby>強<rt>つよ</rt></ruby>く<ruby>否定<rt>ひてい</rt></ruby>する「はずがない」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Strongly denies the possibility that he isn't hungry: はずがない.",
-    "question_ruby": "いつも<ruby>元気<rt>げんき</rt></ruby>でスポーツが<ruby>大好<rt>だいす</rt></ruby>きな<ruby>弟<rt>おとうと</rt></ruby>が、おなかが{すいていない}（　　　）。",
-    "sentence_jp_ruby": "いつも<ruby>元気<rt>げんき</rt></ruby>でスポーツが<ruby>大好<rt>だいす</rt></ruby>きな<ruby>弟<rt>おとうと</rt></ruby>が、おなかが{すいていない}はずがない。",
+    "question_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べずにサッカーをしていた<ruby>弟<rt>おとうと</rt></ruby>が、おなかがすいていない（　　　）。",
+    "sentence_jp_ruby": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べずにサッカーをしていた<ruby>弟<rt>おとうと</rt></ruby>が、おなかがすいていないはずがない。",
     "choices_ruby": [
-      "はずだない",
+      "にちがいない",
       "つもりがない",
       "はずがない",
-      "かもしれないない"
+      "わけではない"
     ],
     "correct_text_ruby": "はずがない"
   },
@@ -3489,7 +3489,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to ~; for the sake of ~; because of ~",
     "similar": "ように、のに（用途）、ので",
     "sentence_jp": "将来、自分のパン屋を開くために、今お金を貯めています。",
-    "sentence_furigana": "将来、自分のパン屋を開くために、今お金を貯めています。",
+    "sentence_furigana": "しょうらい、じぶんのパンやをひらくために、いまおかねをためています。",
     "sentence_en": "I am saving money now in order to open my own bakery in the future.",
     "question": "将来、自分のパン屋を（　　　）ために、今お金を貯めています。",
     "choices": [
@@ -3519,7 +3519,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to ~; for the sake of ~; because of ~",
     "similar": "ように、のに（用途）、ので",
     "sentence_jp": "家族のために、週末はいつもおいしい料理を作ります。",
-    "sentence_furigana": "家族のために、週末はいつもおいしい料理を作ります。",
+    "sentence_furigana": "かぞくのために、しゅうまつはいつもおいしいりょうりをつくります。",
     "sentence_en": "For my family's sake, I always cook delicious meals on weekends.",
     "question": "家族（　　　）、週末はいつもおいしい料理を作ります。",
     "choices": [
@@ -3549,7 +3549,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to ~; for the sake of ~; because of ~",
     "similar": "ように、のに（用途）、ので",
     "sentence_jp": "大雨が降ったために、サッカーの試合は来週に延期されました。",
-    "sentence_furigana": "大雨が降ったために、サッカーの試合は来週に延期されました。",
+    "sentence_furigana": "おおあめがふったために、サッカーのしあいはらいしゅうにえんきされました。",
     "sentence_en": "Because of the heavy rain, the soccer match was postponed until next week.",
     "question": "大雨が（　　　）ために、サッカーの試合は来週に延期されました。",
     "choices": [
@@ -3579,7 +3579,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "in order to ~; for the sake of ~; because of ~",
     "similar": "ように、のに（用途）、ので",
     "sentence_jp": "引っ越しのために、大きいダンボールを十個用意しました。",
-    "sentence_furigana": "引っ越しのために、大きいダンボールを十個用意しました。",
+    "sentence_furigana": "ひっこしのために、おおきいダンボールをじゅっこよういしました。",
     "sentence_en": "In preparation for moving house, I prepared ten large cardboard boxes.",
     "question": "引っ越し（　　　）、大きいダンボールを十個用意しました。",
     "choices": [
@@ -3609,7 +3609,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "so that ~; in order that ~",
     "similar": "ために、ようにする、ようになる",
     "sentence_jp": "漢字を間違えないように、もう一度ていねいに見直しました。",
-    "sentence_furigana": "漢字を間違えないように、もう一度ていねいに見直しました。",
+    "sentence_furigana": "かんじをまちがえないように、もういちどていねいにみなおしました。",
     "sentence_en": "So as not to make any kanji mistakes, I carefully reviewed it one more time.",
     "question": "漢字を間違えない（　　　）、もう一度ていねいに見直しました。",
     "choices": [
@@ -3639,7 +3639,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "so that ~; in order that ~",
     "similar": "ために、ようにする、ようになる",
     "sentence_jp": "早くかぜが治るように、今日は温かいスープを飲んで寝ます。",
-    "sentence_furigana": "早くかぜが治るように、今日は温かいスープを飲んで寝ます。",
+    "sentence_furigana": "はやくかぜがなおるように、きょうはあたたかいスープをのんでねます。",
     "sentence_en": "So that my cold gets better quickly, I'll drink warm soup and go to bed today.",
     "question": "早くかぜが（　　　）ように、今日は温かいスープを飲んで寝ます。",
     "choices": [
@@ -3669,7 +3669,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "so that ~; in order that ~",
     "similar": "ために、ようにする、ようになる",
     "sentence_jp": "日本の新聞が読めるように、毎日新しい漢字を覚えています。",
-    "sentence_furigana": "日本の新聞が読めるように、毎日新しい漢字を覚えています。",
+    "sentence_furigana": "にほんのしんぶんがよめるように、まいにちあたらしいかんじをおぼえています。",
     "sentence_en": "So that I can read Japanese newspapers, I memorize new kanji every day.",
     "question": "日本の新聞が（　　　）ように、毎日新しい漢字を覚えています。",
     "choices": [
@@ -3699,7 +3699,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "so that ~; in order that ~",
     "similar": "ために、ようにする、ようになる",
     "sentence_jp": "小さい子供にも意味がわかるように、やさしい言葉で説明しました。",
-    "sentence_furigana": "小さい子供にも意味がわかるように、やさしい言葉で説明しました。",
+    "sentence_furigana": "ちいさいこどもにもいみがわかるように、やさしいことばでせつめいしました。",
     "sentence_en": "I explained it in easy words so that even small children could understand the meaning.",
     "question": "小さい子供にも意味が（　　　）ように、やさしい言葉で説明しました。",
     "choices": [
@@ -3729,7 +3729,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "show signs of feeling ~ / want to do ~ (third person)",
     "similar": "たい、ほしい、そうだ（様態）",
     "sentence_jp": "うちの猫は外へ出たがって、ドアの前でずっと鳴いています。",
-    "sentence_furigana": "うちの猫は外へ出たがって、ドアの前でずっと鳴いています。",
+    "sentence_furigana": "うちのねこはそとへでたがって、ドアのまえでずっとないています。",
     "sentence_en": "Our cat wants to go outside and keeps meowing in front of the door.",
     "question": "うちの猫は外へ（　　　）、ドアの前でずっと鳴いています。",
     "choices": [
@@ -3759,7 +3759,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "show signs of feeling ~ / want to do ~ (third person)",
     "similar": "たい、ほしい、そうだ（様態）",
     "sentence_jp": "小さい息子は暗い部屋を怖がって、夜は一人で寝られません。",
-    "sentence_furigana": "小さい息子は暗い部屋を怖がって、夜は一人で寝られません。",
+    "sentence_furigana": "ちいさいむすこはくらいへやをこわがって、よるはひとりでねられません。",
     "sentence_en": "My young son is afraid of dark rooms and cannot sleep alone at night.",
     "question": "小さい息子は暗い部屋を（　　　）、夜は一人で寝られません。",
     "choices": [
@@ -3789,7 +3789,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "show signs of feeling ~ / want to do ~ (third person)",
     "similar": "たい、ほしい、そうだ（様態）",
     "sentence_jp": "弟は、兄が買ったばかりのカメラをとてもほしがっています。",
-    "sentence_furigana": "弟は、兄が買ったばかりのカメラをとてもほしがっています。",
+    "sentence_furigana": "おとうとは、あにがかったばかりのカメラをとてもほしがっています。",
     "sentence_en": "My younger brother really wants the camera that my older brother just bought.",
     "question": "弟は、兄が買ったばかりのカメラをとても（　　　）います。",
     "choices": [
@@ -3819,7 +3819,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "show signs of feeling ~ / want to do ~ (third person)",
     "similar": "たい、ほしい、そうだ（様態）",
     "sentence_jp": "A：林さんも今度のハイキングに来ますか。B：ええ、とても行きたがっていましたよ。",
-    "sentence_furigana": "A：林さんも今度のハイキングに来ますか。B：ええ、とても行きたがっていましたよ。",
+    "sentence_furigana": "A：はやしさんもこんどのハイキングにきますか。B：ええ、とてもいきたがっていましたよ。",
     "sentence_en": "A: Is Ms. Hayashi coming on the next hike too? B: Yes, she was really eager to go.",
     "question": "A：林さんも今度のハイキングに来ますか。B：ええ、とても（　　　）いましたよ。",
     "choices": [
@@ -3849,11 +3849,11 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just finished doing ~",
     "similar": "たところだ、てから",
     "sentence_jp": "さっき昼ごはんを食べたばかりなので、まだおなかが空いていません。",
-    "sentence_furigana": "さっき昼ごはんを食べたばかりなので、まだおなかが空いていません。",
-    "sentence_en": "Because I just ate lunch a little while ago, I'm not hungry yet.",
+    "sentence_furigana": "さっきひるごはんをたべたばかりなので、まだおなかがあいていません。",
+    "sentence_en": "I just ate lunch a little while ago, so I'm not hungry yet.",
     "question": "さっき昼ごはんを（　　　）なので、まだおなかが空いていません。",
     "choices": [
-      "食べたところ",
+      "食べているところ",
       "食べたばかり",
       "食べるばかり",
       "食べてばかり"
@@ -3861,10 +3861,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "食べたばかり",
     "notes": "「さっき〜したから、まだ…ない」と<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>・<ruby>理由<rt>りゆう</rt></ruby>を<ruby>述<rt>の</rt></ruby>べるときは「た<ruby>形<rt>けい</rt></ruby>＋ばかり（なので）」を<ruby>使<rt>つか</rt></ruby>います。「たところなので」より「たばかりなので」のほうが<ruby>理由<rt>りゆう</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>として<ruby>自然<rt>しぜん</rt></ruby>です。 / Use Verb-た + ばかりなので to explain a reason based on having just done something a short while ago.",
-    "question_ruby": "さっき<ruby>昼<rt>ひる</rt></ruby>ごはんを（　　　）なので、まだおなかが<ruby>空<rt>す</rt></ruby>いていません。",
-    "sentence_jp_ruby": "さっき<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたばかりなので、まだおなかが<ruby>空<rt>す</rt></ruby>いていません。",
+    "question_ruby": "さっき<ruby>昼<rt>ひる</rt></ruby>ごはんを（　　　）なので、まだおなかが<ruby>空<rt>あ</rt></ruby>いていません。",
+    "sentence_jp_ruby": "さっき<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べたばかりなので、まだおなかが<ruby>空<rt>あ</rt></ruby>いていません。",
     "choices_ruby": [
-      "<ruby>食<rt>た</rt></ruby>べたところ",
+      "<ruby>食<rt>た</rt></ruby>べているところ",
       "<ruby>食<rt>た</rt></ruby>べたばかり",
       "<ruby>食<rt>た</rt></ruby>べるばかり",
       "<ruby>食<rt>た</rt></ruby>べてばかり"
@@ -3879,7 +3879,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just finished doing ~",
     "similar": "たところだ、てから",
     "sentence_jp": "この白いシャツは、けさ洗ったばかりのシャツなのに、コーヒーをこぼしてしまいました。",
-    "sentence_furigana": "この白いシャツは、けさ洗ったばかりのシャツなのに、コーヒーをこぼしてしまいました。",
+    "sentence_furigana": "このしろいシャツは、けさあらったばかりのシャツなのに、コーヒーをこぼしてしまいました。",
     "sentence_en": "Even though this white shirt is one I just washed this morning, I spilled coffee on it.",
     "question": "この白いシャツは、けさ（　　　）シャツなのに、コーヒーをこぼしてしまいました。",
     "choices": [
@@ -3909,7 +3909,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just finished doing ~",
     "similar": "たところだ、てから",
     "sentence_jp": "兄は先月大学を卒業したばかりで、今月から銀行で働いています。",
-    "sentence_furigana": "兄は先月大学を卒業したばかりで、今月から銀行で働いています。",
+    "sentence_furigana": "あにはせんげつだいがくをそつぎょうしたばかりで、こんげつからぎんこうではたらいています。",
     "sentence_en": "My older brother just graduated from university last month and has been working at a bank since this month.",
     "question": "兄は先月大学を（　　　）で、今月から銀行で働いています。",
     "choices": [
@@ -3939,7 +3939,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just finished doing ~",
     "similar": "たところだ、てから",
     "sentence_jp": "A：もうこの小説を全部読みましたか。B：いいえ、昨日買ったばかりですから、まだ最初のページですよ。",
-    "sentence_furigana": "A：もうこの小説を全部読みましたか。B：いいえ、昨日買ったばかりですから、まだ最初のページですよ。",
+    "sentence_furigana": "A：もうこのしょうせつをぜんぶよみましたか。B：いいえ、きのうかったばかりですから、まださいしょのページですよ。",
     "sentence_en": "A: Have you already read this whole novel? B: No, I just bought it yesterday, so I'm still on the first page.",
     "question": "A：もうこの小説を全部読みましたか。B：いいえ、昨日（　　　）ですから、まだ最初のページですよ。",
     "choices": [
@@ -3969,7 +3969,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just about to do / in the middle of doing / just did",
     "similar": "たばかり、ようとしている、最中だ",
     "sentence_jp": "A：レポートはもう書き終わりましたか。B：いいえ、これから書くところです。",
-    "sentence_furigana": "A：レポートはもう書き終わりましたか。B：いいえ、これから書くところです。",
+    "sentence_furigana": "A：レポートはもうかきおわりましたか。B：いいえ、これからかくところです。",
     "sentence_en": "A: Have you finished writing the report already? B: No, I'm just about to write it now.",
     "question": "A：レポートはもう書き終わりましたか。B：いいえ、これから（　　　）です。",
     "choices": [
@@ -3999,7 +3999,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just about to do / in the middle of doing / just did",
     "similar": "たばかり、ようとしている、最中だ",
     "sentence_jp": "A：すみません、予約の時間に少し遅れそうです。B：わかりました。私もたった今レストランに着いたところですから、大丈夫ですよ。",
-    "sentence_furigana": "A：すみません、予約の時間に少し遅れそうです。B：わかりました。私もたった今レストランに着いたところですから、大丈夫ですよ。",
+    "sentence_furigana": "A：すみません、よやくのじかんにすこしおくれそうです。B：わかりました。わたしもたったいまレストランについたところですから、だいじょうぶですよ。",
     "sentence_en": "A: Sorry, it looks like I'll be a little late for our reservation time. B: Got it. I also just arrived at the restaurant right now, so it's fine.",
     "question": "A：すみません、予約の時間に少し遅れそうです。B：わかりました。私もたった今レストランに（　　　）ですから、大丈夫ですよ。",
     "choices": [
@@ -4029,7 +4029,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just about to do / in the middle of doing / just did",
     "similar": "たばかり、ようとしている、最中だ",
     "sentence_jp": "A：田中さん、会議の資料はありますか。B：すみません、今急いでコピーしているところですので、もう少しお待ちください。",
-    "sentence_furigana": "A：田中さん、会議の資料はありますか。B：すみません、今急いでコピーしているところですので、もう少しお待ちください。",
+    "sentence_furigana": "A：たなかさん、かいぎのしりょうはありますか。B：すみません、いまいそいでコピーしているところですので、もうすこしおまちください。",
     "sentence_en": "A: Mr. Tanaka, do you have the meeting handouts? B: Sorry, I'm in the middle of copying them right now, so please wait a little longer.",
     "question": "A：田中さん、会議の資料はありますか。B：すみません、今急いで（　　　）ですので、もう少しお待ちください。",
     "choices": [
@@ -4059,7 +4059,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "just about to do / in the middle of doing / just did",
     "similar": "たばかり、ようとしている、最中だ",
     "sentence_jp": "これからお風呂に入るところだったのに、宅配便が届きました。",
-    "sentence_furigana": "これからお風呂に入るところだったのに、宅配便が届きました。",
+    "sentence_furigana": "これからおふろにはいるところだったのに、たくはいびんがとどきました。",
     "sentence_en": "Just as I was about to take a bath, a delivery package arrived.",
     "question": "これからお風呂に（　　　）だったのに、宅配便が届きました。",
     "choices": [
@@ -4087,9 +4087,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "grammar": "受身（られる）",
     "reading": "られる",
     "meaning_en": "passive voice: be done to ~ (direct & inanimate passive)",
-    "similar": "てもらう、させられる、可能{形|けい}",
+    "similar": "てもらう、させられる、可能形",
     "sentence_jp": "宿題を忘れて、先生に注意されてしまいました。",
-    "sentence_furigana": "宿題を忘れて、先生に注意されてしまいました。",
+    "sentence_furigana": "しゅくだいをわすれて、せんせいにちゅういされてしまいました。",
     "sentence_en": "I forgot my homework and ended up being warned by the teacher.",
     "question": "宿題を忘れて、先生に（　　　）しまいました。",
     "choices": [
@@ -4117,9 +4117,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "grammar": "受身（られる）",
     "reading": "られる",
     "meaning_en": "passive voice: be done to ~ (direct & inanimate passive)",
-    "similar": "てもらう、させられる、可能{形|けい}",
+    "similar": "てもらう、させられる、可能形",
     "sentence_jp": "この古いお城は、約400年前に建てられたそうです。",
-    "sentence_furigana": "この古いお城は、約400年前に建てられたそうです。",
+    "sentence_furigana": "このふるいおしろは、やく400ねんまえにたてられたそうです。",
     "sentence_en": "I hear that this old castle was built about 400 years ago.",
     "question": "この古いお城は、約400年前に（　　　）そうです。",
     "choices": [
@@ -4147,9 +4147,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "grammar": "受身（られる）",
     "reading": "られる",
     "meaning_en": "passive voice: be done to ~ (direct & inanimate passive)",
-    "similar": "てもらう、させられる、可能{形|けい}",
+    "similar": "てもらう、させられる、可能形",
     "sentence_jp": "きのう、駅の前で知らない外国人に英語で道を聞かれました。",
-    "sentence_furigana": "きのう、駅の前で知らない外国人に英語で道を聞かれました。",
+    "sentence_furigana": "きのう、えきのまえでしらないがいこくじんにえいごでみちをきかれました。",
     "sentence_en": "Yesterday, I was asked for directions in English by a foreign stranger in front of the station.",
     "question": "きのう、駅の前で知らない外国人に英語で道を（　　　）。",
     "choices": [
@@ -4177,9 +4177,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "grammar": "受身（られる）",
     "reading": "られる",
     "meaning_en": "passive voice: be done to ~ (direct & inanimate passive)",
-    "similar": "てもらう、させられる、可能{形|けい}",
+    "similar": "てもらう、させられる、可能形",
     "sentence_jp": "この地域では、お米からおいしいお酒が作られています。",
-    "sentence_furigana": "この地域では、お米からおいしいお酒が作られています。",
+    "sentence_furigana": "このちいきでは、おこめからおいしいおさけがつくられています。",
     "sentence_en": "In this region, delicious sake is made from rice.",
     "question": "この地域では、お米からおいしいお酒が（　　　）います。",
     "choices": [
@@ -4209,7 +4209,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative voice: make / let someone do ~",
     "similar": "させられる、てあげる、てもらう",
     "sentence_jp": "母は毎日、晩ごはんの前に弟に手を洗わせています。",
-    "sentence_furigana": "母は毎日、晩ごはんの前に弟に手を洗わせています。",
+    "sentence_furigana": "はははまいにち、ばんごはんのまえにおとうとにてをあらわせています。",
     "sentence_en": "Every day before dinner, my mother makes my younger brother wash his hands.",
     "question": "母は毎日、晩ごはんの前に弟に手を（　　　）います。",
     "choices": [
@@ -4239,7 +4239,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative voice: make / let someone do ~",
     "similar": "させられる、てあげる、てもらう",
     "sentence_jp": "熱がある社員を無理に働かせないで、すぐに休ませてください。",
-    "sentence_furigana": "熱がある社員を無理に働かせないで、すぐに休ませてください。",
+    "sentence_furigana": "ねつがあるしゃいんをむりにはたらかせないで、すぐにやすませてください。",
     "sentence_en": "Don't make an employee with a fever work unreasonably; please let them rest right away.",
     "question": "熱がある社員を無理に働かせないで、すぐに（　　　）ください。",
     "choices": [
@@ -4269,7 +4269,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative voice: make / let someone do ~",
     "similar": "させられる、てあげる、てもらう",
     "sentence_jp": "先生は、黒板の字が見えにくい生徒を前の席に座らせました。",
-    "sentence_furigana": "先生は、黒板の字が見えにくい生徒を前の席に座らせました。",
+    "sentence_furigana": "せんせいは、こくばんのじがみえにくいせいとをまえのせきにすわらせました。",
     "sentence_en": "The teacher had the student who couldn't see the blackboard well sit in a front seat.",
     "question": "先生は、黒板の字が見えにくい生徒を前の席に（　　　）。",
     "choices": [
@@ -4299,7 +4299,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative voice: make / let someone do ~",
     "similar": "させられる、てあげる、てもらう",
     "sentence_jp": "うちでは、子どもに自分の服を自分でたたませるようにしています。",
-    "sentence_furigana": "うちでは、子どもに自分の服を自分でたたませるようにしています。",
+    "sentence_furigana": "うちでは、こどもにじぶんのふくをじぶんでたたませるようにしています。",
     "sentence_en": "At our house, we make it a rule to have our children fold their own clothes by themselves.",
     "question": "うちでは、子どもに自分の服を自分で（　　　）ようにしています。",
     "choices": [
@@ -4329,7 +4329,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative-passive: be made to do ~",
     "similar": "させる、られる、なければならない",
     "sentence_jp": "兄が引っ越すとき、私は一日中、重い荷物を運ばされてとても疲れました。",
-    "sentence_furigana": "兄が引っ越すとき、私は一日中、重い荷物を運ばされてとても疲れました。",
+    "sentence_furigana": "あにがひっこすとき、わたしはいちにちじゅう、おもいにもつをはこばされてとてもつかれました。",
     "sentence_en": "When my older brother moved house, I was made to carry heavy luggage all day long and got very tired.",
     "question": "兄が引っ越すとき、私は一日中、重い荷物を（　　　）とても疲れました。",
     "choices": [
@@ -4358,10 +4358,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "させられる",
     "meaning_en": "causative-passive: be made to do ~",
     "similar": "させる、られる、なければならない",
-    "sentence_jp": "きのうのパーティーで、先輩に{みんな}の前で歌を歌わされて、本当に恥かしかったです。",
-    "sentence_furigana": "きのうのパーティーで、先輩に{みんな}の前で歌を歌わされて、本当に恥かしかったです。",
-    "sentence_en": "At yesterday's party, I was made to sing a song in front of everyone by my senior, and I was really embarrassed.",
-    "question": "きのうのパーティーで、先輩に{みんな}の前で歌を（　　　）、本当に恥かしかったです。",
+    "sentence_jp": "きのうのパーティーで、先輩にみんなの前で歌を歌わされて、本当に恥ずかしかったです。",
+    "sentence_furigana": "きのうのパーティーで、せんぱいにみんなのまえでうたをうたわされて、ほんとうにはずかしかったです。",
+    "sentence_en": "At yesterday's party, my senior made me sing a song in front of everyone, and it was really embarrassing.",
+    "question": "きのうのパーティーで、先輩にみんなの前で歌を（　　　）、本当に恥ずかしかったです。",
     "choices": [
       "歌われて",
       "歌わされて",
@@ -4371,8 +4371,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "歌わされて",
     "notes": "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>言<rt>い</rt></ruby>われて<ruby>嫌々<rt>いやいや</rt></ruby><ruby>歌<rt>うた</rt></ruby>ったので<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>にします。Ⅰグループ「<ruby>歌<rt>うた</rt></ruby>う（utau）」の<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>（<ruby>短縮<rt>たんしゅく</rt></ruby><ruby>形<rt>がた</rt></ruby>）は「わ＋される」で「<ruby>歌<rt>うた</rt></ruby>わされて」です。 / Made to sing reluctantly by a senior: Group 1 歌う takes わされる → 歌わされて.",
-    "question_ruby": "きのうのパーティーで、<ruby>先輩<rt>せんぱい</rt></ruby>に{みんな}の<ruby>前<rt>まえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を（　　　）、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>恥<rt>はず</rt></ruby>かしかったです。",
-    "sentence_jp_ruby": "きのうのパーティーで、<ruby>先輩<rt>せんぱい</rt></ruby>に{みんな}の<ruby>前<rt>まえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>わされて、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>恥<rt>はず</rt></ruby>かしかったです。",
+    "question_ruby": "きのうのパーティーで、<ruby>先輩<rt>せんぱい</rt></ruby>にみんなの<ruby>前<rt>まえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を（　　　）、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>恥<rt>は</rt></ruby>ずかしかったです。",
+    "sentence_jp_ruby": "きのうのパーティーで、<ruby>先輩<rt>せんぱい</rt></ruby>にみんなの<ruby>前<rt>まえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>わされて、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>恥<rt>は</rt></ruby>ずかしかったです。",
     "choices_ruby": [
       "<ruby>歌<rt>うた</rt></ruby>われて",
       "<ruby>歌<rt>うた</rt></ruby>わされて",
@@ -4389,7 +4389,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative-passive: be made to do ~",
     "similar": "させる、られる、なければならない",
     "sentence_jp": "レポートに間違いがたくさんあったので、先生にもう一度書き直させられました。",
-    "sentence_furigana": "レポートに間違いがたくさんあったので、先生にもう一度書き直させられました。",
+    "sentence_furigana": "レポートにまちがいがたくさんあったので、せんせいにもういちどかきなおさせられました。",
     "sentence_en": "Because there were many mistakes in my report, I was made to rewrite it by the teacher.",
     "question": "レポートに間違いがたくさんあったので、先生にもう一度（　　　）。",
     "choices": [
@@ -4419,7 +4419,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "causative-passive: be made to do ~",
     "similar": "させる、られる、なければならない",
     "sentence_jp": "病院がすごく混んでいて、受付で2時間も待たされました。",
-    "sentence_furigana": "病院がすごく混んでいて、受付で2時間も待たされました。",
+    "sentence_furigana": "びょういんがすごくこんでいて、うけつけで2じかんもまたされました。",
     "sentence_en": "The hospital was very crowded, and I was made to wait for two whole hours at the reception desk.",
     "question": "病院がすごく混んでいて、受付で2時間も（　　　）。",
     "choices": [
@@ -4449,7 +4449,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "honorific expression (respectful action of superior)",
     "similar": "れる／られる（尊敬）、お〜ください、特別な尊敬語",
     "sentence_jp": "課長は5時ごろにはもうお帰りになりましたよ。",
-    "sentence_furigana": "課長は5時ごろにはもうお帰りになりましたよ。",
+    "sentence_furigana": "かちょうは5じごろにはもうおかえりになりましたよ。",
     "sentence_en": "The section manager already went home around 5 o'clock.",
     "question": "課長は5時ごろにはもう（　　　）ましたよ。",
     "choices": [
@@ -4479,7 +4479,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "honorific expression (respectful action of superior)",
     "similar": "れる／られる（尊敬）、お〜ください、特別な尊敬語",
     "sentence_jp": "お客さま、どの本をお探しになりますか。",
-    "sentence_furigana": "お客さま、どの本をお探しになりますか。",
+    "sentence_furigana": "おきゃくさま、どのほんをおさがしになりますか。",
     "sentence_en": "Customer, which book are you looking for?",
     "question": "お客さま、どの本を（　　　）ますか。",
     "choices": [
@@ -4509,7 +4509,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "honorific expression (respectful action of superior)",
     "similar": "れる／られる（尊敬）、お〜ください、特別な尊敬語",
     "sentence_jp": "先生、先月出た新しい辞書をもうご覧になりましたか。",
-    "sentence_furigana": "先生、先月出た新しい辞書をもうご覧になりましたか。",
+    "sentence_furigana": "せんせい、せんげつでたあたらしいじしょをもうごらんになりましたか。",
     "sentence_en": "Professor, have you already seen the new dictionary that came out last month?",
     "question": "先生、先月出た新しい辞書をもう（　　　）ましたか。",
     "choices": [
@@ -4539,7 +4539,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "honorific expression (respectful action of superior)",
     "similar": "れる／られる（尊敬）、お〜ください、特別な尊敬語",
     "sentence_jp": "部長は今、会議室で大切なお客さまとお話しになっています。",
-    "sentence_furigana": "部長は今、会議室で大切なお客さまとお話しになっています。",
+    "sentence_furigana": "ぶちょうはいま、かいぎしつでたいせつなおきゃくさまとおはなしになっています。",
     "sentence_en": "The department manager is currently speaking with an important client in the conference room.",
     "question": "部長は今、会議室で大切なお客さまと（　　　）ています。",
     "choices": [
@@ -4569,7 +4569,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "humble expression (humble action toward superior)",
     "similar": "お〜になる、ていただく、特別な謙譲語",
     "sentence_jp": "先生、そのお荷物は重そうですから、私がお持ちしましょうか。",
-    "sentence_furigana": "先生、そのお荷物は重そうですから、私がお持ちしましょうか。",
+    "sentence_furigana": "せんせい、そのおにもつはおもそうですから、わたしがおもちしましょうか。",
     "sentence_en": "Professor, that luggage looks heavy, so shall I carry it for you?",
     "question": "先生、そのお荷物は重そうですから、私が（　　　）ましょうか。",
     "choices": [
@@ -4599,7 +4599,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "humble expression (humble action toward superior)",
     "similar": "お〜になる、ていただく、特別な謙譲語",
     "sentence_jp": "お客さま、お部屋の準備ができましたので、私がご案内いたします。",
-    "sentence_furigana": "お客さま、お部屋の準備ができましたので、私がご案内いたします。",
+    "sentence_furigana": "おきゃくさま、おへやのじゅんびができましたので、わたしがごあんないいたします。",
     "sentence_en": "Customer, your room is ready, so I will show you the way.",
     "question": "お客さま、お部屋の準備ができましたので、私が（　　　）ます。",
     "choices": [
@@ -4629,7 +4629,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "humble expression (humble action toward superior)",
     "similar": "お〜になる、ていただく、特別な謙譲語",
     "sentence_jp": "部長、さきほど送ってくださった資料を拝見しました。",
-    "sentence_furigana": "部長、さきほど送ってくださった資料を拝見しました。",
+    "sentence_furigana": "ぶちょう、さきほどおくってくださったしりょうをはいけんしました。",
     "sentence_en": "Manager, I have looked at the documents you sent me earlier.",
     "question": "部長、さきほど送ってくださった資料を（　　　）ました。",
     "choices": [
@@ -4659,7 +4659,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "humble expression (humble action toward superior)",
     "similar": "お〜になる、ていただく、特別な謙譲語",
     "sentence_jp": "明日の午後、もう一度こちらからお電話しますので、よろしくお願いいたします。",
-    "sentence_furigana": "明日の午後、もう一度こちらからお電話しますので、よろしくお願いいたします。",
+    "sentence_furigana": "あしたのごご、もういちどこちらからおでんわしますので、よろしくおねがいいたします。",
     "sentence_en": "Tomorrow afternoon, I will call you again from here, so thank you in advance.",
     "question": "明日の午後、もう一度こちらから（　　　）ますので、よろしくお願いいたします。",
     "choices": [
@@ -4689,7 +4689,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do something for someone",
     "similar": "てもらう、てくれる、てさしあげる",
     "sentence_jp": "祖母がスマホの使い方がわからないと言っていたので、私が教えてあげました。",
-    "sentence_furigana": "祖母がスマホの使い方がわからないと言っていたので、私が教えてあげました。",
+    "sentence_furigana": "そぼがすまほのつかいかたがわからないといっていたので、わたしがおしえてあげました。",
     "sentence_en": "My grandmother said she didn't know how to use her smartphone, so I taught her.",
     "question": "祖母がスマホの使い方がわからないと言っていたので、私が（　　　）。",
     "choices": [
@@ -4719,7 +4719,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do something for someone",
     "similar": "てもらう、てくれる、てさしあげる",
     "sentence_jp": "風邪をひいて寝ているルームメイトに、温かいスープを作ってあげました。",
-    "sentence_furigana": "風邪をひいて寝ているルームメイトに、温かいスープを作ってあげました。",
+    "sentence_furigana": "かぜをひいてねているルームメイトに、あたたかいスープをつくってあげました。",
     "sentence_en": "I made warm soup for my roommate who was in bed with a cold.",
     "question": "風邪をひいて寝ているルームメイトに、温かいスープを（　　　）。",
     "choices": [
@@ -4749,7 +4749,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do something for someone",
     "similar": "てもらう、てくれる、てさしあげる",
     "sentence_jp": "毎朝、学校へ行く前に犬に散歩をさせたり、えさをやったりしています。",
-    "sentence_furigana": "毎朝、学校へ行く前に犬に散歩をさせたり、えさをやったりしています。",
+    "sentence_furigana": "まいあさ、がっこうへいくまえにいぬにさんぽをさせたり、えさをやったりしています。",
     "sentence_en": "Every morning before going to school, I walk the dog and feed it.",
     "question": "毎朝、学校へ行く前に犬に散歩をさせたり、えさを（　　　）しています。",
     "choices": [
@@ -4779,14 +4779,14 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "do something for someone",
     "similar": "てもらう、てくれる、てさしあげる",
     "sentence_jp": "小さい妹が靴を履けなかったので、兄が履かせてあげていました。",
-    "sentence_furigana": "小さい妹が靴を履けなかったので、兄が履かせてあげていました。",
-    "sentence_en": "Because our little sister couldn't put on her shoes, my older brother was putting them on for her.",
+    "sentence_furigana": "ちいさいいもうとがくつをはけなかったので、あにがはかせてあげていました。",
+    "sentence_en": "Since our little sister couldn't put on her shoes, my older brother was helping her put them on.",
     "question": "小さい妹が靴を履けなかったので、兄が（　　　）いました。",
     "choices": [
       "履かされて",
       "履かせてもらって",
       "履かせてあげて",
-      "履かせてくれて"
+      "履かせてみて"
     ],
     "answer": 2,
     "correct_text": "履かせてあげて",
@@ -4797,7 +4797,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
       "<ruby>履<rt>は</rt></ruby>かされて",
       "<ruby>履<rt>は</rt></ruby>かせてもらって",
       "<ruby>履<rt>は</rt></ruby>かせてあげて",
-      "<ruby>履<rt>は</rt></ruby>かせてくれて"
+      "<ruby>履<rt>は</rt></ruby>かせてみて"
     ],
     "correct_text_ruby": "<ruby>履<rt>は</rt></ruby>かせてあげて"
   },
@@ -4809,7 +4809,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have someone do something for oneself (receive favor)",
     "similar": "てくれる、てあげる、ていただく",
     "sentence_jp": "漢字の読み方がわからなかったので、隣の席の鈴木さんに教えてもらいました。",
-    "sentence_furigana": "漢字の読み方がわからなかったので、隣の席の鈴木さんに教えてもらいました。",
+    "sentence_furigana": "かんじのよみかたがわからなかったので、となりのせきのすずきさんにおしえてもらいました。",
     "sentence_en": "Because I didn't know how to read the kanji, I had Ms. Suzuki in the next seat tell me.",
     "question": "漢字の読み方がわからなかったので、隣の席の鈴木さんに（　　　）。",
     "choices": [
@@ -4839,7 +4839,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have someone do something for oneself (receive favor)",
     "similar": "てくれる、てあげる、ていただく",
     "sentence_jp": "日本へ留学するとき、大学の先生に推薦状を書いていただきました。",
-    "sentence_furigana": "日本へ留学するとき、大学の先生に推薦状を書いていただきました。",
+    "sentence_furigana": "にほんへりゅうがくするとき、だいがくのせんせいにすいせんじょうをかいていただきました。",
     "sentence_en": "When I went to study abroad in Japan, I had my university professor write a letter of recommendation for me.",
     "question": "日本へ留学するとき、大学の先生に推薦状を（　　　）。",
     "choices": [
@@ -4868,10 +4868,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "てもらう",
     "meaning_en": "have someone do something for oneself (receive favor)",
     "similar": "てくれる、てあげる、ていただく",
-    "sentence_jp": "すみません、シャッターを押すので、ここで写真を一枚撮っていただけませんか。",
-    "sentence_furigana": "すみません、シャッターを押すので、ここで写真を一枚撮っていただけませんか。",
-    "sentence_en": "Excuse me, could I have you take one photo here?",
-    "question": "すみません、シャッターを押すので、ここで写真を一枚（　　　）ませんか。",
+    "sentence_jp": "すみません、旅行の記念に、ここで写真を一枚撮っていただけませんか。",
+    "sentence_furigana": "すみません、りょこうのきねんに、ここでしゃしんをいちまいとっていただけませんか。",
+    "sentence_en": "Excuse me, could you please take a picture of us here as a memento of our trip?",
+    "question": "すみません、旅行の記念に、ここで写真を一枚（　　　）ませんか。",
     "choices": [
       "撮ってくださり",
       "撮りになれ",
@@ -4881,8 +4881,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "撮っていただけ",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>に<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>む<ruby>表現<rt>ひょうげん</rt></ruby>「〜ていただけませんか（〜てもらえませんか）」が<ruby>正解<rt>せいかい</rt></ruby>です。 / 〜ていただけませんか is the standard polite way to ask someone for a favor ('Could I have you take...?').",
-    "question_ruby": "すみません、シャッターを<ruby>押<rt>お</rt></ruby>すので、ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>一枚<rt>いちまい</rt></ruby>（　　　）ませんか。",
-    "sentence_jp_ruby": "すみません、シャッターを<ruby>押<rt>お</rt></ruby>すので、ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>一枚<rt>いちまい</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけませんか。",
+    "question_ruby": "すみません、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>に、ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>枚<rt>まい</rt></ruby>（　　　）ませんか。",
+    "sentence_jp_ruby": "すみません、<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby>に、ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけませんか。",
     "choices_ruby": [
       "<ruby>撮<rt>と</rt></ruby>ってくださり",
       "<ruby>撮<rt>と</rt></ruby>りになれ",
@@ -4899,7 +4899,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "have someone do something for oneself (receive favor)",
     "similar": "てくれる、てあげる、ていただく",
     "sentence_jp": "引っ越しの日は、友だち3人に来てもらったので、早く片付きました。",
-    "sentence_furigana": "引っ越しの日は、友だち3人に来てもらったので、早く片付きました。",
+    "sentence_furigana": "ひっこしのひは、ともだち3にんにきてもらったので、はやくかたづきました。",
     "sentence_en": "On moving day, I had three friends come over to help, so things got tidied up quickly.",
     "question": "引っ越しの日は、友だち3人に来て（　　　）ので、早く片付きました。",
     "choices": [
@@ -4929,7 +4929,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "someone kindly does something for me/us",
     "similar": "てもらう、てあげる、てくださる",
     "sentence_jp": "私が重いスーツケースを持っていたら、知らない人が階段の上まで運んでくれました。",
-    "sentence_furigana": "私が重いスーツケースを持っていたら、知らない人が階段の上まで運んでくれました。",
+    "sentence_furigana": "わたしがおもいスーツケースをもっていたら、しらないひとがかいだんのうえまではこんでくれました。",
     "sentence_en": "When I was carrying a heavy suitcase, a stranger kindly carried it to the top of the stairs for me.",
     "question": "私が重いスーツケースを持っていたら、知らない人が階段の上まで（　　　）。",
     "choices": [
@@ -4959,7 +4959,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "someone kindly does something for me/us",
     "similar": "てもらう、てあげる、てくださる",
     "sentence_jp": "私の誕生日に、母が私の大好きなケーキを焼いてくれました。",
-    "sentence_furigana": "私の誕生日に、母が私の大好きなケーキを焼いてくれました。",
+    "sentence_furigana": "わたしのたんじょうびに、ははがわたしのだいすきなケーキをやいてくれました。",
     "sentence_en": "On my birthday, my mother baked my favorite cake for me.",
     "question": "私の誕生日に、母が私の大好きなケーキを（　　　）。",
     "choices": [
@@ -4989,7 +4989,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "someone kindly does something for me/us",
     "similar": "てもらう、てあげる、てくださる",
     "sentence_jp": "仕事でわからないことがあったとき、部長が大変丁寧に説明してくださいました。",
-    "sentence_furigana": "仕事でわからないことがあったとき、部長が大変丁寧に説明してくださいました。",
+    "sentence_furigana": "しごとでわからないことがあったとき、ぶちょうがたいへんていねいにせつめいしてくださいました。",
     "sentence_en": "When there was something I didn't understand at work, the department manager explained it to me very politely.",
     "question": "仕事でわからないことがあったとき、部長が大変丁寧に（　　　）。",
     "choices": [
@@ -5019,7 +5019,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "someone kindly does something for me/us",
     "similar": "てもらう、てあげる、てくださる",
     "sentence_jp": "A：すてきな腕時計ですね。B：ありがとうございます。大学に入ったとき、祖父が買ってくれたんです。",
-    "sentence_furigana": "A：すてきな腕時計ですね。B：ありがとうございます。大学に入ったとき、祖父が買ってくれたんです。",
+    "sentence_furigana": "A：すてきなうでどけいですね。B：ありがとうございます。だいがくにはいったとき、そふがかってくれたんです。",
     "sentence_en": "A: That's a lovely wristwatch. B: Thank you. My grandfather bought it for me when I entered university.",
     "question": "A：すてきな腕時計ですね。B：ありがとうございます。大学に入ったとき、祖父が（　　　）んです。",
     "choices": [
@@ -5049,7 +5049,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if / when ~ (conditional & temporal discovery)",
     "similar": "ば、と、なら",
     "sentence_jp": "空港に着いたら、すぐにお母さんにメッセージを送ってくださいね。",
-    "sentence_furigana": "空港に着いたら、すぐにお母さんにメッセージを送ってくださいね。",
+    "sentence_furigana": "くうこうについたら、すぐにおかあさんにメッセージをおくってくださいね。",
     "sentence_en": "When you arrive at the airport, please send a message to your mother right away.",
     "question": "空港に（　　　）、すぐにお母さんにメッセージを送ってくださいね。",
     "choices": [
@@ -5079,7 +5079,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if / when ~ (conditional & temporal discovery)",
     "similar": "ば、と、なら",
     "sentence_jp": "もしサイズが合わなかったら、別のものと交換できますか。",
-    "sentence_furigana": "もしサイズが合わなかったら、別のものと交換できますか。",
+    "sentence_furigana": "もしサイズがあわなかったら、べつのものとこうかんできますか。",
     "sentence_en": "If the size doesn't fit, can I exchange it for another one?",
     "question": "もしサイズが（　　　）、別のものと交換できますか。",
     "choices": [
@@ -5109,7 +5109,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if / when ~ (conditional & temporal discovery)",
     "similar": "ば、と、なら",
     "sentence_jp": "きのう、急いで駅へ行ったら、ちょうど電車が出たところでした。",
-    "sentence_furigana": "きのう、急いで駅へ行ったら、ちょうど電車が出たところでした。",
+    "sentence_furigana": "きのう、いそいでえきへいったら、ちょうどでんしゃがでたところでした。",
     "sentence_en": "Yesterday, when I hurried to the station, the train had just left.",
     "question": "きのう、急いで駅へ（　　　）、ちょうど電車が出たところでした。",
     "choices": [
@@ -5139,7 +5139,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if / when ~ (conditional & temporal discovery)",
     "similar": "ば、と、なら",
     "sentence_jp": "明日お天気がよかったら、公園でお弁当を食べましょう。",
-    "sentence_furigana": "明日お天気がよかったら、公園でお弁当を食べましょう。",
+    "sentence_furigana": "あしたおてんきがよかったら、こうえんでおべんとうをたべましょう。",
     "sentence_en": "If the weather is nice tomorrow, let's eat boxed lunches in the park.",
     "question": "明日お天気が（　　　）、公園でお弁当を食べましょう。",
     "choices": [
@@ -5168,10 +5168,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "なら",
     "meaning_en": "if it is the case that ~; speaking of ~",
     "similar": "たら、ば、と",
-    "sentence_jp": "A：これからスーパーへ買い物に行きます。B：スーパーへ行くなら、ついでに牛乳も買ってきてくれませんか。",
-    "sentence_furigana": "A：これからスーパーへ買い物に行きます。B：スーパーへ行くなら、ついでに牛乳も買ってきてくれませんか。",
-    "sentence_en": "A: I'm going to the supermarket to shop now. B: If you're going to the supermarket, could you buy some milk on the way too?",
-    "question": "A：これからスーパーへ買い物に行きます。B：スーパーへ（　　　）、ついでに牛乳も買ってきてくれませんか。",
+    "sentence_jp": "A：これからスーパーへ買い物に行きます。B：スーパーへ行くなら、このエコバッグを持っていってください。",
+    "sentence_furigana": "A：これからスーパーへかいものにいきます。B：スーパーへいくなら、このエコバッグをもっていってください。",
+    "sentence_en": "A: I'm going shopping at the supermarket now. B: If you're going to the supermarket, please take this eco-bag with you.",
+    "question": "A：これからスーパーへ買い物に行きます。B：スーパーへ（　　　）、このエコバッグを持っていってください。",
     "choices": [
       "行くと",
       "行ったら",
@@ -5181,8 +5181,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "行くなら",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>が「これから<ruby>行<rt>い</rt></ruby>く」と<ruby>言<rt>い</rt></ruby>ったのを<ruby>受<rt>う</rt></ruby>けて、「それなら〜してくれませんか」と<ruby>頼<rt>たの</rt></ruby>む<ruby>場面<rt>ばめん</rt></ruby>なので「<ruby>行<rt>い</rt></ruby>くなら」が<ruby>最<rt>もっと</rt></ruby>も<ruby>自然<rt>しぜん</rt></ruby>です。 / Picking up on what Speaker A just said ('I'm going to the supermarket') to make a request requires 行くなら.",
-    "question_ruby": "A：これからスーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br>B：スーパーへ（　　　）、ついでに<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>も<ruby>買<rt>か</rt></ruby>ってきてくれませんか。",
-    "sentence_jp_ruby": "A：これからスーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<br>B：スーパーへ<ruby>行<rt>い</rt></ruby>くなら、ついでに<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>も<ruby>買<rt>か</rt></ruby>ってきてくれませんか。",
+    "question_ruby": "A：これからスーパーへ<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。B：スーパーへ（　　　）、このエコバッグを<ruby>持<rt>も</rt></ruby>っていってください。",
+    "sentence_jp_ruby": "A：これからスーパーへ<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。B：スーパーへ<ruby>行<rt>い</rt></ruby>くなら、このエコバッグを<ruby>持<rt>も</rt></ruby>っていってください。",
     "choices_ruby": [
       "<ruby>行<rt>い</rt></ruby>くと",
       "<ruby>行<rt>い</rt></ruby>ったら",
@@ -5199,7 +5199,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if it is the case that ~; speaking of ~",
     "similar": "たら、ば、と",
     "sentence_jp": "温泉へ行きたいんですが、どこかいいところを知っていますか。― 温泉なら、箱根が有名でいいですよ。",
-    "sentence_furigana": "温泉へ行きたいんですが、どこかいいところを知っていますか。― 温泉なら、箱根が有名でいいですよ。",
+    "sentence_furigana": "おんせんへいきたいんですが、どこかいいところをしっていますか。― おんせんなら、はこねがゆうめいでいいですよ。",
     "sentence_en": "I'd like to go to a hot spring; do you know any good places? — If it's hot springs you're looking for, Hakone is famous and nice.",
     "question": "温泉へ行きたいんですが、どこかいいところを知っていますか。― 温泉（　　　）、箱根が有名でいいですよ。",
     "choices": [
@@ -5229,7 +5229,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if it is the case that ~; speaking of ~",
     "similar": "たら、ば、と",
     "sentence_jp": "新しいアパートを借りるなら、契約する前に夜の周りの静かさも確認した方がいいですよ。",
-    "sentence_furigana": "新しいアパートを借りるなら、契約する前に夜の周りの静かさも確認した方がいいですよ。",
+    "sentence_furigana": "あたらしいアパートをかりるなら、けいやくするまえによるのまわりのしずかさもかくにんしたほうがいいですよ。",
     "sentence_en": "If you are going to rent a new apartment, you should also check how quiet the neighborhood is at night before signing the contract.",
     "question": "新しいアパートを（　　　）、契約する前に夜の周りの静かさも確認した方がいいですよ。",
     "choices": [
@@ -5259,7 +5259,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if it is the case that ~; speaking of ~",
     "similar": "たら、ば、と",
     "sentence_jp": "その雑誌、もう読まないなら、私にくださいませんか。",
-    "sentence_furigana": "その雑誌、もう読まないなら、私にくださいませんか。",
+    "sentence_furigana": "そのざっし、もうよまないなら、わたしにくださいませんか。",
     "sentence_en": "If you're not going to read that magazine anymore, could you give it to me?",
     "question": "その雑誌、もう読まない（　　　）、私にくださいませんか。",
     "choices": [
@@ -5289,7 +5289,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ~ (general / hypothetical condition)",
     "similar": "たら、と、なら",
     "sentence_jp": "今すぐタクシーに乗れば、会議の時間に間に合いますよ。",
-    "sentence_furigana": "今すぐタクシーに乗れば、会議の時間に間に合いますよ。",
+    "sentence_furigana": "いますぐタクシーにのれば、かいぎのじかんにあいだにあいますよ。",
     "sentence_en": "If you take a taxi right now, you'll make it in time for the meeting.",
     "question": "今すぐタクシーに（　　　）、会議の時間に間に合いますよ。",
     "choices": [
@@ -5319,7 +5319,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ~ (general / hypothetical condition)",
     "similar": "たら、と、なら",
     "sentence_jp": "値段がもう少し安ければ、このパソコンを買いたいです。",
-    "sentence_furigana": "値段がもう少し安ければ、このパソコンを買いたいです。",
+    "sentence_furigana": "ねだんがもうすこしやすければ、このパソコンをかいたいです。",
     "sentence_en": "If the price were a little cheaper, I would want to buy this computer.",
     "question": "値段がもう少し（　　　）、このパソコンを買いたいです。",
     "choices": [
@@ -5349,7 +5349,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ~ (general / hypothetical condition)",
     "similar": "たら、と、なら",
     "sentence_jp": "ご都合がよければ、今度の土曜日に一緒に食事をしませんか。",
-    "sentence_furigana": "ご都合がよければ、今度の土曜日に一緒に食事をしませんか。",
+    "sentence_furigana": "ごつごうがよければ、こんどのどようびにいっしょにしょくじをしませんか。",
     "sentence_en": "If it is convenient for you, would you like to have a meal together this Saturday?",
     "question": "ご都合が（　　　）、今度の土曜日に一緒に食事をしませんか。",
     "choices": [
@@ -5379,7 +5379,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "if ~ (general / hypothetical condition)",
     "similar": "たら、と、なら",
     "sentence_jp": "辞書で調べれば、その言葉の意味がすぐにわかりますよ。",
-    "sentence_furigana": "辞書で調べれば、その言葉の意味がすぐにわかりますよ。",
+    "sentence_furigana": "じしょでしらべれば、そのことばのいみがすぐにわかりますよ。",
     "sentence_en": "If you look it up in a dictionary, you'll understand the meaning of that word right away.",
     "question": "辞書で（　　　）、その言葉の意味がすぐにわかりますよ。",
     "choices": [
@@ -5409,7 +5409,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whenever ~; naturally follows that ~",
     "similar": "たら、ば、なら",
     "sentence_jp": "この道をまっすぐ行くと、右に市役所があります。",
-    "sentence_furigana": "この道をまっすぐ行くと、右に市役所があります。",
+    "sentence_furigana": "このみちをまっすぐいくと、みぎにしやくしょがあります。",
     "sentence_en": "If you go straight down this road, the city hall is on your right.",
     "question": "この道をまっすぐ（　　　）、右に市役所があります。",
     "choices": [
@@ -5439,7 +5439,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whenever ~; naturally follows that ~",
     "similar": "たら、ば、なら",
     "sentence_jp": "秋になると、山の木の葉が赤や黄色に変わります。",
-    "sentence_furigana": "秋になると、山の木の葉が赤や黄色に変わります。",
+    "sentence_furigana": "あきになると、やまのきのはがあかやきいろにかわります。",
     "sentence_en": "When autumn comes, the leaves on the mountain trees turn red and yellow.",
     "question": "秋に（　　　）、山の木の葉が赤や黄色に変わります。",
     "choices": [
@@ -5469,7 +5469,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whenever ~; naturally follows that ~",
     "similar": "たら、ば、なら",
     "sentence_jp": "このガラスは、強くたたくと、すぐに割れてしまいます。",
-    "sentence_furigana": "このガラスは、強くたたくと、すぐに割れてしまいます。",
+    "sentence_furigana": "このガラスは、つよくたたくと、すぐにわれてしまいます。",
     "sentence_en": "If you hit this glass hard, it breaks right away.",
     "question": "このガラスは、強く（　　　）、すぐに割れてしまいます。",
     "choices": [
@@ -5499,7 +5499,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "whenever ~; naturally follows that ~",
     "similar": "たら、ば、なら",
     "sentence_jp": "祖父は毎晩お酒を飲むと、すぐ顔が赤くなります。",
-    "sentence_furigana": "祖父は毎晩お酒を飲むと、すぐ顔が赤くなります。",
+    "sentence_furigana": "そふはまいばんおさけをのむと、すぐかおがあかくなります。",
     "sentence_en": "Whenever my grandfather drinks alcohol every evening, his face turns red right away.",
     "question": "祖父は毎晩お酒を（　　　）、すぐ顔が赤くなります。",
     "choices": [
@@ -5529,7 +5529,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "about; regarding; concerning",
     "similar": "に対して、によって、のために",
     "sentence_jp": "来週の授業で、自分の国の行事について発表します。",
-    "sentence_furigana": "来週の授業で、自分の国の行事について発表します。",
+    "sentence_furigana": "らいしゅうのじゅぎょうで、じぶんのくにのぎょうじについてはっぴょうします。",
     "sentence_en": "In next week's class, I will give a presentation about events in my country.",
     "question": "来週の授業で、自分の国の行事（　　　）発表します。",
     "choices": [
@@ -5559,7 +5559,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "about; regarding; concerning",
     "similar": "に対して、によって、のために",
     "sentence_jp": "日本の昔話についての絵本を図書館で探しています。",
-    "sentence_furigana": "日本の昔話についての絵本を図書館で探しています。",
+    "sentence_furigana": "にほんのむかしばなしについてのえほんをとしょかんでさがしています。",
     "sentence_en": "I am looking for a picture book about Japanese folktales at the library.",
     "question": "日本の昔話（　　　）絵本を図書館で探しています。",
     "choices": [
@@ -5589,7 +5589,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "about; regarding; concerning",
     "similar": "に対して、によって、のために",
     "sentence_jp": "A：すみません、入会の手続きについてお伺いしたいんですが。B：はい、こちらへどうぞ。",
-    "sentence_furigana": "A：すみません、入会の手続きについてお伺いしたいんですが。B：はい、こちらへどうぞ。",
+    "sentence_furigana": "A：すみません、にゅうかいのてつづきについておうかがいしたいんですが。B：はい、こちらへどうぞ。",
     "sentence_en": "A: Excuse me, I would like to ask about the membership registration procedure. B: Yes, right this way please.",
     "question": "A：すみません、入会の手続き（　　　）お伺いしたいんですが。B：はい、こちらへどうぞ。",
     "choices": [
@@ -5619,7 +5619,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "about; regarding; concerning",
     "similar": "に対して、によって、のために",
     "sentence_jp": "今日の会議では、来月のイベントの予算について話し合いました。",
-    "sentence_furigana": "今日の会議では、来月のイベントの予算について話し合いました。",
+    "sentence_furigana": "きょうのかいぎでは、らいげつのイベントのよさんについてはなしあいました。",
     "sentence_en": "In today's meeting, we discussed the budget for next month's event.",
     "question": "今日の会議では、来月のイベントの予算（　　　）話し合いました。",
     "choices": [
@@ -5649,7 +5649,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "during the whole time ~; while ~",
     "similar": "あいだに、ながら、うちは",
     "sentence_jp": "母が銀行で手続きをしているあいだ、私はロビーのソファーでずっと待っていました。",
-    "sentence_furigana": "母が銀行で手続きをしているあいだ、私はロビーのソファーでずっと待っていました。",
+    "sentence_furigana": "ははがぎんこうでてつづきをしているあいだ、わたしはロビーのソファーでずっとまっていました。",
     "sentence_en": "While my mother was handling procedures at the bank, I was waiting on the lobby sofa the whole time.",
     "question": "母が銀行で手続きをしている（　　　）、私はロビーのソファーでずっと待っていました。",
     "choices": [
@@ -5679,7 +5679,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "during the whole time ~; while ~",
     "similar": "あいだに、ながら、うちは",
     "sentence_jp": "夏休みのあいだ、毎日図書館へ行ってレポートを書いていました。",
-    "sentence_furigana": "夏休みのあいだ、毎日図書館へ行ってレポートを書いていました。",
+    "sentence_furigana": "なつやすみのあいだ、まいにちとしょかんへいってレポートをかいていました。",
     "sentence_en": "During summer vacation, I went to the library every day and worked on my report.",
     "question": "（　　　）、毎日図書館へ行ってレポートを書いていました。",
     "choices": [
@@ -5709,7 +5709,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "during the whole time ~; while ~",
     "similar": "あいだに、ながら、うちは",
     "sentence_jp": "電車に乗っているあいだ、ずっと窓から外の景色を見ていました。",
-    "sentence_furigana": "電車に乗っているあいだ、ずっと窓から外の景色を見ていました。",
+    "sentence_furigana": "でんしゃにのっているあいだ、ずっとまどからそとのけしきをみていました。",
     "sentence_en": "While riding on the train, I was looking at the scenery outside the window the whole time.",
     "question": "電車に（　　　）、ずっと窓から外の景色を見ていました。",
     "choices": [
@@ -5739,7 +5739,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "during the whole time ~; while ~",
     "similar": "あいだに、ながら、うちは",
     "sentence_jp": "両親が共働きで昼間いないあいだ、祖母が私たちの世話をしてくれていました。",
-    "sentence_furigana": "両親が共働きで昼間いないあいだ、祖母が私たちの世話をしてくれていました。",
+    "sentence_furigana": "りょうしんがともばたらきでひるまいないあいだ、そぼがわたしたちのせわをしてくれていました。",
     "sentence_en": "While my parents were both working and away during the daytime, my grandmother used to take care of us.",
     "question": "両親が共働きで昼間いない（　　　）、祖母が私たちの世話をしてくれていました。",
     "choices": [
@@ -5769,7 +5769,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while ~ (an event happens within that time span)",
     "similar": "あいだ、うちに、までに",
     "sentence_jp": "私がシャワーを浴びているあいだに、誰かから電話があったようです。",
-    "sentence_furigana": "私がシャワーを浴びているあいだに、誰かから電話があったようです。",
+    "sentence_furigana": "わたしがシャワーをあびているあいだに、だれかからでんわがあったようです。",
     "sentence_en": "It seems there was a phone call from someone while I was taking a shower.",
     "question": "私がシャワーを浴びている（　　　）、誰かから電話があったようです。",
     "choices": [
@@ -5798,10 +5798,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "あいだに",
     "meaning_en": "while ~ (an event happens within that time span)",
     "similar": "あいだ、うちに、までに",
-    "sentence_jp": "忘れないあいだに、今すぐ手帳に約束の時間をメモしておきましょう。",
-    "sentence_furigana": "忘れないあいだに、今すぐ手帳に約束の時間をメモしておきましょう。",
-    "sentence_en": "While we haven't forgotten, let's jot down the appointment time in our planner right now.",
-    "question": "忘れない（　　　）、今すぐ手帳に約束の時間をメモしておきましょう。",
+    "sentence_jp": "弟が部屋で寝ているあいだに、誕生日プレゼントを机の上に置いておきました。",
+    "sentence_furigana": "おとうとがへやでねているあいだに、たんじょうびプレゼントをつくえのうえにおいておきました。",
+    "sentence_en": "While my little brother was sleeping in his room, I put his birthday present on his desk.",
+    "question": "弟が部屋で寝ている（　　　）、誕生日プレゼントを机の上に置いておきました。",
     "choices": [
       "あいだに",
       "あとで",
@@ -5811,8 +5811,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あいだに",
     "notes": "「<ruby>忘<rt>わす</rt></ruby>れない<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている<ruby>期間<rt>きかん</rt></ruby><ruby>内<rt>ない</rt></ruby>にメモする」という<ruby>完了<rt>かんりょう</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>なので、「<ruby>忘<rt>わす</rt></ruby>れないあいだに」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Jotting down a note within the window before forgetting requires ない-form + あいだに.",
-    "question_ruby": "<ruby>忘<rt>わす</rt></ruby>れない（　　　）、<ruby>今<rt>いま</rt></ruby>すぐ<ruby>手帳<rt>てちょう</rt></ruby>に<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>をメモしておきましょう。",
-    "sentence_jp_ruby": "<ruby>忘<rt>わす</rt></ruby>れないあいだに、<ruby>今<rt>いま</rt></ruby>すぐ<ruby>手帳<rt>てちょう</rt></ruby>に<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>をメモしておきましょう。",
+    "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>ている（　　　）、<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>プレゼントを<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておきました。",
+    "sentence_jp_ruby": "<ruby>弟<rt>おとうと</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>ているあいだに、<ruby>誕生<rt>たんじょう</rt></ruby><ruby>日<rt>び</rt></ruby>プレゼントを<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておきました。",
     "choices_ruby": [
       "あいだに",
       "あとで",
@@ -5829,7 +5829,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while ~ (an event happens within that time span)",
     "similar": "あいだ、うちに、までに",
     "sentence_jp": "しばらく会わないあいだに、甥の背がとても高くなっていてびっくりしました。",
-    "sentence_furigana": "しばらく会わないあいだに、甥の背がとても高くなっていてびっくりしました。",
+    "sentence_furigana": "しばらくあわないあいだに、おいのせがとてもたかくなっていてびっくりしました。",
     "sentence_en": "While I hadn't seen him for a while, my nephew had grown very tall, which surprised me.",
     "question": "しばらく会わない（　　　）、甥の背がとても高くなっていてびっくりしました。",
     "choices": [
@@ -5859,7 +5859,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "while ~ (an event happens within that time span)",
     "similar": "あいだ、うちに、までに",
     "sentence_jp": "夏休みのあいだに、自転車の乗り方をすっかりマスターしました。",
-    "sentence_furigana": "夏休みのあいだに、自転車の乗り方をすっかりマスターしました。",
+    "sentence_furigana": "なつやすみのあいだに、じてんしゃののりかたをすっかりマスターしました。",
     "sentence_en": "During summer vacation, I completely mastered how to ride a bicycle.",
     "question": "（　　　）、自転車の乗り方をすっかりマスターしました。",
     "choices": [
@@ -5889,7 +5889,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by (a deadline); before ~",
     "similar": "まで、あいだに、まえに",
     "sentence_jp": "パーティーに参加する人は、今月の20日までに申し込んでください。",
-    "sentence_furigana": "パーティーに参加する人は、今月の20日までに申し込んでください。",
+    "sentence_furigana": "パーティーにさんかするひとは、こんげつのはつかまでにもうしこんでください。",
     "sentence_en": "Those who will participate in the party, please sign up by the 20th of this month.",
     "question": "パーティーに参加する人は、今月の20日（　　　）申し込んでください。",
     "choices": [
@@ -5901,8 +5901,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "までに",
     "notes": "「<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む」の<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>り（<ruby>期限<rt>きげん</rt></ruby>）を<ruby>表<rt>あらわ</rt></ruby>すので「までに」が<ruby>正解<rt>せいかい</rt></ruby>です。「まで」は<ruby>継続<rt>けいぞく</rt></ruby>にしか<ruby>使<rt>つか</rt></ruby>えません。 / Signing up has a deadline ('by the 20th'), requiring までに.",
-    "question_ruby": "パーティーに<ruby>参加<rt>さんか</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby>の20<ruby>日<rt>はつか</rt></ruby>（　　　）<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んでください。",
-    "sentence_jp_ruby": "パーティーに<ruby>参加<rt>さんか</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby>の20<ruby>日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んでください。",
+    "question_ruby": "パーティーに<ruby>参加<rt>さんか</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>20日<rt>はつか</rt></ruby>（　　　）<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んでください。",
+    "sentence_jp_ruby": "パーティーに<ruby>参加<rt>さんか</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>20日<rt>はつか</rt></ruby>までに<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んでください。",
     "choices_ruby": [
       "まで",
       "までに",
@@ -5919,7 +5919,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by (a deadline); before ~",
     "similar": "まで、あいだに、まえに",
     "sentence_jp": "お客さまが来るまでに、会議室の準備を終わらせておきましょう。",
-    "sentence_furigana": "お客さまが来るまでに、会議室の準備を終わらせておきましょう。",
+    "sentence_furigana": "おきゃくさまがくるまでに、かいぎしつのじゅんびをおわらせておきましょう。",
     "sentence_en": "Let's finish preparing the conference room by the time the client arrives.",
     "question": "お客さまが（　　　）、会議室の準備を終わらせておきましょう。",
     "choices": [
@@ -5949,7 +5949,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by (a deadline); before ~",
     "similar": "まで、あいだに、まえに",
     "sentence_jp": "このレポートは、来週の月曜日の正午までに提出しなければなりません。",
-    "sentence_furigana": "このレポートは、来週の月曜日の正午までに提出しなければなりません。",
+    "sentence_furigana": "このレポートは、らいしゅうのげつようびのしょうごまでにていしゅつしなければなりません。",
     "sentence_en": "This report must be submitted by noon next Monday.",
     "question": "このレポートは、来週の月曜日の正午（　　　）提出しなければなりません。",
     "choices": [
@@ -5979,7 +5979,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "by (a deadline); before ~",
     "similar": "まで、あいだに、まえに",
     "sentence_jp": "電車が出るまでに、駅の売店でお茶と新聞を買いました。",
-    "sentence_furigana": "電車が出るまでに、駅の売店でお茶と新聞を買いました。",
+    "sentence_furigana": "でんしゃがでるまでに、えきのばいてんでおちゃとしんぶんをかいました。",
     "sentence_en": "Before the train departed (by departure time), I bought tea and a newspaper at the station kiosk.",
     "question": "電車が（　　　）、駅の売店でお茶と新聞を買いました。",
     "choices": [
@@ -6009,7 +6009,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go on doing ~; change continuing into the future; move away",
     "similar": "てくる、てしまう、ている",
     "sentence_jp": "日本では、これから少子化がもっと進んでいくと言われています。",
-    "sentence_furigana": "日本では、これから少子化がもっと進んでいくと言われています。",
+    "sentence_furigana": "にほんでは、これからしょうしかがもっとすすんでいくといわれています。",
     "sentence_en": "In Japan, it is said that the declining birthrate will progress even further from now on.",
     "question": "日本では、これから少子化がもっと（　　　）と言われています。",
     "choices": [
@@ -6038,10 +6038,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "ていく",
     "meaning_en": "go on doing ~; change continuing into the future; move away",
     "similar": "てくる、てしまう、ている",
-    "sentence_jp": "{パーティー}には、私が作ったサンドイッチを持っていくつもりです。",
-    "sentence_furigana": "{パーティー}には、私が作ったサンドイッチを持っていくつもりです。",
+    "sentence_jp": "パーティーには、私が作ったサンドイッチを持っていくつもりです。",
+    "sentence_furigana": "パーティーには、わたしがつくったサンドイッチをもっていくつもりです。",
     "sentence_en": "I plan to take the sandwiches I made to the party.",
-    "question": "{パーティー}には、私が作ったサンドイッチを（　　　）つもりです。",
+    "question": "パーティーには、私が作ったサンドイッチを（　　　）つもりです。",
     "choices": [
       "持ちいく",
       "持っていく",
@@ -6051,8 +6051,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "持っていく",
     "notes": "サンドイッチを<ruby>持<rt>も</rt></ruby>ってパーティー<ruby>会場<rt>かいじょう</rt></ruby>へ「<ruby>行<rt>い</rt></ruby>く」ので、「<ruby>持<rt>も</rt></ruby>っていく」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Taking sandwiches and going to the party venue uses 持っていく.",
-    "question_ruby": "{パーティー}には、<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったサンドイッチを（　　　）つもりです。",
-    "sentence_jp_ruby": "{パーティー}には、<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったサンドイッチを<ruby>持<rt>も</rt></ruby>っていくつもりです。",
+    "question_ruby": "パーティーには、<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったサンドイッチを（　　　）つもりです。",
+    "sentence_jp_ruby": "パーティーには、<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったサンドイッチを<ruby>持<rt>も</rt></ruby>っていくつもりです。",
     "choices_ruby": [
       "<ruby>持<rt>も</rt></ruby>ちいく",
       "<ruby>持<rt>も</rt></ruby>っていく",
@@ -6069,7 +6069,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go on doing ~; change continuing into the future; move away",
     "similar": "てくる、てしまう、ている",
     "sentence_jp": "帽子が強い風で、向こうの川の方へ飛んでいってしまいました。",
-    "sentence_furigana": "帽子が強い風で、向こうの川の方へ飛んでいってしまいました。",
+    "sentence_furigana": "ぼうしがつよいかぜで、むこうのかわのほうへとんでいってしまいました。",
     "sentence_en": "My hat flew away toward the river over there in the strong wind.",
     "question": "帽子が強い風で、向こうの川の方へ（　　　）しまいました。",
     "choices": [
@@ -6099,7 +6099,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "go on doing ~; change continuing into the future; move away",
     "similar": "てくる、てしまう、ている",
     "sentence_jp": "どんなに難しくても、夢のためにこれからも努力を続けていきたいです。",
-    "sentence_furigana": "どんなに難しくても、夢のためにこれからも努力を続けていきたいです。",
+    "sentence_furigana": "どんなにむずかしくても、ゆめのためにこれからもどりょくをつづけていきたいです。",
     "sentence_en": "No matter how difficult it is, I want to keep making efforts for my dream from now on too.",
     "question": "どんなに難しくても、夢のためにこれからも努力を（　　　）たいです。",
     "choices": [
@@ -6129,7 +6129,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do ~; start doing ~; continue up to now",
     "similar": "ていく、はじめる、だす",
     "sentence_jp": "ここで少し待っていてください。ちょっと売店で飲み物を買ってきますから。",
-    "sentence_furigana": "ここで少し待っていてください。ちょっと売店で飲み物を買ってきますから。",
+    "sentence_furigana": "ここですこしまっていてください。ちょっとばいてんでのみものをかってきますから。",
     "sentence_en": "Please wait here for a moment. I'll go buy some drinks at the kiosk and be right back.",
     "question": "ここで少し待っていてください。ちょっと売店で飲み物を（　　　）から。",
     "choices": [
@@ -6159,7 +6159,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do ~; start doing ~; continue up to now",
     "similar": "ていく、はじめる、だす",
     "sentence_jp": "朝から何も食べていないので、だんだんおなかが空いてきました。",
-    "sentence_furigana": "朝から何も食べていないので、だんだんおなかが空いてきました。",
+    "sentence_furigana": "あさからなにもたべていないので、だんだんおなかがすいてきました。",
     "sentence_en": "Since I haven't eaten anything since morning, I've gradually started getting hungry.",
     "question": "朝から何も食べていないので、だんだんおなかが（　　　）。",
     "choices": [
@@ -6170,7 +6170,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "空いてきました",
-    "notes": "<ruby>体<rt>からだ</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>や<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって<ruby>現在<rt>げんざい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ることを<ruby>表<rt>あらわ</rt></ruby>すので、「<ruby>空<rt>す</rt></ruby>いてきました」が<ruby>正解<rt>せいかい</rt></ruby>です。 / For the gradual onset of a physical sensation up to the present ('have gotten hungry'), use {空|す}いてきました.",
+    "notes": "<ruby>体<rt>からだ</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>や<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって<ruby>現在<rt>げんざい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ることを<ruby>表<rt>あらわ</rt></ruby>すので、「<ruby>空<rt>す</rt></ruby>いてきました」が<ruby>正解<rt>せいかい</rt></ruby>です。 / For the gradual onset of a physical sensation up to the present ('have gotten hungry'), use <ruby>空<rt>す</rt></ruby>いてきました.",
     "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていないので、だんだんおなかが（　　　）。",
     "sentence_jp_ruby": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていないので、だんだんおなかが<ruby>空<rt>す</rt></ruby>いてきました。",
     "choices_ruby": [
@@ -6189,7 +6189,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do ~; start doing ~; continue up to now",
     "similar": "ていく、はじめる、だす",
     "sentence_jp": "この伝統的な祭りは、昔から町の人たちによってずっと守られてきました。",
-    "sentence_furigana": "この伝統的な祭りは、昔から町の人たちによってずっと守られてきました。",
+    "sentence_furigana": "このでんとうてきなまつりは、むかしからまちのひとたちによってずっとまもられてきました。",
     "sentence_en": "This traditional festival has been protected by the townspeople since long ago.",
     "question": "この伝統的な祭りは、昔から町の人たちによってずっと（　　　）。",
     "choices": [
@@ -6219,7 +6219,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "come to do ~; start doing ~; continue up to now",
     "similar": "ていく、はじめる、だす",
     "sentence_jp": "あ、ポツポツと雨が降ってきましたよ。早く洗濯物を入れましょう。",
-    "sentence_furigana": "あ、ポツポツと雨が降ってきましたよ。早く洗濯物を入れましょう。",
+    "sentence_furigana": "あ、ポツポツとあめがふってきましたよ。はやくせんたくものをいれましょう。",
     "sentence_en": "Oh, it's started raining in drops. Let's bring the laundry inside quickly.",
     "question": "あ、ポツポツと雨が（　　　）よ。早く洗濯物を入れましょう。",
     "choices": [
@@ -6249,7 +6249,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "way of doing ~; how to ~",
     "similar": "どうやって、方法、ように",
     "sentence_jp": "すみません、ここから市民病院までの行き方を教えていただけませんか。",
-    "sentence_furigana": "すみません、ここから市民病院までの行き方を教えていただけませんか。",
+    "sentence_furigana": "すみません、ここからしみんびょういんまでのいきかたをおしえていただけませんか。",
     "sentence_en": "Excuse me, could you tell me how to get to the City Hospital from here?",
     "question": "すみません、ここから市民病院までの（　　　）を教えていただけませんか。",
     "choices": [
@@ -6279,7 +6279,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "way of doing ~; how to ~",
     "similar": "どうやって、方法、ように",
     "sentence_jp": "祖母に、おいしくて簡単なお味噌汁の作り方を教えてもらいました。",
-    "sentence_furigana": "祖母に、おいしくて簡単なお味噌汁の作り方を教えてもらいました。",
+    "sentence_furigana": "そぼに、おいしくてかんたんなおみそしるのつくりかたをおしえてもらいました。",
     "sentence_en": "I had my grandmother teach me how to make delicious and easy miso soup.",
     "question": "祖母に、おいしくて簡単なお味噌汁（　　　）を教えてもらいました。",
     "choices": [
@@ -6290,7 +6290,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "の作り方",
-    "notes": "「<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>」は<ruby>名詞<rt>めいし</rt></ruby>なので、<ruby>前<rt>まえ</rt></ruby>の「お<ruby>味噌汁<rt>みそしる</rt></ruby>」とは「を」ではなく「の」でつなぎ、「お<ruby>味噌汁<rt>みそしる</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>」にします。 / Since 作り{方|かた} is a noun, link the preceding object with の (お味噌汁の作り{方|かた}), never を.",
+    "notes": "「<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>」は<ruby>名詞<rt>めいし</rt></ruby>なので、<ruby>前<rt>まえ</rt></ruby>の「お<ruby>味噌汁<rt>みそしる</rt></ruby>」とは「を」ではなく「の」でつなぎ、「お<ruby>味噌汁<rt>みそしる</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>」にします。 / Since 作り<ruby>方<rt>かた</rt></ruby> is a noun, link the preceding object with の (お味噌汁の作り<ruby>方<rt>かた</rt></ruby>), never を.",
     "question_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>に、おいしくて<ruby>簡単<rt>かんたん</rt></ruby>なお<ruby>味噌汁<rt>みそしる</rt></ruby>（　　　）を<ruby>教<rt>おし</rt></ruby>えてもらいました。",
     "sentence_jp_ruby": "<ruby>祖母<rt>そぼ</rt></ruby>に、おいしくて<ruby>簡単<rt>かんたん</rt></ruby>なお<ruby>味噌汁<rt>みそしる</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらいました。",
     "choices_ruby": [
@@ -6309,7 +6309,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "way of doing ~; how to ~",
     "similar": "どうやって、方法、ように",
     "sentence_jp": "このアプリでの飛行機の切符の予約のし方がわからないので、手伝ってください。",
-    "sentence_furigana": "このアプリでの飛行機の切符の予約のし方がわからないので、手伝ってください。",
+    "sentence_furigana": "このアプリでのひこうきのきっぷのよやくのしかたがわからないので、てつだってください。",
     "sentence_en": "I don't know how to book a plane ticket on this app, so please help me.",
     "question": "このアプリでの飛行機の切符の（　　　）がわからないので、手伝ってください。",
     "choices": [
@@ -6320,7 +6320,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "予約のし方",
-    "notes": "Ⅲグループ（する<ruby>動詞<rt>どうし</rt></ruby>）の「<ruby>予約<rt>よやく</rt></ruby>する」を「〜<ruby>方<rt>かた</rt></ruby>」にするときは、「の」を<ruby>入<rt>い</rt></ruby>れて「<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>」にします。 / For suru-verbs like 予約する, insert の before し方 → 予約のし{方|かた}.",
+    "notes": "Ⅲグループ（する<ruby>動詞<rt>どうし</rt></ruby>）の「<ruby>予約<rt>よやく</rt></ruby>する」を「〜<ruby>方<rt>かた</rt></ruby>」にするときは、「の」を<ruby>入<rt>い</rt></ruby>れて「<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>」にします。 / For suru-verbs like 予約する, insert の before し方 → 予約のし<ruby>方<rt>かた</rt></ruby>.",
     "question_ruby": "このアプリでの<ruby>飛行機の切符<rt>ひこうきのきっぷ</rt></ruby>の（　　　）がわからないので、<ruby>手伝<rt>てつだ</rt></ruby>ってください。",
     "sentence_jp_ruby": "このアプリでの<ruby>飛行機の切符<rt>ひこうきのきっぷ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>がわからないので、<ruby>手伝<rt>てつだ</rt></ruby>ってください。",
     "choices_ruby": [
@@ -6339,7 +6339,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "way of doing ~; how to ~",
     "similar": "どうやって、方法、ように",
     "sentence_jp": "鈴木さんはいつも丁寧で、お客さまとの話し方がとても上手です。",
-    "sentence_furigana": "鈴木さんはいつも丁寧で、お客さまとの話し方がとても上手です。",
+    "sentence_furigana": "すずきさんはいつもていねいで、おきゃくさまとのはなしかたがとてもじょうずです。",
     "sentence_en": "Ms. Suzuki is always polite and very good at the way she speaks with customers.",
     "question": "鈴木さんはいつも丁寧で、お客さまとの（　　　）がとても上手です。",
     "choices": [
@@ -6350,7 +6350,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "話し方",
-    "notes": "「<ruby>話<rt>はな</rt></ruby>す<ruby>様子<rt>ようす</rt></ruby>・スキル」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>名詞<rt>めいし</rt></ruby>は、ます<ruby>形<rt>けい</rt></ruby>「<ruby>話<rt>はな</rt></ruby>し」＋「<ruby>方<rt>かた</rt></ruby>」の「<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby>」です。 / Use Verb-masu stem + 方 (話し{方|かた}) to refer to someone's manner or skill of speaking.",
+    "notes": "「<ruby>話<rt>はな</rt></ruby>す<ruby>様子<rt>ようす</rt></ruby>・スキル」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>名詞<rt>めいし</rt></ruby>は、ます<ruby>形<rt>けい</rt></ruby>「<ruby>話<rt>はな</rt></ruby>し」＋「<ruby>方<rt>かた</rt></ruby>」の「<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby>」です。 / Use Verb-masu stem + 方 (話し<ruby>方<rt>かた</rt></ruby>) to refer to someone's manner or skill of speaking.",
     "question_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいつも<ruby>丁寧<rt>ていねい</rt></ruby>で、お<ruby>客<rt>きゃく</rt></ruby>さまとの（　　　）がとても<ruby>上手<rt>じょうず</rt></ruby>です。",
     "sentence_jp_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんはいつも<ruby>丁寧<rt>ていねい</rt></ruby>で、お<ruby>客<rt>きゃく</rt></ruby>さまとの<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby>がとても<ruby>上手<rt>じょうず</rt></ruby>です。",
     "choices_ruby": [
@@ -6369,7 +6369,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "start doing ~",
     "similar": "出す、てくる、ようになる",
     "sentence_jp": "弟は、来月の試合のために毎日プールで泳ぎ始めました。",
-    "sentence_furigana": "弟は、来月の試合のために毎日プールで泳ぎ始めました。",
+    "sentence_furigana": "おとうとは、らいげつのしあいのためにまいにちプールでおよぎはじめました。",
     "sentence_en": "My younger brother has started swimming in the pool every day for next month's match.",
     "question": "弟は、来月の試合のために毎日プールで（　　　）。",
     "choices": [
@@ -6399,7 +6399,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "start doing ~",
     "similar": "出す、てくる、ようになる",
     "sentence_jp": "暖かくなって、庭のチューリップが少しずつ咲き始めました。",
-    "sentence_furigana": "暖かくなって、庭のチューリップが少しずつ咲き始めました。",
+    "sentence_furigana": "あたたかくなって、にわのチューリップがすこしずつさきはじめました。",
     "sentence_en": "It has gotten warmer, and the tulips in the garden have gradually started blooming.",
     "question": "暖かくなって、庭のチューリップが少しずつ（　　　）。",
     "choices": [
@@ -6429,7 +6429,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "start doing ~",
     "similar": "出す、てくる、ようになる",
     "sentence_jp": "A：その小説はおもしろいですか。B：きのう読み始めたばかりなので、まだわかりません。",
-    "sentence_furigana": "A：その小説はおもしろいですか。B：きのう読み始めたばかりなので、まだわかりません。",
+    "sentence_furigana": "A：そのしょうせつはおもしろいですか。B：きのうよみはじめたばかりなので、まだわかりません。",
     "sentence_en": "A: Is that novel interesting? B: Since I only just started reading it yesterday, I don't know yet.",
     "question": "A：その小説はおもしろいですか。B：きのう（　　　）ばかりなので、まだわかりません。",
     "choices": [
@@ -6459,7 +6459,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "start doing ~",
     "similar": "出す、てくる、ようになる",
     "sentence_jp": "このデパートは、朝10時になるとお客さんがたくさん入り始めます。",
-    "sentence_furigana": "このデパートは、朝10時になるとお客さんがたくさん入り始めます。",
+    "sentence_furigana": "このデパートは、あさ10じになるとおきゃくさんがたくさんはいりはじめます。",
     "sentence_en": "At this department store, when 10 AM comes, customers start coming in in large numbers.",
     "question": "このデパートは、朝10時になるとお客さんがたくさん（　　　）。",
     "choices": [
@@ -6489,7 +6489,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish doing ~",
     "similar": "てしまう、おえる、たところだ",
     "sentence_jp": "その雑誌を読み終わったら、次に私にも見せてくださいね。",
-    "sentence_furigana": "その雑誌を読み終わったら、次に私にも見せてくださいね。",
+    "sentence_furigana": "そのざっしをよみおわったら、つぎにわたしにもみせてくださいね。",
     "sentence_en": "When you finish reading that magazine, please show it to me next.",
     "question": "その雑誌を（　　　）、次に私にも見せてくださいね。",
     "choices": [
@@ -6519,7 +6519,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish doing ~",
     "similar": "てしまう、おえる、たところだ",
     "sentence_jp": "ハサミを使い終わったあとは、かならず元の引き出しに戻してください。",
-    "sentence_furigana": "ハサミを使い終わったあとは、かならず元の引き出しに戻してください。",
+    "sentence_furigana": "ハサミをつかいおわったあとは、かならずもとのひきだしにもどしてください。",
     "sentence_en": "After you finish using the scissors, please always put them back in the original drawer.",
     "question": "ハサミを（　　　）あとは、かならず元の引き出しに戻してください。",
     "choices": [
@@ -6549,7 +6549,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish doing ~",
     "similar": "てしまう、おえる、たところだ",
     "sentence_jp": "3時間かかって、ようやく長いレポートを最後まで書き終わりました。",
-    "sentence_furigana": "3時間かかって、ようやく長いレポートを最後まで書き終わりました。",
+    "sentence_furigana": "3じかんかかって、ようやくながいレポートをさいごまでかきおわりました。",
     "sentence_en": "Taking three hours, I finally finished writing the long report all the way to the end.",
     "question": "3時間かかって、ようやく長いレポートを最後まで（　　　）。",
     "choices": [
@@ -6579,12 +6579,12 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "finish doing ~",
     "similar": "てしまう、おえる、たところだ",
     "sentence_jp": "お皿をすべて洗い終わってから、リビングでゆっくりお茶を飲みました。",
-    "sentence_furigana": "お皿をすべて洗い終わってから、リビングでゆっくりお茶を飲みました。",
-    "sentence_en": "After finishing washing all the dishes, I relaxed and drank tea in the living room.",
+    "sentence_furigana": "おさらをすべてあらいおわってから、リビングでゆっくりおちゃをのみました。",
+    "sentence_en": "After I finished washing all the dishes, I relaxed and drank tea in the living room.",
     "question": "お皿をすべて（　　　）から、リビングでゆっくりお茶を飲みました。",
     "choices": [
       "洗い終わるて",
-      "洗우終わって",
+      "洗う終わって",
       "洗い終わって",
       "洗って終わって"
     ],
@@ -6595,7 +6595,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "お<ruby>皿<rt>さら</rt></ruby>をすべて<ruby>洗<rt>あら</rt></ruby>い<ruby>終<rt>お</rt></ruby>わってから、リビングでゆっくりお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
     "choices_ruby": [
       "<ruby>洗<rt>あら</rt></ruby>い<ruby>終<rt>お</rt></ruby>わるて",
-      "<ruby>洗<rt>あら</rt></ruby>우<ruby>終<rt>お</rt></ruby>わって",
+      "<ruby>洗<rt>あら</rt></ruby>う<ruby>終<rt>お</rt></ruby>わって",
       "<ruby>洗<rt>あら</rt></ruby>い<ruby>終<rt>お</rt></ruby>わって",
       "<ruby>洗<rt>あら</rt></ruby>って<ruby>終<rt>お</rt></ruby>わって"
     ],
@@ -6609,7 +6609,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "continue doing ~",
     "similar": "ている、ていく、っぱなし",
     "sentence_jp": "満員電車の中で1時間ずっと立ち続けたので、足がすっかり疲れました。",
-    "sentence_furigana": "満員電車の中で1時間ずっと立ち続けたので、足がすっかり疲れました。",
+    "sentence_furigana": "まんいんでんしゃのなかで1じかんずっとたちつづけたので、あしがすっかりつかれました。",
     "sentence_en": "Because I kept standing for a whole hour inside the packed train, my legs got completely tired.",
     "question": "満員電車の中で1時間ずっと（　　　）ので、足がすっかり疲れました。",
     "choices": [
@@ -6639,7 +6639,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "continue doing ~",
     "similar": "ている、ていく、っぱなし",
     "sentence_jp": "台風のせいで、おとといから強い風が吹き続けています。",
-    "sentence_furigana": "台風のせいで、おとといから強い風が吹き続けています。",
+    "sentence_furigana": "たいふうのせいで、おとといからつよいかぜがふきつづけています。",
     "sentence_en": "Because of the typhoon, strong winds have kept blowing since the day before yesterday.",
     "question": "台風のせいで、おとといから強い風が（　　　）います。",
     "choices": [
@@ -6669,7 +6669,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "continue doing ~",
     "similar": "ている、ていく、っぱなし",
     "sentence_jp": "どんなに失敗しても、あきらめないで挑戦し続けることが大切です。",
-    "sentence_furigana": "どんなに失敗しても、あきらめないで挑戦し続けることが大切です。",
+    "sentence_furigana": "どんなにしっぱいしても、あきらめないでちょうせんしつづけることがたいせつです。",
     "sentence_en": "No matter how many times you fail, it is important to keep challenging yourself without giving up.",
     "question": "どんなに失敗しても、あきらめないで（　　　）ことが大切です。",
     "choices": [
@@ -6699,7 +6699,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "continue doing ~",
     "similar": "ている、ていく、っぱなし",
     "sentence_jp": "ステージの上で2時間も歌い続けるあの歌手は、本当にすごいと思います。",
-    "sentence_furigana": "ステージの上で2時間も歌い続けるあの歌手は、本当にすごいと思います。",
+    "sentence_furigana": "ステージのうえで2じかんもうたいつづけるあのかしゅは、ほんとうにすごいとおもいます。",
     "sentence_en": "I think that singer who keeps singing on stage for two whole hours is truly amazing.",
     "question": "ステージの上で2時間も（　　　）あの歌手は、本当にすごいと思います。",
     "choices": [
@@ -6729,7 +6729,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "redo; do ~ over again",
     "similar": "もう一度〜する、てみる、替える",
     "sentence_jp": "作ったスープの味が薄かったので、塩を入れて味を調え直しました。",
-    "sentence_furigana": "作ったスープの味が薄かったので、塩を入れて味を調え直しました。",
+    "sentence_furigana": "つくったスープのあじがうすかったので、しおをいれてあじをととのえなおしました。",
     "sentence_en": "Because the soup I made tasted weak, I added salt and readjusted the seasoning.",
     "question": "作ったスープの味が薄かったので、塩を入れて味を（　　　）。",
     "choices": [
@@ -6759,7 +6759,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "redo; do ~ over again",
     "similar": "もう一度〜する、てみる、替える",
     "sentence_jp": "彼の意見を聞いて、自分の計画をもう一度考え直すことにしました。",
-    "sentence_furigana": "彼の意見を聞いて、自分の計画をもう一度考え直すことにしました。",
+    "sentence_furigana": "かれのいけんをきいて、じぶんのけいかくをもういちどかんがえなおすことにしました。",
     "sentence_en": "After hearing his opinion, I decided to reconsider my plan once more.",
     "question": "彼の意見を聞いて、自分の計画をもう一度（　　　）ことにしました。",
     "choices": [
@@ -6789,7 +6789,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "redo; do ~ over again",
     "similar": "もう一度〜する、てみる、替える",
     "sentence_jp": "写真が暗く写ってしまったので、明るい場所でもう一枚撮り直しました。",
-    "sentence_furigana": "写真が暗く写ってしまったので、明るい場所でもう一枚撮り直しました。",
+    "sentence_furigana": "しゃしんがくらくうつってしまったので、あかるいばしょでもういちまいとりなおしました。",
     "sentence_en": "Because the photo came out dark, I retook another one in a bright place.",
     "question": "写真が暗く写ってしまったので、明るい場所でもう一枚（　　　）。",
     "choices": [
@@ -6819,7 +6819,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "redo; do ~ over again",
     "similar": "もう一度〜する、てみる、替える",
     "sentence_jp": "並べた本の順番がバラバラだったので、番号順に並べ直しました。",
-    "sentence_furigana": "並べた本の順番がバラバラだったので、番号順に並べ直しました。",
+    "sentence_furigana": "ならべたほんのじゅんばんがバラバラだったので、ばんごうじゅんにならべなおしました。",
     "sentence_en": "Because the order of the lined-up books was mixed up, I rearranged them in numerical order.",
     "question": "並べた本の順番がバラバラだったので、番号順に（　　　）。",
     "choices": [
@@ -6849,7 +6849,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "suddenly start doing ~; burst out ~",
     "similar": "始める、てくる、てしまう",
     "sentence_jp": "静かな図書館の中で、隣の人が急に歌い出したので驚きました。",
-    "sentence_furigana": "静かな図書館の中で、隣の人が急に歌い出したので驚きました。",
+    "sentence_furigana": "しずかなとしょかんのなかで、となりのひとがきゅうにうたいだしたのでおどろきました。",
     "sentence_en": "Inside the quiet library, the person next to me suddenly started singing, which surprised me.",
     "question": "静かな図書館の中で、隣の人が急に（　　　）ので驚きました。",
     "choices": [
@@ -6879,7 +6879,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "suddenly start doing ~; burst out ~",
     "similar": "始める、てくる、てしまう",
     "sentence_jp": "さっきまでいい天気だったのに、突然強い雨が降り出しました。",
-    "sentence_furigana": "さっきまでいい天気だったのに、突然強い雨が降り出しました。",
+    "sentence_furigana": "さっきまでいいてんきだったのに、とつぜんつよいあめがふりだしました。",
     "sentence_en": "Even though the weather was nice until a moment ago, heavy rain suddenly started falling.",
     "question": "さっきまでいい天気だったのに、突然強い雨が（　　　）。",
     "choices": [
@@ -6909,7 +6909,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "suddenly start doing ~; burst out ~",
     "similar": "始める、てくる、てしまう",
     "sentence_jp": "ポケットの中から小銭を取り出して、自動販売機に入れました。",
-    "sentence_furigana": "ポケットの中から小銭を取り出して、自動販売機に入れました。",
+    "sentence_furigana": "ポケットのなかからこぜにをとりだして、じどうはんばいきにいれました。",
     "sentence_en": "I took small change out of my pocket and put it into the vending machine.",
     "question": "ポケットの中から小銭を（　　　）、自動販売機に入れました。",
     "choices": [
@@ -6939,7 +6939,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "suddenly start doing ~; burst out ~",
     "similar": "始める、てくる、てしまう",
     "sentence_jp": "友だちの顔を見た瞬間、おかしくなって思わず笑い出してしまいました。",
-    "sentence_furigana": "友だちの顔を見た瞬間、おかしくなって思わず笑い出してしまいました。",
+    "sentence_furigana": "ともだちのかおをみたしゅんかん、おかしくなっておもわずわらいだしてしまいました。",
     "sentence_en": "The moment I saw my friend's face, it was so funny that I couldn't help bursting out laughing.",
     "question": "友だちの顔を見た瞬間、おかしくなって思わず（　　　）しまいました。",
     "choices": [
@@ -6969,7 +6969,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "only ~; nothing but ~",
     "similar": "だけ、しか〜ない、たばかり",
     "sentence_jp": "弟は毎日、部屋でマンガを読んでばかりいて、ちっとも勉強しません。",
-    "sentence_furigana": "弟は毎日、部屋でマンガを読んでばかりいて、ちっとも勉強しません。",
+    "sentence_furigana": "おとうとはまいにち、へやでマンガをよんでばかりいて、ちっともべんきょうしません。",
     "sentence_en": "My younger brother does nothing but read manga in his room every day and doesn't study at all.",
     "question": "弟は毎日、部屋でマンガを（　　　）いて、ちっとも勉強しません。",
     "choices": [
@@ -6999,7 +6999,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "only ~; nothing but ~",
     "similar": "だけ、しか〜ない、たばかり",
     "sentence_jp": "健康に良くないですから、甘いジュースばかり飲むのはやめましょう。",
-    "sentence_furigana": "健康に良くないですから、甘いジュースばかり飲むのはやめましょう。",
+    "sentence_furigana": "けんこうによくないですから、あまいジュースばかりのむのはやめましょう。",
     "sentence_en": "Because it's not good for your health, let's stop drinking nothing but sweet juice.",
     "question": "健康に良くないですから、甘いジュース（　　　）飲むのはやめましょう。",
     "choices": [
@@ -7029,7 +7029,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "only ~; nothing but ~",
     "similar": "だけ、しか〜ない、たばかり",
     "sentence_jp": "このごろ週末になると雨ばかり降って、どこへも出かけられません。",
-    "sentence_furigana": "このごろ週末になると雨ばかり降って、どこへも出かけられません。",
+    "sentence_furigana": "このごろしゅうまつになるとあめばかりふって、どこへもでかけられません。",
     "sentence_en": "Lately, whenever the weekend comes, it does nothing but rain, so I can't go out anywhere.",
     "question": "このごろ週末になると雨（　　　）降って、どこへも出かけられません。",
     "choices": [
@@ -7059,7 +7059,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "only ~; nothing but ~",
     "similar": "だけ、しか〜ない、たばかり",
     "sentence_jp": "そんなにお金を使ってばかりいると、すぐに貯金がなくなってしまいますよ。",
-    "sentence_furigana": "そんなにお金を使ってばかりいると、すぐに貯金がなくなってしまいますよ。",
+    "sentence_furigana": "そんなにおかねをつかってばかりいると、すぐにちょきんがなくなってしまいますよ。",
     "sentence_en": "If you keep doing nothing but spending money like that, your savings will run out right away.",
     "question": "そんなにお金を（　　　）いると、すぐに貯金がなくなってしまいますよ。",
     "choices": [
@@ -7088,10 +7088,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "reading": "うけみ",
     "meaning_en": "possessor / adversative passive (have one's ~ done; suffer from ~)",
     "similar": "られる（直接受身）、てしまう、させられる",
-    "sentence_jp": "{バス}の中で、後ろの人に新しい白い靴を踏まれてしまいました。",
-    "sentence_furigana": "{バス}の中で、後ろの人に新しい白い靴を踏まれてしまいました。",
+    "sentence_jp": "バスの中で、後ろの人に新しい白い靴を踏まれてしまいました。",
+    "sentence_furigana": "バスのなかで、うしろのひとにあたらしいしろいくつをふまれてしまいました。",
     "sentence_en": "On the bus, I had my new white shoes stepped on by the person behind me.",
-    "question": "{バス}の中で、後ろの人に新しい白い靴を（　　　）しまいました。",
+    "question": "バスの中で、後ろの人に新しい白い靴を（　　　）しまいました。",
     "choices": [
       "踏みられて",
       "踏まれて",
@@ -7101,8 +7101,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "踏まれて",
     "notes": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>（<ruby>白<rt>しろ</rt></ruby>い<ruby>靴<rt>くつ</rt></ruby>を）が<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>踏<rt>ふ</rt></ruby>まれて<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた「<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>の<ruby>受身<rt>うけみ</rt></ruby>」なので、Ⅰグループ「<ruby>踏<rt>ふ</rt></ruby>む（fumu）」の<ruby>受身<rt>うけみ</rt></ruby><ruby>形<rt>けい</rt></ruby>「<ruby>踏<rt>ふ</rt></ruby>まれて」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Since your own shoes (白い靴を) were stepped on by the person behind you (後ろの人に), use the passive of Group 1 踏む → 踏まれて.",
-    "question_ruby": "{バス}の<ruby>中<rt>なか</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>白い<rt>しろい</rt></ruby><ruby>靴<rt>くつ</rt></ruby>を（　　　）しまいました。",
-    "sentence_jp_ruby": "{バス}の<ruby>中<rt>なか</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>白い<rt>しろい</rt></ruby><ruby>靴<rt>くつ</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まれてしまいました。",
+    "question_ruby": "バスの<ruby>中<rt>なか</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>白い<rt>しろい</rt></ruby><ruby>靴<rt>くつ</rt></ruby>を（　　　）しまいました。",
+    "sentence_jp_ruby": "バスの<ruby>中<rt>なか</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>白い<rt>しろい</rt></ruby><ruby>靴<rt>くつ</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まれてしまいました。",
     "choices_ruby": [
       "<ruby>踏<rt>ふ</rt></ruby>みられて",
       "<ruby>踏<rt>ふ</rt></ruby>まれて",
@@ -7119,7 +7119,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "possessor / adversative passive (have one's ~ done; suffer from ~)",
     "similar": "られる（直接受身）、てしまう、させられる",
     "sentence_jp": "大切に取っておいたお菓子を、兄に全部食べられてがっかりしました。",
-    "sentence_furigana": "大切に取っておいたお菓子を、兄に全部食べられてがっかりしました。",
+    "sentence_furigana": "たいせつにとっておいたおかしを、あににぜんぶたべられてがっかりしました。",
     "sentence_en": "I was disappointed because I had all the sweets I had been saving carefully eaten by my older brother.",
     "question": "大切に取っておいたお菓子を、兄に全部（　　　）がっかりしました。",
     "choices": [
@@ -7149,7 +7149,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "possessor / adversative passive (have one's ~ done; suffer from ~)",
     "similar": "られる（直接受身）、てしまう、させられる",
     "sentence_jp": "洗濯物を外に干したまま出かけたら、急に雨に降られてしまいました。",
-    "sentence_furigana": "洗濯物を外に干したまま出かけたら、急に雨に降られてしまいました。",
+    "sentence_furigana": "せんたくものをそとにほしたままでかけたら、きゅうにあめにふられてしまいました。",
     "sentence_en": "When I went out leaving the laundry hanging outside, I suddenly got hit by rain (and suffered for it).",
     "question": "洗濯物を外に干したまま出かけたら、急に雨に（　　　）しまいました。",
     "choices": [
@@ -7179,7 +7179,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "possessor / adversative passive (have one's ~ done; suffer from ~)",
     "similar": "られる（直接受身）、てしまう、させられる",
     "sentence_jp": "飛行機の中で、隣の席の赤ちゃんにずっと泣かれて、少しも寝られませんでした。",
-    "sentence_furigana": "飛行機の中で、隣の席の赤ちゃんにずっと泣かれて、少しも寝られませんでした。",
+    "sentence_furigana": "ひこうきのなかで、となりのせきのあかちゃんにずっとなかれて、すこしもねられませんでした。",
     "sentence_en": "On the plane, the baby in the next seat kept crying (to my trouble), so I couldn't sleep at all.",
     "question": "飛行機の中で、隣の席の赤ちゃんにずっと（　　　）、少しも寝られませんでした。",
     "choices": [
@@ -7209,7 +7209,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let me do ~ / kindly allow to do ~",
     "similar": "させる、てもらう、てくれる",
     "sentence_jp": "とても大事なことなので、家族と相談してから決めさせてください。",
-    "sentence_furigana": "とても大事なことなので、家族と相談してから決めさせてください。",
+    "sentence_furigana": "とてもだいじなことなので、かぞくとそうだんしてからきめさせてください。",
     "sentence_en": "Because it is a very important matter, please let me decide after consulting with my family.",
     "question": "とても大事なことなので、家族と相談してから（　　　）ください。",
     "choices": [
@@ -7239,7 +7239,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let me do ~ / kindly allow to do ~",
     "similar": "させる、てもらう、てくれる",
     "sentence_jp": "体調が悪いので、すみませんが、午後の授業を休ませていただけませんか。",
-    "sentence_furigana": "体調が悪いので、すみませんが、午後の授業を休ませていただけませんか。",
+    "sentence_furigana": "たいちょうがわるいので、すみませんが、ごごのじゅぎょうをやすませていただけませんか。",
     "sentence_en": "Because I am feeling unwell, I'm sorry, but could you let me take the afternoon class off?",
     "question": "体調が悪いので、すみませんが、午後の授業を（　　　）いただけませんか。",
     "choices": [
@@ -7269,7 +7269,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let me do ~ / kindly allow to do ~",
     "similar": "させる、てもらう、てくれる",
     "sentence_jp": "私の両親は、私がやりたいと言ったことは何でもやらせてくれました。",
-    "sentence_furigana": "私の両親は、私がやりたいと言ったことは何でもやらせてくれました。",
+    "sentence_furigana": "わたしのりょうしんは、わたしがやりたいといったことはなんでもやらせてくれました。",
     "sentence_en": "My parents kindly let me do whatever I said I wanted to do.",
     "question": "私の両親は、私がやりたいと言ったことは何でも（　　　）。",
     "choices": [
@@ -7299,7 +7299,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "let me do ~ / kindly allow to do ~",
     "similar": "させる、てもらう、てくれる",
     "sentence_jp": "このたびのイベントの結果について、私からご報告させていただきます。",
-    "sentence_furigana": "このたびのイベントの結果について、私からご報告させていただきます。",
+    "sentence_furigana": "このたびのイベントのけっかについて、わたしからごほうこくさせていただきます。",
     "sentence_en": "Allow me to report on the results of this recent event.",
     "question": "このたびのイベントの結果について、私からご（　　　）いただきます。",
     "choices": [
@@ -7329,7 +7329,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if ~; even though ~",
     "similar": "のに、けれども、たら",
     "sentence_jp": "この薬を飲んでもよくならないときは、もう一度病院へ来てください。",
-    "sentence_furigana": "この薬を飲んでもよくならないときは、もう一度病院へ来てください。",
+    "sentence_furigana": "このくすりをのんでもよくならないときは、もういちどびょういんへきてください。",
     "sentence_en": "If you don't get better even after taking this medicine, please come to the hospital again.",
     "question": "この薬を（　　　）よくならないときは、もう一度病院へ来てください。",
     "choices": [
@@ -7359,7 +7359,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if ~; even though ~",
     "similar": "のに、けれども、たら",
     "sentence_jp": "家賃がもう少し高くても、駅から近いアパートに住みたいです。",
-    "sentence_furigana": "家賃がもう少し高くても、駅から近いアパートに住みたいです。",
+    "sentence_furigana": "やちんがもうすこしたかくても、えきからちかいアパートにすみたいです。",
     "sentence_en": "Even if the rent is a little higher, I want to live in an apartment close to the station.",
     "question": "家賃がもう少し（　　　）、駅から近いアパートに住みたいです。",
     "choices": [
@@ -7389,7 +7389,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if ~; even though ~",
     "similar": "のに、けれども、たら",
     "sentence_jp": "うちの近くのスーパーは、日曜日や祝日でも夜11時まで開いています。",
-    "sentence_furigana": "うちの近くのスーパーは、日曜日や祝日でも夜11時まで開いています。",
+    "sentence_furigana": "うちのちかくのスーパーは、にちようびやしゅくじつでもよる11じまであいています。",
     "sentence_en": "The supermarket near my house is open until 11 PM even on Sundays and holidays.",
     "question": "うちの近くのスーパーは、日曜日や祝日（　　　）夜11時まで開いています。",
     "choices": [
@@ -7419,7 +7419,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "meaning_en": "even if ~; even though ~",
     "similar": "のに、けれども、たら",
     "sentence_jp": "どんなに説明を聞いても、この機械の動く仕組みがわかりません。",
-    "sentence_furigana": "どんなに説明を聞いても、この機械の動く仕組みがわかりません。",
+    "sentence_furigana": "どんなにせつめいをきいても、このきかいのうごくしくみがわかりません。",
     "sentence_en": "No matter how much I listen to the explanation, I don't understand how this machine works.",
     "question": "どんなに説明を（　　　）、この機械の動く仕組みがわかりません。",
     "choices": [

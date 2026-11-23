@@ -2219,8 +2219,8 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "source": "実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "病気",
-    "question": "風邪で病気になって、学校を休みました。",
-    "question_ruby": "<ruby>風邪<rt>かぜ</rt></ruby>で<u>病気</u>になって、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みました。",
+    "question": "弟は病気で学校を休みました。",
+    "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みました。",
     "choices": [
       "ひょうき",
       "びょうき",
@@ -3110,8 +3110,8 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "source": "実戦オリジナル問題",
     "category": "漢字読み",
     "target_word": "親切",
-    "question": "駅の人はとても親切でした。",
-    "question_ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はとても<u>親切</u>でした。",
+    "question": "この町の人はとても親切でした。",
+    "question_ruby": "この<ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>でした。",
     "choices": [
       "しんぜつ",
       "しんせつ",
@@ -5513,8 +5513,8 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "source": "実戦オリジナル問題",
     "category": "漢字表記",
     "target_word": "つよい",
-    "question": "この 犬は とても つよいです。",
-    "question_ruby": "この <ruby>犬<rt>いぬ</rt></ruby>は とても <u>つよい</u>です。",
+    "question": "今日は 風が とても つよいです。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は <ruby>風<rt>かぜ</rt></ruby>が とても つよいです。",
     "choices": [
       "張い",
       "弱い",
@@ -5533,7 +5533,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "「強い」は「つよい」。「弱い」は反対の「よわい」です。",
     "target_word_reading": "つよい",
     "correct_text_reading": "つよい",
-    "correct_text_ruby": "強い"
+    "correct_text_ruby": "<ruby>強<rt>つよ</rt></ruby>い"
   },
   {
     "id": 206,
@@ -6080,8 +6080,8 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "source": "実戦オリジナル問題",
     "category": "文脈規定",
     "target_word": "",
-    "question": "ベッドから（　　　）、すぐに顔を洗います。",
-    "question_ruby": "ベッドから（　　　）、すぐに<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+    "question": "朝（　　　）、すぐに顔を洗います。",
+    "question_ruby": "<ruby>朝<rt>あさ</rt></ruby>（　　　）、すぐに<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
     "choices": [
       "着いて",
       "寝て",
@@ -8213,8 +8213,8 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "source": "実戦オリジナル問題",
     "category": "文脈規定",
     "target_word": "",
-    "question": "りんごを三つ、バナナを二つ買いました。全部で（　　　）買いました。",
-    "question_ruby": "りんごを<ruby>三つ<rt>みっつ</rt></ruby>、バナナを<ruby>二つ<rt>ふたつ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。<ruby>全部<rt>ぜんぶ</rt></ruby>で（　　　）<ruby>買<rt>か</rt></ruby>いました。",
+    "question": "りんごを三つ、みかんを二つ買いました。全部で（　　　）買いました。",
+    "question_ruby": "りんごを<ruby>三<rt>みっ</rt></ruby>つ、みかんを<ruby>二<rt>ふた</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。<ruby>全部<rt>ぜんぶ</rt></ruby>で（　　　）<ruby>買<rt>か</rt></ruby>いました。",
     "choices": [
       "五つ",
       "二つ",
@@ -8233,7 +8233,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "三つと二つを合わせると「五つ」です。",
     "target_word_reading": "",
     "correct_text_reading": "いつつ",
-    "correct_text_ruby": "<ruby>五つ<rt>いつつ</rt></ruby>"
+    "correct_text_ruby": "<ruby>五<rt>いつ</rt></ruby>つ"
   },
   {
     "id": 306,
@@ -9055,22 +9055,22 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "choices": [
       "図書館は人が多いです。",
       "図書館は新しいです。",
-      "図書館は音が少ないです。",
-      "図書館は音が大きいです。"
+      "図書館はうるさくないです。",
+      "図書館はうるさいです。"
     ],
     "choices_ruby": [
       "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
       "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいです。",
-      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
-      "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。"
+      "<ruby>図書館<rt>としょかん</rt></ruby>はうるさくないです。",
+      "<ruby>図書館<rt>としょかん</rt></ruby>はうるさいです。"
     ],
     "answer": 2,
-    "correct_text": "図書館は音が少ないです。",
+    "correct_text": "図書館はうるさくないです。",
     "meaning_en": "quiet",
     "explanation": "「静か」は音が少ないことです。「音が大きい」は反対の意味です。",
     "target_word_reading": "しずか",
     "correct_text_reading": "としょかんはおとがすくないです。",
-    "correct_text_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>音<rt>おと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。"
+    "correct_text_ruby": "<ruby>図書館<rt>としょかん</rt></ruby>はうるさくないです。"
   },
   {
     "id": 337,
@@ -9591,7 +9591,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "大勢",
     "question": "【大勢】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>大勢<rt>たいせい</rt></ruby>】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【大勢】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "日曜日の公園には、大勢の人がいました。",
       "テーブルの上に、大勢のりんごがあります。",
@@ -9599,10 +9599,10 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
       "大勢で、一人で映画を見に行きました。"
     ],
     "choices_ruby": [
-      "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。",
-      "テーブルの<ruby>上<rt>うえ</rt></ruby>に、<ruby>大勢<rt>たいせい</rt></ruby>のりんごがあります。",
-      "<ruby>私<rt>わたし</rt></ruby>は<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
-      "<ruby>大勢<rt>たいせい</rt></ruby>で、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
+      "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。",
+      "テーブルの<ruby>上<rt>うえ</rt></ruby>に、<ruby>大勢<rt>おおぜい</rt></ruby>のりんごがあります。",
+      "<ruby>私<rt>わたし</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
+      "<ruby>大勢<rt>おおぜい</rt></ruby>で、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。"
     ],
     "answer": 0,
     "correct_text": "日曜日の公園には、大勢の人がいました。",
@@ -9610,7 +9610,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "「大勢」は人が多いときに使います。物や水には「たくさん」を使います。",
     "target_word_reading": "おおぜい",
     "correct_text_reading": "おおぜい",
-    "correct_text_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。"
+    "correct_text_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>には、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいました。"
   },
   {
     "id": 357,
@@ -9618,7 +9618,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "習う",
     "question": "【習う】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>習<rt>なら</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【習う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "先生は毎週土曜日に、私にピアノを習っています。",
       "弟に誕生日のプレゼントを習いました。",
@@ -9645,7 +9645,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "借りる",
     "question": "【借りる】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>借<rt>か</rt></ruby>りる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【借りる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "友達が自転車を忘れたので、私の自転車を借りてあげました。",
       "友達に自転車を借りて、公園へ行きました。",
@@ -9672,7 +9672,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "着る",
     "question": "【着る】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>着<rt>き</rt></ruby>る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【着る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "眼鏡を着て、新聞を読みます。",
       "夏は、毎日帽子を着て学校へ行きます。",
@@ -9699,7 +9699,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "洗う",
     "question": "【洗う】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>洗<rt>あら</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【洗う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "食事の前に、きれいな水で手を洗います。",
       "コーヒーを洗って、飲みました。",
@@ -9726,7 +9726,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "磨く",
     "question": "【磨く】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>磨<rt>みが</rt></ruby>く】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【磨く】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "雨の日は、傘を磨いて出かけます。",
       "食事の前に、手を磨きます。",
@@ -9753,7 +9753,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "多い",
     "question": "【多い】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>多<rt>おお</rt></ruby>い】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【多い】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "私は、多い友達がいます。",
       "昨日は、多い雨が降りました。",
@@ -9780,7 +9780,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "開ける",
     "question": "【開ける】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>開<rt>あ</rt></ruby>ける】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【開ける】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "暑いので、エアコンを開けます。",
       "暑いので、窓を開けます。",
@@ -9807,7 +9807,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "消す",
     "question": "【消す】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>消<rt>け</rt></ruby>す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【消す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "寝る前に、ドアを消します。",
       "寝る前に、手紙を消します。",
@@ -9834,18 +9834,18 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "終わる",
     "question": "【終わる】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>終<rt>お</rt></ruby>わる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【終わる】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "授業は十二時に終わります。",
-      "私は宿題を終わって、寝ました。",
-      "先生は十二時に授業を終わります。",
-      "仕事を終わったので、帰ります。"
+      "薬を飲んで、風邪が終わりました。",
+      "テーブルのりんごが全部終わりました。",
+      "この時計は、昨日から終わっています。"
     ],
     "choices_ruby": [
-      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。",
-      "<ruby>私<rt>わたし</rt></ruby>は<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>終<rt>お</rt></ruby>わって、<ruby>寝<rt>ね</rt></ruby>ました。",
-      "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>終<rt>お</rt></ruby>わります。",
-      "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>わったので、<ruby>帰<rt>かえ</rt></ruby>ります。"
+      "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十<rt>じゅう</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。",
+      "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで、<ruby>風邪<rt>かぜ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりました。",
+      "テーブルのりんごが<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わりました。",
+      "この<ruby>時計<rt>とけい</rt></ruby>は、<ruby>昨日<rt>きのう</rt></ruby>から<ruby>終<rt>お</rt></ruby>わっています。"
     ],
     "answer": 0,
     "correct_text": "授業は十二時に終わります。",
@@ -9853,7 +9853,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "explanation": "「終わる」は「授業が終わる」のように、物事が主語になります。「〜を終わる」とは言いません。",
     "target_word_reading": "おわる",
     "correct_text_reading": "おわる",
-    "correct_text_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十二時<rt>じゅうにじ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
+    "correct_text_ruby": "<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>十<rt>じゅう</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。"
   },
   {
     "id": 366,
@@ -9861,7 +9861,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "住む",
     "question": "【住む】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>住<rt>す</rt></ruby>む】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【住む】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "私は東京の小さいアパートを住んでいます。",
       "私は東京の小さいアパートに住んでいます。",
@@ -9888,7 +9888,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "乗る",
     "question": "【乗る】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>乗<rt>の</rt></ruby>る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【乗る】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "毎朝、自転車を乗って、学校へ行きます。",
       "駅から会社まで、タクシーを乗ります。",
@@ -9915,7 +9915,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "並ぶ",
     "question": "【並ぶ】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>並<rt>なら</rt></ruby>ぶ】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【並ぶ】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "駅の前で、人が切符を買うために並んでいます。",
       "ここに靴を並んでください。",
@@ -9942,7 +9942,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "貸す",
     "question": "【貸す】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>貸<rt>か</rt></ruby>す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【貸す】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "私は図書館から本を貸しました。",
       "友達に傘を貸してあげました。",
@@ -9969,7 +9969,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "使う",
     "question": "【使う】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>使<rt>つか</rt></ruby>う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【使う】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "ペンを使って、ごはんを食べます。",
       "ナイフを使って、スープを飲みます。",
@@ -9996,7 +9996,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "語彙用法",
     "target_word": "教える",
     "question": "【教える】の 使い方が いちばん 正しい文は どれですか。",
-    "question_ruby": "【<ruby>教<rt>おし</rt></ruby>える】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
+    "question_ruby": "【教える】の <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が いちばん <ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>は どれですか。",
     "choices": [
       "知らない人に道を聞かれたので、駅への行き方を貸しました。",
       "知らない人に道を聞かれたので、駅への行き方を借りました。",

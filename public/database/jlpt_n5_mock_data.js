@@ -23,18 +23,18 @@ window.JLPT_N5_MOCK_DATA = {
           "id": "s1_m1",
           "number": "問題1",
           "name": "漢字読み",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "count": 12
         },
         {
           "id": "s1_m2",
           "number": "問題2",
           "name": "表記",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "instructionEn": "How do you write the underlined word? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "count": 8
         },
         {
@@ -50,9 +50,9 @@ window.JLPT_N5_MOCK_DATA = {
           "id": "s1_m4",
           "number": "問題4",
           "name": "言い換え類義",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "instructionEn": "Which sentence has almost the same meaning as the given sentence? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
           "count": 5
         }
       ],
@@ -949,13 +949,13 @@ window.JLPT_N5_MOCK_DATA = {
       "options": [
         "バスが ゆっくり 来ました。",
         "バスが 遅れて 来ました。",
-        "バスが あまり 待たないで 来ました。",
+        "バスが 来るまで あまり 待ちませんでした。",
         "バスが まだ 来ません。"
       ],
       "optionsRuby": [
         "バスが ゆっくり <ruby>来<rt>き</rt></ruby>ました。",
         "バスが <ruby>遅<rt>おく</rt></ruby>れて <ruby>来<rt>き</rt></ruby>ました。",
-        "バスが あまり <ruby>待<rt>ま</rt></ruby>たないで <ruby>来<rt>き</rt></ruby>ました。",
+        "バスが <ruby>来<rt>く</rt></ruby>るまで あまり <ruby>待<rt>ま</rt></ruby>ちませんでした。",
         "バスが まだ <ruby>来<rt>き</rt></ruby>ません。"
       ],
       "correctIndex": 2,
@@ -971,16 +971,16 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "私の 姉は <u>びょういんの 先生</u>です。",
       "titleRuby": "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は <u>びょういんの <ruby>先生<rt>せんせい</rt></ruby></u>です。",
       "options": [
-        "私の 姉は がくせいです。",
-        "私の 姉は かしゅです。",
-        "私の 姉は ぎんこういんです。",
-        "私の 姉は いしゃです。"
+        "田中さんは がくせいです。",
+        "田中さんは かしゅです。",
+        "田中さんは ぎんこういんです。",
+        "田中さんは いしゃです。"
       ],
       "optionsRuby": [
-        "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は がくせいです。",
-        "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は かしゅです。",
-        "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は ぎんこういんです。",
-        "<ruby>私<rt>わたし</rt></ruby>の <ruby>姉<rt>あね</rt></ruby>は いしゃです。"
+        "<ruby>田中<rt>たなか</rt></ruby>さんは がくせいです。",
+        "<ruby>田中<rt>たなか</rt></ruby>さんは かしゅです。",
+        "<ruby>田中<rt>たなか</rt></ruby>さんは ぎんこういんです。",
+        "<ruby>田中<rt>たなか</rt></ruby>さんは いしゃです。"
       ],
       "correctIndex": 3,
       "weight": 1.0,
@@ -1284,13 +1284,13 @@ window.JLPT_N5_MOCK_DATA = {
       "titleRuby": "よる <ruby>寝<rt>ね</rt></ruby>る （<span class='jlpt-underline-blank'></span>）、<ruby>歯<rt>は</rt></ruby>を みがきます。",
       "options": [
         "あとで",
-        "とき",
+        "あいだ",
         "まえに",
         "ながら"
       ],
       "optionsRuby": [
         "あとで",
-        "とき",
+        "あいだ",
         "まえに",
         "ながら"
       ],
@@ -1455,19 +1455,19 @@ window.JLPT_N5_MOCK_DATA = {
       "titleRuby": "<ruby>部屋<rt>へや</rt></ruby>が <ruby>寒<rt>さむ</rt></ruby>いですから、 <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> ください。",
       "options": [
         "まど",
-        "どうぞ",
+        "あの",
         "を",
         "しめて"
       ],
       "optionsRuby": [
         "まど",
-        "どうぞ",
+        "あの",
         "を",
         "しめて"
       ],
       "correctIndex": 1,
       "weight": 2.0,
-      "explanation": "正しい語順は「部屋が 寒いですから、どうぞ まど を しめて ください」です。1番目の★に入るのは「どうぞ」です。"
+      "explanation": "正しい語順は「部屋が 寒いですから、あの まど を しめて ください」です。1番目の★に入るのは「あの」です。"
     },
     {
       "id": 55,
@@ -1480,15 +1480,15 @@ window.JLPT_N5_MOCK_DATA = {
       "titleRuby": "あしたは <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <ruby>行<rt>い</rt></ruby>きます。",
       "options": [
         "友だち",
-        "と",
-        "で",
-        "電車"
+        "の",
+        "へ",
+        "うち"
       ],
       "optionsRuby": [
         "<ruby>友<rt>とも</rt></ruby>だち",
-        "と",
-        "で",
-        "<ruby>電車<rt>でんしゃ</rt></ruby>"
+        "の",
+        "へ",
+        "うち"
       ],
       "correctIndex": 2,
       "weight": 2.0,
@@ -1504,20 +1504,20 @@ window.JLPT_N5_MOCK_DATA = {
       "title": "まいにち 練習して、日本語が <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> なりました。",
       "titleRuby": "まいにち <ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>日本語<rt>にほんご</rt></ruby>が <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> なりました。",
       "options": [
-        "少し",
+        "とても",
         "上手に",
         "ように",
         "話せる"
       ],
       "optionsRuby": [
-        "<ruby>少<rt>すこ</rt></ruby>し",
+        "とても",
         "<ruby>上手<rt>じょうず</rt></ruby>に",
         "ように",
         "<ruby>話<rt>はな</rt></ruby>せる"
       ],
       "correctIndex": 3,
       "weight": 2.0,
-      "explanation": "正しい語順は「まいにち 練習して、日本語が 少し 上手に 話せる ように なりました」です。3番目の★に入るのは「話せる」です。"
+      "explanation": "正しい語順は「まいにち 練習して、日本語が とても 上手に 話せる ように なりました」です。3番目の★に入るのは「話せる」です。"
     },
     {
       "id": 57,
@@ -1796,7 +1796,7 @@ window.JLPT_N5_MOCK_DATA = {
       "category": "情報検索",
       "qNum": 67,
       "passage": "【みどり市民センター】 日本の りょうり 教室\n日本の かてい料理を いっしょに 作りませんか。\n\n・日時： １１月２０日（日） 午後１時〜３時\n・場所： みどり市民センター ２階 調理室\n・作るもの： 肉じゃが、みそ汁\n・参加費： １,０００円（材料代を ふくみます）\n・定員： １５人（先着順）\n・持ち物： エプロン、ハンドタオル\n※ 申し込みは １１月１５日までに 電話か メールで お願いします。\n電話：03-1234-5678",
-      "passageRuby": "【みどり<ruby>市民<rt>しみん</rt></ruby>センター】 <ruby>日本<rt>にほん</rt></ruby>の りょうり <ruby>教室<rt>きょうしつ</rt></ruby><br><ruby>日本<rt>にほん</rt></ruby>の かてい<ruby>料理<rt>りょうり</rt></ruby>を いっしょに <ruby>作<rt>つく</rt></ruby>りませんか。<br><br>・<ruby>日時<rt>にちじ</rt></ruby>： １１<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） <ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby>〜３<ruby>時<rt>じ</rt></ruby><br>・<ruby>場所<rt>ばしょ</rt></ruby>： みどり<ruby>市民<rt>しみん</rt></ruby>センター ２<ruby>階<rt>かい</rt></ruby> <ruby>調理<rt>ちょうり</rt></ruby><ruby>室<rt>しつ</rt></ruby><br>・<ruby>作<rt>つく</rt></ruby>るもの： <ruby>肉<rt>にく</rt></ruby>じゃが、みそ<ruby>汁<rt>しる</rt></ruby><br>・<ruby>参加<rt>さんか</rt></ruby><ruby>費<rt>ひ</rt></ruby>： １,０００<ruby>円<rt>えん</rt></ruby>（<ruby>材料<rt>ざいりょう</rt></ruby><ruby>代<rt>だい</rt></ruby>を ふくみます）<br>・<ruby>定員<rt>ていいん</rt></ruby>： １５<ruby>人<rt>にん</rt></ruby>（<ruby>先着<rt>せんちゃく</rt></ruby><ruby>順<rt>じゅん</rt></ruby>）<br>・<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>： エプロン、ハンドタオル<br>※ <ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みは １１<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに <ruby>電話<rt>でんわ</rt></ruby>か メールで お<ruby>願<rt>ねが</rt></ruby>いします。<br><ruby>電話<rt>でんわ</rt></ruby>：03-1234-5678",
+      "passageRuby": "【みどり<ruby>市民<rt>しみん</rt></ruby>センター】 <ruby>日本<rt>にほん</rt></ruby>の りょうり <ruby>教室<rt>きょうしつ</rt></ruby><br><ruby>日本<rt>にほん</rt></ruby>の かてい<ruby>料理<rt>りょうり</rt></ruby>を いっしょに <ruby>作<rt>つく</rt></ruby>りませんか。<br><br>・<ruby>日時<rt>にちじ</rt></ruby>： １１<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） <ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby>〜３<ruby>時<rt>じ</rt></ruby><br>・<ruby>場所<rt>ばしょ</rt></ruby>： みどり<ruby>市民<rt>しみん</rt></ruby>センター ２<ruby>階<rt>かい</rt></ruby> <ruby>調理<rt>ちょうり</rt></ruby><ruby>室<rt>しつ</rt></ruby><br>・<ruby>作<rt>つく</rt></ruby>るもの： <ruby>肉<rt>にく</rt></ruby>じゃが、みそ<ruby>汁<rt>じる</rt></ruby><br>・<ruby>参加<rt>さんか</rt></ruby><ruby>費<rt>ひ</rt></ruby>： １,０００<ruby>円<rt>えん</rt></ruby>（<ruby>材料<rt>ざいりょう</rt></ruby><ruby>代<rt>だい</rt></ruby>を ふくみます）<br>・<ruby>定員<rt>ていいん</rt></ruby>： １５<ruby>人<rt>にん</rt></ruby>（<ruby>先着<rt>せんちゃく</rt></ruby><ruby>順<rt>じゅん</rt></ruby>）<br>・<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>： エプロン、ハンドタオル<br>※ <ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みは １１<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに <ruby>電話<rt>でんわ</rt></ruby>か メールで お<ruby>願<rt>ねが</rt></ruby>いします。<br><ruby>電話<rt>でんわ</rt></ruby>：03-1234-5678",
       "evidence": "<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>： エプロン、ハンドタオル",
       "evidencePlain": "持ち物： エプロン、ハンドタオル",
       "title": "リンさんは この 料理教室に 参加したいです。何を持って 行かなければ なりませんか。",
@@ -1857,8 +1857,8 @@ window.JLPT_N5_MOCK_DATA = {
       "audioUrl": "audio/mock_n5/n5_m01_q69.mp3",
       "title": "学生は あした 何を 持って 来なければ なりませんか。",
       "titleRuby": "<ruby>学生<rt>がくせい</rt></ruby>は あした <ruby>何<rt>なに</rt></ruby>を <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>こ</rt></ruby>なければ なりませんか。",
-      "script": "先生：みなさん、あしたの 授業について 話します。教科書と ノートは いつもどおり 持って 来て ください。\n学生：先生、辞書も 持って 来ますか。\n先生：いいえ、辞書は 教室に ありますから、いりません。でも、宿題の 作文を わすれないで 持って 来て くださいね。\n学生：はい、わかりました。",
-      "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>：みなさん、あしたの <ruby>授業<rt>じゅぎょう</rt></ruby>について <ruby>話<rt>はな</rt></ruby>します。<ruby>教科書<rt>きょうかしょ</rt></ruby>と ノートは いつもどおり <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>て ください。<br><ruby>学生<rt>がくせい</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、<ruby>辞書<rt>じしょ</rt></ruby>も <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>ますか。<br><ruby>先生<rt>せんせい</rt></ruby>：いいえ、<ruby>辞書<rt>じしょ</rt></ruby>は <ruby>教室<rt>きょうしつ</rt></ruby>に ありますから、いりません。でも、<ruby>宿題<rt>しゅくだい</rt></ruby>の <ruby>作文<rt>さくぶん</rt></ruby>を わすれないで <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>て くださいね。<br><ruby>学生<rt>がくせい</rt></ruby>：はい、わかりました。",
+      "script": "先生：みなさん、あしたの 授業について 話します。教科書と ノートは いつもどおり 持って 来て ください。\n学生：先生、辞書も いりますか。\n先生：いいえ、辞書は 教室に ありますから、いりません。でも、宿題の 作文を わすれないで 持って 来て くださいね。\n学生：はい、わかりました。",
+      "scriptRuby": "<ruby>先生<rt>せんせい</rt></ruby>：みなさん、あしたの <ruby>授業<rt>じゅぎょう</rt></ruby>について <ruby>話<rt>はな</rt></ruby>します。<ruby>教科書<rt>きょうかしょ</rt></ruby>と ノートは いつもどおり <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>て ください。\n<ruby>学生<rt>がくせい</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、<ruby>辞書<rt>じしょ</rt></ruby>も いりますか。\n<ruby>先生<rt>せんせい</rt></ruby>：いいえ、<ruby>辞書<rt>じしょ</rt></ruby>は <ruby>教室<rt>きょうしつ</rt></ruby>に ありますから、いりません。でも、<ruby>宿題<rt>しゅくだい</rt></ruby>の <ruby>作文<rt>さくぶん</rt></ruby>を わすれないで <ruby>持<rt>も</rt></ruby>って <ruby>来<rt>き</rt></ruby>て くださいね。\n<ruby>学生<rt>がくせい</rt></ruby>：はい、わかりました。",
       "options": [
         "辞書",
         "作文",

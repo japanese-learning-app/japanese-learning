@@ -23,18 +23,18 @@ window.JLPT_N3_MOCK_DATA = {
           "id": "s1_m1",
           "number": "問題1",
           "name": "漢字読み",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "instruction": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "instructionEn": "Choose the best reading of the underlined word from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "desc": "＿＿の　ことばの　よみかたとして　もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "count": 8
         },
         {
           "id": "s1_m2",
           "number": "問題2",
           "name": "表記",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "instruction": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-          "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "desc": "＿＿の　ことばを　かんじで　かくとき、もっとも　よい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "count": 6
         },
         {
@@ -50,9 +50,9 @@ window.JLPT_N3_MOCK_DATA = {
           "id": "s1_m4",
           "number": "問題4",
           "name": "言い換え類義",
-          "instruction": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "instruction": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "instructionEn": "Which word or phrase has almost the same meaning as the underlined expression?",
-          "desc": "<ruby>＿＿<rt></rt></ruby>に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
+          "desc": "＿＿に　いみが　もっとも　ちかい　ものを、１・２・３・４から　１つ　えらびなさい。",
           "count": 5
         },
         {
@@ -708,16 +708,16 @@ window.JLPT_N3_MOCK_DATA = {
       "category": "文脈規定",
       "qNum": 22,
       "title": "窓を開けると、雨上がりの（<span class='jlpt-underline-blank'></span>）風が部屋の中に入ってきた。",
-      "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けると、<ruby>雨上<rt>あめあ</rt></ruby>がりの（<span class='jlpt-underline-blank'></span>）<ruby>風<rt>かぜ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた。",
+      "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>雨上<rt>あめあ</rt></ruby>がりの（<span class='jlpt-underline-blank'></span>）<ruby>風<rt>かぜ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた。",
       "options": [
         "にぎやかな",
-        "おだやかな",
+        "はなやかな",
         "あざやかな",
         "さわやかな"
       ],
       "optionsRuby": [
         "にぎやかな",
-        "おだやかな",
+        "はなやかな",
         "あざやかな",
         "さわやかな"
       ],
@@ -1028,7 +1028,7 @@ window.JLPT_N3_MOCK_DATA = {
         "彼はいつもたまたま遅刻して先生に注意される。"
       ],
       "optionsRuby": [
-        "<ruby>健康<rt>けんこう</rt></ruby>のために、たまたまジムへ<ruby>通<rt>とお</rt></ruby>って<ruby>泳<rt>およ</rt></ruby>いでいます。",
+        "<ruby>健康<rt>けんこう</rt></ruby>のために、たまたまジムへ<ruby>通<rt>かよ</rt></ruby>って<ruby>泳<rt>およ</rt></ruby>いでいます。",
         "<ruby>時間<rt>じかん</rt></ruby>がなかったので、たまたまタクシーで<ruby>向<rt>む</rt></ruby>かった。",
         "<ruby>本屋<rt>ほんや</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったら、たまたま<ruby>高校<rt>こうこう</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>会<rt>あ</rt></ruby>った。",
         "<ruby>彼<rt>かれ</rt></ruby>はいつもたまたま<ruby>遅刻<rt>ちこく</rt></ruby>して<ruby>先生<rt>せんせい</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>される。"
@@ -1212,7 +1212,7 @@ window.JLPT_N3_MOCK_DATA = {
       "category": "文法形式の判断",
       "qNum": 43,
       "title": "窓を開けた（<span class='jlpt-underline-blank'></span>）、冷たい風が入ってきて部屋の中の書類が飛んでしまった。",
-      "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けた（<span class='jlpt-underline-blank'></span>）、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>風<rt>かぜ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでしまった。",
+      "titleRuby": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けた（<span class='jlpt-underline-blank'></span>）、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>風<rt>かぜ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでしまった。",
       "options": [
         "最中に",
         "うちに",
@@ -1239,13 +1239,13 @@ window.JLPT_N3_MOCK_DATA = {
       "titleRuby": "この<ruby>体育館<rt>たいいくかん</rt></ruby>は、<ruby>利用<rt>りよう</rt></ruby>する<ruby>日<rt>ひ</rt></ruby>の１か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>予約<rt>よやく</rt></ruby>できる（<span class='jlpt-underline-blank'></span>）。",
       "options": [
         "ことにしている",
-        "ようになっている",
+        "わけになっている",
         "ところになっている",
         "ことになっている"
       ],
       "optionsRuby": [
         "ことにしている",
-        "ようになっている",
+        "わけになっている",
         "ところになっている",
         "ことになっている"
       ],
@@ -1460,15 +1460,15 @@ window.JLPT_N3_MOCK_DATA = {
       "titleRuby": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するためには、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>欠<rt>か</rt></ruby>かせません。",
       "options": [
         "栄養のバランスが",
-        "十分な睡眠も",
+        "十分な睡眠を",
         "とれた食事だけでなく",
-        "毎日の生活に"
+        "とることも"
       ],
       "optionsRuby": [
         "<ruby>栄養<rt>えいよう</rt></ruby>のバランスが",
-        "<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>も",
+        "<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>を",
         "とれた<ruby>食事<rt>しょくじ</rt></ruby>だけでなく",
-        "<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に"
+        "とることも"
       ],
       "correctIndex": 2,
       "weight": 2.0,
@@ -2121,8 +2121,8 @@ window.JLPT_N3_MOCK_DATA = {
       "audioUrl": "audio/mock_n3/n3_m01_q77.mp3",
       "title": "女の人は 先輩の 結婚祝いに なにを 贈る ことに しましたか。",
       "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>先輩<rt>せんぱい</rt></ruby>の <ruby>結婚<rt>けっこん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いに なにを <ruby>贈<rt>おく</rt></ruby>る ことに しましたか。",
-      "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。",
+      "script": "女の人：ねえ、来月 結婚する 渡辺先輩への お祝い、なにが いいかな。コーヒーメーカーに しようかと 思って いるんだけど。\n男の人：コーヒーメーカーは もう ほかの グループの 人たちが 贈るって 聞いたよ。\n女の人：え、そうなんだ。じゃあ、ペアの ワイングラスか、少しいい バスタオルの セットは どうかな。\n男の人：グラスは 割れる ことも あるし、毎日 つかえる タオルの セットの ほうが 喜ばれるんじゃ ないかな。\n女の人：そうだね。じゃあ、デパートで タオルの セットを 選んで くるよ。。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ねえ、<ruby>来月<rt>らいげつ</rt></ruby> <ruby>結婚<rt>けっこん</rt></ruby>する <ruby>渡辺<rt>わたなべ</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>への お<ruby>祝<rt>いわ</rt></ruby>い、なにが いいかな。コーヒーメーカーに しようかと <ruby>思<rt>おも</rt></ruby>って いるんだけど。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：コーヒーメーカーは もう ほかの グループの <ruby>人<rt>ひと</rt></ruby>たちが <ruby>贈<rt>おく</rt></ruby>るって <ruby>聞<rt>き</rt></ruby>いたよ。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：え、そうなんだ。じゃあ、ペアの ワイングラスか、<ruby>少<rt>すこ</rt></ruby>しいい バスタオルの セットは どうかな。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：グラスは <ruby>割<rt>わ</rt></ruby>れる ことも あるし、<ruby>毎日<rt>まいにち</rt></ruby> つかえる タオルの セットの ほうが <ruby>喜<rt>よろこ</rt></ruby>ばれるんじゃ ないかな。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうだね。じゃあ、デパートで タオルの セットを <ruby>選<rt>えら</rt></ruby>んで くるよ。。",
       "options": [
         "コーヒーメーカー",
         "ペアの ワイングラス",
@@ -2148,8 +2148,8 @@ window.JLPT_N3_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n3/n3_q4.jpg",
       "audioUrl": "audio/mock_n3/n3_m01_q78.mp3",
-      "title": "男の人は 帰る 前に なにを しなければ なりませんか。",
-      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>帰<rt>かえ</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に なにを しなければ なりませんか。",
+      "title": "男の人は このあと なにを しなければ なりませんか。",
+      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は このあと なにを しなければ なりませんか。",
       "script": "男の人：課長、頼まれて いた 売上データの 入力が 終わりました。ほかに お手伝いする ことは ありますか。\n女の人：ありがとう。データの グラフ化は あした わたしが やるから 大丈夫よ。ただ、来週 つかう 封筒の 在庫が 少なく なって いるから、倉庫から ２箱 出して 棚に 補充して おいて くれる？\n男の人：はい、わかりました。注文も して おきましょうか。\n女の人：注文は けさ 総務の 人が して くれたから、補充だけで いいわよ。",
       "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>課長<rt>かちょう</rt></ruby>、<ruby>頼<rt>たの</rt></ruby>まれて いた <ruby>売上<rt>うりあげ</rt></ruby>データの <ruby>入力<rt>にゅうりょく</rt></ruby>が <ruby>終<rt>お</rt></ruby>わりました。ほかに お<ruby>手伝<rt>てつだ</rt></ruby>いする ことは ありますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ありがとう。データの グラフ<ruby>化<rt>か</rt></ruby>は あした わたしが やるから <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>よ。ただ、<ruby>来週<rt>らいしゅう</rt></ruby> つかう <ruby>封筒<rt>ふうとう</rt></ruby>の <ruby>在庫<rt>ざいこ</rt></ruby>が <ruby>少<rt>すく</rt></ruby>なく なって いるから、<ruby>倉庫<rt>そうこ</rt></ruby>から ２<ruby>箱<rt>はこ</rt></ruby> <ruby>出<rt>だ</rt></ruby>して <ruby>棚<rt>たな</rt></ruby>に <ruby>補充<rt>ほじゅう</rt></ruby>して おいて くれる？<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。<ruby>注文<rt>ちゅうもん</rt></ruby>も して おきましょうか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>注文<rt>ちゅうもん</rt></ruby>は けさ <ruby>総務<rt>そうむ</rt></ruby>の <ruby>人<rt>ひと</rt></ruby>が して くれたから、<ruby>補充<rt>ほじゅう</rt></ruby>だけで いいわよ。",
       "options": [
@@ -2793,10 +2793,10 @@ window.JLPT_N3_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n3/n3_q27.jpg",
       "audioUrl": "audio/mock_n3/n3_m01_q101.mp3",
-      "title": "すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。",
-      "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
-      "script": "女の人：すみません、会議室の 鍵が あいて いないんですが、どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の <ruby>鍵<rt>かぎ</rt></ruby>が あいて いないんですが、どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。<br>１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。<br>２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。<br>３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
+      "title": "すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。",
+      "titleRuby": "すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+      "script": "女の人：すみません、会議室に 鍵が かかって いるんですが、鍵が どこに あるか ご存じですか。\n１　いいえ、鍵は わたしが 閉めて おきました。\n２　ええ、会議室の ドアは あいて いますよ。\n３　総務課の カウンターで 借りられる はずですよ。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に <ruby>鍵<rt>かぎ</rt></ruby>が かかって いるんですが、<ruby>鍵<rt>かぎ</rt></ruby>が どこに あるか ご<ruby>存<rt>ぞん</rt></ruby>じですか。\n１　いいえ、<ruby>鍵<rt>かぎ</rt></ruby>は わたしが <ruby>閉<rt>し</rt></ruby>めて おきました。\n２　ええ、<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の ドアは あいて いますよ。\n３　<ruby>総務<rt>そうむ</rt></ruby><ruby>課<rt>か</rt></ruby>の カウンターで <ruby>借<rt>か</rt></ruby>りられる はずですよ。",
       "options": [
         "いいえ、鍵は わたしが 閉めて おきました。",
         "ええ、会議室の ドアは あいて いますよ。",

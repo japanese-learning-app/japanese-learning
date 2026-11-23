@@ -222,7 +222,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜に<ruby>至<rt>いた</rt></ruby>っては」は<ruby>前<rt>まえ</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>同種<rt>どうしゅ</rt></ruby>の<ruby>事柄<rt>ことがら</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>最<rt>もっと</rt></ruby>も<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>例<rt>れい</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げて<ruby>述<rt>の</rt></ruby>べる<ruby>表現<rt>ひょうげん</rt></ruby>です。<ruby>無関係<rt>むかんけい</rt></ruby>な<ruby>話題<rt>わだい</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べることはできません。",
         "reason_en": "\"〜に至っては\" singles out the most extreme case within the same topic introduced earlier; it cannot connect unrelated topics.",
-        "sentence": "<ruby>兄<rt>あに</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>弟<rt>おとうと</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>毎日<rt>まいにち</rt></ruby><ruby>元気<rt>げんき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>通<rt>とお</rt></ruby>っている。"
+        "sentence": "<ruby>兄<rt>あに</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>弟<rt>おとうと</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>毎日<rt>まいにち</rt></ruby><ruby>元気<rt>げんき</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>通<rt>かよ</rt></ruby>っている。"
       },
       {
         "type": "correct",
@@ -247,7 +247,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>極端<rt>きょくたん</rt></ruby>な<ruby>例<rt>れい</rt></ruby>として〜の<ruby>場合<rt>ばあい</rt></ruby>は。",
         "nuance_en": "when it comes to ~",
-        "example": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>機器<rt>きき</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しく、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。"
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>機器<rt>きき</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しく、<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>に<ruby>至<rt>いた</rt></ruby>っては<ruby>電源<rt>でんげん</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>からず<ruby>困<rt>こま</rt></ruby>っている。"
       },
       {
         "form": "〜ともなると",
@@ -611,7 +611,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>命<rt>いのち</rt></ruby>や<ruby>名誉<rt>めいよ</rt></ruby>など<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>事態<rt>じたい</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>・<ruby>関係<rt>かんけい</rt></ruby>する。",
         "nuance_en": "affecting; concerning",
-        "example": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>にかかわる<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>岐路<rt>きろ</rt></ruby>である。"
+        "example": "<ruby>主力<rt>しゅりょく</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>が<ruby>成功<rt>せいこう</rt></ruby>するかどうかは、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>存続<rt>そんぞく</rt></ruby>にかかわる<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>である。"
       },
       {
         "form": "〜に<ruby>関<rt>かん</rt></ruby>する",
@@ -1432,7 +1432,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ならいざしらず)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using ならいざしらず",
-        "sentence": "<ruby>数<rt>かず</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>ならいざしらず、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。"
+        "sentence": "<ruby>数<rt>すう</rt></ruby><ruby>十年<rt>じゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>機械<rt>きかい</rt></ruby>ならいざしらず、<ruby>最新<rt>さいしん</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていながらこれほど<ruby>時間<rt>じかん</rt></ruby>がかかるのはおかしい。"
       }
     ],
     "comparison": [
@@ -1536,7 +1536,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with といえども)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using といえども",
-        "sentence": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>システムをもってしても、<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>を<ruby>百<rt>ひゃく</rt></ruby>パーセント<ruby>見通<rt>みとお</rt></ruby>すことは<ruby>困難<rt>こんなん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ないが、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>といえども<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。"
+        "sentence": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>システムをもってしても、<ruby>自然<rt>しぜん</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>を<ruby>百<rt>ひゃく</rt></ruby>パーセント<ruby>見通<rt>みとお</rt></ruby>すことは<ruby>困難<rt>こんなん</rt></ruby>であり、<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>といえども<ruby>判断<rt>はんだん</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>がある。"
       }
     ],
     "comparison": [
@@ -1547,7 +1547,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "たとえ〜であっても。",
         "nuance_en": "even though; despite being",
-        "example": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>といえども、<ruby>互<rt>たが</rt></ruby>いに<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>んではならない<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るべきである。"
+        "example": "<ruby>親<rt>した</rt></ruby>しい<ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>といえども、<ruby>互<rt>たが</rt></ruby>いに<ruby>越<rt>こ</rt></ruby>えてはならない<ruby>一線<rt>いっせん</rt></ruby>があり、<ruby>最低限<rt>さいていげん</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>や<ruby>節度<rt>せつど</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るべきである。"
       },
       {
         "form": "〜とはいえ",
@@ -1911,7 +1911,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "〜したとたん、<ruby>予想<rt>よそう</rt></ruby><ruby>外<rt>がい</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす。",
         "nuance_en": "immediately upon doing",
-        "example": "<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るなり<ruby>相手<rt>あいて</rt></ruby>が<ruby>用件<rt>ようけん</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したので、こちらは<ruby>名乗<rt>なの</rt></ruby>るタイミングを<ruby>逃<rt>のが</rt></ruby>してしまった。"
+        "example": "<ruby>相手<rt>あいて</rt></ruby>は<ruby>受話器<rt>じゅわき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るなり<ruby>用件<rt>ようけん</rt></ruby>を<ruby>切り出<rt>きりだ</rt></ruby>したので、こちらは<ruby>名乗<rt>なの</rt></ruby>るタイミングを<ruby>逃<rt>のが</rt></ruby>してしまった。"
       },
       {
         "form": "〜や<ruby>否<rt>いな</rt></ruby>や",
@@ -2101,7 +2101,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ぶる)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for ぶる",
-        "sentence": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>苦労<rt>くろう</rt></ruby>して<ruby>手伝<rt>てつだ</rt></ruby>ったのに、<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>わずにいい<ruby>人<rt>ひと</rt></ruby>ぶることもなく<ruby>静<rt>しず</rt></ruby>かに<ruby>去<rt>さ</rt></ruby>っていった。"
+        "sentence": "<ruby>彼女<rt>かのじょ</rt></ruby>はどれほど<ruby>大<rt>おお</rt></ruby>きな<ruby>賞<rt>しょう</rt></ruby>を<ruby>受賞<rt>じゅしょう</rt></ruby>しても、<ruby>決<rt>けっ</rt></ruby>して<ruby>偉<rt>えら</rt></ruby>ぶることなくこれまで<ruby>通<rt>とお</rt></ruby>り<ruby>謙虚<rt>けんきょ</rt></ruby>に<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けている。"
       },
       {
         "type": "correct",
@@ -2230,7 +2230,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "form_en": "looks like; appears to be",
         "badge": "類義・関連表現",
         "badge_type": "neutral",
-        "nuance_ja": "<ruby>外見<rt>がいけん</rt></ruby>から<ruby>受<rt>う</rt></ruby>ける<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>く<ruby>表<rt>あらわ</rt></ruby>す<ruby>日常<rt>にちじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>物事<rt>ものごと</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ<ruby>等<rt>ひとし</rt></ruby>）にも<ruby>使<rt>つか</rt></ruby>えます。",
+        "nuance_ja": "<ruby>外見<rt>がいけん</rt></ruby>から<ruby>受<rt>う</rt></ruby>ける<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>く<ruby>表<rt>あらわ</rt></ruby>す<ruby>日常<rt>にちじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>物事<rt>ものごと</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ<ruby>等<rt>とう</rt></ruby>）にも<ruby>使<rt>つか</rt></ruby>えます。",
         "nuance_en": "A general everyday expression for outward impressions that also applies to non-human states like weather.",
         "example": "<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、<ruby>今<rt>いま</rt></ruby>にも<ruby>大粒<rt>おおつぶ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しそうな<ruby>暗<rt>くら</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっていた。"
       }
@@ -2762,13 +2762,13 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
     "notes_en": "'に耐えない' is an advanced N1 pattern meaning 'cannot suppress feelings; deeply moved', commonly used in formal writing, editorials, and speeches.",
     "nuance_ja": "「に<ruby>耐<rt>た</rt></ruby>えない」は、<strong>『<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>すぎて<ruby>抑<rt>おさ</rt></ruby>えきれない。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
     "nuance_en": "'に耐えない' expresses <strong>cannot suppress feelings; deeply moved</strong>, highlighting logical relationships or strong speaker stance in formal contexts.",
-    "trap_ja": "<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す「〜に<ruby>耐<rt>た</rt></ruby>えない」は「<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>感激<rt>かんげき</rt></ruby>・<ruby>同情<rt>どうじょう</rt></ruby>・<ruby>遺憾<rt>いかん</rt></ruby>・<ruby>慙愧<rt>ざんき</rt></ruby>」など<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>であり、「<ruby>楽<rt>たの</rt></ruby>しさ」のような<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
+    "trap_ja": "<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す「〜に<ruby>耐<rt>た</rt></ruby>えない」は「<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>感激<rt>かんげき</rt></ruby>・<ruby>同情<rt>どうじょう</rt></ruby>・<ruby>遺憾<rt>いかん</rt></ruby>・<ruby>慙愧<rt>ざんき</rt></ruby>」など<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>であり、「<ruby>楽<rt>たの</rt></ruby>しさ」のような<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
     "trap_en": "When expressing deep emotion, \"〜に耐えない\" pairs with formal Sino-Japanese nouns like gratitude, remorse, or sympathy, not casual nouns like 楽しさ. Pay close attention to required grammatical connection and register.",
     "contrast": [
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す「〜に<ruby>耐<rt>た</rt></ruby>えない」は「<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>感激<rt>かんげき</rt></ruby>・<ruby>同情<rt>どうじょう</rt></ruby>・<ruby>遺憾<rt>いかん</rt></ruby>・<ruby>慙愧<rt>ざんき</rt></ruby>」など<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>であり、「<ruby>楽<rt>たの</rt></ruby>しさ」のような<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
+        "reason_ja": "<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す「〜に<ruby>耐<rt>た</rt></ruby>えない」は「<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>感激<rt>かんげき</rt></ruby>・<ruby>同情<rt>どうじょう</rt></ruby>・<ruby>遺憾<rt>いかん</rt></ruby>・<ruby>慙愧<rt>ざんき</rt></ruby>」など<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>書<rt>か</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>であり、「<ruby>楽<rt>たの</rt></ruby>しさ」のような<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "When expressing deep emotion, \"〜に耐えない\" pairs with formal Sino-Japanese nouns like gratitude, remorse, or sympathy, not casual nouns like 楽しさ.",
         "sentence": "<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>友人<rt>ゆうじん</rt></ruby>とカフェでおしゃべりをして、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しさに<ruby>耐<rt>た</rt></ruby>えない<ruby>一日<rt>いちにち</rt></ruby>だった。"
       },
@@ -2777,7 +2777,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に耐えない)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for に耐えない",
-        "sentence": "<ruby>長年<rt>ながねん</rt></ruby>にわたり<ruby>地域<rt>ちいき</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>振興<rt>しんこう</rt></ruby>にご<ruby>尽力<rt>じんりょく</rt></ruby>いただいた<ruby>皆様<rt>みなさま</rt></ruby>には、まことに<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えない。"
+        "sentence": "<ruby>長年<rt>ながねん</rt></ruby>にわたり<ruby>地域<rt>ちいき</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby><ruby>振興<rt>しんこう</rt></ruby>にご<ruby>尽力<rt>じんりょく</rt></ruby>いただいた<ruby>皆様<rt>みなさま</rt></ruby>には、まことに<ruby>感謝<rt>かんしゃ</rt></ruby>に<ruby>耐<rt>た</rt></ruby>えません。"
       },
       {
         "type": "correct",
@@ -2888,7 +2888,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に足る)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using に足る",
-        "sentence": "そんな<ruby>小<rt>ちい</rt></ruby>さな<ruby>失敗<rt>しっぱい</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>にでもあることだから、いちいち<ruby>取<rt>と</rt></ruby>るに<ruby>足<rt>た</rt></ruby>らない<ruby>問題<rt>もんだい</rt></ruby>ではない。"
+        "sentence": "そんな<ruby>小<rt>ちい</rt></ruby>さな<ruby>失敗<rt>しっぱい</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>にでもあることだから、まったく<ruby>取<rt>と</rt></ruby>るに<ruby>足<rt>た</rt></ruby>らない<ruby>問題<rt>もんだい</rt></ruby>だ。"
       }
     ],
     "comparison": [
@@ -2899,7 +2899,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "〜する<ruby>価値<rt>かち</rt></ruby>・<ruby>能力<rt>のうりょく</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>にある。",
         "nuance_en": "worthy of; sufficient for",
-        "example": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データはサンプル<ruby>数<rt>すう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なく、<ruby>結論<rt>けつろん</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>き<ruby>出<rt>だ</rt></ruby>すには<ruby>納得<rt>なっとく</rt></ruby>するに<ruby>足<rt>た</rt></ruby>るものだった。"
+        "example": "<ruby>今回<rt>こんかい</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>された<ruby>調査<rt>ちょうさ</rt></ruby>データはサンプル<ruby>数<rt>すう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なく、<ruby>結論<rt>けつろん</rt></ruby>を<ruby>導き出<rt>みちびきだ</rt></ruby>すには<ruby>信頼<rt>しんらい</rt></ruby>するに<ruby>足<rt>た</rt></ruby>るものではなかった。"
       },
       {
         "form": "〜に<ruby>値<rt>あたい</rt></ruby>する",
@@ -3044,7 +3044,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with に及ばない)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using に及ばない",
-        "sentence": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、お<ruby>電話<rt>でんわ</rt></ruby>でのご<ruby>確認<rt>かくにん</rt></ruby>はご<ruby>連絡<rt>れんらく</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません。"
+        "sentence": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>発送<rt>はっそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>につきましてはメールでお<ruby>知<rt>し</rt></ruby>らせいたしますので、どうぞご<ruby>心配<rt>しんぱい</rt></ruby>に<ruby>及<rt>およ</rt></ruby>びません。"
       }
     ],
     "comparison": [
@@ -3055,7 +3055,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "そこまでする<ruby>必要<rt>ひつよう</rt></ruby>はない。〜には<ruby>及<rt>およ</rt></ruby>ばない。",
         "nuance_en": "no need to; falls short of",
-        "example": "<ruby>今回<rt>こんかい</rt></ruby>のトラブルの<ruby>原因<rt>げんいん</rt></ruby>がどこにあるかは、これまでの<ruby>経緯<rt>けいい</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばず<ruby>明<rt>あき</rt></ruby>らかだ。"
+        "example": "<ruby>今回<rt>こんかい</rt></ruby>のトラブルの<ruby>原因<rt>げんいん</rt></ruby>については、これまでの<ruby>経緯<rt>けいい</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば<ruby>明<rt>あき</rt></ruby>らかであり、<ruby>今<rt>いま</rt></ruby>さら<ruby>言<rt>い</rt></ruby>うに<ruby>及<rt>およ</rt></ruby>ばない。"
       },
       {
         "form": "〜に<ruby>及<rt>およ</rt></ruby>ぶ",
@@ -3460,7 +3460,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with のみならず)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using のみならず",
-        "sentence": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>であるのみならず、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。"
+        "sentence": "この<ruby>植物<rt>しょくぶつ</rt></ruby><ruby>由来<rt>ゆらい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>素材<rt>そざい</rt></ruby>は、<ruby>軽<rt>かる</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>であるのみならず、<ruby>使用<rt>しよう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>土<rt>ど</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>に<ruby>還<rt>かえ</rt></ruby>る<ruby>特性<rt>とくせい</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。"
       }
     ],
     "comparison": [
@@ -3661,7 +3661,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with とあって)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for とあって",
-        "sentence": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>とあって、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。"
+        "sentence": "<ruby>地元<rt>じもと</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>が<ruby>設計<rt>せっけい</rt></ruby>した<ruby>新<rt>しん</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>のお<ruby>披露目<rt>ひろめ</rt></ruby>とあって、<ruby>開館<rt>かいかん</rt></ruby><ruby>初日<rt>しょにち</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>でにぎわった。"
       },
       {
         "type": "correct",
@@ -3869,7 +3869,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ともなしに)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for ともなしに",
-        "sentence": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しを<ruby>整理<rt>せいり</rt></ruby>していたら、<ruby>誰<rt>だれ</rt></ruby>が<ruby>書<rt>か</rt></ruby>いたともなしに<ruby>古<rt>ふる</rt></ruby>い<ruby>風景<rt>ふうけい</rt></ruby>のスケッチが<ruby>一枚<rt>いちまい</rt></ruby><ruby>出<rt>で</rt></ruby>てきた。"
+        "sentence": "<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>顔<rt>かお</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせて<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わすうちに、<ruby>私<rt>わたし</rt></ruby>たちはいつともなしに<ruby>打ち解<rt>うちと</rt></ruby>けて<ruby>親<rt>した</rt></ruby>しく<ruby>話<rt>はな</rt></ruby>すようになった。"
       },
       {
         "type": "correct",
@@ -3914,7 +3914,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "<ruby>単<rt>たん</rt></ruby>なる<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>の<ruby>同時<rt>どうじ</rt></ruby><ruby>進行<rt>しんこう</rt></ruby>（<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながら<ruby>走<rt>はし</rt></ruby>る）には<ruby>普通<rt>ふつう</rt></ruby>の「〜ながら」を<ruby>使<rt>つか</rt></ruby>い、「〜ながらに（して）」は「<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えずに・<ruby>生<rt>う</rt></ruby>まれつき」という<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。",
         "reason_en": "Simple simultaneous actions use plain 〜ながら; 〜ながらに(して) is reserved for \"from birth\" or \"without leaving/changing one's state.\"",
-        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながらにして、<ruby>毎朝<rt>まいあさ</rt></ruby>{<ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>|さんじゅっぷん}<ruby>間<rt>かん</rt></ruby>ジョギングをしている。"
+        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながらにして、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby><ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><rt>さんじゅっぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>ジョギングをしている。"
       },
       {
         "type": "correct",
@@ -3953,7 +3953,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
     ]
   },
   "77": {
-    "formula": "ナ<ruby>形容詞<rt>けいようし</rt></ruby><ruby>語幹<rt>ごかん</rt></ruby> ／ <ruby>名詞<rt>めいし</rt></ruby>（<ruby>失礼<rt>しつれい</rt></ruby>・<ruby>無礼<rt>ぶれい</rt></ruby>など） ＋ <strong>きわまる</strong> ／ イ<ruby>形容詞<rt>けいようし</rt></ruby>く<ruby>形<rt>がた</rt></ruby> ＋ <strong>てきわまりない</strong>",
+    "formula": "ナ<ruby>形容詞<rt>けいようし</rt></ruby><ruby>語幹<rt>ごかん</rt></ruby> ／ <ruby>名詞<rt>めいし</rt></ruby>（<ruby>失礼<rt>しつれい</rt></ruby>・<ruby>無礼<rt>ぶれい</rt></ruby>など） ＋ <strong>きわまる</strong> ／ イ<ruby>形容詞<rt>けいようし</rt></ruby>く<ruby>形<rt>けい</rt></ruby> ＋ <strong>てきわまりない</strong>",
     "notes_ja": "「きわまる」は、この<ruby>上<rt>うえ</rt></ruby>なく<ruby>限界<rt>げんかい</rt></ruby>まで〜である。という<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すN1の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>文型<rt>ぶんけい</rt></ruby>です。<ruby>評論<rt>ひょうろん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>・<ruby>報道<rt>ほうどう</rt></ruby>・<ruby>改<rt>あらた</rt></ruby>まった<ruby>挨拶<rt>あいさつ</rt></ruby>などで<ruby>幅広<rt>はばひろ</rt></ruby>く<ruby>用<rt>もち</rt></ruby>いられます。",
     "notes_en": "'きわまる' is an advanced N1 pattern meaning 'extremely; reaches the peak of', commonly used in formal writing, editorials, and speeches.",
     "nuance_ja": "「きわまる」は、<strong>『この<ruby>上<rt>うえ</rt></ruby>なく<ruby>限界<rt>げんかい</rt></ruby>まで〜である。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
@@ -3991,7 +3991,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "この<ruby>上<rt>うえ</rt></ruby>なく<ruby>限界<rt>げんかい</rt></ruby>まで〜である。",
         "nuance_en": "extremely; reaches the peak of",
-        "example": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は<ruby>無礼<rt>ぶれい</rt></ruby>きわまる。"
+        "example": "どれほど<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>であっても、<ruby>相手<rt>あいて</rt></ruby>のプライバシーに<ruby>土足<rt>どそく</rt></ruby>で<ruby>踏み込<rt>ふみこ</rt></ruby>むような<ruby>発言<rt>はつげん</rt></ruby>は<ruby>無礼<rt>ぶれい</rt></ruby>きわまりない。"
       },
       {
         "form": "〜<ruby>極<rt>きわ</rt></ruby>まりない",
@@ -4032,7 +4032,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with といったらない)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using といったらない",
-        "sentence": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらなく、<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった。"
+        "sentence": "<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらなかった。<ruby>荷造<rt>にづく</rt></ruby>りと<ruby>掃除<rt>そうじ</rt></ruby>に<ruby>追<rt>お</rt></ruby>われて<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>暇<rt>ひま</rt></ruby>さえなかった。"
       }
     ],
     "comparison": [
@@ -4043,7 +4043,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>言葉<rt>ことば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほどすごい。",
         "nuance_en": "beyond words; extraordinarily",
-        "example": "<ruby>山頂<rt>さんちょう</rt></ruby>の<ruby>展望<rt>てんぼう</rt></ruby><ruby>台<rt>だい</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めたご<ruby>来光<rt>らいこう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさといったらなく、<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>っていた。"
+        "example": "<ruby>山頂<rt>さんちょう</rt></ruby>の<ruby>展望<rt>てんぼう</rt></ruby><ruby>台<rt>だい</rt></ruby>から<ruby>眺<rt>なが</rt></ruby>めたご<ruby>来光<rt>らいこう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさといったらなかった。<ruby>登山<rt>とざん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>の<ruby>誰<rt>だれ</rt></ruby>もが<ruby>息<rt>いき</rt></ruby>をのんで<ruby>見入<rt>みい</rt></ruby>っていた。"
       },
       {
         "form": "〜かぎりだ",
@@ -4052,7 +4052,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「〜かぎりだ」は「<ruby>嬉<rt>うれ</rt></ruby>しいかぎりだ」「<ruby>羨<rt>うらや</rt></ruby>ましいかぎりだ」のように<ruby>感情<rt>かんじょう</rt></ruby><ruby>形容詞<rt>けいようし</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られますが、「〜といったらない」は<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>凄<rt>すさ</rt></ruby>まじさ・<ruby>大変<rt>たいへん</rt></ruby>さにも<ruby>広<rt>ひろ</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えます。",
         "nuance_en": "While 〜かぎりだ is restricted to emotion adjectives, 〜といったらない vividly emphasizes extreme states, hardships, or sensations in general.",
-        "example": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日本海<rt>にほんかい</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>きつける<ruby>吹雪<rt>ふぶき</rt></ruby>の<ruby>冷<rt>つめ</rt></ruby>たさといったらなく、<ruby>顔<rt>かお</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げられないほどだった。"
+        "example": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>海<rt>うみ</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>きつける<ruby>吹雪<rt>ふぶき</rt></ruby>の<ruby>冷<rt>つめ</rt></ruby>たさといったらなかった。<ruby>顔<rt>かお</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げられないほどだった。"
       }
     ]
   },
@@ -4156,7 +4156,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「〜<ruby>以上<rt>いじょう</rt></ruby>は」は<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>責任<rt>せきにん</rt></ruby>や<ruby>道理<rt>どうり</rt></ruby>を<ruby>述<rt>の</rt></ruby>べますが、「〜<ruby>手前<rt>てまえ</rt></ruby>」は「<ruby>大口<rt>おおぐち</rt></ruby>を<ruby>叩<rt>たた</rt></ruby>いた<ruby>手前<rt>てまえ</rt></ruby>、<ruby>今<rt>いま</rt></ruby>さら<ruby>引<rt>ひ</rt></ruby>けない」のように<ruby>世間体<rt>せけんてい</rt></ruby>や<ruby>面目<rt>めんぼく</rt></ruby>（メンツ）を<ruby>気<rt>き</rt></ruby>にするニュアンスが<ruby>強<rt>つよ</rt></ruby>いです。",
         "nuance_en": "While 〜以上は appeals to objective duty, 〜手前 emphasizes saving face or maintaining appearances before others.",
-        "example": "<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>規則正<rt>きそくただ</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える<ruby>親<rt>おや</rt></ruby>の<ruby>手前<rt>てまえ</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>だけ<ruby>夜<rt>よる</rt></ruby><ruby>更<rt>ふ</rt></ruby>かしをするわけにはいかない。"
+        "example": "<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>規則正<rt>きそくただ</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えている<ruby>手前<rt>てまえ</rt></ruby>、<ruby>親<rt>おや</rt></ruby>である<ruby>自分<rt>じぶん</rt></ruby>だけ<ruby>夜<rt>よる</rt></ruby><ruby>更<rt>ふ</rt></ruby>かしをするわけにはいかない。"
       }
     ]
   },
@@ -4166,13 +4166,13 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
     "notes_en": "'そびれる' is an advanced N1 pattern meaning 'miss the opportunity to do', commonly used in formal writing, editorials, and speeches.",
     "nuance_ja": "「そびれる」は、<strong>『〜する<ruby>機会<rt>きかい</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>してしまう。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
     "nuance_en": "'そびれる' expresses <strong>miss the opportunity to do</strong>, highlighting logical relationships or strong speaker stance in formal contexts.",
-    "trap_ja": "「〜そびれる」は「しようと<ruby>思<rt>おも</rt></ruby>っていたのに、きっかけやタイミングを<ruby>逃<rt>のが</rt></ruby>してできなくなる（<ruby>言<rt>い</rt></ruby>いそびれる・<ruby>聞<rt>き</rt></ruby>きそびれる<ruby>等<rt>ひとし</rt></ruby>）」という<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われ、<ruby>無意識<rt>むいしき</rt></ruby>の<ruby>起床<rt>きしょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
+    "trap_ja": "「〜そびれる」は「しようと<ruby>思<rt>おも</rt></ruby>っていたのに、きっかけやタイミングを<ruby>逃<rt>のが</rt></ruby>してできなくなる（<ruby>言<rt>い</rt></ruby>いそびれる・<ruby>聞<rt>き</rt></ruby>きそびれる<ruby>等<rt>とう</rt></ruby>）」という<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われ、<ruby>無意識<rt>むいしき</rt></ruby>の<ruby>起床<rt>きしょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
     "trap_en": "\"〜そびれる\" means missing the right timing or chance to perform an intended action (like speaking up or asking), not oversleeping. Pay close attention to required grammatical connection and register.",
     "contrast": [
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「〜そびれる」は「しようと<ruby>思<rt>おも</rt></ruby>っていたのに、きっかけやタイミングを<ruby>逃<rt>のが</rt></ruby>してできなくなる（<ruby>言<rt>い</rt></ruby>いそびれる・<ruby>聞<rt>き</rt></ruby>きそびれる<ruby>等<rt>ひとし</rt></ruby>）」という<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われ、<ruby>無意識<rt>むいしき</rt></ruby>の<ruby>起床<rt>きしょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。",
+        "reason_ja": "「〜そびれる」は「しようと<ruby>思<rt>おも</rt></ruby>っていたのに、きっかけやタイミングを<ruby>逃<rt>のが</rt></ruby>してできなくなる（<ruby>言<rt>い</rt></ruby>いそびれる・<ruby>聞<rt>き</rt></ruby>きそびれる<ruby>等<rt>とう</rt></ruby>）」という<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われ、<ruby>無意識<rt>むいしき</rt></ruby>の<ruby>起床<rt>きしょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>いません。",
         "reason_en": "\"〜そびれる\" means missing the right timing or chance to perform an intended action (like speaking up or asking), not oversleeping.",
         "sentence": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>らなかったので、<ruby>朝<rt>あさ</rt></ruby><ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きそびれて<ruby>八時<rt>はちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きた。"
       },
@@ -4199,7 +4199,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "〜する<ruby>機会<rt>きかい</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>してしまう。",
         "nuance_en": "miss the opportunity to do",
-        "example": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きそびれた。"
+        "example": "<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しようと<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げかけたが、<ruby>時間切<rt>じかんぎ</rt></ruby>れになってしまい<ruby>結局<rt>けっきょく</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>しそびれた。"
       },
       {
         "form": "〜そこなう",
@@ -4500,7 +4500,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with を押して)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using を押して",
-        "sentence": "<ruby>医師<rt>いし</rt></ruby>の<ruby>静止<rt>せいし</rt></ruby>を<ruby>押<rt>お</rt></ruby>して、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。"
+        "sentence": "<ruby>医師<rt>いし</rt></ruby>の<ruby>制止<rt>せいし</rt></ruby>を<ruby>押し切<rt>おしき</rt></ruby>って、<ruby>老舗<rt>しにせ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>女将<rt>おかみ</rt></ruby>は<ruby>退院<rt>たいいん</rt></ruby>した<ruby>翌日<rt>よくじつ</rt></ruby>から<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えた。"
       }
     ],
     "comparison": [
@@ -4520,7 +4520,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>困難<rt>こんなん</rt></ruby>を<ruby>困難<rt>こんなん</rt></ruby>とも<ruby>思<rt>おも</rt></ruby>わない<ruby>力強<rt>ちからづよ</rt></ruby>さを<ruby>強調<rt>きょうちょう</rt></ruby>するのに<ruby>対<rt>たい</rt></ruby>し、「〜を<ruby>押<rt>お</rt></ruby>して」は<ruby>無理<rt>むり</rt></ruby>をしてでも<ruby>実行<rt>じっこう</rt></ruby>するニュアンスがあります。",
         "nuance_en": "While 〜をものともせず stresses fearless strength, 〜を押して emphasizes forcing oneself to act despite strain or opposition.",
-        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>足首<rt>あしくび</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みを<ruby>押<rt>お</rt></ruby>して<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>いたが、<ruby>試合<rt>しあい</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ばれた。"
+        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>足首<rt>あしくび</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みを<ruby>押<rt>お</rt></ruby>して<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>いたが、<ruby>試合<rt>しあい</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ばれた。"
       }
     ]
   },
@@ -4909,7 +4909,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with を前提として)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for を前提として",
-        "sentence": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>することを<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>結<rt>むす</rt></ruby>ばれている。"
+        "sentence": "この<ruby>雇用<rt>こよう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>正社員<rt>せいしゃいん</rt></ruby>として<ruby>登用<rt>とうよう</rt></ruby>することを<ruby>前提<rt>ぜんてい</rt></ruby>として<ruby>結<rt>むす</rt></ruby>ばれている。"
       },
       {
         "type": "correct",
@@ -5040,7 +5040,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>日常<rt>にちじょう</rt></ruby>からビジネスまで<ruby>幅広<rt>はばひろ</rt></ruby>く<ruby>使<rt>つか</rt></ruby>える<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>目的<rt>もくてき</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。「〜んがため」は<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>と<ruby>文語<rt>ぶんご</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>います。",
         "nuance_en": "The standard purpose expression for all registers, whereas 〜んがため conveys intense determination in a classical, dramatic tone.",
-        "example": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby>{<ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>|さんじゅっぷん}ほど<ruby>歩<rt>ある</rt></ruby>くようにしている。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby><ruby><ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><rt>さんじゅっぷん</rt></ruby>ほど<ruby>歩<rt>ある</rt></ruby>くようにしている。"
       }
     ]
   },
@@ -5377,14 +5377,14 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with といったらありはしない)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural N1 usage and collocation for といったらありはしない",
-        "sentence": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>った<ruby>後<rt>あと</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>散<rt>ち</rt></ruby>らかりようといったらありはしない、どこから<ruby>手<rt>て</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けていいか<ruby>途方<rt>とほう</rt></ruby>に<ruby>暮<rt>く</rt></ruby>れた。"
+        "sentence": "<ruby>台風<rt>たいふう</rt></ruby>が<ruby>過ぎ去<rt>すぎさ</rt></ruby>った<ruby>後<rt>のち</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>散<rt>ち</rt></ruby>らかりようといったらありはしない。どこから<ruby>手<rt>て</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けていいか<ruby>途方<rt>とほう</rt></ruby>に<ruby>暮<rt>く</rt></ruby>れた。"
       },
       {
         "type": "correct",
         "label": "正解 (Correct with といったらありはしない)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using といったらありはしない",
-        "sentence": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらありはしない、<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえ<ruby>惜<rt>お</rt></ruby>しんで<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>に<ruby>追<rt>お</rt></ruby>われている。"
+        "sentence": "<ruby>繁忙<rt>はんぼう</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>経理<rt>けいり</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさといったらありはしない。<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとる<ruby>時間<rt>じかん</rt></ruby>さえ<ruby>惜<rt>お</rt></ruby>しんで<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>処理<rt>しょり</rt></ruby>に<ruby>追<rt>お</rt></ruby>われている。"
       }
     ],
     "comparison": [
@@ -5395,7 +5395,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "この<ruby>上<rt>うえ</rt></ruby>なくひどい・<ruby>困<rt>こま</rt></ruby>った<ruby>状態<rt>じょうたい</rt></ruby>だ。",
         "nuance_en": "utterly; extraordinarily bad",
-        "example": "せっかく<ruby>予約<rt>よやく</rt></ruby>した<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さといったらありはしない、<ruby>二度<rt>にど</rt></ruby>と<ruby>泊<rt>と</rt></ruby>まりたくないと<ruby>心底<rt>しんそこ</rt></ruby><ruby>思<rt>おも</rt></ruby>った。"
+        "example": "せっかく<ruby>予約<rt>よやく</rt></ruby>した<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>接客<rt>せっきゃく</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>さといったらありはしない。<ruby>二度<rt>にど</rt></ruby>と<ruby>泊<rt>と</rt></ruby>まりたくないと<ruby>心底<rt>しんそこ</rt></ruby><ruby>思<rt>おも</rt></ruby>った。"
       },
       {
         "form": "〜といったらない",
@@ -5414,13 +5414,13 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
     "notes_en": "'の至り' is an advanced N1 pattern meaning 'the pinnacle of; utmost', commonly used in formal writing, editorials, and speeches.",
     "nuance_ja": "「の<ruby>至<rt>いた</rt></ruby>り」は、<strong>『この<ruby>上<rt>うえ</rt></ruby>ない<ruby>最高<rt>さいこう</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>（<ruby>光栄<rt>こうえい</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り、<ruby>若気<rt>わかげ</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り）。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
     "nuance_en": "'の至り' expresses <strong>the pinnacle of; utmost</strong>, highlighting logical relationships or strong speaker stance in formal contexts.",
-    "trap_ja": "「〜の<ruby>至<rt>いた</rt></ruby>り」は「<ruby>光栄<rt>こうえい</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>赤面<rt>せきめん</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>若気<rt>わかげ</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>恐縮<rt>きょうしゅく</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」のように<ruby>特定<rt>とくてい</rt></ruby>の<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>慣用<rt>かんよう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>の「<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>」などにはつきません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
+    "trap_ja": "「〜の<ruby>至<rt>いた</rt></ruby>り」は「<ruby>光栄<rt>こうえい</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>赤面<rt>せきめん</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>若気<rt>わかげ</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>恐縮<rt>きょうしゅく</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」のように<ruby>特定<rt>とくてい</rt></ruby>の<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>慣用<rt>かんよう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>の「<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>」などにはつきません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
     "trap_en": "\"〜の至り\" is a highly idiomatic, formal expression that pairs with specific Sino-Japanese emotion nouns (like 光栄, 恐縮, 赤面, 若気), not everyday words like lack of sleep. Pay close attention to required grammatical connection and register.",
     "contrast": [
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「〜の<ruby>至<rt>いた</rt></ruby>り」は「<ruby>光栄<rt>こうえい</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>赤面<rt>せきめん</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>若気<rt>わかげ</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>恐縮<rt>きょうしゅく</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」のように<ruby>特定<rt>とくてい</rt></ruby>の<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>慣用<rt>かんよう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>かたり</rt></ruby>の「<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>」などにはつきません。",
+        "reason_ja": "「〜の<ruby>至<rt>いた</rt></ruby>り」は「<ruby>光栄<rt>こうえい</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>赤面<rt>せきめん</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>若気<rt>わかげ</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」「<ruby>恐縮<rt>きょうしゅく</rt></ruby>の<ruby>至<rt>いた</rt></ruby>り」のように<ruby>特定<rt>とくてい</rt></ruby>の<ruby>漢語<rt>かんご</rt></ruby><ruby>名詞<rt>めいし</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びつく<ruby>慣用<rt>かんよう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>であり、<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>の「<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>」などにはつきません。",
         "reason_en": "\"〜の至り\" is a highly idiomatic, formal expression that pairs with specific Sino-Japanese emotion nouns (like 光栄, 恐縮, 赤面, 若気), not everyday words like lack of sleep.",
         "sentence": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまでゲームをしてしまい、<ruby>睡眠<rt>すいみん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>の<ruby>至<rt>いた</rt></ruby>りだ。"
       },
@@ -5540,7 +5540,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with たりともない)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using たりともない",
-        "sentence": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>たりとも<ruby>惜<rt>お</rt></ruby>しんで<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打<rt>う</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>んだ。"
+        "sentence": "<ruby>最終<rt>さいしゅう</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>の<ruby>本番<rt>ほんばん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>出場<rt>しゅつじょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>一<rt>いち</rt></ruby><ruby>秒<rt>びょう</rt></ruby>たりとも<ruby>無駄<rt>むだ</rt></ruby>にすまいと<ruby>最後<rt>さいご</rt></ruby>のリハーサルに<ruby>打ち込<rt>うちこ</rt></ruby>んだ。"
       }
     ],
     "comparison": [
@@ -5603,7 +5603,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "それ<ruby>以外<rt>いがい</rt></ruby>には<ruby>絶対<rt>ぜったい</rt></ruby>にない。",
         "nuance_en": "none other than",
-        "example": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>の<ruby>右<rt>みぎ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>者<rt>もの</rt></ruby>をおいてほかにないと<ruby>言<rt>い</rt></ruby>われるほど、<ruby>名人<rt>めいじん</rt></ruby>をおいてほかにない。"
+        "example": "これほど<ruby>緻密<rt>ちみつ</rt></ruby>な<ruby>木彫<rt>きぼ</rt></ruby>りの<ruby>装飾<rt>そうしょく</rt></ruby>を<ruby>再現<rt>さいげん</rt></ruby>できる<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>山本<rt>やまもと</rt></ruby><ruby>名人<rt>めいじん</rt></ruby>をおいてほかにない。"
       },
       {
         "form": "〜にほかならない",
@@ -5956,7 +5956,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ずにはいられない)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using ずにはいられない",
-        "sentence": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごさずにはおれず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>ぐち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずにはいられない。"
+        "sentence": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見<rt>み</rt></ruby>ていることができず、<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずにはいられない。"
       }
     ],
     "comparison": [

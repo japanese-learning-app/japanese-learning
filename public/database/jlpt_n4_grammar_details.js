@@ -246,11 +246,11 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
   },
   "5": {
     "formula": "するべき（<ruby>肯定<rt>こうてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>）：<strong><ruby>動詞<rt>どうし</rt></ruby>た<ruby>形<rt>けい</rt></ruby></strong> ＋ <strong><ruby>方<rt>ほう</rt></ruby>がいい（です）</strong><br>しないべき（<ruby>否定<rt>ひてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>）：<strong><ruby>動詞<rt>どうし</rt></ruby>ない<ruby>形<rt>けい</rt></ruby></strong> ＋ <strong><ruby>方<rt>ほう</rt></ruby>がいい（です）</strong>",
-    "notes_ja": "<ruby>相手<rt>あいて</rt></ruby>にアドバイス（<ruby>助言<rt>じょげん</rt></ruby>）や<ruby>忠告<rt>ちゅうこく</rt></ruby>をするときに<ruby>使<rt>つか</rt></ruby>います。<br>『〜したほうがいい』と<ruby>言<rt>い</rt></ruby>うときは、これからすることでも<strong>「た<ruby>形<rt>けい</rt></ruby>」</strong>を<ruby>使<rt>つか</rt></ruby>います。<br><ruby>例<rt>れい</rt></ruby>：<ruby>熱<rt>ねつ</rt></ruby>があるなら、<ruby>病院<rt>びょういん</rt></ruby>へ<strong><ruby>行<rt>い</rt></ruby>った<ruby>方<rt>ほう</rt></ruby>がいいですよ</strong>。<br><ruby>反対<rt>はんたい</rt></ruby>に『〜しないほうがいい』と<ruby>言<rt>い</rt></ruby>うときは、<strong>「ない<ruby>形<rt>けい</rt></ruby>」</strong>をそのまま<ruby>使<rt>つか</rt></ruby>います。<br><ruby>例<rt>れい</rt></ruby>：<ruby>夜遅<rt>よるおそ</rt></ruby>くに<ruby>甘<rt>あま</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<strong><ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいいです</strong>。",
+    "notes_ja": "<ruby>相手<rt>あいて</rt></ruby>にアドバイス（<ruby>助言<rt>じょげん</rt></ruby>）や<ruby>忠告<rt>ちゅうこく</rt></ruby>をするときに<ruby>使<rt>つか</rt></ruby>います。<br>『〜したほうがいい』と<ruby>言<rt>い</rt></ruby>うときは、これからすることでも<strong>「た<ruby>形<rt>けい</rt></ruby>」</strong>を<ruby>使<rt>つか</rt></ruby>います。<br><ruby>例<rt>れい</rt></ruby>：<ruby>熱<rt>ねつ</rt></ruby>があるなら、<ruby>病院<rt>びょういん</rt></ruby>へ<strong><ruby>行<rt>い</rt></ruby>った<ruby>方<rt>ほう</rt></ruby>がいいですよ</strong>。<br><ruby>反対<rt>はんたい</rt></ruby>に『〜しないほうがいい』と<ruby>言<rt>い</rt></ruby>うときは、<strong>「ない<ruby>形<rt>けい</rt></ruby>」</strong>をそのまま<ruby>使<rt>つか</rt></ruby>います。<br><ruby>例<rt>れい</rt></ruby>：<ruby>夜遅<rt>よるおそ</rt></ruby>くに<ruby>甘<rt>あま</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<strong><ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいです</strong>。",
     "notes_en": "Used to give advice or a recommendation ('had better / should'). For positive advice, use the **た-form** + ほうがいい even though the action is in the future (病院へ行ったほうがいい). For negative advice ('had better not'), use the **ない-form** + ほうがいい (食べないほうがいい).",
     "nuance_ja": "「た<ruby>形<rt>けい</rt></ruby>＋ほうがいい」は、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>場面<rt>ばめん</rt></ruby>で『こうしたほうがいいよ！』とはっきり<ruby>勧<rt>すす</rt></ruby>める<ruby>表現<rt>ひょうげん</rt></ruby>です。ただし、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>（<ruby>先生<rt>せんせい</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>）に「〜たほうがいいですよ」と<ruby>言<rt>い</rt></ruby>うと、<ruby>少<rt>すこ</rt></ruby>し<ruby>上<rt>うえ</rt></ruby>から<ruby>目線<rt>めせん</rt></ruby>（おせっかい）に<ruby>聞<rt>き</rt></ruby>こえることがあります。<ruby>会話<rt>かいわ</rt></ruby>では<ruby>語尾<rt>ごび</rt></ruby>に「〜たほうがいいですよ」「〜たほうがいいんじゃないですか」を<ruby>付<rt>つ</rt></ruby>けると<ruby>柔<rt>やわ</rt></ruby>らかくなります。",
     "nuance_en": "た-form + ほうがいい gives clear, concrete advice for a specific situation. Because it sounds quite direct ('you'd better ~'), avoid using it directly toward superiors. Adding よ or んじゃないですか softens it in conversation.",
-    "trap_ja": "①<ruby>肯定<rt>こうてい</rt></ruby>のアドバイスでは、これからすることでも「<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>」ではなく「た<ruby>形<rt>けい</rt></ruby>」が<ruby>自然<rt>しぜん</rt></ruby>です（<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>は<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>なことわざのような<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます）。<br>②<ruby>否定<rt>ひてい</rt></ruby>のアドバイスは「なかったほうがいい」ではなく「ない<ruby>形<rt>けい</rt></ruby>＋ほうがいい」です。×<ruby>行<rt>い</rt></ruby>かなかったほうがいい → ○<ruby>行<rt>い</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいい<br>③「<ruby>方<rt>ほう</rt></ruby>」の<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>は「かた」ではなく「<strong>ほう</strong>」です。",
+    "trap_ja": "①<ruby>肯定<rt>こうてい</rt></ruby>のアドバイスでは、これからすることでも「<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>」ではなく「た<ruby>形<rt>けい</rt></ruby>」が<ruby>自然<rt>しぜん</rt></ruby>です（<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>は<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>なことわざのような<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます）。<br>②<ruby>否定<rt>ひてい</rt></ruby>のアドバイスは「なかったほうがいい」ではなく「ない<ruby>形<rt>けい</rt></ruby>＋ほうがいい」です。×<ruby>行<rt>い</rt></ruby>かなかったほうがいい → ○<ruby>行<rt>い</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいい<br>③「<ruby>方<rt>ほう</rt></ruby>」の<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>は「かた」ではなく「<strong>ほう</strong>」です。",
     "trap_en": "① Positive advice for a specific situation uses the た-form (行ったほうがいい), not the dictionary form. ② Negative advice uses the present ない-form (行かないほうがいい), NOT ×行かなかったほうがいい. ③ Here 方 is read ほう, not かた.",
     "contrast": [
       {
@@ -265,7 +265,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "label": "正解 (Correct)",
         "reason_ja": "「ない<ruby>形<rt>けい</rt></ruby>＋ほうがいい」で『〜しないほうがいい』という<ruby>助言<rt>じょげん</rt></ruby>になります。",
         "reason_en": "ない-form + ほうがいい means 'you had better not ~'.",
-        "sentence": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いなら、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>は<ruby>飲<rt>の</rt></ruby>まない<ruby>方<rt>ほう</rt></ruby>がいいですよ。"
+        "sentence": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いなら、<ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>は<ruby>飲<rt>の</rt></ruby>まない<ruby>方<rt>かた</rt></ruby>がいいですよ。"
       },
       {
         "type": "correct",
@@ -292,7 +292,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "bad",
         "nuance_ja": "『そうしないほうがいい』と<ruby>止<rt>と</rt></ruby>めるアドバイスです。",
         "nuance_en": "Advises against doing something ('you had better not ~').",
-        "example": "<ruby>無理<rt>むり</rt></ruby>をしない<ruby>方<rt>ほう</rt></ruby>がいいです。"
+        "example": "<ruby>無理<rt>むり</rt></ruby>をしない<ruby>方<rt>かた</rt></ruby>がいいです。"
       },
       {
         "form": "〜たらどうですか",
@@ -1042,9 +1042,9 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
     "notes_ja": "<strong><ruby>他動詞<rt>たどうし</rt></ruby>（を<ruby>格<rt>かく</rt></ruby>をとる<ruby>動詞<rt>どうし</rt></ruby>）</strong>の「て<ruby>形<rt>けい</rt></ruby>」に「ある（あります）」を<ruby>付<rt>つ</rt></ruby>けます。<br>『<ruby>誰<rt>だれ</rt></ruby>かが<ruby>何<rt>なに</rt></ruby>かの<ruby>目的<rt>もくてき</rt></ruby>でその<ruby>動作<rt>どうさ</rt></ruby>をして、<strong>その<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>今<rt>いま</rt></ruby>そこにある</strong>』ことを<ruby>表<rt>あらわ</rt></ruby>します。<br><ruby>目的<rt>もくてき</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>名詞<rt>めいし</rt></ruby>には「を」ではなく<strong>「が」</strong>（または「は」）を<ruby>使<rt>つか</rt></ruby>うのが<ruby>基本<rt>きほん</rt></ruby>です。<br><ruby>例<rt>れい</rt></ruby>：<ruby>壁<rt>かべ</rt></ruby>にポスター<strong>が<ruby>貼<rt>は</rt></ruby>ってあります</strong>。<br><ruby>例<rt>れい</rt></ruby>：ホテルはもう<strong><ruby>予約<rt>よやく</rt></ruby>してあります</strong>から、<ruby>安心<rt>あんしん</rt></ruby>してください（＝もう<ruby>準備<rt>じゅんび</rt></ruby><ruby>済<rt>ず</rt></ruby>みです）。",
     "notes_en": "Attach ある / あります to the て-form of a **transitive verb** (他動詞) to describe a state resulting from someone's intentional action ('has been done / is ready'). The object is normally marked with が (or topicalized with は): 壁にポスターが貼ってあります ('A poster has been put up on the wall').",
     "nuance_ja": "「<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いている（<ruby>自動詞<rt>じどうし</rt></ruby>＋ている）」は、<ruby>風<rt>かぜ</rt></ruby>で<ruby>開<rt>あ</rt></ruby>いたのか<ruby>誰<rt>だれ</rt></ruby>が<ruby>開<rt>あ</rt></ruby>けたのかに<ruby>関係<rt>かんけい</rt></ruby>なく、ただ『<ruby>開<rt>あ</rt></ruby>いている<ruby>状態<rt>じょうたい</rt></ruby>』を<ruby>描写<rt>びょうしゃ</rt></ruby>します。それに<ruby>対<rt>たい</rt></ruby>して「<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>けてある（<ruby>他動詞<rt>たどうし</rt></ruby>＋てある）」は、『<ruby>空気<rt>くうき</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えるためなど、<ruby>誰<rt>だれ</rt></ruby>かがわざと<ruby>開<rt>あ</rt></ruby>けた<ruby>結果<rt>けっか</rt></ruby>、<ruby>今<rt>いま</rt></ruby><ruby>開<rt>あ</rt></ruby>いている』という<strong><ruby>人<rt>ひと</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>・<ruby>準備<rt>じゅんび</rt></ruby></strong>が<ruby>感<rt>かん</rt></ruby>じられます。",
-    "nuance_en": "Compare 窓が開いている (intransitive + ている: simply 'the window is open') with 窓が{開|あ}けてある (transitive + てある: 'the window has been opened [by someone on purpose]'). 〜てある also means 'I've already taken care of it' (ホテルは予約してあります).",
+    "nuance_en": "Compare 窓が開いている (intransitive + ている: simply 'the window is open') with 窓が開けてある (transitive + てある: 'the window has been opened [by someone on purpose]'). 〜てある also means 'I've already taken care of it' (ホテルは予約してあります).",
     "trap_ja": "①<ruby>自動詞<rt>じどうし</rt></ruby>には「〜てある」は<ruby>付<rt>つ</rt></ruby>きません。×<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いてある・×<ruby>電気<rt>でんき</rt></ruby>がついてある → ○<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>けてある・○<ruby>電気<rt>でんき</rt></ruby>がつけてある<br>②<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>描写<rt>びょうしゃ</rt></ruby>するとき、<ruby>名詞<rt>めいし</rt></ruby>の<ruby>助詞<rt>じょし</rt></ruby>は「<strong>が</strong>」が<ruby>基本<rt>きほん</rt></ruby>です：「<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby><strong>が</strong><ruby>置<rt>お</rt></ruby>いてあります」。<br>③<ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby>（<ruby>人<rt>ひと</rt></ruby>・<ruby>犬<rt>いぬ</rt></ruby>など）の<ruby>動作<rt>どうさ</rt></ruby>には「〜てある」は<ruby>使<rt>つか</rt></ruby>いません。",
-    "trap_en": "① Use a transitive verb (開ける, つける, 並べる), NOT an intransitive verb: ×窓が{開|あ}いてある → ○窓が{開|あ}けてある. ② Mark the item with が (or は): ポスターが貼ってあります. ③ Cannot be used with intransitive states of people/animals.",
+    "trap_en": "① Use a transitive verb (開ける, つける, 並べる), NOT an intransitive verb: ×窓が開いてある → ○窓が開けてある. ② Mark the item with が (or は): ポスターが貼ってあります. ③ Cannot be used with intransitive states of people/animals.",
     "contrast": [
       {
         "type": "wrong",
@@ -1307,8 +1307,8 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
     ]
   },
   "23": {
-    "formula": "<strong><ruby>動詞<rt>どうし</rt></ruby>・イ<ruby>形容詞<rt>けいようし</rt></ruby>［<ruby>普通<rt>ふつう</rt></ruby><ruby>形<rt>けい</rt></ruby>］</strong>＋ <strong>かどうか</strong><br><strong>ナ<ruby>形容詞<rt>けいようし</rt></ruby>・<ruby>名詞<rt>めいし</rt></ruby>［だ なし］</strong>＋ <strong>かどうか</strong> ＋ わかります／<ruby>知<rt>し</rt></ruby>っています／<ruby>聞<rt>き</rt></ruby>きます <ruby>等<rt>ひとし</rt></ruby>",
-    "notes_ja": "<ruby>疑問<rt>ぎもん</rt></ruby><ruby>詞<rt>ことば</rt></ruby>（<ruby>何<rt>なん</rt></ruby>・どこ・いつ・<ruby>誰<rt>だれ</rt></ruby>など）がない「はい／いいえ」で<ruby>答<rt>こた</rt></ruby>える<ruby>疑問<rt>ぎもん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>を、<ruby>文<rt>ぶん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるときに<ruby>使<rt>つか</rt></ruby>います。<strong><ruby>名詞<rt>めいし</rt></ruby>とナ<ruby>形容詞<rt>けいようし</rt></ruby>の<ruby>現在<rt>げんざい</rt></ruby><ruby>肯定<rt>こうてい</rt></ruby>には「だ」を<ruby>付<rt>つ</rt></ruby>けず、そのまま「かどうか」をつなげる</strong><ruby>点<rt>てん</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。<br><ruby>例<rt>れい</rt></ruby>：<ruby>明日<rt>あした</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんが<strong><ruby>来<rt>く</rt></ruby>るかどうか</strong><ruby>知<rt>し</rt></ruby>りません。／この<ruby>話<rt>はなし</rt></ruby>が<strong><ruby>本当<rt>ほんとう</rt></ruby>かどうか</strong><ruby>調<rt>しら</rt></ruby>べてみます。",
+    "formula": "<strong><ruby>動詞<rt>どうし</rt></ruby>・イ<ruby>形容詞<rt>けいようし</rt></ruby>［<ruby>普通<rt>ふつう</rt></ruby><ruby>形<rt>けい</rt></ruby>］</strong>＋ <strong>かどうか</strong><br><strong>ナ<ruby>形容詞<rt>けいようし</rt></ruby>・<ruby>名詞<rt>めいし</rt></ruby>［だ なし］</strong>＋ <strong>かどうか</strong> ＋ わかります／<ruby>知<rt>し</rt></ruby>っています／<ruby>聞<rt>き</rt></ruby>きます <ruby>等<rt>とう</rt></ruby>",
+    "notes_ja": "<ruby>疑問<rt>ぎもん</rt></ruby><ruby>詞<rt>ことば</rt></ruby>（<ruby>何<rt>なん</rt></ruby>・どこ・いつ・<ruby>誰<rt>だれ</rt></ruby>など）がない「はい／いいえ」で<ruby>答<rt>こた</rt></ruby>える<ruby>疑問<rt>ぎもん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>を、<ruby>文<rt>ぶん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れるときに<ruby>使<rt>つか</rt></ruby>います。<strong><ruby>名詞<rt>めいし</rt></ruby>とナ<ruby>形容詞<rt>けいようし</rt></ruby>の<ruby>現在<rt>げんざい</rt></ruby><ruby>肯定<rt>こうてい</rt></ruby>には「だ」を<ruby>付<rt>つ</rt></ruby>けず、そのまま「かどうか」をつなげる</strong><ruby>点<rt>てん</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。<br><ruby>例<rt>れい</rt></ruby>：<ruby>明日<rt>あした</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんが<strong><ruby>来<rt>く</rt></ruby>るかどうか</strong><ruby>知<rt>し</rt></ruby>りません。／この<ruby>話<rt>はなし</rt></ruby>が<strong><ruby>本当<rt>ほんとう</rt></ruby>かどうか</strong><ruby>調<rt>しら</rt></ruby>べてみます。",
     "notes_en": "Embeds a yes/no question inside a larger sentence ('whether or not ~'). Attach directly to the plain form; present affirmative nouns and na-adjectives drop だ (本当かどうか, 暇かどうか).",
     "nuance_ja": "「〜かどうか」の<ruby>代<rt>か</rt></ruby>わりに、<ruby>反対<rt>はんたい</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べて「<ruby>行<rt>い</rt></ruby>くか<ruby>行<rt>い</rt></ruby>かないか」「おいしいかおいしくないか」と<ruby>言<rt>い</rt></ruby>うこともできます。",
     "nuance_en": "Can also be phrased by pairing affirmative and negative forms (行くか行かないか).",
@@ -1372,7 +1372,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "イ<ruby>形容詞<rt>けいようし</rt></ruby>の「い」を<ruby>残<rt>のこ</rt></ruby>して「おもしろいそうです」と<ruby>言<rt>い</rt></ruby>うと『<ruby>人<rt>ひと</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いた（<ruby>伝聞<rt>でんぶん</rt></ruby>）』になります。<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>なら「おもしろそうです」にします。",
         "reason_en": "Keeping い makes it hearsay ('I heard it's interesting'). Drop い for visual impression: おもしろそうです.",
-        "sentence": "このかばんは<ruby>頭<rt>あたま</rt></ruby>が{いいそうだ}ね。→ この<ruby>本<rt>ほん</rt></ruby>は{おもしろいそうです}。（<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て）"
+        "sentence": "このかばんは<ruby>頭<rt>あたま</rt></ruby>がいいそうだね。→ この<ruby>本<rt>ほん</rt></ruby>はおもしろいそうです。（<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て）"
       },
       {
         "type": "correct",
@@ -1666,7 +1666,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "good",
         "nuance_ja": "『<ruby>絶対<rt>ぜったい</rt></ruby>にそんなことはあり<ruby>得<rt>え</rt></ruby>ない』と<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>打<rt>う</rt></ruby>ち<ruby>消<rt>け</rt></ruby>します。",
         "nuance_en": "Categorically rules out the possibility ('no way that ~').",
-        "example": "まだ<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby>だから、<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるはずがありません。"
+        "example": "まだ<ruby>一時<rt>いちじ</rt></ruby>だから、<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わっているはずがありません。"
       },
       {
         "form": "〜ないはずだ",
@@ -1911,7 +1911,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
     "notes_en": "Depending on the verb form before ところだ, it pinpoints the exact stage of an action: (1) Dictionary form + ところだ = just about to do (not started yet); (2) ている form + ところだ = right in the middle of doing; (3) た form + ところだ = just finished doing moments ago.",
     "nuance_ja": "<ruby>電話<rt>でんわ</rt></ruby>や<ruby>職場<rt>しょくば</rt></ruby>で「<ruby>今<rt>いま</rt></ruby>どういう<ruby>状況<rt>じょうきょう</rt></ruby>か」を<ruby>相手<rt>あいて</rt></ruby>にわかりやすく<ruby>伝<rt>つた</rt></ruby>えるときによく<ruby>使<rt>つか</rt></ruby>われます。「ちょうど<ruby>今<rt>いま</rt></ruby>〜するところです」「たった<ruby>今<rt>いま</rt></ruby>〜したところです」のように、「ちょうど」「これから」「<ruby>今<rt>いま</rt></ruby>」「たった<ruby>今<rt>いま</rt></ruby>」などの<ruby>副詞<rt>ふくし</rt></ruby>とセットで<ruby>使<rt>つか</rt></ruby>われることが<ruby>多<rt>おお</rt></ruby>いのが<ruby>特徴<rt>とくちょう</rt></ruby>です。",
     "nuance_en": "Very common on the phone or at work to report your exact status right now. Frequently pairs with time adverbs: これから + Vる-ところだ, 今 + Vている-ところだ, and たった今 + Vた-ところだ.",
-    "trap_ja": "①「これから」「<ruby>今<rt>いま</rt></ruby>」「たった<ruby>今<rt>いま</rt></ruby>」などの<ruby>副詞<rt>ふくし</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>・ている<ruby>形<rt>かたち</rt></ruby>・た<ruby>形<rt>けい</rt></ruby>を<ruby>正<rt>まさ</rt></ruby>しく<ruby>選<rt>えら</rt></ruby>びましょう。<br>②「た<ruby>形<rt>けい</rt></ruby>＋ところだ」は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>終<rt>お</rt></ruby>わった<ruby>直後<rt>ちょくご</rt></ruby>（<ruby>数<rt>すう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby>）にしか<ruby>使<rt>つか</rt></ruby>えません。「<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たところだ」は<ruby>間違<rt>まちが</rt></ruby>いです（→<ruby>来<rt>き</rt></ruby>たばかりだ）。<br>③「ているところだ」は<ruby>継続<rt>けいぞく</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>（<ruby>調<rt>しら</rt></ruby>べる・<ruby>作<rt>つく</rt></ruby>るなど）と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>います。",
+    "trap_ja": "①「これから」「<ruby>今<rt>いま</rt></ruby>」「たった<ruby>今<rt>いま</rt></ruby>」などの<ruby>副詞<rt>ふくし</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>・ている<ruby>形<rt>かたち</rt></ruby>・た<ruby>形<rt>けい</rt></ruby>を<ruby>正<rt>ただ</rt></ruby>しく<ruby>選<rt>えら</rt></ruby>びましょう。<br>②「た<ruby>形<rt>けい</rt></ruby>＋ところだ」は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>終<rt>お</rt></ruby>わった<ruby>直後<rt>ちょくご</rt></ruby>（<ruby>数<rt>すう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby>）にしか<ruby>使<rt>つか</rt></ruby>えません。「<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たところだ」は<ruby>間違<rt>まちが</rt></ruby>いです（→<ruby>来<rt>き</rt></ruby>たばかりだ）。<br>③「ているところだ」は<ruby>継続<rt>けいぞく</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>（<ruby>調<rt>しら</rt></ruby>べる・<ruby>作<rt>つく</rt></ruby>るなど）と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>います。",
     "trap_en": "① Match time adverbs carefully: これから → Vる, 今 → Vている, たった今 → Vた. ② Vた + ところだ works only seconds or minutes after completion (never with 昨日 or 先月). ③ Vている + ところだ requires an action verb in progress.",
     "contrast": [
       {
@@ -1993,7 +1993,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "type": "correct",
         "label": "正解 (Correct)",
         "reason_ja": "<ruby>行事<rt>ぎょうじ</rt></ruby>や<ruby>建物<rt>たてもの</rt></ruby>の<ruby>事実<rt>じじつ</rt></ruby>を<ruby>述<rt>の</rt></ruby>べるときは、<ruby>誰<rt>だれ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>くか<ruby>言<rt>い</rt></ruby>わずに「〜が<ruby>開<rt>ひら</rt></ruby>かれます」と<ruby>受身<rt>うけみ</rt></ruby>で<ruby>表<rt>あらわ</rt></ruby>します。",
-        "reason_en": "Events and public facts naturally use the agentless passive: 国際会議が{開|ひら}かれます.",
+        "reason_en": "Events and public facts naturally use the agentless passive: 国際会議が開かれます.",
         "sentence": "このホールで<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれます。"
       }
     ],
@@ -2191,11 +2191,11 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "example": "<ruby>部長<rt>ぶちょう</rt></ruby>はもうお<ruby>出<rt>で</rt></ruby>かけになりました。"
       },
       {
-        "form": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby>（いらっしゃる<ruby>等<rt>ひとし</rt></ruby>）",
+        "form": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby>（いらっしゃる<ruby>等<rt>とう</rt></ruby>）",
         "form_en": "special suppletive honorifics",
         "badge": "最優先",
         "badge_type": "both",
-        "nuance_ja": "<ruby>行<rt>い</rt></ruby>く・<ruby>来<rt>く</rt></ruby>る・いる・<ruby>食<rt>た</rt></ruby>べる・<ruby>言<rt>い</rt></ruby>う・<ruby>見<rt>み</rt></ruby>る・する<ruby>等<rt>ひとし</rt></ruby>は、<ruby>決<rt>き</rt></ruby>まった<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+        "nuance_ja": "<ruby>行<rt>い</rt></ruby>く・<ruby>来<rt>く</rt></ruby>る・いる・<ruby>食<rt>た</rt></ruby>べる・<ruby>言<rt>い</rt></ruby>う・<ruby>見<rt>み</rt></ruby>る・する<ruby>等<rt>とう</rt></ruby>は、<ruby>決<rt>き</rt></ruby>まった<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
         "nuance_en": "Common core verbs have dedicated honorific forms that must be used instead.",
         "example": "どうぞ<ruby>温<rt>あたた</rt></ruby>かいうちにお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりください。"
       },
@@ -2261,7 +2261,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "example": "<ruby>会議室<rt>かいぎしつ</rt></ruby>までご<ruby>案内<rt>あんない</rt></ruby>いたします。"
       },
       {
-        "form": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>（<ruby>伺<rt>うかが</rt></ruby>う・<ruby>拝見<rt>はいけん</rt></ruby>する<ruby>等<rt>ひとし</rt></ruby>）",
+        "form": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>（<ruby>伺<rt>うかが</rt></ruby>う・<ruby>拝見<rt>はいけん</rt></ruby>する<ruby>等<rt>とう</rt></ruby>）",
         "form_en": "special suppletive humble verbs",
         "badge": "最優先",
         "badge_type": "neutral",
@@ -2310,7 +2310,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "good",
         "nuance_ja": "<ruby>私<rt>わたし</rt></ruby>（または<ruby>第三者<rt>だいさんしゃ</rt></ruby>A）がBのために<ruby>何<rt>なに</rt></ruby>かをしてあげるときに<ruby>使<rt>つか</rt></ruby>います（Bに「<ruby>私<rt>わたし</rt></ruby>」は<ruby>来<rt>き</rt></ruby>ません）。",
         "nuance_en": "I (or A) do something for B's benefit (B cannot be 'me').",
-        "example": "<ruby>友<rt>とも</rt></ruby>だちに<ruby>空港<rt>くうこう</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてあげました。"
+        "example": "<ruby>友<rt>とも</rt></ruby>だちに<ruby>空港<rt>くうこう</rt></ruby>までの<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてあげました。"
       },
       {
         "form": "お ＋ Vます<ruby>形<rt>けい</rt></ruby> ＋ しましょうか",
@@ -2580,7 +2580,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
     "formula": "<strong>Ⅰグループ</strong>：う<ruby>段<rt>だん</rt></ruby> → <strong>え<ruby>段<rt>だん</rt></ruby> ＋ ば</strong>（<ruby>行<rt>い</rt></ruby>く→<ruby>行<rt>い</rt></ruby>けば、<ruby>読<rt>よ</rt></ruby>む→<ruby>読<rt>よ</rt></ruby>めば）<br><strong>Ⅱグループ</strong>：る → <strong>れば</strong>（<ruby>食<rt>た</rt></ruby>べる→<ruby>食<rt>た</rt></ruby>べれば、<ruby>見<rt>み</rt></ruby>る→<ruby>見<rt>み</rt></ruby>れば）<br><strong>Ⅲグループ</strong>：する → <strong>すれば</strong>、<ruby>来<rt>く</rt></ruby>る → <strong><ruby>来<rt>く</rt></ruby>れば</strong><br><strong>イ<ruby>形容詞<rt>けいようし</rt></ruby></strong>：〜い → <strong>〜ければ</strong>（<ruby>安<rt>やす</rt></ruby>い→<ruby>安<rt>やす</rt></ruby>ければ、いい→<strong>よければ</strong>）<br><strong><ruby>否定<rt>ひてい</rt></ruby></strong>：〜ない → <strong>〜なければ</strong>（<ruby>行<rt>い</rt></ruby>かなければ）",
     "notes_ja": "「もしAという<ruby>条件<rt>じょうけん</rt></ruby>が<ruby>満<rt>み</rt></ruby>たされれば、Bになる／Bができる」という<ruby>仮定<rt>かてい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>や、<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>法則<rt>ほうそく</rt></ruby>・ことわざを<ruby>表<rt>あらわ</rt></ruby>す<ruby>文型<rt>ぶんけい</rt></ruby>です。<br><ruby>例<rt>れい</rt></ruby>：<ruby>薬<rt>くすり</rt></ruby>を<strong><ruby>飲<rt>の</rt></ruby>めば</strong>、すぐによくなりますよ。<br><ruby>例<rt>れい</rt></ruby>：<ruby>天気<rt>てんき</rt></ruby>が<strong>よければ</strong>、ここから<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えます。<br><ruby>例<rt>れい</rt></ruby>：<ruby>説明<rt>せつめい</rt></ruby>を<strong><ruby>聞<rt>き</rt></ruby>けば</strong>、だれでもわかります。<br><ruby>特<rt>とく</rt></ruby>に<ruby>後<rt>うし</rt></ruby>ろに<strong><ruby>可能<rt>かのう</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>（〜できる・<ruby>見<rt>み</rt></ruby>える・<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う）</strong>や<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>が<ruby>来<rt>く</rt></ruby>るときによく<ruby>使<rt>つか</rt></ruby>われます。",
     "notes_en": "Expresses a hypothetical or general condition ('Provided that A, then B happens / is possible'). Frequently used when the main clause expresses potential/ability (〜できる, 見える, 間に合う), a desirable outcome, or a general truth/proverb.",
-    "nuance_ja": "「ば」は「どうすればうまくいくか」という<ruby>条件<rt>じょうけん</rt></ruby>に<ruby>注目<rt>ちゅうもく</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。そのため、<ruby>前半<rt>ぜんはん</rt></ruby>と<ruby>後半<rt>こうはん</rt></ruby>がどちらも<ruby>同<rt>おな</rt></ruby>じ<ruby>人<rt>ひと</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろに「〜てください」「〜ましょう」が<ruby>来<rt>く</rt></ruby>るときには<ruby>原則<rt>げんそく</rt></ruby>として<ruby>使<rt>つか</rt></ruby>えません（×<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けば<ruby>電話<rt>でんわ</rt></ruby>してください → ○<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら<ruby>電話<rt>でんわ</rt></ruby>してください）。ただし、<ruby>前半<rt>ぜんはん</rt></ruby>が<strong><ruby>状態<rt>じょうたい</rt></ruby>（<ruby>形容詞<rt>けいようし</rt></ruby>・ある・いる・わかる<ruby>等<rt>ひとし</rt></ruby>）</strong>のときは、<ruby>後<rt>うし</rt></ruby>ろに「〜てください」が<ruby>置<rt>お</rt></ruby>けます（お<ruby>時間<rt>じかん</rt></ruby>が<strong>あれば</strong>、<ruby>来<rt>き</rt></ruby>てください）。",
+    "nuance_ja": "「ば」は「どうすればうまくいくか」という<ruby>条件<rt>じょうけん</rt></ruby>に<ruby>注目<rt>ちゅうもく</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>です。そのため、<ruby>前半<rt>ぜんはん</rt></ruby>と<ruby>後半<rt>こうはん</rt></ruby>がどちらも<ruby>同<rt>おな</rt></ruby>じ<ruby>人<rt>ひと</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>で、<ruby>後<rt>うし</rt></ruby>ろに「〜てください」「〜ましょう」が<ruby>来<rt>く</rt></ruby>るときには<ruby>原則<rt>げんそく</rt></ruby>として<ruby>使<rt>つか</rt></ruby>えません（×<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けば<ruby>電話<rt>でんわ</rt></ruby>してください → ○<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら<ruby>電話<rt>でんわ</rt></ruby>してください）。ただし、<ruby>前半<rt>ぜんはん</rt></ruby>が<strong><ruby>状態<rt>じょうたい</rt></ruby>（<ruby>形容詞<rt>けいようし</rt></ruby>・ある・いる・わかる<ruby>等<rt>とう</rt></ruby>）</strong>のときは、<ruby>後<rt>うし</rt></ruby>ろに「〜てください」が<ruby>置<rt>お</rt></ruby>けます（お<ruby>時間<rt>じかん</rt></ruby>が<strong>あれば</strong>、<ruby>来<rt>き</rt></ruby>てください）。",
     "nuance_en": "Rule on requests/volition with ば: When the first clause is an action verb (着く, 行く, 食べる), the second clause CANNOT be a command, request (〜てください), or invitation (〜ましょう)—use たら instead. However, if the first clause is a state (an adjective, ある, いる, or negative 〜なければ), requests ARE allowed (質問があれば、聞いてください).",
     "trap_ja": "①「いい」のば<ruby>形<rt>けい</rt></ruby>は「×いければ」ではなく「<strong>よければ</strong>」です。<br>②<ruby>動作<rt>どうさ</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>の「ば」の<ruby>後<rt>うし</rt></ruby>ろに「〜てください」は<ruby>使<rt>つか</rt></ruby>えません（×<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>われば<ruby>返<rt>かえ</rt></ruby>してください → ○<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>わったら<ruby>返<rt>かえ</rt></ruby>してください）。<br>③<ruby>過去<rt>かこ</rt></ruby>に<ruby>実際<rt>じっさい</rt></ruby>に<ruby>起<rt>お</rt></ruby>きた1<ruby>回<rt>かい</rt></ruby>の<ruby>出来事<rt>できごと</rt></ruby>（<ruby>発見<rt>はっけん</rt></ruby>）には<ruby>使<rt>つか</rt></ruby>えません（×<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>ければ<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていた → ○<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたら<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていた）。",
     "trap_en": "① The ば-form of いい is よければ (never ×いければ). ② Do not follow an action verb + ば with 〜てください (use たら). ③ Never use ば for a single past event/discovery ('When I opened the window, it was snowing' requires たら).",
@@ -2798,7 +2798,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "good",
         "nuance_ja": "Aの<ruby>期間<rt>きかん</rt></ruby>ずっとBの<ruby>動作<rt>どうさ</rt></ruby>や<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くときに<ruby>使<rt>つか</rt></ruby>います（<ruby>後<rt>うし</rt></ruby>ろは<ruby>継続<rt>けいぞく</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>）。",
         "nuance_en": "B continues throughout the entire span of A.",
-        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているあいだ、{ホテル}で<ruby>休<rt>やす</rt></ruby>んでいました。"
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているあいだ、ホテルで<ruby>休<rt>やす</rt></ruby>んでいました。"
       },
       {
         "form": "〜あいだに",
@@ -2807,7 +2807,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "Aが<ruby>続<rt>つづ</rt></ruby>いている<ruby>期間<rt>きかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に、Bという<ruby>出来事<rt>できごと</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたり<ruby>完了<rt>かんりょう</rt></ruby>したりするときに<ruby>使<rt>つか</rt></ruby>います。",
         "nuance_en": "A single event or completion B occurs within the time window of A.",
-        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らないあいだに、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましょう。"
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていないあいだに、<ruby>買い物<rt>かいもの</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましょう。"
       },
       {
         "form": "Vます<ruby>形<rt>けい</rt></ruby> ＋ ながら",
@@ -2882,7 +2882,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
     ]
   },
   "50": {
-    "formula": "<strong><ruby>時刻<rt>じこく</rt></ruby>・<ruby>日<rt>ひ</rt></ruby>・<ruby>期限<rt>きげん</rt></ruby>の<ruby>名詞<rt>めいし</rt></ruby> ＋ までに</strong>（5<ruby>時<rt>じ</rt></ruby>までに、<ruby>金曜日<rt>きんようび</rt></ruby>までに、<ruby>来週<rt>らいしゅう</rt></ruby>までに）<br><strong><ruby>動詞<rt>どうし</rt></ruby><ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby> ＋ までに</strong>（<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まるまでに、<ruby>卒業<rt>そつぎょう</rt></ruby>するまでに）",
+    "formula": "<strong><ruby>時刻<rt>じこく</rt></ruby>・<ruby>日<rt>にち</rt></ruby>・<ruby>期限<rt>きげん</rt></ruby>の<ruby>名詞<rt>めいし</rt></ruby> ＋ までに</strong>（5<ruby>時<rt>じ</rt></ruby>までに、<ruby>金曜日<rt>きんようび</rt></ruby>までに、<ruby>来週<rt>らいしゅう</rt></ruby>までに）<br><strong><ruby>動詞<rt>どうし</rt></ruby><ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby> ＋ までに</strong>（<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まるまでに、<ruby>卒業<rt>そつぎょう</rt></ruby>するまでに）",
     "notes_ja": "<ruby>動作<rt>どうさ</rt></ruby>や<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>させる<strong><ruby>期限<rt>きげん</rt></ruby>（タイムリミット）</strong>を<ruby>表<rt>あらわ</rt></ruby>します。「その<ruby>時点<rt>じてん</rt></ruby>より<ruby>前<rt>まえ</rt></ruby>に、1<ruby>回<rt>かい</rt></ruby>その<ruby>動作<rt>どうさ</rt></ruby>を<ruby>終<rt>お</rt></ruby>える」という<ruby>意味<rt>いみ</rt></ruby>です。<br><ruby>例<rt>れい</rt></ruby>：この<ruby>書類<rt>しょるい</rt></ruby>は、<ruby>今週<rt>こんしゅう</rt></ruby>の<strong><ruby>金曜日<rt>きんようび</rt></ruby>までに</strong><ruby>出<rt>だ</rt></ruby>してください。<br><ruby>例<rt>れい</rt></ruby>：<ruby>夜<rt>よる</rt></ruby>10<ruby>時<rt>じ</rt></ruby><strong>までに</strong>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。<br><ruby>例<rt>れい</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>が<strong><ruby>来<rt>く</rt></ruby>るまでに</strong>、<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しておきましょう。<br><ruby>後<rt>うし</rt></ruby>ろには「<ruby>出<rt>だ</rt></ruby>す・<ruby>返<rt>かえ</rt></ruby>す・<ruby>帰<rt>かえ</rt></ruby>る・<ruby>連絡<rt>れんらく</rt></ruby>する・<ruby>終<rt>お</rt></ruby>わらせる・<ruby>決<rt>き</rt></ruby>める」など、<strong><ruby>完了<rt>かんりょう</rt></ruby>する<ruby>動詞<rt>どうし</rt></ruby></strong>が<ruby>来<rt>き</rt></ruby>ます。",
     "notes_en": "Marks a deadline ('by [time]', 'before [event] happens'). The action in the main clause must be completed at or before that point in time. Can attach to time nouns (5時までに, 金曜日までに) or to verbs in the dictionary form (会議が始まるまでに).",
     "nuance_ja": "<strong>★「まで」と「までに」の<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い</strong>：<br>・5<ruby>時<rt>じ</rt></ruby><strong>まで</strong><ruby>働<rt>はたら</rt></ruby>きます。＝ 5<ruby>時<rt>じ</rt></ruby>まで<strong>ずっと<ruby>続<rt>つづ</rt></ruby>けて</strong><ruby>働<rt>はたら</rt></ruby>く（<ruby>継続<rt>けいぞく</rt></ruby>）。<br>・5<ruby>時<rt>じ</rt></ruby><strong>までに</strong><ruby>帰<rt>かえ</rt></ruby>ります。＝ 5<ruby>時<rt>じ</rt></ruby>を<ruby>期限<rt>きげん</rt></ruby>として、それより<ruby>前<rt>まえ</rt></ruby>に<strong><ruby>帰<rt>かえ</rt></ruby>る<ruby>動作<rt>どうさ</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>する</strong>（<ruby>期限<rt>きげん</rt></ruby>）。<br>「<ruby>返<rt>かえ</rt></ruby>す・<ruby>出<rt>だ</rt></ruby>す・<ruby>連絡<rt>れんらく</rt></ruby>する・<ruby>着<rt>つ</rt></ruby>く」のような<ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>動作<rt>どうさ</rt></ruby>には、<ruby>必<rt>かなら</rt></ruby>ず「<strong>までに</strong>」を<ruby>使<rt>つか</rt></ruby>います。",
@@ -3067,31 +3067,31 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
   "53": {
     "formula": "<strong><ruby>動詞<rt>どうし</rt></ruby>ます<ruby>形<rt>けい</rt></ruby> ＋ <ruby>方<rt>かた</rt></ruby></strong>（<ruby>書<rt>か</rt></ruby>き<ruby>方<rt>かた</rt></ruby>、<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>、<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>、<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>）<br><strong>サ<ruby>変<rt>へん</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby> ＋ の ＋ し<ruby>方<rt>かた</rt></ruby></strong>（<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>、<ruby>洗濯<rt>せんたく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>）<br><strong>「<ruby>来<rt>き</rt></ruby>ます」→ <ruby>来<rt>き</rt></ruby><ruby>方<rt>かた</rt></ruby></strong>（ほとんど<ruby>使<rt>つか</rt></ruby>わず「<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>う）<br>※<ruby>前<rt>まえ</rt></ruby>の<ruby>助詞<rt>じょし</rt></ruby>「を・へ・が」はすべて「<strong>の</strong>」に<ruby>変<rt>か</rt></ruby>わる（<ruby>料理<rt>りょうり</rt></ruby><strong>を</strong><ruby>作<rt>つく</rt></ruby>る → <ruby>料理<rt>りょうり</rt></ruby><strong>の</strong><ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>）",
     "notes_ja": "<ruby>動詞<rt>どうし</rt></ruby>のます<ruby>形<rt>けい</rt></ruby>に「<ruby>方<rt>かた</rt></ruby>」を<ruby>付<rt>つ</rt></ruby>けると、「〜する<ruby>方法<rt>ほうほう</rt></ruby>（どうやって〜するか）」という<strong><ruby>名詞<rt>めいし</rt></ruby></strong>になります。<br><ruby>例<rt>れい</rt></ruby>：この<ruby>漢字<rt>かんじ</rt></ruby>の<strong><ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby></strong>を<ruby>教<rt>おし</rt></ruby>えてください。<br><ruby>例<rt>れい</rt></ruby>：<ruby>新<rt>あたら</rt></ruby>しいコピー<ruby>機<rt>き</rt></ruby>の<strong><ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby></strong>がわかりません。<br>「〜する」の<ruby>動詞<rt>どうし</rt></ruby>（<ruby>予約<rt>よやく</rt></ruby>する・<ruby>勉強<rt>べんきょう</rt></ruby>する・<ruby>掃除<rt>そうじ</rt></ruby>する）は、「×<ruby>予約<rt>よやく</rt></ruby>し<ruby>方<rt>かた</rt></ruby>」ではなく「<strong><ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby></strong>」のように「の」を<ruby>入<rt>い</rt></ruby>れます。<br>また、「〜<ruby>方<rt>かた</rt></ruby>」<ruby>全体<rt>ぜんたい</rt></ruby>が1つの<ruby>名詞<rt>めいし</rt></ruby>になるので、<ruby>前<rt>まえ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>は「を・へ・が」ではなく<ruby>助詞<rt>じょし</rt></ruby>「<strong>の</strong>」でつなぎます（<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く → <ruby>駅<rt>えき</rt></ruby><strong>への／の</strong><ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>）。",
-    "notes_en": "Attaching 方 (かた) to a verb's ます-stem turns it into a noun meaning 'the way of doing ~ / how to ~'. Because the resulting word is a noun, the object or target before it takes the particle の instead of を or が (漢字を読む → 漢字の読み{方|かた}). For suru-verbs (予約する, 料理する), insert の before し方: 予約のし{方|かた}, 料理のし方.",
+    "notes_en": "Attaching 方 (かた) to a verb's ます-stem turns it into a noun meaning 'the way of doing ~ / how to ~'. Because the resulting word is a noun, the object or target before it takes the particle の instead of を or が (漢字を読む → 漢字の読み方). For suru-verbs (予約する, 料理する), insert の before し方: 予約のし方, 料理のし方.",
     "nuance_ja": "<ruby>単<rt>たん</rt></ruby>に「どうやって〜しますか」と<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くだけでなく、「あの<ruby>人<rt>ひと</rt></ruby>の<strong><ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby></strong>はやさしい」「<strong><ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby></strong>が<ruby>父<rt>ちち</rt></ruby>に<ruby>似<rt>に</rt></ruby>ている」のように、その<ruby>人<rt>ひと</rt></ruby>の<strong>やり<ruby>方<rt>かた</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>・<ruby>癖<rt>くせ</rt></ruby>・スタイル</strong>を<ruby>表<rt>あらわ</rt></ruby>すときにもよく<ruby>使<rt>つか</rt></ruby>われます。",
-    "nuance_en": "Besides asking 'how to do something' (使い{方|かた}を教えてください), 〜方 also describes someone's manner, style, or habit of doing something (話し{方|かた}が丁寧だ 'their way of speaking is polite').",
+    "nuance_en": "Besides asking 'how to do something' (使い方を教えてください), 〜方 also describes someone's manner, style, or habit of doing something (話し方が丁寧だ 'their way of speaking is polite').",
     "trap_ja": "①「<ruby>名詞<rt>めいし</rt></ruby>＋を＋〜<ruby>方<rt>かた</rt></ruby>」とは<ruby>言<rt>い</rt></ruby>えません。<ruby>助詞<rt>じょし</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず「<strong>の</strong>」に<ruby>変<rt>か</rt></ruby>えます（×<ruby>箸<rt>はし</rt></ruby>を<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby> → ○お<ruby>箸<rt>はし</rt></ruby><strong>の</strong><ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>）。<br>②サ<ruby>変<rt>へん</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>は「<strong>Nのし<ruby>方<rt>かた</rt></ruby></strong>」にします（×<ruby>勉強<rt>べんきょう</rt></ruby>し<ruby>方<rt>かた</rt></ruby> → ○<ruby>勉強<rt>べんきょう</rt></ruby><strong>の</strong>し<ruby>方<rt>かた</rt></ruby>）。<br>③<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>には<ruby>付<rt>つ</rt></ruby>きません（×<ruby>読<rt>よ</rt></ruby>む<ruby>方<rt>かた</rt></ruby> → ○<strong><ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby></strong>）。※「<ruby>読<rt>よ</rt></ruby>むほう」になると<ruby>比較<rt>ひかく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>になります。",
-    "trap_en": "① Change を to の before a 〜方 noun: ○お箸の使い{方|かた} (×お箸を使い{方|かた}). ② For suru-verbs, use N + の + し方: ○掃除のし方 (×掃除し方). ③ Always attach 方 (かた) to the ます-stem, never the dictionary form.",
+    "trap_en": "① Change を to の before a 〜方 noun: ○お箸の使い方 (×お箸を使い方). ② For suru-verbs, use N + の + し方: ○掃除のし方 (×掃除し方). ③ Always attach 方 (かた) to the ます-stem, never the dictionary form.",
     "contrast": [
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
         "reason_ja": "「<ruby>買<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>」は<ruby>名詞<rt>めいし</rt></ruby>なので、<ruby>前<rt>まえ</rt></ruby>の「<ruby>切符<rt>きっぷ</rt></ruby>」には「を」ではなく「の」を<ruby>付<rt>つ</rt></ruby>けます。",
-        "reason_en": "Since 買い{方|かた} is a noun, it cannot take the direct object particle を; use の instead.",
+        "reason_en": "Since 買い方 is a noun, it cannot take the direct object particle を; use の instead.",
         "sentence": "すみません、この<ruby>券売機<rt>けんばいき</rt></ruby>で<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がわかりません。"
       },
       {
         "type": "correct",
         "label": "正解 (Correct)",
         "reason_ja": "「<ruby>名詞<rt>めいし</rt></ruby>＋の＋ます<ruby>形<rt>けい</rt></ruby>＋<ruby>方<rt>かた</rt></ruby>」で「<ruby>切符<rt>きっぷ</rt></ruby>の<ruby>買<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>」になります。",
-        "reason_en": "切符の買い{方|かた} correctly connects the noun with の.",
+        "reason_en": "切符の買い方 correctly connects the noun with の.",
         "sentence": "すみません、この<ruby>券売機<rt>けんばいき</rt></ruby>での<ruby>切符<rt>きっぷ</rt></ruby>の<ruby>買<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がわかりません。"
       },
       {
         "type": "correct",
         "label": "正解 (Correct)",
         "reason_ja": "「<ruby>予約<rt>よやく</rt></ruby>する」は「<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>」の<ruby>形<rt>かたち</rt></ruby>にします。",
-        "reason_en": "For the suru-verb 予約する, use 予約のし{方|かた}.",
+        "reason_en": "For the suru-verb 予約する, use 予約のし方.",
         "sentence": "インターネットでのホテルの<ruby>予約<rt>よやく</rt></ruby>のし<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらいました。"
       }
     ],
@@ -3310,9 +3310,9 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
   },
   "57": {
     "formula": "<strong><ruby>動詞<rt>どうし</rt></ruby>ます<ruby>形<rt>けい</rt></ruby> ＋ <ruby>直<rt>なお</rt></ruby>す（／<ruby>直<rt>なお</rt></ruby>しました）</strong><br><ruby>例<rt>れい</rt></ruby>：<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>す、<ruby>考<rt>かんが</rt></ruby>え<ruby>直<rt>なお</rt></ruby>す、やり<ruby>直<rt>なお</rt></ruby>す、<ruby>読<rt>よ</rt></ruby>み<ruby>直<rt>なお</rt></ruby>す、<ruby>買<rt>か</rt></ruby>い<ruby>直<rt>なお</rt></ruby>す",
-    "notes_ja": "<ruby>一度<rt>いちど</rt></ruby>やったことがうまくいかなかったり、<ruby>間違<rt>まちが</rt></ruby>いがあったりしたときに、「もう<ruby>一度<rt>いちど</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>からやり<ruby>直<rt>なお</rt></ruby>す（より<ruby>良<rt>よ</rt></ruby>い<ruby>状態<rt>じょうたい</rt></ruby>にする）」ことを<ruby>表<rt>あらわ</rt></ruby>します。<br><ruby>例<rt>れい</rt></ruby>：<ruby>字<rt>じ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えたので、もう<ruby>一度<rt>いちど</rt></ruby><strong><ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しました</strong>。<br><ruby>例<rt>れい</rt></ruby>：<ruby>計画<rt>けいかく</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>がないか、もう<ruby>少<rt>すこ</rt></ruby>し<strong><ruby>考<rt>かんが</rt></ruby>え<ruby>直<rt>なお</rt></ruby>して</strong>みましょう。<br><ruby>例<rt>れい</rt></ruby>：{サイズ}が<ruby>合<rt>あ</rt></ruby>わなかったので、<ruby>靴<rt>くつ</rt></ruby>を<strong><ruby>買<rt>か</rt></ruby>い<ruby>直<rt>なお</rt></ruby>しました</strong>。<br><ruby>後<rt>うし</rt></ruby>ろの「<ruby>直<rt>なお</rt></ruby>す」はⅠグループ（<ruby>五<rt>ご</rt></ruby><ruby>段<rt>だん</rt></ruby>）<ruby>動詞<rt>どうし</rt></ruby>なので、「<ruby>直<rt>なお</rt></ruby>します・<ruby>直<rt>なお</rt></ruby>さない・<ruby>直<rt>なお</rt></ruby>した・<ruby>直<rt>なお</rt></ruby>せば」と<ruby>活用<rt>かつよう</rt></ruby>します。",
+    "notes_ja": "<ruby>一度<rt>いちど</rt></ruby>やったことがうまくいかなかったり、<ruby>間違<rt>まちが</rt></ruby>いがあったりしたときに、「もう<ruby>一度<rt>いちど</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>からやり<ruby>直<rt>なお</rt></ruby>す（より<ruby>良<rt>よ</rt></ruby>い<ruby>状態<rt>じょうたい</rt></ruby>にする）」ことを<ruby>表<rt>あらわ</rt></ruby>します。<br><ruby>例<rt>れい</rt></ruby>：<ruby>字<rt>じ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えたので、もう<ruby>一度<rt>いちど</rt></ruby><strong><ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しました</strong>。<br><ruby>例<rt>れい</rt></ruby>：<ruby>計画<rt>けいかく</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>がないか、もう<ruby>少<rt>すこ</rt></ruby>し<strong><ruby>考<rt>かんが</rt></ruby>え<ruby>直<rt>なお</rt></ruby>して</strong>みましょう。<br><ruby>例<rt>れい</rt></ruby>：サイズが<ruby>合<rt>あ</rt></ruby>わなかったので、<ruby>靴<rt>くつ</rt></ruby>を<strong><ruby>買<rt>か</rt></ruby>い<ruby>直<rt>なお</rt></ruby>しました</strong>。<br><ruby>後<rt>うし</rt></ruby>ろの「<ruby>直<rt>なお</rt></ruby>す」はⅠグループ（<ruby>五<rt>ご</rt></ruby><ruby>段<rt>だん</rt></ruby>）<ruby>動詞<rt>どうし</rt></ruby>なので、「<ruby>直<rt>なお</rt></ruby>します・<ruby>直<rt>なお</rt></ruby>さない・<ruby>直<rt>なお</rt></ruby>した・<ruby>直<rt>なお</rt></ruby>せば」と<ruby>活用<rt>かつよう</rt></ruby>します。",
     "notes_en": "Attach 直す to the ます-stem of a verb to mean 'do ~ over again / redo ~ (to fix a mistake or get a better result)'. Common examples include 書き直す (rewrite), やり直す (do over), 考え直す (reconsider), 読み直す (reread), and かけ直す (call back). Conjugates as a Group 1 verb (直します, 直さない, 直した).",
-    "nuance_ja": "<ruby>単<rt>たん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>をやるのではなく、「1<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>に<ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>点<rt>てん</rt></ruby>やミスがあったから、<strong><ruby>正<rt>まさ</rt></ruby>しく／もっと<ruby>良<rt>よ</rt></ruby>くするために</strong>もう<ruby>一度<rt>いちど</rt></ruby>する」というニュアンスがあります。<ruby>電話<rt>でんわ</rt></ruby>がつながらなくて「あとで<strong>かけ<ruby>直<rt>なお</rt></ruby>します</strong>」という<ruby>表現<rt>ひょうげん</rt></ruby>も<ruby>非常<rt>ひじょう</rt></ruby>によく<ruby>使<rt>つか</rt></ruby>われます。",
+    "nuance_ja": "<ruby>単<rt>たん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>をやるのではなく、「1<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>に<ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>点<rt>てん</rt></ruby>やミスがあったから、<strong><ruby>正<rt>ただ</rt></ruby>しく／もっと<ruby>良<rt>よ</rt></ruby>くするために</strong>もう<ruby>一度<rt>いちど</rt></ruby>する」というニュアンスがあります。<ruby>電話<rt>でんわ</rt></ruby>がつながらなくて「あとで<strong>かけ<ruby>直<rt>なお</rt></ruby>します</strong>」という<ruby>表現<rt>ひょうげん</rt></ruby>も<ruby>非常<rt>ひじょう</rt></ruby>によく<ruby>使<rt>つか</rt></ruby>われます。",
     "nuance_en": "Implies not merely repeating an action, but redoing it in order to correct a flaw, improve the result, or try again after an unsuccessful attempt (such as 電話をかけ直す 'call back later').",
     "trap_ja": "①て<ruby>形<rt>けい</rt></ruby>ではなく、<ruby>必<rt>かなら</rt></ruby>ず<strong>ます<ruby>形<rt>けい</rt></ruby></strong>に<ruby>付<rt>つ</rt></ruby>けます（×<ruby>書<rt>か</rt></ruby>いて<ruby>直<rt>なお</rt></ruby>す → ○<strong><ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>す</strong>）。<br>②「<ruby>直<rt>なお</rt></ruby>す」の<ruby>使役<rt>しえき</rt></ruby><ruby>受身<rt>うけみ</rt></ruby>は、「す」で<ruby>終<rt>お</rt></ruby>わる<ruby>動詞<rt>どうし</rt></ruby>なので<ruby>短縮<rt>たんしゅく</rt></ruby><ruby>形<rt>がた</rt></ruby>がなく「<strong>〜<ruby>直<rt>なお</rt></ruby>させられる</strong>」になります。<br>③<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>でやり<ruby>直<rt>なお</rt></ruby>せない<ruby>自然<rt>しぜん</rt></ruby><ruby>現象<rt>げんしょう</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません（×<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>直<rt>なお</rt></ruby>す）。",
     "trap_en": "① Attach 直す to the ます-stem, never the て-form (○書き直す, ×書いて直す). ② Since 直す ends in す, its causative-passive is 直させられる (not ×直される). ③ Only attaches to volitional actions that a person can redo.",
@@ -3327,7 +3327,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
       {
         "type": "correct",
         "label": "正解 (Correct)",
-        "reason_ja": "ます<ruby>形<rt>けい</rt></ruby>「<ruby>書<rt>か</rt></ruby>き」＋「<ruby>直<rt>なお</rt></ruby>しました」で「もう<ruby>一度<rt>いちど</rt></ruby><ruby>正<rt>まさ</rt></ruby>しく<ruby>書<rt>か</rt></ruby>いた」という<ruby>意味<rt>いみ</rt></ruby>になります。",
+        "reason_ja": "ます<ruby>形<rt>けい</rt></ruby>「<ruby>書<rt>か</rt></ruby>き」＋「<ruby>直<rt>なお</rt></ruby>しました」で「もう<ruby>一度<rt>いちど</rt></ruby><ruby>正<rt>ただ</rt></ruby>しく<ruby>書<rt>か</rt></ruby>いた」という<ruby>意味<rt>いみ</rt></ruby>になります。",
         "reason_en": "書き直しました correctly expresses rewriting the answer.",
         "sentence": "テストの<ruby>答<rt>こた</rt></ruby>えを<ruby>間違<rt>まちが</rt></ruby>えたので、<ruby>消<rt>け</rt></ruby>しゴムで<ruby>消<rt>け</rt></ruby>して<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しました。"
       },
@@ -3390,7 +3390,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "label": "正解 (Correct)",
         "reason_ja": "<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>開始<rt>かいし</rt></ruby>には「〜<ruby>始<rt>はじ</rt></ruby>める」を<ruby>使<rt>つか</rt></ruby>います。",
         "reason_en": "Use 書き始めてください for starting a scheduled activity.",
-        "sentence": "<ruby>時間<rt>じかん</rt></ruby>になりましたから、どうぞ<ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めてください。"
+        "sentence": "<ruby>時間<rt>じかん</rt></ruby>になりましたから、どうぞ<ruby>答<rt>こた</rt></ruby>えを<ruby>書<rt>か</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めてください。"
       },
       {
         "type": "correct",
@@ -3417,7 +3417,7 @@ window.JLPT_N4_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "<ruby>予定<rt>よてい</rt></ruby>していたことや<ruby>習慣<rt>しゅうかん</rt></ruby>、<ruby>季節<rt>きせつ</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>などが<ruby>普通<rt>ふつう</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まるときに<ruby>使<rt>つか</rt></ruby>います。",
         "nuance_en": "Planned, deliberate, or gradual beginning.",
-        "example": "<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>をし<ruby>始<rt>はじ</rt></ruby>めます。"
+        "example": "<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。"
       },
       {
         "form": "Vます<ruby>形<rt>けい</rt></ruby> ＋ <ruby>出<rt>だ</rt></ruby>す（<ruby>中<rt>なか</rt></ruby>→<ruby>外<rt>そと</rt></ruby>）",

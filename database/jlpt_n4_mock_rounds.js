@@ -24,18 +24,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -51,9 +51,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -1029,13 +1029,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "健康のために、毎朝３０分ぐらい歩く（<span class='jlpt-underline-blank'></span>）しています。",
         "titleRuby": "<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎朝<rt>まいあさ</rt></ruby>３０<ruby>分<rt>ぷん</rt></ruby>ぐらい<ruby>歩<rt>ある</rt></ruby>く（<span class='jlpt-underline-blank'></span>）しています。",
         "options": [
-          "ことに",
+          "ために",
           "そうに",
           "みたいに",
           "ように"
         ],
         "optionsRuby": [
-          "ことに",
+          "ために",
           "そうに",
           "みたいに",
           "ように"
@@ -1368,13 +1368,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "食べられます",
           "食べさせます",
           "食べます",
-          "食べ そうです"
+          "食べそうです"
         ],
         "optionsRuby": [
           "<ruby>食<rt>た</rt></ruby>べられます",
           "<ruby>食<rt>た</rt></ruby>べさせます",
           "<ruby>食<rt>た</rt></ruby>べます",
-          "<ruby>食<rt>た</rt></ruby>べ そうです"
+          "<ruby>食<rt>た</rt></ruby>べそうです"
         ],
         "correctIndex": 1,
         "weight": 1.5,
@@ -1465,13 +1465,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "すみませんが、ここに <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> よろしいでしょうか。",
         "titleRuby": "すみませんが、ここに <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> よろしいでしょうか。",
         "options": [
-          "少しの間",
+          "私の",
           "置かせて",
           "いただいても",
           "荷物を"
         ],
         "optionsRuby": [
-          "<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby>",
+          "<ruby>私<rt>わたし</rt></ruby>の",
           "<ruby>置<rt>お</rt></ruby>かせて",
           "いただいても",
           "<ruby>荷物<rt>にもつ</rt></ruby>を"
@@ -1512,7 +1512,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 56,
         "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
         "title": "空欄 [56] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [56] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -1538,7 +1538,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 57,
         "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
         "title": "空欄 [57] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [57] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -1564,7 +1564,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 58,
         "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
         "title": "空欄 [58] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [58] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -1590,7 +1590,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 59,
         "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
         "title": "空欄 [59] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [59] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -1616,7 +1616,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "文章の文法",
         "qNum": 60,
         "passage": "私は先月から、家の近くにある市民プールへ通っています。会社で毎日長い時間パソコンを使って仕事をしているので、肩や背中が痛くなった <b>[56]</b> です。\n私は子どものころ、泳ぐのがあまり得意では <b>[57]</b> 。でも、プールの先生が水の入り方や息のしかたを丁寧に <b>[58]</b> ので、少しずつ楽しくなりました。\n最初は２５メートル泳ぐのも大変でしたが、毎週土曜日と日曜日に練習して、今では５０メートル続けて <b>[59]</b> 。プールで体を動かした日の夜は、ぐっすり眠ることができます。\n来月はプールで小さい記録会があるそうです。私もそれに <b>[60]</b> と思っています。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>とお</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>市民<rt>しみん</rt></ruby>プールへ<ruby>通<rt>かよ</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>パソコンを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をしているので、<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった <b>[56]</b> です。<br><ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どものころ、<ruby>泳<rt>およ</rt></ruby>ぐのがあまり<ruby>得意<rt>とくい</rt></ruby>では <b>[57]</b> 。でも、プールの<ruby>先生<rt>せんせい</rt></ruby>が<ruby>水<rt>みず</rt></ruby>の<ruby>入<rt>はい</rt></ruby>り<ruby>方<rt>かた</rt></ruby>や<ruby>息<rt>いき</rt></ruby>のしかたを<ruby>丁寧<rt>ていねい</rt></ruby>に <b>[58]</b> ので、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>楽<rt>たの</rt></ruby>しくなりました。<br><ruby>最初<rt>さいしょ</rt></ruby>は２５メートル<ruby>泳<rt>およ</rt></ruby>ぐのも<ruby>大変<rt>たいへん</rt></ruby>でしたが、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>今<rt>いま</rt></ruby>では５０メートル<ruby>続<rt>つづ</rt></ruby>けて <b>[59]</b> 。プールで<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>日<rt>ひ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ることができます。<br><ruby>来月<rt>らいげつ</rt></ruby>はプールで<ruby>小<rt>ちい</rt></ruby>さい<ruby>記録<rt>きろく</rt></ruby><ruby>会<rt>かい</rt></ruby>があるそうです。<ruby>私<rt>わたし</rt></ruby>もそれに <b>[60]</b> と<ruby>思<rt>おも</rt></ruby>っています。",
         "title": "空欄 [60] に 入る ものは どれですか。",
         "titleRuby": "<ruby>空欄<rt>くうらん</rt></ruby> [60] に <ruby>入<rt>はい</rt></ruby>る ものは どれですか。",
         "options": [
@@ -2727,18 +2727,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -2754,9 +2754,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -4143,15 +4143,15 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "来週の旅行に <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> まだ決まっていません。",
         "titleRuby": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> まだ<ruby>決<rt>き</rt></ruby>まっていません。",
         "options": [
-          "行くか",
-          "詳しいことは",
-          "何も",
+          "行くのか",
+          "まだ",
+          "はっきり",
           "誰が"
         ],
         "optionsRuby": [
-          "<ruby>行<rt>い</rt></ruby>くか",
-          "<ruby>詳<rt>くわ</rt></ruby>しいことは",
-          "<ruby>何<rt>なに</rt></ruby>も",
+          "<ruby>行<rt>い</rt></ruby>くのか",
+          "まだ",
+          "はっきり",
           "<ruby>誰<rt>だれ</rt></ruby>が"
         ],
         "correctIndex": 3,
@@ -4832,8 +4832,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q78.mp3",
         "title": "男の人は これから まず なにを しますか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は これから まず なにを しますか。",
-        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事なさる ことが できますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは <ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>なさる ことが できますよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。",
+        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お召し上がり いただけます。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時半<rt>じはん</rt></ruby>から あいて おりますので、お<ruby>召し上<rt>めしあ</rt></ruby>がり いただけます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間に合<rt>まにあ</rt></ruby>いますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。。",
         "options": [
           "レストランへ 朝ごはんを 食べに 行く",
           "部屋で 荷物を まとめて フロントへ 持って くる",
@@ -4977,8 +4977,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q83.mp3",
         "title": "男の人は どうして 自転車では なく 歩いて 駅まで 来ましたか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は どうして <ruby>自転車<rt>じてんしゃ</rt></ruby>では なく <ruby>歩<rt>ある</rt></ruby>いて <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>ましたか。",
-        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、走って 来たので 汗を かいて しまいました。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>走<rt>はし</rt></ruby>って <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
+        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、急いで 歩いて 来たので 汗を かいて しまいました。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>急<rt>いそ</rt></ruby>いで <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
         "options": [
           "運動の ために 歩きたかったから",
           "自転車の タイヤの 空気が 抜けて いたから",
@@ -5307,16 +5307,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q95.mp3",
         "title": "あのう、鈴木部長は いま 席に いらっしゃいますか。",
         "titleRuby": "あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。",
-        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻られます。\n３　いいえ、部長は ここに いらっしゃいます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。<br>１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。<br>３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
+        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻る 予定です。\n３　いいえ、部長は ここに いらっしゃいます。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。\n１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。\n２　<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。\n３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
         "options": [
           "はい、わたしが 鈴木部長に 申します。",
-          "申し訳 ありません。いま 会議中で、３時に 戻られます。",
+          "申し訳 ありません。いま 会議中で、３時に 戻る 予定です。",
           "いいえ、部長は ここに いらっしゃいます。"
         ],
         "optionsRuby": [
           "はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。",
-          "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。",
+          "<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。",
           "いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。"
         ],
         "correctIndex": 1,
@@ -5430,18 +5430,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -5457,9 +5457,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -6006,13 +6006,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "しか",
           "くらい",
           "ずつ",
-          "ばかり"
+          "ごろ"
         ],
         "optionsRuby": [
           "しか",
           "くらい",
           "ずつ",
-          "ばかり"
+          "ごろ"
         ],
         "correctIndex": 1,
         "weight": 1.0,
@@ -6604,13 +6604,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "もし<ruby>明日<rt>あした</rt></ruby><ruby>天気<rt>てんき</rt></ruby>が（<span class='jlpt-underline-blank'></span>）、<ruby>洗濯物<rt>せんたくもの</rt></ruby>をたくさん<ruby>干<rt>ほ</rt></ruby>したいです。",
         "options": [
           "よければ",
-          "いいなら",
+          "よくても",
           "よくて",
           "いいと"
         ],
         "optionsRuby": [
           "よければ",
-          "いいなら",
+          "よくても",
           "よくて",
           "いいと"
         ],
@@ -6797,15 +6797,15 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "あの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>美術館<rt>びじゅつかん</rt></ruby>は、 <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>入<rt>い</rt></ruby>れないそうです。",
         "options": [
           "予約を",
-          "チケットを",
+          "ならない",
           "しておかなければ",
-          "買っても"
+          "ので、簡単には"
         ],
         "optionsRuby": [
           "<ruby>予約<rt>よやく</rt></ruby>を",
-          "チケットを",
+          "ならない",
           "しておかなければ",
-          "<ruby>買<rt>か</rt></ruby>っても"
+          "ので、<ruby>簡単<rt>かんたん</rt></ruby>には"
         ],
         "correctIndex": 2,
         "weight": 2.0,
@@ -7062,7 +7062,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "optionsRuby": [
           "<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>水<rt>みず</rt></ruby>をバケツやペットボトルに<ruby>入<rt>い</rt></ruby>れて<ruby>用意<rt>ようい</rt></ruby>しておく",
           "<ruby>午後<rt>ごご</rt></ruby>１<ruby>時<rt>じ</rt></ruby>から４<ruby>時<rt>じ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>洗濯<rt>せんたく</rt></ruby>や<ruby>料理<rt>りょうり</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませる",
-          "<ruby>水道<rt>すいどう</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるように<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けておく",
+          "<ruby>水道<rt>すいどう</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れるように<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けておく",
           "ペットボトルの<ruby>水<rt>みず</rt></ruby>を<ruby>管理<rt>かんり</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>室<rt>しつ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>けに<ruby>行<rt>い</rt></ruby>く"
         ],
         "correctIndex": 0,
@@ -7132,8 +7132,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "内容理解（短文）",
         "qNum": 64,
         "passage": "【わかば書店のポイントカードのご案内】\n本や文房具を５００円お買い上げごとに、スタンプを１つ押します。スタンプが２０個たまると、次回のお買い物から使える５００円分の割引券としてご利用いただけます。ただし、雨の日にご来店いただいたお客様には、スタンプを２倍押いたします。有効期限は発行日から１年間です。",
-        "passageRuby": "【わかば<ruby>書店<rt>しょてん</rt></ruby>のポイントカードのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>本<rt>ほん</rt></ruby>や<ruby>文房具<rt>ぶんぼうぐ</rt></ruby>を５００<ruby>円<rt>えん</rt></ruby>お<ruby>買<rt>か</rt></ruby>い<ruby>上<rt>あ</rt></ruby>げごとに、スタンプを１つ<ruby>押<rt>お</rt></ruby>します。スタンプが２０<ruby>個<rt>こ</rt></ruby>たまると、<ruby>次回<rt>じかい</rt></ruby>のお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>から<ruby>使<rt>つか</rt></ruby>える５００<ruby>円<rt>えん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby><ruby>券<rt>けん</rt></ruby>としてご<ruby>利用<rt>りよう</rt></ruby>いただけます。ただし、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にご<ruby>来店<rt>らいてん</rt></ruby>いただいたお<ruby>客様<rt>きゃくさま</rt></ruby>には、スタンプを２<ruby>倍<rt>ばい</rt></ruby><ruby>押<rt>お</rt></ruby>いたします。<ruby>有効<rt>ゆうこう</rt></ruby><ruby>期限<rt>きげん</rt></ruby>は<ruby>発行<rt>はっこう</rt></ruby><ruby>日<rt>び</rt></ruby>から１<ruby>年間<rt>ねんかん</rt></ruby>です。",
-        "evidence": "ただし、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にご<ruby>来店<rt>らいてん</rt></ruby>いただいたお<ruby>客様<rt>きゃくさま</rt></ruby>には、スタンプを２<ruby>倍<rt>ばい</rt></ruby><ruby>押<rt>お</rt></ruby>いたします。",
+        "passageRuby": "【わかば<ruby>書店<rt>しょてん</rt></ruby>のポイントカードのご<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>本<rt>ほん</rt></ruby>や<ruby>文房具<rt>ぶんぼうぐ</rt></ruby>を５００<ruby>円<rt>えん</rt></ruby>お<ruby>買<rt>か</rt></ruby>い<ruby>上<rt>あ</rt></ruby>げごとに、スタンプを１つ<ruby>押<rt>お</rt></ruby>します。スタンプが２０<ruby>個<rt>こ</rt></ruby>たまると、<ruby>次回<rt>じかい</rt></ruby>のお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>から<ruby>使<rt>つか</rt></ruby>える５００<ruby>円<rt>えん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby><ruby>券<rt>けん</rt></ruby>としてご<ruby>利用<rt>りよう</rt></ruby>いただけます。ただし、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にご<ruby>来店<rt>らいてん</rt></ruby>いただいたお<ruby>客様<rt>きゃくさま</rt></ruby>には、スタンプを２<ruby>倍<rt>ばい</rt></ruby><ruby>押<rt>お</rt></ruby>します。<ruby>有効<rt>ゆうこう</rt></ruby><ruby>期限<rt>きげん</rt></ruby>は<ruby>発行<rt>はっこう</rt></ruby><ruby>日<rt>び</rt></ruby>から１<ruby>年間<rt>ねんかん</rt></ruby>です。",
+        "evidence": "ただし、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にご<ruby>来店<rt>らいてん</rt></ruby>いただいたお<ruby>客様<rt>きゃくさま</rt></ruby>には、スタンプを２<ruby>倍<rt>ばい</rt></ruby><ruby>押<rt>お</rt></ruby>します。",
         "evidencePlain": "ただし、雨の日にご来店いただいたお客様には、スタンプを２倍押いたします。",
         "title": "雨の日にこの本屋で１,０００円の本を買った場合、スタンプはいくつ押してもらえますか。",
         "titleRuby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にこの<ruby>本屋<rt>ほんや</rt></ruby>で１,０００<ruby>円<rt>えん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>った<ruby>場合<rt>ばあい</rt></ruby>、スタンプはいくつ<ruby>押<rt>お</rt></ruby>してもらえますか。",
@@ -7160,7 +7160,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "内容理解（中文）",
         "qNum": 65,
         "passage": "私の家の近くには、川に沿って桜の木がたくさん植えられた散歩道があります。春になるときれいな桜の花が咲くので、遠くからも大勢の人が見に来ます。しかし、私は春だけでなく、秋の散歩道もとても好きです。\n\n秋になると、桜の葉が赤やオレンジ色に変わって、少しずつ地面に落ち始めます。歩くと靴の下でカサカサと優しい音がして、とても気持ちがいいです。また、春と違って人が少ないので、ベンチに座ってゆっくり読書をすることもできます。\n\n昨日の午後も、私は温かいお茶を水筒に入れてその散歩道へ行きました。静かな川の流れを見ながら２時間ほど小説を読んで、とてもいい休日を過ごせました。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>桜<rt>さくら</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えられた<ruby>散歩道<rt>さんぽみち</rt></ruby>があります。<ruby>春<rt>はる</rt></ruby>になるときれいな<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くので、<ruby>遠<rt>とお</rt></ruby>くからも<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。しかし、<ruby>私<rt>わたし</rt></ruby>は<ruby>春<rt>はる</rt></ruby>だけでなく、<ruby>秋<rt>あき</rt></ruby>の<ruby>散歩道<rt>さんぽみち</rt></ruby>もとても<ruby>好<rt>す</rt></ruby>きです。<br><br><ruby>秋<rt>あき</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>やオレンジ<ruby>色<rt>しょく</rt></ruby>に<ruby>変<rt>か</rt></ruby>わって、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>地面<rt>じめん</rt></ruby>に<ruby>落<rt>お</rt></ruby>ち<ruby>始<rt>はじ</rt></ruby>めます。<ruby>歩<rt>ある</rt></ruby>くと<ruby>靴<rt>くつ</rt></ruby>の<ruby>下<rt>した</rt></ruby>でカサカサと<ruby>優<rt>やさ</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がして、とても<ruby>気持<rt>きも</rt></ruby>ちがいいです。また、<ruby>春<rt>はる</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、ベンチに<ruby>座<rt>すわ</rt></ruby>ってゆっくり<ruby>読書<rt>どくしょ</rt></ruby>をすることもできます。<br><br><ruby>昨日<rt>きのう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>も、<ruby>私<rt>わたし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>水筒<rt>すいとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてその<ruby>散歩道<rt>さんぽみち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>静<rt>しず</rt></ruby>かな<ruby>川<rt>かわ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>見<rt>み</rt></ruby>ながら２<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、とてもいい<ruby>休日<rt>きゅうじつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせました。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>桜<rt>さくら</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えられた<ruby>散歩道<rt>さんぽみち</rt></ruby>があります。<ruby>春<rt>はる</rt></ruby>になるときれいな<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くので、<ruby>遠<rt>とお</rt></ruby>くからも<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。しかし、<ruby>私<rt>わたし</rt></ruby>は<ruby>春<rt>はる</rt></ruby>だけでなく、<ruby>秋<rt>あき</rt></ruby>の<ruby>散歩道<rt>さんぽみち</rt></ruby>もとても<ruby>好<rt>す</rt></ruby>きです。<br><br><ruby>秋<rt>あき</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>やオレンジ<ruby>色<rt>しょく</rt></ruby>に<ruby>変<rt>か</rt></ruby>わって、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>地面<rt>じめん</rt></ruby>に<ruby>落<rt>お</rt></ruby>ち<ruby>始<rt>はじ</rt></ruby>めます。<ruby>歩<rt>ある</rt></ruby>くと<ruby>靴<rt>くつ</rt></ruby>の<ruby>下<rt>した</rt></ruby>でカサカサと<ruby>優<rt>やさ</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がして、とても<ruby>気持<rt>きも</rt></ruby>ちがいいです。また、<ruby>春<rt>はる</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、ベンチに<ruby>座<rt>すわ</rt></ruby>ってゆっくり<ruby>読書<rt>どくしょ</rt></ruby>をすることもできます。<br><br><ruby>昨日<rt>きのう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>も、<ruby>私<rt>わたし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>水筒<rt>すいとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてその<ruby>散歩道<rt>さんぽみち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>静<rt>しず</rt></ruby>かな<ruby>川<rt>かわ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>見<rt>み</rt></ruby>ながら２<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、とてもいい<ruby>休日<rt>きゅうじつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせました。",
         "evidence": "<ruby>歩<rt>ある</rt></ruby>くと<ruby>靴<rt>くつ</rt></ruby>の<ruby>下<rt>した</rt></ruby>でカサカサと<ruby>優<rt>やさ</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がして、とても<ruby>気持<rt>きも</rt></ruby>ちがいいです。また、<ruby>春<rt>はる</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、ベンチに<ruby>座<rt>すわ</rt></ruby>ってゆっくり<ruby>読書<rt>どくしょ</rt></ruby>をすることもできます。",
         "evidencePlain": "歩くと靴の下でカサカサと優しい音がして、とても気持ちがいいです。また、春と違って人が少ないので、ベンチに座ってゆっくり読書をすることもできます。",
         "title": "筆者が秋の散歩道を好きな理由として、本文に書かれていることはどれですか。",
@@ -7173,7 +7173,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         ],
         "optionsRuby": [
           "<ruby>落<rt>お</rt></ruby>ち<ruby>葉<rt>ば</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くと<ruby>気持<rt>きも</rt></ruby>ちがいいし、<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくてゆっくり<ruby>本<rt>ほん</rt></ruby>が<ruby>読<rt>よ</rt></ruby>めるから",
-          "<ruby>秋<rt>あき</rt></ruby>にも<ruby>珍<rt>めずら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いて、<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>でにぎやかになるから",
+          "<ruby>秋<rt>あき</rt></ruby>にも<ruby>珍<rt>めずら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いて、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>でにぎやかになるから",
           "<ruby>散歩道<rt>さんぽみち</rt></ruby>のそばに<ruby>新<rt>あたら</rt></ruby>しい<ruby>喫茶店<rt>きっさてん</rt></ruby>ができて、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>が<ruby>買<rt>か</rt></ruby>えるから",
           "<ruby>川<rt>かわ</rt></ruby>で<ruby>魚釣<rt>さかなつ</rt></ruby>りをしたり、<ruby>友達<rt>ともだち</rt></ruby>とスポーツをしたりできるから"
         ],
@@ -7188,7 +7188,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "内容理解（中文）",
         "qNum": 66,
         "passage": "私の家の近くには、川に沿って桜の木がたくさん植えられた散歩道があります。春になるときれいな桜の花が咲くので、遠くからも大勢の人が見に来ます。しかし、私は春だけでなく、秋の散歩道もとても好きです。\n\n秋になると、桜の葉が赤やオレンジ色に変わって、少しずつ地面に落ち始めます。歩くと靴の下でカサカサと優しい音がして、とても気持ちがいいです。また、春と違って人が少ないので、ベンチに座ってゆっくり読書をすることもできます。\n\n昨日の午後も、私は温かいお茶を水筒に入れてその散歩道へ行きました。静かな川の流れを見ながら２時間ほど小説を読んで、とてもいい休日を過ごせました。",
-        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>桜<rt>さくら</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えられた<ruby>散歩道<rt>さんぽみち</rt></ruby>があります。<ruby>春<rt>はる</rt></ruby>になるときれいな<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くので、<ruby>遠<rt>とお</rt></ruby>くからも<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。しかし、<ruby>私<rt>わたし</rt></ruby>は<ruby>春<rt>はる</rt></ruby>だけでなく、<ruby>秋<rt>あき</rt></ruby>の<ruby>散歩道<rt>さんぽみち</rt></ruby>もとても<ruby>好<rt>す</rt></ruby>きです。<br><br><ruby>秋<rt>あき</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>やオレンジ<ruby>色<rt>しょく</rt></ruby>に<ruby>変<rt>か</rt></ruby>わって、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>地面<rt>じめん</rt></ruby>に<ruby>落<rt>お</rt></ruby>ち<ruby>始<rt>はじ</rt></ruby>めます。<ruby>歩<rt>ある</rt></ruby>くと<ruby>靴<rt>くつ</rt></ruby>の<ruby>下<rt>した</rt></ruby>でカサカサと<ruby>優<rt>やさ</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がして、とても<ruby>気持<rt>きも</rt></ruby>ちがいいです。また、<ruby>春<rt>はる</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、ベンチに<ruby>座<rt>すわ</rt></ruby>ってゆっくり<ruby>読書<rt>どくしょ</rt></ruby>をすることもできます。<br><br><ruby>昨日<rt>きのう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>も、<ruby>私<rt>わたし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>水筒<rt>すいとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてその<ruby>散歩道<rt>さんぽみち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>静<rt>しず</rt></ruby>かな<ruby>川<rt>かわ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>見<rt>み</rt></ruby>ながら２<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、とてもいい<ruby>休日<rt>きゅうじつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせました。",
+        "passageRuby": "<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、<ruby>川<rt>かわ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>桜<rt>さくら</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えられた<ruby>散歩道<rt>さんぽみち</rt></ruby>があります。<ruby>春<rt>はる</rt></ruby>になるときれいな<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くので、<ruby>遠<rt>とお</rt></ruby>くからも<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。しかし、<ruby>私<rt>わたし</rt></ruby>は<ruby>春<rt>はる</rt></ruby>だけでなく、<ruby>秋<rt>あき</rt></ruby>の<ruby>散歩道<rt>さんぽみち</rt></ruby>もとても<ruby>好<rt>す</rt></ruby>きです。<br><br><ruby>秋<rt>あき</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>やオレンジ<ruby>色<rt>しょく</rt></ruby>に<ruby>変<rt>か</rt></ruby>わって、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>地面<rt>じめん</rt></ruby>に<ruby>落<rt>お</rt></ruby>ち<ruby>始<rt>はじ</rt></ruby>めます。<ruby>歩<rt>ある</rt></ruby>くと<ruby>靴<rt>くつ</rt></ruby>の<ruby>下<rt>した</rt></ruby>でカサカサと<ruby>優<rt>やさ</rt></ruby>しい<ruby>音<rt>おと</rt></ruby>がして、とても<ruby>気持<rt>きも</rt></ruby>ちがいいです。また、<ruby>春<rt>はる</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないので、ベンチに<ruby>座<rt>すわ</rt></ruby>ってゆっくり<ruby>読書<rt>どくしょ</rt></ruby>をすることもできます。<br><br><ruby>昨日<rt>きのう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>も、<ruby>私<rt>わたし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>水筒<rt>すいとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてその<ruby>散歩道<rt>さんぽみち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>静<rt>しず</rt></ruby>かな<ruby>川<rt>かわ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>見<rt>み</rt></ruby>ながら２<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、とてもいい<ruby>休日<rt>きゅうじつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせました。",
         "evidence": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>も、<ruby>私<rt>わたし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>水筒<rt>すいとう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてその<ruby>散歩道<rt>さんぽみち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<ruby>静<rt>しず</rt></ruby>かな<ruby>川<rt>かわ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>見<rt>み</rt></ruby>ながら２<ruby>時間<rt>じかん</rt></ruby>ほど<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、とてもいい<ruby>休日<rt>きゅうじつ</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせました。",
         "evidencePlain": "昨日の午後も、私は温かいお茶を水筒に入れてその散歩道へ行きました。静かな川の流れを見ながら２時間ほど小説を読んで、とてもいい休日を過ごせました。",
         "title": "筆者は昨日の午後、散歩道で何をしましたか。",
@@ -7680,8 +7680,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q83.mp3",
         "title": "男の人は どうして 自転車では なく 歩いて 駅まで 来ましたか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は どうして <ruby>自転車<rt>じてんしゃ</rt></ruby>では なく <ruby>歩<rt>ある</rt></ruby>いて <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>ましたか。",
-        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、走って 来たので 汗を かいて しまいました。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>走<rt>はし</rt></ruby>って <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
+        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、急いで 歩いて 来たので 汗を かいて しまいました。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>急<rt>いそ</rt></ruby>いで <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
         "options": [
           "自転車の タイヤの 空気が 抜けて いたから",
           "自転車の 鍵を なくして しまったから",
@@ -8010,16 +8010,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q95.mp3",
         "title": "あのう、鈴木部長は いま 席に いらっしゃいますか。",
         "titleRuby": "あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。",
-        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻られます。\n３　いいえ、部長は ここに いらっしゃいます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。<br>１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。<br>３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
+        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻る 予定です。\n３　いいえ、部長は ここに いらっしゃいます。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。\n１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。\n２　<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。\n３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
         "options": [
           "はい、わたしが 鈴木部長に 申します。",
-          "申し訳 ありません。いま 会議中で、３時に 戻られます。",
+          "申し訳 ありません。いま 会議中で、３時に 戻る 予定です。",
           "いいえ、部長は ここに いらっしゃいます。"
         ],
         "optionsRuby": [
           "はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。",
-          "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。",
+          "<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。",
           "いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。"
         ],
         "correctIndex": 1,
@@ -8133,18 +8133,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -8160,9 +8160,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -8805,13 +8805,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "くらべて",
           "しらべて",
           "ならべて",
-          "えらべて"
+          "かぞえて"
         ],
         "optionsRuby": [
           "くらべて",
           "しらべて",
           "ならべて",
-          "えらべて"
+          "かぞえて"
         ],
         "correctIndex": 2,
         "weight": 1.0,
@@ -9021,13 +9021,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "あしたも すっかり 勉強しようと おもいます。",
           "私は 毎朝 すっかり パンを 食べます。",
           "この 辞書は すっかり 三千円でした。",
-          "あたたかく なって、庭の 桜が すっかり 咲きました。"
+          "あたたかく なって、庭の 雪が すっかり とけました。"
         ],
         "optionsRuby": [
           "あしたも すっかり <ruby>勉強<rt>べんきょう</rt></ruby>しようと おもいます。",
           "<ruby>私<rt>わたし</rt></ruby>は <ruby>毎朝<rt>まいあさ</rt></ruby> すっかり パンを <ruby>食<rt>た</rt></ruby>べます。",
-          "この <ruby>辞書<rt>じしょ</rt></ruby>は すっかり <ruby>三<rt>さん</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。",
-          "あたたかく なって、<ruby>庭<rt>にわ</rt></ruby>の <ruby>桜<rt>さくら</rt></ruby>が すっかり <ruby>咲<rt>さ</rt></ruby>きました。"
+          "この <ruby>辞書<rt>じしょ</rt></ruby>は すっかり<ruby>三千円<rt>さんぜんえん</rt></ruby>でした。",
+          "あたたかく なって、<ruby>庭<rt>にわ</rt></ruby>の <ruby>雪<rt>ゆき</rt></ruby>が すっかり とけました。"
         ],
         "correctIndex": 3,
         "weight": 1.5,
@@ -9975,7 +9975,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 69,
         "passage": "【ひまわり商店街　秋まつりイベント案内】\n日時：１１月３日（祝）　１０：００〜１６：００（雨天決行）\n\n■ イベントスケジュール\n| 時間 | イベント名 | 場所 | 参加方法・備考 |\n| １０：３０〜１１：３０ | 子ども太鼓発表会 | 駅前広場ステージ | 観覧無料（雨の日は市民ホールで行います） |\n| １１：００〜１４：００ | 秋の野菜スープ無料配布 | 商店街中央テント | 先着２００名様（１人１杯まで） |\n| １３：００〜１４：３０ | クイズ大会 | 駅前広場ステージ | 当日１２：３０からステージ横で受付（定員５０名） |\n| １５：００〜１６：００ | 大抽選会 | 商店街事務所前 | 抽選券が必要です（下記参照） |\n\n■ 大抽選会について\n・１０月２５日〜１１月３日の間に商店街のお店で１,０００円買い物をするごとに、抽選券を１枚差し上げます。\n・特賞は「温泉旅行ペアご招待」、ほかにも商店街で使えるお買い物券などが当たります。",
-        "passageRuby": "【ひまわり<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>まつりイベント<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>日時<rt>にちじ</rt></ruby>：１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>（<ruby>祝<rt>しゅく</rt></ruby>）　１０：００〜１６：００（<ruby>雨天<rt>うてん</rt></ruby><ruby>決行<rt>けっこう</rt></ruby>）<br><br>■ イベントスケジュール<br>| <ruby>時間<rt>じかん</rt></ruby> | イベント<ruby>名<rt>めい</rt></ruby> | <ruby>場所<rt>ばしょ</rt></ruby> | <ruby>参加<rt>さんか</rt></ruby><ruby>方<rt>かた</rt></ruby><ruby>法<rt>ほう</rt></ruby>・<ruby>備考<rt>びこう</rt></ruby> |<br>| １０：３０〜１１：３０ | <ruby>子<rt>こ</rt></ruby>ども<ruby>太鼓<rt>たいこ</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>観覧<rt>かんらん</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>ホールで<ruby>行<rt>おこな</rt></ruby>います） |<br>| １１：００〜１４：００ | <ruby>秋<rt>あき</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>スープ<ruby>無料<rt>むりょう</rt></ruby><ruby>配布<rt>はいふ</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>テント | <ruby>先着<rt>せんちゃく</rt></ruby>２００<ruby>名<rt>めい</rt></ruby><ruby>様<rt>よう</rt></ruby>（<ruby>１人<rt>ひとり</rt></ruby>１<ruby>杯<rt>ぱい</rt></ruby>まで） |<br>| １３：００〜１４：３０ | クイズ<ruby>大会<rt>たいかい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>当日<rt>とうじつ</rt></ruby>１２：３０からステージ<ruby>横<rt>よこ</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby>５０<ruby>名<rt>めい</rt></ruby>） |<br>| １５：００〜１６：００ | <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby><ruby>前<rt>まえ</rt></ruby> | <ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です（<ruby>下記<rt>かき</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>） |<br><br>■ <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby>について<br>・１０<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>〜１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>で１,０００<ruby>円<rt>えん</rt></ruby><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするごとに、<ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>を１<ruby>枚<rt>まい</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。<br>・<ruby>特賞<rt>とくしょう</rt></ruby>は「<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ペアご<ruby>招待<rt>しょうたい</rt></ruby>」、ほかにも<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby><ruby>券<rt>けん</rt></ruby>などが<ruby>当<rt>あ</rt></ruby>たります。",
+        "passageRuby": "【ひまわり<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>まつりイベント<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>日時<rt>にちじ</rt></ruby>：１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>（<ruby>祝<rt>しゅく</rt></ruby>）　１０：００〜１６：００（<ruby>雨天<rt>うてん</rt></ruby><ruby>決行<rt>けっこう</rt></ruby>）<br><br>■ イベントスケジュール<br>| <ruby>時間<rt>じかん</rt></ruby> | イベント<ruby>名<rt>めい</rt></ruby> | <ruby>場所<rt>ばしょ</rt></ruby> | <ruby>参加<rt>さんか</rt></ruby><ruby>方<rt>かた</rt></ruby><ruby>法<rt>ほう</rt></ruby>・<ruby>備考<rt>びこう</rt></ruby> |<br>| １０：３０〜１１：３０ | <ruby>子<rt>こ</rt></ruby>ども<ruby>太鼓<rt>たいこ</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>観覧<rt>かんらん</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>ホールで<ruby>行<rt>おこな</rt></ruby>います） |<br>| １１：００〜１４：００ | <ruby>秋<rt>あき</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>スープ<ruby>無料<rt>むりょう</rt></ruby><ruby>配布<rt>はいふ</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>テント | <ruby>先着<rt>せんちゃく</rt></ruby>２００<ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby>（<ruby>１人<rt>ひとり</rt></ruby>１<ruby>杯<rt>ぱい</rt></ruby>まで） |<br>| １３：００〜１４：３０ | クイズ<ruby>大会<rt>たいかい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>当日<rt>とうじつ</rt></ruby>１２：３０からステージ<ruby>横<rt>よこ</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby>５０<ruby>名<rt>めい</rt></ruby>） |<br>| １５：００〜１６：００ | <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby><ruby>前<rt>まえ</rt></ruby> | <ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です（<ruby>下記<rt>かき</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>） |<br><br>■ <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby>について<br>・１０<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>〜１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>で１,０００<ruby>円<rt>えん</rt></ruby><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするごとに、<ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>を１<ruby>枚<rt>まい</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。<br>・<ruby>特賞<rt>とくしょう</rt></ruby>は「<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ペアご<ruby>招待<rt>しょうたい</rt></ruby>」、ほかにも<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby><ruby>券<rt>けん</rt></ruby>などが<ruby>当<rt>あ</rt></ruby>たります。",
         "evidence": "| １０：３０〜１１：３０ | <ruby>子<rt>こ</rt></ruby>ども<ruby>太鼓<rt>たいこ</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>観覧<rt>かんらん</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>ホールで<ruby>行<rt>おこな</rt></ruby>います） |",
         "evidencePlain": "| １０：３０〜１１：３０ | 子ども太鼓発表会 | 駅前広場ステージ | 観覧無料（雨の日は市民ホールで行います） |",
         "title": "１１月３日に雨が降った場合、場所が変わるイベントはどれですか。",
@@ -10003,7 +10003,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "情報検索",
         "qNum": 70,
         "passage": "【ひまわり商店街　秋まつりイベント案内】\n日時：１１月３日（祝）　１０：００〜１６：００（雨天決行）\n\n■ イベントスケジュール\n| 時間 | イベント名 | 場所 | 参加方法・備考 |\n| １０：３０〜１１：３０ | 子ども太鼓発表会 | 駅前広場ステージ | 観覧無料（雨の日は市民ホールで行います） |\n| １１：００〜１４：００ | 秋の野菜スープ無料配布 | 商店街中央テント | 先着２００名様（１人１杯まで） |\n| １３：００〜１４：３０ | クイズ大会 | 駅前広場ステージ | 当日１２：３０からステージ横で受付（定員５０名） |\n| １５：００〜１６：００ | 大抽選会 | 商店街事務所前 | 抽選券が必要です（下記参照） |\n\n■ 大抽選会について\n・１０月２５日〜１１月３日の間に商店街のお店で１,０００円買い物をするごとに、抽選券を１枚差し上げます。\n・特賞は「温泉旅行ペアご招待」、ほかにも商店街で使えるお買い物券などが当たります。",
-        "passageRuby": "【ひまわり<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>まつりイベント<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>日時<rt>にちじ</rt></ruby>：１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>（<ruby>祝<rt>しゅく</rt></ruby>）　１０：００〜１６：００（<ruby>雨天<rt>うてん</rt></ruby><ruby>決行<rt>けっこう</rt></ruby>）<br><br>■ イベントスケジュール<br>| <ruby>時間<rt>じかん</rt></ruby> | イベント<ruby>名<rt>めい</rt></ruby> | <ruby>場所<rt>ばしょ</rt></ruby> | <ruby>参加<rt>さんか</rt></ruby><ruby>方<rt>かた</rt></ruby><ruby>法<rt>ほう</rt></ruby>・<ruby>備考<rt>びこう</rt></ruby> |<br>| １０：３０〜１１：３０ | <ruby>子<rt>こ</rt></ruby>ども<ruby>太鼓<rt>たいこ</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>観覧<rt>かんらん</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>ホールで<ruby>行<rt>おこな</rt></ruby>います） |<br>| １１：００〜１４：００ | <ruby>秋<rt>あき</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>スープ<ruby>無料<rt>むりょう</rt></ruby><ruby>配布<rt>はいふ</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>テント | <ruby>先着<rt>せんちゃく</rt></ruby>２００<ruby>名<rt>めい</rt></ruby><ruby>様<rt>よう</rt></ruby>（<ruby>１人<rt>ひとり</rt></ruby>１<ruby>杯<rt>ぱい</rt></ruby>まで） |<br>| １３：００〜１４：３０ | クイズ<ruby>大会<rt>たいかい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>当日<rt>とうじつ</rt></ruby>１２：３０からステージ<ruby>横<rt>よこ</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby>５０<ruby>名<rt>めい</rt></ruby>） |<br>| １５：００〜１６：００ | <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby><ruby>前<rt>まえ</rt></ruby> | <ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です（<ruby>下記<rt>かき</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>） |<br><br>■ <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby>について<br>・１０<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>〜１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>で１,０００<ruby>円<rt>えん</rt></ruby><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするごとに、<ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>を１<ruby>枚<rt>まい</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。<br>・<ruby>特賞<rt>とくしょう</rt></ruby>は「<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ペアご<ruby>招待<rt>しょうたい</rt></ruby>」、ほかにも<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby><ruby>券<rt>けん</rt></ruby>などが<ruby>当<rt>あ</rt></ruby>たります。",
+        "passageRuby": "【ひまわり<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>　<ruby>秋<rt>あき</rt></ruby>まつりイベント<ruby>案内<rt>あんない</rt></ruby>】<br><ruby>日時<rt>にちじ</rt></ruby>：１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>（<ruby>祝<rt>しゅく</rt></ruby>）　１０：００〜１６：００（<ruby>雨天<rt>うてん</rt></ruby><ruby>決行<rt>けっこう</rt></ruby>）<br><br>■ イベントスケジュール<br>| <ruby>時間<rt>じかん</rt></ruby> | イベント<ruby>名<rt>めい</rt></ruby> | <ruby>場所<rt>ばしょ</rt></ruby> | <ruby>参加<rt>さんか</rt></ruby><ruby>方<rt>かた</rt></ruby><ruby>法<rt>ほう</rt></ruby>・<ruby>備考<rt>びこう</rt></ruby> |<br>| １０：３０〜１１：３０ | <ruby>子<rt>こ</rt></ruby>ども<ruby>太鼓<rt>たいこ</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>観覧<rt>かんらん</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>（<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>市民<rt>しみん</rt></ruby>ホールで<ruby>行<rt>おこな</rt></ruby>います） |<br>| １１：００〜１４：００ | <ruby>秋<rt>あき</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>スープ<ruby>無料<rt>むりょう</rt></ruby><ruby>配布<rt>はいふ</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>テント | <ruby>先着<rt>せんちゃく</rt></ruby>２００<ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby>（<ruby>１人<rt>ひとり</rt></ruby>１<ruby>杯<rt>ぱい</rt></ruby>まで） |<br>| １３：００〜１４：３０ | クイズ<ruby>大会<rt>たいかい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>当日<rt>とうじつ</rt></ruby>１２：３０からステージ<ruby>横<rt>よこ</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby>５０<ruby>名<rt>めい</rt></ruby>） |<br>| １５：００〜１６：００ | <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby> | <ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby><ruby>前<rt>まえ</rt></ruby> | <ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です（<ruby>下記<rt>かき</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>） |<br><br>■ <ruby>大<rt>だい</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>会<rt>かい</rt></ruby>について<br>・１０<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>〜１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>で１,０００<ruby>円<rt>えん</rt></ruby><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をするごとに、<ruby>抽選<rt>ちゅうせん</rt></ruby><ruby>券<rt>けん</rt></ruby>を１<ruby>枚<rt>まい</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。<br>・<ruby>特賞<rt>とくしょう</rt></ruby>は「<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ペアご<ruby>招待<rt>しょうたい</rt></ruby>」、ほかにも<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるお<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby><ruby>券<rt>けん</rt></ruby>などが<ruby>当<rt>あ</rt></ruby>たります。",
         "evidence": "| １３：００〜１４：３０ | クイズ<ruby>大会<rt>たいかい</rt></ruby> | <ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>ステージ | <ruby>当日<rt>とうじつ</rt></ruby>１２：３０からステージ<ruby>横<rt>よこ</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>（<ruby>定員<rt>ていいん</rt></ruby>５０<ruby>名<rt>めい</rt></ruby>） |",
         "evidencePlain": "| １３：００〜１４：３０ | クイズ大会 | 駅前広場ステージ | 当日１２：３０からステージ横で受付（定員５０名） |",
         "title": "この案内について、正しいものはどれですか。",
@@ -10238,8 +10238,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q78.mp3",
         "title": "男の人は これから まず なにを しますか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は これから まず なにを しますか。",
-        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事なさる ことが できますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは <ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>なさる ことが できますよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。",
+        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事いただけますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時半<rt>じはん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>いただけますよ。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間に合<rt>まにあ</rt></ruby>いますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。。",
         "options": [
           "空港へ バスで 向かう",
           "今すぐ チェックアウトする",
@@ -10836,18 +10836,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -10863,9 +10863,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -11385,13 +11385,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "お湯を いれて 三分 （<span class='jlpt-underline-blank'></span>）と、おいしい お茶が のめます。",
         "titleRuby": "お<ruby>湯<rt>ゆ</rt></ruby>を いれて <ruby>三分<rt>さんぷん</rt></ruby> （<span class='jlpt-underline-blank'></span>）と、おいしい お<ruby>茶<rt>ちゃ</rt></ruby>が のめます。",
         "options": [
-          "たつ",
+          "うつ",
           "もつ",
           "まつ",
           "かつ"
         ],
         "optionsRuby": [
-          "たつ",
+          "うつ",
           "もつ",
           "まつ",
           "かつ"
@@ -11553,13 +11553,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "お忙しい ところ （<span class='jlpt-underline-blank'></span>） いますが、ちょっと よろしいでしょうか。",
         "titleRuby": "お<ruby>忙<rt>いそが</rt></ruby>しい ところ （<span class='jlpt-underline-blank'></span>） いますが、ちょっと よろしいでしょうか。",
         "options": [
-          "おじゃまし",
+          "ごしょうかいし",
           "おそれいり",
           "ごえんりょし",
           "ごあんないし"
         ],
         "optionsRuby": [
-          "おじゃまし",
+          "ごしょうかいし",
           "おそれいり",
           "ごえんりょし",
           "ごあんないし"
@@ -12303,14 +12303,14 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "<ruby>先生<rt>せんせい</rt></ruby>がおっしゃったことは <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> メモしておきました。",
         "options": [
           "忘れないように",
-          "後で",
-          "全部",
+          "一つも",
+          "自分の",
           "ノートに"
         ],
         "optionsRuby": [
           "<ruby>忘<rt>わす</rt></ruby>れないように",
-          "<ruby>後<rt>あと</rt></ruby>で",
-          "<ruby>全部<rt>ぜんぶ</rt></ruby>",
+          "<ruby>一<rt>ひと</rt></ruby>つも",
+          "<ruby>自分<rt>じぶん</rt></ruby>の",
           "ノートに"
         ],
         "correctIndex": 0,
@@ -12883,8 +12883,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m01_q76.mp3",
         "title": "女の人は 来週の 火曜日、なにを 持って こなければ なりませんか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>、なにを <ruby>持<rt>も</rt></ruby>って こなければ なりませんか。",
-        "script": "男の人：みなさん、来週の 火曜日は 体育館で バレーボールの 授業を します。かならず 体育館用の 靴を 持って きて ください。\n女の人：先生、ボールや ラケットは 自分で 用意しますか。\n男の人：ボールは 学校の ものを つかいますから、いりません。ただ、体育館は とても 暑くなりますから、飲み物と 汗を ふく タオルを 忘れないように して ください。\n女の人：はい、わかりました。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：みなさん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>は <ruby>体育館<rt>たいいくかん</rt></ruby>で バレーボールの <ruby>授業<rt>じゅぎょう</rt></ruby>を します。かならず <ruby>体育館<rt>たいいくかん</rt></ruby><ruby>用<rt>よう</rt></ruby>の <ruby>靴<rt>くつ</rt></ruby>を <ruby>持<rt>も</rt></ruby>って きて ください。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、ボールや ラケットは <ruby>自分<rt>じぶん</rt></ruby>で <ruby>用意<rt>ようい</rt></ruby>しますか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ボールは <ruby>学校<rt>がっこう</rt></ruby>の ものを つかいますから、いりません。ただ、<ruby>体育館<rt>たいいくかん</rt></ruby>は とても <ruby>暑<rt>あつ</rt></ruby>くなりますから、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と <ruby>汗<rt>あせ</rt></ruby>を ふく タオルを <ruby>忘<rt>わす</rt></ruby>れないように して ください。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。",
+        "script": "男の人：みなさん、来週の 火曜日は 体育館で バレーボールの 授業を します。かならず 体育館用の 靴を 持って きて ください。\n女の人：先生、ボールは 自分で 用意しますか。\n男の人：ボールは 学校の ものを つかいますから、いりません。ただ、体育館は とても 暑くなりますから、飲み物と 汗を ふく タオルを 忘れないように して ください。\n女の人：はい、わかりました。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：みなさん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>は <ruby>体育館<rt>たいいくかん</rt></ruby>で バレーボールの <ruby>授業<rt>じゅぎょう</rt></ruby>を します。かならず <ruby>体育館<rt>たいいくかん</rt></ruby><ruby>用<rt>よう</rt></ruby>の <ruby>靴<rt>くつ</rt></ruby>を <ruby>持<rt>も</rt></ruby>って きて ください。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、ボールは <ruby>自分<rt>じぶん</rt></ruby>で <ruby>用意<rt>ようい</rt></ruby>しますか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ボールは <ruby>学校<rt>がっこう</rt></ruby>の ものを つかいますから、いりません。ただ、<ruby>体育館<rt>たいいくかん</rt></ruby>は とても <ruby>暑<rt>あつ</rt></ruby>くなりますから、<ruby>飲み物<rt>のみもの</rt></ruby>と <ruby>汗<rt>あせ</rt></ruby>を ふく タオルを <ruby>忘<rt>わす</rt></ruby>れないように して ください。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。",
         "options": [
           "体育館用の 靴と 飲み物と タオル",
           "ボールと 飲み物と タオル",
@@ -13086,8 +13086,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q83.mp3",
         "title": "男の人は どうして 自転車では なく 歩いて 駅まで 来ましたか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は どうして <ruby>自転車<rt>じてんしゃ</rt></ruby>では なく <ruby>歩<rt>ある</rt></ruby>いて <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>ましたか。",
-        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、走って 来たので 汗を かいて しまいました。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>走<rt>はし</rt></ruby>って <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
+        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、急いで 歩いて 来たので 汗を かいて しまいました。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>急<rt>いそ</rt></ruby>いで <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
         "options": [
           "雨が 降りそうだったから",
           "運動の ために 歩きたかったから",
@@ -13416,16 +13416,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q95.mp3",
         "title": "あのう、鈴木部長は いま 席に いらっしゃいますか。",
         "titleRuby": "あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。",
-        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻られます。\n３　いいえ、部長は ここに いらっしゃいます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。<br>１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。<br>３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
+        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻る 予定です。\n３　いいえ、部長は ここに いらっしゃいます。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。\n１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。\n２　<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。\n３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
         "options": [
           "はい、わたしが 鈴木部長に 申します。",
-          "申し訳 ありません。いま 会議中で、３時に 戻られます。",
+          "申し訳 ありません。いま 会議中で、３時に 戻る 予定です。",
           "いいえ、部長は ここに いらっしゃいます。"
         ],
         "optionsRuby": [
           "はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。",
-          "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。",
+          "<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。",
           "いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。"
         ],
         "correctIndex": 1,
@@ -13539,18 +13539,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -13566,9 +13566,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -15325,8 +15325,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "内容理解（中文）",
         "qNum": 67,
         "passage": "皆さんは、手紙やはがきを書くことがありますか。最近はメールやメッセージで連絡することが多くなり、手で字を書く機会が減りました。私も友達への連絡はいつもスマートフォンを使っていました。\n\nしかし先月、祖母の８０歳の誕生日に、久しぶりに色鉛筆で花の絵を描いた手紙を送ってみました。すると３日後に祖母から電話がかかってきて、「何度も読み返したよ。部屋の一番よく見える場所に飾ってあるよ」と涙声で喜んでくれました。\n\n画面の文字はすぐに消えてしまいますが、紙に書いた手紙は形として残るので、相手の心にも深く届くのだと感じました。それからは、大切な人のお祝いのときには必ず手紙を書くようにしています。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>手紙<rt>てがみ</rt></ruby>やはがきを<ruby>書<rt>か</rt></ruby>くことがありますか。<ruby>最近<rt>さいきん</rt></ruby>はメールやメッセージで<ruby>連絡<rt>れんらく</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>くなり、<ruby>手<rt>て</rt></ruby>で<ruby>字<rt>じ</rt></ruby>を<ruby>書<rt>か</rt></ruby>く<ruby>機会<rt>きかい</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。<ruby>私<rt>わたし</rt></ruby>も<ruby>友達<rt>ともだち</rt></ruby>への<ruby>連絡<rt>れんらく</rt></ruby>はいつもスマートフォンを<ruby>使<rt>つか</rt></ruby>っていました。<br><br>しかし<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>の８０<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>色鉛筆<rt>いろえんぴつ</rt></ruby>で<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみました。すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。<br><br><ruby>画面<rt>がめん</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えてしまいますが、<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>るので、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にも<ruby>深<rt>ふか</rt></ruby>く<ruby>届<rt>とど</rt></ruby>くのだと<ruby>感<rt>かん</rt></ruby>じました。それからは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いのときには<ruby>必<rt>かなら</rt></ruby>ず<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くようにしています。",
-        "evidence": "すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>手紙<rt>てがみ</rt></ruby>やはがきを<ruby>書<rt>か</rt></ruby>くことがありますか。<ruby>最近<rt>さいきん</rt></ruby>はメールやメッセージで<ruby>連絡<rt>れんらく</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>くなり、<ruby>手<rt>て</rt></ruby>で<ruby>字<rt>じ</rt></ruby>を<ruby>書<rt>か</rt></ruby>く<ruby>機会<rt>きかい</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。<ruby>私<rt>わたし</rt></ruby>も<ruby>友達<rt>ともだち</rt></ruby>への<ruby>連絡<rt>れんらく</rt></ruby>はいつもスマートフォンを<ruby>使<rt>つか</rt></ruby>っていました。<br><br>しかし<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>の８０<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>色鉛筆<rt>いろえんぴつ</rt></ruby>で<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみました。すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。<br><br><ruby>画面<rt>がめん</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えてしまいますが、<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>るので、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にも<ruby>深<rt>ふか</rt></ruby>く<ruby>届<rt>とど</rt></ruby>くのだと<ruby>感<rt>かん</rt></ruby>じました。それからは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いのときには<ruby>必<rt>かなら</rt></ruby>ず<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くようにしています。",
+        "evidence": "すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。",
         "evidencePlain": "すると３日後に祖母から電話がかかってきて、「何度も読み返したよ。部屋の一番よく見える場所に飾ってあるよ」と涙声で喜んでくれました。",
         "title": "筆者が祖母に手紙を送ったあと、祖母はどうしましたか。",
         "titleRuby": "<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>祖母<rt>そぼ</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ったあと、<ruby>祖母<rt>そぼ</rt></ruby>はどうしましたか。",
@@ -15340,7 +15340,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "<ruby>手紙<rt>てがみ</rt></ruby>の<ruby>字<rt>じ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さくて<ruby>読<rt>よ</rt></ruby>めなかったので、もう<ruby>一度<rt>いちど</rt></ruby><ruby>送<rt>おく</rt></ruby>るように<ruby>頼<rt>たの</rt></ruby>んだ",
           "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>り、<ruby>電話<rt>でんわ</rt></ruby>をかけてきて<ruby>喜<rt>よろこ</rt></ruby>んでくれた",
           "お<ruby>礼<rt>れい</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>で<ruby>描<rt>えが</rt></ruby>いた<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>をスマートフォンで<ruby>送<rt>おく</rt></ruby>ってくれた",
-          "<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>筆者<rt>ひっしゃ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>まで<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>て、<ruby>誕生日<rt>たんじょうび</rt></ruby>パーティーを<ruby>開<rt>ひら</rt></ruby>いた"
+          "<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>筆者<rt>ひっしゃ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>まで<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>て、<ruby>誕生日<rt>たんじょうび</rt></ruby>パーティーを<ruby>開<rt>ひら</rt></ruby>いた"
         ],
         "correctIndex": 1,
         "weight": 3.5,
@@ -15353,7 +15353,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "category": "内容理解（中文）",
         "qNum": 68,
         "passage": "皆さんは、手紙やはがきを書くことがありますか。最近はメールやメッセージで連絡することが多くなり、手で字を書く機会が減りました。私も友達への連絡はいつもスマートフォンを使っていました。\n\nしかし先月、祖母の８０歳の誕生日に、久しぶりに色鉛筆で花の絵を描いた手紙を送ってみました。すると３日後に祖母から電話がかかってきて、「何度も読み返したよ。部屋の一番よく見える場所に飾ってあるよ」と涙声で喜んでくれました。\n\n画面の文字はすぐに消えてしまいますが、紙に書いた手紙は形として残るので、相手の心にも深く届くのだと感じました。それからは、大切な人のお祝いのときには必ず手紙を書くようにしています。",
-        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>手紙<rt>てがみ</rt></ruby>やはがきを<ruby>書<rt>か</rt></ruby>くことがありますか。<ruby>最近<rt>さいきん</rt></ruby>はメールやメッセージで<ruby>連絡<rt>れんらく</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>くなり、<ruby>手<rt>て</rt></ruby>で<ruby>字<rt>じ</rt></ruby>を<ruby>書<rt>か</rt></ruby>く<ruby>機会<rt>きかい</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。<ruby>私<rt>わたし</rt></ruby>も<ruby>友達<rt>ともだち</rt></ruby>への<ruby>連絡<rt>れんらく</rt></ruby>はいつもスマートフォンを<ruby>使<rt>つか</rt></ruby>っていました。<br><br>しかし<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>の８０<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>色鉛筆<rt>いろえんぴつ</rt></ruby>で<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみました。すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>あと</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。<br><br><ruby>画面<rt>がめん</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えてしまいますが、<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>るので、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にも<ruby>深<rt>ふか</rt></ruby>く<ruby>届<rt>とど</rt></ruby>くのだと<ruby>感<rt>かん</rt></ruby>じました。それからは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いのときには<ruby>必<rt>かなら</rt></ruby>ず<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くようにしています。",
+        "passageRuby": "<ruby>皆<rt>みな</rt></ruby>さんは、<ruby>手紙<rt>てがみ</rt></ruby>やはがきを<ruby>書<rt>か</rt></ruby>くことがありますか。<ruby>最近<rt>さいきん</rt></ruby>はメールやメッセージで<ruby>連絡<rt>れんらく</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>くなり、<ruby>手<rt>て</rt></ruby>で<ruby>字<rt>じ</rt></ruby>を<ruby>書<rt>か</rt></ruby>く<ruby>機会<rt>きかい</rt></ruby>が<ruby>減<rt>へ</rt></ruby>りました。<ruby>私<rt>わたし</rt></ruby>も<ruby>友達<rt>ともだち</rt></ruby>への<ruby>連絡<rt>れんらく</rt></ruby>はいつもスマートフォンを<ruby>使<rt>つか</rt></ruby>っていました。<br><br>しかし<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>祖母<rt>そぼ</rt></ruby>の８０<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に、<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>色鉛筆<rt>いろえんぴつ</rt></ruby>で<ruby>花<rt>はな</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみました。すると<ruby>３日<rt>みっか</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>祖母<rt>そぼ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>がかかってきて、「<ruby>何度<rt>なんど</rt></ruby>も<ruby>読<rt>よ</rt></ruby>み<ruby>返<rt>かえ</rt></ruby>したよ。<ruby>部屋<rt>へや</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>よく<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってあるよ」と<ruby>涙声<rt>なみだごえ</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>んでくれました。<br><br><ruby>画面<rt>がめん</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えてしまいますが、<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>るので、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にも<ruby>深<rt>ふか</rt></ruby>く<ruby>届<rt>とど</rt></ruby>くのだと<ruby>感<rt>かん</rt></ruby>じました。それからは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いのときには<ruby>必<rt>かなら</rt></ruby>ず<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>くようにしています。",
         "evidence": "<ruby>画面<rt>がめん</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>はすぐに<ruby>消<rt>き</rt></ruby>えてしまいますが、<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>は<ruby>形<rt>かたち</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>るので、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にも<ruby>深<rt>ふか</rt></ruby>く<ruby>届<rt>とど</rt></ruby>くのだと<ruby>感<rt>かん</rt></ruby>じました。",
         "evidencePlain": "画面の文字はすぐに消えてしまいますが、紙に書いた手紙は形として残るので、相手の心にも深く届くのだと感じました。",
         "title": "この経験から、筆者は紙の手紙についてどう考えるようになりましたか。",
@@ -15644,8 +15644,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q78.mp3",
         "title": "男の人は これから まず なにを しますか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は これから まず なにを しますか。",
-        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事なさる ことが できますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは <ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>なさる ことが できますよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。",
+        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お召し上がり いただけます。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時半<rt>じはん</rt></ruby>から あいて おりますので、お<ruby>召し上<rt>めしあ</rt></ruby>がり いただけます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間に合<rt>まにあ</rt></ruby>いますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。。",
         "options": [
           "レストランへ 朝ごはんを 食べに 行く",
           "部屋で 荷物を まとめて フロントへ 持って くる",
@@ -16242,18 +16242,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -16269,9 +16269,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -16792,13 +16792,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "かれは けっして うそを （<span class='jlpt-underline-blank'></span>） まじめな <ruby>人<rt>ひと</rt></ruby>です。",
         "options": [
           "つかない",
-          "いわない",
+          "きかない",
           "はなさない",
           "かかない"
         ],
         "optionsRuby": [
           "つかない",
-          "いわない",
+          "きかない",
           "はなさない",
           "かかない"
         ],
@@ -17158,7 +17158,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
         ],
         "optionsRuby": [
           "かれは まるで <ruby>毎日<rt>まいにち</rt></ruby> <ruby>図書館<rt>としょかん</rt></ruby>へ いきます。",
-          "<ruby>四月<rt>よがつ</rt></ruby>なのに きょうは <ruby>雪<rt>ゆき</rt></ruby>が ふって、まるで <ruby>冬<rt>ふゆ</rt></ruby>の ようです。",
+          "<ruby>四月<rt>しがつ</rt></ruby>なのに きょうは <ruby>雪<rt>ゆき</rt></ruby>が ふって、まるで <ruby>冬<rt>ふゆ</rt></ruby>の ようです。",
           "この りんごは まるで <ruby>赤<rt>あか</rt></ruby>くて おいしいです。",
           "あしたの テストは まるで かんたんでしょう。"
         ],
@@ -17634,17 +17634,17 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>が <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>確認<rt>かくにん</rt></ruby>しておいてください。",
         "options": [
           "何時から",
-          "もう一度",
           "スケジュールを",
+          "見て",
           "始まるか"
         ],
         "optionsRuby": [
           "<ruby>何時<rt>なんじ</rt></ruby>から",
-          "もう<ruby>一度<rt>いちど</rt></ruby>",
           "スケジュールを",
+          "<ruby>見<rt>み</rt></ruby>て",
           "<ruby>始<rt>はじ</rt></ruby>まるか"
         ],
-        "correctIndex": 3,
+        "correctIndex": 1,
         "weight": 2.0,
         "explanation": "正しい語順は「明日の会議が【何時から】【始まるか】【もう一度】【スケジュールを】確認しておいてください。」です。★（2番目）に入るのは「始まるか」です。"
       },
@@ -17664,12 +17664,12 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "全部"
         ],
         "optionsRuby": [
-          "<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れていて",
+          "<ruby>売り切<rt>うりき</rt></ruby>れていて",
           "<ruby>行<rt>い</rt></ruby>ったのに",
           "チケットが",
           "<ruby>全部<rt>ぜんぶ</rt></ruby>"
         ],
-        "correctIndex": 0,
+        "correctIndex": 3,
         "weight": 2.0,
         "explanation": "正しい語順は「せっかく映画館まで【行ったのに】【チケットが】【全部】【売り切れていて】見られませんでした。」です。★（4番目）に入るのは「売り切れていて」です。"
       },
@@ -17683,18 +17683,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "日本へ来てから <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> なりました。",
         "titleRuby": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>てから <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> なりました。",
         "options": [
-          "毎日",
           "自分で",
+          "作った",
           "お弁当を",
-          "作るように"
+          "持って行くように"
         ],
         "optionsRuby": [
-          "<ruby>毎日<rt>まいにち</rt></ruby>",
           "<ruby>自分<rt>じぶん</rt></ruby>で",
+          "<ruby>作<rt>つく</rt></ruby>った",
           "お<ruby>弁当<rt>べんとう</rt></ruby>を",
-          "<ruby>作<rt>つく</rt></ruby>るように"
+          "<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くように"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "weight": 2.0,
         "explanation": "正しい語順は「日本へ来てから【自分で】【毎日】【お弁当を】【作るように】なりました。」です。★（1番目）に入るのは「自分で」です。"
       },
@@ -18492,8 +18492,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q83.mp3",
         "title": "男の人は どうして 自転車では なく 歩いて 駅まで 来ましたか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は どうして <ruby>自転車<rt>じてんしゃ</rt></ruby>では なく <ruby>歩<rt>ある</rt></ruby>いて <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>ましたか。",
-        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、走って 来たので 汗を かいて しまいました。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>走<rt>はし</rt></ruby>って <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
+        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、急いで 歩いて 来たので 汗を かいて しまいました。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>急<rt>いそ</rt></ruby>いで <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
         "options": [
           "自転車の タイヤの 空気が 抜けて いたから",
           "自転車の 鍵を なくして しまったから",
@@ -18822,16 +18822,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q95.mp3",
         "title": "あのう、鈴木部長は いま 席に いらっしゃいますか。",
         "titleRuby": "あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。",
-        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻られます。\n３　いいえ、部長は ここに いらっしゃいます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。<br>１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。<br>３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
+        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻る 予定です。\n３　いいえ、部長は ここに いらっしゃいます。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。\n１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。\n２　<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。\n３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
         "options": [
           "はい、わたしが 鈴木部長に 申します。",
-          "申し訳 ありません。いま 会議中で、３時に 戻られます。",
+          "申し訳 ありません。いま 会議中で、３時に 戻る 予定です。",
           "いいえ、部長は ここに いらっしゃいます。"
         ],
         "optionsRuby": [
           "はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。",
-          "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。",
+          "<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。",
           "いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。"
         ],
         "correctIndex": 1,
@@ -18945,18 +18945,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -18972,9 +18972,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -20322,7 +20322,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "きれいに",
           "<ruby>見<rt>み</rt></ruby>えるので"
         ],
-        "correctIndex": 3,
+        "correctIndex": 2,
         "weight": 2.0,
         "explanation": "正しい語順は「あの新しいホテルは、【部屋から】【海が】【きれいに】【見えるので】人気があるそうです。」です。★（4番目）に入るのは「見えるので」です。"
       },
@@ -20372,7 +20372,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "ならないから",
           "もう"
         ],
-        "correctIndex": 1,
+        "correctIndex": 2,
         "weight": 2.0,
         "explanation": "正しい語順は「明日の朝は【早く】【起きなければ】【ならないから】【もう】寝ることにします。」です。★（2番目）に入るのは「起きなければ」です。"
       },
@@ -20386,16 +20386,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "わからない言葉が <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> 聞いてください。",
         "titleRuby": "わからない<ruby>言葉<rt>ことば</rt></ruby>が <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <ruby>聞<rt>き</rt></ruby>いてください。",
         "options": [
-          "遠慮しないで",
-          "いつでも",
           "あったら",
-          "先生に"
+          "隣の",
+          "席の",
+          "人に"
         ],
         "optionsRuby": [
-          "<ruby>遠慮<rt>えんりょ</rt></ruby>しないで",
-          "いつでも",
           "あったら",
-          "<ruby>先生<rt>せんせい</rt></ruby>に"
+          "<ruby>隣<rt>となり</rt></ruby>の",
+          "<ruby>席<rt>せき</rt></ruby>の",
+          "<ruby>人<rt>ひと</rt></ruby>に"
         ],
         "correctIndex": 2,
         "weight": 2.0,
@@ -20422,7 +20422,7 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "とても",
           "<ruby>買<rt>か</rt></ruby>ってもらった"
         ],
-        "correctIndex": 3,
+        "correctIndex": 1,
         "weight": 2.0,
         "explanation": "正しい語順は「弟は誕生日に【父から】【買ってもらった】【腕時計を】【とても】大切に使っています。」です。★（2番目）に入るのは「買ってもらった」です。"
       },
@@ -21050,8 +21050,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q78.mp3",
         "title": "男の人は これから まず なにを しますか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は これから まず なにを しますか。",
-        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事なさる ことが できますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは <ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>なさる ことが できますよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。",
+        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事いただけますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時半<rt>じはん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>いただけますよ。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間に合<rt>まにあ</rt></ruby>いますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。。",
         "options": [
           "空港へ バスで 向かう",
           "今すぐ チェックアウトする",
@@ -21648,18 +21648,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -21675,9 +21675,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -22054,13 +22054,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "titleRuby": "<ruby>天気<rt>てんき</rt></ruby>が いいので、<ruby>朝<rt>あさ</rt></ruby>のうちに <u>せんたく</u>を しました。",
         "options": [
           "選択",
-          "洗たく",
+          "洗択",
           "洗濯",
           "先濯"
         ],
         "optionsRuby": [
           "選択",
-          "洗たく",
+          "洗択",
           "洗濯",
           "先濯"
         ],
@@ -22866,8 +22866,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "subsectionId": "s2_m1",
         "category": "文法形式の判断",
         "qNum": 45,
-        "title": "あの人はコートもマフラーも着けていませんね。全然（<span class='jlpt-underline-blank'></span>）そうです。",
-        "titleRuby": "あの<ruby>人<rt>ひと</rt></ruby>はコートもマフラーも<ruby>着<rt>つ</rt></ruby>けていませんね。<ruby>全然<rt>ぜんぜん</rt></ruby>（<span class='jlpt-underline-blank'></span>）そうです。",
+        "title": "あの人はコートも着ていないし、マフラーもしていませんね。全然（<span class='jlpt-underline-blank'></span>）そうです。",
+        "titleRuby": "あの<ruby>人<rt>ひと</rt></ruby>はコートも<ruby>着<rt>き</rt></ruby>ていないし、マフラーもしていませんね。<ruby>全然<rt>ぜんぜん</rt></ruby>（<span class='jlpt-underline-blank'></span>）そうです。",
         "options": [
           "寒くなさ",
           "寒くない",
@@ -23017,13 +23017,13 @@ window.JLPT_N4_MOCK_ROUNDS = {
           "まま",
           "テレビを",
           "つけた",
-          "ソファーで"
+          "ぐっすり"
         ],
         "optionsRuby": [
           "まま",
           "テレビを",
           "つけた",
-          "ソファーで"
+          "ぐっすり"
         ],
         "correctIndex": 0,
         "weight": 2.0,
@@ -23091,16 +23091,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "options": [
           "１５分",
           "早く",
-          "教室へ",
+          "教室へ来て",
           "いつもより"
         ],
         "optionsRuby": [
           "１５<ruby>分<rt>ふん</rt></ruby>",
           "<ruby>早<rt>はや</rt></ruby>く",
-          "<ruby>教室<rt>きょうしつ</rt></ruby>へ",
+          "<ruby>教室<rt>きょうしつ</rt></ruby>へ<ruby>来<rt>き</rt></ruby>て",
           "いつもより"
         ],
-        "correctIndex": 3,
+        "correctIndex": 1,
         "weight": 2.0,
         "explanation": "正しい語順は「来週のテストの日は、【いつもより】【１５分】【早く】【教室へ】来てください。」です。★（1番目）に入るのは「いつもより」です。"
       },
@@ -23695,8 +23695,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m01_q76.mp3",
         "title": "女の人は 来週の 火曜日、なにを 持って こなければ なりませんか。",
         "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は <ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>、なにを <ruby>持<rt>も</rt></ruby>って こなければ なりませんか。",
-        "script": "男の人：みなさん、来週の 火曜日は 体育館で バレーボールの 授業を します。かならず 体育館用の 靴を 持って きて ください。\n女の人：先生、ボールや ラケットは 自分で 用意しますか。\n男の人：ボールは 学校の ものを つかいますから、いりません。ただ、体育館は とても 暑くなりますから、飲み物と 汗を ふく タオルを 忘れないように して ください。\n女の人：はい、わかりました。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：みなさん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>は <ruby>体育館<rt>たいいくかん</rt></ruby>で バレーボールの <ruby>授業<rt>じゅぎょう</rt></ruby>を します。かならず <ruby>体育館<rt>たいいくかん</rt></ruby><ruby>用<rt>よう</rt></ruby>の <ruby>靴<rt>くつ</rt></ruby>を <ruby>持<rt>も</rt></ruby>って きて ください。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、ボールや ラケットは <ruby>自分<rt>じぶん</rt></ruby>で <ruby>用意<rt>ようい</rt></ruby>しますか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ボールは <ruby>学校<rt>がっこう</rt></ruby>の ものを つかいますから、いりません。ただ、<ruby>体育館<rt>たいいくかん</rt></ruby>は とても <ruby>暑<rt>あつ</rt></ruby>くなりますから、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と <ruby>汗<rt>あせ</rt></ruby>を ふく タオルを <ruby>忘<rt>わす</rt></ruby>れないように して ください。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。",
+        "script": "男の人：みなさん、来週の 火曜日は 体育館で バレーボールの 授業を します。かならず 体育館用の 靴を 持って きて ください。\n女の人：先生、ボールは 自分で 用意しますか。\n男の人：ボールは 学校の ものを つかいますから、いりません。ただ、体育館は とても 暑くなりますから、飲み物と 汗を ふく タオルを 忘れないように して ください。\n女の人：はい、わかりました。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：みなさん、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>火曜日<rt>かようび</rt></ruby>は <ruby>体育館<rt>たいいくかん</rt></ruby>で バレーボールの <ruby>授業<rt>じゅぎょう</rt></ruby>を します。かならず <ruby>体育館<rt>たいいくかん</rt></ruby><ruby>用<rt>よう</rt></ruby>の <ruby>靴<rt>くつ</rt></ruby>を <ruby>持<rt>も</rt></ruby>って きて ください。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、ボールは <ruby>自分<rt>じぶん</rt></ruby>で <ruby>用意<rt>ようい</rt></ruby>しますか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ボールは <ruby>学校<rt>がっこう</rt></ruby>の ものを つかいますから、いりません。ただ、<ruby>体育館<rt>たいいくかん</rt></ruby>は とても <ruby>暑<rt>あつ</rt></ruby>くなりますから、<ruby>飲み物<rt>のみもの</rt></ruby>と <ruby>汗<rt>あせ</rt></ruby>を ふく タオルを <ruby>忘<rt>わす</rt></ruby>れないように して ください。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：はい、わかりました。",
         "options": [
           "体育館用の 靴と 飲み物と タオル",
           "ボールと 飲み物と タオル",
@@ -23898,8 +23898,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q83.mp3",
         "title": "男の人は どうして 自転車では なく 歩いて 駅まで 来ましたか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は どうして <ruby>自転車<rt>じてんしゃ</rt></ruby>では なく <ruby>歩<rt>ある</rt></ruby>いて <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>ましたか。",
-        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、走って 来たので 汗を かいて しまいました。",
-        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>走<rt>はし</rt></ruby>って <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
+        "script": "女の人：あれ、森さん、いつもは 自転車で 駅まで 来て いるのに、きょうは 歩いて 来たんですか。雨が 降りそうだからですか。\n男の人：いいえ、けさ 家を 出ようと したら、自転車の タイヤの 空気が 抜けて いて 乗れなかったんです。\n女の人：それは 大変でしたね。駅まで 遠かったでしょう。\n男の人：ええ、急いで 歩いて 来たので 汗を かいて しまいました。",
+        "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あれ、<ruby>森<rt>もり</rt></ruby>さん、いつもは <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで <ruby>来<rt>き</rt></ruby>て いるのに、きょうは <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たんですか。<ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>お</rt></ruby>りそうだからですか。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：いいえ、けさ <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ようと したら、<ruby>自転車<rt>じてんしゃ</rt></ruby>の タイヤの <ruby>空気<rt>くうき</rt></ruby>が <ruby>抜<rt>ぬ</rt></ruby>けて いて <ruby>乗<rt>の</rt></ruby>れなかったんです。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：それは <ruby>大変<rt>たいへん</rt></ruby>でしたね。<ruby>駅<rt>えき</rt></ruby>まで <ruby>遠<rt>とお</rt></ruby>かったでしょう。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ、<ruby>急<rt>いそ</rt></ruby>いで <ruby>歩<rt>ある</rt></ruby>いて <ruby>来<rt>き</rt></ruby>たので <ruby>汗<rt>あせ</rt></ruby>を かいて しまいました。",
         "options": [
           "雨が 降りそうだったから",
           "運動の ために 歩きたかったから",
@@ -24228,16 +24228,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q95.mp3",
         "title": "あのう、鈴木部長は いま 席に いらっしゃいますか。",
         "titleRuby": "あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。",
-        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻られます。\n３　いいえ、部長は ここに いらっしゃいます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。<br>１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。<br>３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
+        "script": "男の人：あのう、鈴木部長は いま 席に いらっしゃいますか。\n１　はい、わたしが 鈴木部長に 申します。\n２　申し訳 ありません。いま 会議中で、３時に 戻る 予定です。\n３　いいえ、部長は ここに いらっしゃいます。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：あのう、<ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は いま <ruby>席<rt>せき</rt></ruby>に いらっしゃいますか。\n１　はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。\n２　<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。\n３　いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。",
         "options": [
           "はい、わたしが 鈴木部長に 申します。",
-          "申し訳 ありません。いま 会議中で、３時に 戻られます。",
+          "申し訳 ありません。いま 会議中で、３時に 戻る 予定です。",
           "いいえ、部長は ここに いらっしゃいます。"
         ],
         "optionsRuby": [
           "はい、わたしが <ruby>鈴木<rt>すずき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に <ruby>申<rt>もう</rt></ruby>します。",
-          "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>られます。",
+          "<ruby>申し訳<rt>もうしわけ</rt></ruby> ありません。いま <ruby>会議<rt>かいぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、３<ruby>時<rt>じ</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>る <ruby>予定<rt>よてい</rt></ruby>です。",
           "いいえ、<ruby>部長<rt>ぶちょう</rt></ruby>は ここに いらっしゃいます。"
         ],
         "correctIndex": 1,
@@ -24351,18 +24351,18 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m1",
             "number": "問題1",
             "name": "漢字読み",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in hiragana? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 9
           },
           {
             "id": "s1_m2",
             "number": "問題2",
             "name": "表記",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "How do you write the underlined word in kanji? Choose the best one from 1, 2, 3, or 4.",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 6
           },
           {
@@ -24378,9 +24378,9 @@ window.JLPT_N4_MOCK_ROUNDS = {
             "id": "s1_m4",
             "number": "問題4",
             "name": "言い換え類義",
-            "instruction": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "instruction": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "instructionEn": "Which sentence has almost the same meaning as the underlined expression?",
-            "desc": "<ruby>＿＿<rt></rt></ruby>の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
+            "desc": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　１つ　えらんで　ください。",
             "count": 5
           },
           {
@@ -25164,16 +25164,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "あしたは <u>たぶん</u> 晴れるでしょう。",
         "titleRuby": "あしたは <u>たぶん</u> <ruby>晴<rt>は</rt></ruby>れるでしょう。",
         "options": [
-          "かならず",
-          "ぜったいに",
-          "きっと",
-          "めったに"
+          "まだ",
+          "さっき",
+          "そろそろ",
+          "やっと"
         ],
         "optionsRuby": [
-          "かならず",
-          "ぜったいに",
-          "きっと",
-          "めったに"
+          "まだ",
+          "さっき",
+          "そろそろ",
+          "やっと"
         ],
         "correctIndex": 2,
         "weight": 1.0,
@@ -25792,16 +25792,16 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "title": "日本へ留学する <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> 勉強を始めました。",
         "titleRuby": "<ruby>日本<rt>にほん</rt></ruby>へ<ruby>留学<rt>りゅうがく</rt></ruby>する <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank'></span> <span class='jlpt-underline-blank' style='text-align:center;font-weight:900;color:#127285;'>★</span> <ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。",
         "options": [
-          "会話の",
+          "日本語の",
           "ために",
           "１年前から",
-          "日本語の"
+          "少しずつ"
         ],
         "optionsRuby": [
-          "<ruby>会話<rt>かいわ</rt></ruby>の",
+          "<ruby>日本語<rt>にほんご</rt></ruby>の",
           "ために",
           "１<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から",
-          "<ruby>日本語<rt>にほんご</rt></ruby>の"
+          "<ruby>少<rt>すこ</rt></ruby>しずつ"
         ],
         "correctIndex": 0,
         "weight": 2.0,
@@ -26456,8 +26456,8 @@ window.JLPT_N4_MOCK_ROUNDS = {
         "audioUrl": "audio/mock_n4/n4_m02_q78.mp3",
         "title": "男の人は これから まず なにを しますか。",
         "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は これから まず なにを しますか。",
-        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お食事なさる ことが できますよ。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。",
-        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは <ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>から あいて おりますので、お<ruby>食事<rt>しょくじ</rt></ruby>なさる ことが できますよ。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。",
+        "script": "男の人：すみません、あしたの 朝 ７時に チェックアウトしたいんですが、朝ごはんは 何時から 食べられますか。\n女の人：レストランは 朝 ６時半から あいて おりますので、お召し上がり いただけます。\n男の人：よかった。じゃあ、荷物を 空港へ 送りたいんですが、あしたの 朝でも 間に合いますか。\n女の人：空港への 宅配便は 今夜の ９時までに フロントへ お持ち いただく 必要が ございます。\n男の人：そうなんですか。いま ８時だから、すぐ 部屋に 戻って 荷物を まとめて 持って きます。。",
+        "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：すみません、あしたの <ruby>朝<rt>あさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>に チェックアウトしたいんですが、<ruby>朝<rt>あさ</rt></ruby>ごはんは<ruby>何時<rt>なんじ</rt></ruby>から <ruby>食<rt>た</rt></ruby>べられますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：レストランは <ruby>朝<rt>あさ</rt></ruby> ６<ruby>時半<rt>じはん</rt></ruby>から あいて おりますので、お<ruby>召し上<rt>めしあ</rt></ruby>がり いただけます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：よかった。じゃあ、<ruby>荷物<rt>にもつ</rt></ruby>を <ruby>空港<rt>くうこう</rt></ruby>へ <ruby>送<rt>おく</rt></ruby>りたいんですが、あしたの <ruby>朝<rt>あさ</rt></ruby>でも <ruby>間に合<rt>まにあ</rt></ruby>いますか。\n<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>空港<rt>くうこう</rt></ruby>への <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>は <ruby>今夜<rt>こんや</rt></ruby>の ９<ruby>時<rt>じ</rt></ruby>までに フロントへ お<ruby>持<rt>も</rt></ruby>ち いただく <ruby>必要<rt>ひつよう</rt></ruby>が ございます。\n<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですか。いま ８<ruby>時<rt>じ</rt></ruby>だから、すぐ <ruby>部屋<rt>へや</rt></ruby>に <ruby>戻<rt>もど</rt></ruby>って <ruby>荷物<rt>にもつ</rt></ruby>を まとめて <ruby>持<rt>も</rt></ruby>って きます。。",
         "options": [
           "レストランへ 朝ごはんを 食べに 行く",
           "部屋で 荷物を まとめて フロントへ 持って くる",

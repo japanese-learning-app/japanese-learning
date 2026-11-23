@@ -868,9 +868,9 @@ window.JLPT_N5_LISTENING_DATA = {
       "title": "初対面",
       "has_illustration": true,
       "illustration_url": "images/listening_n5/n5_q34.jpg",
-      "prompt": "はじめて 会う 人に 会いました。何と 言いますか。",
+      "prompt": "はじめて 会う 人に、あいさつを します。何と 言いますか。",
       "prompt_ruby": "はじめて <ruby>会<rt>あ</rt></ruby>う <ruby>人<rt>ひと</rt></ruby>に <ruby>会<rt>あ</rt></ruby>いました。<ruby>何<rt>なん</rt></ruby>と <ruby>言<rt>い</rt></ruby>いますか。",
-      "speech_audio_text": "だいさんじゅうよんもん。はじめて 会う 人に 会いました。なんと 言いますか。\n\nいちばん、ありがとうございました。\n\nにばん、はじめまして。どうぞ よろしく おねがいします。\n\nさんばん、おひさしぶりです。\n\n質問。はじめて 会う 人に 会いました。なんと 言いますか。",
+      "speech_audio_text": "だいさんじゅうよんもん。はじめて 会う 人に、あいさつを します。なんと 言いますか。\n\nいちばん、ありがとうございました。\n\nにばん、はじめまして。どうぞ よろしく おねがいします。\n\nさんばん、おひさしぶりです。\n\n質問。はじめて 会う 人に、あいさつを します。なんと 言いますか。",
       "choices": [
         "ありがとうございました。",
         "はじめまして。どうぞ よろしく おねがいします。",
@@ -1168,12 +1168,12 @@ window.JLPT_N5_LISTENING_DATA = {
       "title": "待たせた",
       "has_illustration": true,
       "illustration_url": "images/listening_n5/n5_q46.jpg",
-      "prompt": "友達と 公園で 会う 約束を しました。十分 おくれて 着きました。友達に 何と 言いますか。",
+      "prompt": "友達と 公園で 会う 約束を しました。10分 おくれて 着きました。友達に 何と 言いますか。",
       "prompt_ruby": "<ruby>友達<rt>ともだち</rt></ruby>と <ruby>公園<rt>こうえん</rt></ruby>で <ruby>会<rt>あ</rt></ruby>う <ruby>約束<rt>やくそく</rt></ruby>を しました。<ruby>十分<rt>じゅっぷん</rt></ruby> おくれて <ruby>着<rt>つ</rt></ruby>きました。<ruby>友達<rt>ともだち</rt></ruby>に <ruby>何<rt>なん</rt></ruby>と <ruby>言<rt>い</rt></ruby>いますか。",
       "speech_audio_text": "だいよんじゅうろくもん。友達と 公園で 会う 約束を しました。じゅっぷん おくれて 着きました。友達に なんと 言いますか。\n\nいちばん、ごちそうさまでした。\n\nにばん、いってらっしゃい。\n\nさんばん、おまたせしました。\n\n質問。友達と 公園で 会う 約束を しました。じゅっぷん おくれて 着きました。友達に なんと 言いますか。",
       "choices": [
         "ごちそうさまでした。",
-        "いってらっしゃい。",
+        "いってきます。",
         "おまたせしました。"
       ],
       "answer": 2,
