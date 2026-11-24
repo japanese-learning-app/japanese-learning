@@ -12841,7 +12841,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The robber was tied up."
   },
   "誤解": {
-    "ja": "<ruby>言葉足<rt>ことた</rt></ruby>らずのせいで<ruby>相手<rt>あいて</rt></ruby>に<ruby>誤解<rt>ごかい</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてしまったので、<ruby>改<rt>あらた</rt></ruby>めて<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>し<ruby>直<rt>なお</rt></ruby>した。",
+    "ja": "<ruby>言葉足<rt>ことばた</rt></ruby>らずのせいで<ruby>相手<rt>あいて</rt></ruby>に<ruby>誤解<rt>ごかい</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてしまったので、<ruby>改<rt>あらた</rt></ruby>めて<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>し<ruby>直<rt>なお</rt></ruby>した。",
     "en": "Because of poor phrasing, I caused a misunderstanding with the other party, so I explained it again thoroughly and politely."
   },
   "ごかい": {
@@ -14781,7 +14781,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "When we heard that news, we felt very term, and our hearts were deeply touched."
   },
   "スープ": {
-    "ja": "<ruby>旬<rt>じゅん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をコトコトと<ruby>長時間<rt>ちょうじかん</rt></ruby><ruby>煮込<rt>にこみ</rt></ruby>んで<ruby>作<rt>つく</rt></ruby>った<ruby>温<rt>あたた</rt></ruby>かいスープは、<ruby>冷<rt>ひ</rt></ruby>えた<ruby>体<rt>からだ</rt></ruby>を<ruby>芯<rt>しん</rt></ruby>から<ruby>温<rt>あたた</rt></ruby>めてくれる。",
+    "ja": "<ruby>旬<rt>じゅん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をコトコトと<ruby>長時間<rt>ちょうじかん</rt></ruby><ruby>煮込<rt>にこ</rt></ruby>んで<ruby>作<rt>つく</rt></ruby>った<ruby>温<rt>あたた</rt></ruby>かいスープは、<ruby>冷<rt>ひ</rt></ruby>えた<ruby>体<rt>からだ</rt></ruby>を<ruby>芯<rt>しん</rt></ruby>から<ruby>温<rt>あたた</rt></ruby>めてくれる。",
     "en": "The warm soup made by slowly simmering seasonal vegetables over a long time warms a chilled body from the inside out."
   },
   "図": {
@@ -46953,7 +46953,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Are you interested in modern art?"
   },
   "吃驚": {
-    "ja": "その<ruby>質問<rt>しつもん</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>吃驚<rt>きっきょう</rt></ruby>した。",
+    "ja": "その<ruby>質問<rt>しつもん</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>吃驚<rt>びっくり</rt></ruby>した。",
     "en": "I was a little surprised at the question."
   },
   "びっしょり": {

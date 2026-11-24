@@ -10364,7 +10364,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「わざと」は「<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby>に（しばしば<ruby>悪戯<rt>あくぎ</rt></ruby>や<ruby>不自然<rt>ふしぜん</rt></ruby>なことを）<ruby>計算<rt>けいさん</rt></ruby>してやる」という<ruby>意味<rt>いみ</rt></ruby>なので、<ruby>相手<rt>あいて</rt></ruby>が<ruby>手間<rt>てま</rt></ruby>をかけて<ruby>来<rt>き</rt></ruby>てくれたことへの<ruby>感謝<rt>かんしゃ</rt></ruby>には「わざわざ」を<ruby>使<rt>つか</rt></ruby>います。",
+        "reason_ja": "「わざと」は「<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby>に（しばしば<ruby>悪戯<rt>いたずら</rt></ruby>や<ruby>不自然<rt>ふしぜん</rt></ruby>なことを）<ruby>計算<rt>けいさん</rt></ruby>してやる」という<ruby>意味<rt>いみ</rt></ruby>なので、<ruby>相手<rt>あいて</rt></ruby>が<ruby>手間<rt>てま</rt></ruby>をかけて<ruby>来<rt>き</rt></ruby>てくれたことへの<ruby>感謝<rt>かんしゃ</rt></ruby>には「わざわざ」を<ruby>使<rt>つか</rt></ruby>います。",
         "reason_en": "わざと means \"on purpose / deliberately\" (often for mischief or unnatural acts); to thank someone for going out of their way, use わざわざ.",
         "sentence": "<ruby>遠<rt>とお</rt></ruby>いところから<ruby>私<rt>わたし</rt></ruby>のお<ruby>見舞<rt>みま</rt></ruby>いのために、わざと<ruby>来<rt>き</rt></ruby>てくださってありがとうございます。"
       },
