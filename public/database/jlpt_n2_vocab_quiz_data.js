@@ -17249,7 +17249,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "ばたばた",
     "question": "今日は一日中（　　　）していて、お昼ご飯を食べる時間もなかった。",
-    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>（　　　）していて、お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>もなかった。",
+    "question_ruby": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby>（　　　）していて、お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>もなかった。",
     "choices": [
       "ぎりぎり",
       "きょろきょろ",
@@ -22806,7 +22806,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "疲れているせいか、目上がぼんやりするので会社を休むことにした。"
     ],
     "choices_ruby": [
-      "<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>よりも<ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby><ruby>上<rt>じょう</rt></ruby>だから、いくら<ruby>仲<rt>なか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くても<ruby>敬語<rt>けいご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さなければならない。",
+      "<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>よりも<ruby>一<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>目上<rt>めうえ</rt></ruby>だから、いくら<ruby>仲<rt>なか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くても<ruby>敬語<rt>けいご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さなければならない。",
       "<ruby>社会<rt>しゃかい</rt></ruby><ruby>人<rt>じん</rt></ruby>にもなって<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えないなんてありえない。",
       "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>成績<rt>せいせき</rt></ruby>が<ruby>優秀<rt>ゆうしゅう</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>からも<ruby>信頼<rt>しんらい</rt></ruby>されている<ruby>彼<rt>かれ</rt></ruby>のことを<ruby>目上<rt>めうえ</rt></ruby>に<ruby>見<rt>み</rt></ruby>ている。",
       "<ruby>疲<rt>つか</rt></ruby>れているせいか、<ruby>目上<rt>めうえ</rt></ruby>がぼんやりするので<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むことにした。"
@@ -23235,7 +23235,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>父<rt>ちち</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>することになり、<ruby>母<rt>はは</rt></ruby>を<ruby>手渡<rt>てわた</rt></ruby>しする<ruby>必要<rt>ひつよう</rt></ruby>があるので、しばらく<ruby>実家<rt>じっか</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります。",
       "<ruby>服<rt>ふく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてから、<ruby>洗濯<rt>せんたく</rt></ruby><ruby>機<rt>き</rt></ruby>に<ruby>洗剤<rt>せんざい</rt></ruby>を<ruby>手渡<rt>てわた</rt></ruby>ししてください。",
       "ずっとなぞに<ruby>包<rt>つつ</rt></ruby>まれていた<ruby>担任<rt>たんにん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の<ruby>過去<rt>かこ</rt></ruby>が<ruby>手渡<rt>てわた</rt></ruby>しされ、<ruby>驚<rt>おどろ</rt></ruby>いた。",
-      "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから3か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>手渡<rt>てわた</rt></ruby>しされます。"
+      "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから3か<ruby>月間<rt>げっかん</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>手渡<rt>てわた</rt></ruby>しされます。"
     ],
     "answer": 3,
     "correct_text": "入社してから3か月間は、給料は手渡しされます。",
@@ -23286,7 +23286,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "english_pitfall": "英語の \"hand delivery\" や \"handing over in person\" に相当します。間接的な手段（メールや配送）を使わず、直接対面して手渡す限定的な動作です。",
     "target_word_reading": "てわたし",
     "correct_text_reading": "にゅうしゃしてから3かげっかんは、きゅうりょうはてわたしされます。",
-    "correct_text_ruby": "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから3か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>手渡<rt>てわた</rt></ruby>しされます。"
+    "correct_text_ruby": "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから3か<ruby>月間<rt>げっかん</rt></ruby>は、<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>手渡<rt>てわた</rt></ruby>しされます。"
   },
   {
     "id": 393,
@@ -24242,7 +24242,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>息子<rt>むすこ</rt></ruby>の<ruby>背<rt>せ</rt></ruby>がどんどん<ruby>高<rt>たか</rt></ruby>まって、ついに<ruby>私<rt>わたし</rt></ruby>の<ruby>身長<rt>しんちょう</rt></ruby>を<ruby>越<rt>こ</rt></ruby>した。",
       "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby><ruby>成績<rt>せいせき</rt></ruby>がトップだった<ruby>彼<rt>かれ</rt></ruby>は、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>課長<rt>かちょう</rt></ruby>に<ruby>高<rt>たか</rt></ruby>まるらしい。",
-      "<ruby>夏<rt>なつ</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>クーラーをつけているので、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まってしまう。",
+      "<ruby>夏<rt>なつ</rt></ruby>は<ruby>一日中<rt>いちにちじゅう</rt></ruby>クーラーをつけているので、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まってしまう。",
       "<ruby>新型<rt>しんがた</rt></ruby>ウイルスの<ruby>流行<rt>りゅうこう</rt></ruby>とともに、<ruby>各国<rt>かっこく</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>への<ruby>関心<rt>かんしん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まっている。"
     ],
     "answer": 3,
@@ -44318,7 +44318,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "間に合いそうもない",
     "question": "A「あと30分しかない。タクシーで行く？」 B「いやあ、タクシーで行っても、とても（　　　）よ。」",
-    "question_ruby": "A「あと30<ruby>分<rt>ふん</rt></ruby>しかない。タクシーで<ruby>行<rt>い</rt></ruby>く？」 B「いやあ、タクシーで<ruby>行<rt>おこな</rt></ruby>っても、とても（　　　）よ。」",
+    "question_ruby": "A「あと30<ruby>分<rt>ふん</rt></ruby>しかない。タクシーで<ruby>行<rt>い</rt></ruby>く？」 B「いやあ、タクシーで<ruby>行<rt>い</rt></ruby>っても、とても（　　　）よ。」",
     "choices": [
       "間に合いそうもない",
       "間に合いがたい",

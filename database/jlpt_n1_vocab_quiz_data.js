@@ -13221,7 +13221,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
       "<ruby>目<rt>め</rt></ruby>を<ruby>細<rt>ほそ</rt></ruby>めて<ruby>遠<rt>とお</rt></ruby>くの<ruby>看板<rt>かんばん</rt></ruby>をつぶさに<ruby>見<rt>み</rt></ruby>たが、<ruby>文字<rt>もじ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さくて<ruby>読<rt>よ</rt></ruby>めなかった。",
       "<ruby>茹<rt>ゆ</rt></ruby>でたじゃがいもをボウルに<ruby>入<rt>い</rt></ruby>れ、<ruby>木<rt>き</rt></ruby>べらでつぶさに<ruby>潰<rt>つぶ</rt></ruby>してサラダにした。",
       "<ruby>彼<rt>かれ</rt></ruby>はわずかな<ruby>時間<rt>じかん</rt></ruby>も<ruby>無駄<rt>むだ</rt></ruby>にせず、<ruby>移動<rt>いどう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>もつぶさに<ruby>読書<rt>どくしょ</rt></ruby>をしている。",
-      "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>に<ruby>三<rt>さん</rt></ruby>か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>滞在<rt>たいざい</rt></ruby>し、<ruby>希少<rt>きしょう</rt></ruby>な<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby>をつぶさに<ruby>観察<rt>かんさつ</rt></ruby>した。"
+      "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>に<ruby>三<rt>さん</rt></ruby>か<ruby>月間<rt>げっかん</rt></ruby><ruby>滞在<rt>たいざい</rt></ruby>し、<ruby>希少<rt>きしょう</rt></ruby>な<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby>をつぶさに<ruby>観察<rt>かんさつ</rt></ruby>した。"
     ],
     "answer": 3,
     "correct_text": "研究員は現地に三か月間滞在し、希少な動物の生態をつぶさに観察した。",
@@ -13229,7 +13229,7 @@ window.JLPT_N1_VOCAB_QUIZ_DATA = [
     "explanation": "「つぶさに」は、細かいところまで漏れなく詳しく見たり調べたり語ったりする様子を表す副詞です。「潰す」や「目をつぶる」、「こまめに」とは無関係です。",
     "target_word_reading": "つぶさに",
     "correct_text_reading": "つぶさに",
-    "correct_text_ruby": "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>に<ruby>三<rt>さん</rt></ruby>か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>滞在<rt>たいざい</rt></ruby>し、<ruby>希少<rt>きしょう</rt></ruby>な<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby>をつぶさに<ruby>観察<rt>かんさつ</rt></ruby>した。"
+    "correct_text_ruby": "<ruby>研究<rt>けんきゅう</rt></ruby><ruby>員<rt>いん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>に<ruby>三<rt>さん</rt></ruby>か<ruby>月間<rt>げっかん</rt></ruby><ruby>滞在<rt>たいざい</rt></ruby>し、<ruby>希少<rt>きしょう</rt></ruby>な<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>生態<rt>せいたい</rt></ruby>をつぶさに<ruby>観察<rt>かんさつ</rt></ruby>した。"
   },
   {
     "id": 491,

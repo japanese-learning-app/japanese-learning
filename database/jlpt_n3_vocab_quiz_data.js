@@ -12112,7 +12112,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>に、たちまち<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しをする<ruby>予定<rt>よてい</rt></ruby>だ。",
       "この<ruby>部屋<rt>へや</rt></ruby>はたちまち<ruby>広<rt>ひろ</rt></ruby>くて<ruby>日当<rt>ひあ</rt></ruby>たりがいい。",
       "<ruby>十<rt>じゅう</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>かけて、たちまち<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるようになった。",
-      "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>てん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
+      "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開店<rt>かいてん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
     ],
     "answer": 3,
     "correct_text": "新しいパン屋が開店すると、おいしいと評判になり、たちまち人気店になった。",
@@ -12120,7 +12120,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
     "explanation": "「たちまち」はごく短い時間のうちに急激な変化が起こる様子に使います。長い期間や状態には使いません。",
     "target_word_reading": "たちまち",
     "correct_text_reading": "たちまち",
-    "correct_text_ruby": "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>てん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
+    "correct_text_ruby": "<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開店<rt>かいてん</rt></ruby>すると、おいしいと<ruby>評判<rt>ひょうばん</rt></ruby>になり、たちまち<ruby>人気<rt>にんき</rt></ruby><ruby>店<rt>てん</rt></ruby>になった。"
   },
   {
     "id": 450,

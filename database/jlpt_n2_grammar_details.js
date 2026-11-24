@@ -6023,7 +6023,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with にわたって)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for にわたって",
-        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>かず</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。"
+        "sentence": "<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>すう</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。"
       }
     ],
     "comparison": [
@@ -6034,7 +6034,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: throughout; over a period.",
-        "example": "<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>かず</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。"
+        "example": "<ruby>道路<rt>どうろ</rt></ruby>は<ruby>数<rt>すう</rt></ruby>マイルにわたってまっすぐ<ruby>続い<rt>つづい</rt></ruby>ていた。"
       },
       {
         "form": "〜にわたり",

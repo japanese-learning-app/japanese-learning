@@ -4052,7 +4052,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「〜かぎりだ」は「<ruby>嬉<rt>うれ</rt></ruby>しいかぎりだ」「<ruby>羨<rt>うらや</rt></ruby>ましいかぎりだ」のように<ruby>感情<rt>かんじょう</rt></ruby><ruby>形容詞<rt>けいようし</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られますが、「〜といったらない」は<ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>凄<rt>すさ</rt></ruby>まじさ・<ruby>大変<rt>たいへん</rt></ruby>さにも<ruby>広<rt>ひろ</rt></ruby>く<ruby>使<rt>つか</rt></ruby>えます。",
         "nuance_en": "While 〜かぎりだ is restricted to emotion adjectives, 〜といったらない vividly emphasizes extreme states, hardships, or sensations in general.",
-        "example": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>海<rt>うみ</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>きつける<ruby>吹雪<rt>ふぶき</rt></ruby>の<ruby>冷<rt>つめ</rt></ruby>たさといったらなかった。<ruby>顔<rt>かお</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げられないほどだった。"
+        "example": "<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>日本海<rt>にほんかい</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>きつける<ruby>吹雪<rt>ふぶき</rt></ruby>の<ruby>冷<rt>つめ</rt></ruby>たさといったらなかった。<ruby>顔<rt>かお</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げられないほどだった。"
       }
     ]
   },
@@ -6350,13 +6350,13 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
     "notes_en": "'にしてみれば' is an advanced N1 pattern meaning 'from the viewpoint of', commonly used in formal writing, editorials, and speeches.",
     "nuance_ja": "「にしてみれば」は、<strong>『その<ruby>人<rt>ひと</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えれば。』</strong>という<ruby>本質<rt>ほんしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>ニュアンスを<ruby>持<rt>も</rt></ruby>ち、<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>します。",
     "nuance_en": "'にしてみれば' expresses <strong>from the viewpoint of</strong>, highlighting logical relationships or strong speaker stance in formal contexts.",
-    "trap_ja": "「〜にしてみれば」は<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>第三者<rt>だいさんしゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>身<rt>み</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて「あの<ruby>人<rt>ひと</rt></ruby>から<ruby>見<rt>み</rt></ruby>れば〜だろう」と<ruby>推察<rt>すいさつ</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>一人<rt>ひとり</rt></ruby><ruby>称<rt>しょう</rt></ruby>「<ruby>私<rt>わたし</rt></ruby>」には<ruby>使<rt>つか</rt></ruby>えません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
+    "trap_ja": "「〜にしてみれば」は<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>第三者<rt>だいさんしゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>身<rt>み</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて「あの<ruby>人<rt>ひと</rt></ruby>から<ruby>見<rt>み</rt></ruby>れば〜だろう」と<ruby>推察<rt>すいさつ</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>一人称<rt>いちにんしょう</rt></ruby>「<ruby>私<rt>わたし</rt></ruby>」には<ruby>使<rt>つか</rt></ruby>えません。 <ruby>接続<rt>せつぞく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>釣<rt>つ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>しましょう。",
     "trap_en": "\"〜にしてみれば\" puts the speaker in a third party's shoes to imagine their perspective, so it cannot be used with the first-person \"I.\" Pay close attention to required grammatical connection and register.",
     "contrast": [
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「〜にしてみれば」は<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>第三者<rt>だいさんしゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>身<rt>み</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて「あの<ruby>人<rt>ひと</rt></ruby>から<ruby>見<rt>み</rt></ruby>れば〜だろう」と<ruby>推察<rt>すいさつ</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>一人<rt>ひとり</rt></ruby><ruby>称<rt>しょう</rt></ruby>「<ruby>私<rt>わたし</rt></ruby>」には<ruby>使<rt>つか</rt></ruby>えません。",
+        "reason_ja": "「〜にしてみれば」は<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>第三者<rt>だいさんしゃ</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>身<rt>み</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて「あの<ruby>人<rt>ひと</rt></ruby>から<ruby>見<rt>み</rt></ruby>れば〜だろう」と<ruby>推察<rt>すいさつ</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>なので、<ruby>一人称<rt>いちにんしょう</rt></ruby>「<ruby>私<rt>わたし</rt></ruby>」には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"〜にしてみれば\" puts the speaker in a third party's shoes to imagine their perspective, so it cannot be used with the first-person \"I.\"",
         "sentence": "<ruby>私<rt>わたし</rt></ruby>にしてみれば、この<ruby>新<rt>あたら</rt></ruby>しいパソコンはとても<ruby>使<rt>つか</rt></ruby>いにくいと<ruby>思<rt>おも</rt></ruby>います。"
       },
@@ -6390,7 +6390,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "form_en": "for; to",
         "badge": "類義・関連表現",
         "badge_type": "neutral",
-        "nuance_ja": "<ruby>一人<rt>ひとり</rt></ruby><ruby>称<rt>しょう</rt></ruby>（「<ruby>私<rt>わたし</rt></ruby>にとっては」）にも<ruby>第三者<rt>だいさんしゃ</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>える<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>評価<rt>ひょうか</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby><ruby>点<rt>てん</rt></ruby>です。「〜にしてみれば」は<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>内面<rt>ないめん</rt></ruby>や<ruby>事情<rt>じじょう</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>場面<rt>ばめん</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。",
+        "nuance_ja": "<ruby>一人称<rt>いちにんしょう</rt></ruby>（「<ruby>私<rt>わたし</rt></ruby>にとっては」）にも<ruby>第三者<rt>だいさんしゃ</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>える<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>評価<rt>ひょうか</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby><ruby>点<rt>てん</rt></ruby>です。「〜にしてみれば」は<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>内面<rt>ないめん</rt></ruby>や<ruby>事情<rt>じじょう</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>場面<rt>ばめん</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。",
         "nuance_en": "Can be used for both first person and third parties, whereas 〜にしてみれば is restricted to empathetically considering someone else's position.",
         "example": "<ruby>私<rt>わたし</rt></ruby>にとっては<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>曲<rt>きょく</rt></ruby>でも、<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>には<ruby>新鮮<rt>しんせん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>こえるようだ。"
       }

@@ -227,13 +227,13 @@ window.JLPT_N3_LISTENING_DATA = {
       "speech_audio_text": "だいろくもん。職場で課長と女性社員が話しています。女の人はこのあと、まずなにをしますか。\n\n佐藤さん、らいげつのしんにゅうしゃいん、けんしゅうのかいじょうについてなんだけど。\n\nはい、本社のだいホールを予約してありますが。\n\nそれがね、らいげつ急に役員会議が入ってしまって、だいホールが使えなくなったんだ。\n\nえっ、そうなんですか。\n\n申し訳ないけど、近隣の貸し会議室で、さんじゅうにん、はいれるところを至急探してくれるかい？あきじょうきょうが確認できたらかりよやくを入れてほしい。費用の見積もりはそのあとに提出してもらえばいいから。\n\nかしこまりました。すぐに近隣の施設を調べてあきを確認します。\n\n質問。女の人はこのあと、まずなにをしますか。",
       "audio_file": "audio/listening/n3_q6.mp3",
       "choices": [
-        "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby><ruby>程<rt>ほど</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
+        "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
         "<ruby>近隣<rt>きんりん</rt></ruby>の<ruby>貸<rt>か</rt></ruby>し<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>空<rt>あ</rt></ruby>き<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<ruby>仮<rt>かり</rt></ruby><ruby>予約<rt>よやく</rt></ruby>する。",
         "<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby><ruby>見積<rt>みつもり</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
         "<ruby>本社<rt>ほんしゃ</rt></ruby>の<ruby>大<rt>だい</rt></ruby>ホールの<ruby>机<rt>つくえ</rt></ruby>と<ruby>椅子<rt>いす</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>ける。"
       ],
       "choices_ruby": [
-        "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby><ruby>程<rt>ほど</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
+        "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
         "<ruby>近隣<rt>きんりん</rt></ruby>の<ruby>貸<rt>か</rt></ruby>し<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>空<rt>あ</rt></ruby>き<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<ruby>仮<rt>かり</rt></ruby><ruby>予約<rt>よやく</rt></ruby>する。",
         "<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby><ruby>見積<rt>みつもり</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
         "<ruby>本社<rt>ほんしゃ</rt></ruby>の<ruby>大<rt>だい</rt></ruby>ホールの<ruby>机<rt>つくえ</rt></ruby>と<ruby>椅子<rt>いす</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>ける。"

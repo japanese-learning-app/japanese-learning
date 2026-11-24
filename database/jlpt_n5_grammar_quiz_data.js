@@ -1942,12 +1942,12 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "correct_text": "た後で",
     "notes": "<ruby>食<rt>た</rt></ruby>べてから<ruby>散歩<rt>さんぽ</rt></ruby>する<ruby>順番<rt>じゅんばん</rt></ruby>なので「<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で」です。「<ruby>食<rt>た</rt></ruby>べる<ruby>後<rt>あと</rt></ruby>で」「<ruby>食<rt>た</rt></ruby>べない<ruby>後<rt>あと</rt></ruby>で」は<ruby>形<rt>かたち</rt></ruby>が<ruby>誤<rt>あやま</rt></ruby>り、「<ruby>食<rt>た</rt></ruby>べる<ruby>前<rt>まえ</rt></ruby>に」は<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>です。 / Eating comes first, then the walk: 食べた後で. 食べる後で / 食べない後で are wrong forms; 食べる前に reverses the order.",
     "question_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べ（　　　）、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
-    "sentence_jp_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>のち</rt></ruby>で、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+    "sentence_jp_ruby": "<ruby>夕<rt>ゆう</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>で、<ruby>犬<rt>いぬ</rt></ruby>と<ruby>散歩<rt>さんぽ</rt></ruby>します。",
     "choices_ruby": [
-      "る<ruby>後<rt>のち</rt></ruby>で",
-      "ない<ruby>後<rt>のち</rt></ruby>で",
+      "る<ruby>後<rt>あと</rt></ruby>で",
+      "ない<ruby>後<rt>あと</rt></ruby>で",
       "て<ruby>後<rt>あと</rt></ruby>で",
-      "た<ruby>後<rt>のち</rt></ruby>で"
+      "た<ruby>後<rt>あと</rt></ruby>で"
     ],
     "correct_text_ruby": "た<ruby>後<rt>あと</rt></ruby>で"
   },
@@ -2032,7 +2032,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "correct_text": "後で",
     "notes": "「<ruby>行<rt>い</rt></ruby>く」は<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>けい</rt></ruby>なので「<ruby>前<rt>まえ</rt></ruby>に」が<ruby>合<rt>あ</rt></ruby>います。「<ruby>後<rt>あと</rt></ruby>で」「<ruby>後<rt>あと</rt></ruby>に」は<ruby>動詞<rt>どうし</rt></ruby>が「<ruby>行<rt>い</rt></ruby>った」の<ruby>形<rt>かたち</rt></ruby>になり、「<ruby>間<rt>あいだ</rt></ruby>で」は<ruby>意味<rt>いみ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>いません。 / 行く is in the dictionary form, so 前に fits. 後で / 後に need 行った, and 間で doesn't fit.",
     "question_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった（　　　）、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きました。",
-    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きました。",
+    "sentence_jp_ruby": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で、<ruby>友達<rt>ともだち</rt></ruby>とごはんを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きました。",
     "choices_ruby": [
       "<ruby>前<rt>まえ</rt></ruby>に",
       "<ruby>後<rt>あと</rt></ruby>で",

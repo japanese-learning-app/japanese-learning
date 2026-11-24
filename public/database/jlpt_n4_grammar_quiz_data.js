@@ -1197,7 +1197,7 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
       "<ruby>行<rt>おこな</rt></ruby>い<ruby>予定<rt>よてい</rt></ruby>",
       "<ruby>行<rt>おこな</rt></ruby>うの<ruby>予定<rt>よてい</rt></ruby>",
       "<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>",
-      "<ruby>行<rt>おこな</rt></ruby>って<ruby>予定<rt>よてい</rt></ruby>"
+      "<ruby>行<rt>い</rt></ruby>って<ruby>予定<rt>よてい</rt></ruby>"
     ],
     "correct_text_ruby": "<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>"
   },

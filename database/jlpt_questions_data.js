@@ -6778,7 +6778,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "「病院へ行って薬をもらって飲んでからすぐに寝ました」。",
         "translationEn": "I went to the hospital, got medicine, drank it, and went to bed right away.",
         "level": "N5",
-        "question_ruby": "<ruby>病院<rt>びょういん</rt></ruby>へ　<ruby>行<rt>おこな</rt></ruby>って　＿＿　＿＿　＿★＿　＿＿　<ruby>寝<rt>ね</rt></ruby>ました。"
+        "question_ruby": "<ruby>病院<rt>びょういん</rt></ruby>へ　<ruby>行<rt>い</rt></ruby>って　＿＿　＿＿　＿★＿　＿＿　<ruby>寝<rt>ね</rt></ruby>ました。"
       },
       {
         "id": "n5-g-0025",
@@ -10784,7 +10784,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "We are coming at once.",
         "id": "n4-v-0096",
         "level": "N4",
-        "question_ruby": "ぜひ（　　）、あなたの <ruby>国<rt>くに</rt></ruby>へ <ruby>遊<rt>あそ</rt></ruby>びに <ruby>行<rt>おこな</rt></ruby>ってみたいです。"
+        "question_ruby": "ぜひ（　　）、あなたの <ruby>国<rt>くに</rt></ruby>へ <ruby>遊<rt>あそ</rt></ruby>びに <ruby>行<rt>い</rt></ruby>ってみたいです。"
       },
       {
         "category": "kanji_reading",
@@ -22639,7 +22639,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "You can't be so sure.",
         "id": "n3-v-0270",
         "level": "N3",
-        "question_ruby": "<ruby>写真<rt>しゃしん</rt></ruby>で <ruby>見<rt>み</rt></ruby>る より、（　　）に <ruby>行<rt>おこな</rt></ruby>って みた ほうが ずっと きれいだった。"
+        "question_ruby": "<ruby>写真<rt>しゃしん</rt></ruby>で <ruby>見<rt>み</rt></ruby>る より、（　　）に <ruby>行<rt>い</rt></ruby>って みた ほうが ずっと きれいだった。"
       },
       {
         "category": "kanji_reading",
@@ -38438,7 +38438,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "He explained as if he were an expert.",
         "id": "n2-g-0050",
         "level": "N2",
-        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>ったことがないはずの<ruby>国<rt>くに</rt></ruby>について、＿＿　＿＿　＿★＿　＿＿　。"
+        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>い</rt></ruby>ったことがないはずの<ruby>国<rt>くに</rt></ruby>について、＿＿　＿＿　＿★＿　＿＿　。"
       },
       {
         "category": "reading_comprehension",
@@ -41631,7 +41631,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "As a rule, we don't allow smoking.",
         "id": "n1-v-0084",
         "level": "N1",
-        "question_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>では、 （　　）として <ruby>館内<rt>たてうち</rt></ruby>での <ruby>飲食<rt>いんしょく</rt></ruby>が <ruby>禁止<rt>きんし</rt></ruby>されている。"
+        "question_ruby": "この<ruby>図書館<rt>としょかん</rt></ruby>では、 （　　）として <ruby>館内<rt>かんない</rt></ruby>での <ruby>飲食<rt>いんしょく</rt></ruby>が <ruby>禁止<rt>きんし</rt></ruby>されている。"
       },
       {
         "category": "kanji_reading",
@@ -41852,7 +41852,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I went to Tokyo Station by the local express.",
         "id": "n1-v-0097",
         "level": "N1",
-        "question_ruby": "<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>まで<u>準急</u>で<ruby>行<rt>おこな</rt></ruby>ったのよ。"
+        "question_ruby": "<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>まで<u>準急</u>で<ruby>行<rt>い</rt></ruby>ったのよ。"
       },
       {
         "category": "kanji_writing",
@@ -45796,7 +45796,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I wanted to become a bagel maker so I took three years of training for it. It was fun.",
         "id": "n1-v-0329",
         "level": "N1",
-        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>ね、ベーグル<ruby>屋<rt>や</rt></ruby>さんになりたくて、３<ruby>年間<rt>ねんかん</rt></ruby>ベーグル<ruby>屋<rt>や</rt></ruby>に<u>しゅうぎょう</u>に<ruby>行<rt>おこな</rt></ruby>ってたの。<ruby>楽<rt>たの</rt></ruby>しかった。"
+        "question_ruby": "<ruby>私<rt>わたし</rt></ruby>ね、ベーグル<ruby>屋<rt>や</rt></ruby>さんになりたくて、３<ruby>年間<rt>ねんかん</rt></ruby>ベーグル<ruby>屋<rt>や</rt></ruby>に<u>しゅうぎょう</u>に<ruby>行<rt>い</rt></ruby>ってたの。<ruby>楽<rt>たの</rt></ruby>しかった。"
       },
       {
         "category": "vocabulary",

@@ -4338,7 +4338,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "なり",
-    "notes": "<ruby>同<rt>どう</rt></ruby><ruby>一人<rt>ひとり</rt></ruby><ruby>物<rt>もの</rt></ruby>が「<ruby>帰宅<rt>きたく</rt></ruby>する」とすぐに<ruby>続<rt>つづ</rt></ruby>けて<ruby>次<rt>つぎ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>（<ruby>眠<rt>ねむ</rt></ruby>る）に<ruby>移<rt>うつ</rt></ruby>ったことを<ruby>表<rt>あらわ</rt></ruby>します。",
+    "notes": "<ruby>同<rt>どう</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>人物<rt>じんぶつ</rt></ruby>が「<ruby>帰宅<rt>きたく</rt></ruby>する」とすぐに<ruby>続<rt>つづ</rt></ruby>けて<ruby>次<rt>つぎ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>（<ruby>眠<rt>ねむ</rt></ruby>る）に<ruby>移<rt>うつ</rt></ruby>ったことを<ruby>表<rt>あらわ</rt></ruby>します。",
     "question_ruby": "<ruby>長旅<rt>ながたび</rt></ruby>でよほど<ruby>疲<rt>つか</rt></ruby>れていたのか、<ruby>兄<rt>あに</rt></ruby>は<ruby>帰宅<rt>きたく</rt></ruby>する（　　　）ソファに<ruby>横<rt>よこ</rt></ruby>になって<ruby>眠<rt>ねむ</rt></ruby>ってしまった。",
     "sentence_jp_ruby": "<ruby>長旅<rt>ながたび</rt></ruby>でよほど<ruby>疲<rt>つか</rt></ruby>れていたのか、<ruby>兄<rt>あに</rt></ruby>は<ruby>帰宅<rt>きたく</rt></ruby>するなりソファに<ruby>横<rt>よこ</rt></ruby>になって<ruby>眠<rt>ねむ</rt></ruby>ってしまった。",
     "choices_ruby": [
@@ -12468,7 +12468,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "といったらありはしない",
-    "notes": "<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>した<ruby>形<rt>けい</rt></ruby><ruby>容<rt>よう</rt></ruby><ruby>詞<rt>ことば</rt></ruby>（「〜さ」）や「〜よう」につく<ruby>形<rt>かたち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>です。",
+    "notes": "<ruby>名詞<rt>めいし</rt></ruby><ruby>化<rt>か</rt></ruby>した<ruby>形容詞<rt>けいようし</rt></ruby>（「〜さ」）や「〜よう」につく<ruby>形<rt>かたち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>です。",
     "question_ruby": "<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もなく、その<ruby>乱雑<rt>らんざつ</rt></ruby>さ（　　　）。",
     "sentence_jp_ruby": "<ruby>引っ越<rt>ひっこ</rt></ruby>し<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>足<rt>あし</rt></ruby>の<ruby>踏<rt>ふ</rt></ruby>み<ruby>場<rt>じょう</rt></ruby>もなく、その<ruby>乱雑<rt>らんざつ</rt></ruby>さといったらありはしない。",
     "choices_ruby": [
@@ -12798,7 +12798,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 1,
     "correct_text": "たりとも",
-    "notes": "「<ruby>一<rt>いち</rt></ruby><ruby>滴<rt>てき</rt></ruby>たりとも<ruby>漏<rt>も</rt></ruby>らさない」は<ruby>最小<rt>さいしょう</rt></ruby><ruby>単位<rt>たんい</rt></ruby>「<ruby>一滴<rt>いってき</rt></ruby>」を<ruby>用<rt>もち</rt></ruby>いた<ruby>代表<rt>だいひょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>強調<rt>きょうちょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。",
+    "notes": "「<ruby>一滴<rt>いってき</rt></ruby>たりとも<ruby>漏<rt>も</rt></ruby>らさない」は<ruby>最小<rt>さいしょう</rt></ruby><ruby>単位<rt>たんい</rt></ruby>「<ruby>一滴<rt>いってき</rt></ruby>」を<ruby>用<rt>もち</rt></ruby>いた<ruby>代表<rt>だいひょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>強調<rt>きょうちょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。",
     "question_ruby": "<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>水<rt>みず</rt></ruby><ruby>資源<rt>しげん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>砂漠<rt>さばく</rt></ruby>の<ruby>緑化<rt>りょくか</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>では<ruby>水<rt>みず</rt></ruby>を<ruby>一滴<rt>いってき</rt></ruby>（　　　）<ruby>漏<rt>も</rt></ruby>らさない<ruby>循環<rt>じゅんかん</rt></ruby><ruby>設備<rt>せつび</rt></ruby>が<ruby>導入<rt>どうにゅう</rt></ruby>されている。",
     "sentence_jp_ruby": "<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>水<rt>みず</rt></ruby><ruby>資源<rt>しげん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>砂漠<rt>さばく</rt></ruby>の<ruby>緑化<rt>りょくか</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>では<ruby>水<rt>みず</rt></ruby>を<ruby>一滴<rt>いってき</rt></ruby>たりとも<ruby>漏<rt>も</rt></ruby>らさない<ruby>循環<rt>じゅんかん</rt></ruby><ruby>設備<rt>せつび</rt></ruby>が<ruby>導入<rt>どうにゅう</rt></ruby>されている。",
     "choices_ruby": [

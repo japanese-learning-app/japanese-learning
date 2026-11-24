@@ -3245,7 +3245,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with くせに)",
         "reason_ja": "<ruby>文脈<rt>ぶんみゃく</rt></ruby>と<ruby>接続<rt>せつぞく</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>呼応<rt>こおう</rt></ruby>した<ruby>正<rt>ただ</rt></ruby>しい<ruby>用例<rt>ようれい</rt></ruby>",
         "reason_en": "Natural intermediate usage and collocation for くせに",
-        "sentence": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何<rt>なん</rt></ruby><ruby>一つ<rt>ひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかったくせに、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。"
+        "sentence": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何一つ<rt>なにひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかったくせに、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。"
       },
       {
         "type": "correct",
@@ -4309,7 +4309,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「<ruby>理由<rt>りゆう</rt></ruby>は」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>が<ruby>高騰<rt>こうとう</rt></ruby>している。その<strong><ruby>理由<rt>りゆう</rt></ruby>は</strong>、<ruby>長雨<rt>ながあめ</rt></ruby>と<ruby>日<rt>ひ</rt></ruby><ruby>照<rt>あきら</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いたためだ。"
+        "example": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>が<ruby>高騰<rt>こうとう</rt></ruby>している。その<strong><ruby>理由<rt>りゆう</rt></ruby>は</strong>、<ruby>長雨<rt>ながあめ</rt></ruby>と<ruby>日照<rt>にっしょう</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いたためだ。"
       },
       {
         "form": "〜というのは",
@@ -5215,7 +5215,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "「に<ruby>関<rt>かん</rt></ruby>して」も<ruby>似<rt>に</rt></ruby>た<ruby>意味<rt>いみ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>しますが、<ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby>・ニュアンス・<ruby>話<rt>はな</rt></ruby>し<ruby>手<rt>て</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みが<ruby>異<rt>こと</rt></ruby>なります。",
         "nuance_en": "Similar in broad meaning, but differs in nuance, formality, and emotional coloring.",
-        "example": "<ruby>新入<rt>しんにゅう</rt></ruby><ruby>社員<rt>しゃいん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby><ruby>程<rt>ほど</rt></ruby><strong>に<ruby>関<rt>かん</rt></ruby>して</strong>、<ruby>人事<rt>じんじ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からメールで<ruby>案内<rt>あんない</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いた。"
+        "example": "<ruby>新入<rt>しんにゅう</rt></ruby><ruby>社員<rt>しゃいん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby><strong>に<ruby>関<rt>かん</rt></ruby>して</strong>、<ruby>人事<rt>じんじ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からメールで<ruby>案内<rt>あんない</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いた。"
       },
       {
         "form": "〜をテーマに",
@@ -9388,7 +9388,7 @@ window.JLPT_N3_GRAMMAR_DETAILS = {
       {
         "type": "wrong",
         "label": "誤用 (Incorrect)",
-        "reason_ja": "「ついに」は<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>や<ruby>苦労<rt>くろう</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>に<ruby>最終<rt>さいしゅう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ったときに<ruby>使<rt>つか</rt></ruby>う<ruby>副詞<rt>ふくし</rt></ruby>なので、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby><ruby>課<rt>か</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
+        "reason_ja": "「ついに」は<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>や<ruby>苦労<rt>くろう</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>に<ruby>最終<rt>さいしゅう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ったときに<ruby>使<rt>つか</rt></ruby>う<ruby>副詞<rt>ふくし</rt></ruby>なので、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>の<ruby>日課<rt>にっか</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "ついに is used when a final outcome is reached after a long process or effort, not for routine daily habits like washing one's face.",
         "sentence": "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>七時<rt>しちじ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きて、ついに<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>って<ruby>朝ご飯<rt>あさごはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた。"
       },

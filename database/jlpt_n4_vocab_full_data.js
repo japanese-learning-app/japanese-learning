@@ -5336,7 +5336,7 @@ window.JLPT_N4_VOCAB_DATA = [
     "reading": "ほし",
     "ruby": "<ruby>星<rt>ほし</rt></ruby>",
     "meaning": "star",
-    "ex_ja": "<ruby>山<rt>やま</rt></ruby>のキャンプ<ruby>場<rt>じょう</rt></ruby>で<ruby>夜<rt>よる</rt></ruby><ruby>空<rt>ぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げたら、<ruby>星<rt>ほし</rt></ruby>がたくさん<ruby>輝<rt>かがや</rt></ruby>いていました。",
+    "ex_ja": "<ruby>山<rt>やま</rt></ruby>のキャンプ<ruby>場<rt>じょう</rt></ruby>で<ruby>夜空<rt>よぞら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げたら、<ruby>星<rt>ほし</rt></ruby>がたくさん<ruby>輝<rt>かがや</rt></ruby>いていました。",
     "ex_en": "When I looked up at the night sky at the mountain campground, many stars were shining."
   },
   {

@@ -1737,7 +1737,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "うわさ",
     "ruby": "<ruby>噂<rt>うわさ</rt></ruby>",
     "meaning": "rumour; report; gossip; common talk",
-    "ex_ja": "<ruby>同僚<rt>どうりょう</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いた<ruby>噂<rt>うわさ</rt></ruby>によると、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開<rt>ひら</rt></ruby><ruby>店<rt>てん</rt></ruby>するそうだ。",
+    "ex_ja": "<ruby>同僚<rt>どうりょう</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いた<ruby>噂<rt>うわさ</rt></ruby>によると、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいパン<ruby>屋<rt>や</rt></ruby>が<ruby>開店<rt>かいてん</rt></ruby>するそうだ。",
     "ex_en": "According to a rumor I heard from a colleague, a new bakery will reportedly open in front of the station next month."
   },
   {
@@ -6697,7 +6697,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "こうりょ",
     "ruby": "<ruby>考慮<rt>こうりょ</rt></ruby>",
     "meaning": "consideration; taking into account",
-    "ex_ja": "イベントの<ruby>日<rt>ひ</rt></ruby><ruby>程<rt>ほど</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるときは、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>都合<rt>つごう</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>考慮<rt>こうりょ</rt></ruby>して<ruby>選<rt>えら</rt></ruby>ぶようにしている。",
+    "ex_ja": "イベントの<ruby>日程<rt>にってい</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるときは、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>都合<rt>つごう</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>考慮<rt>こうりょ</rt></ruby>して<ruby>選<rt>えら</rt></ruby>ぶようにしている。",
     "ex_en": "When deciding the schedule for an event, we make sure to fully take the participants' convenience into account."
   },
   {
@@ -19849,7 +19849,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "もよう",
     "ruby": "<ruby>模様<rt>もよう</rt></ruby>",
     "meaning": "pattern; figure; design",
-    "ex_ja": "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>白<rt>しろ</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>青<rt>あお</rt></ruby>い<ruby>水玉<rt>みずたま</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った、<ruby>涼<rt>すず</rt></ruby>しげなワンピースを<ruby>着<rt>き</rt></ruby>ている。",
+    "ex_ja": "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>白地<rt>しろじ</rt></ruby>に<ruby>青<rt>あお</rt></ruby>い<ruby>水玉<rt>みずたま</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った、<ruby>涼<rt>すず</rt></ruby>しげなワンピースを<ruby>着<rt>き</rt></ruby>ている。",
     "ex_en": "My younger sister is wearing a cool-looking dress with a blue polka-dot pattern on a white background."
   },
   {

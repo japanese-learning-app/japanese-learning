@@ -7994,7 +7994,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かび",
     "ruby": "かび",
     "meaning": "mold, mildew",
-    "ex_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はお<ruby>風呂<rt>ふろ</rt></ruby><ruby>場<rt>じょう</rt></ruby>に<ruby>湿気<rt>しっけ</rt></ruby>がこもってかびが<ruby>生<rt>は</rt></ruby>えやすいので、<ruby>換気扇<rt>かんきせん</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>回<rt>まわ</rt></ruby>している。",
+    "ex_ja": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>はお<ruby>風呂<rt>ふろ</rt></ruby><ruby>場<rt>じょう</rt></ruby>に<ruby>湿気<rt>しっけ</rt></ruby>がこもってかびが<ruby>生<rt>は</rt></ruby>えやすいので、<ruby>換気扇<rt>かんきせん</rt></ruby>を<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>回<rt>まわ</rt></ruby>している。",
     "ex_en": "During the rainy season, moisture builds up in the bathroom and mold grows easily, so I keep the ventilation fan running all day."
   },
   {
@@ -9178,7 +9178,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おる",
     "ruby": "<ruby>折<rt>お</rt></ruby>る",
     "meaning": "to break or to fold",
-    "ex_ja": "<ruby>登山<rt>とざん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>らせて<ruby>腕<rt>うで</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>を<ruby>折<rt>お</rt></ruby>る<ruby>大<rt>だい</rt></ruby><ruby>怪我<rt>けが</rt></ruby>を<ruby>負<rt>お</rt></ruby>ってしまい、<ruby>完治<rt>かんじ</rt></ruby>するまで<ruby>数<rt>すう</rt></ruby>か<ruby>月<rt>げつ</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>を<ruby>要<rt>よう</rt></ruby>した。",
+    "ex_ja": "<ruby>登山<rt>とざん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>らせて<ruby>腕<rt>うで</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>を<ruby>折<rt>お</rt></ruby>る<ruby>大<rt>だい</rt></ruby><ruby>怪我<rt>けが</rt></ruby>を<ruby>負<rt>お</rt></ruby>ってしまい、<ruby>完治<rt>かんじ</rt></ruby>するまで<ruby>数<rt>すう</rt></ruby>か<ruby>月間<rt>げっかん</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>を<ruby>要<rt>よう</rt></ruby>した。",
     "ex_en": "I slipped while mountain climbing and suffered a major injury breaking a bone in my arm, requiring several months of medical treatment until full recovery."
   },
   {
@@ -9754,7 +9754,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "すわる",
     "ruby": "<ruby>座<rt>すわ</rt></ruby>る",
     "meaning": "to sit",
-    "ex_ja": "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>デスクワークで<ruby>座<rt>すわ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けると<ruby>体<rt>からだ</rt></ruby>に<ruby>負担<rt>ふたん</rt></ruby>がかかるため、<ruby>定期<rt>ていき</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>立ち上<rt>たちあ</rt></ruby>がって<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすよう<ruby>心<rt>こころ</rt></ruby>がけている。",
+    "ex_ja": "<ruby>一日中<rt>いちにちじゅう</rt></ruby>デスクワークで<ruby>座<rt>すわ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けると<ruby>体<rt>からだ</rt></ruby>に<ruby>負担<rt>ふたん</rt></ruby>がかかるため、<ruby>定期<rt>ていき</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>立ち上<rt>たちあ</rt></ruby>がって<ruby>体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすよう<ruby>心<rt>こころ</rt></ruby>がけている。",
     "ex_en": "Since sitting all day doing desk work takes a toll on the body, I make a conscious effort to periodically stand up and move around."
   },
   {
@@ -12058,7 +12058,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かわいらしい",
     "ruby": "かわいらしい",
     "meaning": "lovely, sweet",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>とかわいらしい<ruby>人形<rt>にんぎょう</rt></ruby>だ！",
+    "ex_ja": "<ruby>何<rt>なん</rt></ruby>とかわいらしい<ruby>人形<rt>にんぎょう</rt></ruby>だ！",
     "ex_en": "What a lovely doll!"
   },
   {
@@ -12666,7 +12666,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ざんねんな",
     "ruby": "<ruby>残念<rt>ざんねん</rt></ruby>な",
     "meaning": "disappointment",
-    "ex_ja": "<ruby>選手<rt>せんしゅ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くして<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>戦<rt>そよ</rt></ruby>い<ruby>抜<rt>ぬ</rt></ruby>いたものの、<ruby>延長<rt>えんちょう</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>にわずか<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>及<rt>およ</rt></ruby>ばず<ruby>残念<rt>ざんねん</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>となった。",
+    "ex_ja": "<ruby>選手<rt>せんしゅ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>全力<rt>ぜんりょく</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くして<ruby>最後<rt>さいご</rt></ruby>まで<ruby>粘り強<rt>ねばりづよ</rt></ruby>く<ruby>戦<rt>たたか</rt></ruby>い<ruby>抜<rt>ぬ</rt></ruby>いたものの、<ruby>延長<rt>えんちょう</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>末<rt>すえ</rt></ruby>にわずか<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>及<rt>およ</rt></ruby>ばず<ruby>残念<rt>ざんねん</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>となった。",
     "ex_en": "Although every player gave their utmost and fought tenaciously to the end, falling just short after extra time was a disappointing result."
   },
   {
@@ -15674,7 +15674,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "けん",
     "ruby": "<ruby>券<rt>けん</rt></ruby>",
     "meaning": "ticket, coupon, bond",
-    "ex_ja": "<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>福引<rt>ふくび</rt></ruby>きで、<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるペアの<ruby>映画<rt>えいが</rt></ruby><ruby>鑑賞<rt>かんしょう</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たって<ruby>大<rt>だい</rt></ruby><ruby>喜<rt>よろこ</rt></ruby>びした。",
+    "ex_ja": "<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>福引<rt>ふくび</rt></ruby>きで、<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えるペアの<ruby>映画<rt>えいが</rt></ruby><ruby>鑑賞<rt>かんしょう</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たって<ruby>大喜<rt>おおよろこ</rt></ruby>びした。",
     "ex_en": "In the shopping street raffle, I was thrilled to win a pair of movie tickets usable at the theater in front of the station."
   },
   {
@@ -18954,7 +18954,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "くつう",
     "ruby": "<ruby>苦痛<rt>くつう</rt></ruby>",
     "meaning": "pain, agony",
-    "ex_ja": "サイズが<ruby>合<rt>あ</rt></ruby>わない<ruby>窮屈<rt>きゅうくつ</rt></ruby>な<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いて<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いたせいで、<ruby>足<rt>あし</rt></ruby>の<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>んで<ruby>歩<rt>ある</rt></ruby>くのも<ruby>苦痛<rt>くつう</rt></ruby>だった。",
+    "ex_ja": "サイズが<ruby>合<rt>あ</rt></ruby>わない<ruby>窮屈<rt>きゅうくつ</rt></ruby>な<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いて<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いたせいで、<ruby>足<rt>あし</rt></ruby>の<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>んで<ruby>歩<rt>ある</rt></ruby>くのも<ruby>苦痛<rt>くつう</rt></ruby>だった。",
     "ex_en": "Because I walked all day wearing tight shoes that didn't fit, my toes hurt so much that even walking was painful."
   },
   {
@@ -24378,7 +24378,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "だんさ",
     "ruby": "<ruby>段差<rt>だんさ</rt></ruby>",
     "meaning": "step, bump, level difference",
-    "ex_ja": "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>車椅子<rt>くるまいす</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かつスムーズに<ruby>移動<rt>いどう</rt></ruby>できるよう、<ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>の<ruby>歩道<rt>ほどう</rt></ruby>と<ruby>車道<rt>しゃどう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にあった<ruby>段差<rt>だんさ</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>するスロープ<ruby>工事<rt>こうじ</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。",
+    "ex_ja": "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>車椅子<rt>くるまいす</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かつスムーズに<ruby>移動<rt>いどう</rt></ruby>できるよう、<ruby>駅前<rt>えきまえ</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>の<ruby>歩道<rt>ほどう</rt></ruby>と<ruby>車道<rt>しゃどう</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にあった<ruby>段差<rt>だんさ</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>するスロープ<ruby>工事<rt>こうじ</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。",
     "ex_en": "To enable elderly wheelchair users to move safely and smoothly, slope construction was carried out to eliminate the step between the sidewalk and roadway in the station plaza."
   },
   {
@@ -30058,7 +30058,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "かぶしきがいしゃ",
     "ruby": "<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>",
     "meaning": "stock company, corporation, kabushiki kaisha",
-    "ex_ja": "<ruby>個人<rt>こじん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby><ruby>主<rt>ぬし</rt></ruby>として<ruby>創業<rt>そうぎょう</rt></ruby>してから１０<ruby>年<rt>ねん</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て、<ruby>事業<rt>じぎょう</rt></ruby><ruby>規模<rt>きぼ</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>へ<ruby>組織<rt>そしき</rt></ruby><ruby>変更<rt>へんこう</rt></ruby>した。",
+    "ex_ja": "<ruby>個人<rt>こじん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby><ruby>主<rt>しゅ</rt></ruby>として<ruby>創業<rt>そうぎょう</rt></ruby>してから１０<ruby>年<rt>ねん</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て、<ruby>事業<rt>じぎょう</rt></ruby><ruby>規模<rt>きぼ</rt></ruby>の<ruby>拡大<rt>かくだい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>へ<ruby>組織<rt>そしき</rt></ruby><ruby>変更<rt>へんこう</rt></ruby>した。",
     "ex_en": "Ten years after founding the business as a sole proprietor, we reorganized into a joint-stock corporation as operations expanded."
   },
   {
@@ -30951,7 +30951,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "color": "blue",
     "page": 44,
     "word": "最低限",
-    "reading": "さいてんげん",
+    "reading": "さいていげん",
     "ruby": "<ruby>最低限<rt>さいていげん</rt></ruby>",
     "meaning": "minimum, at the very least",
     "ex_ja": "<ruby>海外<rt>かいがい</rt></ruby><ruby>出張<rt>しゅっちょう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>現地<rt>げんち</rt></ruby>の<ruby>商<rt>しょう</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>やビジネスマナーに<ruby>関<rt>かん</rt></ruby>する<ruby>最低限<rt>さいていげん</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>を<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>い</rt></ruby>れておくべきだ。",
@@ -31066,7 +31066,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ここじん",
     "ruby": "<ruby>個々人<rt>ここじん</rt></ruby>",
     "meaning": "each individual, each person",
-    "ex_ja": "<ruby>組織<rt>そしき</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するためには、<ruby>所属<rt>しょぞく</rt></ruby>する<ruby>個々<rt>ここ</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たすことが<ruby>不可欠<rt>ふかけつ</rt></ruby>だ。",
+    "ex_ja": "<ruby>組織<rt>そしき</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するためには、<ruby>所属<rt>しょぞく</rt></ruby>する<ruby>個々人<rt>ここじん</rt></ruby>が<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>自分<rt>じぶん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たすことが<ruby>不可欠<rt>ふかけつ</rt></ruby>だ。",
     "ex_en": "To achieve the goals of the organization as a whole, it is essential that each individual member takes responsibility and fulfills their role."
   },
   {
@@ -36458,7 +36458,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "のべる",
     "ruby": "<ruby>述<rt>の</rt></ruby>べる",
     "meaning": "to state, to express, to mention",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>二言<rt>にごん</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>言<rt>こと</rt></ruby><ruby>述<rt>の</rt></ruby>べると<ruby>行<rt>おこな</rt></ruby>ってしまった。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>二言<rt>にごん</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>言<rt>こと</rt></ruby><ruby>述<rt>の</rt></ruby>べると<ruby>行<rt>い</rt></ruby>ってしまった。",
     "ex_en": "He said two or three words and left."
   },
   {
@@ -43962,7 +43962,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぐったり",
     "ruby": "ぐったり",
     "meaning": "wearily",
-    "ex_ja": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>炎天下<rt>えんてんか</rt></ruby>で<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>引っ越<rt>ひっこ</rt></ruby>しの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>び、<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったときには<ruby>全身<rt>ぜんしん</rt></ruby>がぐったりと<ruby>疲<rt>つか</rt></ruby>れていた。",
+    "ex_ja": "<ruby>真夏<rt>まなつ</rt></ruby>の<ruby>炎天下<rt>えんてんか</rt></ruby>で<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>引っ越<rt>ひっこ</rt></ruby>しの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>び、<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったときには<ruby>全身<rt>ぜんしん</rt></ruby>がぐったりと<ruby>疲<rt>つか</rt></ruby>れていた。",
     "ex_en": "After carrying moving boxes all day under the blazing midsummer sun, my whole body was completely exhausted when the work was done."
   },
   {
@@ -54234,7 +54234,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "てにつく",
     "ruby": "<ruby>手に付<rt>てにつ</rt></ruby>く",
     "meaning": "to be able to concentrate on",
-    "ex_ja": "<ruby>大好<rt>だいす</rt></ruby>きな<ruby>歌手<rt>かしゅ</rt></ruby>のコンサートチケットの<ruby>当落<rt>とうらく</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>が<ruby>迫<rt>せま</rt></ruby>り、<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ソワソワして<ruby>仕事<rt>しごと</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>手<rt>て</rt></ruby>に<ruby>付<rt>つ</rt></ruby>かなかった。",
+    "ex_ja": "<ruby>大好<rt>だいす</rt></ruby>きな<ruby>歌手<rt>かしゅ</rt></ruby>のコンサートチケットの<ruby>当落<rt>とうらく</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>が<ruby>迫<rt>せま</rt></ruby>り、<ruby>一日中<rt>いちにちじゅう</rt></ruby>ソワソワして<ruby>仕事<rt>しごと</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>手<rt>て</rt></ruby>に<ruby>付<rt>つ</rt></ruby>かなかった。",
     "ex_en": "With the ticket lottery results for my favorite singer's concert approaching, I was fidgety all day and couldn't concentrate on my work at all."
   },
   {

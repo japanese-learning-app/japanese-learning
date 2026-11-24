@@ -6379,8 +6379,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "くせに",
     "notes": "<ruby>前件<rt>ぜんけん</rt></ruby>と<ruby>後件<rt>こうけん</rt></ruby>の<ruby>矛盾<rt>むじゅん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>不満<rt>ふまん</rt></ruby>・<ruby>非難<rt>ひなん</rt></ruby>・<ruby>軽蔑<rt>けいべつ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めて<ruby>使<rt>つか</rt></ruby>います。",
-    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何<rt>なん</rt></ruby><ruby>一つ<rt>ひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかった（　　　）、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。",
-    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何<rt>なん</rt></ruby><ruby>一つ<rt>ひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかったくせに、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。",
+    "question_ruby": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何一つ<rt>なにひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかった（　　　）、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。",
+    "sentence_jp_ruby": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>何一つ<rt>なにひとつ</rt></ruby><ruby>手伝<rt>てつだ</rt></ruby>わなかったくせに、<ruby>後<rt>あと</rt></ruby>から<ruby>文句<rt>もんく</rt></ruby>ばかり<ruby>言<rt>い</rt></ruby>うのは<ruby>良<rt>よ</rt></ruby>くない。",
     "choices_ruby": [
       "わりに",
       "せいで",
@@ -21499,7 +21499,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "ず",
     "notes": "<ruby>動詞<rt>どうし</rt></ruby>ない<ruby>形<rt>けい</rt></ruby>＋ずにはいられないで、<ruby>感情<rt>かんじょう</rt></ruby>や<ruby>衝動<rt>しょうどう</rt></ruby>が<ruby>内面<rt>ないめん</rt></ruby>から<ruby>自然<rt>しぜん</rt></ruby>と<ruby>湧<rt>わ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>がり<ruby>抑<rt>おさ</rt></ruby>えきれないことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "あの<ruby>感動<rt>かんどう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>のラストシーンを<ruby>見<rt>み</rt></ruby>て、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>ながれ</rt></ruby>さ（　　　）にはいられなかった。",
+    "question_ruby": "あの<ruby>感動<rt>かんどう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>のラストシーンを<ruby>見<rt>み</rt></ruby>て、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さ（　　　）にはいられなかった。",
     "sentence_jp_ruby": "あの<ruby>感動<rt>かんどう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>のラストシーンを<ruby>見<rt>み</rt></ruby>て、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>さずにはいられなかった。",
     "choices_ruby": [
       "ざる",
