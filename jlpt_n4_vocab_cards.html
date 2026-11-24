@@ -1559,27 +1559,58 @@
       }
 
       // Google TTS API 呼び出し (最大200文字前後に制限されるため、長文はWeb Speech APIと自動ハイブリッド)
-      if (clean.length <= 200) {
-        try {
-          const encoded = encodeURIComponent(clean);
-          const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=${lang}&client=tw-ob&q=${encoded}`;
-          const audio = new Audio(url);
-          globalGoogleAudioInstance = audio;
-
-          const p = audio.play();
-          if (p !== undefined) {
-            p.catch(err => {
-              console.warn('Google TTS audio playback blocked or offline, falling back:', err);
-              fallbackSpeechSynthesis(clean, lang);
-            });
+      // 160文字以内のチャンクに分割して100% Google TTSで連続再生（長文でも機械音声へ落とさない）
+      const _chunks = [];
+      const _parts = clean.split(/(?<=[。！？!?\n])/);
+      let _buf = '';
+      for (const _p of _parts) {
+        const _s = _p.trim();
+        if (!_s) continue;
+        if ((_buf + ' ' + _s).length <= 160) {
+          _buf = _buf ? (_buf + ' ' + _s) : _s;
+        } else {
+          if (_buf) _chunks.push(_buf);
+          if (_s.length <= 160) {
+            _buf = _s;
+          } else {
+            for (let _i = 0; _i < _s.length; _i += 150) {
+              _chunks.push(_s.slice(_i, _i + 150));
+            }
+            _buf = '';
           }
-          return;
-        } catch (e) {
-          console.warn('Google TTS instantiation error:', e);
         }
       }
+      if (_buf) _chunks.push(_buf);
+      if (_chunks.length === 0) _chunks.push(clean.slice(0, 160));
 
-      fallbackSpeechSynthesis(clean, lang);
+      let _didFallback = false;
+      function _playNextChunk() {
+        if (_chunks.length === 0) return;
+        const _chunk = _chunks.shift();
+        try {
+          const _url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=${lang}&client=tw-ob&q=${encodeURIComponent(_chunk)}`;
+          const _audio = new Audio(_url);
+          globalGoogleAudioInstance = _audio;
+          _audio.onended = () => { _playNextChunk(); };
+          const _fallback = () => {
+            if (_didFallback) return;
+            _didFallback = true;
+            fallbackSpeechSynthesis(clean, lang);
+          };
+          _audio.onerror = _fallback;
+          const _pr = _audio.play();
+          if (_pr !== undefined) {
+            _pr.catch(_fallback);
+          }
+        } catch (_e) {
+          if (!_didFallback) {
+            _didFallback = true;
+            fallbackSpeechSynthesis(clean, lang);
+          }
+        }
+      }
+      _playNextChunk();
+      return;
     }
 
     function fallbackSpeechSynthesis(txt, lang = 'ja') {

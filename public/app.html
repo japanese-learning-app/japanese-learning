@@ -3,7 +3,7 @@
 <head>
   <meta name="referrer" content="no-referrer">
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
 <title>Japanese Learning App</title>
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -2738,6 +2738,545 @@ rt {
     }
   }
 
+
+
+/* ==========================================================================
+   📱 COMPREHENSIVE MOBILE-FIRST RESPONSIVE ENGINE (STUDENT & TEACHER UX)
+   Targeting: iPhone, Android, iPad & Small Touch Devices (<= 768px, <= 480px)
+   ========================================================================== */
+@media (max-width: 768px) {
+  /* 1. Global Reset & Strict Overflow Containment */
+  *, *::before, *::after {
+    box-sizing: border-box !important;
+  }
+  html, body {
+    overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* 2. Top Header (Mobile App Bar) */
+  header {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 950 !important;
+    box-shadow: 0 2px 14px rgba(14, 70, 95, 0.18) !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    background: linear-gradient(135deg, #1486AD 0%, #0D6380 100%) !important;
+  }
+
+  .top-status-bar {
+    padding: 8px 10px !important;
+    border-bottom: 1px solid rgba(255,255,255,0.15) !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .top-status-inner {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: nowrap !important;
+    gap: 6px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .top-left-actions {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    flex-shrink: 0 !important;
+  }
+
+  .menu-toggle-btn {
+    padding: 6px 10px !important;
+    font-size: 0.8rem !important;
+    border-radius: 10px !important;
+    white-space: nowrap !important;
+    gap: 5px !important;
+    background: rgba(255,255,255,0.22) !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* Hide secondary items from header on mobile */
+  .points-badge,
+  .header-streak,
+  .btn-header-fc,
+  .btn-header-mypage {
+    display: none !important;
+  }
+
+  .top-right-actions {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    flex-wrap: nowrap !important;
+    margin-left: auto !important;
+    flex-shrink: 0 !important;
+  }
+
+  .furigana-toggle-btn {
+    padding: 6px 9px !important;
+    font-size: 0.76rem !important;
+    border-radius: 12px !important;
+    white-space: nowrap !important;
+    gap: 4px !important;
+    flex-shrink: 0 !important;
+  }
+
+  .top-user-chip {
+    padding: 6px 9px !important;
+    font-size: 0.76rem !important;
+    border-radius: 12px !important;
+    white-space: nowrap !important;
+    gap: 4px !important;
+    flex-shrink: 0 !important;
+  }
+
+  /* 3. Hero Bar (Compact Mobile Hero) */
+  .hero-bar {
+    padding: 14px 12px 10px !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 10px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .hero-left {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .hero-title {
+    font-size: 1.25rem !important;
+    line-height: 1.25 !important;
+    letter-spacing: -0.2px !important;
+    word-break: break-word !important;
+  }
+
+  .hero-sub {
+    font-size: 0.76rem !important;
+    line-height: 1.35 !important;
+    margin-top: 3px !important;
+    opacity: 0.9 !important;
+    word-break: break-word !important;
+  }
+
+  .hero-stats {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 8px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .stat-card {
+    padding: 8px 8px !important;
+    min-width: 0 !important;
+    width: 100% !important;
+    border-radius: 12px !important;
+    background: rgba(255,255,255,0.18) !important;
+    box-sizing: border-box !important;
+  }
+
+  .stat-num {
+    font-size: 1.15rem !important;
+  }
+
+  .stat-label {
+    font-size: 0.68rem !important;
+  }
+
+  /* Progress Bar Strip */
+  .progress-strip {
+    padding: 6px 12px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .progress-inner {
+    gap: 8px !important;
+    flex-wrap: nowrap !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .progress-label {
+    font-size: 0.72rem !important;
+    white-space: nowrap !important;
+  }
+
+  .progress-track {
+    height: 5px !important;
+    flex: 1 !important;
+  }
+
+  .progress-pct {
+    font-size: 0.72rem !important;
+    white-space: nowrap !important;
+  }
+
+  /* 4. Main Container */
+  .container {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 14px 10px 60px !important;
+    gap: 12px !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 5. Quick Search Section */
+  .quick-search-section {
+    padding: 14px 12px !important;
+    border-radius: 16px !important;
+    gap: 10px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+  }
+
+  .quick-search-header {
+    gap: 8px !important;
+    width: 100% !important;
+  }
+
+  .quick-search-title-wrap {
+    gap: 10px !important;
+    width: 100% !important;
+  }
+
+  .quick-search-icon {
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 1.1rem !important;
+    border-radius: 10px !important;
+    flex-shrink: 0 !important;
+  }
+
+  .quick-search-title {
+    font-size: 0.95rem !important;
+    line-height: 1.3 !important;
+    word-break: break-word !important;
+  }
+
+  .quick-search-subtitle {
+    font-size: 0.74rem !important;
+    line-height: 1.35 !important;
+    word-break: break-word !important;
+  }
+
+  /* Suggested phrases carousel */
+  .quick-search-quick-tags {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    padding: 2px 0 4px !important;
+    gap: 6px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    scrollbar-width: none !important;
+  }
+  .quick-search-quick-tags::-webkit-scrollbar {
+    display: none !important;
+  }
+
+  .quick-tag-chip {
+    white-space: nowrap !important;
+    font-size: 0.74rem !important;
+    padding: 5px 9px !important;
+    flex-shrink: 0 !important;
+    border-radius: 8px !important;
+  }
+
+  /* Input & Button */
+  .quick-search-input-box {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .quick-search-input {
+    width: 100% !important;
+    padding: 11px 14px 11px 38px !important;
+    font-size: 0.9rem !important;
+    border-radius: 12px !important;
+    box-sizing: border-box !important;
+  }
+
+  .quick-search-input-icon {
+    left: 12px !important;
+    top: 14px !important;
+  }
+
+  .quick-search-btn {
+    width: 100% !important;
+    padding: 11px 16px !important;
+    font-size: 0.9rem !important;
+    border-radius: 12px !important;
+    text-align: center !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 6. Portal Grid & Cards (Single-column Mobile Touch Layout) */
+  .portal-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .portal-card {
+    padding: 15px 14px !important;
+    border-radius: 16px !important;
+    gap: 10px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .card-top {
+    gap: 8px !important;
+    align-items: center !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    justify-content: space-between !important;
+    box-sizing: border-box !important;
+  }
+
+  .card-icon-box {
+    width: 38px !important;
+    height: 38px !important;
+    border-radius: 10px !important;
+    flex-shrink: 0 !important;
+  }
+  .card-icon-box svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .card-badge {
+    font-size: 0.68rem !important;
+    padding: 3px 8px !important;
+    border-radius: 8px !important;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+  }
+
+  .card-title {
+    font-size: 1.15rem !important;
+    margin-top: 2px !important;
+  }
+
+  .card-desc {
+    font-size: 0.8rem !important;
+    line-height: 1.5 !important;
+    margin-top: 4px !important;
+    word-break: break-word !important;
+  }
+
+  .card-tags {
+    gap: 4px !important;
+    margin-top: 6px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .card-tag {
+    font-size: 0.7rem !important;
+    padding: 3px 7px !important;
+    border-radius: 6px !important;
+  }
+
+  .card-action-row {
+    font-size: 0.82rem !important;
+    padding-top: 10px !important;
+    border-top: 1px solid var(--border-soft) !important;
+    margin-top: 2px !important;
+  }
+
+  /* 7. Modal Bottom-Sheet & Full-Screen Mobile Polish */
+  .app-modal-overlay {
+    padding: 0 !important;
+    align-items: flex-end !important;
+    background: rgba(10, 25, 40, 0.65) !important;
+  }
+
+  .app-modal-box {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 94vh !important;
+    max-height: 94vh !important;
+    border-radius: 20px 20px 0 0 !important;
+    margin: 0 !important;
+    background: #FFFFFF !important;
+  }
+
+  .app-modal-header {
+    padding: 12px 14px !important;
+    position: relative !important;
+    flex-shrink: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 8px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .app-modal-header::before {
+    content: '' !important;
+    position: absolute !important;
+    top: 5px !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    width: 36px !important;
+    height: 4px !important;
+    background: rgba(255, 255, 255, 0.45) !important;
+    border-radius: 2px !important;
+  }
+
+  .app-modal-title {
+    font-size: 0.98rem !important;
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    line-height: 1.3 !important;
+    word-break: break-word !important;
+  }
+
+  .app-modal-close {
+    flex: 0 0 36px !important;
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 1.2rem !important;
+    border-radius: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .app-modal-body {
+    padding: 14px 12px !important;
+    gap: 14px !important;
+    -webkit-overflow-scrolling: touch !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Curriculum & Stage List */
+  .stage-tree-grid {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+    width: 100% !important;
+  }
+
+  .stage-accordion-header {
+    padding: 10px 12px !important;
+    gap: 8px !important;
+  }
+  .stage-header-title {
+    font-size: 0.95rem !important;
+  }
+  .stage-header-grammar {
+    font-size: 0.75rem !important;
+  }
+  .stage-accordion-right {
+    gap: 4px !important;
+  }
+  .stage-info-badge, .stage-count-badge {
+    font-size: 0.7rem !important;
+    padding: 2px 6px !important;
+  }
+
+  .stage-lesson-card {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 8px !important;
+    padding: 10px 12px !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+  }
+  .stage-lesson-info {
+    width: 100% !important;
+  }
+  .stage-lesson-name {
+    font-size: 0.88rem !important;
+    line-height: 1.35 !important;
+  }
+  .stage-lesson-topic {
+    font-size: 0.76rem !important;
+    line-height: 1.4 !important;
+  }
+  .stage-lesson-action {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    width: 100% !important;
+  }
+  .stage-open-btn {
+    flex: 1 !important;
+    justify-content: center !important;
+    padding: 8px 12px !important;
+    text-align: center !important;
+    font-size: 0.82rem !important;
+  }
+
+  /* Kanji Tabs & Writing Box */
+  .kanji-main-tabs {
+    gap: 6px !important;
+    padding-bottom: 4px !important;
+  }
+  .kanji-main-tab-btn {
+    padding: 7px 12px !important;
+    font-size: 0.82rem !important;
+  }
+  .kanji-step-grid {
+    max-width: 100% !important;
+    gap: 6px !important;
+  }
+  .kanji-step-cell {
+    width: 38px !important;
+    height: 38px !important;
+  }
+
+  /* Lesson Viewer Modal */
+  .lesson-viewer-box {
+    width: 100vw !important;
+    max-width: 100vw !important;
+    height: 100vh !important;
+    max-height: 100vh !important;
+    border-radius: 0 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .furigana-btn-text {
+    display: none !important;
+  }
+  .hero-title {
+    font-size: 1.18rem !important;
+  }
+  .portal-card {
+    padding: 14px 12px !important;
+  }
+}
+
 </style>
 </head>
 <body>
@@ -2905,7 +3444,7 @@ rt {
         </div>
       </div>
 
-      <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+      <div class="top-right-actions">
         <button type="button" class="furigana-toggle-btn active" onclick="toggleFurigana()" title="ふりがな（ルビ）の表示・非表示を切り替えます">
           <span class="furigana-status-dot"></span>
           <span>🔤</span>
@@ -2916,11 +3455,11 @@ rt {
           <span>マイリスト</span>
           <span id="header-saved-count" style="background:#F59E0B; color:white; font-size:0.72rem; padding:1px 6px; border-radius:10px; font-weight:800;">0</span>
         </button>
-        <a href="index.html" class="top-user-chip" style="display:inline-flex; align-items:center; gap:6px; background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; font-weight:700; text-decoration:none; cursor:pointer;" title="単語帳フラッシュカード特訓を開く">
+        <a href="index.html" class="top-user-chip btn-header-fc" style="display:inline-flex; align-items:center; gap:6px; background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; font-weight:700; text-decoration:none; cursor:pointer;" title="単語帳フラッシュカード特訓を開く">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
           <span>フラッシュカード</span>
         </a>
-        <div class="streak-badge">
+        <div class="streak-badge header-streak">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>
           7日連続
         </div>
@@ -2928,7 +3467,7 @@ rt {
           <span>🔑</span>
           <span>ログイン</span>
         </button>
-        <a href="mypage.html" class="top-user-chip" id="top-user-chip">
+        <a href="mypage.html" class="top-user-chip btn-header-mypage" id="top-user-chip">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
           <span id="header-user-name">マイページ</span>
         </a>
@@ -4378,27 +4917,58 @@ rt {
     }
 
     // Google TTS API 呼び出し (最大200文字前後に制限されるため、長文はWeb Speech APIと自動ハイブリッド)
-    if (clean.length <= 200) {
-      try {
-        const encoded = encodeURIComponent(clean);
-        const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encoded}`;
-        const audio = new Audio(url);
-        globalGoogleAudioInstance = audio;
-
-        const p = audio.play();
-        if (p !== undefined) {
-          p.catch(err => {
-            console.warn('Google TTS audio playback blocked or offline, falling back:', err);
-            fallbackSpeechSynthesis(clean);
-          });
+    // 160文字以内のチャンクに分割して100% Google TTSで連続再生（長文でも機械音声へ落とさない）
+      const _chunks = [];
+      const _parts = clean.split(/(?<=[。！？!?\n])/);
+      let _buf = '';
+      for (const _p of _parts) {
+        const _s = _p.trim();
+        if (!_s) continue;
+        if ((_buf + ' ' + _s).length <= 160) {
+          _buf = _buf ? (_buf + ' ' + _s) : _s;
+        } else {
+          if (_buf) _chunks.push(_buf);
+          if (_s.length <= 160) {
+            _buf = _s;
+          } else {
+            for (let _i = 0; _i < _s.length; _i += 150) {
+              _chunks.push(_s.slice(_i, _i + 150));
+            }
+            _buf = '';
+          }
         }
-        return;
-      } catch (e) {
-        console.warn('Google TTS instantiation error:', e);
       }
-    }
+      if (_buf) _chunks.push(_buf);
+      if (_chunks.length === 0) _chunks.push(clean.slice(0, 160));
 
-    fallbackSpeechSynthesis(clean);
+      let _didFallback = false;
+      function _playNextChunk() {
+        if (_chunks.length === 0) return;
+        const _chunk = _chunks.shift();
+        try {
+          const _url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=${'ja'}&client=tw-ob&q=${encodeURIComponent(_chunk)}`;
+          const _audio = new Audio(_url);
+          globalGoogleAudioInstance = _audio;
+          _audio.onended = () => { _playNextChunk(); };
+          const _fallback = () => {
+            if (_didFallback) return;
+            _didFallback = true;
+            fallbackSpeechSynthesis(clean);
+          };
+          _audio.onerror = _fallback;
+          const _pr = _audio.play();
+          if (_pr !== undefined) {
+            _pr.catch(_fallback);
+          }
+        } catch (_e) {
+          if (!_didFallback) {
+            _didFallback = true;
+            fallbackSpeechSynthesis(clean);
+          }
+        }
+      }
+      _playNextChunk();
+      return;
   }
 
   function fallbackSpeechSynthesis(txt) {
@@ -6010,7 +6580,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
           ja: '（相手の喜びを共感し、さらに詳しいエピソードを尋ねる表現です）'
         };
       } else {
-        reply = `それは<ruby>素晴<rt>すばら</rt></ruby>らしいですね！よろしければどのようなことがあったのか、お聞かせいただけますでしょうか？`;
+        reply = `それは<ruby>素晴<rt>すば</rt></ruby>らしいですね！よろしければどのようなことがあったのか、お聞かせいただけますでしょうか？`;
         englishTrans = 'That sounds wonderful! If you do not mind, could you share what happened?';
       }
     }
@@ -6084,7 +6654,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         reply = `いいなあ！すごく<ruby>楽<rt>たの</rt></ruby>しそう！<ruby>美味<rt>おい</rt></ruby>しいものいっぱい<ruby>食<rt>た</rt></ruby>べた？`;
         englishTrans = 'Sounds awesome! Must have been so fun! Did you eat lots of delicious food?';
       } else {
-        reply = `ご<ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>かれたのですね。<ruby>大変<rt>たいへん</rt></ruby><ruby>素晴<rt>すばら</rt></ruby>らしいですね！`;
+        reply = `ご<ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>かれたのですね。<ruby>大変<rt>たいへん</rt></ruby><ruby>素晴<rt>すば</rt></ruby>らしいですね！`;
         englishTrans = 'You went on a trip! That is truly wonderful.';
       }
     }
@@ -6229,7 +6799,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 0: ひらがな・カタカナと日本語の基礎ルール",
-          topic: "五十音図 · 濁音/半濁音/拗音 · 長音/促音のルール · 基本語順と助詞",
+          topic: "五十音図 · 濁音/半濁音/拗音 · 長音/促音のルール · 基本語順と助詞 ｜ 📚 FC: #00・#01",
           file: "00_Pre-Stage/PreStage_BasicRules.html"
         }
       ]
@@ -6243,27 +6813,27 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 〜は〜です（基本文・所有・否定・疑問・も）",
-          topic: "〜は〜です / 〜の〜（私の・彼の） / 〜じゃありません / 〜ですか / 〜も / 総復習",
+          topic: "〜は〜です / 〜の〜（私の・彼の） / 〜じゃありません / 〜ですか / 〜も / 総復習 ｜ 📚 FC: #03・#06・#07",
           file: "01_Stage1/Stage1-Lesson1.html"
         },
         {
           name: "Lesson 2: これ／それ／あれ・〜の（指示詞・物の名前・所有）",
-          topic: "これ・それ・あれ / この・その・あの / 名詞＋の＋名詞",
+          topic: "これ・それ・あれ / この・その・あの / 名詞＋の＋名詞 ｜ 📚 FC: #02・#55",
           file: "01_Stage1/Stage1-Lesson2.html"
         },
         {
           name: "Lesson 3: ここ／そこ／あそこ（場所・建物・方向・値段）",
-          topic: "ここ・そこ・あそこ / こちら・そちら・あちら / いくらですか",
+          topic: "ここ・そこ・あそこ / こちら・そちら・あちら / いくらですか ｜ 📚 FC: #04・#10・#55",
           file: "01_Stage1/Stage1-Lesson3.html"
         },
         {
           name: "Lesson 4: 〜に〜があります／います（存在・所在・はとがの違い）",
-          topic: "人・動物「います」/ モノ・植物「あります」/ 上・下・前・後ろ",
+          topic: "人・動物「います」/ モノ・植物「あります」/ 上・下・前・後ろ ｜ 📚 FC: #05・#09・#56",
           file: "01_Stage1/Stage1-Lesson4.html"
         },
         {
           name: "🏆 Stage 1 実戦総復習テスト＆会話演習",
-          topic: "Lesson 1〜4の文法・単語・聞き取り総まとめ",
+          topic: "Lesson 1〜4の文法・単語・聞き取り総まとめ ｜ 📚 FC: #00〜#10・#55〜#56",
           file: "01_Stage1/Stage1-総復習.html",
           isReview: true
         }
@@ -6278,27 +6848,27 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 時間・毎日の生活（何時ですか / 〜ます・〜ました）",
-          topic: "時間・曜日 / 〜から〜まで / 動詞ます形・過去形（〜ました）",
+          topic: "時間・曜日 / 〜から〜まで / 動詞ます形・過去形（〜ました） ｜ 📚 FC: #11・#12・#14",
           file: "02_Stage2/Stage2-Lesson1.html"
         },
         {
           name: "Lesson 2: どこへ行きますか（移動動詞・交通手段・誰と）",
-          topic: "〜へ行きます・来ます・帰ります / 乗り物「で」/ 一緒に「と」",
+          topic: "〜へ行きます・来ます・帰ります / 乗り物「で」/ 一緒に「と」 ｜ 📚 FC: #15・#16・#17",
           file: "02_Stage2/Stage2-Lesson2.html"
         },
         {
           name: "Lesson 3: 昼ごはんを食べましょう（目的語・場所・誘い表現）",
-          topic: "〜を食べます・飲みます（を）/ 場所「で」/ 〜ませんか・〜ましょう",
+          topic: "〜を食べます・飲みます（を）/ 場所「で」/ 〜ませんか・〜ましょう ｜ 📚 FC: #18・#19・#20",
           file: "02_Stage2/Stage2-Lesson3.html"
         },
         {
           name: "Lesson 4: パンを一つください（助数詞・数量・買い物）",
-          topic: "ひとつ・ふたつ / 〜枚・〜本 / 期間・どのくらいかかりますか",
+          topic: "ひとつ・ふたつ / 〜枚・〜本 / 期間・どのくらいかかりますか ｜ 📚 FC: #13・#21",
           file: "02_Stage2/Stage2-Lesson4.html"
         },
         {
           name: "🏆 Stage 2 実戦総復習テスト＆会話演習",
-          topic: "Lesson 5〜8の文法・移動・日常行動の総まとめ",
+          topic: "Lesson 5〜8の文法・移動・日常行動の総まとめ ｜ 📚 FC: #11〜#21",
           file: "02_Stage2/Stage2-総復習.html",
           isReview: true
         }
@@ -6313,22 +6883,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 京都はどうでしたか（い形容詞・な形容詞の過去形）",
-          topic: "暑かったです / きれいでした / 〜はどうでしたか",
+          topic: "暑かったです / きれいでした / 〜はどうでしたか ｜ 📚 FC: #22・#23・#24",
           file: "03_Stage3/Stage3-Lesson1.html"
         },
         {
           name: "Lesson 2: スポーツの中で何が一番好きですか（比較と最上級）",
-          topic: "AはBより〜です / AとBとどちらが〜ですか / 〜の中で一番〜",
+          topic: "AはBより〜です / AとBとどちらが〜ですか / 〜の中で一番〜 ｜ 📚 FC: #25・#57",
           file: "03_Stage3/Stage3-Lesson2.html"
         },
         {
           name: "Lesson 3: 会議は何時間かかりますか（所要時間・頻度・期間）",
-          topic: "時間・日数の数え方 / 1週間に〜回 / どのくらいかかりますか",
+          topic: "時間・日数の数え方 / 1週間に〜回 / どのくらいかかりますか ｜ 📚 FC: #26・#35",
           file: "03_Stage3/Stage3-Lesson3.html"
         },
         {
           name: "Lesson 4: 広くて明るい部屋（形容詞の接続「〜くて・〜で」）",
-          topic: "安くて美味しい / 静かで便利な町 / 形容詞を繋げるルール",
+          topic: "安くて美味しい / 静かで便利な町 / 形容詞を繋げるルール ｜ 📚 FC: #27・#28・#29",
           file: "03_Stage3/Stage3-Lesson4.html"
         },
         {
@@ -6338,7 +6908,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 3 実戦総復習テスト＆会話演習",
-          topic: "形容詞活用・比較・希望・接続表現の総まとめ",
+          topic: "形容詞活用・比較・希望・接続表現の総まとめ ｜ 📚 FC: #22〜#29・#35",
           file: "03_Stage3/Stage3-総復習.html",
           isReview: true
         }
@@ -6353,22 +6923,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: ここに座ってください（動詞て形のグループ分類と依頼）",
-          topic: "1類・2類・3類のて形活用ルール / 〜てください",
+          topic: "1類・2類・3類のて形活用ルール / 〜てください ｜ 📚 FC: #30・#31・#32",
           file: "04_Stage4/Stage4-Lesson1.html"
         },
         {
           name: "Lesson 2: 今、何をしていますか（現在進行・状態「〜ています」）",
-          topic: "今〜ています（進行）/ 結婚しています・住んでいます（結果の状態）",
+          topic: "今〜ています（進行）/ 結婚しています・住んでいます（結果の状態） ｜ 📚 FC: #33・#52",
           file: "04_Stage4/Stage4-Lesson2.html"
         },
         {
           name: "Lesson 3: 写真を撮ってもいいですか（許可「〜てもいい」と禁止「〜てはいけない」）",
-          topic: "〜てもいいですか（許可）/ いいえ、〜てはいけません（ルール・禁止）",
+          topic: "〜てもいいですか（許可）/ いいえ、〜てはいけません（ルール・禁止） ｜ 📚 FC: #08・#36・#37〜#39",
           file: "04_Stage4/Stage4-Lesson3.html"
         },
         {
           name: "Lesson 4: 9時までに来なければなりません（ない形・義務・不要）",
-          topic: "ない形活用 / 〜なければなりません（義務）/ 〜なくてもいいです（不要）",
+          topic: "ない形活用 / 〜なければなりません（義務）/ 〜なくてもいいです（不要） ｜ 📚 FC: #34・#40〜#41・#53",
           file: "04_Stage4/Stage4-Lesson4.html"
         },
         {
@@ -6378,7 +6948,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 4 実戦総復習テスト＆会話演習",
-          topic: "て形・ない形・許可禁止・義務・授受の総まとめ",
+          topic: "て形・ない形・許可禁止・義務・授受の総まとめ ｜ 📚 FC: #30〜#41・#52〜#53",
           file: "04_Stage4/Stage4-総復習.html",
           isReview: true
         }
@@ -6393,22 +6963,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 日本語が話せますか（能力・可能表現「〜ことができます」）",
-          topic: "動詞辞書形＋ことができます / ピアノを弾くことができます",
+          topic: "動詞辞書形＋ことができます / ピアノを弾くことができます ｜ 📚 FC: #42〜#46",
           file: "05_Stage5/Stage5-Lesson1.html"
         },
         {
           name: "Lesson 2: 私の趣味はギターを弾くことです（名詞化「辞書形＋こと」・順序）",
-          topic: "趣味は〜ことです / 〜まえに（前に）/ 〜たあとで（後で）",
+          topic: "趣味は〜ことです / 〜まえに（前に）/ 〜たあとで（後で） ｜ 📚 FC: #34・#29・#47〜#48",
           file: "05_Stage5/Stage5-Lesson2.html"
         },
         {
           name: "Lesson 3: 明日はいい天気だと思います（普通体・意見「〜と思う」・伝聞）",
-          topic: "普通形（タメ口）の体系表 / 〜と思います / 〜と言いました",
+          topic: "普通形（タメ口）の体系表 / 〜と思います / 〜と言いました ｜ 📚 FC: #49〜#51",
           file: "05_Stage5/Stage5-Lesson3.html"
         },
         {
           name: "🏆 Stage 5 実戦総復習テスト＆会話演習",
-          topic: "可能・名詞化・普通形・意見表現の総まとめ",
+          topic: "可能・名詞化・普通形・意見表現の総まとめ ｜ 📚 FC: #42〜#51",
           file: "05_Stage5/Stage5-総復習.html",
           isReview: true
         }
@@ -6423,27 +6993,27 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 頭が痛いんです（理由・説明の「〜んです」）",
-          topic: "〜んですか / 〜んです（事情や理由を感情を込めて説明）",
+          topic: "〜んですか / 〜んです（事情や理由を感情を込めて説明） ｜ 📚 FC: #54・#55",
           file: "06_Stage6/Stage6-Lesson1.html"
         },
         {
           name: "Lesson 2: 本を読んだり、音楽を聞いたりします（代表例の列挙「〜たり〜たり」）",
-          topic: "〜たり〜たりします（週末したことや趣味の列挙）",
+          topic: "〜たり〜たりします（週末したことや趣味の列挙） ｜ 📚 FC: #56",
           file: "06_Stage6/Stage6-Lesson2.html"
         },
         {
           name: "Lesson 3: 暇なとき、何をしますか（時を表す「〜とき」・前後関係）",
-          topic: "辞書形＋とき / た形＋とき / ない形＋とき / い・な形容詞＋とき",
+          topic: "辞書形＋とき / た形＋とき / ない形＋とき / い・な形容詞＋とき ｜ 📚 FC: #57",
           file: "06_Stage6/Stage6-Lesson3.html"
         },
         {
           name: "Lesson 4: もし暇なら、何をしますか（仮定条件「〜たら・〜なら」）",
-          topic: "もし雨が降ったら / 安かったら / 日本へ行ったら",
+          topic: "もし雨が降ったら / 安かったら / 日本へ行ったら ｜ 📚 FC: #58",
           file: "06_Stage6/Stage6-Lesson4.html"
         },
         {
           name: "🏆 Stage 6 実戦総復習 ＆ 初級I総まとめテスト",
-          topic: "修飾節・んです・たり・とき・たら・Stage 1〜6全体総まとめ",
+          topic: "修飾節・んです・たり・とき・たら・Stage 1〜6全体総まとめ ｜ 📚 FC: #52〜#58",
           file: "06_Stage6/Stage6-総復習.html",
           isReview: true
         }
@@ -6458,22 +7028,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 手続きを教えていただけませんか（丁寧な依頼「〜ていただけませんか」）",
-          topic: "〜ていただけませんか / 〜たらいいですか（アドバイスを求める）",
+          topic: "〜ていただけませんか / 〜たらいいですか（アドバイスを求める） ｜ 📚 FC: #59",
           file: "07_Stage7/Stage7-Lesson1.html"
         },
         {
           name: "Lesson 2: 何でも作れるんですね（可能動詞への変化ルール）",
-          topic: "書ける・泳げる・食べられる・来られる・できる（「が」格変化）",
+          topic: "書ける・泳げる・食べられる・来られる・できる（「が」格変化） ｜ 📚 FC: #59・#60",
           file: "07_Stage7/Stage7-Lesson2.html"
         },
         {
           name: "Lesson 3: 出張も多いし、試験もあるし……（理由の並列「〜し、〜し」・ながら）",
-          topic: "〜し、〜し（複数の理由）/ 音楽を聞きながら勉強します（同時進行）",
+          topic: "〜し、〜し（複数の理由）/ 音楽を聞きながら勉強します（同時進行） ｜ 📚 FC: #60",
           file: "07_Stage7/Stage7-Lesson3.html"
         },
         {
           name: "Lesson 4: 忘れ物をしてしまったんです（後悔・完了「〜てしまいました」・自他動詞）",
-          topic: "ドアが開きます／開けます / 〜てしまいました（残念・後悔・完了）",
+          topic: "ドアが開きます／開けます / 〜てしまいました（残念・後悔・完了） ｜ 📚 FC: #61",
           file: "07_Stage7/Stage7-Lesson4.html"
         },
         {
@@ -6483,7 +7053,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 7 実戦総復習テスト＆会話演習",
-          topic: "依頼・可能動詞・自他動詞・てしまう・ておくの総まとめ",
+          topic: "依頼・可能動詞・自他動詞・てしまう・ておくの総まとめ ｜ 📚 FC: #59〜#61",
           file: "07_Stage7/Stage7-総復習.html",
           isReview: true
         }
@@ -6498,22 +7068,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 料理を習おうと思っています（意向形・意志表明「〜ようと思う」）",
-          topic: "意向形の作り方（行こう・食べよう・しよう・来よう）/ 〜つもりです",
+          topic: "意向形の作り方（行こう・食べよう・しよう・来よう）/ 〜つもりです ｜ 📚 FC: #62",
           file: "08_Stage8/Stage8-Lesson1.html"
         },
         {
           name: "Lesson 2: 無理をしないほうがいいですよ（アドバイス「〜たほうがいい・ないほうがいい」）",
-          topic: "〜たほうがいいです / 〜ないほうがいいです（強い提案や助言）",
+          topic: "〜たほうがいいです / 〜ないほうがいいです（強い提案や助言） ｜ 📚 FC: #63",
           file: "08_Stage8/Stage8-Lesson2.html"
         },
         {
           name: "Lesson 3: これはどういう意味ですか（命令形・禁止形・標識の解説）",
-          topic: "止まれ・入るな / 「立入禁止」はどういう意味ですか",
+          topic: "止まれ・入るな / 「立入禁止」はどういう意味ですか ｜ 📚 FC: #64",
           file: "08_Stage8/Stage8-Lesson3.html"
         },
         {
           name: "Lesson 4: わたしがしたとおりに、してください（指示に従う「〜とおりに」・順序「〜あとで」）",
-          topic: "言ったとおりに / 説明書のとおりに / ご飯を食べたあとで",
+          topic: "言ったとおりに / 説明書のとおりに / ご飯を食べたあとで ｜ 📚 FC: #63・#64",
           file: "08_Stage8/Stage8-Lesson4.html"
         },
         {
@@ -6523,7 +7093,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 8 実戦総復習テスト＆会話演習",
-          topic: "意向形・助言・命令禁止・とおりに・条件形の総まとめ",
+          topic: "意向形・助言・命令禁止・とおりに・条件形の総まとめ ｜ 📚 FC: #62〜#64",
           file: "08_Stage8/Stage8-総復習.html",
           isReview: true
         }
@@ -6538,22 +7108,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 毎日運動するようにしています（目標「〜ように」・努力「〜ようにする」）",
-          topic: "忘れないようにメモします / 早く起きるようにしています",
+          topic: "忘れないようにメモします / 早く起きるようにしています ｜ 📚 FC: #65",
           file: "09_Stage9/Stage9-Lesson1.html"
         },
         {
           name: "Lesson 2: 金閣寺は14世紀に建てられました（受身動詞: 直接受身・被害受身）",
-          topic: "褒められました / 雨に降られました / 〜によって造られました",
+          topic: "褒められました / 雨に降られました / 〜によって造られました ｜ 📚 FC: #65・#66",
           file: "09_Stage9/Stage9-Lesson2.html"
         },
         {
           name: "Lesson 3: 片づけるのが好きなんです（動詞の名詞化「〜のは・〜のが・〜のを」）",
-          topic: "絵を描くのが好き / 鍵をかけるのを忘れました",
+          topic: "絵を描くのが好き / 鍵をかけるのを忘れました ｜ 📚 FC: #66",
           file: "09_Stage9/Stage9-Lesson3.html"
         },
         {
           name: "🏆 Stage 9 実戦総復習テスト＆会話演習",
-          topic: "目標・受身・名詞化・原因理由の総まとめ",
+          topic: "目標・受身・名詞化・原因理由の総まとめ ｜ 📚 FC: #65〜#66",
           file: "09_Stage9/Stage9-総復習.html",
           isReview: true
         }
@@ -6568,22 +7138,22 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 事故で、バスが遅れてしまったんです（原因・理由「〜て・〜で・〜ので」）",
-          topic: "事故で電車が止まりました / 用事があるので帰ります",
+          topic: "事故で電車が止まりました / 用事があるので帰ります ｜ 📚 FC: #67",
           file: "10_Stage10/Stage10-Lesson1.html"
         },
         {
           name: "Lesson 2: 友達ができたかどうか、心配です（埋め込み疑問「〜か／〜かどうか」・試行「〜てみる」）",
-          topic: "何時に到着するか調べてください / 来るかどうか分かりません / 着てみます",
+          topic: "何時に到着するか調べてください / 来るかどうか分かりません / 着てみます ｜ 📚 FC: #68",
           file: "10_Stage10/Stage10-Lesson2.html"
         },
         {
           name: "Lesson 3: ご結婚おめでとうございます（上下関係の授受表現: いただく・くださる・やる）",
-          topic: "先生に本をいただきました / 社長が写真をくださいました / 犬に餌をやります",
+          topic: "先生に本をいただきました / 社長が写真をくださいました / 犬に餌をやります ｜ 📚 FC: #69",
           file: "10_Stage10/Stage10-Lesson3.html"
         },
         {
           name: "🏆 Stage 10 実戦総復習テスト＆会話演習",
-          topic: "理由・埋め込み疑問・試行・敬意授受の総まとめ",
+          topic: "理由・埋め込み疑問・試行・敬意授受の総まとめ ｜ 📚 FC: #67〜#69",
           file: "10_Stage10/Stage10-総復習.html",
           isReview: true
         }
@@ -6598,17 +7168,17 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: ボーナスは何に使いますか（目的「〜ために」・用途「〜に使う」）",
-          topic: "家を買うために貯金します / このハサミは切るのに使います",
+          topic: "家を買うために貯金します / このハサミは切るのに使います ｜ 📚 FC: #70",
           file: "11_Stage11/Stage11-Lesson1.html"
         },
         {
           name: "Lesson 2: 毎日楽しそうです（様態・推量「〜そうです（雨が降りそう）」）",
-          topic: "美味しそう / 壊れそう / 寒そう（直前の見かけによる推量）",
+          topic: "美味しそう / 壊れそう / 寒そう（直前の見かけによる推量） ｜ 📚 FC: #70・#71",
           file: "11_Stage11/Stage11-Lesson2.html"
         },
         {
           name: "Lesson 3: この写真みたいにしてください（過度「〜すぎる」・難易「〜やすい／にくい」）",
-          topic: "食べすぎました / わかりやすい / 覚えにくい",
+          topic: "食べすぎました / わかりやすい / 覚えにくい ｜ 📚 FC: #71",
           file: "11_Stage11/Stage11-Lesson3.html"
         },
         {
@@ -6618,7 +7188,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 11 実戦総復習テスト＆会話演習",
-          topic: "目的・様態推量・過度難易・場合・のにの総まとめ",
+          topic: "目的・様態推量・過度難易・場合・のにの総まとめ ｜ 📚 FC: #70〜#71",
           file: "11_Stage11/Stage11-総復習.html",
           isReview: true
         }
@@ -6633,17 +7203,17 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       lessons: [
         {
           name: "Lesson 1: 先週直してもらったばかりなのに、また……（直後「〜たばかり」・推量「〜はず」）",
-          topic: "買ったばかりです / あと10分で着くはずです",
+          topic: "買ったばかりです / あと10分で着くはずです ｜ 📚 FC: #72",
           file: "12_Stage12/Stage12-Lesson1.html"
         },
         {
           name: "Lesson 2: 婚約したそうです（伝聞「普通形＋そうです」・様態「〜ようだ」）",
-          topic: "天気予報によると雨だそうです / 事故のようですね",
+          topic: "天気予報によると雨だそうです / 事故のようですね ｜ 📚 FC: #73",
           file: "12_Stage12/Stage12-Lesson2.html"
         },
         {
           name: "Lesson 3: 休ませていただけませんか（使役動詞「〜せる／〜させる」・許可依頼）",
-          topic: "子供に本を読ませます / 今日は早く帰らせてください",
+          topic: "子供に本を読ませます / 今日は早く帰らせてください ｜ 📚 FC: #74",
           file: "12_Stage12/Stage12-Lesson3.html"
         },
         {
@@ -6658,7 +7228,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         },
         {
           name: "🏆 Stage 12 実戦総復習 ＆ 初級II総まとめテスト",
-          topic: "伝聞・使役・尊敬語・謙譲語・ビジネス日本語総まとめ",
+          topic: "伝聞・使役・尊敬語・謙譲語・ビジネス日本語総まとめ ｜ 📚 FC: #72〜#74",
           file: "12_Stage12/Stage12-総復習.html",
           isReview: true
         }
@@ -12632,7 +13202,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
         "exp": "不正解。旅立つ相手への言葉に近く、日常の訪問見送りには大げさです。"
       },
       {
-        "text": "<ruby>気配<rt>けはい</rt></ruby>りして",
+        "text": "<ruby>気配<rt>きくば</rt></ruby>りして",
         "isCorrect": false,
         "exp": "不正解。意味が通じません。"
       }
@@ -13390,7 +13960,7 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       container.innerHTML = items.map((it, idx) => `
         <div class="keigo-drill-card" id="card-${it.id}">
           <div class="keigo-drill-header-row">
-            <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+            <div class="top-right-actions">
               <span class="keigo-drill-situation-badge">
                 <span>📍 シチュエーション:</span>
                 <span>${it.situation}</span>
