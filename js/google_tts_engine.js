@@ -117,19 +117,28 @@
       const audio = new Audio(url);
       globalAudioInstance = audio;
 
+      let didFallback = false;
+      const triggerFallback = (reason, err) => {
+        if (didFallback) return;
+        didFallback = true;
+        console.warn(reason, err);
+        const remaining = chunk + (audioQueue.length ? ' ' + audioQueue.join(' ') : '');
+        audioQueue = [];
+        isPlayingQueue = false;
+        fallbackSpeech(remaining, onEnd);
+      };
+
       audio.onended = () => {
         playNext();
       };
       audio.onerror = (err) => {
-        console.warn('Google TTS playback failed, falling back to Web Speech API:', err);
-        fallbackSpeech(chunk + (audioQueue.length ? ' ' + audioQueue.join(' ') : ''), onEnd);
+        triggerFallback('Google TTS playback failed, falling back to Web Speech API:', err);
       };
 
       const p = audio.play();
       if (p !== undefined) {
         p.catch(err => {
-          console.warn('Google TTS audio play catch, falling back:', err);
-          fallbackSpeech(chunk + (audioQueue.length ? ' ' + audioQueue.join(' ') : ''), onEnd);
+          triggerFallback('Google TTS audio play catch, falling back:', err);
         });
       }
     }

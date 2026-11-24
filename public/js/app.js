@@ -5703,19 +5703,28 @@
       const audio = new Audio(url);
       globalGoogleAudioInstance = audio;
 
+      let didFallback = false;
+      const triggerFallback = (reason, err) => {
+        if (didFallback) return;
+        didFallback = true;
+        console.warn(reason, err);
+        const remaining = chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : '');
+        googleAudioQueue = [];
+        isGoogleTtsPlaying = false;
+        fallbackSpeechSynthesis(remaining, onEnd);
+      };
+
       audio.onended = () => {
         playNext();
       };
       audio.onerror = (err) => {
-        console.warn('Google TTS audio playback failed, falling back to Web Speech API:', err);
-        fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
+        triggerFallback('Google TTS audio playback failed, falling back to Web Speech API:', err);
       };
 
       const p = audio.play();
       if (p !== undefined) {
         p.catch(err => {
-          console.warn('Google TTS audio play catch, falling back:', err);
-          fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
+          triggerFallback('Google TTS audio play catch, falling back:', err);
         });
       }
     }
@@ -6319,7 +6328,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261123_1951';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261124_1652';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
