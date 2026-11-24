@@ -5254,7 +5254,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     "choices_ruby": [
       "<ruby>遅<rt>おく</rt></ruby>れ",
       "<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>え",
-      "<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い",
+      "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い",
       "<ruby>見送<rt>みおく</rt></ruby>り"
     ],
     "answer": 2,
@@ -5263,7 +5263,7 @@ window.JLPT_N4_VOCAB_QUIZ_DATA = [
     "explanation": "走ったおかげで予定の時刻に遅れずに乗れたので「間に合う」が適切です。",
     "target_word_reading": "",
     "correct_text_reading": "まにあい",
-    "correct_text_ruby": "<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い"
+    "correct_text_ruby": "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い"
   },
   {
     "id": 196,

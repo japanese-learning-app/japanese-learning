@@ -8502,9 +8502,9 @@ window.JLPT_N4_VOCAB_DATA = [
     "page": 6,
     "word": "間に合う",
     "reading": "まにあう",
-    "ruby": "<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う",
+    "ruby": "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う",
     "meaning": "to be in time for",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>ったので、<ruby>八時<rt>はちじ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。",
+    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>ったので、<ruby>八時<rt>はちじ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。",
     "ex_en": "Because I ran to the station, I made it in time for the eight o'clock train."
   },
   {

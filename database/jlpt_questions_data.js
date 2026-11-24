@@ -44028,7 +44028,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "He's quite able at his job.",
         "id": "n1-v-0225",
         "level": "N1",
-        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>その<ruby>職<rt>しょく</rt></ruby>に（　　）。"
+        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>その<ruby>職<rt>しょく</rt></ruby>に（　　）。"
       },
       {
         "category": "kanji_reading",

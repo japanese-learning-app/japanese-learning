@@ -96,8 +96,9 @@
       s = s.replace(/[（\(\)）]/g, '');
     }
     // 5b. Strip any foreign translations appended after Japanese punctuation (e.g. English, Hangul, French, or Chinese text)
-    s = s.replace(/([。！？])\s*[a-zA-Z\u00C0-\u024F\uAC00-\uD7A3]+[\s\S]*$/, '$1');
-    s = s.replace(/([。！？])\s*[\u4e00-\u9fff]{3,}[\s\S]*$/, '$1');
+    // ONLY if the trailing part contains NO hiragana/katakana (so Japanese 2nd sentences like "日本語の学生です。" are NEVER cut!)
+    s = s.replace(/([。！？])\s*([a-zA-Z\u00C0-\u024F\uAC00-\uD7A3][\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
+    s = s.replace(/([。！？])\s*([\u4e00-\u9fff]{3,}[\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
     // 6. Clean duplicate punctuation and extra spaces
     s = s.replace(/[。]+/g, '。');
     return s.replace(/\s+/g, ' ').trim();
@@ -6328,7 +6329,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261124_1652';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261124_1723';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction

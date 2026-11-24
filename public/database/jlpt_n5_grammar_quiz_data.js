@@ -4491,8 +4491,8 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "に",
     "notes": "あげる<ruby>相手<rt>あいて</rt></ruby>は「に」。「<ruby>友達<rt>ともだち</rt></ruby>から」だと、もらう<ruby>側<rt>がわ</rt></ruby>になります。 / The recipient takes に; 友達から would make the friend the giver.",
-    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>（　　　）<ruby><ruby>誕生日<rt>たんじょうび</rt></ruby><rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
-    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby><ruby>誕生日<rt>たんじょうび</rt></ruby><rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
+    "question_ruby": "<ruby>友達<rt>ともだち</rt></ruby>（　　　）<ruby>誕生日<rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
+    "sentence_jp_ruby": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>誕生日<rt>たんじょうび</rt></ruby>のプレゼントをあげました。",
     "choices_ruby": [
       "から",
       "を",

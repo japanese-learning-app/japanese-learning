@@ -299,7 +299,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with ばかりに)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for ばかりに",
-        "sentence": "お<ruby>金<rt>きん</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。"
+        "sentence": "お<ruby>金<rt>かね</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。"
       }
     ],
     "comparison": [
@@ -310,7 +310,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: simply because; on account of~ (negative.",
-        "example": "お<ruby>金<rt>きん</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。"
+        "example": "お<ruby>金<rt>かね</rt></ruby>がないばかりに、<ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>なかった。"
       },
       {
         "form": "〜せいで",
@@ -2027,7 +2027,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with 上)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for 上",
-        "sentence": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
+        "sentence": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
       }
     ],
     "comparison": [
@@ -2038,7 +2038,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: for the sake of; from the standpoint of; as a.",
-        "example": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、フライドポテトや<ruby>揚げ物<rt>あげもの</rt></ruby>などはあまり<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。"
       },
       {
         "form": "〜の観点から",
@@ -2837,7 +2837,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with からと言って)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for からと言って",
-        "sentence": "お<ruby>金<rt>きん</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。"
+        "sentence": "お<ruby>金<rt>かね</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。"
       }
     ],
     "comparison": [
@@ -2848,7 +2848,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: just because; even if;.",
-        "example": "お<ruby>金<rt>きん</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。"
+        "example": "お<ruby>金<rt>かね</rt></ruby>がたくさんあるからといって<ruby>使い<rt>つかい</rt></ruby>すぎるのはよくない。"
       },
       {
         "form": "〜からといって",
@@ -2891,7 +2891,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with っこない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for っこない",
-        "sentence": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。"
+        "sentence": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>もないんだから。"
       }
     ],
     "comparison": [
@@ -2902,7 +2902,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: no chance of; …is definitely not possible.",
-        "example": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>もないんだから。"
+        "example": "<ruby>車<rt>くるま</rt></ruby>なんて<ruby>買え<rt>かえ</rt></ruby>っこないよ、バイクを<ruby>買う<rt>かう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>もないんだから。"
       },
       {
         "form": "〜はずがない",
@@ -9162,7 +9162,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with というものではない)",
         "reason_ja": "話者の意図・接続形式が自然に呼応した正しい用例",
         "reason_en": "Proper natural collocations and context for というものではない",
-        "sentence": "お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。"
+        "sentence": "お<ruby>金<rt>かね</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。"
       }
     ],
     "comparison": [
@@ -9173,7 +9173,7 @@ window.JLPT_N2_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "本項目の中心的ニュアンス。文脈における話者の特定の意図を的確に伝えます。",
         "nuance_en": "Core pattern of this lesson: .",
-        "example": "お<ruby>金<rt>きん</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。"
+        "example": "お<ruby>金<rt>かね</rt></ruby>があれば<ruby>幸せ<rt>しあわせ</rt></ruby>だというものでもない。"
       },
       {
         "form": "〜とは限らない",

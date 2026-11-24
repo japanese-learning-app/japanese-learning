@@ -319,8 +319,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "あまり",
     "notes": "「<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>＋あまり」で、ひとつのことに<ruby>集中<rt>しゅうちゅう</rt></ruby>しすぎて<ruby>良<rt>よ</rt></ruby>くない<ruby>結果<rt>けっか</rt></ruby>が<ruby>起<rt>お</rt></ruby>きることを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐ（　　　）、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
-    "sentence_jp_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
+    "question_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐ（　　　）、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
+    "sentence_jp_ruby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせようと<ruby>急<rt>いそ</rt></ruby>ぐあまり、<ruby>宛名<rt>あてな</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>間違<rt>まちが</rt></ruby>えてしまった。",
     "choices_ruby": [
       "あまり",
       "どころか",
@@ -1008,9 +1008,9 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "ば",
-    "notes": "「<ruby>着<rt>つ</rt></ruby>いていれば〜<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに」で、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかったことへの<ruby>悔<rt>くや</rt></ruby>しさを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれ（　　　）、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
-    "sentence_jp_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
+    "notes": "「<ruby>着<rt>つ</rt></ruby>いていれば〜<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに」で、<ruby>実際<rt>じっさい</rt></ruby>は<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかったことへの<ruby>悔<rt>くや</rt></ruby>しさを<ruby>表<rt>あらわ</rt></ruby>します。",
+    "question_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれ（　　　）、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
+    "sentence_jp_ruby": "あと5<ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いていれば、<ruby>急行<rt>きゅうこう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったのに。",
     "choices_ruby": [
       "たら",
       "なら",
@@ -3679,8 +3679,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "いくら",
     "notes": "「いくら〜ても」で、どれだけ<ruby>急<rt>いそ</rt></ruby>いでも<ruby>結果<rt>けっか</rt></ruby>が<ruby>変<rt>か</rt></ruby>わらないことを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "（　　　）<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
-    "sentence_jp_ruby": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
+    "question_ruby": "（　　　）<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
+    "sentence_jp_ruby": "いくら<ruby>急<rt>いそ</rt></ruby>いでタクシーに<ruby>乗<rt>の</rt></ruby>っても、<ruby>今<rt>いま</rt></ruby>からでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうにない。",
     "choices_ruby": [
       "せっかく",
       "たいてい",
@@ -7735,7 +7735,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
       "ないはずだ",
       "ないかもしれない",
       "ないことはない",
-      "ない<ruby>方<rt>かた</rt></ruby>がいい"
+      "ない<ruby>方<rt>ほう</rt></ruby>がいい"
     ],
     "correct_text_ruby": "ないことはない"
   },
@@ -12919,8 +12919,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "しかない",
     "notes": "「<ruby>名詞<rt>めいし</rt></ruby>・<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>＋しかない」で、<ruby>覚悟<rt>かくご</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶニュアンスも<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>める（　　　）だろう。",
-    "sentence_jp_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。",
+    "question_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>める（　　　）だろう。",
+    "sentence_jp_ruby": "<ruby>反対<rt>はんたい</rt></ruby><ruby>意見<rt>いけん</rt></ruby>もあるだろうが、<ruby>納期<rt>のうき</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるにはこの<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めるしかないだろう。",
     "choices_ruby": [
       "<ruby>恐<rt>おそ</rt></ruby>れがある",
       "べきではない",
@@ -13249,8 +13249,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "そうもない",
     "notes": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>見<rt>み</rt></ruby>て「とても〜できそうにない」と<ruby>判断<rt>はんだん</rt></ruby>する<ruby>用法<rt>ようほう</rt></ruby>です。",
-    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い（　　　）。",
-    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。",
+    "question_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い（　　　）。",
+    "sentence_jp_ruby": "<ruby>道路<rt>どうろ</rt></ruby>の<ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく、このままでは<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いそうもない。",
     "choices_ruby": [
       "ものか",
       "そうもない",
@@ -14689,8 +14689,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "たって",
     "notes": "「<ruby>走<rt>はし</rt></ruby>ったって」は「<ruby>走<rt>はし</rt></ruby>っても」の<ruby>口語<rt>こうご</rt></ruby><ruby>形<rt>がた</rt></ruby>で、<ruby>仮定<rt>かてい</rt></ruby>の<ruby>逆接<rt>ぎゃくせつ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>っ（　　　）、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>っ（　　　）、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>走<rt>はし</rt></ruby>ったって、<ruby>次<rt>つぎ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。",
     "choices_ruby": [
       "とたん",
       "たって",

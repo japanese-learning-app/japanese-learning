@@ -1657,7 +1657,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "いぎ",
     "ruby": "<ruby>異議<rt>いぎ</rt></ruby>",
     "meaning": "objection; dissent; protest",
-    "ex_ja": "<ruby>委員長<rt>いいんちょう</rt></ruby>から<ruby>提示<rt>ていじ</rt></ruby>された<ruby>来年度<rt>らいねんど</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>出席者<rt>しゅっせきしゃ</rt></ruby>からは<ruby><ruby>誰<rt>だれ</rt></ruby><ruby>一人<rt>ひとり</rt></ruby><rt>だれひとり</rt></ruby>として<ruby>異議<rt>いぎ</rt></ruby>が<ruby>出<rt>で</rt></ruby>なかった。",
+    "ex_ja": "<ruby>委員長<rt>いいんちょう</rt></ruby>から<ruby>提示<rt>ていじ</rt></ruby>された<ruby>来年度<rt>らいねんど</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>出席者<rt>しゅっせきしゃ</rt></ruby>からは<ruby>誰一人<rt>だれひとり</rt></ruby>として<ruby>異議<rt>いぎ</rt></ruby>が<ruby>出<rt>で</rt></ruby>なかった。",
     "ex_en": "Not a single attendee raised an objection to the next fiscal year's activity policy presented by the chairperson."
   },
   {
@@ -4441,7 +4441,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "おくれ",
     "ruby": "<ruby>遅<rt>おく</rt></ruby>れ",
     "meaning": "delay; lag",
-    "ex_ja": "<ruby>強風<rt>きょうふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>運行<rt>うんこう</rt></ruby>に<ruby>三十分<rt>さんじゅっぷん</rt></ruby>ほどの<ruby>遅<rt>おく</rt></ruby>れが<ruby>出<rt>で</rt></ruby>たが、<ruby>発表会<rt>はっぴょうかい</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby>には<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。",
+    "ex_ja": "<ruby>強風<rt>きょうふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>運行<rt>うんこう</rt></ruby>に<ruby>三十分<rt>さんじゅっぷん</rt></ruby>ほどの<ruby>遅<rt>おく</rt></ruby>れが<ruby>出<rt>で</rt></ruby>たが、<ruby>発表会<rt>はっぴょうかい</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby>には<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。",
     "ex_en": "Strong winds caused a delay of about thirty minutes in train operations, but I safely made it in time for the start of the presentation."
   },
   {
@@ -7161,7 +7161,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "かろうじて",
     "ruby": "かろうじて",
     "meaning": "barely, narrowly",
-    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>までの<ruby>坂道<rt>さかみち</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>ったおかげで、<ruby>発車<rt>はっしゃ</rt></ruby>ベルが<ruby>鳴<rt>な</rt></ruby>り<ruby>終<rt>お</rt></ruby>わる<ruby>直前<rt>ちょくぜん</rt></ruby>にかろうじて<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。",
+    "ex_ja": "<ruby>駅<rt>えき</rt></ruby>までの<ruby>坂道<rt>さかみち</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>ったおかげで、<ruby>発車<rt>はっしゃ</rt></ruby>ベルが<ruby>鳴<rt>な</rt></ruby>り<ruby>終<rt>お</rt></ruby>わる<ruby>直前<rt>ちょくぜん</rt></ruby>にかろうじて<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。",
     "ex_en": "Thanks to running hurriedly up the slope to the station, I barely made the last train just before the departure bell finished ringing."
   },
   {
@@ -8809,7 +8809,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "きさい",
     "ruby": "<ruby>記載<rt>きさい</rt></ruby>",
     "meaning": "mention; entry",
-    "ex_ja": "<ruby>製品<rt>せいひん</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>の<ruby>裏面<rt>りめん</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されている<ruby><ruby>使用<rt>しよう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby><rt>しようほうほう</rt></ruby>と<ruby>注意<rt>ちゅうい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を、<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ずお<ruby>読<rt>よ</rt></ruby>みください。",
+    "ex_ja": "<ruby>製品<rt>せいひん</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>の<ruby>裏面<rt>りめん</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されている<ruby>使用方法<rt>しようほうほう</rt></ruby>と<ruby>注意<rt>ちゅうい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を、<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ずお<ruby>読<rt>よ</rt></ruby>みください。",
     "ex_en": "Please be sure to read the instructions for use and precautions listed on the back of the product box before starting to use it."
   },
   {
@@ -45545,7 +45545,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "こたえる",
     "ruby": "<ruby>堪<rt>こた</rt></ruby>える",
     "meaning": "to bear; to stand; to endure; to put up with; to support; to withstand; to resist; to brave; to be fit for; t",
-    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>その<ruby>職<rt>しょく</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>える。",
+    "ex_ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>その<ruby>職<rt>しょく</rt></ruby>に<ruby>堪<rt>こた</rt></ruby>える。",
     "ex_en": "He's quite able at his job."
   },
   {
@@ -50345,7 +50345,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ぶらさげる",
     "ruby": "ぶら<ruby>下<rt>さ</rt></ruby>げる",
     "meaning": "to hang; to suspend; to dangle; to swing",
-    "ex_ja": "ベランダの<ruby>軒先<rt>のきさき</rt></ruby>に<ruby>涼<rt>すず</rt></ruby>しげなガラスの<ruby>風鈴<rt>ふうりん</rt></ruby>をぶら<ruby>下<rt>さ</rt></ruby>げると、<ruby>夕<rt>ゆう</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>くたびに<ruby>澄<rt>す</rt></ruby>んだ<ruby>音色<rt>ねいろ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>響<rt>ひび</rt></ruby>いた。",
+    "ex_ja": "ベランダの<ruby>軒先<rt>のきさき</rt></ruby>に<ruby>涼<rt>すず</rt></ruby>しげなガラスの<ruby>風鈴<rt>ふうりん</rt></ruby>をぶら<ruby>下<rt>さ</rt></ruby>げると、<ruby>夕<rt>ゆう</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>くたびに<ruby>澄<rt>す</rt></ruby>んだ<ruby>音色<rt>ねいろ</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>響<rt>ひび</rt></ruby>いた。",
     "ex_en": "When I hung a cool-looking glass wind chime under the balcony eaves, a clear tone echoed through the room every time the evening breeze blew."
   },
   {

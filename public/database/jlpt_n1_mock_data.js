@@ -2834,9 +2834,9 @@ window.JLPT_N1_MOCK_DATA = {
       "illustration_url": "images/listening_n1/n1_q29.jpg",
       "audioUrl": "audio/mock_n1/n1_m01_q100.mp3",
       "title": "この 調査レポート、締め切りに 間に合ったとは いえ、内容の 詰めが 甘い 箇所が 散見されるわね。",
-      "titleRuby": "この <ruby>調査<rt>ちょうさ</rt></ruby>レポート、<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったとは いえ、<ruby>内容<rt>ないよう</rt></ruby>の <ruby>詰<rt>つ</rt></ruby>めが <ruby>甘<rt>あま</rt></ruby>い <ruby>箇所<rt>かしょ</rt></ruby>が <ruby>散見<rt>さんけん</rt></ruby>されるわね。",
+      "titleRuby": "この <ruby>調査<rt>ちょうさ</rt></ruby>レポート、<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったとは いえ、<ruby>内容<rt>ないよう</rt></ruby>の <ruby>詰<rt>つ</rt></ruby>めが <ruby>甘<rt>あま</rt></ruby>い <ruby>箇所<rt>かしょ</rt></ruby>が <ruby>散見<rt>さんけん</rt></ruby>されるわね。",
       "script": "女の人：この 調査レポート、締め切りに 間に合ったとは いえ、内容の 詰めが 甘い 箇所が 散見されるわね。\n１　完璧な 内容だと 評価して いただき 光栄です。\n２　申し訳 ありません。データの 裏付けが 不十分な 箇所を すぐに 修正します。\n３　締め切りに 間に合わなかった ことは 反省して います。",
-      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：この <ruby>調査<rt>ちょうさ</rt></ruby>レポート、<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったとは いえ、<ruby>内容<rt>ないよう</rt></ruby>の <ruby>詰<rt>つ</rt></ruby>めが <ruby>甘<rt>あま</rt></ruby>い <ruby>箇所<rt>かしょ</rt></ruby>が <ruby>散見<rt>さんけん</rt></ruby>されるわね。<br>１　<ruby>完璧<rt>かんぺき</rt></ruby>な <ruby>内容<rt>ないよう</rt></ruby>だと <ruby>評価<rt>ひょうか</rt></ruby>して いただき <ruby>光栄<rt>こうえい</rt></ruby>です。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。データの <ruby>裏付<rt>うらづ</rt></ruby>けが <ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な <ruby>箇所<rt>かしょ</rt></ruby>を すぐに <ruby>修正<rt>しゅうせい</rt></ruby>します。<br>３　<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった ことは <ruby>反省<rt>はんせい</rt></ruby>して います。",
+      "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：この <ruby>調査<rt>ちょうさ</rt></ruby>レポート、<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったとは いえ、<ruby>内容<rt>ないよう</rt></ruby>の <ruby>詰<rt>つ</rt></ruby>めが <ruby>甘<rt>あま</rt></ruby>い <ruby>箇所<rt>かしょ</rt></ruby>が <ruby>散見<rt>さんけん</rt></ruby>されるわね。<br>１　<ruby>完璧<rt>かんぺき</rt></ruby>な <ruby>内容<rt>ないよう</rt></ruby>だと <ruby>評価<rt>ひょうか</rt></ruby>して いただき <ruby>光栄<rt>こうえい</rt></ruby>です。<br>２　<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。データの <ruby>裏付<rt>うらづ</rt></ruby>けが <ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な <ruby>箇所<rt>かしょ</rt></ruby>を すぐに <ruby>修正<rt>しゅうせい</rt></ruby>します。<br>３　<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった ことは <ruby>反省<rt>はんせい</rt></ruby>して います。",
       "options": [
         "完璧な 内容だと 評価して いただき 光栄です。",
         "申し訳 ありません。データの 裏付けが 不十分な 箇所を すぐに 修正します。",
@@ -2845,7 +2845,7 @@ window.JLPT_N1_MOCK_DATA = {
       "optionsRuby": [
         "<ruby>完璧<rt>かんぺき</rt></ruby>な <ruby>内容<rt>ないよう</rt></ruby>だと <ruby>評価<rt>ひょうか</rt></ruby>して いただき <ruby>光栄<rt>こうえい</rt></ruby>です。",
         "<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby> ありません。データの <ruby>裏付<rt>うらづ</rt></ruby>けが <ruby>不<rt>ふ</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>な <ruby>箇所<rt>かしょ</rt></ruby>を すぐに <ruby>修正<rt>しゅうせい</rt></ruby>します。",
-        "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった ことは <ruby>反省<rt>はんせい</rt></ruby>して います。"
+        "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった ことは <ruby>反省<rt>はんせい</rt></ruby>して います。"
       ],
       "correctIndex": 1,
       "weight": 1.8,

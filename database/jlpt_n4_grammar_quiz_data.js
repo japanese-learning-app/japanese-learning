@@ -505,8 +505,8 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "sentence_jp_ruby": "<ruby>顔色<rt>かおいろ</rt></ruby>があまりよくないですね。<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>って<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
       "<ruby>休<rt>やす</rt></ruby>むの<ruby>方<rt>ほう</rt></ruby>がいいです",
-      "<ruby>休<rt>やす</rt></ruby>んで<ruby>方<rt>かた</rt></ruby>がいいです",
-      "<ruby>休<rt>やす</rt></ruby>まない<ruby>方<rt>かた</rt></ruby>がいいです",
+      "<ruby>休<rt>やす</rt></ruby>んで<ruby>方<rt>ほう</rt></ruby>がいいです",
+      "<ruby>休<rt>やす</rt></ruby>まない<ruby>方<rt>ほう</rt></ruby>がいいです",
       "<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいです"
     ],
     "correct_text_ruby": "<ruby>休<rt>やす</rt></ruby>んだ<ruby>方<rt>ほう</rt></ruby>がいいです"
@@ -532,14 +532,14 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "correct_text": "歩かない方がいいです",
     "notes": "『<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かないほうがいい』という<ruby>否定<rt>ひてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>なので、「ない<ruby>形<rt>けい</rt></ruby>＋ほうがいい」（<ruby>歩<rt>ある</rt></ruby>かないほうがいいです）が<ruby>正解<rt>せいかい</rt></ruby>です。 / Negative advice uses the ない-form + ほうがいい: 歩かないほうがいいです.",
     "question_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で（　　　）よ。",
-    "sentence_jp_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいですよ。",
+    "sentence_jp_ruby": "この<ruby>道<rt>みち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>になるととても<ruby>暗<rt>くら</rt></ruby>いから、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいですよ。",
     "choices_ruby": [
       "<ruby>歩<rt>ある</rt></ruby>いた<ruby>方<rt>ほう</rt></ruby>がいいです",
-      "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいです",
+      "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいです",
       "<ruby>歩<rt>ある</rt></ruby>かなかった<ruby>方<rt>ほう</rt></ruby>がいいです",
       "<ruby>歩<rt>ある</rt></ruby>くなく<ruby>方<rt>ほう</rt></ruby>がいいです"
     ],
-    "correct_text_ruby": "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>かた</rt></ruby>がいいです"
+    "correct_text_ruby": "<ruby>歩<rt>ある</rt></ruby>かない<ruby>方<rt>ほう</rt></ruby>がいいです"
   },
   {
     "id": 19,
@@ -564,10 +564,10 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "question_ruby": "<ruby>連休<rt>れんきゅう</rt></ruby>はホテルがすぐいっぱいになるから、<ruby>今<rt>いま</rt></ruby>すぐ（　　　）。",
     "sentence_jp_ruby": "<ruby>連休<rt>れんきゅう</rt></ruby>はホテルがすぐいっぱいになるから、<ruby>今<rt>いま</rt></ruby>すぐ<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい。",
     "choices_ruby": [
-      "<ruby>予約<rt>よやく</rt></ruby>しない<ruby>方<rt>かた</rt></ruby>がいい",
+      "<ruby>予約<rt>よやく</rt></ruby>しない<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>予約<rt>よやく</rt></ruby>するの<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい",
-      "<ruby>予約<rt>よやく</rt></ruby>して<ruby>方<rt>かた</rt></ruby>がいい"
+      "<ruby>予約<rt>よやく</rt></ruby>して<ruby>方<rt>ほう</rt></ruby>がいい"
     ],
     "correct_text_ruby": "<ruby>予約<rt>よやく</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいい"
   },
@@ -592,14 +592,14 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     "correct_text": "食べない方がいい",
     "notes": "のどが<ruby>痛<rt>いた</rt></ruby>いときに<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えるべきなので、<ruby>否定<rt>ひてい</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>「<ruby>食<rt>た</rt></ruby>べないほうがいい」が<ruby>正解<rt>せいかい</rt></ruby>です。 / Advising against spicy food when having a sore throat requires ない-form + ほうがいい.",
     "question_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は（　　　）と<ruby>思<rt>おも</rt></ruby>います。",
-    "sentence_jp_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
+    "sentence_jp_ruby": "のどが<ruby>痛<rt>いた</rt></ruby>いときは、あまり<ruby>辛<rt>から</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>は<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
     "choices_ruby": [
-      "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいい",
+      "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べないの<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べなかった<ruby>方<rt>ほう</rt></ruby>がいい",
       "<ruby>食<rt>た</rt></ruby>べた<ruby>方<rt>ほう</rt></ruby>がいい"
     ],
-    "correct_text_ruby": "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>かた</rt></ruby>がいい"
+    "correct_text_ruby": "<ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>がいい"
   },
   {
     "id": 21,
@@ -5300,9 +5300,9 @@ window.JLPT_N4_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "乗れば",
-    "notes": "「〜すれば、<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う（<ruby>可能<rt>かのう</rt></ruby>）」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>述<rt>の</rt></ruby>べる<ruby>文<rt>ぶん</rt></ruby>なので、Ⅰグループ「<ruby>乗<rt>の</rt></ruby>る（noru）」のば<ruby>形<rt>けい</rt></ruby>「<ruby>乗<rt>の</rt></ruby>れば」が<ruby>正解<rt>せいかい</rt></ruby>です。 / To state the condition for making it in time (間に合います), use the ば-form of 乗る → 乗れば.",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに（　　　）、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
+    "notes": "「〜すれば、<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う（<ruby>可能<rt>かのう</rt></ruby>）」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>述<rt>の</rt></ruby>べる<ruby>文<rt>ぶん</rt></ruby>なので、Ⅰグループ「<ruby>乗<rt>の</rt></ruby>る（noru）」のば<ruby>形<rt>けい</rt></ruby>「<ruby>乗<rt>の</rt></ruby>れば」が<ruby>正解<rt>せいかい</rt></ruby>です。 / To state the condition for making it in time (間に合います), use the ば-form of 乗る → 乗れば.",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに（　　　）、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>すぐタクシーに<ruby>乗<rt>の</rt></ruby>れば、<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますよ。",
     "choices_ruby": [
       "<ruby>乗<rt>の</rt></ruby>りに",
       "<ruby>乗<rt>の</rt></ruby>るなら",

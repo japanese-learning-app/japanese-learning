@@ -1706,7 +1706,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "えいきょう",
     "ruby": "<ruby>影響<rt>えいきょう</rt></ruby>",
     "meaning": "influence, effect",
-    "ex_ja": "<ruby>台風<rt>たいふう</rt></ruby>による<ruby>強風<rt>きょうふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>のダイヤに<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>ほどの<ruby>遅<rt>おく</rt></ruby>れが<ruby>出<rt>で</rt></ruby>ている。",
+    "ex_ja": "<ruby>台風<rt>たいふう</rt></ruby>による<ruby>強風<rt>きょうふう</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>今朝<rt>けさ</rt></ruby>は<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>のダイヤに<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ほどの<ruby>遅<rt>おく</rt></ruby>れが<ruby>出<rt>で</rt></ruby>ている。",
     "ex_en": "Due to the impact of strong winds from the typhoon, some train schedules are delayed by about thirty minutes this morning."
   },
   {
@@ -5370,7 +5370,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "つうきん",
     "ruby": "<ruby>通勤<rt>つうきん</rt></ruby>",
     "meaning": "commuting to work",
-    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby>ラッシュを<ruby>避<rt>さ</rt></ruby>けるため、いつもより<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>い<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう。",
+    "ex_ja": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby>ラッシュを<ruby>避<rt>さ</rt></ruby>けるため、いつもより<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>早<rt>はや</rt></ruby>い<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう。",
     "ex_en": "To avoid the morning commuter rush, I take a train thirty minutes earlier than usual to head to the office."
   },
   {
@@ -8474,7 +8474,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にんずうぶん",
     "ruby": "<ruby>人数分<rt>にんずうぶん</rt></ruby>",
     "meaning": "portion for the number of people",
-    "ex_ja": "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、<ruby>出席<rt>しゅっせき</rt></ruby>する<ruby>役員<rt>やくいん</rt></ruby>の<ruby>人数<rt>にんずう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>配付<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>をテーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>整然<rt>せいぜん</rt></ruby>と<ruby>用意<rt>ようい</rt></ruby>した。",
+    "ex_ja": "<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に、<ruby>出席<rt>しゅっせき</rt></ruby>する<ruby>役員<rt>やくいん</rt></ruby>の<ruby>人数<rt>にんずう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>配付<rt>はいふ</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>をテーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>整然<rt>せいぜん</rt></ruby>と<ruby>用意<rt>ようい</rt></ruby>した。",
     "ex_en": "Ten minutes before the board meeting began, I neatly prepared handouts and tea on the table for the exact number of attending directors."
   },
   {
@@ -12826,7 +12826,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ふべんな",
     "ruby": "<ruby>不便<rt>ふべん</rt></ruby>な",
     "meaning": "inconvenience",
-    "ex_ja": "<ruby>最寄り駅<rt>もよりえき</rt></ruby>からバスで<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかる<ruby>不便<rt>ふべん</rt></ruby>な<ruby>地域<rt>ちいき</rt></ruby>だが、<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>自然<rt>しぜん</rt></ruby>と<ruby>広大<rt>こうだい</rt></ruby>な<ruby>敷地<rt>しきち</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めて<ruby>移住<rt>いじゅう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
+    "ex_ja": "<ruby>最寄り駅<rt>もよりえき</rt></ruby>からバスで<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかる<ruby>不便<rt>ふべん</rt></ruby>な<ruby>地域<rt>ちいき</rt></ruby>だが、<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>自然<rt>しぜん</rt></ruby>と<ruby>広大<rt>こうだい</rt></ruby>な<ruby>敷地<rt>しきち</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めて<ruby>移住<rt>いじゅう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。",
     "ex_en": "Although it is an inconvenient area located more than thirty minutes by bus from the nearest station, more people are relocating there seeking abundant nature and spacious grounds."
   },
   {
@@ -13610,7 +13610,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "アクセス",
     "ruby": "アクセス",
     "meaning": "access",
-    "ex_ja": "このホテルは<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>徒歩<rt>とほ</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>分<rt>ふん</rt></ruby>とアクセスが<ruby>良<rt>よ</rt></ruby>いため、<ruby>出張<rt>しゅっちょう</rt></ruby>や<ruby>観光<rt>かんこう</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>だ。",
+    "ex_ja": "このホテルは<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>徒歩<rt>とほ</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>分<rt>ぷん</rt></ruby>とアクセスが<ruby>良<rt>よ</rt></ruby>いため、<ruby>出張<rt>しゅっちょう</rt></ruby>や<ruby>観光<rt>かんこう</rt></ruby>にとても<ruby>便利<rt>べんり</rt></ruby>だ。",
     "ex_en": "Because this hotel has great access just a three-minute walk from the nearest station, it is very convenient for business trips and sightseeing."
   },
   {
@@ -15706,7 +15706,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "やく",
     "ruby": "<ruby>約<rt>やく</rt></ruby>",
     "meaning": "approximately, about, some",
-    "ex_ja": "<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby><ruby>場<rt>じょう</rt></ruby>までは、<ruby>直通<rt>ちょくつう</rt></ruby>のシャトルバスを<ruby>利用<rt>りよう</rt></ruby>して<ruby>約<rt>やく</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>で<ruby>到着<rt>とうちゃく</rt></ruby>する。",
+    "ex_ja": "<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby><ruby>場<rt>じょう</rt></ruby>までは、<ruby>直通<rt>ちょくつう</rt></ruby>のシャトルバスを<ruby>利用<rt>りよう</rt></ruby>して<ruby>約<rt>やく</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>で<ruby>到着<rt>とうちゃく</rt></ruby>する。",
     "ex_en": "From the nearest station to the destination international conference center, it takes about 20 minutes using the direct shuttle bus."
   },
   {
@@ -25962,7 +25962,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "となりまち",
     "ruby": "<ruby>隣町<rt>となりまち</rt></ruby>",
     "meaning": "neighboring town",
-    "ex_ja": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>大型<rt>おおがた</rt></ruby>スーパーが<ruby>耐震<rt>たいしん</rt></ruby><ruby>補強<rt>ほきょう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため<ruby>臨時<rt>りんじ</rt></ruby><ruby>休業<rt>きゅうぎょう</rt></ruby>していたため、<ruby>車<rt>くるま</rt></ruby>で<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>ほどかけて<ruby>隣<rt>となり</rt></ruby><ruby>町<rt>まち</rt></ruby>のショッピングモールまで<ruby>買い出<rt>かいだ</rt></ruby>しに<ruby>出<rt>で</rt></ruby>かけた。",
+    "ex_ja": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>大型<rt>おおがた</rt></ruby>スーパーが<ruby>耐震<rt>たいしん</rt></ruby><ruby>補強<rt>ほきょう</rt></ruby><ruby>工事<rt>こうじ</rt></ruby>のため<ruby>臨時<rt>りんじ</rt></ruby><ruby>休業<rt>きゅうぎょう</rt></ruby>していたため、<ruby>車<rt>くるま</rt></ruby>で<ruby>二<rt>に</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ほどかけて<ruby>隣<rt>となり</rt></ruby><ruby>町<rt>まち</rt></ruby>のショッピングモールまで<ruby>買い出<rt>かいだ</rt></ruby>しに<ruby>出<rt>で</rt></ruby>かけた。",
     "ex_en": "Because our neighborhood supermarket was temporarily closed for seismic reinforcement work, we drove about 20 minutes to the shopping mall in the neighboring town for groceries."
   },
   {
@@ -26010,7 +26010,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "にゅうじょう",
     "ruby": "<ruby>入場<rt>にゅうじょう</rt></ruby>",
     "meaning": "entrance, admission, entering",
-    "ex_ja": "<ruby>開演<rt>かいえん</rt></ruby>の<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>になると<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>扉<rt>とびら</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>き、チケットを<ruby>持<rt>も</rt></ruby>った<ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>入場<rt>にゅうじょう</rt></ruby>した。",
+    "ex_ja": "<ruby>開演<rt>かいえん</rt></ruby>の<ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>前<rt>まえ</rt></ruby>になると<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>扉<rt>とびら</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>き、チケットを<ruby>持<rt>も</rt></ruby>った<ruby>観客<rt>かんきゃく</rt></ruby>が<ruby>順番<rt>じゅんばん</rt></ruby>に<ruby>入場<rt>にゅうじょう</rt></ruby>した。",
     "ex_en": "Ten minutes before the performance began, the venue doors opened and ticket-holding audience members entered in order."
   },
   {
@@ -35930,7 +35930,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ずらす",
     "ruby": "ずらす",
     "meaning": "to put off, to delay",
-    "ex_ja": "お<ruby>昼<rt>ひる</rt></ruby>の<ruby>十<rt>じゅう</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>時<rt>じ</rt></ruby>ちょうどは<ruby>社員<rt>しゃいん</rt></ruby><ruby>食堂<rt>しょくどう</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>混<rt>こ</rt></ruby>み<ruby>合<rt>あ</rt></ruby>うので、<ruby>時間<rt>じかん</rt></ruby>を<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>ほどずらして<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとるようにしている。",
+    "ex_ja": "お<ruby>昼<rt>ひる</rt></ruby>の<ruby>十<rt>じゅう</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>時<rt>じ</rt></ruby>ちょうどは<ruby>社員<rt>しゃいん</rt></ruby><ruby>食堂<rt>しょくどう</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>混<rt>こ</rt></ruby>み<ruby>合<rt>あ</rt></ruby>うので、<ruby>時間<rt>じかん</rt></ruby>を<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ほどずらして<ruby>昼食<rt>ちゅうしょく</rt></ruby>をとるようにしている。",
     "ex_en": "Because the company cafeteria gets very crowded right at noon, I shift my lunch break by about thirty minutes."
   },
   {
@@ -37002,7 +37002,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "めいじる",
     "ruby": "<ruby>命<rt>めい</rt></ruby>じる",
     "meaning": "to order, to command, to appoint",
-    "ex_ja": "<ruby>監督<rt>かんとく</rt></ruby>は<ruby>後半<rt>こうはん</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>り<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>で、<ruby>足<rt>あし</rt></ruby>の<ruby>速<rt>はや</rt></ruby>い<ruby>一<rt>いち</rt></ruby><ruby>年生<rt>ねんせい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>にピッチへ<ruby>出<rt>で</rt></ruby>るよう<ruby>命<rt>めい</rt></ruby>じた。",
+    "ex_ja": "<ruby>監督<rt>かんとく</rt></ruby>は<ruby>後半<rt>こうはん</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>り<ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>で、<ruby>足<rt>あし</rt></ruby>の<ruby>速<rt>はや</rt></ruby>い<ruby>一<rt>いち</rt></ruby><ruby>年生<rt>ねんせい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>にピッチへ<ruby>出<rt>で</rt></ruby>るよう<ruby>命<rt>めい</rt></ruby>じた。",
     "ex_en": "With ten minutes remaining in the second half, the coach ordered the fast-footed first-year player onto the pitch."
   },
   {
@@ -45882,7 +45882,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ダイヤ",
     "ruby": "ダイヤ",
     "meaning": "dyer, diagram, (railway) schedule",
-    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>からの<ruby>鉄道<rt>てつどう</rt></ruby>のダイヤ<ruby>改正<rt>かいせい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>朝<rt>あさ</rt></ruby>の<ruby>快速<rt>かいそく</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>時刻<rt>じこく</rt></ruby>が<ruby>三<rt>さん</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>早<rt>はや</rt></ruby>まることになった。",
+    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>からの<ruby>鉄道<rt>てつどう</rt></ruby>のダイヤ<ruby>改正<rt>かいせい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>朝<rt>あさ</rt></ruby>の<ruby>快速<rt>かいそく</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>時刻<rt>じこく</rt></ruby>が<ruby>三<rt>さん</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>早<rt>はや</rt></ruby>まることになった。",
     "ex_en": "Following next month's railway schedule revision, the departure time of the morning rapid train will be moved up by three minutes."
   },
   {
@@ -52778,7 +52778,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "よていひょう",
     "ruby": "<ruby>予定表<rt>よていひょう</rt></ruby>",
     "meaning": "schedule, program, programme",
-    "ex_ja": "<ruby>月末<rt>げつまつ</rt></ruby>までの<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>予定<rt>よてい</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>のカレンダーに<ruby>書き込<rt>かきこ</rt></ruby>み、<ruby>納期<rt>のうき</rt></ruby>の<ruby>重<rt>じゅう</rt></ruby>なりがないよう<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>した。",
+    "ex_ja": "<ruby>月末<rt>げつまつ</rt></ruby>までの<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>予定<rt>よてい</rt></ruby><ruby>表<rt>ひょう</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>のカレンダーに<ruby>書き込<rt>かきこ</rt></ruby>み、<ruby>納期<rt>のうき</rt></ruby>の<ruby>重<rt>かさ</rt></ruby>なりがないよう<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>した。",
     "ex_en": "Writing down the work schedule for the month on the wall calendar, I adjusted my workflow so that deadlines would not overlap."
   },
   {

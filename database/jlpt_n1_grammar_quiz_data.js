@@ -4159,8 +4159,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "が早いか",
     "notes": "<ruby>辞書形<rt>じしょけい</rt></ruby>だけでなくタ<ruby>形<rt>けい</rt></ruby>「〜たが<ruby>早<rt>はや</rt></ruby>いか」の<ruby>形<rt>かたち</rt></ruby>でも<ruby>接続<rt>せつぞく</rt></ruby>できます。",
-    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>き</rt></ruby>いた（　　　）、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。",
-    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>き</rt></ruby>いたが<ruby>早<rt>はや</rt></ruby>いか、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。",
+    "question_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>つ</rt></ruby>いた（　　　）、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。",
+    "sentence_jp_ruby": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>つ</rt></ruby>いたが<ruby>早<rt>はや</rt></ruby>いか、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。",
     "choices_ruby": [
       "を<ruby>踏<rt>ふ</rt></ruby>まえて",
       "が<ruby>早<rt>はや</rt></ruby>いか",
@@ -13729,7 +13729,7 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ずにはいられない",
     "notes": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>性分<rt>しょうぶん</rt></ruby>や<ruby>正義<rt>せいぎ</rt></ruby><ruby>感<rt>かん</rt></ruby>から、どうしても<ruby>行動<rt>こうどう</rt></ruby>に<ruby>出<rt>で</rt></ruby>てしまうことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごすことができず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>で</rt></ruby>さ（　　　）。",
+    "question_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごすことができず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さ（　　　）。",
     "sentence_jp_ruby": "<ruby>理不尽<rt>りふじん</rt></ruby>な<ruby>扱<rt>あつか</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けている<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら、<ruby>性格<rt>せいかく</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>黙<rt>だま</rt></ruby>って<ruby>見過<rt>みす</rt></ruby>ごすことができず<ruby>一言<rt>ひとこと</rt></ruby><ruby>口<rt>くち</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずにはいられない。",
     "choices_ruby": [
       "ずにはいられない",
@@ -14509,8 +14509,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 1,
     "correct_text": "としたところで",
     "notes": "<ruby>動詞<rt>どうし</rt></ruby><ruby>辞書形<rt>じしょけい</rt></ruby>＋「としたところで」の<ruby>形<rt>かたち</rt></ruby>でも「<ruby>仮<rt>かり</rt></ruby>に〜するとしても」を<ruby>表<rt>あらわ</rt></ruby>せます。",
-    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>店舗<rt>てんぽ</rt></ruby><ruby>用地<rt>ようち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>める（　　　）、<ruby>年内<rt>ねんない</rt></ruby>のオープンには<ruby>到底<rt>とうてい</rt></ruby><ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。",
-    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>店舗<rt>てんぽ</rt></ruby><ruby>用地<rt>ようち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めるとしたところで、<ruby>年内<rt>ねんない</rt></ruby>のオープンには<ruby>到底<rt>とうてい</rt></ruby><ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。",
+    "question_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>店舗<rt>てんぽ</rt></ruby><ruby>用地<rt>ようち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>める（　　　）、<ruby>年内<rt>ねんない</rt></ruby>のオープンには<ruby>到底<rt>とうてい</rt></ruby><ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。",
+    "sentence_jp_ruby": "<ruby>今<rt>いま</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>店舗<rt>てんぽ</rt></ruby><ruby>用地<rt>ようち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めるとしたところで、<ruby>年内<rt>ねんない</rt></ruby>のオープンには<ruby>到底<rt>とうてい</rt></ruby><ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。",
     "choices_ruby": [
       "とあっては",
       "としたところで",

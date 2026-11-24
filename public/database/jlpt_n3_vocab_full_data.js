@@ -15513,7 +15513,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "どく",
     "ruby": "<ruby>毒<rt>どく</rt></ruby>",
     "meaning": "poison; toxicant",
-    "ex_ja": "<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つきのこもあるので、<ruby>知<rt>し</rt></ruby>らないものは<ruby>採<rt>と</rt></ruby>らない<ruby>方<rt>かた</rt></ruby>がいい。",
+    "ex_ja": "<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つきのこもあるので、<ruby>知<rt>し</rt></ruby>らないものは<ruby>採<rt>と</rt></ruby>らない<ruby>方<rt>ほう</rt></ruby>がいい。",
     "ex_en": "Since there are poisonous mushrooms in the mountains, it is better not to pick ones you do not know."
   },
   {
@@ -19961,7 +19961,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "やっかい",
     "ruby": "<ruby>厄介<rt>やっかい</rt></ruby>",
     "meaning": "trouble; burden; care; bother",
-    "ex_ja": "この<ruby>書類<rt>しょるい</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きは<ruby>少<rt>すこ</rt></ruby>し<ruby>厄介<rt>やっかい</rt></ruby>だが、<ruby>説明<rt>せつめい</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>めれば<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。",
+    "ex_ja": "この<ruby>書類<rt>しょるい</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きは<ruby>少<rt>すこ</rt></ruby>し<ruby>厄介<rt>やっかい</rt></ruby>だが、<ruby>説明<rt>せつめい</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>めれば<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。",
     "ex_en": "The procedure for this document is a bit troublesome, but if we follow the instructions we will make it in time."
   },
   {
@@ -22841,7 +22841,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "くるう",
     "ruby": "<ruby>狂<rt>くる</rt></ruby>う",
     "meaning": "to go mad; to get out of order",
-    "ex_ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたせいで<ruby>一日<rt>いちにち</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がすっかり<ruby>狂<rt>くる</rt></ruby>い、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
+    "ex_ja": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたせいで<ruby>一日<rt>いちにち</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がすっかり<ruby>狂<rt>くる</rt></ruby>い、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
     "ex_en": "Because the train was delayed, my schedule for the day went completely awry and I could not make the appointment on time."
   },
   {
@@ -23417,7 +23417,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "すすめる",
     "ruby": "<ruby>進<rt>すす</rt></ruby>める",
     "meaning": "to advance; to promote; to hasten",
-    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
+    "ex_ja": "<ruby>来月<rt>らいげつ</rt></ruby>の<ruby>発表会<rt>はっぴょうかい</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めている。",
     "ex_en": "So that we will be in time for next month's presentation, we are advancing preparations little by little every day."
   },
   {

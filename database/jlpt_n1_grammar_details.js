@@ -1807,7 +1807,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "both",
         "nuance_ja": "〜するとほとんど<ruby>同時<rt>どうじ</rt></ruby>に。",
         "nuance_en": "as soon as; no sooner had",
-        "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>き</rt></ruby>いたが<ruby>早<rt>はや</rt></ruby>いか、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。"
+        "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り<ruby>着<rt>つ</rt></ruby>いたが<ruby>早<rt>はや</rt></ruby>いか、<ruby>息子<rt>むすこ</rt></ruby>はカバンを<ruby>置<rt>お</rt></ruby>いてすぐに<ruby>友達<rt>ともだち</rt></ruby>と<ruby>野球<rt>やきゅう</rt></ruby>をしに<ruby>出<rt>で</rt></ruby>かけてしまった。"
       },
       {
         "form": "〜そばから",
@@ -3914,7 +3914,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "<ruby>単<rt>たん</rt></ruby>なる<ruby>二つ<rt>ふたつ</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>の<ruby>同時<rt>どうじ</rt></ruby><ruby>進行<rt>しんこう</rt></ruby>（<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながら<ruby>走<rt>はし</rt></ruby>る）には<ruby>普通<rt>ふつう</rt></ruby>の「〜ながら」を<ruby>使<rt>つか</rt></ruby>い、「〜ながらに（して）」は「<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えずに・<ruby>生<rt>う</rt></ruby>まれつき」という<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>文脈<rt>ぶんみゃく</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。",
         "reason_en": "Simple simultaneous actions use plain 〜ながら; 〜ながらに(して) is reserved for \"from birth\" or \"without leaving/changing one's state.\"",
-        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながらにして、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby><ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><rt>さんじゅっぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>ジョギングをしている。"
+        "sentence": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きながらにして、<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>三十分<rt>さんじゅっぷん</rt></ruby><ruby>間<rt>かん</rt></ruby>ジョギングをしている。"
       },
       {
         "type": "correct",
@@ -5040,7 +5040,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>日常<rt>にちじょう</rt></ruby>からビジネスまで<ruby>幅広<rt>はばひろ</rt></ruby>く<ruby>使<rt>つか</rt></ruby>える<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>目的<rt>もくてき</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。「〜んがため」は<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>と<ruby>文語<rt>ぶんご</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>います。",
         "nuance_en": "The standard purpose expression for all registers, whereas 〜んがため conveys intense determination in a classical, dramatic tone.",
-        "example": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby><ruby><ruby>三<rt>さん</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby><rt>さんじゅっぷん</rt></ruby>ほど<ruby>歩<rt>ある</rt></ruby>くようにしている。"
+        "example": "<ruby>健康<rt>けんこう</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>三十分<rt>さんじゅっぷん</rt></ruby>ほど<ruby>歩<rt>ある</rt></ruby>くようにしている。"
       }
     ]
   },
@@ -6254,7 +6254,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "誤用 (Incorrect)",
         "reason_ja": "「〜としたところで」は「たとえそう<ruby>仮定<rt>かてい</rt></ruby>してみたところで、<ruby>結局<rt>けっきょく</rt></ruby><ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>たない・<ruby>無理<rt>むり</rt></ruby>だ」という<ruby>消極<rt>しょうきょく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>が<ruby>後<rt>うし</rt></ruby>ろに<ruby>来<rt>く</rt></ruby>るため、<ruby>肯定<rt>こうてい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>には<ruby>使<rt>つか</rt></ruby>えません。",
         "reason_en": "\"〜としたところで\" introduces a hypothetical assumption followed by a futile or negative conclusion, never a successful past result.",
-        "sentence": "<ruby>今<rt>いま</rt></ruby>からタクシーに<ruby>乗<rt>の</rt></ruby>ったとしたところで、<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>かん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ってよかった。"
+        "sentence": "<ruby>今<rt>いま</rt></ruby>からタクシーに<ruby>乗<rt>の</rt></ruby>ったとしたところで、<ruby>開演<rt>かいえん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ってよかった。"
       },
       {
         "type": "correct",
@@ -6288,7 +6288,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "badge_type": "neutral",
         "nuance_ja": "<ruby>動詞<rt>どうし</rt></ruby>た<ruby>形<rt>けい</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>ついて「いくら〜しても<ruby>無駄<rt>むだ</rt></ruby>だ」と<ruby>述<rt>の</rt></ruby>べます。「〜としたところで」は<ruby>名詞<rt>めいし</rt></ruby>や<ruby>普通形<rt>ふつうけい</rt></ruby>にもつき、「<ruby>仮<rt>かり</rt></ruby>にそうだと<ruby>仮定<rt>かてい</rt></ruby>しても」と<ruby>推論<rt>すいろん</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>を<ruby>明示<rt>めいじ</rt></ruby>します。",
         "nuance_en": "Attaches directly to past-form verbs, whereas 〜としたところで can follow nouns or plain forms to explicitly frame a hypothetical assumption.",
-        "example": "<ruby>今<rt>いま</rt></ruby>さら<ruby>急<rt>いそ</rt></ruby>いだところで、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。"
+        "example": "<ruby>今<rt>いま</rt></ruby>さら<ruby>急<rt>いそ</rt></ruby>いだところで、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>にはもう<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないだろう。"
       }
     ]
   },

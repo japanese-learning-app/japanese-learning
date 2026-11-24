@@ -17943,7 +17943,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "prêteur sur gages"
     },
     "example": {
-      "ja": "A: お<ruby>金<rt>きん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないから、この<ruby>時計<rt>とけい</rt></ruby>を<ruby>質屋<rt>しちや</rt></ruby>に<ruby>入<rt>い</rt></ruby>れようかな。<br/>B: ええ！？<ruby>本当<rt>ほんとう</rt></ruby>にそれでいいの？",
+      "ja": "A: お<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないから、この<ruby>時計<rt>とけい</rt></ruby>を<ruby>質屋<rt>しちや</rt></ruby>に<ruby>入<rt>い</rt></ruby>れようかな。<br/>B: ええ！？<ruby>本当<rt>ほんとう</rt></ruby>にそれでいいの？",
       "en": "A: I don't have enough money, so maybe I'll pawn this watch.<br/>B: What!? Are you sure about that?",
       "zh_TW": "A: 錢不夠了，我是不是該把這支手錶拿去當鋪當掉。<br/>B: 咦！？你真的覺得這樣好嗎？",
       "zh_CN": "A: 钱不够了，我是不是该把这支手表拿去当铺当掉。<br/>B: 咦！？你真的觉得这样好吗？",
@@ -26467,7 +26467,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "motivation à postuler / raison de postuler"
     },
     "example": {
-      "ja": "A: <ruby>履歴書<rt>りれきしょ</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>動機<rt>どうき</rt></ruby>がうまく<ruby>書<rt>か</rt></ruby>けなくて<ruby>困<rt>こま</rt></ruby>っているんだ。<br/>B: なぜその<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいのか、<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>書<rt>か</rt></ruby>くといいよ。",
+      "ja": "A: <ruby>履歴書<rt>りれきしょ</rt></ruby>の<ruby>志望<rt>しぼう</rt></ruby><ruby>動機<rt>どうき</rt></ruby>がうまく<ruby>書<rt>か</rt></ruby>けなくて<ruby>困<rt>こま</rt></ruby>っているんだ。<br/>B: なぜその<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいのか、<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>書<rt>か</rt></ruby>くといいよ。",
       "en": "A: I'm having trouble writing the reason for applying on my resume.<br/>B: You should write specifically why you want to join that company.",
       "zh_TW": "A: 我履歷表上的應徵動機寫得不好，很苦惱。<br/>B: 具體寫出為什麼想進那家公司會比較好喔。",
       "zh_CN": "A: 我简历上的应聘动机写得不好，很苦恼。<br/>B: 具体写出为什么想进那家公司会比较好哦。",
@@ -43594,7 +43594,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "Does it seem like you can do it? / Do you think you'll be able to?"
     },
     "example": {
-      "ja": "A: この<ruby>資料<rt>しりょう</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までにできそうですか？<br/>B: はい、なんとか<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせます。",
+      "ja": "A: この<ruby>資料<rt>しりょう</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>までにできそうですか？<br/>B: はい、なんとか<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせます。",
       "en": "A: Do you think you can finish making this document by tomorrow?<br/>B: Yes, I'll manage to make it in time.",
       "zh_TW": "A: 這份資料的製作，明天之前有辦法完成嗎？<br/>B: 可以，我會想辦法趕上的。",
       "zh_CN": "A: 这份资料的制作，明天之前有办法完成吗？<br/>B: 可以，我会想办法赶上的。",
@@ -57003,7 +57003,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "husband (informal, affectionate)"
     },
     "example": {
-      "ja": "<ruby>旦那<rt>だんな</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>近所<rt>きんじょ</rt></ruby>のスーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>出<rt>で</rt></ruby>しに<ruby>行<rt>い</rt></ruby>きました。",
+      "ja": "<ruby>旦那<rt>だんな</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>近所<rt>きんじょ</rt></ruby>のスーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しに<ruby>行<rt>い</rt></ruby>きました。",
       "en": "I went grocery shopping at a neighborhood supermarket together with my husband.",
       "zh_TW": "I went grocery shopping at a neighborhood supermarket together with my husband.",
       "zh_CN": "I went grocery shopping at a neighborhood supermarket together with my husband.",
@@ -61398,7 +61398,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "light (weight), minor, nimble"
     },
     "example": {
-      "ja": "<ruby>この<rt></rt></ruby><ruby>荷物<rt>にもつ</rt></ruby>は<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>よりずっと<ruby>軽<rt>かる</rt></ruby>いです。",
+      "ja": "この<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>よりずっと<ruby>軽<rt>かる</rt></ruby>いです。",
       "en": "This luggage is much lighter than it looks.",
       "zh_TW": "This luggage is much lighter than it looks.",
       "zh_CN": "This luggage is much lighter than it looks.",

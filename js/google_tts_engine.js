@@ -52,9 +52,9 @@
     // 発話ラベル除去
     s = s.replace(/^[ABａｂＡＢ][:：]\s*/g, '');
     s = s.replace(/[。、!?！？]\s*[ABａｂＡＢ][:：]\s*/g, '。');
-    // 外国語訳の除去
-    s = s.replace(/([。！？])\s*[a-zA-Z\u00C0-\u024F\uAC00-\uD7A3]+[\s\S]*$/, '$1');
-    s = s.replace(/([。！？])\s*[\u4e00-\u9fff]{3,}[\s\S]*$/, '$1');
+    // 外国語訳の除去（後ろにひらがな・カタカナが含まれていない場合のみ除去し、日本語の2文目を絶対に切らない）
+    s = s.replace(/([。！？])\s*([a-zA-Z\u00C0-\u024F\uAC00-\uD7A3][\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
+    s = s.replace(/([。！？])\s*([\u4e00-\u9fff]{3,}[\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
     s = s.replace(/[。]+/g, '。');
     return s.replace(/\s+/g, ' ').trim();
   }

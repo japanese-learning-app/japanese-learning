@@ -3497,7 +3497,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "maison"
     },
     "example": {
-      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいです。",
+      "ja": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れたので、<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいです。",
       "en": "I'm tired today, so I want to go home early and take a bath.",
       "zh_TW": "今天好累，想早點回家泡個熱水澡。",
       "zh_CN": "今天好累，想早点回家泡个热水澡。",
@@ -3758,7 +3758,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "salle de classe"
     },
     "example": {
-      "ja": "チャイムが<ruby>鳴<rt>な</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました。",
+      "ja": "チャイムが<ruby>鳴<rt>な</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。",
       "en": "Before the chime rang, I brought my textbook and entered the classroom.",
       "zh_TW": "在鐘聲響起之前，我拿著課本走進了教室。",
       "zh_CN": "在铃声响起之前，我拿着课本走进了教室。",
@@ -12014,7 +12014,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "first of all / at first"
     },
     "example": {
-      "ja": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>こ</rt></ruby>て、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>浅草<rt>あさくさ</rt></ruby>の<ruby>浅草寺<rt>せんそうじ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<br/>とても<ruby>賑<rt>にぎ</rt></ruby>やかでした。",
+      "ja": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>浅草<rt>あさくさ</rt></ruby>の<ruby>浅草寺<rt>せんそうじ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。<br/>とても<ruby>賑<rt>にぎ</rt></ruby>やかでした。",
       "en": "Coming to Japan, I went to Sensoji Temple in Asakusa first.<br>It was very lively.",
       "zh_TW": "來到日本，一開始去了淺草的淺草寺。<br>非常熱鬧。",
       "zh_CN": "來到日本，一開始去了淺草的淺草寺。<br>非常熱鬧。",
@@ -18452,7 +18452,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "le festival (matsuri)"
     },
     "example": {
-      "ja": "<ruby>地元<rt>じもと</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつり</rt></ruby>で<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>つ</rt></ruby>て、<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
+      "ja": "<ruby>地元<rt>じもと</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby><ruby>祭<rt>まつり</rt></ruby>で<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
       "en": "At the local summer festival, I wore a yukata and ate takoyaki from food stalls.",
       "zh_TW": "在當地的夏日祭典上穿著浴衣，品嚐了攤販的章魚燒。",
       "zh_CN": "在当地的夏日祭典上穿着浴衣，品尝了摊贩的章鱼烧。",
@@ -21381,7 +21381,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wear / to put on (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>暖<rt>あたた</rt></ruby>かいコートを<ruby>着<rt>つ</rt></ruby>て、<ruby>外<rt>そと</rt></ruby>へ<ruby>出掛<rt>でか</rt></ruby>けましょう。<br/><ruby>風邪<rt>かぜ</rt></ruby>をひかないようにね。",
+      "ja": "<ruby>暖<rt>あたた</rt></ruby>かいコートを<ruby>着<rt>き</rt></ruby>て、<ruby>外<rt>そと</rt></ruby>へ<ruby>出掛<rt>でか</rt></ruby>けましょう。<br/><ruby>風邪<rt>かぜ</rt></ruby>をひかないようにね。",
       "en": "Put on a warm coat and let's go outside.<br>So you won't catch a cold.",
       "zh_TW": "穿上暖和的大衣一起出門吧。<br>小心別感冒喔。",
       "zh_CN": "穿上暖和的大衣一起出門吧。<br>小心別感冒喔。",
@@ -25006,7 +25006,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to return / to go home"
     },
     "example": {
-      "ja": "<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>らない。",
+      "ja": "<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないので、<ruby>今夜<rt>こんや</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>らない。",
       "en": "I missed the last train, so I won't return home tonight.",
       "zh_TW": "趕不上末班車，所以今晚不回家。",
       "zh_CN": "趕不上末班車，所以今晚不回家。",
@@ -25905,7 +25905,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to wear / to put on (top)"
     },
     "example": {
-      "ja": "<ruby>暖<rt>あたた</rt></ruby>かい<ruby>春<rt>はる</rt></ruby>になったので、<ruby>厚手<rt>あつで</rt></ruby>のコートはもう<ruby>着<rt>つ</rt></ruby>ない。",
+      "ja": "<ruby>暖<rt>あたた</rt></ruby>かい<ruby>春<rt>はる</rt></ruby>になったので、<ruby>厚手<rt>あつで</rt></ruby>のコートはもう<ruby>着<rt>き</rt></ruby>ない。",
       "en": "Spring has warmed up, so I no longer wear heavy coats.",
       "zh_TW": "天氣轉暖入春了，不再穿厚重的大衣。",
       "zh_CN": "天氣轉暖入春了，不再穿厚重的大衣。",
@@ -32894,7 +32894,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "s'est dépêché"
     },
     "example": {
-      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>早足<rt>はやあし</rt></ruby>で<ruby>急<rt>いそ</rt></ruby>いだ。",
+      "ja": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように、<ruby>早足<rt>はやあし</rt></ruby>で<ruby>急<rt>いそ</rt></ruby>いだ。",
       "en": "To make it in time for the train, I hurried briskly.",
       "zh_TW": "為了趕上電車，快步趕路。",
       "zh_CN": "为了赶上电车，快步赶路。",
@@ -39651,7 +39651,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "jogging ; footing"
     },
     "example": {
-      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby>ジョギングをしています。",
+      "ja": "<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>三<rt>さん</rt></ruby><ruby>十<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ジョギングをしています。",
       "en": "Every morning I jog for thirty minutes in the park.",
       "zh_TW": "每天早上在公園慢跑三十分鐘。",
       "zh_CN": "每天早上在公园慢跑三十分钟。",

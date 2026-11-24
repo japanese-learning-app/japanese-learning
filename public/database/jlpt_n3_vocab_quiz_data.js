@@ -11893,7 +11893,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "スーパーへ買い物に行くついでに、郵便局で切手を買ってきた。"
     ],
     "choices_ruby": [
-      "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたついでに、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
+      "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたついでに、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
       "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたついでに、もう<ruby>夜<rt>よる</rt></ruby>になってしまった。",
       "<ruby>風邪<rt>かぜ</rt></ruby>をひいたついでに、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>三十八度<rt>さんじゅうはちど</rt></ruby><ruby>出<rt>で</rt></ruby>た。",
       "スーパーへ<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くついでに、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>で<ruby>切手<rt>きって</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってきた。"
@@ -12301,7 +12301,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>転<rt>ころ</rt></ruby>んだが、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>大<rt>おお</rt></ruby>きなけがはなかった。",
       "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>洗濯物<rt>せんたくもの</rt></ruby>がびしょびしょになった。",
       "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまい、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>中身<rt>なかみ</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby>なくなっていた。",
-      "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試験<rt>しけん</rt></ruby>に<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。"
+      "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れて、<ruby>幸<rt>さいわ</rt></ruby>い<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試験<rt>しけん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。"
     ],
     "answer": 0,
     "correct_text": "自転車で転んだが、幸い大きなけがはなかった。",
@@ -12514,7 +12514,7 @@ window.JLPT_N3_VOCAB_QUIZ_DATA = [
       "百メートル走の選手が、ゴールを目指してのんびり全力で走った。"
     ],
     "choices_ruby": [
-      "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるため、のんびり<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>した。",
+      "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるため、のんびり<ruby>徹夜<rt>てつや</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>した。",
       "<ruby>火事<rt>かじ</rt></ruby>の<ruby>知<rt>し</rt></ruby>らせを<ruby>聞<rt>き</rt></ruby>いて、<ruby>消防<rt>しょうぼう</rt></ruby><ruby>士<rt>し</rt></ruby>がのんびり<ruby>急<rt>いそ</rt></ruby>いで<ruby>出動<rt>しゅつどう</rt></ruby>した。",
       "<ruby>連休<rt>れんきゅう</rt></ruby>は<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まって、<ruby>家族<rt>かぞく</rt></ruby>でのんびり<ruby>過<rt>す</rt></ruby>ごした。",
       "<ruby>百<rt>ひゃく</rt></ruby>メートル<ruby>走<rt>はし</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が、ゴールを<ruby>目指<rt>めざ</rt></ruby>してのんびり<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>走<rt>はし</rt></ruby>った。"

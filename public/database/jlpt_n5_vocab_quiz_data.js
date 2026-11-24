@@ -7350,7 +7350,7 @@ window.JLPT_N5_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "",
     "question": "歩くのが（　　　）ので、バスに間に合いませんでした。",
-    "question_ruby": "<ruby>歩<rt>ある</rt></ruby>くのが（　　　）ので、バスに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いませんでした。",
+    "question_ruby": "<ruby>歩<rt>ある</rt></ruby>くのが（　　　）ので、バスに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いませんでした。",
     "choices": [
       "短い",
       "遅い",

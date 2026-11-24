@@ -1861,7 +1861,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "七": {
-    "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>七<rt>なな</rt></ruby><ruby>時<rt>じ</rt></ruby>からのディナーの<ruby>予約<rt>よやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってありますので、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
+    "ja": "<ruby>夜<rt>よる</rt></ruby><ruby>七<rt>しち</rt></ruby><ruby>時<rt>じ</rt></ruby>からのディナーの<ruby>予約<rt>よやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってありますので、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。",
     "en": "I have made a reservation for dinner from seven in the evening, so let's go together."
   },
   "しち / なな": {
@@ -7661,11 +7661,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "払う": {
-    "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>するとともに<ruby>毎月<rt>まいつき</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めている。",
+    "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>するとともに<ruby>毎月<rt>まいつき</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めている。",
     "en": "To pay for the tuition and living expenses required for studying abroad myself, I applied for a scholarship and systematically save money every month."
   },
   "はらう": {
-    "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>するとともに<ruby>毎月<rt>まいつき</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めている。",
+    "ja": "<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>学費<rt>がくひ</rt></ruby>や<ruby>生活費<rt>せいかつひ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うため、<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>するとともに<ruby>毎月<rt>まいつき</rt></ruby><ruby>計画的<rt>けいかくてき</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めている。",
     "en": "To pay for the tuition and living expenses required for studying abroad myself, I applied for a scholarship and systematically save money every month."
   },
   "反対": {
@@ -10061,7 +10061,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Where's her office?"
   },
   "溺れる": {
-    "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぐ<ruby>際<rt>さい</rt></ruby>は、<ruby>決<rt>けっ</rt></ruby>して<ruby>深<rt>ふか</rt></ruby>みに<ruby>入<rt>はい</rt></ruby>って<ruby>溺<rt>おぼ</rt></ruby>れることがないよう<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>してください。",
+    "ja": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぐ<ruby>際<rt>さい</rt></ruby>は、<ruby>決<rt>けっ</rt></ruby>して<ruby>深<rt>ふか</rt></ruby>みに<ruby>入<rt>はい</rt></ruby>って<ruby>溺<rt>おぼ</rt></ruby>れることがないよう<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>注意<rt>ちゅうい</rt></ruby>してください。",
     "en": "When swimming in the sea or rivers during summer vacation, please be very careful never to go into the deep and drown."
   },
   "おぼれる": {
@@ -10473,11 +10473,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "賢い": {
-    "ja": "<ruby>限<rt>かぎ</rt></ruby>られた<ruby>予算<rt>よさん</rt></ruby>の<ruby>範囲内<rt>はんいない</rt></ruby>で<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるためには、<ruby>賢<rt>かしこ</rt></ruby>いお<ruby>金<rt>きん</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ja": "<ruby>限<rt>かぎ</rt></ruby>られた<ruby>予算<rt>よさん</rt></ruby>の<ruby>範囲内<rt>はんいない</rt></ruby>で<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるためには、<ruby>賢<rt>かしこ</rt></ruby>いお<ruby>金<rt>かね</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
     "en": "In order to maximize results within a limited budget, a wise way of spending money is required."
   },
   "かしこい": {
-    "ja": "<ruby>限<rt>かぎ</rt></ruby>られた<ruby>予算<rt>よさん</rt></ruby>の<ruby>範囲内<rt>はんいない</rt></ruby>で<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるためには、<ruby>賢<rt>かしこ</rt></ruby>いお<ruby>金<rt>きん</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
+    "ja": "<ruby>限<rt>かぎ</rt></ruby>られた<ruby>予算<rt>よさん</rt></ruby>の<ruby>範囲内<rt>はんいない</rt></ruby>で<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるためには、<ruby>賢<rt>かしこ</rt></ruby>いお<ruby>金<rt>かね</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。",
     "en": "In order to maximize results within a limited budget, a wise way of spending money is required."
   },
   "歌手": {
@@ -33005,11 +33005,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Service industries include communication, transportation, distribution, finance and a host of other areas which do not involve production of goods."
   },
   "運用": {
-    "ja": "<ruby>問題<rt>もんだい</rt></ruby>は、お<ruby>金<rt>きん</rt></ruby>をどう<ruby>運用<rt>うんよう</rt></ruby>すべきかだ。",
+    "ja": "<ruby>問題<rt>もんだい</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>をどう<ruby>運用<rt>うんよう</rt></ruby>すべきかだ。",
     "en": "The problem is how we should manage the money."
   },
   "うんよう": {
-    "ja": "<ruby>問題<rt>もんだい</rt></ruby>は、お<ruby>金<rt>きん</rt></ruby>をどう<ruby>運用<rt>うんよう</rt></ruby>すべきかだ。",
+    "ja": "<ruby>問題<rt>もんだい</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>をどう<ruby>運用<rt>うんよう</rt></ruby>すべきかだ。",
     "en": "The problem is how we should manage the money."
   },
   "重": {
@@ -34777,11 +34777,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "換算": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>きん</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
     "en": "He thinks of everything in terms of money."
   },
   "かんさん": {
-    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>きん</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
+    "ja": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>に<ruby>換算<rt>かんさん</rt></ruby>してしまう。",
     "en": "He thinks of everything in terms of money."
   },
   "監視": {
@@ -34857,11 +34857,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "The ceremony was simple."
   },
   "観点": {
-    "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>きん</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
+    "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
     "en": "My mother thinks of everything in terms of money."
   },
   "かんてん": {
-    "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>きん</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
+    "ja": "<ruby>母<rt>はは</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもお<ruby>金<rt>かね</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>える。",
     "en": "My mother thinks of everything in terms of money."
   },
   "感度": {
@@ -39217,11 +39217,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "I was home all day yesterday."
   },
   "執着": {
-    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>のお<ruby>金<rt>きん</rt></ruby>への<ruby>執着心<rt>しゅうちゃくしん</rt></ruby>には<ruby>際限<rt>さいげん</rt></ruby>がない。",
+    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>への<ruby>執着心<rt>しゅうちゃくしん</rt></ruby>には<ruby>際限<rt>さいげん</rt></ruby>がない。",
     "en": "Her love of money is without bounds."
   },
   "しゅうじゃく": {
-    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>のお<ruby>金<rt>きん</rt></ruby>への<ruby>執着心<rt>しゅうちゃくしん</rt></ruby>には<ruby>際限<rt>さいげん</rt></ruby>がない。",
+    "ja": "<ruby>彼女<rt>かのじょ</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>への<ruby>執着心<rt>しゅうちゃくしん</rt></ruby>には<ruby>際限<rt>さいげん</rt></ruby>がない。",
     "en": "Her love of money is without bounds."
   },
   "収容": {
@@ -41897,11 +41897,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Speak to me freely."
   },
   "備え付ける": {
-    "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>家具<rt>かぐ</rt></ruby>を<ruby>備え付<rt>そなえつ</rt></ruby>けるのに<ruby>私達<rt>わたしたち</rt></ruby>はずいぶんとお<ruby>金<rt>きん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った。",
+    "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>家具<rt>かぐ</rt></ruby>を<ruby>備え付<rt>そなえつ</rt></ruby>けるのに<ruby>私達<rt>わたしたち</rt></ruby>はずいぶんとお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った。",
     "en": "We spent a lot of money on furnishing our house."
   },
   "そなえつける": {
-    "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>家具<rt>かぐ</rt></ruby>を<ruby>備え付<rt>そなえつ</rt></ruby>けるのに<ruby>私達<rt>わたしたち</rt></ruby>はずいぶんとお<ruby>金<rt>きん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った。",
+    "ja": "<ruby>家<rt>いえ</rt></ruby>に<ruby>家具<rt>かぐ</rt></ruby>を<ruby>備え付<rt>そなえつ</rt></ruby>けるのに<ruby>私達<rt>わたしたち</rt></ruby>はずいぶんとお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った。",
     "en": "We spent a lot of money on furnishing our house."
   },
   "備わる": {
@@ -45589,11 +45589,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Could you give me a discount?"
   },
   "根回し": {
-    "ja": "<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>辞任<rt>じにん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>に<ruby>困<rt>こま</rt></ruby>らないように<ruby>根回<rt>ねまわ</rt></ruby>しした。",
+    "ja": "<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>辞任<rt>じにん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>に<ruby>困<rt>こま</rt></ruby>らないように<ruby>根回<rt>ねまわ</rt></ruby>しした。",
     "en": "The president made certain that he lined his pockets before he resigned."
   },
   "ねまわし": {
-    "ja": "<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>辞任<rt>じにん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>に<ruby>困<rt>こま</rt></ruby>らないように<ruby>根回<rt>ねまわ</rt></ruby>しした。",
+    "ja": "<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>辞任<rt>じにん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>に<ruby>困<rt>こま</rt></ruby>らないように<ruby>根回<rt>ねまわ</rt></ruby>しした。",
     "en": "The president made certain that he lined his pockets before he resigned."
   },
   "眠たい": {
@@ -47061,7 +47061,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "She's going by ferry."
   },
   "フォーム": {
-    "ja": "リフォームに<ruby>結構<rt>けっこう</rt></ruby>お<ruby>金<rt>きん</rt></ruby>がかかった。",
+    "ja": "リフォームに<ruby>結構<rt>けっこう</rt></ruby>お<ruby>金<rt>かね</rt></ruby>がかかった。",
     "en": "I spent a lot of money remodeling my house."
   },
   "不可欠": {
@@ -49821,11 +49821,11 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Great geniuses have the shortest biographies."
   },
   "融通": {
-    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>融通<rt>ゆうづう</rt></ruby>した。",
+    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>融通<rt>ゆうづう</rt></ruby>した。",
     "en": "I accommodated my friend with money."
   },
   "ゆうずう": {
-    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>融通<rt>ゆうづう</rt></ruby>した。",
+    "ja": "<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>融通<rt>ゆうづう</rt></ruby>した。",
     "en": "I accommodated my friend with money."
   },
   "優勢": {

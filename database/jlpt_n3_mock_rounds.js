@@ -12049,7 +12049,7 @@ window.JLPT_N3_MOCK_ROUNDS = {
         "category": "文脈規定",
         "qNum": 21,
         "title": "締め切りに間に合わせるため、昼休みの時間も（<span class='jlpt-underline-blank'></span>）レポートを書き上げた。",
-        "titleRuby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>あいだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるため、<ruby>昼休<rt>ひるやす</rt></ruby>みの<ruby>時間<rt>じかん</rt></ruby>も（<span class='jlpt-underline-blank'></span>）レポートを<ruby>書<rt>か</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げた。",
+        "titleRuby": "<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるため、<ruby>昼休<rt>ひるやす</rt></ruby>みの<ruby>時間<rt>じかん</rt></ruby>も（<span class='jlpt-underline-blank'></span>）レポートを<ruby>書<rt>か</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げた。",
         "options": [
           "省いて",
           "抜いて",

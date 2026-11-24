@@ -59,7 +59,7 @@ window.JLPT_N4_LISTENING_DATA = {
       ],
       "answer": 0,
       "explanation": {
-        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は1<ruby>番<rt>ばん</rt></ruby>です。<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>から「<ruby>医師<rt>いし</rt></ruby>の<ruby>診察<rt>しんさつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、まずこちらの<ruby>体温計<rt>たいおんけい</rt></ruby>でもう<ruby>一度<rt>いちど</rt></ruby><ruby>熱<rt>ねつ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>っていただけますか」と<ruby>指示<rt>しじ</rt></ruby>され、<ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>は<ruby>熱<rt>ねつ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>り<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すことになっているため、まず<ruby>行<rt>い</rt></ruby>うのは<ruby>検温<rt>けんおん</rt></ruby>です。",
+        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は1<ruby>番<rt>ばん</rt></ruby>です。<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>から「<ruby>医師<rt>いし</rt></ruby>の<ruby>診察<rt>しんさつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、まずこちらの<ruby>体温計<rt>たいおんけい</rt></ruby>でもう<ruby>一度<rt>いちど</rt></ruby><ruby>熱<rt>ねつ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>っていただけますか」と<ruby>指示<rt>しじ</rt></ruby>され、<ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>は<ruby>熱<rt>ねつ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>り<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すことになっているため、まず<ruby>行<rt>おこな</rt></ruby>うのは<ruby>検温<rt>けんおん</rt></ruby>です。",
         "en": "The correct answer is Choice 1. The nurse instructs him to take his temperature again with the thermometer first before the doctor's exam, and to hand in his insurance card afterward.",
         "zh": "正確答案是選項1。護理師指示看診前先用體溫計再量一次體溫，健保卡等量完體溫後再交到櫃檯，因此最先做的是量體溫。",
         "ko": "정답은 1번입니다. 간호사가 의사 진료 전에 먼저 체온계로 열을 다시 재달라고 지시했고 보험증은 열을 다 잰 후에 접수처에 내라고 했으므로 가장 먼저 할 일은 체온 측정입니다."
@@ -269,7 +269,7 @@ window.JLPT_N4_LISTENING_DATA = {
       ],
       "answer": 0,
       "explanation": {
-        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は4<ruby>番<rt>ばん</rt></ruby>です。<ruby>本<rt>ほん</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>はすでに<ruby>箱詰<rt>はこづ</rt></ruby>めが<ruby>終<rt>お</rt></ruby>わっており、<ruby>車<rt>くるま</rt></ruby>への<ruby>運搬<rt>うんぱん</rt></ruby>は<ruby>後<rt>あと</rt></ruby>で<ruby>行<rt>い</rt></ruby>うことになったため、<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はまず「<ruby>台所<rt>だいどころ</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>れないように<ruby>新聞紙<rt>しんぶんし</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>む」<ruby>作業<rt>さぎょう</rt></ruby>をします。",
+        "ja": "<ruby>正解<rt>せいかい</rt></ruby>は4<ruby>番<rt>ばん</rt></ruby>です。<ruby>本<rt>ほん</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>はすでに<ruby>箱詰<rt>はこづ</rt></ruby>めが<ruby>終<rt>お</rt></ruby>わっており、<ruby>車<rt>くるま</rt></ruby>への<ruby>運搬<rt>うんぱん</rt></ruby>は<ruby>後<rt>あと</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うことになったため、<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はまず「<ruby>台所<rt>だいどころ</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>割<rt>わ</rt></ruby>れないように<ruby>新聞紙<rt>しんぶんし</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>む」<ruby>作業<rt>さぎょう</rt></ruby>をします。",
         "en": "The correct answer is Choice 4. Books and small items are already packed and moving boxes to the car will be done later, so the man will wrap the kitchen plates in newspaper first.",
         "zh": "正確答案是選項4。書籍和小物品已經裝箱，搬上車等全部打包完再一起進行，因此男生首先要做的是用報紙把廚房的盤子包起來。",
         "ko": "정답은 4번입니다. 책과 소품은 이미 상자에 담았고 차로 나르는 일은 나중에 하기로 했으므로 남자가 먼저 할 일은 부엌 접시를 신문지로 싸는 것입니다."

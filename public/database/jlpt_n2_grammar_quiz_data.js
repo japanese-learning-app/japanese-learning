@@ -8869,8 +8869,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "上",
     "notes": "",
-    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>（　　　）、<ruby>揚げ物<rt>あげもの</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>いものは<ruby>食<rt>た</rt></ruby>べすぎない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
-    "sentence_jp_ruby": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>揚げ物<rt>あげもの</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>いものは<ruby>食<rt>た</rt></ruby>べすぎない<ruby>方<rt>かた</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
+    "question_ruby": "<ruby>健康<rt>けんこう</rt></ruby>（　　　）、<ruby>揚げ物<rt>あげもの</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>いものは<ruby>食<rt>た</rt></ruby>べすぎない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
+    "sentence_jp_ruby": "<ruby>健康<rt>けんこう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>揚げ物<rt>あげもの</rt></ruby>や<ruby>甘<rt>あま</rt></ruby>いものは<ruby>食<rt>た</rt></ruby>べすぎない<ruby>方<rt>ほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います。",
     "choices_ruby": [
       "やがて",
       "つつある",
@@ -9019,8 +9019,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "上",
     "notes": "",
-    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育<rt>きょういく</rt></ruby>【　　】は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方<rt>かた</rt></ruby>がいい。",
-    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育上<rt>きょういくじょう</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方<rt>かた</rt></ruby>がいい。",
+    "question_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育<rt>きょういく</rt></ruby>【　　】は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>がいい。",
+    "sentence_jp_ruby": "その<ruby>番組<rt>ばんぐみ</rt></ruby>は<ruby>教育上<rt>きょういくじょう</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ないから、<ruby>子供<rt>こども</rt></ruby>に<ruby>見せ<rt>みせ</rt></ruby>ない<ruby>方<rt>ほう</rt></ruby>がいい。",
     "choices_ruby": [
       "のみならず",
       "ていては",
