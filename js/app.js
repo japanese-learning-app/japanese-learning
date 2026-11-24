@@ -406,7 +406,7 @@
       "fr": "employé de gare"
     },
     "example": {
-      "ja": "<ruby>道<rt>みち</rt></ruby>が分からなかったので、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>尋<rt>たず</rt></ruby>ねました。",
+      "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からなかったので、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>尋<rt>たず</rt></ruby>ねました。",
       "en": "I didn't know the way, so I asked the station staff.",
       "zh_TW": "因為不知道路，所以向站務員詢問了。",
       "zh_CN": "因为不知道路，所以向站务员询问了。",
@@ -433,7 +433,7 @@
       "fr": "mauvaise attitude / mauvaise conduite"
     },
     "example": {
-      "ja": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、少しがっかりしました。",
+      "ja": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>少<rt>すこ</rt></ruby>しがっかりしました。",
       "en": "The store clerk had a bad attitude, which was a bit disappointing.",
       "zh_TW": "店員的態度很差，讓人有點失望。",
       "zh_CN": "店员的态度很差，让人有点失望。",
@@ -617,7 +617,7 @@
       "fr": "vrai / authentique"
     },
     "example": {
-      "ja": "A: このダイヤモンドの<ruby>指輪<rt>ゆびわ</rt></ruby>は<ruby>鑑定書<rt>かんていしょ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いている<ruby>本物<rt>ほんもの</rt></ruby>です。<br/>B: さすが、とても<ruby.輝<rt>かがや</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>ですね！",
+      "ja": "A: このダイヤモンドの<ruby>指輪<rt>ゆびわ</rt></ruby>は<ruby>鑑定書<rt>かんていしょ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いている<ruby>本物<rt>ほんもの</rt></ruby>です。<br/>B: さすが、とても<ruby>輝<rt>かがや</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>ですね！",
       "zh_TW": "A: 這只鑽石戒指附有鑑定書，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美麗呢！",
       "zh_CN": "A: 这只钻石戒指附有鉴定证书，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美丽呢！",
       "en": "A: This diamond ring comes with a certificate and is genuine.<br/>B: As expected, the sparkle is truly gorgeous!",
@@ -642,7 +642,7 @@
       "fr": "escroquerie / arnaque"
     },
     "example": {
-      "ja": "A: <ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いそうになりました。<br/>B: <ruby>危<rt>あぶ</rt></ruby>なかったですね！すぐにお<ruby>金<rt>かね</rt></ruby>を払わなくてよかったです。",
+      "ja": "A: <ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いそうになりました。<br/>B: <ruby>危<rt>あぶ</rt></ruby>なかったですね！すぐにお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>わなくてよかったです。",
       "zh_TW": "A: 接到陌生號碼的電話，差點遇上匯款詐騙。<br/>B: 太危險了！好在沒有立刻匯錢。",
       "zh_CN": "A: 接到陌生号码的电话，差点碰上汇款诈骗。<br/>B: 太危险了！好在没有立刻转账。",
       "en": "A: I almost fell for a bank transfer scam from an unknown number.<br/>B: That was close! Good thing you didn't pay right away.",
@@ -767,7 +767,7 @@
       "fr": "s'occuper de / prendre soin de"
     },
     "example": {
-      "ja": "A: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早起<rt>はやお</rt></ruby>きして、<ruby>飼<rt>か</rt></ruby>っている<ruby>犬<rt>いぬ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。<br/>B: <ruby>散歩<rt>さんぽ</rt></ruby>やご飯をあげるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、とてもかわいいですね！",
+      "ja": "A: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早起<rt>はやお</rt></ruby>きして、<ruby>飼<rt>か</rt></ruby>っている<ruby>犬<rt>いぬ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。<br/>B: <ruby>散歩<rt>さんぽ</rt></ruby>やご<ruby>飯<rt>はん</rt></ruby>をあげるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、とてもかわいいですね！",
       "zh_TW": "A: 我每天早起照顧家裡養的狗狗。<br/>B: 散步和餵食雖然辛苦，但牠一定很可愛吧！",
       "zh_CN": "A: 我每天早起照顾家里养的狗狗。<br/>B: 散步和喂食虽然辛苦，但它一定很可爱吧！",
       "en": "A: I wake up early every morning to take care of my dog.<br/>B: Walking and feeding takes effort, but dogs are so lovely!",
@@ -792,7 +792,7 @@
       "fr": "entraînement rigoureux / apprentissage"
     },
     "example": {
-      "ja": "A: <ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>になるために、<ruby>有名店<rt>ゆうめいてん</rt></ruby>で10<ruby>年間<rt>ねんかん</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>しました。<br/>B: 10<ruby>年<rt>ねん</rt></ruby>もの<ruby>厳<rt>きび</rt></ruby>しい<ruby>修行<rt>しゅぎょう</rt></ruby>を乗り越えたのは素晴らしいですね！",
+      "ja": "A: <ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>になるために、<ruby>有名店<rt>ゆうめいてん</rt></ruby>で10<ruby>年間<rt>ねんかん</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>しました。<br/>B: 10<ruby>年<rt>ねん</rt></ruby>もの<ruby>厳<rt>きび</rt></ruby>しい<ruby>修行<rt>しゅぎょう</rt></ruby>を<ruby>乗り越え<rt>のりこえ</rt></ruby>たのは<ruby>素晴<rt>すば</rt></ruby>らしいですね！",
       "zh_TW": "A: 為了成為一流的壽司師傅，他在名店修行了10年。<br/>B: 能熬過10年嚴格的學徒修行，真的很了不起呢！",
       "zh_CN": "A: 为了成为一流的寿司师傅，他在名店修行了10年。<br/>B: 能熬过10年严格的学徒修行，真的很了不起呢！",
       "en": "A: To become a top-tier sushi chef, he trained for 10 years at a famous restaurant.<br/>B: Overcoming 10 years of rigorous training is truly admirable!",
@@ -817,7 +817,7 @@
       "fr": "faire face / affronter"
     },
     "example": {
-      "ja": "A: つらい<ruby>現実<rt>げんじつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げずに、しっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br/>B: ええ、<ruby>問題<rt>もんだい</rt></ruby>から目を背けずに<ruby>一歩<rt>いっぽ</rt></ruby>ずつ進みましょう。",
+      "ja": "A: つらい<ruby>現実<rt>げんじつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げずに、しっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br/>B: ええ、<ruby>問題<rt>もんだい</rt></ruby>から<ruby>目<rt>め</rt></ruby>を<ruby>背<rt>そむ</rt></ruby>けずに<ruby>一歩<rt>いっぽ</rt></ruby>ずつ<ruby>進<rt>すす</rt></ruby>みましょう。",
       "zh_TW": "A: 不要逃避痛苦的現實，需要好好正視它的勇氣。<br/>B: 是啊，不逃避問題，一步一步往前邁進吧。",
       "zh_CN": "A: 不要逃避痛苦的现实，需要好好正视它的勇气。<br/>B: 是啊，不逃避问题，一步一步往前迈进吧。",
       "en": "A: We need the courage to honestly face harsh reality without running away.<br/>B: Yes, let's move forward step by step without turning away from problems.",
@@ -4355,7 +4355,7 @@
       "fr": "cousin / cousine"
     },
     "example": {
-      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はいとこの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに行きました。<br/>B: <ruby>久<rt>ひさ</rt></ruby>しぶりに会えて楽しかったですね！",
+      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はいとこの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きました。<br/>B: <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>えて<ruby>楽<rt>たの</rt></ruby>しかったですね！",
       "zh_TW": "A: 週末我去了表親家玩。<br/>B: 久別重逢一定很開心吧！",
       "zh_CN": "A: 周末我去了堂表亲家玩。<br/>B: 久别重逢一定很开心吧！",
       "en": "A: I went to play at my cousin's house over the weekend.<br/>B: It must have been fun catching up after so long!",
@@ -4605,7 +4605,7 @@
       "fr": "gomme"
     },
     "example": {
-      "ja": "A: すみません、<ruby>消<rt>け</rt></ruby>しゴムを<ruby>忘<rt>わす</rt></ruby>れてしまいました。<br/>B: <ruby>私<rt>わたし</rt></ruby>のを使ってもいいですよ。",
+      "ja": "A: すみません、<ruby>消<rt>け</rt></ruby>しゴムを<ruby>忘<rt>わす</rt></ruby>れてしまいました。<br/>B: <ruby>私<rt>わたし</rt></ruby>のを<ruby>使<rt>つか</rt></ruby>ってもいいですよ。",
       "zh_TW": "A: 不好意思，我忘了帶橡皮擦。<br/>B: 可以借你用我的喔。",
       "zh_CN": "A: 不好意思，我忘了带橡皮擦。<br/>B: 可以借你用我的哦。",
       "en": "A: Excuse me, I forgot my eraser.<br/>B: You can borrow mine!",
@@ -4655,7 +4655,7 @@
       "fr": "gagner (de l'argent)"
     },
     "example": {
-      "ja": "A: アルバイトでお<ruby>金<rt>かね</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>いで、<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。<br/>B: 素晴らしいですね！<ruby>応援<rt>おうえん</rt></ruby>しています。",
+      "ja": "A: アルバイトでお<ruby>金<rt>かね</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>いで、<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。<br/>B: <ruby>素晴<rt>すば</rt></ruby>らしいですね！<ruby>応援<rt>おうえん</rt></ruby>しています。",
       "zh_TW": "A: 我想靠打工賺錢去日本旅行。<br/>B: 太棒了！我支持你。",
       "zh_CN": "A: 我想靠兼职打工赚钱去日本旅行。<br/>B: 太棒了！我支持你。",
       "en": "A: I want to earn money from a part-time job to travel to Japan.<br/>B: That's wonderful! I'm cheering for you.",
@@ -4955,7 +4955,7 @@
       "fr": "carotte"
     },
     "example": {
-      "ja": "A: カレーにはにんじんをたっぷり<ruby>入<rt>い</rt></ruby>れます。<br/>B: <ruby>甘<rt>あま</rt></ruby>みが出てとても<ruby>美味<rt>おい</rt></ruby>しくなりますね。",
+      "ja": "A: カレーにはにんじんをたっぷり<ruby>入<rt>い</rt></ruby>れます。<br/>B: <ruby>甘<rt>あま</rt></ruby>みが<ruby>出<rt>で</rt></ruby>てとても<ruby>美味<rt>おい</rt></ruby>しくなりますね。",
       "zh_TW": "A: 煮咖哩時我會放很多紅蘿蔔。<br/>B: 會散發自然的甜味，變得非常好吃呢。",
       "zh_CN": "A: 煮咖喱时我会放很多胡萝卜。<br/>B: 会散发自然的甜味，变得非常好吃呢。",
       "en": "A: I put lots of carrots in curry.<br/>B: It brings out the sweetness and makes it very delicious.",
@@ -5005,7 +5005,7 @@
       "fr": "chawanmushi (flan aux œufs salé à la japonaise)"
     },
     "example": {
-      "ja": "A: <ruby>和食<rt>わしょく</rt></ruby>の<ruby>茶碗蒸<rt>ちゃわんむ</rt></ruby>しを<ruby>食<rt>た</rt></ruby>べたことがありますか。<br/>B: はい、出汁の味がして、なめらかで<ruby>大好<rt>だいす</rt></ruby>きです。",
+      "ja": "A: <ruby>和食<rt>わしょく</rt></ruby>の<ruby>茶碗蒸<rt>ちゃわんむ</rt></ruby>しを<ruby>食<rt>た</rt></ruby>べたことがありますか。<br/>B: はい、<ruby>出汁<rt>だし</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>がして、なめらかで<ruby>大好<rt>だいす</rt></ruby>きです。",
       "zh_TW": "A: 你吃過日式料理的茶碗蒸嗎？<br/>B: 吃過，高湯的味道很濃郁，口感滑嫩，我很喜歡。",
       "zh_CN": "A: 你吃过日料里的茶碗蒸吗？<br/>B: 吃过，高汤味很浓，口感滑嫩，我很喜欢。",
       "en": "A: Have you ever eaten Japanese chawanmushi?<br/>B: Yes, it has a rich dashi flavor, is so smooth, and I love it.",
@@ -6329,7 +6329,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261124_1804';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261124_1815';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction

@@ -23585,7 +23585,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "délicieux / bon"
     },
     "example": {
-      "ja": "このお店のラーメンはとても<ruby>美味<rt>おい</rt></ruby>しいです。",
+      "ja": "このお<ruby>店<rt>みせ</rt></ruby>のラーメンはとても<ruby>美味<rt>おい</rt></ruby>しいです。",
       "en": "The ramen at this shop is very delicious.",
       "zh_TW": "這家店的拉麵非常好吃。",
       "zh_CN": "这家店的拉面非常好吃。",
