@@ -45,6 +45,7 @@
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
       if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
+      if (name === 'weakness' && typeof initWeaknessModal === 'function') initWeaknessModal();
     } catch(err) {
       console.warn('Sub-initializer warning for ' + name + ':', err);
     }
@@ -3718,10 +3719,10 @@ rt {
           <span class="card-badge badge-blue">弱点集中突破</span>
         </div>
         <div class="card-title" style="display:flex; align-items:baseline; gap:8px; flex-wrap:wrap;"><span>苦手克服</span><span style="font-size:0.9rem; font-weight:700; color:var(--text-sub);">Weakness Training</span></div>
-        <div class="card-desc">間違えやすい動詞の活用、助詞の使い分け（は・が・に・で）、感覚をつかむオノマトペ図鑑。</div>
+        <div class="card-desc">曖昧さゼロの助詞徹底攻略（は・が・に・で・を）、間違えやすい動詞の活用、オノマトペ図鑑。</div>
         <div class="card-tags">
+          <span class="card-tag">🔥 助詞徹底攻略（は・が・に・で・を）</span>
           <span class="card-tag">動詞活用マスター</span>
-          <span class="card-tag">助詞徹底攻略</span>
           <span class="card-tag">オノマトペ図鑑</span>
         </div>
       </div>
@@ -4717,39 +4718,31 @@ rt {
 
 <!-- モーダル: 苦手克服 -->
 <div class="app-modal-overlay" id="modal-weakness" onclick="closeModalOnBg(event, 'weakness')">
-  <div class="app-modal-box">
-    <div class="app-modal-header">
-      <div class="app-modal-title">苦手克服（動詞活用・助詞・オノマトペ）</div>
-      <button class="app-modal-close" onclick="closeModal('weakness')">✕</button>
+  <div class="app-modal-box" style="max-width:960px; width:95%; max-height:92vh; display:flex; flex-direction:column; overflow:hidden;">
+    <div class="app-modal-header" style="display:flex; align-items:center; justify-content:space-between; background:linear-gradient(135deg, #1486AD 0%, #0D6380 100%); color:white; padding:12px 18px; flex-shrink:0;">
+      <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+        <button onclick="closeModal('weakness')" style="background:rgba(255,255,255,0.22); border:1.5px solid rgba(255,255,255,0.45); color:white; padding:6px 14px; border-radius:20px; font-weight:800; font-size:0.84rem; cursor:pointer; display:inline-flex; align-items:center; gap:4px;">
+          ← ホームに戻る (Home)
+        </button>
+        <div class="app-modal-title" style="color:white; font-size:1.12rem; font-weight:800;">🎯 苦手克服（助詞徹底攻略・動詞活用・オノマトペ）</div>
+        <button type="button" class="furigana-toggle-btn active" onclick="toggleFurigana()" style="background:rgba(255,255,255,0.22); border:1.5px solid rgba(255,255,255,0.45); color:white; padding:4px 10px; border-radius:16px; font-weight:800; font-size:0.78rem; cursor:pointer; display:inline-flex; align-items:center; gap:4px;">
+          <span class="furigana-status-dot"></span>
+          <span class="furigana-btn-text">ふりがな ON</span>
+        </button>
+      </div>
+      <button class="app-modal-close" onclick="closeModal('weakness')" style="color:white; font-size:1.3rem;">✕</button>
     </div>
-    <div class="app-modal-body">
-      <div class="modal-tab-bar">
-        <button class="modal-tab-btn active" onclick="switchWeaknessTab('verbs')">動詞活用マスター</button>
-        <button class="modal-tab-btn" onclick="switchWeaknessTab('particles')">助詞徹底攻略（は・が・に・で）</button>
-        <button class="modal-tab-btn" onclick="switchWeaknessTab('onomatopoeia')">オノマトペ図鑑</button>
+
+    <div style="background:#FFFFFF; border-bottom:2px solid #E2ECF2; padding:10px 18px; flex-shrink:0;">
+      <div class="modal-tab-bar" style="border-bottom:none; padding-bottom:0;">
+        <button class="modal-tab-btn active" id="btn-weakness-particles" onclick="switchWeaknessTab('particles')">🔥 助詞徹底攻略（は・が・に・で・を）</button>
+        <button class="modal-tab-btn" id="btn-weakness-verbs" onclick="switchWeaknessTab('verbs')">🔄 動詞活用マスター (Verb Conjugation)</button>
+        <button class="modal-tab-btn" id="btn-weakness-onomatopoeia" onclick="switchWeaknessTab('onomatopoeia')">✨ オノマトペ図鑑 (Onomatopoeia)</button>
       </div>
-      <div id="weakness-tab-content">
-        <!-- 動詞活用表 -->
-        <div style="background:white; border:1.5px solid var(--border-soft); border-radius:14px; padding:16px;">
-          <div style="font-weight:700; color:var(--kobe-blue); margin-bottom:8px;">動詞の主要活用チェック</div>
-          <table style="width:100%; border-collapse:collapse; font-size:0.85rem; text-align:left;">
-            <thead>
-              <tr style="background:#F1F5F9; color:#475569;">
-                <th style="padding:8px; border:1px solid #E2E8F0;">辞書形</th>
-                <th style="padding:8px; border:1px solid #E2E8F0;">ます形</th>
-                <th style="padding:8px; border:1px solid #E2E8F0;">て形</th>
-                <th style="padding:8px; border:1px solid #E2E8F0;">ない形</th>
-                <th style="padding:8px; border:1px solid #E2E8F0;">可能形</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><td style="padding:8px; border:1px solid #E2E8F0;">行く</td><td style="padding:8px; border:1px solid #E2E8F0;">行きます</td><td style="padding:8px; border:1px solid #E2E8F0;">行って</td><td style="padding:8px; border:1px solid #E2E8F0;">行かない</td><td style="padding:8px; border:1px solid #E2E8F0;">行ける</td></tr>
-              <tr><td style="padding:8px; border:1px solid #E2E8F0;">食べる</td><td style="padding:8px; border:1px solid #E2E8F0;">食べます</td><td style="padding:8px; border:1px solid #E2E8F0;">食べて</td><td style="padding:8px; border:1px solid #E2E8F0;">食べない</td><td style="padding:8px; border:1px solid #E2E8F0;">食べられる</td></tr>
-              <tr><td style="padding:8px; border:1px solid #E2E8F0;">する</td><td style="padding:8px; border:1px solid #E2E8F0;">します</td><td style="padding:8px; border:1px solid #E2E8F0;">して</td><td style="padding:8px; border:1px solid #E2E8F0;">しない</td><td style="padding:8px; border:1px solid #E2E8F0;">できる</td></tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
+    </div>
+
+    <div class="app-modal-body" id="weakness-tab-content" style="padding:18px 20px 26px; overflow-y:auto; flex:1; background:#F8FBFE;">
+      <!-- JSで動的描画 -->
     </div>
   </div>
 </div>
@@ -5019,6 +5012,7 @@ rt {
       if (name === 'conversation' && typeof initConversationModal === 'function') initConversationModal();
       if (name === 'keigo' && typeof initKeigoModal === 'function') initKeigoModal();
       if (name === 'mylist' && typeof renderUnifiedMylistModal === 'function') renderUnifiedMylistModal();
+      if (name === 'weakness' && typeof initWeaknessModal === 'function') initWeaknessModal();
     } catch(err) {
       console.warn('Sub-initializer warning for ' + name + ':', err);
     }
@@ -7488,6 +7482,898 @@ Advice: Explanation in ${targetLangName} why it is corrected.
       <span style="font-size:0.85rem; color:#475569;">
       💡 <strong>アドバイス</strong>: 「でも」は会話でよく使われますが、文中では「〜でしたが」「〜なのですが」と繋ぐとより自然な文章になります！
       </span>
+    `;
+  }
+
+  // ================= 苦手克服: 助詞徹底攻略（は・が・に・で・を）・動詞活用・オノマトペ =================
+  let currentWeaknessTab = 'particles';
+  let currentParticleSubMode = 'guide'; // 'guide' | 'pairs' | 'quiz'
+  let currentParticleGuideGroup = 'wa_ga'; // 'wa_ga' | 'ni_de' | 'wo_ga_ni'
+  let currentParticleQuizCat = 'all'; // 'all' | 'wa_ga' | 'ni_de' | 'wo_ga_ni'
+  let particleQuizIndex = 0;
+  let particleQuizScore = 0;
+  let particleQuizAnswered = false;
+  let particleQuizList = [];
+
+  const PARTICLE_GUIDE_DATA = {
+    wa_ga: {
+      title: '🥊 対決①：「は」vs「が」の決定的な違い (Topic [wa] vs Focus/Subject [ga])',
+      summary: '「は」はすでに場に出ているテーマ（スポットライトは【後ろ】に当たる）、「が」は新しく主役を指名・現象をそのまま切り取る（スポットライトは【前】に当たる）助詞です。どちらでも通じる曖昧な文を排除した、100%確定する5大鉄則です！',
+      spotlights: [
+        { badge: 'は (wa)', color: '#1D4ED8', bg: '#EFF6FF', border: '#BFDBFE', desc: '【主題・対比】〜について言うと（焦点は「は」の後ろ！） / Known Topic & Contrast (Focus is AFTER wa)' },
+        { badge: 'が (ga)', color: '#B45309', bg: '#FFFBEB', border: '#FDE68A', desc: '【主語指名・新情報・現象】まさに〜が！（焦点は「が」の前！） / New Subject, Phenomenon & Object of Feeling (Focus is BEFORE ga)' }
+      ],
+      rules: [
+        {
+          num: '鉄則 1',
+          title: '疑問詞（だれ・なに・どこ・どれ）が前にある時は【100%「が」】',
+          titleEn: 'Question word as subject (Who / What / Which) ➔ Always "GA"',
+          target: '絶対「が」',
+          targetColor: '#D97706',
+          why: 'まだ正体がわからない疑問詞（だれ・なに・どれ）は「テーマ（は）」にすることができません（「✕ だれは来ましたか」は文法的に100%誤り）。また、その質問に対する答えも必ず「が」で答えます。',
+          whyEn: 'An unknown question word cannot be a known topic ("wa"). Both the question and the answer identifying the subject must use "ga".',
+          okJp: 'きのう、<strong>だれ【が】</strong><ruby>来<rt>き</rt></ruby>ましたか？ ― <ruby>田中<rt>たなか</rt></ruby>さん<strong>【が】</strong><ruby>来<rt>き</rt></ruby>ました。',
+          okSpeech: 'きのう、だれが来ましたか？ 田中さんが来ました。',
+          okEn: 'Who came yesterday? — Mr. Tanaka came.',
+          ngJp: '✕ だれ【は】来ましたか？ ― 田中さん【は】来ました。'
+        },
+        {
+          num: '鉄則 2',
+          title: '疑問詞が後ろ（述語）にある時は【100%「は」】',
+          titleEn: 'Question word in the predicate (Where / What / When is X?) ➔ Always "WA"',
+          target: '絶対「は」',
+          targetColor: '#1D4ED8',
+          why: '「トイレ【は】どこですか？」「お名前【は】何ですか？」のように、聞きたい核心（どこ・何）が文の後ろにある時は、前は必ずテーマを示す「は」になります。',
+          whyEn: 'When the focus of the question (where, what time, who) is at the end of the sentence, the topic at the beginning takes "wa".',
+          okJp: 'すみません、トイレ<strong>【は】</strong>どこですか？ ― トイレ<strong>【は】</strong>2<ruby>階<rt>かい</rt></ruby>です。',
+          okSpeech: 'すみません、トイレはどこですか？ トイレは2階です。',
+          okEn: 'Excuse me, where is the restroom? — The restroom is on the 2nd floor.',
+          ngJp: '✕ すみません、トイレ【が】どこですか？（通常質問では不可）'
+        },
+        {
+          num: '鉄則 3',
+          title: '好き・嫌い・上手・下手・わかる・できる・ほしい・ある/いる の対象は【100%「が」】',
+          titleEn: 'Objects of likes, skills, ability, understanding, desire, and possession ➔ Always "GA"',
+          target: '絶対「が」',
+          targetColor: '#D97706',
+          why: '感情（好き・嫌い・ほしい）、能力（上手・下手・わかる・できる）、所有（ある・いる）の対象を表す言葉には、必ず「が」を使います（「を」も使えません）。',
+          whyEn: 'Adjectives and verbs of emotion, ability, and possession always mark their target with "ga".',
+          okJp: '<ruby>私<rt>わたし</rt></ruby>は <ruby>日本語<rt>にほんご</rt></ruby><strong>【が】</strong>わかります。<ruby>田中<rt>たなか</rt></ruby>さんは <ruby>歌<rt>うた</rt></ruby><strong>【が】</strong><ruby>上手<rt>じょうず</rt></ruby>です。',
+          okSpeech: '私は日本語がわかります。田中さんは歌が上手です。',
+          okEn: 'I understand Japanese. Mr. Tanaka is good at singing.',
+          ngJp: '✕ 私は日本語【を】わかります。 / ✕ 歌【を】上手です。'
+        },
+        {
+          num: '鉄則 4',
+          title: '目の前の出来事・自然現象・五感の気づき・身体感覚は【100%「が」】',
+          titleEn: 'Immediate sensory perception, natural phenomena & body sensations ➔ Always "GA"',
+          target: '絶対「が」',
+          targetColor: '#D97706',
+          why: '「あっ、雨が降ってきた！」「バスが来た！」「いい匂いがする」「頭が痛い」など、今感じたことや目の前の現象をそのまま描写する時は100%「が」です。',
+          whyEn: 'Describing an event happening right before your eyes, weather, smells/sounds, or physical pain requires "ga".',
+          okJp: 'あっ、バス<strong>【が】</strong><ruby>来<rt>き</rt></ruby>ましたよ！ / カレーのいい<ruby>匂<rt>にお</rt></ruby>い<strong>【が】</strong>します。',
+          okSpeech: 'あっ、バスが来ましたよ！ カレーのいい匂いがします。',
+          okEn: 'Oh, the bus has come! / It smells good like curry.',
+          ngJp: '✕ あっ、バス【は】来ましたよ！ / ✕ カレーのいい匂い【は】します。'
+        },
+        {
+          num: '鉄則 5',
+          title: '2つのものをはっきり対比（Aは〜、でもBは〜）する時は【100%「は」】',
+          titleEn: 'Clear contrast between A and B (A is..., but B is...) ➔ Always "WA"',
+          target: '絶対「は」',
+          targetColor: '#1D4ED8',
+          why: 'AとBの2つを並べて違いを比べる文（「きのうは〜、きょうは〜」「肉は食べるけど、魚は食べない」）では、対比を表す「は」しか使えません。',
+          whyEn: 'When contrasting two items explicitly in the same sentence, both contrasted items must be marked with "wa".',
+          okJp: 'きのう<strong>【は】</strong><ruby>雨<rt>あめ</rt></ruby>でしたが、きょう<strong>【は】</strong>いい<ruby>天気<rt>てんき</rt></ruby>です。',
+          okSpeech: 'きのうは雨でしたが、きょうはいい天気です。',
+          okEn: 'Yesterday was rainy, but today is nice weather.',
+          ngJp: '✕ きのう【が】雨でしたが、きょう【が】いい天気です。'
+        }
+      ]
+    },
+    ni_de: {
+      title: '🥊 対決②：「に」vs「で」の決定的な違い (Static Point [ni] vs Active Area/Means [de])',
+      summary: '「に」は【静止画（ピン📍・存在・ピタッとくっつく着点・時刻）】、「で」は【動画（アクション🎬・活動場所・手段・道具・範囲）】です！',
+      spotlights: [
+        { badge: 'に (ni)', color: '#059669', bg: '#ECFDF5', border: '#A7F3D0', desc: '【静止画📍】存在場所（いる・ある・住む）、着点（座る・乗る・入る・着く）、時刻の一点' },
+        { badge: 'で (de)', color: '#E11D48', bg: '#FFF1F2', border: '#FECDD3', desc: '【動画🎬】動作の場所（食べる・働く）、イベント開催（お祭りがある）、交通手段・道具・範囲' }
+      ],
+      rules: [
+        {
+          num: '鉄則 1',
+          title: 'そこに「いる・ある・住む（静止画）」は【に】、そこで「動作する（動画）」は【で】',
+          titleEn: 'Existence (iru/aru/sumu) ➔ "NI" vs. Action (study/eat/work) ➔ "DE"',
+          target: '存在＝「に」 / 動作＝「で」',
+          targetColor: '#059669',
+          why: '後ろの動詞が「ただそこに存在する（いる・ある・住む・泊まる）」なら100%「に」。後ろの動詞が「そこで動き回るアクション（勉強する・食べる・買う・働く）」なら100%「で」です。',
+          whyEn: 'Static existence verbs take "ni"; dynamic action verbs take "de".',
+          okJp: '<ruby>部屋<rt>へや</rt></ruby><strong>【に】</strong><ruby>猫<rt>ねこ</rt></ruby>がいます。（存在） / <ruby>部屋<rt>へや</rt></ruby><strong>【で】</strong><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。（動作）',
+          okSpeech: '部屋に猫がいます。部屋で本を読みます。',
+          okEn: 'There is a cat in the room. (Existence) / I read a book in the room. (Action)',
+          ngJp: '✕ 部屋【で】猫がいます。 / ✕ 部屋【に】本を読みます。'
+        },
+        {
+          num: '鉄則 2',
+          title: '超重要！「イベント・お祭り・会議・試合・事故」＋「がある」は【100%「で」】',
+          titleEn: 'Events (festival, meeting, concert, accident) + "ga aru" (held/occurs) ➔ Always "DE"',
+          target: '絶対「で」',
+          targetColor: '#E11D48',
+          why: '同じ「〜があります」でも、机や本などの「モノ」ではなく、お祭り・会議・コンサート・パーティー・事故などの「出来事（＝開催される・発生する）」の時は、活動場所の「で」になります！',
+          whyEn: 'When "aru" means an event is held or takes place (rather than a physical object sitting somewhere), the location must take "de".',
+          okJp: 'あした、<ruby>公園<rt>こうえん</rt></ruby><strong>【で】</strong>お<ruby>祭<rt>まつ</rt></ruby>りがあります。 / <ruby>会議室<rt>かいぎしつ</rt></ruby><strong>【で】</strong><ruby>会議<rt>かいぎ</rt></ruby>があります。',
+          okSpeech: 'あした、公園でお祭りがあります。会議室で会議があります。',
+          okEn: 'Tomorrow, there is a festival at the park. / There is a meeting in the conference room.',
+          ngJp: '✕ 公園【に】お祭りがあります。 / ✕ 会議室【に】会議があります。'
+        },
+        {
+          num: '鉄則 3',
+          title: 'ピタッとくっつく着点（座る・乗る・入る・着く・書く・置く）は【100%「に」】',
+          titleEn: 'Point of contact / landing point (sit on, board, enter, arrive at, write on) ➔ Always "NI"',
+          target: '絶対「に」',
+          targetColor: '#059669',
+          why: '動作の結果として体やモノが「どこにピタッと着地するか（いすに座る・電車に乗る・お風呂に入る・駅に着く・紙に書く）」というゴール地点は必ず「に」を使います。',
+          whyEn: 'Verbs where the subject or object lands on or enters a target destination always mark that target with "ni".',
+          okJp: 'どうぞ、こちらのいす<strong>【に】</strong><ruby>座<rt>すわ</rt></ruby>ってください。 / <ruby>東京駅<rt>とうきょうえき</rt></ruby><strong>【に】</strong><ruby>着<rt>つ</rt></ruby>きました。',
+          okSpeech: 'どうぞ、こちらのいすに座ってください。東京駅に着きました。',
+          okEn: 'Please sit on this chair. / I arrived at Tokyo Station.',
+          ngJp: '✕ いす【で】座ってください。 / ✕ 東京駅【で】着きました。'
+        },
+        {
+          num: '鉄則 4',
+          title: '交通手段・道具・言語・材料（どうやって？）は【100%「で」】',
+          titleEn: 'Means of transport, tools, languages & materials (How / By what means?) ➔ Always "DE"',
+          target: '絶対「で」',
+          targetColor: '#E11D48',
+          why: '「何を使って（電車で・はしで・日本語で・ペンで）」という手段や道具を表す時は100%「で」です。（※「電車【に】乗る」は着点、「電車【で】行く」は手段！）',
+          whyEn: 'Transportation methods, tools, utensils, and languages are always marked with "de".',
+          okJp: '<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby><strong>【で】</strong><ruby>会社<rt>かいしゃ</rt></ruby>へ行きます。 / <ruby>日本語<rt>にほんご</rt></ruby><strong>【で】</strong><ruby>話<rt>はな</rt></ruby>しましょう。',
+          okSpeech: '毎日、電車で会社へ行きます。日本語で話しましょう。',
+          okEn: 'I go to the office by train every day. / Let\'s speak in Japanese.',
+          ngJp: '✕ 電車【に】会社へ行きます。 / ✕ 日本語【に】話しましょう。'
+        },
+        {
+          num: '鉄則 5',
+          title: '時計・カレンダーの1点は【に】、範囲・人数・合計（〜の中で・3人で・1時間で）は【で】',
+          titleEn: 'Specific point in time ➔ "NI" vs. Scope, group size, or total limit ➔ "DE"',
+          target: '時点＝「に」 / 範囲・合計＝「で」',
+          targetColor: '#059669',
+          why: '「7時に」「日曜日に」のような時刻・日付のピンポイントは「に」。一方、「果物の中で一番」「一人で」「全部で1,000円」「30分で終わる」のような範囲・枠組みは「で」です。',
+          whyEn: 'Specific clock times/dates take "ni", while comparison scopes ("among ~"), group counts ("by oneself"), and totals take "de".',
+          okJp: '<ruby>毎朝<rt>まいあさ</rt></ruby>7<ruby>時<rt>じ</rt></ruby><strong>【に】</strong><ruby>起<rt>お</rt></ruby>きます。 / <ruby>果物<rt>くだもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby><strong>【で】</strong>いちごが<ruby>一番好<rt>いちばんす</rt></ruby>きです。',
+          okSpeech: '毎朝7時に起きます。果物の中でいちごが一番好きです。',
+          okEn: 'I wake up at 7:00 every morning. / Among fruits, I like strawberries the best.',
+          ngJp: '✕ 7時【で】起きます。 / ✕ 果物の中【に】いちごが一番好きです。'
+        }
+      ]
+    },
+    wo_ga_ni: {
+      title: '🥊 対決③：「を」の鉄則（他動詞 vs 自動詞「が」／ 出発・通過「を」vs 着点「に」）',
+      summary: '学習者が最も間違えやすい「を」の2大ルール！①人が動かす他動詞「を」vs 自然に動く自動詞・可能形「が」、②中に入る着点「に」vs 外に出る・通り抜ける「を」を完全整理！',
+      spotlights: [
+        { badge: 'を (wo)', color: '#7C3AED', bg: '#F5F3FF', border: '#DDD6FE', desc: '【他動詞の対象】〜を食べる・開ける / 【出発点・通過点】電車を降りる・部屋を出る・公園を散歩する・橋を渡る' },
+        { badge: 'が / に', color: '#0284C7', bg: '#F0F9FF', border: '#BAE6FD', desc: '【が】自動詞（ドアが開く・電気がつく） / 【に】移動の着点（電車に乗る・部屋に入る）' }
+      ],
+      rules: [
+        {
+          num: '鉄則 1',
+          title: '他動詞（人が〜する）は【を】、自動詞（自然に〜なる・状態）は【が】',
+          titleEn: 'Transitive verbs (someone does X) ➔ "WO" vs. Intransitive verbs (X happens/state) ➔ "GA"',
+          target: '他動詞＝「を」 / 自動詞＝「が」',
+          targetColor: '#7C3AED',
+          why: '「（私が）窓を開ける・電気をつける」のように人が働きかける他動詞は100%「を」。「窓が開いている・電気がついた・雨が止んだ」のようにモノ自体の動きや状態を表す自動詞は100%「が」です。',
+          whyEn: 'Transitive verbs act on a direct object ("wo"), whereas intransitive verbs describe the subject changing or being in a state ("ga").',
+          okJp: '<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>窓<rt>まど</rt></ruby><strong>【を】</strong><ruby>開<rt>あ</rt></ruby>けます。（他動詞） / あっ、<ruby>窓<rt>まど</rt></ruby><strong>【が】</strong><ruby>開<rt>あ</rt></ruby>いています。（自動詞）',
+          okSpeech: '暑いので、窓を開けます。あっ、窓が開いています。',
+          okEn: 'It\'s hot, so I open the window. / Oh, the window is open.',
+          ngJp: '✕ 窓【が】開けます。 / ✕ 窓【を】開いています。'
+        },
+        {
+          num: '鉄則 2',
+          title: '中に入る・乗る（着点）は【に】、外に出る・降りる・卒業する（出発点）は【100%「を」】',
+          titleEn: 'Enter/Board (Goal) ➔ "NI" vs. Leave/Get off/Graduate (Departure point) ➔ Always "WO"',
+          target: '乗る・入る＝「に」 / 降りる・出る＝「を」',
+          targetColor: '#7C3AED',
+          why: '「電車に乗る・部屋に入る・大学に入る」はゴールなので「に」。逆にそこから離れる「電車を降りる・部屋を出る・家を出る・大学を卒業する」は出発点を表す「を」になります！',
+          whyEn: 'Entering or boarding a place takes "ni", while leaving, getting off, or graduating from a place takes "wo".',
+          okJp: '<ruby>新宿駅<rt>しんじゅくえき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby><strong>【に】</strong><ruby>乗<rt>の</rt></ruby>り、<ruby>東京駅<rt>とうきょうえき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby><strong>【を】</strong><ruby>降<rt>お</rt></ruby>ります。',
+          okSpeech: '新宿駅で電車に乗り、東京駅で電車を降ります。',
+          okEn: 'I get on the train at Shinjuku Station and get off the train at Tokyo Station.',
+          ngJp: '✕ 電車【を】乗ります。 / ✕ 電車【に】降ります。'
+        },
+        {
+          num: '鉄則 3',
+          title: '通り抜ける・移動する空間（散歩する・渡る・歩く・走る・飛ぶ）は【100%「を」】',
+          titleEn: 'Moving through a space (stroll in a park, cross a bridge, fly in the sky) ➔ Always "WO"',
+          target: '絶対「を」',
+          targetColor: '#7C3AED',
+          why: '「公園を散歩する」「橋を渡る」「道を歩く」「空を飛ぶ」のように、ある空間を端から端へ移動・通過する動詞は、場所であっても必ず「を」を使います！',
+          whyEn: 'Verbs of traversal or movement through a space (walk along, cross, stroll through, fly across) mark the space with "wo".',
+          okJp: '<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>公園<rt>こうえん</rt></ruby><strong>【を】</strong><ruby>散歩<rt>さんぽ</rt></ruby>します。 / この<ruby>橋<rt>はし</rt></ruby><strong>【を】</strong><ruby>渡<rt>わた</rt></ruby>ってください。',
+          okSpeech: '毎朝、公園を散歩します。この橋を渡ってください。',
+          okEn: 'Every morning, I take a walk through the park. / Please cross this bridge.',
+          ngJp: '✕ この橋【に】渡ってください。 / ✕ この橋【で】渡ってください。'
+        },
+        {
+          num: '鉄則 4',
+          title: '「会う・相談する・質問する・電話する」の相手は【100%「に」】（「を」は絶対NG！）',
+          titleEn: 'Person you meet, consult, ask, or call ➔ Always "NI" (Never "WO"!)',
+          target: '絶対「に」',
+          targetColor: '#059669',
+          why: '英語の "meet him" や "call her"、中国語・韓国語の影響で「友達を会う」「先生を質問する」と間違える人が非常に多いですが、日本語では動作が向かう相手の「に」を使います！',
+          whyEn: 'In English "meet/ask/call" take a direct object, but in Japanese the person is the directional target of the action, so it always takes "ni".',
+          okJp: 'あした、<ruby>駅<rt>えき</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby><strong>【に】</strong><ruby>会<rt>あ</rt></ruby>います。 / <ruby>先生<rt>せんせい</rt></ruby><strong>【に】</strong><ruby>質問<rt>しつもん</rt></ruby>します。',
+          okSpeech: 'あした、駅で友達に会います。先生に質問します。',
+          okEn: 'Tomorrow, I will meet my friend at the station. / I will ask the teacher a question.',
+          ngJp: '✕ 友達【を】会います。 / ✕ 先生【を】質問します。'
+        }
+      ]
+    }
+  };
+
+  // 同じ単語で助詞だけ変えたミニマルペア比較データ
+  const PARTICLE_MINIMAL_PAIRS = [
+    {
+      title: 'ペア①：「図書館に」vs「図書館で」',
+      subtitle: 'ただそこに居る（静止画）か、そこでアクションするか（動画）',
+      items: [
+        { p: 'に', color: '#059669', bg: '#ECFDF5', jp: '<ruby>私<rt>わたし</rt></ruby>はいま、<ruby>図書館<rt>としょかん</rt></ruby><strong>【に】</strong>います。', speech: '私はいま、図書館にいます。', en: 'I am in the library right now. (Static existence: iru)' },
+        { p: 'で', color: '#E11D48', bg: '#FFF1F2', jp: '<ruby>私<rt>わたし</rt></ruby>はいま、<ruby>図書館<rt>としょかん</rt></ruby><strong>【で】</strong><ruby>勉強<rt>べんきょう</rt></ruby>しています。', speech: '私はいま、図書館で勉強しています。', en: 'I am studying at the library right now. (Active action: benkyou suru)' }
+      ]
+    },
+    {
+      title: 'ペア②：「公園に（モノがある）」vs「公園で（イベントがある）」',
+      subtitle: '同じ「〜があります」でも、モノかイベントかで100%変わる！',
+      items: [
+        { p: 'に', color: '#059669', bg: '#ECFDF5', jp: '<ruby>公園<rt>こうえん</rt></ruby><strong>【に】</strong>ベンチと<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>があります。', speech: '公園にベンチと大きな木があります。', en: 'There are benches and big trees in the park. (Physical objects exist)' },
+        { p: 'で', color: '#E11D48', bg: '#FFF1F2', jp: 'あした、<ruby>公園<rt>こうえん</rt></ruby><strong>【で】</strong><ruby>花火大会<rt>はなびたいかい</rt></ruby>（お<ruby>祭<rt>まつ</rt></ruby>り）があります。', speech: 'あした、公園で花火大会があります。', en: 'Tomorrow, a fireworks festival will be held at the park. (Event takes place)' }
+      ]
+    },
+    {
+      title: 'ペア③：「電車に」vs「電車で」vs「電車を」',
+      subtitle: '同じ「電車」でも後ろの動詞で助詞が3通りに決まる！',
+      items: [
+        { p: 'に', color: '#059669', bg: '#ECFDF5', jp: '<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby><strong>【に】</strong><ruby>乗<rt>の</rt></ruby>ります。', speech: '駅で電車に乗ります。', en: 'I board (step onto) the train. (Landing point / Goal)' },
+        { p: 'で', color: '#E11D48', bg: '#FFF1F2', jp: '<ruby>電車<rt>でんしゃ</rt></ruby><strong>【で】</strong><ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。', speech: '電車で東京へ行きます。', en: 'I go to Tokyo by train. (Means of transportation)' },
+        { p: 'を', color: '#7C3AED', bg: '#F5F3FF', jp: '<ruby>次<rt>つぎ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby><strong>【を】</strong><ruby>降<rt>お</rt></ruby>ります。', speech: '次の駅で電車を降ります。', en: 'I get off (leave) the train at the next station. (Departure point)' }
+      ]
+    },
+    {
+      title: 'ペア④：「だれが（疑問詞が前）」vs「トイレは（疑問詞が後ろ）」',
+      subtitle: '疑問詞（だれ・どこ）の位置で「は」と「が」が100%逆転する！',
+      items: [
+        { p: 'が', color: '#D97706', bg: '#FFFBEB', jp: '<strong>だれ【が】</strong>ケーキを<ruby>食<rt>た</rt></ruby>べましたか？ ― <ruby>太郎<rt>たろう</rt></ruby>くん<strong>【が】</strong><ruby>食<rt>た</rt></ruby>べました。', speech: 'だれがケーキを食べましたか？ 太郎くんが食べました。', en: 'WHO ate the cake? — Taro ate it. (Question word is the subject)' },
+        { p: 'は', color: '#1D4ED8', bg: '#EFF6FF', jp: '<ruby>太郎<rt>たろう</rt></ruby>くん<strong>【は】</strong>どこですか？ ― <ruby>太郎<rt>たろう</rt></ruby>くん<strong>【は】</strong><ruby>教室<rt>きょうしつ</rt></ruby>です。', speech: '太郎くんはどこですか？ 太郎くんは教室です。', en: 'WHERE is Taro? — Taro is in the classroom. (Question word is at the end)' }
+      ]
+    },
+    {
+      title: 'ペア⑤：「ドアを開ける（他動詞）」vs「ドアが開く（自動詞）」',
+      subtitle: '人が動かすか、ドア自体が開く（開いている状態）か',
+      items: [
+        { p: 'を', color: '#7C3AED', bg: '#F5F3FF', jp: '<ruby>田中<rt>たなか</rt></ruby>さんがドア<strong>【を】</strong><ruby>開<rt>あ</rt></ruby>けました。', speech: '田中さんがドアを開けました。', en: 'Mr. Tanaka opened the door. (Transitive verb: akeru)' },
+        { p: 'が', color: '#D97706', bg: '#FFFBEB', jp: 'ベルが<ruby>鳴<rt>な</rt></ruby>って、ドア<strong>【が】</strong><ruby>開<rt>あ</rt></ruby>きました。', speech: 'ベルが鳴って、ドアが開きました。', en: 'The bell rang and the door opened. (Intransitive verb: aku)' }
+      ]
+    },
+    {
+      title: 'ペア⑥：「日本語を勉強する（動作）」vs「日本語がわかる（能力）」',
+      subtitle: '動作の対象か、能力・状態の対象か',
+      items: [
+        { p: 'を', color: '#7C3AED', bg: '#F5F3FF', jp: '<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby><strong>【を】</strong><ruby>勉強<rt>べんきょう</rt></ruby>しています。', speech: '毎日、日本語を勉強しています。', en: 'I study Japanese every day. (Action verb: benkyou suru)' },
+        { p: 'が', color: '#D97706', bg: '#FFFBEB', jp: '<ruby>私<rt>わたし</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby><strong>【が】</strong>わかります（<ruby>話<rt>はな</rt></ruby>せます）。', speech: '私は日本語がわかります。', en: 'I understand (can speak) Japanese. (State/ability verb: wakaru / hanaseru)' }
+      ]
+    }
+  ];
+
+  // 曖昧さゼロ！100%片方しか正解にならない厳選24問ドリル
+  const PARTICLE_QUIZ_QUESTIONS = [
+    // --- は vs が (8問) ---
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（疑問詞が主語）',
+      qHtml: 'きのうのパーティーに、<strong>だれ【　？　】</strong><ruby>来<rt>き</rt></ruby>ましたか？',
+      speech: 'きのうのパーティーに、だれが来ましたか？',
+      en: 'Who came to yesterday\'s party?',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '疑問詞「だれ・なに・どれ」が主語の時は100%「が」を使います（「✕ だれは来ましたか」は文法的に不可）。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（疑問詞への返答）',
+      qHtml: 'A:「どの<ruby>傘<rt>かさ</rt></ruby>があなたの<ruby>傘<rt>かさ</rt></ruby>ですか？」<br>B:「あの<ruby>青<rt>あお</rt></ruby>い<ruby>傘<rt>かさ</rt></ruby><strong>【　？　】</strong><ruby>私<rt>わたし</rt></ruby>のです。」',
+      speech: 'どの傘があなたの傘ですか？ あの青い傘が私のです。',
+      en: 'A: "Which umbrella is yours?" B: "That blue umbrella is mine."',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '「どれが〜ですか？」と聞かれた答えとして主語を特定・指名する時は、質問と同じ「が」で答えます。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（疑問詞が後ろ）',
+      qHtml: 'すみません、<ruby>一番近<rt>いちばんちか</rt></ruby>いコンビニ<strong>【　？　】</strong>どこですか？',
+      speech: 'すみません、一番近いコンビニはどこですか？',
+      en: 'Excuse me, where is the nearest convenience store?',
+      options: ['は', 'が'],
+      ans: 'は',
+      reason: '聞きたい疑問詞「どこ」が文の後ろにある時は、「コンビニについて言うとどこ？」という主題の「は」になります。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（能力・上手）',
+      qHtml: '<ruby>鈴木<rt>すずき</rt></ruby>さんは、ピアノ<strong>【　？　】</strong>とても<ruby>上手<rt>じょうず</rt></ruby>ですね。',
+      speech: '鈴木さんは、ピアノがとても上手ですね。',
+      en: 'Ms. Suzuki, you are very good at playing the piano.',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '「好き・嫌い・上手・下手・得意」の対象は必ず「が」で表します。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（目の前の現象）',
+      qHtml: '（<ruby>空<rt>そら</rt></ruby>を<ruby>見上<rt>みあ</rt></ruby>げて）あっ、<ruby>雨<rt>あめ</rt></ruby><strong>【　？　】</strong><ruby>降<rt>ふ</rt></ruby>ってきましたよ！',
+      speech: 'あっ、雨が降ってきましたよ！',
+      en: '(Looking up at the sky) Oh, it has started to rain!',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '目の前で今起きた現象や気づき（「あっ、〜！」）をそのまま描写する時は100%「が」です。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（五感の感覚）',
+      qHtml: '<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>から、ピアノの<ruby>音<rt>おと</rt></ruby><strong>【　？　】</strong><ruby>聞<rt>き</rt></ruby>こえます。',
+      speech: '隣の部屋から、ピアノの音が聞こえます。',
+      en: 'I can hear the sound of a piano from the next room.',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '「音が聞こえる」「山が見える」「いい匂いがする」「味がする」など五感で感じる対象は必ず「が」です。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（身体の感覚）',
+      qHtml: 'きのうから<ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>頭<rt>あたま</rt></ruby><strong>【　？　】</strong><ruby>痛<rt>いた</rt></ruby>いです。',
+      speech: 'きのうから風邪をひいて、頭が痛いです。',
+      en: 'I caught a cold yesterday and have a headache.',
+      options: ['は', 'が'],
+      ans: 'が',
+      reason: '「頭が痛い」「お腹が空いた」「喉が渇いた」など、身体の部位の感覚・状態は必ず「が」を使います。'
+    },
+    {
+      cat: 'wa_ga',
+      tag: 'は vs が（AとBの対比）',
+      qHtml: '<ruby>私<rt>わたし</rt></ruby>はひらがな<strong>【　？　】</strong><ruby>書<rt>か</rt></ruby>けますが、<ruby>漢字<rt>かんじ</rt></ruby><strong>【　？　】</strong>まだ<ruby>書<rt>か</rt></ruby>けません。（両方同じ助詞）',
+      speech: '私はひらがなは書けますが、漢字はまだ書けません。',
+      en: 'I can write Hiragana, but I cannot write Kanji yet.',
+      options: ['は', 'が'],
+      ans: 'は',
+      reason: '「ひらがな」と「漢字」の2つをはっきり対比（「Aは〜、でもBは〜」）する文では、対比の「は」を使います。'
+    },
+
+    // --- に vs で (8問) ---
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（存在 vs 動作）',
+      qHtml: 'あしたは<ruby>一日中<rt>いちにちじゅう</rt></ruby>、<ruby>家<rt>いえ</rt></ruby><strong>【　？　】</strong>います。どこへも<ruby>行<rt>い</rt></ruby>きません。',
+      speech: 'あしたは一日中、家にいます。どこへも行きません。',
+      en: 'Tomorrow I will be at home all day. I won\'t go anywhere.',
+      options: ['に', 'で'],
+      ans: 'に',
+      reason: '「いる・ある・住む」という存在場所（静止画）を表す時は100%「に」です（「✕ 家でいます」は不可）。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（動作の場所）',
+      qHtml: '<ruby>毎朝<rt>まいあさ</rt></ruby>、駅前のカフェ<strong>【　？　】</strong>コーヒーを<ruby>飲<rt>の</rt></ruby>みます。',
+      speech: '毎朝、駅前のカフェでコーヒーを飲みます。',
+      en: 'Every morning, I drink coffee at the cafe in front of the station.',
+      options: ['に', 'で'],
+      ans: 'で',
+      reason: '「コーヒーを飲む」というアクション（動作）を行う場所なので100%「で」です。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（イベントの「ある」）',
+      qHtml: '<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>ドーム<strong>【　？　】</strong>コンサートがあります。',
+      speech: '来週の日曜日、東京ドームでコンサートがあります。',
+      en: 'Next Sunday, there will be a concert at Tokyo Dome.',
+      options: ['に', 'で'],
+      ans: 'で',
+      reason: '「コンサート・お祭り・会議・試合・事故」などのイベント・出来事が「ある（＝開催される・起きる）」時は100%「で」です！'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（くっつく着点）',
+      qHtml: '<ruby>疲<rt>つか</rt></ruby>れましたね。あそこのベンチ<strong>【　？　】</strong><ruby>座<rt>すわ</rt></ruby>りましょう。',
+      speech: '疲れましたね。あそこのベンチに座りましょう。',
+      en: 'We\'re tired, aren\'t we? Let\'s sit on that bench over there.',
+      options: ['に', 'で'],
+      ans: 'に',
+      reason: '「座る・乗る・入る・着く」など、体がピタッと着地するゴール地点（着点）は100%「に」です。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（交通手段）',
+      qHtml: '<ruby>京都<rt>きょうと</rt></ruby>まで<ruby>新幹線<rt>しんかんせん</rt></ruby><strong>【　？　】</strong><ruby>行<rt>い</rt></ruby>きました。',
+      speech: '京都まで新幹線で行きました。',
+      en: 'I went to Kyoto by Shinkansen (bullet train).',
+      options: ['に', 'で'],
+      ans: 'で',
+      reason: '後ろの動詞が「行く」なので、交通手段を表す「で」になります。（※もし後ろが「乗る」なら「新幹線に乗る」）。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（道具・言語）',
+      qHtml: 'このレポートは<ruby>全部<rt>ぜんぶ</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby><strong>【　？　】</strong><ruby>書<rt>か</rt></ruby>いてください。',
+      speech: 'このレポートは全部、日本語で書いてください。',
+      en: 'Please write this entire report in Japanese.',
+      options: ['に', 'で'],
+      ans: 'で',
+      reason: '使う言語（日本語で・英語で）や道具（ペンで・はしで）は100%「で」で表します。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（範囲・比較の枠）',
+      qHtml: '<ruby>一年<rt>いちねん</rt></ruby>の<ruby>中<rt>なか</rt></ruby><strong>【　？　】</strong>、<ruby>秋<rt>あき</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きです。',
+      speech: '一年の中で、秋が一番好きです。',
+      en: 'Out of the whole year, I like autumn the best.',
+      options: ['に', 'で'],
+      ans: 'で',
+      reason: '「〜の中で一番」「日本で一番」「世界で一番」のように範囲・グループを限定する時は100%「で」です。'
+    },
+    {
+      cat: 'ni_de',
+      tag: 'に vs で（時刻の1点）',
+      qHtml: '<ruby>今夜<rt>こんや</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>は、7<ruby>時<rt>じ</rt></ruby><strong>【　？　】</strong><ruby>始<rt>はじ</rt></ruby>まります。',
+      speech: '今夜の映画は、7時に始まります。',
+      en: 'Tonight\'s movie starts at 7 o\'clock.',
+      options: ['に', 'で'],
+      ans: 'に',
+      reason: '時計が指す具体的な時刻（7時に・10時半に）は100%「に」を使います。'
+    },
+
+    // --- を vs が・に (8問) ---
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs が（他動詞 vs 自動詞）',
+      qHtml: 'エアコンをつけたので、<ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby><strong>【　？　】</strong><ruby>閉<rt>し</rt></ruby>めてください。',
+      speech: 'エアコンをつけたので、部屋の窓を閉めてください。',
+      en: 'I turned on the air conditioner, so please close the room window.',
+      options: ['を', 'が'],
+      ans: 'を',
+      reason: '「閉める（shimeru）」は人が動かす他動詞なので100%「を」です。（自動詞は「窓が閉まる（shimaru）」）。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs が（自動詞・状態）',
+      qHtml: 'あれ？<ruby>会議室<rt>かいぎしつ</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby><strong>【　？　】</strong><ruby>消<rt>き</rt></ruby>えていますね。',
+      speech: 'あれ？会議室の電気が消えていますね。',
+      en: 'Huh? The light in the conference room is off.',
+      options: ['を', 'が'],
+      ans: 'が',
+      reason: '「消える（kieru）」は自動詞なので100%「が」です。（他動詞は「電気を消す（kesu）」）。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs が（動作 vs わかる）',
+      qHtml: 'この<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby><strong>【　？　】</strong>わかりますか？',
+      speech: 'この漢字の意味がわかりますか？',
+      en: 'Do you understand the meaning of this Kanji?',
+      options: ['を', 'が'],
+      ans: 'が',
+      reason: '「わかる（理解できる）」の対象は必ず「が」を使います（「✕ 意味をわかります」は不可）。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs に（乗る vs 降りる）',
+      qHtml: '<ruby>次<rt>つぎ</rt></ruby>のバス<ruby>停<rt>てい</rt></ruby>で、バス<strong>【　？　】</strong><ruby>降<rt>お</rt></ruby>ります。',
+      speech: '次のバス停で、バスを降ります。',
+      en: 'I will get off the bus at the next bus stop.',
+      options: ['を', 'に'],
+      ans: 'を',
+      reason: '「降りる・出る・卒業する」のように、そこから離れる出発点は100%「を」を使います！（※「バスに乗る」は「に」）。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs に（入る vs 出る）',
+      qHtml: '<ruby>毎朝<rt>まいあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby><strong>【　？　】</strong><ruby>出<rt>で</rt></ruby>て、<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。',
+      speech: '毎朝8時に家を出て、会社へ行きます。',
+      en: 'Every morning I leave home at 8 o\'clock and go to work.',
+      options: ['を', 'に'],
+      ans: 'を',
+      reason: '「家を出る」「部屋を出る」のように、中から外へ離れる時は出発点の「を」を使います。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs で（移動・通過する空間）',
+      qHtml: '<ruby>天気<rt>てんき</rt></ruby>がいいので、<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>公園<rt>こうえん</rt></ruby><strong>【　？　】</strong><ruby>散歩<rt>さんぽ</rt></ruby>しました。',
+      speech: '天気がいいので、海の近くの公園を散歩しました。',
+      en: 'Because the weather was nice, I took a walk through the park near the sea.',
+      options: ['を', 'に'],
+      ans: 'を',
+      reason: '「散歩する・歩く・渡る・飛ぶ」など、空間を移動・通過する動詞は100%「を」をとります。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs に（橋・横断歩道を渡る）',
+      qHtml: 'あそこの<ruby>信号<rt>しんごう</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がって、<ruby>橋<rt>はし</rt></ruby><strong>【　？　】</strong><ruby>渡<rt>わた</rt></ruby>ってください。',
+      speech: 'あそこの信号を右に曲がって、橋を渡ってください。',
+      en: 'Please turn right at that traffic light and cross the bridge.',
+      options: ['を', 'に'],
+      ans: 'を',
+      reason: '「橋を渡る」「道を渡る」「角を曲がる」は通過ルートを表すため100%「を」です。'
+    },
+    {
+      cat: 'wo_ga_ni',
+      tag: 'を vs に（人に会う・質問する）',
+      qHtml: '<ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>渋谷<rt>しぶや</rt></ruby>で<ruby>高校<rt>こうこう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby><strong>【　？　】</strong><ruby>会<rt>あ</rt></ruby>いました。',
+      speech: '週末、渋谷で高校の友達に会いました。',
+      en: 'On the weekend, I met my high school friend in Shibuya.',
+      options: ['を', 'に'],
+      ans: 'に',
+      reason: '日本語では「（人に）会う」「（人に）質問する」「（人に）相談する」はすべて着点の「に」を使います（「✕ 友達を会う」は絶対NG！）。'
+    }
+  ];
+
+  const VERB_CONJUGATION_DATA = [
+    { group: '1グループ（五段）', dict: '<ruby>行<rt>い</rt></ruby>く', masu: '<ruby>行<rt>い</rt></ruby>きます', te: '<ruby>行<rt>い</rt></ruby>って', nai: '<ruby>行<rt>い</rt></ruby>かない', pot: '<ruby>行<rt>い</rt></ruby>ける', en: 'to go' },
+    { group: '1グループ（五段）', dict: '<ruby>書<rt>か</rt></ruby>く', masu: '<ruby>書<rt>か</rt></ruby>きます', te: '<ruby>書<rt>か</rt></ruby>いて', nai: '<ruby>書<rt>か</rt></ruby>かない', pot: '<ruby>書<rt>か</rt></ruby>ける', en: 'to write' },
+    { group: '1グループ（五段）', dict: '<ruby>飲<rt>の</rt></ruby>む', masu: '<ruby>飲<rt>の</rt></ruby>みます', te: '<ruby>飲<rt>の</rt></ruby>んで', nai: '<ruby>飲<rt>の</rt></ruby>まない', pot: '<ruby>飲<rt>の</rt></ruby>める', en: 'to drink' },
+    { group: '1グループ（五段）', dict: '<ruby>買<rt>か</rt></ruby>う', masu: '<ruby>買<rt>か</rt></ruby>います', te: '<ruby>買<rt>か</rt></ruby>って', nai: '<ruby>買<rt>か</rt></ruby>わない', pot: '<ruby>買<rt>か</rt></ruby>える', en: 'to buy' },
+    { group: '1グループ（五段）', dict: '<ruby>待<rt>ま</rt></ruby>つ', masu: '<ruby>待<rt>ま</rt></ruby>ちます', te: '<ruby>待<rt>ま</rt></ruby>って', nai: '<ruby>待<rt>ま</rt></ruby>たない', pot: '<ruby>待<rt>ま</rt></ruby>てる', en: 'to wait' },
+    { group: '1グループ（五段）', dict: '<ruby>話<rt>はな</rt></ruby>す', masu: '<ruby>話<rt>はな</rt></ruby>します', te: '<ruby>話<rt>はな</rt></ruby>して', nai: '<ruby>話<rt>はな</rt></ruby>さない', pot: '<ruby>話<rt>はな</rt></ruby>せる', en: 'to speak' },
+    { group: '2グループ（一段）', dict: '<ruby>食<rt>た</rt></ruby>べる', masu: '<ruby>食<rt>た</rt></ruby>べます', te: '<ruby>食<rt>た</rt></ruby>べて', nai: '<ruby>食<rt>た</rt></ruby>べない', pot: '<ruby>食<rt>た</rt></ruby>べられる', en: 'to eat' },
+    { group: '2グループ（一段）', dict: '<ruby>見<rt>み</rt></ruby>る', masu: '<ruby>見<rt>み</rt></ruby>ます', te: '<ruby>見<rt>み</rt></ruby>て', nai: '<ruby>見<rt>み</rt></ruby>ない', pot: '<ruby>見<rt>み</rt></ruby>られる', en: 'to see / watch' },
+    { group: '2グループ（一段）', dict: '<ruby>起<rt>お</rt></ruby>きる', masu: '<ruby>起<rt>お</rt></ruby>きます', te: '<ruby>起<rt>お</rt></ruby>きて', nai: '<ruby>起<rt>お</rt></ruby>きない', pot: '<ruby>起<rt>お</rt></ruby>きられる', en: 'to wake up' },
+    { group: '3グループ（不規則）', dict: 'する', masu: 'します', te: 'して', nai: 'しない', pot: 'できる', en: 'to do' },
+    { group: '3グループ（不規則）', dict: '<ruby>来<rt>く</rt></ruby>る', masu: '<ruby>来<rt>き</rt></ruby>ます', te: '<ruby>来<rt>き</rt></ruby>て', nai: '<ruby>来<rt>こ</rt></ruby>ない', pot: '<ruby>来<rt>こ</rt></ruby>られる', en: 'to come' }
+  ];
+
+  const ONOMATOPOEIA_DATA = [
+    { word: 'ペラペラ', cat: '会話・言語', mean: '外国語を流暢に話すようす (fluently)', ex: '<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>が<strong>ペラペラ</strong>です。', speech: '彼は日本語がペラペラです。' },
+    { word: 'ギリギリ', cat: '時間・限界', mean: '間に合うかどうかの限界 (just in time / barely)', ex: '<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<strong>ギリギリ</strong><ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。', speech: '電車の時間にギリギリ間に合いました。' },
+    { word: 'ワクワク', cat: '感情・期待', mean: '楽しみで心が躍るようす (excited / thrilled)', ex: '<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>日本旅行<rt>にほんりょこう</rt></ruby>に<strong>ワクワク</strong>しています。', speech: '来週の日本旅行にワクワクしています。' },
+    { word: 'ドキドキ', cat: '感情・緊張', mean: '緊張や驚きで心臓が鳴るようす (heart pounding / nervous)', ex: 'テストの<ruby>前<rt>まえ</rt></ruby>はいつも<strong>ドキドキ</strong>します。', speech: 'テストの前はいつもドキドキします。' },
+    { word: 'スッキリ', cat: '気分・体調', mean: '悩みが消えて爽快なようす (refreshed / clear)', ex: '<ruby>朝<rt>あさ</rt></ruby>シャワーを<ruby>浴<rt>あ</rt></ruby>びて<strong>スッキリ</strong>しました。', speech: '朝シャワーを浴びてスッキリしました。' },
+    { word: 'ぐっすり', cat: '睡眠・休息', mean: '深く心地よく眠るようす (soundly / deeply asleep)', ex: 'きのうの<ruby>夜<rt>よる</rt></ruby>は<strong>ぐっすり</strong><ruby>眠<rt>ねむ</rt></ruby>れました。', speech: 'きのうの夜はぐっすり眠れました。' }
+  ];
+
+  function initWeaknessModal() {
+    switchWeaknessTab(currentWeaknessTab || 'particles');
+  }
+
+  function switchWeaknessTab(tab) {
+    currentWeaknessTab = tab;
+    ['particles', 'verbs', 'onomatopoeia'].forEach(t => {
+      const btn = document.getElementById('btn-weakness-' + t);
+      if (btn) btn.classList.toggle('active', t === tab);
+    });
+    renderWeaknessTabContent();
+  }
+
+  function setParticleSubMode(mode) {
+    currentParticleSubMode = mode;
+    if (mode === 'quiz' && particleQuizList.length === 0) {
+      startParticleQuiz('all');
+      return;
+    }
+    renderWeaknessTabContent();
+  }
+
+  function setParticleGuideGroup(groupKey) {
+    currentParticleGuideGroup = groupKey;
+    renderWeaknessTabContent();
+  }
+
+  function startParticleQuiz(cat = 'all') {
+    currentParticleQuizCat = cat;
+    const pool = (cat === 'all')
+      ? [...PARTICLE_QUIZ_QUESTIONS]
+      : PARTICLE_QUIZ_QUESTIONS.filter(q => q.cat === cat);
+    particleQuizList = pool;
+    particleQuizIndex = 0;
+    particleQuizScore = 0;
+    particleQuizAnswered = false;
+    renderWeaknessTabContent();
+  }
+
+  function answerParticleQuiz(chosen) {
+    if (particleQuizAnswered) return;
+    particleQuizAnswered = true;
+    const q = particleQuizList[particleQuizIndex];
+    if (!q) return;
+    const isCorrect = (chosen === q.ans);
+    if (isCorrect) particleQuizScore++;
+
+    const btns = document.querySelectorAll('.particle-quiz-opt-btn');
+    btns.forEach(b => {
+      const val = b.getAttribute('data-opt');
+      b.style.pointerEvents = 'none';
+      if (val === q.ans) {
+        b.style.background = '#ECFDF5';
+        b.style.borderColor = '#10B981';
+        b.style.color = '#065F46';
+      } else if (val === chosen && !isCorrect) {
+        b.style.background = '#FEF2F2';
+        b.style.borderColor = '#EF4444';
+        b.style.color = '#991B1B';
+      }
+    });
+
+    const fb = document.getElementById('particle-quiz-feedback');
+    if (fb) {
+      fb.style.display = 'block';
+      fb.innerHTML = `
+        <div style="background:${isCorrect ? '#ECFDF5' : '#FEF2F2'}; border:2px solid ${isCorrect ? '#86EFAC' : '#FCA5A5'}; border-radius:14px; padding:16px 18px; margin-top:14px;">
+          <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-bottom:8px;">
+            <div style="font-size:1.05rem; font-weight:900; color:${isCorrect ? '#15803D' : '#B91C1C'};">
+              ${isCorrect ? `⭕ 正解！【 ${q.ans} 】 (Correct!)` : `❌ 不正解… 正解は【 ${q.ans} 】です`}
+            </div>
+            <button onclick="playGoogleTTS('${q.speech}')" style="background:white; border:1px solid #93C5FD; color:#1D4ED8; padding:4px 12px; border-radius:8px; font-size:0.82rem; font-weight:800; cursor:pointer;">
+              🔊 正解文を聞く (Listen)
+            </button>
+          </div>
+          <div style="font-size:0.9rem; color:#1E293B; line-height:1.6; font-weight:600;">
+            💡 <strong>なぜ100%「${q.ans}」なのか：</strong><br>${q.reason}
+          </div>
+          <div style="display:flex; justify-content:flex-end; margin-top:12px;">
+            <button onclick="nextParticleQuizQuestion()" style="background:#1486AD; color:white; border:none; padding:10px 22px; border-radius:10px; font-weight:800; font-size:0.92rem; cursor:pointer; box-shadow:0 3px 8px rgba(20,134,173,0.25);">
+              ${particleQuizIndex < particleQuizList.length - 1 ? '次の問題へ (Next) ▶' : '結果を見る (View Results) 🎉'}
+            </button>
+          </div>
+        </div>
+      `;
+    }
+  }
+
+  function nextParticleQuizQuestion() {
+    particleQuizIndex++;
+    particleQuizAnswered = false;
+    renderWeaknessTabContent();
+  }
+
+  function renderWeaknessTabContent() {
+    const container = document.getElementById('weakness-tab-content');
+    if (!container) return;
+
+    if (currentWeaknessTab === 'verbs') {
+      container.innerHTML = `
+        <div style="background:white; border:1.5px solid var(--border-soft); border-radius:16px; padding:18px 20px;">
+          <div style="font-weight:800; font-size:1.05rem; color:var(--kobe-blue); margin-bottom:6px;">🔄 動詞の主要活用マスター表 (Essential Verb Conjugations)</div>
+          <div style="font-size:0.84rem; color:#64748B; margin-bottom:14px;">1グループ（五段）・2グループ（一段）・3グループ（不規則）の最重要動詞活用一覧です。</div>
+          <div style="overflow-x:auto;">
+            <table style="width:100%; border-collapse:collapse; font-size:0.88rem; text-align:left;">
+              <thead>
+                <tr style="background:#F1F5F9; color:#334155;">
+                  <th style="padding:10px; border:1px solid #E2E8F0;">グループ</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0;">辞書形 (Dict)</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0;">ます形 (Polite)</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0; color:#D97706;">て形 (Te-form)</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0; color:#DC2626;">ない形 (Negative)</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0; color:#059669;">可能形 (Potential)</th>
+                  <th style="padding:10px; border:1px solid #E2E8F0;">Meaning</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${VERB_CONJUGATION_DATA.map(v => `
+                  <tr>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-size:0.76rem; font-weight:700; color:#64748B;">${v.group}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-weight:800; color:#0F172A;">${v.dict}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0;">${v.masu}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-weight:800; color:#B45309; background:#FFFBEB;">${v.te}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-weight:700; color:#B91C1C;">${v.nai}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-weight:700; color:#047857;">${v.pot}</td>
+                    <td style="padding:9px 10px; border:1px solid #E2E8F0; font-size:0.8rem; color:#64748B;">${v.en}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      return;
+    }
+
+    if (currentWeaknessTab === 'onomatopoeia') {
+      container.innerHTML = `
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:14px;">
+          ${ONOMATOPOEIA_DATA.map(o => `
+            <div style="background:white; border:1.5px solid #E2E8F0; border-radius:14px; padding:16px; display:flex; flex-direction:column; gap:8px; box-shadow:0 2px 6px rgba(0,0,0,0.03);">
+              <div style="display:flex; align-items:center; justify-content:space-between;">
+                <span style="font-size:1.25rem; font-weight:900; color:#1486AD;">${o.word}</span>
+                <span style="font-size:0.74rem; font-weight:800; background:#EFF6FF; color:#1D4ED8; padding:2px 8px; border-radius:6px;">${o.cat}</span>
+              </div>
+              <div style="font-size:0.85rem; color:#475569; font-weight:600;">${o.mean}</div>
+              <div style="background:#F8FAFC; border:1px solid #E2E8F0; border-radius:10px; padding:10px 12px; display:flex; align-items:center; justify-content:space-between; gap:8px;">
+                <div style="font-size:0.92rem; color:#0F172A; line-height:1.8;">${o.ex}</div>
+                <button onclick="playGoogleTTS('${o.speech}')" style="background:#EFF6FF; border:1px solid #BFDBFE; color:#1D4ED8; border-radius:8px; padding:4px 8px; cursor:pointer; flex-shrink:0;" title="音声を聞く">🔊</button>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+      return;
+    }
+
+    // --- 助詞徹底攻略（は・が・に・で・を） ---
+    let subHtml = '';
+
+    if (currentParticleSubMode === 'guide') {
+      const gData = PARTICLE_GUIDE_DATA[currentParticleGuideGroup] || PARTICLE_GUIDE_DATA.wa_ga;
+      subHtml = `
+        <!-- 対決グループ切替ピル -->
+        <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px;">
+          <button onclick="setParticleGuideGroup('wa_ga')" style="padding:9px 16px; border-radius:12px; font-weight:800; font-size:0.9rem; cursor:pointer; border:2px solid ${currentParticleGuideGroup === 'wa_ga' ? '#1D4ED8' : '#CBD5E1'}; background:${currentParticleGuideGroup === 'wa_ga' ? '#EFF6FF' : 'white'}; color:${currentParticleGuideGroup === 'wa_ga' ? '#1D4ED8' : '#475569'};">
+            🥊 対決①：「は」vs「が」 (5大鉄則)
+          </button>
+          <button onclick="setParticleGuideGroup('ni_de')" style="padding:9px 16px; border-radius:12px; font-weight:800; font-size:0.9rem; cursor:pointer; border:2px solid ${currentParticleGuideGroup === 'ni_de' ? '#059669' : '#CBD5E1'}; background:${currentParticleGuideGroup === 'ni_de' ? '#ECFDF5' : 'white'}; color:${currentParticleGuideGroup === 'ni_de' ? '#059669' : '#475569'};">
+            🥊 対決②：「に」vs「で」 (5大鉄則)
+          </button>
+          <button onclick="setParticleGuideGroup('wo_ga_ni')" style="padding:9px 16px; border-radius:12px; font-weight:800; font-size:0.9rem; cursor:pointer; border:2px solid ${currentParticleGuideGroup === 'wo_ga_ni' ? '#7C3AED' : '#CBD5E1'}; background:${currentParticleGuideGroup === 'wo_ga_ni' ? '#F5F3FF' : 'white'}; color:${currentParticleGuideGroup === 'wo_ga_ni' ? '#7C3AED' : '#475569'};">
+            🥊 対決③：「を」vs「が・に」 (4大鉄則)
+          </button>
+        </div>
+
+        <!-- グループヘッダー & スポットライト図解 -->
+        <div style="background:white; border:1.5px solid #CBD5E1; border-radius:16px; padding:18px 20px; margin-bottom:16px; box-shadow:0 2px 8px rgba(0,0,0,0.03);">
+          <div style="font-size:1.12rem; font-weight:900; color:#0F172A; margin-bottom:6px;">${gData.title}</div>
+          <div style="font-size:0.88rem; color:#334155; line-height:1.6; margin-bottom:14px;">${gData.summary}</div>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:10px;">
+            ${gData.spotlights.map(sp => `
+              <div style="background:${sp.bg}; border:1.5px solid ${sp.border}; border-radius:12px; padding:12px 14px; display:flex; align-items:center; gap:10px;">
+                <span style="background:${sp.color}; color:white; font-weight:900; font-size:0.95rem; padding:4px 12px; border-radius:8px; white-space:nowrap;">${sp.badge}</span>
+                <span style="font-size:0.84rem; font-weight:700; color:#1E293B; line-height:1.45;">${sp.desc}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+
+        <!-- 鉄則ルールカード一覧 -->
+        <div style="display:flex; flex-direction:column; gap:14px;">
+          ${gData.rules.map(r => `
+            <div style="background:white; border:1.5px solid #E2E8F0; border-radius:16px; padding:18px 20px; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
+              <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; margin-bottom:8px;">
+                <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                  <span style="background:#0F172A; color:white; font-size:0.76rem; font-weight:800; padding:3px 10px; border-radius:6px;">${r.num}</span>
+                  <span style="font-size:1rem; font-weight:900; color:#0F172A;">${r.title}</span>
+                </div>
+                <span style="background:${r.targetColor}; color:white; font-size:0.8rem; font-weight:900; padding:4px 12px; border-radius:20px;">${r.target}</span>
+              </div>
+              <div style="font-size:0.8rem; font-weight:700; color:#64748B; margin-bottom:10px;">${r.titleEn}</div>
+
+              <div style="background:#F8FAFC; border-left:4px solid ${r.targetColor}; border-radius:0 10px 10px 0; padding:10px 14px; margin-bottom:12px;">
+                <div style="font-size:0.88rem; color:#1E293B; line-height:1.6;">💡 ${r.why}</div>
+                <div style="font-size:0.8rem; color:#64748B; margin-top:4px; line-height:1.45;">${r.whyEn}</div>
+              </div>
+
+              <!-- ⭕ 決定版例文 & ❌ NG例 -->
+              <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:10px;">
+                <div style="background:#F0FDF4; border:1.5px solid #86EFAC; border-radius:12px; padding:12px 14px; display:flex; flex-direction:column; justify-content:space-between; gap:6px;">
+                  <div style="display:flex; align-items:center; justify-content:space-between;">
+                    <span style="background:#16A34A; color:white; font-size:0.72rem; font-weight:800; padding:2px 8px; border-radius:5px;">⭕ 100%確定の正解例文</span>
+                    <button onclick="playGoogleTTS('${r.okSpeech}')" style="background:white; border:1px solid #86EFAC; color:#15803D; border-radius:8px; padding:3px 10px; font-size:0.8rem; font-weight:800; cursor:pointer;">🔊 音声</button>
+                  </div>
+                  <div style="font-size:1.05rem; font-weight:700; color:#065F46; line-height:2.0;">${r.okJp}</div>
+                  <div style="font-size:0.8rem; color:#15803D;">${r.okEn}</div>
+                </div>
+                <div style="background:#FEF2F2; border:1.5px solid #FECACA; border-radius:12px; padding:12px 14px; display:flex; flex-direction:column; justify-content:center; gap:6px;">
+                  <span style="background:#EF4444; color:white; font-size:0.72rem; font-weight:800; padding:2px 8px; border-radius:5px; align-self:flex-start;">❌ よくある間違い (NG)</span>
+                  <div style="font-size:0.95rem; font-weight:700; color:#991B1B; text-decoration:line-through;">${r.ngJp}</div>
+                </div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    } else if (currentParticleSubMode === 'pairs') {
+      subHtml = `
+        <div style="background:white; border:1.5px solid #CBD5E1; border-radius:16px; padding:16px 20px; margin-bottom:16px;">
+          <div style="font-size:1.05rem; font-weight:900; color:#0F172A; margin-bottom:4px;">⚡ 同じ単語で助詞だけ違う！1ペア対比カード (Minimal Pairs Comparison)</div>
+          <div style="font-size:0.85rem; color:#475569;">前の名詞が同じでも、後ろの動詞や意味によって助詞が100%切り替わる決定的なペアです。</div>
+        </div>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(380px, 1fr)); gap:14px;">
+          ${PARTICLE_MINIMAL_PAIRS.map(pair => `
+            <div style="background:white; border:1.5px solid #E2E8F0; border-radius:16px; padding:16px 18px; display:flex; flex-direction:column; gap:10px; box-shadow:0 2px 6px rgba(0,0,0,0.02);">
+              <div>
+                <div style="font-size:0.98rem; font-weight:900; color:#0F172A;">${pair.title}</div>
+                <div style="font-size:0.8rem; color:#64748B;">${pair.subtitle}</div>
+              </div>
+              <div style="display:flex; flex-direction:column; gap:8px;">
+                ${pair.items.map(it => `
+                  <div style="background:${it.bg}; border:1.5px solid ${it.color}40; border-radius:12px; padding:10px 14px; display:flex; align-items:center; justify-content:space-between; gap:10px;">
+                    <div style="display:flex; align-items:center; gap:10px;">
+                      <span style="background:${it.color}; color:white; font-weight:900; font-size:1rem; width:34px; height:34px; border-radius:10px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0;">${it.p}</span>
+                      <div>
+                        <div style="font-size:0.98rem; font-weight:700; color:#0F172A; line-height:1.9;">${it.jp}</div>
+                        <div style="font-size:0.78rem; color:#475569;">${it.en}</div>
+                      </div>
+                    </div>
+                    <button onclick="playGoogleTTS('${it.speech}')" style="background:white; border:1px solid #CBD5E1; border-radius:8px; padding:5px 9px; cursor:pointer; flex-shrink:0;" title="Listen">🔊</button>
+                  </div>
+                `).join('')}
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    } else if (currentParticleSubMode === 'quiz') {
+      const total = particleQuizList.length;
+      if (particleQuizIndex >= total) {
+        const pct = total > 0 ? Math.round((particleQuizScore / total) * 100) : 0;
+        subHtml = `
+          <div style="background:white; border:1.5px solid #CBD5E1; border-radius:16px; padding:28px 20px; text-align:center;">
+            <div style="font-size:3rem; margin-bottom:8px;">${pct >= 80 ? '🎉' : '💪'}</div>
+            <div style="font-size:1.3rem; font-weight:900; color:#0F172A; margin-bottom:6px;">助詞2択特訓ドリル 完了！ (Quiz Completed!)</div>
+            <div style="font-size:1.1rem; font-weight:800; color:#1486AD; margin-bottom:18px;">
+              スコア: ${particleQuizScore} / ${total} 問正解（正答率 ${pct}%）
+            </div>
+            <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+              <button onclick="startParticleQuiz('${currentParticleQuizCat}')" style="background:#1486AD; color:white; border:none; padding:10px 22px; border-radius:10px; font-weight:800; font-size:0.92rem; cursor:pointer;">
+                🔄 もう一度挑戦する (Retry)
+              </button>
+              <button onclick="setParticleSubMode('guide')" style="background:#F1F5F9; color:#334155; border:1px solid #CBD5E1; padding:10px 22px; border-radius:10px; font-weight:800; font-size:0.92rem; cursor:pointer;">
+                📖 鉄則ルール解説に戻る
+              </button>
+            </div>
+          </div>
+        `;
+      } else {
+        const q = particleQuizList[particleQuizIndex];
+        subHtml = `
+          <!-- クイズカテゴリー選択バー -->
+          <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:14px; background:white; padding:12px 16px; border-radius:14px; border:1.5px solid #E2E8F0;">
+            <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+              <span style="font-size:0.8rem; font-weight:800; color:#475569;">出題範囲 (Scope):</span>
+              <button class="quiz-level-pill ${currentParticleQuizCat === 'all' ? 'active' : ''}" onclick="startParticleQuiz('all')">総合ミックス (All 24)</button>
+              <button class="quiz-level-pill ${currentParticleQuizCat === 'wa_ga' ? 'active' : ''}" onclick="startParticleQuiz('wa_ga')">は vs が (8)</button>
+              <button class="quiz-level-pill ${currentParticleQuizCat === 'ni_de' ? 'active' : ''}" onclick="startParticleQuiz('ni_de')">に vs で (8)</button>
+              <button class="quiz-level-pill ${currentParticleQuizCat === 'wo_ga_ni' ? 'active' : ''}" onclick="startParticleQuiz('wo_ga_ni')">を vs が・に (8)</button>
+            </div>
+            <div style="font-size:0.85rem; font-weight:800; color:#1486AD;">
+              Question ${particleQuizIndex + 1} / ${total} （⭕ ${particleQuizScore}）
+            </div>
+          </div>
+
+          <!-- 問題カード -->
+          <div style="background:white; border:1.5px solid #CBD5E1; border-radius:18px; padding:22px 24px; box-shadow:0 4px 14px rgba(0,0,0,0.03);">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:12px;">
+              <span style="background:#EFF6FF; color:#1D4ED8; font-size:0.78rem; font-weight:800; padding:4px 12px; border-radius:20px; border:1px solid #BFDBFE;">🎯 ${q.tag}</span>
+              <span style="font-size:0.78rem; color:#64748B; font-weight:700;">※曖昧さゼロ・100%片方のみ正解</span>
+            </div>
+
+            <div style="background:#F8FAFC; border:1.5px solid #E2E8F0; border-radius:14px; padding:18px 20px; margin-bottom:18px;">
+              <div style="font-size:1.3rem; font-weight:800; color:#0F172A; line-height:2.1;">${q.qHtml}</div>
+              <div style="font-size:0.88rem; color:#64748B; margin-top:6px;">${q.en}</div>
+            </div>
+
+            <div style="font-size:0.86rem; font-weight:800; color:#475569; margin-bottom:10px;">👇 正しい助詞を選んでください (Choose the correct particle):</div>
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:14px;">
+              ${q.options.map(opt => `
+                <button type="button" class="particle-quiz-opt-btn" data-opt="${opt}" onclick="answerParticleQuiz('${opt}')" style="background:white; border:2px solid #94A3B8; border-radius:14px; padding:16px; font-size:1.5rem; font-weight:900; color:#0F172A; cursor:pointer; transition:all 0.15s; box-shadow:0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.borderColor='#1486AD'; this.style.background='#F0F9FF';" onmouseout="this.style.borderColor='#94A3B8'; this.style.background='white';">
+                  【 ${opt} 】
+                </button>
+              `).join('')}
+            </div>
+
+            <div id="particle-quiz-feedback" style="display:none;"></div>
+          </div>
+        `;
+      }
+    }
+
+    container.innerHTML = `
+      <!-- 助詞攻略 3ステップ切り替えバー -->
+      <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; background:white; border:1.5px solid #BAE6FD; border-radius:14px; padding:10px 14px; margin-bottom:16px;">
+        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+          <button onclick="setParticleSubMode('guide')" style="padding:8px 16px; border-radius:10px; font-weight:800; font-size:0.86rem; cursor:pointer; border:none; background:${currentParticleSubMode === 'guide' ? '#1486AD' : '#F1F5F9'}; color:${currentParticleSubMode === 'guide' ? 'white' : '#475569'};">
+            📖 Step 1: 鉄則ルール解説 (Rules & Guide)
+          </button>
+          <button onclick="setParticleSubMode('pairs')" style="padding:8px 16px; border-radius:10px; font-weight:800; font-size:0.86rem; cursor:pointer; border:none; background:${currentParticleSubMode === 'pairs' ? '#1486AD' : '#F1F5F9'}; color:${currentParticleSubMode === 'pairs' ? 'white' : '#475569'};">
+            ⚡ Step 2: 1ペア対比カード (Minimal Pairs)
+          </button>
+          <button onclick="setParticleSubMode('quiz')" style="padding:8px 16px; border-radius:10px; font-weight:800; font-size:0.86rem; cursor:pointer; border:none; background:${currentParticleSubMode === 'quiz' ? '#1486AD' : '#F1F5F9'}; color:${currentParticleSubMode === 'quiz' ? 'white' : '#475569'};">
+            ✍️ Step 3: 曖昧さゼロ！2択ドリル (24 Quiz)
+          </button>
+        </div>
+      </div>
+      ${subHtml}
     `;
   }
 
