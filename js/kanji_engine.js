@@ -570,18 +570,18 @@
       if (!stage || !data) return;
 
       const isTracing = stage.classList.contains('tracing-on');
-      const isKanaStudio = (stageId === 'kana-trace-stage');
+      const isKanaStudio = (stageId === 'kana-trace-stage' || stageId === 'kana-trace-stage-2');
       const tools = document.getElementById(isKanaStudio ? 'kana-trace-draw-tools' : 'kanji-trace-tools');
 
       if (isTracing) {
         stage.classList.remove('tracing-on');
-        if (btn) btn.textContent = "✍ なぞり練習";
-        if (tools) tools.style.display = 'none';
+        if (btn && stageId !== 'kana-trace-stage-2') btn.textContent = "✍ なぞり練習";
+        if (tools && stageId !== 'kana-trace-stage-2') tools.style.display = 'none';
         this.renderStage(data, stageId, isKanaStudio ? 'kana-slow-toggle' : 'kanji-slow-toggle', isKanaStudio ? 'kana-numbers-toggle' : 'kanji-numbers-toggle');
       } else {
         stage.classList.add('tracing-on');
-        if (btn) btn.textContent = "▶ お手本に戻る";
-        if (tools) tools.style.display = 'flex';
+        if (btn && stageId !== 'kana-trace-stage-2') btn.textContent = "▶ お手本に戻る";
+        if (tools && stageId !== 'kana-trace-stage-2') tools.style.display = 'flex';
         this.startTrace(stage, data);
       }
     },
