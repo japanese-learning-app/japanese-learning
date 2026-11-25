@@ -1007,8 +1007,18 @@
                 </div>
               </div>
 
+              <!-- ナビゲーションバー (前へ・次へ) -->
+              <div class="mainichi-nav-bar">
+                <button class="mainichi-nav-btn" onclick="MainichiKanjiQuiz.prev()" ${isFirstQ ? 'disabled' : ''}>
+                  ◀ 前の問題
+                </button>
+                <button class="mainichi-nav-btn" onclick="MainichiKanjiQuiz.next()">
+                  ${isLastQInDay ? (isLastDay ? '全問達成！🎉' : '次のDay (' + (this.currentDay + 1) + ') へ ▶') : '次の問題 ▶'}
+                </button>
+              </div>
+
               <!-- 解答展開パネル (「解答」ボタンを押して自分で開く) -->
-              <div class="mainichi-answer-panel" id="mainichi-answer-panel">
+              <div class="mainichi-answer-panel" id="mainichi-answer-panel" style="margin-top:16px; margin-bottom:0;">
                 <div class="mainichi-answer-head">
                   <div style="display:flex; align-items:center; gap:8px;">
                     <span class="mainichi-ans-kanji">${q.kanji}</span>
@@ -1056,16 +1066,6 @@
                   <button class="btn-check-ok" onclick="MainichiKanjiQuiz.mark(true)">⭕ 正解した！</button>
                   <button class="btn-check-ng" onclick="MainichiKanjiQuiz.mark(false)">❌ まちがえた（復習に追加）</button>
                 </div>
-              </div>
-
-              <!-- ナビゲーションバー (前へ・次へ) -->
-              <div class="mainichi-nav-bar">
-                <button class="mainichi-nav-btn" onclick="MainichiKanjiQuiz.prev()" ${isFirstQ ? 'disabled' : ''}>
-                  ◀ 前の問題
-                </button>
-                <button class="mainichi-nav-btn" onclick="MainichiKanjiQuiz.next()">
-                  ${isLastQInDay ? (isLastDay ? '全問達成！🎉' : '次のDay (' + (this.currentDay + 1) + ') へ ▶') : '次の問題 ▶'}
-                </button>
               </div>
             </div>
           </div>

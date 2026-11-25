@@ -9504,10 +9504,20 @@ Advice: Explanation in ${targetLangName} why it is corrected.
               <button class="mainichi-square-btn" title="Undo stroke" onclick="KanaWritingQuiz.undoCanvas()" style="width:40px; height:40px; font-size:1.1rem;">↺</button>
             </div>
 
+            <!-- Navigation bar -->
+            <div class="mainichi-nav-bar" style="margin-top:10px;">
+              <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.prev()" ${isFirst ? 'disabled' : ''}>
+                ◀ Previous
+              </button>
+              <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.next()">
+                ${isLast ? 'View Results ▶' : 'Next Question ▶'}
+              </button>
+            </div>
+
             <!-- Answer Expansion Panel with Automatic Stroke Order Animation -->
             ${this.isAnswerRevealed ? `
-              <div style="background:#F0FDF4; border:2px solid #86EFAC; border-radius:16px; padding:18px 20px; margin-bottom:18px; animation:fadeIn 0.2s ease;">
-                <!-- Header with Character, Audio & Controls -->
+              <div style="background:#F0FDF4; border:2px solid #86EFAC; border-radius:16px; padding:18px 20px; margin-top:16px; animation:fadeIn 0.2s ease;">
+                <!-- Header with Character & Audio -->
                 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:12px; border-bottom:1px solid #BBF7D0; padding-bottom:10px;">
                   <div style="display:flex; align-items:center; gap:10px;">
                     <span style="font-size:1.8rem; font-weight:900; color:#15803D; font-family:${isHira ? "'Klee One', cursive" : 'inherit'}; line-height:1;">${q.char}</span>
@@ -9516,21 +9526,13 @@ Advice: Explanation in ${targetLangName} why it is corrected.
                       🔊
                     </button>
                   </div>
-                  <div style="display:flex; align-items:center; gap:8px;">
-                    <button onclick="KanaWritingQuiz.replayAnswerAnimation()" style="background:white; border:1.5px solid #86EFAC; color:#15803D; padding:5px 12px; border-radius:8px; font-weight:800; font-size:0.82rem; cursor:pointer; display:inline-flex; align-items:center; gap:4px;" title="Replay stroke order animation">
-                      ▶ Replay
-                    </button>
-                    <button onclick="KanaWritingQuiz.practiceTraceChar('${q.char}', '${q.romaji}')" style="background:white; border:1.5px solid #86EFAC; color:#15803D; padding:5px 12px; border-radius:8px; font-weight:800; font-size:0.82rem; cursor:pointer;" title="Practice tracing">
-                      ✍ Practice Tracing
-                    </button>
-                  </div>
                 </div>
 
                 <!-- Multi-character selector for combos -->
                 <div id="kana-quiz-multichar-selector" style="display:none; gap:6px; margin-bottom:10px; justify-content:center;"></div>
 
                 <!-- Animated Stroke Order Tianzige Stage (1 or 2 boxes side-by-side) -->
-                <div style="display:flex; flex-direction:column; align-items:center; gap:8px; margin: 12px 0 16px;">
+                <div style="display:flex; flex-direction:column; align-items:center; gap:10px; margin: 12px 0 16px;">
                   <div style="font-size:0.85rem; font-weight:800; color:#15803D; display:flex; align-items:center; gap:6px;">
                     <span>🖌️</span> <span>Stroke Order Animation (書き順)</span>
                   </div>
@@ -9548,6 +9550,9 @@ Advice: Explanation in ${targetLangName} why it is corrected.
                       </div>
                     `).join('')}
                   </div>
+                  <button onclick="KanaWritingQuiz.replayAnswerAnimation()" style="background:white; border:1.5px solid #86EFAC; color:#15803D; padding:6px 16px; border-radius:8px; font-weight:800; font-size:0.84rem; cursor:pointer; display:inline-flex; align-items:center; gap:4px; box-shadow:0 1px 3px rgba(0,0,0,0.04);" title="Replay stroke order animation">
+                    ▶ Replay
+                  </button>
                 </div>
 
                 <!-- Self-check buttons -->
@@ -9557,16 +9562,6 @@ Advice: Explanation in ${targetLangName} why it is corrected.
                 </div>
               </div>
             ` : ''}
-
-            <!-- Navigation bar -->
-            <div class="mainichi-nav-bar" style="margin-top:10px;">
-              <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.prev()" ${isFirst ? 'disabled' : ''}>
-                ◀ Previous
-              </button>
-              <button class="mainichi-nav-btn" onclick="KanaWritingQuiz.next()">
-                ${isLast ? 'View Results ▶' : 'Next Question ▶'}
-              </button>
-            </div>
           </div>
         </div>
       `;
