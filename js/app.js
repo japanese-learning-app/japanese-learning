@@ -5663,8 +5663,7 @@
 
     // 170文字以内のチャンクに分割（句読点区切り）
     const chunks = [];
-    const parts = cleanText.split(/(?<=[。！？
-])/);
+    const parts = cleanText.split(/(?<=[。！？\n])/);
     let buf = '';
     for (const p of parts) {
       const s = p.trim();
@@ -6320,7 +6319,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261125_1811';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261125_1858';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction

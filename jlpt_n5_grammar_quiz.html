@@ -2699,7 +2699,7 @@
     saveProgress();
     hideGrammarResultView();
     renderQuestion();
-    showToast(selectedLimit > 0 ?  : '全問を新しくシャッフルして開始します！');
+    showToast(selectedLimit > 0 ? `新しく${selectedLimit}問を選出して開始します！` : '全問を新しくシャッフルして開始します！');
   });
 
   document.querySelectorAll('.rev-filter-btn').forEach(btn => {
