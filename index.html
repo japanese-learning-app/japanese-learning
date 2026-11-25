@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta name="referrer" content="no-referrer">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Expires" content="0">
   <title>Japanese Vocab Cards</title>
   <!-- Google Fonts: Inter & Noto Sans JP (Exact typography matching reference photo) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -940,37 +936,17 @@
 
     <!-- ==================== VIEW 3B: JLPT VOCABULARY LIST (2枚目画像完全再現) ==================== -->
     <div id="viewJlpt" class="w-full hidden flex-col space-y-3 pb-10">
-      <!-- JLPT N2 文字・語彙 穴埋め演習道場 896問 特設バナー -->
-      <a href="jlpt_n2_vocab_quiz.html" class="block p-4 rounded-2xl bg-gradient-to-r from-[#B8596E] to-[#8E3A4F] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-rose-300/30" style="text-decoration:none;">
+      <!-- JLPT 語彙マスター フラッシュカード 特設バナー (選択中のレベルに連動) -->
+      <a id="jlptMasterFlashcardBanner" href="jlpt_n5_vocab_cards.html" class="block p-4 rounded-2xl bg-gradient-to-r from-[#C27385] to-[#A04558] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-rose-300/30" style="text-decoration:none;">
         <div class="flex items-center justify-between flex-wrap gap-2">
           <div class="flex items-center space-x-3">
-            <span class="px-2.5 py-1 rounded-full bg-white text-[#8E3A4F] font-black text-xs">NEW</span>
+            <span class="px-2.5 py-1 rounded-full bg-white text-[#A04558] font-black text-xs">FLASHCARDS</span>
             <div>
               <div class="text-base font-black flex items-center gap-2">
-                <span>JLPT N2 文字・語彙 穴埋め演習道場</span>
-                <span class="text-xs px-2 py-0.5 rounded-full bg-white/20 font-bold">全896問</span>
+                <span id="jlptMasterFlashcardTitle">JLPT N5 文字・語彙 マスター フラッシュカード</span>
+                <span id="jlptMasterFlashcardCount" class="text-xs px-2 py-0.5 rounded-full bg-white/20 font-bold">全702語</span>
               </div>
-              <div class="text-xs text-white/85">PDF教材2冊完全網羅・4択穴埋め問題・ふりがな切替・音声・解答解説・間違えた問題の復習機能つき</div>
-            </div>
-          </div>
-          <div class="px-3.5 py-1.5 rounded-xl bg-white text-[#8E3A4F] font-black text-xs shadow-sm flex items-center gap-1">
-            <span>問題を解く</span>
-            <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
-          </div>
-        </div>
-      </a>
-
-      <!-- JLPT N2 語彙マスター フラッシュカード 3,412語 特設バナー -->
-      <a href="jlpt_n2_vocab_cards.html" class="block p-4 rounded-2xl bg-gradient-to-r from-[#C27385] to-[#A04558] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-rose-300/30" style="text-decoration:none;">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <div class="flex items-center space-x-3">
-            <span class="px-2.5 py-1 rounded-full bg-white text-[#A04558] font-black text-xs">NEW</span>
-            <div>
-              <div class="text-base font-black flex items-center gap-2">
-                <span>JLPT N2 文字・語彙 マスター フラッシュカード</span>
-                <span class="text-xs px-2 py-0.5 rounded-full bg-white/20 font-bold">全3,412語</span>
-              </div>
-              <div class="text-xs text-white/85">全25カテゴリ完全網羅・3Dカード・ふりがな切替・音声再生・丁寧語の会話例文つき</div>
+              <div id="jlptMasterFlashcardSub" class="text-xs text-white/85">カテゴリ別完全網羅・3Dカード・ふりがな切替・音声再生・丁寧語の会話例文つき</div>
             </div>
           </div>
           <div class="px-3.5 py-1.5 rounded-xl bg-white text-[#A04558] font-black text-xs shadow-sm flex items-center gap-1">
@@ -979,63 +955,6 @@
           </div>
         </div>
       </a>
-
-      <!-- JLPT N2 文法穴埋めマスター 1,507問 特設バナー -->
-      <a href="jlpt_n2_grammar_quiz.html" class="block p-4 rounded-2xl bg-gradient-to-r from-[#468297] to-[#326475] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-[#78B1BF]/30" style="text-decoration:none;">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <div class="flex items-center space-x-3">
-            <span class="px-2.5 py-1 rounded-full bg-white text-[#326475] font-black text-xs">NEW</span>
-            <div>
-              <div class="text-base font-black flex items-center gap-2">
-                <span>JLPT N2 文法穴埋めマスター 1,507問道場</span>
-                <span class="text-xs px-2 py-0.5 rounded-full bg-white/20 font-bold">4択選択式</span>
-              </div>
-              <div class="text-xs text-white/85">全195文法項目を網羅・ふりがな切替・英語解説・即時判定付き</div>
-            </div>
-          </div>
-          <div class="px-3.5 py-1.5 rounded-xl bg-white text-[#326475] font-black text-xs shadow-sm flex items-center gap-1">
-            <span>今すぐ挑戦</span>
-            <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
-          </div>
-        </div>
-      </a>
-
-      <!-- JLPT N2 読解 ＆ 聴解 実戦道場 特設バナー -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-        <!-- 読解バナー -->
-        <a href="jlpt_n2_reading.html" class="block p-3.5 rounded-2xl bg-gradient-to-r from-[#0D9488] to-[#0F766E] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-[#2DD4BF]/30" style="text-decoration:none;">
-          <div class="flex items-center justify-between flex-wrap gap-2">
-            <div class="flex items-center space-x-3">
-              <span class="px-2 py-0.5 rounded-full bg-white text-[#0F766E] font-black text-[11px]">NEW</span>
-              <div>
-                <div class="text-sm font-black flex items-center gap-1.5">
-                  <span>📚 JLPT N2 読解道場</span>
-                  <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-white/20 font-bold">全21問</span>
-                </div>
-                <div class="text-[11px] text-white/85">短文・中文・長文・統合・情報検索（根拠ハイライト付）</div>
-              </div>
-            </div>
-            <i data-lucide="arrow-right" class="w-4 h-4"></i>
-          </div>
-        </a>
-
-        <!-- 聴解バナー -->
-        <a href="jlpt_n2_listening.html" class="block p-3.5 rounded-2xl bg-gradient-to-r from-[#1995AD] to-[#127285] text-white shadow-md hover:shadow-lg transition active:scale-[0.99] border border-[#78B1BF]/30" style="text-decoration:none;">
-          <div class="flex items-center justify-between flex-wrap gap-2">
-            <div class="flex items-center space-x-3">
-              <span class="px-2 py-0.5 rounded-full bg-white text-[#127285] font-black text-[11px]">NEW</span>
-              <div>
-                <div class="text-sm font-black flex items-center gap-1.5">
-                  <span>🎧 JLPT N2 聴解道場</span>
-                  <span class="text-[10px] px-1.5 py-0.5 rounded-full bg-white/20 font-bold">全31問</span>
-                </div>
-                <div class="text-[11px] text-white/85">音声・イラスト連動・会話スクリプト開示＆重要表現保存</div>
-              </div>
-            </div>
-            <i data-lucide="arrow-right" class="w-4 h-4"></i>
-          </div>
-        </a>
-      </div>
 
       <!-- 1. JLPT 上部ヘッダーバー (戻る / マイリスト語数 / 全体語数) -->
       <div class="bg-deepNavy text-white rounded-2xl px-4 py-3 shadow-md flex items-center justify-between flex-wrap gap-2.5">
@@ -1059,8 +978,8 @@
           <span id="jlptHeaderMylistBadge" class="px-2.5 py-1 rounded-xl bg-white/15 text-white font-bold text-[11px]">
             🔖 マイリスト: <span id="jlptSavedCount">0</span>語
           </span>
-          <span class="px-2.5 py-1 rounded-xl bg-white/15 text-white font-bold text-[11px]">
-            8,910 words
+          <span id="jlptTotalAllLevelsBadge" class="px-2.5 py-1 rounded-xl bg-white/15 text-white font-bold text-[11px]">
+            10,971 words
           </span>
         </div>
       </div>
@@ -1070,23 +989,23 @@
         <div class="flex overflow-x-auto no-scrollbar border-b border-slate-100">
           <button class="jlpt-level-tab n5 active flex-1 py-2.5 text-center" onclick="switchJlptLevel('N5')">
             <span class="block text-sm font-black">N5</span>
-            <span class="text-[10px] font-semibold opacity-70">702 words</span>
+            <span id="jlptTabCount-N5" class="text-[10px] font-semibold opacity-70">1,937 words</span>
           </button>
           <button class="jlpt-level-tab n4 flex-1 py-2.5 text-center" onclick="switchJlptLevel('N4')">
             <span class="block text-sm font-black">N4</span>
-            <span class="text-[10px] font-semibold opacity-70">668 words</span>
+            <span id="jlptTabCount-N4" class="text-[10px] font-semibold opacity-70">1,497 words</span>
           </button>
           <button class="jlpt-level-tab n3 flex-1 py-2.5 text-center" onclick="switchJlptLevel('N3')">
             <span class="block text-sm font-black">N3</span>
-            <span class="text-[10px] font-semibold opacity-70">1,843 words</span>
+            <span id="jlptTabCount-N3" class="text-[10px] font-semibold opacity-70">1,841 words</span>
           </button>
           <button class="jlpt-level-tab n2 flex-1 py-2.5 text-center" onclick="switchJlptLevel('N2')">
             <span class="block text-sm font-black">N2</span>
-            <span class="text-[10px] font-semibold opacity-70">1,949 words</span>
+            <span id="jlptTabCount-N2" class="text-[10px] font-semibold opacity-70">1,949 words</span>
           </button>
           <button class="jlpt-level-tab n1 flex-1 py-2.5 text-center" onclick="switchJlptLevel('N1')">
             <span class="block text-sm font-black">N1</span>
-            <span class="text-[10px] font-semibold opacity-70">3,748 words</span>
+            <span id="jlptTabCount-N1" class="text-[10px] font-semibold opacity-70">3,747 words</span>
           </button>
         </div>
 
@@ -1656,7 +1575,7 @@
             <span class="w-7 h-7 rounded-lg bg-emerald-500 text-white font-black text-xs flex items-center justify-center shadow-2xs">N5</span>
             <span class="text-left"><strong class="block">初級 (Beginner)</strong><span class="text-[10px] font-medium text-emerald-600">日常基本語彙</span></span>
           </span>
-          <span class="text-[11px] font-extrabold text-emerald-700 bg-white/80 px-2 py-0.5 rounded-full border border-emerald-200">702語 →</span>
+          <span class="text-[11px] font-extrabold text-emerald-700 bg-white/80 px-2 py-0.5 rounded-full border border-emerald-200">1,937語 →</span>
         </button>
 
         <button onclick="selectJlptLevelForCards('N4')" class="w-full py-2.5 px-4 rounded-2xl border-2 border-sky-300 hover:border-sky-500 bg-sky-50/50 hover:bg-sky-50 font-bold text-xs sm:text-sm text-sky-800 flex items-center justify-between transition group">
@@ -1664,7 +1583,7 @@
             <span class="w-7 h-7 rounded-lg bg-sky-500 text-white font-black text-xs flex items-center justify-center shadow-2xs">N4</span>
             <span class="text-left"><strong class="block">初中級 (Elementary)</strong><span class="text-[10px] font-medium text-sky-600">基本会話語彙</span></span>
           </span>
-          <span class="text-[11px] font-extrabold text-sky-700 bg-white/80 px-2 py-0.5 rounded-full border border-sky-200">668語 →</span>
+          <span class="text-[11px] font-extrabold text-sky-700 bg-white/80 px-2 py-0.5 rounded-full border border-sky-200">1,497語 →</span>
         </button>
 
         <button onclick="selectJlptLevelForCards('N3')" class="w-full py-2.5 px-4 rounded-2xl border-2 border-amber-300 hover:border-amber-500 bg-amber-50/50 hover:bg-amber-50 font-bold text-xs sm:text-sm text-amber-800 flex items-center justify-between transition group">
@@ -1672,7 +1591,7 @@
             <span class="w-7 h-7 rounded-lg bg-amber-500 text-white font-black text-xs flex items-center justify-center shadow-2xs">N3</span>
             <span class="text-left"><strong class="block">中級 (Intermediate)</strong><span class="text-[10px] font-medium text-amber-600">重要日常語彙</span></span>
           </span>
-          <span class="text-[11px] font-extrabold text-amber-700 bg-white/80 px-2 py-0.5 rounded-full border border-amber-200">1,843語 →</span>
+          <span class="text-[11px] font-extrabold text-amber-700 bg-white/80 px-2 py-0.5 rounded-full border border-amber-200">1,841語 →</span>
         </button>
 
         <button onclick="selectJlptLevelForCards('N2')" class="w-full py-2.5 px-4 rounded-2xl border-2 border-rose-300 hover:border-rose-500 bg-rose-50/50 hover:bg-rose-50 font-bold text-xs sm:text-sm text-rose-800 flex items-center justify-between transition group">
@@ -1688,7 +1607,7 @@
             <span class="w-7 h-7 rounded-lg bg-purple-500 text-white font-black text-xs flex items-center justify-center shadow-2xs">N1</span>
             <span class="text-left"><strong class="block">最上級 (Advanced)</strong><span class="text-[10px] font-medium text-purple-600">高度総合語彙</span></span>
           </span>
-          <span class="text-[11px] font-extrabold text-purple-700 bg-white/80 px-2 py-0.5 rounded-full border border-purple-200">3,748語 →</span>
+          <span class="text-[11px] font-extrabold text-purple-700 bg-white/80 px-2 py-0.5 rounded-full border border-purple-200">3,747語 →</span>
         </button>
       </div>
 
@@ -1744,15 +1663,15 @@
   <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js"></script>
 
   <!-- Database & App Scripts -->
-  <script src="auth.js?v=20261125_1611"></script>
-  <script src="user_progress.js?v=20261125_1611"></script>
-  <script src="database/jlpt_vocab_all.js?v=20261125_1611"></script>
-  <script src="database/dictionary_data.js?v=20261125_1611"></script>
-  <script src="database/modern_slang_data.js?v=20261125_1611"></script>
-  <script src="database/dict_examples_map.js?v=20261125_1611"></script>
-  <script src="database/class_vocab_data.js?v=20261125_1611"></script>
-  <script src="js/data.js?v=20261125_1611"></script>
-  <script src="js/app.js?v=20261125_1611"></script>
+  <script src="auth.js?v=20261125_1811"></script>
+  <script src="user_progress.js?v=20261125_1811"></script>
+  <script src="database/jlpt_vocab_all.js?v=20261125_1811"></script>
+  <script src="database/dictionary_data.js?v=20261125_1811"></script>
+  <script src="database/modern_slang_data.js?v=20261125_1811"></script>
+  <script src="database/dict_examples_map.js?v=20261125_1811"></script>
+  <script src="database/class_vocab_data.js?v=20261125_1811"></script>
+  <script src="js/data.js?v=20261125_1811"></script>
+  <script src="js/app.js?v=20261125_1811"></script>
   <script>
     if (window.lucide) {
       lucide.createIcons();

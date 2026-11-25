@@ -96,9 +96,8 @@
       s = s.replace(/[（\(\)）]/g, '');
     }
     // 5b. Strip any foreign translations appended after Japanese punctuation (e.g. English, Hangul, French, or Chinese text)
-    // ONLY if the trailing part contains NO hiragana/katakana (so Japanese 2nd sentences like "日本語の学生です。" are NEVER cut!)
-    s = s.replace(/([。！？])\s*([a-zA-Z\u00C0-\u024F\uAC00-\uD7A3][\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
-    s = s.replace(/([。！？])\s*([\u4e00-\u9fff]{3,}[\s\S]*)$/, (m, punc, rest) => /[\u3040-\u30FF]/.test(rest) ? m : punc);
+    s = s.replace(/([。！？])\s*[a-zA-Z\u00C0-\u024F\uAC00-\uD7A3]+[\s\S]*$/, '$1');
+    s = s.replace(/([。！？])\s*[\u4e00-\u9fff]{3,}[\s\S]*$/, '$1');
     // 6. Clean duplicate punctuation and extra spaces
     s = s.replace(/[。]+/g, '。');
     return s.replace(/\s+/g, ' ').trim();
@@ -406,7 +405,7 @@
       "fr": "employé de gare"
     },
     "example": {
-      "ja": "<ruby>道<rt>みち</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からなかったので、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>尋<rt>たず</rt></ruby>ねました。",
+      "ja": "<ruby>道<rt>みち</rt></ruby>が分からなかったので、<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>尋<rt>たず</rt></ruby>ねました。",
       "en": "I didn't know the way, so I asked the station staff.",
       "zh_TW": "因為不知道路，所以向站務員詢問了。",
       "zh_CN": "因为不知道路，所以向站务员询问了。",
@@ -433,7 +432,7 @@
       "fr": "mauvaise attitude / mauvaise conduite"
     },
     "example": {
-      "ja": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>少<rt>すこ</rt></ruby>しがっかりしました。",
+      "ja": "<ruby>店員<rt>てんいん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、少しがっかりしました。",
       "en": "The store clerk had a bad attitude, which was a bit disappointing.",
       "zh_TW": "店員的態度很差，讓人有點失望。",
       "zh_CN": "店员的态度很差，让人有点失望。",
@@ -617,7 +616,7 @@
       "fr": "vrai / authentique"
     },
     "example": {
-      "ja": "A: このダイヤモンドの<ruby>指輪<rt>ゆびわ</rt></ruby>は<ruby>鑑定書<rt>かんていしょ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いている<ruby>本物<rt>ほんもの</rt></ruby>です。<br/>B: さすが、とても<ruby>輝<rt>かがや</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>ですね！",
+      "ja": "A: このダイヤモンドの<ruby>指輪<rt>ゆびわ</rt></ruby>は<ruby>鑑定書<rt>かんていしょ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いている<ruby>本物<rt>ほんもの</rt></ruby>です。<br/>B: さすが、とても<ruby.輝<rt>かがや</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>ですね！",
       "zh_TW": "A: 這只鑽石戒指附有鑑定書，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美麗呢！",
       "zh_CN": "A: 这只钻石戒指附有鉴定证书，是真品。<br/>B: 真不愧是真品，光芒非常璀璨美丽呢！",
       "en": "A: This diamond ring comes with a certificate and is genuine.<br/>B: As expected, the sparkle is truly gorgeous!",
@@ -642,7 +641,7 @@
       "fr": "escroquerie / arnaque"
     },
     "example": {
-      "ja": "A: <ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いそうになりました。<br/>B: <ruby>危<rt>あぶ</rt></ruby>なかったですね！すぐにお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>わなくてよかったです。",
+      "ja": "A: <ruby>知<rt>し</rt></ruby>らない<ruby>番号<rt>ばんごう</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いそうになりました。<br/>B: <ruby>危<rt>あぶ</rt></ruby>なかったですね！すぐにお<ruby>金<rt>かね</rt></ruby>を払わなくてよかったです。",
       "zh_TW": "A: 接到陌生號碼的電話，差點遇上匯款詐騙。<br/>B: 太危險了！好在沒有立刻匯錢。",
       "zh_CN": "A: 接到陌生号码的电话，差点碰上汇款诈骗。<br/>B: 太危险了！好在没有立刻转账。",
       "en": "A: I almost fell for a bank transfer scam from an unknown number.<br/>B: That was close! Good thing you didn't pay right away.",
@@ -767,7 +766,7 @@
       "fr": "s'occuper de / prendre soin de"
     },
     "example": {
-      "ja": "A: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早起<rt>はやお</rt></ruby>きして、<ruby>飼<rt>か</rt></ruby>っている<ruby>犬<rt>いぬ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。<br/>B: <ruby>散歩<rt>さんぽ</rt></ruby>やご<ruby>飯<rt>はん</rt></ruby>をあげるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、とてもかわいいですね！",
+      "ja": "A: <ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早起<rt>はやお</rt></ruby>きして、<ruby>飼<rt>か</rt></ruby>っている<ruby>犬<rt>いぬ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしています。<br/>B: <ruby>散歩<rt>さんぽ</rt></ruby>やご飯をあげるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、とてもかわいいですね！",
       "zh_TW": "A: 我每天早起照顧家裡養的狗狗。<br/>B: 散步和餵食雖然辛苦，但牠一定很可愛吧！",
       "zh_CN": "A: 我每天早起照顾家里养的狗狗。<br/>B: 散步和喂食虽然辛苦，但它一定很可爱吧！",
       "en": "A: I wake up early every morning to take care of my dog.<br/>B: Walking and feeding takes effort, but dogs are so lovely!",
@@ -792,7 +791,7 @@
       "fr": "entraînement rigoureux / apprentissage"
     },
     "example": {
-      "ja": "A: <ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>になるために、<ruby>有名店<rt>ゆうめいてん</rt></ruby>で10<ruby>年間<rt>ねんかん</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>しました。<br/>B: 10<ruby>年<rt>ねん</rt></ruby>もの<ruby>厳<rt>きび</rt></ruby>しい<ruby>修行<rt>しゅぎょう</rt></ruby>を<ruby>乗り越え<rt>のりこえ</rt></ruby>たのは<ruby>素晴<rt>すば</rt></ruby>らしいですね！",
+      "ja": "A: <ruby>一流<rt>いちりゅう</rt></ruby>の<ruby>寿司<rt>すし</rt></ruby><ruby>職人<rt>しょくにん</rt></ruby>になるために、<ruby>有名店<rt>ゆうめいてん</rt></ruby>で10<ruby>年間<rt>ねんかん</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>しました。<br/>B: 10<ruby>年<rt>ねん</rt></ruby>もの<ruby>厳<rt>きび</rt></ruby>しい<ruby>修行<rt>しゅぎょう</rt></ruby>を乗り越えたのは素晴らしいですね！",
       "zh_TW": "A: 為了成為一流的壽司師傅，他在名店修行了10年。<br/>B: 能熬過10年嚴格的學徒修行，真的很了不起呢！",
       "zh_CN": "A: 为了成为一流的寿司师傅，他在名店修行了10年。<br/>B: 能熬过10年严格的学徒修行，真的很了不起呢！",
       "en": "A: To become a top-tier sushi chef, he trained for 10 years at a famous restaurant.<br/>B: Overcoming 10 years of rigorous training is truly admirable!",
@@ -817,7 +816,7 @@
       "fr": "faire face / affronter"
     },
     "example": {
-      "ja": "A: つらい<ruby>現実<rt>げんじつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げずに、しっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br/>B: ええ、<ruby>問題<rt>もんだい</rt></ruby>から<ruby>目<rt>め</rt></ruby>を<ruby>背<rt>そむ</rt></ruby>けずに<ruby>一歩<rt>いっぽ</rt></ruby>ずつ<ruby>進<rt>すす</rt></ruby>みましょう。",
+      "ja": "A: つらい<ruby>現実<rt>げんじつ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げずに、しっかり<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う<ruby>勇気<rt>ゆうき</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br/>B: ええ、<ruby>問題<rt>もんだい</rt></ruby>から目を背けずに<ruby>一歩<rt>いっぽ</rt></ruby>ずつ進みましょう。",
       "zh_TW": "A: 不要逃避痛苦的現實，需要好好正視它的勇氣。<br/>B: 是啊，不逃避問題，一步一步往前邁進吧。",
       "zh_CN": "A: 不要逃避痛苦的现实，需要好好正视它的勇气。<br/>B: 是啊，不逃避问题，一步一步往前迈进吧。",
       "en": "A: We need the courage to honestly face harsh reality without running away.<br/>B: Yes, let's move forward step by step without turning away from problems.",
@@ -4355,7 +4354,7 @@
       "fr": "cousin / cousine"
     },
     "example": {
-      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はいとこの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きました。<br/>B: <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>えて<ruby>楽<rt>たの</rt></ruby>しかったですね！",
+      "ja": "A: <ruby>週末<rt>しゅうまつ</rt></ruby>はいとこの<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに行きました。<br/>B: <ruby>久<rt>ひさ</rt></ruby>しぶりに会えて楽しかったですね！",
       "zh_TW": "A: 週末我去了表親家玩。<br/>B: 久別重逢一定很開心吧！",
       "zh_CN": "A: 周末我去了堂表亲家玩。<br/>B: 久别重逢一定很开心吧！",
       "en": "A: I went to play at my cousin's house over the weekend.<br/>B: It must have been fun catching up after so long!",
@@ -4605,7 +4604,7 @@
       "fr": "gomme"
     },
     "example": {
-      "ja": "A: すみません、<ruby>消<rt>け</rt></ruby>しゴムを<ruby>忘<rt>わす</rt></ruby>れてしまいました。<br/>B: <ruby>私<rt>わたし</rt></ruby>のを<ruby>使<rt>つか</rt></ruby>ってもいいですよ。",
+      "ja": "A: すみません、<ruby>消<rt>け</rt></ruby>しゴムを<ruby>忘<rt>わす</rt></ruby>れてしまいました。<br/>B: <ruby>私<rt>わたし</rt></ruby>のを使ってもいいですよ。",
       "zh_TW": "A: 不好意思，我忘了帶橡皮擦。<br/>B: 可以借你用我的喔。",
       "zh_CN": "A: 不好意思，我忘了带橡皮擦。<br/>B: 可以借你用我的哦。",
       "en": "A: Excuse me, I forgot my eraser.<br/>B: You can borrow mine!",
@@ -4655,7 +4654,7 @@
       "fr": "gagner (de l'argent)"
     },
     "example": {
-      "ja": "A: アルバイトでお<ruby>金<rt>かね</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>いで、<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。<br/>B: <ruby>素晴<rt>すば</rt></ruby>らしいですね！<ruby>応援<rt>おうえん</rt></ruby>しています。",
+      "ja": "A: アルバイトでお<ruby>金<rt>かね</rt></ruby>を<ruby>稼<rt>かせ</rt></ruby>いで、<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。<br/>B: 素晴らしいですね！<ruby>応援<rt>おうえん</rt></ruby>しています。",
       "zh_TW": "A: 我想靠打工賺錢去日本旅行。<br/>B: 太棒了！我支持你。",
       "zh_CN": "A: 我想靠兼职打工赚钱去日本旅行。<br/>B: 太棒了！我支持你。",
       "en": "A: I want to earn money from a part-time job to travel to Japan.<br/>B: That's wonderful! I'm cheering for you.",
@@ -4955,7 +4954,7 @@
       "fr": "carotte"
     },
     "example": {
-      "ja": "A: カレーにはにんじんをたっぷり<ruby>入<rt>い</rt></ruby>れます。<br/>B: <ruby>甘<rt>あま</rt></ruby>みが<ruby>出<rt>で</rt></ruby>てとても<ruby>美味<rt>おい</rt></ruby>しくなりますね。",
+      "ja": "A: カレーにはにんじんをたっぷり<ruby>入<rt>い</rt></ruby>れます。<br/>B: <ruby>甘<rt>あま</rt></ruby>みが出てとても<ruby>美味<rt>おい</rt></ruby>しくなりますね。",
       "zh_TW": "A: 煮咖哩時我會放很多紅蘿蔔。<br/>B: 會散發自然的甜味，變得非常好吃呢。",
       "zh_CN": "A: 煮咖喱时我会放很多胡萝卜。<br/>B: 会散发自然的甜味，变得非常好吃呢。",
       "en": "A: I put lots of carrots in curry.<br/>B: It brings out the sweetness and makes it very delicious.",
@@ -5005,7 +5004,7 @@
       "fr": "chawanmushi (flan aux œufs salé à la japonaise)"
     },
     "example": {
-      "ja": "A: <ruby>和食<rt>わしょく</rt></ruby>の<ruby>茶碗蒸<rt>ちゃわんむ</rt></ruby>しを<ruby>食<rt>た</rt></ruby>べたことがありますか。<br/>B: はい、<ruby>出汁<rt>だし</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>がして、なめらかで<ruby>大好<rt>だいす</rt></ruby>きです。",
+      "ja": "A: <ruby>和食<rt>わしょく</rt></ruby>の<ruby>茶碗蒸<rt>ちゃわんむ</rt></ruby>しを<ruby>食<rt>た</rt></ruby>べたことがありますか。<br/>B: はい、出汁の味がして、なめらかで<ruby>大好<rt>だいす</rt></ruby>きです。",
       "zh_TW": "A: 你吃過日式料理的茶碗蒸嗎？<br/>B: 吃過，高湯的味道很濃郁，口感滑嫩，我很喜歡。",
       "zh_CN": "A: 你吃过日料里的茶碗蒸吗？<br/>B: 吃过，高汤味很浓，口感滑嫩，我很喜欢。",
       "en": "A: Have you ever eaten Japanese chawanmushi?<br/>B: Yes, it has a rich dashi flavor, is so smooth, and I love it.",
@@ -5664,7 +5663,8 @@
 
     // 170文字以内のチャンクに分割（句読点区切り）
     const chunks = [];
-    const parts = cleanText.split(/(?<=[。！？\n])/);
+    const parts = cleanText.split(/(?<=[。！？
+])/);
     let buf = '';
     for (const p of parts) {
       const s = p.trim();
@@ -5704,28 +5704,19 @@
       const audio = new Audio(url);
       globalGoogleAudioInstance = audio;
 
-      let didFallback = false;
-      const triggerFallback = (reason, err) => {
-        if (didFallback) return;
-        didFallback = true;
-        console.warn(reason, err);
-        const remaining = chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : '');
-        googleAudioQueue = [];
-        isGoogleTtsPlaying = false;
-        fallbackSpeechSynthesis(remaining, onEnd);
-      };
-
       audio.onended = () => {
         playNext();
       };
       audio.onerror = (err) => {
-        triggerFallback('Google TTS audio playback failed, falling back to Web Speech API:', err);
+        console.warn('Google TTS audio playback failed, falling back to Web Speech API:', err);
+        fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
       };
 
       const p = audio.play();
       if (p !== undefined) {
         p.catch(err => {
-          triggerFallback('Google TTS audio play catch, falling back:', err);
+          console.warn('Google TTS audio play catch, falling back:', err);
+          fallbackSpeechSynthesis(chunk + (googleAudioQueue.length ? ' ' + googleAudioQueue.join(' ') : ''), onEnd);
         });
       }
     }
@@ -6329,7 +6320,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261125_1611';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261125_1811';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
@@ -9932,7 +9923,8 @@
   function updateActiveDeck(preserveTarget = false, targetCardId = null, targetIndex = null) {
     if (currentDeckFilter === 'jlpt') {
       const lvl = currentJlptDeckLevel || 'N5';
-      const jlptList = (window.JLPT_VOCAB && window.JLPT_VOCAB[lvl]) || [];
+      const jlptVocabDb = window.JLPT_VOCAB || (typeof JLPT_VOCAB !== 'undefined' ? (window.JLPT_VOCAB = JLPT_VOCAB) : null);
+      const jlptList = (jlptVocabDb && jlptVocabDb[lvl]) || [];
       const dictMap = window.DICT_EXAMPLES_MAP || {};
       activeDeck = jlptList.map((entry, idx) => {
         const dictEx = dictMap[entry.word] || (entry.reading && dictMap[entry.reading]);
@@ -10035,299 +10027,6 @@
     saveCurrentDeckProgress();
   }
 
-  // --- Kana to Hepburn Romaji Conversion Engine ---
-  const KANA_ROMAJI_MULTI = {
-    'きゃ': 'kya', 'きゅ': 'kyu', 'きょ': 'kyo',
-    'しゃ': 'sha', 'しゅ': 'shu', 'しょ': 'sho', 'しぇ': 'she',
-    'ちゃ': 'cha', 'ちゅ': 'chu', 'ちょ': 'cho', 'ちぇ': 'che',
-    'にゃ': 'nya', 'にゅ': 'nyu', 'にょ': 'nyo',
-    'ひゃ': 'hya', 'ひゅ': 'hyu', 'ひょ': 'hyo',
-    'みゃ': 'mya', 'みゅ': 'myu', 'みょ': 'myo',
-    'りゃ': 'rya', 'りゅ': 'ryu', 'りょ': 'ryo',
-    'ぎゃ': 'gya', 'ぎゅ': 'gyu', 'ぎょ': 'gyo',
-    'じゃ': 'ja', 'じゅ': 'ju', 'じょ': 'jo', 'じぇ': 'je',
-    'ぢゃ': 'ja', 'ぢゅ': 'ju', 'ぢょ': 'jo',
-    'びゃ': 'bya', 'びゅ': 'byu', 'びょ': 'byo',
-    'ぴゃ': 'pya', 'ぴゅ': 'pyu', 'ぴょ': 'pyo',
-    'ふぁ': 'fa', 'ふぃ': 'fi', 'ふぇ': 'fe', 'ふぉ': 'fo', 'ふゅ': 'fyu',
-    'てぃ': 'ti', 'でぃ': 'di', 'とぅ': 'tu', 'どぅ': 'du',
-    'うぃ': 'wi', 'うぇ': 'we', 'うぉ': 'wo',
-    'ゔぁ': 'va', 'ゔぃ': 'vi', 'ゔ': 'vu', 'ゔぇ': 've', 'ゔぉ': 'vo',
-    'つぁ': 'tsa', 'つぃ': 'tsi', 'つぇ': 'tse', 'つぉ': 'tso'
-  };
-
-  const KANA_ROMAJI_SINGLE = {
-    'あ': 'a', 'い': 'i', 'う': 'u', 'え': 'e', 'お': 'o',
-    'か': 'ka', 'き': 'ki', 'く': 'ku', 'け': 'ke', 'こ': 'ko',
-    'さ': 'sa', 'し': 'shi', 'す': 'su', 'せ': 'se', 'そ': 'so',
-    'た': 'ta', 'ち': 'chi', 'つ': 'tsu', 'て': 'te', 'と': 'to',
-    'な': 'na', 'に': 'ni', 'ぬ': 'nu', 'ね': 'ne', 'の': 'no',
-    'は': 'ha', 'ひ': 'hi', 'ふ': 'fu', 'へ': 'he', 'ほ': 'ho',
-    'ま': 'ma', 'み': 'mi', 'む': 'mu', 'め': 'me', 'も': 'mo',
-    'や': 'ya', 'ゆ': 'yu', 'よ': 'yo',
-    'ら': 'ra', 'り': 'ri', 'る': 'ru', 'れ': 're', 'ろ': 'ro',
-    'わ': 'wa', 'を': 'o', 'ん': 'n',
-    'が': 'ga', 'ぎ': 'gi', 'ぐ': 'gu', 'げ': 'ge', 'ご': 'go',
-    'ざ': 'za', 'じ': 'ji', 'ず': 'zu', 'ぜ': 'ze', 'ぞ': 'zo',
-    'だ': 'da', 'ぢ': 'ji', 'づ': 'zu', 'で': 'de', 'ど': 'do',
-    'ば': 'ba', 'び': 'bi', 'ぶ': 'bu', 'べ': 'be', 'ぼ': 'bo',
-    'ぱ': 'pa', 'ぴ': 'pi', 'ぷ': 'pu', 'ぺ': 'pe', 'ぽ': 'po',
-    'ぁ': 'a', 'ぃ': 'i', 'ぅ': 'u', 'ぇ': 'e', 'ぉ': 'o',
-    'ゔ': 'vu'
-  };
-
-  const ROMAJI_EXACT_PHRASES = {
-    'どうぞ': 'douzo',
-    'はい': 'hai',
-    'いいえ': 'iie',
-    'こんにちは': 'konnichiwa',
-    'こんばんは': 'konbanwa',
-    'では': 'dewa',
-    'それでは': 'soredewa',
-    'おはようございます': 'ohayou gozaimasu',
-    'ありがとうございます': 'arigatou gozaimasu',
-    'ありがとうございました': 'arigatou gozaimashita',
-    'おつかれさまです': 'otsukaresama desu',
-    'おつかれさまでした': 'otsukaresama deshita',
-    'お疲れ様でした': 'otsukaresama deshita',
-    'ごちそうさまでした': 'gochisousama deshita',
-    'よろしくおねがいします': 'yoroshiku onegaishimasu',
-    'よろしくお願いします': 'yoroshiku onegaishimasu',
-    'はじめまして': 'hajimemashite',
-    'さようなら': 'sayounara',
-    'おやすみなさい': 'oyasuminasai',
-    'いってきます': 'ittekimasu',
-    'いってらっしゃい': 'itterasshai',
-    'おかえりなさい': 'okaerinasai',
-    'ただいま': 'tadaima',
-    'いただきます': 'itadakimasu',
-    'すみません': 'sumimasen',
-    'ごめんなさい': 'gomennasai',
-    'どういたしまして': 'douitashimashite',
-    'かんぱい': 'kanpai',
-    '乾杯': 'kanpai',
-    'ちがいます': 'chigaimasu',
-    'またあした': 'mata ashita',
-    'これはどうですか？': 'kore wa dou desu ka?',
-    'これはどうですか': 'kore wa dou desu ka',
-    'わかりますか？': 'wakarimasu ka?',
-    'わかりますか': 'wakarimasu ka',
-    'できますか？': 'dekimasu ka?',
-    'できますか': 'dekimasu ka',
-    '元気ですか？': 'genki desu ka?',
-    '元気ですか': 'genki desu ka',
-    '元気です': 'genki desu',
-    '大丈夫ですか？': 'daijoubu desu ka?',
-    '大丈夫ですか': 'daijoubu desu ka',
-    '大丈夫です': 'daijoubu desu',
-    'そうです': 'sou desu',
-    '難しいです': 'muzukashii desu',
-    '簡単です': 'kantan desu',
-    '日本語でなんと言いますか？': 'nihongo de nan to iimasu ka?',
-    '日本語でなんといいますか？': 'nihongo de nan to iimasu ka?',
-    '日本語で答えてください': 'nihongo de kotaete kudasai',
-    'にほんごでこたえてください': 'nihongo de kotaete kudasai',
-    'ちょっと待ってください': 'chotto matte kudasai',
-    'ちょっとまってください': 'chotto matte kudasai',
-    'もう一度言ってください': 'mou ichido itte kudasai',
-    'もういちどいってください': 'mou ichido itte kudasai',
-    'ゆっくり言ってください': 'yukkuri itte kudasai',
-    'ゆっくりいってください': 'yukkuri itte kudasai',
-    'あたまがいたい': 'atama ga itai',
-    'おなかがいたい': 'onaka ga itai',
-    'はがいたい': 'ha ga itai',
-    'ねつがある': 'netsu ga aru',
-    'めまいがする': 'memai ga suru',
-    'しょくよくがない': 'shokuyoku ga nai',
-    'かたがこる': 'kata ga koru',
-    'からだがだるい': 'karada ga darui',
-    'むかえにいく': 'mukae ni iku',
-    'むかえにくる': 'mukae ni kuru',
-    'にんきがある': 'ninki ga aru',
-    'つごうがいい': 'tsugou ga ii',
-    'つごうがわるい': 'tsugou ga warui',
-    'かける（かぎを）': 'kakeru (kagi o)',
-    'きもちがいい': 'kimochi ga ii',
-    'おせわになる': 'osewa ni naru',
-    'やくにたつ': 'yaku ni tatsu',
-    'やくにたちます': 'yaku ni tachimasu',
-    'あじがする': 'aji ga suru',
-    'においがする': 'nioi ga suru',
-    'おとがする': 'oto ga suru',
-    'こえがする': 'koe ga suru',
-    'かんじがする': 'kanji ga suru',
-    '〜によると': '~ni yoru to',
-    '〜ようです': '~you desu',
-    '〜みたいです': '~mitai desu',
-    'ごらんになる': 'goran ni naru',
-    'ごらんになります': 'goran ni narimasu',
-    'めしあがる': 'meshiagaru',
-    'めしあがります': 'meshiagarimasu',
-    'おなくなりになる': 'onakunari ni naru',
-    'おかえりになる': 'okaeri ni naru',
-    'およみになる': 'oyomi ni naru',
-    'おめにかかる': 'ome ni kakaru',
-    '〜でございます': '~de gozaimasu',
-    'きをつける': 'ki o tsukeru',
-    'きをつけます': 'ki o tsukemasu',
-    'きをつけて': 'ki o tsukete',
-    'きをつけない': 'ki o tsukenai',
-    'きをつけた': 'ki o tsuketa',
-    'きをつけられる': 'ki o tsukerareru',
-    'そうですね': 'sou desu ne',
-    'そうですか': 'sou desu ka',
-    'ほんとうですか': 'hontou desu ka',
-    'いいですね': 'ii desu ne',
-    'いいですよ': 'ii desu yo'
-  };
-
-  function toRomaji(rawText) {
-    if (!rawText) return '';
-    const text = String(rawText).trim();
-    if (!text) return '';
-    if (ROMAJI_EXACT_PHRASES[text]) return ROMAJI_EXACT_PHRASES[text];
-
-    for (const sep of ['・', ' / ', '/', '／']) {
-      if (text.includes(sep)) {
-        return text.split(sep).map(p => toRomaji(p)).filter(Boolean).join(' / ');
-      }
-    }
-
-    let clause = text;
-    clause = clause.replace(/([てで])ください/g, '$1 kudasai');
-    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])ですか/g, '$1 desu ka');
-    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])です/g, '$1 desu');
-    clause = clause.replace(/([いしりちきみぎびじずえめねけげてでかすん])でした/g, '$1 deshita');
-    clause = clause.replace(/([^a-zA-Z\s])を/g, '$1 o ');
-    clause = clause.replace(/([きぎちりしびみい])すぎる/g, '$1 sugiru');
-
-    let hira = '';
-    for (let idx = 0; idx < clause.length; idx++) {
-      const code = clause.charCodeAt(idx);
-      if (code >= 0x30A1 && code <= 0x30F6) {
-        hira += String.fromCharCode(code - 0x60);
-      } else {
-        hira += clause[idx];
-      }
-    }
-
-    const result = [];
-    let i = 0;
-    const n = hira.length;
-
-    while (i < n) {
-      const ch = hira[i];
-
-      if (ch === ' ' || ch === '\t' || ch === '　') {
-        result.push(' ');
-        i++;
-        continue;
-      }
-      if (ch === '?' || ch === '？') {
-        result.push('?');
-        i++;
-        continue;
-      }
-      if (ch === '!' || ch === '！') {
-        result.push('!');
-        i++;
-        continue;
-      }
-      if (ch === '~' || ch === '〜' || ch === '-' || ch === '—') {
-        result.push('~');
-        i++;
-        continue;
-      }
-      if (ch === '(' || ch === '（') {
-        result.push('(');
-        i++;
-        continue;
-      }
-      if (ch === ')' || ch === '）') {
-        result.push(')');
-        i++;
-        continue;
-      }
-
-      if (ch === 'ー') {
-        let prevVowel = 'a';
-        for (let j = result.length - 1; j >= 0; j--) {
-          const token = result[j];
-          for (let k = token.length - 1; k >= 0; k--) {
-            if ('aiueo'.includes(token[k])) {
-              prevVowel = token[k];
-              break;
-            }
-          }
-          if (prevVowel !== 'a') break;
-        }
-        result.push(prevVowel);
-        i++;
-        continue;
-      }
-
-      if (ch === 'っ') {
-        if (i + 1 < n) {
-          const nextTwo = hira.slice(i + 1, i + 3);
-          const nextRomaji = KANA_ROMAJI_MULTI[nextTwo] || KANA_ROMAJI_SINGLE[hira[i + 1]];
-          if (nextRomaji) {
-            if (nextRomaji.startsWith('ch')) {
-              result.push('t');
-            } else {
-              result.push(nextRomaji[0]);
-            }
-            i++;
-            continue;
-          }
-        }
-        result.push('tsu');
-        i++;
-        continue;
-      }
-
-      if (ch === 'ん') {
-        if (i + 1 < n) {
-          const nextTwo = hira.slice(i + 1, i + 3);
-          const nextRomaji = KANA_ROMAJI_MULTI[nextTwo] || KANA_ROMAJI_SINGLE[hira[i + 1]];
-          if (nextRomaji && ('aiueoy'.includes(nextRomaji[0]))) {
-            result.push("n'");
-            i++;
-            continue;
-          }
-        }
-        result.push('n');
-        i++;
-        continue;
-      }
-
-      if (i + 1 < n) {
-        const two = hira.slice(i, i + 2);
-        if (KANA_ROMAJI_MULTI[two]) {
-          result.push(KANA_ROMAJI_MULTI[two]);
-          i += 2;
-          continue;
-        }
-      }
-
-      if (KANA_ROMAJI_SINGLE[ch]) {
-        result.push(KANA_ROMAJI_SINGLE[ch]);
-        i++;
-        continue;
-      }
-
-      result.push(ch);
-      i++;
-    }
-
-    return result.join('').replace(/\s+/g, ' ').trim();
-  }
-
-  function getCardRomaji(card, jpWord, readingText) {
-    if (card && card.romaji) return card.romaji;
-    const baseText = readingText || (card && card.reading) || jpWord || '';
-    return toRomaji(baseText);
-  }
-
   // --- 3D Card Rendering & Interaction ---
   function renderCurrentCard() {
     const cardEl = document.getElementById('flashcardElement');
@@ -10376,8 +10075,6 @@
       }
     }
 
-    const romajiText = getCardRomaji(card, jpWord, readingText);
-
     // Check Star / Mylist state
     const btnStar = document.getElementById('btnStarCurrent');
     if (mylistSet.has(card.id)) {
@@ -10392,10 +10089,8 @@
     const targetExTrans = getBilingualExampleTrans(exampleObj, currentLang);
 
     // Reverse Mode handling: 日本語 ⇄ 母国語
-    const backMeaningLabel = document.getElementById('backMeaningLabel');
     if (!isReverseMode) {
       // Normal: Front is Japanese, Back is Native & English Meaning
-      if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '意味・翻訳' : 'Meaning / Translation';
       document.getElementById('frontWord').textContent = jpWord;
       document.getElementById('frontWord').className = 'text-3xl sm:text-4xl font-extrabold text-darkNavyText tracking-tight leading-snug';
       const hasKanji = /[\u4e00-\u9faf]/.test(jpWord);
@@ -10406,7 +10101,6 @@
       document.getElementById('backMeaning').textContent = targetMeaning;
     } else {
       // Reverse: Front is Native & English Meaning, Back is Japanese
-      if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '読み方' : '読み方 (Reading)';
       const targetLang = currentLang;
       let nativeMeaning = meaningObj ? (meaningObj[targetLang] || '') : '';
       let enMeaning = meaningObj ? (meaningObj.en || '') : '';
@@ -10459,8 +10153,7 @@
         }
       }
 
-      const displayKana = readingText || jpWord;
-      document.getElementById('backMeaning').textContent = `${displayKana}${romajiText ? ` （${romajiText}）` : ''}`;
+      document.getElementById('backMeaning').textContent = `${jpWord}${readingText ? ` （${readingText}）` : ''}`;
     }
 
     let currentCardCategory = card.category || '一般';
@@ -10470,7 +10163,7 @@
     document.getElementById('frontCategoryBadge').textContent = currentCardCategory;
     document.getElementById('backCategoryBadge').textContent = currentCardCategory;
     document.getElementById('backWordHeader').textContent = jpWord;
-    document.getElementById('backReadingHeader').textContent = romajiText ? `（${romajiText}）` : '';
+    document.getElementById('backReadingHeader').textContent = readingText ? `（${readingText}）` : '';
 
     // Example sentence & Translation (Render HTML <ruby> tags for furigana and <br> for dialogues)
     let exJa = (card.example && card.example.ja) || '';
@@ -11614,7 +11307,8 @@
     }
 
     // 5. Check JLPT_VOCAB
-    if (window.JLPT_VOCAB) {
+    const jlptVocabDbForCard = window.JLPT_VOCAB || (typeof JLPT_VOCAB !== 'undefined' ? (window.JLPT_VOCAB = JLPT_VOCAB) : null);
+    if (jlptVocabDbForCard) {
       let jlptWordToFind = cardId;
       if (cardId.startsWith('jlpt_')) {
         const parts = cardId.split('_');
@@ -11625,7 +11319,7 @@
         }
       }
       for (const lvl of ['N5', 'N4', 'N3', 'N2', 'N1']) {
-        const list = window.JLPT_VOCAB[lvl] || [];
+        const list = jlptVocabDbForCard[lvl] || [];
         const entry = list.find(w => w.word === jlptWordToFind || w.word === cardId);
         if (entry) {
           const dictMap = window.DICT_EXAMPLES_MAP || {};
@@ -12451,9 +12145,10 @@
             };
           }
         }
-        if (window.JLPT_VOCAB) {
+        const jlptVocabDbForLookup = window.JLPT_VOCAB || (typeof JLPT_VOCAB !== 'undefined' ? (window.JLPT_VOCAB = JLPT_VOCAB) : null);
+        if (jlptVocabDbForLookup) {
           for (const lvl of ['N5', 'N4', 'N3', 'N2', 'N1']) {
-            const list = window.JLPT_VOCAB[lvl] || [];
+            const list = jlptVocabDbForLookup[lvl] || [];
             const entry = list.find(x => x.word === w);
             if (entry) {
               return {
@@ -13408,9 +13103,7 @@
         currentIndex++;
         renderCurrentCard();
       } else {
-        currentIndex = 0;
-        renderCurrentCard();
-        showToast(currentLang === 'ja' ? '最初のカードに戻りました 🔄' : 'Back to first card 🔄');
+        showToast('Last card! Try taking a quiz 🎉');
       }
     });
 
@@ -16100,12 +15793,21 @@
   }
 
   // ==================== JLPT CONTROLLER & LEVEL PICKER ====================
+  function getJlptVocabDb() {
+    if (typeof window !== 'undefined' && window.JLPT_VOCAB) return window.JLPT_VOCAB;
+    if (typeof JLPT_VOCAB !== 'undefined') {
+      if (typeof window !== 'undefined') window.JLPT_VOCAB = JLPT_VOCAB;
+      return JLPT_VOCAB;
+    }
+    return null;
+  }
+
   const JLPT_LEVEL_INFO = {
-    N5: { title: 'JLPT N5 — 初級 (Beginner)', sub: '基本の日常生活単語。日本語学習のスタートライン。', cls: 'banner-n5', count: '702' },
-    N4: { title: 'JLPT N4 — 初中級 (Elementary)', sub: '身近な日常会話・よく使われる表現。', cls: 'banner-n4', count: '668' },
-    N3: { title: 'JLPT N3 — 中級 (Intermediate)', sub: '日常の幅広い場面で使われる重要単語。', cls: 'banner-n3', count: '1,843' },
-    N2: { title: 'JLPT N2 — 上級 (Upper Intermediate)', sub: '新聞・ビジネス・幅広いトピックの語彙。', cls: 'banner-n2', count: '1,949' },
-    N1: { title: 'JLPT N1 — 最上級 (Advanced)', sub: '論理的・専門的で高度な表現を含む総合語彙。', cls: 'banner-n1', count: '3,748' },
+    N5: { title: 'JLPT N5 — 初級 (Beginner)', sub: '基本の日常生活単語。日本語学習のスタートライン。', cls: 'banner-n5', count: '1,937', fcUrl: 'jlpt_n5_vocab_cards.html', fcCount: '全702語' },
+    N4: { title: 'JLPT N4 — 初中級 (Elementary)', sub: '身近な日常会話・よく使われる表現。', cls: 'banner-n4', count: '1,497', fcUrl: 'jlpt_n4_vocab_cards.html', fcCount: '全668語' },
+    N3: { title: 'JLPT N3 — 中級 (Intermediate)', sub: '日常の幅広い場面で使われる重要単語。', cls: 'banner-n3', count: '1,841', fcUrl: 'jlpt_n3_vocab_cards.html', fcCount: '全1,841語' },
+    N2: { title: 'JLPT N2 — 上級 (Upper Intermediate)', sub: '新聞・ビジネス・幅広いトピックの語彙。', cls: 'banner-n2', count: '1,949', fcUrl: 'jlpt_n2_vocab_cards.html', fcCount: '全3,412語' },
+    N1: { title: 'JLPT N1 — 最上級 (Advanced)', sub: '論理的・専門的で高度な表現を含む総合語彙。', cls: 'banner-n1', count: '3,747', fcUrl: 'jlpt_n1_vocab_cards.html', fcCount: '全3,747語' },
   };
 
   const JLPT_PAGE_SIZE = 60;
@@ -16118,6 +15820,22 @@
 
   function initJlptView() {
     updateJlptHeaderSavedCount();
+    const db = getJlptVocabDb();
+    if (db) {
+      let totalAll = 0;
+      ['N5', 'N4', 'N3', 'N2', 'N1'].forEach(lvl => {
+        const len = (db[lvl] || []).length;
+        totalAll += len;
+        const tabCountEl = document.getElementById('jlptTabCount-' + lvl);
+        if (tabCountEl && len > 0) {
+          tabCountEl.textContent = len.toLocaleString() + ' words';
+        }
+      });
+      const totalAllEl = document.getElementById('jlptTotalAllLevelsBadge');
+      if (totalAllEl && totalAll > 0) {
+        totalAllEl.textContent = totalAll.toLocaleString() + ' words';
+      }
+    }
     switchJlptLevel(currentJlptLevel || 'N5');
   }
 
@@ -16148,8 +15866,21 @@
     const allBtn = document.getElementById('jlptRow-all');
     if (allBtn) allBtn.classList.add('active');
 
-    // Update banner
+    // Update banner & Master Flashcard link for current level
     const info = JLPT_LEVEL_INFO[level] || JLPT_LEVEL_INFO['N5'];
+    const fcBanner = document.getElementById('jlptMasterFlashcardBanner');
+    if (fcBanner && info.fcUrl) {
+      fcBanner.setAttribute('href', info.fcUrl);
+    }
+    const fcTitle = document.getElementById('jlptMasterFlashcardTitle');
+    if (fcTitle) {
+      fcTitle.textContent = `JLPT ${level} 文字・語彙 マスター フラッシュカード`;
+    }
+    const fcCount = document.getElementById('jlptMasterFlashcardCount');
+    if (fcCount && info.fcCount) {
+      fcCount.textContent = info.fcCount;
+    }
+
     const bannerBox = document.getElementById('jlptBannerBox');
     if (bannerBox) {
       bannerBox.className = 'rounded-2xl p-3 sm:p-4 flex items-center justify-between flex-wrap gap-2 shadow-2xs ' + info.cls;
@@ -16176,7 +15907,8 @@
   function filterJlptWords() {
     const searchInput = document.getElementById('jlptSearchInput');
     const q = searchInput ? searchInput.value.trim().toLowerCase() : '';
-    const allWords = (window.JLPT_VOCAB && window.JLPT_VOCAB[currentJlptLevel]) || [];
+    const db = getJlptVocabDb();
+    const allWords = (db && db[currentJlptLevel]) || [];
 
     filteredJlptWords = allWords.filter(w => {
       if (currentJlptRow !== 'all' && w.row !== currentJlptRow) {
