@@ -6366,7 +6366,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261127_1514';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261127_1536';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction
@@ -10431,8 +10431,10 @@
 
     // Reverse Mode handling: 日本語 ⇄ 母国語
     const backMeaningLabel = document.getElementById('backMeaningLabel');
+    const btnSpeakFrontEl = document.getElementById('btnSpeakFront');
     if (!isReverseMode) {
       // Normal: Front is Japanese, Back is Native & English Meaning
+      if (btnSpeakFrontEl) btnSpeakFrontEl.classList.remove('hidden');
       if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '意味・翻訳' : 'Meaning / Translation';
       document.getElementById('frontWord').textContent = jpWord;
       document.getElementById('frontWord').className = 'text-3xl sm:text-4xl font-extrabold text-darkNavyText tracking-tight leading-snug';
@@ -10443,7 +10445,8 @@
       document.getElementById('frontReading').classList.remove('hidden');
       document.getElementById('backMeaning').textContent = targetMeaning;
     } else {
-      // Reverse: Front is Native & English Meaning, Back is Japanese
+      // Reverse: Front is Native & English Meaning (NO audio button on non-Japanese front), Back is Japanese
+      if (btnSpeakFrontEl) btnSpeakFrontEl.classList.add('hidden');
       if (backMeaningLabel) backMeaningLabel.textContent = (currentLang === 'ja') ? '読み方' : '読み方 (Reading)';
       const targetLang = currentLang;
       let nativeMeaning = meaningObj ? (meaningObj[targetLang] || '') : '';
@@ -13708,17 +13711,9 @@
     document.getElementById('btnSpeakFront').addEventListener('click', (e) => {
       e.stopPropagation();
       if (activeDeck[currentIndex]) {
-        if (isReverseMode) {
-          // リバースモードの表面では日本語のネタバレを防ぎ、英語を発音
-          const en = (activeDeck[currentIndex].meaning && activeDeck[currentIndex].meaning.en) || '';
-          if (en && 'speechSynthesis' in window) {
-            const utt = new SpeechSynthesisUtterance(en);
-            utt.lang = 'en-US';
-            window.speechSynthesis.speak(utt);
-          }
-        } else {
-          toggleJapaneseSpeech(activeDeck[currentIndex]);
-        }
+        // 表面が日本語以外（英語・母国語）のときは音声を再生しない（裏面の日本語のみ再生）
+        if (isReverseMode) return;
+        toggleJapaneseSpeech(activeDeck[currentIndex]);
       }
     });
 

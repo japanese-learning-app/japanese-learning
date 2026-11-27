@@ -1082,7 +1082,7 @@
         frontWord.className = 'text-2xl sm:text-4xl font-extrabold text-deepNavy tracking-tight leading-snug font-sans select-text px-2';
         frontWord.textContent = item.meaning || '';
         if (frontHint) frontHint.textContent = 'この英語の日本語は？（タップして確認）⟳';
-        if (btnFrontSpeak) btnFrontSpeak.title = '英語を発音';
+        if (btnFrontSpeak) btnFrontSpeak.classList.add('hidden');
 
         // BACK: Japanese Answer
         backCatBadge.textContent = item.cat_short || item.cat_name;
@@ -1105,7 +1105,7 @@
         frontWord.className = 'text-4xl sm:text-6xl font-extrabold text-darkNavyText tracking-tight leading-relaxed font-jp select-text';
         frontWord.innerHTML = item.ruby || item.word;
         if (frontHint) frontHint.textContent = 'タップして意味・例文を確認 ⟳';
-        if (btnFrontSpeak) btnFrontSpeak.title = '日本語を発音';
+        if (btnFrontSpeak) { btnFrontSpeak.classList.remove('hidden'); btnFrontSpeak.title = '日本語を発音'; }
 
         // BACK: Meaning
         backCatBadge.textContent = item.cat_short || item.cat_name;
@@ -1512,8 +1512,7 @@
       if (!currentDeck || currentDeck.length === 0) return;
       const item = currentDeck[currentIndex];
       if (studyDirection === 'en-to-ja') {
-        const enText = (item.meaning || '').replace(/\([^)]*\)/g, '').split(';')[0].split('/')[0].trim() || item.meaning;
-        speakText(enText, 'en');
+        return; // 表面が日本語以外（英語）のときは音声を再生しない（裏面の日本語のみ再生）
       } else {
         speakWord();
       }

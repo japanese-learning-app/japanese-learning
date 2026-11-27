@@ -163,7 +163,7 @@ def main():
     else:
         ok("B6: js/app.js & database/class_vocab_data.js 壊れた<ruby>・多重<ruby>・不整合<rt> 0件")
 
-    # D5: N1-N5 vocab cards features (romaji / random test 10/30/50 / study direction)
+    # D5: N1-N5 vocab cards features (romaji / random test 10/30/50 / study direction / no English front audio)
     vc_issues = []
     for lvl in ['n1', 'n2', 'n3', 'n4', 'n5']:
         p = f'jlpt_{lvl}_vocab_cards.html'
@@ -172,10 +172,14 @@ def main():
             vc_issues.append(f"{p}: ランダム実力テスト(10/30/50問)欠落")
         if 'toggleStudyDirection' not in txt:
             vc_issues.append(f"{p}: 双方向切替欠落")
+        if "speakText(enText, 'en')" in txt or "btnFrontSpeak.classList.add('hidden')" not in txt:
+            vc_issues.append(f"{p}: 英語表面の音声ボタン非表示・英語読み上げ無効化が未適用")
+    if "utt.lang = 'en-US'" in app_js or "btnSpeakFrontEl.classList.add('hidden')" not in app_js:
+        vc_issues.append("js/app.js: 反転モード（英語/母国語表面）の音声ボタン非表示・英語読み上げ無効化が未適用")
     if vc_issues:
-        fail("D5: N1〜N5 語彙フラッシュカード必須機能", ", ".join(vc_issues))
+        fail("D5: フラッシュカード必須機能 & 英語表面音声の完全削除", ", ".join(vc_issues))
     else:
-        ok("D5: N1〜N5 語彙フラッシュカード（10/30/50問ランダムテスト / 双方向切替）OK")
+        ok("D5: メイン＆N1〜N5語彙フラッシュカード（10/30/50問テスト / 双方向切替 / 非日本語表面の音声ボタン非表示・裏面日本語音声のみ）OK")
 
     # B7: JLPT tab in index.html must NOT have quiz/practice banners
     m_view_jlpt = re.search(r'<div id="viewJlpt"[\s\S]*?(?=<div id="jlptDetailModal")', index_html)
