@@ -11,6 +11,7 @@ import sys
 import os
 import re
 import json
+import subprocess
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASELINE_PATH = os.path.join(REPO_ROOT, 'scripts/student_card_counts_baseline.json')
@@ -24,8 +25,10 @@ def main():
 
     # 1. Check identical sync between root and public directories
     pairs = [
+        ('index.html', 'public/index.html'),
         ('js/app.js', 'public/js/app.js'),
         ('database/class_vocab_data.js', 'public/database/class_vocab_data.js'),
+        ('database/jlpt_vocab_all.js', 'public/database/jlpt_vocab_all.js'),
         ('js/data.js', 'public/js/data.js'),
     ]
     for src, dst in pairs:
@@ -36,6 +39,24 @@ def main():
         with open(p_src, 'rb') as f1, open(p_dst, 'rb') as f2:
             if f1.read() != f2.read():
                 fail(f"Files are out of sync: {src} != {dst}. Run `cp {src} {dst}`.")
+
+    # 1b. Check <meta name="referrer" content="no-referrer"> in index.html & app.html (Google TTS 404 prevention)
+    for html_rel in ('index.html', 'public/index.html', 'app.html', 'public/app.html'):
+        hp = os.path.join(REPO_ROOT, html_rel)
+        if os.path.exists(hp):
+            with open(hp, 'r', encoding='utf-8') as hf:
+                ht = hf.read()
+            if 'name="referrer"' not in ht or 'no-referrer' not in ht:
+                fail(f"{html_rel} is missing `<meta name=\"referrer\" content=\"no-referrer\">` (causes Google TTS 404 on GitHub Pages)!")
+
+    # 1c. Check JavaScript syntax of js/app.js & js/data.js with macOS JavaScriptCore (jsc)
+    jsc_bin = '/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Helpers/jsc'
+    if os.path.exists(jsc_bin):
+        for js_rel in ('js/app.js', 'js/data.js'):
+            jp = os.path.join(REPO_ROOT, js_rel)
+            res = subprocess.run([jsc_bin, '-e', f"try {{ new Function(read('{jp}')); }} catch(e) {{ print('SYNTAX_ERR:' + e + ' line:' + e.line); }}"], capture_output=True, text=True)
+            if 'SYNTAX_ERR:' in res.stdout:
+                fail(f"JavaScript syntax error in {js_rel}: {res.stdout.strip()}")
 
     # 2. Check Arun safety anchors
     class_vocab_path = os.path.join(REPO_ROOT, 'database/class_vocab_data.js')
