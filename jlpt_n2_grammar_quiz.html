@@ -2350,6 +2350,10 @@
     window.speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(txt);
     u.lang = 'ja-JP';
+    const _vs = window.speechSynthesis.getVoices ? window.speechSynthesis.getVoices() : [];
+    const _badV = /Eddy|Flo|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Fred|Good News|Jester|Junior|Kathy|Organ|Ralph|Superstar|Trinoids|Whisper|Wobble|Zarvox/i;
+    const _jaV = _vs.find(v => /^ja/i.test(v.lang) && /Google/i.test(v.name) && !_badV.test(v.name)) || _vs.find(v => /^ja/i.test(v.lang) && /Kyoko|O-Ren|Otoya|Siri|Nanami|Keita|Haruka|Ayumi|Ichiro|Sayaka|Hattori/i.test(v.name)) || _vs.find(v => /^ja/i.test(v.lang) && !_badV.test(v.name));
+    if (_jaV) u.voice = _jaV;
     u.rate = 0.95;
     window.speechSynthesis.speak(u);
   }

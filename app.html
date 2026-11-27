@@ -4967,12 +4967,23 @@ rt {
       return;
   }
 
+  function pickSafeJapaneseVoice() {
+    if (!('speechSynthesis' in window) || !window.speechSynthesis.getVoices) return null;
+    const voices = window.speechSynthesis.getVoices();
+    const badRe = /Eddy|Flo|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Fred|Good News|Jester|Junior|Kathy|Organ|Ralph|Superstar|Trinoids|Whisper|Wobble|Zarvox/i;
+    return voices.find(v => /^ja/i.test(v.lang) && /Google/i.test(v.name) && !badRe.test(v.name)) ||
+           voices.find(v => /^ja/i.test(v.lang) && /Kyoko|O-Ren|Otoya|Siri|Nanami|Keita|Haruka|Ayumi|Ichiro|Sayaka|Hattori/i.test(v.name)) ||
+           voices.find(v => /^ja/i.test(v.lang) && !badRe.test(v.name)) || null;
+  }
+
   function fallbackSpeechSynthesis(txt) {
     if ('speechSynthesis' in window) {
       window.speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(txt);
       u.lang = 'ja-JP';
       u.rate = 0.92;
+      const v = pickSafeJapaneseVoice();
+      if (v) u.voice = v;
       window.speechSynthesis.speak(u);
     }
   }
@@ -7456,16 +7467,10 @@ Advice: Explanation in ${targetLangName} why it is corrected.
 
   function speakNewsText() {
     const txt = '秋になり、日本のスーパーや魚屋には、おいしいサンマが並び始めました。塩焼きにして、大根おろしやすだちと一緒に食べるのが日本の伝統的な楽しみ方です。';
-    if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const u = new SpeechSynthesisUtterance(txt);
-      u.lang = 'ja-JP';
-      u.rate = 0.92;
-      if (typeof playGoogleTTS === 'function') {
+    if (typeof playGoogleTTS === 'function') {
       playGoogleTTS(txt);
     } else {
-      window.speechSynthesis.speak(u);
-    }
+      fallbackSpeechSynthesis(txt);
     }
   }
 
@@ -9073,14 +9078,11 @@ Advice: Explanation in ${targetLangName} why it is corrected.
 
   function playCurrentKanaAudio() {
     const soundTarget = currentActiveKanaSubChar || currentSelectedKana.char;
-    if (typeof playGoogleTTS === 'function' && soundTarget) {
+    if (!soundTarget) return;
+    if (typeof playGoogleTTS === 'function') {
       playGoogleTTS(soundTarget);
-    } else if ('speechSynthesis' in window && soundTarget) {
-      window.speechSynthesis.cancel();
-      const u = new SpeechSynthesisUtterance(soundTarget);
-      u.lang = 'ja-JP';
-      u.rate = 0.85;
-      window.speechSynthesis.speak(u);
+    } else {
+      fallbackSpeechSynthesis(soundTarget);
     }
   }
 
@@ -14897,16 +14899,13 @@ Advice: Explanation in ${targetLangName} why it is corrected.
   }
 
   function speakKeigoText(text) {
-    if (!('speechSynthesis' in window)) {
-      alert('音声合成に対応していないブラウザです');
+    const clean = String(text || '').replace(/（[^）]+）/g, '').replace(/[✕★●◎○]/g, '').trim();
+    if (!clean) return;
+    if (typeof playGoogleTTS === 'function') {
+      playGoogleTTS(clean);
       return;
     }
-    window.speechSynthesis.cancel();
-    const clean = text.replace(/（[^）]+）/g, '').replace(/[✕★●◎○]/g, '').trim();
-    const uttr = new SpeechSynthesisUtterance(clean);
-    uttr.lang = 'ja-JP';
-    uttr.rate = 0.95;
-    window.speechSynthesis.speak(uttr);
+    fallbackSpeechSynthesis(clean);
   }
 
   function toggleKeigoFavorite(id) {

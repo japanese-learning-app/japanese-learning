@@ -5778,9 +5778,10 @@
       utterance.lang = 'ja-JP';
       utterance.rate = 0.9;
       const voices = window.speechSynthesis.getVoices();
-      const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google')) ||
-                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && (v.name.includes('Kyoko') || v.name.includes('Otoya') || v.name.includes('Siri') || v.name.includes('Nanami') || v.name.includes('Keita'))) ||
-                      voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja_JP');
+      const badVoiceRe = /Eddy|Flo|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Fred|Good News|Jester|Junior|Kathy|Organ|Ralph|Superstar|Trinoids|Whisper|Wobble|Zarvox/i;
+      const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google') && !badVoiceRe.test(v.name)) ||
+                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && /Kyoko|O-Ren|Otoya|Siri|Nanami|Keita|Haruka|Ayumi|Ichiro|Sayaka|Hattori/i.test(v.name)) ||
+                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && !badVoiceRe.test(v.name));
       if (jaVoice) utterance.voice = jaVoice;
       utterance.onend = () => {
         isSpeaking = false;
@@ -6366,7 +6367,7 @@
   // --- Data Loading & Persistence ---
   function initData() {
     // Master data version check to ensure newly added cards & furigana updates are immediately visible
-    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261127_1536';
+    const CURRENT_DATA_VERSION = 'v67_permanent_future_word_protection_v71_romaji_loop_20261127_1542';
     const savedVersion = localStorage.getItem('haku_vocab_version');
 
     // 🛡️ Active Auto-Heal: Purge/clean any cards in localStorage where meaning was polluted with "vs" distinction

@@ -157,9 +157,10 @@
       u.lang = 'ja-JP';
       u.rate = 0.92;
       const voices = global.speechSynthesis.getVoices();
-      const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google')) ||
-                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && (v.name.includes('Kyoko') || v.name.includes('Otoya') || v.name.includes('Siri') || v.name.includes('Nanami') || v.name.includes('Keita'))) ||
-                      voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja_JP');
+      const badVoiceRe = /Eddy|Flo|Grandma|Grandpa|Reed|Rocko|Sandy|Shelley|Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Fred|Good News|Jester|Junior|Kathy|Organ|Ralph|Superstar|Trinoids|Whisper|Wobble|Zarvox/i;
+      const jaVoice = voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && v.name.includes('Google') && !badVoiceRe.test(v.name)) ||
+                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && /Kyoko|O-Ren|Otoya|Siri|Nanami|Keita|Haruka|Ayumi|Ichiro|Sayaka|Hattori/i.test(v.name)) ||
+                      voices.find(v => (v.lang === 'ja-JP' || v.lang === 'ja_JP') && !badVoiceRe.test(v.name));
       if (jaVoice) u.voice = jaVoice;
       u.onend = () => { if (onEnd) onEnd(); };
       u.onerror = () => { if (onEnd) onEnd(); };

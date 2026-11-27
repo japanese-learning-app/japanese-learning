@@ -83,6 +83,23 @@ def main():
     else:
         fail("A4: js/app.js 音声読み上げ前の <rt> 先行除去", "<rt>除去処理が見つかりません")
 
+    # A6: Ban en-US Web Speech & macOS novelty voices (Albert / Jester / Whisper / Eddy / Grandma)
+    novelty_issues = []
+    for rel_f in ('js/app.js', 'js/google_tts_engine.js', 'app.html', 'business_keigo.html', 'dictionary.html', 'jlpt_practice.html', 'mypage.html',
+                  'jlpt_n1_vocab_cards.html', 'jlpt_n2_vocab_cards.html', 'jlpt_n3_vocab_cards.html', 'jlpt_n4_vocab_cards.html', 'jlpt_n5_vocab_cards.html'):
+        txt_f = read_text(rel_f)
+        if "'en-US'" in txt_f or '"en-US"' in txt_f:
+            novelty_issues.append(f"{rel_f}: en-US Web Speech 残存")
+        if 'Albert|Bad News' not in txt_f:
+            novelty_issues.append(f"{rel_f}: macOS不気味ボイス除外リスト未設定")
+    app_html_check = read_text('app.html')
+    if 'function speakKeigoText(text) {\n    const clean' not in app_html_check:
+        novelty_issues.append("app.html: speakKeigoText が Google TTS 優先になっていない")
+    if novelty_issues:
+        fail("A6: macOS不気味ボイス(Albert/Eddy等)防止 & 英語Web Speech完全撤廃", "; ".join(novelty_issues[:6]))
+    else:
+        ok("A6: 全主要ページで en-US Web Speech 0件 & macOS不気味ボイス除外(Kyoko/Google優先) & 敬語Google TTS化 OK")
+
     # -----------------------------------------------------------------
     # [B] フラッシュカード・構文チェック・JLPTタブ・ルビ品質
     # -----------------------------------------------------------------
