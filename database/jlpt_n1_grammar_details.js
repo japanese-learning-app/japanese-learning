@@ -4916,7 +4916,7 @@ window.JLPT_N1_GRAMMAR_DETAILS = {
         "label": "正解 (Correct with を前提として)",
         "reason_ja": "<ruby>論説<rt>ろんせつ</rt></ruby>・<ruby>実務<rt>じつむ</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる<ruby>格調<rt>かくちょう</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>表現<rt>ひょうげん</rt></ruby>",
         "reason_en": "Authentic advanced example using を前提として",
-        "sentence": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なん</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。"
+        "sentence": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。"
       }
     ],
     "comparison": [

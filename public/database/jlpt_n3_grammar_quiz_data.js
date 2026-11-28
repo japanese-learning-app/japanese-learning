@@ -5598,7 +5598,7 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 0,
     "correct_text": "こそ",
-    "notes": "「<ruby>名詞<rt>めいし</rt></ruby>＋こそ（が）」で、<ruby>他<rt>ほか</rt></ruby>の<ruby>何<rt>なん</rt></ruby>よりもそれが<ruby>重要<rt>じゅうよう</rt></ruby>であると<ruby>強<rt>つよ</rt></ruby>く<ruby>取<rt>と</rt></ruby>り<ruby>立<rt>た</rt></ruby>てます。",
+    "notes": "「<ruby>名詞<rt>めいし</rt></ruby>＋こそ（が）」で、<ruby>他<rt>ほか</rt></ruby>の<ruby>何<rt>なに</rt></ruby>よりもそれが<ruby>重要<rt>じゅうよう</rt></ruby>であると<ruby>強<rt>つよ</rt></ruby>く<ruby>取<rt>と</rt></ruby>り<ruby>立<rt>た</rt></ruby>てます。",
     "question_ruby": "<ruby>基礎<rt>きそ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>（　　　）が<ruby>上達<rt>じょうたつ</rt></ruby>への<ruby>一番<rt>いちばん</rt></ruby>の<ruby>近道<rt>ちかみち</rt></ruby>だと、コーチはいつも<ruby>言<rt>い</rt></ruby>っている。",
     "sentence_jp_ruby": "<ruby>基礎<rt>きそ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>こそが<ruby>上達<rt>じょうたつ</rt></ruby>への<ruby>一番<rt>いちばん</rt></ruby>の<ruby>近道<rt>ちかみち</rt></ruby>だと、コーチはいつも<ruby>言<rt>い</rt></ruby>っている。",
     "choices_ruby": [
@@ -21319,8 +21319,8 @@ window.JLPT_N3_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "よう",
     "notes": "<ruby>五<rt>ご</rt></ruby><ruby>段<rt>だん</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>「<ruby>聞<rt>き</rt></ruby>く」の<ruby>意向形<rt>いこうけい</rt></ruby>「<ruby>聞<rt>き</rt></ruby>こう」＋としないで、<ruby>聞<rt>き</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>がないことを<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えが<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>正<rt>ただ</rt></ruby>しいと<ruby>信<rt>しん</rt></ruby>じ、<ruby>他<rt>た</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞き入<rt>ききい</rt></ruby>れ（　　　）としない。",
-    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えが<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>正<rt>ただ</rt></ruby>しいと<ruby>信<rt>しん</rt></ruby>じ、<ruby>他<rt>た</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞き入<rt>ききい</rt></ruby>れようとしない。",
+    "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えが<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>正<rt>ただ</rt></ruby>しいと<ruby>信<rt>しん</rt></ruby>じ、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞き入<rt>ききい</rt></ruby>れ（　　　）としない。",
+    "sentence_jp_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えが<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>正<rt>ただ</rt></ruby>しいと<ruby>信<rt>しん</rt></ruby>じ、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞き入<rt>ききい</rt></ruby>れようとしない。",
     "choices_ruby": [
       "はず",
       "そう",

@@ -3013,7 +3013,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "In the middle of the night, the emergency bell suddenly rang, and the apartment residents rushed to evacuate outdoors via the stairs."
   },
   "何": {
-    "ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>何<rt>なに</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
+    "ja": "<ruby>今回<rt>こんかい</rt></ruby>のプロジェクトにおいて、<ruby>何<rt>なん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて<ruby>深<rt>ふか</rt></ruby>く<ruby>認識<rt>にんしき</rt></ruby>する<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>となった。",
     "en": "In this project, it became a valuable opportunity to once again deeply recognize the importance of term."
   },
   "なん/なに": {
@@ -15421,7 +15421,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Crime is on the increase."
   },
   "他": {
-    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>他<rt>た</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>他<rt>ほか</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "た": {
@@ -17377,7 +17377,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何でも": {
-    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>何<rt>なに</rt></ruby>でもに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
+    "ja": "<ruby>時代<rt>じだい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>しながら、<ruby>何<rt>なん</rt></ruby>でもに<ruby>関<rt>かん</rt></ruby>する<ruby>新<rt>あら</rt></ruby>たな<ruby>取り組<rt>とりく</rt></ruby>みを<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>推進<rt>すいしん</rt></ruby>している。",
     "en": "While flexibly adapting to the changing times, we are steadily promoting new initiatives concerning term."
   },
   "なんでも": {
@@ -33281,7 +33281,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "大ざっぱ": {
-    "ja": "あの<ruby>人<rt>にん</rt></ruby>って<ruby>大<rt>おお</rt></ruby>ざっぱな<ruby>性格<rt>せいかく</rt></ruby>だからね。",
+    "ja": "あの<ruby>人<rt>ひと</rt></ruby>って<ruby>大<rt>おお</rt></ruby>ざっぱな<ruby>性格<rt>せいかく</rt></ruby>だからね。",
     "en": "He's the type who doesn't worry about details."
   },
   "大空": {
@@ -44957,7 +44957,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Even when facing various challenges, an attitude of tenaciously carrying through to term until the end is required."
   },
   "何の": {
-    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>何<rt>なに</rt></ruby>のに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>何<rt>なん</rt></ruby>のに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "ドライ": {
@@ -45293,7 +45293,7 @@ window.DICT_EXAMPLES_MAP = {
     "en": "Looking ahead to future development, lively discussions took place among experts regarding specific applications of term."
   },
   "何て": {
-    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>何<rt>なに</rt></ruby>てに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
+    "ja": "<ruby>綿密<rt>めんみつ</rt></ruby>な<ruby>事前<rt>じぜん</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>と<ruby>検証<rt>けんしょう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねることで、<ruby>何<rt>なん</rt></ruby>てに<ruby>関<rt>かん</rt></ruby>する<ruby>課題<rt>かだい</rt></ruby>を<ruby>的確<rt>てきかく</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>することができた。",
     "en": "By repeating meticulous preliminary research and verification, we were able to accurately resolve issues concerning term."
   },
   "なんて": {

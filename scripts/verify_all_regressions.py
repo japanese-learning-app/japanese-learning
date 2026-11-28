@@ -185,6 +185,32 @@ def main():
     else:
         ok("B6: js/app.js & database/class_vocab_data.js 壊れた<ruby>・多重<ruby>・不整合<rt> 0件")
 
+    # B9: Natural Japanese furigana check (何(なに)ですか -> なんですか, 何(なに)の, 他(た)の/に, 遅くなる時(じ) etc.)
+    b9_issues = []
+    b9_patterns = [
+        ('何(なに)ですか/だ/の/でも', re.compile(r'<ruby>何<rt>なに</rt></ruby>(?:です|だ|でした|でしょう|だろう|の|でも|って|て|と<ruby>言)')),
+        ('ひらがな「なにですか」', re.compile(r'(?<![あ-ん])なにですか')),
+        ('他(た)の/に', re.compile(r'<ruby>他<rt>た</rt></ruby>[にの]')),
+        ('遅くなる/悪い時(じ)', re.compile(r'(?:遅<rt>おそ</rt></ruby>くなる|悪<rt>わる</rt></ruby>い)<ruby>時<rt>じ</rt></ruby>')),
+        ('何(なん)より', re.compile(r'<ruby>何<rt>なん</rt></ruby>より')),
+    ]
+    for root, dirs, files in os.walk(REPO_ROOT):
+        dirs[:] = [d for d in dirs if d not in ('.git', 'public', 'node_modules', 'samples', 'scripts')]
+        for fn in files:
+            if not (fn.endswith('.html') or fn.endswith('.js')) or '📱_' in fn:
+                continue
+            fp = os.path.join(root, fn)
+            with open(fp, 'r', encoding='utf-8', errors='ignore') as f:
+                txt = f.read()
+            for pname, pat in b9_patterns:
+                m = pat.search(txt)
+                if m:
+                    b9_issues.append(f"{os.path.relpath(fp, REPO_ROOT)}:{pname}({m.group(0)})")
+    if b9_issues:
+        fail("B9: 不自然なふりがな（なにですか / 何(なに)の / 他(た)の 等）", f"{len(b9_issues)}件: " + ", ".join(b9_issues[:6]))
+    else:
+        ok("B9: 全テキスト・全教材・全DBの不自然なふりがな（何(なに)ですか / 何(なに)の / 他(た)の / 時(じ) 等）0件 OK")
+
     # D5: N1-N5 vocab cards features (romaji / random test 10/30/50 / study direction / no English front audio)
     vc_issues = []
     for lvl in ['n1', 'n2', 'n3', 'n4', 'n5']:

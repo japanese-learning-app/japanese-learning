@@ -15746,7 +15746,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "だらしない",
     "question": "彼女はお金に（　　　）人なので、お金を貸さない方が良い。",
-    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はお<ruby>金<rt>かね</rt></ruby>に（　　　）<ruby>人<rt>ひと</rt></ruby>なので、お<ruby>金<rt>かね</rt></ruby>を<ruby>貸<rt>か</rt></ruby>さない<ruby>方<rt>かた</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。",
+    "question_ruby": "<ruby>彼女<rt>かのじょ</rt></ruby>はお<ruby>金<rt>かね</rt></ruby>に（　　　）<ruby>人<rt>ひと</rt></ruby>なので、お<ruby>金<rt>かね</rt></ruby>を<ruby>貸<rt>か</rt></ruby>さない<ruby>方<rt>ほう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。",
     "choices": [
       "だらしない",
       "荒い",
@@ -22389,7 +22389,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
       "<ruby>性能<rt>せいのう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いパソコンを<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>進<rt>すす</rt></ruby>むようになった。",
       "できるだけ<ruby>性能<rt>せいのう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く、<ruby>性格<rt>せいかく</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>を<ruby>雇<rt>やと</rt></ruby>いたいと<ruby>思<rt>おも</rt></ruby>っている。",
       "チンパンジーとイルカは、<ruby>性能<rt>せいのう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>動物<rt>どうぶつ</rt></ruby>として<ruby>有名<rt>ゆうめい</rt></ruby>である。",
-      "<ruby>兄<rt>あに</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>生<rt>う</rt></ruby>まれたときから<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>性能<rt>せいのう</rt></ruby>があるので、<ruby>何<rt>なに</rt></ruby>でも<ruby>上手<rt>じょうず</rt></ruby>に<ruby>弾<rt>はじ</rt></ruby>ける。"
+      "<ruby>兄<rt>あに</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って<ruby>生<rt>う</rt></ruby>まれたときから<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>性能<rt>せいのう</rt></ruby>があるので、<ruby>何<rt>なん</rt></ruby>でも<ruby>上手<rt>じょうず</rt></ruby>に<ruby>弾<rt>はじ</rt></ruby>ける。"
     ],
     "answer": 0,
     "correct_text": "性能が良いパソコンを使い始めてから、作業が早く進むようになった。",
@@ -27198,7 +27198,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "にあたって",
     "question": "起業する（　　　）、注意すべきことは何でしょう。",
-    "question_ruby": "<ruby>起業<rt>きぎょう</rt></ruby>する（　　　）、<ruby>注意<rt>ちゅうい</rt></ruby>すべきことは<ruby>何<rt>なに</rt></ruby>でしょう。",
+    "question_ruby": "<ruby>起業<rt>きぎょう</rt></ruby>する（　　　）、<ruby>注意<rt>ちゅうい</rt></ruby>すべきことは<ruby>何<rt>なん</rt></ruby>でしょう。",
     "choices": [
       "にわたり",
       "にとって",
@@ -33420,7 +33420,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文法形式の判断",
     "target_word": "こめて",
     "question": "心を（　　　）作った料理は何でもおいしいものだ。",
-    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でもおいしいものだ。",
+    "question_ruby": "<ruby>心<rt>こころ</rt></ruby>を（　　　）<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>でもおいしいものだ。",
     "choices": [
       "こめて",
       "とわず",
@@ -50916,7 +50916,7 @@ window.JLPT_N2_VOCAB_QUIZ_DATA = [
     "category": "文脈規定",
     "target_word": "マナー",
     "question": "公共の乗り物の中では、他の乗客に迷惑をかけないよう（　　　）を守るべきだ。",
-    "question_ruby": "<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>乗り物<rt>のりもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、<ruby>他<rt>た</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけないよう（　　　）を<ruby>守<rt>まも</rt></ruby>るべきだ。",
+    "question_ruby": "<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>乗り物<rt>のりもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、<ruby>他<rt>ほか</rt></ruby>の<ruby>乗客<rt>じょうきゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけないよう（　　　）を<ruby>守<rt>まも</rt></ruby>るべきだ。",
     "choices": [
       "イメージ",
       "テーマ",

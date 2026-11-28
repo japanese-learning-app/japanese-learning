@@ -7258,7 +7258,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "やくわり",
     "ruby": "<ruby>役割<rt>やくわり</rt></ruby>",
     "meaning": "part, assigning (allotment of) parts, role",
-    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+    "ex_ja": "<ruby>私<rt>わたし</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
     "ex_en": "Where do I come in?"
   },
   {
@@ -15562,7 +15562,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "もと",
     "ruby": "<ruby>元<rt>もと</rt></ruby>",
     "meaning": "origin, original, former",
-    "ex_ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby><ruby>器具<rt>きぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>他<rt>た</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
+    "ex_ja": "<ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby><ruby>器具<rt>きぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために<ruby>必<rt>かなら</rt></ruby>ず<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>元<rt>もと</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>へ<ruby>戻<rt>もど</rt></ruby>してください。",
     "ex_en": "After using shared experimental equipment, please be sure to wash it cleanly and return it to its original position for other researchers."
   },
   {
@@ -19930,7 +19930,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "こうもく",
     "ruby": "<ruby>項目<rt>こうもく</rt></ruby>",
     "meaning": "item",
-    "ex_ja": "これは<ruby>何<rt>なに</rt></ruby>の<ruby>項目<rt>こうもく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るか。",
+    "ex_ja": "これは<ruby>何<rt>なん</rt></ruby>の<ruby>項目<rt>こうもく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るか。",
     "ex_en": "What heading does this come under?"
   },
   {
@@ -24794,7 +24794,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ちょうしょ",
     "ruby": "<ruby>長所<rt>ちょうしょ</rt></ruby>",
     "meaning": "strong point, merit, advantage",
-    "ex_ja": "あなたの<ruby>長所<rt>ちょうしょ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+    "ex_ja": "あなたの<ruby>長所<rt>ちょうしょ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
     "ex_en": "What are your strong points?"
   },
   {
@@ -27258,7 +27258,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶんせき",
     "ruby": "<ruby>分析<rt>ぶんせき</rt></ruby>",
     "meaning": "analysis",
-    "ex_ja": "<ruby>精神<rt>せいしん</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby>って<ruby>何<rt>なに</rt></ruby>ですか？",
+    "ex_ja": "<ruby>精神<rt>せいしん</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby>って<ruby>何<rt>なん</rt></ruby>ですか？",
     "ex_en": "What is psychoanalysis?"
   },
   {
@@ -27386,7 +27386,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ぶんや",
     "ruby": "<ruby>分野<rt>ぶんや</rt></ruby>",
     "meaning": "field, sphere, realm",
-    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>の<ruby>専攻<rt>せんこう</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。",
+    "ex_ja": "<ruby>君<rt>きみ</rt></ruby>の<ruby>専攻<rt>せんこう</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
     "ex_en": "What's your major field?"
   },
   {
@@ -27802,7 +27802,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "べっしつ",
     "ruby": "<ruby>別室<rt>べっしつ</rt></ruby>",
     "meaning": "separate room, another room, special room",
-    "ex_ja": "<ruby>面談<rt>めんだん</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>他<rt>た</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かない<ruby>別室<rt>べっしつ</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>して<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた。",
+    "ex_ja": "<ruby>面談<rt>めんだん</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>他<rt>ほか</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かない<ruby>別室<rt>べっしつ</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>して<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた。",
     "ex_en": "To protect the confidentiality of the interview, we moved to a separate room where other employees couldn't overhear."
   },
   {
@@ -29194,7 +29194,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "ようと",
     "ruby": "<ruby>用途<rt>ようと</rt></ruby>",
     "meaning": "use, usefulness",
-    "ex_ja": "<ruby>何<rt>なに</rt></ruby>の<ruby>用途<rt>ようと</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うのかわからん。",
+    "ex_ja": "<ruby>何<rt>なん</rt></ruby>の<ruby>用途<rt>ようと</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うのかわからん。",
     "ex_en": "I'm not sure what it's used for."
   },
   {
@@ -39722,7 +39722,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "おそろしい",
     "ruby": "<ruby>恐<rt>おそ</rt></ruby>ろしい",
     "meaning": "terrible, dreadful",
-    "ex_ja": "ああ、<ruby>何<rt>なに</rt></ruby>て<ruby>恐<rt>おそ</rt></ruby>ろしい。",
+    "ex_ja": "ああ、<ruby>何<rt>なん</rt></ruby>て<ruby>恐<rt>おそ</rt></ruby>ろしい。",
     "ex_en": "Oh, how awful!"
   },
   {
@@ -42906,7 +42906,7 @@ window.JLPT_N2_VOCAB_DATA = [
     "reading": "とっくに",
     "ruby": "とっくに",
     "meaning": "long ago, already, a long time ago",
-    "ex_ja": "<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>はとっくに<ruby>過<rt>す</rt></ruby>ぎているにもかかわらず、<ruby>彼<rt>かれ</rt></ruby>からは<ruby>未<rt>いま</rt></ruby>だに<ruby>何<rt>なに</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>も<ruby>届<rt>とど</rt></ruby>いていない。",
+    "ex_ja": "<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>はとっくに<ruby>過<rt>す</rt></ruby>ぎているにもかかわらず、<ruby>彼<rt>かれ</rt></ruby>からは<ruby>未<rt>いま</rt></ruby>だに<ruby>何<rt>なん</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>も<ruby>届<rt>とど</rt></ruby>いていない。",
     "ex_en": "Even though the submission deadline passed long ago, we still have not received any communication from him."
   },
   {

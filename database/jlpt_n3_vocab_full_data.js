@@ -12457,7 +12457,7 @@ window.JLPT_N3_VOCAB_DATA = [
     "reading": "た",
     "ruby": "<ruby>他<rt>た</rt></ruby>",
     "meaning": "other (esp. places and things)",
-    "ex_ja": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>ばかりを<ruby>考<rt>かんが</rt></ruby>えるのではなく、<ruby>他<rt>た</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>も<ruby>思<rt>おも</rt></ruby>いやるべきだ。",
+    "ex_ja": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>ばかりを<ruby>考<rt>かんが</rt></ruby>えるのではなく、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>も<ruby>思<rt>おも</rt></ruby>いやるべきだ。",
     "ex_en": "Instead of thinking only of one's own benefit, one should also be considerate of the standpoint of others."
   },
   {

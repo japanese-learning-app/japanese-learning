@@ -2171,7 +2171,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "What sound does a sheep make?",
         "id": "n5-v-0126",
         "level": "N5",
-        "question_ruby": "<ruby>羊<rt>ひつじ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>て（　　）の？"
+        "question_ruby": "<ruby>羊<rt>ひつじ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>て（　　）の？"
       },
       {
         "category": "kanji_reading",
@@ -6854,7 +6854,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "「エレベーターがないので、重い荷物があるときは少し大変です」とあります。",
         "translationEn": "There is no elevator, which is a bit tough with heavy luggage.",
         "level": "N5",
-        "question_ruby": "<ruby>問題<rt>もんだい</rt></ruby>：この<ruby>部屋<rt>へや</rt></ruby>の<ruby>少<rt>すこ</rt></ruby>し<ruby>大変<rt>たいへん</rt></ruby>なところは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>問題<rt>もんだい</rt></ruby>：この<ruby>部屋<rt>へや</rt></ruby>の<ruby>少<rt>すこ</rt></ruby>し<ruby>大変<rt>たいへん</rt></ruby>なところは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "id": "n5-g-0029",
@@ -13079,7 +13079,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "What colour is the cloud?",
         "id": "n4-v-0231",
         "level": "N4",
-        "question_ruby": "（　　）って、<ruby>何<rt>なに</rt></ruby><ruby>色<rt>しょく</rt></ruby>？"
+        "question_ruby": "（　　）って、<ruby>何<rt>なに</rt></ruby><ruby>色<rt>いろ</rt></ruby>？"
       },
       {
         "category": "kanji_reading",
@@ -14422,7 +14422,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I'll find another job.",
         "id": "n4-v-0310",
         "level": "N4",
-        "question_ruby": "<ruby>他<rt>た</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<u>探す</u>よ。"
+        "question_ruby": "<ruby>他<rt>ほか</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<u>探す</u>よ。"
       },
       {
         "category": "kanji_writing",
@@ -15913,7 +15913,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "「必要のないものまで買ってしまう人が増えているそうです。便利さの裏にある注意点」と合致します。",
         "translationEn": "Because it is so convenient, people tend to buy unnecessary things.",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n<ruby>最近<rt>さいきん</rt></ruby>はスマートフォンでいつでも<ruby>買い物<rt>かいもの</rt></ruby>ができて、<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>荷物<rt>にもつ</rt></ruby>も<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>くので、とても<ruby>便利<rt>べんり</rt></ruby>です。でも、<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かずに<ruby>買<rt>か</rt></ruby>えるので、あまり<ruby>必要<rt>ひつよう</rt></ruby>のない<ruby>物<rt>もの</rt></ruby>まで<ruby>買<rt>か</rt></ruby>いすぎてしまうことがあるため、<ruby>気<rt>き</rt></ruby>をつけなければなりません。\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>言<rt>い</rt></ruby>いたい<ruby>注意<rt>ちゅうい</rt></ruby><ruby>点<rt>てん</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n<ruby>最近<rt>さいきん</rt></ruby>はスマートフォンでいつでも<ruby>買い物<rt>かいもの</rt></ruby>ができて、<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>荷物<rt>にもつ</rt></ruby>も<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>くので、とても<ruby>便利<rt>べんり</rt></ruby>です。でも、<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かずに<ruby>買<rt>か</rt></ruby>えるので、あまり<ruby>必要<rt>ひつよう</rt></ruby>のない<ruby>物<rt>もの</rt></ruby>まで<ruby>買<rt>か</rt></ruby>いすぎてしまうことがあるため、<ruby>気<rt>き</rt></ruby>をつけなければなりません。\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>言<rt>い</rt></ruby>いたい<ruby>注意<rt>ちゅうい</rt></ruby><ruby>点<rt>てん</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -16178,7 +16178,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0045",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>日記<rt>にっき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、クラスの<ruby>友達<rt>ともだち</rt></ruby>とみんなでお<ruby>別<rt>わか</rt></ruby>れパーティーをします。<ruby>私<rt>わたし</rt></ruby>はおいしいチョコレートケーキを<ruby>作<rt>つく</rt></ruby>って<ruby>持<rt>も</rt></ruby>っていくことにしました。みんな<ruby>喜<rt>よろこ</rt></ruby>んでくれるとうれしいです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」がパーティーのためにすることは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>日記<rt>にっき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>土曜日<rt>どようび</rt></ruby>、クラスの<ruby>友達<rt>ともだち</rt></ruby>とみんなでお<ruby>別<rt>わか</rt></ruby>れパーティーをします。<ruby>私<rt>わたし</rt></ruby>はおいしいチョコレートケーキを<ruby>作<rt>つく</rt></ruby>って<ruby>持<rt>も</rt></ruby>っていくことにしました。みんな<ruby>喜<rt>よろこ</rt></ruby>んでくれるとうれしいです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」がパーティーのためにすることは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -16549,7 +16549,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0066",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>私<rt>わたし</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の4<ruby>月<rt>つき</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。<ruby>今<rt>いま</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら、<ruby>日本<rt>にほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>経営<rt>けいえい</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>っています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」の<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>私<rt>わたし</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の4<ruby>月<rt>つき</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。<ruby>今<rt>いま</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら、<ruby>日本<rt>にほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>経営<rt>けいえい</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>っています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」の<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -16973,7 +16973,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0090",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「おじいさんの<ruby>家<rt>いえ</rt></ruby>には<ruby>広<rt>ひろ</rt></ruby>い<ruby>庭<rt>にわ</rt></ruby>があります。おじいさんはその<ruby>庭<rt>にわ</rt></ruby>でトマトやナスを<ruby>育<rt>そだ</rt></ruby>てています。<ruby>先月<rt>せんげつ</rt></ruby>、おじいさんが<ruby>送<rt>おく</rt></ruby>ってくれた<ruby>野菜<rt>やさい</rt></ruby>はとても<ruby>甘<rt>あま</rt></ruby>くておいしかったです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：おじいさんが<ruby>送<rt>おく</rt></ruby>ってくれたのは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「おじいさんの<ruby>家<rt>いえ</rt></ruby>には<ruby>広<rt>ひろ</rt></ruby>い<ruby>庭<rt>にわ</rt></ruby>があります。おじいさんはその<ruby>庭<rt>にわ</rt></ruby>でトマトやナスを<ruby>育<rt>そだ</rt></ruby>てています。<ruby>先月<rt>せんげつ</rt></ruby>、おじいさんが<ruby>送<rt>おく</rt></ruby>ってくれた<ruby>野菜<rt>やさい</rt></ruby>はとても<ruby>甘<rt>あま</rt></ruby>くておいしかったです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：おじいさんが<ruby>送<rt>おく</rt></ruby>ってくれたのは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -17132,7 +17132,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0099",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>私<rt>わたし</rt></ruby>は<ruby>中学生<rt>ちゅうがくせい</rt></ruby>のとき、テニスをしていました。<ruby>高校<rt>こうこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってからは、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>誘<rt>さそ</rt></ruby>われて<ruby>卓球<rt>たっきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>今<rt>いま</rt></ruby>では<ruby>卓球<rt>たっきゅう</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>楽<rt>たの</rt></ruby>しいです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」が<ruby>今<rt>いま</rt></ruby>しているスポーツは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>私<rt>わたし</rt></ruby>は<ruby>中学生<rt>ちゅうがくせい</rt></ruby>のとき、テニスをしていました。<ruby>高校<rt>こうこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってからは、<ruby>友達<rt>ともだち</rt></ruby>に<ruby>誘<rt>さそ</rt></ruby>われて<ruby>卓球<rt>たっきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>今<rt>いま</rt></ruby>では<ruby>卓球<rt>たっきゅう</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>楽<rt>たの</rt></ruby>しいです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」が<ruby>今<rt>いま</rt></ruby>しているスポーツは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -17238,7 +17238,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0105",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「ケンさんは<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。<ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>料理<rt>りょうり</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、うちで<ruby>初<rt>はじ</rt></ruby>めてカレーを<ruby>作<rt>つく</rt></ruby>りました。<ruby>今度<rt>こんど</rt></ruby>はおすしの<ruby>作り方<rt>つくりかた</rt></ruby>も<ruby>覚<rt>おぼ</rt></ruby>えたいと<ruby>言<rt>い</rt></ruby>っています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：ケンさんがこれから<ruby>覚<rt>おぼ</rt></ruby>えたいと<ruby>思<rt>おも</rt></ruby>っていることは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「ケンさんは<ruby>日本<rt>にほん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。<ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>料理<rt>りょうり</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>って、うちで<ruby>初<rt>はじ</rt></ruby>めてカレーを<ruby>作<rt>つく</rt></ruby>りました。<ruby>今度<rt>こんど</rt></ruby>はおすしの<ruby>作り方<rt>つくりかた</rt></ruby>も<ruby>覚<rt>おぼ</rt></ruby>えたいと<ruby>言<rt>い</rt></ruby>っています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：ケンさんがこれから<ruby>覚<rt>おぼ</rt></ruby>えたいと<ruby>思<rt>おも</rt></ruby>っていることは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -17662,7 +17662,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0129",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>に、<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>って<ruby>温<rt>あたた</rt></ruby>かいお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>体<rt>からだ</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れがとれてとても<ruby>気持<rt>きも</rt></ruby>ちがいいです。<ruby>私<rt>わたし</rt></ruby>にとって<ruby>一番<rt>いちばん</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」の<ruby>一番<rt>いちばん</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>に、<ruby>家<rt>いえ</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>って<ruby>温<rt>あたた</rt></ruby>かいお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>体<rt>からだ</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れがとれてとても<ruby>気持<rt>きも</rt></ruby>ちがいいです。<ruby>私<rt>わたし</rt></ruby>にとって<ruby>一番<rt>いちばん</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみです。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>」の<ruby>一番<rt>いちばん</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -17715,7 +17715,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n4-g-0132",
         "level": "N4",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>先週<rt>せんしゅう</rt></ruby>から<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ふん</rt></ruby><ruby>歩<rt>ある</rt></ruby>くことにしました。<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>もあまり<ruby>食<rt>た</rt></ruby>べないように<ruby>気<rt>き</rt></ruby>をつけています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>始<rt>はじ</rt></ruby>めたことは<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n「<ruby>最近<rt>さいきん</rt></ruby><ruby>少<rt>すこ</rt></ruby>し<ruby>太<rt>ふと</rt></ruby>ってきたので、<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>先週<rt>せんしゅう</rt></ruby>から<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ふん</rt></ruby><ruby>歩<rt>ある</rt></ruby>くことにしました。<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>もあまり<ruby>食<rt>た</rt></ruby>べないように<ruby>気<rt>き</rt></ruby>をつけています。」\\n\\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>始<rt>はじ</rt></ruby>めたことは<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -19086,7 +19086,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "What's your major?",
         "id": "n3-v-0061",
         "level": "N3",
-        "question_ruby": "<u>専攻</u>は<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<u>専攻</u>は<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "kanji_writing",
@@ -24645,7 +24645,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Oh, how awful!",
         "id": "n3-v-0388",
         "level": "N3",
-        "question_ruby": "ああ、<ruby>何<rt>なに</rt></ruby>て<u>恐ろしい</u>。"
+        "question_ruby": "ああ、<ruby>何<rt>なん</rt></ruby>て<u>恐ろしい</u>。"
       },
       {
         "category": "kanji_writing",
@@ -25529,7 +25529,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "What is psychoanalysis?",
         "id": "n3-v-0440",
         "level": "N3",
-        "question_ruby": "<ruby>精神<rt>せいしん</rt></ruby><u>ぶんせき</u>って<ruby>何<rt>なに</rt></ruby>ですか？"
+        "question_ruby": "<ruby>精神<rt>せいしん</rt></ruby><u>ぶんせき</u>って<ruby>何<rt>なん</rt></ruby>ですか？"
       },
       {
         "category": "vocabulary",
@@ -27105,7 +27105,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "「適切な睡眠を確保した上で効率よく学ぶ習慣をつけることが肝要」と明記されています。",
         "translationEn": "Studying efficiently while securing adequate sleep to consolidate memory.",
         "level": "N3",
-        "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>になると、<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>起<rt>お</rt></ruby>きて<ruby>暗記<rt>あんき</rt></ruby>しようとする<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。しかし、<ruby>人<rt>ひと</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>っている<ruby>間<rt>ま</rt></ruby>に、その<ruby>日<rt>ひ</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えたことを<ruby>整理<rt>せいり</rt></ruby>して<ruby>記憶<rt>きおく</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>させる<ruby>働<rt>はたら</rt></ruby>きがある。<ruby>効率<rt>こうりつ</rt></ruby>よく<ruby>学<rt>まな</rt></ruby>ぶためには、<ruby>無理<rt>むり</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>を<ruby>削<rt>けず</rt></ruby>るのではなく、しっかり<ruby>睡眠<rt>すいみん</rt></ruby>をとりながら<ruby>計画<rt>けいかく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>することがおすすめだ。\n\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>推奨<rt>すいしょう</rt></ruby>する<ruby>勉強<rt>べんきょう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>になると、<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>起<rt>お</rt></ruby>きて<ruby>暗記<rt>あんき</rt></ruby>しようとする<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。しかし、<ruby>人<rt>ひと</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>っている<ruby>間<rt>ま</rt></ruby>に、その<ruby>日<rt>ひ</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えたことを<ruby>整理<rt>せいり</rt></ruby>して<ruby>記憶<rt>きおく</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>させる<ruby>働<rt>はたら</rt></ruby>きがある。<ruby>効率<rt>こうりつ</rt></ruby>よく<ruby>学<rt>まな</rt></ruby>ぶためには、<ruby>無理<rt>むり</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>を<ruby>削<rt>けず</rt></ruby>るのではなく、しっかり<ruby>睡眠<rt>すいみん</rt></ruby>をとりながら<ruby>計画<rt>けいかく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>することがおすすめだ。\n\n<ruby>問題<rt>もんだい</rt></ruby>：<ruby>筆者<rt>ひっしゃ</rt></ruby>が<ruby>推奨<rt>すいしょう</rt></ruby>する<ruby>勉強<rt>べんきょう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -28960,7 +28960,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Reading comprehension: Correct answer is option 3.",
         "id": "n3-g-0135",
         "level": "N3",
-        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>後<rt>ご</rt></ruby>の<ruby>問<rt>と</rt></ruby>いに<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>からギターの<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くてきれいな<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>ませんでしたが、あきらめずに<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました。<ruby>昨日<rt>きのう</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>曲<rt>きょく</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>弾<rt>ひ</rt></ruby>くことができて、とてもうれしかったです。これからはもっと<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>友<rt>とも</rt></ruby>だちの<ruby>前<rt>まえ</rt></ruby>でも<ruby>弾<rt>はじ</rt></ruby>けるようになりたいです。\\n\\n<ruby>問<rt>と</rt></ruby>い：この<ruby>人<rt>ひと</rt></ruby>のこれからの<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。"
+        "question_ruby": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで、<ruby>後<rt>ご</rt></ruby>の<ruby>問<rt>と</rt></ruby>いに<ruby>答<rt>こた</rt></ruby>えなさい。\\n\\n<ruby>私<rt>わたし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>からギターの<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>指<rt>ゆび</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くてきれいな<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>ませんでしたが、あきらめずに<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました。<ruby>昨日<rt>きのう</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>曲<rt>きょく</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>弾<rt>ひ</rt></ruby>くことができて、とてもうれしかったです。これからはもっと<ruby>練習<rt>れんしゅう</rt></ruby>して、<ruby>友<rt>とも</rt></ruby>だちの<ruby>前<rt>まえ</rt></ruby>でも<ruby>弾<rt>はじ</rt></ruby>けるようになりたいです。\\n\\n<ruby>問<rt>と</rt></ruby>い：この<ruby>人<rt>ひと</rt></ruby>のこれからの<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。"
       },
       {
         "category": "grammar_form",
@@ -30967,7 +30967,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "I'm not sure what it's used for.",
         "id": "n2-v-0114",
         "level": "N2",
-        "question_ruby": "<ruby>何<rt>なに</rt></ruby>の（　　）で<ruby>使<rt>つか</rt></ruby>うのかわからん。"
+        "question_ruby": "<ruby>何<rt>なん</rt></ruby>の（　　）で<ruby>使<rt>つか</rt></ruby>うのかわからん。"
       },
       {
         "category": "kanji_reading",
@@ -32242,7 +32242,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "What is it that separates this from the sea?",
         "id": "n2-v-0189",
         "level": "N2",
-        "question_ruby": "<ruby>海<rt>うみ</rt></ruby>とこれを（　　）のは<ruby>何<rt>なに</rt></ruby>ですか？"
+        "question_ruby": "<ruby>海<rt>うみ</rt></ruby>とこれを（　　）のは<ruby>何<rt>なん</rt></ruby>ですか？"
       },
       {
         "category": "kanji_reading",
@@ -37410,7 +37410,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "Tom isn't a fussy eater.",
         "id": "n2-v-0493",
         "level": "N2",
-        "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>も<ruby>魚<rt>さかな</rt></ruby>も<ruby>何<rt>なに</rt></ruby>でもよく<ruby>食<rt>た</rt></ruby>べて、<ruby>好き嫌<rt>すききら</rt></ruby>いがほとんどない。"
+        "question_ruby": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>も<ruby>魚<rt>さかな</rt></ruby>も<ruby>何<rt>なん</rt></ruby>でもよく<ruby>食<rt>た</rt></ruby>べて、<ruby>好き嫌<rt>すききら</rt></ruby>いがほとんどない。"
       },
       {
         "category": "kanji_writing",
@@ -40533,7 +40533,7 @@ window.JLPT_QUESTIONS_DATA = {
         "explanation": "他をはるかに越えることは「凌駕（りょうが）する」です。",
         "translationEn": "His achievements surpass all rivals.",
         "level": "N1",
-        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の <ruby>業績<rt>ぎょうせき</rt></ruby>は <ruby>他<rt>た</rt></ruby>の <ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を <ruby>大<rt>おお</rt></ruby>きく （　　）している。"
+        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>の <ruby>業績<rt>ぎょうせき</rt></ruby>は <ruby>他<rt>ほか</rt></ruby>の <ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を <ruby>大<rt>おお</rt></ruby>きく （　　）している。"
       },
       {
         "id": "n1-v-0021",
@@ -46544,7 +46544,7 @@ window.JLPT_QUESTIONS_DATA = {
         "translationEn": "He has designs on that girl.",
         "id": "n1-v-0373",
         "level": "N1",
-        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>の<ruby>下心<rt>したごころ</rt></ruby>もなく、<ruby>純粋<rt>じゅんすい</rt></ruby>な<ruby>善意<rt>ぜんい</rt></ruby>で<ruby>地域<rt>ちいき</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってくれた。"
+        "question_ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>の<ruby>下心<rt>したごころ</rt></ruby>もなく、<ruby>純粋<rt>じゅんすい</rt></ruby>な<ruby>善意<rt>ぜんい</rt></ruby>で<ruby>地域<rt>ちいき</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってくれた。"
       },
       {
         "category": "kanji_writing",

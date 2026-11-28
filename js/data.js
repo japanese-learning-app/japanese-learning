@@ -21091,7 +21091,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "to rest (forme en te) (forme en ~te / demande ou enchaînement)"
     },
     "example": {
-      "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>時<rt>じ</rt></ruby>は、<ruby>無理<rt>むり</rt></ruby>をしないでしっかり<ruby>休<rt>やす</rt></ruby>んでくださいね。<br/>お<ruby>大事<rt>だいじ</rt></ruby>に。",
+      "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>時<rt>とき</rt></ruby>は、<ruby>無理<rt>むり</rt></ruby>をしないでしっかり<ruby>休<rt>やす</rt></ruby>んでくださいね。<br/>お<ruby>大事<rt>だいじ</rt></ruby>に。",
       "en": "When you feel unwell, please don't push yourself and rest well.<br>Take care.",
       "zh_TW": "身體不舒服時千萬不要勉強，好好休息喔。<br>祝早日康復。",
       "zh_CN": "身體不舒服時千萬不要勉強，好好休息喔。<br>祝早日康復。",
@@ -23440,7 +23440,7 @@ window.INITIAL_VOCAB_DATA = [
       "fr": "s'inquiéter"
     },
     "example": {
-      "ja": "<ruby>遅<rt>おそ</rt></ruby>くなる<ruby>時<rt>じ</rt></ruby>は<ruby>心配<rt>しんぱい</rt></ruby>するので、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>一本<rt>いっぽん</rt></ruby><ruby>入<rt>い</rt></ruby>れてね。<br/>はい、すぐ<ruby>電話<rt>でんわ</rt></ruby>します。",
+      "ja": "<ruby>遅<rt>おそ</rt></ruby>くなる<ruby>時<rt>とき</rt></ruby>は<ruby>心配<rt>しんぱい</rt></ruby>するので、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>一本<rt>いっぽん</rt></ruby><ruby>入<rt>い</rt></ruby>れてね。<br/>はい、すぐ<ruby>電話<rt>でんわ</rt></ruby>します。",
       "en": "Because I worry when you are late, be sure to send a message.<br>Yes, I'll call right away.",
       "zh_TW": "太晚回家會令人擔心，一定要傳個訊息聯絡喔。<br>好，我馬上打電話。",
       "zh_CN": "太晚回家會令人擔心，一定要傳個訊息聯絡喔。<br>好，我馬上打電話。",

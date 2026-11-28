@@ -8899,8 +8899,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 3,
     "correct_text": "ともなしに",
     "notes": "はっきり<ruby>特定<rt>とくてい</rt></ruby>できない・<ruby>意識<rt>いしき</rt></ruby>されていない<ruby>様子<rt>ようす</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかく<ruby>述<rt>の</rt></ruby>べる<ruby>表現<rt>ひょうげん</rt></ruby>です。",
-    "question_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはいつ（　　　）<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
-    "sentence_jp_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にはいつともなしに<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
+    "question_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にはいつ（　　　）<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
+    "sentence_jp_ruby": "<ruby>同<rt>おな</rt></ruby>じ<ruby>職場<rt>しょくば</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>共<rt>とも</rt></ruby>にするうちに、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にはいつともなしに<ruby>深<rt>ふか</rt></ruby>い<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれていた。",
     "choices_ruby": [
       "にとどまらず",
       "とばかりに",
@@ -9559,8 +9559,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "手前",
     "notes": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>好意<rt>こうい</rt></ruby>や<ruby>労力<rt>ろうりょく</rt></ruby>を<ruby>思<rt>おも</rt></ruby>うと、<ruby>失礼<rt>しつれい</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>はとれないという<ruby>気遣<rt>きづか</rt></ruby>いを<ruby>示<rt>しめ</rt></ruby>します。",
-    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なに</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた（　　　）、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
-    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なに</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた<ruby>手前<rt>てまえ</rt></ruby>、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
+    "question_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なん</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた（　　　）、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
+    "sentence_jp_ruby": "<ruby>友人<rt>ゆうじん</rt></ruby>に「<ruby>何<rt>なん</rt></ruby>でもおいしく<ruby>食<rt>た</rt></ruby>べられる」と<ruby>話<rt>はな</rt></ruby>していた<ruby>手前<rt>てまえ</rt></ruby>、<ruby>苦手<rt>にがて</rt></ruby>な<ruby>食材<rt>しょくざい</rt></ruby>だとは<ruby>言い出<rt>いいだ</rt></ruby>せなかった。",
     "choices_ruby": [
       "そびれ",
       "かたわら",
@@ -11329,8 +11329,8 @@ window.JLPT_N1_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "を前提に",
     "notes": "「〜を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ」の<ruby>形<rt>かたち</rt></ruby>で、<ruby>物事<rt>ものごと</rt></ruby>の<ruby>基礎<rt>きそ</rt></ruby>・<ruby>土台<rt>どだい</rt></ruby>となる<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
-    "question_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>（　　　）<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なん</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。",
-    "sentence_jp_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なん</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。",
+    "question_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>（　　　）<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。",
+    "sentence_jp_ruby": "<ruby>双方<rt>そうほう</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>取引<rt>とりひき</rt></ruby>では、<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>透明<rt>とうめい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>何<rt>なに</rt></ruby>よりも<ruby>重要<rt>じゅうよう</rt></ruby>になる。",
     "choices_ruby": [
       "を<ruby>前提<rt>ぜんてい</rt></ruby>に",
       "を<ruby>尻目<rt>しりめ</rt></ruby>に",

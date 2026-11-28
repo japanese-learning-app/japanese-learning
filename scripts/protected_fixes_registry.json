@@ -55,6 +55,12 @@
       "category": "総合ポータル・書き取り・助詞・敬語",
       "requirement": "app.htmlの主要モジュール（フラッシュカード導線・JLPT・敬語・弱点克服助詞マスター・かな書き取り2マス対応＆答え/Replay配置）維持、ルート↔public/完全同期、原本はGitHub/japanese-learning一本化",
       "automated_check": "verify_all_regressions.py:E1-E3 + Chrome E2E app.html boot check"
+    },
+    {
+      "id": "FIX-010",
+      "category": "自然なふりがな（多音字・何の読み分け）",
+      "requirement": "テキスト・教材・データベース全体で不自然なふりがな（何(なに)ですか→なんですか、何(なに)の→なんの、何(なに)でも→なんでも、ひらがな「なにですか」→「なんですか」、何(なん)より→なにより、何(なに)月(つき)→なんがつ、何(なに)色(しょく)→なにいろ、他(た)の/に→ほかの/に、遅くなる/悪い時(じ)→とき、〜た/ない方(かた)が→ほうが、その後(ご)で/に→あとで/に、二人の間(ま)→あいだ、どんな/あの人(にん)→ひと）を0件に維持する",
+      "automated_check": "verify_all_regressions.py:B9"
     }
   ]
 }

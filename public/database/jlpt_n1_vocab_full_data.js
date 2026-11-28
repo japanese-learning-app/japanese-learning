@@ -2569,7 +2569,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "いどう",
     "ruby": "<ruby>異動<rt>いどう</rt></ruby>",
     "meaning": "a change",
-    "ex_ja": "<ruby>市内<rt>しない</rt></ruby>の<ruby>区<rt>く</rt></ruby>から<ruby>他<rt>た</rt></ruby>の<ruby>区<rt>く</rt></ruby>へ<ruby>引っ越<rt>ひっこ</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>区間<rt>くかん</rt></ruby><ruby>異動<rt>いどう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>をご<ruby>提出<rt>ていしゅつ</rt></ruby>ください。",
+    "ex_ja": "<ruby>市内<rt>しない</rt></ruby>の<ruby>区<rt>く</rt></ruby>から<ruby>他<rt>ほか</rt></ruby>の<ruby>区<rt>く</rt></ruby>へ<ruby>引っ越<rt>ひっこ</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>区間<rt>くかん</rt></ruby><ruby>異動<rt>いどう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>をご<ruby>提出<rt>ていしゅつ</rt></ruby>ください。",
     "ex_en": "If you move from one borough to another within the city, please submit a notification of the change."
   },
   {
@@ -14809,7 +14809,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ごく",
     "ruby": "<ruby>語句<rt>ごく</rt></ruby>",
     "meaning": "words; phrases",
-    "ex_ja": "この<ruby>語句<rt>ごく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか？",
+    "ex_ja": "この<ruby>語句<rt>ごく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
     "ex_en": "What's the meaning of this phrase?"
   },
   {
@@ -27417,7 +27417,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "ていぎ",
     "ruby": "<ruby>定義<rt>ていぎ</rt></ruby>",
     "meaning": "definition",
-    "ex_ja": "ジャズの<ruby>定義<rt>ていぎ</rt></ruby>って<ruby>何<rt>なに</rt></ruby>ですか？",
+    "ex_ja": "ジャズの<ruby>定義<rt>ていぎ</rt></ruby>って<ruby>何<rt>なん</rt></ruby>ですか？",
     "ex_en": "What's the definition of jazz?"
   },
   {
@@ -38937,7 +38937,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "めいしょう",
     "ruby": "<ruby>名称<rt>めいしょう</rt></ruby>",
     "meaning": "name",
-    "ex_ja": "ここの<ruby>正式<rt>せいしき</rt></ruby><ruby>名称<rt>めいしょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか？",
+    "ex_ja": "ここの<ruby>正式<rt>せいしき</rt></ruby><ruby>名称<rt>めいしょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
     "ex_en": "What is the official name for this place?"
   },
   {
@@ -41257,7 +41257,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "りゃくご",
     "ruby": "<ruby>略語<rt>りゃくご</rt></ruby>",
     "meaning": "abbreviation; acronym",
-    "ex_ja": "PKOが<ruby>何<rt>なに</rt></ruby>の<ruby>略語<rt>りゃくご</rt></ruby>だか<ruby>知<rt>し</rt></ruby>ってる？",
+    "ex_ja": "PKOが<ruby>何<rt>なん</rt></ruby>の<ruby>略語<rt>りゃくご</rt></ruby>だか<ruby>知<rt>し</rt></ruby>ってる？",
     "ex_en": "Do you know what PKO stands for?"
   },
   {
@@ -47817,7 +47817,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "つくろう",
     "ruby": "<ruby>繕<rt>つくろ</rt></ruby>う",
     "meaning": "to mend; to repair; to fix; to patch up; to darn; to tidy up; to adjust; to trim",
-    "ex_ja": "<ruby>世間体<rt>せけんてい</rt></ruby>を<ruby>繕<rt>つくろ</rt></ruby>う<ruby>心配<rt>しんぱい</rt></ruby>をするより<ruby>他<rt>た</rt></ruby>にやることがある。",
+    "ex_ja": "<ruby>世間体<rt>せけんてい</rt></ruby>を<ruby>繕<rt>つくろ</rt></ruby>う<ruby>心配<rt>しんぱい</rt></ruby>をするより<ruby>他<rt>ほか</rt></ruby>にやることがある。",
     "ex_en": "We have other things to do than worry about keeping up appearances."
   },
   {
@@ -57625,7 +57625,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "シナリオ",
     "ruby": "シナリオ",
     "meaning": "scenario",
-    "ex_ja": "<ruby>最悪<rt>さいあく</rt></ruby>のシナリオは<ruby>何<rt>なに</rt></ruby>ですか？",
+    "ex_ja": "<ruby>最悪<rt>さいあく</rt></ruby>のシナリオは<ruby>何<rt>なん</rt></ruby>ですか？",
     "ex_en": "What's the worst case scenario?"
   },
   {
@@ -58121,7 +58121,7 @@ window.JLPT_N1_VOCAB_DATA = [
     "reading": "タイトル",
     "ruby": "タイトル",
     "meaning": "title",
-    "ex_ja": "その<ruby>本<rt>ほん</rt></ruby>のタイトルは<ruby>何<rt>なに</rt></ruby>ですか。",
+    "ex_ja": "その<ruby>本<rt>ほん</rt></ruby>のタイトルは<ruby>何<rt>なん</rt></ruby>ですか。",
     "ex_en": "What is the title of the book?"
   },
   {

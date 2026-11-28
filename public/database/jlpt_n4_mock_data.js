@@ -2184,8 +2184,8 @@ window.JLPT_N4_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n4/n4_q10.jpg",
       "audioUrl": "audio/mock_n4/n4_m01_q80.mp3",
-      "title": "女の人が いちばん 楽しかったと 言って いるのは なにですか。",
-      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が いちばん <ruby>楽<rt>たの</rt></ruby>しかったと <ruby>言<rt>い</rt></ruby>って いるのは なにですか。",
+      "title": "女の人が いちばん 楽しかったと 言って いるのは なんですか。",
+      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が いちばん <ruby>楽<rt>たの</rt></ruby>しかったと <ruby>言<rt>い</rt></ruby>って いるのは なんですか。",
       "script": "男の人：週末の 北海道旅行は どうだった？ おいしい ものを たくさん 食べた？\n女の人：うん、お寿司も スープカレーも おいしかったよ。でも、今回 いちばん 思い出に 残ったのは、船に 乗って 野生の イルカを 見た ことかな。\n男の人：へえ、イルカが 見られたんだ！\n女の人：そうなの。船の すぐ 近くまで 泳いで きて くれて、本当に 感動したよ。",
       "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>週末<rt>しゅうまつ</rt></ruby>の <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>は どうだった？ おいしい ものを たくさん <ruby>食<rt>た</rt></ruby>べた？<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：うん、お<ruby>寿司<rt>すし</rt></ruby>も スープカレーも おいしかったよ。でも、<ruby>今回<rt>こんかい</rt></ruby> いちばん <ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>に <ruby>残<rt>のこ</rt></ruby>ったのは、<ruby>船<rt>ふね</rt></ruby>に <ruby>乗<rt>の</rt></ruby>って <ruby>野生<rt>やせい</rt></ruby>の イルカを <ruby>見<rt>み</rt></ruby>た ことかな。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：へえ、イルカが <ruby>見<rt>み</rt></ruby>られたんだ！<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなの。<ruby>船<rt>ふね</rt></ruby>の すぐ <ruby>近<rt>ちか</rt></ruby>くまで <ruby>泳<rt>およ</rt></ruby>いで きて くれて、<ruby>本当<rt>ほんとう</rt></ruby>に <ruby>感動<rt>かんどう</rt></ruby>したよ。",
       "options": [
@@ -2271,8 +2271,8 @@ window.JLPT_N4_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n4/n4_q13.jpg",
       "audioUrl": "audio/mock_n4/n4_m01_q83.mp3",
-      "title": "図書館の パソコンを つかう とき、注意しなければ ならない ことは なにですか。",
-      "titleRuby": "<ruby>図書館<rt>としょかん</rt></ruby>の パソコンを つかう とき、<ruby>注意<rt>ちゅうい</rt></ruby>しなければ ならない ことは なにですか。",
+      "title": "図書館の パソコンを つかう とき、注意しなければ ならない ことは なんですか。",
+      "titleRuby": "<ruby>図書館<rt>としょかん</rt></ruby>の パソコンを つかう とき、<ruby>注意<rt>ちゅうい</rt></ruby>しなければ ならない ことは なんですか。",
       "script": "女の人：図書館の パソコンコーナーを ご利用の みなさんに お知らせします。パソコンは １人 １時間まで 無料で つかう ことが できます。ご利用の 前に、カウンターで 利用申込書に お名前を 書いて ください。なお、パソコンコーナーでの 飲食は 禁止されて いますので、飲み物は かばんの 中に しまって ください。",
       "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>図書館<rt>としょかん</rt></ruby>の パソコンコーナーを ご<ruby>利用<rt>りよう</rt></ruby>の みなさんに お<ruby>知<rt>し</rt></ruby>らせします。パソコンは <ruby>１人<rt>ひとり</rt></ruby> １<ruby>時間<rt>じかん</rt></ruby>まで <ruby>無料<rt>むりょう</rt></ruby>で つかう ことが できます。ご<ruby>利用<rt>りよう</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>に、カウンターで <ruby>利用<rt>りよう</rt></ruby><ruby>申込<rt>もうしこみ</rt></ruby><ruby>書<rt>しょ</rt></ruby>に お<ruby>名前<rt>なまえ</rt></ruby>を <ruby>書<rt>か</rt></ruby>いて ください。なお、パソコンコーナーでの <ruby>飲食<rt>いんしょく</rt></ruby>は <ruby>禁止<rt>きんし</rt></ruby>されて いますので、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は かばんの <ruby>中<rt>なか</rt></ruby>に しまって ください。",
       "options": [

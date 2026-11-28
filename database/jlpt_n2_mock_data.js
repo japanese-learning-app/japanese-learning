@@ -1913,7 +1913,7 @@ window.JLPT_N2_MOCK_DATA = {
         "<ruby>時間<rt>じかん</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>するために、<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>実現<rt>じつげん</rt></ruby>できる<ruby>意見<rt>いけん</rt></ruby>だけを<ruby>発言<rt>はつげん</rt></ruby>させるべきだ",
         "<ruby>大<rt>だい</rt></ruby><ruby>人数<rt>にんずう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>はやめて、<ruby>司会<rt>しかい</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>企画<rt>きかく</rt></ruby>をすべて<ruby>考<rt>かんが</rt></ruby>えたほうが<ruby>効率<rt>こうりつ</rt></ruby><ruby>的<rt>てき</rt></ruby>だ",
         "<ruby>会議<rt>かいぎ</rt></ruby>では<ruby>予算<rt>よさん</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>だけを<ruby>優先<rt>ゆうせん</rt></ruby>し、<ruby>新<rt>あたら</rt></ruby>しいアイデアは<ruby>外部<rt>がいぶ</rt></ruby>の<ruby>専門<rt>せんもん</rt></ruby><ruby>家<rt>か</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せるべきだ",
-        "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>批判<rt>ひはん</rt></ruby>をせずに<ruby>多<rt>おお</rt></ruby>くの<ruby>意見<rt>いけん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>め、その<ruby>後<rt>ご</rt></ruby>で<ruby>実現<rt>じつげん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>するほうが<ruby>良<rt>よ</rt></ruby>い<ruby>企画<rt>きかく</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれる"
+        "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>批判<rt>ひはん</rt></ruby>をせずに<ruby>多<rt>おお</rt></ruby>くの<ruby>意見<rt>いけん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>め、その<ruby>後<rt>あと</rt></ruby>で<ruby>実現<rt>じつげん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>するほうが<ruby>良<rt>よ</rt></ruby>い<ruby>企画<rt>きかく</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれる"
       ],
       "correctIndex": 3,
       "weight": 2.8,
@@ -2269,8 +2269,8 @@ window.JLPT_N2_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n2/n2_q6.jpg",
       "audioUrl": "audio/mock_n2/n2_m01_q81.mp3",
-      "title": "男の人が 新しい 店舗の 場所と して 駅前ビルを 選んだ 最も 大きな 理由は なにですか。",
-      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>新<rt>あたら</rt></ruby>しい <ruby>店舗<rt>てんぽ</rt></ruby>の <ruby>場所<rt>ばしょ</rt></ruby>と して <ruby>駅前<rt>えきまえ</rt></ruby>ビルを <ruby>選<rt>えら</rt></ruby>んだ <ruby>最<rt>もっと</rt></ruby>も <ruby>大<rt>おお</rt></ruby>きな <ruby>理由<rt>りゆう</rt></ruby>は なにですか。",
+      "title": "男の人が 新しい 店舗の 場所と して 駅前ビルを 選んだ 最も 大きな 理由は なんですか。",
+      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>新<rt>あたら</rt></ruby>しい <ruby>店舗<rt>てんぽ</rt></ruby>の <ruby>場所<rt>ばしょ</rt></ruby>と して <ruby>駅前<rt>えきまえ</rt></ruby>ビルを <ruby>選<rt>えら</rt></ruby>んだ <ruby>最<rt>もっと</rt></ruby>も <ruby>大<rt>おお</rt></ruby>きな <ruby>理由<rt>りゆう</rt></ruby>は なんですか。",
       "script": "女の人：今度オープンする２号店、郊外のショッピングモールじゃなくて、駅前のオフィスビルに決まったそうですね。\n男の人：ええ。モールも家族連れが多くて魅力的だったんですが、うちは平日の昼休みに手軽に寄れるビジネスマン向けのサービスを強化したかったんです。家賃は少し高めなんですが、ターゲット層が毎日通る場所だという点が決め手になりました。\n女の人：なるほど。駅からの近さもアピールできますね。",
       "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>今度<rt>こんど</rt></ruby>オープンする２<ruby>号<rt>ごう</rt></ruby><ruby>店<rt>てん</rt></ruby>、<ruby>郊外<rt>こうがい</rt></ruby>のショッピングモールじゃなくて、<ruby>駅前<rt>えきまえ</rt></ruby>のオフィスビルに<ruby>決<rt>き</rt></ruby>まったそうですね。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ええ。モールも<ruby>家族<rt>かぞく</rt></ruby><ruby>連<rt>づ</rt></ruby>れが<ruby>多<rt>おお</rt></ruby>くて<ruby>魅力<rt>みりょく</rt></ruby><ruby>的<rt>てき</rt></ruby>だったんですが、うちは<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>手軽<rt>てがる</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>れるビジネスマン<ruby>向<rt>む</rt></ruby>けのサービスを<ruby>強化<rt>きょうか</rt></ruby>したかったんです。<ruby>家賃<rt>やちん</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>めなんですが、ターゲット<ruby>層<rt>そう</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>通<rt>とお</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>だという<ruby>点<rt>てん</rt></ruby>が<ruby>決<rt>き</rt></ruby>め<ruby>手<rt>て</rt></ruby>になりました。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：なるほど。<ruby>駅<rt>えき</rt></ruby>からの<ruby>近<rt>ちか</rt></ruby>さもアピールできますね。",
       "options": [
@@ -2327,8 +2327,8 @@ window.JLPT_N2_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n2/n2_q8.jpg",
       "audioUrl": "audio/mock_n2/n2_m01_q83.mp3",
-      "title": "この 図書館で 来月から 新しく 始まる サービスは なにですか。",
-      "titleRuby": "この <ruby>図書館<rt>としょかん</rt></ruby>で <ruby>来月<rt>らいげつ</rt></ruby>から <ruby>新<rt>あたら</rt></ruby>しく <ruby>始<rt>はじ</rt></ruby>まる サービスは なにですか。",
+      "title": "この 図書館で 来月から 新しく 始まる サービスは なんですか。",
+      "titleRuby": "この <ruby>図書館<rt>としょかん</rt></ruby>で <ruby>来月<rt>らいげつ</rt></ruby>から <ruby>新<rt>あたら</rt></ruby>しく <ruby>始<rt>はじ</rt></ruby>まる サービスは なんですか。",
       "script": "女の人：市立図書館からのお知らせです。当館ではこれまで、予約された本の受け取りは館内のカウンターのみで行っておりましたが、来月１日より、閉館後でも駅前の専用ロッカーで本を受け取れるサービスを開始いたします。なお、一度に借りられる冊数はこれまで通り１０冊まで、貸出期間も２週間で変更はございません。お仕事帰りなどにぜひご利用ください。",
       "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>市立<rt>しりつ</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>からのお<ruby>知<rt>し</rt></ruby>らせです。<ruby>当館<rt>とうかん</rt></ruby>ではこれまで、<ruby>予約<rt>よやく</rt></ruby>された<ruby>本<rt>ほん</rt></ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りは<ruby>館内<rt>かんない</rt></ruby>のカウンターのみで<ruby>行<rt>おこな</rt></ruby>っておりましたが、<ruby>来月<rt>らいげつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>より、<ruby>閉館<rt>へいかん</rt></ruby><ruby>後<rt>ご</rt></ruby>でも<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>専用<rt>せんよう</rt></ruby>ロッカーで<ruby>本<rt>ほん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>れるサービスを<ruby>開始<rt>かいし</rt></ruby>いたします。なお、<ruby>一度<rt>いちど</rt></ruby>に<ruby>借<rt>か</rt></ruby>りられる<ruby>冊数<rt>さっすう</rt></ruby>はこれまで<ruby>通<rt>とお</rt></ruby>り１０<ruby>冊<rt>さつ</rt></ruby>まで、<ruby>貸出<rt>かしだし</rt></ruby><ruby>期間<rt>きかん</rt></ruby>も２<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>変更<rt>へんこう</rt></ruby>はございません。お<ruby>仕事<rt>しごと</rt></ruby><ruby>帰<rt>がえ</rt></ruby>りなどにぜひご<ruby>利用<rt>りよう</rt></ruby>ください。",
       "options": [
@@ -2356,8 +2356,8 @@ window.JLPT_N2_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n2/n2_q9.jpg",
       "audioUrl": "audio/mock_n2/n2_m01_q84.mp3",
-      "title": "男の人が 陶芸教室に 通い 続けている 理由は なにですか。",
-      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に <ruby>通<rt>かよ</rt></ruby>い <ruby>続<rt>つづ</rt></ruby>けている <ruby>理由<rt>りゆう</rt></ruby>は なにですか。",
+      "title": "男の人が 陶芸教室に 通い 続けている 理由は なんですか。",
+      "titleRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に <ruby>通<rt>かよ</rt></ruby>い <ruby>続<rt>つづ</rt></ruby>けている <ruby>理由<rt>りゆう</rt></ruby>は なんですか。",
       "script": "女の人：林さん、週末の陶芸教室、もう３年も通っているんですね。お皿やカップがたくさん作れて実用的だからですか。\n男の人：最初は自分で使う食器を作りたくて始めたんだけど、もう食器棚がいっぱいでね。今はそれよりも、土に触れて形を作っている間だけは、仕事の忙しさを忘れて無心になれるのが心地よくて続けているんだ。\n女の人：そうなんですね。いい気分転換になりますね。",
       "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>林<rt>はやし</rt></ruby>さん、<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>陶芸<rt>とうげい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>、もう３<ruby>年<rt>ねん</rt></ruby>も<ruby>通<rt>とお</rt></ruby>っているんですね。お<ruby>皿<rt>さら</rt></ruby>やカップがたくさん<ruby>作<rt>つく</rt></ruby>れて<ruby>実用<rt>じつよう</rt></ruby><ruby>的<rt>てき</rt></ruby>だからですか。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>食器<rt>しょっき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りたくて<ruby>始<rt>はじ</rt></ruby>めたんだけど、もう<ruby>食器<rt>しょっき</rt></ruby><ruby>棚<rt>たな</rt></ruby>がいっぱいでね。<ruby>今<rt>いま</rt></ruby>はそれよりも、<ruby>土<rt>ど</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れて<ruby>形<rt>かたち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>間<rt>あいだ</rt></ruby>だけは、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しさを<ruby>忘<rt>わす</rt></ruby>れて<ruby>無心<rt>むしん</rt></ruby>になれるのが<ruby>心地<rt>ここち</rt></ruby>よくて<ruby>続<rt>つづ</rt></ruby>けているんだ。<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：そうなんですね。いい<ruby>気分<rt>きぶん</rt></ruby><ruby>転換<rt>てんかん</rt></ruby>になりますね。",
       "options": [
@@ -2385,8 +2385,8 @@ window.JLPT_N2_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n2/n2_q10.jpg",
       "audioUrl": "audio/mock_n2/n2_m01_q85.mp3",
-      "title": "女の人が 卒業論文の テーマを 変更した 理由は なにですか。",
-      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>卒業<rt>そつぎょう</rt></ruby><ruby>論文<rt>ろんぶん</rt></ruby>の テーマを <ruby>変更<rt>へんこう</rt></ruby>した <ruby>理由<rt>りゆう</rt></ruby>は なにですか。",
+      "title": "女の人が 卒業論文の テーマを 変更した 理由は なんですか。",
+      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>卒業<rt>そつぎょう</rt></ruby><ruby>論文<rt>ろんぶん</rt></ruby>の テーマを <ruby>変更<rt>へんこう</rt></ruby>した <ruby>理由<rt>りゆう</rt></ruby>は なんですか。",
       "script": "男の人：卒業論文のテーマ、江戸時代の町並みの研究から、現代の商店街の活性化に変えたんだって？ 資料が見つからなかったの？\n女の人：ううん、図書館に古い地図や文献はたくさんあったわ。ただ、文献を読んでいるうちに、過去の記録を調べるだけじゃなくて、実際に現場へ足を運んで地域の人にインタビューしながら課題を考える研究のほうが自分に向いていると思ったの。\n男の人：なるほど。フィールドワークが中心になるんだね。",
       "scriptRuby": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>論文<rt>ろんぶん</rt></ruby>のテーマ、<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>町並<rt>まちな</rt></ruby>みの<ruby>研究<rt>けんきゅう</rt></ruby>から、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>商店<rt>しょうてん</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>活性<rt>かっせい</rt></ruby><ruby>化<rt>か</rt></ruby>に<ruby>変<rt>か</rt></ruby>えたんだって？ <ruby>資料<rt>しりょう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからなかったの？<br><ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：ううん、<ruby>図書館<rt>としょかん</rt></ruby>に<ruby>古<rt>ふる</rt></ruby>い<ruby>地図<rt>ちず</rt></ruby>や<ruby>文献<rt>ぶんけん</rt></ruby>はたくさんあったわ。ただ、<ruby>文献<rt>ぶんけん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいるうちに、<ruby>過去<rt>かこ</rt></ruby>の<ruby>記録<rt>きろく</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるだけじゃなくて、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>現場<rt>げんば</rt></ruby>へ<ruby>足<rt>あし</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んで<ruby>地域<rt>ちいき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にインタビューしながら<ruby>課題<rt>かだい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える<ruby>研究<rt>けんきゅう</rt></ruby>のほうが<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>いていると<ruby>思<rt>おも</rt></ruby>ったの。<br><ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：なるほど。フィールドワークが<ruby>中心<rt>ちゅうしん</rt></ruby>になるんだね。",
       "options": [
@@ -2443,8 +2443,8 @@ window.JLPT_N2_MOCK_DATA = {
       "has_illustration": true,
       "illustration_url": "images/listening_n2/n2_q12.jpg",
       "audioUrl": "audio/mock_n2/n2_m01_q87.mp3",
-      "title": "女の人が 最も 伝えたい ことは なにですか。",
-      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>最<rt>もっと</rt></ruby>も <ruby>伝<rt>つた</rt></ruby>えたい ことは なにですか。",
+      "title": "女の人が 最も 伝えたい ことは なんですか。",
+      "titleRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が <ruby>最<rt>もっと</rt></ruby>も <ruby>伝<rt>つた</rt></ruby>えたい ことは なんですか。",
       "script": "女の人：子どもに読書を好きになってほしいと思って、親が「この本を読みなさい」と名作ばかりを買い与えてしまうことがあります。しかし、強制されると読書が「勉強」や「義務」になってしまい、かえって本から遠ざかってしまうことが少なくありません。まずは図鑑でも料理の本でも、子ども自身が興味を持って手に取ったものを否定せずに見守ることが、本好きを育てる第一歩なのです。",
       "scriptRuby": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>：<ruby>子<rt>こ</rt></ruby>どもに<ruby>読書<rt>どくしょ</rt></ruby>を<ruby>好<rt>す</rt></ruby>きになってほしいと<ruby>思<rt>おも</rt></ruby>って、<ruby>親<rt>おや</rt></ruby>が「この<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みなさい」と<ruby>名作<rt>めいさく</rt></ruby>ばかりを<ruby>買い与<rt>かいあた</rt></ruby>えてしまうことがあります。しかし、<ruby>強制<rt>きょうせい</rt></ruby>されると<ruby>読書<rt>どくしょ</rt></ruby>が「<ruby>勉強<rt>べんきょう</rt></ruby>」や「<ruby>義務<rt>ぎむ</rt></ruby>」になってしまい、かえって<ruby>本<rt>ほん</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>ざかってしまうことが<ruby>少<rt>すく</rt></ruby>なくありません。まずは<ruby>図鑑<rt>ずかん</rt></ruby>でも<ruby>料理<rt>りょうり</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>でも、<ruby>子<rt>こ</rt></ruby>ども<ruby>自身<rt>じしん</rt></ruby>が<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>手<rt>て</rt></ruby>に<ruby>取<rt>と</rt></ruby>ったものを<ruby>否定<rt>ひてい</rt></ruby>せずに<ruby>見守<rt>みまも</rt></ruby>ることが、<ruby>本<rt>ほん</rt></ruby><ruby>好<rt>す</rt></ruby>きを<ruby>育<rt>そだ</rt></ruby>てる<ruby>第<rt>だい</rt></ruby><ruby>一歩<rt>いっぽ</rt></ruby>なのです。",
       "options": [

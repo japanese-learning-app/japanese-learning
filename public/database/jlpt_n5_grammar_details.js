@@ -1318,7 +1318,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
         "form_en": "be good at ~",
         "badge": "ほめる",
         "badge_type": "good",
-        "nuance_ja": "<ruby>他<rt>た</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>をほめるときに<ruby>使<rt>つか</rt></ruby>います。",
+        "nuance_ja": "<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>をほめるときに<ruby>使<rt>つか</rt></ruby>います。",
         "nuance_en": "Used to praise another person's skill.",
         "example": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。"
       },
@@ -2076,7 +2076,7 @@ window.JLPT_N5_GRAMMAR_DETAILS = {
   },
   "35": {
     "formula": "<strong>N</strong> ＋ <strong>は</strong> ＋ <ruby>述語<rt>じゅつご</rt></ruby> ／ <strong>N</strong>は〜が、<strong>N'</strong>は〜 ／ <strong>に・で・から</strong>＋<strong>は</strong>",
-    "notes_ja": "①<ruby>主題<rt>しゅだい</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。これは<ruby>傘<rt>かさ</rt></ruby>です。「は」は「わ」と<ruby>読<rt>よ</rt></ruby>みます。<br>②<ruby>対比<rt>たいひ</rt></ruby>：<ruby>肉<rt>にく</rt></ruby>は<ruby>食<rt>た</rt></ruby>べますが、<ruby>魚<rt>さかな</rt></ruby>は<ruby>食<rt>た</rt></ruby>べません。<br>③<ruby>他<rt>た</rt></ruby>の<ruby>助詞<rt>じょし</rt></ruby>のあとにつく：<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>静<rt>しず</rt></ruby>かにしてください／<ruby>日本<rt>にほん</rt></ruby>には<ruby>山<rt>やま</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです（「を」「が」の<ruby>代<rt>か</rt></ruby>わりには「は」だけが<ruby>使<rt>つか</rt></ruby>われます：×<ruby>私<rt>わたし</rt></ruby>をは）。<br>④<ruby>疑問<rt>ぎもん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>の<ruby>答<rt>こた</rt></ruby>え：A：お<ruby>名前<rt>なまえ</rt></ruby>は。B：<ruby>田中<rt>たなか</rt></ruby>です。",
+    "notes_ja": "①<ruby>主題<rt>しゅだい</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。これは<ruby>傘<rt>かさ</rt></ruby>です。「は」は「わ」と<ruby>読<rt>よ</rt></ruby>みます。<br>②<ruby>対比<rt>たいひ</rt></ruby>：<ruby>肉<rt>にく</rt></ruby>は<ruby>食<rt>た</rt></ruby>べますが、<ruby>魚<rt>さかな</rt></ruby>は<ruby>食<rt>た</rt></ruby>べません。<br>③<ruby>他<rt>ほか</rt></ruby>の<ruby>助詞<rt>じょし</rt></ruby>のあとにつく：<ruby>教室<rt>きょうしつ</rt></ruby>では<ruby>静<rt>しず</rt></ruby>かにしてください／<ruby>日本<rt>にほん</rt></ruby>には<ruby>山<rt>やま</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです（「を」「が」の<ruby>代<rt>か</rt></ruby>わりには「は」だけが<ruby>使<rt>つか</rt></ruby>われます：×<ruby>私<rt>わたし</rt></ruby>をは）。<br>④<ruby>疑問<rt>ぎもん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>の<ruby>答<rt>こた</rt></ruby>え：A：お<ruby>名前<rt>なまえ</rt></ruby>は。B：<ruby>田中<rt>たなか</rt></ruby>です。",
     "notes_en": "① Topic: <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です, これは<ruby>傘<rt>かさ</rt></ruby>です (は is read “wa”). ② Contrast: <ruby>肉<rt>にく</rt></ruby>は<ruby>食<rt>た</rt></ruby>べますが、<ruby>魚<rt>さかな</rt></ruby>は<ruby>食<rt>た</rt></ruby>べません. ③ After other particles: <ruby>教室<rt>きょうしつ</rt></ruby>では, <ruby>日本<rt>にほん</rt></ruby>には (は replaces を／が). ④ Short question: お<ruby>名前<rt>なまえ</rt></ruby>は。",
     "nuance_ja": "「は」は「〜について<ruby>言<rt>い</rt></ruby>うと」と<strong><ruby>話題<rt>わだい</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げる</strong><ruby>助詞<rt>じょし</rt></ruby>です。<ruby>取<rt>と</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げたものは、ほかのものと<strong><ruby>区別<rt>くべつ</rt></ruby>されて</strong>、<ruby>対比<rt>たいひ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つこともあります。<ruby>話題<rt>わだい</rt></ruby>が<ruby>相手<rt>あいて</rt></ruby>も<ruby>知<rt>し</rt></ruby>っている<ruby>話<rt>はなし</rt></ruby>のとき、「は」を<ruby>使<rt>つか</rt></ruby>います。",
     "nuance_en": "は means “as for ~”: it <strong>picks out a topic</strong>, and the thing picked is set apart from others, which is why contrast comes easily. Use は for what both speakers already know.",

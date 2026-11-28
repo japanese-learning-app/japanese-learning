@@ -1884,7 +1884,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ouvrir (boutique / porte)"
     },
     "example": {
-      "ja": "A: あの<ruby>本屋<rt>ほんや</rt></ruby>さんは<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>きますか？<br/>B: <ruby>朝<rt>あさ</rt></ruby>の10<ruby>時<rt>じ</rt></ruby>にドアが<ruby>開<rt>ひら</rt></ruby>きますよ。",
+      "ja": "A: あの<ruby>本屋<rt>ほんや</rt></ruby>さんは<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>きますか？<br/>B: <ruby>朝<rt>あさ</rt></ruby>の10<ruby>時<rt>じ</rt></ruby>にドアが<ruby>開<rt>あ</rt></ruby>きますよ。",
       "en": "A: What time does that bookstore open?<br/>B: The doors open at 10 in the morning.",
       "zh_TW": "A: 那家書店幾點開門？<br/>B: 早上10點開門喔。",
       "zh_CN": "A: 那家书店几点开门？<br/>B: 早上10点开门哦。",
@@ -5215,7 +5215,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "instrument à vent"
     },
     "example": {
-      "ja": "A: <ruby>吹奏楽<rt>すいそうがく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>では<ruby>何<rt>なに</rt></ruby>の<ruby>楽器<rt>がっき</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しているんですか？<br/>B: フルートという<ruby>管楽器<rt>かんがっき</rt></ruby>を<ruby>吹<rt>ふ</rt></ruby>いています。",
+      "ja": "A: <ruby>吹奏楽<rt>すいそうがく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>では<ruby>何<rt>なん</rt></ruby>の<ruby>楽器<rt>がっき</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しているんですか？<br/>B: フルートという<ruby>管楽器<rt>かんがっき</rt></ruby>を<ruby>吹<rt>ふ</rt></ruby>いています。",
       "en": "A: Which instrument do you play in the brass band?<br/>B: I play a wind instrument called the flute.",
       "zh_TW": "A: Which instrument do you play in the brass band?<br/>B: I play a wind instrument called the flute.",
       "zh_CN": "A: Which instrument do you play in the brass band?<br/>B: I play a wind instrument called the flute.",
@@ -6736,7 +6736,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "ajuster; coordonner"
     },
     "example": {
-      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>30分<rt>さんじゅっぷん</rt></ruby>ほど<ruby>調整<rt>ちょうせい</rt></ruby>していただけますか？<br/>B: はい、<ruby>他<rt>た</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して<ruby>調整<rt>ちょうせい</rt></ruby>します。",
+      "ja": "A: <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>30分<rt>さんじゅっぷん</rt></ruby>ほど<ruby>調整<rt>ちょうせい</rt></ruby>していただけますか？<br/>B: はい、<ruby>他<rt>ほか</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のスケジュールを<ruby>確認<rt>かくにん</rt></ruby>して<ruby>調整<rt>ちょうせい</rt></ruby>します。",
       "en": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
       "zh_TW": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
       "zh_CN": "A: Could you adjust the meeting start time by about 30 minutes?<br/>B: Yes, I will check the other attendees' schedules and coordinate.",
@@ -6811,7 +6811,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "méthode ; manière"
     },
     "example": {
-      "ja": "<ruby>他<rt>た</rt></ruby>に<ruby>方法<rt>ほうほう</rt></ruby>はない。",
+      "ja": "<ruby>他<rt>ほか</rt></ruby>に<ruby>方法<rt>ほうほう</rt></ruby>はない。",
       "en": "There is no other way.",
       "zh_TW": "There is no other way.",
       "zh_CN": "There is no other way.",
@@ -16281,7 +16281,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "cette personne (mentionnée)"
     },
     "example": {
-      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>ったんだ。<br/>B: へえ、その<ruby>人<rt>ひと</rt></ruby>はどんな<ruby>人<rt>にん</rt></ruby>だったの？",
+      "ja": "A: <ruby>昨日<rt>きのう</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に<ruby>出会<rt>であ</rt></ruby>ったんだ。<br/>B: へえ、その<ruby>人<rt>ひと</rt></ruby>はどんな<ruby>人<rt>ひと</rt></ruby>だったの？",
       "en": "A: I met an interesting person yesterday.<br/>B: Oh really? What kind of person was that?",
       "zh_TW": "A: 昨天遇到了一個很有趣的人。<br/>B: 喔？那個人是怎麼樣的人呢？",
       "zh_CN": "A: 昨天遇到了一个很有趣的人。<br/>B: 喔？那个人是怎么样的呢？",
@@ -28133,7 +28133,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "préféré / préféré / le plus aimé (idole/personnage)"
     },
     "example": {
-      "ja": "A: あなたの<ruby>推<rt>お</rt></ruby>しのメンバーカラーは<ruby>何<rt>なに</rt></ruby><ruby>色<rt>しょく</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>の<ruby>推<rt>お</rt></ruby>しはイエロー<ruby>担当<rt>たんとう</rt></ruby>なので<ruby>黄色<rt>きいろ</rt></ruby>のグッズを<ruby>集<rt>あつ</rt></ruby>めています！",
+      "ja": "A: あなたの<ruby>推<rt>お</rt></ruby>しのメンバーカラーは<ruby>何<rt>なに</rt></ruby><ruby>色<rt>いろ</rt></ruby>ですか？<br/>B: <ruby>私<rt>わたし</rt></ruby>の<ruby>推<rt>お</rt></ruby>しはイエロー<ruby>担当<rt>たんとう</rt></ruby>なので<ruby>黄色<rt>きいろ</rt></ruby>のグッズを<ruby>集<rt>あつ</rt></ruby>めています！",
       "en": "A: What is your favorite idol's signature color?<br/>B: My favorite is yellow, so I collect yellow merchandise!",
       "zh_TW": "A: What is your favorite idol's signature color?<br/>B: My favorite is yellow, so I collect yellow merchandise!",
       "zh_CN": "A: What is your favorite idol's signature color?<br/>B: My favorite is yellow, so I collect yellow merchandise!",
@@ -30593,7 +30593,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "A part ça / à part ça / en plus"
     },
     "example": {
-      "ja": "A: お<ruby>探<rt>さが</rt></ruby>しの<ruby>本<rt>ほん</rt></ruby>は<ruby>他<rt>た</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かございますか？<br/>B: いいえ、<ruby>他<rt>た</rt></ruby>には<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。これだけ<ruby>買<rt>か</rt></ruby>います。",
+      "ja": "A: お<ruby>探<rt>さが</rt></ruby>しの<ruby>本<rt>ほん</rt></ruby>は<ruby>他<rt>ほか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かございますか？<br/>B: いいえ、<ruby>他<rt>ほか</rt></ruby>には<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。これだけ<ruby>買<rt>か</rt></ruby>います。",
       "en": "A: Are there any other books you are looking for besides that?<br/>B: No, other than that I'm fine. I'll just take this.",
       "zh_TW": "A: Are there any other books you are looking for besides that?<br/>B: No, other than that I'm fine. I'll just take this.",
       "zh_CN": "A: Are there any other books you are looking for besides that?<br/>B: No, other than that I'm fine. I'll just take this.",
@@ -33309,7 +33309,7 @@ window.CLASS_VOCAB_DATA = [
     "category": "授業で習った言葉",
     "meaning": {
       "en": "What date is it?",
-      "ja": "<ruby>何<rt>なに</rt></ruby><ruby>月<rt>つき</rt></ruby><ruby>何日<rt>なんにち</rt></ruby>ですか？",
+      "ja": "<ruby>何<rt>なん</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>何日<rt>なんにち</rt></ruby>ですか？",
       "zh_TW": "幾月幾號？",
       "zh_CN": "几月几号？",
       "ko": "몇 월 며칠입니까?",
@@ -35322,7 +35322,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "chercher / chercher"
     },
     "example": {
-      "ja": "<ruby>他<rt>た</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すよ。",
+      "ja": "<ruby>他<rt>ほか</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すよ。",
       "en": "I'll find another job.",
       "zh_TW": "I'll find another job.",
       "zh_CN": "I'll find another job.",
@@ -39467,7 +39467,7 @@ window.CLASS_VOCAB_DATA = [
       "fr": "dépassé; surcapacité"
     },
     "example": {
-      "ja": "A: <ruby>一人<rt>ひとり</rt></ruby>で<ruby>三<rt>みっ</rt></ruby>つの<ruby>案件<rt>あんけん</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>抱<rt>かか</rt></ruby>えていて、もうキャパオーバーです。<br/>B: <ruby>無理<rt>むり</rt></ruby>をしないで、<ruby>他<rt>た</rt></ruby>のメンバーに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>してもらいましょう。",
+      "ja": "A: <ruby>一人<rt>ひとり</rt></ruby>で<ruby>三<rt>みっ</rt></ruby>つの<ruby>案件<rt>あんけん</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>抱<rt>かか</rt></ruby>えていて、もうキャパオーバーです。<br/>B: <ruby>無理<rt>むり</rt></ruby>をしないで、<ruby>他<rt>ほか</rt></ruby>のメンバーに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>してもらいましょう。",
       "en": "A: I'm handling three projects all by myself, and I'm totally overwhelmed.<br/>B: Don't push yourself too hard. Let's ask other team members to share the workload.",
       "zh_TW": "A: 我一個人同時扛了三個專案，已經徹底超出負荷了。<br/>B: 不要勉強硬撐，我們請其他成員一起分擔工作吧。",
       "zh_CN": "A: 我一个人同时扛了三个项目，已经彻底超出负荷了。<br/>B: 不要勉强硬撑，我们请其他成员一起分担工作吧。",

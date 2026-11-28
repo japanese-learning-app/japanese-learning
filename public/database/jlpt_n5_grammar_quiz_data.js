@@ -500,7 +500,7 @@ window.JLPT_N5_GRAMMAR_QUIZ_DATA = [
     ],
     "answer": 2,
     "correct_text": "書いて",
-    "notes": "「<ruby>書<rt>か</rt></ruby>く」は「く」で<ruby>終<rt>お</rt></ruby>わるので、て<ruby>形<rt>けい</rt></ruby>は「<ruby>書<rt>か</rt></ruby>いて」です。「<ruby>書<rt>しょ</rt></ruby>って」「<ruby>書<rt>しょ</rt></ruby>んで」は<ruby>他<rt>た</rt></ruby>のグループ（う・つ・る／ぬ・ぶ・む）の<ruby>形<rt>かたち</rt></ruby>で、「<ruby>書<rt>か</rt></ruby>きて」はて<ruby>形<rt>けい</rt></ruby>にならない<ruby>間違<rt>まちが</rt></ruby>いです。 / 書く ends in く, so the te form is 書いて. 書って / 書んで belong to other verb endings, and 書きて is not a te form.",
+    "notes": "「<ruby>書<rt>か</rt></ruby>く」は「く」で<ruby>終<rt>お</rt></ruby>わるので、て<ruby>形<rt>けい</rt></ruby>は「<ruby>書<rt>か</rt></ruby>いて」です。「<ruby>書<rt>しょ</rt></ruby>って」「<ruby>書<rt>しょ</rt></ruby>んで」は<ruby>他<rt>ほか</rt></ruby>のグループ（う・つ・る／ぬ・ぶ・む）の<ruby>形<rt>かたち</rt></ruby>で、「<ruby>書<rt>か</rt></ruby>きて」はて<ruby>形<rt>けい</rt></ruby>にならない<ruby>間違<rt>まちが</rt></ruby>いです。 / 書く ends in く, so the te form is 書いて. 書って / 書んで belong to other verb endings, and 書きて is not a te form.",
     "question_ruby": "A：すみません、ここに<ruby>名前<rt>なまえ</rt></ruby>を（　　　）ください。<br>B：はい、わかりました。",
     "sentence_jp_ruby": "A：すみません、ここに<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。<br>B：はい、わかりました。",
     "choices_ruby": [

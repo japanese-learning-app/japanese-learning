@@ -1879,8 +1879,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "ちっとも",
     "notes": "",
-    "question_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、この<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>のことか（　　　）<ruby>分<rt>わ</rt></ruby>からない。",
-    "sentence_jp_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、この<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>のことかちっとも<ruby>分<rt>わ</rt></ruby>からない。",
+    "question_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、この<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>のことか（　　　）<ruby>分<rt>わ</rt></ruby>からない。",
+    "sentence_jp_ruby": "<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎて、この<ruby>説明<rt>せつめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>のことかちっとも<ruby>分<rt>わ</rt></ruby>からない。",
     "choices_ruby": [
       "ちっとも",
       "なくて<ruby>済<rt>す</rt></ruby>む",
@@ -7099,8 +7099,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 2,
     "correct_text": "以外",
     "notes": "",
-    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>はセロリ（　　　）の<ruby>野菜<rt>やさい</rt></ruby>なら<ruby>何<rt>なに</rt></ruby>でも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。",
-    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>はセロリ<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>なら<ruby>何<rt>なに</rt></ruby>でも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。",
+    "question_ruby": "<ruby>私<rt>わたし</rt></ruby>はセロリ（　　　）の<ruby>野菜<rt>やさい</rt></ruby>なら<ruby>何<rt>なん</rt></ruby>でも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。",
+    "sentence_jp_ruby": "<ruby>私<rt>わたし</rt></ruby>はセロリ<ruby>以外<rt>いがい</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>なら<ruby>何<rt>なん</rt></ruby>でも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。",
     "choices_ruby": [
       "っこない",
       "て<ruby>当然<rt>とうぜん</rt></ruby>だ",
@@ -43639,8 +43639,8 @@ window.JLPT_N2_GRAMMAR_QUIZ_DATA = [
     "answer": 0,
     "correct_text": "よりほかはない",
     "notes": "",
-    "question_ruby": "<ruby>他<rt>た</rt></ruby>に<ruby>代<rt>か</rt></ruby>わりとなる<ruby>方法<rt>ほうほう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>以上<rt>いじょう</rt></ruby>、この<ruby>計画<rt>けいかく</rt></ruby>をそのまま<ruby>進<rt>すす</rt></ruby>める（　　　）。",
-    "sentence_jp_ruby": "<ruby>他<rt>た</rt></ruby>に<ruby>代<rt>か</rt></ruby>わりとなる<ruby>方法<rt>ほうほう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>以上<rt>いじょう</rt></ruby>、この<ruby>計画<rt>けいかく</rt></ruby>をそのまま<ruby>進<rt>すす</rt></ruby>めるよりほかはない。",
+    "question_ruby": "<ruby>他<rt>ほか</rt></ruby>に<ruby>代<rt>か</rt></ruby>わりとなる<ruby>方法<rt>ほうほう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>以上<rt>いじょう</rt></ruby>、この<ruby>計画<rt>けいかく</rt></ruby>をそのまま<ruby>進<rt>すす</rt></ruby>める（　　　）。",
+    "sentence_jp_ruby": "<ruby>他<rt>ほか</rt></ruby>に<ruby>代<rt>か</rt></ruby>わりとなる<ruby>方法<rt>ほうほう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>以上<rt>いじょう</rt></ruby>、この<ruby>計画<rt>けいかく</rt></ruby>をそのまま<ruby>進<rt>すす</rt></ruby>めるよりほかはない。",
     "choices_ruby": [
       "よりほかはない",
       "ちっとも",
