@@ -14,10 +14,15 @@ import sys
 import json
 import glob
 import tempfile
+import threading
 import subprocess
+import http.server
+import socketserver
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JSC_BIN = '/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Helpers/jsc'
+CHROME_BIN = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+REGISTRY_PATH = os.path.join(REPO_ROOT, 'scripts/protected_fixes_registry.json')
 
 failures = []
 warnings = []
@@ -333,6 +338,224 @@ def main():
         fail("E1-E2: ホームポータル (app.html) 主要モジュール", f"欠落: {missing_portal}")
     else:
         ok("E1-E2: ホームポータル (app.html) 全主要モジュール（フラッシュカード / JLPT / 敬語 / 助詞 / 書き取り）OK")
+
+    # -----------------------------------------------------------------
+    # [F] 恒久保護台帳チェック ＆ 実Google Chrome ライブE2E動作テスト
+    # -----------------------------------------------------------------
+    if not os.path.exists(REGISTRY_PATH):
+        fail("F0: 恒久保護台帳 (protected_fixes_registry.json)", "台帳ファイルが存在しません")
+    else:
+        try:
+            with open(REGISTRY_PATH, 'r', encoding='utf-8') as rf:
+                reg_data = json.load(rf)
+            reg_count = len(reg_data.get('protected_fixes', []))
+            if reg_count < 9:
+                fail("F0: 恒久保護台帳", f"保護項目数が減少しています ({reg_count}件 < 9件)")
+            else:
+                ok(f"F0: 恒久保護台帳 (protected_fixes_registry.json) {reg_count}件の過去修正要件を正常ロード OK")
+        except Exception as e:
+            fail("F0: 恒久保護台帳パースエラー", str(e))
+
+    if os.path.exists(CHROME_BIN):
+        e2e_hook_index = r"""
+<script>
+window.__e2eErrors = [];
+window.addEventListener('error', function(e) { window.__e2eErrors.push(String(e.message || e)); });
+window.addEventListener('unhandledrejection', function(e) { window.__e2eErrors.push('Promise: ' + String(e.reason)); });
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    var out = { ok: true, errors: window.__e2eErrors, details: {} };
+    try {
+      var refMeta = document.querySelector('meta[name="referrer"]');
+      out.details.noReferrer = !!(refMeta && refMeta.content === 'no-referrer');
+      var fw = document.getElementById('frontWord');
+      out.details.frontWord = fw ? fw.textContent.trim() : '';
+      var spFront = document.getElementById('btnSpeakFront');
+      out.details.frontSpeakVisibleNormal = !!(spFront && !spFront.classList.contains('hidden'));
+
+      // Toggle reverse mode (non-Japanese front) -> speaker button MUST hide
+      var revBtn = document.getElementById('btnToggleReverse');
+      if (revBtn) {
+        revBtn.click();
+        out.details.frontSpeakHiddenInReverse = !!(spFront && spFront.classList.contains('hidden'));
+        revBtn.click();
+        out.details.frontSpeakRestoredNormal = !!(spFront && !spFront.classList.contains('hidden'));
+      } else {
+        out.details.reverseBtnMissing = true;
+      }
+
+      // Open JLPT tab and verify ALL 5 levels (N5..N1) render word cards
+      var navJlpt = document.getElementById('navJlpt');
+      if (navJlpt) navJlpt.click();
+      var levels = ['N5', 'N4', 'N3', 'N2', 'N1'];
+      out.details.jlptRenderedCounts = {};
+      for (var i = 0; i < levels.length; i++) {
+        var lv = levels[i];
+        if (typeof window.switchJlptLevel === 'function') window.switchJlptLevel(lv);
+        var cards = document.querySelectorAll('#jlptWordsContainer .jlpt-word-card');
+        out.details.jlptRenderedCounts[lv] = cards.length;
+      }
+
+      // Open My List tab and ensure zero errors
+      var navMylist = document.getElementById('navMylist');
+      if (navMylist) navMylist.click();
+      out.details.mylistRendered = !document.getElementById('viewMylist').classList.contains('hidden');
+    } catch (ex) {
+      out.errors.push('E2E exception: ' + String(ex));
+    }
+    var div = document.createElement('div');
+    div.id = '__e2e_result__';
+    div.textContent = JSON.stringify(out);
+    document.body.appendChild(div);
+  }, 800);
+});
+</script>
+"""
+        e2e_hook_jlpt_fc = r"""
+<script>
+window.__e2eErrors = [];
+window.addEventListener('error', function(e) { window.__e2eErrors.push(String(e.message || e)); });
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    var out = { errors: window.__e2eErrors, details: {} };
+    try {
+      var fw = document.getElementById('frontWord');
+      out.details.frontWord = fw ? fw.textContent.trim() : '';
+      var sp = document.getElementById('btnFrontSpeak');
+      if (typeof window.toggleStudyDirection === 'function') {
+        var wasHidden = sp ? sp.classList.contains('hidden') : false;
+        window.toggleStudyDirection();
+        var afterHidden = sp ? sp.classList.contains('hidden') : false;
+        window.toggleStudyDirection();
+        out.details.toggledFrontSpeakHidden = (wasHidden !== afterHidden);
+      }
+    } catch (ex) {
+      out.errors.push('E2E exception: ' + String(ex));
+    }
+    var div = document.createElement('div');
+    div.id = '__e2e_result__';
+    div.textContent = JSON.stringify(out);
+    document.body.appendChild(div);
+  }, 600);
+});
+</script>
+"""
+        e2e_hook_portal = r"""
+<script>
+window.__e2eErrors = [];
+window.addEventListener('error', function(e) { window.__e2eErrors.push(String(e.message || e)); });
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    var out = { errors: window.__e2eErrors, details: { title: document.title, hasGoogleTts: typeof window.playGoogleTTS === 'function' } };
+    var div = document.createElement('div');
+    div.id = '__e2e_result__';
+    div.textContent = JSON.stringify(out);
+    document.body.appendChild(div);
+  }, 600);
+});
+</script>
+"""
+        class E2EHandler(http.server.SimpleHTTPRequestHandler):
+            def __init__(self, *args, **kwargs):
+                super().__init__(*args, directory=REPO_ROOT, **kwargs)
+            def log_message(self, fmt, *args):
+                pass
+            def do_GET(self):
+                if '?__e2e_test=1' in self.path:
+                    clean_path = self.path.split('?', 1)[0].lstrip('/')
+                    fp = os.path.join(REPO_ROOT, clean_path)
+                    if os.path.exists(fp):
+                        with open(fp, 'r', encoding='utf-8', errors='ignore') as f:
+                            body = f.read()
+                        if clean_path == 'index.html':
+                            hook = e2e_hook_index
+                        elif 'vocab_cards.html' in clean_path:
+                            hook = e2e_hook_jlpt_fc
+                        else:
+                            hook = e2e_hook_portal
+                        body = body.replace('</body>', hook + '\n</body>')
+                        data = body.encode('utf-8')
+                        self.send_response(200)
+                        self.send_header('Content-Type', 'text/html; charset=utf-8')
+                        self.send_header('Content-Length', str(len(data)))
+                        self.end_headers()
+                        self.wfile.write(data)
+                        return
+                super().do_GET()
+
+        httpd = socketserver.TCPServer(('127.0.0.1', 0), E2EHandler)
+        port = httpd.server_address[1]
+        t = threading.Thread(target=httpd.serve_forever, daemon=True)
+        t.start()
+
+        def run_chrome_e2e(page_rel):
+            res = subprocess.run(
+                [CHROME_BIN, '--headless=new', '--disable-gpu', '--no-sandbox', '--virtual-time-budget=3500', '--dump-dom', f'http://127.0.0.1:{port}/{page_rel}?__e2e_test=1'],
+                capture_output=True, text=True, timeout=20
+            )
+            m = re.search(r'<div id="__e2e_result__">([\s\S]*?)</div>', res.stdout)
+            if not m:
+                return None, f"Chrome E2E marker not found (exit={res.returncode})"
+            return json.loads(m.group(1)), None
+
+        try:
+            # 1. index.html live browser E2E
+            idx_res, idx_err = run_chrome_e2e('index.html')
+            if idx_err:
+                fail("F1: 実Chromeブラウザ起動・描画テスト (index.html)", idx_err)
+            else:
+                d = idx_res.get('details', {})
+                errs = idx_res.get('errors', [])
+                e2e_probs = []
+                if errs:
+                    e2e_probs.append(f"JS実行時エラー: {errs[:3]}")
+                if not d.get('noReferrer'):
+                    e2e_probs.append("no-referrerタグ未検出")
+                if not d.get('frontWord') or d.get('frontWord') == '単語':
+                    e2e_probs.append(f"フラッシュカード未描画 (frontWord='{d.get('frontWord')}')")
+                if not d.get('frontSpeakVisibleNormal'):
+                    e2e_probs.append("日本語表面で音声ボタン非表示")
+                if not d.get('frontSpeakHiddenInReverse'):
+                    e2e_probs.append("反転（非日本語表面）で音声ボタンが隠れていない")
+                if not d.get('frontSpeakRestoredNormal'):
+                    e2e_probs.append("日本語表面に戻した時、音声ボタンが復帰していない")
+                jlpt_c = d.get('jlptRenderedCounts', {})
+                if any(jlpt_c.get(lv, 0) == 0 for lv in ('N5', 'N4', 'N3', 'N2', 'N1')):
+                    e2e_probs.append(f"JLPT単語一覧の描画失敗: {jlpt_c}")
+                if not d.get('mylistRendered'):
+                    e2e_probs.append("マイリスト画面の表示失敗")
+                if e2e_probs:
+                    fail("F1: 実Chromeブラウザ起動・描画テスト (index.html)", "; ".join(e2e_probs))
+                else:
+                    ok(f"F1: 実Google Chrome E2E (index.html): JSエラー0件 / 表面「{d.get('frontWord')}」描画 / 反転時音声非表示 / JLPT全5レベル({jlpt_c})実描画 / マイリスト表示 すべてOK")
+
+            # 2. jlpt_n2_vocab_cards.html live browser E2E
+            fc_res, fc_err = run_chrome_e2e('jlpt_n2_vocab_cards.html')
+            if fc_err:
+                fail("F2: 実Chromeブラウザ起動・描画テスト (jlpt_n2_vocab_cards.html)", fc_err)
+            else:
+                fc_d = fc_res.get('details', {})
+                fc_errs = fc_res.get('errors', [])
+                if fc_errs or not fc_d.get('frontWord') or not fc_d.get('toggledFrontSpeakHidden'):
+                    fail("F2: 実Chromeブラウザ起動・描画テスト (jlpt_n2_vocab_cards.html)", f"errs={fc_errs}, details={fc_d}")
+                else:
+                    ok(f"F2: 実Google Chrome E2E (jlpt_n2_vocab_cards.html): JSエラー0件 / カード実描画 / 英➔日時音声ボタン自動非表示 OK")
+
+            # 3. app.html live browser E2E
+            ap_res, ap_err = run_chrome_e2e('app.html')
+            if ap_err:
+                fail("F3: 実Chromeブラウザ起動・描画テスト (app.html)", ap_err)
+            else:
+                ap_d = ap_res.get('details', {})
+                ap_errs = ap_res.get('errors', [])
+                if ap_errs or not ap_d.get('hasGoogleTts'):
+                    fail("F3: 実Chromeブラウザ起動・描画テスト (app.html)", f"errs={ap_errs}, details={ap_d}")
+                else:
+                    ok("F3: 実Google Chrome E2E (app.html 総合ポータル): JSエラー0件 / Google TTS関数ロード OK")
+        finally:
+            httpd.shutdown()
+    else:
+        warn("F1-F3: Google Chrome未検出", "実ブラウザE2Eテストをスキップ")
 
     # -----------------------------------------------------------------
     # Summary

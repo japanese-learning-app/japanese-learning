@@ -1,0 +1,60 @@
+{
+  "version": "2026-11-28",
+  "description": "ユーザーがこれまでに確認・修正依頼した全項目を永久保護するためのマスター台帳。今後新しい修正を行うたびにここへ追記し、scripts/verify_all_regressions.py で毎回自動検証する。",
+  "protected_fixes": [
+    {
+      "id": "FIX-001",
+      "category": "音声 (Google TTS)",
+      "requirement": "全HTMLファイルの<head>に <meta name=\"referrer\" content=\"no-referrer\"> を配置し、GitHub Pages上でのGoogle TTS 404ブロックを完全防止する",
+      "automated_check": "verify_all_regressions.py:A1 + Chrome E2E DOM check"
+    },
+    {
+      "id": "FIX-002",
+      "category": "音声 (Google TTS)",
+      "requirement": "ルビ(<rt>/<rp>)先行除去による二重読み防止、2文目日本語カット防止保護、160-170文字句読点チャンク分割連続再生、3.5秒タイムアウトフォールバック、二重再生防止、iOS一時停止解除",
+      "automated_check": "verify_all_regressions.py:A2-A5"
+    },
+    {
+      "id": "FIX-003",
+      "category": "音声 (不気味ボイス排除)",
+      "requirement": "フラッシュカード表面が日本語以外（英語・中国語・韓国語・フランス語等全言語）の時は表面スピーカーボタンを非表示＆外国語読み上げ無効化（裏面の日本語のみ再生）。さらに全160+ページでen-US Web Speechを撤廃し、macOS不気味ボイス(Albert/Bad News/Jester/Whisper/Eddy/Grandma等)を完全除外し、敬語ドリルもGoogle TTS優先化",
+      "automated_check": "verify_all_regressions.py:A6 + D5 + Chrome E2E reverse mode check"
+    },
+    {
+      "id": "FIX-004",
+      "category": "フラッシュカード実画面表示",
+      "requirement": "index.html / js/app.js および全JS・全HTMLインラインスクリプトに構文エラー・実行時エラーが0件であり、実ブラウザ（Google Chrome）でフラッシュカードが確実に描画・操作できること",
+      "automated_check": "verify_all_regressions.py:B1 + Chrome E2E boot & render test"
+    },
+    {
+      "id": "FIX-005",
+      "category": "フラッシュカードUX",
+      "requirement": "ルビ選択・コピー除外CSS、ローマ字読み変換＆裏面「読み方 (Reading)」ラベル、末尾→先頭ループ、タブ切替時のカード位置保持、進捗バー、意味欄と「vs/使い分け」関連欄の分離、壊れた<ruby>/裸の<rt>0件",
+      "automated_check": "verify_all_regressions.py:B2-B6"
+    },
+    {
+      "id": "FIX-006",
+      "category": "フラッシュカード内JLPTタブ",
+      "requirement": "JLPTタブから練習問題バナー（語彙穴埋め・文法穴埋め・読解・聴解）を完全削除しフラッシュカード専用バナー（N5-N1選択連動）のみにする。window.JLPT_VOCAB公開＆getJlptVocabDb()によりN5〜N1全5レベル（10,971語）の単語一覧が確実に表示されること",
+      "automated_check": "verify_all_regressions.py:B7-B8 + Chrome E2E N5-N1 tab render test"
+    },
+    {
+      "id": "FIX-007",
+      "category": "生徒マイリスト＆データ保護",
+      "requirement": "全登録生徒（0001〜0028、保護ベースライン14名・Arun 571語/Midori 391語/Daniel 227語等）のカード数・4層永久保護（v67_permanent_future_word_protection / 非破壊ユニオン / クラウド同期）を100%無傷で維持し、公開HTMLに管理者パスコードを露出しない",
+      "automated_check": "verify_all_students_integrity.py + verify_all_regressions.py:C2"
+    },
+    {
+      "id": "FIX-008",
+      "category": "JLPT N1〜N5 全教材",
+      "requirement": "N1〜N5全35教材ページ実在、絵文字ファイル名リンク(404原因)0件、文法クイズ構文・ネタバレ防止、語彙カード10/30/50問テスト＆双方向切替、模試の二重下線防止(1.5px #14778B)＆IRT注記",
+      "automated_check": "verify_all_regressions.py:D1, D1b, D2, D4, D5 + Chrome E2E N2 vocab cards check"
+    },
+    {
+      "id": "FIX-009",
+      "category": "総合ポータル・書き取り・助詞・敬語",
+      "requirement": "app.htmlの主要モジュール（フラッシュカード導線・JLPT・敬語・弱点克服助詞マスター・かな書き取り2マス対応＆答え/Replay配置）維持、ルート↔public/完全同期、原本はGitHub/japanese-learning一本化",
+      "automated_check": "verify_all_regressions.py:E1-E3 + Chrome E2E app.html boot check"
+    }
+  ]
+}
